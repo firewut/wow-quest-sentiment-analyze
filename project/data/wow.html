@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Wow Quest Sentiment Analysis</title>
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.2/semantic.min.css" charset="utf-8" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/semantic-ui/2.2.2/semantic.min.js" charset="utf-8"></script>
+	        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/prism.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/components/prism-bash.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/components/prism-json.min.js"></script>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/themes/prism-okaidia.min.css" charset="utf-8" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/4.2.5/highcharts.js"></script>
+	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/4.2.5/themes/default.js"></script> -->
+</head>
+<body class="ui container">
+
+ 	<div class="ui center aligned" style="margin-top:1em">
+		<div id="container" style="height: 300px; min-width: 800px"></div>
+	</div>
+
+	<script>
+		DATA_LABELS = []
+		for (var i = 1; i <= 110; i++) {
+		    DATA_LABELS.push(i);
+		}
+
+		$(function () {
+			$.getJSON('wow-quest-series.txt', function(data) {
+				$('#container').bind('mousemove touchmove touchstart', function (e) {
+			        var chart,
+			            point,
+			            i,
+			            event;
+
+			        for (i = 0; i < Highcharts.charts.length; i = i + 1) {
+			            chart = Highcharts.charts[i];
+			            event = chart.pointer.normalize(e.originalEvent); // Find coordinates within the chart
+			            point = chart.series[0].searchPoint(event, true); // Get the hovered point
+
+			            if (point) {
+			                point.highlight(e);
+			            }
+			        }
+			    });
+			    /**
+			     * Override the reset function, we don't need to hide the tooltips and crosshairs.
+			     */
+			    Highcharts.Pointer.prototype.reset = function () {
+			        return undefined;
+			    };
+
+			    /**
+			     * Highlight a point by showing tooltip, setting hover state and draw crosshair
+			     */
+			    Highcharts.Point.prototype.highlight = function (event) {
+			        this.onMouseOver(); // Show the hover marker
+			        this.series.chart.tooltip.refresh(this); // Show the tooltip
+			        this.series.chart.xAxis[0].drawCrosshair(event, this); // Show the crosshair
+			    };
+
+			    /**
+			     * Synchronize zooming through the setExtremes event handler.
+			     */
+			    function syncExtremes(e) {
+			        var thisChart = this.chart;
+
+			        if (e.trigger !== 'syncExtremes') { // Prevent feedback loop
+			            Highcharts.each(Highcharts.charts, function (chart) {
+			                if (chart !== thisChart) {
+			                    if (chart.xAxis[0].setExtremes) { // It is null while updating
+			                        chart.xAxis[0].setExtremes(e.min, e.max, undefined, false, { trigger: 'syncExtremes' });
+			                    }
+			                }
+			            });
+			        }
+			    }
+
+			    $.each(data, function(i, dataset){
+		        	$('<div class="chart">')
+		                .appendTo('#container')
+		                .highcharts({
+		                    chart: {
+		                    	type: "spline",
+		                        marginLeft: 40, // Keep all charts left aligned
+		                        spacingTop: 20,
+		                        spacingBottom: 20,
+		                        zoomType: 'xy',
+		                    },
+		                    title: {
+		                        text: dataset.name,
+		                        align: 'left',
+		                        margin: 0,
+		                        x: 30
+		                    },
+		                    credits: {
+		                        enabled: false
+		                    },
+		                    legend: {
+		                        enabled: false
+		                    },
+		                    xAxis: {
+		                        crosshair: true,
+		                        events: {
+		                            setExtremes: syncExtremes
+		                        },
+		                        min: 1
+		                    },
+		                    yAxis: {
+		                        title: {
+		                            text: null
+		                        },
+		                    },
+		                    tooltip: {
+		                        positioner: function () {
+		                            return {
+		                                x: this.chart.chartWidth - this.label.width, // right aligned
+		                                y: -1 // align to title
+		                            };
+		                        },
+		                        borderWidth: 0,
+		                        backgroundColor: 'none',
+		                        pointFormat: 'Level: {point.x}, Sentiment: {point.y:,.3f}',
+		                        headerFormat: '',
+		                        shadow: false,
+		                        style: {
+		                            fontSize: '18px'
+		                        }
+		                    },
+		                    series: [{
+		                        data: dataset.data,
+		                        name: dataset.name,
+		                        color: dataset.color,
+		                        fillOpacity: 0.3,
+		                    }]
+		                });
+		        });
+	        });
+    	})
+	</script>
+</body>
+</html>
