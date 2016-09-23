@@ -1,0 +1,7 @@
+{
+    "_id": "27324",
+    "description": "One of the most accomplished Grimtotem leaders of the Stonetalon Mountains has returned home.We must make the most of this chance and put an end to his campaign of terror once and for all.",
+    "name": "Grimtotem Chiefs: Grundig Darkcloud",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

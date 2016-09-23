@@ -1,0 +1,8 @@
+{
+    "_id": "14278",
+    "description": "Most of us made it here alive... but there are worgen on this side of the city as well.We're going to continue heading south once everyone's accounted for.That reminds me, someone was asking about you.  A member of the clergy, Sister Almyra, said that you were in great peril and needed the Light's protection.You should go talk to her.  She seemed very concerned.",
+    "name": "Seek the Sister",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

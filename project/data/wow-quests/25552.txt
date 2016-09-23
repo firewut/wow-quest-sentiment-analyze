@@ -1,0 +1,7 @@
+{
+    "_id": "25552",
+    "description": "This egg you recovered is an alarming sign, <name>.  The Twilight dragons are usually raised from stolen eggs from other dragonflights, which are then modified through dark magic.This \"natural\" egg is evidence that one of their matriarchs has become a viable broodmother.  We must destroy her before her brood spreads.Go to the Ascendant's Rise where they claim these aberrations are kept and slay one of the juvenile drakes.  We will use its skull to lure out its mother.",
+    "name": "Brood of Evil",
+    "requires_level": 78,
+    "zone": "Mount Hyjal"
+}

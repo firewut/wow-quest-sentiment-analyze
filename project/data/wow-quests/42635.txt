@@ -1,0 +1,8 @@
+{
+    "_id": "42635",
+    "added_in_patch": 7,
+    "description": "Well met, good chap!\r\n\r\nI was on my way to study the local murlocs when I stumbled upon these most peculiar ruins. Those pirates over yonder arrived first, and it appears they've unleashed some ancient evil.\r\n\r\nI would be remiss to let such an evil run rampant, but we should learn more of it before we proceed, lest we end up like those chaps.\r\n\r\nI spied the crew bringing back some tablets from the ruins. If you can bring them to me, I may be able to decipher the nature of this evil.",
+    "name": "The Mystery of Dreyrgrot",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

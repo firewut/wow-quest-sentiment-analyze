@@ -1,0 +1,7 @@
+{
+    "_id": "27426",
+    "description": "The Grimtotems may be the most warlike of all the tauren clans, but they're by no means unorganized. If they're the ones who put the torch to the Shady Rest Inn, they'll have had orders from one of their clan elders.There's a large Grimtotem settlement called Blackhoof Village to the northwest. They've been using it as a base to attack the tower, but I'll bet that you'll find the orders you're looking for there. Check the village's elders for traces of the orders you seek.",
+    "name": "Confirming the Suspicion",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

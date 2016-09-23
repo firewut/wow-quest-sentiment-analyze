@@ -1,0 +1,8 @@
+{
+    "_id": "41772",
+    "added_in_patch": 7,
+    "description": "As we speak, an endless war rages for control of the Firelands. Of the two aspiring Firelords, Lord Smolderon hates mortals less.If we help him defeat his rival and ascend to Firelord, he may unite with us in return.The champions of the Earthen Ring have already made their way to the Firelands. Go and meet with Rehgar Earthfury and find a way to turn an old enemy into a new ally.If anyone can succeed at this impossible task, I have faith that it is you, Farseer.May the elements be with you.",
+    "name": "Ascendant of Flames",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

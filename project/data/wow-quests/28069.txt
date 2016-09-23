@@ -1,0 +1,7 @@
+{
+    "_id": "28069",
+    "description": "The Warchief has requested that any able-bodied adventurer head to Blackrock Depths, west of Flame Crest, immediately!The Dark Iron dwarves have already attacked Alliance-held Redridge, and if left unchecked, may soon threaten our few Horde footholds in southern Azeroth.If you so choose, head to Blackrock Depths and speak with High Executioner Nuzrak, who is reforming the Kargath Expeditionary Force to finish off the Dark Irons once and for all.",
+    "name": "Adventurers Wanted: Blackrock Depths",
+    "requires_level": 49,
+    "zone": "Blackrock Depths"
+}

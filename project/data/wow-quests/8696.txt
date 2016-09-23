@@ -1,0 +1,7 @@
+{
+    "_id": "8696",
+    "description": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, <name>.  I can make you a protective item that'll be of assistance in the fight against our enemy, <class>.I shall need a Qiraji drape, which I'll resize for you of course.  I'll also need idols and scarabs which I'll use to create a suitable clasp.I promise you won't be disappointed.",
+    "name": "Cloak of the Unseen Path",
+    "requires_level": 60,
+    "zone": "Quests"
+}

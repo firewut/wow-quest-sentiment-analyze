@@ -1,0 +1,7 @@
+{
+    "_id": "25772",
+    "description": "A glimmering sphere sits before you.  You sense that this item would be of great value to someone within the Blasted Lands.",
+    "name": "Kum'isha's Endeavors",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

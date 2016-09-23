@@ -1,0 +1,7 @@
+{
+    "_id": "27101",
+    "description": "The notes continue Maziel's rambling research into the properties of quicksilver and mercurial oozes.He appears to have made a major discovery.  He mentions hiding his journal in the Lower Silvermarsh to the southwest.",
+    "name": "Maziel's Revelation",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

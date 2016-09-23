@@ -1,0 +1,7 @@
+{
+    "_id": "12123",
+    "description": "<The dragon steward pulls your letter of introduction out of his sleeve.>Yes... yes, I think that you are ready to see the queen now.When you are ready, speak to me again and I will see to it that one of these drakes delivers you safely to the top of the temple. You will need to present your letter in person to Queen Alexstrasza.",
+    "name": "Informing the Queen",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

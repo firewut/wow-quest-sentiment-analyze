@@ -1,0 +1,7 @@
+{
+    "_id": "13343",
+    "description": "There you are! Or, were we just talking?<Chromie muses over the temporal possibilities.>Anyway, the Infinites are after you! Well, not you per-se. Rather, they're after the past version of you that defended the Hourglass of Eternity. You remember, right?That was you back then, except it's you now too. Wait, that's not important. What is important is that you head back to the Bronze Dragonshrine and defend yourself and the hourglass from their attacks before you get erased from history!",
+    "name": "Mystery of the Infinite, Redux",
+    "requires_level": 80,
+    "zone": "Dragonblight"
+}

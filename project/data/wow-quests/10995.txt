@@ -1,0 +1,7 @@
+{
+    "_id": "10995",
+    "description": "To the east, at the terminus of Dragons' End, is the Cursed Hollow.  Therein, Grulloc, son of Gruul, plots his dimwitted schemes.I heard that one of his possessions was stolen from him through trickery.  Was that you?  Unfortunate that he was not slain in the process.If we are to regain our freedom, I would have you take his most prized possession, a dragon skull from when he rejoiced in his father's slaying of the black dragonflight.  The only way you'll get the skull is to vanquish him.",
+    "name": "Grulloc Has Two Skulls",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

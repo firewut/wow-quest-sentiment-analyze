@@ -1,0 +1,8 @@
+{
+    "_id": "30360",
+    "added_in_patch": 5,
+    "description": "My father gave me his life. Tyrande gave me her trust. My sentinels gave me their allegiance.It is time I repaid them all.With Brojai dead we can mop up the remaining mogu. The next threat is the mantid.Go north to Stoneplow and lend them your help. Tell them I will be bringing what sentinels I can muster to aid in the defense of their city against the mantid.",
+    "name": "Warn Stoneplow",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

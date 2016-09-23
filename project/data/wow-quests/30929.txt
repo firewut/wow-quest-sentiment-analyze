@@ -1,0 +1,8 @@
+{
+    "_id": "30929",
+    "added_in_patch": 5,
+    "description": "Is this the place where they replace defective yaks?Can anybody help me out, here?",
+    "name": "Bad Yak",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

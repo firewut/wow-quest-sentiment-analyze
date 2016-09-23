@@ -1,0 +1,8 @@
+{
+    "_id": "12492",
+    "description": "Coren Direbrew's corpse clutched this small cask tightly to its gut.  This must be his infamous Dire Brew!",
+    "name": "Direbrew's Dire Brew",
+    "requires_level": 75,
+    "side": "horde",
+    "zone": "Brewfest"
+}

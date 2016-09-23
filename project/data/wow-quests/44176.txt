@@ -1,0 +1,8 @@
+{
+    "_id": "44176",
+    "added_in_patch": 7,
+    "description": "This chest could prove very useful to our efforts. Take the chest back to Shal'aran.",
+    "name": "The Conveniences of Home",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

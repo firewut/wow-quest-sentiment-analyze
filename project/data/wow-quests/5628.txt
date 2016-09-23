@@ -1,0 +1,7 @@
+{
+    "_id": "5628",
+    "description": "Ah, yes, hello, <name>? I'm glad you stopped to talk for a moment. You are a far way from home at such a young age--I admire such ambition. I wish when I was younger I could have mustered the courage to travel the world.There was a priestess of your order here looking for you not too long ago. She said it was very urgent you returned to the Temple of the Moon in Darnassus and speak to Priestess Alathea--it had something to do with your training. I wouldn't dally too long if you can help it.",
+    "name": "Returning Home",
+    "requires_level": 10,
+    "zone": "Priest"
+}

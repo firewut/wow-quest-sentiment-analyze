@@ -1,0 +1,8 @@
+{
+    "_id": "39195",
+    "description": "Commander! I've noticed you have been keeping up with your jewelcrafting, despite all of this war going on. I find that to be most admirable.I overheard some of the arakkoa discussing a gemcutting device that they believe is located within Tanaan Jungle. They got their information from one named \"Chakkis.\"Just thought you might be interested.",
+    "name": "Gems of the Apexis",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Jewelcrafting"
+}

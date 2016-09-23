@@ -1,0 +1,8 @@
+{
+    "_id": "42377",
+    "added_in_patch": 7,
+    "description": "We must reclaim the Silver Hand before those with evil intent can seize it. To free it from its wards, we need relics called the Sparks of Tyr. I have one, as does my brother, Galford.He journeyed to Northrend to seek aid from the Tyr's homeland, but has not returned.I must ask you to find him, and his Spark.",
+    "name": "The Brother's Trail",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

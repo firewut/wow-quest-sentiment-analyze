@@ -1,0 +1,8 @@
+{
+    "_id": "40525",
+    "added_in_patch": 7,
+    "description": "I like our dynamic, <name>. You're the muscle with all the hustle! And I'm the brains who entertains!I think this next task is all on you. Try to find that ring, or whatever the murlocs left of it.",
+    "name": "Getting the Band Back Together",
+    "requires_level": 98,
+    "zone": "Jewelcrafting"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10750",
+    "description": "Word has come from my wind riders, <name>. The Eclipsion blood elves are planning something big. They have begun forming their armies at the Path of Conquest, far to the southeast - adjacent to Eclipse Point.I want you to travel to the Path of Conquest and assess the situation. Once you have done so, use this flare gun to signal a wind rider. One will swoop down from the sky to meet you. Inform them of what you have discovered and they will give you your next set of orders.",
+    "name": "The Path of Conquest",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

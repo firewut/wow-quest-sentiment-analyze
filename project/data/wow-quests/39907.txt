@@ -1,0 +1,8 @@
+{
+    "_id": "39907",
+    "added_in_patch": 7,
+    "description": "You have earned the marks of my most trusted companions. You have also returned my love to me.I am fortunate to have met you, <name>.Now return to your master and let him know of what you have learned.",
+    "name": "Elven Enchantments",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

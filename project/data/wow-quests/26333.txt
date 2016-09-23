@@ -1,0 +1,8 @@
+{
+    "_id": "26333",
+    "description": "We've lost more than a couple scouts trying to find out what exactly Razlo Crushcog plans to do with all those mechano-tanks his irradiated technicians are repairing.We can't afford to take it slowly anymore. We must act before Crushcog turns his followers and his weapons on us.This techno-grenade packs enough explosive power to destroy the mechano-tanks and deny Crushcog their use. Take it north with you along the road to Crushcog's Arsenal and take out those tanks!",
+    "name": "No Tanks!",
+    "requires_level": 3,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

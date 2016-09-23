@@ -1,0 +1,8 @@
+{
+    "_id": "30582",
+    "added_in_patch": 5,
+    "description": "This well worn trinket has several markings on it confessing love and adoration from the late Mrs. Muskpaw.Perhaps Lao would like his wife's trinket back.",
+    "name": "The Late Mrs. Muskpaw",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

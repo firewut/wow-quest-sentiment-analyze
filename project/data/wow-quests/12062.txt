@@ -1,0 +1,7 @@
+{
+    "_id": "12062",
+    "description": "Coren Direbrew is in the next room, riling up Dark Iron dwarves for another attack on Brewfest.  Defeat him!Go to Coren and pick a fight.  Tell him his beer isn't fit for pigs.When you do that, be ready for a fight.  The last person who insulted his brew... was fed to dire boars.",
+    "name": "Insult Coren Direbrew",
+    "requires_level": 75,
+    "zone": "Brewfest"
+}

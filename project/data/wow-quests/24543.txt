@@ -1,0 +1,8 @@
+{
+    "_id": "24543",
+    "description": "The children you see here were all rescued from Taurajo when the fighting started. I'm trying to track down their parents.One of the refugees you rescued from the quilboar recognized the strongest child as belonging to Kirge and Mawre Sternhorn. Moreover, he said Kirge was camped at the Fields of Blood, just north of the Taurajo massacre site.<name>, please go there and tell Kirge Sternhorn that his child is alive and well!",
+    "name": "A Family Divided",
+    "requires_level": 30,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

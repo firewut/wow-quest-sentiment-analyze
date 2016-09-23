@@ -1,0 +1,7 @@
+{
+    "_id": "8491",
+    "description": "The springpaw that inhabit this region are known for their high quality pelts.  We've even seen night elf scum travel to these lands just to poach them.Our skirmishes with the Amani have put a bit of a strain on our supply of gear and our rangers don't have much time to hunt for pelts anymore.  If you'd be willing to lend a hand by collecting springpaw pelts, I'd be happy to reward you with a hand-crafted piece of armor.  You'll find springpaw stalkers all around the woods north of here.",
+    "name": "Pelt Collection",
+    "requires_level": 4,
+    "zone": "Eversong Woods"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31324",
+    "added_in_patch": 5,
+    "description": "Our secret recipes! I was gathering them up. But then... hozen?<Auntie looks very confused.>How is Gao to brew anything? He needs those recipes or disaster is sure to strike!",
+    "name": "Family Secrets",
+    "requires_level": 85,
+    "zone": "Quests"
+}

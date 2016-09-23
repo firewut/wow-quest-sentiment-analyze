@@ -1,0 +1,8 @@
+{
+    "_id": "26295",
+    "description": "We've noticed a rise in violent acts amongst the homeless of the area. Something or someone is getting them all riled up. Now whoever is behind all this is getting more organized. Just recently a group of thugs came through here handing out pamphlets.Enter Moonbrook and look for evidence. Propaganda, leaflets, whatever... Bring whatever you find back to me. Maybe we can find the source through the writings.",
+    "name": "Propaganda",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Westfall"
+}

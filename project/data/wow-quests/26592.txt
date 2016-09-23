@@ -1,0 +1,7 @@
+{
+    "_id": "26592",
+    "description": "To properly identify this artifact, I will need tools for analysis.  A diffractory chromascope should suffice, I think.I already have the mithril casing, which surprisingly, is the hardest part to find.  We simply need two other pieces: a ruby and a sapphire.There's pirates nearby, just to our south, and a bit farther to the east.  Pirates love treasure... why don't you see if you can find some gems for me?",
+    "name": "Diffractory Chromascope",
+    "requires_level": 26,
+    "zone": "The Cape of Stranglethorn"
+}

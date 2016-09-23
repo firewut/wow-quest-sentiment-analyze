@@ -1,0 +1,8 @@
+{
+    "_id": "30460",
+    "added_in_patch": 5,
+    "description": "Our warriors are fighting to keep the yaungol at bay in the Kun-Lai Pass to the northwest.Take this liniment.  It is a powerful medicine that has been passed down in my family over the generations.Use the dit da jow to heal the injured warriors if you do not have healing powers of your own to use on them.",
+    "name": "Hit Medicine",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

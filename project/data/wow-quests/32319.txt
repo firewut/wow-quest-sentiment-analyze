@@ -1,0 +1,8 @@
+{
+    "_id": "32319",
+    "added_in_patch": 5.1,
+    "description": "<Vol'jin half opens an eye and begins to move his lips as if to speak.  Though no sound comes, you decipher two words.>Find Thrall.<With an effort, Vol'jin thrusts a hearthstone into your hands and then passes out.>",
+    "name": "Find Thrall!",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

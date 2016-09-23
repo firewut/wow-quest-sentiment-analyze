@@ -1,0 +1,7 @@
+{
+    "_id": "10271",
+    "description": "As you've no doubt seen, the area is teeming with nether dragons in various stages of growth. All nether dragons, young and old, contain an essence that's highly desired by K -- err, by a client of mine.Most people aren't willing to risk their lives to gather it, so we've got the place to ourselves. You can start by gathering the essence from any of the creatures out here, but it's imperative that we start building a supply right away. Return to me once you have the first batch.",
+    "name": "Getting Down to Business",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

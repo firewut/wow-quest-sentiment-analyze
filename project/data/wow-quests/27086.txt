@@ -1,0 +1,7 @@
+{
+    "_id": "27086",
+    "description": "To the west, deep within Alliance-held Andorhal, you will find their commanders.  They do not fight, but call out orders from horseback.Hunt down and slay these commanders, <name>.  The humans won't stand a chance.",
+    "name": "Ashes to Ashes",
+    "requires_level": 38,
+    "zone": "Western Plaguelands"
+}

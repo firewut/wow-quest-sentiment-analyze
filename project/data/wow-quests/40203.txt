@@ -1,0 +1,8 @@
+{
+    "_id": "40203",
+    "added_in_patch": 7,
+    "description": "As you know, the durability of your armor is only as strong as the materials you use to make them.Long ago, the black dragon, Deathwing once inhabited this very mountain. In his quest for power, his body began to tear and he had creatures make metal scales to stitch his wounds.His natural scales fell to the ground in his lair and have been there ever since. Go retrieve a scale and bring it to me.This will take all your strength to accomplish.",
+    "name": "Strength of the Past",
+    "requires_level": 108,
+    "zone": "Leatherworking"
+}

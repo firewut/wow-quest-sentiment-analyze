@@ -1,0 +1,8 @@
+{
+    "_id": "37860",
+    "added_in_patch": 7,
+    "description": "Much better. I knew I could count on you, my friend. Allow me to return the favor.I know how you can destroy the large mana collector pylons. We shall save your dragon yet!The pylons only work against ground targets, yet they're defenseless from above. Send your whelplings at them, my friend. The whelplings can fly where we cannot.Trust me.",
+    "name": "You Scratch My Back...",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

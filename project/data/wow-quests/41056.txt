@@ -1,0 +1,9 @@
+{
+    "_id": "41056",
+    "added_in_patch": 7,
+    "description": "Malfurion, my love...In vision I saw him, enraged and then distressed, and now lost beyond my mind's reach.He is strong, but the horrors that have befallen this land are all-consuming.I must find him, and you must help me!Gather your wits, <race>, and follow me.",
+    "name": "Love Lost",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Val'sharah"
+}

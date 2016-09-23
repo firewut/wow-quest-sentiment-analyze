@@ -1,0 +1,7 @@
+{
+    "_id": "9631",
+    "description": "There is a small detail I've forgotten to take into account.  The residue of Medivh's essence contained in this bone fragment is completely devoid of life - just like Arcanagos.There is a way, however.  And I know just the person to help us.Travel to Area 52 in Netherstorm and show the bone fragment to Kalynna Lathred.  She will know just what to do.",
+    "name": "A Colleague's Aid",
+    "requires_level": 70,
+    "zone": "Netherstorm"
+}

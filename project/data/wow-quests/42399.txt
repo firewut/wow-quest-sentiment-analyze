@@ -1,0 +1,8 @@
+{
+    "_id": "42399",
+    "added_in_patch": 7,
+    "description": "If Baron's ready to work, I am too.We'll make our way to the hunter's lodge as soon as I pack up camp and get this dog fed. I'm sure with all that digging, he'll have a hearty appetite.",
+    "name": "Ready to Work",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

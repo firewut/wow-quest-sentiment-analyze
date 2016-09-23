@@ -1,0 +1,8 @@
+{
+    "_id": "33337",
+    "added_in_patch": 5.4,
+    "description": "Look at how the Vision reacts! Astounding! Even now it shows shadows of timeways that flit around us constantly. Though not true sands of the Hourglass of Time, the finely-ground epoch stones certainly have a power all their own. Our first task is to use them to calibrate the Vision of Time.Take the Vision of Time to a location where history is in the making: the Siege of Orgrimmar. Once there, turn the hourglass and see what happens.",
+    "name": "A Vision in Time",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

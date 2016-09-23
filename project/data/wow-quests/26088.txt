@@ -1,0 +1,7 @@
+{
+    "_id": "26088",
+    "description": "<Orako rolls the glow-juice into a ball, then attaches it to a device that he's clearly been working on for a long time.>Here, I got you this hat.  It has a light on it, and it will make fish follow you.  Just like the murlocs!The murlocs like to hunt in the kelp and coral along the sides of the canyon.  If you put on this hat and swim in that kelp, you might catch some fish like they do.",
+    "name": "Here Fishie Fishie",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

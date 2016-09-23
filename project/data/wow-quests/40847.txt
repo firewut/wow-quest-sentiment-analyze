@@ -1,0 +1,8 @@
+{
+    "_id": "40847",
+    "added_in_patch": 7,
+    "description": "I'd like to offer ya an accord.The Dread Admiral Eliza wields a pair of cursed blades that have made her the scourge of the south seas. She also stole one of me best ships - the Horizon's Edge - and has it anchored off the shore of Azsuna as we speak. If you help me take back me ship, then her cursed blades are yours.Now, assuming that sounds agreeable, meet me aboard the Crimson Veil. We have her docked right in Booty Bay - not a cheap arrangement.",
+    "name": "A Friendly Accord",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

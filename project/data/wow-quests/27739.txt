@@ -1,0 +1,8 @@
+{
+    "_id": "27739",
+    "description": "<name>, I'm afraid I must ask of you the impossible.I received my eyepatch because he willed it so. Countless thousands have perished to his wrath. It was only by sheer miracle that we were able to imprison him here.Doing so was a grave mistake. We held out as long as we could, but then they came. From the shadows and darkness, gnolls in service of Hogger ripped my best men to pieces.You must defeat the Gnoll King, lest he mounts another attack and slaughters us all in cold, bloodthirsty rage.",
+    "name": "The Gnoll King",
+    "requires_level": 20,
+    "side": "alliance",
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9253",
+    "description": "This increase in Scourge attacks leads me to believe there might be a malfunction at one of the protective runestones at the border with the Ghostlands.We used these ancient stones to protect us against the undead.  Most of them were destroyed or lost after the attack on the Sunwell. Follow the road south, towards the Ghostlands, and look to the west for a small path.  You will find Runewarden Deryan by the runestone nearby; he will know whether anything's wrong.",
+    "name": "Runewarden Deryan",
+    "requires_level": 8,
+    "zone": "Eversong Woods"
+}

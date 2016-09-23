@@ -1,0 +1,7 @@
+{
+    "_id": "12856",
+    "description": "To be slain honorably on the field of battle brings us all glory. To be frozen in a block of ice and endlessly taunted does not....You are to fly to the frost giant city of Dun Niffelem, just east of the Valley of Ancient Winters, and liberate our captive proto-drakes. With them, you will be able to free our sisters from their frozen bonds and carry them safely home.Beware the giants' clubs, sister, lest you find yourself numbered among the captives.",
+    "name": "Cold Hearted",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

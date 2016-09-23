@@ -1,0 +1,8 @@
+{
+    "_id": "29865",
+    "added_in_patch": 5,
+    "description": "West of here is the Silkwood Road. It has fallen into shadow as the spiders there have turned to a more evil and gluttonous path.I would face these villains myself but someone has to defend the noodle shop from... um... dangers and such.Go, hero, and conquer these beasts! Should you succeed perhaps I shall regale you with some of my epic tales of heroism.I'll also pay you.",
+    "name": "The Silkwood Road",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

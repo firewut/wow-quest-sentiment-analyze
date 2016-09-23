@@ -1,0 +1,8 @@
+{
+    "_id": "30788",
+    "added_in_patch": 5,
+    "description": "The leader of the yaungol mist-shaman is named Jahesh. He is known for his strength.One of my kind is also known for his strength. His name is Golgoss.Golgoss sleeps within the mists of the Upper Sumprushes. Help me to summon him, and he will join me in avenging our people.",
+    "name": "Golgoss",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

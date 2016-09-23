@@ -1,0 +1,8 @@
+{
+    "_id": "26112",
+    "description": "So just how did all those Dark Iron warriors end up here, on the doorstep of Ironforge, on the verge of invading our city?Does not 'Empress' Moira, a member of our esteemed Council of Three Hammers, rule the Dark Iron? This cannot have happened without her knowledge and consent. This was no ragtag band of rebel dwarves, but a well-organized and fully equipped invasion force.I have prepared a report on the battle for the airfield. Take it to Ironforge, to the High Seat and confront her!",
+    "name": "Demanding Answers",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

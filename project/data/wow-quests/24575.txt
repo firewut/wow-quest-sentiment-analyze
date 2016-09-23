@@ -1,0 +1,8 @@
+{
+    "_id": "24575",
+    "description": "We recently found out that the villagers at Emberstone survived most of the ravages of the Curse.Unfortunately their village wasn't as fortunate when it came to the Forsaken invasion.The Forsaken have taken the villagers prisoner and are forcing them to work the nearby mine as slaves.",
+    "name": "Liberation Day",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

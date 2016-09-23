@@ -1,0 +1,7 @@
+{
+    "_id": "11423",
+    "description": "As our armies march through Northrend, our enemies will not suffer mere defeat.  Their houses will burn, their corpses will be devoured by our plagues, all trace of their existence will be lost.This worries me as a seeker of knowledge.  The eastern town of Nifflevar will soon be razed by our forces in Vengeance Landing.  The vrykul bard, Helgus, lived there and wrote three sagas: the Saga of the Twins, the Saga of the Winter Curse and the Saga of the Val'kyr.  Obtain them before Nifflevar is destroyed.",
+    "name": "The Enemy's Legacy",
+    "requires_level": 70,
+    "zone": "Howling Fjord"
+}

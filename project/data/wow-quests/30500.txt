@@ -1,0 +1,8 @@
+{
+    "_id": "30500",
+    "added_in_patch": 5,
+    "description": "Pandaria is a mystical land, traveler.It bears repeating that some of its secrets remain hidden, even to Lorewalkers.Sealing those fissures did not mend what has been broken. If the legends are true, it will take much more to release this land from the grasp of the Sha.The aggression of that battle awakened a host of living negative emotions. What you see here is likely the first of many such manifestations.For now, we can only try to diminish their presence here.",
+    "name": "Residual Fallout",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30329",
+    "added_in_patch": 5,
+    "description": "A certain few pandaren around here prefer their dishes unbearably spicy. Unfortunately, my access to such peppers is limited.The Kunzen hozen, in the mountains to the west, often carry cindergut peppers. A few of those and I'll be set for a few days.Say, could you collect some for me? You might want to wear gloves if you'll be handling them directly.",
+    "name": "Cindergut Peppers",
+    "requires_level": 90,
+    "zone": "Cooking"
+}

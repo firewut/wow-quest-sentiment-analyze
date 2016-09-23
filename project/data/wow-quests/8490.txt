@@ -1,0 +1,7 @@
+{
+    "_id": "8490",
+    "description": "Ancient runestones once powered a protective barrier across the Eversong border.  Many were destroyed during Arthas' attack; others were stolen.Of the three that remain, only this one has retained its powers.  The runestone to the east might be salvageable, though.Take this crystal and instill its energy on the Eastern Runestone.  The process should take but a minute.  Beware though, nearby Scourge will be drawn to it and will seek to destroy it.  Do not let them! ",
+    "name": "Powering our Defenses",
+    "requires_level": 8,
+    "zone": "Eversong Woods"
+}

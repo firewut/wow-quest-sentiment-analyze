@@ -1,0 +1,7 @@
+{
+    "_id": "14334",
+    "description": "Ahoy, mon!You think you be able ta do something for da village here?Most whales we can handle fine, but there be a special whale out there that be too big for our spears.Blubbergut been gettin' bigger an' bigger - eatin' up the fish we use to live on!Get out there and find the thing, then make him pay for his gluttony!",
+    "name": "Blubbergut",
+    "requires_level": 30,
+    "zone": "Desolace"
+}

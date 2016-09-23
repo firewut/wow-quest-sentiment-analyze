@@ -1,0 +1,8 @@
+{
+    "_id": "39437",
+    "added_in_patch": 7,
+    "description": "We're getting tired of those murlocs. They skitter around the cavern like they own it. They stole some of our most precious relics and got their fishy fins all over them. \r\n\r\nKill a few of them so they know they don't run things around here.",
+    "name": "Deep in the Cavern",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

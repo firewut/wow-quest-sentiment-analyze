@@ -1,0 +1,7 @@
+{
+    "_id": "11533",
+    "description": "We've taken the armory from the enemy thanks to our aerial attacks against the Legion's forces in the Dead Scar.As a matter of fact, it's gone so well that we're going to continue our air strikes against them.  Take these arcane charges and use them against their forces.Talk to Ayren Cloudbreaker at the Sun's Reach Harbor when you're ready for flight.",
+    "name": "The Air Strikes Must Continue",
+    "requires_level": 70,
+    "zone": "Isle of Quel'Danas"
+}

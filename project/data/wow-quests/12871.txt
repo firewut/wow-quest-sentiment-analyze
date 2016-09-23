@@ -1,0 +1,7 @@
+{
+    "_id": "12871",
+    "description": "Interesting. I don't see any locking mechanisms on the shell. That suggests to me that it may take more than just finding the other piece to combine the keystone.Take the shell back to the expedition leader, Lagnus, at Frosthold. Once he gets over his awe, he should be able to glean what the core looks like based on the shell, and maybe they can get the Frost Dwarves to help find it.I'm going to see if I can find out how to combine the two pieces. We'll catch up once we've both made some progress.",
+    "name": "Aid from the Explorers' League",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

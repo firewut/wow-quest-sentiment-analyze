@@ -1,0 +1,7 @@
+{
+    "_id": "14030",
+    "description": "Thanks for bringing the cranberry chutney. There's so much cooking to do, I hardly have time to think of anything else. And on top of my responsibilities here, Isaac Allerton in Darnassus is out of almost everything. I don't suppose you'd be willing to step in and whip up some more spice bread stuffing and pumpkin pie? The vendor should have all the ingredients you needYou should be able to find him near the feasting tables near the entrance to Darnassus just beyond the Warrior's Terrace.",
+    "name": "They're Ravenous In Darnassus",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

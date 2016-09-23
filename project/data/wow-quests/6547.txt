@@ -1,0 +1,7 @@
+{
+    "_id": "6547",
+    "description": "",
+    "name": "Warsong Scout Update",
+    "requires_level": 17,
+    "zone": "Ashenvale"
+}

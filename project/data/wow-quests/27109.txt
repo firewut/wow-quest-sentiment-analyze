@@ -1,0 +1,7 @@
+{
+    "_id": "27109",
+    "description": "The Ironbark and Warpwood were once the mighty protectors of Eldre'Thalas. Look at how they have fallen! Ultimately, their fate lies at the hands of myself and my fellow Highborne. We were reckless with our power, <race>.But you, you can right the wrongs here! Venture forth and put Tendris Warpwood to rest. He was the mightiest and last defender of this area, and deserves spiritual release. Be wary, for if you do not dispose of the Ironbark Protectors prior to engaging Tendris, he will call them to assist.",
+    "name": "The Warped Defender",
+    "requires_level": 39,
+    "zone": "Dire Maul"
+}

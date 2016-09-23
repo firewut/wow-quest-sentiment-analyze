@@ -1,0 +1,7 @@
+{
+    "_id": "25297",
+    "description": "I know of a draught that should jolt these gibbering former slaves back to reality. Gather some stonebloom from the rocks around Gar'gol's hovel, some bitterblossom from the shores of the nearby lake, and a darkflame ember from one of the braziers at the hovel entrance. The draught won't last long, so combine the ingredients at a twilight cauldron by the entrance to the hovel.One sip of that draught should knock some sense into the brainwashed slaves!",
+    "name": "From the Mouth of Madness",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

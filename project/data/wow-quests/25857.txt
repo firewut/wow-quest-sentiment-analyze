@@ -1,0 +1,8 @@
+{
+    "_id": "25857",
+    "description": "I've been tempted to go after the big kill... the largest crocolisk out there, Horrorjaw. His hide alone would be enough to get my family out of this hole.But I'm no fool. One mistake and I could lose a leg, or my life, and then where would my wife and kids be? Still homeless and without a father to care for them.It's not my proudest moment, but I'll pick my family's safety over pride any day. Please, <class>... hunt Horrorjaw for me. You'll find him in his shady pool to the north, lurking.",
+    "name": "Hunting Horrorjaw",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

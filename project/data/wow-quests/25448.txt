@@ -1,0 +1,7 @@
+{
+    "_id": "25448",
+    "description": "My duty here is to watch over Telaron. Even without his meditation leaving him vulnerable, there's enough threats in this forest to keep both of us on our toes.That's why it maddens me so much that I don't have the opportunity to leave camp. More harpies than I've ever seen infest the northwest...foul creatures, spreading their filth across the ancient ruins uncaringly.They're a threat to this camp, and have no place in these lands. I'll pay you well if you get rid of them.",
+    "name": "The Northspring Menace",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

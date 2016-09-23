@@ -1,0 +1,8 @@
+{
+    "_id": "31110",
+    "added_in_patch": 5,
+    "description": "Ah, just the <class> I wanted to see!We've finally figured out why the portal is not working. We need more arcane powder!It would take us months to get a shipment sent out to us, but luckily, the mogu on this island carry plenty for their own spells.They tend to use some older stuff, so we're going to need a lot of it.",
+    "name": "Through the Portal",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

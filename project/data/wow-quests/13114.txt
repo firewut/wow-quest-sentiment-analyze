@@ -1,0 +1,8 @@
+{
+    "_id": "13114",
+    "description": "We be havin' another order to fill.  Da innkeeper in da Dalaran sewers needs a vegetable stew as his customers dey don't have so much to eat, mon.He asked for a vegetable stew as he didn't appreciate da gnome that was in the last stew I sent.  Get 4 Crystalsong Carrots from the Crystalsong Forest and cook them together with 4 Chilled Meat and bring it to Ajay.You can be gettin' to da Forest from da portal chamber in da eastern corner of Runeweaver Square. ",
+    "name": "Sewer Stew",
+    "requires_level": 65,
+    "side": "horde",
+    "zone": "Cooking"
+}

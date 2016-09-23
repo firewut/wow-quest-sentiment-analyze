@@ -1,0 +1,8 @@
+{
+    "_id": "36055",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Sealing Fate: Apexis Crystals",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

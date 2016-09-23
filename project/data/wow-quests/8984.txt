@@ -1,0 +1,7 @@
+{
+    "_id": "8984",
+    "description": "Look, the actions of a rogue apothecary are not my concern. If he's undermining our efforts, then let me be the first to point you in the right direction.If he's innocent, then he's got nothing to hide, right?I purchased the goods from Apothecary Staffron Lerent. He's working in a secluded area past Ravenholdt Manor in the hills over Hillsbrad. To be honest with you, I thought he was a little odd.",
+    "name": "The Source Revealed",
+    "requires_level": 1,
+    "zone": "Quests"
+}

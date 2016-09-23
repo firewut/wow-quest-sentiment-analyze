@@ -1,0 +1,7 @@
+{
+    "_id": "13231",
+    "description": "What?! Noooo!We went to such great pains to keep this attack secret. How could the Horde have known? The resources... the men... all lost? Inconceivable!Our plans here in Icecrown hinged upon our taking that gate before the Horde could. We must recover quickly and prepare to mount another offensive.Visit the battlefield and search for any survivors. See if there's anything to be learned from this tragedy.And prepare yourself, <name>, for a war - on two fronts...",
+    "name": "The Broken Front",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26225",
+    "description": "You there! Did you know that strewn across the northern beach are tens, if not hundreds, of bottles of fine wine?...well, now you do!I'd be out there gathering them by the armload, if those turtles weren't out to get me. They crave my blood, I swear.So I'll pay you then. Bring me 12 bottles of Pupellyverbos Port and I'll \"purchase\" it from you, <class>.",
+    "name": "Pupellyverbos Port",
+    "requires_level": 29,
+    "zone": "The Hinterlands"
+}

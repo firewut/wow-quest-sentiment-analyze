@@ -1,0 +1,9 @@
+{
+    "_id": "36913",
+    "added_in_patch": 6,
+    "description": "Have you seen the boars they have here? Bigger than I am! Let's get one of them, why not?You're going to have to head to Gorgrond for that task. Way out in the desolate regions, you'll find the ones we're lookin' for.",
+    "name": "Besting a Boar",
+    "requires_level": 93,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

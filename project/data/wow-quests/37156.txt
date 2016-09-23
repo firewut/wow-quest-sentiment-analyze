@@ -1,0 +1,8 @@
+{
+    "_id": "37156",
+    "added_in_patch": 6,
+    "description": "Don't look at me! Who do you think you are?You and I are on the same side, you know. The necromancers here, we have to kill them. All of them.Don't you agree?Of course you do, and you can help me accomplish this goal. Find a Soulsever Blade in that hovel where the necromancers have holed up like rats. It has... special properties... that will aid us against the undead.",
+    "name": "The Soulcutter",
+    "requires_level": 100,
+    "zone": "Auchindoun"
+}

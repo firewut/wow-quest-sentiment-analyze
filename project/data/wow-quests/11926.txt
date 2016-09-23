@@ -1,0 +1,8 @@
+{
+    "_id": "11926",
+    "description": "Hello, fire juggler!  Are you having fun and making fiery mayhem?  That's what I like to hear!  Now, do you think you're an expert at torch tossing?  Then I have a test for you...You know the rules: toss torches at the marked braziers.  This time, however, you have a little more time and a LOT more braziers to hit.Ready?",
+    "name": "More Torch Tossing",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Midsummer"
+}

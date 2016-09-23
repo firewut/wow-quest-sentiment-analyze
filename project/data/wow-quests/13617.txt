@@ -1,0 +1,8 @@
+{
+    "_id": "13617",
+    "description": "<name>, I have a friend who could make good use of particular talents. His name is Talen and he's an archaeologist of sorts. Recently he's been fascinated with the upheaval of the old city of Zoram and its treasures.If you're willing to lend him a hand, you can find him at the Blackfathom Camp down the path to the west.",
+    "name": "West to the Strand",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Ashenvale"
+}

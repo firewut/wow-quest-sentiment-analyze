@@ -1,0 +1,8 @@
+{
+    "_id": "41552",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Slab of Bacon",
+    "requires_level": 110,
+    "zone": "Cooking"
+}

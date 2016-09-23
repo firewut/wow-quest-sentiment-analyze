@@ -1,0 +1,8 @@
+{
+    "_id": "33003",
+    "added_in_patch": 5.4,
+    "description": "[TEMP TEXT] I understand - you need this scroll properly inscribed. I have the vellum, but a text like this deserves bold colors: colors which come at a cost. Standard inks will not do.There are beasts here in the Vale... beasts of legend which carry the colors I need. I can show you where to find them.",
+    "name": "Glyph of the Armsmaster",
+    "requires_level": 90,
+    "zone": "Warrior"
+}

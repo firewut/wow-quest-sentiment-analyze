@@ -1,0 +1,7 @@
+{
+    "_id": "29066",
+    "description": "<Blackhorn used the power of Thol'embaar's remains to slip his bonds. But at least the inferno seems to be subsiding.><Matoclaw will want to know what happened here. She's waiting for you back at the Grove of Aessina.>",
+    "name": "Good News... and Bad News",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

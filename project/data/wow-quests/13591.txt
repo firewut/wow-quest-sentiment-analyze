@@ -1,0 +1,7 @@
+{
+    "_id": "13591",
+    "description": "The letter from Garrosh Hellscream makes clear the suspicions that were raised during the offensive on the Shatterspear. The presence of forsaken at the tower ruins and horde supplies and enforcers at the Shatterspear War Camp were only the start. Garrosh himself contacted the Shatterspear to spur their offensive towards Lor'danel, and it seems clear that he fully intends to push from the south as well.Glynda Nal'Shea will need this information if the night elves are to be prepared.",
+    "name": "Disturbing Connections",
+    "requires_level": 10,
+    "zone": "Darkshore"
+}

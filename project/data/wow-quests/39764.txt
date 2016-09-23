@@ -1,0 +1,8 @@
+{
+    "_id": "39764",
+    "added_in_patch": 7,
+    "description": "Soulkeeper Uriah and I were transporting demon prisoners to Allari in Azsuna when our caravan was attacked by kobolds.\r\n\r\nThose mindless vermin made off with the soul chambers that house our demonic captives.\r\n\r\nThe crystals may be shiny, but they're also deadly. If they are damaged in any way, the demons trapped within may escape.\r\n\r\nHead into the cave nearby and recover the soul chambers before it's too late.",
+    "name": "Shiny, But Deadly",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

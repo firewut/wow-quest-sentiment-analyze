@@ -1,0 +1,8 @@
+{
+    "_id": "29594",
+    "description": "The fel orcs have stockpiled many of their supplies here.Stealing them would be a severe blow to their war effort and a great boon to ours. Are you up to the task, <class>?",
+    "name": "Hitting Them Where It Hurts",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Quests"
+}

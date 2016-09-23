@@ -1,0 +1,7 @@
+{
+    "_id": "29851",
+    "description": "With this tournament we grow ever closer to our final confrontation with the Lich King.<name>, fight with valor and honor. Every fighter here has gathered for the common good.Together, we will stop Arthas!",
+    "name": "Champion of the Tournament",
+    "requires_level": 75,
+    "zone": "Quests"
+}

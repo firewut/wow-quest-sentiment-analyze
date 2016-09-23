@@ -1,0 +1,7 @@
+{
+    "_id": "27440",
+    "description": "The black dragonkin Overlord Wyrmthalak oversees the forces of the Lower Spire, who are nearly prepared to launch a full assault on the Dark Iron Dwarves far below. We simply cannot allow the black dragonflight to gain control of the mountain!You must kill War Master Voone, Highlord Omokk, and Overlord Wyrmthalak. Their deaths will cause the army's momentum to grind to a halt and will buy us valuable time.",
+    "name": "Trolls, Ogres, and Orcs, Oh My!",
+    "requires_level": 55,
+    "zone": "Blackrock Spire"
+}

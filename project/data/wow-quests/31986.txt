@@ -1,0 +1,8 @@
+{
+    "_id": "31986",
+    "added_in_patch": 5,
+    "description": "You are now prepared as your trainer instructed. Travel back to Orgrimmar and have words with Varzok. He will guide you further.",
+    "name": "The Triumphant Return",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

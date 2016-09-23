@@ -1,0 +1,9 @@
+{
+    "_id": "34072",
+    "added_in_patch": 6,
+    "description": "General Vul'gath leads this band of Thunderlord. He is a coward and hides in his hut, yelling orders at his warriors through the walls.We will need to show him that his flimsy defenses can not stand against the Frostwolves!I'll need some tar to carry this out. There are a couple of tar pits to the south, go gather a few globs from the oozes that reside there and bring them to me.",
+    "name": "Tar Get of Opportunity",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

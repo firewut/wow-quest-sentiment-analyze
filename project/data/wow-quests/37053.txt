@@ -1,0 +1,9 @@
+{
+    "_id": "37053",
+    "added_in_patch": 6,
+    "description": "Nagrand is home to the mightiest beasts in Draenor, and the ogres of the region have learned to tame them using brutal techniques.There is one ogre in particular, the Gorian Beast-Lasher, that smells of blood and fear. Go on and see how your beast reacts to that.",
+    "name": "Clefthoof Training: Cruel Ogres",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

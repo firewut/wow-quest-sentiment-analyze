@@ -1,0 +1,7 @@
+{
+    "_id": "25373",
+    "description": "I am proud of Mojache's reputation as a safe haven in the wilds of Feralas, but the camp faces many threats. The Gordunni ogres gather nearby in the northern foothills, claiming their territory and despoiling the wildlife.With the arrival of our brothers and sisters seeking shelter, I cannot let them linger any more. Go north and drive the ogres out.",
+    "name": "The Hilltop Threat",
+    "requires_level": 37,
+    "zone": "Feralas"
+}

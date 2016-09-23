@@ -1,0 +1,9 @@
+{
+    "_id": "33256",
+    "added_in_patch": 6,
+    "description": "Defend Karabor from the Iron Horde.At the end of the northern courtyard is Arnokk the Burner. He guards the entrance to the harbor behind Karabor, where the main Iron Horde army is waiting.Once we've taken care of him, we'll need to deal with the Iron Horde leader, Commander Vorka.",
+    "name": "The Defense of Karabor",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

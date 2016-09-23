@@ -1,0 +1,7 @@
+{
+    "_id": "10546",
+    "description": "While Ar'tor was off hunting and Grom'tor was off fighting, Borak studied. Eventually he took up a vocation as a scholar and left for the wilds of Draenor. He returned home a few years ago a changed orc.His heightened sense of awareness and mental acuity had forged a silent assassin.Now a confident and powerful orc, he has taken to recovering the most guarded piece of the cipher.Find Borak hiding near Eclipse Point, far to the south. He watches from the shadows of the bridge.",
+    "name": "Borak, Son of Oronok",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

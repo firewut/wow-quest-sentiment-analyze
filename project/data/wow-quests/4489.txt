@@ -1,0 +1,7 @@
+{
+    "_id": "4489",
+    "description": "You, <race>! Come here!You're the one they call <name>, yes?I thought as much. I will keep this short: you're growing in power, and it has been acknowledged. And now, the time has come that you are rewarded for your efforts.Go to the Barrens. There, above Ratchet, you'll find Strahad Farsan--perhaps you remember him? He would have words with you. I wouldn't take long.",
+    "name": "Summon Felsteed",
+    "requires_level": 40,
+    "zone": "Warlock"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27205",
+    "description": "We nearly have this battle won, <name>.  I can taste victory.  The Forsaken never stood a...What the hell is that!?",
+    "name": "The Depravity of the Forsaken",
+    "requires_level": 38,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

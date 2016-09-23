@@ -1,0 +1,9 @@
+{
+    "_id": "31765",
+    "added_in_patch": 5,
+    "description": "They shot out our engines and we floated here - HERE! Right in the firing line of the enemy!You know what to do, <name>. Get below decks and man those guns!Show these scum that they're in OUR line of fire!",
+    "name": "Paint it Red!",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

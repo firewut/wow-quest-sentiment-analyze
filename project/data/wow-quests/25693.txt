@@ -1,0 +1,7 @@
+{
+    "_id": "25693",
+    "description": "<Wazzik finishes packing the materials up in a neatly-wrapped package.>That's all that Loramus asked of us.  When you see him, make sure you let him know how much of a help I was.  I fear he will not see my hand in this.",
+    "name": "Enhancing the Stone",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

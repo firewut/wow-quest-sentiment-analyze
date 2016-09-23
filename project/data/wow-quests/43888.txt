@@ -1,0 +1,8 @@
+{
+    "_id": "43888",
+    "added_in_patch": 7,
+    "description": "You wield ancient steel, strengthened by magics we barely understand.\r\n\r\nIf you truly want to unlock the potential of your weapons, you need to know more of how they were forged, and of the battles they've fought in. I can help with this.\r\n\r\nAny resources that you can prioritize towards this research will be well worth it.",
+    "name": "Hitting the Books",
+    "requires_level": 110,
+    "zone": "Artifact"
+}

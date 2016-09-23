@@ -1,0 +1,7 @@
+{
+    "_id": "28543",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Tenell Leafrunner at the Emerald Sanctuary.His order requires your help to redeem Felwood from the demonic influences that rule the forest. Head north from Ashenvale and follow the road into Felwood until you reach the Emerald Sanctuary.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Felwood!",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

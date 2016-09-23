@@ -1,0 +1,7 @@
+{
+    "_id": "9408",
+    "description": "While it pains me to know that we have lost so many soldiers in our efforts to breach the portal, my heart swells with pride to know that the original expeditionary force is still alive.I can hardly believe it; but here they stand - a testament to the resolve of the Alliance.Inside that keep stands one of our greatest heroes: Danath Trollbane! Seek him out, <class>. He has already met and addressed all of our soldiers. He will surely want to meet you.",
+    "name": "Forgotten Heroes",
+    "requires_level": 55,
+    "zone": "Hellfire Peninsula"
+}

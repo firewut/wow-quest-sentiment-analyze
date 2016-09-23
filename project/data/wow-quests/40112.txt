@@ -1,0 +1,8 @@
+{
+    "_id": "40112",
+    "added_in_patch": 7,
+    "description": "[In broken Common] Shan'do ask for you. Sent Eche'ro beast with message on rack.\r\n\r\nUnng Ak hear Eche'ro sound fighting. You find beast? Give help, maybe feathered night elf be relieve.",
+    "name": "Huln's War - Malorne's Favored",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

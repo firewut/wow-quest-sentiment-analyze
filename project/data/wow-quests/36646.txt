@@ -1,0 +1,9 @@
+{
+    "_id": "36646",
+    "added_in_patch": 6,
+    "description": "Now that the engineering works is complete, we can start producing gearspring parts for you. When you have the ingredients, please speak with my assistant to start the first work order.",
+    "name": "Your First Engineering Work Order",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

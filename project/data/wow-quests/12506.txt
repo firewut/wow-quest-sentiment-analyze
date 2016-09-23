@@ -1,0 +1,7 @@
+{
+    "_id": "12506",
+    "description": "There's trouble at the altar of the snake god.The presence of the Scourge has weakened the land, <race>. This in turn has weakened the wild gods.We know that the Drakkari are taking advantage of this to do evil things to the gods.I need you to be my eyes and ears. The Altar of Sseratus is at the end of the avenue to the north. Sneak around the back and get a look inside of the main altar building.Whatever you do, avoid the prophet at all costs!",
+    "name": "Trouble at the Altar of Sseratus",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

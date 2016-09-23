@@ -1,0 +1,8 @@
+{
+    "_id": "10479",
+    "description": "Though we seek a peaceful life, our enemies are many.  Of these, none match the ogres in sheer brute power.If you seek to prove your prowess to us, bring me the warbeads they wear around their necks.  I will tell others of your accomplishments.",
+    "name": "Proving Your Strength",
+    "requires_level": 65,
+    "side": "horde",
+    "zone": "Nagrand (Outland)"
+}

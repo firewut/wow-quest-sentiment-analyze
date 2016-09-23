@@ -1,0 +1,7 @@
+{
+    "_id": "6625",
+    "description": "Doctor <name>, I presume. It is a pleasure to see you.I have some wonderful news for you! Gustaf VanHowzen, chief physician of Alliance Trauma has made a personal request for you to join him at Theramore. This could be the opportunity of a lifetime! I would give anything to be given a chance to study under the great doctor, Gustaf VanHowzen! Do not squander this opportunity, doctor!",
+    "name": "Alliance Trauma",
+    "requires_level": 35,
+    "zone": "First Aid"
+}

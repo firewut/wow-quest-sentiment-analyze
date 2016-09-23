@@ -1,0 +1,7 @@
+{
+    "_id": "27876",
+    "description": "The Shifting Mire takes its name from a unique phenomenon. By some force, the extremely fine silt will collect, and move on its own accord, travelling as if alive.",
+    "name": "Secrets of the Mire",
+    "requires_level": 53,
+    "zone": "Swamp of Sorrows"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41059",
+    "added_in_patch": 7,
+    "description": "Your actions in Stormheim were courageous. I thank you for avenging me, and for helping my apprentice, Aegira. I can think of none better to inherit my knowledge.With you, I will share the secret to my Storm Brew. The true strength of the brew comes from Odyn's Cauldron, which can be found in the great hall just ahead.You have my blessing to borrow it. Good luck in your journey ahead, <name>.",
+    "name": "Odyn's Cauldron",
+    "requires_level": 110,
+    "zone": "Monk Campaign"
+}

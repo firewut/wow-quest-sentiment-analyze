@@ -1,0 +1,8 @@
+{
+    "_id": "27568",
+    "description": "Can ye keep a secret? I have a secret tae share with ye if ye can.Everybody here is CRAZY!!!There's goblins over there, Dark Irons right over there, and a giant living fire thing right past this gate! An' that's just what I see in this little cave!And ye! What're ye doin' here!?Oh, I see. Winky sent ye, did he? Sent ye tae talk t' Prospector Seymour, past this gate and t' the right, did he? Well go! Oralius doesn't even care!...I'll GET YOU FOR THIS WINKY!!!<Oralius begins to sob.>",
+    "name": "Infiltrating Shadowforge City",
+    "requires_level": 51,
+    "side": "alliance",
+    "zone": "Blackrock Depths"
+}

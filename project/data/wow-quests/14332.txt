@@ -1,0 +1,7 @@
+{
+    "_id": "14332",
+    "description": "<Kherrah listens to you as you explain recent events.>I agree with the words of the Kolkar Khan. The time for ancient grudges is over. It is a shame that it has taken a demonic crisis to unite the tribes.I shall return to my father and convince him to join your cause. You have my word that he will comply.Return to Khan Leh'prah and inform him that the Gelkis will be ready when called upon.",
+    "name": "Time For Change",
+    "requires_level": 30,
+    "zone": "Desolace"
+}

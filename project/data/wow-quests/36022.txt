@@ -1,0 +1,9 @@
+{
+    "_id": "36022",
+    "added_in_patch": 6,
+    "description": "The Shattered Hand aren't strangers to pain. They each cut off their own hand as a sign of their allegiance to Kargath.If you're going to get them to talk, it might take more than my poison.Slaughter them all. We'll see how far they're willing to go for their beloved warlord.",
+    "name": "Extrinsic Motivation",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

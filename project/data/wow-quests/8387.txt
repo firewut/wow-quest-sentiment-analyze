@@ -1,0 +1,7 @@
+{
+    "_id": "8387",
+    "description": "",
+    "name": "Invaders of Alterac Valley",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

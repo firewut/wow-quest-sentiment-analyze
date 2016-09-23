@@ -1,0 +1,8 @@
+{
+    "_id": "32845",
+    "added_in_patch": 5.3,
+    "description": "You may already be familiar with Blat, one of our Rank 2 challengers here in the Brawler's Guild. The challenge card you've earned belongs to Splat, its older, nastier sister.Try not to get yourself killed, <name>. And if you do, at least make it entertaining for the rest of us!",
+    "name": "Splat",
+    "requires_level": 100,
+    "zone": "Brawler's Guild"
+}

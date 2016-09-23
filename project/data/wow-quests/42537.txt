@@ -1,0 +1,8 @@
+{
+    "_id": "42537",
+    "added_in_patch": 7,
+    "description": "King Thoras was one of the greatest warriors this world has known.His people loved him and his enemies feared him. He only ever spoke truth, often saying the words others were afraid to speak.King Thoras lived a life of war and he certainly deserves the peace of death. But this is not a man who would sleep peacefully while the world around him burns.The time has come, Deathlord, to welcome the last true King of Stromgarde into the arms of the dead and damned.",
+    "name": "The King Rises",
+    "requires_level": 103,
+    "zone": "Death Knight Campaign"
+}

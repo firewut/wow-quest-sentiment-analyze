@@ -1,0 +1,8 @@
+{
+    "_id": "25713",
+    "description": "Say there... <name>, is it?  I've got a proposition for you which involves explosions.  Interested?I couldn't help but overhear your conversation with the quartermaster.  You see... I've been working on an explosive device.  It's not very effective against other creatures, but devastating against artillery.  If you're heading back into the field to visit those orcs, find some enemy supplies and give this thing a try.  Who knows... maybe they like explosions too.",
+    "name": "Remove Their Arms",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

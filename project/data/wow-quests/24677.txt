@@ -1,0 +1,8 @@
+{
+    "_id": "24677",
+    "description": "I thank you, <name>.  We can't rest on our laurels, however.We found out about a mining town, currently under Forsaken occupation.  We sent some of my men, along with Crowley's daughter to the nearby livery stables to begin operations there.  Liam should be joining them shortly.I'll stay here and organize the final push for Gilneas City.  Speak to Lord Hewell to secure a horse to get you there.",
+    "name": "Flank the Forsaken",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

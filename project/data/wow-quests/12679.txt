@@ -1,0 +1,7 @@
+{
+    "_id": "12679",
+    "description": "The Sky Darkeners are mindless constructs with one purpose: KILL! Specifically, they are aiming to kill any man or woman that they see fleeing Havenshire for the safety of New Avalon. We certainly can't allow those cowards to make it to safety and then take up arms against us!There is one slight problem. They use saronite arrows for maximum range and damage. Saronite, however, is a metal only found in Northrend, so supplies are limited! Retrieve those arrows for me and I will reward you handsomely.",
+    "name": "Tonight We Dine In Havenshire",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

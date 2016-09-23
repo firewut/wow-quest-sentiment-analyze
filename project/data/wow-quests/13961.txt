@@ -1,0 +1,8 @@
+{
+    "_id": "13961",
+    "description": "It is our instinct to simply lash out at our attackers, but wisdom dictates another path. We should interrogate one of these quilboar invaders and learn all we can. Take this net, <name>, and ensnare a quilboar pillager attacking our farm just west of here. Club the beast unconscious and bring him to me.",
+    "name": "Drag it Out of Them",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

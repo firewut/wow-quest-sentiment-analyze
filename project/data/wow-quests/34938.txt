@@ -1,0 +1,8 @@
+{
+    "_id": "34938",
+    "added_in_patch": 6,
+    "description": "It was said in the Journal of the Rising Sun that eating in the mornings cannot be done without harming a few eggs.The Bloodmane matron, Ralshiara, feasts upon sacred raven eggs for her snacks. How dare she! She must die for her sins!Take the path south over the mountains to reach the accursed home of the Bloodmane.Take this trinket, it fell to us from the heavens as a sign of the Raven Mother's favor and with it you might have a chance.",
+    "name": "Ralshiara's Demise",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

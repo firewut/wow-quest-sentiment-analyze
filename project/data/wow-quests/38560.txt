@@ -1,0 +1,9 @@
+{
+    "_id": "38560",
+    "added_in_patch": 6.2,
+    "description": "Commander, now that we've had time to get scouts all over the jungle we have heard some news near Zeth'Gol.\r\n\r\nIt appears that somebody else has a vendetta against the Bleeding Hollow and has been... hunting... them. Their hunters are closing in on the assassin.\r\n\r\nYou know what they say about \"the enemy of my enemy...\" We should collect their tracking maps and try to find the killer first!",
+    "name": "Garrison Campaign: The Bane of the Bleeding Hollow",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

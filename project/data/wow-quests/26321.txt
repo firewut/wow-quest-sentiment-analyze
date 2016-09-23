@@ -1,0 +1,7 @@
+{
+    "_id": "26321",
+    "description": "It looks like your young raptor is hungry.  If you're looking to keep her, why don't you find something for her to eat?  The lashtail often attack the camp of the Murkgill murlocs, just to our north.She probably isn't strong enough to hunt on her own yet, but I'm sure she will eat freshly killed murloc meat.",
+    "name": "I Think She's Hungry",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

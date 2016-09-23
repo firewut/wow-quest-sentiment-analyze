@@ -1,0 +1,8 @@
+{
+    "_id": "32390",
+    "added_in_patch": 5.1,
+    "description": "<Class>, through your eyes I've been able to witness the fighting along the coast, and the epic course of battles around the world. You've been very patient... and most informative.I've also been keeping a close eye on your King. Would you be interested to hear what I've learned?",
+    "name": "Call of the Packmaster",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27531",
+    "description": "I once worked for the so-called \"Banshee-Queen\", Sylvanas, as an apothecary.  I used to admire her, but something's changed within her.  She's not herself anymore.I broke my vows with the Forsaken and joined the Crusade.  Now, I use my knowledge of alchemy to seek a counter-plague agent.  And the Plaguewood is the perfect place to do so.I need to resupply a few reagents, any of which can be found within the Plaguewood.  I'll pay you if you can find any of these items.",
+    "name": "Counter-Plague Research",
+    "requires_level": 41,
+    "zone": "Eastern Plaguelands"
+}

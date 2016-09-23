@@ -1,0 +1,8 @@
+{
+    "_id": "44208",
+    "added_in_patch": 7,
+    "description": "For years we wondered, we conjectured, that it was possible to control the twisting, slipping, streaming threads of fate and destiny.  These books tell of powerful mages who embraced the manipulation of time.  No no, not like Time Warp, they would laugh at us, think us silly amateurs.  No, they were true Chronomancers.\r\n\r\nThe only spell we've been able to determine is a conjuration.  It calls forth what they termed  a \"Seal of Fate\".  This allowed them to repeat their actions.  Let us try it out shall we?",
+    "name": "Fate and Time",
+    "requires_level": 110,
+    "zone": "Quests"
+}

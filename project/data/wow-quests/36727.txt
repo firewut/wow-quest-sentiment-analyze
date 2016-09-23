@@ -1,0 +1,8 @@
+{
+    "_id": "36727",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Tracking: Arena Treasure 6",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

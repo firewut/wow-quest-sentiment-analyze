@@ -1,0 +1,8 @@
+{
+    "_id": "30336",
+    "added_in_patch": 5,
+    "description": "From what I've gathered, the Kunzen hozen have two chiefs. One is harmless - he deals with potions, medicines, and ancient fables. The other one is in charge of the Kunzen's hunters - and the only thing they've been hunting lately is our crops.The Hunter-Chief is a problem waiting to be solved. I'm sure the local farmers would be grateful if you went up there and, you know, \"took care\" of him.",
+    "name": "The Kunzen Hunter-Chief",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

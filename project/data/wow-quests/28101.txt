@@ -1,0 +1,7 @@
+{
+    "_id": "28101",
+    "description": "Recent events make it even more apparent that holing up here and making sporadic attacks on Grim Batol isn't enough to keep our kind safe, much less retake Grim Batol. We need to be more aggressive, we need to strike into their heart.I've agreed to send dragons to the aid of your commanders. They were already hatching a plan to strike at Grim Batol, so you should focus your attention there first.You should be able to find Mathias Shaw in Dragonmaw Pass, in the canyon below us to the south.",
+    "name": "Mathias' Command",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

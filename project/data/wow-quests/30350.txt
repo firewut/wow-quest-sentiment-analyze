@@ -1,0 +1,8 @@
+{
+    "_id": "30350",
+    "added_in_patch": 5,
+    "description": "The hidden master may have to wait. Look at these people, $p.They are so THIN! They must be starving.You know what we need? A big steaming bowl of Squirmy Delight.If you find yourself near a river, try rounding up some intact skitterer glands and I'll cook up a batch.",
+    "name": "Squirmy Delight",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

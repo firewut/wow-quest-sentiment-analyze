@@ -1,0 +1,8 @@
+{
+    "_id": "30270",
+    "added_in_patch": 5,
+    "description": "\"A hooded falcon catches no quarry.\"This is one of the first mantras we teach young monks at the temple. It means that even a foe as swift and lethal as a falcon can be neutralized by depriving its senses.The saurok have scouts all over the region acting as eyes for their raiding parties.It's time we put their eyes out, don't you think?",
+    "name": "Blinding the Riverblades",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

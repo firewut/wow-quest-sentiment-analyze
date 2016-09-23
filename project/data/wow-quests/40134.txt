@@ -1,0 +1,8 @@
+{
+    "_id": "40134",
+    "added_in_patch": 7,
+    "description": "So, ye're a skinner too, aye?That's great news, <name>! I don't think I ever knew we shared that in common.Ye've GOT ta see some o'the hides we've got here in Highmountain. Why, I'd give me spare monacle just t'get me hands on some o'those fine, silky hides...",
+    "name": "Highmountain Hides",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

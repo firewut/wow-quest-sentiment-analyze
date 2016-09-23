@@ -1,0 +1,7 @@
+{
+    "_id": "28719",
+    "description": "Many find the meat of the Shardtooth bears to be too gamy for their taste. I disagree, though I'm not one to judge the tastes of others.The Shardtooth Maulers, however - their brown-furred cousins, to the south - have much more tender flesh, particularly in their paws. And I've heard that the snout is also considered a delicacy.Continue your hunt, <name>. Let's see if you can bag those maulers for ol' Francis.",
+    "name": "A Little Gamy",
+    "requires_level": 51,
+    "zone": "Winterspring"
+}

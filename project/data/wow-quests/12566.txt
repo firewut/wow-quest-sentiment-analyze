@@ -1,0 +1,7 @@
+{
+    "_id": "12566",
+    "description": "I am Longrunner Nanik of the Taunka, sent by the chieftain of Camp Winterhoof to seek out allies in the fight against the vrykul. They mass to the west and south of our village, and though we slay 10 of them for every one of our dead, we cannot hold.Apothecary Scyllis has promised to send brave <class>s northwest to our aid. Will you help my people fend off the vrykul assaults?Follow the road far to the northwest, across the river, and into the foothills of the mountains to reach Camp Winterhoof.",
+    "name": "Help for Camp Winterhoof",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

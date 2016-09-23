@@ -1,0 +1,8 @@
+{
+    "_id": "30243",
+    "added_in_patch": 5,
+    "description": "The mantid are attacking again, and we're a bit short-handed up on the wall. In hopes that you'd help, I saved one of the more fun posts for you: the hot oil!It's a bit more violent and a bit less scandalous than it sounds.It's simple really. Get up on the wall, find one of the oil stations, and dump it on any of the mantid pouring up against the wall. It's very effective.",
+    "name": "Mantid Under Fire",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

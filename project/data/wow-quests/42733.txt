@@ -1,0 +1,8 @@
+{
+    "_id": "42733",
+    "added_in_patch": 7,
+    "description": "All Legion constructs, including the Fel Hammer, are powered by souls. If we are going to take the command center to Niskara, we are going to need some very powerful souls, indeed!\r\n\r\nYou are a very creative person, <name>. I am certain that you will find a way to get what we need from the right sorts of creatures.",
+    "name": "A Very Special Kind of Fuel",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

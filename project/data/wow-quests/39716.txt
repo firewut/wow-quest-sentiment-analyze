@@ -1,0 +1,8 @@
+{
+    "_id": "39716",
+    "added_in_patch": 6.2,
+    "description": "The Bonefleet once raided trading ships traveling the waters of Draenor. One such ship carried farming supplies intended for Elodor.Now, they use these supplies to sow their plague into our earth. From the putrid mounds sprout vegetative horrors. These abominations must be destroyed, before they can spread across the landscape.",
+    "name": "Smashing Squashlings",
+    "requires_level": 100,
+    "zone": "Shadowmoon Valley (Outland)"
+}

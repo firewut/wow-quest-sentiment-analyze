@@ -1,0 +1,8 @@
+{
+    "_id": "32989",
+    "description": "We have an outpost to the southeast that was boxed in by Thunderlord forces as they marched through the canyons to Wor'gol.I have sent reinforcements to secure the outpost and press east to Grom'gar. We will push the Thunderlords out of our lands completely, and pursue them all the way back to that reeking corpse they call home.Draka's sister, Lokra, was among the orcs who volunteered to clean up Stonefang Outpost.",
+    "name": "Securing the South",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12968",
+    "description": "The witch that started it all, Yulda the Stormspeaker came to our very village.  She dared to insult our noble traditions and spouted the Lich King's venomous promises of power.She ought to have left with a sword through her, but her magic was strong and she managed to escape.Seek her in Valkyrion inside the largest dwelling and show her that we are not to be trifled with.",
+    "name": "Yulda's Folly",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

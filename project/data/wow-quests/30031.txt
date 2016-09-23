@@ -1,0 +1,8 @@
+{
+    "_id": "30031",
+    "added_in_patch": 5,
+    "description": "As long as you're here, you might as well help me out. I'm feeling pretty darn unqualified for the task, seeing as I've never drank a drop of beer in my life.You should try a little sample of each of their grains. Let's see if any of this stuff is sweet enough for Uncle Chen.",
+    "name": "Taste Test",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

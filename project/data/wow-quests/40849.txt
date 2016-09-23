@@ -1,0 +1,8 @@
+{
+    "_id": "40849",
+    "added_in_patch": 7,
+    "description": "I can promise ya a safe journey to Eliza's position, but once we're there... well, we both know there be no guarantees.The plan is simple. We'll take the Crimson Veil as close as we can get her without being seen and disembark from there.Once we're ashore, we'll board the Horizon's Edge, bribe her mutinous crew to hand it over, and hunt down Eliza and her legendary blades wherever she may be.Just say the word when yer ready.",
+    "name": "The Dreadblades",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

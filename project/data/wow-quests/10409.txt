@@ -1,0 +1,7 @@
+{
+    "_id": "10409",
+    "description": "When facing eredar of great power, large armies are useless for the most part.  Their corruptive powers over mortal souls are such that only the strongest-willed can even stand face to face with them.Take this stone to the Invasion Point: Overlord, between Forge Base: Oblivion and Gehenna and bring your closest, strongest friends with you.  Orelis and Karja will meet you at Socrethar's Seat; I will send Adyen along with them.May the Light prevail today, <name>.  May Socrethar meet his end.",
+    "name": "Deathblow to the Legion",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30773",
+    "added_in_patch": 5,
+    "description": "The yaungol's siege weapons - those ballista spearthrowers down there - are tearing apart our defenses both at Longying Oupost and in Kun-Lai Summit.Those terrible weapons must be destroyed.Take these explosives. I've covered them in the pitch that you collected.Toss them at those ballistas, and we'll give the yaungol a little taste of their own medicine.",
+    "name": "Pitching In",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

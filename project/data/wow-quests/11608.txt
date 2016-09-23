@@ -1,0 +1,8 @@
+{
+    "_id": "11608",
+    "description": "North, south, east and west. Those are the locations that you should be concerned about. Surrounding this fortress, within Mightstone Quarry, are four perfectly situated Nerub'ar sinkholes.<Holgoth hands you a bundle.>Be very careful with that package, <name>. Mishandle it and you'll be dog meat.Inside the bundle are seaforium depth charges. Get to each of those Nerub'ar sinkholes and plant a depth charge at their center point. If all goes well, the tunnels will collapse.Get a move on!",
+    "name": "Bury Those Cockroaches!",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

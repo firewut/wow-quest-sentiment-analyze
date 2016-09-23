@@ -1,0 +1,8 @@
+{
+    "_id": "42956",
+    "added_in_patch": 7,
+    "description": "Look! It was right here under our noses. \"Arcanists Guide to Rare Diseases.\" Sheepish thing. Most books just want to be dusted off and read from time to time. We will leave the phials of nightwell energy and it will go with you meekly enough.\r\n\r\nHere. I have packaged the book up for you to bring to Khadgar. I wrapped it in moth's wings to keep it soothed and light-hearted. And there is a gift for you. Just a small thing, really.",
+    "name": "Ari's Package",
+    "requires_level": 110,
+    "zone": "Mage Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13416",
+    "description": "Norgannon's shell is within our reach, <name>. Take the inventor's disk into the library's interior. There should be a console there that you can activate with the disk. I imagine Mimir stored more there than just Norgannon's shell. There are probably enough schematics stored there to keep Ironforge's engineers occupied for years!Anyway, bring the disk to the console. Hopefully, Mimir hasn't decided to put any more obstacles in our way. ",
+    "name": "The Library Console",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25292",
+    "description": "<Nato pulls you aside and speaks in a whisper.><name>, I have removed the bullet from Gann's chest, but the bubbles in his blood tell me all I need to know. His lungs are punctured, and the wound grows septic. He is not long for this world.Take this. It's the bullet that killed him. His family will want to know what became of their youngest warrior.Seek out Alto Stonespire. He is posted in Dustwallow Marsh. Go northeast, and follow the roads to Brackenwall Village.",
+    "name": "Next of Kin",
+    "requires_level": 32,
+    "zone": "Dustwallow Marsh"
+}

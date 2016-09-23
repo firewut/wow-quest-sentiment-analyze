@@ -1,0 +1,9 @@
+{
+    "_id": "34780",
+    "added_in_patch": 6,
+    "description": "Exarch Akama is too cautious, but we shouldn't ignore a threat from the Shadowmoon clan. It is good you are here!Since we arrived on Draenor I have dedicated myself to recreating the technology we left behind. This large structure here is a defense ward. It should counter a Shadowmoon advance - provided we power it up.I have prepared resonance crystals at my workshop to the south. Carry one crystal at a time to the three pylons that surround the ward, then activate the control panel nearby!",
+    "name": "Invisible Ramparts",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

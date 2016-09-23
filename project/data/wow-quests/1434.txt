@@ -1,0 +1,7 @@
+{
+    "_id": "1434",
+    "description": "A demon infestation does not occur without other influences--something else allows evil to gain a foothold.It may start with a weakened spirit, a needless desire for power; perhaps it's a thirst for revenge, or the appeal for final justice. When we are beset by pain, evil takes advantage of us--evil such as the satyr.Ties have been made between them and the Burning Blade, and Thrall would have them slain. Seek them out to the northeast of here, and return to me when you've driven them back.",
+    "name": "Befouled by Satyr",
+    "requires_level": 25,
+    "zone": "Orgrimmar"
+}

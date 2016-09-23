@@ -1,0 +1,8 @@
+{
+    "_id": "11627",
+    "description": "Ah, it is information that you crave: the whereabouts and condition of your 'farseer'. He did not see so far as to avoid the trouble which befell him.Nevertheless, I will give you the means to acquire the knowledge. But first, you will do some things for me.No doubt you have seen the war between fire and water to the south. Simmer keeps boiling Churn's pool, and the two have been battling for ages.Go to the Charred Rise and Blistering Pool, and convince each of them to stop their bickering.",
+    "name": "Boiling Point",
+    "requires_level": 69,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

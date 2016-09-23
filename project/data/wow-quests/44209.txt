@@ -1,0 +1,8 @@
+{
+    "_id": "44209",
+    "added_in_patch": 7,
+    "description": "In times of great need, the mages of Dalaran can focus their power into one pure, destructive form.  This is such a time.\r\n\r\nOn request, these mages will channel that power into a focusing crystal, which we will impart to you.  Use it to unleash that power, completing a quest of great value.",
+    "name": "The Might of Dalaran",
+    "requires_level": 110,
+    "zone": "Quests"
+}

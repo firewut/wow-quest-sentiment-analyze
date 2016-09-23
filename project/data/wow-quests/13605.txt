@@ -1,0 +1,8 @@
+{
+    "_id": "13605",
+    "description": "There was this massive earthquake and then everything went black. The next thing I know, I woke up here a prisoner. The whole place is overrun with air elementals!I hope that everyone's okay. These Twillight's Hammer scum better not have hurt any of my friends!Quick, <class>, use something sharp to jimmy the lock on this ball and chain. Together we should be able to make it to the refugee camp.",
+    "name": "The Last Refugee",
+    "requires_level": 13,
+    "side": "alliance",
+    "zone": "Darkshore"
+}

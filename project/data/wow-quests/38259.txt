@@ -1,0 +1,8 @@
+{
+    "_id": "38259",
+    "description": "Let's put this \"Iron Shipwright\" of yours to work, commander. If we're to pull off your plan to assault Tanaan from both land and sea, we'll need to get some docks operational as soon as possible. Work with Roark and build the Alliance a shipyard!Last I saw, Roark was northwest of the garrison, near Eventide Landing.",
+    "name": "All Hands on Deck",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

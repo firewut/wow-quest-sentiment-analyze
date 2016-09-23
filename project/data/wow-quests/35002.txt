@@ -1,0 +1,8 @@
+{
+    "_id": "35002",
+    "added_in_patch": 6,
+    "description": "Many years have passed since anyone has been in contact with Anzu. He faded away, as Terokk did, to take refuge in the shadows.If we are to coax him back, we should make an offering.Sethe took the sky from us all - it seems fitting to take the wings of his children.",
+    "name": "Sons of Sethe",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

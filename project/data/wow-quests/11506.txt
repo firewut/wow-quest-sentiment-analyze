@@ -1,0 +1,7 @@
+{
+    "_id": "11506",
+    "description": "The draenei might be our enemies, but the spirits of their ancestors in Auchindoun are restless and have no allegiance.The draenei's custom required them to pay their respects at spirit towers at various times during the day.  If you can help secure a tower during these times, you will help the spirits return to peace in Auchindoun.The Alliance will try to capture the towers in order to secure the dead's favor.   We must ensure that our side succeeds instead.",
+    "name": "Spirits of Auchindoun",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

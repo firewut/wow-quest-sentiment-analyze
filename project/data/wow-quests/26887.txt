@@ -1,0 +1,7 @@
+{
+    "_id": "26887",
+    "description": "I know we're here to make friends with the Steamwheedle goblins, but those awful Bilgewater goblins are so rude.Why, I just saw a bunch of them pulling gold fillings out of the teeth of the Southsea musketeers and strongarms. Do they think they can just take that for themselves?Obviously, the nice thing to do is kill those pirates ourselves, take their fillings, and then give some of them to the Steamwheedle as a thank-you gift! Head on down there and beat those goblins to the punch.",
+    "name": "Filling Our Pockets",
+    "requires_level": 44,
+    "zone": "Tanaris"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29712",
+    "added_in_patch": 5,
+    "description": "Your mind races as you struggle to come to terms with your predicament - shipwrecked on an uncharted land, nearly all of the crew lost....As you look at the corpse of this unfortunate creature you realize that the area is crawling with his kind, and that they're pillaging whatever supplies haven't been destroyed.It's time to introduce these vermin to some good old-fashioned Horde justice.",
+    "name": "Horde Justice",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

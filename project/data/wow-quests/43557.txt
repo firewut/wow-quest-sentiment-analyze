@@ -1,0 +1,8 @@
+{
+    "_id": "43557",
+    "added_in_patch": 7,
+    "description": "The Violet Hold contains some of the Lich King's most powerful servants, and is at risk of being overrun by Legion agents. We must go there and thwart the demons before any of the prisoners can be set free.",
+    "name": "Violet Hold",
+    "requires_level": 110,
+    "zone": "Violet Hold"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28282",
+    "description": "There's one Dragonmaw among this lot, the one they call \"Narkrall: The Drake-Tamer.\" I don't know where he gets his power over those beasts, but the black terror he rides is as nasty a brute as ever took the skies over the Highlands.<name>, Narkrall is the fiend who took my father's life and left Thundermar in my hands.I can't take him on alone, but I've seen what you're capable of, <class>. Maybe together we can end this.Let me know when you're ready, and we'll fight Narkrall together!",
+    "name": "Narkrall, The Drake-Tamer",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

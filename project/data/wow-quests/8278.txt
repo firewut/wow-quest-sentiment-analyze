@@ -1,0 +1,7 @@
+{
+    "_id": "8278",
+    "description": "Blasted!  The antidote didn't work.  Noggle must've been stung by one of the stronger creatures in the far south.I'm going to need you to go there and get me some more samples, <name>.  The good news is that since their poison is stronger I won't require as many.  The bad news is that there are more kinds of poisonous creatures crawling around the southern area so you'll have to draw from more sources.",
+    "name": "Noggle's Last Hope",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

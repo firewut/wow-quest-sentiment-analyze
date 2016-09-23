@@ -1,0 +1,8 @@
+{
+    "_id": "40131",
+    "added_in_patch": 7,
+    "description": "The quality of this leather scrap appears representative of the beast hides found in the Broken Isles.Your skinning trainer in Dalaran would be interested in seeing this.",
+    "name": "Stonehide Leather Sample",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

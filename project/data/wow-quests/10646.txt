@@ -1,0 +1,7 @@
+{
+    "_id": "10646",
+    "description": "You've proven your allegiance, <name>.  You must forgive my caution, but in this world things are not what they appear.I will tell you about Varedis when you're ready.",
+    "name": "Illidan's Pupil",
+    "requires_level": 68,
+    "zone": "Nagrand (Outland)"
+}

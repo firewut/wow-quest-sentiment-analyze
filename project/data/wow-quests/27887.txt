@@ -1,0 +1,7 @@
+{
+    "_id": "27887",
+    "description": "You heard a good amount of rumbling happen in the tomb's central chamber.  Those two large statues did look awfully suspicious.",
+    "name": "Ancient Protectors",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

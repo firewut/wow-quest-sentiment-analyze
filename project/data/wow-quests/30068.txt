@@ -1,0 +1,8 @@
+{
+    "_id": "30068",
+    "added_in_patch": 5,
+    "description": "Do you see the violent black and white flames erupting all around the temple?The greater our doubt, the stronger they rage. Unchecked, they will devour the entire temple.We have but one hope.Take flight on one of our war serpents. Fly it near the pure springs of water, and then douse the fires with water from the pools.",
+    "name": "Flames of the Void",
+    "requires_level": 90,
+    "zone": "Jade Temple Grounds"
+}

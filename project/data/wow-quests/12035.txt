@@ -1,0 +1,8 @@
+{
+    "_id": "12035",
+    "description": "Ok, I've got it!  The rewiring is a little complicated, but nothing a clever <class> like you can't handle.Take my tools and put some of the harvest collectors out of commission.  Once they're down use the tools to plug all the red wires into the blue sockets.  That'll make them go into self-defense mode.  Hurry, <name>.  Before long there won't be anything left to save.",
+    "name": "Repurposed Technology",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

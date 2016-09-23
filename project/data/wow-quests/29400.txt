@@ -1,0 +1,8 @@
+{
+    "_id": "29400",
+    "description": "Well met, <class>.Hallow's End is a time for celebration and reflection, though some have no idea why. The burning of the Wickerman in particular is a mystery to many outside the Forsaken.Travel to the Ruins of Lordaeron above Undercity and speak to Darkcaller Yanka.  She can tell you more about the Wickerman ceremony.",
+    "name": "A Season for Celebration",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Hallow's End"
+}

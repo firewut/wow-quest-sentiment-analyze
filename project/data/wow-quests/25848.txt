@@ -1,0 +1,7 @@
+{
+    "_id": "25848",
+    "description": "By the time that we received word that Hellscream had sent another mag'har orc to oversee the Horde troops in southern Stonetalon, it was too late. Camp Aparaje was burned to the ground and all Grimtotem in the area incinerated.Now the Horde have four of their most fearsome generals commanding the battle for Greatwood Vale, including the mag'har, General Glubgok.You must travel to the ruins of Camp Aparaje, south of here, and kill the generals. We stop the Horde NOW! Return to me with their mark!",
+    "name": "Downfall",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

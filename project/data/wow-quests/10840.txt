@@ -1,0 +1,7 @@
+{
+    "_id": "10840",
+    "description": "To the east, buried under the charred sand, is the Tomb of Lights, a lost resting place of the dead.  Before our caravan was ambushed I was going to journey to the tomb and cleanse it of evil spirits.  Little did I know it was already infested with another kind of evil.  Even now the ethereals plunder the bodies of the fallen for trinkets and keepsakes that were given to the dead centuries ago.  There is little I can do while our caravan struggles to survive.  ",
+    "name": "The Tomb of Lights",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

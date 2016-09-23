@@ -1,0 +1,7 @@
+{
+    "_id": "12867",
+    "description": "A few weeks ago, if you looked up, you'd see dozens of those beautiful eagles soaring the skies. Now, only a few if any. They've taken to staying with their nests nearly all the time now because the harpies have been stealing their eggs.The harpies have grown a taste for eagle flesh, it seems... the sick wretches are caring for the eggs long enough to feast on the hatchlings. Go into the valleys to the north or the east and find the eggs... bring them back here, and I'll take them back to the nests.",
+    "name": "Baby Stealers",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25571",
+    "description": "This Elemental Shard is all that is left from the rift that stood here before.  The connection between the shard and the rift is unknown, but perhaps someone more versed in the elements would know more.Seek out an Earthen Ring Emissary in any capital city.  This could be exactly what they are looking for.",
+    "name": "A Natural Occurrence",
+    "requires_level": 1,
+    "zone": "Quests"
+}

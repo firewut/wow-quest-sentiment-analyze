@@ -1,0 +1,7 @@
+{
+    "_id": "28275",
+    "description": "The Wellson Shipyard is constantly receiving supplies from offshore and we need to put a stop to it.  They have setup cannons along the docks for defense but if you can make it to them, we can use them to destroy their supply ships.Head over there and see what you can do.  Report back to me on your progress.",
+    "name": "Bombs Away!",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

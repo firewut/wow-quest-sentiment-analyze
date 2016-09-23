@@ -1,0 +1,8 @@
+{
+    "_id": "43479",
+    "added_in_patch": 7,
+    "description": "Now that we have pruned the garden, it is time to dig up the rotting tree stump in the middle.\r\n\r\nPut another way, we need to make sure to keep the forces of chaos from overwhelming the Broken Isles. Certainly others are helping in this endeavor.\r\n\r\nHowever, I am sure the target you select to eliminate will be the wisest from the standpoint of the Uncrowned.",
+    "name": "The World is Not Enough",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

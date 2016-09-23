@@ -1,0 +1,8 @@
+{
+    "_id": "39455",
+    "added_in_patch": 7,
+    "description": "All Bloodtotem and distinguished guests must go through a trial of blood in the cavern beneath this outpost.\r\n\r\nI hope it's a good sign that they wish you to participate in this rite of passage. You will need to show proof of your deeds, defeat a Warmonger in single combat, then perform sacrifice at an altar deep in the cavern.",
+    "name": "Cave of the Blood Trial",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

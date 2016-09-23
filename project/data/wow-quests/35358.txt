@@ -1,0 +1,8 @@
+{
+    "_id": "35358",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "End Time Reward Quest",
+    "requires_level": 85,
+    "zone": "Quests"
+}

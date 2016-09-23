@@ -1,0 +1,8 @@
+{
+    "_id": "44055",
+    "added_in_patch": 7,
+    "description": "The Feltotem are not the first to embrace the temptations of the Burning Legion. And they will not be the last.But in their arrogance, they have conjured a pit lord.Will you join us in battle against this beast? The power of your artifact and skill could prove invaluable against such a creature.",
+    "name": "They Have A Pitlord",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

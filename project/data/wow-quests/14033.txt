@@ -1,0 +1,7 @@
+{
+    "_id": "14033",
+    "description": "While you're here, you might want to stock up on Teldrassil sweet potatoes. They're used to make the most delicious candied sweet potatoes you've ever tasted.If you don't believe me, look up the recipe in your bountiful cookbook and give it a try. And if there are any extras, you might want to share them with Gregory Tabor at the feasting area just outside Stormwind. They're one of his favorites, but to hear him tell it, everything's his favorite!",
+    "name": "Candied Sweet Potatoes",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

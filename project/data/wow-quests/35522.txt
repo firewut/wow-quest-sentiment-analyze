@@ -1,0 +1,8 @@
+{
+    "_id": "35522",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "The Black Morass Reward Quest",
+    "requires_level": 70,
+    "zone": "Quests"
+}

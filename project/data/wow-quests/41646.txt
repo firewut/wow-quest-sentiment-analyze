@@ -1,0 +1,8 @@
+{
+    "_id": "41646",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Work Order: Silkweave Gloves",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

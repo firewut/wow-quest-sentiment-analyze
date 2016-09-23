@@ -1,0 +1,8 @@
+{
+    "_id": "9889",
+    "description": "I have been watching these beasts for days. The fat one says that he is waiting for something. What he is waiting for, however, is a mystery.I have a plan but it is going to involve some violence on your part. You will need to kill several of his subordinates and then beat him within an inch of his life. Do this and I am certain he will tell us everything that we need to know.",
+    "name": "Don't Kill the Fat One",
+    "requires_level": 64,
+    "side": "horde",
+    "zone": "Terokkar Forest"
+}

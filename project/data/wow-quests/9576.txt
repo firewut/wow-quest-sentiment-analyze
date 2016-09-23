@@ -1,0 +1,7 @@
+{
+    "_id": "9576",
+    "description": "Examining the crudely constructed pendant, you notice the crystal pulsating softly. Though it emits little light, you can almost feel the crystal radiating a sense of wrongness.You're not quite sure what might have possessed Cruelfin to create this pendant, but the find is too important to ignore. You should probably show it to someone at Blood Watch.",
+    "name": "Cruelfin's Necklace",
+    "requires_level": 9,
+    "zone": "Bloodmyst Isle"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14374",
+    "description": "Here it is - the Hand of Iruxos.Got it from one o' them Burning Blade leaders myself.Powerful thing! See, yeh use it on demon portals and they just disappear! Spooky magic, but these be desperate times...The demons keep comin' at this rate, and my camp will get overrun before ya know it.Here ya go, now. Get on with it.",
+    "name": "Portals of the Legion",
+    "requires_level": 31,
+    "zone": "Desolace"
+}

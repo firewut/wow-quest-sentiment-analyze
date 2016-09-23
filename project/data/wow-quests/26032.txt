@@ -1,0 +1,7 @@
+{
+    "_id": "26032",
+    "description": "I entrusted the sigil of Arathor to Lieutenant Valorcall, leader of my cavalry. He barely escaped with his life when it was taken.It is unlikely he will do so again. Valorcall patrols the road between Stromgarde Keep and Refuge Point. Find him, and take the sigil from him once more.",
+    "name": "Sigil of Arathor",
+    "requires_level": 25,
+    "zone": "Arathi Highlands"
+}

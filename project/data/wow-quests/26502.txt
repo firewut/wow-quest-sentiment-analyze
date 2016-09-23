@@ -1,0 +1,7 @@
+{
+    "_id": "26502",
+    "description": "To the north lies the Fractured Front. That is where most of the heavy fighting is happening.Go into Stonehearth proper and grab all of the thunder stones that you can. Our engineers need them for the catapults.When you have enough, take them to Clay Mudaxle. Don't mind his tongue. He's old and cranky, and should have gone back into the earth thousands of years ago.",
+    "name": "Thunder Stones",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

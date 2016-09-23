@@ -1,0 +1,8 @@
+{
+    "_id": "24678",
+    "description": "It's time to pack it in, <name>.  Most of our people have made it through -- it's your turn now.Take this torch, you're going to need it.  The tunnel is full of nasty, knee-biting critters of the worst kind.  Use it to keep them at bay.Speak to Krennan on the other side.",
+    "name": "Knee-Deep",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

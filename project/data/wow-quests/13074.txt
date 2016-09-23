@@ -1,0 +1,7 @@
+{
+    "_id": "13074",
+    "description": "What we need exists only in the emerald dream... acorns that are infused with a powerful restorative magic. Many places in this sacred glade are closely tied with the dream, and my shrine is among them.I will send you into the dream to recover some of these acorns. Be prepared though <class>, for this method of entering the dream is dangerous, and it is very likely you will be beset by nightmares.Recover a few acorns quickly, and then depart from my shrine or pinch yourself to return to our world.",
+    "name": "Hope Within the Emerald Nightmare",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

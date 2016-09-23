@@ -1,0 +1,7 @@
+{
+    "_id": "27956",
+    "description": "Lunk came from the Badlands.  Other ogres try to make Lunk fight.Lunk hate fighting.  Lunk want to learn.Lunk sees machines to the south.  Machines made of gears.Maybe if you ask nicely, machines will give you some gears?  Then maybe Lunk can have a gear, and learn about machines too.",
+    "name": "Lunk's Task",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

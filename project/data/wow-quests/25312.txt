@@ -1,0 +1,7 @@
+{
+    "_id": "25312",
+    "description": "<You force your own image into the Eye, manipulating it to give the ogres different orders. As you do so, you feel another presence within the Eye, probing you, seeking out a weakness. A distant being fumes with rage. You've made some enemies today!><Your work here is done, and the ogres will be friendly to you. Return to Royce Duskwhisper at the Shrine of Goldrinn and let him know what you've accomplished.>",
+    "name": "Return to Duskwhisper",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

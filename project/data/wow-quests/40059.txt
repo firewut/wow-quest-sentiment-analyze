@@ -1,0 +1,8 @@
+{
+    "_id": "40059",
+    "added_in_patch": 7,
+    "description": "The ruins nearby have had an eruption of ley energies. Twisted night elves deemed \"Nightfallen\" are scavenging the area as we speak.Collect ley dust for me from the nightfallen in the ruins up ahead. The dust is infused with arcane energy that I'll need to complete my ritual.",
+    "name": "Opposites Repel",
+    "requires_level": 102,
+    "zone": "Inscription"
+}

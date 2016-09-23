@@ -1,0 +1,7 @@
+{
+    "_id": "25274",
+    "description": "You're here at last, <name>.  Just in time as well.News of Ragnaros' emergence has spurred a large wave of recruits to seek membership in the Twilight's Hammer.If you're to infiltrate the cult, the time is now.  We will need recruitment papers -- signed in blood by a referring Twilight member.  Lure one of the new recruits away from the group and hit them with this blackjack.If you're lucky, you'll be able to steal his recruitment papers.  Bring them back to me and we'll do our best to alter them.",
+    "name": "Signed in Blood",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

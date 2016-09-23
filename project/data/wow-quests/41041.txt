@@ -1,0 +1,8 @@
+{
+    "_id": "41041",
+    "added_in_patch": 7,
+    "description": "Commander Malt'his was conferring with a sea giant?We are prepared to battle the naga, but if they have yoked the strength of the sea giants, we will have to double our efforts to save Jandvik.You must tell Toryl about this grave news right away.",
+    "name": "Sashj'tar Allies DISBALED",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

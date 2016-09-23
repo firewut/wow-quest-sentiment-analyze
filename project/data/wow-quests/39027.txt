@@ -1,0 +1,8 @@
+{
+    "_id": "39027",
+    "added_in_patch": 7,
+    "description": "We are about to follow a drogbar into a cave, something we warn our children never to do.Even so, several of our warbraves have already followed Dargrul inside.Come, join us in battle and let us reclaim the Hammer of Khaz'goroth.",
+    "name": "Dargrul and the Hammer",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

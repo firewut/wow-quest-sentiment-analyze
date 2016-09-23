@@ -1,0 +1,7 @@
+{
+    "_id": "27839",
+    "description": "Though we aren't formally at war yet, the Neferset do not hesitate to imprison or kill all who trespass upon their territories.King Phaoris refuses to reciprocate, even when they use our lands to smuggle stolen relics from the tombs of our ancestors.My scouts report that the Neferset are about to move a major shipment of looted weapons south of here.I've instructed the laborers you recruited to assist you.  Call upon them with this horn when you find the smugglers and recover the weapons.",
+    "name": "Ancient Weapons",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

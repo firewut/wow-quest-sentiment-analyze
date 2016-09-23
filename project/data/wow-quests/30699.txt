@@ -1,0 +1,8 @@
+{
+    "_id": "30699",
+    "added_in_patch": 5,
+    "description": "The battle against the Sha is eternal - we can not leave this place. \r\n\r\nBut I am troubled by the absence of reinforcements from the Monastery given that we sent for them days ago. \r\n\r\nYou have performed admirably, perhaps you could travel to Winter's Blossom, our base camp on the way to the Shado-Pan Monastery. Speak with Lin Silentstrike once you arrive - he should know what is happening. To get there, travel north of the village and follow the road through Shado-Li Basin to Winter's Blossom.",
+    "name": "To Winter's Blossom",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

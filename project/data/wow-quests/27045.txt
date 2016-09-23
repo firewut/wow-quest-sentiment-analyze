@@ -1,0 +1,8 @@
+{
+    "_id": "27045",
+    "description": "The Gilneas Liberation Front leader, Darius Crowley, has been meeting with another worgen inside this cottage for the past three days. I'm not sure what's going on, but we need to get inside the cottage and find a good hiding place from where we can eavesdrop.It's now or never, <race>. We may never get another shot.Just promise me that if I don't make it, you'll return to Forsaken High Command and inform Belmont of whatever we discover.",
+    "name": "Waiting to Exsanguinate",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

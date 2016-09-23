@@ -1,0 +1,8 @@
+{
+    "_id": "11897",
+    "description": "The Scourge are showing no sign of letting up, <name>.  It's those blasted sinkholes; they connect to tunnels all the way to Icecrown for all we know.  Giant undead worms burrow under the ground to create them.If there's something years of mining has taught me it's that without support beams, tunnels will cave in easily after an explosion.Take these explosives and place them at the entrance to the sinkholes up on the ridge beyond the beach to the west.  Come back after you've collapsed them.",
+    "name": "Plug the Sinkholes",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

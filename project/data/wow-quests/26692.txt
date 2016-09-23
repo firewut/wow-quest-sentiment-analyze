@@ -1,0 +1,7 @@
+{
+    "_id": "26692",
+    "description": "Now that every Blackrock orc south of Lake Everstill is nothing more than ash and cinder, we can turn our attention to the Shadowhide gnoll army of Galardell Valley, directly north of here.I want you to head out there and kill 'em all, <name>! Initiate Operation: Extinction, soldier. For Bravo Company and for the Alliance!",
+    "name": "Shadowhide Extinction",
+    "requires_level": 17,
+    "zone": "Redridge Mountains"
+}

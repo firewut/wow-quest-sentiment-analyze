@@ -1,0 +1,8 @@
+{
+    "_id": "42777",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Belath Dawnblade",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

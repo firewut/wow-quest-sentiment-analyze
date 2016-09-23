@@ -1,0 +1,8 @@
+{
+    "_id": "32816",
+    "added_in_patch": 5.3,
+    "description": "In his time of uncertainty, the last emperor walked a lonely path up this mountain, until he had at last found his answers.I am here to walk the same path, and it seems you have questions of your own to be answered. Perhaps you will join me, and we can both be satisfied?Oh, but I am getting old, and this blizzard is proving too much for my bones. Could you climb ahead and anchor this rope? I can hoist myself along from there.Together we shall walk the path of the last emperor.",
+    "name": "Path of the Last Emperor",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

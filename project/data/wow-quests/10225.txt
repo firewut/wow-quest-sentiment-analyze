@@ -1,0 +1,7 @@
+{
+    "_id": "10225",
+    "description": "<name>!  I need you to take all of these etherlithium crystals over to Chief Engineer Trep, my, uh, chief of engineering.He should know what to do with them.  And if he doesn't, you see to it that he finds out!",
+    "name": "Report to Engineering",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

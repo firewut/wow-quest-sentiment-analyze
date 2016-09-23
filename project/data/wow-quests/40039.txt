@@ -1,0 +1,8 @@
+{
+    "_id": "40039",
+    "added_in_patch": 7,
+    "description": "He mentions your name... his blade... aethril...I'd say that this is absolutely from Herbalist Tharillon, and by the look of it, he may have succumbed to the plight of the nightfallen. Furthermore, if he's looking for aethril, he's probably in Azsuna somewhere.Tharillon is currently our only hope for learning more about starlight roses. Seek him out, but you may want to bring friends... he likely won't go without a fight.",
+    "name": "Tharillon's Fall",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44379",
+    "added_in_patch": 7,
+    "description": "There is one more pair of blades still within reach that would aid you against the Legion.If you wish to pursue them, just let me know.",
+    "name": "In Pursuit of Power",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

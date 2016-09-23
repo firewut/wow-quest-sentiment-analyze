@@ -1,0 +1,8 @@
+{
+    "_id": "40996",
+    "added_in_patch": 7,
+    "description": "Look, I won't tell ya how to live your life... not for free, anyways... but I will pass along one bit of advice.Don't do an ounce of work if you can find some sucker to do it for you.There's a communal, uh... \"bulletin board,\" let's call it, right outside the tavern. My buddy Nikki can help you get just about anything usin' that board.You should hit her up.",
+    "name": "Delegation",
+    "requires_level": 98,
+    "zone": "Rogue Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27878",
+    "description": "I've got a little proposition for you, if you're interested.The Dark Iron dwarves were here long before we arrived.  That means that, once these titan ruins opened up, the Dark Irons were the first ones in there, looting all the choice items.  I'll bet they've still got those treasures locked up inside Angor Fortress, northwest of here.I want you to find such a treasure... then steal it.",
+    "name": "Forcible Acquisition",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

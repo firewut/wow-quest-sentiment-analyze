@@ -1,0 +1,8 @@
+{
+    "_id": "41494",
+    "added_in_patch": 7,
+    "description": "You have done very well, <race>. \r\n\r\nAll that is left is to combine their blessings into the ritual bundle and imbue the Moonwell. Once that is done, Mayruna will add a little water from a purified Moonwell and this land will be protected so long as we inhabit it.\r\n\r\nThis is a momentous occasion, my friend. You bear witness to a sacred rite not often performed in the company of strangers.\r\n\r\nI will let you do the honors- simply place the ritual bundle into the sacred waters and we will do the rest.",
+    "name": "Eminent Grow-main",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35812",
+    "added_in_patch": 6,
+    "description": "Defeating Crater Lord Igneous has yielded you a trophy worthy of acclaim.Take this to Maraad at Highpass.",
+    "name": "Trophy of Glory: Crater Lord Igneous",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

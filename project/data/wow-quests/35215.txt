@@ -1,0 +1,9 @@
+{
+    "_id": "35215",
+    "added_in_patch": 6,
+    "description": "Journal Entry 25 -The botani got themselves a leader who calls himself... er... herself... er... itself the Voice of Iyu.Seems the botani see the genesaur as gods and only the most bossy of the botani get to speak on behalf of the genesaur.When we tried askin' it about the artifact we found back at the base it got all angry and sent off Lera and Nori and I ain't seen either of them since.I got a bad feelin' about this thing.",
+    "name": "The Voice of Iyu",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

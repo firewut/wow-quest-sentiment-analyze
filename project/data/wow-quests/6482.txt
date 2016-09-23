@@ -1,0 +1,7 @@
+{
+    "_id": "6482",
+    "description": "Eh?  Who are you?<name>?  You're no furbolg.  They are cursed!  They thought I was a bear and captured me, and now they starve me!  My strength is failing...Help me escape, then speak with my sister Yama at the Splintertree Post to the east.<name>! I must escape!",
+    "name": "Freedom to Ruul",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

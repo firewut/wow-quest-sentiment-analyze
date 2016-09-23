@@ -1,0 +1,8 @@
+{
+    "_id": "31181",
+    "added_in_patch": 5,
+    "description": "We got a load of empty crab pots out there that need fresh bait.Now, we COULD pull them one at a time and bait them up here in comfort. A nice chair to sit on, maybe a hot cup of tea to keep you warm. Sounds nice, doesn't it?Never gonna happen.Head to Lonesome Cove, immediately southwest, and bait those pots with two chunks of fresh sea monarch. By \"fresh\" I mean killed right there in the water.Oh, and by \"pots\" I mean traps. If you wanna be part of the crew, you'd better learn the lingo.",
+    "name": "Fresh Pots",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "37119",
+    "added_in_patch": 6,
+    "description": "The inn provides a perfect place for adventurers to take a rest between their travels. It's also a great place to talk them into joining our cause over a few rounds of drinks.\r\n\r\nGo through my selection and let's see if we can obtain a new recruit. I'll give you a little something as a finder's fee for your efforts.",
+    "name": "The Headhunter's Harvest",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Frostfire Ridge"
+}

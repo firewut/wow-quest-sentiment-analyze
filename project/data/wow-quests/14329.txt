@@ -1,0 +1,7 @@
+{
+    "_id": "14329",
+    "description": "<The Khan of the Gelkis clan stares at you with an empty gaze as you detail the demon threat and Leh'prah's visions.>It matters not to me what becomes of this land now. I have failed my clan and my forefathers....There is but one thing left in this world that might bring my old soul hope, and she's likely dead as well.My precious daughter, Kherrah, was taken from me by the Maraudine clan. If you can bring her back to me alive, I shall consider your proposal.",
+    "name": "Not So Fast!",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

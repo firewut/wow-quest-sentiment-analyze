@@ -1,0 +1,7 @@
+{
+    "_id": "13223",
+    "description": "Dem Alliance won't be long to hold that keep. Murp would smash walls, but Murp has to stay in camp. Murp wish he could smash Alliance who want to hurt Horde demolishers.You, <name>! You go in Murp's place. Protect 3 siege vehicles while they smash Alliance buildings. Alliance not expect you to defend demolisher. Show Alliance how smart Murp is! ",
+    "name": "Defend the Siege",
+    "requires_level": 85,
+    "zone": "Wintergrasp"
+}

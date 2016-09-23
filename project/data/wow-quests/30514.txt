@@ -1,0 +1,9 @@
+{
+    "_id": "30514",
+    "added_in_patch": 5,
+    "description": "The yaungol have always been a difficult, proud people, but never this violent or aggressive. \r\n\r\nI do not know what has prompted this change in their behavior, but we don't have time to find out, now. We fear for our lives and livelihoods as long as Ur-Bataar, leader of the Bataari yaungol, lives.\r\n\r\nGo, set the banner in his camp ablaze to challenge him, and then defeat him in battle. Only then will we be secure.",
+    "name": "Challenge Accepted",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

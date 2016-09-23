@@ -1,0 +1,7 @@
+{
+    "_id": "11700",
+    "description": "My evil twin's out there somewhere now.I'm pretty sure that she's not back at the airstrip. In fact, wherever she ended up, it's colder there than here. But I could only 'feel' her for a moment.Oh well, I'll reconfigure this thing and port myself back to the airstrip soon enough. In the meantime, do you think you could go east and let Bixie know that I'll meet her back there?Thanks, <name>!",
+    "name": "Let Bixie Know",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

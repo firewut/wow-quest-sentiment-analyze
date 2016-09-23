@@ -1,0 +1,8 @@
+{
+    "_id": "41276",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Rocket Boot Fishing",
+    "requires_level": 110,
+    "zone": "Fishing"
+}

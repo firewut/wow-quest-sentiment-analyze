@@ -1,0 +1,7 @@
+{
+    "_id": "11949",
+    "description": "Kaskala is a sacred place for us, <race>.  Our ancestors were guided here by the spirit of Tayutka herself.Now these foul creatures attack us from the mists without any provocation.We will show them that our spears are not merely for whaling.  Fight alongside us, friend.  Perhaps my people might repay you some time in the future.",
+    "name": "Not Without a Fight!",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

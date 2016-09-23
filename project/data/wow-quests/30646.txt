@@ -1,0 +1,8 @@
+{
+    "_id": "30646",
+    "added_in_patch": 5,
+    "description": "I never thought it would come to this!Leven went to face Warlord Zhao-Jin the Bloodletter at the top of the palace steps, but our reinforcements cannot get through!We are the only ones who stand between him and the Vale's greatest... and most deadly... powers.Please, <name>, you must find a way to stop him!",
+    "name": "The Final Power",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

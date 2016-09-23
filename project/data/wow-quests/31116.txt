@@ -1,0 +1,8 @@
+{
+    "_id": "31116",
+    "added_in_patch": 5,
+    "description": "The spirits that the Yaungol are entrapping from the remains of their ancestors still have a bit of the essence of life within them. \r\n\r\nIf you defeat the spirits in battle, you can collect essence from the spirits as dust, and then return it to the corpses in the area, which will send the spirits, finally, to the next life.\r\n\r\nThis is the only way to set right what the Deadtalkers have done. It will also help keep us safe.",
+    "name": "Spirit Dust",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

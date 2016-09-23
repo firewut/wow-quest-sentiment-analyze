@@ -1,0 +1,8 @@
+{
+    "_id": "39495",
+    "added_in_patch": 7,
+    "description": "Now that you've uncovered the demons, I can sense them, too. Specifically, I sense a very powerful fel lord deeper in the cave. You need to grab his power while you still can.\r\n\r\nIf you can deal with their leader, we will take care of the rest of his forces in that cave.",
+    "name": "Hidden No More",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

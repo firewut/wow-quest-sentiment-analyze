@@ -1,0 +1,8 @@
+{
+    "_id": "41220",
+    "added_in_patch": 7,
+    "description": "<name>, we must find a way to reseal the Tomb of Sargeras.\r\n\r\nI have uncovered information concerning an ancient relic, which might be the key to stopping the Legion.\r\n\r\nOur search begins on the ancient elven island of Azsuna. Long ago, it was where the Highborne elves of Suramar perfected their mightiest of magics. Now it is a cursed ruin.\r\n\r\nThe Illidari demon hunters have established a camp on the island. As they are the only people we know in the area, that is where we will begin.\r\n\r\nReady to take wing?",
+    "name": "Down to Azsuna",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

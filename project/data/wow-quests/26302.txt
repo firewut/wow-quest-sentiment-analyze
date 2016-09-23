@@ -1,0 +1,7 @@
+{
+    "_id": "26302",
+    "description": "<Nezzliok speaks.>You have appeased myself and my chief, so I will tell you that which you seek to discover...Young Yenniku is lost to his clan.He was taken by the witchdoctor Zanzil the Outcast.  Now Zanzil controls him, body and soul, and only the most potent magic could set him free.A magic that you do not have, <class>.Perhaps your Darkspear allies at Bambala in the east can offer a hope of Yenniku's salvation.  But that, I doubt.",
+    "name": "Chasing Yenniku's Fate",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

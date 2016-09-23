@@ -1,0 +1,7 @@
+{
+    "_id": "13039",
+    "description": "We can't keep this pace up,  lad. Once the breach was blown, the floodgates opened up. The Scourge have been pourin' through ever since with no end in sight!We need every able bodied man and woman to help keep the tide of evil at bay. Get out there and do yer share, friend. Kill as many of those monsters as ye can!",
+    "name": "Defending The Vanguard",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

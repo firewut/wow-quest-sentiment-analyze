@@ -1,0 +1,7 @@
+{
+    "_id": "25520",
+    "description": "I slumbered in the healing silt of Hyjal.I slept until the world broke open.When the others came, I was not ready.I am ready now, <race>.My children and I. Slow to anger.But our wrath is final.Tell those who sent you that we are prepared for war.The others will be cast from the mountain.",
+    "name": "An Ancient Awakens",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

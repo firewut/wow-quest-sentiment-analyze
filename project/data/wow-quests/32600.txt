@@ -1,0 +1,8 @@
+{
+    "_id": "32600",
+    "added_in_patch": 5.2,
+    "description": "Dear $p,I have read your reports on the Zandalari and believe I have some clues as to their most recent aggression.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
+    "name": "The Zandalari Prophecy",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

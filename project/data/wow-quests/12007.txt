@@ -1,0 +1,7 @@
+{
+    "_id": "12007",
+    "description": "I've got it, mon!To da north, on da Ziggurat at Zeb'Halak be a stone head with ruby eyes. One o' dem be da Eye of the Prophets! Bring it to the brazier there and drink my elixir.Again, ya be needing some mojo for my elixir to work - dis time from da warlord, Zim'bo. He be hidin' in one of da huts in Zeb'Halak.It be a shame to kill Zim'bo, mon, but he swore da blood oath to defend Drak'Tharon and he done failed. Now at least his mojo be helpin' us to reclaim Drak'Tharon.",
+    "name": "Sacrifices Must be Made",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

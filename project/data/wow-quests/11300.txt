@@ -1,0 +1,7 @@
+{
+    "_id": "11300",
+    "description": "Oluf will come out if you defeat the other gladiators. That's 'bout the only way we're getting' that cipher back. Put on your whompin' boots and get busy in the Ring of Judgement. If you do manage to get the cipher back, return it to Glorenfeld o'er near the entrance to these catacombs.Me? Don't worry about me! We're on the brink of discovering the missing link to human-kind!",
+    "name": "Stunning Defeat at the Ring",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

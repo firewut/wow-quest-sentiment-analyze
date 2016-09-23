@@ -1,0 +1,8 @@
+{
+    "_id": "30283",
+    "added_in_patch": 5,
+    "description": "Sometimes I feel sorry for these mogu... maybe ripping out the spirits of other races is just their way of coping with family issues at home? Maybe we should be more sympathetic to where all this aggression stems from?Or we could just smash all their soul-stealing ritual objects down at the lake. That sounds more fun to me personally.",
+    "name": "A Smashing Impression",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

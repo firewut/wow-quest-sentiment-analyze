@@ -1,0 +1,9 @@
+{
+    "_id": "34682",
+    "added_in_patch": 6,
+    "description": "There weren't many survivors of the Warsong attack. The few remaining rangari have gone up to one of the bluffs overlooking Telaar.The rangari are waiting for you. They're planning a surprise counter-attack.My copter's taken a beating. The auto-pilot's set to take you up there. I think she's got one last trip in her.Maybe.",
+    "name": "Operation: Surprise Party",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

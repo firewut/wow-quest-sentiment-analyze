@@ -1,0 +1,9 @@
+{
+    "_id": "37327",
+    "added_in_patch": 6,
+    "description": "Commander, I believe it best for the safety of this outpost if we secure an ally. We've made contact with one of the outcast arakkoa, but he refused to make any promises of alliance without speaking to you first.He called himself Dusk-Seer Irrizar. Could you go speak with him, commander?You can find him just southwest of Veil Terokk.",
+    "name": "Befriending the Locals",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

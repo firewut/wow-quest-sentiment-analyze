@@ -1,0 +1,8 @@
+{
+    "_id": "42639",
+    "added_in_patch": 7,
+    "description": "Unfortunately, we may have another problem. That mist seeping out of the ruins has affected the looting pirates. It's driven them quite mad.\r\n\r\nOnly one of them seems to be unaffected - a captainly fellow with a very fine hat.  He wears a large ruby amulet, which I believe protects him from the mist. You'll need it if you are to enter the tomb.\r\n\r\nHe may not give it up willingly.",
+    "name": "A Stone of Blood",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

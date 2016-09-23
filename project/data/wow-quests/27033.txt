@@ -1,0 +1,8 @@
+{
+    "_id": "27033",
+    "description": "Opening the hatch, you find an imposing looking mechanical device hooked to several wires, gears, and who knows what else.It's easily detached. Time to bring it back to Bingles.",
+    "name": "Skystrider's Heart",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32380",
+    "added_in_patch": 5.1,
+    "description": "We're going to need help if we hope to figure out Garrosh's plans for Pandaria.I have someone specific in mind, but he will not be easy to convince.Agent Connelly considers himself retired, but one does not simply leave the SI: 7. We've had an undercover agent following his every move for months.Currently, he is disguising himself as a high roller at Bizmo's Brawlpub. Something about settling an old debt.Meet with our undercover agent in the Brawler's Guild.",
+    "name": "The Best Around",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

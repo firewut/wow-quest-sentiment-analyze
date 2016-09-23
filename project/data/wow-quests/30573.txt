@@ -1,0 +1,7 @@
+{
+    "_id": "30573",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Tracking Event: Started Third Expansion",
+    "zone": "Valley of the Four Winds"
+}

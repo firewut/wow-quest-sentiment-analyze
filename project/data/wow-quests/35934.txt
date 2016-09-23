@@ -1,0 +1,8 @@
+{
+    "_id": "35934",
+    "added_in_patch": 6,
+    "description": "Since I left on my last hunt, the Iron Horde have drawn nearer and reinforced their positions.<A grin spreads across Rexxar's lips.>They've created a target-rich environment.I must continue nursing Nisha to health for now. You go in my stead, friend. Fill them with the fear and pain that they inflicted on her.Make their screams fill the canyon!",
+    "name": "Nisha's Vengeance",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

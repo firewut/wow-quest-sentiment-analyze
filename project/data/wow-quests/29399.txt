@@ -1,0 +1,7 @@
+{
+    "_id": "29399",
+    "description": "I told the 'gentleman' that there might be a shop more suited to his needs in the Dwarven District. It's called the Shady Lady and you can find the entrance near the Canals on the western side of the district.Quincy Cutler is your man. He trades in merchandise an honest broker would never touch!",
+    "name": "Shopping Around",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11990",
+    "description": "First things first, mon. There be some preparatory work that need doin'.No tellin' how long dey gunna keep me here. Ya be needin' a powerful elixir so we can be keepin' in touch.Lucky for you, I know just the thing! And the ingredients all be close by.I need a vial from the pretty little troll over there, some waterweed from the lake just north of here, and a few haze leaves found around the camp here.Hurry now, mon, before dey be haulin' me away.",
+    "name": "Vial of Visions",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

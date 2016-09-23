@@ -1,0 +1,8 @@
+{
+    "_id": "43581",
+    "added_in_patch": 7,
+    "description": "The horrors you braved in the thicket are only the beginning. Within the Emerald Nightmare you will face the very heart of the corruption that threatens the stability of all life on Azeroth.But not just yet.We have not yet managed to permeate the magic protecting Xavius' sinister realm. Once we have, however, you should return here; there is still much to be done.",
+    "name": "The Wisdom of Patience",
+    "requires_level": 110,
+    "zone": "Artifact"
+}

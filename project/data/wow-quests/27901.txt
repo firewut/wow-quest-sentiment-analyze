@@ -1,0 +1,7 @@
+{
+    "_id": "27901",
+    "description": "Listen, <name>. I don't have a lot of time to talk here.These guys are excavating relics from this site and taking pieces of ancient technology that we need!I need you to check their crates for pieces of an ancient activation device. The officers should have the codes you'll need to open them.Hurry!We can't let them load this stuff into their planes!",
+    "name": "They Don't Know What They've Got Here",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

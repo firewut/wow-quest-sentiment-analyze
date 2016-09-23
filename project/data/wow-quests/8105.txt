@@ -1,0 +1,7 @@
+{
+    "_id": "8105",
+    "description": "<name>, the battle for Arathi Basin is a battle for resources and territory.  Key points in the area must be held and operated in order to supply our forces with much needed raw materials and supplies.  I charge you to assault the points farthest from our Arathi Basin base.Assault the farm, the mine, the lumber mill and the blacksmith when they are controlled by the enemy.  Find the enemy's banner and rip it from its flag post!When you have done this to all four points, return to me.",
+    "name": "The Battle for Arathi Basin!",
+    "requires_level": 50,
+    "zone": "Arathi Basin"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11494",
+    "description": "Your construct is ready to go. All abilities have been given a once over and I've programmed the machine to both comprehend and speak the language of the titans.Take the construct to Baelgun's Excavation Site, due south of here, and collect data from the lightning infused relics that litter the site. Remember to bluff any iron dwarves that suspect your construct to be a fake. And don't forget about rocket jumping from rune to rune to get around in there!Get on the table when you're ready!",
+    "name": "Lightning Infused Relics",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

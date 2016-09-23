@@ -1,0 +1,7 @@
+{
+    "_id": "9916",
+    "description": "The Boulderfist have moved the supplies they stole from our village to the twin clefts of Nagrand, found west of here in the Halaani Basin.While you are in the area, keep your eye out for the supply crates. If we can get those back, it would ease much of the burden that has fallen upon the matrons of Garadar.",
+    "name": "Bleeding Hollow Supply Crates",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

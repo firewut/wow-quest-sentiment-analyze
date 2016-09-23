@@ -1,0 +1,7 @@
+{
+    "_id": "13164",
+    "description": "With the riders of the Host of Suffering dead, now is the time to put an end to their true leader: Orbaz Bloodbane.Mograine caught up with me while you were off and told me that he found where Orbaz is hiding. Under Icecrown Citadel itself, there is an immense pit - you will find Orbaz just outside its lip.Some of the Ebon Blade's strongest agents have already been dispatched - gather aid and join the fight. It is time for Bloodbane to die.",
+    "name": "The Fate of Bloodbane",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

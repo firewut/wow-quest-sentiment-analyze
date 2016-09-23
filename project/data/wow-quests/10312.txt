@@ -1,0 +1,7 @@
+{
+    "_id": "10312",
+    "description": "Silencing the spirits has not bled them of their aggression as we had hoped it would. The malevolent spirits you subdued have reemerged in the streets of the town.We must uncover what is causing this to happen. The destruction of Kirin'Var was just the beginning, or else the spirits would have been quieted by now.The town hall in the southern section of Kirin'Var maintained a logbook of all the residents. Last I heard, it was in the keeping of Battle-Mage Dathric. Perhaps his spirit still has it.",
+    "name": "The Annals of Kirin'Var",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

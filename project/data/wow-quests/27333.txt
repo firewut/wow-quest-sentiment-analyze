@@ -1,0 +1,7 @@
+{
+    "_id": "27333",
+    "description": "I don't know how much longer we can hold out for, <name>. Crowley and Bloodfang's worgen know every hidey hole and safe spot in Gilneas. One minute they're standing in front of you and the next minute they're gone! We're gonna lose this war to attacks of opportunity, even though we have a superior military presence.But momma didn't raise no quitter! Forsaken until the end, my friend.Head west into the headlands and help our soldiers on the front line. Kill the attacking worgen rebels!",
+    "name": "Losing Ground",
+    "requires_level": 12,
+    "zone": "Ruins of Gilneas"
+}

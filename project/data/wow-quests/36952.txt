@@ -1,0 +1,9 @@
+{
+    "_id": "36952",
+    "added_in_patch": 6,
+    "description": "**Eyes Only -- Commander <name>**\r\n\r\nDurotan recommended dat we be gettin' a foothold in Nagrand, so I taken the liberty of dispatchin' some of da boys.\r\n\r\nThrall's already reportin' the new outpost be nearly complete. He been askin' me to let ya know they be ready for ya.\r\n\r\nA windrider be waitin' to catch ya up with the latest caravan shipment whenever you be ready,  siram;.\r\n\r\n-- Rokhan",
+    "name": "Taking the Fight to Nagrand",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

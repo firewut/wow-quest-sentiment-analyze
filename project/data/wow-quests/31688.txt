@@ -1,0 +1,8 @@
+{
+    "_id": "31688",
+    "added_in_patch": 5,
+    "description": "One of my best scouts, Restless Leng, went missing during a mission on the other side of Sik'vess. I'm hopeful that he was captured rather than killed, but with the mantid corrupted so heavily by sha, it doesn't seem likely.Still, can you investigate the cages around Sik'vess? I owe him a more thorough search than even this, but I have no men to spare without allowing our southern lines to break.Please, <class>, even if there's no life left in him, find him that I might know his fate.",
+    "name": "The Search for Restless Leng",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

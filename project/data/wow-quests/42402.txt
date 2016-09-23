@@ -1,0 +1,8 @@
+{
+    "_id": "42402",
+    "added_in_patch": 7,
+    "description": "Many powerful factions have pledged their loyalty to the Unseen Path. It's time that we call on them to help us defeat Hakkar and his demon hounds.Send your champions into the field to track down these leaders and let them know we require their help.",
+    "name": "Requesting Reinforcements",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

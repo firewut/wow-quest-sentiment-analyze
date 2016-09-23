@@ -1,0 +1,7 @@
+{
+    "_id": "27478",
+    "description": "The Dark Lady is correct in her assertion that I am able to unlock the codex. Unfortunately, I need a signet ring from a Dalaran archmage to do it. My own ring was taken when I died many years ago, but there still might be a way.While Dalaran has floated away, the outskirts of the city remain. Far to the east lie the ruins of Dalaran. It is there that you will find an archmage known as Relios. \"Take\" his signet ring and bring it back to me.You may use the portal behind me to get to the crater.",
+    "name": "Relios the Relic Keeper",
+    "requires_level": 14,
+    "zone": "Alterac Mountains"
+}

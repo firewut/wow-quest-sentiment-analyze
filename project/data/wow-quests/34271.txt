@@ -1,0 +1,9 @@
+{
+    "_id": "34271",
+    "added_in_patch": 6,
+    "description": "Looming monstrously between us and the inner chamber is the great fury we have sought to return to the Throne of Elements.Gordawg stands before us enthralled; a slave to the pale and their mysterious master. My heart is heavy with grief to see such a great creature mindless and enslaved by evil.There is no going back, in order to push forward you must go through Gordawg.It pains me, but Gordawg must be slain.When the deed is done, we will return the fury's heart to the Throne of Elements.",
+    "name": "The Fate of Gordawg",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

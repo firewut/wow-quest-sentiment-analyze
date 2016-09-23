@@ -1,0 +1,7 @@
+{
+    "_id": "28097",
+    "description": "Kroggs started the assault to push up the canyon. He's just past the gate to our southeast.I'm going to get the squad together to join the attack. We'll meet you down there.",
+    "name": "The Gates of Grim Batol",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

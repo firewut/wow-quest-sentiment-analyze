@@ -1,0 +1,7 @@
+{
+    "_id": "9902",
+    "description": "Traveling through naga-infested lands has shown me the cruel truth about how my less fortunate brethren are treated. At Marshlight Lake, to the southwest, I observed a particularly malicious taskmaster playing a deadly game. He orders his slaves out to the islands in Marshlight Lake when he knows that Terrorclaw, a giant bogstrok, is ready to feed.I needn't describe what results. We are too few to take on the naga directly, but we can deprive them of their amusement by killing their pet.",
+    "name": "The Terror of Marshlight Lake",
+    "requires_level": 62,
+    "zone": "Zangarmarsh"
+}

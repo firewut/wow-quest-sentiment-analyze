@@ -1,0 +1,8 @@
+{
+    "_id": "30363",
+    "added_in_patch": 5,
+    "description": "Ha! So my father just wasted twenty years of our lives on a fool's errand!I'm taking charge.When Tyrande sent us here she was very specific that we not come back until we find the source of the Light that she saw in her visions. It's obvious now that the Pools of Youth were not it.I want you to look for my scout. I sent her to investigate the Crane Temple but she hasn't returned.Get her report and rendezvous with us at the Sentinel Basecamp further west.",
+    "name": "Going on the Offensive",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

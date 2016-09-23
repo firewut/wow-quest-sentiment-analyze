@@ -1,0 +1,8 @@
+{
+    "_id": "32393",
+    "added_in_patch": 5.1,
+    "description": "It's time for our boldest move yet, <name>.Since you acquired intel on the location of the Divine Bell, we've amassed a top team to excavate the artifact without delay.Commander Sarannha Skyglaive leads the expedition into the northern-most reaches of Kun-Lai Summit.Join them at once, and use whatever skills you need to make the endeavor a success.Good luck, <class>. I don't need to tell you how important this mission is to the Alliance.Speak to Fennie. She'll get you there quickly.",
+    "name": "The Ruins of Korune",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

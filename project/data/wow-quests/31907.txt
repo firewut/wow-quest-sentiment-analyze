@@ -1,0 +1,8 @@
+{
+    "_id": "31907",
+    "added_in_patch": 5,
+    "description": "With each passing day my power grows. Resistance is futile.",
+    "name": "Zoltan",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

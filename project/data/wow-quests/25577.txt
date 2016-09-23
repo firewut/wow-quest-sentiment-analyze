@@ -1,0 +1,7 @@
+{
+    "_id": "25577",
+    "description": "These searing guardians are murderous! We destroy them, and within minutes, they reignite from the ashes.I think there's a way to destroy them permanently, but we'll need someone who can fight through the front ranks.<name>, kill the searing guardians and take their smoldering cores to the nearby anvils. Smash them on the Twilight Anvils, and destroy them for good!",
+    "name": "Crushing the Cores",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

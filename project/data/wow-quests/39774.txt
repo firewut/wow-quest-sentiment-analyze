@@ -1,0 +1,8 @@
+{
+    "_id": "39774",
+    "added_in_patch": 7,
+    "description": "The demons that escaped must be detained. Killing them is not an option. Uriah was entrusted to deliver the prisoners to Allari for interrogation, and I will not let him fail.\r\n\r\nI've seen Uriah trap many demons. It seems... complicated, but I think I can pull it off. I'll just need you to subdue them first.",
+    "name": "Demon Detainment",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

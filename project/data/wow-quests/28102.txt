@@ -1,0 +1,7 @@
+{
+    "_id": "28102",
+    "description": "It's time for the final push against the Jadefire!If you're prepared to break through their foul barrier and bring the fight to their leader, I'd also ask your help against the lesser satyr. Our druids fight ferociously, but your strength can help turn the battle.Show the Jadefire that their power will no longer hold sway over these lands!",
+    "name": "Fight the Power",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

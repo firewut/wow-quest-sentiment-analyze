@@ -1,0 +1,7 @@
+{
+    "_id": "25048",
+    "description": "If we want to convince Mister Noggenfogger to let us move more gnomes here, we've got to show him just how nice we are! I know just the thing.Gadgetzan's under blockade by pirates, but plenty of the goods that get blown off the ships survive intact... they just wash away. Most of them wash up in the shallows just south of town.If you could go collect those supplies for them, it'd help us make friends! And it'll keep that mean goblin girl over there from taking them and selling them.",
+    "name": "Seaside Salvage",
+    "requires_level": 43,
+    "zone": "Tanaris"
+}

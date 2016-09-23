@@ -1,0 +1,8 @@
+{
+    "_id": "43327",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "The Magic of Flight",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

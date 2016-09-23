@@ -1,0 +1,7 @@
+{
+    "_id": "25549",
+    "description": "The mad prophets of the Twilight's Hammer congregate in the area just north of the Ascendant's Rise.It is said that their dark visions are granted to them directly by the Old Gods.  Whether or not that is true, they provide tremendous spiritual guidance to the cult.  Attacking the Sanctum of the Prophets will deal a devastating blow to the enemy's morale and if we're lucky you might run into one of the Firelord's own emissaries while you're there.",
+    "name": "The Sanctum of the Prophets",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

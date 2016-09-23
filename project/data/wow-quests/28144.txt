@@ -1,0 +1,8 @@
+{
+    "_id": "28144",
+    "description": "The long stretch of coastline directly south of our position that extends from west to east is known as the Western Strand. Along the Western Strand you will find two things: murlocs and our stolen \"supplies.\"<Keyton puts his hands in the air and makes quotation marks with his fingers.>Those damned thieving murlocs struck while our backs were turned and took our \"supplies.\"Sarus and I cannot leave this post. We need you to head to the Western Strand and recover those \"supplies!\"",
+    "name": "Thieving Little Monsters!",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Hillsbrad Foothills"
+}

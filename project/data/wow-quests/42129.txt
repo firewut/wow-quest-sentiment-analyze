@@ -1,0 +1,8 @@
+{
+    "_id": "42129",
+    "added_in_patch": 7,
+    "description": "To finish my work here, I will need a magical item called the Pendant of Starlight.For centuries, the Archdruids of the Dreamgrove passed the pendant down from one guardian to the next. But one day, a naga siren used deception to take it!This pendant stores a great amount of arcane power... power I can use to heal the grove.Get it back, and I will be very grateful!",
+    "name": "The Pendant of Starlight",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

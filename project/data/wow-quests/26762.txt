@@ -1,0 +1,7 @@
+{
+    "_id": "26762",
+    "description": "We sent a number of our war constructs north into Needlerock Slag, but none of them ever returned. We know that the stone trogg mystics have done something to them.What we're concerned about is that the mystics will control and turn them against us, like they have with the fungal giants.<name>, go into the stone trogg town and reactivate the constructs.",
+    "name": "Reactivate the Constructs",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

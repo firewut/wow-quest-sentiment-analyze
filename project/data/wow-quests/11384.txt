@@ -1,0 +1,7 @@
+{
+    "_id": "11384",
+    "description": "Not long ago, I was approached by a kaldorei druidess with a touching request. And plenty of gold, of course!It would appear that the forces of Darnassus wish to restore an ancient of the arcane known as Warp Splinter. The giant tree has been confused or corrupted, I'm not certain, but you'll find it inside of the Botanica at Tempest Keep.She said that all they would need to regrow him was a small clipping.",
+    "name": "Wanted: A Warp Splinter Clipping",
+    "requires_level": 70,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42183",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "To Battle!",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

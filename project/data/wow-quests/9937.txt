@@ -1,0 +1,7 @@
+{
+    "_id": "9937",
+    "description": "You have destroyed two of the biggest threats in Nagrand, <name>. Are you ready to take on the scourge of the Spirit Fields?Durn the Hungerer lords over the area surrounding Oshu'gun, decimating all in his path. Thus far, none have been able to rid Nagrand of this ferocious gronn. Venture to the Spirit Fields, far southwest of here, near Oshu'gun, and track down Durn. Slay him and I assure you rewards commensurate with the difficulty of the task at hand.\r\n",
+    "name": "Wanted: Durn the Hungerer",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

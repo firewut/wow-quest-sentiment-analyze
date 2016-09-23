@@ -1,0 +1,7 @@
+{
+    "_id": "12092",
+    "description": "It's not only the <race> race that has been impacted by what the blue dragonflight forces have done. The ancients of the Lothalor Woods to the southeast have been affected as well.Some have been corrupted-- avoid them at all costs--but most can still be saved. However, the treants of the woods seem to be immune to the magic seeping through the land and the arcane wyrms that have come with it.Ask the treants for their bark and feed it to the ancients. Hopefully that will be enough to save them.",
+    "name": "Strengthen the Ancients",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

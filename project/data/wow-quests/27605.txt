@@ -1,0 +1,7 @@
+{
+    "_id": "27605",
+    "description": "The Hakkar blood the Atal'ai have been injecting into the green dragons has had devastating effects on the dragons themselves. It appears that these dragons, former jailors of the Atal'ai, have been corrupted by its presence in their bodies and have become creatures of Nightmare.Eranikus, Ysera's primary consort and lead watcher over the temple, was infused with the largest quantities of blood and has become twisted beyond imagination. After Jammal'an is dead, find Eranikus and end him.",
+    "name": "Eranikus",
+    "requires_level": 50,
+    "zone": "Sunken Temple"
+}

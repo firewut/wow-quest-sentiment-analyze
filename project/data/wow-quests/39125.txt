@@ -1,0 +1,8 @@
+{
+    "_id": "39125",
+    "added_in_patch": 7,
+    "description": "The demons spreading this corruption must be dealt with. Kill their generals and their plans will unravel.\r\n\r\nI have a gift for you. This horn was given to me by Odyn himself, use it to strike down all that stand in your way.\r\n\r\nThe gods will surely smile upon you if you thwart the advances of Legion.",
+    "name": "Demon Destroyer",
+    "requires_level": 108,
+    "zone": "Stormheim"
+}

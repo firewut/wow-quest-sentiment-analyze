@@ -1,0 +1,7 @@
+{
+    "_id": "11230",
+    "description": "This should have been a walk in the park.  Their forces are hungry, injured and ill equipped.  Yet somehow, we walked right into their trap.We approached these reefs from the south to gain cover and were immediately boarded by the Alliance dogs.I'm sorry to say, if you want our cannons to fire at anything, you're going to have to help us take our ships back.",
+    "name": "Ambushed!",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

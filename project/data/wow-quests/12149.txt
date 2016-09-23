@@ -1,0 +1,7 @@
+{
+    "_id": "12149",
+    "description": "Magnataur are hideously violent creatures... this is the main reason we rarely see them come together in any real numbers without killing each other. A powerful leader has stepped up somewhere among them and we need to hunt him down if we are to stop this threat. I will start asking around. I need you to disrupt them as much as possible in the meantime.East of here there are 3 torches erected. Near them, there are 3 dominant Magnataur - put them down to buy us some time to hunt down this leader.",
+    "name": "Mighty Magnataur",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

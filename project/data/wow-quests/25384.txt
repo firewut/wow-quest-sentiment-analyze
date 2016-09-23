@@ -1,0 +1,7 @@
+{
+    "_id": "25384",
+    "description": "Thank you, <class>. We owe you our lives.But if we're ever to see the surface again, we'll have to fight our way out of here. That means I'm going to need to craft some weapons and armor.Before you found me, I saw a soldier eaten by one of those orca up there.I'll wager that if you cut a few of them open, you'll find plenty of scrap metal for me to work with.If you don't want to swim up to them, I bet you could lure one down to you with some entrails...",
+    "name": "Raw Materials",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

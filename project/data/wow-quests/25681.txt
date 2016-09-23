@@ -1,0 +1,8 @@
+{
+    "_id": "25681",
+    "description": "The tunnel ahead, headin' west, will take you straight to Chief Prospector Hondo's office.  He's the big cheese around here, and Tak'arili's heard tell that he's a darn fine miner.  That's why he's gotta die.There's just one problem: the pathway is completely FILLED with those pesky Nethergarde flunkies.  That's why you gotta disguise yourself.  Hop inside this box here, and sneak down the pathway.  Hopefully you won't draw too much suspicion on your way to da killin'.",
+    "name": "Some People Just Need Killing",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

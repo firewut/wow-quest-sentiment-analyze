@@ -1,0 +1,8 @@
+{
+    "_id": "31087",
+    "added_in_patch": 5,
+    "description": "The Klaxxi'va hear another paragon. His cries are weak and lost in darkness. The signal must be strengthened.There is a tower in Amberglow Hollow that has been silent for many years. It must sing; the Klaxxi demand it!This time I will go with you. You will help me repair it.Take the resonating crystal and meet me in Amberglow.",
+    "name": "Extending Our Coverage",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

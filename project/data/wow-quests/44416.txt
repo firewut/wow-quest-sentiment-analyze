@@ -1,0 +1,8 @@
+{
+    "_id": "44416",
+    "added_in_patch": 7,
+    "description": "A glorious battle indeed!\r\n\r\nIf I am correct, we can expect something a bit more deadly at any moment.\r\n\r\nThe Legion often uses fodder such as these to prepare the way for a more worthy foe.\r\n\r\nMy axe is sharp and ready.",
+    "name": "Hunter of Night",
+    "requires_level": 98,
+    "zone": "Black Rook Hold"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11653",
+    "description": "That'll do her, chief! So, here's what I want ya to do....Take my blaster and head north to Magmoth. If we're gonna have a chance at all against those monsters, we need to cut them down to size... so to speak.In order to gauge its effectiveness, I need you to slay the magnataur while the blaster's effects are still on it. Any of the crushers or mates will do, but don't bother with the offspring... they're too small to worry about.",
+    "name": "Hah... You're Not So Big Now!",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

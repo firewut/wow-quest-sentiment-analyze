@@ -1,0 +1,7 @@
+{
+    "_id": "8894",
+    "description": "It's horrible, I tell you! Strange things happening in the spire, the magister and his apprentices run off, and then the next thing that you know, the whole grounds are overrun with these magical beasties! And who told Wyllithen? No one, that's who!<Class>, you've got to help me clear some of these things out... I cannot maintain the grounds while these 'anomalies' are running amok!",
+    "name": "Cleaning up the Grounds",
+    "requires_level": 8,
+    "zone": "Eversong Woods"
+}

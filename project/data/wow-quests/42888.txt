@@ -1,0 +1,8 @@
+{
+    "_id": "42888",
+    "added_in_patch": 7,
+    "description": "We have important work at hand, Highlord.Spread out across the legion camp are orbs that are vital to the Legion's planning and strategy.Destroying them will severely damage their efforts. I will go with you, Highlord, to see this through.",
+    "name": "Communication Orbs",
+    "requires_level": 103,
+    "zone": "Paladin Campaign"
+}

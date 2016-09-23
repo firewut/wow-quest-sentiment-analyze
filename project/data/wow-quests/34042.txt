@@ -1,0 +1,9 @@
+{
+    "_id": "34042",
+    "added_in_patch": 6,
+    "description": "There's no way Thaelin sold out. NO way! They gotta be holdin' him here somewhere.Come on, $p. I know he's with the Alliance, and I know they aren't your favorite people, but we do NOT want the Iron Horde having access to his work - trust me!",
+    "name": "A Fellow Gearhead",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

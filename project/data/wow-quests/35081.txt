@@ -1,0 +1,8 @@
+{
+    "_id": "35081",
+    "added_in_patch": 6,
+    "description": "Here's the situation.We need to get this salvage operation moving ASAP, but the ship went down right in the middle of the wasp nests.The ugly bugs are all over the place, and I can't call my team in here to start work until they're taken care of.Go kill as many of 'em as you can and I'll cut you in on some of the haul.",
+    "name": "Clearing Out Before Cleaning Up",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

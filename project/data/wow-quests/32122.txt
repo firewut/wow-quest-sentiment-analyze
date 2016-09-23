@@ -1,0 +1,8 @@
+{
+    "_id": "32122",
+    "added_in_patch": 5.1,
+    "description": "When we dug through to an ancient section of the mogu ruins, that's when all this nasty business went down - and that's where the two worst o' these ghosties emerged.\r\n\r\nWe need them gone, friend.",
+    "name": "Ogudei's Lieutenants",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

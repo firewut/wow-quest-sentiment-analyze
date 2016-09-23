@@ -1,0 +1,7 @@
+{
+    "_id": "11637",
+    "description": "After my small force of grunts were killed, I was dragged down here and ritually murdered. The snobold who did this is known as Kaganishu.Though you have vanquished his shaman helpers, my spirit is still tethered to this place. After he slew me, he created a fetish from my body, which anchors me here. Kaganishu is using it to learn all that I know of shamanism.You must retrieve the fetish from him and use it upon my spirit. Kaganishu is nearby in the caves.Only then will I truly be free.",
+    "name": "Kaganishu",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

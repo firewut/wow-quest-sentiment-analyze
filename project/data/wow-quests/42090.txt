@@ -1,0 +1,8 @@
+{
+    "_id": "42090",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Skittering Subjects",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

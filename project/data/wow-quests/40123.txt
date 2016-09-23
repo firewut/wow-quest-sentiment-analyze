@@ -1,0 +1,8 @@
+{
+    "_id": "40123",
+    "added_in_patch": 7,
+    "description": "<Thalyssra winces and holds her abdomen.>\r\n\r\nNgh... I can ignore this wound no longer.\r\n\r\nHelp me patch this up. I will explain everything.",
+    "name": "The Nightborne Pact",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

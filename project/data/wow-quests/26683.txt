@@ -1,0 +1,8 @@
+{
+    "_id": "26683",
+    "description": "My gnomish friend, Cog, has promised to help me build a device which will let me peer towards the stars. According to Cog's blueprint, what I need first is a way to reflect light.I remember a woman by the name of Mary who became well known around these parts for always carrying a looking glass.  Perhaps you can track Mary down and see if she might lend us a reflective surface for this project?  I believe she once resided in southern Duskwood. . .",
+    "name": "Look To The Stars",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

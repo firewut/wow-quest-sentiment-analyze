@@ -1,0 +1,7 @@
+{
+    "_id": "9255",
+    "description": "As discouraging as my research results are, they still contain valuable data.  I must have a magister review my work before it is taken seriously.  Please, take these notes to Magistrix Landra Dawnstrider at Fairbreeze Village, west of here.",
+    "name": "Research Notes",
+    "requires_level": 7,
+    "zone": "Eversong Woods"
+}

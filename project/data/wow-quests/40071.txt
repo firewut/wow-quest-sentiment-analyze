@@ -1,0 +1,8 @@
+{
+    "_id": "40071",
+    "added_in_patch": 7,
+    "description": "The drogbar will continue to breed vicious worms as long as their tamer lives. \r\n\r\nKorgrul is responsible for turning fledgling rockcrawlers into the monstrous siege worms that are ridden into battle.\r\n\r\nHead deep into the chasm and end his life, so that we may also see the end of these unnatural creatures.",
+    "name": "Tamer Takedown",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

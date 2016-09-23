@@ -1,0 +1,9 @@
+{
+    "_id": "35197",
+    "added_in_patch": 6,
+    "description": "<Anchorite Laanda's voice is barely a whisper.>You must report back... to Khadgar.Socrethar means to take Shattrath. He will... continue to recruit followers... to his side...Thank you for... helping me... in my final hour...Leave me... I would like to rest...",
+    "name": "Forging Ahead",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

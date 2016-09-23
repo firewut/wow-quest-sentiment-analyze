@@ -1,0 +1,8 @@
+{
+    "_id": "38790",
+    "added_in_patch": 7,
+    "description": "This seam has been mined before - it bears the telltale diagonal ruts of a miner's pick.Looking down, that pick now lays on the ground - handle broken, pick-point dulled with use and years.Carved into the haft is a familiar name:\"Rethu\"",
+    "name": "Rethu's Pick",
+    "requires_level": 98,
+    "zone": "Mining"
+}

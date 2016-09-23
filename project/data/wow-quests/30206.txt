@@ -1,0 +1,8 @@
+{
+    "_id": "30206",
+    "added_in_patch": 5,
+    "description": "In the walls of the ruins themselves, there are precious runestones that we can make use of back in the eastern vale.If you see any while you are within the ruins, would you be so kind as to bring them back to me?",
+    "name": "Runes in the Ruins",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

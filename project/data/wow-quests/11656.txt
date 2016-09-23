@@ -1,0 +1,8 @@
+{
+    "_id": "11656",
+    "description": "Tuskarr magic is similar to what your people call shamanism. While we serve the elements differently than you, the power that we are able to call forth is formidable.<Waltor waves a torch-like baton in front of you.>With this tuskarr torch I want you to return to the mist and strike at the Kvaldir vessels. You will find three of their vessels docked behind the mist at Garrosh's Landing, north of here, and one docked off the shores of Pal'ea, to the south. Burn their ships in effigy! For all to see!",
+    "name": "Burn in Effigy",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

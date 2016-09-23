@@ -1,0 +1,8 @@
+{
+    "_id": "30751",
+    "added_in_patch": 5,
+    "description": "I have an idea, and... am prepared to make a terrible sacrifice.\r\n\r\nAs much as I know that we need my stout brew, to fortify our defenders for the long-term security of the Ox Gate...\r\n\r\nIt is too painful to discuss details now, but please - while you are up here defending the wall, gather the barrels of oil they are using to light their arrows. We will need them.",
+    "name": "A Terrible Sacrifice",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

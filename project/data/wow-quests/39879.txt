@@ -1,0 +1,8 @@
+{
+    "_id": "39879",
+    "added_in_patch": 7,
+    "description": "There are many types of spirits in this world, <name>. Some benevolent, some troubled.They all resonate with different reagents which we use to enchant our armor. One such reagent are the crystals of the ambershards.They are a violent creature born of the earth and have recently been disturbed by the drogbar. However, disturbed or not, the crystals they bear are of great use to my people for enchantments. Bring me some and I'll show you what I mean.",
+    "name": "Strong Like the Earth",
+    "requires_level": 102,
+    "zone": "Enchanting"
+}

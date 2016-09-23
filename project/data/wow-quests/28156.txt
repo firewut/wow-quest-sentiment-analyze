@@ -1,0 +1,7 @@
+{
+    "_id": "28156",
+    "description": "<You can hear Dumass speaking through the webbing.>HI! SPIDERS EVERYWHERE! THE CAPTAIN SENT ME TO SAVE THE WORLD AND CAPTURE HUMANS! WHAT IS THIS PLACE ANYWAY? IT'S SO HOT! I...<Dumass goes on and on about his situation.>Perhaps you should cut him free and get him back to safety. Or you can just leave him here, though it's your fault that he's stuck in this mine.",
+    "name": "Deep Mine Rescue",
+    "requires_level": 19,
+    "zone": "Hillsbrad Foothills"
+}

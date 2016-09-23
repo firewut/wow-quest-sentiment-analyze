@@ -1,0 +1,7 @@
+{
+    "_id": "10335",
+    "description": "I have to get over to the Ruins of Farahlon to start my excavations!  The problem is that the place has been infested by demons!Maybe you could do some preliminary work for me?There are three locations within the ruins to the northeast where I want you to place surveying markers.  Each is near a draenei banner.Return to me when you've managed to place all three markers.",
+    "name": "Surveying the Ruins",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

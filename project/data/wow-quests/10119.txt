@@ -1,0 +1,7 @@
+{
+    "_id": "10119",
+    "description": "For 20 years the Dark Portal has remained a silent monument - a eulogy to a time long since forgotten.<Relthorn looks around.>I never thought to see this day, yet here we stand, looking into the abyss.On the other side of this gate we are locked in a savage war - a war that we cannot win without support. You must go through the Dark Portal and help our troops, <class>.Report to Commander Duron at once. He awaits you in Outland...",
+    "name": "Through the Dark Portal",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

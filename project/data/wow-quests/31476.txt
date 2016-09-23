@@ -1,0 +1,8 @@
+{
+    "_id": "31476",
+    "added_in_patch": 5,
+    "description": "When I cook with steam, I infuse the food with my love. Let me teach you the recipe for shrimp dumplings.",
+    "name": "The Spirit of Cooking",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

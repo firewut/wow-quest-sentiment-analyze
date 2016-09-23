@@ -1,0 +1,7 @@
+{
+    "_id": "10676",
+    "description": "<David gathers his smithing supplies.>You've done well in getting everything we'll need to reforge the anti-demon blade. Your hard work and dedication is about to be repaid.The time has come to forge the sword.",
+    "name": "Bane of the Illidari",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

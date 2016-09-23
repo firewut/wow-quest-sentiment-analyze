@@ -1,0 +1,8 @@
+{
+    "_id": "31024",
+    "added_in_patch": 5,
+    "description": "As Kovok grows, he will require equal parts discipline and reward.I lack no shortage of discipline, but our supply of meat is almost empty.To the south, you will find turtles roaming north of the Lake of Stars and Kypari Zar.Hunt them. Kovok likes the taste of their flesh.",
+    "name": "Kunchong Treats",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

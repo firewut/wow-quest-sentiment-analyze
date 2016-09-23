@@ -1,0 +1,8 @@
+{
+    "_id": "32832",
+    "added_in_patch": 5.3,
+    "description": "",
+    "name": "Taran Zhu and Dezco Scene",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38958",
+    "added_in_patch": 7,
+    "description": "Your assistance, <name>, if you have a moment.I've been attempting to reproduce a pattern for footwear that I spotted a while back, but I'm having trouble getting the right color for my dye. Our black dye is too dark, our blue dye is too bright, and mixing the two doesn't look right.The color I'm looking for is more of a squid-ink blue. If, in your travels, you come across any dyes of this color, would you do me the favor of bringing some to me?",
+    "name": "The Right Color",
+    "requires_level": 106,
+    "zone": "Tailoring"
+}

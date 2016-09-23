@@ -1,0 +1,7 @@
+{
+    "_id": "26590",
+    "description": "Hey, listen.  You don't look like any old tourist, and I'm in a bit of a pickle.  My cousin up north sent me this weird artifact, and I need your help to... ah... identify it.To start out, I'm going to need you to obtain The Holy Water of Clarity.  Rumor has it that whoever drinks from this spring is given a vision of clarity.Sounds pretty promising, doesn't it?Obtain it from the Nek'mani Wellspring at the peak of the naga camp.  Good luck!",
+    "name": "The Holy Water of Clarity",
+    "requires_level": 26,
+    "zone": "The Cape of Stranglethorn"
+}

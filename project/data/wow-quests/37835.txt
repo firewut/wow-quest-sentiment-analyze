@@ -1,0 +1,7 @@
+{
+    "_id": "37835",
+    "description": "The Shadow Council are more entrenched than you expected. A large contingent seems focused on infiltrating the draenei Exarch Council in the town above.Khadgar certainly wouldn't complain if you did a little... \"housecleaning.\"",
+    "name": "The Shadow War",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

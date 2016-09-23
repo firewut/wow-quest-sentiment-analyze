@@ -1,0 +1,7 @@
+{
+    "_id": "12664",
+    "description": "Ahh, another supplicant answerin' da Lich King's call.<Drakuru sniffs you.>Freshly scourged, eh? Ya still be reekin' of da living!Long be da line of dem who seek da Lich King's blessings. Ya must rise above da masses and prove yerself worthy of wieldin' true power.Lookin' down over Zul'Drak, I sensed potential in ya. I ordered your - invitation.Da rest be up ta you....Go an' speak ta Gorebag for a tour of Zul'Drak. Dere be much ta do if you're to be of any worth to me.",
+    "name": "Dark Horizon",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

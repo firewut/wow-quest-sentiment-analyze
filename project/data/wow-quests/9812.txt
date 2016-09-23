@@ -1,0 +1,7 @@
+{
+    "_id": "9812",
+    "description": "There were doubts about our capabilities among our potential new allies.  Of what use could we be to them when perceived as unable to deal with our problems at home?This changes everything.  No longer will our power be questioned.  We'll be able to join the Horde as equals.Take this letter to Sylvanas, ruler of the Forsaken.  She's already on our side but the news of Dar'Khan's death will be music to her ears.  Prepare for a long trip, <name>.  If all goes well she will send you to Orgrimmar.",
+    "name": "Envoy to the Horde",
+    "requires_level": 15,
+    "zone": "Undercity"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "36687",
+    "added_in_patch": 6,
+    "description": "A challenge has been issued at the Ring of Blood.\r\n\r\nBring friends and do battle to prove your right as champion.",
+    "name": "Challenge at the Ring of Blood",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "6609",
+    "description": "I'm a dwarf fer cryin' out loud,  lad! I ain't been designed to fish! I mean look at me! I'm practically made outta stone.I got nothin' left - ye tapped me out. I've taught ye all I know, flipflop!Don't ye get it? Ah, fine. I got an ol' friend over on Kalimdor who can help ye out. 'Is name be Nat Pagle, a fine lad. Find him on the islands south o' Theramore. Git goin'!",
+    "name": "I Got Nothin' Left!",
+    "requires_level": 35,
+    "zone": "Fishing"
+}

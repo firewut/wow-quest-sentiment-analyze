@@ -1,0 +1,8 @@
+{
+    "_id": "36792",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "Bonus Objective: Bladefist Hold",
+    "requires_level": 96,
+    "zone": "Bladefist Hold"
+}

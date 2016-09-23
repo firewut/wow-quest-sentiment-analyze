@@ -1,0 +1,7 @@
+{
+    "_id": "26636",
+    "description": "We're gonna need some supplies before we take out the Blackrock army and save Redridge. That's where you come in, rookie.Keeshan put me in charge of getting camouflage together for the Bravo Company field kit. What I need you to do is head south and do a little \"gardening.\" There are two parts to this little adventure that you should know about: (1) Leaves and (2) Fox poop. We need 'em both.What did you think camo was made of?Head south and gather what I asked for,  pal.",
+    "name": "Bravo Company Field Kit: Camouflage",
+    "requires_level": 16,
+    "zone": "Redridge Mountains"
+}

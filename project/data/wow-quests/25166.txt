@@ -1,0 +1,7 @@
+{
+    "_id": "25166",
+    "description": "This is getting pretty fun, but let's not forget we're here for Gnomeregan!We spotted the captain of the Southsea over on one of his boats to the south, past where all the fighting is. He's all alone on his little boat, undefended!If you go take care of him, we'll have the rest of these pirates mopped up in no time.",
+    "name": "Captain Dreadbeard",
+    "requires_level": 44,
+    "zone": "Tanaris"
+}

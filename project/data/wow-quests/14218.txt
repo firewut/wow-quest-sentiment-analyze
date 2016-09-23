@@ -1,0 +1,8 @@
+{
+    "_id": "14218",
+    "description": "The time has come, <name>.  If we're going to put a dent in their numbers, the time is now.We have the position.We have the firepower.All that remains to be seen is whether we have the courage... and I sure don't see a coward standing in front of me.",
+    "name": "By Blood and Ash",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

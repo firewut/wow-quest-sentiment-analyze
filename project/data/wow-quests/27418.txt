@@ -1,0 +1,7 @@
+{
+    "_id": "27418",
+    "description": "You dare challenge Overlord Mok'Morokk?Haw!Me crush tiny <race>!You tell me when ready for good beating.",
+    "name": "Challenge Overlord Mok'Morokk",
+    "requires_level": 37,
+    "zone": "Dustwallow Marsh"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27719",
+    "description": "Take my Water of Life and pass it into the corpse of the drowned dwarf.He was a worker of metals in life, and though his body now feeds my loch, the Water will allow him to tell you what you want to know.Then, take your information and be gone from my demesne.",
+    "name": "Water of Life",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

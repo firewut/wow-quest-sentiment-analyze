@@ -1,0 +1,8 @@
+{
+    "_id": "40146",
+    "added_in_patch": 7,
+    "description": "The other skinner - pair of skinners, to be honest - that comes to mind when you show me this scroll is a student of mine, named Seymour, and his mother Agnes.Last I heard, they were in Stormheim, hunting the storm drakes.",
+    "name": "Seymour and Agnes",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

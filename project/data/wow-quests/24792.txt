@@ -1,0 +1,7 @@
+{
+    "_id": "24792",
+    "description": "You look like you're fit enough to take on the mastermind behind this operation. The ledger says he's holed up in Shadowfang Keep, so that's where I'm sending you.We have a man there already but he's not fit to take down an operation by himself. Head on in; the investigator will meet you there. And bring friends.",
+    "name": "Man on the Inside",
+    "requires_level": 78,
+    "zone": "Love is in the Air"
+}

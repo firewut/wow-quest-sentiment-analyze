@@ -1,0 +1,7 @@
+{
+    "_id": "12459",
+    "description": "Since we only have three seeds, we must put them to the best possible use.Your targets are one of the reanimated frost wyrms circling to the north near Galakrond's Rest, Turgid the Vile in the ruined barracks at the Carrion Fields to the east, and Overseer Deathgaze at Jintha'kalar far to the northeast.While the seeds would outright destroy one of the lesser Scourge, they will greatly weaken these three. Enough so, in fact, that you should be able to handle them on your own.",
+    "name": "That Which Creates Can Also Destroy",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

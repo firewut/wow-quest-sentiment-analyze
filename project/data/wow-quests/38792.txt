@@ -1,0 +1,8 @@
+{
+    "_id": "38792",
+    "added_in_patch": 7,
+    "description": "You... miner... let me see your pick a moment.<The tauren spirit eyes your mining equipment.>You remind me of myself, when I once walked this land. Savor these moments, miner. They cannot last forever.<With a bow, the spirit disappears.>",
+    "name": "Rethu's Lesson",
+    "requires_level": 98,
+    "zone": "Mining"
+}

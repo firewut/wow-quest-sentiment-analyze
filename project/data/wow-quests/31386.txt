@@ -1,0 +1,8 @@
+{
+    "_id": "31386",
+    "added_in_patch": 5,
+    "description": "We Shado-Pan have amassed our forces for the first time in many ages.The Sha of Hatred has escaped beyond the Serpent's Spine, and it is our sacred duty to imprison it once more.However, our warriors are great, but our numbers too few. Help from a capable <class> may not be turned away.If you wish to join the offensive, speak to Taran Zhu in the Townlong Steppes.",
+    "name": "The Shado-Pan Offensive",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

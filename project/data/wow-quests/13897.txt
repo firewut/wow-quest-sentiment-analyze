@@ -1,0 +1,7 @@
+{
+    "_id": "13897",
+    "description": "The ancients of the grove have come to our aid, <name>.  I can see through their eyes even as we speak.The Twilight's Hammer has been forced to hasten their ritual and have thus only managed to resurrect but a remnant of dread Soggoth.Destroy it before it's too late, <name>.  I am needed elsewhere.Return to the druids at the Grove of the Ancients when it is all over they will direct you further.",
+    "name": "The Battle for Darkshore",
+    "requires_level": 17,
+    "zone": "Darkshore"
+}

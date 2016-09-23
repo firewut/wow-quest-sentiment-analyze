@@ -1,0 +1,7 @@
+{
+    "_id": "24657",
+    "description": "<Marion listens with horror as you tell her why you're trying to track down Snivel.>You mean, he might've used some kind of chemical on me? Ew! I can't believe I fell for that fraud!If he's finished all of his errands, he's on his way down to the docks to catch a ship to the South Seas! Whatever you do, <name>, you can't let him get away with this.Hurry down to Stormwind Harbor before you miss him!",
+    "name": "A Friendly Chat...",
+    "requires_level": 1,
+    "zone": "Love is in the Air"
+}

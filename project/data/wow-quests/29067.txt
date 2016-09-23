@@ -1,0 +1,7 @@
+{
+    "_id": "29067",
+    "description": "Potions, potions, potions.  Can I teach you about potions!You're going to have to bring me samples of your work, so I know you're ready.Remember <name>, you can only learn ONE specialization, so if you complete your potion training, then elixir and transmutation specialization will no longer be available.",
+    "name": "Potion Master",
+    "requires_level": 1,
+    "zone": "Alchemy"
+}

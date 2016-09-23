@@ -1,0 +1,8 @@
+{
+    "_id": "32410",
+    "added_in_patch": 5.1,
+    "description": "We can rescue as many Sunreavers as we want, but if they can't escape, then there's no point.The Silver Covenant will certainly be subduing and killing the Sunreavers' dragonhawks. Put a stop to it.",
+    "name": "Krasus' Landing",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

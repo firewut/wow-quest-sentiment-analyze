@@ -1,0 +1,8 @@
+{
+    "_id": "38668",
+    "added_in_patch": 7,
+    "description": "Your jailor, Maiev Shadowsong, stands outside the open door to your cell. The leader of the Wardens has just finished removing your bonds.\r\n\r\nIn the distance, you can hear sounds of battle. The unmistakable stench of the Burning Legion wafts through the air.",
+    "name": "Our Last Hope",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

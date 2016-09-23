@@ -1,0 +1,8 @@
+{
+    "_id": "14134",
+    "description": "Now that you've got that thing under control, let's gather up the lumber I was supposed to be collecting. Otherwise these orcs are going to build a catapult out of ME!Fresh lumber should be stockpiled all around the area. Use the shredder to collect all you can.",
+    "name": "The Captain's Logs",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Azshara"
+}

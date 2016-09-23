@@ -1,0 +1,9 @@
+{
+    "_id": "30651",
+    "added_in_patch": 5,
+    "description": "Oh, well now, let's have us some fun,  boyo !Those Ordo yaungol to the northwest have saved us the trouble o' havin' to make some bombs. They already have them there.Let's put their explosive barrels to good use and destroy their oil-pumpin' machines, shall we?",
+    "name": "Barrels of Fun",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

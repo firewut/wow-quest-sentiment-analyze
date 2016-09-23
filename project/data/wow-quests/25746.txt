@@ -1,0 +1,7 @@
+{
+    "_id": "25746",
+    "description": "First order of business is to thin the herd here. This place crawls.Let's start slaughtering these dragonkin and worry about why they're here later.",
+    "name": "Sethria's Brood",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

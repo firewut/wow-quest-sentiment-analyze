@@ -1,0 +1,9 @@
+{
+    "_id": "31241",
+    "added_in_patch": 5,
+    "description": "<name> good wikket, they say...<name> help hozen, they say...No more grookin' <name>, they say.That ok. Look out there. Wicked wikkets fallin' like rain, ripe for the grookin'!Go, join the fun. But remember, Chief Kah Kah gets all the shinies! That's hozen rule number two.<Jeek Jeek scratches his head.>Hmm, all hozen rules are number two...",
+    "name": "Wicked Wikkets",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

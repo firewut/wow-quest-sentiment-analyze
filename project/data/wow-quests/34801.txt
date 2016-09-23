@@ -1,0 +1,9 @@
+{
+    "_id": "34801",
+    "added_in_patch": 6,
+    "description": "I am a humble pilgrim, I swear. Please don't hurt me!My sister and I were traveling to Auchindoun to pay our respects to my grandmother when we hit an overturned rock and lost control of our caravan. I managed to survive, but my sister...<Nadur cries.>Please, you have to help me. I'm desperate. If you could bring me some prowler blood, snapdragon flowers, and a riverhopper eye, I can fashion a potion to bring her back. I just know it....",
+    "name": "A Pilgrimage Gone Awry",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

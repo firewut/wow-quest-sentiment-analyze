@@ -1,0 +1,7 @@
+{
+    "_id": "25883",
+    "description": "Naga weapons...As you cast your vision on the naga Holding Pens, you see dozens of similar stacks of tridents positioned strategically.Destroying their weapons could only hamper whatever wicked designs they are carrying out in this region...",
+    "name": "How Disarming",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

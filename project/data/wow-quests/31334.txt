@@ -1,0 +1,8 @@
+{
+    "_id": "31334",
+    "added_in_patch": 5,
+    "description": "Cooking is harder than I thought.  It's so easy to burn things.",
+    "name": "Lesson 3: Toasted Fish Jerky",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

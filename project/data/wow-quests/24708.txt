@@ -1,0 +1,7 @@
+{
+    "_id": "24708",
+    "description": "One of the things I hate the most about digging is the fact that half the time, all you find is dirt.  That's why I've been spending most of my time out here tinkering instead of digging.Let me show you what I've invented: the Fossil-Finder 3000.  I just put the finishing touches on it.  If it works properly, it should find the largest fossils in the area.  I know, sweet, huh?Test it out and see if you can find some ridiculously big dinosaur bones.",
+    "name": "The Fossil-Finder 3000",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28223",
+    "description": "We have almost finished clearing out the revolting prisoners in The Hole, but one last problem remains.  The warden.Warden Silva is their master and they will do anything for him.  If we take him out, we take them all out.  Finish him off and bring me back his keys.  We can use those keys to explore deeper into the cellblock and possibly gain access to the water supply here on the island.",
+    "name": "The Warden",
+    "requires_level": 85,
+    "zone": "Tol Barad"
+}

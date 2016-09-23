@@ -1,0 +1,8 @@
+{
+    "_id": "31490",
+    "added_in_patch": 5,
+    "description": "First things first; let's kill us some crusaders.And when I say kill the Scarlet Crusade, I mean wipe them out, root and branch, rank and file.",
+    "name": "Rank and File",
+    "requires_level": 26,
+    "zone": "Scarlet Halls"
+}

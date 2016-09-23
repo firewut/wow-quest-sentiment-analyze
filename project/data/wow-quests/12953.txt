@@ -1,0 +1,7 @@
+{
+    "_id": "12953",
+    "description": "The crate is filled with incendiary harpoons.  You recall seeing harpoon guns and dry stacks of hay outside.Perhaps Iva will appreciate the extra effort and reward you appropriately.",
+    "name": "Valkyrion Must Burn",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

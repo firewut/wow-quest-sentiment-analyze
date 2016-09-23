@@ -1,0 +1,7 @@
+{
+    "_id": "9349",
+    "description": "I'm starving!There's irony in that, wouldn't you say?  A starving cook?<Legassi laughs half-heartedly and taps a folded piece of parchment he has in his pocket.>According to this tourist map we were following - before we were so rudely shot down - there's an area to the southwest, near Terokkar Forest.  It's called the Razorthorn Trail, and supposedly it's brimming with delicious ravager eggs!I could cook up quite a feast if only someone were brave enough to go down there and get me some!",
+    "name": "Ravager Egg Roundup",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

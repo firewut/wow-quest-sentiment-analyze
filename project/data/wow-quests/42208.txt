@@ -1,0 +1,8 @@
+{
+    "_id": "42208",
+    "added_in_patch": 7,
+    "description": "The time has come to return to the Firelands. I need not tell you how dangerous this will be, Farseer.Ragnaros may be defeated, but the elementals of the Firelands destroy with reckless abandon. Our presence there will surely be seen as an act of aggression.I have prepared a scouting mission to the Firelands. We should send only our very best champions to make contact with the elements there.If the mission is successful, we may find the information we need to bring the Firelands into our fold.",
+    "name": "Return to the Firelands",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

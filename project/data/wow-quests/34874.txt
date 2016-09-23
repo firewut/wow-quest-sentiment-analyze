@@ -1,0 +1,9 @@
+{
+    "_id": "34874",
+    "added_in_patch": 6,
+    "description": "You are positively on fire!We have everything I need to create the scroll. Your arcane sanctum will be brimming with arcane energy in no time.I will teleport to Vol'jin's Pride to combine the reagents and marshal your forces. Meet me there when you can.",
+    "name": "Next Steps",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

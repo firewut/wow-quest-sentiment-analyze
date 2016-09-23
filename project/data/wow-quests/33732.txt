@@ -1,0 +1,8 @@
+{
+    "_id": "33732",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Sabotage Siege Weapons",
+    "requires_level": 94,
+    "zone": "Talador"
+}

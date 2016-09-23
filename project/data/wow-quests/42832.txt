@@ -1,0 +1,8 @@
+{
+    "_id": "42832",
+    "added_in_patch": 7,
+    "description": "It is my job to maintain appearances here.\r\n\r\n<Margaux smiles apologetically.>\r\n\r\nYou will have to endure a little showmanship while I walk with you through the vineyard. It is the only way to avoid suspicion.\r\n\r\nI will try to help you as I can, but only when it is safe to do so.\r\n\r\nCome with me- our first stop is the tasting pavilion. There you can sample some of our work.",
+    "name": "The Fruit of Our Efforts",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

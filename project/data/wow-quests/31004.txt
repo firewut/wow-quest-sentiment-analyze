@@ -1,0 +1,8 @@
+{
+    "_id": "31004",
+    "added_in_patch": 5,
+    "description": "Take... this...<The dying mantid struggles to outstretch his arm. In his mangled grasp rests a metal fork with two long, thin prongs and an ornately jeweled handle.>Awaken... the Wind-Reaver...It is the only way... to end the swarm.",
+    "name": "Preserved in Amber",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

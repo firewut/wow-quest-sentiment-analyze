@@ -1,0 +1,9 @@
+{
+    "_id": "36205",
+    "added_in_patch": 6,
+    "description": "It is obvious that this elaborate smithing hammer has seen better days.Now fractured and dirty, it is merely a shadow of its former self.One thing is certain, its previous owner was neither ogre nor Iron Horde.Perhaps someone at Stonefang Outpost would know who this belongs to.",
+    "name": "The Fractured Hammer",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

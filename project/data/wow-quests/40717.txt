@@ -1,0 +1,9 @@
+{
+    "_id": "40717",
+    "added_in_patch": 7,
+    "description": "<The arcane anomaly turns to address you, speaking in what is clearly Khadgar's voice.>Though I am loathe to interrupt your fight against the Legion, I must request your help in a matter of... diplomacy. We face a grave threat, and we must be at our full strength to overcome it.Some will not agree with this position.Please join me outside the Violet Citadel in Dalaran. We have repositioned the city to defend the Eastern Kingdoms. You'll find it over Deadwind Pass, above Karazhan.",
+    "name": "Calling of the Council",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Dalaran"
+}

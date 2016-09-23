@@ -1,0 +1,8 @@
+{
+    "_id": "41945",
+    "added_in_patch": 7,
+    "description": "Greetings, Grandmaster. Beside me is the Scouting Map. From it, you can direct our allies to carry out vital assignments across the Broken Isles.The first task is critical. Tianji, a renowned trainer in the ox school style of martial combat, was on her way to the Broken Isles when she was attacked.I suggest we send Chen Stormstout to help her. He will be uniquely suited to this task.",
+    "name": "Tianji of the Ox",
+    "requires_level": 101,
+    "zone": "Monk Campaign"
+}

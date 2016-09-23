@@ -1,0 +1,8 @@
+{
+    "_id": "38573",
+    "description": "Nothing is left for me here. My old clanmates have turned into foes, and Gul'dan is desecrating what remains of my people.You and your Frostwolf allies still have some fight left. If you pledge to depose Gul'dan, I will stand by your side. I will go to this garrison of yours and together we will build a shipyard that will rule the red seas of Draenor!Let your people know I am coming.",
+    "name": "Nothing Remains",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

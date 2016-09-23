@@ -1,0 +1,8 @@
+{
+    "_id": "41108",
+    "added_in_patch": 7,
+    "description": "Aboard the hippogryph you now possess a unique opportunity. It is time for the Nightborne to regret letting you live.",
+    "name": "Rain Death Upon Them",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

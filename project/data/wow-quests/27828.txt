@@ -1,0 +1,8 @@
+{
+    "_id": "27828",
+    "description": "Before we get too crazy what with the dragon-killin', let me tell you a little bit about how I fight.\"The Swift\" is what they call me, and here's why: I'll dash straight into your enemies - helmet first, mind you - and stun 'em for a few seconds.  I also keep a few potions with me for tight spots.Why don't we practice fightin' together?  Head out into the field, and try out my abilities.",
+    "name": "Eric, the Utility Dwarf",
+    "requires_level": 44,
+    "side": "alliance",
+    "zone": "Badlands"
+}

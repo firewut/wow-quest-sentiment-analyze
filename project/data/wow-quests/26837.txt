@@ -1,0 +1,7 @@
+{
+    "_id": "26837",
+    "description": "Say, <name>... you seem suitable.Bronwyn Hewstrike of the Explorers' League has been asking for recruits at his digsite in the Cape of Stranglethorn.  Personally, I don't understand why he can't just go down to Booty Bay and find his recruits there... pirates are easily swayed by a couple pieces of gold.Either way... rumors are he's finally found something in that jungle.  I wonder what it is?",
+    "name": "The Explorers' League Digsite",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

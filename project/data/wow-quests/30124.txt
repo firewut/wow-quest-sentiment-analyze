@@ -1,0 +1,8 @@
+{
+    "_id": "30124",
+    "added_in_patch": 5,
+    "description": "These sunwalkers are a tiresome lot. I need soldiers with horde blood in their veins and honor in their hearts. Not some pacifist sun spirit filth.The Alliance are here, $p. Followed us no doubt, or somehow tracked the same visions Leza had that led us here. It doesn't matter. I don't want them to know how divided we are at the moment. Go kill their scout south of here before it can report back.Hellscream's eyes upon you.",
+    "name": "Blind Them!",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

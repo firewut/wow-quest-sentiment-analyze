@@ -1,0 +1,7 @@
+{
+    "_id": "28685",
+    "description": "Battle supplies are hard to come by on this rock.  Every time we hold off another Alliance attack, it feels like we are fighting with sticks and stones.Reports have come in that Keep Lord Farson on the north side of the island has a large stockpile of rifles that we could use.  Can you head down there and check it out?Be careful <name>, Farson's followers will do anything to protect him.",
+    "name": "Leave No Weapon Behind",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

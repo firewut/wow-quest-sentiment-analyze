@@ -1,0 +1,8 @@
+{
+    "_id": "32841",
+    "added_in_patch": 5.3,
+    "description": "You have earned a card belonging to a bomb-throwing hozen named Master Boom Boom.While hozen are naturally attracted to the destructive power of explosives, they seldom learn how to use them properly without blowing themselves up in the process. Master Boom Boom is the exception.Good luck!",
+    "name": "Master Boom Boom",
+    "requires_level": 100,
+    "zone": "Brawler's Guild"
+}

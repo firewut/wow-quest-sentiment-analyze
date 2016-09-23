@@ -1,0 +1,7 @@
+{
+    "_id": "10607",
+    "description": "At Grishnath, totems left by the Oracles of the Raven enable the arakkoa to hear the Word of the Raven. Unfortunately, the language of the arakkoa is indecipherable to us.Using the Harbinger's pendant, we can understand it. You will be able to take the souls of the arakkoa to understand their language. While you are suffused with the arakkoa's spirit, you can visit the totems and understand their message.Discover this for us, <name>.",
+    "name": "Whispers of the Raven God",
+    "requires_level": 66,
+    "zone": "Blade's Edge Mountains"
+}

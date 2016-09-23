@@ -1,0 +1,9 @@
+{
+    "_id": "29690",
+    "added_in_patch": 5,
+    "description": "<Nazgrim fills his lungs with sea air.>You smell that, <name>? It's the smell of our home, the lands our kind have bled and died to preserve.And listen... you hear that? It's the sound of peace and safety - a haven we've carved, where our enemies fear to tread.Remember these things. You won't experience them again anytime soon. We have ourselves a war to win.Now go get settled, we're shovin' off!",
+    "name": "Into the Mists",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

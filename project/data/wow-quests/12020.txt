@@ -1,0 +1,7 @@
+{
+    "_id": "12020",
+    "description": "The Dark Irons took a beating!  As they rushed back to the Grim Guzzler, a portion of their transport fell off.  More importantly, you managed to keep the camp safe... today.Head over to Boxey and explain your heroic triumph over the Dark Iron dwarves.",
+    "name": "This One Time, When I Was Drunk...",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

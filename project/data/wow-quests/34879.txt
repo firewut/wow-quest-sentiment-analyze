@@ -1,0 +1,9 @@
+{
+    "_id": "34879",
+    "added_in_patch": 6,
+    "description": "Witch Lord Morkurk is no fool.He has catapults set up throughout the foothills leading into their compound.No matter, I have a way to handle them.Take out the ogres guarding the siege weapons and mark them once they're clear. I'm readying a vortex spell that will handle things from there.We'll meet just outside their gate afterwards.",
+    "name": "Dropping In",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31162",
+    "added_in_patch": 5,
+    "description": "As ya get bettah' at fightin', you'll start to find new tings that ya nevah knew you could do.Wanna see? Go, train up some, and learn someting new.'Den come back and ya can show me.",
+    "name": "The Arts of a Monk",
+    "requires_level": 1,
+    "zone": "Monk"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9905",
+    "description": "Last time Maktu was out hunting hydras for hides at Serpent Lake, he was attacked by the biggest hydra he's ever seen. Maktu reached for his spear, but it was too late. He had just enough time to escape becoming hydra food.Who knows? Maybe next time, Maktu not be so lucky. Maktu wants to be there so there won't be a next time. Will you help Maktu get his revenge on Mragesh?",
+    "name": "Maktu's Revenge",
+    "requires_level": 62,
+    "zone": "Zangarmarsh"
+}

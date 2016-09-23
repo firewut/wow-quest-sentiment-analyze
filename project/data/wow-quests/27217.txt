@@ -1,0 +1,7 @@
+{
+    "_id": "27217",
+    "description": "The old log in the lighthouse indicates that the lamp was fueled with oil from the threshers that live along the coast here.<Babs wrinkles her nose at the mention of such outdated technology.>I suppose it's a practical, if inelegant solution. The log says that the oil taken from the youngest murk threshers works the best, and those live right underneath the docks of Theramore.If you're up for it, would you help resupply the lighthouse with fuel?",
+    "name": "Thresher Oil",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

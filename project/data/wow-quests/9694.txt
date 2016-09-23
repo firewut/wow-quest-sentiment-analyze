@@ -1,0 +1,7 @@
+{
+    "_id": "9694",
+    "description": "Blood Watch is one of two forward bases operated by the Hand of Argus. You have already been to the other base, Azure Watch; things are completely different in Bloodmyst. When we first got here, the land was as beautiful as Azuremyst. We even called it Silvergale but now sickness is spreading across the land, worse yet, the blood elves that we were battling on the Exodar survived the crash. This brings me to your assignment: Venture northwest into Bladewood and terminate any blood elves that you find.",
+    "name": "Blood Watch",
+    "requires_level": 10,
+    "zone": "Bloodmyst Isle"
+}

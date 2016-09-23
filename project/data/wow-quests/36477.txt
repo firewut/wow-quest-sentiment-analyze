@@ -1,0 +1,8 @@
+{
+    "_id": "36477",
+    "added_in_patch": 6,
+    "description": "A heavily-scratched ring, faintly stained with blood.Someone at the Darkmoon Faire might be able to provide more information about this item.",
+    "name": "Broken Promises",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

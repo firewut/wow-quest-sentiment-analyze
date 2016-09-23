@@ -1,0 +1,8 @@
+{
+    "_id": "34465",
+    "added_in_patch": 6,
+    "description": "Energy flows from this mystical hat with an unseen strength. It hums as it drifts back and forward in time where it rests on the ground.This is the sort of object that someone at Khadgar's Tower would find very interesting.",
+    "name": "Mysterious Hat",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

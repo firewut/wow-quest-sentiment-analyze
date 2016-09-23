@@ -1,0 +1,8 @@
+{
+    "_id": "44569",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Inquisitor Volitix",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42049",
+    "added_in_patch": 7,
+    "description": "If Malorne is trapped in the Nightmare, we must try to save him. It may sound like a fool's errand, but we cannot sit by idly.There is an abandoned portal within the Emerald Dreamway, one that we druids closed long ago because it leads to the Rift of Aln.To infuse it with energy once again, we will need shards of Nightmare which can be found on satyr lieutenants.Send our champions to hunt and kill these enemies.",
+    "name": "Powering the Portal",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

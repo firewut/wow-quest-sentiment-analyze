@@ -1,0 +1,7 @@
+{
+    "_id": "29217",
+    "description": "After we arrived, I dispatched my scouts to learn more about da Zandalari presence here in Zul'Aman. Many returned with useful information, but four still be missin'. If we do not act quickly, da new warlord's lieutenants will offer dem as sacrifices in honor of da Zandalari emissaries.Find my scouts, <name>, and free dem before da priests offer dem as sacrifices!",
+    "name": "The Captive Scouts",
+    "requires_level": 85,
+    "zone": "Quests"
+}

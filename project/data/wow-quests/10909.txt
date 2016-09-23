@@ -1,0 +1,8 @@
+{
+    "_id": "10909",
+    "description": "Colonel Jules was cursed in a battle near the Gor'gaz Outpost, a haunt for Shattered Hand fel orcs.  My master, Barada, works feverishly to cure the poor human, but he needs help.  The Colonel's tormented spirit seeks peace, and his path to peace is, I fear, a path of vengeance.Take this anchorite relic to Gor'gaz Outpost.  Place it upon the ground near Shattered Hand orcs and defeat them.  This will release their fel spirits -- you must slay those fel spirits for Jules' own spirit's recovery.",
+    "name": "Fel Spirits",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

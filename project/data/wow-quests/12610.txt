@@ -1,0 +1,7 @@
+{
+    "_id": "12610",
+    "description": "Ever since Finklestein's arrival, I've been relegated to collecting various ingredients for his experiments and recipes.I'll follow my orders as I've vowed to do, but I'm a seasoned veteran. I've taken part in dozens of conflicts. I'd much rather be on the front lines, having a more direct impact on the Crusade's outcome here.Help me, <race>. Collect some bat wings for me so that I might get back to the real action sooner.",
+    "name": "Clipping Their Wings",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

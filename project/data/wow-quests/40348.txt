@@ -1,0 +1,8 @@
+{
+    "_id": "40348",
+    "added_in_patch": 7,
+    "description": "There is something fouling these waters, <class>.We will need to purify the waters in order to restore balance to the elemental forces below this ruin.The magic here has warped the elementals and they are beyond restoration. Release their corrupted forms so that they may be reborn pure.",
+    "name": "Something in the Water",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

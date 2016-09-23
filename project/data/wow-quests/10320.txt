@@ -1,0 +1,7 @@
+{
+    "_id": "10320",
+    "description": "Archmage Vargoth saw the danger in Naberius's pursuit of necromancy, but I don't think he ever anticipated that his own apprentice would wreak this much destruction upon the Kirin Tor.You must defeat him, <name>, or else he will continue enslaving the spirits of our fallen brothers, robbing them of their rightful rest and destroying what little remains of Kirin'Var.With his phylactery in hand, he can be confronted by two or three combatants, but who knows what his magic might do to more foes?",
+    "name": "Destroy Naberius!",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

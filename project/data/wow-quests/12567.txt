@@ -1,0 +1,7 @@
+{
+    "_id": "12567",
+    "description": "",
+    "name": "Blessing of Zim'Abwa",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35063",
+    "added_in_patch": 6,
+    "description": "Commander, we've gathered enough materials to build an outpost that will support our mission against the Iron Horde.How shall we proceed?A lumber yard would be valuable for gathering resources in the dense overgrowth to the south, and in confronting the plant monstrosities that defend it.On the other hand, a sparring arena would provide us the brutish forces we'd need to push through the magnaron wastelands to the north.When you're ready, make your choice on the table.",
+    "name": "We Need An Outpost",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

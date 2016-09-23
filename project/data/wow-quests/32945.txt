@@ -1,0 +1,9 @@
+{
+    "_id": "32945",
+    "added_in_patch": 5.4,
+    "description": "Once your juicycrunch carrots are ready to be picked, you'll need only to package them for pick-up.Just think; your juicycrunch carrots will feed so many hungry soldiers on the front lines!",
+    "name": "Work Order: Kirin Tor Offensive II",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Valley of the Four Winds"
+}

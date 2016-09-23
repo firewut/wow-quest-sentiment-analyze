@@ -1,0 +1,8 @@
+{
+    "_id": "38345",
+    "description": "I hate to be too cynical, but I don't think we're gonna find Nolan in one piece. Or in a lot of pieces.\r\n\r\nNolan was a nut for finding rare coins. He's been from one end of the world to the other finding them, and now he's gone and gotten himself killed looking for more mint condition Draenei coins. Tell you what - let me show you what these coins look like, you bring me a few more of them and I'll set up an exhibit in his honor.",
+    "name": "Numismatics",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ironforge"
+}

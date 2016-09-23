@@ -1,0 +1,7 @@
+{
+    "_id": "37798",
+    "description": "The search for Gutrek's Cleaver continues. The journal reads:\r\n\r\n\"The hilt was to be buried in the marshlands, among the serpents whose poison claimed Gutrek's life. There's something here about covering it with a spiral stone, which is supposed to keep Gutrek's spirit at bay somehow.\"",
+    "name": "Gutrek's Cleaver: The Second Piece",
+    "requires_level": 100,
+    "zone": "Nagrand"
+}

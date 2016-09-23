@@ -1,0 +1,9 @@
+{
+    "_id": "33971",
+    "added_in_patch": 6,
+    "description": "I'm worried about Nyami. She's so focused on retrieving the Heart of Auchindoun that she seems to have lost sight of everything else.I'm sorry, I'm not trying to belittle her wisdom, but look around! Every soldier we sent into the mine has been gravely injured by the deathweb spiders. Their wounds need immediate attention!Please, can you retrieve some fangs from the spiders? I can use them to create an antivenin, but I need to stay here and keep them stable until then.",
+    "name": "Antivenin",
+    "requires_level": 95,
+    "side": "horde",
+    "zone": "Talador"
+}

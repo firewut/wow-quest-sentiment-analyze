@@ -1,0 +1,7 @@
+{
+    "_id": "10111",
+    "description": "Now that you've been initiated, I want you to get me that egg! Use the Jump-a-tron and try to hit the nest dead center. But be careful! Bodily injury or serious permanent damage may occur from a bad jump.",
+    "name": "Bring Me The Egg!",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

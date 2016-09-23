@@ -1,0 +1,8 @@
+{
+    "_id": "42035",
+    "added_in_patch": 7,
+    "description": "The Idol may be stolen, but there is still hope.While I was trapped at the shrine, I saw the satyr raiders make off with the relic. Their tracks will still be fresh.With our heightened senses, we may still be able to pick up their trail.We must follow their signs through the forest and recover the Idol!",
+    "name": "Tracking the Enemy",
+    "requires_level": 103,
+    "zone": "Druid Campaign"
+}

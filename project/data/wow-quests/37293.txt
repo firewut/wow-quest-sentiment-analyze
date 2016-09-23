@@ -1,0 +1,9 @@
+{
+    "_id": "37293",
+    "added_in_patch": 6,
+    "description": "<The troll's skin looks pale. Beads of sweat dot his brow.>I know you owe me nouting, but if you be willin' ta help me, I have a favor to ask.Ta da north, dere be da creature dat is da cause a' dis poisonous mist.Only da heart a' dis beast has da power ta neutralize da toxins in my body.Ya may have ta kill some a dose crawlers while you're at it.If ya feel weak from da poison, eat some a dose glowing mushrooms ta counter da effects.",
+    "name": "Clearing the Mist",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Nagrand"
+}

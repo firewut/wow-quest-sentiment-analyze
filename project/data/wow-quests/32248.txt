@@ -1,0 +1,8 @@
+{
+    "_id": "32248",
+    "added_in_patch": 5.1,
+    "description": "King Varian needs decisive adventurers to help him resolve a showdown between Tyrande Whisperwind and a detachment of Horde warriors holed up in the Temple of the Red Crane.Report to him immediately!",
+    "name": "A Little Patience",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

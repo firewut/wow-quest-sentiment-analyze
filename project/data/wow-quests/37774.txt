@@ -1,0 +1,8 @@
+{
+    "_id": "37774",
+    "description": "Saberon spirit army. I ain't pullin' your leg, commander, that's what we've got coming for us if we don't act fast.The Shattered Hand shaman Gor'thul was spotted down in Spires of Arak in the Bloodmane Pridelands right about the same time we started hearing reports of saberon spirits raiding our supply caravans.I don't want to take any chances, commander. I think you should personally head down there and put a stop to this before it starts.",
+    "name": "Death to Gor'thul!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

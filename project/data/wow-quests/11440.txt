@@ -1,0 +1,7 @@
+{
+    "_id": "11440",
+    "description": "With the threat of the Headless Horseman looming, the peacekeepers have been diligent in forming a fire brigade when needed. Do you want to help?West of here, toward the Exodar, the peacekeepers set up a small area to practice fighting fires.  Go there and throw buckets onto the blazes.  You can fill a bucket from the water barrel here.Good bye, <name>.  When you're done with fire brigade practice, please visit us again!",
+    "name": "Fire Brigade Practice",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

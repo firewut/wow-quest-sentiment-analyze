@@ -1,0 +1,7 @@
+{
+    "_id": "10956",
+    "description": "Do you know anything about the naaru?  They're these angelic beings that have been helping the draenei for a really long time.  I've seen a bunch around Shattrath.They say that one naaru, O'ros, was with the Exodar when it traveled to your homeworld.  I should like to see for myself.Can you take me there?  I bet we could get there fast by using one of the portals inside the Temple of the Moon in Darnassus!  When we get there, if you get lost, we could always just look at your map.",
+    "name": "The Seat of the Naaru",
+    "requires_level": 60,
+    "zone": "Children's Week"
+}

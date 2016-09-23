@@ -1,0 +1,7 @@
+{
+    "_id": "10527",
+    "description": "My youngest son, Ar'tor, left to search Illidari Point - far to the southwest, nestled between Legion Hold and Wildhammer Stronghold.While Ar'tor is a hunter of remarkable skill and an expert tracker, I fear that he may be in over his head this time. Illidari Point is the proving grounds for Illidan's demons. These are demons that left the Burning Legion to join the Betrayer!Travel to Illidari Point and find Ar'tor, <name>.",
+    "name": "Ar'tor, Son of Oronok",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

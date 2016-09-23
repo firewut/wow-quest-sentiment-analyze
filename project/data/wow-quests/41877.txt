@@ -1,0 +1,8 @@
+{
+    "_id": "41877",
+    "added_in_patch": 7,
+    "description": "Our friend Ly'leth contacted me. She requested that you meet her atop the Grand Promenade as it overlooks the city.\r\n\r\nHave your disguise ready just in case, <name>.",
+    "name": "Lady Lunastre",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35885",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Maraudon (Wicked Grotto) Reward Quest",
+    "requires_level": 30,
+    "zone": "Quests"
+}

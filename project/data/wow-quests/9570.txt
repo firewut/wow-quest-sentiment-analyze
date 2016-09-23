@@ -1,0 +1,7 @@
+{
+    "_id": "9570",
+    "description": "After the crystal storm had subsided, a beast of myth appeared in our village. Brought here by the invading wildkin, this beast, the Kurken, laid waste to our village. Many Stillpine were slain in defense of our lands by this fiend and many have since lost their lives attempting to subdue the beast.In my visions, I have seen one defeat the Kurken. The one must be you, <name>. You are our only hope. Enter Stillpine Hold and slay the Kurken. Bring me his hide as proof of deed.\r\n",
+    "name": "The Kurken is Lurkin'",
+    "requires_level": 7,
+    "zone": "Azuremyst Isle"
+}

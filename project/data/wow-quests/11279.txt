@@ -1,0 +1,7 @@
+{
+    "_id": "11279",
+    "description": "This new plague that we're working on is wonderful and I think we should expand its testing.How about testing it on proto-whelps?!Just think of the possibilities. The ability to infect not only humanoids, but extend our reach to any creature!Here, I've hoarded an extra plague canister for the right time and place, and you look like the right person.Spray the eggs at Ember Clutch to the northwest, then get specimens from the plagued proto-whelps that hatch.",
+    "name": "Green Eggs and Whelps",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

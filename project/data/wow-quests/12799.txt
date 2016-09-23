@@ -1,0 +1,7 @@
+{
+    "_id": "12799",
+    "description": "You should be happy he's coming, they said. You'll enjoy his company, they said....Well it's not as if I had a choice in the matter. Finklestein is the Crusade's best alchemist. I suppose I should be honored that he's chosen my post to set up shop. But ever since he's arrived, I've been relegated to collecting various alchemical ingredients.Say, <race>, how about you give me a hand? Just south of here are some pools that are haunted by spirits of ancient trolls. Collect their ectoplasm for me.",
+    "name": "Siphoning the Spirits",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

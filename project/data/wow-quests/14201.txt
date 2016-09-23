@@ -1,0 +1,8 @@
+{
+    "_id": "14201",
+    "description": "The ruins around Lake Mennar, to our east, have a tale to tell. The lesser races - like those clumsy dwarves - would go after the truth with picks and shovels. <Malynea wrinkles her nose.> We'll be using more elegant methods.My scrying magic is somewhat rusty, but with the right trinket I should be able to peer through the shrouds of time. The bones of my forefathers have long since rotted away but some of their personal treasures may remain - bring me some.",
+    "name": "A Thousand Stories in the Sand",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

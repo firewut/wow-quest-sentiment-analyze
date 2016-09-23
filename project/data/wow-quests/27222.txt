@@ -1,0 +1,7 @@
+{
+    "_id": "27222",
+    "description": "Sea monster or no, we're not going to risk the safety of our shipping. I've ordered our best marksmen to prepare for a confrontation with this Tethyr. The artillerymen have augmented the dock's defenses with three mortars.I'm going to order the lighthouse's lamp illuminated. If Tethyr does attack, it will be your job to operate the mortars and take down the beast before it can kill all of the marksmen. I wouldn't stand in one place too long, though. Using the mortars is likely to draw its attention.",
+    "name": "Take Down Tethyr!",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

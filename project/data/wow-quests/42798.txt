@@ -1,0 +1,8 @@
+{
+    "_id": "42798",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "DANGER: Huntress Estrid",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

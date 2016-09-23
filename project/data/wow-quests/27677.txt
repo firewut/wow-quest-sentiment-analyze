@@ -1,0 +1,8 @@
+{
+    "_id": "27677",
+    "description": "The true goal in Uldaman is to obtain the Discs of Norgannon. The secrets on these discs could change everything about how we view our world. Countless secrets of the Makers are inscribed on them...their value is beyond any material wealth you could possibly imagine.The problem is that Archaedas, an ancient and powerful creation of the Makers, guards the discs with a venerable army at his disposal. I need you to defeat him and secure the discs for the Explorers' League!",
+    "name": "Archaedas, The Ancient Stone Watcher",
+    "requires_level": 35,
+    "side": "alliance",
+    "zone": "Uldaman"
+}

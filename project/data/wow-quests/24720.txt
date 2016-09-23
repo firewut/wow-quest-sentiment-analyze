@@ -1,0 +1,7 @@
+{
+    "_id": "24720",
+    "description": "I'm sure you've noticed 'em, <name>. They're everywhere!What am I talking about? Why, the crystals, of course!The crystals... They're all over the crater. Most people ignore them, but I have a strange feeling that they hold power within them.Say, I'm running a little low on the crystals I have here -- think you might be able to collect some more for me?  You'll find yellow crystals to the northwest, red crystals to the... oh, I'm sure you'll figure it out.",
+    "name": "Crystals of Power",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

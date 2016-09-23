@@ -1,0 +1,7 @@
+{
+    "_id": "25337",
+    "description": "The next step is hippogryphs.As Master Uzer'i always said, hippogryphs have been loyal companions to the night elves for many years, an' their spirits are loyal and steadfast.I don't think they'll miss a few, and I don't care if they do. We need the muisek of 10 frayfeather hippogyphs in the wilderness to the south.",
+    "name": "Hippogryph Muisek",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

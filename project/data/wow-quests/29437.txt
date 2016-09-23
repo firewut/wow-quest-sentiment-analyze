@@ -1,0 +1,7 @@
+{
+    "_id": "29437",
+    "description": "Fandral Staghelm was kept prisoner here in Hyjal. It was the green dragon Alysra - one of my very own! - who was in charge of keeping Fandral secure.We can only conclude that the Twilight's Hammer has gotten to her. You must confront her, <name>. Destroy her if you must - I cannot bear to see it.She was last seen in the Ruins of Lar'donir, west of the World Tree.",
+    "name": "The Fallen Guardian",
+    "requires_level": 85,
+    "zone": "Mount Hyjal"
+}

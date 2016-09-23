@@ -1,0 +1,8 @@
+{
+    "_id": "9424",
+    "description": "Sedai was like a brother to Makuru.   We owe him our lives and more!  They call Makuru crazy but if the Omenai are not going to do anything about his death then they're the crazy ones!Makuru doesn't have much to call his own in this world, but he will give you his only possession if you avenge Sedai.  I've seen the brown orc Mag'har grunts before, up in the hills to the northeast.  They hate us!  They don't deserve our mercy!  Go, avenge Sedai!  Bring me their ancestral beads as proof!",
+    "name": "Makuru's Vengeance",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

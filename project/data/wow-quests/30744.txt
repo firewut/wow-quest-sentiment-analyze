@@ -1,0 +1,8 @@
+{
+    "_id": "30744",
+    "added_in_patch": 5,
+    "description": "Kota Peak is famous for its kafa bushes - no other can survive at this elevation.Grummles make very good living selling Kafa'kota Blend, but it's dangerous now thanks to my cousin here. He's got the wildlife up there hooked on kafa with his scheming.Kafa'kota is more scarce than ever with goots gobblin' it up and yetis hoarding it in their caves.I pay you good for any berries you bring down from Kota.Here, take a sample. Eat it. See for yourself the power of kafa.",
+    "name": "Kota Blend",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

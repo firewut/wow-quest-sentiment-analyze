@@ -1,0 +1,8 @@
+{
+    "_id": "34053",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "SoL Conversation Tracker",
+    "requires_level": 90,
+    "zone": "Talador"
+}

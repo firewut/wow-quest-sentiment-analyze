@@ -1,0 +1,7 @@
+{
+    "_id": "27590",
+    "description": "Now that you've lured Skullcrusher the Mountain away from the Twilight Gate, I need you to signal our forces to attack!",
+    "name": "Signal the Attack",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

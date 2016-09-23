@@ -1,0 +1,8 @@
+{
+    "_id": "40469",
+    "added_in_patch": 7,
+    "description": "We will need supplies for our trip into Suramar. We cannot exactly stop for refreshments at the gate with you two in tow, can we?The water gardens were a place to socialize and relax. Before the patrols arrived it was rather trivial to hide some mana wine for later retrieval.That's where you come in. Fetch some supplies and bring them to your friend, then meet me at the ruins north of the city. We will be ready to depart soon.",
+    "name": "Final Preparations",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

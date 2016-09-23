@@ -1,0 +1,8 @@
+{
+    "_id": "43264",
+    "added_in_patch": 7,
+    "description": "Your power is great, Deathlord, but power alone will not be sufficient.If we are to save this world from the onslaught of the Burning Legion, then you will need powerful allies. The Knights of the Ebon Blade are yours to command, it will be wise to make use of them effectively.Go and speak with Nazgrim and Thassarian. They will be of great use to you in the fight against the Burning Legion.",
+    "name": "Rise, Champions",
+    "requires_level": 101,
+    "zone": "Death Knight Campaign"
+}

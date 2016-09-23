@@ -1,0 +1,7 @@
+{
+    "_id": "28617",
+    "description": "You know how to use the spitters, but did you know that if you use a sunflower you can grow things faster? We'll grow some sunflowers and then we'll plant some spitters to push back Warden Stillwater's crazed monstrosities.Let's go!",
+    "name": "Flower Power",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

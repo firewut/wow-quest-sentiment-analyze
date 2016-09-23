@@ -1,0 +1,7 @@
+{
+    "_id": "10756",
+    "description": "The symbol on the key's handle... it is hard to make it out inside the mold, but I recognize it as the Shattered Hand's own.There is a good chance this key will allow you to enter the Shattered Halls.Speak to Rohok, our resident blacksmith.  If anyone can forge this key it is he.",
+    "name": "Grand Master Rohok",
+    "requires_level": 68,
+    "zone": "Hellfire Peninsula"
+}

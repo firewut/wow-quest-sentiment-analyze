@@ -1,0 +1,8 @@
+{
+    "_id": "42114",
+    "added_in_patch": 7,
+    "description": "Long ago, the first Farseer of the Earthen Ring was given a vision of the elements.In the vision she foresaw the arrival of a new Farseer, one who would lead us through a time of terrible crisis and unite the elements.<name>, I believe that you are the Farseer of this prophecy, called to lead before you were ever born.The time has come to fulfill your destiny!When you are ready, we will perform the Ritual of Tides and call upon Neptulon, the first of the four great Elemental Lords.",
+    "name": "The Ritual of Tides",
+    "requires_level": 101,
+    "zone": "Shaman Campaign"
+}

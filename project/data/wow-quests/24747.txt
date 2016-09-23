@@ -1,0 +1,7 @@
+{
+    "_id": "24747",
+    "description": "These dwarven artillery shells have a built-in airburst timer. This is easy! Just sabotage one of the artillery shells in the loading bay and then hoist it up into the magazine. Boom, baby. BOOM!You'll find the shells in one of two loading bays behind the main garage on this level. It's right around the corner.Once you've rigged the artillery shell... Run! Run like the wind, <name>! Then report to Gann back at camp. I'll be right behind you.",
+    "name": "Sabotage!",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14239",
+    "description": "",
+    "name": "Don't Go Into the Light!",
+    "requires_level": 1,
+    "zone": "The Lost Isles"
+}

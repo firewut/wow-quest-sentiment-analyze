@@ -1,0 +1,7 @@
+{
+    "_id": "28854",
+    "description": "This terrible place was Alexstrasza's nightmare. During what mortals call the second war, she was chained in the depths below, her tormented offspring forced to serve the demon-corrupted Horde.Alexstrasza may be free, but the beast known as Erudax still corrupts her offspring below.<Baleflame's body tenses in anger.>Destroy him, <class>. Crush him that we may end these horrors once and for all!",
+    "name": "Closing a Dark Chapter",
+    "requires_level": 84,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42026",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Faronaar in Ruin",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

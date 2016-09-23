@@ -1,0 +1,8 @@
+{
+    "_id": "9035",
+    "description": "You, there!  You must help me, please!A fellow apprentice and I were attacked by the Wretched!  In their mad hunger for magic, they took everything they could get their hands on: mana crystals, wands, spellbooks... everything!Meledor gave chase after them; I had to stay behind and look after what they didn't take.  Continue down the road and see if you can lend him a hand.",
+    "name": "Roadside Ambush",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

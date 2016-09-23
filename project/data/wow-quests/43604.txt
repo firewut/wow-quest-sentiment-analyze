@@ -1,0 +1,8 @@
+{
+    "_id": "43604",
+    "added_in_patch": 7,
+    "description": "You hold King Ymiron's blade and realize what a fierce combatant he would make, were he to fight on your side.Perhaps Odyn could be persuaded to force the vrykul King's spirit to fight along your army.",
+    "name": "Ymiron's Broken Blade",
+    "requires_level": 110,
+    "zone": "Warrior Campaign"
+}

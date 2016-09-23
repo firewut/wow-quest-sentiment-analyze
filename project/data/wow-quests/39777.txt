@@ -1,0 +1,8 @@
+{
+    "_id": "39777",
+    "added_in_patch": 7,
+    "description": "We need time to evacuate Snowmane Village. Can you take the fight to these Mightstone drogbar and cull their numbers?I will direct my healers to get everyone that is unable to fight to safety.",
+    "name": "Buy Us Time",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35614",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Artificer Romuul",
+    "requires_level": 90,
+    "zone": "Shadowmoon Valley"
+}

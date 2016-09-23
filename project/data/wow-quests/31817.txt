@@ -1,0 +1,9 @@
+{
+    "_id": "31817",
+    "added_in_patch": 5,
+    "description": "Are you ready for a real measure of your prowess, <race>?Merda Stronghoof has made camp at da place dey call Karnum's Glade in the Cenarion Wildlands of Desolace. Fighting a trainer as powerful as her will put your skills to the test, eh?",
+    "name": "Merda Stronghoof",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Battle Pets"
+}

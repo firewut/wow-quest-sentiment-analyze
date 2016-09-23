@@ -1,0 +1,7 @@
+{
+    "_id": "27438",
+    "description": "With our mission objective secured, the time has come for us to make our escape. Though Gilneas is lost, with the aid of Godfrey and his lieutenants we will have it back in no time at all.Go now, <name>. Fly back with Arthura to the Forsaken Front in southern Silverpine Forest. The Banshee Queen awaits your arrival.",
+    "name": "The Great Escape",
+    "requires_level": 13,
+    "zone": "Silverpine Forest"
+}

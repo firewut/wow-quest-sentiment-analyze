@@ -1,0 +1,8 @@
+{
+    "_id": "41119",
+    "added_in_patch": 7,
+    "description": "You must lead this hunt, <name> - a small force will join you to ensure Varedis meets his end.You must try to make it into Varedis' hold undetected; the less time you spend in Legion territory the better.Meet at Krasus' Landing when you are prepared to leave.",
+    "name": "The Hunt",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28153",
+    "description": "Shadow Lord Fel'dan awaits further in the depths, <name>.His wrath will be unmatched now that you have slain his beloved pets. Even without Moora and Salia at his side, he is a terrible force to be reckoned with.Beware his dark powers; he is nearly more demon than orc by now.",
+    "name": "Shadow Lord Fel'dan",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

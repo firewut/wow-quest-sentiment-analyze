@@ -1,0 +1,8 @@
+{
+    "_id": "40755",
+    "added_in_patch": 7,
+    "description": "Magni's information was enlightening. It should prove handy to have a friend who has the ear of a titan.It's time to head into Karazhan. Not that I need to remind you, but it can be a dangerous place. There are countless strata of spells woven throughout the tower, and the interactions of the forces within can be... unpredictable. Be on your guard.I'll join you inside. I need a moment to... gather my thoughts. This place holds a lot of memories for me.",
+    "name": "Hiding in the Stacks",
+    "requires_level": 98,
+    "zone": "Karazhan"
+}

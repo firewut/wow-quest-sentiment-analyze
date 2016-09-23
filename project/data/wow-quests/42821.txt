@@ -1,0 +1,8 @@
+{
+    "_id": "42821",
+    "added_in_patch": 7,
+    "description": "We underestimated the number of scarlet crusaders still residing in the monastery. The battle for control of the cathedral is taking too long.It's time to take a more resourceful approach to the battle...Raise the fallen crusaders as ghouls and send them back into the battle against their brothers and sisters.The Scarlet Crusade will not be able to hold back the tide of undeath for long.",
+    "name": "Raising an Army",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

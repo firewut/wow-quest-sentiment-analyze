@@ -1,0 +1,8 @@
+{
+    "_id": "38977",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "FLAG: Undying Silkweave Cinch Crafted",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25259",
+    "description": "I wouldn't normally keep a taunka as a captive, due to their close relationship with the Horde... but this one is a traitor, and a criminal to boot.  Exiled by his own tribe, he canoed down to Azshara and was found stealing supplies from Valormok.  He would have been put to the axe had I not been standing by, wallet in hand.Gaur is my winningest gladiator, <class>.  I'll bet you 10 silver that you can't beat him.",
+    "name": "Gaur Icehorn",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Durotar"
+}

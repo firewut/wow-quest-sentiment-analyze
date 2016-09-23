@@ -1,0 +1,7 @@
+{
+    "_id": "28613",
+    "description": "Alright, <name>. We've bought ourselves a little breathing room, but there's no time to lose.Follow me!",
+    "name": "See You on the Other Side!",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

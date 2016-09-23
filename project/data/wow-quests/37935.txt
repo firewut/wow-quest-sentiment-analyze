@@ -1,0 +1,8 @@
+{
+    "_id": "37935",
+    "description": "Nearby be a good place. Not too close to da enemy, but close enough for us to take some pressure off da boys in the west. Follow me.",
+    "name": "The Assault Base",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

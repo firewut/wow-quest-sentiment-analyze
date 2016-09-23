@@ -1,0 +1,8 @@
+{
+    "_id": "33973",
+    "added_in_patch": 6,
+    "description": "I am too far gone to rescue, but thank you for speaking with me.\r\n\r\nBlademaster Bralok had his men starve and beat me, and he stole an heirloom that has been in my family since before we arrived on Draenor.\r\n\r\nShould you find it, please let me see it once more so I may die in peace.",
+    "name": "Dying Wish",
+    "requires_level": 94,
+    "zone": "Talador"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40132",
+    "added_in_patch": 7,
+    "description": "<Your trainer looks over the hide.>This hide is usable, but it is mournably small. You disrespect the beast by chopping it up like this, <name>. You make light of the gift that it gave to you.Go out into the wilds again. Skin the leathery beasts below us, and this time, bring me hides in one piece.",
+    "name": "In One Piece",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

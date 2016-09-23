@@ -1,0 +1,7 @@
+{
+    "_id": "11294",
+    "description": "It's time to let people know that the Thunderbrew have heard their cries for good brew.  You need to shout at the flags outside the bank, in the Military Ward, in the Hall of Explorers and in the Mystic Ward.We'll make it easy though.  We'll lend you a ram for 4 minutes.Be careful with going too fast though since you won't find any apple crates in Ironforge...  We can't take the chance of helping out the Barleybrew messengers.",
+    "name": "Bark for the Thunderbrews!",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26693",
+    "description": "We got lucky with some vital intelligence from the locals of this valley. Those two behind us, the Ranthals, have informed me that the gnolls in Galardell Valley are being controlled by a powerful magus in the tower of Ilgalar. The problem is that the tower is sealed by a magical force field.The first thing we need to do is get the key that will get you inside. The gnoll general, Fangore, has your ticket inside. Kill General Fangore and get the key.I'll be in touch.",
+    "name": "The Dark Tower",
+    "requires_level": 17,
+    "zone": "Redridge Mountains"
+}

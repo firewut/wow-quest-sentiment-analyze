@@ -1,0 +1,7 @@
+{
+    "_id": "26464",
+    "description": "As you rummage through Teronis' belongings, you find a water-damaged journal.Quickly flipping through the last legible pages, you read that Teronis makes mention of finding the gem, but then of having lost it in the Falathim area.The only thing left to do is find it. Perhaps the tendrils have it...?",
+    "name": "The Lost Gem",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

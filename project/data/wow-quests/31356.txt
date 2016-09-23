@@ -1,0 +1,8 @@
+{
+    "_id": "31356",
+    "added_in_patch": 5,
+    "description": "There is an ancient pandaren saying that states, \"With deep doubts comes deep wisdom.\"The Sha of Doubt has infested the Heart of Jade within the temple. It must be destroyed.I dare say that you are about to become all the wiser, <class>.",
+    "name": "Deep Doubts, Deep Wisdom",
+    "requires_level": 85,
+    "zone": "Quests"
+}

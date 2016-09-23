@@ -1,0 +1,7 @@
+{
+    "_id": "9549",
+    "description": "My observations and writings about the Blacksilt murlocs are quite illuminating, <name>, but they are just the beginning. I plan to return to Ironforge with items produced by the Blacksilts' rudimentary crafting skills.The problem is that the Blacksilt carry these items with them at all times, and I can't have their blood on my conscience. If you're willing to help me gather the idols carried by Blacksilt seers and crude knives of the Blacksilt warriors and shorestrikers, I won't ask how you came by them.",
+    "name": "Artifacts of the Blacksilt",
+    "requires_level": 13,
+    "zone": "Bloodmyst Isle"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10802",
+    "description": "We must show the ogres that we are not to be trifled with. We must send a message.Travel to Boulder'mok and kill the ogres there. Make sure you keep their heads.Then go to Gorgrom's altar and place the trap there for him. Gorgrom will appear, and you must lure him into the trap. When he is dead, mount your grisly totems near his corpse, so that the ogres may look at their fallen master and their fallen brothers, and know the price for seeking to destroy us.",
+    "name": "Gorgrom the Dragon-Eater",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

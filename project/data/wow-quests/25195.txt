@@ -1,0 +1,8 @@
+{
+    "_id": "25195",
+    "description": "Many creatures died when the water came rushin' into the valley.  The raptors, however, thrived.  They're clever predators, and they've been living off the misfortune of the other creatures.One of the raptors is particularly cruel.  He's killing the little animals and letting them rot in the water without even eating them!  He goes by the name of Screamslash, and if we're not careful, he could seriously disrupt the balance of nature.Travel north, slay him, and give his body back to nature.",
+    "name": "That's the End of That Raptor",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

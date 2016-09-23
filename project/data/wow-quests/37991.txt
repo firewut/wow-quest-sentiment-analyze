@@ -1,0 +1,8 @@
+{
+    "_id": "37991",
+    "added_in_patch": 7,
+    "description": "<This whelpling is trying to get your attention. She locks eyes with you, then quickly flicks her head toward the northeast.>",
+    "name": "Agapanthus",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

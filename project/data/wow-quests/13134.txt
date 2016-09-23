@@ -1,0 +1,7 @@
+{
+    "_id": "13134",
+    "description": "The Scourge cannot create their flesh monsters without blood and embalming fluid to preserve the parts and keep them functioning. If we can deny them these materials, their army will fall apart and we can easily destroy their creations.Throughout the labs where the flesh giants and abominations are cobbled together, you will find vats of embalming fluid and large orbs filled with blood. Destroy these, and bring death to any who would stop you!",
+    "name": "Spill Their Blood",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

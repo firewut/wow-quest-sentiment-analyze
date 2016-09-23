@@ -1,0 +1,8 @@
+{
+    "_id": "9340",
+    "description": "We're dangerously close to becoming fenced in by Alliance forces.  With the influx of sin'dorei pilgrims from Azeroth, we must establish a route that's safe from our enemies' prying eyes.I've given it some thought and have arrived at a solution.  We're to establish a secret path through the Great Fissure.Yes, even though the area is crawling with brutal rock flayers, they are merely beasts and can be taught to fear us.  I want you to go and kill a good number of them.  They shall learn fear.",
+    "name": "The Great Fissure",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

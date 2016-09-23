@@ -1,0 +1,8 @@
+{
+    "_id": "37235",
+    "added_in_patch": 6,
+    "description": "We have, so far, been unsuccessful in our attempts to contact the arakkoa. Each attempt strips the plumage, and we are left with a feather that is tattered and broken.Aviana implores you, commander, to find another plume for her. We do not wish to see our brethren become victim of their own violent nature. All beings of the sky have a place with us, in life or beyond.",
+    "name": "A Plea to the Sky",
+    "requires_level": 100,
+    "zone": "Skyreach"
+}

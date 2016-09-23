@@ -1,0 +1,8 @@
+{
+    "_id": "43315",
+    "added_in_patch": 7,
+    "description": "There are two houses that pose a threat to Ly'leth's rise, but we concern ourselves with only one of them now.\r\n\r\nHouse Duskmere commands respect through fear and that fear is not unfounded. Few can boast of magical talent equal to that of Ruven Duskmere. \r\n\r\nWithout this charming specimen, however, their house is nothing.\r\n\r\nI know you may find my methods distasteful. Know that there were demons in Suramar long before the Legion.\r\n\r\nThis one has lived long enough.",
+    "name": "Death Becomes Him",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

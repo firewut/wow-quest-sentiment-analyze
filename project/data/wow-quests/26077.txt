@@ -1,0 +1,7 @@
+{
+    "_id": "26077",
+    "description": "Overlord Krom'gar sends word from the base. You are to get back on the Krom'gar hot air balloon and take it to Cliffwalker Post. From there, the plan is to unleash the payload on the Alliance at Battlescar Valley.You better get going, <name>. It's not wise to keep Krom'gar waiting.Speak to General Grebo when you arrive at your destination. He'll be able to brief you on the next course of action.",
+    "name": "Final Delivery",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

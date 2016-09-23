@@ -1,0 +1,7 @@
+{
+    "_id": "27906",
+    "description": "There is much work to do in recovering from the assault and bracing ourselves for the next one. I will need coordination from all of our scouts.",
+    "name": "Neeka Bloodscar",
+    "requires_level": 53,
+    "zone": "Swamp of Sorrows"
+}

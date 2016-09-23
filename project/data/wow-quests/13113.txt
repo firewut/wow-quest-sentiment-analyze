@@ -1,0 +1,8 @@
+{
+    "_id": "13113",
+    "description": "Can you believe da horde has outlawed cannibalism...it just ain't right I tell ya!  I guess I should keep me mind on me work when we gots an order to fill.Arille Azuregaze at the Legerdemain Lounge has many a guest a'comin to his place, mon.  You gots to be providin' some Northern Stew and a Jug of Wine from the cheese shop in central Dalaran.Bring the wine and stew to Arille.",
+    "name": "Convention at the Legerdemain",
+    "requires_level": 65,
+    "side": "horde",
+    "zone": "Cooking"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28041",
+    "description": "You can hold your own on the ground, <name>. I'll give you that.But we Dragonmaw dominate the skies as well as land. Until you can prove to me you can handle a drake as well as a Dragonmaw, your Horde is nothing to me.Let's see if you can wrangle one back to Bloodgulch.First you'll need bait. Go out and kill one of the gryphons that wander the woods west or northeast of here. Make sure it's untamed! Drakes hate the stink of dwarf on their food.Get the gryphon carcass and you'll know what to do.",
+    "name": "Bait and Throttle",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

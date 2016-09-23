@@ -1,0 +1,8 @@
+{
+    "_id": "40207",
+    "added_in_patch": 7,
+    "description": "In my experience, dragon scale has been the strongest material I've ever had the privilege of working with. It's hard, durable and very little can go a long way.I wish to work with it again, <name>. Being in this form, I'm bound to this area, unable to experience the world any longer.I've heard rumor of the blue dragonflight occupying parts of Azsuna. Perhaps you can speak with them and see if they can shed a scale or two.",
+    "name": "Scales of the Arcane",
+    "requires_level": 108,
+    "zone": "Leatherworking"
+}

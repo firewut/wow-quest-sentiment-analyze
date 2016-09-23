@@ -1,0 +1,7 @@
+{
+    "_id": "10234",
+    "description": "You look like a capable young  man!  I was wondering if you could lend me a hand?To the east is the Scrap Field, which the Burning Legion has moved into.  It's full of huge fel reaver parts.  There're also a whole bunch of smaller parts in there that they don't seem to care about.I want you to get in there and get me a lot of those smaller fel reaver parts!",
+    "name": "One Demon's Trash...",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

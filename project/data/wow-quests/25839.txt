@@ -1,0 +1,8 @@
+{
+    "_id": "25839",
+    "description": "The cataclysm has brought our enemies closer to home, so the chief of Gnomeregan covert operations asked me to build a device to dispatch personnel quickly and quietly to any corner of Dun Morogh.Behold, the ultrasafe personnel launcher!With a jolt of electricity and the benefit of a VLD parachute system, uh, that's 'very late deployment' for you laymen, this baby'll get you to the front in no time. Just hop aboard and prepare for flight! Slamp Wobblecog will be waiting for you in the drop zone.",
+    "name": "The Ultrasafe Personnel Launcher",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

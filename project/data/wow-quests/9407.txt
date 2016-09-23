@@ -1,0 +1,7 @@
+{
+    "_id": "9407",
+    "description": "For years the Dark Portal loomed silent... forgotten.  But it is silent no longer.After stopping the demonic assault here, our forces breached the portal and met the demons on their own ground!Now, we are locked in a savage war, and there are some who think we might not win.  So it is our duty, our grim pleasure, to battle the fiends of Outland and ensure our victory, <name>.If you would help us, then report to Lieutenant General Orion at once. He awaits you in the Outland...\r\n",
+    "name": "Through the Dark Portal",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

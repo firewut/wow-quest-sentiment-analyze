@@ -1,0 +1,7 @@
+{
+    "_id": "26893",
+    "description": "There's a task to be done that you're perfect for, <class>. We need to secure the area around Blackfathom Deeps to help with the Alliance that are threatening Zoram'gar Outpost west of here.Go to Blackfathom Deeps, north of Zoram'gar Outpost, and speak with Je'neu of the Earthen Ring. He will have plenty for you to do.",
+    "name": "Blackfathom Deeps",
+    "requires_level": 22,
+    "zone": "Blackfathom Deeps"
+}

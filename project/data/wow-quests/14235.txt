@@ -1,0 +1,8 @@
+{
+    "_id": "14235",
+    "description": "Our hunter, Kilag Gorefang, and a few scouts, traveled into the vale down the path to the west. They're ...searching for... 'precious cargo'... that we were guarding when the filthy Alliance sunk our ship.The way is blocked by deadly plants and they have not been able to break through.<name>, prove your worth as a goblin and a <class>. Journey into the Vicious Vale to find Kilag.",
+    "name": "The Vicious Vale",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

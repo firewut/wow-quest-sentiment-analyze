@@ -1,0 +1,8 @@
+{
+    "_id": "42038",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Broll Bearmantle",
+    "requires_level": 103,
+    "zone": "Druid Campaign"
+}

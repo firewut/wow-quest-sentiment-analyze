@@ -1,0 +1,7 @@
+{
+    "_id": "14018",
+    "description": "The voice of the goddess spoke to you at the moonwell, <name>. The cure for Relara lies to the east at Raynewood Tower. The one who has fallen into corruption.Avrus Illwhisper seeks forgiveness and redemption. It is up to you to assist him and in so doing, hopefully help my child as well.",
+    "name": "He Who Would Be Forgiven",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

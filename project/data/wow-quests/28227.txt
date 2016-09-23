@@ -1,0 +1,7 @@
+{
+    "_id": "28227",
+    "description": "Yer provin' to be a pretty big help around here, <race>.  I was thinkin ye could help with just one more thing.Our guards are strong, but they're not as strong as you are.  I was thinkin', maybe if ye wouldn't mind, ye might help some of 'em with their training?  Just go up and talk to one and fight 'em a few times.  Hopefully they'll learn from yer moves and get better.",
+    "name": "Golem Training",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

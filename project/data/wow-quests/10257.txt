@@ -1,0 +1,7 @@
+{
+    "_id": "10257",
+    "description": "It doesn't surprise me that Kael'thas has put the key to this ward in the hands of someone like Commander Sarannis. Prince Kael'thas is a great many things, but he is no simpleton.In order to break this curse once and for all, you must enter Tempest Keep and claim the keystone.Only once the keystone has been destroyed will I regain my freedom.",
+    "name": "Capturing the Keystone",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

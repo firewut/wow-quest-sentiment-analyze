@@ -1,0 +1,8 @@
+{
+    "_id": "10055",
+    "description": "Reinforcements are great, but I don't see 'em haulin' any wagons loaded with ingots or timber.Take a look around, friend. Trees are in short supply, and the mines are overrun with Legion scum.I'm in a bad way fer supplies, and I'm makin' what substitutions I can, but it's time to start reusing what we can.The southern edge of the Path o' Glory is strewn with the ruins of siege machinery. Some pieces of 'em are still usable. Feeling up to a bit o' a salvage operation?",
+    "name": "Waste Not, Want Not",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

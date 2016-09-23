@@ -1,0 +1,7 @@
+{
+    "_id": "28798",
+    "description": "",
+    "name": "Waters of Elune",
+    "requires_level": 1,
+    "zone": "Archaeology"
+}

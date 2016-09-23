@@ -1,0 +1,8 @@
+{
+    "_id": "13651",
+    "description": "You have your wood, but the encroaching elves have made it impossible for your kodo to return to Mor'shan Ramparts.I've dispatched a runner to Splintertree to summon aid. It shouldn't take long for their forces to clear the way.In the meantime, I would ask that you do us a service. Rust has rendered our shredders inoperable. A little lubrication and they'll be as good as new.The oil from the rotting slimes just north of here should work just fine.",
+    "name": "Needs a Little Lubrication",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

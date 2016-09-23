@@ -1,0 +1,8 @@
+{
+    "_id": "40749",
+    "added_in_patch": 7,
+    "description": "The flower rests peacefully in your hand, glowing softly.While it doesn't appear to be growing anywhere nearby, there are small bouquets of the flower on some of the memorials around here.Perhaps laying down some flowers on the remaining graves will ease the gloom.",
+    "name": "A Token of Remembrance",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

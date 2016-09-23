@@ -1,0 +1,7 @@
+{
+    "_id": "8147",
+    "description": "",
+    "name": "The Maelstrom's Tendril",
+    "requires_level": 58,
+    "zone": "Quests"
+}

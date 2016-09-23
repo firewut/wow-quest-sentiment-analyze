@@ -1,0 +1,8 @@
+{
+    "_id": "33026",
+    "added_in_patch": 5.4,
+    "description": "I'm so excited, <name>. We've nearly mastered all the ingredients for noodle soup!We have plenty of vegetables and spices here, but the Lin family had access to exotic meats not seen in Pandaria for some time. We need some nice, fatty meats.Grandpa used to tell me of ancient turtles living off the shores of the Timeless Isle. Something that lives that long has to have some nice fatty meat on its bones.Create a deluxe noodle cart and gather some fatty turtle steaks and we'll continue.",
+    "name": "These Aren't Your Fatty Goatsteaks",
+    "requires_level": 90,
+    "zone": "Cooking"
+}

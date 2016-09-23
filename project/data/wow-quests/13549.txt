@@ -1,0 +1,7 @@
+{
+    "_id": "13549",
+    "description": "Along with the Drakkari artifacts, I'm interested in returning to Zandalar with some of the Zul'Drak wildlife. I have males of both the frost leopards and icepaw bears, but I need females!Too bad that my trapper was killed in a most unfortunate accident. Perhaps you would be willing to fill in for him?Put the leopards and bears to sleep with this blowgun then lift their tails and return with some females if you would be so kind. They can be found near the Altars of Rhunok, Quetz'lun, and Har'koa.",
+    "name": "Tails Up",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

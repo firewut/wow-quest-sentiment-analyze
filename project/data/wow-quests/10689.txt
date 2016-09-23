@@ -1,0 +1,7 @@
+{
+    "_id": "10689",
+    "description": "You don't see many demon hunters nowadays.  They're viewed with suspicion by their own people and it's very rare to find one that doesn't have some sort of allegiance to Illidan.There are rumors of one such demon hunter out in Nagrand.  His name is Altruis.  He hates all demons with a passion and will help us if you can convince him that you share his goals.Go to western Nagrand and find him.  He might be willing to shed some light on these new demon hunter training grounds.",
+    "name": "Altruis",
+    "requires_level": 68,
+    "zone": "Nagrand (Outland)"
+}

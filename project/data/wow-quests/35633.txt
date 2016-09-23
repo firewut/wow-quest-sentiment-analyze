@@ -1,0 +1,9 @@
+{
+    "_id": "35633",
+    "added_in_patch": 6,
+    "description": "My entire squad is gone. Some are dead; that much is obvious. The others though... they must be further in.Go and search the bodies of my squad that you find, each will carry a small pouch of personal items. I would like to return these to their families.I will go ahead and meet you inside the marsh.",
+    "name": "Scout Forensics",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

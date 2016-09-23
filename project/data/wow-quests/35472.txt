@@ -1,0 +1,8 @@
+{
+    "_id": "35472",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Culling of Stratholme Reward Quest",
+    "requires_level": 78,
+    "zone": "Quests"
+}

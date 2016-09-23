@@ -1,0 +1,9 @@
+{
+    "_id": "36301",
+    "added_in_patch": 6,
+    "description": "The bag is filled with patterns and unfamiliar tailoring tools. You find the name \"Trega\" embroidered on the inside of the bag.You seem to recall seeing her in Wor'gol. With any luck, she's still there.",
+    "name": "Trega's Tailoring Kit",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

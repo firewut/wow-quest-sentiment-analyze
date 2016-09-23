@@ -1,0 +1,8 @@
+{
+    "_id": "25266",
+    "description": "The goblins and the Horde have accomplished too much together to part ways now, <class>. I intend for the Bilgewater Cartel to become part of the Horde.I have something that I want you to deliver to the new warchief. Give this package to my Darkspear friend on the dock at Bladefist Bay in Durotar. She will help you to get into Orgrimmar safely.Speak with Sassy Hardwrench on the ship when you are ready to set sail.Until we meet again. Aka'Magosh, a blessing on you and yours, <name>!",
+    "name": "Warchief's Emissary",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Durotar"
+}

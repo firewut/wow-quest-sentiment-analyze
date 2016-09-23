@@ -1,0 +1,8 @@
+{
+    "_id": "6392",
+    "description": "For a small fee you can buy a gryphon ride to Kharanos... as long as you've already been there.  Gryphons will only fly you to places you've already been, so be sure to speak with every gryphon master you see so you can fly to him later.You've already been to Brolan, the gryphon master of Kharanos, so now you can return to him.  And once in Kharanos, you can deliver the cleavers to Gremlock Pilsnor.Speak with me when you're ready to go.",
+    "name": "Return to Gremlock",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

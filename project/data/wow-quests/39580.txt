@@ -1,0 +1,8 @@
+{
+    "_id": "39580",
+    "added_in_patch": 7,
+    "description": "I understand what Ebonhorn has been trying to tell me for a while now.Our people do not need a hammer, we need a leader. One willing to stand against any threat, even if they are terrified to do so.And between you and me, I am definitely terrified, but resolved.Let us return to Thunder Totem and prepare ourselves for war.",
+    "name": "The High Chieftain",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

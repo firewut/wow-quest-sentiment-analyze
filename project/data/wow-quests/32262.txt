@@ -1,0 +1,8 @@
+{
+    "_id": "32262",
+    "added_in_patch": 5.2,
+    "description": "The Kirin Tor have gone too far! Now they hold our fellow Sunreavers as war prisoners!There will be no discussion of prisoner exchange. We will handle this ourselves.Go to Violet Rise and free as many prisoners as you can. Do not get captured yourself. We cannot afford to lose you too.",
+    "name": "Captive Audience",
+    "requires_level": 90,
+    "zone": "Quests"
+}

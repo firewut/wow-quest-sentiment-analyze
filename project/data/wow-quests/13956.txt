@@ -1,0 +1,7 @@
+{
+    "_id": "13956",
+    "description": "High-Oracle Soo-say always tell us about how Great Ones built shrines and we give them shinies, but he never see Great Ones. No one see Great Ones, but maybe you know how to find one?Soo-say told us the Great Ones made a waygate and put it in the center of the southern part of Sholazar. Soo-say not say where it goes, but maybe it take us to a Great One! Take us through that waygate and let's find out, <name>.",
+    "name": "Meeting a Great One",
+    "requires_level": 70,
+    "zone": "Children's Week"
+}

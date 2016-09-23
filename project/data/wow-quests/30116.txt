@@ -1,0 +1,7 @@
+{
+    "_id": "30116",
+    "description": "Do you understand why I have you assassinate the dragons, yet spare the mortals? It isn't their fault. They must seek out their own destiny, free from the meddling of my kind.We are nearing the end of our mission, and it is time for you to seek out your own destiny as well. I can continue to augment your weapons, but collecting shadowy gems won't be enough. My work will require entire clusters. Gather them from my father's minions...",
+    "name": "Sharpening Your Fangs",
+    "requires_level": 85,
+    "zone": "Quests"
+}

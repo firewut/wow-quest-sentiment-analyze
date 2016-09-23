@@ -1,0 +1,7 @@
+{
+    "_id": "11108",
+    "description": "Come, highlord <name>. Illidan himself awaits us!",
+    "name": "Lord Illidan Stormrage",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29164",
+    "description": "The wolf ancient, Lo'gosh - or, if you prefer, Goldrinn - has many weapons available to him, but always the most underestimated is his howl. Today, we will use this weapon to summon and defeat Lylagar, one of the lieutenants of flame that lurk within the Firelands.Defeat any of the creatures of flame within the Regrowth, and then use the Fang of the Wolf while standing atop their corpse. Soon, your howl will echo across all of Kalimdor.",
+    "name": "Perfecting Your Howl",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

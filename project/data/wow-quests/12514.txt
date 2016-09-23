@@ -1,0 +1,7 @@
+{
+    "_id": "12514",
+    "description": "Now what we need is something to spike the mojo with. Something that'll make it so that when the prophet drinks it, he'll become less powerful.Drak'Agal lies to the east. There's a mushroom there that the natives call muddlecap fungus. I think it's exactly what we need.Bring back lots of them. When we mix them into the mojo, the mind of anyone who drinks it will become muddled.",
+    "name": "Mushroom Mixer",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

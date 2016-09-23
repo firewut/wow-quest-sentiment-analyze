@@ -1,0 +1,8 @@
+{
+    "_id": "10123",
+    "description": "Doom Lord Kazzak commands the Burning Legion in Outland. While we can't get to Kazzak - yet - we can and must get to his lieutenants that command Legion troops from the ground.They have stationed dreadlords in Felspark Ravine, east of here. They are responsible for these infernal storms that rain down upon our heads. To take them and their minions out would be a great set back to the Burning Legion.",
+    "name": "Felspark Ravine",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

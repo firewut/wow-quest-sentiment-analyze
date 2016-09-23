@@ -1,0 +1,8 @@
+{
+    "_id": "33578",
+    "added_in_patch": 6,
+    "description": "W- we have done n-n-nothing to provoke the arakkoa... w-why would they attack Aruuna? What do they want from us?I want to run, but I'm... too afraid. That leader of theirs will burn me to a crisp, I just know it!H-he's just inside the inn...",
+    "name": "Pyrophobia",
+    "requires_level": 94,
+    "zone": "Talador"
+}

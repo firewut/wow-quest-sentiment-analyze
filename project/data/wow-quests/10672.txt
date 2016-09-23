@@ -1,0 +1,7 @@
+{
+    "_id": "10672",
+    "description": "We must study these creatures further.Far to the east - near the huge lava flow beneath the ruins of Baa'ri - you will find arcano control units. These controllers were crafted by a genius named Gnomus for the sole purpose of exploring lava via mechanical scorpion.He has long since lost his mind and is now only interested in eating the hottest food known to gnome-kind.<Tiorus gives you a funny look.>I want you to use the control and tag the diemetradons of the lava flow for further study.\r\n",
+    "name": "Frankly, It Makes No Sense...",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

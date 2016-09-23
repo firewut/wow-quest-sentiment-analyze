@@ -1,0 +1,8 @@
+{
+    "_id": "40048",
+    "added_in_patch": 7,
+    "description": "I understand you were just here to deliver the vellums, but we could use your skills as a <class>. Our forces can only hold back the demon invasion, disallowing us to send anyone further into the enemy's camp.The stronger of their forces stay in the back, commanding from a distance. They carry enchanted runes to keep control over the frontline demons.I would very much like to study one of these runes. Please retrieve one for me, so we may learn from it and use it against the Legion.",
+    "name": "Strings of the Puppet Masters",
+    "requires_level": 100,
+    "zone": "Enchanting"
+}

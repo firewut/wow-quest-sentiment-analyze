@@ -1,0 +1,8 @@
+{
+    "_id": "25866",
+    "description": "You may have seen them while you were out, but the Dark Iron clan has been spotted in this area. They're never up to any good, and it looks like they're kidnapping the Mosshide gnolls for some reason.I don't know what their game is, but we're putting a stop to this before more foul play occurs. Go and stop them.And if you're worried about fairness, try askin' them politely first and see how far that gets you.",
+    "name": "Dark Iron Trappers",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

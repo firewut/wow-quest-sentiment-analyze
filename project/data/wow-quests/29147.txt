@@ -1,0 +1,7 @@
+{
+    "_id": "29147",
+    "description": "Today, we have an opportunity to make another assault against one of Ragnaros' greater minions: Millagazor. However, we first need to get some assistance.<Matoclaw holds up a large, silky feather.>Use this artifact to invoke the power of Aviana. Once you have done so, travel northwest and gather some of her flock by calling out to them.Once you have done so, we may proceed against Millagazor.",
+    "name": "Call the Flock",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

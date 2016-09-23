@@ -1,0 +1,7 @@
+{
+    "_id": "7381",
+    "description": "While it is true that Korrak has been slain, one question remains: Will he remain dead? Trolls are notorious for their other-worldly tribal magics. I would not be surprised if the fallen leader was raised from the dead to once more rule over his clan.You know what to do should this ever occur.<Warmaster Laggrond makes a cutting motion across his neck with his index finger.>And  this time, I want his skull. Just keep your eyes peeled, soldier.Dismissed!",
+    "name": "The Return of Korrak",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

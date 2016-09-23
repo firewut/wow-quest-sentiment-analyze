@@ -1,0 +1,7 @@
+{
+    "_id": "318",
+    "description": "Rejold Barleybrew experiments with his brews.  Some of them taste good, some bad, and some...well, some will lay all but the stoutest dwarf flat.He lives at Brewnall Village, west of Kharanos, and one of his drinks, Evershine, is what I want.  It'll help keep me warm while I'm on the cold road.And...the blessed stuff burns so hot I can throw it in Jetsteam's furnace for a burst of power!  That little tactic has gotten me out of more than one tight spot.",
+    "name": "Evershine",
+    "requires_level": 2,
+    "zone": "Dun Morogh"
+}

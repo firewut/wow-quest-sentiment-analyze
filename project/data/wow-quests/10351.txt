@@ -1,0 +1,7 @@
+{
+    "_id": "10351",
+    "description": "It must be that the evil emanations from that giant crystal are summoning the mountain giants and driving them insane.It's too big to move, and beyond our ability to destroy, but I know a way to quell its power.I've summoned a circle at the northwest corner of the crystal on the ridge.  Take this seed to the circle and channel its powers to heal the land through the natural forces of rain, growth and insect repopulation.Beware, <name>, I sense an external force at play here... this is not natural!",
+    "name": "Natural Remedies",
+    "requires_level": 61,
+    "zone": "Hellfire Peninsula"
+}

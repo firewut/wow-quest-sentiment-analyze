@@ -1,0 +1,7 @@
+{
+    "_id": "26351",
+    "description": "To know Mandokir, you must see Mandokir.To see Mandokir, you must use eyes of raptor.You have formed bond with raptor: Ohgan'aka: daughter of Ohgan.To strengthen bond, we need feathers.You will go west, and you will find the feathers, yes.",
+    "name": "Mind Vision",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14157",
+    "description": "Lord Darius Crowley has been called many things.  Rebel.  Traitor.  Terrorist.Before the civil war I called him... friend.I never blamed him for leading an insurrection against me.  His land and people were separated from Gilneas by a stone wall... but we had no choice.Regardless... Crowley is exactly the type of person we need now.Enter Stoneward Prison and ask Captain Broderick about Crowley's whereabouts.  I'd send my own men, but there's still bad blood.",
+    "name": "Old Divisions",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

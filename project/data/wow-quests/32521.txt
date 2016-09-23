@@ -1,0 +1,8 @@
+{
+    "_id": "32521",
+    "added_in_patch": 5.2,
+    "description": "My scouts have spotted a Zandalari war party on the northern beach. I need someone capable to see him dispatched. Are you up to the task?",
+    "name": "Encroaching Force",
+    "requires_level": 90,
+    "zone": "Quests"
+}

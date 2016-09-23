@@ -1,0 +1,7 @@
+{
+    "_id": "11304",
+    "description": "I'm afraid our equipment isn't exactly the best here at Vengeance Landing.  After all it's a military controlled outpost.I will need you to take a sample of this strain to Chief Plaguebringer Harris in New Agamand, follow the road beyond Baleheim south and then west.  They have better equipment there - he will know what to do.You must hurry, <name>.  Our enemies are stronger and more numerous than us.  We need to develop a viable weapon against them!",
+    "name": "New Agamand",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27964",
+    "description": "Grimesilt wasn't as high up on the chain as I thought.  We'll have to take out his superior and find out what he knows.Dig-Boss Dinwhisker's his name, and he runs the Dark Iron digging operations within the Cauldron, just northwest of here.  His excavators and footmen patrol the eastern side of the Cauldron, digging downward, day and night.He's not known to show his face out in the field very often, but if you slay enough of his men, he'll be forced to come out and deal with you.",
+    "name": "Dig-Boss Dinwhisker",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

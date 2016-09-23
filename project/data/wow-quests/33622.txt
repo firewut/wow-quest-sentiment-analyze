@@ -1,0 +1,9 @@
+{
+    "_id": "33622",
+    "added_in_patch": 6,
+    "description": "This entrance to the fortress is clear again, thanks to your help.Inside is another story. Find your way inside and leave no ogre standing as you go.",
+    "name": "To the Slaughter",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

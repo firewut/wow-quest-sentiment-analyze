@@ -1,0 +1,8 @@
+{
+    "_id": "42933",
+    "added_in_patch": 7,
+    "description": "\"Demons\" you say? A \"Burning Legion?\" Hrmph! Nothing burns here but for my ire, shaman, and if these monsters think to corrupt my domain, they will be crushed beneath my dainty beautiful feet!I have not seen this hammer of yours, but the stone troggs witnessed everything that fell from the sky. Moreover, they've been running amok in the Pale Roost ever since the green fire landed near their home.Be a dear and lay waste to the Felrock Troggs west of here. Perhaps you can get one of them to talk.",
+    "name": "The Troggs that Fel to Earth",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

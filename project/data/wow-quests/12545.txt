@@ -1,0 +1,7 @@
+{
+    "_id": "12545",
+    "description": "We wrested this ancient Drakkari temple from a swarm of invading Scourge. Not more than one-hundred paces from where we stand is the ruined city of Jintha'kalar. Scourge necromancers run amok, turning the living Drakkari trolls that remain into servants of the Lich King.All are now lost to the Light. All must be purged.<Valus looks upon you sternly.>All.",
+    "name": "The Cleansing Of Jintha'kalar",
+    "requires_level": 74,
+    "zone": "Dragonblight"
+}

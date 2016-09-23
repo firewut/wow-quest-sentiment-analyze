@@ -1,0 +1,8 @@
+{
+    "_id": "39656",
+    "added_in_patch": 7,
+    "description": "It's time to attack the pack! I've preloaded the hand cannon. All you have to do is point and shoot.\r\n\r\nThe critters should survive the blast and hit the ground running. The howlers will be distracted by the critters, allowing you to focus on killing the packleaders.\r\n\r\nHappy hunting!",
+    "name": "Wolf Pack Attack",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

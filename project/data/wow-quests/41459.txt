@@ -1,0 +1,8 @@
+{
+    "_id": "41459",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Dense Leystone Outcropping",
+    "requires_level": 110,
+    "zone": "Mining"
+}

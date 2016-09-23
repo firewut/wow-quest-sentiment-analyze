@@ -1,0 +1,8 @@
+{
+    "_id": "7023",
+    "description": "Have a wondrous Winter Veil, friend!  Be sure to say hello to Greatfather Winter, who's currently in Ironforge!  If you've been nice this year, you'll receive wondrous treats on the day of the Feast of Winter Veil.  Be sure to tell him what you hope to get this year!Also, be sure to stock up on treats to give those who've been nice this year.  We have a great selection to choose from.  Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+    "name": "Greatfather Winter is Here!",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Quests"
+}

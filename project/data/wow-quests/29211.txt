@@ -1,0 +1,7 @@
+{
+    "_id": "29211",
+    "description": "The fight has taken us to Fandral's doorstep. His druids are channeling energies of the Firelands into a vessel called the Solar Core.Should this vessel detonate on Azeroth, none of us will have a home to return to.We need to strike at the Solar Core now, while it is still vulnerable. You can find the infernal device to the northeast.",
+    "name": "Solar Core Destruction",
+    "requires_level": 85,
+    "zone": "Quests"
+}

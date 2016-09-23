@@ -1,0 +1,8 @@
+{
+    "_id": "11575",
+    "description": "I told them all that I remember. Why don't they believe me?I was gathering herbs by the rift. They came from nowhere, dark wizards with magical beasts. I was surrounded!A huge magical cube appeared above me. It opened up and pulled me inside. I swear it's true!Just as it began to close around me, my rescuers swooped in on the backs of drakes - It was amazing! My captors scattered and I was able to escape.I never thanked them for saving me. Please, <class>, if you see them, pass on my gratitude.",
+    "name": "Nick of Time",
+    "requires_level": 69,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

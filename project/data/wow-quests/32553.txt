@@ -1,0 +1,8 @@
+{
+    "_id": "32553",
+    "added_in_patch": 5.2,
+    "description": "We have an opportunity to disrupt the Zandalari war machine as well as have a little fun in the process.Within these beast pens, a devilsaur and a direhorn are being outfitted with armor, their minds being enslaved to the Zandalari charms.Go into the camp and disrupt one of these binding rituals. It doesn't matter which one. Just kill those who are trying to bind the creature. This should let the fully armored beast run mad through the Zandalari camp. Then sit back and watch the hilarity ensue.",
+    "name": "Direhorn vs Devilsaur",
+    "requires_level": 90,
+    "zone": "Quests"
+}

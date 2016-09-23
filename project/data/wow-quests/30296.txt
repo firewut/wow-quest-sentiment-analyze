@@ -1,0 +1,8 @@
+{
+    "_id": "30296",
+    "added_in_patch": 5,
+    "description": "Big mogu leader is here! Up behind village. If we kill big mogu leader, Leven be happy with us for sure!You been good at helping Rook. Want to help more maybe? Please?",
+    "name": "Gaohun the Soul-Severer",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

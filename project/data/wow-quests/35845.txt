@@ -1,0 +1,9 @@
+{
+    "_id": "35845",
+    "added_in_patch": 6,
+    "description": "I managed ta recover Zasta's notes. He saw dey Warsong leaders meetin' often in dey nearby buildings. Zasta tinks dere be clues about dey Iron Horde's plans nearby.Dey least we can do is follow dey lead he left us.Search dey camp for dey intelligence. I'll keep dey orcs distracted.",
+    "name": "Plans of War",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9332",
+    "description": "This flame, stolen from the shores of Teldrassil, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",
+    "name": "Stealing Darnassus's Flame",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

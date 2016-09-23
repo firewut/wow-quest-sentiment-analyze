@@ -1,0 +1,7 @@
+{
+    "_id": "11392",
+    "description": "Many dreary candles adorn this pumpkin shrine.",
+    "name": "Call the Headless Horseman",
+    "requires_level": 75,
+    "zone": "Hallow's End"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25888",
+    "description": "I simply cannot bear the thought of so many others like this soldier imprisoned, surrounded by naga.Something must be done to rescue them!Try this, <name>. Use  it on the prison cells to make them buoyant.If we can get them to the surface, at least they stand a chance at being rescued.",
+    "name": "Decompression",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

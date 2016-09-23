@@ -1,0 +1,8 @@
+{
+    "_id": "42213",
+    "added_in_patch": 7,
+    "description": "<Now that you have defeated Queen Azshara's Wrath and have the Tidestone in hand, it is time to place it in the Portrait Room of the Chamber of the Guardian in lower Dalaran.>",
+    "name": "The Tidestone of Golganneth",
+    "requires_level": 98,
+    "zone": "Dalaran"
+}

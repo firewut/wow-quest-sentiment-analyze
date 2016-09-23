@@ -1,0 +1,7 @@
+{
+    "_id": "12623",
+    "description": "We Zandalari could use your help, <name>. We must put an end to what the Drakkari are doing to their gods!To the northeast, up the great steps that lead to the next tier of Zul'Drak, lies Zim'Torga. It is the home to another of the god statues and a refuge that my people are desparately attempting to defend.I would like for you to travel there and speak to Witch Doctor Khufu. Be warned though, the place is under constant attack from the Drakkari.",
+    "name": "To the Witch Doctor",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12050",
+    "description": "Next up, we need to haul in some lumber for all the towers the Alliance are building.  There are some thin trees to the south, but the trees the harpies are nesting in to the north look much more fit for structures.Take this.  When you get to the harpy nesting area, use the control and one of my Shredders should come to you.  Gather as much lumber as it can carry.  The harpies are sure to disagree with you chopping down their homes - just deal with them as necessary.Hop to it!",
+    "name": "Lumber Hack",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

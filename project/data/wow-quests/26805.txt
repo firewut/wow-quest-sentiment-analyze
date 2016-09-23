@@ -1,0 +1,7 @@
+{
+    "_id": "26805",
+    "description": "The Explorers' League is growing, <name>.  Not only have they taken in worgen like me, but they have expanded their range in search of artifacts.  One of our best, Bronwyn Hewstrike, has set up a camp in the south, where he believes an item of titan origin may be hidden.Bronwyn asked me to perform some duties here in the north, one of which was to identify potential recruits.  You seem to be made of the right stuff.  Talk to Robert Rhodes, the flight master, and he'll send you down there.  Bronwyn's treat.",
+    "name": "To the Cape!",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

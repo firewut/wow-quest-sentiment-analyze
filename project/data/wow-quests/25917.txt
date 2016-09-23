@@ -1,0 +1,7 @@
+{
+    "_id": "25917",
+    "description": "<Duarn closes his eyes, pauses, and nods.>Nespirah has just informed me that we are not the only people fighting inside of this shell.  A small group of Alliance slaves has escaped and is currently fighting off the naga on the other side of the shell, up on the ledge that overlooks Nespirah's heart.Go find them, <name>, and see what help they can lend us.  With their aid, we may be able to rouse Nespirah from her torpor.I will remain here, should you need anything.",
+    "name": "We Are Not Alone",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

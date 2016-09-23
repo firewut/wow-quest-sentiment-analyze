@@ -1,0 +1,9 @@
+{
+    "_id": "32943",
+    "added_in_patch": 5.4,
+    "description": "Once your scallions are ready to be picked, you'll need only to package them for pick-up.Just think; your scallions will feed so many hungry soldiers on the front lines!",
+    "name": "Work Order: Sunreaver Onslaught II",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Valley of the Four Winds"
+}

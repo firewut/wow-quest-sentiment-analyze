@@ -1,0 +1,8 @@
+{
+    "_id": "31325",
+    "added_in_patch": 5,
+    "description": "The beautiful necklace is only partly smudged by dirty hozen hands.There's only one person in the Valley who would own such a beautiful piece of jewelry.",
+    "name": "A Very Nice Necklace",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

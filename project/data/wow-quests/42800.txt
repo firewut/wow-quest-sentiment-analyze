@@ -1,0 +1,8 @@
+{
+    "_id": "42800",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Valeera Sanguinar",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10740",
+    "description": "You have not disappointed us, <name>.  We continue to have very high hopes for you, however.Continue to serve the Violet Eye and you will be appropriately rewarded.",
+    "name": "Distinguished Service",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

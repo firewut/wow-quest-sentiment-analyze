@@ -1,0 +1,8 @@
+{
+    "_id": "42097",
+    "added_in_patch": 7,
+    "description": "The Black Harvest archives contain an immeasurable amount of magical knowledge that has been collected from various sources over time. \r\n\r\nIt's reasonable to think that somewhere among the countless scrolls that we'll find something to aid us in our mission to rescue the remaining council members. \r\n\r\nThe search may be exhausting, but it is necessary if we plan to rebuild and face the Burning Legion.",
+    "name": "Searching the Archives",
+    "requires_level": 101,
+    "zone": "Warlock Campaign"
+}

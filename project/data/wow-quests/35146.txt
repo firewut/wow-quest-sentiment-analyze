@@ -1,0 +1,8 @@
+{
+    "_id": "35146",
+    "added_in_patch": 6,
+    "description": "Our expedition biologist has been kidnapped by podlings!We came to Nagrand to explore, to slay the mightiest of beasts, and test our mettle alongside the great Hemet Nesingwary.As soon as we arrived, Hemet's hunting prowess was needed to combat the Warsong. Rather than sit around twiddling our thumbs, we decided to continue the expedition!We were exploring Spiteleaf Thicket when podlings ambushed us! In the chaos, Dr. Hadley Ricard was taken captive.Please, we can't just leave him there!",
+    "name": "The Good Doctor",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

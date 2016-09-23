@@ -1,0 +1,8 @@
+{
+    "_id": "32528",
+    "added_in_patch": 5.2,
+    "description": "Every day, we uncover additional relics from the Court of Bones.Recently, we discovered this scroll amongst the gravestones in one of the deepest crypts.I believe that this incantation can be used to call beyond the grave. And if my Mogu is up to date, I'd say you should use it in the last room in the Hall of the Exalted.Would you be willing to test out my theory?",
+    "name": "Into the Crypts",
+    "requires_level": 90,
+    "zone": "Quests"
+}

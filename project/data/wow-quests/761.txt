@@ -1,0 +1,7 @@
+{
+    "_id": "761",
+    "description": "The swoop is a cunning bird, and difficult to find and hunt.  A collection of Swoop Quills is a badge of cleverness and determination for a hunter.If you are willing to take up this task, then enter the plains and hunt the swoop.Bring me their quills, and bring honor to your clan.The swoops may be found anywhere in Mulgore, but your eyes must be sharp to spot them, and your hooves must be quick to catch them.",
+    "name": "Swoop Hunting",
+    "requires_level": 4,
+    "zone": "Mulgore"
+}

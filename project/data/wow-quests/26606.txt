@@ -1,0 +1,7 @@
+{
+    "_id": "26606",
+    "description": "<name>, I now put my faith in you to help free me.  The great Skymane King Mukla is my captor.  He commands the beasts of this island, and they keep me here against my will with the aid of this chain.  If you can slay him and find the key to this shackle, I shall be indebted to you greatly.I often hear him to the southeast side of the island, but please be careful: he is not to be trifled with.",
+    "name": "Mukla's Demise",
+    "requires_level": 30,
+    "zone": "The Cape of Stranglethorn"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13698",
+    "description": "I hate to send you back in there, but based on your description of what's going on, we can't let them use all of those explosives they have stored up!It's too dangerous for you to try to destroy them yourself, but if you were to steal one of their shredders, I'm sure they're tough enough to withstand the explosions.After you've destroyed their explosives, return here with the shredder. There's no sense in letting them have it back.",
+    "name": "Explosives Shredding",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

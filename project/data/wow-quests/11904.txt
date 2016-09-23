@@ -1,0 +1,8 @@
+{
+    "_id": "11904",
+    "description": "The Scourge just keeps coming... but we can't give up!  Listen, <name>.  Inside that mine there's a cart with the last of the ore the Alliance is going to see on this side of the continent for a long time.The problem is the cart release is locked.  When the military went in there, Captain Jacobs commandeered all the important equipment, including the cart release key.The plague that affected the soldiers in the mine must also have affected Jacobs.  Get the key from him and salvage the ore.",
+    "name": "Fruits of Our Labor",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

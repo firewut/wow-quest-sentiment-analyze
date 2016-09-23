@@ -1,0 +1,8 @@
+{
+    "_id": "39891",
+    "added_in_patch": 7,
+    "description": "I need you to return to Azsuna at once, <name>. I've only just heard of an enchantress within the Crumbled Palace who knows of many rare enchantments.Go to her and see what you can learn at once.",
+    "name": "Cursed, But Convenient",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25986",
+    "description": "You've been a great help in securing the mines and rescuing the trapped miners.The Senate will be heartened to hear that you and Captain Tharran's mountaineers have made progress in securing Dun Morogh.What worries me is that I haven't seen any reports from Sergeant Bahrum and his detachment. They were sent east, along the road toward Helm's Bed Lake, and ordered to set up a small outpost. Would you go to Bahrum's Post and check in on the sergeant?",
+    "name": "Trouble at the Lake",
+    "requires_level": 6,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

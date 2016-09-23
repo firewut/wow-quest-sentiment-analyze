@@ -1,0 +1,9 @@
+{
+    "_id": "36193",
+    "added_in_patch": 6,
+    "description": "I know that you and Vindicator Yrel are here on important matters, but I must ask you a favor.A squad of rangari left on patrol just before the poisonous mist set in.If they were caught out in the swamp, they are surely in trouble.Harvest the Restorative Goldcaps growing among the reeds, and use them to restore any fallen rangari that you find.If you find yourself in trouble, eat one to combat the poison.",
+    "name": "An Act of Kindness",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

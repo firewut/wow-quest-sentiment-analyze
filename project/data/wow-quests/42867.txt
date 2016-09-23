@@ -1,0 +1,8 @@
+{
+    "_id": "42867",
+    "added_in_patch": 7,
+    "description": "The Light's Heart will be safe within our order's walls, but it bears dark tidings.We should gather the leaders of our order for a council.Go and speak to Lady Liadrin, Vindicator Boros, Justicar Julia Celeste, Arator the Redeemer, and Aponi Brightmane. We should seek their wisdom for the days ahead.",
+    "name": "Meeting of the Silver Hand",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43600",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Warden Tower Assault: Whisperwind's Citadel",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "6641",
+    "description": "Vorsha the Lasher... the fiendish hydra that roams the seas...She has attacked our outpost, each time unprovoked, laying waste to anything that falls in her path.But I am ready, <name>. I have prepared to best the hydra and end these attacks on Zoram'gar.The naga honor the wicked nature of this beast with a brazier that remains lit on an island just off the coast. I believe that if we put it out, Vorsha will appear in anger.We will need help, so be sure to bring some strong allies.",
+    "name": "Vorsha the Lasher",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

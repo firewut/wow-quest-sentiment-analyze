@@ -1,0 +1,9 @@
+{
+    "_id": "34836",
+    "added_in_patch": 6,
+    "description": "How I long to hold Kat'la.No star or moon can compare to her beauty.Alas, I am but a simple boar farmer.If only I could find time to sneak away from this pathetic excuse for a job and pick some lunarblossoms for Kat'la.I wouldn't dare confess my love to her without a gift.",
+    "name": "Lunarblossom",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

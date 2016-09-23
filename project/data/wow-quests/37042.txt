@@ -1,0 +1,7 @@
+{
+    "_id": "37042",
+    "description": "Have you seen the boars they have here? Bigger than I am! Let's get one of them, why not?You're going to have to head to Gorgrond for that task. Way out in the desolate regions, you'll find the ones we're lookin' for.",
+    "name": "UNUSED",
+    "requires_level": 93,
+    "zone": "Gorgrond"
+}

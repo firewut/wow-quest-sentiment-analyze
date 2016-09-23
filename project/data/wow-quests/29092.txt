@@ -1,0 +1,7 @@
+{
+    "_id": "29092",
+    "description": "This information must be spread to the entirety of the Earthen Ring. I'm not certain how to proceed, but the elder who set you on this task in the first place may. Please, return to the elder and seek the next course of action - we must do something!",
+    "name": "Inform the Elder",
+    "requires_level": 16,
+    "zone": "Midsummer"
+}

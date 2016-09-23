@@ -1,0 +1,7 @@
+{
+    "_id": "8522",
+    "description": "Argue the merits of the war if you will, <class>, but it has already been set in motion. Look around you at your family and friends, and then ask yourself what it is that you can do to see to it that if they are involved, they will have every advantage to survive the conflagration.To that end, I am collecting runecloth bandages here from whatever source. Would you like to make a donation?",
+    "name": "The Alliance Needs Runecloth Bandages!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

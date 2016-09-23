@@ -1,0 +1,7 @@
+{
+    "_id": "25720",
+    "description": "Wormthorn's unnatural forest threatens our excursion's progress.  His trees' roots break our picks, his moss grows over our excavation sites, and his animals attack my men.  When it comes to digging, I'll take a demon-infested wasteland over a forest any day.Take the demoniac vessel and use it on Marl Wormthorn to pull him from his trance.  Return to me when he is no more.",
+    "name": "The Downfall of Marl Wormthorn",
+    "requires_level": 55,
+    "zone": "Blasted Lands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14282",
+    "description": "Your efforts have paid off. The great risks you have taken have proven worthwhile.You have discovered the object of the nagas' desire and their reason for overrunning the coast of Desolace.As for the engravings you've discovered, your duty is clear...",
+    "name": "Mystery Solved",
+    "requires_level": 28,
+    "zone": "Desolace"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "30594",
+    "added_in_patch": 5,
+    "description": "I've got much to do here, <name>. I could use your help.There's a place to the northwest. The pandaren here call it Mogujia. Something's causing the statues there to animate, and our pandaren friends here are pretty spooked about it.If they're not dealt with soon, we might have a serious problem. We just moved in. It's not like we can afford to fight a war with an army of statues right now.",
+    "name": "Deanimate the Reanimated",
+    "requires_level": 87,
+    "side": "horde",
+    "zone": "Kun-Lai Summit"
+}

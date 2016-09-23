@@ -1,0 +1,9 @@
+{
+    "_id": "31771",
+    "added_in_patch": 5,
+    "description": "I do not know the history of this war that you fight, and I am not interested. This land responds to negative energy in kind. The hatreds, doubt, and violence you have brought here now ooze out of Pandaria like blood from an open wound.Your actions have wrought havoc all over these ruins! Clean up after yourself and meet me in the village below - I will do my best to explain what is happening here.",
+    "name": "Face to Face With Consequence",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

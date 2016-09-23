@@ -1,0 +1,7 @@
+{
+    "_id": "9996",
+    "description": "We know that the blood elves of Firewing Point are working for Kael'thas and Illidan.  And from what you've told me, clearly they are using the Broken of Tuurem as smuggling go-betweens for the creation of some horrible weapon.Whatever they're up to out there, the most efficient thing that we can do right now is to thin out their numbers.The Firewing blood elves need to be taken out!  Head up to Firewing Point to the north and see to it.",
+    "name": "Attack on Firewing Point",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12472",
+    "description": "Thanks to your heroics, Lord Fordragon has given the command to launch a full assault against Thel'zan. 7th Legion have made their way into the summoning chamber of the mausoleum and located what appears to be a gateway to hell. The only piece that's missing now is you.Take the phylactery and report to Legion Commander Yorik inside the Wintergarde Mausoleum.There is a tunnel that the Scourge dug out just outside the keep that you can take to get to Yorik quickly. Go now, <name>! Lead us to victory!",
+    "name": "Finality",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

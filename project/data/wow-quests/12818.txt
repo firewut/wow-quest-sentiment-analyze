@@ -1,0 +1,7 @@
+{
+    "_id": "12818",
+    "description": "To the point... Ricket's asked me to put together some stronger land mines, but I'm running low on parts.Just west of town, you'll find the remains of our last rocket sled... Ricket got a little excited when she was fueling it, but I probably should have thought to not put the nozzle right over the exhaust. Live and learn, eh?There should be a good stock of spare parts scattered around the destroyed sled... why don't you go ahead and chase off those scavengers and nab me some of that wreckage?",
+    "name": "Clean Up",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

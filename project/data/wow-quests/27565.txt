@@ -1,0 +1,8 @@
+{
+    "_id": "27565",
+    "description": "We've managed to infiltrate the Dark Iron Prison!Well...we may have, anyway.Kevin Dawson had the...honor...of seeing what was going on over there, and we haven't heard back from him since. You look like the type that doesn't like to die, you should go see if he's ok!He's supposed to be inside the hall on the south end of the cavern ahead...though something tells me he may not have made it quite that far.",
+    "name": "Into the Prison",
+    "requires_level": 47,
+    "side": "alliance",
+    "zone": "Blackrock Depths"
+}

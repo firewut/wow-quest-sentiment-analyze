@@ -1,0 +1,9 @@
+{
+    "_id": "34040",
+    "added_in_patch": 6,
+    "description": "I don't get it - most of the Iron Horde junk is about as advanced as strapping cannons to a gronn. Even the drill itself is nothing special. But that induction system was a work of art...This don't add up at all!Despite my better judgment, I gotta find out who made this. I wanna look at more of what they got in the Iron Siegeworks, see if anything's been signed.<Gazlowe pats the sack of coins on his belt.>Whaddaya say? Wanna be my bodyguard?",
+    "name": "Maker's Mark",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

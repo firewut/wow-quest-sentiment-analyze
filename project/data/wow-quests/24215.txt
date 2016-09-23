@@ -1,0 +1,8 @@
+{
+    "_id": "24215",
+    "description": "Look, <name>. The rolling plains of Mulgore stretch before you: our home, the cradle of the Earth Mother. Here she provides us with all we could ever need, a peaceful and verdant land. This is what you will fight to protect.Your journey will take you far beyond her sheltering arms, to the farthest and cruelest regions of this world, and beyond.Below us is Bloodhoof Village. The first step on your true path begins now. Drink deep of the Water of Vision, and let the spirits guide you onward.",
+    "name": "Rite of the Winds",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27245",
+    "description": "We're doing all we can to keep the Grimtotem raiders at bay, but they keep launching assaults on the tower. Even worse, they've managed to discover and capture the patrols the captain sends out to gather information and safeguard the road.I suspect the captives are being held in Blackhoof Village, to the northwest. Knowing the Grimtotems, the defenders of the village probably carry the keys to the prisoners' cages with them. I don't care what you have to do, <class>, just bring back my men alive.",
+    "name": "Prisoners of the Grimtotems",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

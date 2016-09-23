@@ -1,0 +1,8 @@
+{
+    "_id": "40964",
+    "added_in_patch": 7,
+    "description": "I was with Lothrius when the Nightborne poured into the stronghold.\r\n\r\nHe and his constructs managed to get the majority of us out of the Athenaeum, but he was cornered before he could make good on his own escape.\r\n\r\nI know he still lives- I feel it in my gut!- but I cannot go back for him myself. My injuries are too severe.\r\n\r\nBeakbuck will take you to where we last saw Lothrius. Simply let him know when you are ready to leave.\r\n\r\nGo quickly, and good luck!",
+    "name": "The Rift Between",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

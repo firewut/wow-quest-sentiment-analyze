@@ -1,0 +1,9 @@
+{
+    "_id": "39800",
+    "added_in_patch": 7,
+    "description": "The Skyfire is prepared to make way to Stormheim. Should we become engaged, I will require my best fighters on the front line.\r\n\r\nThis includes you, <class>.",
+    "name": "Greymane's Gambit",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

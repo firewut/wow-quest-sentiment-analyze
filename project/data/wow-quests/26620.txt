@@ -1,0 +1,8 @@
+{
+    "_id": "26620",
+    "description": "Seasoned wolf kabobs are a house favorite!  Sure, I can make you some.  But first I'll need the supplies.Bring me five wolf skirt steaks.  The dire wolves near the river north of town are good to hunt; I wouldn't stray too far into the woods if I were you.",
+    "name": "Seasoned Wolf Kabobs",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

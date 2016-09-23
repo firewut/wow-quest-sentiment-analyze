@@ -1,0 +1,9 @@
+{
+    "_id": "36162",
+    "added_in_patch": 6.1,
+    "description": "Don't let Azuka take the heart, commander. Don't let her win.",
+    "name": "A Stolen Heart",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

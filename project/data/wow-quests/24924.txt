@@ -1,0 +1,8 @@
+{
+    "_id": "24924",
+    "description": "The pygmies took most of our people back to their village. Who knows what evil they're up to?<name>, you have to go up there and free all of the captives before the pygmies work their voodoo on them!Izzy's already up near Oomlot Village to the southeast. She'll give you the heads-up on what's going down.Your pygmy helmet looks like it's in bad shape, but it should last long enough for you to get there.I hope.",
+    "name": "Oomlot Village",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

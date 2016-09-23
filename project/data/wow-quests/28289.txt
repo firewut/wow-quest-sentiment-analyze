@@ -1,0 +1,7 @@
+{
+    "_id": "28289",
+    "description": "I have received word that our brothers in Moonglade have requested your help, <name>. You should travel there and speak with Loganaar in Nighthaven. He will tell you all you need to know.",
+    "name": "Moonglade Calls",
+    "requires_level": 50,
+    "zone": "Moonglade"
+}

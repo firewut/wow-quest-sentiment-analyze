@@ -1,0 +1,7 @@
+{
+    "_id": "11017",
+    "description": "A flower picker?! Hilarious... Unfortunately, our mages and shaman need your services. The netherdust bushes that grow on this ledge have special pollen that is apparently very useful in their magical dealings. Bring me that stuff and I'll consider your work order complete.",
+    "name": "Netherdust Pollen",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

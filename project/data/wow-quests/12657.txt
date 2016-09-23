@@ -1,0 +1,7 @@
+{
+    "_id": "12657",
+    "description": "Listen well, death knight, for I give to you the words that will start a war. My final judgment has been passed: Death. To. All. None shall stand so boldly against the might of the Scourge without reprisal!As you have served me well in your first task, so too shall you serve me in your next task. Take my judgment to Highlord Mograine at the command post of Acherus, found on the first floor. Tell him to begin the assault.And when the Crusade has been dealt with, we will finish off the Argent Dawn.\r\n",
+    "name": "The Might Of The Scourge",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

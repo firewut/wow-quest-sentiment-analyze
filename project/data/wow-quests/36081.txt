@@ -1,0 +1,8 @@
+{
+    "_id": "36081",
+    "added_in_patch": 6,
+    "description": "This eye is proof of your strength at slaying ogron and your gladiator friend has born witness!Take the eye back to Jonaa and claim your accolades!",
+    "name": "Proof of Strength: Gronn Eye",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

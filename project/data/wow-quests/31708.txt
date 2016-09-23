@@ -1,0 +1,8 @@
+{
+    "_id": "31708",
+    "added_in_patch": 5,
+    "description": "I see you have gained your own hatchling, <race>.Have you been feeding it, cleaning after it, and playing with it properly? Only by doing so will it become strong and healthy.Now let me tell you a trainer's secret. To the north, in The Widow's Wail, you can find a mushroom known as Serpent's Scale.It is difficult to acquire, but this mushroom has powerful properties and important nutrients. Your serpent won't like eating it, but who likes eating their vegetables?",
+    "name": "Serpent's Scale",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

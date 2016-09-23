@@ -1,0 +1,7 @@
+{
+    "_id": "12916",
+    "description": "What I'm about to give you is called seaforium. It is a highly volatile explosive with some unique properties. Due to its malleable nature, you will be able to fill in the hinges and cracks of the cage for maximum damage.Return to your friend and use the jumbo seaforium charge to set him free.Let's hope he honors the bargain. He's our only hope.",
+    "name": "Our Only Hope",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

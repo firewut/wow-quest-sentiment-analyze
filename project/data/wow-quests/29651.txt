@@ -1,0 +1,8 @@
+{
+    "_id": "29651",
+    "description": "Their elite warriors are ruthless... so... powerful.<Caza'rez spits up blood.>You have to kill them... or we will never defeat Kargath...\r\n",
+    "name": "Honor the Dying",
+    "requires_level": 66,
+    "side": "horde",
+    "zone": "Quests"
+}

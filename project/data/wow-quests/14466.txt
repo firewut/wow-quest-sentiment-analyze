@@ -1,0 +1,8 @@
+{
+    "_id": "14466",
+    "description": "You ought to speak to Genn.  He's been locked up in his observatory ever since this ordeal started.I'm sure he's working on a plan for his people.  He's a very stubborn individual.",
+    "name": "The King's Observatory",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

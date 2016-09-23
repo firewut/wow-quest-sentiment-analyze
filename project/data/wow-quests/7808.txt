@@ -1,0 +1,7 @@
+{
+    "_id": "7808",
+    "description": "",
+    "name": "A Donation of Silk",
+    "requires_level": 26,
+    "zone": "Ironforge"
+}

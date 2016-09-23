@@ -1,0 +1,7 @@
+{
+    "_id": "12943",
+    "description": "Thane Ufrang the Mighty sits within his hall overlooking the Savage Ledge. I've studied him. The thane is a patient vrykul, with a head for strategy and warfare. He's also shown a penchant for biding his time and not wanting to overplay his hand in the ongoing battle.I need him dead!I've written a decree. Stand before the thane and read it aloud.<The duke arches his eyebrow in amusement.>It should... unnerve him at the least.",
+    "name": "Shadow Vault Decree",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

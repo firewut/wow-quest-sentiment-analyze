@@ -1,0 +1,8 @@
+{
+    "_id": "44096",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Head 4 Looted",
+    "requires_level": 110,
+    "zone": "Artifact"
+}

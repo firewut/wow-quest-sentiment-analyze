@@ -1,0 +1,7 @@
+{
+    "_id": "4483",
+    "description": "",
+    "name": "Libram of Resilience",
+    "requires_level": 50,
+    "zone": "Burning Steppes"
+}

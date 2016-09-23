@@ -1,0 +1,8 @@
+{
+    "_id": "40268",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Neltharion's Vault Treasure",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

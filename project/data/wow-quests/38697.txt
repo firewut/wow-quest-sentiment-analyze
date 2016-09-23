@@ -1,0 +1,8 @@
+{
+    "_id": "38697",
+    "added_in_patch": 7,
+    "description": "Lord Ravencrest's army rises from the dead, but I believe they are controlled by Gul'dan's will.Take this - Lord Ravencrest's blade, Fal'shathil. It was known for a unique, magical quality. Those who gazed upon its mirrored blade found themselves unable to deny the truth.Take the blade and plant it in the ground. Attack the night elven ghosts near its light. Once they are weakened in its presence, perhaps they will regain their senses.",
+    "name": "The Sword of Truth",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

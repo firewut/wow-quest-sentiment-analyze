@@ -1,0 +1,7 @@
+{
+    "_id": "28556",
+    "description": "We must break the fingers of the Stormpike if we are to stop their incursion.<Cromush hands you a small package.>Within this package are four high-yield goblin explosives. You are to infiltrate each of the four fingers - Sofera's Naze, Corrahn's Dagger, the Headland and Gavin's Naze - and plant a goblin pocket-nuke at each.Once you have done that - as well as all that Melisara asks of you - return to me.",
+    "name": "Breaking the Hand",
+    "requires_level": 21,
+    "zone": "Hillsbrad Foothills"
+}

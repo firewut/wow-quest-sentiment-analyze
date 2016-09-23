@@ -1,0 +1,7 @@
+{
+    "_id": "29393",
+    "description": "So you want to check out the racing rams?  The dwarves think they have got a handle on it, but let's be honest, they are drunk most of the time, so how hard can it really be?Now before I let you strut your stuff, you'll need to show me that you can handle these fine, legally obtained creatures.So here's the deal:  I'll lend you some racing reins and the use of a ram. You need to prove to me that you can handle using these rams.Keep the ram at a trot, canter and gallop for 8 seconds each.",
+    "name": "Brew For Brewfest",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

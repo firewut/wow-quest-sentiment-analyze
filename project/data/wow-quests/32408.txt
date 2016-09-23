@@ -1,0 +1,8 @@
+{
+    "_id": "32408",
+    "added_in_patch": 5.1,
+    "description": "I have it on good authority that Archmage Aethas Sunreaver is being held in the Silver Enclave, home of the Silver Covenant. Arcanist Rathaella holds him in captivity.Most Covenant agents are out slaughtering Sunreavers right now, which means our chance is ripe. Slay Rathaella, and spring Aethas from his prison.",
+    "name": "The Silver Covenant's Stronghold",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

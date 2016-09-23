@@ -1,0 +1,8 @@
+{
+    "_id": "30458",
+    "added_in_patch": 5,
+    "description": "<name>, your friends have returned from their scouting mission. They need to see you immediately.I'm afraid...Well, I'd better say no more. You will see for yourself.",
+    "name": "The Scouts Return",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

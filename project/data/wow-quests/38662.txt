@@ -1,0 +1,8 @@
+{
+    "_id": "38662",
+    "added_in_patch": 7,
+    "description": "The Tears of Elune are a sacred artifact, protected by my order for thousands of years. I tell you this so that you may understand the gravity of your request.That said, Ysera is noble and wise and I trust in her guidance. You will find the tears in a vault at the eastern edge of the temple grounds.Proceed with caution though, as that area has been overrun by demons.",
+    "name": "Tears for Fears",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

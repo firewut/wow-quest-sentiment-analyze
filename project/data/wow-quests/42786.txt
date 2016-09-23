@@ -1,0 +1,8 @@
+{
+    "_id": "42786",
+    "added_in_patch": 7,
+    "description": "These grotesque remains are an amalgamation of jelly-like ooze and what appear to be dryad bones.\r\n\r\nGuviena Bladesong would be interested in seeing these.",
+    "name": "Grotesque Remains",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

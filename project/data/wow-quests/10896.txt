@@ -1,0 +1,7 @@
+{
+    "_id": "10896",
+    "description": "The trees of this land are ravaged by the power that was unleashed from Auchindoun.  The foul magic that was unleashed blasted the land into the wastes you see all around.  The trees that survived are now infested with wretched wood mites that crawl under their bark and gnaw at their flesh.  Rotting forest-ragers and infested root-walkers are breeding grounds for the mites.  They are found along the edge of the wood to the east.  Destroy these creatures and then kill the mites that flee their husks.",
+    "name": "The Infested Protectors",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

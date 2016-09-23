@@ -1,0 +1,8 @@
+{
+    "_id": "31234",
+    "added_in_patch": 5,
+    "description": "Ah! Wakener! You must help me! (You will help me, or else I will help myself to you!)I need more materials for my experiments, yes yes! (Blood and guts, hearts and brains, tongues and eyes, eyes, eyes!)To the west, I have seen creatures of mist and fog. They possess such big, round, wonderful globes! Big for seeing, round and unblinking!Go now, little Wakener. Bring me back a single pristine eye!",
+    "name": "Putting An Eye Out",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

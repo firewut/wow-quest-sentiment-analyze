@@ -1,0 +1,8 @@
+{
+    "_id": "41451",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Assault on Hrydshal",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

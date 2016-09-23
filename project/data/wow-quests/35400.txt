@@ -1,0 +1,9 @@
+{
+    "_id": "35400",
+    "added_in_patch": 6,
+    "description": "I understand Kaz's desire to rescue her people, but her plan is reckless and she is not telling us everything.I came along to make sure she wasn't devising a plan against us and now I see this... this... horror.What did the botani do to these orcs?These infested souls need to be put to rest. Give them peace.",
+    "name": "The Infested",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

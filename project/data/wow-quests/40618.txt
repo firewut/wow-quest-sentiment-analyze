@@ -1,0 +1,8 @@
+{
+    "_id": "40618",
+    "added_in_patch": 7,
+    "description": "Three weapons... three worthy paths.Acquiring one such artifact will be the first step in battling the Legion. The weapon will grow in power as you wield it, so you must choose the one which will be the focus of your efforts, <name>.After a time, you will be able to pursue the other weapons. But you must decide which to seek first.",
+    "name": "Weapons of Legend",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

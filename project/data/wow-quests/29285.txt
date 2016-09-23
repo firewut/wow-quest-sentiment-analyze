@@ -1,0 +1,7 @@
+{
+    "_id": "29285",
+    "description": "The time of choosing has arrived, <name>.While only members of the blue dragonflight may attend, Tarecgosa's binding makes your presence requisite.I must ask that you take on her form and vote on her behalf.Do not tarry. The moment of the eclipse draws near....",
+    "name": "Alignment",
+    "requires_level": 85,
+    "zone": "Borean Tundra"
+}

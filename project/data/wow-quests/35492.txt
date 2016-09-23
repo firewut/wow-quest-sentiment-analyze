@@ -1,0 +1,9 @@
+{
+    "_id": "35492",
+    "added_in_patch": 6,
+    "description": "The Iron Horde controls Nethergarde Keep, but they are fools if they think we will not return to claim our land.My best troops are more than eager to spill the blood of those savages, but we need a champion like yourself to lead the charge.",
+    "name": "For Nethergarde!",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

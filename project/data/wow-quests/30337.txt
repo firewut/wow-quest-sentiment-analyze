@@ -1,0 +1,8 @@
+{
+    "_id": "30337",
+    "added_in_patch": 5,
+    "description": "The hozen steal from us, and we keep stealing our stuff back. It has to stop sometime.<Farmer Yoon hands you a barrel of fireworks.>Find some of our stolen supplies in their mountain camp to the west, and place these fireworks beside them. Hopefully, if they see the explosions, they'll think our supplies are defective and stop stealing altogether.It's worth a shot, right?",
+    "name": "Simian Sabotage",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

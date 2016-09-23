@@ -1,0 +1,9 @@
+{
+    "_id": "34095",
+    "added_in_patch": 6,
+    "description": "The orcs themselves are not the only threat. They still have siege weapons of significant power.\r\n\r\nThey've already been used against Tuurem, and we must not allow for their continued operation.\r\n\r\nSabotage siege weapons using the explosives you collected from the logging camp.",
+    "name": "Iron Them Out",
+    "requires_level": 94,
+    "side": "alliance",
+    "zone": "Talador"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24586",
+    "description": "Razorscale normally keeps to her aerie near the Colossal Forge in Ulduar. Of late, however, she has been spotted raining fire down upon lands outside of the titan complex.Though the broodmother's is a sad tale, she poses an imminent threat to all of Northrend. The Council of Six has decreed that Razorscale must die!",
+    "name": "Razorscale Must Die!",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38996",
+    "description": "Exarch Yrel has sent word from Lion's Watch in Tanaan Jungle that your forces stand ready for their new orders.For the Alliance!",
+    "name": "Your Orders, General?",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

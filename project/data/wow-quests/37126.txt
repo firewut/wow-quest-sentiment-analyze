@@ -1,0 +1,7 @@
+{
+    "_id": "37126",
+    "description": "Before I was shipped off to Gorgrond, I was stationed at the Broken Precipice in Nagrand, maintaining order over the unruly dredges. Vizier Dar'gud refused to let me take my favorite sword; he told me \"I wouldn't need it where I was going.\"I want it back, commander, and we are powerful enough together to take it from Dar'gud's bloody corpse.It would mean a great deal to me. An ogre without his sword isn't an ogre at all.",
+    "name": "An Ogre Without His Sword...",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

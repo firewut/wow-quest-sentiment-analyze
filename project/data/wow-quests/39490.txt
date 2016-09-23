@@ -1,0 +1,8 @@
+{
+    "_id": "39490",
+    "added_in_patch": 7,
+    "description": "Those bugs are destroying our crops and attack any of us who get near them.\r\n\r\nWould you exterminate some of those vile creatures?",
+    "name": "Infestation",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

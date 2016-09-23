@@ -1,0 +1,8 @@
+{
+    "_id": "42366",
+    "added_in_patch": 7,
+    "description": "I have had it with these small fry, assistant. Time to go straight to the top.The tome is the key! The key to unlocking the potential within our people.Do not worry, young one. I have enough power to complete the task at hand. Let us harness fel magic and change the future.Follow me and witness the redemption of the shal'dorei!",
+    "name": "The Bigger They Are, The Harder They Fel",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

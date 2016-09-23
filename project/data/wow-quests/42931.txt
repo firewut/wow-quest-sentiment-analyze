@@ -1,0 +1,8 @@
+{
+    "_id": "42931",
+    "added_in_patch": 7,
+    "description": "You saved us all, shaman! Thank you!Thrall wants to dive right into the Maelstrom and retrieve the Doomhammer, but I worry - he was badly wounded in that last fight, and that demon Geth'xun may still be alive down there. We should go with him.Hop on Stormbeak when you're ready and we'll track down that artifact!",
+    "name": "Where the Hammer Falls",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

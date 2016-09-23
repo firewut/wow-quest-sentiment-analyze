@@ -1,0 +1,8 @@
+{
+    "_id": "32399",
+    "added_in_patch": 5.1,
+    "description": "It is time, <name>. We have traveled a long path to reach this moment.Today, our Warchief, Garrosh Hellscream, will change the course of our people's history forever.Today, we witness the birth of Garrosh's Horde!Do not let anything interfere with the ceremony!",
+    "name": "Breath of Darkest Shadow",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

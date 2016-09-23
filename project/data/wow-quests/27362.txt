@@ -1,0 +1,7 @@
+{
+    "_id": "27362",
+    "description": "You are a true servant of Elune, an example to our people, and stalwart servant of the Alliance. The Temple of the Moon and the court of Stormwind wish to honor your achievements.We have commissioned the royal enchanter to create a staff for you.The materials for your staff can only be found in the cursed Shadowfang Keep in Silverpine Forest. Travel there and find the lost holy symbol of Commander Springvale, a supply of moontouched wood, and ghostly essence from the spirits haunting the keep.",
+    "name": "Favored of Elune",
+    "requires_level": 20,
+    "zone": "Priest"
+}

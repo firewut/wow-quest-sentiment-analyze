@@ -1,0 +1,8 @@
+{
+    "_id": "27037",
+    "description": "Light! Don't bring things like that into the Lodge... it's unsanitary, unspeakable, un... un... unsanitary!Just get it out of here, will you? No one wants to see your bloody little trophy, really!",
+    "name": "Vyrin's Revenge",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "11915",
+    "description": "Are you interested in learning some hot new skills?I don't know if you'll ever be able to match my own considerable skill, but you can probably pick up a trick or two if you're an attentive student. Speak to a Master Flame Eater at any Horde capital. They should be able to help you.",
+    "name": "Playing with Fire",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Midsummer"
+}

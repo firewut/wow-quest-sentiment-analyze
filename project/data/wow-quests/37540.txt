@@ -1,0 +1,8 @@
+{
+    "_id": "37540",
+    "added_in_patch": 6.1,
+    "description": "Redeem your Essence of the Iron Conqueror with Lady Liadrin to select an armament of your choice.",
+    "name": "Essence of the Iron Conqueror",
+    "requires_level": 100,
+    "zone": "Spire of Light"
+}

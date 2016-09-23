@@ -1,0 +1,7 @@
+{
+    "_id": "26076",
+    "description": "We've got another problem, <name>. Alliance spies are all over the place! You haven't seen any? That's because they're invisible! Cloaked! I have a solution, but I need muscle like you to go out there and follow through with my plan.Use this gas bomb on the cloaked spies and it will reveal them. Once revealed, send them back to their maker.You'll know a cloaked spy by the effect they leave in the air. Look closely!",
+    "name": "Spy Infestation",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

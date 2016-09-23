@@ -1,0 +1,7 @@
+{
+    "_id": "11118",
+    "description": "Getting drunk is a time-honored tradition at Brewfest -- it's damn near required! Thing is, I'm getting reports across Azeroth saying the celebration's plagued by hallucinations!  We can't have that!These elekks can't be harmed by normal weapons -- they pass right through 'em -- so take this fabulous piece of gnomish machinery, visit the other beer gardens, and zap 'em to oblivion.Remember, you have to be wearing Synthebrew Goggles to see 'em! Talk to me if you need a pair.",
+    "name": "Pink Elekks On Parade",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

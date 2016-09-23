@@ -1,0 +1,7 @@
+{
+    "_id": "26591",
+    "description": "You seem quick on your feet, <race>. I need someone to go out into the chaos of the front and patch up our injured.Take my kit. It's simple enough to use.Heal them before the stone troggs finish them off for good.",
+    "name": "Battlefront Triage",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14460",
+    "description": "Chief Squealer Thornmantle leads these quilboar. It was he that set upon Greatmother Hawkwind and took her life, leading the attack on Camp Narache. He fled and hid afterwards, but we've found him. He lurks to the west within his foul den of thorns, fending off any braves we send in after him.You've proven yourself as a brave defender of our people, <name>. Kill Thornmantle and bring his mane back to Chief Hawkwind, in honor of our Greatmother!",
+    "name": "Rite of Honor",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12656",
+    "description": "",
+    "name": "Blessing of Zim'Rhuk",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

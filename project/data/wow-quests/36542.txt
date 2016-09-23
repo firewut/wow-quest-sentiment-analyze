@@ -1,0 +1,8 @@
+{
+    "_id": "36542",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Garrison Max-level Choice Reward Summary: Group",
+    "requires_level": 100,
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14123",
+    "description": "There's only one way we're going to get a bazillion macaroons: stealing from the rich!That slime, the Trade Prince, has stolen all kinds of antiques and expensive art. It's time to take them back and give them to the needy... mainly us!Hobart left behind a cap he was working on. It's a disguise that'll make you look like one of Gallywix's mooks. All you have to do is waltz right in to his Villa to the west and 'procure' the items.Just watch out for his pigs who can smell through the disguise!",
+    "name": "Waltz Right In",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24731",
+    "description": "Once, a long time ago, a brother of mine took some meat from one of Lar'korwi's kills. He didn't know it at the time, but Lar'korwi saw him from the forest. Lar'korwi followed my brother for days, destroying everything he touched. My brother, scared, finally decided to run from the Crater and leave Lar'korwi behind.Lar'korwi killed him not far from this spot.If you want to provoke Lar'korwi, find a fresh kill of his and take some of the meat from it.Start your search to the west.",
+    "name": "The Fare of Lar'korwi",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

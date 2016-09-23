@@ -1,0 +1,7 @@
+{
+    "_id": "10505",
+    "description": "To the south of the Bladespire clan lies yet another threat:  Bloodmaul Outpost.While the Bloodmaul ogres are not the strongest clan in the mountains, not having the favor of the gronn known as Gruul the Dragonkiller, they run a close second.Now that we've dealt with winnowing the Bladespire, it is time to turn our eye upon their rivals.From Bladespire Hold head south through the ravine until you come to Bloodmaul Outpost.  Slay as many of the Bloodmaul ogres in the vicinity as you can.",
+    "name": "The Bloodmaul Ogres",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

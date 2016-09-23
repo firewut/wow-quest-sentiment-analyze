@@ -1,0 +1,7 @@
+{
+    "_id": "12568",
+    "description": "Trust me, <race>. I know....The smell of burnt flesh has become sickening to even me, a Forsaken. Nevertheless, it is our solemn duty to ensure that our brethren never walk with the Scourge.Pour this oil on the corpses of our fallen to ensure that we never face them on the battlefield as enemies.",
+    "name": "Troll Patrol: Done to Death",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

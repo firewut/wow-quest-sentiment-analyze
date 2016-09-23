@@ -1,0 +1,8 @@
+{
+    "_id": "42488",
+    "added_in_patch": 7,
+    "description": "While you were busy in the city I reached a roadblock in my withered research. \r\n\r\nI feel I am close to overcoming this barrier, but I'm afraid I cannot do so without some more advanced tools.\r\n\r\nI hid among my possessions an item called an Arcane Amplifier. It does precisely what its name entails.\r\n\r\nIt is more than likely that the Magistrix ordered my estate dismantled. If the Amplifier remains, it will be in fragments.\r\n\r\nRecover the whole, if you can.",
+    "name": "Thalyssra's Abode",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

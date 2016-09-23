@@ -1,0 +1,7 @@
+{
+    "_id": "26580",
+    "description": "Fleshling. Some of your kind skitter among the rocks. Too cowardly to approach, too swift to be crushed.If you wish my favor, deal with them. I tire of these games.",
+    "name": "Familiar Intruders",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

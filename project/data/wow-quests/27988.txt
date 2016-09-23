@@ -1,0 +1,8 @@
+{
+    "_id": "27988",
+    "description": "The best part about this plague is that even when it visually fades away, the remaining residue is still quite potent! However, we still have an enormous area to cover before we're done, with plenty of Godfrey's defenses in the way.It appears that the spirits that served Baron Silverlaine and Commander Springvale in life now guard them in death, and Godfrey is using them to deter us. Show them all the iron will of the Forsaken!",
+    "name": "Plague...Plague Everywhere!",
+    "requires_level": 16,
+    "side": "horde",
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24477",
+    "description": "<name>, my  boy!  Are you into archaeology?We've an exciting opportunity right outside our front door.  All the shaking from today's seismic event has knocked a number of artifacts loose from the soil around our encampment.  Survey along the valley's northern border, and you should find all sorts of treasures.  Bring some back to me, and perhaps we can study them together.Right, then!  Off you go!",
+    "name": "Dwarven Artifacts",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

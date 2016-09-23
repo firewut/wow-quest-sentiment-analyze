@@ -1,0 +1,7 @@
+{
+    "_id": "29128",
+    "description": "We need to place pressure on the assault camp at Sethria's Roost. Ragnaros' minions are using this area as a point to push their battlefront beyond the bounds of Hyjal. I'm putting you in charge of a small squad to deal with them.I have selected an elite group of fighters to assist you. Travel to Sethria's Roost. Your compatriots have been instructed to meet you once you arrive. Then put an end to the elementals' assault.",
+    "name": "The Protectors of Hyjal",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11299",
+    "description": "You might have already seen the room where Daegarn is being held while you were gatherin' the tablets. It's through this corridor and then down a set of steps. Daegarn will be in the room at the bottom of the steps - locked up tight!Get down there and find him. At the very least you might be able to get the cipher from him.",
+    "name": "The Ring of Judgment",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12524",
+    "description": "Ever since we arrived, the Venture Company has hampered our efforts to secure our campsite and survey the area. Normally, we wouldn't care what they were up to, but they've started antagonizing our scouts and shooting down supply flights.We can't allow this insult to stand. Hemet Nesingwary's expedition came here to hunt, and hunt it shall.Go to Swindlegrin's Dig, on the far side of the crystal pillar to the northeast, and kill any Venture Company employee you see!",
+    "name": "Venture Co. Misadventure",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

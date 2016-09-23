@@ -1,0 +1,7 @@
+{
+    "_id": "10381",
+    "description": "My mission here is finished.  I did what Orelis ordered me to - I've never failed to.No more.  I foresee a great carnage - a crusade, they'll call it - following the news of this alliance between Kael'thas and the Burning Legion.First they give our holiest city away to our enemies and then they ask us to die fighting their enemies.  Go back to Orelis; tell him the naaru can fight their own fights from now on.",
+    "name": "Aldor No More",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

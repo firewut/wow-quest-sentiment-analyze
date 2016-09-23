@@ -1,0 +1,8 @@
+{
+    "_id": "26195",
+    "description": "The greenwarden was a local legend. Many thought him a myth... the plant-man, protector of the wetlands. The night elves came here just to find him, and after they succeeded they ended up settling down to the east.They've got a whole grove over there to watch over the greenwarden, and I've heard he's been acting up, enraged by the flooding and damage to the land.The elves are good people. They could use the help of someone like you. If you get a chance, go tell the head druid what you've done here.",
+    "name": "Who Wards The Greenwarden",
+    "requires_level": 22,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

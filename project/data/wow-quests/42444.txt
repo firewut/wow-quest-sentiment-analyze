@@ -1,0 +1,8 @@
+{
+    "_id": "42444",
+    "added_in_patch": 7,
+    "description": "<The ravenbear frantically gestures and points down the path. \r\n\r\nIt seems he wants you to follow him.>",
+    "name": "Plight of the Blackfeather",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

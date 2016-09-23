@@ -1,0 +1,9 @@
+{
+    "_id": "35430",
+    "added_in_patch": 6,
+    "description": "You found many Laughing Skulls. All friends, all loved, all dead. But you did not find my precious Cutter.They must have taken him to Evermorn Springs.Find him, and rescue him.He is a good boy, and deserves a better death than infesting.I am going to round up some ravagers and take the place by air. Look for me in Evermorn if you find Cutter before I do.",
+    "name": "Cutter",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

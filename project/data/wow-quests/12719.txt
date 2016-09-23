@@ -1,0 +1,7 @@
+{
+    "_id": "12719",
+    "description": "Nothing less than total annihilation will suffice, <name>. To that end, a few hundred mindless ghouls assaulting the front gate of New Avalon will not do. We must infiltrate the inner sanctum and dispose of their officials. They must be shown that no one can escape the Scourge's grasp!Make your way to the New Avalon Town Hall, southwest of here, and assassinate the mayor. Search the building for the New Avalon registry and bring it to me.",
+    "name": "Nowhere To Run And Nowhere To Hide",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24493",
+    "description": "You're leaving?  Make sure you stock up before you head out.More importantly, please speak to Tharek Blackstone once you arrive in Kharanos.  Tell him what has happened here in Coldridge, and that we could use some assistance.  Hopefully he'll be able to arrange something for us.",
+    "name": "Don't Forget About Us",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

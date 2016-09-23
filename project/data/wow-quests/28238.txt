@@ -1,0 +1,8 @@
+{
+    "_id": "28238",
+    "description": "The time has come, <class>. With Stormwind secure, we will take this fight to the enemy. To the Highlands!The bulk of our navy has already shipped out, thanks to your work earlier. But Fargo Flintlocke has prepared a seaplane that can make the journey in double-time.Speak with Flintlocke down at the harbor and tell him that you are to accompany him to the Highlands. He will be by the water's edge. Safe journeys, <name>.",
+    "name": "Twilight Shores",
+    "requires_level": 84,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

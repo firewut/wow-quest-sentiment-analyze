@@ -1,0 +1,7 @@
+{
+    "_id": "27524",
+    "description": "Tarenar wasn't joking when he said that he didn't care about judgment and caution.  He nearly took off that high elf's head as he ran into the Plaguewood, looking for Gidwin.  You should go after him.The Plaguewood is a big place, <name>.  Good luck.  I hope to see you  boys come out of the woods in one piece.",
+    "name": "Blind Fury",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

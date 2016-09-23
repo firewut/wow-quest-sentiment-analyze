@@ -1,0 +1,9 @@
+{
+    "_id": "33724",
+    "added_in_patch": 6,
+    "description": "The manual for the shredder was wedged in there, but it's missing lots of pages. We need to find as many pages of that manual as possible and I might--MIGHT--be able to get this shredder operational.\r\n\r\nBased on the direction of the wind, I bet the pages flew toward Archenon Siegeyard.",
+    "name": "Vol. X Pages ?",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

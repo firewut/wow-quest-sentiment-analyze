@@ -1,0 +1,7 @@
+{
+    "_id": "13679",
+    "description": "You have trained hard as an aspirant, <name>, and now the time has come to test your mounted combat skills against a skilled opponent.Equip your lance, then go to the stables outside the pavilion and mount up on the stabled Quel'dorei steed.At the Aspirants' Ring on the northern side of the tournament grounds, you'll find Squire David. He'll make certain that you're ready for the fight and call out your opponent.Good luck, <name>. May your horse be steady and your aim true.",
+    "name": "The Aspirant's Challenge",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

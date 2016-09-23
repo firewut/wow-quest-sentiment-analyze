@@ -1,0 +1,8 @@
+{
+    "_id": "38515",
+    "added_in_patch": 7,
+    "description": "This is interesting, it says that leystone reacts violently with anything it views as a contaminant. Our foreign-mined flux was enough to cause the small explosion.Local ingredients, however, have learned to coexist with leystone. Up in Highmountain, an herb called foxflower grows that can be turned into a suitable flux.Go and gather some foxflower that we can turn into a usable flux.",
+    "name": "Nature Provides",
+    "requires_level": 102,
+    "zone": "Blacksmithing"
+}

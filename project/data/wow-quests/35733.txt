@@ -1,0 +1,8 @@
+{
+    "_id": "35733",
+    "added_in_patch": 6,
+    "description": "That gavel was once known as Beakbreaker. In his final, darkest days, Terokk used it to perform grim, damnable acts of sacrifice. \r\n\r\nIt is best not to dwell on those days.\r\n\r\nTerokk was sealed away deep within the shadows to rest, and perhaps to heal.\r\n\r\nMaking contact with him will take a great deal of effort, so in the meantime, allow me to tell you of his more glorious exploits. Before this wretched curse took hold.\r\n\r\nPlease, place the gavel upon the effigy.",
+    "name": "Rites of the Talonpriests",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

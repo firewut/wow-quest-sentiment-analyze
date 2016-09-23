@@ -1,0 +1,8 @@
+{
+    "_id": "29637",
+    "added_in_patch": 5,
+    "description": "Master Stone Fist has trained you in the art of one-on-one combat. Now you learn the art of one-on-many.How does fifty sound?Lower yourself into the Ring of Inner Focus below, then, when you're ready, set off this firework. My assistants will come at you, several at a time.All you need to do is survive.",
+    "name": "The Rumpus",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

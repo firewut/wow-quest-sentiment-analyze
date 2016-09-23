@@ -1,0 +1,8 @@
+{
+    "_id": "29618",
+    "added_in_patch": 5,
+    "description": "How strange, to have such a foreign-looking <class> visiting our temple. Are you here to study?You... you look very strong. You wouldn't have any trouble getting accepted into the monastery. You should talk to the High Elder, up on the balcony above.",
+    "name": "The High Elder",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

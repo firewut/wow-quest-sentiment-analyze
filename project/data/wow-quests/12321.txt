@@ -1,0 +1,8 @@
+{
+    "_id": "12321",
+    "description": "Godfrey Goodard, once a righteous man and mayor of Wintergarde, is now an agent of the Scourge. His transformation from man to undying ghoul has taken place slowly, over time. He hears the call of the Lich King now and lives only to serve his master.But as with all Scourge, Godfrey knows the language of death and with proper motivation, will tell us what we need to know about the tome.Once you hear what you need to hear, return to the High Commander at the front lines. I'll clean up here as needed.",
+    "name": "A Righteous Sermon",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

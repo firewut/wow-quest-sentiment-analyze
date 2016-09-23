@@ -1,0 +1,8 @@
+{
+    "_id": "42673",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Kor'vas Bloodthorn",
+    "requires_level": 103,
+    "zone": "Demon Hunter Campaign"
+}

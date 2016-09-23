@@ -1,0 +1,8 @@
+{
+    "_id": "25865",
+    "description": "You seem trustworthy enough to help me out with my real problem, <name>. I was sent here by Ironforge to recover a shipment of gold ingots.The ingots are part of the Ironforge Royal Treasury, stamped with the royal seal... only an idiot would steal them for profit, far too easy to trace. Oddly enough, this area is full of idiots: Mosshide gnolls.I don't know how many gnolls you've fought before, but they're foul and brutal beasts, and dangerous. I need you to slay them and recover the missing ingots.",
+    "name": "The Mosshide Job",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

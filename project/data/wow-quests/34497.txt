@@ -1,0 +1,8 @@
+{
+    "_id": "34497",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Vignette: Breathless",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

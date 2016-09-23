@@ -1,0 +1,8 @@
+{
+    "_id": "43521",
+    "added_in_patch": 7,
+    "description": "Now that we have a better understanding on the Heart's capabilities, it is time we tap into its true potential.In the Emerald Nightmare you will find creatures that should not be; monsters that defy all that the Dream stands for.All that the green flight itself stands for.Each of these fiends carry within them corrupted essence, as Oakheart did, but far more potent. Gather all that you can, and we will turn their corruption against them.",
+    "name": "Essence of Power",
+    "requires_level": 110,
+    "zone": "Artifact"
+}

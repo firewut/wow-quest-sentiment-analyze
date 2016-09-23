@@ -1,0 +1,7 @@
+{
+    "_id": "28872",
+    "description": "Some of the Wildhammer still cling to the hope of reclaiming the Thundermar Ruins to the north, across the river. Burn them out! Smash open kegs of Thundermar ale. That wicked brew is potent enough to explode when set aflame.Don't ask me why.And don't ask me how they drink the stuff.",
+    "name": "Total War",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

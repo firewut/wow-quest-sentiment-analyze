@@ -1,0 +1,8 @@
+{
+    "_id": "475",
+    "description": "A troubling breeze blows through the forest.Gaerolas Talvethren serves as Great Warden to the hibernating Druids of the Talon in the Ban'ethil Barrow Den.  His duty as the chosen protector of the Sleeping is to ensure their safety so that their pact with Ysera remains fulfilled.But word from Gaerolas is now delayed and I grow nervous.  Travel east to Starbreeze Village and bring back a report from Gaerolas so that I can put my worries to rest, knowing my dreaming brethren slumber safely.",
+    "name": "A Troubling Breeze",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

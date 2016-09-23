@@ -1,0 +1,8 @@
+{
+    "_id": "39588",
+    "added_in_patch": 7,
+    "description": "The tauren go too far. I did not escape their outpost for fear that they would attack the cave and slaughter my people.\r\n\r\nIt looks like they planned to do it all along. Slay some of the Feltotem. Thin the herd.",
+    "name": "They Will Pay With Blood",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

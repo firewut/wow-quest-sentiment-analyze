@@ -1,0 +1,9 @@
+{
+    "_id": "39260",
+    "added_in_patch": 6.2,
+    "description": "We've heard rumors that one o' the strongest eredar might enter this world through the Black Gate soon.\r\n\r\nIf these rumors are to be believed, it could even be Archimonde the Defiler. If he arrives unchallenged, Draenor itself is likely to fall.",
+    "name": "The Black Gate",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Quests"
+}

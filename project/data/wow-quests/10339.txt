@@ -1,0 +1,7 @@
+{
+    "_id": "10339",
+    "description": "Directly south of here you will find the Ethereum Staging Grounds. The Ethereum are there, preparing for something... Perhaps an assault on Ultris.We can't take any chances, though, <class>. Break through their perimeter defenses and take out their training facility.Once you've destroyed their soldiers and Captain Zovax, locate Ethereum transponder Zeta and use it to establish contact with me to get your next set of orders.",
+    "name": "The Ethereum",
+    "requires_level": 70,
+    "zone": "Netherstorm"
+}

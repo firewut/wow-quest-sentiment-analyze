@@ -1,0 +1,8 @@
+{
+    "_id": "14445",
+    "description": "Our destinies are forever intertwined. There are events taking place that are reshaping our world and ultimately will destroy it. We must put an end to them before it is too late.Know that you can always count on me,  brother ! We will meet again on the larger island. May you find peace until then, <name>.",
+    "name": "Farewell, For Now",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

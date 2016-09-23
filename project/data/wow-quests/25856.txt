@@ -1,0 +1,8 @@
+{
+    "_id": "25856",
+    "description": "I've skinned crocs in the wetlands for years, <class>. Things have changed though.You see, not to bore you with a sob story, but when the cataclysm flooded Menethil Harbor, our house went with it. My wife and kids don't have a place to stay, and I need to make as much money as I can to get us under a roof again.I've been skinning crocs 'til I was too tired to move, but I still need more skins to sell. If you bring me some croc hides, I'll pay you a bit for them.",
+    "name": "Crocolisk Hides",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13661",
+    "description": "You located all of our documents! We can't think you enough for the help... we'd all but given up hope that the dark irons would be able to act upon all of this information soon. It's good to know that they'll be left blind in their attacks for quite a while yet.To thank you for all of your efforts on our behalf, we would like to offer you a gift. An artifact really... something we recovered from one of our digs. You have the appreciation of all of the Explorers' League.",
+    "name": "Heartfelt Appreciation",
+    "requires_level": 8,
+    "zone": "Loch Modan"
+}

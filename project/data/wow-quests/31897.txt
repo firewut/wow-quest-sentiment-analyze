@@ -1,0 +1,8 @@
+{
+    "_id": "31897",
+    "added_in_patch": 5,
+    "description": "Word around the master tamers in Kalimdor is you're the new hotshot that's making such a buzz. Why don't you come down to my training grounds in the Ice Thistle Hills in Winterspring so I can show you how it's done?",
+    "name": "Grand Master Trixxy",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

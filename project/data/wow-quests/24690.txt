@@ -1,0 +1,7 @@
+{
+    "_id": "24690",
+    "description": "I'm still a bit concerned about these fire elementals, <name>.  One last request: head to the top of Fire Plume Ridge, and kill the one they call Blazerunner.  He's the biggest and strongest of all the fire elementals in the crater.  With him gone, I'll be able to sleep much better.",
+    "name": "Blazerunner",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

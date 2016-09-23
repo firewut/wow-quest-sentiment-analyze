@@ -1,0 +1,8 @@
+{
+    "_id": "38574",
+    "description": "Let's put dis \"Iron Shipwright\" ta work, commander. If we ta take Tanaan from both land an' sea, we gonna need a shipyard. Work wit' Roark an' make it happen!He be surveyin' tha land along tha road west of Frostwall.",
+    "name": "All Hands on Deck",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

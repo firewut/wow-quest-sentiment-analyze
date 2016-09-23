@@ -1,0 +1,7 @@
+{
+    "_id": "25700",
+    "description": "The enchantment on these amulets was not complex.  Together, their power will grant you access to Razelikh, the amulets' creator.I am prepared to perform the ritual on you and Loramus.  Speak with me when you are both ready.",
+    "name": "Loramus Thalipedes Awaits",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

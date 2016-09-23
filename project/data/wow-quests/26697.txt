@@ -1,0 +1,7 @@
+{
+    "_id": "26697",
+    "description": "We'll never survive this attack with all these worgen pirates pouring into the harbor from the north.  Luckily, it looks like they're not armed with cannons, so if we can get you out of the harbor, you can attack from the skies.Kebok, the Horde flight master's assistant, is right around the corner.  Talk to him and let him know that you're going to need his bravest wind rider.Bring a couple armloads of handbombs with you.  You'll need all of them to stop those attack boats!",
+    "name": "The Final Voyage of the Brashtide",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25080",
+    "description": "Okay! Using the spare parts you've found for me, I've got a framework roughed out for my versatile new assault vehicle. All I need now is a compact power supply.I've noticed that the indigenous wildlife here packs quite the punch, electrostatically speaking. Can you hunt down Thunderheads near the base here and get me an intact electrogizard? It might take a few kills to find a usable gland.",
+    "name": "Batteries Not Yet Included",
+    "requires_level": 31,
+    "zone": "Southern Barrens"
+}

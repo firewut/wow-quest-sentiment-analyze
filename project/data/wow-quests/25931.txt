@@ -1,0 +1,7 @@
+{
+    "_id": "25931",
+    "description": "<The Gnomecorder buzzes.>Be very careful, <name>. You do not want to rouse that black dragon.Now, look around you. If this is a nest then there must be black dragon eggs nearby. Search the premises for eggs and destroy any that you see.Return to me should you find and destroy Seldarria's eggs.Goldrinn watch over you.",
+    "name": "Brood of Seldarria",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

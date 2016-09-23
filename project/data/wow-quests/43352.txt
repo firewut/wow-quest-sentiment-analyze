@@ -1,0 +1,8 @@
+{
+    "_id": "43352",
+    "added_in_patch": 7,
+    "description": "With the demons and guards so agitated, I'm running out of safe places to store contraband. The guards have caught on to one of my favorite havens and will be making off with my goods any minute now.\r\n\r\nHead to my stash and discourage their curiosity. You will need to use a grappling hook to access it- just look for something to latch onto along the ledge.\r\n\r\nI will make sure there is something in it for you when you are done.",
+    "name": "Asset Security",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25623",
+    "description": "<name>, there you are! Goldrinn has a mission that only his champion can accomplish. Atop the Lightning Ledge, Twilight's Hammer has erected a flamegate. We don't know where it leads, but Goldrinn can't enter. The ancient needs you to be his fangs.Step into the flamegate and talk to Jordan Olafson when you get inside. He'll give you a token to allow you to use Goldrinn's power in that realm. Find out where the flamegate leads!",
+    "name": "Into the Maw!",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

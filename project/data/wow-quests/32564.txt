@@ -1,0 +1,8 @@
+{
+    "_id": "32564",
+    "added_in_patch": 5.2,
+    "description": "We've spotted a Zandalari leader up the central stairs. We need to eliminate him before returning to camp.Can you handle this one?",
+    "name": "Zandalari on the Rise",
+    "requires_level": 90,
+    "zone": "Quests"
+}

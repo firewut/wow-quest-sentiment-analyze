@@ -1,0 +1,8 @@
+{
+    "_id": "30117",
+    "added_in_patch": 5,
+    "description": "Excuse me... <name>? Did I hear your name correctly?I've come from Stoneplow, in the west. They sent me to pick up some emergency beer rations, but the Stormstout Brewery is all boarded up!It looks like your handsome friend there - no, not Mudmug, the other one - has a few casks with him. Could you spare a keg for a town in need?",
+    "name": "Stoneplow Thirsts",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

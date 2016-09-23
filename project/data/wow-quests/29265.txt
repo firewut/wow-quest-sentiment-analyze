@@ -1,0 +1,7 @@
+{
+    "_id": "29265",
+    "description": "My fellow druid, Choluna, has asked us to collect any specimens of plant life that we might find here in the Firelands......I don't know whose idea it was to bring scholars to a warfront.Nevertheless, you will already be in the cave - killing things - so be on the lookout for anything growing out of the ground.",
+    "name": "Fire Flowers",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

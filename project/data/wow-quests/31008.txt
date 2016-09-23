@@ -1,0 +1,8 @@
+{
+    "_id": "31008",
+    "added_in_patch": 5,
+    "description": "You! Filth!You work for me now!The amber blades of the Shek'zeer Bladesworn are the finest weapons in the empire.If you are not impaled upon them immediately after leaving here, bring me as many of the blades as you can carry! I want to make sure we have weapons in reserve, should we need them.",
+    "name": "Amber Arms",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

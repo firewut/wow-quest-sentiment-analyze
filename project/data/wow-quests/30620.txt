@@ -1,0 +1,9 @@
+{
+    "_id": "30620",
+    "added_in_patch": 5,
+    "description": "I know your friends are worried about the animating statues over at Mogujia, but I'll tell you what you should really be worried about.\r\n\r\nWhere there are animated statues, there are Mogu. I don't know if you've seen one before, but if you haven't...\r\n\r\nWell, let's just say Mogu are bad, bad, news.\r\n\r\nWhile you're dealing with whatever else you're doing, you need to get the Mogu behind the trouble!",
+    "name": "Mogu?! Oh No-gu!",
+    "requires_level": 87,
+    "side": "horde",
+    "zone": "Kun-Lai Summit"
+}

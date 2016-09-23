@@ -1,0 +1,8 @@
+{
+    "_id": "26736",
+    "description": "Kurzen's death is a relief, but what's more interesting, and perhaps more immediate, is the sign of some potential allies within the compound.I don't care what it says on that prison record, I know EXACTLY why those 3 were locked up: refusal to follow orders.  They must have been spared from the madness, much like my fellow rebels here, and incarcerated for speaking up.Find them, <name>.  Find them, and send them back here.",
+    "name": "Spared from Madness",
+    "requires_level": 24,
+    "side": "alliance",
+    "zone": "Northern Stranglethorn"
+}

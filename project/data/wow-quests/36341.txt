@@ -1,0 +1,9 @@
+{
+    "_id": "36341",
+    "added_in_patch": 6.1,
+    "description": "It looks like this is it, commander.We must stop the Iron Horde at all costs. I have sent stormcrows to your garrison, and called for Bodrick Grey to deploy your troops to the Gates of Tanaan at once.By the time you get to northern Talador, he should be waiting for you... with an entire army.There is no time to delay.",
+    "name": "Primal Fury",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

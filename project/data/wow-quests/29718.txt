@@ -1,0 +1,8 @@
+{
+    "_id": "29718",
+    "added_in_patch": 5,
+    "description": "Better safe than sorry.The pillars of smoke surrounding the crash site will be a beacon to any Alliance who might have seen your Zeppelin in distress.Until you and your depleted crew get your bearings, you could do without that kind of trouble.Extinguishing the wreckage fires is just plain common sense.",
+    "name": "Sixteen Fluid Ounces of Prevention",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

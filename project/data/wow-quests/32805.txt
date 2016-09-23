@@ -1,0 +1,8 @@
+{
+    "_id": "32805",
+    "added_in_patch": 5.3,
+    "description": "I would like to grant you my full array of draconic power, but sadly, it would tear your mortal frame apart. Still, it's not hopeless - I believe I can create a powerful vessel that you can use.To craft it, I will need the blessings of the four August Celestials in Pandaria. Travel with me to the four temples and we will speak to each. To be worthy of their gifts, you must defeat one of their challenges.They will not be easy - chose the one challenge best suited to your equipment and skills!",
+    "name": "Celestial Blessings",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

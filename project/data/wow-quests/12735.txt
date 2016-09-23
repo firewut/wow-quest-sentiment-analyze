@@ -1,0 +1,7 @@
+{
+    "_id": "12735",
+    "description": "Earth in Sholazar is pure.  The pillars have protected the land for centuries.Water, not as pure, it comes from outside Sholazar.... from oceans, from lakes, from rivers.  Water sometimes bring bad spirits - need to be cleansed.You take this chime and play at Bittertide Lake, Wintergrasp River and River's Heart.  It make bad spirit angry... and then you must kill it.",
+    "name": "A Cleansing Song",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12305",
+    "description": "You have honored me and honored the memory of hundreds of Alliance veterans, <name>. Zelig was wise in sending you here. Please return to him and give him my thanks. He will be happy to hear of the events that transpired at the Forgotten Shore.I do not have the gift of foresight like Zelig, but I am certain that great things await you, friend.Farewell. \r\n",
+    "name": "Parting Thoughts",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

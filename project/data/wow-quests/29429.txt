@@ -1,0 +1,7 @@
+{
+    "_id": "29429",
+    "description": "It's been sought after, stolen, and sold. Anyone who tried to tap the magic held within has seen that power turn against him.Yet, the crate itself appears unscathed and suffused with magical energy. From time to time, it shakes or bobs as if its contents were alive.It seems bonded to you and now it's yours.",
+    "name": "The Creepy Crate",
+    "requires_level": 10,
+    "zone": "Quests"
+}

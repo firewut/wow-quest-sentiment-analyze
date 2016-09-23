@@ -1,0 +1,8 @@
+{
+    "_id": "37296",
+    "added_in_patch": 6,
+    "description": "The stings! These cursed wasps drone day and night and their constant aggression taxes me so.I shall do nothing about your offer until these nuisances are dealt with.",
+    "name": "A Lack of Wasps",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

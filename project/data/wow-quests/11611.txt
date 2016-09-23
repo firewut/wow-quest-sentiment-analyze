@@ -1,0 +1,8 @@
+{
+    "_id": "11611",
+    "description": "<Mortuus sighs.>Peons... We may as well post up a sign offering the Nerub'ar a free meal.See, the problem with a peon is that: (1) they're dumber than dirt; and (2) they're weaker than a leper gnome. Of course they're the first to be taken by the Scourge!This puts me in a bit of a predicament, you see. Without peons, manual labor comes to a halt. No peons, no construction.Find and release my peons, <race>. If they're alive, you'll find 'em spun up in webbing throughout Mightstone Quarry.\r\n",
+    "name": "Taken by the Scourge",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

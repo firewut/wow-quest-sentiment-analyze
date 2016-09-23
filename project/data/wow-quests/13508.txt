@@ -1,0 +1,7 @@
+{
+    "_id": "13508",
+    "description": "I have a scout that we lost contact with a couple days ago. I assumed her dead, but it appears that she's been captured. The trolls indicate that they have at least two captives though... the only other person that comes to mind is Alanndarian Nightsong, a civilian that was in the area against my advisement early yesterday.The Shatterspear have established a war camp to the north - it is almost certainly where any of their prisoners are being taken. Find them and free them if you're able.",
+    "name": "Swift Response",
+    "requires_level": 10,
+    "zone": "Darkshore"
+}

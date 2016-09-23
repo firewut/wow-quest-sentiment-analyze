@@ -1,0 +1,9 @@
+{
+    "_id": "32900",
+    "added_in_patch": 5.3,
+    "description": "My mind is spinning with boredom - I never get to leave this place!You look like you've seen some adventures.  If you can bring me a truly heroic story, I've got something special I'm sure you'll be interested in.",
+    "name": "Heroic Deeds",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Scenario"
+}

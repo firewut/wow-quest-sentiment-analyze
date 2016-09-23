@@ -1,0 +1,8 @@
+{
+    "_id": "38727",
+    "added_in_patch": 7,
+    "description": "Jace's wards are not going to hold out much longer. We need someone to go out there and make sure those Legion devastators are destroyed.\r\n\r\n<Kayn pointedly looks at you with his spectrally-enhanced vision.>",
+    "name": "Stop the Bombardment",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

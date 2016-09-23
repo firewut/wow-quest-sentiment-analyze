@@ -1,0 +1,7 @@
+{
+    "_id": "27151",
+    "description": "Greetings.  How do you do?  My name is Daria.I am one of the priests in charge of preserving the peace here in Hearthglen.  One of my duties involves maintaining the tower down the trail to the southeast of Hearthglen.  This particular tower is of personal importance to the Highlord.  It's the place where his son was killed.With the recent incursion of gnolls, however, maintenance of the tower has grown difficult.  Will you help me rid the trail of some of these gnoll vandals, so I can do my duty?",
+    "name": "Taelan Fordring's Legacy",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

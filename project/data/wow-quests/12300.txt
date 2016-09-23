@@ -1,0 +1,7 @@
+{
+    "_id": "12300",
+    "description": "Alright, friend.  You've done us a favor or two, but that's not the true test of a person's courage.Around these parts, you're not a real hunter unless you wear your prey's skin.<Sergei unsheathes his skinning knife and hands it to you.>The leader of those motherless orcs attacking our town is called Bonesnap; you'll find him at a camp further northwest.That's right.  You're going to skin the monster.",
+    "name": "Test of Mettle",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

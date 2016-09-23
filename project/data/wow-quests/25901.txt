@@ -1,0 +1,7 @@
+{
+    "_id": "25901",
+    "description": "Reinforcements! I thought we were going to fight this out to the bitter end.Very few of the Guardians of Hyjal remain, and our supplies are running out. The battlefield around our holdout here must be littered with serviceable arrows.I know it's beneath your abilities, but can you gather up our spent ammunition? It's the only way we can replenish our supplies!",
+    "name": "Hyjal Recycling Program",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

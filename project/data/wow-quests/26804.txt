@@ -1,0 +1,8 @@
+{
+    "_id": "26804",
+    "description": "When you're ready to take the wind rider down to Razor Hill, simply speak with me again. When you get there, waste no time in finding Gar'Thok. He's the one responsible for preparing reports on recent Alliance activity in Durotar.",
+    "name": "Flight to Razor Hill",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

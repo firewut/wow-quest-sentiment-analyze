@@ -1,0 +1,8 @@
+{
+    "_id": "24859",
+    "description": "It's oft whispered in dark corners of a material so fine, so exquisite to the touch, that goblins of sophisticated taste will spend any amount of moolah to get their hands on some.Of course, I'm speaking of naga hide!<Brett looks around to make sure no one else is listening in.>I know that you're going to head down there and that it's inevitable that you're going to have to fight those snakes. Hey, they're not going to have a use for their hides anyway. They'll be dead!",
+    "name": "Naga Hide",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

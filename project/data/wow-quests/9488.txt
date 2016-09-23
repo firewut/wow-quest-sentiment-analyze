@@ -1,0 +1,8 @@
+{
+    "_id": "9488",
+    "description": "The arcane fragments you collected will do nicely.Nicely for what, you ask?  For making a splendid robe fit for a <class> like yourself!All we need now is some linen cloth and a spindleweb silk gland.  You can find the silk gland from any spindleweb spider, preferably after killing them.",
+    "name": "A Simple Robe",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Mage"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8879",
+    "description": "",
+    "name": "Large Rockets",
+    "requires_level": 35,
+    "zone": "Lunar Festival"
+}

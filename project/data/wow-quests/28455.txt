@@ -1,0 +1,7 @@
+{
+    "_id": "28455",
+    "description": "You and my son are going back to that mountain.  There's three orcs who survived the attack, and we won't rest until they're dead.That's right, I'm talking about the Big Three.General Thorg'izog crawled back into the Firegut Furnace, and Dragon-Lord Neeralak is cowering in the cave on the mountain's peak.  Xi'lun is in the back of the Skull Warren, plotting with his fellow warlocks.Leave your mark, <name>.  Topple these corrupt Blackrock orcs once and for all.",
+    "name": "Glory Amidst Chaos",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

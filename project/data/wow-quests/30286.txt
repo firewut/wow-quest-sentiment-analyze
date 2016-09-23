@@ -1,0 +1,8 @@
+{
+    "_id": "30286",
+    "added_in_patch": 5,
+    "description": "Many villagers are cornered and scared, unable to defend themselves. You will need to defend them. Rescue them.Go quickly friend, save as many as you can!",
+    "name": "Backed Into a Corner",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "36344",
+    "added_in_patch": 6,
+    "description": "We've had a chance to work with these beasts for a while now, and that's allowed us to develop a brand-new trap for you to try out. It should be much sturdier than the last one.The Improved Iron Trap will let you capture some of the meatiest beasts on Draenor. You will find that a single riverbeast or boar from Gorgrond can feed many warriors.Trap one and bring it back, and we will cook you a savage meal.",
+    "name": "Feeding An Army",
+    "requires_level": 93,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

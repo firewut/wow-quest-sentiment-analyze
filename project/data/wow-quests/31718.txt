@@ -1,0 +1,8 @@
+{
+    "_id": "31718",
+    "added_in_patch": 5,
+    "description": "Are you ready for another lesson, <name>?Today, you will spar against Big Bao. He is large of stature and of heart, and he will not give up until he is wholly beaten.If you wish to defeat him, you will need to persevere.Speak to him in the training ring to begin the challenge. Good luck.",
+    "name": "The Trainer's Challenge: Big Bao",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

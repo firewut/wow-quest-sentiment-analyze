@@ -1,0 +1,7 @@
+{
+    "_id": "12046",
+    "description": "I need some new packaging for the shrapnel bombs.  All the stuff I have is too hard and the shrapnel doesn't spread when it bursts.  What we need is some really thin animal hide.  Those jormungar tunnelers to the west might work... or perhaps the condors sifting through the dragon bones.  Go get me whatever you can find.\r\n",
+    "name": "Soft Packaging",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

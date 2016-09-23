@@ -1,0 +1,8 @@
+{
+    "_id": "10208",
+    "description": "Directly east of here is the Legion Front.  Spaced across the front are infernal portals and gateways, used to bring reinforcements to Hellfire Peninsula and throughout Outland. We're going to destroy those portals!Take these primers.  Designed in Area 52, they use the demons' own power as an explosive!  Defeat Legion forces around Portals Xilus and Kruul to gather demonic rune stones, use the primer to detonate four stones inside the portals, and watch!  Return to me when your mission is complete.",
+    "name": "Disrupt Their Reinforcements",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

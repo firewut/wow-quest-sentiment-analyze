@@ -1,0 +1,8 @@
+{
+    "_id": "32184",
+    "added_in_patch": 5.1,
+    "description": "The ancient crane is alive, but stunned.You should bring it back to Huntsman Blake before it wakes up.",
+    "name": "Beastmaster's Quarry: The Crane",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

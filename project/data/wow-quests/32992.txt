@@ -1,0 +1,9 @@
+{
+    "_id": "32992",
+    "added_in_patch": 6,
+    "description": "Karg's captors are moving east - probably retreating to Grom'gar with their tails between their legs!They think they outrun me, but Asha here is the fastest thing on four legs. We'll run them down in the Icewind Drifts.",
+    "name": "Moving Target",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

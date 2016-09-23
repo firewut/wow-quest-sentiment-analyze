@@ -1,0 +1,8 @@
+{
+    "_id": "31721",
+    "added_in_patch": 5,
+    "description": "Qua-Ro Whitebrow is commonly considered the best student of the Order.He seems quite without weakness. He is quick of intellect, strong of arm, hard-working, and talented.When you face him in the training ring, you will be testing yourself against our best.Speak to him to begin the duel. No matter the outcome, you will learn much from challenging him.",
+    "name": "The Trainer's Challenge: Qua-Ro Whitebrow",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35343",
+    "added_in_patch": 6,
+    "description": "I learned a little about alchemy from my aunt. If you want to know more, though, you should speak with my cousin Abatha. She was apprenticing under my aunt before she passed away.Abatha lives near the Verdant Mire with her father and sister.",
+    "name": "The Young Alchemist",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

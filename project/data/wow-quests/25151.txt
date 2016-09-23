@@ -1,0 +1,7 @@
+{
+    "_id": "25151",
+    "description": "<Marley grasps the side of your head with a shaking, bloody hand.>Ale... Must... have ale...Ol' Barkerstout from inside. <He coughs.> That should ... do the trick.",
+    "name": "He Needs Ale!",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

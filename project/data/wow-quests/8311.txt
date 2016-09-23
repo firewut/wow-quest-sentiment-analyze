@@ -1,0 +1,7 @@
+{
+    "_id": "8311",
+    "description": "I'm not allowed to go trick-or-treating.  After Deathwing's attack, I'm lucky Matron Nightingale lets me be this far away.If you trick-or-treat for me, I'd trade you the candy you get for some I already have!Each of the innkeepers in the big cities have candy they give for Hallow's End - talk to them and do the tricks they ask for!  Also, a little gnome named Talvash in Ironforge is handing out candy as well.  When you have all the candy, bring them back to me here!",
+    "name": "Hallow's End Treats for Jesper!",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

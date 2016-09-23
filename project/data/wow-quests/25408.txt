@@ -1,0 +1,7 @@
+{
+    "_id": "25408",
+    "description": "We will decimate the Twilight's Hammer by corrupting and subverting them. Seeing that you have no intention of releasing me from my bonds, I require you to collect some reagents for me. My own demonic essence has corrupted the plant life around my shrine here. I need you to harvest some bileberries from the wailing weeds that surround this tower.My little pets will attempt to harvest YOU in return. Try not to let them agitate one another.",
+    "name": "Seeds of Their Demise",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

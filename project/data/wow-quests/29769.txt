@@ -1,0 +1,7 @@
+{
+    "_id": "29769",
+    "added_in_patch": 5,
+    "description": "I'll keep trying to find ways to wake this stubborn little guy up, but there is no shortage of trouble on the island it seems. The crops to the south are infested with virmen, rabbit-like thieves and pillagers.Rascals!They breed faster than we can kill them! I have the perfect solution for such a situation: kill them faster! With you here, <name>, that shouldn't be a problem.",
+    "name": "Rascals",
+    "zone": "The Wandering Isle"
+}

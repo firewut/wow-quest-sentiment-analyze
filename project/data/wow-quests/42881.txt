@@ -1,0 +1,8 @@
+{
+    "_id": "42881",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Lady Liadrin",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

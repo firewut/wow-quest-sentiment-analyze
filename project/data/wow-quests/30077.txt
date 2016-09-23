@@ -1,0 +1,8 @@
+{
+    "_id": "30077",
+    "added_in_patch": 5,
+    "description": "I can't believe that giant hozen! He's just throwing barrels everywhere!Barrels, man!It looks like he managed to get pretty much all the pandaren that were working out in front of the brewery. If I were you, I'd help some of them break out. Put some of those ridiculous muscles to use.We're headed over to the brewery's rear entrance, to the east. Meet you there!",
+    "name": "Barrels, Man",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

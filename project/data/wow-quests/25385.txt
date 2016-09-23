@@ -1,0 +1,7 @@
+{
+    "_id": "25385",
+    "description": "Help us, <class>! The forest is aflame, and the wee animals can't find their way out. They can't fight for themselves, with their teeny-tiny little teeth and their soft furry paws! They're fluffy and sweet.They have wet little noses!If you don't save them, I don't want to even THINK about it.<She slaps her palms over her eyes.>I'm not thinking!",
+    "name": "Save the Wee Animals",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26971",
+    "description": "A noise in the main chamber of the temple draws your attention. You hear a familiar laugh... Lorthuna. She's returned to interrupt the ritual - you must stop her!",
+    "name": "The Binding",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

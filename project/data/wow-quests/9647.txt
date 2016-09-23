@@ -1,0 +1,7 @@
+{
+    "_id": "9647",
+    "description": "When we first encountered flutterers, they showed few signs of mutation. As the corruption got progressively worse, the moths and other species began to show signs of contamination.It has progressed to the point where they damage nearly everything they come in contact with. They're amplifying the damage being done by the crystal shards scattered by the Exodar's crash. We have no choice but to begin culling their population in the lands north of Blood Watch.",
+    "name": "Culling the Flutterers",
+    "requires_level": 14,
+    "zone": "Bloodmyst Isle"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "11048",
+    "description": "My original orders were to remain in Garadar for a short time, then continue on and report to Blood Guard Gulmok at Shadowmoon Village. What I've seen in my time here is that Garadar could benefit from a long term Horde liaison.I know that Blood Guard Gulmok needs all the troops he can get, but I know he'll understand that my mission here isn't yet complete. Travel to Shadowmoon Village, in northwestern Shadowmoon Valley, and inform Blood Guard Gulmok of my delayed arrival.",
+    "name": "Kroghan's Report",
+    "requires_level": 67,
+    "side": "horde",
+    "zone": "Nagrand (Outland)"
+}

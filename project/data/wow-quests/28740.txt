@@ -1,0 +1,7 @@
+{
+    "_id": "28740",
+    "description": "<Finkle's helm explodes with the sound of a loud girlish scream.>IT CAN'T BE! I... I was stuck inside one of those beasts for the better part of a month. Yes, literally stuck inside its stomach. If it weren't for my suit and the all-purpose helm I'd have died a fiery death! And look at that, it's had a litter of pups!Y... You gotta stop that thing, <name>! We can't let it or its pups make it out of here alive!",
+    "name": "Do My Eyes Deceive Me?",
+    "requires_level": 80,
+    "zone": "Blackrock Caverns"
+}

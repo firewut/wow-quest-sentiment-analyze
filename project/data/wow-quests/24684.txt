@@ -1,0 +1,7 @@
+{
+    "_id": "24684",
+    "description": "<Gann grasps you with a blood-caked hand.>My wounds are great but I will not rest until the dwarves of Bael Modan pay for their crimes. <Wheeze> We smuggled a man inside their fortress during our last raid. A goblin saboteur: Weezil Slipshadow. Create a disruption at the gates - kill who you can - then slip inside the fortress of Bael'dun to the south and find Weezil.That stronghold <cough> can only be destroyed from within, and Weezil can't do it alone.",
+    "name": "A Weezil in the Henhouse",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

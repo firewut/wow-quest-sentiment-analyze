@@ -1,0 +1,7 @@
+{
+    "_id": "9163",
+    "description": "Now, the more direct course of action that we are going to take, to figure out what these night elves are really up to, is to have you go to their island and steal any information that you can come by.I want you to head west down the road out of town to Shalandis Isle, just off the coast. Go there and recover any plans they might have on the island or on their ship.",
+    "name": "Into Occupied Territory",
+    "requires_level": 11,
+    "zone": "Ghostlands"
+}

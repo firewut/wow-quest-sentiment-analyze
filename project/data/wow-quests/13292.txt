@@ -1,0 +1,7 @@
+{
+    "_id": "13292",
+    "description": "Oh, yes, yes. Back again, are we? Never enough practice, I suppose.Here we are, the solution to that pesky frostwyrm problem.Make them scarce, <race>. The more you take out now, the less we face when we are again ready to attempt our march on the citadel.Best of luck, now. And do bring back whatever you don't use.",
+    "name": "The Solution Solution",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

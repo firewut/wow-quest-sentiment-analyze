@@ -1,0 +1,7 @@
+{
+    "_id": "37977",
+    "description": "The second orc that Matuun mentioned was a master runecarver and sorcerer. He should be located somewhere in the main camp. The journal reads:\r\n\r\n\"She mentioned that the orc could normally found in one of the runemaster's huts in the southern part of the camp. They could be identified by the standing stones surrounding the structure, as well as the floating runestones above.\"",
+    "name": "Dream of Argus: The Second Fragment",
+    "requires_level": 100,
+    "zone": "Shadowmoon Valley"
+}

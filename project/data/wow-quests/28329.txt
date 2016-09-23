@@ -1,0 +1,7 @@
+{
+    "_id": "28329",
+    "description": "These blight slimes seem to be really angry. They've even got a faint outline of an angry humanoid face in their ectoplasm. You don't think Hinott would be too happy about having non-compliant slimes working the slime pools.Kill any angry blight slimes that you see and try to get a lock on a breeding pool.",
+    "name": "Angry Scrubbing Bubbles",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

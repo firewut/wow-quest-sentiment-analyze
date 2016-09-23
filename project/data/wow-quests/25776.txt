@@ -1,0 +1,7 @@
+{
+    "_id": "25776",
+    "description": "While you've been raiding Sethria's nest, messages have been flying back and forth between here and the shrine. Skylord Omnuron was at first reluctant, but I've persuaded my fellow druids to risk a direct assault on Sethria herself.Everyone agreed to my plan... provided YOU spearhead the attack.Take this signal rocket and engage Sethria on the far ridge. When she reveals her true colors and shifts to her dragon form, fire the rocket and backup will arrive to help you!",
+    "name": "Sethria's Demise",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

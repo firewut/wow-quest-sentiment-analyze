@@ -1,0 +1,8 @@
+{
+    "_id": "42391",
+    "added_in_patch": 7,
+    "description": "I will not leave my post without Cora.\r\n\r\nA group of mages have her caged up like a beast, threatening to put her down.\r\n\r\nThey claim she's responsible for the death of one of their own, but I refuse to believe that. Cora is a loyal and obedient companion; she would never attack without my command.\r\n\r\nI tracked the demon that was truly responsible to this location, but it put up quite a fight before getting away. My injuries prevented me from giving chase, but I am sure that beast has left a bloody trail.",
+    "name": "Bite of the Beast",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25919",
+    "description": "<Captain Taylor listens intently to your recount of Duarn and Nespirah's conversation.>I see.  So the creature wants our help waking it up, is that it?With hundreds of slaves already picking away at her pearls, the beast seems to be a pretty heavy sleeper.  You might have better luck, though.My suggestion?  Look around the creature's flesh for signs of weakness.  Maybe that weapon of yours will find a ticklish spot and force the beast to come to its senses.",
+    "name": "Body Blows",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

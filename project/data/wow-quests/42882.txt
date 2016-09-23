@@ -1,0 +1,8 @@
+{
+    "_id": "42882",
+    "added_in_patch": 7,
+    "description": "We have a single purpose here, to raise Sally Whitemane as a Death Knight of the Ebon Blade. Such is our goal and we will see it through.However, the Scarlet Crusade has terrorized the people of Azeroth long enough. Therefore, our work here this day will not be done until every crusader has fallen, every stone has crumbled, and every banner burned.Come, Deathlord, let us bring ruin upon the Scarlet Crusade.",
+    "name": "The Scarlet Massacre",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

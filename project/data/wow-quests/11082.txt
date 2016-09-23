@@ -1,0 +1,7 @@
+{
+    "_id": "11082",
+    "description": "These miners are far too stupid to concoct any type of escape plan. We must find and punish the source. Venture into the depths of the mine and seek out the Murkblood overseers. If they have not been overcome by the denizens of the mine, they will undoubtedly be hiding.Once you locate one, interrogate him until he reveals the true mastermind behind the escape. Return to me with the identity of this traitor and the hand of the overseer.",
+    "name": "Seeker of Truth",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

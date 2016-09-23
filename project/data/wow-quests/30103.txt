@@ -1,0 +1,7 @@
+{
+    "_id": "30103",
+    "description": "The Dragon Soul... a weapon with enough power to defeat Deathwing. Thanks to you, it is now safely in our hands.Come! The aspects await us. We must bring the Dragon Soul to Wyrmrest Temple, in the center of Dragonblight.",
+    "name": "To Wyrmrest!",
+    "requires_level": 85,
+    "zone": "Hour of Twilight"
+}

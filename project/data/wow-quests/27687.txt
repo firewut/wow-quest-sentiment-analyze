@@ -1,0 +1,7 @@
+{
+    "_id": "27687",
+    "description": "What an accomplishment, felling a  mighty sea giant!The new residents of Smuggler's Hole will feel considerably safer knowing this monster is no longer loitering outside their haven.",
+    "name": "An Opened Can of Whoop Gnash",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

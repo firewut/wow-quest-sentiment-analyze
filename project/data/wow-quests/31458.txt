@@ -1,0 +1,8 @@
+{
+    "_id": "31458",
+    "added_in_patch": 5,
+    "description": "Kor'ik has been sending signals to the empress for weeks. Everything the Klaxxi have done, the empress knows about.That stops now!Kypari Ik will be the first to receive news of Kor'ik's demise. It would benefit us to make sure that message does not make it to the empress.Destroying the whisperers and beacon there will buy us enough time to come up with a plan before the empress can act.",
+    "name": "Damage Control",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

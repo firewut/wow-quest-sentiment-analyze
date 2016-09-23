@@ -1,0 +1,8 @@
+{
+    "_id": "10000",
+    "description": "Our forces at Thrallmar thought they had the fel orcs contained in the Hellfire Citadel area, but the recent arrivals at the ruins to the east say otherwise.We can't permit them to gain a foothold here. Rokag has dispatched Shadowstalker Kaide to the ruins to keep an eye on them, but we have to do something to keep them from digging in.Go to the ruins, decimate their peons, and then look for Kaide in the trees to the north. He'll tell you where to go from there.",
+    "name": "An Unwelcome Presence",
+    "requires_level": 62,
+    "side": "horde",
+    "zone": "Terokkar Forest"
+}

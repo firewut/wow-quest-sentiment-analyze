@@ -1,0 +1,7 @@
+{
+    "_id": "14104",
+    "description": "Ornolf the Scarred is a fearsome raider renowned among his Kvaldir brethren for raiding and capturing ships. From aboard Bor's Fury, he and his crew attack our ships and steal our goods.Ornolf and his men are among those who slaughtered the inhabitants of a tuskarr island to the north and renamed it Hrothgar's Landing. His ship sits at anchor at the eastern end of the island's harbor. Take this captured banner and display it on his ship to provoke him into facing you in battle.",
+    "name": "Ornolf The Scarred",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

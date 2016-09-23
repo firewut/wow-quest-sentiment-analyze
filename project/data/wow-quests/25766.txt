@@ -1,0 +1,7 @@
+{
+    "_id": "25766",
+    "description": "The rage of the elements has unearthed a hidden Highborne city in the heart of Stonetalon Mountains.Directly southwest of here, through Sishir Canyon, you will find the Ruins of Eldre'thar. Within the ruins lie treasures untouched by mortals for ten thousand years!Take this device and use it on the Highborne ghosts that inhabit the ruins. It will... put their souls to rest and also collect valuable data which I may peruse at a later date.",
+    "name": "Arcane Legacy",
+    "requires_level": 25,
+    "zone": "Stonetalon Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42375",
+    "added_in_patch": 7,
+    "description": "There is being blind, and then there is being stupid.This eyeless wonder next to me wants to barrel into Felblaze Ingress without preparation.Bah! I say we scout it first.Here, I will provide you with an extra eye I picked up from a place better left unmentioned.Enter Felblaze Ingress, investigate the area, and try not to get poked in the eye.",
+    "name": "Eye See You",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

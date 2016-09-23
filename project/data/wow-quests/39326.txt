@@ -1,0 +1,8 @@
+{
+    "_id": "39326",
+    "added_in_patch": 7,
+    "description": "Now that we've gotten to know each other, perhaps you can lend me a hand.My weekly supply shipment was lost when my longtime courier--you know, old whatsername--was shot out of the sky over the shores of Azsuna. Surely a hardy sort like you could retrieve my lost goods.",
+    "name": "Missing Shipments",
+    "requires_level": 100,
+    "zone": "Alchemy"
+}

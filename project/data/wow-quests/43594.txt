@@ -1,0 +1,8 @@
+{
+    "_id": "43594",
+    "added_in_patch": 7,
+    "description": "<The leyline feed appears to be intact and undamaged, but is not functioning. An infusion of Ancient Mana should be enough to render it operational again.>",
+    "name": "Leyline Feed: Halls of the Eclipse",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

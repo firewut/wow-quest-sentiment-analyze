@@ -1,0 +1,8 @@
+{
+    "_id": "39327",
+    "added_in_patch": 7,
+    "description": "Fine! I admit, even my considerable intellect can't translate the strange tome you discovered. No doubt the water smears made it illegible.Say, one of those dimwitted scribes down the block owes me a favor. This sort of busywork is just his cup of tea.",
+    "name": "There's a Scribe for That",
+    "requires_level": 100,
+    "zone": "Alchemy"
+}

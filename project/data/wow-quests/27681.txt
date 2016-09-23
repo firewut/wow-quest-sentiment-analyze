@@ -1,0 +1,8 @@
+{
+    "_id": "27681",
+    "description": "Galgann Firehammer and his band of Dark Irons are in Dig Three guarding a door that we know nothing about!  I've had it with their men getting in the way of our work here! The Reliquary is the only group authorized to handle the artifacts throughout Uldaman!Go to the dig and dispose of him so that our work can continue undisturbed. I want to know what's behind that door!",
+    "name": "Behind Closed Doors",
+    "requires_level": 35,
+    "side": "horde",
+    "zone": "Uldaman"
+}

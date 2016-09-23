@@ -1,0 +1,7 @@
+{
+    "_id": "12543",
+    "description": "We not know you, stranger, but we know you want something.We will talk to Bones of Nozronn for you, but you must bring us offerings. We need powerful emperor cobra fangs to complete our oracle's necklace.Go to the Wildgrowth Mangal, northeast of our hut, find cobras and bring back best fangs. Then we make bones speak to you.",
+    "name": "An Offering for Soo-rahm",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

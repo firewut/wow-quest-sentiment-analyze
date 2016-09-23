@@ -1,0 +1,9 @@
+{
+    "_id": "33563",
+    "added_in_patch": 6,
+    "description": "You! Get in the fight or get out of our way.This is no ordinary goren attack. Look over there, a gronnling is sacking our grubhall. That hunchbacked gorebucket bit a chunk out of my lovely Marrow!Rip the eye out of its forehead and bring it to me.That should buy me enough time to get her clear of this goren hole.",
+    "name": "Eye Candy",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

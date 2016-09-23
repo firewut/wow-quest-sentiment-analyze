@@ -1,0 +1,7 @@
+{
+    "_id": "28304",
+    "description": "Dark Cleric Cecille, a member of the Banshee Queen's delegation to Orgrimmar, has requested to meet with you next time you're in the city. You can find her inside Grommash Hold in Orgrimmar's Valley of Strength. It must be an important matter for her to send for you so directly, <name>.",
+    "name": "Meet with Dark Cleric Cecille",
+    "requires_level": 50,
+    "zone": "Orgrimmar"
+}

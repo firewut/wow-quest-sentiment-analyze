@@ -1,0 +1,7 @@
+{
+    "_id": "12245",
+    "description": "We have more fools for you to kill.My agents tell me that several of our good citizens have seen fit to fall into the hands of the Scarlet Onslaught.This will not do.Go back to New Hearthglen and eliminate Deathguard Schneider, Senior Scrivener Barriga, Engineer Burke and Chancellor Amai.From what I hear, they're spread out throughout the area. No doubt they are being kept in cages awaiting torture.Speak with them and then kill them!",
+    "name": "No Mercy for the Captured",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

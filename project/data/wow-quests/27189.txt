@@ -1,0 +1,7 @@
+{
+    "_id": "27189",
+    "description": "In my years as an herbalist, I've often observed that nature will provide subtle cures to the most vexing of problems. I've read that hedge mages and witch doctors often use the smoke of an herb known as witchbane to draw evil from its hiding places.If true, this would mean witchbane should be growing near the shallow waters of Witch Hill. You should be able to identify it by its broad leaves and reddish central stalk. Bring me any of the herb you can find, <name>. It may be our only hope.",
+    "name": "The Witch's Bane",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28154",
+    "description": "This looks like Muckgill's flipper or something. Maybe there's somebody that cares that you killed this murloc back at the Azurelode Mine camp. Probably not, but it's worth a shot.Take Muckgill's fin or whatever it might be back to Captain Keyton at the Azurelode Mine in southwestern Hillsbrad.",
+    "name": "Muckgill's Flipper or Something...",
+    "requires_level": 19,
+    "zone": "Hillsbrad Foothills"
+}

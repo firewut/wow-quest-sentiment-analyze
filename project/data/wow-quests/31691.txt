@@ -1,0 +1,8 @@
+{
+    "_id": "31691",
+    "added_in_patch": 5,
+    "description": "As powerful it is, at some point you know you will outgrow this staff.  When that time comes, one of the Inkmasters in the Arboretum would most likely be interested in taking it from you.",
+    "name": "Inscribed Crane Staff",
+    "requires_level": 85,
+    "zone": "The Arboretum"
+}

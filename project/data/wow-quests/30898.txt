@@ -1,0 +1,8 @@
+{
+    "_id": "30898",
+    "added_in_patch": 5,
+    "description": "The mantid numbers have been increasing since you left for the cleft. Let's put these orbs you gathered to use.Get down on the battlefront and man one of the cannons. Let none through.",
+    "name": "Cutting the Swarm",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

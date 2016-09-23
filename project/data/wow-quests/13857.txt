@@ -1,0 +1,7 @@
+{
+    "_id": "13857",
+    "description": "Even as we ready for the tournament, Argent Crusade forces prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.In the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled campaign charger at the camp, then destroy the Lich King's minions.Do not fear the masses of boneguard footmen, <name>, for they can easily be trampled under your horse's hooves.",
+    "name": "At The Enemy's Gates",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

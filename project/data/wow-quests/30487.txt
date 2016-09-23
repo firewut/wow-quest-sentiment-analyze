@@ -1,0 +1,8 @@
+{
+    "_id": "30487",
+    "added_in_patch": 5,
+    "description": "The mountain pass is very dangerous. You need much luck to survive. Nephew Bentnail will show you the way.Perhaps today is a lucky day to travel though. Wind blows from the east; this is good sign. Grummles always travel best when east wind blows.Climb in the cart when you are ready to leave.",
+    "name": "Comin' Round the Mountain",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

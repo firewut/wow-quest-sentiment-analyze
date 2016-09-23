@@ -1,0 +1,7 @@
+{
+    "_id": "13140",
+    "description": "Those shards you recovered can only have come from one place, Malykriss. It's the seat of the Lich King's metalworking operations, to the east of Corp'rethar.What's puzzling is that metal isn't needed to stitch together abominations or flesh giants, or to summon skeletal servants. Find the skeletal runesmiths working on the bottom level of Malykriss and capture the plates they're working on. We need to find out why this metal is finding its way to the Fleshwerks.",
+    "name": "The Runesmiths of Malykriss",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

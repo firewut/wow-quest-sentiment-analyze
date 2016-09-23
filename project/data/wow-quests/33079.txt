@@ -1,0 +1,8 @@
+{
+    "_id": "33079",
+    "added_in_patch": 6.2,
+    "description": "Now that we have the cloth and leather, we can craft a fitting disguise for our infiltration mission.Go speak to Ginni Gingerlips. She has proven herself quite capable in the realm of... errr... garment design.",
+    "name": "The Demons Among Us -",
+    "requires_level": 1,
+    "zone": "Shadowmoon Valley"
+}

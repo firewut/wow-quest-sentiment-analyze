@@ -1,0 +1,8 @@
+{
+    "_id": "11909",
+    "description": "Clearly this Gearmaster Mechazod creature is not in his right mind. If his offer of a cure and immortality means all of us becoming robotic slaves then he must be stopped!The winds that guide me whisper that he's atop the pumping station out in the middle of the pools to the west.Most likely, he'll be found in the command hut on top of the structure. Go inside and research his works.<name>, you must confront Mechazod if we are to survive!",
+    "name": "Defeat the Gearmaster",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

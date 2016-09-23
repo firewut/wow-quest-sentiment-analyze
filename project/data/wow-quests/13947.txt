@@ -1,0 +1,7 @@
+{
+    "_id": "13947",
+    "description": "So, Tweedle finally came through on those explosives, eh?They couldn't have come at a better time. The elves of Astranaar are preparing to make a devastating assault on our camp as we speak.Drop our new weapon on them from the skies! The destruction of Astranaar will be a dagger in the heart of night elves everywhere!Speak with Thraka when you're ready to begin the assault.Aim true, <class>.",
+    "name": "Blastranaar!",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26896",
+    "description": "Hey, friend, you interested in excitement? Adventure? Money? Violence?Well, you'd better like violence, because they just reopened the Thunderdrome in Gadgetzan. It was sad to see it unused for so long, what with the injury lawsuits, and the racketeering charges, and the copyright infringement... But it's back, and just waiting for burly, savage folk like you to enter and throw down with the foulest opponents ever!Head to Gadgetzan and talk to Dr. Dealwell to sign up. And tell your friends!",
+    "name": "The Thunderdrome!",
+    "requires_level": 47,
+    "zone": "Tanaris"
+}

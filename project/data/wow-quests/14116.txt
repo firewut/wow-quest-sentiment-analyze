@@ -1,0 +1,8 @@
+{
+    "_id": "14116",
+    "description": "While you were dealing with the pirates, I noticed the Trade Prince slip upstairs. He's up on the balcony at the top of the stairs.<name>, I think he's the one that sent the pirates.<Sassy cringes.>You'd better get up there A.S.A.P.! You wouldn't want to keep him waiting.",
+    "name": "The Uninvited Guest",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

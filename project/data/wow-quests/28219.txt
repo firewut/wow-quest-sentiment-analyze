@@ -1,0 +1,7 @@
+{
+    "_id": "28219",
+    "description": "<The tiny seedling opens its leaves wide, like a baby bird waiting to be fed. It speaks in a very faint voice:>Hungry... want... bugs...<You can hear the buzzing of wasps to the south. Could they be what the little thing wants to feed on?>",
+    "name": "Buzzers for Baby",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26579",
+    "description": "The fungal behemoths that surround us have succumbed to a weakness very similar to that that affects your kind. Their skin has grown soft. They no longer belong with the stone.Kill them. We do not wish to see this infection spread.",
+    "name": "Gone Soft",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

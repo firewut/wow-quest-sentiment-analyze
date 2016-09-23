@@ -1,0 +1,7 @@
+{
+    "_id": "4083",
+    "description": "",
+    "name": "The Spectral Chalice",
+    "requires_level": 40,
+    "zone": "Blackrock Depths"
+}

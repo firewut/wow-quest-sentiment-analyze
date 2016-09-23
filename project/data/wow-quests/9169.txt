@@ -1,0 +1,7 @@
+{
+    "_id": "9169",
+    "description": "Their moon crystals are scrying devices -- they're going to spy on us! I know that An'daroth can't provide enough power for that, but An'owyn, directly to the south, most definitely can!From the plans I now have a basic knowledge of how these moon crystals work; enough to shut them down. They're keyed so that they can be turned off. You must go to An'owyn, retrieve the controlling orb from one of the night elves and then use it on the moon crystal to stop them from enacting their plan!Hurry, <class>!",
+    "name": "Deactivate An'owyn",
+    "requires_level": 11,
+    "zone": "Ghostlands"
+}

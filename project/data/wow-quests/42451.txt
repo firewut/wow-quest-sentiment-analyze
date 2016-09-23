@@ -1,0 +1,8 @@
+{
+    "_id": "42451",
+    "added_in_patch": 7,
+    "description": "Your champion was unable to penetrate very far inside the Arcway Vaults due to the heavy legion presence around it.  Hopefully you will have better luck following Archmage Vargoth inside.\r\n\r\nKalecgos will be waiting for you on the ridge overlooking Felsoul Hold.",
+    "name": "Kalec's Plan",
+    "requires_level": 110,
+    "zone": "Mage Campaign"
+}

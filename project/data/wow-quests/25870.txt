@@ -1,0 +1,7 @@
+{
+    "_id": "25870",
+    "description": "You must do away with the Grimtotem invaders at Freewind Post. They brought it on themselves, the cowards!We can't take the fight to their territory with our back to them. Please help us take back our home, <class>.",
+    "name": "Grimtotem in the Post",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

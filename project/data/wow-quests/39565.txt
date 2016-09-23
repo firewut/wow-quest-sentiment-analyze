@@ -1,0 +1,8 @@
+{
+    "_id": "39565",
+    "added_in_patch": 6.2,
+    "description": "Dem fancy cat-men gotta be shown who is da boss 'round dese parts. Kill all their champions, and ya will earn da respect of all creatures in da jungle.\r\n\r\nY'gonna need dese totems to draw dem out.",
+    "name": "Rumble in the Jungle",
+    "requires_level": 100,
+    "zone": "Tanaan Jungle"
+}

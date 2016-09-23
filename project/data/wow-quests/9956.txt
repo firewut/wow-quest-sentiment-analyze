@@ -1,0 +1,8 @@
+{
+    "_id": "9956",
+    "description": "I was part of a caravan taking supplies to the Orebor Harborage in Zangarmarsh. As we were nearing the border of the marsh, we were jumped by a vicious squad of Warmaul ogres. They killed the others and took me prisoner, along with all of our supplies.Thankfully, they neglected to place a backing on my cage. When they fell asleep, I made my escape.It's too late for my comrades but we could really use the supplies they stole. Warmaul Hill is in the northwestern mountains of Nagrand.",
+    "name": "The Ravaged Caravan",
+    "requires_level": 65,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

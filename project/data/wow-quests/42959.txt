@@ -1,0 +1,8 @@
+{
+    "_id": "42959",
+    "added_in_patch": 7,
+    "description": "Ari is much more than she appears, you know. She was once one of the most powerful archmagi on Azeroth and a member of the Council of Tirisfal. Unfortunately her mind was badly damaged and she has not left the Hall of the Guardian since.\r\n\r\nShe must like you very much to have given you a gift. If you bring her something special in return, I suspect she will surprise you. She prefers things in threes.",
+    "name": "Three Is a Lucky Number",
+    "requires_level": 110,
+    "zone": "Mage Campaign"
+}

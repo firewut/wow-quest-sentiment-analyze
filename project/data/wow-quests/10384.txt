@@ -1,0 +1,7 @@
+{
+    "_id": "10384",
+    "description": "Look around you, fleshling. Very close to this transponder should be an Ethereum data cell. Locate that data cell, open it, and retrieve the contents.Bring it back to this transponder at once!",
+    "name": "Ethereum Data",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

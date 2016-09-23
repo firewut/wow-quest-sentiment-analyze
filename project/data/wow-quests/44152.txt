@@ -1,0 +1,8 @@
+{
+    "_id": "44152",
+    "added_in_patch": 7,
+    "description": "The Arcan'dor is failing.\r\n\r\nThis energy was once bound in its boughs and fueled its growth. There was balance, between life and arcane.\r\n\r\nNow that energy is breaking free. When the heart can no longer hold it, this tree will kill every living thing in this hall.\r\n\r\nI have seen this happen before and I must find a way to stop it from happening again. \r\n\r\nWe must go to the tree that came before. Its bones can guide us.\r\n\r\nMeet me at the temple of Fal'adora. We will descend together.",
+    "name": "A Growing Crisis",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

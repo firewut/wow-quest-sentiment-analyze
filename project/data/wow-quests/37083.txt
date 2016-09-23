@@ -1,0 +1,8 @@
+{
+    "_id": "37083",
+    "added_in_patch": 6,
+    "description": "The greatest gladiators on Draenor have fought for glory and honor inside the Coliseum. Will you become a legend like Kargath Bladefist or will you be nothing more than bone dust beneath the boots of a more savage gladiator? There is only one way to find out.You must enter the competition and fight! The price of victory is 100 lives!I will admit you without cost once per day, but if you fail and wish to fight again you must pay the price of admission in blood and bone!",
+    "name": "Fight, Kill, Salute!",
+    "requires_level": 100,
+    "zone": "Nagrand"
+}

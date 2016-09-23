@@ -1,0 +1,7 @@
+{
+    "_id": "27560",
+    "description": "",
+    "name": "Argus' Journal",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

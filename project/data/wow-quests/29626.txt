@@ -1,0 +1,8 @@
+{
+    "_id": "29626",
+    "added_in_patch": 5,
+    "description": "We don't have many rules here, but we do have one particular rule that is worth remembering. If you want to eat...<Xiao's stomach grumbles audibly.>...you have to work. Groundskeeper Wu can give you your chores for the day. He's in the market, to the west.",
+    "name": "Groundskeeper Wu",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

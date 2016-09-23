@@ -1,0 +1,8 @@
+{
+    "_id": "32324",
+    "added_in_patch": 5.1,
+    "description": "The soulstone shards fuse together easily in your hands.Strangely, no soul is stored within the stone. Instead, the stone seems to be drawing power from somewhere in Shadowmoon Valley. Looking east, you feel the power linked beyond the mountains, to the very gates of the Black Temple.",
+    "name": "Seek the Signal",
+    "requires_level": 90,
+    "zone": "Warlock"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35298",
+    "added_in_patch": 6,
+    "description": "Alright <name>, we've saved as many as we could but now we need to make sure this disaster doesn't spread any further.The firebombs are wired up and ready to go.Kimzee just finished work on the flying machine so we're ready to ride back to the Gearworks as soon as we're finished.You've done all the hard work so I think you should get the honors of triggering it.",
+    "name": "Flame On",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

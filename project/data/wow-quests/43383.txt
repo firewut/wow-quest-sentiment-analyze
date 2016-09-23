@@ -1,0 +1,8 @@
+{
+    "_id": "43383",
+    "added_in_patch": 7,
+    "description": "This spark will only know its full potential once it's been filled with pure Light, gleaned from the holiest places in our world.Nurture this spark, and it may grow to walk among you.",
+    "name": "Awakening the Light",
+    "requires_level": 103,
+    "zone": "Priest Campaign"
+}

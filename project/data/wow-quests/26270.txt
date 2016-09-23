@@ -1,0 +1,8 @@
+{
+    "_id": "26270",
+    "description": "It's been many years since anyone has offered to lend us aid, <name>. Had you not come along, we might not have made it through the coming winter. You have proven yourself to be a selfless individual - a person that we can trust. I only wish we had something of value to offer you.While I have no information to assist you in your crusade to bring the Furlbrow's murderer to justice, perhaps my wife can help. Speak to Salma inside and she will tell you what you need to know before you leave.",
+    "name": "You Have Our Thanks",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Westfall"
+}

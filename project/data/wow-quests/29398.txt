@@ -1,0 +1,7 @@
+{
+    "_id": "29398",
+    "description": "A quick search of the cabin reveals no evidence of the killer's identity or motives. The crate you were sent to retrieve has vanished.As you turn to leave the cabin, you notice something small moving underfoot. A trail of spiders crawls out from under the slain courier's bed. Where could they be heading?",
+    "name": "Fencing the Goods",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

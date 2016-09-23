@@ -1,0 +1,8 @@
+{
+    "_id": "43153",
+    "added_in_patch": 7,
+    "description": "Sounds simple? Make nice with Shadow Council friend must... for now. Help with ritual enough to gain trust, then turn tables!Council made portal device to Tol Barad here. Go, help Shadow Council find Eye of Dalaran, earn spot in big ritual! Then steal Scepter!Calydus will try to keep eye on friend when possible.",
+    "name": "An Eye for a Scepter",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

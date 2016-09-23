@@ -1,0 +1,8 @@
+{
+    "_id": "32215",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari perform heinous rites against our people! They must be stopped!\r\n\r\nDelve into the heart of the Za'Tual and destroy their altars.",
+    "name": "Heinous Sacrifice",
+    "requires_level": 90,
+    "zone": "Quests"
+}

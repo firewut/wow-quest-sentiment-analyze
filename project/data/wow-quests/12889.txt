@@ -1,0 +1,7 @@
+{
+    "_id": "12889",
+    "description": "Designation SCRAP-E.Directive: Maintain consoles and databases of Inventor's Library in Keeper Mimir's absences.Time since last maintenance cycle: 489 days.Status of schematic data: unknown.Current tasks: Repair prototype console.",
+    "name": "The Prototype Console",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

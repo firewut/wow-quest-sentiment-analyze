@@ -1,0 +1,8 @@
+{
+    "_id": "43590",
+    "added_in_patch": 7,
+    "description": "<This leyline feed appears to be damaged. The large collector at the top is broken.The broken piece must be around here somewhere. There are rough scuff marks on the floor that appear to be made by something larger than the creatures inside.Much, much larger.>",
+    "name": "Leyline Feed: Ley Station Moonfall",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

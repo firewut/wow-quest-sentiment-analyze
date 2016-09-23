@@ -1,0 +1,7 @@
+{
+    "_id": "28463",
+    "description": "As a member of the Shattered Hand, you know that it is our job to watch the Horde's enemies. We have discovered that the Dark Iron dwarves and their new allies, Twilight's Hammer, are preparing to attack.I'm sending you to help deal with this threat before the Dark Iron army marches. Take this poison and apply it to the soldiers' rations of grain in Blackrock Depths.The rations for most of the Dark Iron army are kept in the East and West Garrison of Blackrock Depths.",
+    "name": "The Dark Iron Army",
+    "requires_level": 50,
+    "zone": "Blackrock Depths"
+}

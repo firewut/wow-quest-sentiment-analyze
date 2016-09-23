@@ -1,0 +1,9 @@
+{
+    "_id": "36505",
+    "added_in_patch": 6,
+    "description": "Although this cloak has seen better days, the workmanship is still quite impressive. Any normal cloak would have most certainly fallen apart by now.Perhaps one of the Frostwolf orcs within Wor'gol would be willing to help you repair it.",
+    "name": "A Warrior's Shroud",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

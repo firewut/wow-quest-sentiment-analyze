@@ -1,0 +1,8 @@
+{
+    "_id": "9256",
+    "description": "I have another task for you, <name>.  Ranger Degolien was sent to Fairbreeze Village to find out more about a Wretched attack on a nearby shipyard.  He has requested reinforcements which we cannot yet provide.  Seek him out and grant him whatever aid you can.Fairbreeze Village can be reached by following the road out of Falconwing Square all the way towards the south.  Good luck, <name>.",
+    "name": "Fairbreeze Village",
+    "requires_level": 6,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

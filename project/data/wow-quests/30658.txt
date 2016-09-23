@@ -1,0 +1,8 @@
+{
+    "_id": "30658",
+    "added_in_patch": 5,
+    "description": "Have you heard of the prickly puffer fish <name>?  Of course you haven't, you're new around these parts!They can be found in the sarjun depths, due west of here.  Take this fishing spear and see if you can bring me back of few of their poison tipped spines.",
+    "name": "Huff & Puff",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

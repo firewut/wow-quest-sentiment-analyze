@@ -1,0 +1,8 @@
+{
+    "_id": "32434",
+    "added_in_patch": 5.1,
+    "description": "You're back!  Up for another battle with me?",
+    "name": "Burning Pandaren Spirit",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

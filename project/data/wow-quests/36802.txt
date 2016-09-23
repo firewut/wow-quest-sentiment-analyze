@@ -1,0 +1,7 @@
+{
+    "_id": "36802",
+    "description": "",
+    "name": "Abyssal Gulper Lunker",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

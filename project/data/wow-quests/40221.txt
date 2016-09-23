@@ -1,0 +1,8 @@
+{
+    "_id": "40221",
+    "added_in_patch": 7,
+    "description": "These poor faerie dragons are being tortured!What's worse, when the thistleleaf become bored they ensnare their victims to continue their torment later.This behavior is simply unacceptable.Please free any trapped Lunarwings you can find.",
+    "name": "Spread Your Lunarwings and Fly",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

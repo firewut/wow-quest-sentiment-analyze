@@ -1,0 +1,7 @@
+{
+    "_id": "11232",
+    "description": "We should be able to kill our way back to our guns.  Unfortunately, visibility is less than desirable so you will have to mark our targets from the ground.Take these smoke flares with you and use them to mark the locations of the cannons along the northern wall in the Derelict Strand, west of here, where the Alliance are holding out.Let Lyana know as soon as the way is clear for the ground troops.  We can take care of ourselves over here.",
+    "name": "Guide Our Sights",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

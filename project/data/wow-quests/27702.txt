@@ -1,0 +1,7 @@
+{
+    "_id": "27702",
+    "description": "Look at that. Lirastrasza's destroying them!There are drakes that she's downing that need finishing off, <name>. Wouldn't want the Twilight's healers to get them back up into the air.Time for a little Coup de Grace.",
+    "name": "Coup de Grace",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

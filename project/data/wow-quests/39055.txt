@@ -1,0 +1,9 @@
+{
+    "_id": "39055",
+    "added_in_patch": 6.2,
+    "description": "Now that we have the blueprints, let's get started on our first ship, a transport!  Speak to me when you are ready to begin construction.",
+    "name": "Ship Shape",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

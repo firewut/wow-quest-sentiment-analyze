@@ -1,0 +1,8 @@
+{
+    "_id": "27827",
+    "description": "In my haste to escape from Lethlor Ravine, I forgot to tie up one loose end: Nyxondra.  She's free, and she's sounded the alarm among the black dragonflight.  Half the flight is here in the western Badlands, combing for this egg.I'll take care of hiding the egg.  You're going to take care of some of the more troublesome dragons.  And you'll have help.Talk to Eric, over on the other side of camp.  He and his brothers will be joining you.",
+    "name": "The Swift, the Fierce, and the Stout",
+    "requires_level": 44,
+    "side": "alliance",
+    "zone": "Badlands"
+}

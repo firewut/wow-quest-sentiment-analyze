@@ -1,0 +1,8 @@
+{
+    "_id": "10113",
+    "description": "\"Go out and find us some supplies,\" he said. I was nearly killed about 15 times before I found this place! These Broken might not be the most hospitable bunch but at least they're not trying to tear my skin from my bones.Anyway, I'm not going back. My days of huntin' big game are over. If you end up heading northeast towards Zangarmarsh and run into the Nesingwary Safari, let them know that \"Shotgun\" quit. Hey, maybe you can take my place! Good luck, stranger.\r\n",
+    "name": "The Nesingwary Safari",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "9924",
+    "description": "<Arechron sighs.>This is so embarrassing. Do you remember my boy, Corki? You rescued him from the Burning Blade Ruins recently. Well, his curiosity has gotten the best of him once more. He told me that he was going to investigate the Boulderfist menace for 'uncle' Mo'mor and ran off to the ogre mounds in the Halaani Basin, north of here.Do you think you could track him down? I would be eternally grateful.\r\n",
+    "name": "Corki's Gone Missing Again!",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

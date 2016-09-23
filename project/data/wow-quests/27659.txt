@@ -1,0 +1,7 @@
+{
+    "_id": "27659",
+    "description": "I used to be the caretaker of the Earthen Ring's portals here. But while we were away helping to save Deepholm, the Twilight's Hammer moved in and corrupted the area.They're using powerful ascendants to guard our portals. That's where they've made a critical error.I want you to go to the portals and use the controllers to overload them. This will unleash all of the portal's energy, debilitating the ascendant. Slay it.",
+    "name": "Portal Overload",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

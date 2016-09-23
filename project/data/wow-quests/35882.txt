@@ -1,0 +1,8 @@
+{
+    "_id": "35882",
+    "added_in_patch": 6,
+    "description": "You have done me a great service. This blade is as much yours as it is mine.I offer you this blood oath: I shall serve your cause and lend my knowledge of blades and mining to your forces.Will you accept it?",
+    "name": "The Interest of Bruto",
+    "requires_level": 92,
+    "zone": "Frostfire Ridge"
+}

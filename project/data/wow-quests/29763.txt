@@ -1,0 +1,8 @@
+{
+    "_id": "29763",
+    "description": "The vrykul are fearless in a fight. Seems they actually yearn fer a death in battle. With their numbers and that ferocity, we're doomed - plain and simple.There's one they esteem though, goes by the name of Ingvar. Bring him down and you'll deal a mighty blow to their spirit.",
+    "name": "Stealing Their Thunder",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Quests"
+}

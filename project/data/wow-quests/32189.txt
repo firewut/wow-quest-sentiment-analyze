@@ -1,0 +1,8 @@
+{
+    "_id": "32189",
+    "added_in_patch": 5.1,
+    "description": "A strange fellow in a pointy hat showed up this morning trying to sell some kinda special seeds. Claimed they were magic.I welcome a little competition - business is business, after all - but this gentleman had a certain... shabby look to him. Oh, and he stunk somethin' FIERCE.Would you check up on him, just to make sure he's on the level? He's over there by Jian Ironpaw, making a meal out of the samples.",
+    "name": "A Shabby New Face",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

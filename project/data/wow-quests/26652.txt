@@ -1,0 +1,8 @@
+{
+    "_id": "26652",
+    "description": "There is a poor, sad spirit, Blind Mary, who haunts an old farm house in the hills south of Darkshire.Here, take this Spectral Comb and ask Blind Mary to comb her hair.  Then bring back the comb and I will glean from it the Ghost Hair I'll need for the thread.And take care, for dark things now lurk near that house...",
+    "name": "Ghost Hair Thread",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

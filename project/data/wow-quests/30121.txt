@@ -1,0 +1,8 @@
+{
+    "_id": "30121",
+    "added_in_patch": 5,
+    "description": "I sent a diplomat to look for allies in the ruins east of here.My diplomat has not returned and now Kang tells me this jungle is filled with a sinister people known as the mogu.Chezin is my friend and Leza's brother. To lose a brother would cause her to give in to despair. She already has enough to worry about with her fever.Could you investigate the ruins east of here and find out what happened?",
+    "name": "Search Party",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

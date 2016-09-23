@@ -1,0 +1,7 @@
+{
+    "_id": "24996",
+    "description": "I am to understand that another one of those foolish Dwarven Mountaineers has just been captured.  The deathguard has him stored here in this building, and they've assigned one of their own to persuade him not to escape.Why don't you go see how the Captured Mountaineer enjoys this special drink I made for him?  It contains a subtle hint of what The Dark Lady has planned for the rest of Azeroth.",
+    "name": "Holland's Experiment",
+    "requires_level": 5,
+    "zone": "Tirisfal Glades"
+}

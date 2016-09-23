@@ -1,0 +1,7 @@
+{
+    "_id": "27965",
+    "description": "Did... did you see that?  This is the missing piece we've been looking for!  We have to take this information back to someone at Thorium Point.The Dark Irons have been known to consort with the firelord in the past, but never before have they brought their kind this far out into Searing Gorge.Thorium Point is west and north of here.  You will find it nestled in the cliffs that overlook Pyrox Flats.  Take this information straight to Overseer Oilfist.",
+    "name": "Thorium Point: The Seat of the Brotherhood",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

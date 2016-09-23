@@ -1,0 +1,8 @@
+{
+    "_id": "12487",
+    "description": "I've received a request for help from our base in the Grizzly Hills. I'm sending you to see Conqueror Krenna.<The high executor waves a sheaf of parchment in the air as if he could care less what is written on it.>She's attempting to secure all of the natural resources or somesuch. Just watch your back around her. The word is that she's aggressive even for an orc.Follow the road east and then southeast. Cross the bridge at the Dragonspine Tributary and go east from the Evergreen Trading Post.",
+    "name": "To Conquest Hold, But Be Careful!",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

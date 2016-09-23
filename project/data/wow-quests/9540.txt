@@ -1,0 +1,7 @@
+{
+    "_id": "9540",
+    "description": "You begin to read the totem, better able to pronounce the words and phrases. Words start to form in your head. You think that the totem is telling you to go across the Crystalbrook river to the east. Perhaps your destination is on the other side of the river.",
+    "name": "Totem of Tikti",
+    "requires_level": 8,
+    "zone": "Azuremyst Isle"
+}

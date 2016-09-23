@@ -1,0 +1,8 @@
+{
+    "_id": "41499",
+    "added_in_patch": 7,
+    "description": "Toryl told me about those squid creatures that are controlling my brothers.I have never seen anything like them before around Jandvik. The naga must have brought them from wherever they came.I do not want any more of my kin to suffer the fate of being controlled by the naga.Find out where those squids come from and stop them.",
+    "name": "Squid Out of Water",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

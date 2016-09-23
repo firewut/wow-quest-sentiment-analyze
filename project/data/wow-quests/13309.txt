@@ -1,0 +1,7 @@
+{
+    "_id": "13309",
+    "description": "I've got some boys suited and ready for their drops inside of Ymirheim. I could use you to see them there safely.Inside the walls, the vrykul have set up some kind of automated spear guns that have been tearing up our transports. We had our engineers install a Suppression Turret to shut down those spear guns - just fire a round near any gun and the smoke should block its sight and clog its gears.Hop on the turret and see to it that all my boys make it to their drops in one piece.",
+    "name": "Assault by Air",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

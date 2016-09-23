@@ -1,0 +1,7 @@
+{
+    "_id": "24604",
+    "description": "I would ask a favor of you, <class>.A warrior named Mankrik passed through our camp not long ago, on a lonely journey. His wife was killed by the quilboar, long ago, and he still seeks revenge. I cannot forget his eyes...burning with inconsolable hatred, every waking moment.We did not talk long, but I cannot bear to think of him out there alone. Please, bring this to Mankrik, and tell him it is from me... ",
+    "name": "Concern for Mankrik",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

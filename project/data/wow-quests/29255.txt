@@ -1,0 +1,7 @@
+{
+    "_id": "29255",
+    "description": "The Crimson Lasher has developed some cracking blisters on its vines. Without treatment, this condition could be life threatening.Luckily, the Charred Soldiers and Charred Vanquishers in the area produce a waxy substance known as Embergris, which should soothe the Lasher's pain.Bring me some of this substance, and kill those nasty fire elementals while you're at it.",
+    "name": "Embergris",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

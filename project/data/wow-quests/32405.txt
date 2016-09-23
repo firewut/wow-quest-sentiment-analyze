@@ -1,0 +1,8 @@
+{
+    "_id": "32405",
+    "added_in_patch": 5.1,
+    "description": "Every Sunreaver Jaina expels from this city is a new blade that fights for the Horde. For US.I'm off to gather more strong elves. You've proven your hand in combat thus far - go take care of that creep in the black market.When you're done, we'll meet at the ramp and prepare to go aboveground.",
+    "name": "Hand of the Silver Covenant",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

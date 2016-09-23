@@ -1,0 +1,7 @@
+{
+    "_id": "28048",
+    "description": "There's some kind of smart brain bug in the back of the cave. It's in charge of all of the silithid down there.My ice cream is melting! How am I supposed to launch my ice cream empire, and save my inventory, if that thing's in there?!",
+    "name": "That Smart One's Gotta Go",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

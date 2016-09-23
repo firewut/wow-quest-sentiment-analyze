@@ -1,0 +1,7 @@
+{
+    "_id": "25532",
+    "description": "I don't know if you've noticed, but the cannonballs are hitting us. I'd say the Southsea pirates are getting more accurate... the ship is on fire!You've got a river boat now. Go talk to Mazzer Stripscrew.Put those fires out!",
+    "name": "Pirate Accuracy Increasing",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13010",
+    "description": "One task remains before I can reclaim my home at the Terrace of the Makers.Krolmir must be found.On that fateful day, I threw it to the earth with all the power and rage I possessed. A mighty explosion followed.I've thought it lost for these many years, but now I must be certain.Return to King Jokkum and discover what, if anything, he knows of my hammer's fate.",
+    "name": "Krolmir, Hammer of Storms",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

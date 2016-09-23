@@ -1,0 +1,8 @@
+{
+    "_id": "6342",
+    "description": "This is wonderful! It's just the kind of thing I need to remind me of home while I continue my studies in the Temple of the Moon. I'll try out one of the recipes tonight. I can't wait!Would you take this short note of thanks back to Nyoma? You can hire a hippogryph to take you back to Dolanaar. Just visit our hippogryph master, Leora, when you're ready to leave. She'll help you get a ride back to Dolanaar.",
+    "name": "An Unexpected Gift",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

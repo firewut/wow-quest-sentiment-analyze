@@ -1,0 +1,7 @@
+{
+    "_id": "24688",
+    "description": "You've already met one of my new students, the young worgen named Garl.  My other student is a troll by the name of Zen'Aliri.  He currently camps with the explorers of Marshal's Expedition, to the west of here.Take these results to him, <name>, and tell him to read them well.",
+    "name": "Zen'Aliri",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

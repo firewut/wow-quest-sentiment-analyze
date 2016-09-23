@@ -1,0 +1,9 @@
+{
+    "_id": "35106",
+    "added_in_patch": 6,
+    "description": "I will avenge my master and retrieve her life's work. Honor demands it. My heart yearns for it. If I die trying, so be it. The murderer will pay.",
+    "name": "Avenge and Reclaim",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

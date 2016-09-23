@@ -1,0 +1,7 @@
+{
+    "_id": "28454",
+    "description": "This is it, <name>.  A sad day... but a day in which the Blackrock orcs will learn a powerful lesson.  Today, our plan comes to fruition.Come with me.  We're going to go talk to Acride and call in that favor that he owes us.  Then we'll stop this invasion of Redridge before it even starts.",
+    "name": "Assault on Dreadmaul Rock",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

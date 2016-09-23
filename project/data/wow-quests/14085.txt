@@ -1,0 +1,7 @@
+{
+    "_id": "14085",
+    "description": "This pamphlet advertising riding training and mount purchases was sent from Jartsam.Jartsam can be found at the Cenarion Enclave in Darnassus.",
+    "name": "Learn to Ride in Darnassus",
+    "requires_level": 20,
+    "zone": "Darnassus"
+}

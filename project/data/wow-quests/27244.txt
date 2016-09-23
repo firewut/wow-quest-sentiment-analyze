@@ -1,0 +1,8 @@
+{
+    "_id": "27244",
+    "description": "Sifting through the loose dirt, the severed hand of an orc is found.  And clutched in the hand is a bone-carved tube.  And in the tube is a dirt-stained parchment.The parchment is a report made by an orc who spent weeks spying on the city of Theramore.After scanning the parchment, it is clear that it must be brought to the orc spymaster in Brackenwall Village.",
+    "name": "The Lost Report",
+    "requires_level": 34,
+    "side": "horde",
+    "zone": "Dustwallow Marsh"
+}

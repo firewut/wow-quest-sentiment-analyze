@@ -1,0 +1,8 @@
+{
+    "_id": "37155",
+    "added_in_patch": 6,
+    "description": "Greetings, commander. I have come on a mission directly from the captain.Aboard any vessel on Azeroth that's manned by at least one orc, you'll hear sea shanties sung about a device capable of navigating the broad, rough ocean of Draenor. The orcs used it to keep their heading true in the choppiest of storms.Perhaps it's just an old sea tale, but this one chance to find that kind of prize has the captain willing to part with some fine treasure.",
+    "name": "The Brass Compass",
+    "requires_level": 100,
+    "zone": "Iron Docks"
+}

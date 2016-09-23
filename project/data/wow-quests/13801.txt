@@ -1,0 +1,8 @@
+{
+    "_id": "13801",
+    "description": "D-did you hear that? Ghosts! I hate ghosts!Their eerie howls are coming from the barrows to the south. Ahhh! Make them stop!!Please, mister I'll pay good money to get those voices out of my head!",
+    "name": "Dead Elves Walking",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

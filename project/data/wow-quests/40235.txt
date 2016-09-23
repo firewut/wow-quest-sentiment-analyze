@@ -1,0 +1,8 @@
+{
+    "_id": "40235",
+    "added_in_patch": 6.2,
+    "description": "Da bums in Highmaul refuse to see dey are on da way out. Me, I'm gettin' while da gettin' is good. Da sooner youse bring me a bunch of Apexis Crystals, da sooner I can get off dis stupid island. Da amount required is very precise!",
+    "name": "Abrogator Arbitrator",
+    "requires_level": 100,
+    "zone": "Quests"
+}

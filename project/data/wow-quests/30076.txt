@@ -1,0 +1,8 @@
+{
+    "_id": "30076",
+    "added_in_patch": 5,
+    "description": "I've heard lots of cockamamie rumors about this here brewery. I thought they were all false... until I saw that giant hozen.So, it got me thinkin', what if the other rumors are true? I heard this one rumor just the other day about some water sprites that run around inside the brewery, causin' a ruckus and whatnot. Their bodies are actually MADE OF WATER.I reckon a man could make some mighty fine beer with some fancy water like that. If you find any, could you bring me some?",
+    "name": "The Fanciest Water",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

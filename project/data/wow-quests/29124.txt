@@ -1,0 +1,7 @@
+{
+    "_id": "29124",
+    "description": "Dis death ain't be in vain, <name>.  We figure out dat Kilnara be on da prowl.  Tings don't look good.We better check out da Rebel Camp to da north.  Maybe we find my contact dere.",
+    "name": "Warn the Rebel Camp",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

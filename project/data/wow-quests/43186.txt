@@ -1,0 +1,8 @@
+{
+    "_id": "43186",
+    "added_in_patch": 7,
+    "description": "<name>, we have all gathered here to honor you for your leadership, successes, and sacrifices.",
+    "name": "I Am the Slayer!",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34379",
+    "added_in_patch": 6,
+    "description": "Durotan wishes for us to join him now that you have established your foothold. I hope he will accept your help.",
+    "name": "Den of Wolves",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

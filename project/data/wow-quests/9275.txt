@@ -1,0 +1,7 @@
+{
+    "_id": "9275",
+    "description": "I'm on loan to the Farstriders in an attempt to help with their troll difficulties. I believe that I have a solution to their problem.At my disposal are a number of potent poisons. The trolls, as you know, are living creatures and therefore must eat. If we combine my poison with their food... well, I'm sure that the results will be entertaining!Care to help rid us of the Shadowpine trolls at Zeb'Nowa to the south? The camp straddles both the north and south sides of the road to Zul'Aman.",
+    "name": "A Little Dash of Seasoning",
+    "requires_level": 16,
+    "zone": "Ghostlands"
+}

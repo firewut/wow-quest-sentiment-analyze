@@ -1,0 +1,7 @@
+{
+    "_id": "26390",
+    "description": "The rampaging orc horde is lead by a savage beast known as Kurtok the Slayer! Kurtok is responsible for the recent invasion and must be killed if we are to have peace in the valley.Venture back east, across the river and through the vineyard, and look for the passage leading into the mountains. Kurtok will be there, preparing for another assault. Kill him and return to me.",
+    "name": "Ending the Invasion!",
+    "requires_level": 2,
+    "zone": "Elwynn Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27581",
+    "description": "Gerstahn is too heavily guarded and too smart to leave her post, so I'm not going to kill her.You are.I'll throw in a little something I picked up off of a guard to make it worth your while.",
+    "name": "Twilight?! No!",
+    "requires_level": 47,
+    "side": "horde",
+    "zone": "Blackrock Depths"
+}

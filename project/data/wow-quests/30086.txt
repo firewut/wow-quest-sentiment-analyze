@@ -1,0 +1,8 @@
+{
+    "_id": "30086",
+    "added_in_patch": 5,
+    "description": "Oh, hello. Are you looking for the owner of this place? Then look to the pandaren up at the top of the stairs.I'm just a visitor... like you.Now if you'll excuse me, my friends and I are trying to decide something. We can talk again afterwards.",
+    "name": "The Search for the Hidden Master",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39020",
+    "added_in_patch": 6.2,
+    "description": "The blazing star shines upon the land, searing the earth and parching the landscape. This star is relentless, malevolent almost. While its influence holds, new paths may open up, to distant places and even distant times. No sage truly understands the nature of this sign, but fortune favors the daring.",
+    "name": "A Burning Path Through Time",
+    "requires_level": 100,
+    "zone": "Weekend Event"
+}

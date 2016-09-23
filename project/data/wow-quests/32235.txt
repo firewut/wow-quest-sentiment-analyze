@@ -1,0 +1,8 @@
+{
+    "_id": "32235",
+    "added_in_patch": 5.1,
+    "description": "The gnomes have brought their flying contraptions. I want my skies CLEAR!Get up there on whatever mount you have with you and destroy those paltry devices.You may use this grog I \"acquired\" from our goblin allies. It would be better served blasting down gyrocopters than in the gullet of those little green fiends.",
+    "name": "Flash! Aaaaaahhhh!",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41010",
+    "added_in_patch": 7,
+    "description": "<Name>!<pant, pant>You've got to see it! The fish, they're... they're everywhere!Off the coast of Val'sharah, something's whipping them up into a frenzy.I've never seen better fishing in my life!I've got a boat down below. Grab your pole and I'll take you there!",
+    "name": "Fish Frenzy",
+    "requires_level": 98,
+    "zone": "Fishing"
+}

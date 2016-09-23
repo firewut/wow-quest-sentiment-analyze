@@ -1,0 +1,8 @@
+{
+    "_id": "42051",
+    "added_in_patch": 7,
+    "description": "The portal to the nightmare is ready, <name>. Remulos and the others have already gone ahead.There is no telling what horrors await on the other side, <name>. Good luck.",
+    "name": "Enter Nightmare",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

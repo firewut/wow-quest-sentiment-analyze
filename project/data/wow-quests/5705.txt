@@ -1,0 +1,7 @@
+{
+    "_id": "5705",
+    "description": "I welcome you back to the Valley of Spirits, <name>, but I must tell you, you are wanted back in your Undercity. Your head priestess there would be wantin' to speak to you.You already know where she at: the War Quarter deep in your city.Go there and do not forget, you are always welcome to train here with my people.",
+    "name": "<NYI> No Longer a Shadow",
+    "requires_level": 25,
+    "zone": "Priest"
+}

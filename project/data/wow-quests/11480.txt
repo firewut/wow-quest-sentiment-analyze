@@ -1,0 +1,7 @@
+{
+    "_id": "11480",
+    "description": "All the good work you've done for us hasn't gone unnoticed, <name>.  Our second in command, the delightful Annie Bonn, is incredibly impressed with what you've done so far and wants to meet you.  ",
+    "name": "Meet Number Two",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8239",
+    "description": "",
+    "name": "Sandfury, Skullsplitter, and Bloodscalp Coins",
+    "requires_level": 58,
+    "zone": "Quests"
+}

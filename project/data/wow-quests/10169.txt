@@ -1,0 +1,7 @@
+{
+    "_id": "10169",
+    "description": "The Aldor have gained the favor of the Sha'tar today.  As if that should come as any sort of surprise!Watch them showing off their fancy footwork a few feet away from A'dal.  Could they possibly put any more effort into sucking up to the naaru?Harbinger Haronem's marksman regiment is so dedicated, it even brings its own cooking pot to avoid taking long breaks for lunch.  This cannot go without retribution, <name>.I want you to pour this vial into their meal.  The results should be... comical.",
+    "name": "Losing Gracefully",
+    "requires_level": 62,
+    "zone": "Shattrath City"
+}

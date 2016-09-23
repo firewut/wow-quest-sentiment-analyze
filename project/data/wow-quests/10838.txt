@@ -1,0 +1,8 @@
+{
+    "_id": "10838",
+    "description": "The Demoniac Scryer is now ready.  Take it behind Hellfire Citadel, to Hellfire Basin, and summon it upon the ground.  It will then begin to attune itself to Hellfire Citadel.  After its attunement, speak to the Scryer and transcribe what it tells you.  Bring that transcription to me...Go, <name>, but only when you are ready.  There is no doubt that Hellfire Citadel will detect the Scryer and send wardens to destroy it!",
+    "name": "The Demoniac Scryer",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

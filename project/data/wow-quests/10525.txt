@@ -1,0 +1,7 @@
+{
+    "_id": "10525",
+    "description": "<Race> fool.  You almost destroyed the drum!I've worked too hard to get here, and my hands have been empty up until now.  At least you were able to succeed where the others only met with failure, or worse.It is time to evoke a vision that will lead you to the last relic that I have been seeking.Take this fiery fragment of my soul.  Use it to transform your body into flame and denature your spirit into a vision guide that will shoot forth to reveal the location of the final Thunderlord relic.",
+    "name": "Vision Guide",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

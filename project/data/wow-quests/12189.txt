@@ -1,0 +1,8 @@
+{
+    "_id": "12189",
+    "description": "The shipment from New Agamand was to arrive at Venomspite last week and then be delivered to me after some simple field tests. It is a Horde imperative - the last piece of the \"victory puzzle.\"<Sintar sighs.>It is quite disheartening to know that you are surrounded by imbeciles and incompetent boobs!You must travel to Venomspite, near the eastern border of Dragonblight. Find that buffoon, Middleton, and let him know that I am waiting on the package.",
+    "name": "Imbeciles Abound!",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

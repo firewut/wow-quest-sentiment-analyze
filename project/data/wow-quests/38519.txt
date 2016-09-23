@@ -1,0 +1,8 @@
+{
+    "_id": "38519",
+    "added_in_patch": 7,
+    "description": "Our tribe regularly crafts legplates out of leystone. I will share our pattern with you... if you do me a favor.My father fell to the drogbar several years ago, and they took his hammer as a trophy. That hammer was in my family for countless generations. Now, it languishes in the hands of the vile drogbar, Kubrul.I would very much like to have it back.",
+    "name": "Grayheft",
+    "requires_level": 104,
+    "zone": "Blacksmithing"
+}

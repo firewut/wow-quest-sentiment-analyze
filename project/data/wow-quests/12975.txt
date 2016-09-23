@@ -1,0 +1,7 @@
+{
+    "_id": "12975",
+    "description": "Surely Thorim has told you of the tragedy that divides us.It was in Thunderfall, northeast of here, that these events unfolded. The frozen fossils there are a reminder of that dark day, as are the spirits that haunt that place.If my people are to forgive Thorim, something must take the place of those images. A memorial must be constructed to bring our hearts peace.Go there, <race>. Collect the fragments of Hodir's Horn that was shattered that day.",
+    "name": "In Memoriam",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

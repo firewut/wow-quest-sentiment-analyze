@@ -1,0 +1,8 @@
+{
+    "_id": "32573",
+    "added_in_patch": 5.2,
+    "description": "There are mogu in the Diremoor animating the army of statues near the tower. Vereesa wants them dead. I think you're the one to do it.",
+    "name": "Enemies Beneath the Tower",
+    "requires_level": 90,
+    "zone": "Quests"
+}

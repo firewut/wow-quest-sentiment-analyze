@@ -1,0 +1,7 @@
+{
+    "_id": "8320",
+    "description": "The Twilight's Hammer, an insane cult bent on destruction, set up camps in Silithus and perform rituals day and night.  We do not yet know their plans, but we do think they are somehow linked to the pulsing red crystals spread across the desert.Although their mystery may one day be solved, we must first deal with their immediate threat.  Go to their camps to the west and seek out Twilight geolords.  They are the heads of these serpents; that is where we must strike!",
+    "name": "Twilight Geolords",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40378",
+    "added_in_patch": 7,
+    "description": "Lord Illidan has placed you in charge. Now, we just need the rest of our Illidari attack force.\r\n\r\nThere are three Burning Legion gateways ahead. Activate them and our Illidari will pour through from the Black Temple.\r\n\r\nLike most Legion constructs, the gateways are powered by souls. I think we have provided enough to activate this first one, don't you? Let us bring in our Ashtongue forces.",
+    "name": "Enter the Illidari: Ashtongue",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

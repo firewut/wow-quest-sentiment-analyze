@@ -1,0 +1,7 @@
+{
+    "_id": "13078",
+    "description": "In this dark time, I'll not be the one to abandon a champion of the Light.We will need something sacred for this to have a hope of saving your Bridenbrad... a remnant of a devout being that fell victim to this very same plague.Go now to the sacred soil of the passages outside my Ruby Dragonshrine where the battle is joined. As my Ruby Keepers fly down and set flame to the ground beneath undead feet, you will witness new life grow forth. Among that life are Dahlia's Tears - bring them to me.",
+    "name": "Dahlia's Tears",
+    "requires_level": 77,
+    "zone": "Dragonblight"
+}

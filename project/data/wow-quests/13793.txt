@@ -1,0 +1,7 @@
+{
+    "_id": "13793",
+    "description": "As a champion, you have mastered the art of mounted combat, overcoming challengers of all levels. You must make certain that you can defeat anyone you face when the tournament begins.You should continue honing your own skills and learning more about the weaknesses of your opponents. Champions representing all cities practice in the Ring of Champions near the stables. Go to the stables, equip your lance, and pick any mount you're permitted to ride, then face the champions.",
+    "name": "Among the Champions",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

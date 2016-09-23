@@ -1,0 +1,8 @@
+{
+    "_id": "14031",
+    "description": "Heya, <name>, there are strange cave paintings and other artifacts all over the cavern.Do you think you could use your belt-mounted KTC Snapflash camera to capture images at the designated spots? Also, snap a pic of the altar in the back of the cavern.I'm sure that Sassy will want the intel.",
+    "name": "Capturing the Unknown",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

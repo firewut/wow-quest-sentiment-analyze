@@ -1,0 +1,8 @@
+{
+    "_id": "31975",
+    "added_in_patch": 5,
+    "description": "You belong in Outland with the other hotshots if ya ask me. Why don't ya go back to Audrey Burnhep in Stormwind and see what's next in your new career as a tamer!",
+    "name": "The Returning Champion",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

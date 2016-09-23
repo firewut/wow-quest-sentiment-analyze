@@ -1,0 +1,8 @@
+{
+    "_id": "25118",
+    "description": "I don't know about you, but I'm not much a fan of spiders, much less the kind that come bigger than me. Loch Modan's a gorgeous place, but I'd say it could do without those horrid things waltzing around.Tell you what, I've got some spare coin, and you look like a tough one. If you head out and off some of those things for me, I'll pay you for your time.",
+    "name": "Looking for Lurkers",
+    "requires_level": 11,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

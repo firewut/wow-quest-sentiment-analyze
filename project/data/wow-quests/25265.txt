@@ -1,0 +1,8 @@
+{
+    "_id": "25265",
+    "description": "We just can't thank you enough for all that you've done. Now we can all get off of this island before it kills us!Thrall is going to want to speak with you first, <name>. I'll rocket you over there.See you on the ship!",
+    "name": "Victory!",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

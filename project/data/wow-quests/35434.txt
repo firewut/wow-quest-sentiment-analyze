@@ -1,0 +1,9 @@
+{
+    "_id": "35434",
+    "added_in_patch": 6,
+    "description": "It sounds like these... \"dwarves\"... you found managed to steal a powerful botani artifact.But the fools didn't know they need a special water to power it.To the north is a well along the Evermorn Rise.There you will find a guardian, a creature of water we have named Utrophis.Slay it and take its essence and you will be one step closer to claiming the power of the botani and their genesaur.",
+    "name": "The Life Spring",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34154",
+    "added_in_patch": 6,
+    "description": "Teron'gor and Gul'dan were just leaving through the portal as I arrived... and I... I know I won't be able to defeat them.I'll hold open the portal as long as I can. It will be up to you to strike the killing blow.Our fate is in your hands, <name>.",
+    "name": "Destination: Unknown",
+    "requires_level": 95,
+    "side": "alliance",
+    "zone": "Talador"
+}

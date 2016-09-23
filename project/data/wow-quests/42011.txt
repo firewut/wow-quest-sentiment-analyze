@@ -1,0 +1,8 @@
+{
+    "_id": "42011",
+    "added_in_patch": 7,
+    "description": "If the Ethereum managed to capture Azuregos, then they are more powerful than I imagined. \r\n\r\nWe have not always seen eye to eye, Azuregos and I, but he is still my kin. Since you seek to put an end to the ethereals and claim Aluneth, I ask that you also free my brother from their grip.\r\n\r\nWith the Surge Needles destroyed, the shield has dissipated. The Nexus awaits, <name>.",
+    "name": "The Nexus Vault",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

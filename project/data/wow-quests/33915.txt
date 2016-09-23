@@ -1,0 +1,9 @@
+{
+    "_id": "33915",
+    "added_in_patch": 6,
+    "description": "My nephew never pays attention to his surroundings. In his eagerness to prove himself, he has strayed from the pack -- again.He reminds me of myself when I was a youngling.If you see Orac, tell him to return home. We need to finish preparing for tomorrow's hunt.",
+    "name": "Young Hearts",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

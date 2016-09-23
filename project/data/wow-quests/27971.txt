@@ -1,0 +1,7 @@
+{
+    "_id": "27971",
+    "description": "We have been having issues with the undead down at the Cape of Lost Hope for a while now.  Every time a new ship wrecks, they end up getting more undead to join their ranks.Can you do us a favor and thin out the ranks up there?  I know you won't be able to kill them all, but anything you can do will help at this point.Keep an eye out for horde, we have been getting reports of them ambushing the beach lately.",
+    "name": "Rattling Their Cages",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9759",
+    "description": "Don't accept this assignment if you value your life. You see that gigantic power core jutting out of the mountain side over yonder? Whoever takes on this burden will need to fight their way through that mountain, battling an army of Sunhawks while protecting me as I rig the core up for demolition. Sironas the eredar is somewhere up there as well.I won't think less of you if you just walk away, <name>.But maybe you're the one - the one to destroy the Vector Coil and take down Sironas. Well, are you?",
+    "name": "Ending Their World",
+    "requires_level": 18,
+    "zone": "Bloodmyst Isle"
+}

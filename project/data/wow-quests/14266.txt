@@ -1,0 +1,8 @@
+{
+    "_id": "14266",
+    "description": "You're alive, <name>!  That must mean I did something right.It's a shame our lessons were cut off a little short.  But, as you go and learn on your own, you'll start to discover new techniques.Go get some more experience, learn something new, and then try it out against the bloodfang worgen to our west.",
+    "name": "Charge",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

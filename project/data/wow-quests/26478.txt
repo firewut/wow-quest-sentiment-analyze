@@ -1,0 +1,7 @@
+{
+    "_id": "26478",
+    "description": "The last piece of the rod is held by druids of the claw. I asked their leader, Oso Bramblescar, to give it to me, but he and his guardians nearly killed me! Clearly they too were affected by the Horde's corruption of the Forest Heart.But, I have an idea for how you can get into Oso's cave and grab the pommel.Ever since I was a faun, I've been pretty good at playing possum. It works great against bears! I can teach you! Go east to the Shady Nook, and if they try to get you, just use my technique.\r\n",
+    "name": "Playing Possum",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

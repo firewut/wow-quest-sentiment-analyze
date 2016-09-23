@@ -1,0 +1,8 @@
+{
+    "_id": "38818",
+    "added_in_patch": 7,
+    "description": "In my fragmented state, I captured glimpses of a hero meting out justice to the corrupted mystics of Haustvald. I see now, this hero was you, <class>. \r\n\r\nI know you seek my judgment, but my spirit is still fragmented. As we speak,  Runeseer Faljar is calling upon dark, forbidden magics in an attempt to banish my spirit to Helheim. If he succeeds, your trial will be lost.\r\n\r\nMy connection here is fading. Go, there is little time!",
+    "name": "The Final Judgment",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

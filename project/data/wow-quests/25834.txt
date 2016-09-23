@@ -1,0 +1,7 @@
+{
+    "_id": "25834",
+    "description": "Can you hear them fighting down below, <name>? It would appear that the Grimtotem tauren are no longer in the good graces of the Horde. I don't know what happened, but we can turn this to our advantage.I will arrange a meeting with an ambassador from the Grimtotem. What I need you to do is put together a peaceful offering.<Force Commander Valen points to Cookie.>Talk to \"Cookie,\" <name>. He's already been briefed on what we need to do.",
+    "name": "Death by Proxy",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

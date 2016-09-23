@@ -1,0 +1,7 @@
+{
+    "_id": "9579",
+    "description": "You have no means of identifying the corpse as Galaen with the information Morae gave you, but the clothing appears to have been torn in search of valuables.The blood elves in the area would've claimed anything of value from the wreckage, including Galaen's jeweled amulet.Although her husband did not survive the crash, you believe that Morae would be grateful if you recovered her husband's amulet from the blood elves.",
+    "name": "Galaen's Fate",
+    "requires_level": 15,
+    "zone": "Bloodmyst Isle"
+}

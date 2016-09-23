@@ -1,0 +1,8 @@
+{
+    "_id": "27758",
+    "description": "<Bzzzzzzzzzzzzt.>Hello, can you hear me? Excellent!It looks like Helix is in charge of building an enormous mast. You don't think they're trying to finish the Defias Juggernaut, do you?You'd better go investigate <name>, and don't be afraid to get your hands dirty! You have clearance to use deadly force if necessary and, let's face it, it's probably going to be necessary.",
+    "name": "The Carpenter",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Quests"
+}

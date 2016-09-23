@@ -1,0 +1,7 @@
+{
+    "_id": "29446",
+    "description": "An inspection of the weapon reveals expert craftsmanship and intricate inlay work, but this is no ceremonial blade. Faint marks and nicks along the blade attest to its use in combat.The Darkmoon Adventurer's Guide lists several types of rare and valuable weapons, leaving no doubt that Professor Thaddeus Paleo at the Darkmoon Faire would be interested in taking a look at this piece.",
+    "name": "A Wondrous Weapon",
+    "requires_level": 15,
+    "zone": "Darkmoon Faire"
+}

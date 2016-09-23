@@ -1,0 +1,7 @@
+{
+    "_id": "216",
+    "description": "The Thistlefur furbolgs are threatening our expansion!  Thistlefur Village to our west blocks the way between us here and the Splintertree Post.  It's a path that would circumvent the village of Astranaar; without it, we give the Alliance an extra expansion path.<name>, we must not allow... an expansion path gap!Proceed to Thistlefur Village and thin out the furbolgs.  You will be given compensation for this task, but more importantly you will be doing your duty for the Horde!",
+    "name": "Between a Rock and a Thistlefur",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

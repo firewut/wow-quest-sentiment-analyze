@@ -1,0 +1,8 @@
+{
+    "_id": "38047",
+    "added_in_patch": 6.2,
+    "description": "The war against the Iron horde rages on.Not far from here at The Iron Front, our warriors are engaged in mortal combat with the enemy. They fight tenaciously and with great fury, but the losses have been severe.Go to The Iron Front and show the enemy that we will not falter in this war.Show them that we fight as wolves!",
+    "name": "Battle At The Iron Front",
+    "requires_level": 100,
+    "zone": "Tanaan Jungle"
+}

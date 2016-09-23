@@ -1,0 +1,8 @@
+{
+    "_id": "41635",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Work Order: Leystone Boots",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

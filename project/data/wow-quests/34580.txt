@@ -1,0 +1,8 @@
+{
+    "_id": "34580",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Draenor Flowerpicker",
+    "requires_level": 90,
+    "zone": "Talador"
+}

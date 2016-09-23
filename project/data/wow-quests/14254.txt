@@ -1,0 +1,7 @@
+{
+    "_id": "14254",
+    "description": "You have a strong feeling that this stone is somehow responsible for the region's refusal to accept the encroaching regrowth.Looking off to the west, you notice a trail of smoldering debris that appears to be related to this mystery.You surmise that clearing the debris might assist Thunk's efforts here.And who knows what this stuff might be good for?",
+    "name": "Heavy Metal",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

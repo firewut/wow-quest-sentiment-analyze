@@ -1,0 +1,7 @@
+{
+    "_id": "29808",
+    "description": "Throughout Azjol-Nerub, the scourged nerubians carefully nurture eggs that will soon hatch, providing them nerubian young to slaughter and raise.The eggs have been tainted with foul magics. Our only recourse is to dispose of them.",
+    "name": "Don't Forget the Eggs!",
+    "requires_level": 70,
+    "zone": "Azjol-Nerub"
+}

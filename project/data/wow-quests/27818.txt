@@ -1,0 +1,7 @@
+{
+    "_id": "27818",
+    "description": "I settled here well before Bogpaddle was founded, to brew my potions and find some peace and quiet. I know this swamp like the back of my old, gnarly hand.There's been a change in the wildlife recently. Those winged snakes you may have seen in the stagalbog are wind serpents, and they haven't been seen around here for ages.They're also prime for ingredients if they're the kind I'm thinking of. Be a dear and gather me some of their hearts, will you?",
+    "name": "Slithering Signs",
+    "requires_level": 51,
+    "zone": "Swamp of Sorrows"
+}

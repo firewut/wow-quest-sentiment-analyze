@@ -1,0 +1,7 @@
+{
+    "_id": "12547",
+    "description": "This colossal being appears to be inactive.  You notice an empty rune-shaped slot on its chest.Perhaps you might be able to find the missing rune inside the nearby overlook.",
+    "name": "The Activation Rune",
+    "requires_level": 77,
+    "zone": "Un'Goro Crater"
+}

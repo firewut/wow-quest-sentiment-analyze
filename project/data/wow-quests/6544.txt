@@ -1,0 +1,7 @@
+{
+    "_id": "6544",
+    "description": "Hey!  <Class>!  Come here!My raiders and I are about to attack the Silverwing Outpost to the west.  Our target is its leader, Duriel Moonfire.  Scouts report the outpost is defended heavily with sentinels and warriors.  The battle will be glorious!Do you want to share in the glory, <name>, and aid us?  If so, then when it's over you can report our success to my superior, Ertog Ragetusk in Splintertree.What do you say.  Are you with us?",
+    "name": "Torek's Assault",
+    "requires_level": 20,
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12708",
+    "description": "I know that you're headed up to the Zol'Maz Stronghold to the northeast, <class>. While you're there, I need you to deal with the warlord's special guardians.The enchanted tiki warriors, as they're called, represent a very real threat. If the Drakkari were to mass produce them, we'd quickly be overrun.Let's you and I demonstrate that they're not worth the effort to create, shall we?",
+    "name": "Enchanted Tiki Warriors",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

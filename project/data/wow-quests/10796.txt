@@ -1,0 +1,7 @@
+{
+    "_id": "10796",
+    "description": "I've heard that you've done us more than proud in the fight against the ogres thus far.  Now, I would ask that you face them again.  I want you to crush the ogres at Bloodmaul Camp!To get down there, head northwest down the ramp out of the Ruuan Weald.  You'll find them at the base of the ramp.Good luck, <class>!",
+    "name": "Crush the Bloodmaul Camp!",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

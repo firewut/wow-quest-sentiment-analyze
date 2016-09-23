@@ -1,0 +1,8 @@
+{
+    "_id": "26677",
+    "description": "Out here on the outskirts of town, it's a wonder the walking dead haven't eaten me!  In fact, just yesterday a pack of ghouls was pounding on the walls of my tower!I want to make an effigy - a kind of \"scarecrow\" for ghouls.  To do that I need some ghoul ribs.  You can find plenty of them on the fetid corpses wandering Manor Mistmantle's grounds, north of Darkshire...Get the ribs for me, and I will repay you with some coin.",
+    "name": "Ghoulish Effigy",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

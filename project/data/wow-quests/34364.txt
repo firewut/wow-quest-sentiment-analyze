@@ -1,0 +1,9 @@
+{
+    "_id": "34364",
+    "added_in_patch": 6,
+    "description": "Without you, none of us would have made it to the shores of my homeland. You will be the one to lead our forces here on Draenor. This is your garrison to found.\r\n\r\nI leave it to you to plant the banner and claim this territory. When you are ready, I will have Khadgar open a portal to bring through a few necessary reinforcements.",
+    "name": "For the Horde!",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24705",
+    "description": "I've a feeling that we may find more than dragons here in this crater.  My paladin's instinct tells me that there are maidens nearby that require our aid.  While my heart beats only for my lady Doloria, a damsel in distress cannot be ignored.Let us sally forth, Squire <name>!  The ladies of Un'Goro require our aid!",
+    "name": "Damsels Were Made to be Saved",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

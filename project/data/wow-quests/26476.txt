@@ -1,0 +1,7 @@
+{
+    "_id": "26476",
+    "description": "Ah, there you are, <name>. I've pored over the notes Teronis has made and it sounds like your next course of action is to find the other pieces of Dartol's rod.I would start by heading east along the road to Raynewood Tower.A dryad there named Shael'dryn is better suited to guide you. Seek her out.Keep the gem with you--Shael'dryn will need it if she's to help you recreate the rod.",
+    "name": "Dryad Delivery",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

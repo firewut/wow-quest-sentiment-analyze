@@ -1,0 +1,9 @@
+{
+    "_id": "38989",
+    "added_in_patch": 6.2,
+    "description": "General, your forces in Tanaan Jungle await your orders. Travel to the Planning Map there to issue your commands.For the Horde!",
+    "name": "Your Orders, General?",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Tanaan Jungle"
+}

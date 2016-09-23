@@ -1,0 +1,8 @@
+{
+    "_id": "39049",
+    "added_in_patch": 7,
+    "description": "This demon has proved less than useful. I have been using the Scythe of Souls on it, but so far, it has resisted my inquiries. We will see how long that lasts.\r\n\r\nI have a different idea...\r\n\r\nThere is a fresh inquisitor demon ahead. They are horrific fel casters who see through their floating eyes and specialize in dark pacts. If you steal its power, Jace Darkweaver could use some of it in his ritual to spy on the Legion.\r\n\r\nBetter yet, you will gain its power by ripping it from its smoking corpse.",
+    "name": "Eye On the Prize",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

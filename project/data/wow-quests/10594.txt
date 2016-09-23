@@ -1,0 +1,7 @@
+{
+    "_id": "10594",
+    "description": "Take these scanners to the Singing Ridge.  By dropping them in a pattern on the ground, you will create overlapping fields that will read the amplitude of the crystals.  Stand amidst them in such a way that you're in five oscillation fields and I'll have the information that I need!Your scanners will even work with those that others drop.Oh, and it's likely that a rift will be formed!  I have no idea what, if anything, will come out of it, but be prepared for the worst.",
+    "name": "Gauging the Resonant Frequency",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

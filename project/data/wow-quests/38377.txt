@@ -1,0 +1,8 @@
+{
+    "_id": "38377",
+    "added_in_patch": 7,
+    "description": "<name>, you have returned. Good.I have counseled with the other archdruids and concluded that Cenarius' condition is merely a symptom of a much greater problem. Your experiences in Moonclaw Vale make that clear.We need help.There is one who can bring understanding to these events. With Thaon gone, we must ask that you aid us in reaching out to the Lady of Dreams.",
+    "name": "The Emerald Queen",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

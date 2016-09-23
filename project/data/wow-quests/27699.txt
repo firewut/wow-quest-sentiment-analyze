@@ -1,0 +1,7 @@
+{
+    "_id": "27699",
+    "description": "That's one tough shark!You determine that it's in everyone's best interest to try and distract Budd and hope his attention never returns to Gnaws and this Skeletal Reef.Perhaps the teeth of the beast will prove captivating enough...",
+    "name": "Shark Weak",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

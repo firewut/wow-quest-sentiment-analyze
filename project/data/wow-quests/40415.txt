@@ -1,0 +1,8 @@
+{
+    "_id": "40415",
+    "added_in_patch": 7,
+    "description": "Your respect for our ways has earned you all the knowledge we have to teach. Go now, <name>, and spread our ways to those who fight against the legion.Perhaps it will help to turn the tide in this war for our world.",
+    "name": "Well Spent Time",
+    "requires_level": 108,
+    "zone": "Leatherworking"
+}

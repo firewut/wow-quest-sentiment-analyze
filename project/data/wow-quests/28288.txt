@@ -1,0 +1,7 @@
+{
+    "_id": "28288",
+    "description": "Before you go...I've taken advantage of my \"alone time\" with Impsy here to learn some interesting facts about imps. Specifically, he ended up telling me the one thing that all imps fear most. Something they're absolutely terrified of.I thought that sounded useful as well as interesting, so I've done some basic conjuring. This prism will project an image of... well, of what Impsy described.Shadowlurk Ridge is still swarming with imps. Why don't you go test their reaction for me?",
+    "name": "Open Their Eyes",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

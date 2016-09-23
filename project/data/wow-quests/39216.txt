@@ -1,0 +1,8 @@
+{
+    "_id": "39216",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Ready to forge Tracking Bit",
+    "requires_level": 98,
+    "zone": "Quests"
+}

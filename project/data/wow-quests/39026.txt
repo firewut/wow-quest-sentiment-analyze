@@ -1,0 +1,8 @@
+{
+    "_id": "39026",
+    "added_in_patch": 7,
+    "description": "It wasn't enough for Dargrul to just destroy this village. He has also sent his Stoneraiders to take what is left.Please champion, prove to my people that you are the hero I foresaw.Slay enough of these Stoneraiders that it breaks their resolve.",
+    "name": "The Drogbar",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

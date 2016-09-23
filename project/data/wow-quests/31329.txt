@@ -1,0 +1,8 @@
+{
+    "_id": "31329",
+    "added_in_patch": 5,
+    "description": "It is a very old, antique brooch with very detailed molding and filigree worked into the edges. It looks very valuable.There's only one person who keeps losing jewelry to furry hooligans, and she would probably want to see this heirloom returned.",
+    "name": "A Beautiful Brooch",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "6361",
+    "description": "I have a bundle of hides from the animals of Mulgore, and must get them to Thunder Bluff.  A colleague there, Ahanu, will use the hides to create leather goods.Will you take the hides to him for me?The quickest way to Thunder Bluff is on the back of a wind rider.  Bring the bundle of hides to Tak, our wind rider master in Bloodhoof Village, and speak to him about transport to Thunder Bluff.",
+    "name": "A Bundle of Hides",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Mulgore"
+}

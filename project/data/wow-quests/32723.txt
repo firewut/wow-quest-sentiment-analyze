@@ -1,0 +1,8 @@
+{
+    "_id": "32723",
+    "added_in_patch": 5.2,
+    "description": "There's more you must do. \r\n\r\nKill Itoka, master of the forge, and find a codex fragment from Fleshcrafter Hoku, gatekeeper of the Thunder King.",
+    "name": "reuse me",
+    "requires_level": 90,
+    "zone": "Quests"
+}

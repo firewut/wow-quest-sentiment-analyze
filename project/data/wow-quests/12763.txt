@@ -1,0 +1,7 @@
+{
+    "_id": "12763",
+    "description": "As pressing as our needs are here, there's news from the lands to the north that cannot be ignored.I've just received a message from the Argent Crusade. It seems that scourge forces are gathering there and are threatening to overrun Zul'drak.Needless to say, <name>, if that were to happen our struggle here would be meaningless. You must go there and aid the Crusaders in beating back the Lich King's armies.Speak to Makki when you are ready to travel.",
+    "name": "Shifting Priorities",
+    "requires_level": 74,
+    "zone": "Grizzly Hills"
+}

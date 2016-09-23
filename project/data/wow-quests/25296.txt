@@ -1,0 +1,7 @@
+{
+    "_id": "25296",
+    "description": "It's me, <name>, Ortell!Don't look directly at the outhouse... you'll give away my position.Everything's going according to plan then?  Excellent!I'm going to need you to obtain some intelligence while you're here.  It might not seem like much to get our hands on a map or a letter, but it may mean saving a hundred lives on our side if we can anticipate our enemy's next move.",
+    "name": "Gather the Intelligence",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

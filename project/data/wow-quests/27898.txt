@@ -1,0 +1,7 @@
+{
+    "_id": "27898",
+    "description": "Wait here.  I will retrieve the egg.",
+    "name": "Rheastrasza's Gift",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

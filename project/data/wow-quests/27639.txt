@@ -1,0 +1,7 @@
+{
+    "_id": "27639",
+    "description": "That's a heavy blow to our efforts. Damn that Cho'gall!It's a good thing that the squad commander told you where to find Garona.",
+    "name": "Just You and Garona",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

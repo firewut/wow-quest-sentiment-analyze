@@ -1,0 +1,8 @@
+{
+    "_id": "44227",
+    "added_in_patch": 7,
+    "description": "In times of great need, we can rally our mightiest forces into one pure, destructive form.  This is such a time.\r\n\r\nOn request, these we will begin the ritual to enslave a powerful Infernal in a Demonic Phylactery, which we will impart to you.  Use it to unleash that power, completing a quest of great value.",
+    "name": "Unleashing our Wrath",
+    "requires_level": 110,
+    "zone": "Dreadscar Rift"
+}

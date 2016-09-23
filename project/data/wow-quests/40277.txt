@@ -1,0 +1,8 @@
+{
+    "_id": "40277",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Fight Night: Tiffany Nelson",
+    "requires_level": 110,
+    "zone": "Dalaran"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32868",
+    "added_in_patch": 5.3,
+    "description": "The stories of Lucky Yi, Greyhoof, and Skitterer Xi'a will exist in this land, always. Do you wish to meet them in battle once more?",
+    "name": "Beasts of Fable Book II",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

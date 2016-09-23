@@ -1,0 +1,8 @@
+{
+    "_id": "31294",
+    "added_in_patch": 5,
+    "description": "I have my heartfelt thanks for your continued aid. Anji awaits at the Ruins of Guo-Lai to northwest.Go with courage in your heart, young <class>.",
+    "name": "The Ruins of Guo-Lai",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

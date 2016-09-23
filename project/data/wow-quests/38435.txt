@@ -1,0 +1,8 @@
+{
+    "_id": "38435",
+    "description": "It is done! By your command we have built our first ship and can run our naval operations from here.Now that we have our transport, we can let Yrel and Archmage Khadgar know that we are ready to kick off an invasion of Tanaan. Speak with them at the docks to embark.",
+    "name": "The Invasion of Tanaan",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

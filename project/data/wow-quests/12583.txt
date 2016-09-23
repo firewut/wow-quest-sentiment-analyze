@@ -1,0 +1,7 @@
+{
+    "_id": "12583",
+    "description": "I know that one of those plague sprayers crashed somewhere within Drak'Sotra to the west of us.Why don't you see if you can find it. I can use the parts from the sprayer to create the device that's going to bring those things down!",
+    "name": "Crashed Sprayer",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28260",
+    "description": "Wulf Hansreim sends word from Stormwind -- he wants to meet with you right away. He'll be in the Command Center just to the south of Stormwind's Old Town.",
+    "name": "Meet with Wulf Hansreim",
+    "requires_level": 50,
+    "zone": "Stormwind City"
+}

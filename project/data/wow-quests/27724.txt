@@ -1,0 +1,8 @@
+{
+    "_id": "27724",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Recruiter Burns in Stormwind Harbor.Recent attacks by the Horde on our trade ships must be met with swift and just force!Stormwind Harbor can be found in the northwest region of Stormwind City.For the glory and honor of the Alliance! Fight on,  brother!",
+    "name": "Hero's Call: Vashj'ir!",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

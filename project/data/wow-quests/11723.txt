@@ -1,0 +1,7 @@
+{
+    "_id": "11723",
+    "description": "Behold, the machine that will save us from the Nerubian threat!<Abner beams with pride as he presents the finished bot.>Take this remote control with you, and go out to the southernmost of the Nerubian sinkholes in the Geyser Fields. Use the remote to activate the Shake-n-Quake 5000. It will do the rest on its own.Don't be surprised if the quake it creates attracts the attention of a Nerubian leader. In fact, it would be a great opportunity to finish off the Nerubian offensive.",
+    "name": "Deploy the Shake-n-Quake!",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26456",
+    "description": "The battle against the Horde isn't being waged from Raynewood Tower alone, <name>. There's a more substantial Silverwing Sentinel presence at Silverwing Grove to the southeast, near the border with the Barrens. From the grove, Sentinel Farsong directs our efforts against those who would destroy our lands.I'm a bit late in sending my latest report to her, but also hesitant to leave the tower unattended.I am in dire need of your help in getting this report to her as soon as possible!",
+    "name": "Report from the Northern Front",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

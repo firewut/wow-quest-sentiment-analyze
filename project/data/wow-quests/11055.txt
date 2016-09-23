@@ -1,0 +1,7 @@
+{
+    "_id": "11055",
+    "description": "This is your booterang. There are many like it but this one is yours.As an overseer you will use this booterang to sow terror into the hearts of defiant peons. Proper use of the booterang will instill obedience and ensure subservience.Venture forth to the crystal fields and discipline any peons that you see slacking off. Show them the might of the booterang!\r\n",
+    "name": "The Booterang: A Cure For The Common Worthless Peon",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

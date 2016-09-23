@@ -1,0 +1,8 @@
+{
+    "_id": "14090",
+    "description": "Two of my men have already been killed trying to confine the magnataur called Gormok the Impaler, yet the creature still rages. It howls for hours about being without its favorite snobold.If the Argent Crusade didn't wish to use this monster in the coliseum, I'd slay it myself. Perhaps it's time to bring the beast its playthings. Take this net and travel to Garm's Bane in southeast Storm Peaks. It's just northeast of K3. Capture some of those snobolds and pray to the Light you've found the right one.",
+    "name": "Gormok Wants His Snobolds",
+    "requires_level": 77,
+    "side": "alliance",
+    "zone": "Tournament"
+}

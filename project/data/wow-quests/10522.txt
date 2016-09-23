@@ -1,0 +1,7 @@
+{
+    "_id": "10522",
+    "description": "This naga filth is the sixth one I've interrogated today. He's got the fancy armor so I figured he knew something. Those other ones were useless.<Grom'tor points to the corpses of the naga around him.>I only had to beat him once and he told me everything.The first part of the cipher is hidden in a naga chest at Coilskar Point or Coilskar Cistern, east of here. He says naga carry the keys. Kill 'em, take their keys and use them to open the Coilskar chests. Return to me when you find the cipher.",
+    "name": "The Cipher of Damnation - Grom'tor's Charge",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

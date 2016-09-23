@@ -1,0 +1,7 @@
+{
+    "_id": "10304",
+    "description": "With your help, we were able to find a solution to our problems faster than I could have hoped.I don't have any other work for you to do. My apprentices and I can handle the rest.You should go speak with Vindicator Aldar on the other side of the ship.",
+    "name": "Vindicator Aldar",
+    "requires_level": 1,
+    "zone": "Ammen Vale"
+}

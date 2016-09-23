@@ -1,0 +1,7 @@
+{
+    "_id": "26219",
+    "description": "We've located the beast that destroyed our ships. It makes its lair in Darkbreak Cove, a giant underwater cavern bordering the abyss.This time we're ready. The gnomes have been engineering a beauty for us back at Stormwind, and it's packing firepower that'll make that fiend wet itself.When the Pincer X2 pulls up to dock beside the ship, make your way on board and help out however you can. We'll be right behind you.",
+    "name": "Full Circle",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

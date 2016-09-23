@@ -1,0 +1,7 @@
+{
+    "_id": "8891",
+    "description": "You have discovered what appears to be an investigative journal left behind by Magister Duskwither. A brief scan of its contents reveal some shocking attempts at filtering corrupted magical flows, which might explain what has happened here at Duskwither Spire. The magister is sure to want this brought back to him.",
+    "name": "Abandoned Investigations",
+    "requires_level": 8,
+    "zone": "Eversong Woods"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "37331",
+    "added_in_patch": 6,
+    "description": "I will travel to your people to make arrangements soon.For now, begone. Leave me in peace.",
+    "name": "Not Here, Not Now",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

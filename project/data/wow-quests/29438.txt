@@ -1,0 +1,7 @@
+{
+    "_id": "29438",
+    "description": "Think you're a good shot?  Quick on the trigger?It'll cost you just a single game token to test your skills.What do you say?  How good are you?",
+    "name": "He Shoots, He Scores!",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

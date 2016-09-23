@@ -1,0 +1,7 @@
+{
+    "_id": "26089",
+    "description": "A fish ate my wolf, and murlocs look like fish.  I'm going to make those murlocs pay!Head back down to the canyon and kill the fishmen!  My wolf will be avenged!",
+    "name": "Die Fishman Die",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

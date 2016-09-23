@@ -1,0 +1,8 @@
+{
+    "_id": "26738",
+    "description": "While looking through this soldier's possessions, you look down to see a newborn raptor hatchling looking back up at you.  Was it following this Kurzen militiaman the whole time?You can see it studying you, learning your features and following your movements.The lashtail hatchling has formed a bond with you.Perhaps someone back at the Rebel Camp will know what to do with a raptor hatchling.",
+    "name": "Just Hatched",
+    "requires_level": 24,
+    "side": "alliance",
+    "zone": "Northern Stranglethorn"
+}

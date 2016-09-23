@@ -1,0 +1,8 @@
+{
+    "_id": "27823",
+    "description": "I can appreciate a good diggin' as much as any other dwarf, don't get me wrong.  It's just that... well, we do so much diggin', and so little drinkin', that sometimes I wonder if I should just hang up me shovel and head back to Ironforge.But not today.  I've got some diggin' in me yet.Those Dark Iron dwarves at Hammertoe's Digsite - just north of here - make some powerful fine beer, right here in the desert.  You think you could pick up a few for me?",
+    "name": "A Dwarf's Got Needs",
+    "requires_level": 44,
+    "side": "alliance",
+    "zone": "Badlands"
+}

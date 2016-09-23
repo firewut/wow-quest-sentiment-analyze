@@ -1,0 +1,7 @@
+{
+    "_id": "8047",
+    "description": "",
+    "name": "The Heathen's Brand",
+    "requires_level": 58,
+    "zone": "Quests"
+}

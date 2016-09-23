@@ -1,0 +1,7 @@
+{
+    "_id": "14333",
+    "description": "The Maraudine have raided the Gelkis camps for many years, stealing anything they could get their hands on.One of their favorite torments is to take these relics of power which the Gelkis hold sacred, and bring them here to be defiled.The Gelkis clan would certainly be grateful if you were to find and destroy these defiled artifacts.",
+    "name": "While You're Here",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

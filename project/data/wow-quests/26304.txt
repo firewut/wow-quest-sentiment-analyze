@@ -1,0 +1,7 @@
+{
+    "_id": "26304",
+    "description": "One year ago, my mother - that is, the troll who took care of me - was taken by the Skullsplitters of Zul'Mamwe.  Young and headstrong, I ran in after her, only to see her being pushed toward a burning brazier by a dozen of their warriors.  I hid behind a tree and watched as they grabbed her and... and...<Kil'karil looks away.>At nighttime, the lights from their braziers reflect off the treetops and keep me awake.  Please, <name>... travel south into Zul'Mamwe and put them out.",
+    "name": "Nighttime in the Jungle",
+    "requires_level": 27,
+    "zone": "Northern Stranglethorn"
+}

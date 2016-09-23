@@ -1,0 +1,8 @@
+{
+    "_id": "39830",
+    "added_in_patch": 7,
+    "description": "When Khadgar's group stormed Hellfire Citadel, they faced many foes that commanded demons, but none more powerful than Archimonde himself.Perhaps there's somethin' on his corpse that can answer the final questions of unlocking the mystery of this brimstone.",
+    "name": "Hellfire and Brimstone",
+    "requires_level": 110,
+    "zone": "Mining"
+}

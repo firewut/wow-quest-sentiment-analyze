@@ -1,0 +1,8 @@
+{
+    "_id": "11928",
+    "description": "My lads should be able to take it from here, <name>.  Valiance Keep is built to take a beating far worse than this.  I worry about our farmlands and mine in Farshire, however.We sent a full detachment to protect our mining operations right before the invasion - they should be able to defend the civilians.Gerald Green's in charge of the villagers there. There's a passage out of the northern wall out of Valiance Keep; it'll take you straight to him.  See what you can do to help them.",
+    "name": "Farshire",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

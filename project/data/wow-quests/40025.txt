@@ -1,0 +1,8 @@
+{
+    "_id": "40025",
+    "added_in_patch": 7,
+    "description": "This herb has been chewed by some of the local wildlife.What kind of animal would eat foxflower? A bear?Perhaps your trainer in Dalaran will know.",
+    "name": "Teeny Bite Marks",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

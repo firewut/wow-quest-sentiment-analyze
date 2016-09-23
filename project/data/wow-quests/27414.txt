@@ -1,0 +1,8 @@
+{
+    "_id": "27414",
+    "description": "Whilst that craven fool, Mok'Morokk, wallows in power and Tharg wrestles the demons of sorrow and vengeance and vies for leadership of the clan, I seem to be the only one concerned with identifying the source of aggression on our old home.Why the puzzled stare, <name>? Expecting me to speak like an uncouth ruffian merely because I am an ogre?Now back to business, bring to me the hearts and tongues from the whelps and hatchlings. I shall trace the root of this evil...",
+    "name": "Identifying the Brood",
+    "requires_level": 36,
+    "side": "horde",
+    "zone": "Dustwallow Marsh"
+}

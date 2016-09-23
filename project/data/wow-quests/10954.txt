@@ -1,0 +1,7 @@
+{
+    "_id": "10954",
+    "description": "I miss my brother, Jheel.  He's a couple of years older than me, so they let him start an apprenticeship with the ethereal in Nagrand.It sure would be nice to go visit him.  He loves geology and stuff, so I bet he's having a great time.The orphan matron told me that he's training at a place called Aeris Landing in Nagrand.  It's supposed to be along the road, far to the west of Telaar, and northwest of the great mountain, Oshu'gun.",
+    "name": "Jheel is at Aeris Landing!",
+    "requires_level": 60,
+    "zone": "Children's Week"
+}

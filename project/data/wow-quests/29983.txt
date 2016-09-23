@@ -1,0 +1,8 @@
+{
+    "_id": "29983",
+    "added_in_patch": 5,
+    "description": "We should be able to handle the defense of Stoneplow from here on out.<The Watch Commander motions towards Lin Tenderpaw.>Lin here is searching for someone she calls \"The Hidden Master\". I believe I know who she's talking about, and I have a clue for you.Go north.",
+    "name": "The Hidden Master",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

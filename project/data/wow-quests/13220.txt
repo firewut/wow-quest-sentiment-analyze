@@ -1,0 +1,7 @@
+{
+    "_id": "13220",
+    "description": "We can't afford to waste any time putting Olakin back together. Fortunately, the Scourge has provided a perfect place for you to stitch him back together.Near the Fleshwerks' flesh giant lab is the Sanctum of Reanimation. Search the area for a spool of thread and the doctor's cleaver. Then, take Olakin's remains to the large slab in the middle of the sanctum and get to work.",
+    "name": "Putting Olakin Back Together Again",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41156",
+    "added_in_patch": 7,
+    "description": "Our goals have been met, warlock, and it is time we part ways.  I think I will be glad to see the last of you.\r\n\r\nGo on, return to your dark masters. We are done here.",
+    "name": "The Power Possessed",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24903",
+    "description": "Tell Greymane that we have trackers on Sylvanas and tell him about the Plague.The decision will be his.  Launch an all out attack against the leader of the Forsaken or try to evacuate our survivors.",
+    "name": "Vengeance or Survival",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

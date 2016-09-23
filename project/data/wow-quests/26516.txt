@@ -1,0 +1,8 @@
+{
+    "_id": "26516",
+    "description": "Only the strongest and foulest Vilebranch are left now. The soul eaters and blood drinkers, foul worshippers of the evil god Hakkar.Don't forget you're not just fighting trolls here, <name>. You're fighting dark and evil forces that'll churn this land into ash if we let them live!Show no mercy!",
+    "name": "It's Ours Now",
+    "requires_level": 30,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30187",
+    "added_in_patch": 5,
+    "description": "Now that you have learned the basics of the race, you should go learn the course.Explore the spires and collect a race flag from each of the checkpoints.Fly through each checkered flag to collect it.",
+    "name": "Flight Training: In Due Course",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

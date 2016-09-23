@@ -1,0 +1,7 @@
+{
+    "_id": "28631",
+    "description": "I can't make a yeti without horns!I've been looking for what seems like forever for the perfect set of horns... and no horn I find is good enough! But just the other day I saw the biggest yeti in Winterspring.I named him Icewhomp. His horns are the ones I've been looking for! He lurks all the way in the back of the cave along the eastern ridge of Ice Thistle Hills.Bring me his horns... but be sure to check on Echo Three along the way!",
+    "name": "The Perfect Horns",
+    "requires_level": 50,
+    "zone": "Winterspring"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "31395",
+    "added_in_patch": 5,
+    "description": "The human calf is arguing on our behalf. He is well-spoken; I can see why Baine Bloodhoof regards the prince so highly.Still, the argument does not go well. I am of little consequence, but you are a hero of the Horde. Perhaps you can intercede in our favor?Speak with the White Tiger and plead our case, <race>.Be careful! He may set a number of challenges before you...",
+    "name": "A Celestial Experience",
+    "requires_level": 87,
+    "side": "horde",
+    "zone": "Kun-Lai Summit"
+}

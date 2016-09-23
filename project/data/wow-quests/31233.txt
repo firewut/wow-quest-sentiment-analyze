@@ -1,0 +1,8 @@
+{
+    "_id": "31233",
+    "added_in_patch": 5,
+    "description": "I found a grove of young amber trees to the east, Wakener.I've placed tapping devices on these trees, but I have been too busy to retrieve the sap.I need someone to find the extractors. Activate them, then bring me samples of the amber.",
+    "name": "Sap Tapping",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

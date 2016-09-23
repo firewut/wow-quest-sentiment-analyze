@@ -1,0 +1,7 @@
+{
+    "_id": "27258",
+    "description": "Ah, I remember now! Mosarn is a well-respected blacksmith in Thunder Bluff. I knew I had heard his name somewhere, before.In thanks, the Earthen Ring awarded me with a set of armor crafted by Mosarn. Very good work.Perhaps he can tell you more about the shield he crafted.It's not much of a lead, but since we didn't get anything useful out of Reethe, it's all we have.",
+    "name": "The Black Shield",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

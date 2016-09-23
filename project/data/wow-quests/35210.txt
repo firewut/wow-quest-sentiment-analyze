@@ -1,0 +1,8 @@
+{
+    "_id": "35210",
+    "added_in_patch": 6,
+    "description": "A goren tunnel!Once the cap is cleared, it's certain to lead outside of this Light-forsaken pit.",
+    "name": "A Great Escape",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

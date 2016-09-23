@@ -1,0 +1,8 @@
+{
+    "_id": "30140",
+    "added_in_patch": 5,
+    "description": "Excellent, just excellent! I will return the other eggs to their nests, undisturbed.In the meantime, deliver your egg to Instructor Skythorn at The Arboretum.",
+    "name": "The Rider's Journey",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24665",
+    "description": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.Here's an entry I want you to check out: it looks like it's just east of Shattrath, in Terokkar Forest. Get out there and rough 'em up.Oh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
+    "name": "Crushing the Crown",
+    "requires_level": 61,
+    "zone": "Love is in the Air"
+}

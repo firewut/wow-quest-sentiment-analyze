@@ -1,0 +1,8 @@
+{
+    "_id": "42819",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Pocket Wizard",
+    "requires_level": 110,
+    "zone": "Val'sharah"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9394",
+    "description": "The Duskwither groundskeeper has gone missing! Someone must have forgotten to tell him to leave when the magister and everyone else did.  I know that he's still somewhere around here on the grounds, but I dare not go looking for him myself with all of these magical creatures roaming about.Will you find him for me, <class>, and make sure that he's alright?",
+    "name": "Where's Wyllithen?",
+    "requires_level": 8,
+    "zone": "Eversong Woods"
+}

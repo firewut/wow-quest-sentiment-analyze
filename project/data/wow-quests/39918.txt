@@ -1,0 +1,8 @@
+{
+    "_id": "39918",
+    "added_in_patch": 7,
+    "description": "After my betrayal, I never thought I could bear to look upon my love again. But thanks to you, <name>, I can at last return.Go and speak to Enchantress Ilanya. I will let her know that you are worthy of my mark.",
+    "name": "The Absent Priestess",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

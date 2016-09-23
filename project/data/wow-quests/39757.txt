@@ -1,0 +1,8 @@
+{
+    "_id": "39757",
+    "added_in_patch": 7,
+    "description": "Greetings, Deathlord. The blades you hold, while magnificent, have much untapped potential. As you harvest the souls of your enemies their power will continue to grow.Grand Master Corvus has studied new techniques that may be of use to you, my lord.You can find him working the forges on the upper level.",
+    "name": "Keeping Your Edge",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

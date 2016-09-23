@@ -1,0 +1,7 @@
+{
+    "_id": "25502",
+    "description": "The Arch Druid has tasked me with setting up a series of flamewards around the perimeter of the area. Once these are active, we can prevent further attacks from the fire elementals that left this valley in ruins.These will also protect and nourish the soil for whatever Hamuul has planned.It's time to begin. Find one of the five flamewards I've marked on your map, activate it, and defend it from counterattack until its magic kicks in. It won't take more than a minute.",
+    "name": "Prepping the Soil",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

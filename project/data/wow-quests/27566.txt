@@ -1,0 +1,7 @@
+{
+    "_id": "27566",
+    "description": "Greetings, <class>.  The elements have grown more restless and we seem to be making little progress to a solution for this problem.  Some of our wisest shaman have gathered in Nagrand at the Throne of Elements to discuss what ails our land.Head to the Throne of Elements and speak with Gavan Grayfeather, he will surely have some task for you.",
+    "name": "A Gathering in Outland",
+    "requires_level": 60,
+    "zone": "Quests"
+}

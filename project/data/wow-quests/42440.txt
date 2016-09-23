@@ -1,0 +1,8 @@
+{
+    "_id": "42440",
+    "added_in_patch": 7,
+    "description": "You've helped us greatly, champion. Now, it is time that you tell me what brings you here.<You mention to Delandros that Archdruid Greathoof sent you to seek the Fangs of Ashamane.>Hrm... if you had told me this at the outset, I would have told you to take a walk. The Fangs are our greatest treasure, but you've done a great deed for the Ashen today and I am an elf of my word.Very well, let's clear out the rest of these demons and you shall have your weapons.",
+    "name": "The Shrine in Peril",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

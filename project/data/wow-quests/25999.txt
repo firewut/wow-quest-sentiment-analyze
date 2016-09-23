@@ -1,0 +1,8 @@
+{
+    "_id": "25999",
+    "description": "Filthy, good-for-nothin' night elves have managed to disarm our entire minefield in Talondeep Pass. Somebody is gonna have to go back up there and re-arm them all! A perfect task for a worthless grunt like you, <name>. Here's to hopin' you don't blow yourself up in the process.You'll find our \"Elf Killers\" scattered across Talondeep Pass, directly north of here. Take this wrench and get to work, maggot.",
+    "name": "Barrier to Entry",
+    "requires_level": 24,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

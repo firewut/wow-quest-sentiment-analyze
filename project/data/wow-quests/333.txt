@@ -1,0 +1,8 @@
+{
+    "_id": "333",
+    "description": "We've been doing a lot of business lately.  It seems like everyone is buying armor and sturdy clothes.  Almost like they expect a cold, harsh season ahead...But those are future worries.  My worry today is that I'm running out of knitted clothing to sell.  I need another load from our supplier.If you can take this request to Rema Schneider at the Canal Tailor and Fit Shop, I'd be most grateful.",
+    "name": "Harlan Needs a Resupply",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

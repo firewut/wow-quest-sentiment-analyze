@@ -1,0 +1,7 @@
+{
+    "_id": "25860",
+    "description": "We are to begin the ritual immediately, and you are to see to it that we are not interrupted.Slaughter any Kvaldir that enter the temple. See to it that my priestesses live to see their task complete, no matter the cost.",
+    "name": "At All Costs",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40364",
+    "added_in_patch": 7,
+    "description": "<Class>! The sea giants have already eaten half of my kin.We are helpless in these accursed bubbles. I beseech you to get us out of here.Take heed. These bubbles are strong. You will need something that is extremely sharp to pierce them.",
+    "name": "Bubble Trouble",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

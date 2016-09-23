@@ -1,0 +1,7 @@
+{
+    "_id": "27621",
+    "description": "I was on my way to join Firebeard's Patrol when my bird was shot down.Twilight's Hammer launched surprise attacks all over the Highlands. Sometimes their buildings crawled right out of the earth in the middle of our villages. It was a nightmare!In the chaos, Firebeard is one of the few who's kept his head on straight. He's trying to piece together a full gryphon wing from the survivors.If you want to bring the Wildhammer into the Alliance, start by helping out Firebeard, to the west.",
+    "name": "Firebeard's Patrol",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

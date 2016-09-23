@@ -1,0 +1,7 @@
+{
+    "_id": "10982",
+    "description": "",
+    "name": "The Eye of Haramad",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

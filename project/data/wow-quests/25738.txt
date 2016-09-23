@@ -1,0 +1,7 @@
+{
+    "_id": "25738",
+    "description": "<Gurboggle inspects the Gnaws Tooth Necklace for a moment.>Not bad, <race>, assuming it's the real thing. I'll hafta send one of my boys out to make sure your story checks out.In the meantime, you're gunna do a little somethin' for me, see, 'cause this little trinket ain't worth givin' up The Pewter Pounder - not by a longshot!My cousin, Gilblingle, has had his eye on my throne for years. Dumb as a bag of coral, that one - but still dangerous.You take him out, and then we'll talk.",
+    "name": "Shallow End of the Gene Pool",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

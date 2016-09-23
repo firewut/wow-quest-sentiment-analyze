@@ -1,0 +1,7 @@
+{
+    "_id": "11246",
+    "description": "We've had reports that these vrykul can rise from the dead; not unlike the Scourge, but a different kind of undeath.Let's not take any chances.Here, take my machete. As we move through this place, you'll need to carve up the remains of the vrykul that we take down. I'd do it, but I have a sensitive stomach.<The sergeant smirks.>I spent all morning sharpening it, so it should do the job.",
+    "name": "Gruesome, But Necessary",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

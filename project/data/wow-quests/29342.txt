@@ -1,0 +1,8 @@
+{
+    "_id": "29342",
+    "description": "The best tastin' fish live in the cold waters o' Dun Morogh, <name>, an' don't let anyone else tell ye otherwise! Me favorite, an' the most popular one in Ironforge, is the arctic char, which only comes from our ancestral lands.I like tae think o' it as Ironforge's gift t' the world!Why don't ye try yer hand at catchin' a few yerself? The best place tae find 'em is down in Helm's Bed Lake, in the eastern end o' Dun Morogh.",
+    "name": "Cold Water Fishing",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Fishing"
+}

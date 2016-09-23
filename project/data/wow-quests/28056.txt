@@ -1,0 +1,7 @@
+{
+    "_id": "28056",
+    "description": "Overseer Maltorius is in charge here, but he's not the only dwarf of power within the Slag Pit.  Lathoric the Black and his horrifying golem, Obsidion, loom just down this corridor.Interfering with Lathoric's altar should summon both of them.  Find it, then summon Lathoric and kill him.  Report to Evonice Sootsmoker when you're finished.",
+    "name": "Rise, Obsidion",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

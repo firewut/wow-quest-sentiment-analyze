@@ -1,0 +1,7 @@
+{
+    "_id": "27195",
+    "description": "The mistress has put me in charge of this lot. Our primary mission is to get in there, corner the rats, and kill 'em all, including Bloodfang.You've done us a solid service in gettin' the information, <name>. Join in the glory and help us drive a sword through their miserable skulls!Let me know when you're ready and I'll call for the charge.",
+    "name": "Nowhere to Run",
+    "requires_level": 11,
+    "zone": "Silverpine Forest"
+}

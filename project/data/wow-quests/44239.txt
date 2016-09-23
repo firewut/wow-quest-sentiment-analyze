@@ -1,0 +1,8 @@
+{
+    "_id": "44239",
+    "added_in_patch": 7,
+    "description": "Tianili is clearly excited and wants your attention.  Perhaps you should help him?",
+    "name": "Echo of a Celestial",
+    "requires_level": 110,
+    "zone": "Quests"
+}

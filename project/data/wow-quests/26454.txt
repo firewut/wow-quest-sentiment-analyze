@@ -1,0 +1,7 @@
+{
+    "_id": "26454",
+    "description": "Welcome to Forest Song, <class>. Where you see tents, there will one day be buildings, but such ambition requires a steady stream of materials. I cannot bring myself to order our workers to fell any of the ancient trees of this grove, but our neighbors to the west have no such reverence for the forest.We shall reclaim the tainted wood from Satyrnaar to the west. Take the wood to Gnarl at the Warsong Lumber Camp. He is an Ancient who will purify it for our use.",
+    "name": "A Shameful Waste",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

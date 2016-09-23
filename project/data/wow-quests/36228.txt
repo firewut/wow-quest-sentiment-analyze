@@ -1,0 +1,9 @@
+{
+    "_id": "36228",
+    "added_in_patch": 6,
+    "description": "YOU KNOW WHAT'S BETTER THAN KILLING ALLIANCE SCUM IN THE ROAD OF GLORY?KILLING THEM EVERYWHERE ELSE. <Laughs>GO INTO THE OUTSKIRTS OF ASHRAN AND SLAY ANY ALLIANCE MEMBER. BRING ME BACK SCRAPS OF THEIR DISGUSTING ARMOR AS PROOF. THE BLOODIER THE BETTER.",
+    "name": "Into The Wilderness",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Warspear Outpost"
+}

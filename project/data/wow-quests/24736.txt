@@ -1,0 +1,7 @@
+{
+    "_id": "24736",
+    "description": "I'm making a flying machine!I got stranded here, and I'm absolutely horrible at finding my way around. I'd take a gryphon or wind rider back to Gadgetzan, but those beasts just scare me to death.So, will you help me? All I have left to build is the wings, and I was thinking that the webby scales from the pterrordax in the Screaming Reaches to the west would be perfect. There's no way I'm going to go up against one of those, but you look pretty tough. Why don't you give it a try?",
+    "name": "Shizzle's Flyer",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "13647",
+    "description": "Well, you definitely have some fight in you.You know, there are some hunter types at the lodge east of here, up in the hills - they might be right up your alley. Why don't you go pay them a visit and see if they have any work that you might be interested in?",
+    "name": "Joining the Hunt",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11157",
+    "description": "<name>, I don't trust anyone but you to take care of this.  I need the proto-drake eggs and proto-whelps in the burning forest to the southeast destroyed!Since we arrived here, the Ember Clutch has been ablaze; there must be some sort of perverse magic at work. And lately it seems to be growing. My men tell me that if we don't do something quickly, we'll be surrounded on all sides by the fire within a few weeks' time!Get down there and eliminate the threat by destroying those eggs and the proto-whelps.",
+    "name": "The Clutches of Evil",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

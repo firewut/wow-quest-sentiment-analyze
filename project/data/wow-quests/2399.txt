@@ -1,0 +1,7 @@
+{
+    "_id": "2399",
+    "description": "",
+    "name": "The Sprouted Fronds",
+    "requires_level": 4,
+    "zone": "Teldrassil"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8360",
+    "description": "Even though you're trick-or-treating on behalf of a child, you still need to perform a trick for the treat!  We can't very well change the tradition, now can we...I believe the cost of a piece of marzipan nowadays is to bust out and DANCE!  That's right, let me see your moves!  Dance for me, and I'll give you some tasty marzipan!",
+    "name": "Dancing for Marzipan",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

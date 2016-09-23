@@ -1,0 +1,8 @@
+{
+    "_id": "30184",
+    "added_in_patch": 5,
+    "description": "My boy here is a talented hunter... in training. Let's show him an old 'Nessy style hunt shall we?I saw a mighty big mushan east of here with a hide dark as night. It looked like it had taken down a number of hunters in its day.If you want a big game hunt, go try an' take it on.",
+    "name": "Mushan Mastery: Darkhide",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

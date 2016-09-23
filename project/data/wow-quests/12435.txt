@@ -1,0 +1,7 @@
+{
+    "_id": "12435",
+    "description": "I abhor the loss of life... any life. But I will not stand idly by and allow Malygos to kill us and defile the temple!I have appointed Lord Afrasastrasz as the commander of Wyrmrest's defenses.Speak with Torastrasza to ride a drake down to him.Please lend him your aid, <name>. Your involvement with the defense of Wyrmrest will be critical to us prevailing against the blue dragonflight.",
+    "name": "Report to Lord Afrasastrasz",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11130",
+    "description": "Come closer,  man! Let ol' Griftah look at yer shiny things....Hmm. Yeh, yeh, not bad, but ya can do better. Much, much better.<Griftah leans in and whispers.>There be priceless shinies everywhere, <name>, ya just gotta know where to look! It be yer lucky day; I know a fella who can help ya find more shinies than ya can ever carry.Visit my ol' friend, Budd, near Zul'Aman and show him this here. Ya be tellin' him ol' Griftah sent ya and he'll let ya in on his new project.",
+    "name": "Oooh, Shinies!",
+    "requires_level": 70,
+    "zone": "Quests"
+}

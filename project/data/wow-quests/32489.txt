@@ -1,0 +1,8 @@
+{
+    "_id": "32489",
+    "added_in_patch": 5.2,
+    "description": "Ah, roaches! I once bought a pet roach in the Undercity.Roaches will soak up disease like a sponge, and then spread it as far as they can run. Which is pretty far.Ihgaluk Crag is crawling with the things, and they carry Skumblade filth all over of this island. Crush as many of them as you can while you're there.",
+    "name": "The Creeping Carpet of Ihgaluk",
+    "requires_level": 90,
+    "zone": "Quests"
+}

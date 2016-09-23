@@ -1,0 +1,8 @@
+{
+    "_id": "33354",
+    "added_in_patch": 5.4,
+    "description": "This is the pelt of Darkmoon Island's monstrous den mother.Yebb Neblegear, beastmaster of the Darkmoon Faire, will be happy to know the ghostly wolf and her spawn will no longer be terrorizing his menagerie... at least for a little while. Bring it to him.",
+    "name": "Den Mother's Demise",
+    "requires_level": 90,
+    "zone": "Darkmoon Faire"
+}

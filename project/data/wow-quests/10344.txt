@@ -1,0 +1,8 @@
+{
+    "_id": "10344",
+    "description": "Wing Commander Gryphongar runs this outfit of Wildhammers.  If this is your first time to Shatter Point, then you should report to him.You'll find him inside what's left of that tower over yonder.",
+    "name": "Wing Commander Gryphongar",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

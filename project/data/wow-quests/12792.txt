@@ -1,0 +1,7 @@
+{
+    "_id": "12792",
+    "description": "Listen up, <race>!This entire region is full of crises. Everywhere you look you'll find those who could use your assistance.<Kunz looks you squarely in the eye.>No one needs your help right now more than Riannah. The scourge have forced their way between us, leaving her and those she commands isolated.Light's Breach, where her forces are holding out, lies just southwest of here.",
+    "name": "First Things First",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

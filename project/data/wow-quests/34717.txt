@@ -1,0 +1,9 @@
+{
+    "_id": "34717",
+    "added_in_patch": 6,
+    "description": "It goes without saying that we'll help you kill any of the Warsong out in the open down there.You just start the fight, and we'll end it with extreme prejudice.",
+    "name": "Operation: Just Arrowhead",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "9387",
+    "description": "Uncorrupted draenei, like this unlucky fellow here, are virtuous champions of the Light.  What corruption caused their great race to devolve into the Broken and Lost Ones?I've heard a theory that exposure to fel energies is what caused the mutation.  I would like to put that theory to the test.Northwest of here lie the Ruins of Sha'naar.  There you will find lowly Broken commanded by Illidari taskmasters.  Bring me demonic essences from the taskmasters so that I can test them on this draenei.",
+    "name": "Source of the Corruption",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

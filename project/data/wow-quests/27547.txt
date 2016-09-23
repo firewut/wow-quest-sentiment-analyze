@@ -1,0 +1,7 @@
+{
+    "_id": "27547",
+    "description": "Our forces in Pyrewood were recently taken by way of sneak attack. The 7th Legion managed to infiltrate the town with their scouts, ultimately decimating our troops.The Dark Lady has tasked us with a rescue mission. We are to find survivors and get them out of Pyrewood safely. If any soldiers live they are likely worthless, but we do as the Dark Lady commands.Let's get this nonsense over with, <name>. Pyrewood is directly southwest of the Forsaken Front.",
+    "name": "Of No Consequence",
+    "requires_level": 15,
+    "zone": "Silverpine Forest"
+}

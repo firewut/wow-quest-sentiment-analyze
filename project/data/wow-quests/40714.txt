@@ -1,0 +1,8 @@
+{
+    "_id": "40714",
+    "added_in_patch": 7,
+    "description": "<A chilling thought brushes your mind.>Hear me, <name>.The Legion has returned. They hope to control us, to bend us to their will. Fools - they only walk back within reach of our blades.Your brethren within Dalaran have begun to gather at Krasus' Landing. Go, meet with Duke Lankral and all will be explained.",
+    "name": "The Call To War",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

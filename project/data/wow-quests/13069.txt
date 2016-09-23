@@ -1,0 +1,7 @@
+{
+    "_id": "13069",
+    "description": "Jotunheim has aerial defenses, both in terms of proto-drake riders and harpoon guns. They've concentrated these on their northern and western facings where they are most vulnerable.Let's use their defenses against them!<The Leaper pierces you with his single eye and cackles maniacally.>Take control of a harpoon gun on the platforms that overhang the cliffs on either side of Valhalas to the southwest. Take out the proto-drakes and their riders. Shoot 'em up!",
+    "name": "Shoot 'Em Up",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

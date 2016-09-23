@@ -1,0 +1,8 @@
+{
+    "_id": "24432",
+    "description": "Welcome to The Briny Cutter, <class>.I am Erunak, the last surviving passenger of this once-proud vessel.I'm afraid your travails have only just begun. The naga have been attacking here relentlessly.You're not equipped to be of much help down here yet, but I can remedy that.Just outside this ship live a special breed of starfish. Bring me some of them along with a conch shell. I'll prepare an enchantment that should help to increase your chances of survival.",
+    "name": "Sea Legs",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Kelp'thar Forest"
+}

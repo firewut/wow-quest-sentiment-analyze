@@ -1,0 +1,7 @@
+{
+    "_id": "26926",
+    "description": "The Forsaken are victorious, and our forces are still strong.  Military strategy dictates that we attack the Alliance now, while they are recovering and unaware.  I have other plans, however...We will wait.  We attack Thassarian and his troops when the time is right.  In the meantime, speak with Rhonda Molver and take a flight to the Bulwark, on the Plaguelands' western border.  High Executor Derrington will give you your next assignment.You will hear from me when you are needed again in Andorhal.",
+    "name": "Victory, For Now",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27239",
+    "description": "It looks like Renn's hunch about Alcaz Island was right. We need to survey that island, but it would take a whole brigade of troops to fight our way in there.Theramore's defenses can't weather such a hit, so I've arranged with Cassa Crimsonwing, the apprentice to Theramore's gryphon master, to allow you to use one of her beasts to survey Alcaz from the air.Alcaz Island holds the key to the mystery of the Defias' involvement in this kidnapping.",
+    "name": "Survey Alcaz Island",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

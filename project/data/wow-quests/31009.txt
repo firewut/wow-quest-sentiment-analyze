@@ -1,0 +1,8 @@
+{
+    "_id": "31009",
+    "added_in_patch": 5,
+    "description": "A Klaxxi'va whispers to the tower. It carries their whisper far; to other towers, to mantid, to paragons. The whisper bounces back, and the Klaxxi hear it.This way, they see all.A tower near the palace is quiet. This will not do. It must sing for the Klaxxi.It is my job to fix the tower, but if you serve the Klaxxi, you should serve me as well. You fix the tower, and I will wait here!",
+    "name": "Dead Zone",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

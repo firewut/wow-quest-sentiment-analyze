@@ -1,0 +1,7 @@
+{
+    "_id": "36799",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Garrison Nodes - Tracking Quest",
+    "zone": "Quests"
+}

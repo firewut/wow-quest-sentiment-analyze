@@ -1,0 +1,9 @@
+{
+    "_id": "35129",
+    "added_in_patch": 6,
+    "description": "Hmmm.The ogron possess something of value to the Iron Horde. I'm sure they're unaware, likely just bored and in  need of something to torture.I'd be inclined to just let them be, it's a fate they deserve. But we can't afford not to follow up on this clue. With any luck, it will help us stop the Iron Horde from turning Gorgrond's most fearsome creatures into weapons.Try to find this Corporal Thukmar and his notes. We'll meet you there.",
+    "name": "Leave Every Soldier Behind",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

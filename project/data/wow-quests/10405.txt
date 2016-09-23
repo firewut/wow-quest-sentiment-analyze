@@ -1,0 +1,7 @@
+{
+    "_id": "10405",
+    "description": "We must destroy the machinery that is making these nexus-stalker aberrations possible. To strike at their proto-accelerator would be futile as it is an ethereal creation. We must instead destroy the manaforge energy tube that they are using as a conduit.I have all that I need to create a device to overload the conduit save for one item. I need a wrapping from an archon or overlord that might be transforming soon in order to calibrate the device.",
+    "name": "S-A-B-O-T-A-G-E",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

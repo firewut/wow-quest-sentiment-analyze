@@ -1,0 +1,8 @@
+{
+    "_id": "31086",
+    "added_in_patch": 5,
+    "description": "Lya and I agree on one thing: \"Blood of Ancients\" is almost certainly the sap from the great trees of the area. I should know - I brew with the stuff all the time.The most ancient tree of all is the one that Grand Empress Shek'zeer calls her home, now known as the Heart of Fear. Find some amber from that tree, and our brew should be complete.",
+    "name": "Blood of Ancients",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

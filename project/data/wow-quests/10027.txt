@@ -1,0 +1,8 @@
+{
+    "_id": "10027",
+    "description": "There's nothing more annoying than preparing to cast a spell, only to have it interrupted by some unseen force. After the fourth time, I knew it couldn't be coincidence and I sent Keb'ezil out to investigate.I guarantee you'll never encounter an imp that talks back more than Keb.Anyway, he managed to find the source of the problem, a pesky creature known as a warp stalker. They have a habit of disturbing the magical energy wherever they blink into existence. I've had enough of their interference.",
+    "name": "Magical Disturbances",
+    "requires_level": 62,
+    "side": "horde",
+    "zone": "Terokkar Forest"
+}

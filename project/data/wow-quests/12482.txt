@@ -1,0 +1,7 @@
+{
+    "_id": "12482",
+    "description": "We await reinforcements from Vengeance Landing to move against Nifflevar.  If we were to capture it earlier, though, it would provide us with a great advantage over the Alliance.Head into town and see if you can put a dent in their numbers.",
+    "name": "Against Nifflevar",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

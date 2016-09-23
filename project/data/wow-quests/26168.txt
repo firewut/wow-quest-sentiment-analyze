@@ -1,0 +1,8 @@
+{
+    "_id": "26168",
+    "description": "The second amulet, Sevine's amulet, is in the hands of a murloc, far to the south, on a shelf that overlooks the Shattershore.  How it ended up in that murloc's possession, I cannot say, but I can state with certainty that you will find it there.Bring her amulet to me, along with the rest.",
+    "name": "The Amulet of Sevine",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26384",
+    "description": "We can't toss that tablet aside just yet, <name>. We can use it...You see, I'm quite taken with the venom of the spiders here. It's clearly magical, probably related to that spider-god the trolls are involved with. And if that tablet will allow someone to summon it...Well, you can see where this is going. The Horde can't pass up this opportunity. Take the tablet to my fellow Forsaken. They're to the west, at the research station in the Hiri'watha ruins.",
+    "name": "Darkcleric Marnal",
+    "requires_level": 31,
+    "zone": "The Hinterlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44337",
+    "added_in_patch": 7,
+    "description": "I may have found a \"key\" to unlock Light's Heart, <name>.I was going through some ancient cosmology tomes when I stumbled upon a passage indicating that the prime naaru may have been created by Elune during the great ordering of Light and Shadow.If Elune did create Xe'ra, then it stands to reason that we could use the Tears of Elune to unlock the secrets of Light's Heart.It's a long shot, but we've got nothing left to lose.Meet me in Dalaran. I will ready the Tears of Elune for you.",
+    "name": "Goddess Watch Over You",
+    "requires_level": 110,
+    "zone": "Order Hall"
+}

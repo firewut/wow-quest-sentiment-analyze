@@ -1,0 +1,8 @@
+{
+    "_id": "40188",
+    "added_in_patch": 7,
+    "description": "My partner and I both fell victim to the fallout of the Sundering. We were betrayed and abandoned by a trusted friend.That \"friend\" has recently appeared in the ruins to the east. His name is Ranaris.Go to and take revenge for us and I will grant you some of my wisdom.",
+    "name": "Best Served Cold",
+    "requires_level": 102,
+    "zone": "Leatherworking"
+}

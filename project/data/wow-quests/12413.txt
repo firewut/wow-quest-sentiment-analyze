@@ -1,0 +1,8 @@
+{
+    "_id": "12413",
+    "description": "A few hours ago, the trappers were nothing but peasants threatening to add their number to the Alliance's.Now they've become something else... an uncertainty.  I do not like uncertainties.  Go to the hills outside their main town in northern Grizzly Hills, Silverbrook, and help my men crush them.",
+    "name": "Attack on Silverbrook",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

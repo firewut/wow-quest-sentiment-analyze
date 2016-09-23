@@ -1,0 +1,7 @@
+{
+    "_id": "27312",
+    "description": "There's no way around it. If you want to win a battle, you have to spill some blood. In this case... a lot of it.You know what we have to do.",
+    "name": "Darkcloud Grimtotem",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

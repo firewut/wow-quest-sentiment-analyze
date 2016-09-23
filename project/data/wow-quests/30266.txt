@@ -1,0 +1,8 @@
+{
+    "_id": "30266",
+    "added_in_patch": 5,
+    "description": "We have cannons set up on the top of the towers flanking the main gate. They are our best method to clear the skies when the flying mantid try to pass over the wall, like they are now.Looks like you're on, <name>.",
+    "name": "Bloodied Skies",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

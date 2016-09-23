@@ -1,0 +1,8 @@
+{
+    "_id": "11685",
+    "description": "Now that we know the exact locations of the nerubian sinkholes, we can collapse them to halt the Scourge offensive and cripple their force. Wind Tamer Barah knows a way to harness elementals to destroy the tunnels the Nerubians are using, but she will require your help.Southeast of the village, near the coast beyond the Frozen Reach, you'll find an area dominated by frozen earth elementals. The hearts of these elements are exactly what Wind Tamer Barah will need.",
+    "name": "The Heart of the Elements",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

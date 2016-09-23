@@ -1,0 +1,9 @@
+{
+    "_id": "44281",
+    "added_in_patch": 7,
+    "description": "Our allies have made the journey to Orgrimmar to support our war efforts.\r\n\r\nStop and visit with them, <name>. Their assistance will secure our victory today.",
+    "name": "To Be Prepared",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Durotar"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39119",
+    "added_in_patch": 7,
+    "description": "<insert>",
+    "name": "Assault on Skold-Ashil",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

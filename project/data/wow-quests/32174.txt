@@ -1,0 +1,8 @@
+{
+    "_id": "32174",
+    "added_in_patch": 5.1,
+    "description": "",
+    "name": "Build Portal 01",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

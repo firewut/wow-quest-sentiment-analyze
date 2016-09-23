@@ -1,0 +1,9 @@
+{
+    "_id": "33078",
+    "added_in_patch": 6,
+    "description": "After years of research, there is still so much I do not understand about the Shadowmoon.To the southwest are stone monuments detailing the orcs' history.I'm not able to get close enough to examine the stones, but perhaps you can.If you could take a chalk rubbing of the words written on those stones, and I will reward you handsomely.",
+    "name": "The Dark that Blinds Us",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

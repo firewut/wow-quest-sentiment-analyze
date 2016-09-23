@@ -1,0 +1,7 @@
+{
+    "_id": "26467",
+    "description": "Listen, I don't know who you are, but I need your help. My sisters went to take back the Branch of Cenarius from the satyr. They said they'd be back soon, but it's been two whole days!<name>, you have to find them! They were looking for the ruins of a night elf temple in Xavian to the northwest. I don't know what to think. Look for Anilia, she was leading them on the search.",
+    "name": "Vile Satyr! Dryads in Danger!",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29226",
+    "description": "We've been fending off serpents for days now, <name>.  But the serpents are nothing compared to what else is out in that jungle.We hunters are being hunted.A large panther named Mauti has been dragging my men off into the bush.We sent Grent Direhammer, one of our best hunters, to track this beast down.Direhammer headed off to the east, perhaps you can find them there.",
+    "name": "Track the Tracker",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

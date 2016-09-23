@@ -1,0 +1,8 @@
+{
+    "_id": "31448",
+    "added_in_patch": 5,
+    "description": "The key to lifting the curse of this place rests in the final death of Darkmaster Gandling.Do it, $p, and make him suffer!",
+    "name": "An End to the Suffering",
+    "requires_level": 90,
+    "zone": "Scholomance"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27251",
+    "description": "I can't help it if I feel sorry for ol' Jim there. He wasn't always like that. Ran an inn out in the marsh for a while, wonderful place.Look, I don't really want to talk about it. Bring it up with Captain Vimes if you really have to. He's stationed on the top floor of Foothold Citadel, the large barracks to the east of Lady Jaina's tower.",
+    "name": "They Call Him Smiling Jim",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

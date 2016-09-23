@@ -1,0 +1,8 @@
+{
+    "_id": "11709",
+    "description": "While you have done much to secure our foothold in these frozen wastes, other dangers still lurk in the shadows. I want you to assist Warden Nork Bloodfrenzy, stationed at the internment camp just outside and immediately southeast of Warsong Hold. Seek him out and offer your assistance for prisoner transport and exchange.You are dismissed, <name>. ",
+    "name": "Nork Bloodfrenzy's Charge",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

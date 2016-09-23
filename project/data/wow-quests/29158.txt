@@ -1,0 +1,7 @@
+{
+    "_id": "29158",
+    "description": "<Class>!  Heed my call.  Stranglethorn Vale has need of your assistance! Long ago you helped da Zandalar out before.  We not be forgetting your deeds.  It be because of your past help dat we come to you for help.  Come to me at the harbor.",
+    "name": "The Zandalar Representative",
+    "requires_level": 85,
+    "zone": "Stormwind City"
+}

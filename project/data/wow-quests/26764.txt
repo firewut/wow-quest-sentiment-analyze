@@ -1,0 +1,7 @@
+{
+    "_id": "26764",
+    "description": "You may notice that the Venture Company has completely clear-cut all the trees around their Base Camp to the east.  Not one to miss out an opportunity for profit, their foreman has enslaved druids, and is forcing them to re-grow the forest so they can chop it down again!Personally, I find this abhorrent, and not just because I didn't think of it first.Release a few of these druids from their captors.  I'm sure they'll appreciate it.",
+    "name": "A New Low",
+    "requires_level": 26,
+    "zone": "Northern Stranglethorn"
+}

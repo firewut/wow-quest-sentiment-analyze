@@ -1,0 +1,7 @@
+{
+    "_id": "13573",
+    "description": "It was only recently that we heard the news of Malfurion's awakening, mere moments before the Cataclysm occurred.As soon as he regained consciousness, he gave a cryptic warning about the land splitting in two if something wasn't done and how all the shockwaves were converging here on Darkshore.He then reportedly set off for somewhere in this vicinity.  I was sent here to find him, but I've found my hands full helping the refugees.Perhaps you could look for him to the southeast for us.",
+    "name": "Malfurion's Return",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

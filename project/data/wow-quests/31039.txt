@@ -1,0 +1,8 @@
+{
+    "_id": "31039",
+    "added_in_patch": 5,
+    "description": "Our scouts have discovered a heavy mogu force at Shan'ze Dao to the northwest.The island was supposedly uninhabited, so their presence is disturbing news.Even more disturbing is the fact that they are performing sinister experiments on the island.I need a capable <class> to check out the situation.The Shan'ze are likely to give you trouble, and if they do, kill them.",
+    "name": "The Mogu Menace",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

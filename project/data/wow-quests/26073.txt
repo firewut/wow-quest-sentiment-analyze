@@ -1,0 +1,7 @@
+{
+    "_id": "26073",
+    "description": "Return now to Overlord Krom'gar, <name>. Inform him of our status and of what you have done to ensure that Malaka'jin does not fall.We thank you for all that you have done. Perhaps some day soon you will have your own region to command.",
+    "name": "All's Quiet on the Southern Front",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

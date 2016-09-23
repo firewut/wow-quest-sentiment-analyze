@@ -1,0 +1,8 @@
+{
+    "_id": "9133",
+    "description": "<Class>, for a very modest amount of coin, I can send you swiftly flying through the air on one of these magnificent beasts.  And, it's safer than walking there, I can assure you!When you arrive in Silvermoon City, seek out Sathren Azuredawn in the Bazaar.Speak with me once more when you've decided you're ready to brave the skies.",
+    "name": "Fly to Silvermoon City",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "13862",
+    "description": "Even as some of us labor on the tournament, our brothers prepare the way for an assault on the enemy's stronghold of Icecrown Citadel.In the Court of Bones in southwestern Icecrown, a few brave crusaders have set up a forward camp on the southern side of Corp'rethar. Equip your lance and mount the stabled argent charger at the camp, then destroy the Lich King's commanders.Do not fear the masses of boneguard footmen, <name>, for they can easily be trampled under your horse's hooves.",
+    "name": "Battle Before The Citadel",
+    "requires_level": 77,
+    "side": "horde",
+    "zone": "Tournament"
+}

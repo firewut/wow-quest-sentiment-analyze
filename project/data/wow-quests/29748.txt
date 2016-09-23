@@ -1,0 +1,8 @@
+{
+    "_id": "29748",
+    "added_in_patch": 5,
+    "description": "<The shattered remains of an ancient mogu statue. This one looks like it never animated before it was broken.Whatever dark magic the mogu are employing here, it seems to make the brittle statues significantly tougher. Better to destroy them while they are still vacant.A good old-fashioned kick should do the job.>",
+    "name": "Simulacrumble",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

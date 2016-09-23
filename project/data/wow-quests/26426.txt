@@ -1,0 +1,7 @@
+{
+    "_id": "26426",
+    "description": "There is a task that I can set before you.It is a dangerous task. Completing it will help impress the more stubborn Stone Lords.To the northwest is the Scoured Reach. Severe winds batter the rock and hide the true living threat underneath.Within the Scoured Reach are Gyreworms. They devour rock and move through it as if it were water. They do the same thing to our rocky skin.Find Felsen the Enduring. Have him direct you to the Crumbling Depths. I will speak to you once you get that far.",
+    "name": "Violent Gale",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

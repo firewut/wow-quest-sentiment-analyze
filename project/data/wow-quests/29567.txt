@@ -1,0 +1,7 @@
+{
+    "_id": "29567",
+    "description": "The spore giants may be attacking my people today, but the marsh walkers have taken more innocent lives than any creature I've ever seen. They are our ancient enemies.Their brood mother, the Black Stalker, resides deep within this bog. If you were to destroy her and bring me her brain as proof, I would tell tales of your bravery to my grandchildren.",
+    "name": "Stalk the Stalker",
+    "requires_level": 63,
+    "zone": "The Underbog"
+}

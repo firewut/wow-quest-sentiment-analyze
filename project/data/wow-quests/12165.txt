@@ -1,0 +1,7 @@
+{
+    "_id": "12165",
+    "description": "Prospector Rokar has decided to help us. He's concocted a plan to use the iron dwarves' strength against them.I must admit, our new 'friend' is more insightful than I'd given him credit for. He's correct in that our numbers are too few for a direct attack.Travel to Dun Argol, in the snowy regions to the southeast, and capture all the parts of their war golem blueprints from the iron rune-smiths there. Bring the assembled blueprint to Rokar and we'll see if his plan has any merit.",
+    "name": "An Intriguing Plan",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9740",
+    "description": "Thanks to you and the work you did, my scouts were able to find the sun gate. The elves keep the portal location mobile so that they can move it at a moment's notice. That's why the site you investigated was empty.The strength of such a system is also its greatest weakness. The sun gate is stabilized by portal controllers. If we can take down the controllers, the portal will be ours to destroy. The current sun gate location can be found west of here, south of the Vector Coil. Find it and destroy it!",
+    "name": "The Sun Gate",
+    "requires_level": 16,
+    "zone": "Bloodmyst Isle"
+}

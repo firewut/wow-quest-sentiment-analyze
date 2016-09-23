@@ -1,0 +1,7 @@
+{
+    "_id": "11295",
+    "description": "No one seems to know very much about the vrykul.  Our records show no signs of activity in their lands for centuries.  Yet here they are, just as we move against Arthas.The map you retrieved makes it clear that we'll have to defeat them if our forces are to get any further into Northrend.One of my best sergeants, an abomination known as Gorth, oversees the blockade beyond the lift.  Assist him in launching a pre-emptive strike on Baleheim.  If a vrykul attack occurs, it will be launched from there.",
+    "name": "The Offensive Begins",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

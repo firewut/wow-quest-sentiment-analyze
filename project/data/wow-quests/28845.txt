@@ -1,0 +1,7 @@
+{
+    "_id": "28845",
+    "description": "One of our civilian leaders was taken prisoner by the air elementals.They are probably torturing him for information as we speak.Go to the Vortex Pinnacle, where these foul creatures came from, and look for Itesh.You will find the entrance to the Vortex Pinnacle hovering off of the southeastern coast of Uldum.",
+    "name": "The Vortex Pinnacle",
+    "requires_level": 82,
+    "zone": "Quests"
+}

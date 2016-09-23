@@ -1,0 +1,7 @@
+{
+    "_id": "12139",
+    "description": "The Headless Horseman will attack the village at any moment!  Fires will be everywhere!<name>, will you face the fires of the Headless Horseman?  When he comes, you must join the fire brigade.  Grab a bucket and toss it on the fires, or pass it to a friend who's closer to the blaze.  If you put out all the fires then we may yet be saved!",
+    "name": "\"Let the Fires Come!\"",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

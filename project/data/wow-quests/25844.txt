@@ -1,0 +1,7 @@
+{
+    "_id": "25844",
+    "description": "You heard the commander, <name>. Deliver me perfect offerin' to the Grimtotem ambassador! Him and his crew be waitin' for you at the bottom of the southeastern path.This is sure to put us in the good graces of their chieftain!",
+    "name": "Sating the Savage Beast",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

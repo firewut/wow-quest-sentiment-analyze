@@ -1,0 +1,7 @@
+{
+    "_id": "9418",
+    "description": "<As you hold the orb closer to you, you hear a voice address you.>I sense you're not of the arakkoa, so I will attempt to barter for my freedom.  My name is Aeranas. I once ruled over the eastern winds.  The Haal'eshi mage, Avruu, trapped me inside this orb.Find the altar the arakkoa used to enslave me.  It is hidden to the southeast of the arakkoa's den.  Approach it with the orb and give it to me once I'm free.  In exchange for my liberty I'll reward you with powerful treasure!",
+    "name": "Avruu's Orb",
+    "requires_level": 60,
+    "zone": "Hellfire Peninsula"
+}

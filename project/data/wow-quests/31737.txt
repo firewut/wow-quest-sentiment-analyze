@@ -1,0 +1,9 @@
+{
+    "_id": "31737",
+    "added_in_patch": 5,
+    "description": "This whole place is going up in flames and the Skyfire is reporting that more of those... shadows are crawling up out of the ground. We need to get our people out of here.Clear a path through the base on your way north and head for the town. I will rendezvous with you there.",
+    "name": "The Cost of War",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

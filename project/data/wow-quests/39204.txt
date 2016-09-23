@@ -1,0 +1,8 @@
+{
+    "_id": "39204",
+    "added_in_patch": 6.2,
+    "description": "Volunteers are needed to aid the Silver Covenant forces in the Dragonblight as they attempt to counter the chaotic arcane energies that threaten to rip the land apart.Those skilled in fighting dragons and undead are greatly welcome.Those willing to answer the call should report to Archmage Modera at Stars' Rest in Dragonblight.",
+    "name": "Hero's Call: Dragonblight",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

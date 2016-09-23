@@ -1,0 +1,8 @@
+{
+    "_id": "30772",
+    "added_in_patch": 5,
+    "description": "Ahead of us is the main thrust of the yaungol army.Here, they prepare their vast army to attack the villages of Kun-Lai.If we strike at the Osul now, we can cut them at their very core.Remember, for every of their number that we strike down here, we save one of our own back at home.",
+    "name": "Seeing Red",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

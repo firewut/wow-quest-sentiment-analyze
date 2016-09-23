@@ -1,0 +1,7 @@
+{
+    "_id": "14438",
+    "description": "<name>, there are many conflicts that wound this land. It is my hope that you will not bear witness to as many of them as our elders have. Yet there is one that I would ask you to seek. It will give you some sense of how terrible, if left unchecked, even a small threat can be to the land.Palemane gnolls have settled to the south of Bloodhoof and in a cave to the west. They disrespect our attempts to communicate with them, and they slay the wildlife of Mulgore unbridled.Words are no longer the answer.",
+    "name": "Sharing the Land",
+    "requires_level": 4,
+    "zone": "Mulgore"
+}

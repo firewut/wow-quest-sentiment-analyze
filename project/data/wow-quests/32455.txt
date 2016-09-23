@@ -1,0 +1,8 @@
+{
+    "_id": "32455",
+    "added_in_patch": 5.1,
+    "description": "D..did we... do it?<Anduin mumbles the words, even though the effort clearly costs him.>L..look... in.. my... bag...Use... flare...",
+    "name": "The Silence",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

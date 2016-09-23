@@ -1,0 +1,8 @@
+{
+    "_id": "13188",
+    "description": "You are now, and forever will be, a Knight of the Ebon Blade, <name>, but know this: you were once a hero of the Alliance.<Darion stares at you.>This order must establish allies for itself if it is to survive. You must represent the Knights of the Ebon Blade to the Alliance.On the platform, southeast of me, is a portal to Stormwind City. Take this letter, given to me on your behalf by Lord Fordring, and deliver it to King Anduin Wrynn. Use the portal.",
+    "name": "Where Kings Walk",
+    "requires_level": 55,
+    "side": "alliance",
+    "zone": "Death Knight"
+}

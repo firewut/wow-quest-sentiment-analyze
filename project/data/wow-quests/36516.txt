@@ -1,0 +1,9 @@
+{
+    "_id": "36516",
+    "added_in_patch": 6,
+    "description": "After all that you've done for us, I would love to help you. Regrettably, I don't have the materials I would need to repair this perfectly.Use my knife to gather a few hides from the clefthoof that roam near the spire and find some sootweed pitch to properly cure them.Unfortunately, those miserable ogres have taken up residence in the only place that I know of sootweed to grow. You may be in for a fight <name>.Return to me if you can obtain these and I will gladly help you repair your cloak.",
+    "name": "Cut 'Em Out!",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

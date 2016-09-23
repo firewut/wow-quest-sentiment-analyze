@@ -1,0 +1,7 @@
+{
+    "_id": "25359",
+    "description": "You met Toshe back in Damplight Cavern, didn't you? He followed some of the fleeing naga to a set of ruins to the east and then sent for help.Find Toshe at the ruins as soon as you can. If you find out anything about what the naga want, please let us know.",
+    "name": "Toshe's Vengeance",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

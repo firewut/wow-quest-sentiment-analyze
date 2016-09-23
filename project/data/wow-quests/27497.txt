@@ -1,0 +1,7 @@
+{
+    "_id": "27497",
+    "description": "A pity that we're no longer allowed to drop the Plague on our enemies. It would prove quite effective in this situation. Oh well, at least we have war machines to destroy their precious gates.I want you to take this flare. Use it to mark each of the four buildings within the Twilight Gate to the northwest. The war machines will handle the rest.",
+    "name": "Call in the Artillery",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

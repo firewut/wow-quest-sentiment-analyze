@@ -1,0 +1,8 @@
+{
+    "_id": "37236",
+    "added_in_patch": 6,
+    "description": "He's done it again! My son took my knife and yelled something about a 'chromatic hide,' then ran off for the Spire! What would he even do with something like that, wear it around like a cape?If it's not too much to ask, would you keep an eye out for the knife? You know, next time you're around Upper Blackrock Spire. Which, hopefully, is soon. VERY soon.",
+    "name": "Like Father, Like Son",
+    "requires_level": 100,
+    "zone": "Upper Blackrock Spire"
+}

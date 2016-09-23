@@ -1,0 +1,7 @@
+{
+    "_id": "29432",
+    "description": "I am duty-bound to look into your claims immediately, <race>, which means my mission here now must fall to you.A surge of ancient magic, far too strong to have occurred naturally, drew me here. I have since discovered a most troubling development.A bough from Nordrassil has been ripped from the tree and taken deep into the Firelands. There, a powerful ritual threatens to corrupt Nordrassil, consuming it in flame.You must find a way to interrupt the ritual and reclaim the world tree's branch.",
+    "name": "Delegation Tracker",
+    "requires_level": 85,
+    "zone": "Mount Hyjal"
+}

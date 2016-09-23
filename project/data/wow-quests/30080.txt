@@ -1,0 +1,8 @@
+{
+    "_id": "30080",
+    "added_in_patch": 5,
+    "description": "My nephew, Yi-Mo, has always been sort of a downer. When this wave of despair hit the town, he took it harder than most. He sat around for days refusing to eat, just staring off into the horizon.Now he's wandered off toward the cliffs northeast of here, where the thunderbirds nest and hunt.Please, <class>, will you look for him?",
+    "name": "Finding Yi-Mo",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

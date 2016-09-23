@@ -1,0 +1,7 @@
+{
+    "_id": "24632",
+    "description": "My people are not wrathful by nature, but sometimes a thirst for justice causes us to take up arms in anger.My old friend Gann Stonespire, on learning of the butchery in Taurajo, flew into a fury. Tribal elders could no longer hold his rage in check.Now he has all but parted ways with the Horde. He's gone rogue, <name>, and seeks to lash out at the Alliance with a small band of like-minded partisans.If you, too, seek vengeance, you will find him southeast of here, at the foot of Bael Modan.",
+    "name": "Tauren Vengeance",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38784",
+    "added_in_patch": 7,
+    "description": "This ore has clearly absorbed some of the latent ley energies within the Broken Isles. It is cool to the touch, and reflects light in odd, playful angles.Your trainer in Dalaran should analyze this.",
+    "name": "Leystone Seam Sample",
+    "requires_level": 98,
+    "zone": "Mining"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "9869",
+    "description": "Greetings, <race>. I am Ioki, elementalist of the Earthen Ring. I have come to Telaar to inform the Kurenai of the state of the elements.Could I ask a favor of you? Would you travel to the Throne of the Elements in the northern hills of Nagrand, beyond Skysong Lake, and tell elementalist Sharvak that I have arrived at Telaar safely? She will surely reward you for this small deed.",
+    "name": "The Throne of the Elements",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

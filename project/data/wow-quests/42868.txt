@@ -1,0 +1,8 @@
+{
+    "_id": "42868",
+    "added_in_patch": 7,
+    "description": "You can roll, you can hit, even shoot flaming spit...\r\nBut can your training you heed? Tasty brew's what I need!\r\nThe goodies you've gathered are what you must mix,\r\nThe instructions to follow will come from my lips.\r\nJust pass this final brewing lesson,\r\nAnd I will point you to my weapon.",
+    "name": "The Monkey King's Challenge",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

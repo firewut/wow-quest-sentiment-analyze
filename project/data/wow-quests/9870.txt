@@ -1,0 +1,8 @@
+{
+    "_id": "9870",
+    "description": "Greetings, <race>. I am Yal'hah, elementalist of the Earthen Ring. I have come to Garadar to inform the Mag'har of the state of the elements.Could I ask a favor of you? Would you travel to the Throne of the Elements in the northern hills of Nagrand, beyond Skysong Lake, and tell elementalist Sharvak that I have arrived at Garadar safely? She will surely reward you for this small deed.",
+    "name": "The Throne of the Elements",
+    "requires_level": 64,
+    "side": "horde",
+    "zone": "Nagrand (Outland)"
+}

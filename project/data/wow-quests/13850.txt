@@ -1,0 +1,8 @@
+{
+    "_id": "13850",
+    "description": "You want to ride a Venomhide? Then I've got bad news for you.The Venomhide Ravasaurs, they're all poison: Poison blood, poison spit, poison skin. You climb on one, you fall off dead in a few hours.You'd have to build up a resistance to their toxins before I sold you one, and that takes a long, LONG time... you'd need to be splashed with poisonous blood while fighting one numerous times. If you're really interested, the venomhides prefer the northern area of the Marshlands, northwest of here.",
+    "name": "Toxic Tolerance",
+    "requires_level": 48,
+    "side": "horde",
+    "zone": "Un'Goro Crater"
+}

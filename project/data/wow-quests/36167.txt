@@ -1,0 +1,9 @@
+{
+    "_id": "36167",
+    "added_in_patch": 6,
+    "description": "The Trial of Heart is a test of your willingness to persevere in the face of great adversity.Far to the west, there is a rangari outpost at Cerulean Lagoon.They have sent a request for help. Some sort of infection is making everyone in the area sick. They desperately need aid.Go and seek out the rangari stationed there. Help them find the cause of this terrible ailment.",
+    "name": "The Trial of Heart",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

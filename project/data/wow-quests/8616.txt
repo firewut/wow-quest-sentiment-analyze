@@ -1,0 +1,7 @@
+{
+    "_id": "8616",
+    "description": "",
+    "name": "The Horde Needs More Baked Salmon!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

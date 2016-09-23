@@ -1,0 +1,8 @@
+{
+    "_id": "30892",
+    "added_in_patch": 5,
+    "description": "<name>, I could use your help. With their long shifts, our warriors down at the southern front of the battlefront are fighting to the point of exhaustion, and many of them have been exposed to the mantid poison.We need more people to tend to the wounded. I've prepared some bandages with the herbs you brought me, but if you have some healing skills, those might work even better.Please, <name>, get our men back on their feet so that they can get back here to safety.",
+    "name": "Back on Their Feet",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

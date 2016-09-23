@@ -1,0 +1,9 @@
+{
+    "_id": "39175",
+    "added_in_patch": 6.2,
+    "description": "Listen, boss. I know you're a jewelcrafter. It's OK, I totally understand - I like money, too!I heard some of them bird fellas talking about some new gem-cuttin' device they got up in Tanaan. I'd be interested in checkin' it out myself, but I've got this whole shipyard mess to deal with right now.",
+    "name": "Gems of the Apexis",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Jewelcrafting"
+}

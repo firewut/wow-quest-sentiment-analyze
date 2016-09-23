@@ -1,0 +1,8 @@
+{
+    "_id": "33917",
+    "added_in_patch": 6,
+    "description": "You there, we need to stop the flow of demon reinforcements!Do you see the floating fel crystals spread throughout the front? Those resonators are powering the portals unleashing hell on our forces. I need you to take them out!",
+    "name": "Disrupting the Flow",
+    "requires_level": 95,
+    "zone": "Talador"
+}

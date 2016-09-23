@@ -1,0 +1,8 @@
+{
+    "_id": "27721",
+    "description": "All able-bodied members of the Horde are hereby ordered to report to Emissary Windsong at Nighthaven in Moonglade.Our brothers in the Cenarion Circle report that Deathwing's minions have launched a destructive offensive against the world tree and threaten to burn it to the ground!Speak with Cenarion Emissary Blackhoof to gain entry into Moonglade. Blackhoof is located at the tauren district in the Valley of Wisdom in Orgrimmar.Onward,  brother! Destiny calls!",
+    "name": "Warchief's Command: Mount Hyjal!",
+    "requires_level": 80,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

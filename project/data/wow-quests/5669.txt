@@ -1,0 +1,7 @@
+{
+    "_id": "5669",
+    "description": "Ah, <name>, I'm glad you stopped to talk to me for a moment. One of your priests of Light was here a few moments ago looking for you. High Priestess Laurena in the Cathedral of Light wants to meet with you. I would not be surprised if it was about the progress you've made so far. Many of my order are continuously tested and given greater responsibilities as we progress in our studies.",
+    "name": "<NYI> A Blessing of Light",
+    "requires_level": 15,
+    "zone": "Priest"
+}

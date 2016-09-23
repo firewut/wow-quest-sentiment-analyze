@@ -1,0 +1,7 @@
+{
+    "_id": "25619",
+    "description": "There's no shortage of Kvaldir to slaughter. They're obviously still reeling from our assault.  The city has been desolate so long, I doubt they expected any naga to contest them here.There have been no reports yet of their leader. I'm sure that culling them further will force the coward to rear his head soon enough.Shall we continue?",
+    "name": "Reoccupation",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

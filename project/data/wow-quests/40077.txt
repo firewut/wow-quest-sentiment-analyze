@@ -1,0 +1,8 @@
+{
+    "_id": "40077",
+    "added_in_patch": 7,
+    "description": "Our advance force of demon hunters is here and has engaged the Legion.\r\n\r\nMake our presence known. Let's send a shiver down every demon spine. Raise our colors with pride, <name>.",
+    "name": "The Invasion Begins",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

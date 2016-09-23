@@ -1,0 +1,8 @@
+{
+    "_id": "26777",
+    "description": "This is a tragic land, with a history of violence and despair. While many of the dead roam in the flesh, some are simply lost souls, wandering in confusion.They deserve to be put at ease.Many of these souls gather at the Addle Stead to the south, appearing before travelers. Take this censer of holy incense. Sway it before the forlorn spirits, and let the offering of its gentle scent give them peace.",
+    "name": "Soothing Spirits",
+    "requires_level": 22,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

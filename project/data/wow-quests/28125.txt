@@ -1,0 +1,7 @@
+{
+    "_id": "28125",
+    "description": "I've got an idea for how you can get close to their leaders without getting killed. But first, you're going to need to find something to wear.My suggestion is that you head up there and get their armor from them.",
+    "name": "Something to Wear",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40932",
+    "added_in_patch": 7,
+    "description": "This place is where the merchant, Ariden, set up camp while he was trying to ply his dubious wares to the sorcerer Medivh. \r\n\r\nIt has remained strangely untouched for all this time, which leads me to believe it may still have a connection to its former owner.\r\n\r\nHelp me search the camp. Let's see if we can find something to lead us to the Dark Riders.",
+    "name": "Disturbing the Past",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

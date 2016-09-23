@@ -1,0 +1,7 @@
+{
+    "_id": "29245",
+    "description": "A small, dried acorn has fallen out of the Flame Druid's robe.Why would a Druid of the Flame be carrying it around?Perhaps someone at Malfurion's Breach would like to see it.",
+    "name": "The Mysterious Seed",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

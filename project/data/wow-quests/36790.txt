@@ -1,0 +1,8 @@
+{
+    "_id": "36790",
+    "added_in_patch": 6,
+    "description": "I... I'm finished. My spirit will be with the Raven Mother soon.I beg of you, stranger... avenge me! Slay these filthy beasts.",
+    "name": "The Initiate's Revenge",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

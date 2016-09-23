@@ -1,0 +1,7 @@
+{
+    "_id": "27869",
+    "description": "These serpents must be from the Temple of Atal'Hakkar. I already had a hint...Not a few days ago, I had a visitor stop by and ask me to keep an eye out for such things. An elf by the name of Itharius. I'm sure he didn't think I could see through his form... he was a green dragon in disguise, come here to help his fallen brothers no doubt.He may very well be on to something. Itharius left for the temple itself. Perhaps you'd better go look for him there. Dark things are afoot.",
+    "name": "The Dragon and the Temple",
+    "requires_level": 51,
+    "zone": "Swamp of Sorrows"
+}

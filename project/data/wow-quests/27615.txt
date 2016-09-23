@@ -1,0 +1,7 @@
+{
+    "_id": "27615",
+    "description": "One of the more vile members of the Scarlet Crusade, Mataus the Wrathcaster, lurks within the barracks' dungeon.  Undeath suits his dark manner.Were I younger and on the front lines, I'd run him through myself.  As things are, I'm left behind to lead our forces from the rear.  So I leave the pleasure to you.",
+    "name": "The Wrathcaster",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

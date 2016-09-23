@@ -1,0 +1,8 @@
+{
+    "_id": "39876",
+    "added_in_patch": 7,
+    "description": "Now, while I continue to fill the rest of our orders, I'd really appreciate it if you would deliver these vellums to Jace Darkweaver down in Azsuna.He and the other demon hunters have been fighting back the Legion for quite some time and could use this as quickly as possible.Thanks, <name>!",
+    "name": "Helping the Hunters",
+    "requires_level": 100,
+    "zone": "Enchanting"
+}

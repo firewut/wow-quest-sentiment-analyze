@@ -1,0 +1,8 @@
+{
+    "_id": "42125",
+    "added_in_patch": 7,
+    "description": "Felsoul Hold is not far away, but it is well defended. Very tough to get in the normal way, but Calydus can help you sneak in!There is a portal that my kind use to haul in treasures, with it you can get in and find the skull!",
+    "name": "Dark Whispers",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

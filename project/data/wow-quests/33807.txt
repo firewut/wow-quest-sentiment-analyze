@@ -1,0 +1,9 @@
+{
+    "_id": "33807",
+    "added_in_patch": 6,
+    "description": "These Thunderlord curs use coward's weapons like nets and chains.Many of our villagers and wolf-brothers and sisters have been trapped.If you free them, they will fight at your side with honor.We must quell this attack with haste so I may return to Bladespire Citadel and continue my preparations.",
+    "name": "Free Our Brothers and Sisters",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

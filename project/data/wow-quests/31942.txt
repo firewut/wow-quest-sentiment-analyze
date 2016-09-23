@@ -1,0 +1,8 @@
+{
+    "_id": "31942",
+    "added_in_patch": 5,
+    "description": "<Farmer Yoon looks up at the sky and sniffs the air.>Hmm...<He licks his paw and holds it up in the air, sticks a toenail into the soil, and then inspects the length of his shadow.>Yup. It's melon time.Could you grab some seeds and help me plant a Striped Melon?",
+    "name": "It's Melon Time",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11449",
+    "description": "The deathstalkers have set up a fire training area outside the town.  We cannot afford further damage to the buildings of Brill - you should do your duty and train as a fire fighter.Head west past the graveyard, following the road. You'll find the training area there.",
+    "name": "Fire Training",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32161",
+    "added_in_patch": 5.1,
+    "description": "Along with the snare, you get some advice on crane hunting:The greatest cranes of the Krasarang Wilds are not tempted by simple things like food. You will need to play on the creatures' emotions if you wish to draw them from their hiding places in the jungle.Cranes abound on both the Cradle of Chi-ji and the Narsong Spires, both of which can be found east of here. Pluck those cranes' quills, then place them in a visible spot near the Crane Temple. Your quarry will come running to you.",
+    "name": "Beastmaster's Hunt: The Crane",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

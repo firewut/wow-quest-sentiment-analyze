@@ -1,0 +1,7 @@
+{
+    "_id": "10227",
+    "description": "I see dead draenei. They're all around us.Bah, nobody believes me because I'm a child. Not even my own mommy believes me.<Ha'lei points to Ramdor.>He believes me, though... He sees them too. Boy does he get angry about it!It's kind of funny. I see ghosts and people just smile and pat me on the head, trying to placate me. Ramdor sees ghosts and people label him as crazy. I sure hope I never grow up!You should probably talk to Ramdor before you go inside. He was once a death priest.",
+    "name": "I See Dead Draenei",
+    "requires_level": 64,
+    "zone": "Terokkar Forest"
+}

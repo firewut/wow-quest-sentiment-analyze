@@ -1,0 +1,7 @@
+{
+    "_id": "14060",
+    "description": "Dokin and Laha have been hard at work helping celebrants learn about the traditional Pilgrim's Bounty feast and how to make dishes out of all the ingredients we harvest at this time of year. I've been trying to keep the tables stocked with as many of the dishes as I can, but we're running low on pumpkin pie.Would you be able to get some for us? If you want to make the pies yourself, you'll need to buy ripe Tirisfal pumpkins from the Pilgrim's Bounty vendor outside the Undercity.",
+    "name": "Easy As Pie",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

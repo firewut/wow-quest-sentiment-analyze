@@ -1,0 +1,7 @@
+{
+    "_id": "12481",
+    "description": "The vrykul are being clever about this.  Fortunately I've a trick up my sleeve.This leader of theirs, Bjorn, is a real hothead.  We've pieced together enough of their language to fashion what we think is a good insult.  Something involving his mother and large barnyard animals... we're not quite sure.Take this piece of paper and read it to him.  Once he starts chasing you, lure him back here.  We'll make sure he doesn't make it out alive.",
+    "name": "Adding Injury to Insult",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38396",
+    "description": "I've been looking at some of the other coins in circulation plus the ones you've brought back. Some o' these are misprints... others are just plain wrong. Look 'ere. This one's got two heads. And the second one is smiling at me, where it wasn't before.There's a bigger mystery in play here and these misprints are the key to figuring it out. I'm gonna need even more.",
+    "name": "A Curious Oddity",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ironforge"
+}

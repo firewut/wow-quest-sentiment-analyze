@@ -1,0 +1,8 @@
+{
+    "_id": "40000",
+    "added_in_patch": 7,
+    "description": "I don't know why Hemet hunts with Razik. His contraptions are unreliable at best! \r\n\r\nA true hunter doesn't need gadgets to hunt. They rely on instinct, skill, and agility.\r\n\r\nSo tell me, <name>, do you have the skills of a true hunter? Better yet, prove it.\r\n\r\nTake down some of the Bonebeak Hawks that circle the nearby meadow.",
+    "name": "A True Hunter",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

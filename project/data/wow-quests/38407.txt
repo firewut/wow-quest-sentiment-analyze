@@ -1,0 +1,8 @@
+{
+    "_id": "38407",
+    "added_in_patch": 7,
+    "description": "<You've found a message in a bottle on the corpse. It's a request for aid from someone named Okuna Longtusk. Okuna claims that he and his fellow shipmates are being held prisoner by sea giants.\r\n\r\nMaybe if you show the note to the ghost of Lady Irisse at the Crumbled Palace, she can point you in the right direction?>",
+    "name": "Bottled Up",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

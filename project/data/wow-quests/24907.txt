@@ -1,0 +1,8 @@
+{
+    "_id": "24907",
+    "description": "Here's the situation. If we want to establish the Bilgewater Cartel's market presence in Gadgetzan, we'll need to start providing services to the community.The new coast has been great for business here, but the sea also brought sea giants with it. They're large, foul, and drive real estate values down.Head to the shallows just south of town and kill as many as you can, and I'll cut you in on some of the deals I'm brokering here.",
+    "name": "Puddle Stomping",
+    "requires_level": 43,
+    "side": "horde",
+    "zone": "Tanaris"
+}

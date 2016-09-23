@@ -1,0 +1,7 @@
+{
+    "_id": "26363",
+    "description": "You've done well cleaving through their warriors, <name>. I'd like you to investigate the summit of Jintha'Alor.We were prepared for our fiercest battle there, to storm their dark altar, but it's too quiet. Not a sound. It could be a terrible trap, and someone strong should look into it first instead of all of us rushing in.And if it's not a trap... I'm very interested in finding out what happened up there. Bring me back any clues you can find.",
+    "name": "Summit of Fate",
+    "requires_level": 31,
+    "zone": "The Hinterlands"
+}

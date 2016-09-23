@@ -1,0 +1,8 @@
+{
+    "_id": "32533",
+    "added_in_patch": 5.2,
+    "description": "Our assault on the Court of Bones continues. Our progress remains slow, but measurable.Unfortunately, we've received several reports of stone quilen statues coming to life without warning. These quilen are too dangerous to ignore.Venture into the Court of Bones and destroy any quilen statues that you can find.",
+    "name": "Stone Cold",
+    "requires_level": 90,
+    "zone": "Quests"
+}

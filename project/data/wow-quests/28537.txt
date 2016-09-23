@@ -1,0 +1,7 @@
+{
+    "_id": "28537",
+    "description": "You say it spoke of a master? Of one who holds Zin-Malor?This is grave news. You must act, <class>! I saw the shade fly off to the south. Take the path to the upper ruins, and you may be able to climb the frozen waterfall after it!And do not let your guard down... it may be waiting for you.",
+    "name": "In Pursuit of Shades",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

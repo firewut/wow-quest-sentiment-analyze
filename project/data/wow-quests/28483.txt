@@ -1,0 +1,7 @@
+{
+    "_id": "28483",
+    "description": "I will not lie to you, <name>.  We face a tremendous challenge ahead of us.As you go behind the enemy lines into Neferset City, I want you to bring back the insignia of any Neferset scum you defeat.It will be a boon to our armies to know that you've dealt a crushing blow to the enemy.",
+    "name": "Bleeding the Enemy",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

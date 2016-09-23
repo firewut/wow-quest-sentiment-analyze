@@ -1,0 +1,7 @@
+{
+    "_id": "27542",
+    "description": "",
+    "name": "Taking the Battlefront",
+    "requires_level": 15,
+    "zone": "Silverpine Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27211",
+    "description": "The deserter agents were doing far more than just chatting up the guards. We've found a number of leaflets the deserters somehow managed to smuggle in on a ship in the docks.The ship used to transport the leaflets is still in Theramore, at the farthest dock. If you can sneak aboard and capture the rest of their propaganda documents, their agents will lose their most powerful tool. Be careful! The ship is manned by seasoned privateers and the cargo is probably being kept in the captain's quarters.",
+    "name": "Propaganda War",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

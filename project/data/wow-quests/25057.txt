@@ -1,0 +1,7 @@
+{
+    "_id": "25057",
+    "description": "Our policy of conscripting non-violent criminals from the Stormwind Stockades has come back to haunt us, <name>. Some of my less-scrupulous soldiers broke ranks after our victory in Taurajo and are looting the remains of the city.This is a breakdown in discipline. Worse, the desecration of their homes only spurs the enemy to fight harder when our ultimate goal should be peace.Take these manacles and bring the Taurajo looters to justice. Speak to them first, but you may need force to subdue them.",
+    "name": "Clap 'Em In Irons",
+    "requires_level": 30,
+    "zone": "Southern Barrens"
+}

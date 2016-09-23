@@ -1,0 +1,7 @@
+{
+    "_id": "9149",
+    "description": "To find a cure for the plague we need to understand how it affects different creatures, from the most complex life forms to the lowliest subspecies.I've come here to study the murlocs since, like us, they've retained free will in undeath.  What makes these lowly mongrels so special?  I need to find out, <name>!Travel northwest and bring me their spines so that I may study the accumulation of plague in their marrow.  Who knows what secrets their little bones hold?",
+    "name": "The Plagued Coast",
+    "requires_level": 10,
+    "zone": "Ghostlands"
+}

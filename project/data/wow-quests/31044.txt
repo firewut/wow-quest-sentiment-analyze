@@ -1,0 +1,8 @@
+{
+    "_id": "31044",
+    "added_in_patch": 5,
+    "description": "Among the Shan'ze's fiercest and most loyal creations are their quilen.These beasts will hunt until they kill their prey, or die in the process.I need you to not only cull their numbers, but also to retrieve their bronze claws.Their claws are strong and razor sharp, and we can use them to make weapons and hooks for our cause.",
+    "name": "Bronze Claws",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

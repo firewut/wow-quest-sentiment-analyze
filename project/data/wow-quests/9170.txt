@@ -1,0 +1,7 @@
+{
+    "_id": "9170",
+    "description": "The odious traitor, Dar'Khan, has risen to great power among the ranks of the Scourge.  His lieutenants command vast armies of undead against our dwindling numbers.Masophet the Black, Jurion the Deceiver, Borgoth the Bloodletter, Mirdoran the Fallen.  Learn these names well for in the Ghostlands these Scourge leaders are second only to Dar'Khan himself.  Slay them and their mindless armies will be thrown into disarray.",
+    "name": "Dar'Khan's Lieutenants",
+    "requires_level": 17,
+    "zone": "Ghostlands"
+}

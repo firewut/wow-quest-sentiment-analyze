@@ -1,0 +1,7 @@
+{
+    "_id": "25551",
+    "description": "With his gatekeeper gone, you've given the Guardians of Hyjal access to Sulfuron Spire.Ragnaros will have no choice but to defend the main entryway to the Firelands himself.Go through the Twilight's Hammer portal at the Sanctum of the Prophets and meet me inside.  Malfurion and Hamuul will also aid us while the others continue to fight the enemy outside.",
+    "name": "The Firelord",
+    "requires_level": 78,
+    "zone": "Mount Hyjal"
+}

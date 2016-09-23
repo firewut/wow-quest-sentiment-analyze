@@ -1,0 +1,8 @@
+{
+    "_id": "31926",
+    "added_in_patch": 5,
+    "description": "You capitalized on my mistake last time and emerged victorious. This time, you will not be so fortunate, <race>.",
+    "name": "Grand Master Antari",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

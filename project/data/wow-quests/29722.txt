@@ -1,0 +1,8 @@
+{
+    "_id": "29722",
+    "added_in_patch": 5,
+    "description": "Can you help teach me to be brave like you?When we played our prank on the witch we made a bunch of Leafy Tricksters angry.  I think the witch did something to them.Can you show me how you stand up to them?",
+    "name": "A Lesson in Bravery",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

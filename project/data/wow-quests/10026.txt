@@ -1,0 +1,8 @@
+{
+    "_id": "10026",
+    "description": "It's embarrassing to admit this, but something has happened to me here in Terokkar Forest that hasn't occurred since my apprentice days.Occasionally, my spells will fizzle when I know I've done everything correctly. I almost drove myself crazy the first time it happened.I think I've found the cause. The forest is full of creatures called warp stalkers, demonic creatures with an affinity for magic and a habit of disturbing magical flows. The best way to deal with them is simply to kill them.",
+    "name": "Magical Disturbances",
+    "requires_level": 62,
+    "side": "alliance",
+    "zone": "Terokkar Forest"
+}

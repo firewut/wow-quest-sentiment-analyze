@@ -1,0 +1,9 @@
+{
+    "_id": "34867",
+    "added_in_patch": 6,
+    "description": "Commander, I will leave my forces to secure this pass, but I will not sit idle while our enemy prepares for another attack.I want to take the fight to the heart of the Iron Horde at Blackrock, and to do that we are going to need to go where few orcs dare tread.Gorgrond.It is a savage place, filled with giants and monsters of every sort.Will you dare these wilds with me so that we might strike at the foundries of the Iron Horde?",
+    "name": "The Secrets of Gorgrond",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

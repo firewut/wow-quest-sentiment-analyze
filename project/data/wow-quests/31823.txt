@@ -1,0 +1,8 @@
+{
+    "_id": "31823",
+    "added_in_patch": 5,
+    "description": "Good, good. It's important to keep your pets healthy and ready for battle.My next task for you is to fight a few battles and raise a pet to level 3.  Once you do that, come back and see me and we can talk about catching your own pets!",
+    "name": "Level Up!",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

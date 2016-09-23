@@ -1,0 +1,7 @@
+{
+    "_id": "14196",
+    "description": "You are now able to understand the script in which the journal was written.Along the runestone, it is explained that the monument's gemstones were imbued with the power to summon a firestorm.The storm could grow to be a mighty weapon either through sustained worship of Elune, or charged by spiritual energies of the fallen.Looking down upon the newly revealed ghosts of Elune's disciples, you reason that you have neither the time, nor the inclination to worship the goddess of your enemy....",
+    "name": "Firestarter",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

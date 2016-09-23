@@ -1,0 +1,8 @@
+{
+    "_id": "42043",
+    "added_in_patch": 7,
+    "description": "When the Nightmare spreads, it consumes the life force of all that it touches.The more it spreads, the weaker our magic becomes.In its early stages, before the taint has taken hold, we can still cleanse the affected areas.I will bless you with Elune's grace. By channeling her power, you can reverse the Nightmare's spread.",
+    "name": "Cleaning Up",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

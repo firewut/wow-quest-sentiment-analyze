@@ -1,0 +1,7 @@
+{
+    "_id": "25388",
+    "description": "This crate, labeled 'Crab Meat', seems to have fallen from a recently sunken cargo ship.Adarrah would surely welcome such a find, considering the ordeal she's had to endure.",
+    "name": "A Case of Crabs",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

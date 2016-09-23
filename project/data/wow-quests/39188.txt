@@ -1,0 +1,7 @@
+{
+    "_id": "39188",
+    "description": "We have lost contact with the druids of the Cenarion ThicketThe King has commanded any able bodies of the Alliance to venture into Terokkar Forest and discover what has happened.The thicket can be found by heading northwest through Terokkar Forest from Zangarmarsh.",
+    "name": "Hero's Call: Terokkar Forest",
+    "requires_level": 61,
+    "zone": "Terokkar Forest"
+}

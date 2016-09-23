@@ -1,0 +1,7 @@
+{
+    "_id": "27490",
+    "description": "Mathias Shaw and the SI:7 are here to assist us with operations up top in the Twilight Citadel. I need you to escort them there.The Wildhammer are being kind enough to give us a lift in. The agents have some things that they need to do down in the Twilight Gate area first, though.Speak with Angus Stillmountain and get yourself a squad to drop off. You'll fly them in. A big blue X marks the spot.",
+    "name": "SI:7 Drop",
+    "requires_level": 84,
+    "zone": "Quests"
+}

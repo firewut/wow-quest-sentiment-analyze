@@ -1,0 +1,8 @@
+{
+    "_id": "9498",
+    "description": "My people recently finished building Falcon Watch, a base of operations in the southwestern region of Hellfire Peninsula - beyond Hellfire Citadel.  You are welcome there as an ally, <name>.If you're looking for work, go there and tell Ranger Captain Venn'ren that I sent you.  He will see to it that you're given tasks worthy of someone of your caliber.",
+    "name": "Falcon Watch",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

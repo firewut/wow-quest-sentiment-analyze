@@ -1,0 +1,7 @@
+{
+    "_id": "5708",
+    "description": "Talk is spreading that your faith is taking up more active measures to protect and lead the Forsaken. It seems Aelthalyste either be knowin' something that Sylvanas does not, or your Dark Lady be wantin' Aelthalyste to be a little less patient in her measures.You best be headin' home to the Undercity to speak to her. She be in the War Quarter as always.",
+    "name": "<NYI> Flirting With Darkness",
+    "requires_level": 35,
+    "zone": "Priest"
+}

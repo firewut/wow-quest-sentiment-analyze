@@ -1,0 +1,7 @@
+{
+    "_id": "9646",
+    "description": "By order of Harbinger Mikolaas: A bounty of 18 silver to be paid to the brave soul who returns with proof of the marauding bear Deathclaw's demise.Deathclaw should be considered extremely dangerous and is responsible for the killing of a survey team on the coast to the northwest of Blood Watch. Travelers are advised to avoid the area.",
+    "name": "WANTED: Deathclaw",
+    "requires_level": 9,
+    "zone": "Bloodmyst Isle"
+}

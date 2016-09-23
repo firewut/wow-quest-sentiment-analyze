@@ -1,0 +1,8 @@
+{
+    "_id": "30585",
+    "added_in_patch": 5,
+    "description": "Legend tells of a great beast in the forest to the north.  My son is missing and I fear he may have wandered too near its lair....Head northwest to Krasari Falls and look for a mysterious whirlpool - this is the key to revealing what is hidden there.  Kill the wretched beast and recover any clues to my son's whereabouts.",
+    "name": "What Lurks Below",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

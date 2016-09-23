@@ -1,0 +1,8 @@
+{
+    "_id": "31244",
+    "added_in_patch": 5,
+    "description": "Leven came by in quite a huff! Said something about mogu in the ruins.Best be off to find him I think. Angry Leven is not a fun Leven.",
+    "name": "Guo-Lai Encampment",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35407",
+    "added_in_patch": 6,
+    "description": "Traitors, the lot!You're looking at the last bastion of forces still loyal to Admiral Taylor and the Alliance.I'll be damned if the defectors get away clean.You look like you're ready. Show them how we deal with their kind during times of war.",
+    "name": "Punishable by Death",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

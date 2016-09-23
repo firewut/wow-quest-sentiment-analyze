@@ -1,0 +1,7 @@
+{
+    "_id": "26727",
+    "description": "You're not the first fool to be manipulated by Abercrombie! That doddering old man is known as The Embalmer to us. He's a vile necromancer and a blight upon this town.And now, sewn together and given life by the very materials you brought him, his horrible creation approaches!That hideous creature will be upon us in mere moments! If you have any heart, <name>, you'll help the Night Watch drive off the abomination and save our town!",
+    "name": "The Embalmer's Revenge",
+    "requires_level": 19,
+    "zone": "Duskwood"
+}

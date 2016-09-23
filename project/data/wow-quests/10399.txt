@@ -1,0 +1,8 @@
+{
+    "_id": "10399",
+    "description": "It is just as I feared. Arix'Amal - the demon you killed earlier, was working for a secret Legionlord - Arazzius the Cruel. It appears this new villain has amassed a force of hellish terrorfiends near the Pools of Aggonar. You must journey there and slay the terrorfiends before they strike against us. But be wary, friend - the Pools of Aggonar lie within a tortured, poisonous valley. You can find the cursed pools to the northwest of here, beyond Hellfire Citadel. Light be with you, <name>.  \r\n",
+    "name": "The Heart of Darkness",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

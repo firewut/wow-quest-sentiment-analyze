@@ -1,0 +1,7 @@
+{
+    "_id": "7121",
+    "description": "<name>, our quartermaster charged me to direct new recruits to him.  He needs supplies from caches stored in the mines of Alterac, and he'll probably send you to get them.Follow the road.  You'll find our quartermaster to the west.",
+    "name": "The Quartermaster",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

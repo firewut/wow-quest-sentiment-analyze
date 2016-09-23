@@ -1,0 +1,7 @@
+{
+    "_id": "10279",
+    "description": "Ah, <name>. We have been expecting you. Please, allow one of my brothers to fly you down to the master. He awaits you below...",
+    "name": "To The Master's Lair",
+    "requires_level": 66,
+    "zone": "Caverns of Time"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10983",
+    "description": "Mog'dorg wise!  Him send Grok to city, look for help.  Bloodmaul clan need help.Mog'dorg say, send powerful little ones to him at Blade's Edge Mountains.  Him stand on tower at Circle of Blood.  Mog'dorg wise!",
+    "name": "Mog'dorg the Wizened",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

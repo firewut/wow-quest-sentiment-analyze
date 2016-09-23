@@ -1,0 +1,8 @@
+{
+    "_id": "37282",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "COLISEUM WINNER FLAG (MONUMENT FLAG-NO RESET)",
+    "requires_level": 100,
+    "zone": "The Coliseum"
+}

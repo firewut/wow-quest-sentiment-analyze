@@ -1,0 +1,7 @@
+{
+    "_id": "27237",
+    "description": "Well, I was able to make enough repairs to this gear to let you dive for awhile, anyway. I wouldn't count on it holding out for a long time, though.The wreckage of the ship is strewn along the bottom from the east coast of this island out toward Alcaz Island. While that helm holds out, locate pieces of the wreckage on the bottom between this island and Alcaz. Use this salvage kit to search the wreckage for pieces of the cargo. Be careful not to venture too close to Alcaz Island. Those hydra are fierce.",
+    "name": "Recover the Cargo!",
+    "requires_level": 32,
+    "zone": "Dustwallow Marsh"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39043",
+    "added_in_patch": 7,
+    "description": "This is an old drogbar enclave that we used to trade with. Now it is a base of operations for their raids.I need more time to gather what is left of our warbraves. Go, enter the enclave, and slay any you find in there.Buy us the time we need to gather our strength.",
+    "name": "Bitestone Enclave",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

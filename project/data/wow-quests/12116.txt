@@ -1,0 +1,7 @@
+{
+    "_id": "12116",
+    "description": "Greetings, <class>. It is kind of you to stop and listen to Kraz's tale.For many years Kraz has strained to hear the spirits and do their bidding.Recently,  many voices have been crying to Kraz from these ruins. They seek for a peace they cannot find on their own.If you would help the spirits of those who have come before, enter this crypt and collect something that once belonged to those tormented souls.",
+    "name": "It Takes Guts....",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

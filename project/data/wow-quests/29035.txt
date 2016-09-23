@@ -1,0 +1,7 @@
+{
+    "_id": "29035",
+    "description": "Your Winterspring cub looks at you and licks its lips. The little cat must be hungry and it's up to you to find a suitable meal for your charge.Rivern Frostwind mentioned keeping some shardtooth bear meat on hand for feeding his frostsaber cubs. Perhaps your cub would enjoy some fresh shardtooth meat of its own. Various kinds of shardtooth bears can be found all over Winterspring.",
+    "name": "A Cub's Cravings",
+    "requires_level": 50,
+    "zone": "Winterspring"
+}

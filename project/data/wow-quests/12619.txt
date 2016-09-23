@@ -1,0 +1,7 @@
+{
+    "_id": "12619",
+    "description": "The single most important piece of equipment to a death knight is the runeblade. It is through the runeblade that a death knight commands the powers of frost, blood and the unholy. The runeblade also acts as a vessel to store the death knight's runic power.The time has come to create your first runeblade. Search the weapon racks on this floor and locate a battle-worn sword. Once found, take the sword to a nearby runeforge and use it to create a runeblade.",
+    "name": "The Emblazoned Runeblade",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

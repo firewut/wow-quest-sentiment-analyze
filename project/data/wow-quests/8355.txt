@@ -1,0 +1,7 @@
+{
+    "_id": "8355",
+    "description": "A trick-or-treater!  Huzzah!Well now, even though you're doing something noble and collecting candies for a child, I can't let you off the hook that easily.  I have a yummy Gnomeregan Gumdrop to give to the sick child... if you make a train noise for me!  Haha, yes, that'll be the trick!  The price of this gumdrop is one train noise!Chugga-chugga, <class>!",
+    "name": "Incoming Gumdrop",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

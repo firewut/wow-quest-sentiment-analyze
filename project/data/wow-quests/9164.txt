@@ -1,0 +1,7 @@
+{
+    "_id": "9164",
+    "description": "Ah, yes.  One of my finest creations.  This draught will break most forms of alchemically induced stupor.Side effects include confusion, nausea and - in rare cases - temporary blindness.  All much preferable to whatever the Scourge plans to do to those prisoners in Deatholme, if you ask me.Best of luck, brave <class>.  You are going to need it.",
+    "name": "Captives at Deatholme",
+    "requires_level": 17,
+    "zone": "Ghostlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32995",
+    "added_in_patch": 5.4,
+    "description": "[TEMP TEXT] This scroll looks very old. Beneath dust and darkened smudges of blood, you can make out a few passages discussing \"mastery of weapons\".This could be valuable in your training.Perhaps there is an expert warrior somewhere who could tell you more about this scroll.",
+    "name": "A Blood-Caked Scroll",
+    "requires_level": 90,
+    "zone": "Warrior"
+}

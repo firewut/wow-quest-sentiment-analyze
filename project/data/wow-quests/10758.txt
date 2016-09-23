@@ -1,0 +1,7 @@
+{
+    "_id": "10758",
+    "description": "It's no good, <name>!  No matter how many coals I put to the fire, it's just not enough heat.There's only one thing I can think of that is hot enough to temper this key and it is the insides of the Legion's fel reavers.I've only ever seen one downed once.  I remember seeing its insides fuming, shooting fire and steam as it fell.  Take this mold and plunge it into a fallen fel reaver.  I recommend you get yourself some friends if you plan to take one down.",
+    "name": "Hotter than Hell",
+    "requires_level": 68,
+    "zone": "Hellfire Peninsula"
+}

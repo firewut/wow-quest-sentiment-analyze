@@ -1,0 +1,8 @@
+{
+    "_id": "26232",
+    "description": "A couple of thugs recently showed up at the farm, causin' all kinds of trouble. I don't know where they came from or who they're working for, but I KNOW they're bad news. I may have overheard 'em talkin' 'bout subjects that might interest you.If you're interested, you'll find the thugs back behind the farmhouse. If you get caught or killed, I don't know you. Never seen ya!Good luck, kid.",
+    "name": "Lou's Parting Thoughts",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

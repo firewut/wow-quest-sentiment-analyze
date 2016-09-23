@@ -1,0 +1,8 @@
+{
+    "_id": "850",
+    "description": "The centaurs have plagued the tauren for years. And recently, the Kolkar centaurs of the Barrens have grown into a real threat. Normally they were disorganized in these lands, but new leaders have risen among them. Rallying them.To preserve our holdings here, these centaur leaders must be destroyed.Bring me the head of Barak Kodobane. He camps west of these Forgotten Pools.Defeat him, then return to me.",
+    "name": "Kolkar Leaders",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

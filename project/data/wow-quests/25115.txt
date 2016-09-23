@@ -1,0 +1,7 @@
+{
+    "_id": "25115",
+    "description": "The hyenas wandering the wastes here might look scrawny, but they've got some of the strongest jaws you'll find! If you're not careful, they'll take a leg off in one bite. That kind of bone strength is a valuable resource, my friend, just waiting to find a buyer!Take one of my Butcherbots with you. Jaw separation isn't an easy task, and this little guy has been set up to know exactly what to do. Just bring him back when he's full.",
+    "name": "Blisterpaw Butchery",
+    "requires_level": 43,
+    "zone": "Tanaris"
+}

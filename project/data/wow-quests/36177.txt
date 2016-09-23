@@ -1,0 +1,9 @@
+{
+    "_id": "36177",
+    "added_in_patch": 6,
+    "description": "So you wish to join the competition, <name>? Best of luck to you.Be the first to gather a sack full of hides and talons from local wildlife and return them to me before the other competitors!Winner earns the opportunity for an apprenticeship under craftsman Garaal.Good luck!",
+    "name": "Friendly Competition",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

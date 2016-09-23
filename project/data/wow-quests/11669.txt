@@ -1,0 +1,7 @@
+{
+    "_id": "11669",
+    "description": "This old man is going hunting soon.  I'm gonna take down a mammoth shark off the coast of Azshara.The thing is, I need a toxin that'll stay on a spear tip while it's underwater.  To make that kind of stuff, I need the glands from a poisonous fish: the felblood snapper.Such a vile fish only thrives in the waters of Hellfire Peninsula and Shadowmoon Valley.  Bring me back a whopper and I'll be a happy old man.",
+    "name": "Felblood Fillet",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

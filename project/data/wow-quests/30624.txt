@@ -1,0 +1,8 @@
+{
+    "_id": "30624",
+    "added_in_patch": 5,
+    "description": "I been thinkin'.We got all this beer that Chen brewed, and we got all these people that you've gathered. We should bring the two together.There's a bunch o' folks out there in the fields, riskin' their lives for Pandaria. You an' I should at least bring 'em a keg or two.They might raise their mugs in victory. They might enjoy one last drink before gettin' skivvered by a mantid. Either way, I wouldn't want 'em to fight without a good brew in their belly.",
+    "name": "It Does You No Good In The Keg",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

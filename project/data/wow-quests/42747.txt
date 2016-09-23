@@ -1,0 +1,8 @@
+{
+    "_id": "42747",
+    "added_in_patch": 7,
+    "description": "Owlbeasts are often charged with protecting places of importance to Elune. But if her influence over them wanes or is cut off, the creatures can become dangerous.\r\n\r\nThese wildkin, unfortunately, must be dealt with. The recent disturbances in Val'sharah have driven these creatures to madness.\r\n\r\nOnce an individual is lost, there is only one way to address the problem.\r\n\r\nI cannot bring myself to kill one of Elune's creations, but I know what must be done.",
+    "name": "Where the Wildkin Are",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

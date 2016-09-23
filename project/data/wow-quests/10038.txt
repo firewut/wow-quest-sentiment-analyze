@@ -1,0 +1,8 @@
+{
+    "_id": "10038",
+    "description": "A report's just come in from one of our scouts near Grangol'var Village.  He says that a shadowy band has moved into the ruins there.<name>, I want you to speak with Private Weeks and see how you can assist him to figure out what this unknown group is up to.  Just head west past Stonebreaker Hold.  His last report puts his position near the north entrance to the village.",
+    "name": "Speak with Private Weeks",
+    "requires_level": 62,
+    "side": "alliance",
+    "zone": "Terokkar Forest"
+}

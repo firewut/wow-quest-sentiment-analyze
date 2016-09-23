@@ -1,0 +1,8 @@
+{
+    "_id": "35083",
+    "added_in_patch": 6,
+    "description": "No longer do the Warsong seek to be one with the elements; instead they abuse their power by using it to channel the darkness of the void.I will not tolerate these rituals to continue. Locate the ritual totems the Warsong use to channel the void and destroy them.The gift of the elements was not given to the orcs only to be defiled and used as a plaything.",
+    "name": "Disrupt the Rituals",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

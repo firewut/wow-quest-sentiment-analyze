@@ -1,0 +1,8 @@
+{
+    "_id": "42119",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "A Cleansing Cocktail",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32108",
+    "added_in_patch": 5.1,
+    "description": "Now it is time to show this new land the true strength of the Horde.Return to the beach and light the remaining signal fire. Our fleet is waiting.",
+    "name": "Domination Point",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

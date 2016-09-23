@@ -1,0 +1,8 @@
+{
+    "_id": "42844",
+    "added_in_patch": 7,
+    "description": "Lord Maxwell Tyrosus has requested your presence back at the Sanctum of Light.Our campaign to defend the Broken Isles is getting under way, and we need you at the helm.",
+    "name": "Growing Power",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

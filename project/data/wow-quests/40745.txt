@@ -1,0 +1,8 @@
+{
+    "_id": "40745",
+    "added_in_patch": 7,
+    "description": "This is as good a chance as we are going to get to rescue Verene's daughter.\r\n\r\nHere is how this is going to work. \r\n\r\nYou are going to wait here for the guard to pass by on their way to their guard shift. Look for something to hide in.\r\n\r\n<Silgryn marks a spot on your map.>\r\n\r\nYou will know the guard by their bright red armor.\r\n\r\nFollow closely, but not so closely that you are seen. It may be necessary to kill the guard when you reach your destination.\r\n\r\nThe child's name is Korine. Good luck.",
+    "name": "Shift Change",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

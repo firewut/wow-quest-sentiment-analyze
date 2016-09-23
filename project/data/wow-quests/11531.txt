@@ -1,0 +1,7 @@
+{
+    "_id": "11531",
+    "description": "This strange engine part doesn't look like it fits in a steam pump, much less anything else you've seen.  Perhaps K. Lee Smallfry might know something about it.",
+    "name": "Strange Engine Part",
+    "requires_level": 55,
+    "zone": "Fishing"
+}

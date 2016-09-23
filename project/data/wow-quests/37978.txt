@@ -1,0 +1,7 @@
+{
+    "_id": "37978",
+    "description": "The last orc to be found was a hermit who kept away from the bulk of the Shadowmoon orcs at the Pillars of Fate camp, but was often seen in the high hills above. The journal reads:\r\n\r\n\"It is said, however, that he can often be seen among the graves upon the high hill, overlooking the camp below.  There he would commune with the dead ancestors, whom it is said he preferred over his living brethren.\"",
+    "name": "Dream of Argus: The Final Fragment",
+    "requires_level": 100,
+    "zone": "Shadowmoon Valley"
+}

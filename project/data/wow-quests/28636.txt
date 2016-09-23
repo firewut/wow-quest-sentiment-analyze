@@ -1,0 +1,7 @@
+{
+    "_id": "28636",
+    "description": "The spirits of my soldiers haunt this fort now,  lad. Their souls are now bound to this place. Even in death they continue to fight for it. 'Tis sad.Put 'em out o' their misery and perhaps ye shall have the spoils of yer people's victory.",
+    "name": "Silence of the Dwarves",
+    "requires_level": 23,
+    "zone": "Hillsbrad Foothills"
+}

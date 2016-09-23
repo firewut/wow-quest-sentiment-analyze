@@ -1,0 +1,7 @@
+{
+    "_id": "14082",
+    "description": "This pamphlet advertising riding training and mount purchases was sent from Aalun.Aalun can be found at the entrance to the Exodar on Azuremyst Isle.",
+    "name": "Learn to Ride at the Exodar",
+    "requires_level": 20,
+    "zone": "Azuremyst Isle"
+}

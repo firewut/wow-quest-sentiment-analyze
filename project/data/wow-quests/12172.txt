@@ -1,0 +1,7 @@
+{
+    "_id": "12172",
+    "description": "Welcome, mage.By now you must be wondering where Dalaran is and how to get there. I will help you.But before I can teach you how to teleport to our great city, you must attune yourself to the ley lines of Northrend. Otherwise, you risk destroying yourself in the process.Take this attunement crystal and use it in the pit under the surge needle at the Moonrest Gardens to the west. Then you will be ready to learn the spell.",
+    "name": "Attunement to Dalaran",
+    "requires_level": 71,
+    "zone": "Mage"
+}

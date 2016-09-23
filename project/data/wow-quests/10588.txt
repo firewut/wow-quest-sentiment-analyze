@@ -1,0 +1,7 @@
+{
+    "_id": "10588",
+    "description": "How many times has this spell been used in the history of our worlds? Undoubtedly, its power for destruction is unparalleled.What you must do now is take the cipher, now made whole, and read from it at the Altar of Damnation - where the memory of Gul'dan stands.What you will see once the words are uttered are the memories left imprinted upon the land. Stand your ground and await the coming of Cyrukh.You must be victorious, <name>. This land cannot withstand another shattering.",
+    "name": "The Cipher of Damnation",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

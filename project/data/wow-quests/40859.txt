@@ -1,0 +1,8 @@
+{
+    "_id": "40859",
+    "added_in_patch": 7,
+    "description": "So Grapplehammer's got hisself a whole lotta extra guns, right? Glorious! An'it got me ta thinkin', \"What if we put 'em on our heads?\"Hear me out!See, yer hands are already busy with yer current weapons, but what's yer head doin'? It's just sittin' there LOOKIN' at stuff. That's me plan. Weaponize yer head!You, me lucky lad, can test it out. Strap this on. Now, go blast some fel-tainted critters down below. Blammo!",
+    "name": "The Latest Fashion: Headguns!",
+    "requires_level": 98,
+    "zone": "Engineering"
+}

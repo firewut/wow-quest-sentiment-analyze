@@ -1,0 +1,7 @@
+{
+    "_id": "28257",
+    "description": "Yes, Illidan took the power of the Skull of Gul'dan for himself.But did he flee with it into the night? Did he use it for his own glory? No... his very first action was to use his new power to assault the dreadlord Tichondrius!Witness his triumph, <class>. Witness how Illidan reclaimed Felwood from the demons... and the thanks he was given.",
+    "name": "The Fall of Tichondrius",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

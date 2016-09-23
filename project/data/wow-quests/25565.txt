@@ -1,0 +1,7 @@
+{
+    "_id": "25565",
+    "description": "We've had our first big find in years here at the Southmoon ruins. My lads have dug up stone tablets, engraved with ancient writings.The glyphs on the tablets are like nothing we've ever seen, but I have a hunch we can connect them with titanic scripts found at other digsites. Imagine what a breakthrough like that could mean! I need you to go to the Southmoon ruins and help us collect the tablets; the other lads can't leave, lest the blood elves take our site!",
+    "name": "Fragments of Language",
+    "requires_level": 47,
+    "zone": "Tanaris"
+}

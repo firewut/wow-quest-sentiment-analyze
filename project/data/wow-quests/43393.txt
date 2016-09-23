@@ -1,0 +1,8 @@
+{
+    "_id": "43393",
+    "added_in_patch": 7,
+    "description": "News of my return will spread fast among those who share my beliefs. Soon Azeroth will see the rise of Shadows, but I imagine this is not news to you.\r\n\r\nWhatever your plan may be, I hope it continues to see the Cult of Forgotten Shadows as allies.",
+    "name": "Rising Shadows",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

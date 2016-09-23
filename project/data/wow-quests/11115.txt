@@ -1,0 +1,7 @@
+{
+    "_id": "11115",
+    "description": "",
+    "name": "The Mark of Vashj (FLAG ONLY)",
+    "requires_level": 70,
+    "zone": "The Slave Pens"
+}

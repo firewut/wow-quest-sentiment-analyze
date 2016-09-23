@@ -1,0 +1,8 @@
+{
+    "_id": "8895",
+    "description": "I'm pleased to discover that you're at least somewhat competent, <name>.  I'll give you another task since you seem so eager to prove yourself.This is a letter to Ley-Keeper Caidanis, the arcanist in charge of the upkeep of the North Sanctum.  Go southwest of Falconwing Square  and you will find him.  He is a very important person, so I hope you don't bother him too much with trivial chatter.",
+    "name": "Delivery to the North Sanctum",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

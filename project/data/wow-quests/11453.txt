@@ -1,0 +1,7 @@
+{
+    "_id": "11453",
+    "description": "A sheaf of parchment drops from the still hand of the overlord. Upon it you can discern the outline of the rituals that are taking place in the catacombs below.However, it appears that the queen of the vrykul, Angerboda, is having difficulty awakening King Ymiron. The ritual is taking place within the large chamber, known as the Winter's Terrace, on the north end of Gjalerbron.If you hurry, you may be able to stop her before it is too late.",
+    "name": "The Slumbering King",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

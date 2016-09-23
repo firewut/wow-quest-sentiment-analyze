@@ -1,0 +1,8 @@
+{
+    "_id": "44099",
+    "added_in_patch": 7,
+    "description": "It's good to see you are well.\r\n\r\nI've been sent by our mutual friend, Calydus. He is eager to speak with you.\r\n\r\nPlease return to Dreadscar Rift at your earliest convenience.",
+    "name": "A Mutual Friend",
+    "requires_level": 101,
+    "zone": "Warlock Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30614",
+    "added_in_patch": 5,
+    "description": "When the yaungols came, they began to dig up oil. What is this \"oil\", I wonder? Perhaps it is thing of much undiscovered luck. This I must know.Here, take this vial, and fill it with yaungol oil from one of their windmills. I will give you many fortunes if you bring me some.",
+    "name": "Oil Stop",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

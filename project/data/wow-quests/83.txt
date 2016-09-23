@@ -1,0 +1,8 @@
+{
+    "_id": "83",
+    "description": "The thugs in Elwynn wear linen which I can use to make fine linen goods.Bring me linen scraps and I'll use them to fashion something for you.You'll find those lawless criminals in pockets across Elwynn Forest.",
+    "name": "Fine Linen Goods",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Elwynn Forest"
+}

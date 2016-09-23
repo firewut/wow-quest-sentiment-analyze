@@ -1,0 +1,8 @@
+{
+    "_id": "41169",
+    "added_in_patch": 7,
+    "description": "I can't believe that after all that searchin' ye did, it's still missing a chapter!I'm willin' ta bet that those satyrs got a hand on it and took it somewhere. Probably somewhere dark where no one could find it.I've heard rumors of a place, the Darkheart Thicket they call it, where the strongest of the satyrs are.If I had ta guess, I'd say ye need to go there and look around fer it.",
+    "name": "Through the Fog",
+    "requires_level": 110,
+    "zone": "Archaeology"
+}

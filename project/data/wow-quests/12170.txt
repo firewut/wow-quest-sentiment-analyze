@@ -1,0 +1,7 @@
+{
+    "_id": "12170",
+    "description": "The Venture Company abandoned operations shortly after we showed up.  Clearly they were afraid of what we were going to do to their greedy little hides.With them gone, their logging camps are up for grabs.  Our war machine is a hungry beast... without renewing our supplies we won't make it to Icecrown.Unfortunately the Alliance seems to have the same idea and we must make sure we're the ones that prevail.  Head into the logging camp and help us fight the Alliance scum.",
+    "name": "Blackriver Brawl",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

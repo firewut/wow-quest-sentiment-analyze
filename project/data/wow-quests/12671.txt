@@ -1,0 +1,7 @@
+{
+    "_id": "12671",
+    "description": "It's about time we had planes up and running in this place.  The professor's been asking me to check out a strange weather pattern coming from the northeast.Thing is, I'm going to need a co-pilot if we're going into uncharted territory.  No way in hell I'm heading out there alone.What do you say,  tough-guy ?  You might learn a thing or two.  And once you learn to deal with the northern winds... you can pretty much fly anywhere.",
+    "name": "Reconnaissance Flight",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

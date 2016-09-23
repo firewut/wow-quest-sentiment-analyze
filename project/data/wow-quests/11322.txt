@@ -1,0 +1,7 @@
+{
+    "_id": "11322",
+    "description": "Of late I've had nightmares concerning a worg named Ulfang. He has called out for help, and you must go to him.However, you do not have the means to speak with him, or walk amongst the other worgs. I know a way.But first, you must cleanse your inner turmoil through meditation.There is a shrine that sits at the top of Frostblade Peak, far to the northeast. A single path leads up to it from the western base of the mountain.Meditate there to cleanse yourself and then return to me.",
+    "name": "The Cleansing",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

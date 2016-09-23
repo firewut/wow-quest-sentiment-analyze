@@ -1,0 +1,7 @@
+{
+    "_id": "12630",
+    "description": "Before you meet Nass, there's something you should know.He got a toxic dose of blight back in the day, and now he's deaf, blind, and mostly numb.It's not all bad, though. He's virtually immune to the stuff now, which makes him perfect for certain tasks - like the one I'm about to give you.There are many freshly scourged trolls nearby and we need to study the blight's effect on them. Take Nass, and this boot. When you've slain a troll, give him a good kick and he'll know to take a hair sample.",
+    "name": "Kickin' Nass and Takin' Manes",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

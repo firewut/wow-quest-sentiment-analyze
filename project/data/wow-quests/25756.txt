@@ -1,0 +1,7 @@
+{
+    "_id": "25756",
+    "description": "If we're going to get those oil drilling rights, we need to know what the Horde is offering. How can we win if we can't do them one better?!Their negotiator, Trackmaster Zherin, is up there talking with one of their khans right now. Why don't you head up and persuade him to hand over the Horde's proposal?You don't have to kill him... we're not savages! Just rough him up a bit.",
+    "name": "Get Zherin!",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

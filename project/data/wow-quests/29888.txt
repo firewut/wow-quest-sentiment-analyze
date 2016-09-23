@@ -1,0 +1,9 @@
+{
+    "_id": "29888",
+    "added_in_patch": 5,
+    "description": "I see that you and your people are desperate to find your Prince Anduin.I know someone who may be able to help you, a pandaren Lorewalker who knows this land better than anyone. I cannot guarantee what kind of reception you will receive, but he will almost certainly be as curious about you as you are of him!The Lorewalker lives in the forest to the southwest. Tell him that the Pearlfin have sent you.",
+    "name": "Seek Out the Lorewalker",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30496",
+    "added_in_patch": 5,
+    "description": "There is great dissent in Inkgill, <race>. Elder Shai Hu drank the sha-corrupted waters of the mere, and forced the others to do the same. When I protested, Orachi of the town guard confiscated my ritual staff and banished me.Now, I am not only an exile, I am unable to speak with the waters that once gave me guidance!I am not a fighter. But if you are, perhaps you can recover my staff from Orachi? He is in town to our north.",
+    "name": "The Waterspeaker's Staff",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

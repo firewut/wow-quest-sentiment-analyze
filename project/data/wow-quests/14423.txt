@@ -1,0 +1,8 @@
+{
+    "_id": "14423",
+    "description": "...what we need is a priest!Fortunately I have a small budget set aside for the blessing of machinery. Take this flare gun and head over to Margene, my poor sweet busted bulldozer. Fire off the signal and one of our finest airborne priests should airdrop in to get a handle on the situation. Come back when my bulldozer is taken care of!",
+    "name": "Dozercism",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

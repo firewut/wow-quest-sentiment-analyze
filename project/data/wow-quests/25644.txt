@@ -1,0 +1,7 @@
+{
+    "_id": "25644",
+    "description": "The egg is unlike any that you've seen before.  Its translucent shell appears to bend the light around it.Accompanying it, you find a note describing the arrival of a fertile broodmother at the Ascendant's Rise.Perhaps you should show this to Aronus.",
+    "name": "The Twilight Egg",
+    "requires_level": 78,
+    "zone": "Mount Hyjal"
+}

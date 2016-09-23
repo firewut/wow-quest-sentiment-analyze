@@ -1,0 +1,7 @@
+{
+    "_id": "28479",
+    "description": "At this lake, the Crystal of Zin-Malor was stolen by the Highborne. The crystal was a powerful artifact that bent arcane magic in wild and unpredictable ways... but it could only be held by the worthy, and brought doom upon all others.The spirits that wander here span generations, each shackled here by Zin-Malor. Some will speak and tell their fates.Should you wish to learn the fate of Zin-Malor, seek the spirit at the center of the lake...",
+    "name": "The Ruins of Kel'Theril",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

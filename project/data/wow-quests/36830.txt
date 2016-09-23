@@ -1,0 +1,8 @@
+{
+    "_id": "36830",
+    "description": "The demons are at our heels, Commander. Cow's milk is sour. A crone gave me an evil look this morning. The sky just doesn't seem... right.",
+    "name": "Shadow Council Invasion!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

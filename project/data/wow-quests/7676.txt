@@ -1,0 +1,7 @@
+{
+    "_id": "7676",
+    "description": "",
+    "name": "White Mechanostrider Replacement",
+    "requires_level": 30,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "1467",
+    "description": "To get paid, you're gonna have to get back to Ironforge and speak to Roetten himself. He'll love getting Leftwitch's package out of the way anyway. Just give him this and it should be enough to get your booty.And don't worry, I'm still going to put in a good word for you when I get back. I shouldn't be in Desolace much longer.",
+    "name": "Reagents for Reclaimers Inc.",
+    "requires_level": 30,
+    "zone": "Desolace"
+}

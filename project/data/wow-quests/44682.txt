@@ -1,0 +1,8 @@
+{
+    "_id": "44682",
+    "added_in_patch": 7,
+    "description": "Power is all around us, <name>, waiting to be harnessed.You must venture out into the world and claim it for the council!With our First wielding such unparalleled power, our enemies won't stand a chance.",
+    "name": "Unparalleled Power",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

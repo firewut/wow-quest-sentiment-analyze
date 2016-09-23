@@ -1,0 +1,8 @@
+{
+    "_id": "41921",
+    "added_in_patch": 7,
+    "description": "The Legerdemain Lounge isn't far from here. We have agents nearby who can secure the area.Come prepared for a fight. Akaari won't go down easily.",
+    "name": "Closing In",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

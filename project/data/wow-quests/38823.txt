@@ -1,0 +1,8 @@
+{
+    "_id": "38823",
+    "added_in_patch": 7,
+    "description": "The stone tablet here describes a ritual where a powerful spirit can be broken into weaker pieces by binding them to special runestones. It looks like the Bonespeakers may be using this very ritual to weaken the spirit of Ashildir.\r\n\r\nIt may be impossible to summon her with her spirit so weakened. The rituals must be stopped.",
+    "name": "The Runes that Bind",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

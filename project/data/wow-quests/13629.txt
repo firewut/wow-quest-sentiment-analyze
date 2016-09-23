@@ -1,0 +1,7 @@
+{
+    "_id": "13629",
+    "description": "The Archivum Console has hinted at a possible way to rebind the fragments of Val'anyr:  you must get the fragments inside the physical form of the being known as Yogg-Saron.It sounds like a long shot, but for an artifact of such power you think the risk might just be worth it.",
+    "name": "Val'anyr, Hammer of Ancient Kings",
+    "requires_level": 80,
+    "zone": "Quests"
+}

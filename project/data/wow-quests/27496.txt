@@ -1,0 +1,7 @@
+{
+    "_id": "27496",
+    "description": "I prefer a stand up honorable fight. These monsters deserve nothing better than to be destroyed by the weapons in our hands. However, this particular situation calls for the use of more powerful measures.Take this flare and mark each of the four buildings within the Twilight Gate to the southwest. Our cannons will handle the rest.",
+    "name": "Call in the Artillery",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

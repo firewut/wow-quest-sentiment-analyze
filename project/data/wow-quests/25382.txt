@@ -1,0 +1,7 @@
+{
+    "_id": "25382",
+    "description": "The firestorms up ahead are unbound elementals in the purest form - something I didn't think could exist outside their own plane. Only very skilled summoners could unleash something like this.<name>, head into the Inferno and seek out Twilight Inferno Lords. They've got to be summoning in reinforcements as we speak. Silence them... For good!",
+    "name": "Disrupting the Rituals",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

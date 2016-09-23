@@ -1,0 +1,8 @@
+{
+    "_id": "11703",
+    "description": "The Scourge agent that's overseeing the abduction and transformation of Horde soldiers into undead monsters is using the northwest farm as a spawning glade. Shadowstalker Getry has been staking out that monster for the past week and has gathered some vital information that might allow us to end this menace.Get to Getry and see if you can help him put a stop to this Scourge assembly line. You'll find Getry at the abandoned tower on the northwest border of these farms.",
+    "name": "Get to Getry",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

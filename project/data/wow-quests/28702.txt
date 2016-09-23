@@ -1,0 +1,8 @@
+{
+    "_id": "28702",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Bronwyn Hewstrike at the Explorers' League Digsite.The Explorers' League expedition needs your help to safeguard its site and findings from marauding ogres. Travel south from Northern Stranglethorn Vale and follow the road to the Explorers' League Digsite.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: The Cape of Stranglethorn!",
+    "requires_level": 29,
+    "side": "alliance",
+    "zone": "The Cape of Stranglethorn"
+}

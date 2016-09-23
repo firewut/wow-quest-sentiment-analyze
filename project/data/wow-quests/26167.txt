@@ -1,0 +1,8 @@
+{
+    "_id": "26167",
+    "description": "To summon our demon, we need three amulets, and the first is the Amulet of Allistarj.Allistarj himself is dead, but he locked his amulet up in a trove inside this very cave.  Along with the other amulets, this relic will give us access to Razelikh's perch.<Kasim concentrates for a moment.>The amulet is close to the entrance.  I recommend using the teleporter.",
+    "name": "The Amulet of Allistarj",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

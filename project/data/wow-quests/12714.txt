@@ -1,0 +1,7 @@
+{
+    "_id": "12714",
+    "description": "It is the will of the Lich King that drives us onward, <name>. None are more aware of this than death knights. Our very existence is intrinsically tied to his consciousness. Surely you have heard him speak to you - invading your thoughts...Can you hear him now? Perhaps it is too early for you.<Mograine closes his eyes and nods to an unseen host.>Yes, my lord. It will be done.<name>, you are to return to Death's Breach and report to Prince Valanar. The Lich King commands it!",
+    "name": "The Will Of The Lich King",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

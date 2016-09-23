@@ -1,0 +1,8 @@
+{
+    "_id": "26171",
+    "description": "Hero, listen well.First, we must travel to the Deathly Usher, who waits at the northern foot of the Rise of the Defiler, to our northwest.  The usher will take us to the top of the rise.  Once there, you will help me defeat Razelikh, for I fear I am not strong enough to defeat him alone.Most importantly, I need you to hold the stone knife, and do not use it until I tell you to.  The knife will trap Razelikh's soul within its new, eternal prison.If we succeed, speak with Grimeo, the draenei.",
+    "name": "You Are Rakh'likh, Demon",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

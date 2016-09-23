@@ -1,0 +1,8 @@
+{
+    "_id": "29609",
+    "description": "Welcome to Northrend. I have been asked to arrange travel for you to Dalaran so that you can meet our friends in the city.Speak with me and accept a ride to Dalaran. Once you land, make your way to The Filthy Animal.Make contact with Uda the Beast immediately.She can help you bind your hearthstone to the city so you can use the portal in Sunreaver's Sanctuary to travel back to Orgrimmar quickly.",
+    "name": "Friends in Dalaran",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Dalaran"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13575",
+    "description": "If we're to stabilize the forces of nature, we'll need every little bit of help we can get.  The furbolg of the Blackwood tribe have long inhabited the area and have strong ties to the land.Their elder Shaman, Elder Brownpaw, wields great power over the elements -- his assistance would be invaluable.  See if you can obtain their aid.",
+    "name": "The Land Is in Their Blood",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

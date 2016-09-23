@@ -1,0 +1,8 @@
+{
+    "_id": "38786",
+    "added_in_patch": 7,
+    "description": "Leystone is a sensitive ore. Our smiths can coax great power out of it, but as miners, we must treat it with respect, or else its power will retreat inward.<The tauren hands you what appears to be a GLASS mining pick.>The next time you mine some leystone ore, use this pick. It will break if you strike too hard. THIS is the respect that leystone requires.",
+    "name": "Where Respect is Due",
+    "requires_level": 98,
+    "zone": "Mining"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13225",
+    "description": "We were neck deep in Scourge and Horde. The screams of the dying covered that field. It was torturous... unrelenting!At some point my body gave out. I fell, only to be awoken by the Argent Crusade. They pulled me out of the Broken Front and brought me here. I'm not going to make it. Grant a dying soldier one last wish, <race>? Our base, the Skybreaker, flies high above Icecrown. It is there that you'll find my commanding officer, High Captain Bartlett. Tell him that I died a soldier of the Alliance.",
+    "name": "The Skybreaker",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

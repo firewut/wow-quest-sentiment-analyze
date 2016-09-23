@@ -1,0 +1,8 @@
+{
+    "_id": "43381",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Mariella Ward",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

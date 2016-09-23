@@ -1,0 +1,7 @@
+{
+    "_id": "27405",
+    "description": "<The F.C.D. buzzes.><Howls can be heard in the background.><name>, do you read me? Come in, <name>. This is likely my final transmission. The worgen have overrun Forsaken Forward Command. It is now only a matter of time before the base is lost. Belmont and the val'kyr, Arthura, have left. Belmont mentioned that they will rendezvous with you at Emberstone Village, located to the northeast. Find Belmont, <name>. Our mission - our very existence - depends on it.You are our final hope.",
+    "name": "Fall Back!",
+    "requires_level": 12,
+    "zone": "Ruins of Gilneas"
+}

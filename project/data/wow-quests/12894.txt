@@ -1,0 +1,7 @@
+{
+    "_id": "12894",
+    "description": "Crusader Dargath, Crusader MacKellar, Engineer Reed and the twins, Gerk and Burr, were sent to the Dead Fields to establish a battle front days ago. As of my last correspondence with them, they had successfully established a camp on the border of the Dead Fields, northwest of here.In light of this newfound information about Drakuru and Prince Navarius I think it would be prudent to send someone to the Crusader Forward Camp post-haste.Pack up your belongings, <name>. You must leave at once!",
+    "name": "Crusader Forward Camp",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

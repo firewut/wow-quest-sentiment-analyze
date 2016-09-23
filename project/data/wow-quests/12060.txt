@@ -1,0 +1,8 @@
+{
+    "_id": "12060",
+    "description": "This is a teleportation device. If I had to guess, I'd say that it leads to the surge needle platform floating above the Moonrest Gardens to the west.I need you to use it to investigate what's up there. It appears that the device works both ways so you shouldn't have to jump off.I expect that once you teleport to the top of the surge needle, there will be some sort of apparatus on it to observe.You should be able to use the teleporter from anywhere within the gardens.",
+    "name": "Projections and Plans",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

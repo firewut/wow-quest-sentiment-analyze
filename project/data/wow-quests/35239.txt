@@ -1,0 +1,8 @@
+{
+    "_id": "35239",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "New Owner",
+    "requires_level": 94,
+    "zone": "Talador"
+}

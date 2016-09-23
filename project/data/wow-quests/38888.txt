@@ -1,0 +1,8 @@
+{
+    "_id": "38888",
+    "added_in_patch": 7,
+    "description": "Ye've brought me a bit of interesting rocks to look at, <name>. I've got a special assignment for ye, if ye're up for it.I hear stories about these tauren, up in Highmountain, who claim mastery over minin'. I don't know if they're as talented as you or me, but they've been minin' leystone longer.Pay 'em a visit. See what they have to say.",
+    "name": "The Highmountain Tauren",
+    "requires_level": 98,
+    "zone": "Mining"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35483",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Drak'Tharon Keep Reward Quest",
+    "requires_level": 72,
+    "zone": "Quests"
+}

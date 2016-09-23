@@ -1,0 +1,7 @@
+{
+    "_id": "12589",
+    "description": "So you think you can shoot?Well, let's give it a try. Here, we'll start you out with something nice and gentle. Don't worry, it's got no kick to it at all. Remember, don't point that gun at anything you don't intend to fire at.Now, when you're ready, just take aim at that apple on top o' old Lucky Wilhelm's head and let 'er fly!",
+    "name": "Kick, What Kick?",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

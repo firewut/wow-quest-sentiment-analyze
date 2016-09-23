@@ -1,0 +1,7 @@
+{
+    "_id": "38994",
+    "added_in_patch": 7,
+    "description": "(PH)\r\nDarkgrove has run out of places to hide. Now it is time to finish him off.If we stop him now, there may be hope for this valley yet.",
+    "name": "TRACKING Encounter Botanist",
+    "zone": "Val'sharah"
+}

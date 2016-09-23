@@ -1,0 +1,7 @@
+{
+    "_id": "14164",
+    "description": "Victory in Northrend will be ours soon... but not until we obtain a foothold in Icecrown to transport and supply our forces.The Isle of Conquest is an ideal location.  It is easily defensible and rich in resources.  The Alliance have reached the same conclusion and have sent the Seventh Legion to wrest control of it from our forces.Go, <name>, and ensure that the Horde prevails at any cost!",
+    "name": "Call to Arms: Isle of Conquest",
+    "requires_level": 71,
+    "zone": "Isle of Conquest"
+}

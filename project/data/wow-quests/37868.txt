@@ -1,0 +1,7 @@
+{
+    "_id": "37868",
+    "description": "You like this big race, do you? Me too!\r\n\r\nIt has four legs: get to the purple post, then green, then red, then back here.\r\n\r\nYour time matters, so do it fast!",
+    "name": "More Big Racing!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

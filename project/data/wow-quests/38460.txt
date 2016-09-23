@@ -1,0 +1,8 @@
+{
+    "_id": "38460",
+    "added_in_patch": 7,
+    "description": "Hey there!You seem like a gullib- er... um... \"intelligent\" type.I propose a deal.I need a minion to be my muscle to help me acquire a few special... \"ingredients\" for a ritual.In exchange, I'll give you my former master to do with whatever you demon-slaying types do with demons.If you are interested, just sign here. In blood, please.",
+    "name": "Let's Make A Deal",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

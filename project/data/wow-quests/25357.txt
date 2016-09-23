@@ -1,0 +1,7 @@
+{
+    "_id": "25357",
+    "description": "So many good men have been lost today. Without you, that number would be even higher.You have our gratitude.If what the shaman says is true, then there is no time to spare. The naga are scouring these waters looking for survivors.We are not yet ready to fight. You must buy us time to make preparations. Find the naga that hunt us and delay their efforts.",
+    "name": "Buy Us Some Time",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

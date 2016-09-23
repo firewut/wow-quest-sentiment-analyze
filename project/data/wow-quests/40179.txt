@@ -1,0 +1,8 @@
+{
+    "_id": "40179",
+    "added_in_patch": 7,
+    "description": "There's a land below - Stormheim, they call it - that's inhabited by vrykul. I remember the vrykul from my days in Northrend.What I remember most was how well-crafted their armor was.If the vrykul here are as skilled as the ones in Northrend, then I'm certain we can learn something by studying their armaments.",
+    "name": "Stormheim Savagery",
+    "requires_level": 98,
+    "zone": "Leatherworking"
+}

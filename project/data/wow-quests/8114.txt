@@ -1,0 +1,7 @@
+{
+    "_id": "8114",
+    "description": "<name>, you have taken the battle of Arathi Basin to our enemies and earned great honors in that field of battle.  You have shown us your worth as a <class>, and you have shown our enemies that we will not submit to their villainy!Because of your proven value to us, I have a difficult task for you.  I want you to take and hold at least four of the bases in Arathi Basin.  If you can do that, then we will not only secure critical resources, we will show the Horde our dominance!Go, <name>, and good fortune. ",
+    "name": "Control Four Bases",
+    "requires_level": 60,
+    "zone": "Arathi Basin"
+}

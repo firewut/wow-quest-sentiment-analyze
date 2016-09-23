@@ -1,0 +1,8 @@
+{
+    "_id": "29620",
+    "added_in_patch": 5,
+    "description": "The banquet should be starting any time now. Go find the High Elder and pay your respects. I'll be right behind you.",
+    "name": "The Great Banquet",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

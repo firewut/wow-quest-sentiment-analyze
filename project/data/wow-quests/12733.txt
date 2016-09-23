@@ -1,0 +1,7 @@
+{
+    "_id": "12733",
+    "description": "Born of the Lich King's victory over Illidan Stormrage in the heart of the frozen wastes, Death's Challenge is a rite of passage that all death knights must undergo.Seek out other death knights of Acherus and challenge them to a duel. They must accept and fight until a victor emerges!Go now, <name>! Victory for the Scourge! Glory to the Lich King!\r\n",
+    "name": "Death's Challenge",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

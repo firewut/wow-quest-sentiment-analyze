@@ -1,0 +1,8 @@
+{
+    "_id": "38241",
+    "description": "Commander, I've heard reports of a strange stone found in the garrison mine.  The miners aren't sure what to make of it, but I have a feeling it could be useful.When you next find yourself at the mine, it may be worth investigating.  And if you don't mind, I would love to see the stone for myself.",
+    "name": "Unearthed Magic",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

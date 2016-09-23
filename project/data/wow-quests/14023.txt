@@ -1,0 +1,7 @@
+{
+    "_id": "14023",
+    "description": "Our spice bread stuffing is the cornerstone of the Pilgrim's Bounty table. The recipe has always been a favorite in Stormwind and now it has taken its place in the bountiful cookbook.If you are already a cook, pay a visit to the Pilgrim's Bounty vendor to get your copy of the cookbook and all the local ingredients you'll need to prepare holiday fare. And if you're not yet a cook, there's no better time to start!Once you've made the stuffing, bring it to Jasper Moore over near the tables.",
+    "name": "Spice Bread Stuffing",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

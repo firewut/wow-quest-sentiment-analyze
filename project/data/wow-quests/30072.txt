@@ -1,0 +1,8 @@
+{
+    "_id": "30072",
+    "added_in_patch": 5,
+    "description": "Would you like to be a Silkmaster for a day?The first thing you'll need are fresh mulberry leaves. You can find them in our grove of mulberry bushes to the northwest.Next you will need to feed them to a hungry silkworm in our feeding pit to the west.And finally you should get some raw silk from our processing hut on the south side of our farm.Have fun!",
+    "name": "Where Silk Comes From",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

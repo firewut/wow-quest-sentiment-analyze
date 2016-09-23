@@ -1,0 +1,7 @@
+{
+    "_id": "25159",
+    "description": "Dr. Vernstrom has been working on this new stardust - what with the fashion in Orgrimmar this season being about all things sparkly, I'm sure if we can get it to the market it will be all the rage!  The Jewelcrafter's Association, however, won't let us market it until we've completed some \"live testing\" - something about tinkering with magical dust being dangerous or some such nonsense.  Well, I suppose we need to humor them.  Take this bag and test out Stardust No. 2 on humanoid subjects.",
+    "name": "The Latest Fashion!",
+    "requires_level": 1,
+    "zone": "Jewelcrafting"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38933",
+    "added_in_patch": 7,
+    "description": "I think we are ready to... reintroduce ourselves to the Legion on the Broken Isles.Lord Grayson Shadowbreaker has volunteered to help coordinate our forces on the ground. You should speak with him immediately, Highlord.",
+    "name": "Logistical Matters",
+    "requires_level": 98,
+    "zone": "Paladin Campaign"
+}

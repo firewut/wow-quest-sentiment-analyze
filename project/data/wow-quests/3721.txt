@@ -1,0 +1,7 @@
+{
+    "_id": "3721",
+    "description": "",
+    "name": "An OOX of Your Own",
+    "requires_level": 40,
+    "zone": "The Cape of Stranglethorn"
+}

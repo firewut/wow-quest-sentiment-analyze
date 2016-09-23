@@ -1,0 +1,7 @@
+{
+    "_id": "9389",
+    "description": "The Midsummer Fire Festival traditionally lights up the land with a myriad of flames. Some argue that the green fires are the finest, as they are the hardest to maintain and have such a distinctive hue.Make sure they still burn in the Eastern Kingdoms for our Flamekeeper. They sit near Dun Modr in the Wetlands, close to Pyrewood Village within Silverpine Forest, on the cliffs overlooking the lighthouse in Westfall, and by the ruined tower in Hillsbrad Foothills.",
+    "name": "Flickering Flames in the Eastern Kingdoms",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

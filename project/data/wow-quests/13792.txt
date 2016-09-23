@@ -1,0 +1,7 @@
+{
+    "_id": "13792",
+    "description": "Now that the demon gates have been destroyed, the power of the forest must be replenished. The Forest Heart must be retrieved!Gaivan Shadewalker, a powerful druid of the claw, has gone southwest, past Felfire Hill, to the Dor'Danil Barrow Den. Therein rests the Forest Heart. It is protected by the druids of Ashenvale deep below the ground.Seek out Gaivan and tell him of what has transpired, <name>.",
+    "name": "The Shadewalker",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

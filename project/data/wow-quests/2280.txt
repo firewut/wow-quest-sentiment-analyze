@@ -1,0 +1,7 @@
+{
+    "_id": "2280",
+    "description": "Touching the Discs of Norgannon once again makes your hand tingle.  This time, however, a strange grinding noise is heard from inside the discs.Your backpack suddenly becomes heavier than it was before.  Inside, you discover a miniature version of the discs!No doubt, an item of this sort would be invaluable for someone interested in the ancient history of Azeroth.  Someone would sure be interested in this!",
+    "name": "The Platinum Discs",
+    "requires_level": 35,
+    "zone": "Uldaman"
+}

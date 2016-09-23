@@ -1,0 +1,9 @@
+{
+    "_id": "36861",
+    "added_in_patch": 6,
+    "description": "Commander, a goblin courier arrived this morning.He mentioned that he is from a settlement in the Spires of Arak called the Pinchwhistle Gearworks. They have requested our assistance with some sort of ecological disaster.If we can earn their trust it'll be worth the effort. Head down there and see what sort of assistance we can provide.I've already spoken to the flight master and he's set up a special flight to get you out there.",
+    "name": "Pinchwhistle Gearworks",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "36601",
+    "description": "One of your soldiers stopped by asking for you while you were out. Something about a caravan heading out to Nagrand.\r\n\r\nWhatever it was, it can't have gone well for them. That's Warsong territory.",
+    "name": "News from Nagrand",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

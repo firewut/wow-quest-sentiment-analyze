@@ -1,0 +1,7 @@
+{
+    "_id": "7141",
+    "description": "The Explorers' League believes there are artifacts in Alterac Valley, but the Frostwolf orcs won't let us explore.  We can't allow the Horde to stop our scholarly pursuits!  Defeat the Frostwolf general, Drek'Thar.  With him dead, the orcs will lose their edge.Drek'Thar is in Frostwolf Keep, in the south of Alterac Valley.  Vanquish him, and then return to me.",
+    "name": "The Battle of Alterac",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

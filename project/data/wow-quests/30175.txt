@@ -1,0 +1,8 @@
+{
+    "_id": "30175",
+    "added_in_patch": 5,
+    "description": "The mantid! They came out of nowhere and smashed our convoy to ruin, scattering our people this way and that.Now they are preparing to hit Stoneplow.Please, <class>, destroy some of these beasts before they get sufficient numbers to flank our home.If my cousin, Ambassador Len, is still alive and at our convoy he should be able to reward you for your help.",
+    "name": "The Mantid",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

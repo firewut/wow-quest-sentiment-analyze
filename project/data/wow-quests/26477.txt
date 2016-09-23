@@ -1,0 +1,7 @@
+{
+    "_id": "26477",
+    "description": "I wish your tidings were better.Raene is correct, I know about Dartol's creation and the treants in the area--at least I did once. They've become corrupted now, their nature twisted.To find the next piece of the rod, you'll have to find the key to open the chest it's in.The wooden key is on one of the treants northeast of here near the Felwood border, at the Howling Vale. Once you have it, look for a small glade through the tunnel at the vale. The chest should be hidden around there.",
+    "name": "Search the Bole",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

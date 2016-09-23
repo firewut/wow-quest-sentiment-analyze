@@ -1,0 +1,7 @@
+{
+    "_id": "13554",
+    "description": "<Some unintelligible speech spews forth from the machine before you make out Wizbang's voice again.>Duskrats! They've been eating the duskrats! Those little buggers only come from one place, a cave against the cliff-face to the east. Find a path up to the northeast and look for an opening under the waterfall.The duskrats there are either getting into something nasty or someone's intentionally spreading some agent through them - in either case, just bring me back several samples of the stuff!",
+    "name": "A Cure In The Dark",
+    "requires_level": 8,
+    "zone": "Darkshore"
+}

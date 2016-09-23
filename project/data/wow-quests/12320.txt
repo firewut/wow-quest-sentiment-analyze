@@ -1,0 +1,8 @@
+{
+    "_id": "12320",
+    "description": "Take the book and follow the path leading up to the barracks. Once inside the barracks take the staircase down to the prison. At the prison you will find Inquisitor Hallard and our mayor, Godfrey. I believe Godfrey might be the missing piece of this puzzle and Hallard the man to put it all together.Go now!",
+    "name": "Understanding the Language of Death",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

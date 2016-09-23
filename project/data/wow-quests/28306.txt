@@ -1,0 +1,7 @@
+{
+    "_id": "28306",
+    "description": "You've been such a big help here!I'm gonna stay here a while and look after poor Mr. Tauren until he stops throwing up so much. Why don't you head north to Whisperwind Grove? It's really pretty there, and all the druids are so friendly!You should tell Miss Puregrove I'm okay, she'll worry if I'm gone too long. She might ask you to help with her flowers, too! So fun!",
+    "name": "Whisperwind Grove",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28389",
+    "description": "With the goblins scattered and their equipment destroyed, they'll either get the message and leave, or be easy pickings if they choose to stay. We've won here.You've fought as fiercely as any member of the pack, <name>. Return to the Denmother and let her know of our success. I'll be maintaining my watch.",
+    "name": "Report to the Denmother",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

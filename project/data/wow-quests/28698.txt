@@ -1,0 +1,7 @@
+{
+    "_id": "28698",
+    "description": "Largo and his minions have been stealing our supplies ever since we setup camp here.  It's frustrating to say the least.We have heard reports that he is stockpiling cannonballs in the towers overlooking the water up on his overlook.  Can you head up there and try to recover some of them for us?<name>, don't forget to keep a watch out for Alliance too.",
+    "name": "Cannonball!",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

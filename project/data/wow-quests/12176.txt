@@ -1,0 +1,8 @@
+{
+    "_id": "12176",
+    "description": "Krenna, she be wantin' worg hides for all the outfits.  There's not gonna be enough worg hides for her army, though.  Not now, not ever.Those worgs -- they be skinny, mon!  Here's what we're gonna do... if you can keep a secret that is.East of Voldrune there be grizzly bears as fat as an ogre.  Those large hides -- those we can use!Hurry,  brother.  Krenna's not known for her patience.",
+    "name": "A Minor Substitution",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

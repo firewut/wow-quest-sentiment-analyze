@@ -1,0 +1,8 @@
+{
+    "_id": "31474",
+    "added_in_patch": 5,
+    "description": "Watching over the pot, you get a lot of time to think. Let me show you how to make swirling mist soup and you'll know what I mean.",
+    "name": "The Soup of Contemplation",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

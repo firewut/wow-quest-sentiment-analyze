@@ -1,0 +1,8 @@
+{
+    "_id": "29541",
+    "added_in_patch": 5,
+    "description": "This looks bad... you'd better do something.",
+    "name": "Take Care of It",
+    "requires_level": 85,
+    "zone": "Quests"
+}

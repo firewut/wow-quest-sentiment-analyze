@@ -1,0 +1,8 @@
+{
+    "_id": "40249",
+    "added_in_patch": 7,
+    "description": "We aren't going to get our forces anywhere near the Broken Shore without getting knocked out of the sky.I think it best if you handle this matter yourself - there are none among us more capable on the field of battle.Save Allari and her men if you can, but the Aldrachi Warblades will do far more for this war than warm bodies.",
+    "name": "Vengeance Will Be Ours",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

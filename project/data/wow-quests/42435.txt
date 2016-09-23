@@ -1,0 +1,8 @@
+{
+    "_id": "42435",
+    "added_in_patch": 7,
+    "description": "The Empyrean Society is a dangerous cult. They claim to study all magic regardless of its source, but in reality they focus mostly on the forbidden. They will welcome you to their enclave if you bring them a magical artifact.\r\n\r\nThe Hatecoil naga have found the perfect gifts - a Pearl of Arcane Wisdom and scrolls from the depths beneath the Nar'thalas Academy. You will have to convince them to part with a few.\r\n\r\nI will meet you on the road just north of the Empyrean Enclave.",
+    "name": "Prepare To Be Assimilated",
+    "requires_level": 103,
+    "zone": "Mage Campaign"
+}

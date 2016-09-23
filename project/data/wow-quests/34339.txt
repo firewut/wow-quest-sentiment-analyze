@@ -1,0 +1,8 @@
+{
+    "_id": "34339",
+    "added_in_patch": 6,
+    "description": "Goren. This caldera is full of them. I can even smell their stench from here.I suspect that these goren are more than just primitive beasts, but in order to prove my theories, I need more data.During your mission, if you should slay a goren or two, would you examine their stomachs for me? I'd like to know what these curious creatures eat.",
+    "name": "A Goren's Feast",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

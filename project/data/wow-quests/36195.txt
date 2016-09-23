@@ -1,0 +1,9 @@
+{
+    "_id": "36195",
+    "added_in_patch": 6,
+    "description": "Commander, your engineers have brought you a present. They call it the Wood Annihilator XXI the Third, Jr.What's it do? I reckon it annihilates trees - but more importantly it will allow for the harvesting of large timber. Do you know how much timber a large tree holds? Me neither, but I bet it's a lot!There's a large piece of timber ready to be annihilated nearby. Why don't you give the contraption a test run? Bring me back whatever it harvests and I'll put it to good use.",
+    "name": "Tree-i-cide",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

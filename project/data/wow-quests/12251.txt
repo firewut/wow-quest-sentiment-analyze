@@ -1,0 +1,8 @@
+{
+    "_id": "12251",
+    "description": "Return to High Commander Halford Wyrmbane at once, <name>. Let him know that your mission was a success and that the few remaining villagers that were rescued are back to work.",
+    "name": "Return to the High Commander",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

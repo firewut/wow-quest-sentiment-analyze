@@ -1,0 +1,7 @@
+{
+    "_id": "13427",
+    "description": "The reality of fighting on multiple fronts,  lad , is that we cannot spread our forces too thin or we risk losing it all!Critical troop deployments are necessary on a day by day basis.  Today it is the battle for Alterac Valley that's in most need of brave combatants.Go now, <name>, and aid the Stormpike Expedition.  We cannot allow the Frostwolf Clan to get away with the violence they've inflicted on our brethren!",
+    "name": "Call to Arms: Alterac Valley",
+    "requires_level": 61,
+    "zone": "Alterac Valley"
+}

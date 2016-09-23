@@ -1,0 +1,7 @@
+{
+    "_id": "26039",
+    "description": "My name is Myzrael.  I am a princess of the earth, and my captors, the giants, have trapped me deep beneath the Arathi Highlands.  These crystal shards are the only way I can speak with the surface world.Please help me.  Allies of the giants, the Drywhisker kobolds, have a shard like this one in their Drywhisker Gorge, to the east.  To power the cluster, you must gather motes of Myzrael from the kobolds and apply them to it.I beg you, <name>, aid me!",
+    "name": "The Princess Trapped",
+    "requires_level": 27,
+    "zone": "Arathi Highlands"
+}

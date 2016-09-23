@@ -1,0 +1,8 @@
+{
+    "_id": "29764",
+    "description": "Take it from me,  lad, them vrykul weapons be downright nasty! Deceptively well-balanced, wickedly sharp - just plain deadly.I need you to pilfer some o' them weapons before they're used on us!",
+    "name": "Disarmament",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Quests"
+}

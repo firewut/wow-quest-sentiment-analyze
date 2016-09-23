@@ -1,0 +1,7 @@
+{
+    "_id": "24976",
+    "description": "These pumpkins have a purpose, <class>.  They'll be the delivery mechanism for my latest batch of plague, which should be a particularly painful and virulent concoction.  However, the plague requires a few rare ingredients.We'll need Marrowpetals, which grow at the bottom of Stillwater Pond, just to the east of here.  We'll also need Xavren's thorn, which grows on rocky cliffs to the northwest.  Finally, we need some briny sea cucumbers, found in the surf off of Whispering Shore.",
+    "name": "Variety is the Spice of Death",
+    "requires_level": 5,
+    "zone": "Tirisfal Glades"
+}

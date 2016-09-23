@@ -1,0 +1,7 @@
+{
+    "_id": "28374",
+    "description": "In a place like this, even something as simple as growing flowers and pulling weeds can require some heroic effort.The orchid lashers that grow on all sides of the grove are a sign of healing. But they're not flawless; some of them do succumb to demonic corruption now and then.I've found the best way to check is to just pull them up. If they're normal, they'll wander around a bit and reroot themselves. If they aren't... well, you'd better be ready for a fight!",
+    "name": "Weeding the Lawn",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

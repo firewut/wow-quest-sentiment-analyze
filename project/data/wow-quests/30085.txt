@@ -1,0 +1,8 @@
+{
+    "_id": "30085",
+    "added_in_patch": 5,
+    "description": "We need to find out what's going on inside that brewery, <name>!We may have cleared out some of the bigger pests, but I'm certain there's plenty more where they came from. Gather up a few of your friends, and meet me inside!",
+    "name": "Into the Brewery",
+    "requires_level": 86,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39198",
+    "added_in_patch": 6.2,
+    "description": "The Warchief is calling for champions to put an end to the ogre threat in Blade's Edge Mountains. Make your way north into the mountains, to the orcish stronghold of Thunderlord Stronghold and let Nekthar know of our plight. Any help he can spare would be most welcome.",
+    "name": "Warchief's Command: Blade's Edge Mountains",
+    "requires_level": 64,
+    "zone": "Blade's Edge Mountains"
+}

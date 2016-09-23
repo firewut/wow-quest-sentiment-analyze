@@ -1,0 +1,7 @@
+{
+    "_id": "7169",
+    "description": "",
+    "name": "Honored Amongst the Guard",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

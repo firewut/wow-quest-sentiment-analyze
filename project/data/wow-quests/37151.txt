@@ -1,0 +1,8 @@
+{
+    "_id": "37151",
+    "added_in_patch": 6,
+    "description": "Do you know what I want? What everyone who came through that portal wants. Every soldier running from a world that didn't understand us, didn't need us. I want that world to love us as much as we love it.But we don't really belong there, not anymore. War is part of us, and we can't go back. To everyone back there, we're expendable.The only thing that makes me feel better now is the feel of a cold iron cannon in my hands, pointed at the enemy.<Keeshan stares into his mug of ale.>",
+    "name": "Cold Steel",
+    "requires_level": 98,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24685",
+    "description": "I don't know if you noticed on your way in, but this whole fortress is erected around a giant cannon. If we can just find the ammunition magazine, we could blow this place sky-high as easy as kiss-my-hand!But to figure it out I'm going to need the fortress schematics, and I haven't been able to steal them yet.Look for the plans on the lowest floor, right down these stairs.",
+    "name": "Dwarf Fortress",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

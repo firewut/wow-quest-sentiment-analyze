@@ -1,0 +1,8 @@
+{
+    "_id": "30403",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "A Ruby Shard for Sho",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

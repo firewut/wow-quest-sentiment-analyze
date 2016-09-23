@@ -1,0 +1,7 @@
+{
+    "_id": "38406",
+    "description": "",
+    "name": "Sea Scorpion Lunker",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

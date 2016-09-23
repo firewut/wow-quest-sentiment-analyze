@@ -1,0 +1,8 @@
+{
+    "_id": "31922",
+    "added_in_patch": 5,
+    "description": "According to my calculations, I have a 32.333% chance of victory. I'll take it!",
+    "name": "Nicki Tinytech",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

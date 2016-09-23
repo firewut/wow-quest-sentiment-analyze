@@ -1,0 +1,8 @@
+{
+    "_id": "37142",
+    "added_in_patch": 6,
+    "description": "Lunk no like fight, want to learn. You help Lunk learn?Find Lunk ancestors. Lunk have many question. Where Lunk come from? Why Lunk Lunk?Lunk stay here. Small ogres mean, big ogres meaner.",
+    "name": "Ogre Ancestry",
+    "requires_level": 90,
+    "zone": "Bloodmaul Slag Mines"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "28672",
+    "description": "I can keep you busy here in town all week... but you seem to be more the fighting type.<Elreth looks you over and nods.>Yes, you'll do just fine.  I'd like you to go talk to Executor Arren.  Follow the path north, out of Deathknell.  You'll find him not far past the barricades.",
+    "name": "The Executor In the Field",
+    "requires_level": 3,
+    "side": "horde",
+    "zone": "Deathknell"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29310",
+    "description": "On the day when Leyara attacked Hamuul, she was waiting near some ruins in Hyjal, northwest of the Regrowth. She acted strangely at the time: calm, silent, and staring off into the distance. Perhaps that location is of some importance to her.The locket might react if brought to that location.",
+    "name": "The Tipping Point",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

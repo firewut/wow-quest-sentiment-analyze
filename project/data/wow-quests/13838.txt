@@ -1,0 +1,7 @@
+{
+    "_id": "13838",
+    "description": "You'll need to learn how to break through an opponent's defenses to succeed in mounted combat. Take this lance and mount the stabled Sunreaver hawkstrider just outside the pavilion.Once you're mounted, seek out Valis Windchaser. He'll be on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Valis will teach you the basics of using a ranged shield breaker attack to make a ranged target vulnerable.",
+    "name": "Mastery Of The Shield-Breaker",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26453",
+    "description": "Under the supervision of Architect Nemos and Vindicator Vedaar, my people are revitalizing an old night elf outpost in the eastern part of Ashenvale.The task of building won't be easy, <name>, for the challenges and enemies they face are many. I know Architect Nemos and his compatriots at Forest Song would appreciate any help they can get, and he has asked me to send any interested  men his way.Speak to me again and I will arrange for fast transport for you to their location.",
+    "name": "A Helping Hand",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

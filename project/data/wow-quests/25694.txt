@@ -1,0 +1,8 @@
+{
+    "_id": "25694",
+    "description": "The only reason you see me standing aside Alliance soldiers is because our duty outweighs our enmity... however slightly.  We have been charged with protecting the Dark Portal from unauthorized travel, and with the recent cataclysm, we are particularly susceptible to an attack.  We've already heard reports of black dragons in the area...With my men focused on their duty, we need someone to keep the area demons in check.  Around the portal you will find three demon lieutenants.  Slay them.",
+    "name": "Protecting Our Rear",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

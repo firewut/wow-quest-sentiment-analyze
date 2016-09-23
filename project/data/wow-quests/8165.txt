@@ -1,0 +1,7 @@
+{
+    "_id": "8165",
+    "description": "",
+    "name": "More Resource Crates",
+    "requires_level": 20,
+    "zone": "Arathi Basin"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28297",
+    "description": "I received a scroll for you from Ormak Grimshot in Orgrimmar. He wants you to make your way to the Valley of Honor and speak with him as soon as you can. It sounded urgent, <name>.",
+    "name": "Meet with Ormak Grimshot",
+    "requires_level": 50,
+    "zone": "Orgrimmar"
+}

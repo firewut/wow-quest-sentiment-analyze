@@ -1,0 +1,7 @@
+{
+    "_id": "12967",
+    "description": "Snorri was once the pride of our nation. A mighty warrior, many an enemy fell to his club.We honor him, though he's no longer what he once was. Age has taken its toll, dulling his senses and sapping his strength. Still, he remains as proud as ever, never missing an opportunity to join a battle.Speaking of battle, we're cooling Fjorn's anvil so it can be taken home. The remaining fire revenants are putting up some resistance. Help Snorri relive his glory days, <race>. Guide him against this enemy.",
+    "name": "Battling the Elements",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

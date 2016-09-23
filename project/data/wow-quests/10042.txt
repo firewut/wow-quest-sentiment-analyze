@@ -1,0 +1,7 @@
+{
+    "_id": "10042",
+    "description": "What!  Those guys are Shadow Council?!<name>, you have to go back in there and waste them!  I want you to take out their leader and as many of their executioners and summoners as you can.After you're done with that, report back to Lieutenant Gravelhammer at the Allerian Stronghold.Good luck, <class>!",
+    "name": "Kill the Shadow Council!",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

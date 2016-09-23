@@ -1,0 +1,8 @@
+{
+    "_id": "30970",
+    "added_in_patch": 5,
+    "description": "These scorpions are infected with sha. It seems to have driven them out of their hole and into our camp, seething with hatred at invaders in their territory.We need to clear the scorpions and secure the camp. Kill any you find.",
+    "name": "Enraged By Hatred",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

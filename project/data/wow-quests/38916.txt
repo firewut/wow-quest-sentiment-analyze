@@ -1,0 +1,8 @@
+{
+    "_id": "38916",
+    "added_in_patch": 7,
+    "description": "Mayla's father, Ulan, was our last high chieftain. He was slain trying to stop the Underking from seizing the Hammer of Khaz'goroth.I have watched Mayla all her life and can tell you she has both the courage and the strength to wear the mantle of High Chieftain.She needs only our help to realize it herself.Will you meet us at the city entrance along the southern bluff? There is a ritual that might help, but we will need your aid to survive it.",
+    "name": "Secrets of Highmountain",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

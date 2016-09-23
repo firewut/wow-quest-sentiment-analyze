@@ -1,0 +1,8 @@
+{
+    "_id": "30987",
+    "added_in_patch": 5,
+    "description": "We have a duty, <name>.It is our responsibility to spread the Tushui philosophy beyond the edges of the Wandering Isle... and there is no better place to start doing that than here: Stormwind City, heart of the Alliance.Let's find out who their leader is. We need allies.",
+    "name": "Joining the",
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

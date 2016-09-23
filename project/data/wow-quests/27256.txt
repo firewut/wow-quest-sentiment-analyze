@@ -1,0 +1,8 @@
+{
+    "_id": "27256",
+    "description": "Hmmm, there's writing right here on the rim of the shield, but it's hard to read from all the burned stuff.I need acid to make it clear. Venom from the darkmist spiders would do good. The spiders have taken over an old mine, the Darkmist Cavern, northwest of the village. Get me some of their sacs and I can clean this up.",
+    "name": "The Black Shield",
+    "requires_level": 35,
+    "side": "horde",
+    "zone": "Dustwallow Marsh"
+}

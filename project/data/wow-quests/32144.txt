@@ -1,0 +1,8 @@
+{
+    "_id": "32144",
+    "added_in_patch": 5.1,
+    "description": "The Horde are consumed by pride and will fight to the death without a second thought.We need to find a way to break their will that does not involve massive loss of our numbers.Look for the Horde supplies along the coastline and near their ships. Smash their supplies.Nothing breaks the will of a defender like seeing their hope of food go up in a puff of smoke.When you are done, find Sully behind enemy lines. He has the next task for you.",
+    "name": "Under Pressure",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

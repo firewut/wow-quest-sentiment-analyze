@@ -1,0 +1,7 @@
+{
+    "_id": "7672",
+    "description": "",
+    "name": "Nightsaber Replacement",
+    "requires_level": 60,
+    "zone": "Quests"
+}

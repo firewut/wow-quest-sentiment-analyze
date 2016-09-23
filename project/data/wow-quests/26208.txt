@@ -1,0 +1,8 @@
+{
+    "_id": "26208",
+    "description": "The dwarves of Ironforge kindly took us in when the trogg invasion and radiation forced us to leave Gnomeregan for the first time. But even the kindness of friends can't quell the longing for home.I sent out a call for brave gnomes and other members of the Alliance to help us regain control of Gnomeregan and defeat the usurper Thermaplugg once and for all.We weren't able to achieve everything Operation: Gnomeregan set out to do, but Thermaplugg is on the run and we're closer to home than ever.",
+    "name": "The Fight Continues",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

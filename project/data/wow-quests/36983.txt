@@ -1,0 +1,9 @@
+{
+    "_id": "36983",
+    "added_in_patch": 6,
+    "description": "The first step in training your mount for war will be getting it used to the sights and sounds of combat. If it's not trained properly, it might get spooked and run.Take this little clefthoof out to the plains of Shadowmoon Valley and take on the biggest beast you can find, together. That should raise its confidence!",
+    "name": "Clefthoof Training: Great-Tusk",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

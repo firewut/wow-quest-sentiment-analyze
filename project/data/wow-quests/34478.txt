@@ -1,0 +1,9 @@
+{
+    "_id": "34478",
+    "added_in_patch": 6,
+    "description": "One of the captured draenei is receiving some... preferential treatment, if you can call it that. While others are tied down and tortured, this one is tied to a stake and burned for the orcs' amusement.Use this runestone. It should handily deal with the ring of fire that surrounds this draenei.",
+    "name": "A Potential Ally",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Assault on the Dark Portal"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30478",
+    "added_in_patch": 5,
+    "description": "Sometimes I feel sad for Jogu. He's the only jinyu around, and I don't think he has any friends. Other than his smelly bottle, of course.You know what? I've got an idea. Farmer Yoon has a basket of craneberries inside his house, and a few apples as well. I'm sure you could bring them to the stillmaster in the Halfhill Market and get him to brew something special for Jogu.",
+    "name": "A Gift For Jogu",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

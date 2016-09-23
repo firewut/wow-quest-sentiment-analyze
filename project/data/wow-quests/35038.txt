@@ -1,0 +1,9 @@
+{
+    "_id": "35038",
+    "added_in_patch": 6,
+    "description": "Good to see your bones are still intact, <name>. Xuk's too.When you set off into the heart of the canyon, Xuk came to offer my services. Xuk not letting you take all of the skulls!Xuk will share with you powerful spirit magics my clan has passed down for many generations. While Xuk make preparations, you must gather the reagents.First, we'll need crystals from husks of goren corpses. You can find their bodies in the canyon.",
+    "name": "What the Bony Xuk?",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

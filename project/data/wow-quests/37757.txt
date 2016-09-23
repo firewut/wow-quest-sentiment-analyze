@@ -1,0 +1,9 @@
+{
+    "_id": "37757",
+    "added_in_patch": 6.1,
+    "description": "Forget all you know of the ogres on Azeroth, <name>. On Draenor they commanded a once-mighty civilization. Even now they threaten to reclaim their former glory.Highmaul excavations in Nagrand unearthed a mysterious relic. The only ogre to survive direct exposure to this relic was Ko'ragh; he was left with a near-complete immunity to all magic.Ko'ragh must be killed before the ogres learn to replicate his unique powers. Travel to Highmaul and defeat Ko'ragh!",
+    "name": "Arcane Sanctum: Ko'ragh",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

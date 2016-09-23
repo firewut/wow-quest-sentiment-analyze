@@ -1,0 +1,9 @@
+{
+    "_id": "34823",
+    "added_in_patch": 6,
+    "description": "Commander, our Frostwolf allies reportin' dat the Bladespire ogres have an outpost to our west led by an ogron.I heard tales of da ogron but never seen one. Dey be brutes, creatures from a time that was best left forgotten. Dey say most were slain during the forming of the original horde. What dey lack in wisdom they make up for in violence, force, and greed.I counsel dispatchin' dis creature as soon as possible.",
+    "name": "The Ogron Live?",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

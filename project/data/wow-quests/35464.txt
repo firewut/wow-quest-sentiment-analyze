@@ -1,0 +1,9 @@
+{
+    "_id": "35464",
+    "added_in_patch": 6,
+    "description": "We arrived as soon as we could... but we are too late. Nethergarde has fallen. The Iron Horde has taken a number of Nethergarde warriors prisoner.No doubt they are trying to squeeze vital information out of our troops.I fear once they are done with their interrogation they will not hesitate to execute their prisoners. Time is running out.",
+    "name": "Ending Executions",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

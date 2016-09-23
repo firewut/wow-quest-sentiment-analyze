@@ -1,0 +1,8 @@
+{
+    "_id": "37242",
+    "added_in_patch": 6,
+    "description": "The academy is up and running, in a secret location of course. Maybe it doesn't exist at all?By the by, I appear to be running quite dry on sharp, pointy instruments of education.<Lonika winks at you several times before nudging you sharply in the ribs with her dagger.>",
+    "name": "Learning Is Painful",
+    "requires_level": 100,
+    "zone": "Quests"
+}

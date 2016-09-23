@@ -1,0 +1,7 @@
+{
+    "_id": "13212",
+    "description": "With the abduction of Crusader Olakin, the Argent Crusade's forces will have no commander in the final assault on the Fleshwerks. While one crusader is the same as any other to me, the argents won't see it that way.I hate to see us waste time chasing after this, but I have no choice. Our gallant crusader has likely been dismembered by now, and his remains used to construct abominations. Go down into the Fleshwerks, kill the corpulent horrors fighting our forces, and recover Olakin's body parts.",
+    "name": "He's Gone to Pieces",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

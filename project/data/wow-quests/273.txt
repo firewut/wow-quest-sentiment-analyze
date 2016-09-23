@@ -1,0 +1,7 @@
+{
+    "_id": "273",
+    "description": "It's not too late though, you're welcome to go look for Huldar. He can't have made it very far, strong as they are, Miran and Saean can only move so fast laden down with those barrels.They're taking the normal route to the site, leaving south out of town and following the curve of the Loch.Shouldn't have a problem finding them unless they've already gotten there.",
+    "name": "Resupplying the Excavation",
+    "requires_level": 10,
+    "zone": "Loch Modan"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8470",
+    "description": "You have found one of the Deadwood furbolg's ritual totems.  The totem itself is of non-descript construction, but a palpable sense of despair emanates from it.  If there were any object that might best exemplify the corruption that the Deadwood furbolg suffer under, this item would clearly be it.One of the furbolgs inside Timbermaw Hold may have a use for such an item... that is, if you've earned their trust enough for them to speak with you.\r\n",
+    "name": "Deadwood Ritual Totem",
+    "requires_level": 45,
+    "zone": "Felwood"
+}

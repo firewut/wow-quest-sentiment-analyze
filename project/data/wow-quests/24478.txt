@@ -1,0 +1,7 @@
+{
+    "_id": "24478",
+    "description": "You know, some of my apprentices have called me cold hearted. I always say though, I shall not let the temperature of my body parts stand in the way of true learning.To reach the Trial of Frost, touch the Frost crystal to open a portal. Once there, the goal is quite simple - gather the little floaty ice orb thingies.To counter the simple, the rotating Frostburns may put back your progress, as it were. If you want to be fancy, you can use the rune traps to jump over them as they rotate by. Neat, eh?",
+    "name": "The Trial of Frost",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

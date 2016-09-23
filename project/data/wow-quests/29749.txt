@@ -1,0 +1,8 @@
+{
+    "_id": "29749",
+    "added_in_patch": 5,
+    "description": "<Your mind is racked with a howl. Beneath it, a wispy voice is barely audible, as if from far away.>Please... help... heart of the ruins... a ritual... conjuring......should not be here...My staff... on the altar... take it. Please hurry.",
+    "name": "An Urgent Plea",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8672",
+    "description": "",
+    "name": "Stonespire the Elder",
+    "requires_level": 1,
+    "zone": "Lunar Festival"
+}

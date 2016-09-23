@@ -1,0 +1,7 @@
+{
+    "_id": "27660",
+    "description": "I have no knowledge of any artifact that Cho'gall is crafting, but I think I know one that can help.Countess Verrall is the ancient spirit of Loch Verrall to the north. She has no love for the Twilight's Hammer, who have polluted her waters.Seek her for the wisdom that you seek.",
+    "name": "Spirit of the Loch",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

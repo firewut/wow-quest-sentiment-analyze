@@ -1,0 +1,7 @@
+{
+    "_id": "28492",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Sentinel Shyela at Orendil's Retreat in northwestern Ashenvale.The Horde's aggression in Ashenvale cannot be allowed to stand! Your help is needed to repel the invaders and restore the sacred forest. Head south through the Twilight Vale in Darkshore to reach the forest of Ashenvale.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Ashenvale!",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

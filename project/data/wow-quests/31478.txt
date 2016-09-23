@@ -1,0 +1,8 @@
+{
+    "_id": "31478",
+    "added_in_patch": 5,
+    "description": "If you are looking for a hearty meal that will sustain you and increase your stamina, you should seek out the Way of the Oven. Bring some wildfowl breasts to the Master of the Oven and she will teach you. There are plenty of cranes in the Valley of the Four Winds and in the Jade Forest, but you can obtain wildfowl breasts from other birds as well.",
+    "name": "Way of the Oven",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

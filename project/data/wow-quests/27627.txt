@@ -1,0 +1,7 @@
+{
+    "_id": "27627",
+    "description": "Evidently, the ancient statues were home to various species of scarab.Determined to leave this site in the best condition possible, you resolve to ridding the chamber of these pests.",
+    "name": "Just a Fancy Cockroach",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

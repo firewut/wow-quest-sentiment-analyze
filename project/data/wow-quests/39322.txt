@@ -1,0 +1,8 @@
+{
+    "_id": "39322",
+    "added_in_patch": 7,
+    "description": "The time has come to assault High Crawliac, the Witchqueen.You should know that one does not become queen of the harpies through kindness.This creature has killed, betrayed, and tormented countless tauren, harpies, kobolds, and anything else she had to in order to secure her position as queen.Come, friend, let us finish this.",
+    "name": "The Witchqueen",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

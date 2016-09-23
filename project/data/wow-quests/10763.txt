@@ -1,0 +1,7 @@
+{
+    "_id": "10763",
+    "description": "Fel orcs might be complete barbarians but their smithing is not as primitive as you might think.  Only fel iron can be used with this mold if we want to end up with a working key - anything else would probably end up breaking it.Bring me some fel iron bars, a bit of arcane dust and motes of fire.  I'll try my hand at it, but I make no promises.",
+    "name": "Dumphry's Request",
+    "requires_level": 68,
+    "zone": "Hellfire Peninsula"
+}

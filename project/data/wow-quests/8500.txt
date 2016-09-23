@@ -1,0 +1,7 @@
+{
+    "_id": "8500",
+    "description": "It is so good to see you again <name>. I hope that you've been doing well. It's true that we are still in need of thorium bars. If you have them to spare I am collecting them for the Ahn'Qiraj war effort.",
+    "name": "The Alliance Needs More Thorium Bars!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26138",
+    "description": "There's a group of night elves that call the wetlands home now. A bunch of them shipped in from Kalimdor to study the land here, look at the plants, that sort of stuff.One of the druids by the name of Ferilon stopped by here a while back. He was nice enough to give us a hand with some raptors, and he mentioned something about needing more folk to help out with his duties.If you've got the time, you'll find him at the place they call Greenwarden's Grove, to the northeast.",
+    "name": "Ferilon Leafborn",
+    "requires_level": 22,
+    "zone": "Wetlands"
+}

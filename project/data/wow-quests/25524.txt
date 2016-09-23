@@ -1,0 +1,7 @@
+{
+    "_id": "25524",
+    "description": "Hello? Hello! HELP!I'm almost out of air! You have to get me out of here!<The voice inside gags.>One of those Southsea treasure hunters has got to have a crowbar!",
+    "name": "In the Outhouse",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25370",
+    "description": "This is no mere natural occurrence, <name>.  There must be a twilight presence behind our lines that we haven't accounted for.It's possible that whoever is instigating the elemental disturbance is using foul magic to hide themselves from our sight.Seek the aid of the faerie dragons that roam near the World Tree; they can see through any of our enemy's illusions.Feed them the juniper berries that grow nearby to gain their trust.",
+    "name": "Inciting the Elements",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

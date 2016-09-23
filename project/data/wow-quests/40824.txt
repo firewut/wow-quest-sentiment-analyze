@@ -1,0 +1,8 @@
+{
+    "_id": "40824",
+    "added_in_patch": 7,
+    "description": "It would seem that where the council has failed, you have found untold success. These Dreadscar should prove powerful allies, but they may not be enough.\r\n\r\nFor now, we must look to rebuild. I will send agents out to locate the whereabouts of the captured council members, as well as any other warlocks who may be able to aid the cause.\r\n\r\nMeet me at the scrying pool, and we will plan our action from there.",
+    "name": "The Path of the Dreadscar",
+    "requires_level": 98,
+    "zone": "Warlock Campaign"
+}

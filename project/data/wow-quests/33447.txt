@@ -1,0 +1,8 @@
+{
+    "_id": "33447",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Bladespire Craftsman",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10528",
+    "description": "From assessing the scene, you note that Ar'tor is being held in place by energy beams emanating from the crystals hovering around the rune. Try as you might, Ar'tor is unmovable.You note that the crystals have an empty slot at their base - perhaps for a key. It also seems as if succubi periodically perform some sort of ritual at the site.Search Illidari Point for their leader. Perhaps she holds the key to releasing Ar'tor.",
+    "name": "Demonic Crystal Prisons",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

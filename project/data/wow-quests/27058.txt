@@ -1,0 +1,7 @@
+{
+    "_id": "27058",
+    "description": "The Twilight's Hammer must be stopped from using the Waygate. There's only one thing to do.Punch in the wrong activation sequence and destroy it.Hmm, let's see. Yes, here's one that opens upon the explosive depths of the Firelands, the elemental plane of fire. That should do nicely.",
+    "name": "The Wrong Sequence",
+    "requires_level": 83,
+    "zone": "Deepholm"
+}

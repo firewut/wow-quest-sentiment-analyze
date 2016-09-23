@@ -1,0 +1,9 @@
+{
+    "_id": "42814",
+    "added_in_patch": 7,
+    "description": "Champion! I bear an urgent message from Danath Trollbane.He requests that you join him at Krasus' Landing. He has an urgent mission that requires your expertise!",
+    "name": "An Important Mission",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Artifact"
+}

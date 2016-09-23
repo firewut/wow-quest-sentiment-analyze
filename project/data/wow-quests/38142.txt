@@ -1,0 +1,8 @@
+{
+    "_id": "38142",
+    "added_in_patch": 7,
+    "description": "Near the southern edge of our forest you will find Sleeper's Barrow.There, Archdruid Koda Steelclaw and her dedicated disciples carry out their sacred duty to observe the Emerald Dream.Find disciple Rylissa Bearsong in Steelclaw Vale and notify her of the crisis in the Grove of Cenarius.",
+    "name": "Archdruid of the Claw",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

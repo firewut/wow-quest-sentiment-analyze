@@ -1,0 +1,8 @@
+{
+    "_id": "37445",
+    "added_in_patch": 6,
+    "description": "We managed to recover a damaged holographic emitter from the crash. If we repair it, we'll have a chance to find other survivors outside of Ammen Vale.There were devices from the ship that could be salvaged for spare parts in the area, but the local owlkin carried them off before we could get to them. <name>, you must go south to Nestlewood Thicket and Hills to find the spare parts.",
+    "name": "Spare Parts",
+    "requires_level": 2,
+    "zone": "Ammen Vale"
+}

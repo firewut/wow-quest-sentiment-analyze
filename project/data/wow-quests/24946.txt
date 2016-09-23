@@ -1,0 +1,8 @@
+{
+    "_id": "24946",
+    "description": "I'll give these pygmies one thing... they sure know how to party! But they're not so clever. I think I've discovered the source of their rockin' powers: Rockin' Powder!It turns out that this stuff, which turns them into world-class rockers, is also highly explosive. We must have it!So, while you're in there at Oostan to the east, make sure that you pickup a whole bunch of the stuff. Trust me, you're going to need it for what's coming up!",
+    "name": "Rockin' Powder",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

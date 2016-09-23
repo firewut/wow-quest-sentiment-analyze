@@ -1,0 +1,7 @@
+{
+    "_id": "25079",
+    "description": "Our shipments of saltpeter from Dustwallow have been held up, which means we can't manufacture our own gunpowder here.But I can retrofit our armaments to use goblin Blast-O powder. It's unstable, dangerous, toxic to the skin, and harmful if swallowed... but I think I can make it work!Get me a keg of the stuff by attacking one of those goblin sapper specialists who've been storming our walls.",
+    "name": "Powder Play",
+    "requires_level": 31,
+    "zone": "Southern Barrens"
+}

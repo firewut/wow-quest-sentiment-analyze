@@ -1,0 +1,8 @@
+{
+    "_id": "39841",
+    "added_in_patch": 7,
+    "description": "My contact is one Oxana Demonslay. She has declined invitation to Dalaran proper, preferring to stay in the sewers of the Underbelly.If there is anybody on this rock that knows how to properly build an Obliterum Forge, it is her.Oh, and watch your back while you're down there, <name>.",
+    "name": "Friends in Low Places",
+    "requires_level": 110,
+    "zone": "Dalaran"
+}

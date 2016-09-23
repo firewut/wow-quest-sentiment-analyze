@@ -1,0 +1,7 @@
+{
+    "_id": "7281",
+    "description": "Tragic... My brother faces me on the field of battle: A commander for the Stormpike.Of the four Stormpike Commanders, he is undoubtedly the most dangerous. Perhaps if he is slain, the Banshee Queen could turn him as she did me - show him the error of his ways...Deep within enemy territory you will find my brother. Slay him and return to me. I trust that you are capable of completing this mission, soldier.And soldier, do not go alone.",
+    "name": "Brotherly Love",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

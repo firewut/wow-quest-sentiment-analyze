@@ -1,0 +1,9 @@
+{
+    "_id": "37121",
+    "added_in_patch": 6,
+    "description": "Behind me, as ye can probably see, is a giant black claw. We found it while we were out hunting new beasts to tame. The animals seem to be quite afraid of it, perhaps the beast it belonged to used to hunt them.",
+    "name": "The Black Claw",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

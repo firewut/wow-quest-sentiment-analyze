@@ -1,0 +1,7 @@
+{
+    "_id": "28522",
+    "description": "The Timbermaw tend to stay to themselves, <name>.  While we do allow safe passage to those we trust, we try to avoid other furbolg tribes if at all possible.The Winterfall tribe has become increasingly hostile towards us.  They seem to be in a state of rage, completely engulfed by their own fear and hatred of anything they do not understand.The Winterfall carry spirit beads, which have clearly failed to protect them against corruption. Bring me 10 of these beads to show you have thinned their ranks.",
+    "name": "Winterfall Activity",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25556",
+    "description": "That foul traitor...I should've known better than to trust his kind. My hunt for Sul'thraze has blinded me.Forgive me, <name>. Mazoga has fled inside of Zul'Farrak, the heart of the Sandfury civilization.If you truly seek the sword, you must pursue him. Do not go alone; the entirety of the Sandfury tribe lies in wait behind those walls, and they will not welcome you.I will stay here. My search for the blade must end. Should you find it, keep it; I must give up before I am consumed.",
+    "name": "Into Zul'Farrak",
+    "requires_level": 46,
+    "zone": "Zul'Farrak"
+}

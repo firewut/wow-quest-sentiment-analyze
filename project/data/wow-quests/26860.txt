@@ -1,0 +1,8 @@
+{
+    "_id": "26860",
+    "description": "There's never a shortage of empty bellies here in Thelsamar, kids running in and out, workers from the excavation coming in after a hard day's work. We're famous for our blood sausages, I don't suppose you've ever tried them?No? Well, around here you've got to work for your meals, and don't think just because you're a fancy <class>, you'll be any exception.You get me some fresh bear rumps and leave the cooking to me!",
+    "name": "Thelsamar Blood Sausages",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

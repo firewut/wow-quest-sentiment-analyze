@@ -1,0 +1,7 @@
+{
+    "_id": "11155",
+    "description": "With all of the strange disappearances of our livestock, we better resupply in a hurry, or the beasties around these parts will be the least of our worries!Seeing as I'm in charge of feeding this lot, I'm going to need you to head east and get me some meat. More to the point, I'm looking to cook us up some tender shoveltusk meat.Just beware the stags... they're mean!",
+    "name": "Shoveltusk Soup Again?",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34740",
+    "added_in_patch": 6,
+    "description": "Forgive me if I'm a bit flustered - I've never killed anyone before.My name is Yrel, and I am a student of Karabor.You say you have an ARMY with you? The Light must truly be watching over me today.I will follow you, then. Lead the way, <name>.",
+    "name": "Yrel",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Assault on the Dark Portal"
+}

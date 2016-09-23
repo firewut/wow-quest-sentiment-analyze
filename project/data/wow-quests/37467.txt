@@ -1,0 +1,8 @@
+{
+    "_id": "37467",
+    "added_in_patch": 7,
+    "description": "The echoes of Nar'thalas still haunt me, and I cannot bear the pain of this accursed town any longer. I may still be able to get you closer to the Tidestone, however.<Farondis' eyes narrow in newfound determination.>We will need to skirt around the edge of town. Follow me.",
+    "name": "The Walk of Shame",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

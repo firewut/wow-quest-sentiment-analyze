@@ -1,0 +1,8 @@
+{
+    "_id": "42691",
+    "added_in_patch": 7,
+    "description": "Felhounds are attracted to magic, young ones especially.They get a whiff and go into a feeding frenzy! You're not quite as enticing as a mage, so you'll need to cover yourself in something that can fool a felhound into thinking you're its next magical meal.Leyworm entrails should do the trick.",
+    "name": "Leyworm Lure",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12080",
+    "description": "The jormungar have a spawnmother in the caverns below. We call her Rattlebore - a name that was gifted to her by an adventurer from the Plaguelands. I saw her only briefly as I was fighting off their initial onslaught - she is large enough to devour one of my young whole. This cavern will not be ours until she is removed from it.",
+    "name": "Really Big Worm",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

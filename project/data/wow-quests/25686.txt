@@ -1,0 +1,8 @@
+{
+    "_id": "25686",
+    "description": "Our goal is to find the demon hunter, Loramus Thalipedes.  Let me know when you are ready to begin the blood ritual, and then stand back.",
+    "name": "Blood Ritual",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

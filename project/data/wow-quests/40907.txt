@@ -1,0 +1,8 @@
+{
+    "_id": "40907",
+    "added_in_patch": 7,
+    "description": "<Class>! Interested in earning some coin?The jarl of Jandvik is missing and two headstrong whelps are vying to take over leadership. I should be the next jarl, not them!I want you to enter Jandvik and defeat Calder and Eynar in mortal combat.I would not normally put my trust in an outsider, but this situation requires the aid of someone like you. Jandvik would condemn me if I were caught with their blood on my hands.Meet me in the center of Jandvik when the deed is done.",
+    "name": "Removing Obstacles",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

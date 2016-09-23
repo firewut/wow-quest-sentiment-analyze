@@ -1,0 +1,7 @@
+{
+    "_id": "12951",
+    "description": "The most important thing that you can do right now is to return to The Shadow Vault and let Baron Sliver know that I've failed.You see, I wasn't the only one captured by these vrykul devils. My entire contingent of death knights was also taken.I should have seen the trap before it was sprung, but there's no use crying over spilled milk now is there?Go on before you get captured, too! I'll see you back at the vault.",
+    "name": "Let the Baron Know",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

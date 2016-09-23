@@ -1,0 +1,8 @@
+{
+    "_id": "36179",
+    "added_in_patch": 6,
+    "description": "Those creatures out in the shallows keep busting the turrets as fast as we can get them operational.I'm supposed to go clear them out but my blaster is completely busted; the damn thing barely can light a candle like this!Could you do me a favor and go kill a few of those pests while I get my blaster fixed at the shop?Just let Gazwitz know you covered for me so I can get reimbursed for the repair.",
+    "name": "Unwanted Pests",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

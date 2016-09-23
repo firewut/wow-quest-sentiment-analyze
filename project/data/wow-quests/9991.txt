@@ -1,0 +1,7 @@
+{
+    "_id": "9991",
+    "description": "To be my eyes will require some diligence on your part. Nethrandamus will take you through the Legion camps, but you must catalog everything that you see. Even the smallest detail that you may think to be inconsequential could be useful for our purposes.Primarily, I want you to note what structures are in the camps and what comprises the camps' defenses.Nethrandamus is ready when you are, <name>. Do not be afraid, he will keep you safe from harm.\r\n",
+    "name": "Survey the Land",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "33813",
+    "added_in_patch": 6,
+    "description": "I...<sob>... I can't leave...<gulp>... without... Squiggy...!He... he's... trapped!You need... to put out... the fire!<Ariaana points across the room and bursts into tears.>",
+    "name": "In Need of a Hero",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

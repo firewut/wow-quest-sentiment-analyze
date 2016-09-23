@@ -1,0 +1,7 @@
+{
+    "_id": "10705",
+    "description": "I hope you're not shocked when I reveal to you that the pieces of the Medallion of Karabor you obtained from my minions are mere replicas.<Akama shows you an identical medallion in his open palm.>My Deathsworn and I have kept the secret from Illidan for as long as possible.   We are however, still missing the final piece.Udalo came to me in dreams  to announce he had found it.  Unfortunately he is held by Kael'thas inside the Arcatraz in Tempest Keep.  Find him and see what he knows.",
+    "name": "Seer Udalo",
+    "requires_level": 68,
+    "zone": "Quests"
+}

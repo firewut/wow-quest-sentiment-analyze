@@ -1,0 +1,9 @@
+{
+    "_id": "39582",
+    "added_in_patch": 6.2,
+    "description": "These wimps lugging wood around the jungle keep talking about how dangerous it is. You know, between the ravager den to the south or the raptors that stalk Zorammarsh - hey, even the beach creatures or podlings have teeth!What do you say you and I do a little hunting? Collect teeth from wild beasts. The bigger the beast, the more teeth. Meet me back here and we'll compare our haul!",
+    "name": "Tooth and Claw",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13681",
+    "description": "Getting stone for this job has been a nightmare, I tell ya! There are tons of stone available from ruins in safe places, but those holier-than-thou paladins won't go for it. Something about 'priceless artifacts.'Anyway, whining about that isn't going to get this place built. There are tons of crumbling titan ruins in the Foot Steppes and at the Inventor's Library in Storm Peaks. Take my, uh, 'chisel' with you and see if you can break those huge blocks into useful pieces.",
+    "name": "A Chip Off the Ulduar Block",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

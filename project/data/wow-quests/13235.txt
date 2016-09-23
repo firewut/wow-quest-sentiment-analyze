@@ -1,0 +1,7 @@
+{
+    "_id": "13235",
+    "description": "You've done well in destroying the Fleshwerks and slaughtering the Lich King's servants. Now, all that remains is to defeat the Fleshwerks' greatest accomplishment -- the flesh giant known as Morbidus.It will not be an easy fight, but the Shadow Vault has dispatched Margrave Dhakar with some reinforcements. Meet up with him at the highest point at the western end of the Fleshwerks. Tell him when you're ready to begin the attack and he'll order his forces into battle.",
+    "name": "The Flesh Giant Champion",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "5501",
+    "description": "We're sitting on a goldmine here, I tell you - a goldmine!  Kodo bones will change the world forever... I have customers making furniture, music instruments, and even blasting powder out of them.There's a caravan that comes by and picks up my kodo bones and then sells them at Shadowprey Village.  If you can travel to the kodo graveyard south of here and bring me ten kodo bones, I'll give you something in return.  Is it a deal?",
+    "name": "Bone Collector",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

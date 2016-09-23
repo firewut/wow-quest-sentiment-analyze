@@ -1,0 +1,7 @@
+{
+    "_id": "10989",
+    "description": "Mog'dorg the Wizened waits for you at top of da tower.  He tells me to look for a <race> <class> just like you.  You go speak with him about smart things.Go now, but don't tell no one.  It's a secret!",
+    "name": "Mog'dorg the Wizened",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

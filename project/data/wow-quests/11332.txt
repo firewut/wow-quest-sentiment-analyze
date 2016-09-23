@@ -1,0 +1,7 @@
+{
+    "_id": "11332",
+    "description": "The Royal Apothecary Society thinks they're going to perfect a new plague to melt us down where we stand?!Not on my watch!Get out to the courtyard and speak with Greer Orehammer. He's got a gryphon and some bombs ready for you. I want you to bomb the plague tanks at New Agamand to smithereens!",
+    "name": "Mission: Plague This!",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

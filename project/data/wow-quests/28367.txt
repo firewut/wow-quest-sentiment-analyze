@@ -1,0 +1,7 @@
+{
+    "_id": "28367",
+    "description": "It is good to have friends, <class>! While kindness is its own reward, there can be tangible benefits too!Some friends of mine recently intercepted a shipment of Schnottz's plunder and found something that should serve your needs nicely.It's a piece of titan technology that renders the user nearly invisible. If you use it in the enemy camp, you might be able to rewire their explosives and make a mess of their operation.Each charge has a limited duration, so don't stray too far from safety!",
+    "name": "Shroud of the Makers",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42058",
+    "added_in_patch": 7,
+    "description": "Legs broken? Check. Arm broken? Check. Writing hand broken? Nope!But seriously, someone please send help. I'm in so much pain right now I think I'm about to pass o...",
+    "name": "Crumpled Request",
+    "requires_level": 98,
+    "zone": "First Aid"
+}

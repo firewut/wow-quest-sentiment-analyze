@@ -1,0 +1,7 @@
+{
+    "_id": "12147",
+    "description": "The underside of the horn boasts an emblazoned seal with a hammer and a lightning bolt. Something about the horn seems extremely out of place on a Magnataur. Take the horn east across the Dragon Wastes to Wyrmrest and seek out someone who might be interested in these threatening implications.",
+    "name": "Disturbing Implications",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

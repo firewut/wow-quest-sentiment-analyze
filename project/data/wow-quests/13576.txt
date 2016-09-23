@@ -1,0 +1,7 @@
+{
+    "_id": "13576",
+    "description": "With most of our brethren losing their way to madness or corruption, it would seem that we have little choice but to ally with you, <race>.  You can count on our aid... once you've proven we can count on yours.As you can see, my people are having a bit of a problem with the fire elementals.  Help fight them and use this totem on their fiery remains.We will return them to where they belong... whether they like it or not.",
+    "name": "Mutual Aid",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

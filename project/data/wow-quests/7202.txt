@@ -1,0 +1,7 @@
+{
+    "_id": "7202",
+    "description": "The indigenous Winterax trolls of the region are ruthless savages that would love nothing more than to have our bones added to their foul stew.We must show them our might!We have recovered tomes from their caves that detail their leadership hierarchy. The artifacts indicate that their leader, Korrak the Bloodrager, tends to remain hidden until given a reason to make his presence known.Death to Korrak would mean death to Winterax Clan! Slay him and return.",
+    "name": "Korrak the Bloodrager",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

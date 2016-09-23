@@ -1,0 +1,7 @@
+{
+    "_id": "28420",
+    "description": "According to my father, we'll need worg hides, and lots of them.  It doesn't matter if they're torn, burned, or bloody, but we need plenty of them.Actually, it's probably better if they're a little beat-up.You'll find worgs both to the west and to the east of here.",
+    "name": "A Future Project",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

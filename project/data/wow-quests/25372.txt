@@ -1,0 +1,7 @@
+{
+    "_id": "25372",
+    "description": "<The finger-like branches of one of Nordu's burning limbs part, revealing an untouched, glimmering seed.>This is the Heart of the Forest. The seed of life.Take this to your Arch Druid at Aessina's Grove - Hamuul Runetotem will know how to invoke its power. I promise you, the wilderness spirit will be silent no longer. New life will bloom from the ashes of old.Thank you, <race>. My time is done.",
+    "name": "Aessina's Miracle",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

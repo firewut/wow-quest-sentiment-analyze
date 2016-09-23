@@ -1,0 +1,7 @@
+{
+    "_id": "26752",
+    "description": "Stay where you are, champion. I have not yet decided what to do with you or your Earthen Ring.",
+    "name": "Audience with the Stonemother",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

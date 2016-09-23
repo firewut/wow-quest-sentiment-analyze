@@ -1,0 +1,7 @@
+{
+    "_id": "28086",
+    "description": "The trappers are rounding up all of the young wind riders. <name>, will you go out there and free the pridelings?",
+    "name": "Free the Pridelings",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

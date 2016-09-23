@@ -1,0 +1,8 @@
+{
+    "_id": "30388",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "A Blue Feather for Gina",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28870",
+    "description": "We might've taken Neferset City, but the Neferset have a new seat of power.Thanks to Siamat, the powerful djinn of the south wind, the Neferset have become considerably more dangerous.We just learned that some of Nadun's ambushed reconnaissance party managed to secure the entrance to the Lost City.Go find Captain Hadan and get whatever information you need to bring down Siamat and the Neferset scum.",
+    "name": "Return to the Lost City",
+    "requires_level": 83,
+    "zone": "Quests"
+}

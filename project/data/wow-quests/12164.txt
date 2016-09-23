@@ -1,0 +1,7 @@
+{
+    "_id": "12164",
+    "description": "It is time, then, <name>.  Arugal must be defeated.Get a couple of people you can trust and head for Bloodmoon Isle.  It's just off the coast, east of here.We'll hit them fast.  Take out Arugal's lieutenants -- I'll catch up with you when it's time to take out the monster himself.",
+    "name": "Hour of the Worg",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

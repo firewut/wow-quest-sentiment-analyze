@@ -1,0 +1,7 @@
+{
+    "_id": "10324",
+    "description": "Well done, <name>! Well done!Now that you've cut your teeth with the moongraze stag, it's time you graduated to more formidable prey. Do not allow the casual disinterest of the moongraze bucks to fool you: when provoked, they are a fearsome foe.You'll find the bucks north of here. Good hunting.",
+    "name": "The Great Moongraze Hunt",
+    "requires_level": 4,
+    "zone": "Azuremyst Isle"
+}

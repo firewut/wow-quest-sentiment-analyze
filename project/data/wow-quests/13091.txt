@@ -1,0 +1,7 @@
+{
+    "_id": "13091",
+    "description": "The water lock outside my cave is teeming with elementals that the vrykul magi have yet to tame. I am going to teach you a trick for possessing these creatures for a short time, and you will use them to wreak havoc upon Jotunheim!<The banshee-infested vrykul draws magic in the air and touches a large finger to your forehead.>Go now and open the gate to the lock. A water terror will rush out and you will possess it to destroy our enemies!",
+    "name": "The Art of Being a Water Terror",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

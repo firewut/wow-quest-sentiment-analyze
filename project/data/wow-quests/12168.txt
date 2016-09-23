@@ -1,0 +1,8 @@
+{
+    "_id": "12168",
+    "description": "An inscription on the back of the favor reads,\"To my favorite pupil,If you continue to show promise, I will teach you wonders beyond your imaginings.If you do not, I will have you destroyed!As ever,High Cultist Zangus\"No doubt the warden at Stars' Rest will want to see this.",
+    "name": "The Favor of Zangus",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

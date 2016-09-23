@@ -1,0 +1,7 @@
+{
+    "_id": "11666",
+    "description": "You probably know all about the golden darter--they're fairly common in the rivers of Terokkar Forest and a delicacy for priests.  But here's one you haven't heard of: the blackfin darter.The fish is notoriously crafty and difficult to catch.  You have to pull your line at the last possible second, because they nibble at the bait before they take it.Drop your line in the rivers of Terokkar and bring me a blackfin darter.  Avoid the lakes, as the blackfin only thrive in moving water.",
+    "name": "Bait Bandits",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

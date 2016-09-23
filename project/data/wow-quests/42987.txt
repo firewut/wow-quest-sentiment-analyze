@@ -1,0 +1,8 @@
+{
+    "_id": "42987",
+    "added_in_patch": 7,
+    "description": "We will never be dominated so long as you stand at the front of our lines. Together we will slaughter anyone who stands in our way.You have sacrificed as much as any in the name of the Horde. I will not let your dedication go unnoticed.Face your fellow champions, <name>. Face them, and be recognized.",
+    "name": "The Victor's Spoils",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

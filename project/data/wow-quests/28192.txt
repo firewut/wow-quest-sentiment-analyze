@@ -1,0 +1,7 @@
+{
+    "_id": "28192",
+    "description": "This farm is under lockdown! Nothing gets in and nothing gets out! We're still assessing the situation to try and figure out exactly what happened, but my theory is that the laborers ate the mushrooms and somehow mutated into hideous undead monsters. I mean, how else could this have happened? This is just a farm! We grow mushrooms here! And sludge! Yes, sludge!Take a look around, <class>, because now that you're here you can't leave until this issue is resolved.See for yourself!",
+    "name": "No One Here Gets Out Alive",
+    "requires_level": 19,
+    "zone": "Hillsbrad Foothills"
+}

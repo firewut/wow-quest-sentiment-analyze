@@ -1,0 +1,7 @@
+{
+    "_id": "13420",
+    "description": "This piece of ice has been submitted to immense pressures and exposed to natural magics from deep beneath the world's surface. In combination, these effects have yielded an ice that will never melt.Knowing little of these things, you resolve to bring the sample back to Dun Niffelem. Someone there is bound to be familiar with its properties.",
+    "name": "Everfrost",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

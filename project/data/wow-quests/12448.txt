@@ -1,0 +1,7 @@
+{
+    "_id": "12448",
+    "description": "The Scourge have overrun the shrine. The shrine's keeper, Dahlia Suntouch, is nowhere to be found. The red wyrms that fell in the shrine's defense now beset us in the form of twisted skeletal emberwyrms. The situation is dire, <race>.Captain Drayzen leads a group of your kind in stemming the flow of the Scourge out of the shrine.Go to his aid... but please stay behind his men. The flow of Scourge is endless and I don't want to lose you in one of those scarred canyons.",
+    "name": "Heated Battle",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

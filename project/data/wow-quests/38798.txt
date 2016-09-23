@@ -1,0 +1,8 @@
+{
+    "_id": "38798",
+    "added_in_patch": 7,
+    "description": "To mine for felslate is to seek the very blood of demons. To improve at it, you must become part demon yourself.Why the dirty look? You said it yourself: you're willing to make sacrifices.Luckily for you, I'm an expert in this area. I won't put you in any danger, as long as you trust me.Are you ready?",
+    "name": "A Shred of Your Humanity",
+    "requires_level": 98,
+    "zone": "Mining"
+}

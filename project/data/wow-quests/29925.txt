@@ -1,0 +1,8 @@
+{
+    "_id": "29925",
+    "added_in_patch": 5,
+    "description": "Alright, I called in every favor I could. Here's what we got.Cho must be on to something big!Lemme know when you're ready to go see him - I got a ride all prepared for ya.",
+    "name": "All We Can Spare",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

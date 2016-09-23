@@ -1,0 +1,8 @@
+{
+    "_id": "43468",
+    "added_in_patch": 7,
+    "description": "We have a request in from Winstone Wolfe. He says that he needs a rather large amount of demon blood. He was not specific what for, and I did not ask.\r\n\r\nI am inclined to do this for him with all expediency. The Wolf rarely asks for anything, so when he does, we jump. He gets results, one-hundred percent of the time and then some.\r\n\r\nWe should show him the same professional courtesy.",
+    "name": "Blood for the Wolfe",
+    "requires_level": 103,
+    "zone": "Rogue Campaign"
+}

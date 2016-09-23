@@ -1,0 +1,8 @@
+{
+    "_id": "13970",
+    "description": "Kodos are resilient creatures. With some food, the big guy may come around.The Razormane have stolen plenty of grain from previous caravans. You can gather up stolen grain from the nearby camps.",
+    "name": "Animal Services",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

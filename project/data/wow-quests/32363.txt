@@ -1,0 +1,8 @@
+{
+    "_id": "32363",
+    "added_in_patch": 5.1,
+    "description": "I have another message for you from High Chieftain Bloodhoof.It seems you've made quite the impression on him.He travels with the Warchief's vanguard into Kun-Lai Summit, to the north. They have set up an outpost, Garrosh'ar Advance, just east of One Keg.You had best not keep him waiting. Speak to Tak-Tak for swift travel.",
+    "name": "The Kun-Lai Expedition",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

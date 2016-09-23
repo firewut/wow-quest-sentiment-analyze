@@ -1,0 +1,7 @@
+{
+    "_id": "10575",
+    "description": "The fragments you obtained are only half of the medallion.  The Ashtongue leader, Akama, must have kept the other half.I dread to ask this of you, as Akama is both evil and cunning.He and the Ashtongue Deathsworn - the vilest and most brutal of the tribe - are rumored to run a torture chamber inside the Warden's Cage.I want you to find that dreaded prison,  and find the whereabouts of Akama.  His second in command at the location is a Broken known as Sanoru - interrogate him if you have to.",
+    "name": "The Warden's Cage",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

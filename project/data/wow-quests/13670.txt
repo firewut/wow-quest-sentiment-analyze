@@ -1,0 +1,7 @@
+{
+    "_id": "13670",
+    "description": "The Ironforge grand champion's squire told me an intriguing story.In southern Crystalsong Forest, overlooking the Crystal Vice's exit, you will find Lord Everblaze. Kill him and take the everburning ember from his corpse.Bring it to the center of Winter's Breath Lake in northern Howling Fjord, and use it to free the maiden encased in ice. She is the guardian of an ancient sword and will award it to whoever frees her.Prove your worth and earn the weapon that she has guarded for so long, <name>.",
+    "name": "The Edge Of Winter",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

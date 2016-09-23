@@ -1,0 +1,7 @@
+{
+    "_id": "11910",
+    "description": "It's become clear that the instability in the region has had an effect on its indigenous creatures.I've taken a particular interest in the Glacial Ancients and their recent adaptations. I suspect that their transformation into these 'Magic-bound' Ancients may hold clues to our predicament here.For my studies, I'll need samples from both. Do hurry....",
+    "name": "Secrets of the Ancients",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

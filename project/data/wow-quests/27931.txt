@@ -1,0 +1,7 @@
+{
+    "_id": "27931",
+    "description": "Before you can help us here, you're going have to deal with Therazane, the Stone Mother's, forces to the south. The elementals and giants upon the Quaking Fields are being mustered.They too are after the middle fragment of the World Pillar. They'll attack us amidst our war with the stone troggs and we'll be unable to repel them.I've sent the arch geomancer ahead. Get to Slate Quicksand and do as he asks.",
+    "name": "The Quaking Fields",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

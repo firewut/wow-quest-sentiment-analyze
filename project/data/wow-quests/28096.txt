@@ -1,0 +1,8 @@
+{
+    "_id": "28096",
+    "description": "Come in here dear  boy, have a cigar. You're gonna go far and fly high as a ranking officer of the Forsaken. Yes, indeed, this is the good life and you are going to live it!I want you to take these orders and dispense them to the lowly scrubs that come along looking for work. Who you give what to is wholly at your discretion.When you're ready, mount up on my trusty skeletal steed - so they don't miss you - and start living the life! Which means just stand there and wait.",
+    "name": "Welcome to the Machine",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Hillsbrad Foothills"
+}

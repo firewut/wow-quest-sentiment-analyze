@@ -1,0 +1,8 @@
+{
+    "_id": "37658",
+    "added_in_patch": 7,
+    "description": "The demons are weakening my defenses. They must be far more powerful than what we've faced before.\r\n\r\nWill you help me to reignite the wards to keep the Legion from overrunning our position here?",
+    "name": "Reignite the Wards",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

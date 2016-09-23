@@ -1,0 +1,7 @@
+{
+    "_id": "13680",
+    "description": "You have trained hard as an aspirant, <name>, and now the time has come to test your mounted combat skills against an experienced opponent.Equip your lance, then go to the stables outside the pavilion and mount the Sunreaver hawkstrider.At the Aspirants' Ring on the northern side of the tournament grounds, you'll find a human child called Squire David. He'll ask if you're ready for the fight and call out your opponent.Good luck, <name>. May your mount be steady and your aim true.",
+    "name": "The Aspirant's Challenge",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

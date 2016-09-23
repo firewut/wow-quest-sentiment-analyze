@@ -1,0 +1,8 @@
+{
+    "_id": "28725",
+    "description": "I must ask something more dangerous of you. Strange news has traveled to me through the whisperings of the forest spirits. The mysterious woodland protector, Tarindrella, has returned to Shadowglen again.The dryad's presence has not been felt in the forests since before the blessing of Teldrassil. Something is surely amiss if she has journeyed back to this land.Seek out Tarindrella in the Shadowthread cave to the north. It is dangerous, but we will be prepared with this antidote just in case.",
+    "name": "The Woodland Protector",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

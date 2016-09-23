@@ -1,0 +1,7 @@
+{
+    "_id": "27830",
+    "description": "The black dragonflight means business.  It appears that they've taken over a large portion of New Kargath, the large Horde settlement northwest of Dragon's Mouth.  Their troops are under the command of General Jirakka and his champion, Moldarr.  They must be stopped.We dragons do not take part in the squabbles between Horde and Alliance, but I do understand the risk you take in entering New Kargath.  Please, heroes... be careful.",
+    "name": "Their Hunt Continues",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

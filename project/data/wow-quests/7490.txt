@@ -1,0 +1,7 @@
+{
+    "_id": "7490",
+    "description": "You have accomplished the impossible.\r\n\r\nThe brood mother of the Black Dragonflight lies dead at your feet. Take her head and present it to High Overlord Saurfang.",
+    "name": "Victory for the Horde",
+    "requires_level": 60,
+    "zone": "Orgrimmar"
+}

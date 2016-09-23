@@ -1,0 +1,8 @@
+{
+    "_id": "34809",
+    "added_in_patch": 6,
+    "description": "<Gazmolf gestures at the large machine nearby.>I built this machine to break down elementium minerals into base elements. You see, it's not just what's buried within the ground that can be valuable; but also the ground itself!Take, for example, the earth elementals below us; inside every earth elemental is an earthen core, dense in precious metal!.Those elementals are going to make us rich! Collect several earthen cores, place them in the Gold-O-Matic 9000, and I'll give you a cut!",
+    "name": "A Lesson in Mineralogy",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

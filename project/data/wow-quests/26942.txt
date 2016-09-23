@@ -1,0 +1,8 @@
+{
+    "_id": "26942",
+    "description": "I'd keep my distance from B.E Barechus and Murd Doc, neither is terribly stable.You are, though, so let's get you to work! Go down into this tunnel until you get to Tinkers' Court. Hopefully you'll know what to do when you meet Mekgineer Thermaplugg.Our leader, Commando Hann Ibal waits somewhere in there. He'll reward you handsomely for all your work.Probably.",
+    "name": "The G-Team",
+    "requires_level": 24,
+    "side": "alliance",
+    "zone": "Gnomeregan"
+}

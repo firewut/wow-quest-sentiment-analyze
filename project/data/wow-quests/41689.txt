@@ -1,0 +1,8 @@
+{
+    "_id": "41689",
+    "added_in_patch": 7,
+    "description": "We must save the Mother Tree at all costs.I believe I know a way.The world tree Nordrassil, atop Mount Hyjal, was born from an acorn of G'Hanir. We can use the sacred waters surrounding its roots to purify the corruption.If we take the Dreamway to Mount Hyjal's summit we should have enough time to complete the cleansing ritual before G'Hanir falls completely to the darkness.",
+    "name": "Cleansing the Mother Tree",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

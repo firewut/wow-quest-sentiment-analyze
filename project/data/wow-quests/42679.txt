@@ -1,0 +1,8 @@
+{
+    "_id": "42679",
+    "added_in_patch": 7,
+    "description": "It's important that we increase our numbers. Trust me, I know these things. Battlelord Gaardoun and his Ashtongue warriors are our best bet to quickly accomplish such a task.\r\n\r\nYou should speak with him and let him know just what kind of broken you want trained.",
+    "name": "Broken Warriors",
+    "requires_level": 101,
+    "zone": "Demon Hunter Campaign"
+}

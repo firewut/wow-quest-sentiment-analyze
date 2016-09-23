@@ -1,0 +1,7 @@
+{
+    "_id": "10846",
+    "description": "<Leoroxx looks you in the eye with the kind of stare that chills your soul.>You come to the Mok'Nathal, but you do not understand us.  You do not understand our struggle to survive.If you would understand us, then you will have to endure a taste of that struggle.To the south are the Vekh'nir arakkoa.  They have enslaved a group of ogres in the caverns known as Trogma's Claim and their leader, Vekh is in there.Slay him!",
+    "name": "Understanding the Mok'Nathal",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

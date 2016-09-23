@@ -1,0 +1,8 @@
+{
+    "_id": "42594",
+    "added_in_patch": 7,
+    "description": "Sorry about the holographic projection... I literally need to be in two places at once these days.\r\n\r\nA holy barrier that protects against fel magic, you say? I have just the thing to bypass it and enable Malevolence's teleport.\r\n\r\n<The high elf rummages around in his pack, a shocked look quickly coming over his face.>\r\n\r\nSneaky! Look there... that imp just made off with it!",
+    "name": "Move Like No Other",
+    "requires_level": 103,
+    "zone": "Demon Hunter Campaign"
+}

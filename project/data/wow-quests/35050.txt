@@ -1,0 +1,9 @@
+{
+    "_id": "35050",
+    "added_in_patch": 6,
+    "description": "Many of our rangari have not been accounted for. It would seem the followers of Iyu have taken captives.We will continue to search the area for survivors.In the meantime, follow the Wildwood Wash west toward Highpass and look for any signs of our rangari comrades.Our people are stout and capable survivors. You may find more than you expect. Have them stay near the road and we will follow as soon as this... dwarf creature... has fixed his mechanical vessel.",
+    "name": "Rescue Rangari",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

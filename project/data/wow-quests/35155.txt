@@ -1,0 +1,9 @@
+{
+    "_id": "35155",
+    "added_in_patch": 6,
+    "description": "We got more of those magic tossing ogres here which is never a good thing.These new ogres are especially bossy and have increased work being done here.Do you know what stops ogres from working hard? Dying.Kill some ogres here and get this camp back to its normal boring self.",
+    "name": "Obliterating Ogres",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

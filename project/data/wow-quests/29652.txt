@@ -1,0 +1,8 @@
+{
+    "_id": "29652",
+    "description": "Ol' Gunny doesn't have much longer...Do me one last favor, and kill the biggest, meanest fel orcs ye can find.For old times' sake, aye?",
+    "name": "One Last Favor",
+    "requires_level": 66,
+    "side": "alliance",
+    "zone": "Quests"
+}

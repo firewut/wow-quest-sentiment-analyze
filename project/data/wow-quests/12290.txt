@@ -1,0 +1,7 @@
+{
+    "_id": "12290",
+    "description": "The spirits of the damned haunt the coast. In life they were brave and noble soldiers of the Alliance, but in death they are cursed - bound to this world until the end of days. We must discover the source of their anguish if we are to free them!To the southeast, on the Eldritch Heights, you will find a rare herb known as murkweed. It is murkweed that I will use to concoct an elixir that will allow you temporary entry into the world of the forgotten. Go now and gather the weed.",
+    "name": "The Murkweed Elixir",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

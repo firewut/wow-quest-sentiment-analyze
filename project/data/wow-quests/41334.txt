@@ -1,0 +1,8 @@
+{
+    "_id": "41334",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Musky Bear Hide",
+    "requires_level": 110,
+    "zone": "Mining"
+}

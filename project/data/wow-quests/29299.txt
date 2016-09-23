@@ -1,0 +1,7 @@
+{
+    "_id": "29299",
+    "description": "I've been making progress in my research, <name>. Based on what we've witnessed in the local flora, it's quite possible that your Lasher also accepts superheated liquids as a principal source of nutrition.I'd like you to help me with a little experiment. The Emberspit Scorpions that inhabit the Magma Springs to the north spew out burning pools of fire during combat.Take the Lasher and observe his reaction to the scorpions' Ember Pools.",
+    "name": "Some Like It Hot",
+    "requires_level": 85,
+    "zone": "Quests"
+}

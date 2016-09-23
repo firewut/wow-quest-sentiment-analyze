@@ -1,0 +1,9 @@
+{
+    "_id": "37129",
+    "added_in_patch": 6,
+    "description": "The botani in the Everbloom Wilds are doin' some sorta foul magic to create these plant... well... zombies, basically.I've seen what happens with armies o' mindless slaves. The Lich King...<Delvar's eyes close.>No matter. We cannae let this escalate any further. I heard o' a particularly nasty one they've just made... let's kill it and see what makes it tick.",
+    "name": "Unwelcome Memories",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

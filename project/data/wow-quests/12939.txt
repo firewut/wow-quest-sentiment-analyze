@@ -1,0 +1,7 @@
+{
+    "_id": "12939",
+    "description": "The first step we're going to take is at a place in Jotunheim called the Savage Ledge. It's just over the mountains to the west.On the ledge the vrykul warriors are always sparring, being instructed in the finer arts of battle by their thane's men.I want you to take this flag and issue a challenge to a number of them. Let's demoralize them with the 'mere' skills of a <race>, shall we?<The duke grins, his rotting teeth flashing in the dim light of the vault.>",
+    "name": "Honor Challenge",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

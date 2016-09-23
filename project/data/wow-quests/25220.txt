@@ -1,0 +1,7 @@
+{
+    "_id": "25220",
+    "description": "Been attacked by any of the eels along the ridges yet? If not, you will. They are vicious, bloodthirsty little monsters. They don't seem to show much of any preference in what they're biting.If you're going out into the valley, I'd appreciate if you thinned their population a bit. Not everyone here is as well equipped as you - we might not come back with just scratches.",
+    "name": "Slippery Threat",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

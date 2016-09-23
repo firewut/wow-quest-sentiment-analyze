@@ -1,0 +1,7 @@
+{
+    "_id": "11109",
+    "description": "",
+    "name": "Jorus the Cobalt Netherwing Drake",
+    "requires_level": 70,
+    "zone": "Shattrath City"
+}

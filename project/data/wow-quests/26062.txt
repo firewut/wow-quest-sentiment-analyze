@@ -1,0 +1,8 @@
+{
+    "_id": "26062",
+    "description": "The final ingredient for the voodoo ritual is a special type of crystal called resonite. It can only be found in the Boulderslide caverns, west of here. Beware the kobolds! They guard the resonite with their lives!",
+    "name": "Da Voodoo: Resonite Crystal",
+    "requires_level": 26,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

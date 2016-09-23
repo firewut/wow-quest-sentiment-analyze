@@ -1,0 +1,8 @@
+{
+    "_id": "13658",
+    "description": "The document bears the Explorers' League crest and seems to detail transport routes utilized by the league into and out of Loch Modan. Sooty smudges lead you to believe it was likely stolen by the Dark Iron spies in the area.You recall mention of missing documents at the Explorers' League building in Thelsamar.",
+    "name": "Explorers' League Document (4 of 6)",
+    "requires_level": 8,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

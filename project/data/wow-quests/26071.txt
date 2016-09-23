@@ -1,0 +1,7 @@
+{
+    "_id": "26071",
+    "description": "These Earthen Ring want us to do their killing for them. There are faceless down below in the Scalding Chasm that are defiling all of the wildlife.Swim down there and take care of it.",
+    "name": "Clearing the Defiled",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

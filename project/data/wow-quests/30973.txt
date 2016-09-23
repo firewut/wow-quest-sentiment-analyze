@@ -1,0 +1,8 @@
+{
+    "_id": "30973",
+    "added_in_patch": 5,
+    "description": "The mantid coming across the bridge have thick carapaces that shrug off most of our attacks. They have a weakness though: fire.Lao-Chen's men brought kegs to the battlefield for exactly this purpose.  Kick the kegs into groups of mantid, and Lao-Chin's archers will light them up.They should be easy to finish off from there.",
+    "name": "Up In Flames",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

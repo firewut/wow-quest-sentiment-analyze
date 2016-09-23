@@ -1,0 +1,7 @@
+{
+    "_id": "29038",
+    "description": "Your Winterspring cub paws playfully at your hands. Without any playmates, the cub has few chances to practice its hunting skills.Perhaps you should take your cub hunting for the small arctic hares that burrow in the snow of northern Winterspring. Bring your cub close to the mounds of snow covering the hare burrows and wait for the cub's instincts to take over.",
+    "name": "Hunting Practice",
+    "requires_level": 50,
+    "zone": "Winterspring"
+}

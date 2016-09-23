@@ -1,0 +1,8 @@
+{
+    "_id": "25695",
+    "description": "<Warlord Dar'toon speaks in hushed tones.>I have orders from... higher up... that you would be suitable for.  I've seen the Alliance periodically referring to a stack of papers on that barrel over there.  I'd like you to take a look at those papers and find out what it is that they're plotting.  My duty and station prevent me from such a questionable task, but a newcomer like you might be able to slip in unnoticed...",
+    "name": "Watching Our Back",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

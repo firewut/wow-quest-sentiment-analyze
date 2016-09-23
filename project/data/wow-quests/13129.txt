@@ -1,0 +1,7 @@
+{
+    "_id": "13129",
+    "description": "<Kurzel rips a long strip of material from her blouse and hands it to you.>Here, <race>, take this. Dip it in the remains of Novos the Summoner.We're going to figure out what makes the Scourge leaders tick.",
+    "name": "Head Games",
+    "requires_level": 72,
+    "zone": "Drak'Tharon Keep"
+}

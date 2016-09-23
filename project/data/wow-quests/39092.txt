@@ -1,0 +1,9 @@
+{
+    "_id": "39092",
+    "added_in_patch": 7,
+    "description": "Our course is now clear. We must enter the vault and prevent Sylvanas from obtaining the power to create more Val'kyr. \r\n\r\nThe entrance is barred, which is likely what has kept her out so far, but you may have already uncovered the key to this barrier.\r\n\r\nYou must become the next ascendant.\r\n\r\nComplete the rites as depicted on the shields and take down the barrier to the vault. I will send word to Greymane of our findings - he will wish to confront Sylvanas himself.",
+    "name": "Becoming the Ascendant",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

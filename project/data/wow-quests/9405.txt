@@ -1,0 +1,8 @@
+{
+    "_id": "9405",
+    "description": "As you know, the warchief put his power behind this expedition for one reason.  This is the world we came from.  This is where our roots lie.This journey means different things to orcs and blood elves.  To them it's a search for the promised land.  To us it's more like returning home.Whoever made this axe is familiar with the old ways and we must contact them.  This is too important for us to use ordinary tracking methods.  Show the weapon to Far Seer Regulkut; she will know what to do.",
+    "name": "The Warchief's Mandate",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

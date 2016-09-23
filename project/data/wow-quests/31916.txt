@@ -1,0 +1,8 @@
+{
+    "_id": "31916",
+    "added_in_patch": 5,
+    "description": "You wish to face me again? You will regret this decision!",
+    "name": "Grand Master Lydia Accoste",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

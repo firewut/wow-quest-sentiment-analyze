@@ -1,0 +1,7 @@
+{
+    "_id": "11285",
+    "description": "Killing the Winterskorns maybe not enough.  Maybe we burn their houses too!  Uh... and their bridges.  We should burn whole town to be safe!You take this torch.  Go to Baleheim, to the west, and burn EVERYTHING!  That teach them good.",
+    "name": "Baleheim Must Burn!",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

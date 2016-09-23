@@ -1,0 +1,7 @@
+{
+    "_id": "12930",
+    "description": "It seems so long ago that these hammers pounded and hewed stone instead of iron. Our expulsion from Ulduar saw the weakest of us dead and the strongest of our craftsmen reborn as warriors.As the irons beat us back, even the strongest find themselves failing.We can do little for the wounded, save when we have a stock of enchanted earth. We used to mine it from the deposits on the sheer cliff face to the northwest, but the constant battle has prevented us from replenishing our stock. Would you help?",
+    "name": "Rare Earth",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

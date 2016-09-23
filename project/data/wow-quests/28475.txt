@@ -1,0 +1,8 @@
+{
+    "_id": "28475",
+    "description": "In Blackrock Depths, Twilight's Hammer has started to persuade the Dark Irons to strengthen their alliance and prepare their armies for a campaign outside the mountain.We must not allow this manipulation to create a combined Dark Iron-Twilight's Hammer force! We must destroy the tools of the cult's persuasion.I want you to go into Domicile portion of Blackrock Depths and use this torch to burn the books that the Twilight's Hammer is distributing there.",
+    "name": "Twilight Scheming",
+    "requires_level": 50,
+    "side": "horde",
+    "zone": "Blackrock Depths"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13791",
+    "description": "While we all play at mock combat, it will do us good to remember that the real enemy surrounds us. The Argent Crusade wants to use competition to find the best fighters, but we can tell that by who returns from battle. Let's show the paladins that we are willing to take battle to the Cult of the Damned, even while making preparations for the tournament.Go forth into Icecrown and slay any of the cultists you encounter. They have a strong presence around Aldur'thar and Deathspeaker's Watch.",
+    "name": "Taking Battle To The Enemy",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

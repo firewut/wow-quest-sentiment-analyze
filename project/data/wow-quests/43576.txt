@@ -1,0 +1,8 @@
+{
+    "_id": "43576",
+    "added_in_patch": 7,
+    "description": "I cannot think clearly in this place.\r\n\r\nEven though the moonwell is still pure, the corrupting influence of the Nightmare remains.\r\n\r\nCome, we will return to the refuge and gather our wits. Then we will continue the hunt for my husband.",
+    "name": "Regroup at the Refuge",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

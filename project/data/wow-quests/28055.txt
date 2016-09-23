@@ -1,0 +1,7 @@
+{
+    "_id": "28055",
+    "description": "Of course, we'll want to free as many slaves as we can while we're here.  Most of them will likely join forces with us, anxious to fight against their captors.However, sometimes you will find that slaves are resistant to being freed.  It's a strange phenomenon, often called \"Durnholde Syndrome\".Either way, you should try to free them.  If they resist, treat them as enemies.  Report your results to Evonice Sootsmoker, deeper within the Slag Pit.",
+    "name": "Sweet, Horrible Freedom",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

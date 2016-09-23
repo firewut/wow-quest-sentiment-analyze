@@ -1,0 +1,8 @@
+{
+    "_id": "27174",
+    "description": "In fact, you might still be able to help train some of my men.  You probably noticed the abomination outside.  We initially tried to fight him, but he didn't fight back.  He seems to want to help out on the farm.Take a group of four settlers and challenge this abomination to combat.  He seems to be pretty tough, but with one of him and five of you, I think you'll have a chance at beating him.",
+    "name": "Combat Training",
+    "requires_level": 34,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13323",
+    "description": "Looks like those initiates are increasing in number again. You know what to do...At the southern portion of the gate, the new cultists are being trained. They're certain to be holding a special item given to all initiates - an Orb of Illusion.These artifacts are used to disguise a cult member, allowing them to gain safe passage, infiltrate, or simply blend in with an enemy.Slay the fools until you find some, then use them on the subjugators there.",
+    "name": "Drag and Drop",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

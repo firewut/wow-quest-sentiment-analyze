@@ -1,0 +1,7 @@
+{
+    "_id": "12804",
+    "description": "Sometimes, there's nothing worse than a camp full of hunters. They're all so busy taking down prey animals that the only meat I get is tough and stringy. That's hardly the kind of thing you want to come home to after a long day on the hunt.Lucky for us, though, there is a source of tender, succulent meat nearby. To the south of the river and the camp live longneck grazers. They're a perfect source of meat for our hungry hunters. Bring me back the best cuts of meat and we'll properly toast our comrades.",
+    "name": "A Steak Fit for a Hunter",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

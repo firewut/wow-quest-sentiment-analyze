@@ -1,0 +1,8 @@
+{
+    "_id": "27204",
+    "description": "Our last hope of victory lies in defeating the val'kyr.  You've done well up until now... but you're only one  man and there are literally dozens of them raining destruction on the battlefield.One enormous val'kyr sits atop the tower to our south... you can see her from here.  Perhaps if we eliminate her, the remaining val'kyr will dissipate.This is our only hope.  Bring some of Grant's men with you.  You'll need their protection for this battle.",
+    "name": "Aradne",
+    "requires_level": 38,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

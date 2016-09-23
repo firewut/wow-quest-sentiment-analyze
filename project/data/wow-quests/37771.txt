@@ -1,0 +1,9 @@
+{
+    "_id": "37771",
+    "added_in_patch": 6.1,
+    "description": "\"If ye want to topple a wall, start with the foundation.\" It's an old Dwarf saying. If we take out the Iron Horde's leadership, the whole thing tumbles.Gar'an is the Admiral o' the Iron Horde fleet and first of the so-called \"Iron Maidens.\" She, along with her lieutenants, Marak, and Sorka, have dominated the seas of Draenor.No more, <name>. Travel to Blackrock Foundry and defeat Admiral Gar'an.",
+    "name": "Iron Assembly: Admiral Gar'an",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Quests"
+}

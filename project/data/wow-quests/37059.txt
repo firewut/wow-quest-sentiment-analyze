@@ -1,0 +1,9 @@
+{
+    "_id": "37059",
+    "added_in_patch": 6,
+    "description": "The last test for your mount will pit it against one of the great terrors of this land.The garn. Wolves as black as night, and twice the size of a normal wolf, they can tear an orc apart in mere moments. The beasts here wisely fear them.There is a lone garn that calls Nagrand its home. Take your clefthoof, mount up, and bring it down. If the two of you survive, your clefthoof will truly be ready.",
+    "name": "Clefthoof Training: The Garn",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Nagrand"
+}

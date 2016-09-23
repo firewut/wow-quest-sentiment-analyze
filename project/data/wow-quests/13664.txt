@@ -1,0 +1,7 @@
+{
+    "_id": "13664",
+    "description": "We must put an end to the Black Knight's scheming, and show those who oppose us that we will not stand by and allow our champions to be murdered.By now, he will suspect that someone is on his trail. Challenge him in the light of day, where he cannot refuse or murder in the dark, <name>.Use my argent charger for the battle. It's housed in the stables.Speak to Squire Cavin at the Ring of Champions. The squire will call the Black Knight to battle, but you will make him answer for his crimes.",
+    "name": "The Black Knight's Fall",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

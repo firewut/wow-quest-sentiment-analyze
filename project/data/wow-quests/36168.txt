@@ -1,0 +1,9 @@
+{
+    "_id": "36168",
+    "added_in_patch": 6,
+    "description": "No Exarch trial is complete without a holy pilgrimage to the sacred resting place of our fallen champions.On the way, I ask that you take Vindicator Maraad's ashes and lay them to rest within the hallowed halls of Auchindoun.There, the spirits of our fallen ancestors will test Yrel's greatest weakness.Good luck.",
+    "name": "The Trial of Faith",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

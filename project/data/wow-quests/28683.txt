@@ -1,0 +1,8 @@
+{
+    "_id": "28683",
+    "description": "We have been trying to get a foothold in The Darkwood for weeks now but that forest is infested with spiders.  Do me a favor and see if you can thin them out enough for us to set up an attack.Careful out there, I have heard reports of Alliance troops nearby earlier in the week.",
+    "name": "Thinning the Brood",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "Tol Barad Peninsula"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32398",
+    "added_in_patch": 5.1,
+    "description": "Your efforts have culminated in this moment, <class>.Warchief Garrosh gathers the most elite champions of the Horde in Kun-Lai Summit to witness the ringing of the Divine Bell.You have more than earned the right to participate.Go now. The dawn of the new Horde begins today.Speak to Tak-Tak. He should be able to secure your travel arrangements.",
+    "name": "The Bell Speaks",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

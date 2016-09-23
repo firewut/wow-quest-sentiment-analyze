@@ -1,0 +1,8 @@
+{
+    "_id": "34217",
+    "added_in_patch": 6,
+    "description": "Grulk not choose to be mutated. Grulk not monster like Blon'sky! Blon'sky evil... chose mutation for power!You go to Grommar? Smash Blon'sky before he hurt innocents, make Grulk happy!",
+    "name": "Smash Blon'sky!",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

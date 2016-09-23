@@ -1,0 +1,9 @@
+{
+    "_id": "35713",
+    "added_in_patch": 6,
+    "description": "Commander, two gnomish smugglers passed by while you were out - Filbert and Dilbert Tinkertoss. They were headed towards the bog to the east.They had all sorts of drilling equipment but didn't seem to have any weapons.What do you think of offering them protection in exchange for some of their materials?I'll jot down where they were headed in case you decide to go.",
+    "name": "The Tinkertoss Twins",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

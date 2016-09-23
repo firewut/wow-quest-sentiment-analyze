@@ -1,0 +1,7 @@
+{
+    "_id": "12073",
+    "description": "The Alliance isn't the only force opposing us in Grizzly Hills. The iron dwarves have firm control of the eastern coast, although Thor Modan, to the northeast, is besieged by stone giants.A skilled warrior uses an enemy's weakness against him and we would be fools to ignore the vulnerability of the iron dwarves at Thor Modan. Show the iron dwarves no mercy. Slay any and all who would stand in your way.The 'sons of iron' will learn to fear the Horde.",
+    "name": "Pounding the Iron",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

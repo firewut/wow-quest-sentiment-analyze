@@ -1,0 +1,7 @@
+{
+    "_id": "28343",
+    "description": "<name>, we have learned that a missing Cenarion artifact has surfaced in the hands of a Twilight's Hammer pyromancer. Pyromancer Loregrain has taken this artifact, the Breath of Cenarius, into Blackrock Depths and uses its power to open elemental gates.We must act to keep Loregrain from summoning elementals to bolster the ranks of his Dark Iron allies. Recover the artifact from him and use its power to close the gates that Loregrain has been using.",
+    "name": "The Breath of Cenarius",
+    "requires_level": 50,
+    "zone": "Blackrock Depths"
+}

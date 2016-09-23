@@ -1,0 +1,7 @@
+{
+    "_id": "9565",
+    "description": "As High Chief, my immediate concern is the root of the corruption in Stillpine Hold.Why did the wildkin - once our allies - attack us? Why have they taken residence in Stillpine Hold?Perhaps something inside will hold the answer. Search Stillpine Hold for clues as to the source of corruption.",
+    "name": "Search Stillpine Hold",
+    "requires_level": 7,
+    "zone": "Azuremyst Isle"
+}

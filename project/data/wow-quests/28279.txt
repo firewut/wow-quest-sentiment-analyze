@@ -1,0 +1,7 @@
+{
+    "_id": "28279",
+    "description": "<name>?  Troteman here.It sounds like you have earned Thorg'izog's trust, and he's assigned you to discipline duty.  This is fortunate.We need you to take out his sergeants.  You'll find them on wolfback, outside of the Blackrock Stronghold in the Fields of Honor.  Use that cudgel on them, several times, until they die.  You'll have to act fast, because if they realize you're not one of them, they can unmask you.  Strike quickly and ferociously, <name>.Troteman out.",
+    "name": "Abuse of Power",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

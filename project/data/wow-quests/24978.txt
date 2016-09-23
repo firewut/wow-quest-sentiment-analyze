@@ -1,0 +1,7 @@
+{
+    "_id": "24978",
+    "description": "Humans are notoriously fickle creatures.  The farmers to the west are no exception.  Sure, they may be plowing their fields peacefully now, but tomorrow, they may be raising their scythes against us.  The Alliance looms close by in Gilneas, and the power of Stormwind looms to the south... any of these could recruit these tillers and use them as a wedge against us.I want them dead.  See to it that it's done.",
+    "name": "Reaping the Reapers",
+    "requires_level": 5,
+    "zone": "Tirisfal Glades"
+}

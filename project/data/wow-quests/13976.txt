@@ -1,0 +1,7 @@
+{
+    "_id": "13976",
+    "description": "Care to make a quick trip to the south? I've three friends that I haven't heard from in a while. With these strange tentacles popping out of the ground to the north, and all of the demonic activity, I don't dare leave my family.Bolyun set up his camp in the southwest corner of the forest, just to the northwest of that damnable Fire Scar Shrine. Alenndaar and Harlown joined him, so they should all be okay, but you never know.Thanks, <name>.",
+    "name": "Three Friends of the Forest",
+    "requires_level": 23,
+    "zone": "Ashenvale"
+}

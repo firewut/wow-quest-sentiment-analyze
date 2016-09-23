@@ -1,0 +1,8 @@
+{
+    "_id": "29752",
+    "added_in_patch": 5,
+    "description": "The process of mass conjuring, as the mogu are doing here, is not without byproduct. Some spirits arrive too distraught or unruly to be harnessed, so they are confined and left to wander until their desperation leaves them more malleable.I suspect the mogu have such a holding area somewhere nearby, likely guarded by spiritclaws.Please, take my staff again and use it to collect these wayward spirits. You needn't fight them - present the staff and they should be drawn in.",
+    "name": "The Wayward Dead",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

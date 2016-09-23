@@ -1,0 +1,8 @@
+{
+    "_id": "32330",
+    "added_in_patch": 5.1,
+    "description": "We are trying to uncover the secrets of one of the mogu artifacts Garrosh insisted we investigate. It is proving most difficult, as anyone who probes it magically is greatly affected by raw, negative emotions.I called in the assistance of Arch-mage Aethas of the Sunreavers in the hopes that he and Rommath could crack this puzzle. They asked for you specifically - apparently you have some relevant experience?Go to the chamber below Farstrider Square east of here and see if you can assist them.",
+    "name": "What's in the Box?",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

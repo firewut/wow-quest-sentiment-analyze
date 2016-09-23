@@ -1,0 +1,7 @@
+{
+    "_id": "29253",
+    "description": "There is a stash of loot located in the statue on Janeiro's Point just northwest of Booty Bay in Stranglethorn Vale.Head to the statue and claim your prize, <class>.",
+    "name": "A Shiny Reward",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

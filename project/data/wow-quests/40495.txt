@@ -1,0 +1,8 @@
+{
+    "_id": "40495",
+    "added_in_patch": 7,
+    "description": "The book says the Dark Riders were last seen in a place called Manor Mistmantle. If friend can find these riders, then he can get Ulthalesh!\r\n\r\nCalydus will wait here and await your return. Find Ulthalesh, friend!",
+    "name": "Ulthalesh, the Deadwind Harvester",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

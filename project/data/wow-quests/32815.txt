@@ -1,0 +1,8 @@
+{
+    "_id": "32815",
+    "added_in_patch": 5.3,
+    "description": "I can help you collect the pieces a story, but it is up to you tie them together. And I may know just where you could do such a thing.I have heard tales of an elderly scholar named Seer Hao Pham Roo. He is something of an... expert on Pandaria's history, and may be able to shed light on Pandaria's current turmoil.Seek him out, <name>. Last I heard, he was planning to retrace the emperor's steps by scaling Mount Neverest, in Kun-Lai.",
+    "name": "The Old Seer",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

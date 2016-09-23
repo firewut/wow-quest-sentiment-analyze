@@ -1,0 +1,8 @@
+{
+    "_id": "34662",
+    "added_in_patch": 6,
+    "description": "So you want to fight in the Ring of Trials do you? It's your funeral, bub!Your first fight is against an exceptionally large and angry ogre named Crushmaul. That's not all though, you'll have to take out his armored boar companion too; Crushmaul never goes into the ring without him!I hope your affairs are in order, because the last gladiator that fought Crushmaul went home in a body bag...I'm counting on you! Get your ass inside the arena and speak with my associate Guzrug to start the fight!",
+    "name": "Ring of Trials: Crushmaul",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

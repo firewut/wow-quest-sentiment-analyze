@@ -1,0 +1,8 @@
+{
+    "_id": "30470",
+    "added_in_patch": 5,
+    "description": "That Tina Mudclaw is in the Halfhill Market today, visiting her sister. She's really nice, but she's really hard to get gifts for!There's a little jewel that can be found in the cliffs to the north. It's called a chrysoberyl, and it changes color when you hold it. I'll bet she doesn't have one of THOSE!Look inside the virmen caves. I bet you'll find one really fast.",
+    "name": "A Gift For Tina",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

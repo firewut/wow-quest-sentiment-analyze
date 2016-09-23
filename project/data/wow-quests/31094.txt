@@ -1,0 +1,8 @@
+{
+    "_id": "31094",
+    "added_in_patch": 5,
+    "description": "Dear $p,I have thoroughly enjoyed reading your research in to the jinyu. A fascinating people and quite clever too.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
+    "name": "Fish Tales",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

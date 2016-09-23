@@ -1,0 +1,8 @@
+{
+    "_id": "30956",
+    "added_in_patch": 5,
+    "description": "Today's mantid swarm is among the worst I've seen. We are lucky to have Niuzao join us in battle.Help him, <class>. Return to the courtyard, and join in the defense of our temple.",
+    "name": "The Siege Swells",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

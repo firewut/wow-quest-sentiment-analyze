@@ -1,0 +1,7 @@
+{
+    "_id": "9877",
+    "description": "The battle against the Scourge is not one without casualties.  Many are slain every day yet many more meet a worse fate.It is not uncommon for the Scourge to take prisoners.  Death would be preferable to what awaits them in Deatholme.  They're interrogated and tortured while under the effects of horrible will-breaking poisons.Apothecary Renzithen in Tranquillien has developed a remedy; go to him and retrieve this restorative draught.",
+    "name": "A Restorative Draught",
+    "requires_level": 17,
+    "zone": "Ghostlands"
+}

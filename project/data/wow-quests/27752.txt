@@ -1,0 +1,7 @@
+{
+    "_id": "27752",
+    "description": "S'not a boast to say that we Thundermars brew the finest ale in the Eastern Kingdoms. It's 220 proof. Yeah, you heard me!As folks fled from the south to the town center, they were forced to leave behind their ale.<Blundy pauses, allowing the gravity of the situation to soak in.>GET IT BACK! That stuff'll turn even the stringiest of warriors into a whirlin' dervish of mouth-foaming destruction. Get them kegs! S'our only hope!",
+    "name": "Fight Like a Wildhammer",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

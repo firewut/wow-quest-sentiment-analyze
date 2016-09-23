@@ -1,0 +1,8 @@
+{
+    "_id": "43262",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Garona Halforcen",
+    "requires_level": 101,
+    "zone": "Rogue Campaign"
+}

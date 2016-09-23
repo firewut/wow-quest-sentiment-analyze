@@ -1,0 +1,7 @@
+{
+    "_id": "27049",
+    "description": "The corruption of the Crimson Expanse has not subsided. Destroy the Fungal Behemoths that shower their filth upon our realm. If they continue to rise, we will continue to destroy them.",
+    "name": "Soft Rock",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

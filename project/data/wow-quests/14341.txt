@@ -1,0 +1,7 @@
+{
+    "_id": "14341",
+    "description": "Pardon me, young <race>.I'm in need of a little help. I've just finished filling an order for harnesses that must be delivered right away.I'm a bit old for the trip, especially considering how dangerous things have become lately.Would you mind?They need to go to Smeed, a goblin who lives just southeast of here.",
+    "name": "Smeed's Harnesses",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43261",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Vanessa VanCleef",
+    "requires_level": 101,
+    "zone": "Rogue Campaign"
+}

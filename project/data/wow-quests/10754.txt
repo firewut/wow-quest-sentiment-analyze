@@ -1,0 +1,7 @@
+{
+    "_id": "10754",
+    "description": "This freshly cast mold was to be used to create a key of some sort.  From the image engraved on its back, it appears to be related to Hellfire Citadel.Maybe this could prove to interest to Danath, the force commander at Honor Hold.",
+    "name": "Entry Into the Citadel",
+    "requires_level": 68,
+    "zone": "Hellfire Peninsula"
+}

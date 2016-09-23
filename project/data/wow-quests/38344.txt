@@ -1,0 +1,9 @@
+{
+    "_id": "38344",
+    "added_in_patch": 6.1,
+    "description": "This book has seen better days. Not much can be made out between the waterlogging and the apparent animal bites, but you can make out some sort of Ironforge-based drinking game scoring system involving a dwarf named Krom Stoutarm.",
+    "name": "Mystery Notebook",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ironforge"
+}

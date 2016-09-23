@@ -1,0 +1,7 @@
+{
+    "_id": "28126",
+    "description": "The braziers are spread throughout Shadow Hold.Enter the tunnel into Shadow Hold, and follow it through the underground passageways. Douse each of the brazier's flames and the protections the Council has set up will fall for at least a short period of time.",
+    "name": "Dousing the Flames of Protection",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

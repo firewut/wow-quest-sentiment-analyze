@@ -1,0 +1,9 @@
+{
+    "_id": "30995",
+    "added_in_patch": 5,
+    "description": "I sent recon out over an hour ago and none of them have reported back. And now these damned hounds are pouring out of the chasm.I don't know what's going on down there, but I'm not going anywhere till I get my men back.I want you to head in there and find them, <name>, preferably while they are still alive.",
+    "name": "No Man Left Behind",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Ragefire Chasm"
+}

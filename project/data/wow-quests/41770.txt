@@ -1,0 +1,8 @@
+{
+    "_id": "41770",
+    "added_in_patch": 7,
+    "description": "There has been no Windlord to lead the air elementals since the death of Al'Akir.The realm of Skywall has been thrown into turmoil. The throne of Al'Akir is Thunderaan's by right, but what remains of the prince's essence within Thunderfury is diminishing. If we do not move quickly, Thunderaan may be lost forever.Take the damaged Thunderfury to Vortex Pinnacle and speak with Celestos.Celestos was a loyal servant of Al'Akir and he will share our desire to see Thunderaan reborn.",
+    "name": "The Skies Above",
+    "requires_level": 103,
+    "zone": "Shaman Campaign"
+}

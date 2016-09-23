@@ -1,0 +1,8 @@
+{
+    "_id": "32126",
+    "added_in_patch": 5.1,
+    "description": "The Alliance may be cowardly, but they are not fools. Their assault would be formidable, if it were directed at lesser creatures.To sustain a siege and put pressure on our troops they are air dropping in supplies to support their ground forces.Search the beaches and docks to the south for any airdropped supplies and smash them.Let the Alliance see their food and ammunition destroyed before their eyes and despair.",
+    "name": "Tear It Up",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

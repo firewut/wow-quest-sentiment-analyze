@@ -1,0 +1,7 @@
+{
+    "_id": "6801",
+    "description": "",
+    "name": "Lokholar the Ice Lord",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

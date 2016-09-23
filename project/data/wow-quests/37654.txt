@@ -1,0 +1,8 @@
+{
+    "_id": "37654",
+    "added_in_patch": 7,
+    "description": "Good  sir, a moment of your time. My fellow salvors and I could not help but notice yon ship that ran aground in the storm last night.\r\n\r\nA pity about its crew.\r\n\r\n<Mr. Shackles makes empathetic gestures.>\r\n\r\nStill, the law's the law. The maritime code is quite clear on the matter. If you find yourself out that way, would you mind terribly checking in on my acquisitions scout, Looper? I would have expected him back for tea some time ago.",
+    "name": "Maritime Law",
+    "requires_level": 98,
+    "zone": "Quests"
+}

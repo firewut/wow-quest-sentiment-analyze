@@ -1,0 +1,7 @@
+{
+    "_id": "28338",
+    "description": "There is a camp of Deadwood furbolgs directly to our southwest.  Corruption permeates the camp, and I wish to put an end to it before they become a problem.The Deadwood tribe is evil, but it is the effects of the fel that pollutes their minds.  Their hostility is not truly an innate quality, yet they cannot be helped.  It saddens me that we must fight our own brethren.Please, <name> - I ask you to do what must be done.  Simply spare me the details; such troublesome images upset me far too much.",
+    "name": "Deadwood of the North",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

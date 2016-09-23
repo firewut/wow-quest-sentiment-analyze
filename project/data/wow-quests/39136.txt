@@ -1,0 +1,8 @@
+{
+    "_id": "39136",
+    "added_in_patch": 7,
+    "description": "You've charged up the gun. Now it's time to use it. Go and confront the ghostly wizard Kiranys Duskwhisper, and drive him out of Bradensbrook.",
+    "name": "Unused",
+    "requires_level": 102,
+    "zone": "Bradensbrook"
+}

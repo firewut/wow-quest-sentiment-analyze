@@ -1,0 +1,7 @@
+{
+    "_id": "33163",
+    "added_in_patch": 5.4,
+    "description": "",
+    "name": "Weekly Vignette Loot Chest - Tracking Quest",
+    "zone": "Quests"
+}

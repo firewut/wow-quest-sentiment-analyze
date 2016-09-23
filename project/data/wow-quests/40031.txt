@@ -1,0 +1,8 @@
+{
+    "_id": "40031",
+    "added_in_patch": 7,
+    "description": "<Kuhuine studies the trowel further.>This is a standard digging tool. There is not much to be learned here, except......this DOES suggest that the vrykul are still actively gathering this herb.The vrykul likely know much more about this herb than we do. All we need to do is find out where their knowledge is stored.",
+    "name": "Vrykul Herblore",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

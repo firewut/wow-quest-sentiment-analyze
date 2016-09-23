@@ -1,0 +1,8 @@
+{
+    "_id": "34655",
+    "added_in_patch": 6,
+    "description": "My people flee our homeland in droves. I sell trinkets to ease the journey.But I see that you are not interested in trinkets... No, what you seek are answers.Skettis lies just ahead. Once a great city built by Terokk as a refuge for the unwanted. Now a ruined slum.An old storyteller lives there - a scrollkeeper named Reshad. Find him and speak these words: \"Shadows gather.\" He will know you are a friend.Now go. Your presence is bad for business.",
+    "name": "The Shadows of Skettis",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

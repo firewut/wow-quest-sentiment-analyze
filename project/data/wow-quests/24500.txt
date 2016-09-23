@@ -1,0 +1,7 @@
+{
+    "_id": "24500",
+    "description": "It's hard to believe that there is much hope of defeating Arthas upon the steps of his own throne. And who will take up the crown of Lich King if it comes to that?Many questions remain. but you need to find Jaina and escape the Lich King while there's still time.",
+    "name": "Wrath of the Lich King",
+    "requires_level": 78,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44244",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Koltira Deathweaver",
+    "requires_level": 103,
+    "zone": "Death Knight Campaign"
+}

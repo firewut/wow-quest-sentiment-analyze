@@ -1,0 +1,7 @@
+{
+    "_id": "29374",
+    "description": "The foolish Alliance have employed hags to fuel an attack on our city.  Well, as my sister once told me, \"Turnabout is fair play.\"We will gladly return the favor.  Speak with my sister, and she will provide you with a broomstick flight over Stormwind.  While over Stormwind, drop stink bombs on the city and on the people.  Make them suffer!We will show those hags in Stormwind who is the most powerful.",
+    "name": "Stink Bombs Away!",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

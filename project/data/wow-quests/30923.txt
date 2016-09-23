@@ -1,0 +1,8 @@
+{
+    "_id": "30923",
+    "added_in_patch": 5,
+    "description": "Every day, the mantid build up munitions for use on their enemies. We cannot stop them, just you and I... but we can set them back.<Tai Ho hands you some explosives.>I need to keep a low profile. Would you do the honors?",
+    "name": "Set the Mantid Back",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

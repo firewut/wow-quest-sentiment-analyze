@@ -1,0 +1,7 @@
+{
+    "_id": "9326",
+    "description": "This flame, stolen from the ruins above the Undercity, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",
+    "name": "Stealing the Undercity's Flame",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

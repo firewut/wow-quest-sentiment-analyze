@@ -1,0 +1,9 @@
+{
+    "_id": "29694",
+    "added_in_patch": 5,
+    "description": "They have an airbase! I have underestimated this Alliance Captain for the last time. So many good warriors lost...There must have been a few survivors who were able to bail during the crash. We need every able-bodied fighter we can get.Find as many survivors as you can in the forest below, and I will investigate the wreckage itself. Rally everyone together at the nearby village for a counter-attack.",
+    "name": "Regroup!",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

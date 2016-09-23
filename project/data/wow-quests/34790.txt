@@ -1,0 +1,9 @@
+{
+    "_id": "34790",
+    "added_in_patch": 6,
+    "description": "The exarchs seem to trust you, <class>. Are you venturing into the Umbrafen?The Sporebats in this area are usually docile, but something's got them all riled up. When they attack, their stingers wrap around exposed limbs. I've seen them tear through reinforced leather like it was paper. How do they work, I wonder?Could you bring me a pristine sporebat stinger? I'd love to study it.",
+    "name": "The Sting",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14446",
+    "description": "Hear my words, <class>!The winds of change have gathered into a violent storm that sweeps across Azeroth.Have you the courage to face the true cause of our plight?Muster your resolve, <race>, and pray for the strength and fortune to see you through the trials that await.An unexpected ally has issued a call for all that would hear. Peer into the Waters of Farseeing and behold the fate of the world!",
+    "name": "Cataclysm!",
+    "requires_level": 78,
+    "zone": "Stormwind City"
+}

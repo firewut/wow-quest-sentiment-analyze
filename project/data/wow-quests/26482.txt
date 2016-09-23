@@ -1,0 +1,7 @@
+{
+    "_id": "26482",
+    "description": "Now, take the rod and while using its power, speak with my brother, Ota Wen.Ota is amongst the other furbolg that the orcs have captured and have penned in the giant cage on the north side of Silverwind Refuge. The rod will allow you to convince Ota and the other furbolg to rise up and attack the Horde.Then you may go wherever your path leads you. Just know that you have found a new friend for that which you have done.",
+    "name": "True Power of the Rod",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

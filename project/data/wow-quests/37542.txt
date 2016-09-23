@@ -1,0 +1,8 @@
+{
+    "_id": "37542",
+    "added_in_patch": 7,
+    "description": "We don't have time for you to go through a lengthy set of tryouts. But, fighting in the arena is our best chance at getting you in good with the giants.\r\n\r\nThat kind-hearted giant over there that's losing against Bilgerudder is Sternfathom. If you were to defeat his hozen champion, you'd make yourself a spot on his team.\r\n\r\nLooks like Ooker Dooker's taking a rest between bouts. Now's the time to deliver a good ol' monkey beatdown.",
+    "name": "No Time for Tryouts",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

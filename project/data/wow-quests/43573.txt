@@ -1,0 +1,8 @@
+{
+    "_id": "43573",
+    "added_in_patch": 7,
+    "description": "The quest for the Four Horsemen is of the utmost importance, however we must turn our attention to the warfront.Our continued success on the field of battle has shaken the Burning Legion and as a result, they have increased the frequency and intensity of their assaults.We must meet the increased aggression with continued resistance!Only then will we be able to turn our attention back to the Four Horsemen.",
+    "name": "Advancing the War Effort",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

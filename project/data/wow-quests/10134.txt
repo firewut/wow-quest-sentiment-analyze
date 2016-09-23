@@ -1,0 +1,7 @@
+{
+    "_id": "10134",
+    "description": "As the colossus falls under the weight of your attacks, you notice for the first time that it was holding a red crystal fragment.While it was small and unnoticeable in the mountain giant's hand, it's a fairly hefty piece for you to carry around.  It also suspiciously looks like it's a piece of the giant crystal in the middle of the ridge.It's most definitely a clue as to the strangeness that is occurring here, and you're sure that the druids at the Cenarion Post to the south will want to see it.",
+    "name": "Crimson Crystal Clue",
+    "requires_level": 61,
+    "zone": "Hellfire Peninsula"
+}

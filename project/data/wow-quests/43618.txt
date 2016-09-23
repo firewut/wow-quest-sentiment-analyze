@@ -1,0 +1,8 @@
+{
+    "_id": "43618",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Gurbog da Basher",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

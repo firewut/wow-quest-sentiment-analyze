@@ -1,0 +1,7 @@
+{
+    "_id": "12234",
+    "description": "I need to know what New Hearthglen is up to.I want you to steal their orders of the day so that I can find that out.Head south and in their abbey, in their barracks, and on their beach, find those daily plans!Just in case you're confused, the barracks is the large building right next to the smithy.",
+    "name": "Need to Know",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

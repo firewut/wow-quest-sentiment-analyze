@@ -1,0 +1,7 @@
+{
+    "_id": "26725",
+    "description": "Sven is correct. I can feel the presence of a powerful evil deep beneath the Raven Hill Cemetery. Evil lurks in its catacombs, and Morbent Fel must be the source.You will need the power of the Light to strike him down, <name>. Sven told me the heroes who first slew Morbent Fel wielded an artifact of lightforged iron, imbued with holy power. That artifact is still here!I can feel it as well, a glimmer of light amidst the darkness. Search Raven Hill for it, and let the Light guide you through it.",
+    "name": "Guided by the Light",
+    "requires_level": 22,
+    "zone": "Duskwood"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26369",
+    "description": "Kotonga has told me of Shadra. She is the venom queen, the loa of spiders, worshipped in darkness. If the Vilebranch are performing rituals, I'm not going to let them finish.Check the cave behind the altar at the top of Jintha'Alor. Deep within it, one of Shadra's keepers might still be lurking. Kill her and take whatever she carries back here so we can know what's going on.",
+    "name": "Hunt the Keeper",
+    "requires_level": 31,
+    "zone": "The Hinterlands"
+}

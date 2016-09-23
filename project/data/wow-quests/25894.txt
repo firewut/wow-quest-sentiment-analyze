@@ -1,0 +1,7 @@
+{
+    "_id": "25894",
+    "description": "Hexascrub came out here with a balloon of some sort that he retrieved from one of our ships. He tried to float it to the top, but those Muckskin Scroungers came out of nowhere and swarmed the thing.He's got an idea for another balloon, but we need to make sure that the past doesn't repeat itself. I need you to kill off those gill goblins. Or at the very least, enough of them to make them a bit more wary of us.",
+    "name": "Hostile Waters",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

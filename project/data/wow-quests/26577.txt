@@ -1,0 +1,7 @@
+{
+    "_id": "26577",
+    "description": "To the east, on the Crimson Expanse, you will find Gorsik. He embodies the more unstable and violent nature of our kind. He is neither friendly, nor trusting, but his word carries weight.Proving yourself to Gorsik will go a long way towards proving yourself to the Stonemother.",
+    "name": "Rocky Upheaval",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "28545",
+    "description": "All able-bodied members of the Horde are hereby ordered to report to Donova Snowden at Frostfire Hot Springs. Her discoveries about the Winterfall furbolg may be the key to dealing with this threat once and for all.To reach the Frostfire Hot Springs in Winterspring, you must travel east from northern Felwood and traverse Timbermaw Hold.Destiny calls!",
+    "name": "Warchief's Command: Winterspring!",
+    "requires_level": 49,
+    "side": "horde",
+    "zone": "Winterspring"
+}

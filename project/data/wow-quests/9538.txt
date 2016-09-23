@@ -1,0 +1,7 @@
+{
+    "_id": "9538",
+    "description": "I think I've cracked it, <name>!<Aurren points to the totem.>All that we need to know about the Stillpine furbolg language is imprinted on their totems. With just a rudimentary understanding of how their symbols work, we can study the totems and learn to communicate with the furbolgs.I've written down the basics of the symbol matrix on this parchment. Study it and then examine the totem. It should lead you to the next language totem.Speak to Arugoo when you return an educated <race>!",
+    "name": "Learning the Language",
+    "requires_level": 8,
+    "zone": "Azuremyst Isle"
+}

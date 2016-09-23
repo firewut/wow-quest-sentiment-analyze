@@ -1,0 +1,8 @@
+{
+    "_id": "14038",
+    "description": "<Gazlowe spreads the plans on the table and jabs a tiny finger aft of the ship below the waterline.>There! The hull is thinnest here, where the crankshaft meets the paddlewheel. And it's right next to the magazine!<name>, I can't be held responsible if some enterprising Horde <class> were to attach a limpet mine to that part of the hull. Not even if I supplied the mine. And paid him. Handsomely. The ship is anchored just southeast of here... go to it!Then radio me with this stolen gnomecorder.",
+    "name": "Love it or Limpet",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

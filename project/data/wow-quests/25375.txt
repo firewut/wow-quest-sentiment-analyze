@@ -1,0 +1,7 @@
+{
+    "_id": "25375",
+    "description": "The gordunni are not known to tame animals. If they're learning, this is cause for alarm. While the sasquatch they've tamed may be the major threat to our camp, the gordunni who captured him should be dealt with as well. If left, they may simply capture another.Kill the gordunni tamers, and make sure the ogres know their efforts will not be tolerated!",
+    "name": "Taming The Tamers",
+    "requires_level": 37,
+    "zone": "Feralas"
+}

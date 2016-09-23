@@ -1,0 +1,9 @@
+{
+    "_id": "35140",
+    "added_in_patch": 6,
+    "description": "That little...!<Yrel tries to maintain her composure.>Thaelin Darkanvil sent us a shipment. It was supposed to be engineering parts.Instead, when we just opened one of the crates, out popped a baby goren. Do you know how destructive those things are?And, of course, the one baby immediately set about letting all the other ones loose.Want to help me get some revenge?",
+    "name": "THAELIN!",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

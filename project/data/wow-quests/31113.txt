@@ -1,0 +1,8 @@
+{
+    "_id": "31113",
+    "added_in_patch": 5,
+    "description": "The Yaungol are a constant nuisance, but the group at Fire Camp Gai-Cho, to the northeast, conspired with the Osul yaungol in their recent incursion into Kun-Lai.\r\n\r\nWe cannot allow such an incursion to go unpunished.\r\n\r\nGo, attack Fire Camp Gai-Cho. We need to make sure they remain occupied, so that they cannot rise up and threaten The Ox Gate again.",
+    "name": "Assault Fire Camp Gai-Cho",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

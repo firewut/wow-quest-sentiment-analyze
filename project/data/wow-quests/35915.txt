@@ -1,0 +1,9 @@
+{
+    "_id": "35915",
+    "added_in_patch": 6,
+    "description": "Kolrigg is dyin', commander. He's been poisoned and needs an antidote before it's too late.One o' yer scouts reported seein' a Shattered Hand orc nearby not long ago - I wager that's our best shot.There's a small arakkoa camp tae the east that sits near a known Shattered Hand encampment. We should start our search there, sir.I've already spoken to yer flight master about flyin' us out; every second counts.",
+    "name": "Attempted Murder",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

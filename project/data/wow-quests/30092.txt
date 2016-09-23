@@ -1,0 +1,7 @@
+{
+    "_id": "30092",
+    "description": "If you wish to join my cause and slaughter the black dragons in hiding, prove yourself by taking down Hiram Creed. He's amassing an army in Gilneas.We haven't been able to slip past his defenders, but we've got a man on the scene keeping an eye on him. Zazzo Twinklefingers, a very crafty arcane mage, is waiting for us to contact him just outside of the ruins of the Gilnean capital.Find him and he'll direct you to the target.",
+    "name": "Our Man in Gilneas",
+    "requires_level": 85,
+    "zone": "Rogue"
+}

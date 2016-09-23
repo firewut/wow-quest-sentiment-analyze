@@ -1,0 +1,7 @@
+{
+    "_id": "13313",
+    "description": "The Alliance has somehow managed to field a squadron of recon vehicles over the Valley of Fallen Heroes and Icecrown Glacier, the broad areas west of Aldur'thar.They cannot be permitted to take the lead in this fight. Chief Engineer Copperclaw has supplied me with the perfect weapon to deal with this threat -- he calls his new missile the SGM-3. I have his assurances that it will take out the Alliance flying machines in a single hit. Go and use this weapon to give us the upper hand.",
+    "name": "Blinding the Eyes in the Sky",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28165",
+    "description": "Have you heard of the D-Block yet <name>?  It's one of the old cellblocks here on the island.  Problem is, it's infested with demons.  We planned on using it to lock up the leftover Horde we found on the island, but that is not going to happen in its current state.I need you to head down there and clear those demons out.  Report back to me when you are done.",
+    "name": "D-Block",
+    "requires_level": 85,
+    "zone": "Tol Barad"
+}

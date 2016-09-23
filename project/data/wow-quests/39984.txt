@@ -1,0 +1,8 @@
+{
+    "_id": "39984",
+    "added_in_patch": 7,
+    "description": "<The journal entry appears hastily written.>I do not know what has become of my village. Ever since the mists engulfed the harbor, my kinsfolk have changed.Some have grown violent and savage, while others have fallen into madness. Many have ventured into the mists and have yet to return.In these times, we can usually turn to our leader, Jarl Tarben. Alas, the mists have taken him as well.I do not know what will become of me. For now, I can only stay at my post and remain vigilant.",
+    "name": "Remnants of the Past",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

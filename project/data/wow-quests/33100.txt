@@ -1,0 +1,8 @@
+{
+    "_id": "33100",
+    "added_in_patch": 5.4,
+    "description": "Recently, the August Celestials of Pandaria presented you with a challenge - and you triumphed.But can you defeat them in combat? They are testing the mettle of all of Pandaria's heroes.This challenge is not impossible, but you'll need to follow the advice of the last Pandaren Emperor and tackle it with unwavering inner strength. You'll also need a small army, so find a group of people you trust.Defeat the four celestials here in the Celestial Court, and our journey is almost complete...",
+    "name": "The Emperor's Way",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

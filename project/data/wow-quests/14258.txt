@@ -1,0 +1,8 @@
+{
+    "_id": "14258",
+    "description": "The Naga started making a move on the peninsula here after we finished building this rocketway terminal. But there's no problem in this world that can't be solved with gratuitous firepower! That's what my daddy used to say. Before the accident.I'm running short on supplies, though. Do me a favor and collect the mortar shells I left stockpiled in the Secret Lab just west of here. Keep me supplied and I'll let you call in the artillery strikes! ",
+    "name": "Mortar the Point",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

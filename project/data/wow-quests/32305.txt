@@ -1,0 +1,8 @@
+{
+    "_id": "32305",
+    "added_in_patch": 5.2,
+    "description": "The Kirin Tor are using mana foci to empower their forces. We cannot allow this to continue.You'll find these foci scattered around the outskirts of Violet Rise. Use this mana crystal to destroy as many as you can.Each mana focus we destroy is another small victory for our cause.",
+    "name": "Overpowered",
+    "requires_level": 90,
+    "zone": "Quests"
+}

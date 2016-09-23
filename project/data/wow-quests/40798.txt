@@ -1,0 +1,8 @@
+{
+    "_id": "40798",
+    "added_in_patch": 7,
+    "description": "Your kindness has inspired me, friend.\r\n\r\nI thought I would wander forever among the empty husks of the Withered, but Thalyssra invited me in.\r\n\r\nI have chosen to remain here with my people and together we will take back Suramar.\r\n\r\nFor now I have but one request.\r\n\r\nTake this letter to my wife. She should know that I still live, among other things.\r\n\r\nGive her the hope that you gave me.",
+    "name": "Cling to Hope",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

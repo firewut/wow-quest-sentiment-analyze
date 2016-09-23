@@ -1,0 +1,8 @@
+{
+    "_id": "32343",
+    "added_in_patch": 5.1,
+    "description": "There are two extremely powerful mogu spirits that the Alliance unearthed in their ineptitude.\r\n\r\nThese are choice targets for us, <class>. If you kill them and collect each of their essences, we could make great progress on decoding the history of this strange ruin.",
+    "name": "Ogudei's Lieutenants",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

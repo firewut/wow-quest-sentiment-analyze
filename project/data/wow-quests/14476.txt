@@ -1,0 +1,7 @@
+{
+    "_id": "14476",
+    "description": "This tower was out of cannon range, so I thought we'd blow it up the old-fashioned way - in person. We set all the main charges but the guards fought us back before we could arm the detonators.<name>! Get up there and arm the three detonators we placed around the base of the tower. Those things are wired into a pack of thermals I set up along the spine... It'll be some show!",
+    "name": "Rigged to Blow",
+    "requires_level": 18,
+    "zone": "Azshara"
+}

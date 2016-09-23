@@ -1,0 +1,8 @@
+{
+    "_id": "32974",
+    "added_in_patch": 5.4,
+    "description": "<The leather vellum is very old. Stained by age, it bears the following letters:>On the isle of time are tall men four\r\nRound and strong and nothing more\r\nOf these brothers the shortest be\r\nWhere the trail leads to me.",
+    "name": "Rolo's Riddle",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

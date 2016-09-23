@@ -1,0 +1,8 @@
+{
+    "_id": "12000",
+    "description": "The Moonrest Gardens to the southwest were the final resting place of a noble group of Highborne elves. It was also a powerful ley line nexus.The blue dragonflight used a magical device they call a surge needle to destroy that nexus, freeing the power to redirect at their will.I need more information and I hope that you will get it for me.After the upheaval at the ruins, the ghosts of the Highborne rose up and decimated half of the mage hunters present. Go rifle their corpses for clues.",
+    "name": "Rifle the Bodies",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

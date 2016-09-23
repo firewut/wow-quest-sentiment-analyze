@@ -1,0 +1,9 @@
+{
+    "_id": "33412",
+    "added_in_patch": 6,
+    "description": "We've won the day, but our work here is far from finished.Frostwolves will scour the citadel and root out any survivors. To you, I offer the glory of cleansing the gladiator pits to the north.As we launched our attack, we dispatched one of our best to recon that area. If you still thirst for blood, join her there. There's surely some sport left.",
+    "name": "Mopping Up",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

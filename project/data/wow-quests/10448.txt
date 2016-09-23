@@ -1,0 +1,7 @@
+{
+    "_id": "10448",
+    "description": "This calls for immediate action!We have someone out in the field closer to Firewing Point that I want you to speak with.  She'll have a better idea of what our next step should be.Report to Sergeant Chawni out at Stonebreaker Camp and apprise her of the situation.Take the road north out of the hold.  From the middle of Tuurem, follow the road to the east.  You'll find the camp on the bank of the river that lies just southwest of Firewing Point.Good luck, <name>.",
+    "name": "Report to Stonebreaker Camp",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

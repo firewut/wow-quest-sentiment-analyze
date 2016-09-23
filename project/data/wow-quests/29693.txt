@@ -1,0 +1,8 @@
+{
+    "_id": "29693",
+    "added_in_patch": 5,
+    "description": "As you gradually gather your senses and begin to take in your surroundings, this object stands out amongst the strewn wreckage.It occurs to you that this is the first time you've seen Nazgrim's axe outside of his tight grasp. Somehow, this fact makes your predicament even more unsettling...You know that dead or alive, the General would want his weapon back in his possession.",
+    "name": "The General's Edge",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

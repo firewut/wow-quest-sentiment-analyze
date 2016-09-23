@@ -1,0 +1,7 @@
+{
+    "_id": "10199",
+    "description": "So, I'm just missing the one ingredient that'll give my concoction that little extra kick that it needs.The sting of the nether rays, roaming around near the shaleskin flayers, delivers quite a punch.  Bring me some of their stingers and I'll extract the venom right out of them!I'm certain the results will be explosive!",
+    "name": "That Little Extra Kick",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

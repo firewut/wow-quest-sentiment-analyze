@@ -1,0 +1,7 @@
+{
+    "_id": "10462",
+    "description": "",
+    "name": "Champion's Pledge",
+    "requires_level": 70,
+    "zone": "Caverns of Time"
+}

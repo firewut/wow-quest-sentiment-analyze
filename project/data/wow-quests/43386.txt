@@ -1,0 +1,8 @@
+{
+    "_id": "43386",
+    "added_in_patch": 7,
+    "description": "A few defectors have been discovered among the Scarlet Onslaught in Northrend.I know it's difficult to think that any within their ranks could be useful to our cause, but we must make an attempt.The prophecy says an old enemy will become an ally, so it's worth it to investigate and see if these defectors can be brought to the Light.",
+    "name": "Onslaught Envoy",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

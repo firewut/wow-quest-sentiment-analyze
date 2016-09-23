@@ -1,0 +1,7 @@
+{
+    "_id": "29689",
+    "description": "The time has come to lay the final blow against the fel orcs.Advance Scout Chadwick awaits your presence inside the Shattered Halls of Hellfire Citadel. Make haste, their forces could strike against Honor Hold at any moment!",
+    "name": "Advancing the Campaign",
+    "requires_level": 66,
+    "zone": "Quests"
+}

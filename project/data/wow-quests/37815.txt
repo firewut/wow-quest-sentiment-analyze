@@ -1,0 +1,8 @@
+{
+    "_id": "37815",
+    "description": "Da goblin Gurgthock be requestin' your presence at the Ring of Blood in Nagrand, boss-mon.It seems that Mogor, da lord of da ring, be holdin' an exhibition match der and he want you to fight his newest acquisition.I think it be safe, commander. I heard of dis goblin's work before. If you be ready, whisper to him \"I seek da seeker.\"",
+    "name": "Death to Nullifier Darkoor!",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

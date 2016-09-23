@@ -1,0 +1,7 @@
+{
+    "_id": "25308",
+    "description": "According to the intelligence you acquired, there is major friction between the ogres and non-ogres in the cult.High Cultist Azennios and the ogre mage Karr'gonn are meeting at the Seat of the Chosen in an attempt to ease the conflict.There is an outhouse like this one at the Seat of the Chosen.  Go there and put on this ogre disguise.  Find a way to kill Azennios while he's in this mission of peace.We must exploit this division as much as we can!",
+    "name": "Seeds of Discord",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

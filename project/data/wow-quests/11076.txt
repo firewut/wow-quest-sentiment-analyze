@@ -1,0 +1,7 @@
+{
+    "_id": "11076",
+    "description": "Much of our hard work lies scattered about in these mines. Carts full of cargo are littered across every inch of this mine! We just can't get to any of it with the current infestation.That's where you come in, <name>. Your daily duty here at this mine is to collect the cargo left behind by the miners and deep mine workers.Gather the nethermine cargo and return it to me or my sister.",
+    "name": "Picking Up The Pieces...",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

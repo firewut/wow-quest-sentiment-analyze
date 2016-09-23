@@ -1,0 +1,8 @@
+{
+    "_id": "43266",
+    "added_in_patch": 7,
+    "description": "A powerful necromancer has joined the cause of the Ebon Blade.Dark Summoner Marogh has come a long way to us from deep within the realm of the Shadowlands. He will be a powerful ally of the Ebon Blade.Speak with Dark Summoner Marogh to begin raising an army of ghouls for the Ebon Blade.",
+    "name": "Recruiting the Troops",
+    "requires_level": 101,
+    "zone": "Death Knight Campaign"
+}

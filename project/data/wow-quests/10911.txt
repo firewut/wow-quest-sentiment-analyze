@@ -1,0 +1,7 @@
+{
+    "_id": "10911",
+    "description": "Now that the ammunition can affect the Burning Legion, it's time for you to use it.There are two warp-gates, which are used for teleportation and enhancement of the void terrors.  One is in the south and the other in the north, and each is within range of a fel cannon.Use the naturalized ammunition to take control of each fel cannon and destroy the warp-gates.Attack the gate with artillery to begin, and be prepared to kill its defenders to keep the cannon alive if necessary.",
+    "name": "Fire At Will!",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

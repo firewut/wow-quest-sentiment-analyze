@@ -1,0 +1,7 @@
+{
+    "_id": "13652",
+    "description": "We appreciate all of your help. We'll regain control of the excavation with a little bit of time, I'm just glad to know that all of our work wasn't destroyed in the process of this occupation.We've been greedy enough with your time. I have a friend who could really use some of your help if you have any to lend. Go to the far side of the Loch and you'll find Stonewrought Dam. Once you're there, seek out Chief Engineer Hinderweir VII.",
+    "name": "Defense of the Stonewrought Dam",
+    "requires_level": 10,
+    "zone": "Loch Modan"
+}

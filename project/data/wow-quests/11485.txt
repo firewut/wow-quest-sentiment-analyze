@@ -1,0 +1,7 @@
+{
+    "_id": "11485",
+    "description": "Alright, <name>; the time has come for you to climb inside this thing and learn how to use its basic abilities. When you're ready, get on the work bench and I'll get you situated inside the construct.Your first lesson is going to be using the construct's transportation system. You'll notice that the iron dwarves have set up special rune carvings around the dig site. Their constructs use those rune carvings to power up and fly from point to point. Try it with the rune carving I built here.\r\n",
+    "name": "Iron Rune Constructs and You: Rocket Jumping",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

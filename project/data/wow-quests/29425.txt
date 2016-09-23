@@ -1,0 +1,7 @@
+{
+    "_id": "29425",
+    "description": "Look, I told that shady character that there might be a shop more open to his, uh, wares in the Drag. Droffer's and Son Salvage is the name of the place.Look for Dran Droffers. He oversees the 'salvage' of rare and valuable objects from all over Azeroth.",
+    "name": "Shopping Around",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

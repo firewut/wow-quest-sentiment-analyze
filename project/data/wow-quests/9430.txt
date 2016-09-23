@@ -1,0 +1,8 @@
+{
+    "_id": "9430",
+    "description": "As I've told you before, I do not require eyes to see what others cannot.  I will not pass judgment on what you did on Makuru's behalf, yet I think you need to see beyond what your eyes show you.Travel southwest to the Ruins of Sha'naar and salvage any relics you find.  If fate wills it you will find what we need.The meaning of my request might not be immediately apparent.  Have faith though, <name>.  Clarity comes to those with patience.",
+    "name": "Sha'naar Relics",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

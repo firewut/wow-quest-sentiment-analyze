@@ -1,0 +1,8 @@
+{
+    "_id": "44240",
+    "added_in_patch": 7,
+    "description": "<name>, your intelligence and leadership inspires awe in all of us!\r\n\r\nTirisgarde is prepared to furnish you with a full set of armor to aid in the fight against the Burning Legion. Continue expanding your influence across the Broken Isles, and we may yet achieve victory.",
+    "name": "Orange is the New Purple",
+    "requires_level": 110,
+    "zone": "Mage Campaign"
+}

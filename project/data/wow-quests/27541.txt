@@ -1,0 +1,7 @@
+{
+    "_id": "27541",
+    "description": "This unfortunate explorer has clearly suffered a bit of bad luck in the recent past.Prudence dictates that you perform the unenviable task of searching the corpse for clues that might shed light on your surroundings...",
+    "name": "Lessons From the Past",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

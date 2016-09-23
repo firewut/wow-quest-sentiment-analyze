@@ -1,0 +1,7 @@
+{
+    "_id": "27803",
+    "description": "I've got boys formin' defensive lines on all sides of the town, keepin' back the elementals streaming from the torn ground. They're good lads and they've been holdin' firm, but even the sturdiest dwarf tires eventually.They're split into shifts: one hour of rest for every hour on the line. Best I can get'm with the men we have.If you want to be helpin', pick a line and take up a shift. Give some of my boys a welcome breather. Report back in once you've killed several of the elementals.",
+    "name": "Welcome Relief",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

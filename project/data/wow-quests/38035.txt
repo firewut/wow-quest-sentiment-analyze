@@ -1,0 +1,9 @@
+{
+    "_id": "38035",
+    "added_in_patch": 7,
+    "description": "Well met, $p. I have come on behalf of King Anduin Wrynn.My crew is preparing for a special mission, and the king would like you to join us. Please review this official summons and, if you are satisfied, return with me to Stormwind Harbor.<Rogers hands you a sealed envelope.>",
+    "name": "A Royal Summons",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

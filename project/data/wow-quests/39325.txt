@@ -1,0 +1,8 @@
+{
+    "_id": "39325",
+    "added_in_patch": 7,
+    "description": "Let's see... potion stains on your tabard, crushed herbs on your boots... I know a fellow alchemist when I see one!We will do good work together, the two of us. I trust you're not averse to learning new tricks.Be sure to use my state-of-the-art alchemy table. I built her myself!",
+    "name": "Get Your Mix On",
+    "requires_level": 100,
+    "zone": "Alchemy"
+}

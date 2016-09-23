@@ -1,0 +1,7 @@
+{
+    "_id": "27527",
+    "description": "I've had just about enough of the funk of this place.  Undead stink is bad enough, and then you add mushrooms to the mix?  I hate mushrooms!I'm going to head back to Light's Hope Chapel, <name>... and I'm taking Tarenar and Fiona with me.  I think we've all earned a well-deserved break.Let me give you this.  It's my hearthstone - you can use it to travel instantly back to Light's Hope.  I won't need it - I'm going to be riding in the caravan.In the FRONT SEAT.",
+    "name": "Journey's End",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

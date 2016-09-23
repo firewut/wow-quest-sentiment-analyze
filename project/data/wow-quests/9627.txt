@@ -1,0 +1,8 @@
+{
+    "_id": "9627",
+    "description": "Your people suffered a great betrayal by the Alliance. You succeeded in fighting off the Darnassian attacks and the spies from Ironforge. Now you defeated a powerful Scourge leader at the footsteps of your home. Your worthiness is no longer in question.\r\n\r\nIt is clear now that we need each other. Return to Lor'themar. Tell him I have heard your message and accept. \r\n\r\n<Saurfang crushes the letter inside his palm.> \r\n\r\nWelcome to the Horde, elf.",
+    "name": "Allegiance to the Horde",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Silvermoon City"
+}

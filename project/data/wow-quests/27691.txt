@@ -1,0 +1,7 @@
+{
+    "_id": "27691",
+    "description": "I'm afraid the rest of the Steamwheedle here are gone. All the young ones at the camp to the east were lost when the murlocs came.Yes, there's always been murlocs on these shores... but not in these numbers. They came in droves from the sea at night, howling and frothing, swarming up onto the land to attack!We can't have them still running around, now can we? Would you put an old goblin at ease and go beat some of them back into the water?",
+    "name": "Marshfin Madness",
+    "requires_level": 51,
+    "zone": "Swamp of Sorrows"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10642",
+    "description": "I fear that these dwarves do not understand what they have built upon. This area was once the ancestral grounds for the Shadowmoon orcs. I speak of spirits, <race>.For nearly twenty years they have laid dormant beneath the Wildhammer Stronghold, but recently, something has riled them up.Venture beyond the gates of Wildhammer and seek out the pools and rivers of fel lava found across this land. Near the lava will be ever-burning ash. Bring me this ash so that I may craft something that will help us.\r\n",
+    "name": "A Ghost in the Machine",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

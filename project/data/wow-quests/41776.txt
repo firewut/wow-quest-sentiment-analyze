@@ -1,0 +1,8 @@
+{
+    "_id": "41776",
+    "added_in_patch": 7,
+    "description": "With Thunderfury recharged, Prince Thunderaan can now return to the physical realm.In a moment, I will release my master's spirit from the blessed blade.When the ritual is complete, Skywall will once again have its Windlord.",
+    "name": "Return of the Windlord",
+    "requires_level": 103,
+    "zone": "Shaman Campaign"
+}

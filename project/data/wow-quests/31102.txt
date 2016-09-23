@@ -1,0 +1,8 @@
+{
+    "_id": "31102",
+    "added_in_patch": 5,
+    "description": "Dear $p,It would seem you have discovered the full tale of Shaohao, the last emperor of Pandaria.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
+    "name": "The Seven Burdens of Shaohao",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

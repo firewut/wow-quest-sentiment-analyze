@@ -1,0 +1,8 @@
+{
+    "_id": "33974",
+    "added_in_patch": 6,
+    "description": "This appears to be an ancient Draenei heirloom. Blood stains on it would indicate that it was taken from its owner by force.\r\n\r\nAn inscription on the back says \"Ahm,\" which is likely its rightful owner.",
+    "name": "Dying Wish",
+    "requires_level": 94,
+    "zone": "Talador"
+}

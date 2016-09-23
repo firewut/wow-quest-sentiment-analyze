@@ -1,0 +1,8 @@
+{
+    "_id": "31534",
+    "added_in_patch": 5,
+    "description": "Can you keep a secret, <name>?I've been trying my hand at brewing. All I've got is this old hand-made still, but it still works pretty good.I've got an idea for a new brew, but I need some ingredients.I'm awful shy around the townsfolk, but I've seen you making friends all around.Would you be willing to ask the farmers for some ingredients for me?",
+    "name": "The Beginner's Brew",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

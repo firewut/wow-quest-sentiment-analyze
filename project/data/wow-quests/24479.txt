@@ -1,0 +1,7 @@
+{
+    "_id": "24479",
+    "description": "Let us not be confined by the bounds of the mage repertoire of magic. I, for one, choose not to be classist. Necromancy can just be so much fun!Touch the Shadow Crystal to open a portal to my Trial of Shadow. Once there, move to the Altar when you are ready to begin.Weeping Souls shall begin to pursue you... your goal is simply to drag them into the traps. And be sure not to let them touch you.",
+    "name": "The Trial of Shadow",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

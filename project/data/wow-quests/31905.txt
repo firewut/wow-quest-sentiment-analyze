@@ -1,0 +1,8 @@
+{
+    "_id": "31905",
+    "added_in_patch": 5,
+    "description": "You're back?! You're just asking to get eaten by a black dragon!",
+    "name": "Grazzle the Great",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41087",
+    "added_in_patch": 7,
+    "description": "Grandmaster, the Legion is attacking the Wandering Isle!We sent defenders up to the Ridge of Laughing Winds, but they can't hold for long.Our only chance is to finish making the Storm Brew. Chen and Aegira have already gone up to the Chamber of Whispers, but they are under heavy attack as well.Speak to Tak Tak and take a kite up to join them at once!",
+    "name": "Storm Brew",
+    "requires_level": 110,
+    "zone": "Monk Campaign"
+}

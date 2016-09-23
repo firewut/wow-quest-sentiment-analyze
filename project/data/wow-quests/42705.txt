@@ -1,0 +1,8 @@
+{
+    "_id": "42705",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Ravandwyr",
+    "requires_level": 103,
+    "zone": "Mage Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10847",
+    "description": "Doom harkens from the cliffs of Skettis.My people, the arakkoa, face a fate shrouded in unspeakable evil. Too often have we abused dark magic for wrongdoing. Through A'dal I have learned of the Light and of redemption.Terokk watches his colonies from Skettis through orbs enchanted by the black art. Steal these Eyes from Veil Reskk and Veil Shienor in northern Terokkar. Let me see what Terokk sees. Let me look through the eyes of Skettis.",
+    "name": "The Eyes of Skettis",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

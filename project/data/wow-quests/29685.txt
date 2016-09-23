@@ -1,0 +1,7 @@
+{
+    "_id": "29685",
+    "description": "As you've now witnessed, the Legion forces work tirelessly, manipulating the Sunwell's power to achieve their malevolent ends.Kael'thas has risen from the ashes of defeat and once more leads them in their efforts. He must be stopped.",
+    "name": "Hard to Kill",
+    "requires_level": 68,
+    "zone": "Quests"
+}

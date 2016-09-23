@@ -1,0 +1,8 @@
+{
+    "_id": "25110",
+    "description": "Assistant Greely is clearly bewildered and intimidated. How will she help you to find a way to rescue everyone in this condition?Maybe if she were to drink one of those Kaja'Cola Zero-One drinks you saw, she'd be able to have a bright idea?",
+    "name": "Kaja'Cola Gives You IDEAS! (TM)",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

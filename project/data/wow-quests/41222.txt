@@ -1,0 +1,8 @@
+{
+    "_id": "41222",
+    "added_in_patch": 7,
+    "description": "The felstalker pits?!There's no time to waste, <name>! I canna' tell ye what the Burnin' Legion has planned for ol' Brambley, but it canna' be good!Hurry! We've got to find him before the Burnin' Legion has their way with him!",
+    "name": "Into The Pit!",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

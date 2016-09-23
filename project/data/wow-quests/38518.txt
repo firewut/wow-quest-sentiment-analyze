@@ -1,0 +1,8 @@
+{
+    "_id": "38518",
+    "added_in_patch": 7,
+    "description": "Now young one, go back to your masterin Dalaran and continue to practice your swing. We'll always be here if you wish to come back and learn more.",
+    "name": "From One Master to Another",
+    "requires_level": 104,
+    "zone": "Blacksmithing"
+}

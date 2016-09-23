@@ -1,0 +1,7 @@
+{
+    "_id": "11568",
+    "description": "<Orfus hands you a satchel.>Within this satchel are the artifacts that you recovered. Locate the burial mounds of Shield Hill, far to the southeast, where the items were originally stolen from and return the artifacts. It is my hope that this gesture will quell the spirits that now haunt our hunting grounds.Be strong, <name>...",
+    "name": "A Return to Resting",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

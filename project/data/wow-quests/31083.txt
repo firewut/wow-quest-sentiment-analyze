@@ -1,0 +1,8 @@
+{
+    "_id": "31083",
+    "added_in_patch": 5,
+    "description": "As soon as the creature died, a strange group of sprites appeared and took its pearl away.The sprites have a village nearby, called Rikkitun Village. Perhaps you should investigate.",
+    "name": "Promises of Gold",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

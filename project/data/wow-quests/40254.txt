@@ -1,0 +1,8 @@
+{
+    "_id": "40254",
+    "added_in_patch": 7,
+    "description": "The fearsome demon, Immolanth, led a Legion army that conquered and eventually ruled a distant nexus world. \r\n\r\nSomehow, the Wardens imprisoned him, then kept him locked up in the chamber to our left. He is contained, but not for long.\r\n\r\nThe demon's power is a valuable prize to any demon hunter who can defeat him. Whoever can do so will gain power beyond imagining.\r\n\r\nI believe that person could be you, <name>.",
+    "name": "Forged in Fire",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

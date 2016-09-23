@@ -1,0 +1,8 @@
+{
+    "_id": "26378",
+    "description": "Westfall has fallen to hard times, friend. With the threat of the Defias extinguished, the region has become a haven for the homeless and downtrodden. The crime rate of the area has skyrocketed as people fight for shelter and food. Now I hear tale of murder!If you are interested in helping the people of the Alliance, Westfall would be a great place to start. Report to Lieutenant Horatio Laine at the Jansen Stead. You'll find Westfall directly west of Elwynn Forest.",
+    "name": "Hero's Call: Westfall!",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

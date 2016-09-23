@@ -1,0 +1,8 @@
+{
+    "_id": "27670",
+    "description": "My name is Nevin Twistwrench and I'm the commander of the Survivor Assistance Facilitation Expedition, or S.A.F.E.I don't know how you managed to survive the radiation down here, <name>, but most of the others haven't fared so well. My team is rounding up the survivors, but the radiation-addled leper gnomes are too numerous for us to hold back much longer. They've lost their minds!If you're still strong enough to wield a weapon or cast a spell, would you help us clear out some of these leper gnomes?",
+    "name": "Pinned Down",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

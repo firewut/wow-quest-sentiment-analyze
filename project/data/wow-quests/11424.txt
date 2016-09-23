@@ -1,0 +1,7 @@
+{
+    "_id": "11424",
+    "description": "My work should be extremely easy in a time of war.  There ought to be usable body parts everywhere.It's not that simple, though.  With these eggheads making all sorts of killer plagues and sending them to enemy towns, most of the material gets contaminated.There is a place, though, where usable samples exist.  Shield Hill, south of here, is an ancient vrykul burial ground where the dead walk but are not afflicted with any plague - ours or the Lich King's.  Get me some bones, I'll pay ya well.",
+    "name": "Shield Hill",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

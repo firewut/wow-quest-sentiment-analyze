@@ -1,0 +1,8 @@
+{
+    "_id": "24517",
+    "description": "Do you see the trail below us, <name>? That is MY trail. And if the Alliance dogs choose to use my trail, they'd best be looking over their shoulder.It's time to collect my toll! Slay the footsoldiers from Honor's Stand and see if we can't send them scurrying back to their walls.Be sure to take out at least one of their officers patrolling the road. They need to realize that nobody is safe.",
+    "name": "Put the Fear in Them",
+    "requires_level": 29,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

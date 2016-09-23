@@ -1,0 +1,7 @@
+{
+    "_id": "12797",
+    "description": "You speak the truth, <race>.  I can sense the very essence of Sholazar Basin begin to fray by the blight of undeath even as we speak.I've bound my being into the rune, <race>.  Deliver it to she who sent you here -- for only her power can grant me passage to her lands.",
+    "name": "Back Through the Waygate",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

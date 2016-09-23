@@ -1,0 +1,8 @@
+{
+    "_id": "42142",
+    "added_in_patch": 7,
+    "description": "Our champions acquired the talents of Summoner Morn, a powerful shaman.He is known for his strong affinity with earth, and is a valuable addition to our Order. He is already beginning to requisition Lesser Elementals to our cause.Speak to him now and train a Lesser Elemental.",
+    "name": "Recruiting The Troops",
+    "requires_level": 101,
+    "zone": "Shaman Campaign"
+}

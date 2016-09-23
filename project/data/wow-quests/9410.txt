@@ -1,0 +1,8 @@
+{
+    "_id": "9410",
+    "description": "Even our best tracking wolves' senses can fail them, <name>.  The spirits have a way of seeing the world differently than ours.  The being you will call forth will find the person you seek, for they'll be drawn not to their scent but their essence.Go now, <class>, take this totem with you and use it at the location you found the stone axe.",
+    "name": "A Spirit Guide",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

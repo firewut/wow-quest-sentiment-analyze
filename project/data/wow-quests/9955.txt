@@ -1,0 +1,7 @@
+{
+    "_id": "9955",
+    "description": "They call him Cho'war the Pillager, <name>. He's the ogre that forced out the gronn that used to rule over these ogres. You better believe he's powerful!The chef said that Cho'war lives in the big cave - wherever that may be... Get that key and get me out of here! If we live through this, my father will no doubt give you the big reward! As soon as I'm free, seek him out.",
+    "name": "Cho'war the Pillager",
+    "requires_level": 65,
+    "zone": "Nagrand (Outland)"
+}

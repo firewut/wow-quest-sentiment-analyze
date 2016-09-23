@@ -1,0 +1,7 @@
+{
+    "_id": "9595",
+    "description": "You have chosen the path of the <class>, and so you must learn control. Magic, when unchecked, can corrupt souls and destroy worlds.To fully understand, you must face one who has been consumed by magic. Travel to the beaches on the northwest coast of Azuremyst Isle and use your spells to decimate the murlocs. The display of power will attract the attention of the evil force lurking there, a Quel'dorei magewraith. Defeat it.When you have finished, seek out Bati at the Vault of Lights in the Exodar.",
+    "name": "Control",
+    "requires_level": 10,
+    "zone": "Mage"
+}

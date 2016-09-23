@@ -1,0 +1,8 @@
+{
+    "_id": "32683",
+    "added_in_patch": 5.2,
+    "description": "While it is best to learn the properties of simpler metals and work your way up, it is possible to learn how to become a good blacksmith through mastering the various applications of ghost iron for common household objects. If you wish to take this path towards becoming a zen master blacksmith, I can teach you. Whichever way you choose, you will have my respect if you can show me that you can make a ghostly skeleton key.",
+    "name": "So You Want to Be a Blacksmith...",
+    "requires_level": 85,
+    "zone": "Vale of Eternal Blossoms"
+}

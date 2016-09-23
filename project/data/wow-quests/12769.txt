@@ -1,0 +1,7 @@
+{
+    "_id": "12769",
+    "description": "You've proved that you're to be trusted and more.You should return to Wyrmrest Temple and speak with the steward, Tariolstrasz, once more, <name>.",
+    "name": "The Steward of Wyrmrest Temple",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

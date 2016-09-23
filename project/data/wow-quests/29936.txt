@@ -1,0 +1,9 @@
+{
+    "_id": "29936",
+    "added_in_patch": 5,
+    "description": "Welcome, wikket! Me Kah Kah - chief of Grookin Hill hozen.Dook Ookem wanted to be chief, but good wikket grook him good - big gift to Kah Kah.Hozen has gift for good wikket too. Gift come from great crash. Hozen keep it safe for wikket.",
+    "name": "Instant Messaging",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

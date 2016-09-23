@@ -1,0 +1,8 @@
+{
+    "_id": "37287",
+    "description": "Not long ago, a new recruit showed up by the name o' Jacob Anders. He's been trouble since he got here, always drinkin' and pickin' fights, but he crossed the line this time.One o' our patrols spotted him tradin' intel with the Horde - he's a traitor, commander! I thought ye would want tae deal with him personally.He was out drinkin' by the water last time I saw him, and I'd bet me pappy's beard he's still there.",
+    "name": "Cleaning House",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

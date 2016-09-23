@@ -1,0 +1,7 @@
+{
+    "_id": "27924",
+    "description": "I've an idea!  Trust me, it's a good one this time!Get some of those shiny armor pieces the cat-people wear.This plan cannot fail.  Trust me.",
+    "name": "Budd's Plan",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

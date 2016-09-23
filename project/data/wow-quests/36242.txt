@@ -1,0 +1,9 @@
+{
+    "_id": "36242",
+    "added_in_patch": 6.1,
+    "description": "You garrison is under attack by the Burning Blade!Kill the Burning Blade masters that are leading the assault and report back to Warmaster Zog.",
+    "name": "Where There Is Smoke...",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

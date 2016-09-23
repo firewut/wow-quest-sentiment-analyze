@@ -1,0 +1,8 @@
+{
+    "_id": "28608",
+    "description": "I'm pleased to see that you're up and walking around, <name>.  You've held up nicely, especially after being dead for so long!Others weren't as lucky.  If you wouldn't mind, I need you to fetch my embalming fluid and some twine to stitch up these bodies.  You'll find both in the Shadow Grave, the building just behind me.Here, Darnell will join you.  He knows the way.",
+    "name": "The Shadow Grave",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Deathknell"
+}

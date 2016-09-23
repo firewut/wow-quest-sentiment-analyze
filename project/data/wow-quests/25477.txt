@@ -1,0 +1,7 @@
+{
+    "_id": "25477",
+    "description": "Greetings, friend.It is good to see that you survived your battle in one piece.While Erunak tries to scry a place of safety for us all, I shall assist you in securing a less strenuous means of transport.I have prepared this baitstick to use near a sea turtle. It is crude, but it should serve to bring one under your control.Once you've become comfortable with the animal, simply guide it back here to me.",
+    "name": "Better Late Than Dead",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

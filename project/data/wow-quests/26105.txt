@@ -1,0 +1,7 @@
+{
+    "_id": "26105",
+    "description": "The Horde has spies in this area?  Darkbreak Cove is nearby, and inside lies the Pincer X2!  The Horde must not be allowed anywhere nearby!Someone in Darkbreak Cove will want to hear of this... after you finish slaying some more of these dirty Horde spies.",
+    "name": "Claim Korthun's End",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

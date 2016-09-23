@@ -1,0 +1,7 @@
+{
+    "_id": "27441",
+    "description": "I hear that word of your deeds in service to the Horde has even reached the ears of the warchief. I think he might see the error of his earlier judgment about us.He has agreed to allow Orgrimmar's master enchanter to create a staff for you.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and find the lost holy symbol of Commander Springvale, a supply of moontouched wood, and the essence of the ghosts that haunt the keep.",
+    "name": "A Seer's Staff",
+    "requires_level": 20,
+    "zone": "Priest"
+}

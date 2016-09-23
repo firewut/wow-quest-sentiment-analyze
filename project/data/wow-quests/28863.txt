@@ -1,0 +1,7 @@
+{
+    "_id": "28863",
+    "description": "He's at it again, <name>. Warlord Halthar... terror of the shire. He and his drake were spotted causing trouble to the south, among the Thundermar Ruins.Kill Halthar, <name>! We'll send in some warbrands to help out once you engage.",
+    "name": "Warlord Halthar is Back",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29024",
+    "description": "Pulling open the face of the control console reveals a dense jumble of wires, tubing and other strange mechanical objects--most of which seem to serve no practical purpose. Pushing them aside and digging deeper into the console, you find the samophlange. A tug removes it from its housing.",
+    "name": "Samophlange",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "40605",
+    "added_in_patch": 7,
+    "description": "The Legion is bold indeed to strike at the Horde's stronghold! You aided our defense, but now I have a more important task for you.It seems the demon hunters will play a crucial part in this war... but I still don't trust them. You will be my envoy to the Illidari. Learn what they know. Study their techniques. If they betray us, we'll use their own knowledge against them.Their camp lies atop the plateau in the city. Go. Nathanos and I will clean up this mess.",
+    "name": "Keep Your Friends Close",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40880",
+    "added_in_patch": 7,
+    "description": "While I've got you here, I was wondering if you could track something down for me.I'm sure you're familiar with a Blingtron, yes? Well, I started askin' around, and it seems no one really knows where the design for it came from. One rumor does pop up more than others, though:Area 52.Interested in a field trip?",
+    "name": "Short Circuit",
+    "requires_level": 110,
+    "zone": "Engineering"
+}

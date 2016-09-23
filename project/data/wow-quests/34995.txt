@@ -1,0 +1,9 @@
+{
+    "_id": "34995",
+    "added_in_patch": 6,
+    "description": "Gidwin is doing much better. Thank you, <name>.I can't believe the draenei have lived alongside those horrible monsters for so long.Maybe we should show these beasts what happens when you mess with an Azerothian.",
+    "name": "Botani Beatdown",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

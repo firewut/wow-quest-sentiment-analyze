@@ -1,0 +1,7 @@
+{
+    "_id": "27619",
+    "description": "Scarlet Commander Marjhan is cunning, shrewd, and willing to do anything to win a battle.  Before all these things, however, she is loyal.I have no doubt you'll find her in the barracks' central chamber, fighting under a crimson banner, until she either wins or dies.Make sure it's the latter.",
+    "name": "The Commander",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

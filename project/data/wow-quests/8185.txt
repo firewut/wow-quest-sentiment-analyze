@@ -1,0 +1,7 @@
+{
+    "_id": "8185",
+    "description": "",
+    "name": "Syncretist's Sigil",
+    "requires_level": 58,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42009",
+    "added_in_patch": 7,
+    "description": "The energy from Aluneth lashes out from within the weakened Nexus Vault.  We may be able to use this raw, chaotic energy to our advantage.\r\n\r\nIf we can harness this energy and feed it into the Surge Needles, it should cause a rather... destructive reaction.",
+    "name": "Harnessing the Arcane",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

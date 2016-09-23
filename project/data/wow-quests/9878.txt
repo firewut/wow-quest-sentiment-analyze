@@ -1,0 +1,8 @@
+{
+    "_id": "9878",
+    "description": "The appearance of the Murkblood in Nagrand has had a profound negative impact on our environment. The elementals are all in flux which has, in turn, greatly disturbed the wildlife. Worse yet, the razing of Sunspring Post has reignited the hatred that the orcs held for our people.While the Kurenai are a different tribe than the Murkblood, all an orc sees is Broken.We must make an effort to solve this dilemma. Travel to Sunspring Post, northwest of here, and resolve the Murkblood problem.",
+    "name": "Solving the Problem",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

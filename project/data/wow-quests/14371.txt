@@ -1,0 +1,8 @@
+{
+    "_id": "14371",
+    "description": "While you're here running around the cliffs, perhaps you can help me with another line of investigation. The giants who walk these cliffs have been here since these mountains formed. Maybe they know where the Azsharite comes from? It's in our best interest to befriend these giants and find out.Gather up a gigantic meal for me as a peace offering! Kill the mistwing cliffdwellers that have been such a nuisance to our studies and collect their carcasses for me.",
+    "name": "A Gigantic Snack",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Azshara"
+}

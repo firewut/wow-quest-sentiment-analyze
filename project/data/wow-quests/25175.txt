@@ -1,0 +1,7 @@
+{
+    "_id": "25175",
+    "description": "<You gently close Marley's eyes.><Someone is going to have to tell General Twinbraid that the Horde has killed his only son.><That someone is you.>",
+    "name": "The Bad News",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

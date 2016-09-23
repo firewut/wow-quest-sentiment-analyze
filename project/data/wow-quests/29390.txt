@@ -1,0 +1,8 @@
+{
+    "_id": "29390",
+    "description": "The Guardians of Hyjal, led by Arch Druid Malfurion Stormrage, seek brave heroes to assist in defending Mount Hyjal from elemental invaders. These invaders must be repelled before forces can mobilize for a direct assault on the Firelands.Willing and able-bodied heroes should report immediately to Mount Hyjal and assist the ancient defenders: Lo'gosh, Tortolla, Aviana, and Aessina.New travelers to Mount Hyjal may look for a Warchief's Command to Hyjal on any Horde call board.",
+    "name": "Guardians of Hyjal: Call of the Ancients",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "Firelands Invasion"
+}

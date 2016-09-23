@@ -1,0 +1,9 @@
+{
+    "_id": "36134",
+    "added_in_patch": 6.1,
+    "description": "We've tracked Warlord Bladefury and the stolen artifact to the salt fields of western Gorgrond.Thisalee Crow will meet you there with an advance scouting team.The entire garrison is on high alert. We must be ready to intercept the enemy if necessary.",
+    "name": "Garrison Campaign: Awakening",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

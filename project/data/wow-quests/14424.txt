@@ -1,0 +1,8 @@
+{
+    "_id": "14424",
+    "description": "<Clubnik wipes away a tear, then juts his chin out with determination.>Never again, <name>! No bulldozer deserves the fate of my Margene. We're going to need some industrial ghostproofing. This is a job for our top scientists, and I know just the woman for the job! Look for Assistant Greely at the Southern Rocketway Terminus. She's the administrator for Azshara's world-famous Secret Lab, and she owes me a favor.",
+    "name": "Need More Science",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Azshara"
+}

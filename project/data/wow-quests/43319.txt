@@ -1,0 +1,8 @@
+{
+    "_id": "43319",
+    "added_in_patch": 7,
+    "description": "Among the allies who joined us from Tian Monastery is Gin Lai, a monk famed for his experience in the ways of the tiger.With his help, we will be able to train Tiger Initiates, who strike swiftly and precisely on the field of battle.Go speak with him now and request his services.",
+    "name": "The Way of the Tiger",
+    "requires_level": 103,
+    "zone": "Monk Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12022",
+    "description": "Hey there!  You look like you can handle your brew.  But can you handle your brew mug? The Dark Irons have come back with a vengeance to ruin our celebration.  Tossing mugs at them is the best way to stop them, but first, let's see if you can toss one at old S.T.O.U.T. here.It's easy, pick up an alcohol-free sampler and take a drink.  Just make sure you're facing S.T.O.U.T.  Talk to me after you've hit him 5 times.",
+    "name": "Chug and Chuck!",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

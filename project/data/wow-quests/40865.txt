@@ -1,0 +1,8 @@
+{
+    "_id": "40865",
+    "added_in_patch": 7,
+    "description": "<name>, I need you to help me track down Flintlocke again.I sent him to Stormheim to gather some materials for an invention of mine and he hasn't been back for days. I'm not worried about Flintlocke, but I DO fear for Stormheim.See if you can find him!",
+    "name": "It's Not Rocket Science",
+    "requires_level": 104,
+    "zone": "Engineering"
+}

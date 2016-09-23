@@ -1,0 +1,8 @@
+{
+    "_id": "32251",
+    "added_in_patch": 5.1,
+    "description": "Shadow Hunter Vol'jin has joined a group of Kor'kron scouts on an important mission for the warchief.Of course a proud member of the Horde such as yourself is welcome to go along, but be warned - it could get ugly.",
+    "name": "Dagger in the Dark",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

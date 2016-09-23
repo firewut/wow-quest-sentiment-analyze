@@ -1,0 +1,8 @@
+{
+    "_id": "10443",
+    "description": "The Cenarion Circle has sent an expedition to Outland and, as I understand it, they are here to study what has happened and to help reverse any damage that they can.They've setup a little post just to the west on the south side of the road leading to Zangarmarsh.If you hit Thornfang Hill, you've gone too far.Would you please go and see how you might help them?  Speak with Thiah Redmane as she is the one that sent the request to us for assistance.",
+    "name": "Helping the Cenarion Post",
+    "requires_level": 61,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

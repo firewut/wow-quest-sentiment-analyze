@@ -1,0 +1,7 @@
+{
+    "_id": "27360",
+    "description": "7th Legion... They rushed us in the dead of the night. Their captain barked orders as the submariners slaughtered my men. Then he came to me, put his face in mine, and said something I'll never forget:\"The name's Master Sergeant Pietro Zaren, officer in the 7th Legion. When you see your soldiers being slaughtered in your nightmares - if you even still dream - remember my name and tremble.\"Avenge my soldiers! Kill the 7th Legion occupying the Cathedral Quarter of Gilneas City, southwest of here.",
+    "name": "Vengeance for Our Soldiers",
+    "requires_level": 12,
+    "zone": "Ruins of Gilneas"
+}

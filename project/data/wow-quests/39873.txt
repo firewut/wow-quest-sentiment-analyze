@@ -1,0 +1,8 @@
+{
+    "_id": "39873",
+    "added_in_patch": 7,
+    "description": "You have no reason to trust me. My cousins led by Dargrul have gone mad with power.\r\n\r\nBut I ask you to investigate something. I have a feeling something terrible is about to befall Highmountain, and that Torok and his Bloodtotem are going to be responsible.\r\n\r\nIf you don't believe me, look for yourself at the northern side of Cliff's Edge.",
+    "name": "I Have a Bad Feeling About This",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

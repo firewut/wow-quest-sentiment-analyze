@@ -1,0 +1,9 @@
+{
+    "_id": "37434",
+    "added_in_patch": 6,
+    "description": "Hail commander.Word of your exploits has made its way back to Trial Master Rotun, and he has requested to see your prowess in person. Fighting in his proving grounds would be an excellent way to spread your reputation to the farthest reaches of the Horde, and beyond.If you're interested in proving yourself, talk to me to enter Trial Master Rotun's Proving Grounds.",
+    "name": "Proving Grounds",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Proving Grounds"
+}

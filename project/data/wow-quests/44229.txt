@@ -1,0 +1,8 @@
+{
+    "_id": "44229",
+    "added_in_patch": 7,
+    "description": "We will need armaments and equipment for our Champions.",
+    "name": "Champion Armaments",
+    "requires_level": 110,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31674",
+    "added_in_patch": 5,
+    "description": "Old Hillpaw bet me that my land couldn't grow a pink turnip.I'll show him. My land will grow the biggest, pinkest turnip that old coot's ever seen!",
+    "name": "The Pink Turnip Challenge",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

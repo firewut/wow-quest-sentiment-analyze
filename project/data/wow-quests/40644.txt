@@ -1,0 +1,8 @@
+{
+    "_id": "40644",
+    "added_in_patch": 7,
+    "description": "The preparations for the ritual are now complete.Come with me, <name>, I will guide you to the ceremony.",
+    "name": "The Dreamway",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

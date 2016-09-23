@@ -1,0 +1,9 @@
+{
+    "_id": "36382",
+    "added_in_patch": 6,
+    "description": "I sent Scout Pazaztick to be gettin' a better look at da portal. He shoulda reported back by dis time; what be taking him so long?Dis is what happens when you hire da goblins as help.",
+    "name": "Peeking into the Portal",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

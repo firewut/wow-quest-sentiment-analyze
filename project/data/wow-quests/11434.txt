@@ -1,0 +1,7 @@
+{
+    "_id": "11434",
+    "description": "I've made my fortune by specializing in treasure that regular pirates don't appreciate: art, antiquities, collector's pieces.Black Conrad's fleet sank south of here years ago.  All the gold and jewelry was picked clean by divers, but two ancient relics remain there.  One is a museum-quality Amani vase, the other is an eagle figurine.Go and retrieve them for me and I'll vouch for you with the other pirates.  I'll even throw in something to make your underwater adventure a bit more manageable.",
+    "name": "Forgotten Treasure",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

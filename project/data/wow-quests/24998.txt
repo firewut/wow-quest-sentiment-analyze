@@ -1,0 +1,7 @@
+{
+    "_id": "24998",
+    "description": "Maggot Eye is a foul beast, even by gnoll standards.  He leads a band of renegade gnolls through the land, tearing up the glades and stealing whatever corpses he can find along the way.Those are our corpses!  We had plans for those!Maggot Eye resides just up the path from us.  Show him no mercy.  Mercy is for the weak.",
+    "name": "Maggot Eye",
+    "requires_level": 6,
+    "zone": "Tirisfal Glades"
+}

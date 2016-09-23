@@ -1,0 +1,9 @@
+{
+    "_id": "35065",
+    "added_in_patch": 6,
+    "description": "This is what happens when one stands in the path of a genesaur. And where a genesaur walks, the botani follow.I saw one entering our shelter cave along the northern side of the camp.It is commanding the podlings to gather the corpses of our fallen brethren and must be stopped.I must tend to our wounded, and gather supplies for our departure.If you are serious about being a hero, venture into the cave and slay this botani.",
+    "name": "A Harvester Has Come",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

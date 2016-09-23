@@ -1,0 +1,8 @@
+{
+    "_id": "36693",
+    "added_in_patch": 6,
+    "description": "Warsong raiders out of Mok'gol Watchpost have been terrorizing anything and everything not behind a tall wall. We've warned travelers not to stray out alone, but many don't listen.\r\n\r\nIf we were to launch an assault on Mok'gol Watchpost, we would almost certainly put the Warsong back on the defensive, restricting most of their riders to Nagrand.",
+    "name": "Assault on Mok'gol Watchpost",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

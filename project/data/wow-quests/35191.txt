@@ -1,0 +1,8 @@
+{
+    "_id": "35191",
+    "added_in_patch": 6,
+    "description": "While you carry out the pretense of obeying Zamaya's orders, we're going to sabotage the Sargerei under their very noses.All around this village, you can find Felstorm Crystals. The enemy uses these objects to magnify their power.Destroy these crystals, and we'll slow their operations.",
+    "name": "Shattering the Enemy",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10730",
+    "description": "",
+    "name": "Path of the Violet Restorer",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

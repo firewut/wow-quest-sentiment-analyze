@@ -1,0 +1,8 @@
+{
+    "_id": "39272",
+    "added_in_patch": 7,
+    "description": "After driving us from the farmland and infesting our crops with insects, the drogbar placed wicked totems that further poison our harvest.\r\n\r\nI can only hope that if you destroy them, we'll be able to heal the land using Jale's water magic.\r\n\r\nThank you for coming to help us, <name>. We are but simple farmers and fishermen, and have little prowess in combat.",
+    "name": "Poisoned Crops",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

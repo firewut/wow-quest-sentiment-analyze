@@ -1,0 +1,8 @@
+{
+    "_id": "44479",
+    "added_in_patch": 7,
+    "description": "Years later, as the War of the Ancients raged on and the Burning Legion's grip upon this world took hold, Illidan would meet a military leader known as Kur'talos Ravencrest. He too would see the potential within Illidan, eventually promoting him to captain of the Moon Guard: a powerful group of night elf sorcerers.We must experience this memory in Black Rook Hold, located on the western shores of Val'sharah.",
+    "name": "Ravencrest's Legacy",
+    "requires_level": 110,
+    "zone": "Order Hall"
+}

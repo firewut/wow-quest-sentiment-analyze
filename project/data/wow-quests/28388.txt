@@ -1,0 +1,7 @@
+{
+    "_id": "28388",
+    "description": "Sad little cowards... look at them flee in panic!Don't let it fool you, <name>. The second they've regained their wits, those goblins are going to spend every waking moment chopping this forest to bits and sending the pieces to the Horde's war effort.Don't give them the chance. Kill the workers throughout Irontree Clearing without mercy... show them their greed has a price!",
+    "name": "Bloody Wages",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

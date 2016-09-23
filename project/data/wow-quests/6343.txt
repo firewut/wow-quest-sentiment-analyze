@@ -1,0 +1,8 @@
+{
+    "_id": "6343",
+    "description": "It will be easy to get you a flight back to Dolanaar. Since you already know Fidelio in Dolanaar, you'll be able to fly back there without any problems.Whenever you arrive in a new town, you should remember to speak to the flight master so that you can fly to and from the new location.Speak with me when you're ready to hire a hippogryph to return to Dolanaar.",
+    "name": "Return to Nyoma",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

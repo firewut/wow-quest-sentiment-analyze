@@ -1,0 +1,8 @@
+{
+    "_id": "30802",
+    "added_in_patch": 5,
+    "description": "We need to figure out where they are taking the Thunder King's remains. It won't be possible for them to resurrect him in the Valley of the Emperors. They would need to be somewhere remote and secure.It appears that getting out of here may also prove to be a challenge....Fight your way out and look for information concerning the location of the remains.",
+    "name": "Chasing the Storm",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

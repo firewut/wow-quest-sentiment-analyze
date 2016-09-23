@@ -1,0 +1,8 @@
+{
+    "_id": "31719",
+    "added_in_patch": 5,
+    "description": "You show much promise, <name>. However, talent is worth little without discipline and humility.Today, you will face Ningna Darkwheel. Her natural strength makes her one of our most talented students. If you hope to defeat her, you will need to act with the utmost control.Speak to her in the training ring to begin the challenge. Good luck.",
+    "name": "The Trainer's Challenge: Ningna Darkwheel",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

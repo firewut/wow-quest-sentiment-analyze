@@ -1,0 +1,7 @@
+{
+    "_id": "28323",
+    "description": "Brother Silverhallow sent word that he wishes to speak with you. Next time you're in Orgrimmar, visit him in the Goblin Slums.  It sounded like he had something important on his mind.",
+    "name": "Meet with Brother Silverhallow",
+    "requires_level": 50,
+    "zone": "Orgrimmar"
+}

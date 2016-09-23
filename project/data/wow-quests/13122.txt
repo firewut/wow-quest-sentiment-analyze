@@ -1,0 +1,7 @@
+{
+    "_id": "13122",
+    "description": "A Scourgestone is an item given to all Scourge upon birth or creation. It provides certain benefits to the holder, but more importantly it allows Scourge leaders visibility into the location and movement of all of their units.With enough Scourgestones, I might be able to track the movement of other Scourge units across Icecrown.As you slaughter Scourge in Scourgeholme, gather all of the Scourgestones that you find. Return to me when your bags are full.",
+    "name": "The Scourgestone",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

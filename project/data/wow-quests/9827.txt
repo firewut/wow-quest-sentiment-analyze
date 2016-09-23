@@ -1,0 +1,7 @@
+{
+    "_id": "9827",
+    "description": "A close inspection of the basidium reveals a number of indentations that might have once held something. The alien mass of fungus presents something of a puzzle. It's far from healthy, but you have little clue as to what function it might normally perform.Perhaps someone more familiar with the denizens of Zangarmarsh would be able to tell you more about the basidium.",
+    "name": "Withered Basidium",
+    "requires_level": 60,
+    "zone": "Zangarmarsh"
+}

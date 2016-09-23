@@ -1,0 +1,8 @@
+{
+    "_id": "32730",
+    "added_in_patch": 5.2,
+    "description": "Aethas has taken over at Ihgaluk Crag, to the southeast, continuing his effort to turn the Saurok against the Zandalari and mogu.Go to him, and help in any way that you can.",
+    "name": "Ihgaluk Crag",
+    "requires_level": 90,
+    "zone": "Quests"
+}

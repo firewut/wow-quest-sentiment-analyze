@@ -1,0 +1,8 @@
+{
+    "_id": "41761",
+    "added_in_patch": 7,
+    "description": "My father, Karmaan, owns this farm, and our main livestock are talbuk. One of the podlings must have opened the gate to their pen and they all escaped!The little terrors could have slaughtered them in the cage, but they like to hunt their prey. I'm afraid that if I stay out here much longer, I'll be their next meal!Will you round up the talbuk and bring them here? I can't get them myself, and I can't let my dad find out about this!",
+    "name": "Winter Moose Roundup",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

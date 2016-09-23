@@ -1,0 +1,8 @@
+{
+    "_id": "37161",
+    "added_in_patch": 6,
+    "description": "He ran off with it! Oh what am I going to do, what am I going to DO?My son, and my knife, they ran off to Blackrock Spire! Well, the knife didn't run, I suppose. That doesn't matter!You've got to get it back! Yes, the knife! You've got to get me back my knife!Go! Now! Stop talking!",
+    "name": "Family Traditions",
+    "requires_level": 100,
+    "zone": "Upper Blackrock Spire"
+}

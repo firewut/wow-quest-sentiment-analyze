@@ -1,0 +1,8 @@
+{
+    "_id": "33425",
+    "added_in_patch": 6,
+    "description": "Ready for a tougher challenge? This one has an extra leg:Run through the arch...Get to the blue marker...Get to the green marker...then return here before the bell tolls 15 times.Good luck!",
+    "name": "Blue/Yellow Sprint 15 INTERNAL REPEATABLE",
+    "requires_level": 1,
+    "zone": "Northshire"
+}

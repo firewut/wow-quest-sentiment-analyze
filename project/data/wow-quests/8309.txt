@@ -1,0 +1,7 @@
+{
+    "_id": "8309",
+    "description": "After our initial foray into the hives and Mistress Mar'alith's subsequent madness the three hives have been spewing out bugs! The increased activity might be tied into the glyphs covering those strange crystals.If I can get rubbings of those crystals and the glyphs on them, we might be able to make sense of this madness.Take this transcription set  and hit Hive'Regal to the east, <name>. That's the last rubbing I need!",
+    "name": "Glyph Chasing",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

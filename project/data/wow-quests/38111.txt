@@ -1,0 +1,8 @@
+{
+    "_id": "38111",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "Classic 30-39",
+    "requires_level": 30,
+    "zone": "Quests"
+}

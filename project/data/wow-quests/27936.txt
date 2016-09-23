@@ -1,0 +1,7 @@
+{
+    "_id": "27936",
+    "description": "You have to go back and slay Avalanchion to keep Therazane's forces from attacking Stonehearth!",
+    "name": "Bring Down the Avalanche",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

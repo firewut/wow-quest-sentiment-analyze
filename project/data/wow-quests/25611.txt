@@ -1,0 +1,8 @@
+{
+    "_id": "25611",
+    "description": "I'll usher out the rest of Goldrinn's followers and seal this portal behind us.The rest of our forces at Mount Hyjal will want to hear of this victory. Return to Ian Duran and let him know what we've discovered and how we were triumphant!Simply step through the portal to return to Mount Hyjal.",
+    "name": "Return from the Firelands",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Mount Hyjal"
+}

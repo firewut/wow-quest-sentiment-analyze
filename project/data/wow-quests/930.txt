@@ -1,0 +1,8 @@
+{
+    "_id": "930",
+    "description": "Hanging from beneath the fronds of this glowing plant is a large, round fruit.Denalan would want to study this fruit, you are certain.",
+    "name": "The Glowing Fruit",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

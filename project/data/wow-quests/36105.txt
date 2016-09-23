@@ -1,0 +1,8 @@
+{
+    "_id": "36105",
+    "added_in_patch": 6,
+    "description": "This crystal is proof of your strength at slaying elementals and your gladiator friend has born witness!Take the crystal back to Jonaa and claim your accolades!",
+    "name": "Proof of Strength: Elemental Crystal",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

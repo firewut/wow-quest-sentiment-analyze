@@ -1,0 +1,7 @@
+{
+    "_id": "29642",
+    "description": "I have spies within Auchindoun and they have been sending me disturbing reports.  That place has been nothing but trouble ever since it exploded a couple of years ago.Something in there has gone horribly wrong - again - and the Shadow Council is now on a war footing.  Though the reports were lacking on details, their preparations appear to be directed inward.You must make your way to the Shadow Labyrinth.  My field commander, Mahfuun, will fill you in on what needs to be done.",
+    "name": "Trouble at Auchindoun",
+    "requires_level": 67,
+    "zone": "Shadow Labyrinth"
+}

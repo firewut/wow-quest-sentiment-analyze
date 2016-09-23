@@ -1,0 +1,8 @@
+{
+    "_id": "32714",
+    "added_in_patch": 5.2,
+    "description": "You hear a fierce and militant voice roaring in the distance. A crackling storm swells and swirls around a clouded, shadowy figure. Lightning flashes and No'ku Stormsayer appears, his scornful gaze aimed directly at you.",
+    "name": "Taming the Tempest",
+    "requires_level": 90,
+    "zone": "Quests"
+}

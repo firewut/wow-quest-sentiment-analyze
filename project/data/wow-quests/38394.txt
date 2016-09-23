@@ -1,0 +1,8 @@
+{
+    "_id": "38394",
+    "description": "Interesting - the coins you've brought back from your Garrison are slightly different than the ones Nolan collected in Outland. Y'see here, the markings along the edge? Very interesting stuff! This requires some more study an' that means more coins! Bring them to me and I'll see if I can scrounge up something for your trouble.",
+    "name": "Completionism",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ironforge"
+}

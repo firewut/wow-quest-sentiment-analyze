@@ -1,0 +1,7 @@
+{
+    "_id": "10774",
+    "description": "At the southern end of the Path of Conquest, near a stationary caravan, I discovered what looked like a meeting between a giant and a blood elf chancellor. What are giants even doing here? Something is just not right about all of this, grunt.I want you to fight your way to this meeting and break up the party. Recover whatever you can from the scene and then call for one of us with the flare gun.",
+    "name": "Blood Elf + Giant = ???",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

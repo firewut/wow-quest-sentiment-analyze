@@ -1,0 +1,8 @@
+{
+    "_id": "27034",
+    "description": "I'm not making the Skystrider for me, <name>. Not even for gnomekind. I want my son to be the one to fly it.I'm old, and my reflexes aren't what they used to be. But my boy Ando could be the best pilot Azeroth's ever seen, if he'd just get over his teenage moodiness!He sits out by the loch, staring at the sky all day. Something's been bothering him, and yet he refuses to talk to his own father about it. I'm at a loss!Please, <name>, could you go talk to him? Tell him I need him to pilot the Skystrider!",
+    "name": "He's That Age",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29575",
+    "description": "With his ward in place and his forces ready, Nexus-Prince Shaffar has been able to pillage this place for all it's worth without so much as an ounce of trouble.Unsurprisingly, Nexus-Prince Haramad isn't pleased by this, and has placed a hefty bounty on Shaffar's head.",
+    "name": "Undercutting the Competition",
+    "requires_level": 64,
+    "zone": "Mana-Tombs"
+}

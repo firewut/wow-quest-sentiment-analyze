@@ -1,0 +1,8 @@
+{
+    "_id": "24525",
+    "description": "Not everyone who fled Taurajo was able to make it to Una'fe, <name>. Some died of wounds along the way. Others were jumped by opportunistic quilboar.I'll take care of the grim task of finding and gathering the bodies. But there is something you can do for me.Hecklefang scavengers prowl the lands south of here and are savaging the corpses, tearing at their bowels and dragging away the limbs of the dead. Please, thin their numbers so that I can perform the proper funerary rites.",
+    "name": "Keeping the Dogs at Bay",
+    "requires_level": 29,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

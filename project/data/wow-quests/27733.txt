@@ -1,0 +1,8 @@
+{
+    "_id": "27733",
+    "description": "Look, I'd love to give the order and have my men blast these rebels to bits right now, but I can't because the entire Stockade is under Warden Thelwater's jurisdiction, and he only wants to contain them right now.Rather than disobey orders, we're going to take care of this in a slightly different manner! We've managed to befriend Mortimer Moloch, who just so happens to be the ruthless rebel leader Randolph Moloch's twin. Kill Randolph, and we'll switch 'em so Mortimer can stop the rebellion peacefully!",
+    "name": "The Good Ol' Switcheroo",
+    "requires_level": 20,
+    "side": "alliance",
+    "zone": "Quests"
+}

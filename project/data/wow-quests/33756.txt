@@ -1,0 +1,8 @@
+{
+    "_id": "33756",
+    "added_in_patch": 6,
+    "description": "Want to keep racing, huh? That's the spirit!\r\n\r\nSee if you can beat your best time! Get to the blue post, then green, then red, then back here. \r\n\r\nYour time matters, so do it fast!",
+    "name": "Let's Keep Racing!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

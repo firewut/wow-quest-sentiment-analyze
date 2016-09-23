@@ -1,0 +1,7 @@
+{
+    "_id": "25013",
+    "description": "<Dithers samples his latest concoction.>Hmm... this isn't quite there.  It needs something to give at a little more zing.  I've got it!  The spiders to the north have a potent venom that'll do the trick.  See if you can extract some for me, <name>?",
+    "name": "A Little Oomph",
+    "requires_level": 7,
+    "zone": "Tirisfal Glades"
+}

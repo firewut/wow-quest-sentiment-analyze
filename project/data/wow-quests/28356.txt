@@ -1,0 +1,7 @@
+{
+    "_id": "28356",
+    "description": "These plans document what appears to be an imminent attack on Southshore. The naga of the Eastern Strand are planning to take over the town now that the Alliance has been pushed out.Not if you can help it!Kill all of the naga on the Eastern Strand and report to Helcular at the Ruins of Southshore with the Daggerspine attack plan.",
+    "name": "Preemptive Strike",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11129",
+    "description": "Help, <name>! My prized puppy, Kyle, has run away! I just know he's running around Bloodhoof Village, lost and hungry.Will you find him and feed him? Once he eats he will settle down and come home.To feed him you will need to find food. His favorite meal is tender strider meat. Just venture east and you should find plenty of striders. Hunt one down and take its succulent meat to Kyle. When you see Kyle in town, put the meat down and he is sure to come to you.",
+    "name": "Kyle's Gone Missing!",
+    "requires_level": 5,
+    "zone": "Mulgore"
+}

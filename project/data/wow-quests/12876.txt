@@ -1,0 +1,7 @@
+{
+    "_id": "12876",
+    "description": "Our scouts have spotted iron dwarves in the valley north of here. I overheard King Stormheart sending you to visit Drom and I'm admittedly a bit worried about'm.If you find any iron dwarves when you head down there, put'm down hard and fast for me, eh? I dun think they know exactly where we are or how to get here just yet, and I'd prefer to keep it that way.",
+    "name": "Unwelcome Guests",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

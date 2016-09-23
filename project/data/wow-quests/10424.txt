@@ -1,0 +1,7 @@
+{
+    "_id": "10424",
+    "description": "If Mehrdad's results are correct -- and I have no reason to believe they're faulty -- then the rest of the domes could be in trouble.I do think Mehrdad has failed to identify the underlying cause of the failures. From time to time, creatures damage the generators, but never this severely.To be on the safe side, I'd like for you to run a set of diagnostics at the Stormspire's main dome generator, located in Eco-Dome Sutheron at the very eastern edge of the dome.",
+    "name": "Diagnosis: Critical",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

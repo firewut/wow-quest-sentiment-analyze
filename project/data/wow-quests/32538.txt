@@ -1,0 +1,8 @@
+{
+    "_id": "32538",
+    "added_in_patch": 5.2,
+    "description": "Some of the strongest of the spiritbinders perform heinous rites to their wretched gods.\r\n\r\nWe've devised a method to destroy their altars, so the difficult task will be getting to each altar alive.\r\n\r\nVenture into the depths of Za'Tual and destroy their altars.",
+    "name": "Heinous Sacrifice",
+    "requires_level": 90,
+    "zone": "Quests"
+}

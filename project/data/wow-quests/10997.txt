@@ -1,0 +1,7 @@
+{
+    "_id": "10997",
+    "description": "Are you familiar with Shattrath City, <class>?  Above it to the northwest is a place called the Barrier Hills, which you can only get to upon a flying mount.One of Gruul's sons, Slaag, exiled himself and took control of the Gordunni ogres that reside there.  Even at such a distance, we cannot afford to leave him in peace, lest he return when the rest of his brothers have been slain.<name>, you must travel there, and bring back his standard as proof that he has been dealt with.",
+    "name": "Even Gronn Have Standards",
+    "requires_level": 70,
+    "zone": "Quests"
+}

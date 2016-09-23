@@ -1,0 +1,7 @@
+{
+    "_id": "26836",
+    "description": "We found out where the Stonefather is being held and young Flint ran off on his own to rescue him!I don't have to tell you that this is bad. Flint is going to get himself captured as well, or worse!The stone trogg chieftain, Bouldergut, is at the end of the ledges above Needlerock Chasm to the north.Please, <name>, you must go after Flint and free the Stonefather before we lose them both!",
+    "name": "Rescue the Stonefather... and Flint",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

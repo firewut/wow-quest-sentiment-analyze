@@ -1,0 +1,8 @@
+{
+    "_id": "30775",
+    "added_in_patch": 5,
+    "description": "What is there to say, stranger?I fought Jung Duk and lost. I was the fool to believe he would fight fairly.Now, my own brothers turned against me, and here I am, speaking to our enemies.I know you have come for Osul blood.I only ask that you hunt down the three who betrayed me.Urang, who poisoned my drink. Ku-Tong, who bent my spear. And Battat, whose dagger slipped into my side as my victory was assured.Do this, and I can die in peace.",
+    "name": "The Exile",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

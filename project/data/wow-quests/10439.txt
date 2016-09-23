@@ -1,0 +1,7 @@
+{
+    "_id": "10439",
+    "description": "Your brave actions have forced Ameer to react! He has deployed Captain Saeed and the Avengers!Now all that is left to do is destroy Dimensius.When you are ready, I will call for Saeed. If he is not currently fighting another battle, he will be awaiting orders from you - directly east of here.Let him know when you are ready to fight and he will put his troops in motion!I wish you luck, fleshling! We have hunted Dimensius for a thousand years!",
+    "name": "Dimensius the All-Devouring",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

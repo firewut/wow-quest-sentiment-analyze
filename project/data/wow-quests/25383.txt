@@ -1,0 +1,7 @@
+{
+    "_id": "25383",
+    "description": "With that, I am the only one left.Even if I choose to remain in this world, I cannot rejoin the green flight. But this victory gives me hope. Perhaps, in time, I can find peace in a simple life among mortals.You must return to your people. Tell them that the dragons of nightmare are gone, and will no longer threaten these lands.",
+    "name": "Ysondre's Farewell",
+    "requires_level": 38,
+    "zone": "Feralas"
+}

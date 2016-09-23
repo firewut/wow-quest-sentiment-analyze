@@ -1,0 +1,8 @@
+{
+    "_id": "13112",
+    "description": "Orton Bennet in Curiosities & Moore be needin' a mushroom meatloaf.Get ya some infused mushrooms found in the Dalaran sewers, chilled meat, and cook 'em in the meatloaf pan.  When ye be done, bring that meatloaf to Orton.If only de council would let me serve me gnome specialty, I would show dem a real treat!",
+    "name": "Infused Mushroom Meatloaf",
+    "requires_level": 65,
+    "side": "horde",
+    "zone": "Cooking"
+}

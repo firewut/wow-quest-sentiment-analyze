@@ -1,0 +1,9 @@
+{
+    "_id": "35225",
+    "added_in_patch": 6,
+    "description": "Burrian gave us the coordinates of the Dark Iron base. They named it Moira's Reach.But half way through buildin' it the base got infested with goren.If you head south you should come to the structure. Just look for a big ol' cannon.We will follow as soon as we get this bloody tank untangled.",
+    "name": "A Heavy Helping Hand",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

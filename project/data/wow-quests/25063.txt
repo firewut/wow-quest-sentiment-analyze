@@ -1,0 +1,7 @@
+{
+    "_id": "25063",
+    "description": "We need to obtain the object described in this journal, for certain. Extracting it from a chest would be a feasible matter, but the object itself sounds compromised, and unstable. Attempting to forcefully open the chest could be disastrous.Fortunately, we know where the key is...statistically speaking, at least. There's plenty of sea turtles at the east end of this beach. One of them may hold the key.",
+    "name": "Terrapination",
+    "requires_level": 46,
+    "zone": "Tanaris"
+}

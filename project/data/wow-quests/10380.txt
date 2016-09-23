@@ -1,0 +1,7 @@
+{
+    "_id": "10380",
+    "description": "We've been so blind, <name>, that the alliance of two of our most dangerous enemies went completely unnoticed.I wouldn't be surprised if the Scryers had something to do with hiding this information from us, but we must now face the reality.  The Burning Legion and Kael'thas' Sunfury army serve under the same banner.These demons are the only reason Kael'thas was ever able to utilize the technology in Tempest Keep.  Under Orelis's orders I must command you to destroy them.",
+    "name": "A Dark Pact",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

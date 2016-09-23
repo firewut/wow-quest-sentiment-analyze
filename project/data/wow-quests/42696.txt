@@ -1,0 +1,8 @@
+{
+    "_id": "42696",
+    "added_in_patch": 7,
+    "description": "Thanks to you, the Hall of the Guardian is gradually re-assembling.However, there is much more work to do. As our leader, you can determine the trajectory of our order's future.Speak to Chronicler Elrianne. She will show you the ropes.",
+    "name": "Tech It Up A Notch",
+    "requires_level": 101,
+    "zone": "Mage Campaign"
+}

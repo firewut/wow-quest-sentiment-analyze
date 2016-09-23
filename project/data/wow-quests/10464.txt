@@ -1,0 +1,7 @@
+{
+    "_id": "10464",
+    "description": "You've made your pledge, <class>.  Now it is up to you to see it through.Serve the Scale of the Sands well and you will be rewarded.Fail and the timeline as we know it will be unravelled!",
+    "name": "Sage's Vow",
+    "requires_level": 70,
+    "zone": "Caverns of Time"
+}

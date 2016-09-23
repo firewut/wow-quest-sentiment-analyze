@@ -1,0 +1,8 @@
+{
+    "_id": "39680",
+    "added_in_patch": 7,
+    "description": "<name>, I fear that my spirit will remain bound to this place unless I am made whole again.Long ago, I discovered a cave near the coast behind Black Rook Hold. I explored the cave only to find an abominable creature that attacked me, causing me to drop my hammer as I fled.I need that hammer back if I am to be at peace.",
+    "name": "Between the Hammer...",
+    "requires_level": 108,
+    "zone": "Blacksmithing"
+}

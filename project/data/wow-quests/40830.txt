@@ -1,0 +1,8 @@
+{
+    "_id": "40830",
+    "added_in_patch": 7,
+    "description": "<Oculeth's eyes have dulled. His voice trembles.>\r\n\r\nAre we... are we close?\r\n\r\nSo hungry...",
+    "name": "Close Enough",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

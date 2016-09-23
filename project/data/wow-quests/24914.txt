@@ -1,0 +1,7 @@
+{
+    "_id": "24914",
+    "description": "You can detect no hinges or openings on this box. Were it not for the shifting of items inside, it could easily be mistaken for solid metal.If anyone could know the method of its opening, it would be Highlord Mograine.",
+    "name": "Personal Property",
+    "requires_level": 80,
+    "zone": "Quests"
+}

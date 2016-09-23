@@ -1,0 +1,7 @@
+{
+    "_id": "13126",
+    "description": "From here, it will take our combined efforts to proceed.Above us, Varos hides behind an impenetrable shield. To reach him, you must defeat the Centrifuge Constructs that power his shield.We can each provide you with drakes from our respective flights to help you reveal him.",
+    "name": "A Unified Front",
+    "requires_level": 77,
+    "zone": "Quests"
+}

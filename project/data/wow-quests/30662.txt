@@ -1,0 +1,8 @@
+{
+    "_id": "30662",
+    "added_in_patch": 5,
+    "description": "You've taken the shield down at Fire Camp Ordo. Go back there before the shield goes up again.Time to head into the cave and slay their chief!",
+    "name": "The Ordo Warbringer",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

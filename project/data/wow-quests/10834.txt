@@ -1,0 +1,8 @@
+{
+    "_id": "10834",
+    "description": "Grillok Darkeye has wagered a piece of himself to dark powers, and gained great magic for it.  His lost eye burns deep in some hellish pit, now a demon's trinket... and the patch that covers his betrayal holds its own dark secrets.Bring me Grillok's eyepatch, <name>, and I will reward you greatly for your service...",
+    "name": "Grillok \"Darkeye\"",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

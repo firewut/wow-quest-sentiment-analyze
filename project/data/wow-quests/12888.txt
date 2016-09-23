@@ -1,0 +1,7 @@
+{
+    "_id": "12888",
+    "description": "This card allows the user to access the control panel of the scrapbot designated SCRAP-E, in order to perform maintenance and reprogram the bot's directives.SCRAP-E appears to be assigned to the interior of the building at The Inventor's Library. The card displays a list of the bot's broken components and failing systems. With the proper parts, the bot can be restored to working condition.",
+    "name": "SCRAP-E",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

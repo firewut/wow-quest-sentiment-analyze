@@ -1,0 +1,8 @@
+{
+    "_id": "30535",
+    "added_in_patch": 5,
+    "description": "Well, first things first! I'm going to need lots of help 'round here.If we're going to be partners, you've got to learn how to harvest crops, and if you wanna harvest crops you gotta plant seeds!Now it's my understanding that a mister, uh... Grainfell? No, that wasn't it... Greedfill? That doesn't sound right...Greenfield! That's his name! He's the man to see for seeds.Greenfield's got a stall over at Halfhill Market, directly southeast of here - go see him and pick up some vegetable seeds.",
+    "name": "Learn and Grow I: Seeds",
+    "requires_level": 85,
+    "zone": "Valley of the Four Winds"
+}

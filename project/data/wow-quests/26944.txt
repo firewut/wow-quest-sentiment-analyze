@@ -1,0 +1,7 @@
+{
+    "_id": "26944",
+    "description": "The gnomish capital, Gnomeregan, hasn't been under their control for some time now. I know what it feels like to lose a home.Please, venture inside Gnomeregan and speak to Commando Murd Doc, a member of S.A.F.E. If there's anything at all that you can do to help them take their home, I urge you to do so. There are dark secrets in those halls.",
+    "name": "Exploring Gnomeregan",
+    "requires_level": 26,
+    "zone": "Gnomeregan"
+}

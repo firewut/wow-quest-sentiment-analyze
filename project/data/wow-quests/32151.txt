@@ -1,0 +1,8 @@
+{
+    "_id": "32151",
+    "added_in_patch": 5.1,
+    "description": "The gnomes are running our quarry operation to the northwest. The stone there is especially tough - the gnomes tell me the mogu used it to fashion their constructs. \r\n\r\nI don't know. What I do know is that we use that stone to build our towers, and the Horde has dispatched the Bilgewater goblins to steal it from us.\r\n\r\nGet out there and get some back. By the way - collateral damage may break up the stone slabs there. If so, pick that up, too.",
+    "name": "Tower Defense",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

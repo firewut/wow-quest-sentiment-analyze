@@ -1,0 +1,8 @@
+{
+    "_id": "14068",
+    "description": "Waptor twapping can be wough, but I've designed new waptor twaps that ewiminate much of the wisk.Set the twap on the gwound and it will scweech wike a waptor, luwing one into the twap.When a waptor steps on my waptor twap, it'll shwink down so that it's wess dangewous. It's wewwy easy! I would do it myself but wecentwy I wan acwoss King Weapercwaw.",
+    "name": "Waptor Twapping",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

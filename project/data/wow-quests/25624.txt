@@ -1,0 +1,7 @@
+{
+    "_id": "25624",
+    "description": "<name>! Lo'Gosh needs you. Atop the Lightning Ledge, Twilight's Hammer has erected a flamegate. We don't know where it leads, but nobody who's gone through has returned. You are to venture inside and be the fangs of Lo'Gosh within.Step into the flamegate and talk to Jordan Olafson when you get inside. He'll give you a token to allow you to use Lo'Gosh's power inside that realm. Find out where the flamegate leads!",
+    "name": "Into the Maw!",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

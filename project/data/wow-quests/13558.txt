@@ -1,0 +1,7 @@
+{
+    "_id": "13558",
+    "description": "Aetherion is almost in our world, but he can still be dealt with!At the end of the dock floats a ritual orb. I want you to use it to complete the ritual, beckoning the elemental lord down from his vortex.Trust me, <name>, I and the other spirits that you have freed will greatly weaken Aetherion. However, it will be up to you to finish him off for good and save the Kaldorei people of Darkshore from utter destruction.Deliver his essence to Corvine Moonrise at the refugee camp so he will know.",
+    "name": "Call Down the Thunder",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

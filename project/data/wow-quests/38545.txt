@@ -1,0 +1,8 @@
+{
+    "_id": "38545",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "FLAG: Demonsteel Pauldrons Crafted",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

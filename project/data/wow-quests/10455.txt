@@ -1,0 +1,7 @@
+{
+    "_id": "10455",
+    "description": "We've been growing the Living Grove at an accelerated rate, but somehow the lynxes there have become lost to our control.Where once their population was stable, the grovestalker lynxes are now beginning to encroach upon Sylvanaar, and there have been a number of unpleasant incidents of late.I suspect that the arakkoa of Veil Lashh are somehow behind it, but the immediate issue is with the lynxes themselves.I would be most grateful if you would help us to deal with this situation.",
+    "name": "The Encroaching Wilderness",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

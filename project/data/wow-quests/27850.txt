@@ -1,0 +1,8 @@
+{
+    "_id": "27850",
+    "description": "The Shattered Hand has laid mostly quiet for years now.No more!You will be the instrument of our rebirth, <name>. Slay the Defias Kingpin and commandeer her ship for the Horde! We will outfit it as a proper orc warship and use it to finally lay waste to StormwindAny survivors will spread word of our unstoppable power across all of Azeroth, and all will tremble before our might!Go now, VanCleef's death will be your greatest triumph yet hero.",
+    "name": "The Defias Kingpin",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Quests"
+}

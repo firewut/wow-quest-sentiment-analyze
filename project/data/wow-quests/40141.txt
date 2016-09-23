@@ -1,0 +1,8 @@
+{
+    "_id": "40141",
+    "added_in_patch": 7,
+    "description": "This scale shimmers with electrical energy.Your skinning trainer in Dalaran would be interested in seeing this.",
+    "name": "Stormscale Sample",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13977",
+    "description": "Wahoo!! Did you SEE that?!We need to get this into production right away!Here. Take the rest of the stuff to Jinx. You'll find him setting up our new facility just west of here.\r\n",
+    "name": "Mass Production",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

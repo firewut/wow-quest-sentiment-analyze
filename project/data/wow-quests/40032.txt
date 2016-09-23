@@ -1,0 +1,8 @@
+{
+    "_id": "40032",
+    "added_in_patch": 7,
+    "description": "<The page appears to be ripped out of a larger book. It reads:>\"...the Cairn of the Sea, a place long-known to be beloved by the gods.He placed his offering of fjarnskaggl at the foot of the cairn, mouthed the words 'Herbs beget herbs', and received the blessing he desired.\"This may be related to the books you brought back to your herbalism trainer.",
+    "name": "The Missing Page",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

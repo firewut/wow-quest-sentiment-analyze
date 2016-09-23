@@ -1,0 +1,7 @@
+{
+    "_id": "13073",
+    "description": "There are those of this world that tap into power unrestricted by the bounds of our mortal frames - powers of restoration, powers of life, and powers of light.  And Bridenbrad, this is no ordinary man... his valor and devotion shine through. We can only hope that one of these beings will intervene and bring this hero back from a fate worse than death.Go now and speak to Arch Druid Lilliandra in the Argent Vanguard... request passage to Moonglade and seek the aid of Keeper Remulos.",
+    "name": "The Keeper's Favor",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

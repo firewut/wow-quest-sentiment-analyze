@@ -1,0 +1,7 @@
+{
+    "_id": "25215",
+    "description": "Predators will smell these dead naga from nearly a mile away. Soon we'll find ourselves fighting just to get in and out of the cave. Care to help me clean up?Just over the ridge to the south is Glimmerdeep Gorge. If you drag the corpses from the eastern exit of the cave over there to the gorge and cut them loose, the wildlife will pick them clean before they hit the sea floor. Just steer clear of the sharks as much as you can.",
+    "name": "A Distracting Scent",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

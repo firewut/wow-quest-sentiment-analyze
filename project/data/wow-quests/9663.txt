@@ -1,0 +1,7 @@
+{
+    "_id": "9663",
+    "description": "You're just in time, <name>. Blood elf activity in this area has doubled in the past week. Our agents have informed us that the blood elves that call themselves Sunhawks plan to launch an offensive upon Azuremyst soon. I need you to get a warning out to our allies and compatriots.Warn High Chief Stillpine at Stillpine Hold, Exarch Menelaous at Azure Watch and Admiral Odesyus at Odesyus' Landing.Time is of the essence so I am lending you my elekk. Be sure to keep it out of water.",
+    "name": "The Kessel Run",
+    "requires_level": 10,
+    "zone": "Bloodmyst Isle"
+}

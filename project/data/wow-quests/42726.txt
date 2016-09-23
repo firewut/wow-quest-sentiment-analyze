@@ -1,0 +1,8 @@
+{
+    "_id": "42726",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Brutal Gladiator's Battlegear",
+    "requires_level": 70,
+    "zone": "Quests"
+}

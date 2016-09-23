@@ -1,0 +1,8 @@
+{
+    "_id": "38743",
+    "added_in_patch": 7,
+    "description": "Malfurion, my love.... My heart breaks for him, but I cannot follow where he goes.I have sworn myself to Elune, my goddess, to defend her temples and lands with all that I am. I cannot stand by while my order is in danger.May she keep you in her graces, Malfurion.<Tyrande turns away, eyes glistening with tears.>",
+    "name": "The Fate of Val'sharah",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

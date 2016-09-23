@@ -1,0 +1,7 @@
+{
+    "_id": "10578",
+    "description": "That Cipher fragment will never reach Zuluhed. You're going to ambush Ruul the Darkener and his transport before it has a chance to make the delivery.The Dragonmaw Fortress is directly east of here, across the Netherwing Fields. Somewhere between Dragonmaw Fortress and the Sanctum of the Stars is where you'll find Ruul. Strike hard and strike fast! And <name>, from the sound of it, this Ruul is going to be tough. Keep your guard up.Return the Cipher to me should you succeed.\r\n",
+    "name": "The Cipher of Damnation - Borak's Charge",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

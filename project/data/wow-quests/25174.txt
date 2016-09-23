@@ -1,0 +1,7 @@
+{
+    "_id": "25174",
+    "description": "<General Twinbraid will want to know the details of this cowardly attack. You gather up the evidence.>",
+    "name": "Twinbraid Needs to Know",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

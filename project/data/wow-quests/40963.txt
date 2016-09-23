@@ -1,0 +1,8 @@
+{
+    "_id": "40963",
+    "added_in_patch": 7,
+    "description": "We should have seen this coming. My sister is dead, my friends are wounded and we will likely die here.\r\n\r\nI want revenge.\r\n\r\n<Lyrea hands you a vial full of growing green liquid.>\r\n\r\nWe cannot beat them, but we can turn the Stronghold against them.\r\n\r\nWild hippogryphs are attracted to the scent in this bottle. Wild hippogryphs are also notoriously violent when the object of their attraction is not a hippogryph.\r\n\r\nUse it to clear a path deeper into the stronghold.",
+    "name": "Take Them in Claw",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

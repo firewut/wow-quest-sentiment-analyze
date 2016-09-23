@@ -1,0 +1,8 @@
+{
+    "_id": "32607",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari have already begun repairing that warship, but we can keep it crippled with minimal effort.Simply relieve the new captain of his post, and steal the ship's damage report from that workshop just outside the vault.No captain. No repairs. No warship.",
+    "name": "Extended Shore Leave",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "9770",
+    "description": "Sometimes I wish Denjai had sent a shaman with us, or at least given us a totem to keep the marshfang rippers at bay.The whole place is crawling with the pests! It's just not right. Shouldn't something be eating these despicable things?We've all been taking turns playing exterminator. You showed up at just the right time, <name>. Congratulations! Now get out there and mop up some marshfangs!",
+    "name": "Menacing Marshfangs",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

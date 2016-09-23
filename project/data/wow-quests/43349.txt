@@ -1,0 +1,8 @@
+{
+    "_id": "43349",
+    "added_in_patch": 7,
+    "description": "Now that it's out of the hands of the Legion, the Aegis should be brought back to Dalaran for safekeeping while the hunt continues for the rest of the Pillars of Creation.\r\n\r\nIt should be safe in the central portal chamber until the time comes when it is needed.",
+    "name": "The Aegis of Aggramar",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

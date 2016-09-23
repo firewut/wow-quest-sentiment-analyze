@@ -1,0 +1,8 @@
+{
+    "_id": "33105",
+    "added_in_patch": 5.4,
+    "description": "Now. To the final stage of my plan. Time to fulfil your grand purpose.Using your newfound powers, it is time to bring this war to its conclusion. Destroy Garrosh Hellscream. Your people demand it, and future generations will sing your praises as the harbinger for the glorious new world we shall build together.I have no reward to offer you. I have already done everything in my power to ensure that you succeed. You are on your own.End Hellscream's reign.",
+    "name": "Judgment of the Black Prince",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

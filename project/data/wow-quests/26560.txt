@@ -1,0 +1,7 @@
+{
+    "_id": "26560",
+    "description": "I don't know where Krakauer or Danforth are, but Jorgensen was being held at Render's Camp, northwest of here. I was in the same crap filled cage with him before they relocated me to Alther's Mill.If we're gonna get him out we'll need the key. A stone cold witch from hell known as Utroka the Keymistress holds on tight to that thing. We'll have to kill her if we're going to get Jorgensen's cage key. She's up north in the valley leading to the Burning Steppes.Let's go, kid.",
+    "name": "Jorgensen",
+    "requires_level": 15,
+    "zone": "Redridge Mountains"
+}

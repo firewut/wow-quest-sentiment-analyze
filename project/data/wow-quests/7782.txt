@@ -1,0 +1,7 @@
+{
+    "_id": "7782",
+    "description": "Go to the Valley of Heroes and speak with Field Marshal Afrasiabi.",
+    "name": "The Lord of Blackrock",
+    "requires_level": 60,
+    "zone": "Stormwind City"
+}

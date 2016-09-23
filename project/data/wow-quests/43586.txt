@@ -1,0 +1,8 @@
+{
+    "_id": "43586",
+    "added_in_patch": 7,
+    "description": "We cannot fight on two fronts and succeed.If we're to give ourselves the room we need to fight off the Legion we need to deliver a decisive victory against Helya. Not her armies, not her lieutenants, but the mother of the underworld herself.Go to the Maw of Souls and defeat Helya, <name>.",
+    "name": "Message to Helya",
+    "requires_level": 110,
+    "zone": "Warrior Campaign"
+}

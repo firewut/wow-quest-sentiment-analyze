@@ -1,0 +1,7 @@
+{
+    "_id": "30098",
+    "description": "We must move quickly, before any remaining Infinite agents intervene. Time is precious.I will now take you from your distant future into your distant past... the War of the Ancients. Our goal is the Dragon Soul, an artifact of immense power... enough power to break Deathwing, and end his reign over your present.",
+    "name": "The Well of Eternity",
+    "requires_level": 85,
+    "zone": "Well of Eternity"
+}

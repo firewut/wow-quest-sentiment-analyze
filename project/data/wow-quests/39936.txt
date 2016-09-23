@@ -1,0 +1,8 @@
+{
+    "_id": "39936",
+    "added_in_patch": 7,
+    "description": "We demon hunters must keep our darkness at bay, lest we succumb to it and become demons ourselves. That is the purpose of marking our skin the way we do.Up to the north, a demon hunter by the name of Baric Stormrunner is preparing to strengthen his markings. Go to him and learn how we keep our demons at bay.",
+    "name": "Inscription of the Body",
+    "requires_level": 102,
+    "zone": "Inscription"
+}

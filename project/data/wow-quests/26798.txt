@@ -1,0 +1,8 @@
+{
+    "_id": "26798",
+    "description": "The portal is ready!It's not powerful enough to transport an army, but we can maintain the connection long enough to allow important individuals to pass back and forth.Saurfang will want to know about our progress here. Walk through the portal to Orgrimmar, then deliver the news him.",
+    "name": "Saurfang Will be Pleased",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Twilight Highlands"
+}

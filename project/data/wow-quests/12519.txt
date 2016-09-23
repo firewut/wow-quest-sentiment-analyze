@@ -1,0 +1,7 @@
+{
+    "_id": "12519",
+    "description": "Look at me, <race>. Do I look like I have time fer fillin' out reports?It be all I can do to keep this post free o' the bloody Scourge, and they want me to mess with paperwork!<sigh> No sense in complainin'. I need to get the commander some kinda kill count from the last skirmish.You wanna be helpful? Go and get me all the medals you can find from the dead trolls around here. That'll hafta be close enough.",
+    "name": "Troll Patrol: Whatdya Want, a Medal?",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

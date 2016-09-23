@@ -1,0 +1,8 @@
+{
+    "_id": "39859",
+    "added_in_patch": 7,
+    "description": "I've followed Hemet on all his expeditions from Stranglethorn to Nagrand to... Nagrand again, taking notes on his grand adventures and turning them into timeless literary tales.\r\n\r\nBut my heart is really in the hunt. I want nothing more than to put down the pen, and pick up a rifle!\r\n\r\nHemet promised to teach me how to hunt once I finish his latest novel, but the goats around here ate my first draft!\r\n\r\nI have no hope of becoming a hunter if my manuscript isn't recovered.",
+    "name": "Note-Eating Goats",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

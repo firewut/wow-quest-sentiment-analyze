@@ -1,0 +1,7 @@
+{
+    "_id": "24462",
+    "description": "Now that ye've killed those wolves, let's try out somethin' different.  Go nab some items from the troggs over yonder.Only the burliest of the burly have items.ci 49707 5",
+    "name": "Operation Item Get",
+    "requires_level": 1,
+    "zone": "Coldridge Valley"
+}

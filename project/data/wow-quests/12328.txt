@@ -1,0 +1,7 @@
+{
+    "_id": "12328",
+    "description": "I will not charge you gold for my services, for I can foresee that your actions are necessary and much hinges on what you learn today.I will, however, ask you to collect a reagent for me.  Obtain gossamer dust from the fern feeder moths northeast of here.  Do this and I will prepare a potion that will take you to the time and place where the events took place that you need to witness.",
+    "name": "Ruuna's Request",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

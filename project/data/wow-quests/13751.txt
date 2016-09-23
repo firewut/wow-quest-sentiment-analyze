@@ -1,0 +1,8 @@
+{
+    "_id": "13751",
+    "description": "Perfect!This will show the elves what the Horde is capable of when we're backed into a corner.Listen, <name>. You must say nothing of this to anyone!Saurfang will surely approve once he sees the results, but if we are found out beforehand, our heads will be placed on spikes!<Draaka hands you a hastily written note.>Bring this to Durak. You can find him in the mines behind me, just to the north. He will instruct you further.",
+    "name": "Tell No One!",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

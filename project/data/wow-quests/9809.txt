@@ -1,0 +1,7 @@
+{
+    "_id": "9809",
+    "description": "",
+    "name": "More Glowcaps",
+    "requires_level": 62,
+    "zone": "Zangarmarsh"
+}

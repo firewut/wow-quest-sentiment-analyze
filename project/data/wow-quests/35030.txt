@@ -1,0 +1,9 @@
+{
+    "_id": "35030",
+    "added_in_patch": 6,
+    "description": "The larger monsters are the key to my destiny, I can feel it. The pods growing on them are even bigger than the one you brought me earlier.  Get me a few of these, they will be... helpful... soon.",
+    "name": "A Grim Harvest",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

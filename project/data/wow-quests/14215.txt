@@ -1,0 +1,8 @@
+{
+    "_id": "14215",
+    "description": "The runes on this ring you found are still legible: it was given to \"Kalytha\" when she was granted admission to the Academy. With the right spell or two, this personal trinket of hers is the gateway to her soul.Take the ring back to Lake Mennar. Kalytha's spirit should now be visible to you on the shore of the lake. Touch her and the ring will allow you to see the world as she sees it, forever reliving her final hours. Probe her mind, <name>! Speak to the others and learn the secrets of Lake Mennar...",
+    "name": "Memories of the Dead",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

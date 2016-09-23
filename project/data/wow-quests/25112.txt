@@ -1,0 +1,7 @@
+{
+    "_id": "25112",
+    "description": "I make my money around here selling animal parts. I've been perfecting a foolproof method of maximizing profit: The butcherbot!These little guys are programmed to harvest every scrap of usable material from the wildlife around here, on a case-by-case basis. He does all the work, and best of all, only I know how to get the goods back out of him.If you're interested in making some coin, take one of these guys for a spin. I need some glasshide basilisk parts; you'll find a bunch of them to the south.",
+    "name": "Butcherbot",
+    "requires_level": 43,
+    "zone": "Tanaris"
+}

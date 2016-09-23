@@ -1,0 +1,7 @@
+{
+    "_id": "25553",
+    "description": "We've located the matriarch's feeding grounds south of the Ascendant's Rise.She will be extremely angry to have lost one of her drakes.  Place the skull there near the carcasses she devours.  If she's anywhere in the vicinity, she will come out and attempt to exact revenge.We will have a surprise waiting for her.",
+    "name": "Death to the Broodmother",
+    "requires_level": 78,
+    "zone": "Mount Hyjal"
+}

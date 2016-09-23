@@ -1,0 +1,7 @@
+{
+    "_id": "37976",
+    "description": "In his quest to restore the Dream of Argus, Maatun enlisted the help of three orcs. These same orcs betrayed him and took the crystal shards before they could be combined. If you find these orcs, they may still have them.\r\n\r\nThe first target shouldn't be far. The journal reads:\r\n\r\n\"I was told she spent most of her time in the crystal cave to the north of the encampment. There she studied the native crystals for ways to improve their potential abilities.\"",
+    "name": "Dream of Argus: The First Fragment",
+    "requires_level": 100,
+    "zone": "Shadowmoon Valley"
+}

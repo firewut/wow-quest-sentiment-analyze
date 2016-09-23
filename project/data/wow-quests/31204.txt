@@ -1,0 +1,8 @@
+{
+    "_id": "31204",
+    "added_in_patch": 5,
+    "description": "Near the ocean, on the eastern side of Sra'vess, there is a cavern that leads to a network of caves.\r\n\r\nFrom there, the Sra'thik Hivelord maintains Sra'vess and plots against us. If we manage to take him out, we'll disrupt their operations for days.\r\n\r\nLet's go to it.",
+    "name": "Target of Opportunity: Sra'thik Hivelord",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

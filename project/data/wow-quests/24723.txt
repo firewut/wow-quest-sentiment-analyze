@@ -1,0 +1,7 @@
+{
+    "_id": "24723",
+    "description": "Durrin's research touched on one area that intrigues me: a potential link between the titans and the dinosaurs.  J.D. Collie back at camp is always talking about titan this and crystal that... maybe she'd be interested.Before you report to her, you might want to check out the crystal pylon not far from here.  It's just up in the cliffs, to the west of here.  It's got crystals on it, and it always seemed to me like it might have something to do with the titans.",
+    "name": "The Western Pylon",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

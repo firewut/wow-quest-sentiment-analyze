@@ -1,0 +1,8 @@
+{
+    "_id": "32370",
+    "added_in_patch": 5.1,
+    "description": "Glory to the Alliance, <class>. We are making gains against the Horde in the Krasarang Wilds, albeit slowly.While we hold the front here, we need your help to fight a different battle - one that strikes at our enemy's heart.Our SI:7 informant, Agent Connelly, has sent word that a Horde vanguard is moving up into the northern reaches of Kun-Lai Summit.Go without delay. Make contact with Agent Connelly in the field, and find out what is going on.Speak to Fennie over there for a flight in.",
+    "name": "The Kun-Lai Expedition",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

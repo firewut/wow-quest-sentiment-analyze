@@ -1,0 +1,7 @@
+{
+    "_id": "28828",
+    "description": "I don't have a very discerning palate, but even I can't stand the taste of those chimaeras that you'll find around here.  Their eggs, however, are a different story.Chimaera eggs are the richest, most buttery eggs you'll find this side of Orgrimmar.  Way better than boring owl eggs, and not as sulfurous as those weird wildkin eggs.I'll take as many of them as you can gather.  Head northeast, and look for their nests in the snow.",
+    "name": "You Gotta Have Eggs",
+    "requires_level": 51,
+    "zone": "Winterspring"
+}

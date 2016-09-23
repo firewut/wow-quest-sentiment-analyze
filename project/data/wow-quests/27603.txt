@@ -1,0 +1,7 @@
+{
+    "_id": "27603",
+    "description": "At one end of the Dark Iron Highway stands a massive gate much like the one that protects Shadowforge City on the opposite side. However, we have no idea what's behind it!All we know is that it's heavily guarded by Anvilrage patrols and the molten giant Bael'gar. You simply must dispose of them and see if you can pry that gate open!Just imagine what could lie behind it...there could be an entire other half of the city we never knew about! Or nothing! Who knows!Though, it's probably something...",
+    "name": "The Sealed Gate",
+    "requires_level": 47,
+    "zone": "Blackrock Depths"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "941",
+    "description": "I have removed that foul moss from the heart, but it remains tainted...Try placing the heart in my planter.  It is filled with a nutritive soil that may cleanse and heal the heart.",
+    "name": "Planting the Heart",
+    "requires_level": 9,
+    "zone": "Teldrassil"
+}

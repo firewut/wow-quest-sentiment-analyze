@@ -1,0 +1,8 @@
+{
+    "_id": "25172",
+    "description": "You're not just another grunt - you seem to be a serious <class>.  Good, because that's exactly what I need.Try not to let the word out, since I don't want to cause a panic... but there have been reports of more humans nearby.  This is an egregious betrayal of the peace that we negotiated with that miserable Jaina Proudmoore!  We can't allow humans here in Durotar, and especially not here in the Valley.You will find them to the south.  Slay them quickly, before their numbers increase any more.",
+    "name": "Invaders in Our Home",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Valley of Trials"
+}

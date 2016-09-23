@@ -1,0 +1,7 @@
+{
+    "_id": "28748",
+    "description": "IT'S STILLWATER! HE'S ALMOST HERE! It's going to take everything that we've got to beat him! Let's do this!",
+    "name": "Lawn of the Dead",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

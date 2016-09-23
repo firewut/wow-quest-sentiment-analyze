@@ -1,0 +1,7 @@
+{
+    "_id": "27427",
+    "description": "If the equipment you found at the ruins of the inn belonged to a Grimtotem attack party, there's likely to be more just like it within their camp to the northwest.We haven't been able to gather much information about Blackhoof Village, but judging from the size of the raiding parties, there's a substantial force based there.Do whatever you have to to capture some of their equipment so that we can compare it with your findings from the inn.",
+    "name": "Arms of the Grimtotems",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

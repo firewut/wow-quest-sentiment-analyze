@@ -1,0 +1,8 @@
+{
+    "_id": "36508",
+    "description": "I found this one skulking nearby. She claims to be an ally of yours.Is this true? Or does she cook slowly over my fire?",
+    "name": "Is This One of Yours?",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

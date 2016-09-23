@@ -1,0 +1,7 @@
+{
+    "_id": "334",
+    "description": "My son Thurman is an apprentice at the Larson Clothiers, in the Mage's Quarter.  He was in a hurry today and forgot his shears and needles.  I know a great <Class> like you must have important tasks at hand, but without his tools Thurman can't do his apprentice work!Please, <name>.  Can you take my son's sewing kit to him?  Larson Clothiers is one of two clothing shops in the Mage's Quarter - it's the one deeper in, near the Mage's Tower.",
+    "name": "Package for Thurman",
+    "requires_level": 1,
+    "zone": "Stormwind City"
+}

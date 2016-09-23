@@ -1,0 +1,8 @@
+{
+    "_id": "30750",
+    "added_in_patch": 5,
+    "description": "The yaungol on the wall here are providing covering fire for the ones below. I don't know what Lao-chen is thinking, but I want you to deal with these archers.\r\n\r\nThe good news is, up here we've got the spirit of the Ox helping us. When they're weakened, the ox spirit will stun them and you can use it to knock 'em off the wall.\r\n\r\nYou'll find the archers just out that door.",
+    "name": "Off the Wall!",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

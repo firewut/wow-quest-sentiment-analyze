@@ -1,0 +1,7 @@
+{
+    "_id": "10880",
+    "description": "This message bears a dark seal and though the language seems somewhat familiar, it appears to be encoded.Perhaps someone at the Refugee Caravan will know something about it.",
+    "name": "Cabal Orders",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

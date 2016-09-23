@@ -1,0 +1,7 @@
+{
+    "_id": "27227",
+    "description": "This Chapel is the last Light amongst so much darkness. Ras Frostwhisper took his own life in the slaughterhouse, carving his face into a macabre smile in front of the Lich King, who raised him into the Lich that now haunts Scholomance.The ground where that atrocity occured is now Scourge holy ground, blessed by the Lich King with the very darkest magic. Lord Aurius Rivendare, new ruler of Stratholme, now guards it and continues his master's evil work. Slay him without pause.",
+    "name": "Lord Aurius Rivendare",
+    "requires_level": 46,
+    "zone": "Stratholme"
+}

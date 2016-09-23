@@ -1,0 +1,8 @@
+{
+    "_id": "43273",
+    "added_in_patch": 7,
+    "description": "In the center of the dais is a map of the Broken Isles. From it, you can direct our allies to carry out vital assignments across the world.\r\n\r\nThe first task is critical to the growth of our order - identifying skilled priests whom we can trust to train our order's troops.\r\n\r\nThis is a task we can easily entrust to one of our new champions.",
+    "name": "Spread the Word",
+    "requires_level": 101,
+    "zone": "Priest Campaign"
+}

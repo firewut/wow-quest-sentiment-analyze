@@ -1,0 +1,7 @@
+{
+    "_id": "11249",
+    "description": "This huge scroll is made from dragon skin. Unfurling its more-than-ten-foot length, you can see that the images painted upon its scaly surface depict a mysterious vrykul ritual.A vrykul thane, surrounded by angelic-looking beings, ascends into the heavens. A mysterious, darkened figure looms large in the picture's background.A tingling in your gut tells you that the thane of Skorn is about to do this. You must stop it! A large pyre sits at the top of Skorn in front of the thane's lodge.",
+    "name": "Stop the Ascension!",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

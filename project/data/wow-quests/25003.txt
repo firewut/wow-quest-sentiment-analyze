@@ -1,0 +1,7 @@
+{
+    "_id": "25003",
+    "description": "The strongest point in the mills is the Agamand Family Crypt.  With necromancy, Captain Dargol has raised the ancestors of the Agamands and plans to use them against us.This cannot pass, and you must stop it.  Travel to the Agamand Family Crypt and defeat the raised Agamand ancestors.",
+    "name": "The Family Crypt",
+    "requires_level": 6,
+    "zone": "Tirisfal Glades"
+}

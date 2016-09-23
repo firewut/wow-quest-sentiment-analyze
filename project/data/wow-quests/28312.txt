@@ -1,0 +1,7 @@
+{
+    "_id": "28312",
+    "description": "The lava beds nearby - to the west - play host to flamekin, a brand of fire demon that has long roamed the steppes.  Situations are such in the Blackrock army that, if we are careful, we may be able to sneak some of these flamekin behind enemy lines to cause some havoc.Bring me the bodies of several flamekin.  As demons, they are easily resurrected, and then we can use them for our own purposes.",
+    "name": "Latent Demons of the Land",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

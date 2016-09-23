@@ -1,0 +1,8 @@
+{
+    "_id": "34393",
+    "added_in_patch": 6,
+    "description": "This portal is fueled by powers neither mechanical nor arcane.Look to either side of us, <name>. The screaming souls of slain prisoners are being channeled into the heart of the portal itself.And they are channeling these souls through the body of Gul'dan.Find a way into the chamber beneath us, and do whatever it takes to get Gul'dan to stop his channeling. Our last hope rests on you, <name>.",
+    "name": "The Portal's Power",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

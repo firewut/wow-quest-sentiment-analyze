@@ -1,0 +1,7 @@
+{
+    "_id": "13866",
+    "description": "These woods may be silent but our enemies lurk behind every trunk. I've discovered many an orc with arrows in his back, his weapon still sheathed.It is treacherous here, behind the lines, but we could use strong arms and sharp minds down at the Mor'shan Ramparts. Kadrak is preparing an offensive from there - he prefers action to talk. You and he will get along.Speak with me when you are ready and I will fly you there. ",
+    "name": "To The Ramparts!",
+    "requires_level": 18,
+    "zone": "Ashenvale"
+}

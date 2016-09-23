@@ -1,0 +1,7 @@
+{
+    "_id": "25718",
+    "description": "Your demon-slaying down there bought our scouts enough time to get a good look at that druid.  My intelligence tells me that his name is Marl Wormthorn... a rogue Gilnean druid of substantial power.  He resides in Maldraz, the large, twisted tree at the center of the forest, and is protected from harm by some strange force.  Whether that force is of demonic or natural sources, we have yet to determine.Speak with Elijah.  He may have some more information for you.",
+    "name": "How Best to Proceed",
+    "requires_level": 55,
+    "zone": "Blasted Lands"
+}

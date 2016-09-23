@@ -1,0 +1,7 @@
+{
+    "_id": "13906",
+    "description": "With your expert feeding and care, your venomhide hatchling will grow quickly. As they grow, their hatchling teeth will be replaced by adult teeth. If you keep the teeth shed by your hatchling as it grows, you'll have an easy way to tell when it's mature enough to be trained as a mount.Your venomhide will let you know what it needs, so pay close attention. When it has shed all of its baby teeth, return to me with your venomhide and the materials for your saddle and I'll do the rest.",
+    "name": "They Grow Up So Fast",
+    "requires_level": 48,
+    "zone": "Un'Goro Crater"
+}

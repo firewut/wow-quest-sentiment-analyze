@@ -1,0 +1,8 @@
+{
+    "_id": "29882",
+    "added_in_patch": 5,
+    "description": "To achieve perfect paint strokes, one must have the right tools. My own have fallen into disrepair, their bristles becoming as unmanageable as hozu hair.Have you seen the wasps throughout the Arboretum? Their stingers can be fashioned into quills that provide just the right level of sharpness in each line.Could you gather some for me please? ",
+    "name": "Quill of Stingers",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

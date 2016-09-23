@@ -1,0 +1,8 @@
+{
+    "_id": "39983",
+    "added_in_patch": 7,
+    "description": "Huln Highmountain is the origin of our strength as a tribe. He bested the Legion when last they threatened our survival and unified many disparate tribes.\r\n\r\nLive his story, and you will know why his name imbues courage in the cowardly and sows fear in the fearless.",
+    "name": "Huln's War - The Arrival",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38800",
+    "added_in_patch": 7,
+    "description": "Oddly enveloped within the felslate deposit is a humanoid eye.It quivers with life. You get the sense that it would blink at you if it had an eyelid.A mining expert should take a look at this.",
+    "name": "Rin'thissa's Eye",
+    "requires_level": 98,
+    "zone": "Mining"
+}

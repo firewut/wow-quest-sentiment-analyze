@@ -1,0 +1,7 @@
+{
+    "_id": "10781",
+    "description": "They are probably searching for you on the Path of Conquest as we speak. You must make your escape, <race>!Leave me, I'm done for... They... I think I hear them coming. It's now or never! Get out! If you choose to stay, you will have to fight!If you fight and somehow manage to survive, take what you have learned here and deliver that knowledge to A'dal in Shattrath City.",
+    "name": "Battle of the Crimson Watch",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

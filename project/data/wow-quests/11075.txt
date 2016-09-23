@@ -1,0 +1,7 @@
+{
+    "_id": "11075",
+    "description": "Your help is required at the Netherwing Mines, overseer <name>.Two days ago our mining operations came to a grinding halt when we made a grim discovery. A miner was working in the depths of the mine and struck his pick upon an unusual crystal formation. Unfortunately, this crystal formation was attached to a very angry nether dragon. The beast woke from its slumber and annihilated all of our workers.Report to the Mistress of the Mines. They await you at the mouth of the mines, southwest of here.",
+    "name": "The Netherwing Mines",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

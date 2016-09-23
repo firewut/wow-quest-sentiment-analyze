@@ -1,0 +1,8 @@
+{
+    "_id": "30185",
+    "added_in_patch": 5,
+    "description": "Granted, tortoises are not big game but they can be mean game. They also work as the perfect bait for bigger game!Gotcher found some ol' tablets sayin' that the Torjari Pit is a sacrificin' site. The old empire used ta' feed unruly sorts to the waters as it were.Well ah mean to see me what's down in that water. Gather up some fresh tortoise shells and meet me at the pit.Let's see if ol' legends be true.",
+    "name": "Tortoise Mastery",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

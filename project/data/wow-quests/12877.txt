@@ -1,0 +1,7 @@
+{
+    "_id": "12877",
+    "description": "I never found the core... but I've often spoken to the keeper Creteus, and his omissions give him away. You'll find Creteus over the mountains to the east, in the Foot Steppes, keeping watch on the Engine of the Makers. The core might well be in there, but you'll need to win Creteus's favor.The iron dwarves were here looking for something... it might well be the core. They took my ring. Find their leader, get the ring back, and show it to Creteus so that he knows I sent you.",
+    "name": "The Lonesome Watcher",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

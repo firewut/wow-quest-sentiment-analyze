@@ -1,0 +1,7 @@
+{
+    "_id": "14394",
+    "description": "Our goal is within sight, <name>!We can break the will of this demon army by bringing down the one who leads them. If we can succeed, Desolace will be ours!When you are ready, lead a group of centaurs through the pass to the south, into Shadowbreak Ravine. Find where Agogridon hides!I will gather the other khans and meet you there to face him in battle.",
+    "name": "Death to Agogridon",
+    "requires_level": 31,
+    "zone": "Desolace"
+}

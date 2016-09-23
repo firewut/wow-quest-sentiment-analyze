@@ -1,0 +1,7 @@
+{
+    "_id": "10349",
+    "description": "You should take the crystal lump over to the earthbinder.  She's just like you... always needing to get to the bottom of a mystery and thinking all of the time.If you ask me, she thinks a little too much.Just give it to her and I'm sure that she'll get you into a heap of trouble figuring out what is going on up there on the ridge.",
+    "name": "The Earthbinder",
+    "requires_level": 61,
+    "zone": "Hellfire Peninsula"
+}

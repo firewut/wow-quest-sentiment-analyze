@@ -1,0 +1,8 @@
+{
+    "_id": "11643",
+    "description": "These wrenches are useless, buddy. I need my pneumatic tank transjigamarig to get these things up and running! Unfortunately, I left it at my old digs, on the other side of this landing. It's the beat down hut next to the stables. You're gonna have to go and get it for me, because I sure as hellfire am not going to go anywhere near the mist.Oh yea, buddy, watch out for the mist. The mist is what tore up these shores.\r\n",
+    "name": "Mobu's Pneumatic Tank Transjigamarig",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

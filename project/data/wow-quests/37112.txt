@@ -1,0 +1,8 @@
+{
+    "_id": "37112",
+    "added_in_patch": 6,
+    "description": "Every adventurer should rest when exhaustion sets in - and there is no finer place to get rest and relaxation than at the Lion's Pride Inn!My best friend, Innkeeper Farley, runs the Lion's Pride. If you tell him I sent you, he may give you the special discounted rates on food and drink.To find the Lion's Pride Inn, travel south along the road from here -- you can't miss it!",
+    "name": "Rest and Relaxation",
+    "requires_level": 4,
+    "zone": "Elwynn Forest"
+}

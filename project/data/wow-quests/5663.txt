@@ -1,0 +1,7 @@
+{
+    "_id": "5663",
+    "description": "Aelthalyste sent word out to all her priests. We're to direct the younger of our order to the Undercity for more training. If you truly count yourself among our faithful, then you should return there also.You can find Aelthalyste in the War Quarter deep in the Undercity.",
+    "name": "Touch of Weakness",
+    "requires_level": 10,
+    "zone": "Priest"
+}

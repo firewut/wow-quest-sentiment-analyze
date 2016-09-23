@@ -1,0 +1,7 @@
+{
+    "_id": "28484",
+    "description": "The magus has been idle for far too long and an idle magus often leads to poorly thought out schemes. This time I am charged with collecting various beast organs in order to power some type of control rod. I am far too frail to go out hunting beasts - especially yetis!Perhaps if I were to offer you a reward of some kind you would do it? All I need is for you to head west to the yeti caves and kill yetis. Rip their still beating hearts from their chests and bring them back here.",
+    "name": "The Heart of the Matter",
+    "requires_level": 21,
+    "zone": "Hillsbrad Foothills"
+}

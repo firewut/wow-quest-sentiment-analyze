@@ -1,0 +1,8 @@
+{
+    "_id": "14463",
+    "description": "Saving the horses might've saved the rest of the town.  They have plenty of carriages in Duskhaven, but not enough horses to pull them.Go tell Mayor Armstead that the horses you saved are at her disposal.I'll get things ready and join you in a bit.",
+    "name": "Horses for Duskhaven",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

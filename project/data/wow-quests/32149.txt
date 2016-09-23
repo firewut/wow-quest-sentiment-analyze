@@ -1,0 +1,8 @@
+{
+    "_id": "32149",
+    "added_in_patch": 5.1,
+    "description": "Oh, the poor peasants...\r\n\r\nThey are cowards, yes, of course. But they don't know how to fight, and they go out to collect lumber for our efforts... the Horde targets them... It's just awful all around!\r\n\r\nBut, we need that lumber if we're going to hold out. Go out and collect any they've dropped.",
+    "name": "Resource Gathering",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42418",
+    "added_in_patch": 7,
+    "description": "Archmage Vargoth's long-time apprentice, Ravandwyr, has arrived here in the Hall of the Guardian with an urgent message from his mentor.\r\n\r\nHe will be waiting for you upstairs. You had best find him quickly, <name>!",
+    "name": "An Unexpected Visitor",
+    "requires_level": 103,
+    "zone": "Mage Campaign"
+}

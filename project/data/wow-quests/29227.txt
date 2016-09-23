@@ -1,0 +1,7 @@
+{
+    "_id": "29227",
+    "description": "The beast that's been hunting us... I've been hunting it.We call him Mauti.  He's a clever one.  But he made a grave mistake when he killed my brother.  Now that mistake is going to cost him.  Ol' Direhammer has got his scent.I've noticed him roaming just above Kurzen's Compound.  If we act fast, we can take him down.Are you ready, <name>?",
+    "name": "The Hunter's Revenge",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

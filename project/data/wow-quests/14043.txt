@@ -1,0 +1,7 @@
+{
+    "_id": "14043",
+    "description": "While you're here, you might want to stock up on Mulgore sweet potatoes. They're used to make delicious candied sweet potatoes, my favorite part of the Pilgrim's Bounty meal.If you don't believe me, look up the recipe in your bountiful cookbook and give it a try. If you're headed back to Orgrimmar, bring them to Francis Eaton at the feasting area just outside the city. I've been trying to keep him supplied, but everything goes so fast over there.",
+    "name": "Candied Sweet Potatoes",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

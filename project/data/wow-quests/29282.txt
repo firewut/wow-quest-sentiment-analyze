@@ -1,0 +1,7 @@
+{
+    "_id": "29282",
+    "description": "Ricket should be at Malfurion's Breach with Damek, as you requested. I'm not sure you fully know what you're getting into with those two though.Speaking of which, you should probably go check on them... make sure they haven't managed to blow up the Sentinel Tree itself. As long as you keep them busy with the elementals, the chances of \"accidents\" at the breach should lessen dramatically.",
+    "name": "Well Armed",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

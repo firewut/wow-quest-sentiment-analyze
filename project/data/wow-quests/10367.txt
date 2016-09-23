@@ -1,0 +1,7 @@
+{
+    "_id": "10367",
+    "description": "Anywhere you see a tribe of enslaved Broken you will also find a traitor.  A despicable being who sold his brothers for promises of power.There is a hut at the top of the stairs in the center of the ruins.  That's the turncoat's hut.He's not there right now, so you will be able to sneak in if you're patient.  Inside you will find a coffer with a key inside of it.  That key unlocks the chains that keep the Dreghood elders prisoner.  Bring it to me.Beware, Arzeth the Merciless wanders nearby.",
+    "name": "A Traitor Among Us",
+    "requires_level": 60,
+    "zone": "Hellfire Peninsula"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35287",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Ragefire Chasm Reward Quest",
+    "requires_level": 15,
+    "zone": "Quests"
+}

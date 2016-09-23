@@ -1,0 +1,8 @@
+{
+    "_id": "38974",
+    "added_in_patch": 7,
+    "description": "One might ask what a leyweaver is doing standing over a dead vrykul's body. But such questions only stir up trouble.Instead let us ask what can be learned from those who have passed on. A question like that promotes progress.I assume you're here to learn from me, the pattern for Imbued Silkweave pants, yes?If that's true, then I'll need something from one who has passed on. In the Halls of Valor the great guardian, Hymdall resides.Bring me his loincloth and I will teach you my pattern.",
+    "name": "The Right Question",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

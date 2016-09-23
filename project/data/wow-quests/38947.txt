@@ -1,0 +1,8 @@
+{
+    "_id": "38947",
+    "added_in_patch": 7,
+    "description": "Let me guess... thread troubles? Mm-hm.I suspected as much. My people weave sumptuous silks, but those silks can be fickle about the types of thread they'll accept.Shal'dorei silk has a bit of ley energy woven right into it. You need something that's learned to coexist with the ley energies of this land.I'm talking about owlcats, my good friend! They have what you need. You'll find them amongst the ruins of Llothien.",
+    "name": "Runic Catgut",
+    "requires_level": 100,
+    "zone": "Tailoring"
+}

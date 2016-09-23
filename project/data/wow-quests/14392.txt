@@ -1,0 +1,7 @@
+{
+    "_id": "14392",
+    "description": "Thank you, little one.Sometimes it's easy to get lost in the throes of love and lose sight of things, even as a dragon. I plan to rededicate myself entirely to making sure Kalec never steps up to take Malygos' place. It's the most noble cause I can think of.You should head back to the harbor. I believe someone's waiting for you there.Try not to get squashed or eaten by anything.",
+    "name": "Farewell, Minnow",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29221",
+    "description": "Da warning helped, <name>.We gathered more Headhunters to help defend.  But Headhunters... Dey not used to hunting heads on serpents.  So we soon be overwhelmed.  Dese serpents, dey seem to come from everywhere.  An' it probably only gonna get worse.Help us and kill da serpents and have Bwemba use her mojo to cure da ones dat are sick from poison.",
+    "name": "Serpents and Poison",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

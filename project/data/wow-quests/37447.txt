@@ -1,0 +1,8 @@
+{
+    "_id": "37447",
+    "added_in_patch": 7,
+    "description": "The time has come to make contact with the Master's soul. It is somewhere in the endless expanse of the Twisting Nether. Luckily, so is Mardum.\r\n\r\nSuch a thing is not unheard of, but it will be exceedingly difficult, even here. In addition to what the matron mother had us gather, we need a great deal of demon blood.\r\n\r\nLike, a lot of it!",
+    "name": "The Blood of Demons",
+    "requires_level": 103,
+    "zone": "Demon Hunter Campaign"
+}

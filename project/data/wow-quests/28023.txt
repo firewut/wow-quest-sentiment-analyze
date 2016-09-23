@@ -1,0 +1,7 @@
+{
+    "_id": "28023",
+    "description": "King Varian Wrynn has requested able-bodied adventurers to assault the Scarlet Monastery, northeast of the Undercity, immediately!Repeated efforts to negotiate with the Scarlet Crusade have failed. Their zealotry is wreaking havoc across the reclaimed plaguelands and elsewhere.Report to the Scarlet Monastery to dish out the King's justice. Use of deadly force is encouraged!",
+    "name": "Adventurers Wanted: Scarlet Monastery",
+    "requires_level": 37,
+    "zone": "Quests"
+}

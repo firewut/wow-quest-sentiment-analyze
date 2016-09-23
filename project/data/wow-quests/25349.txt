@@ -1,0 +1,7 @@
+{
+    "_id": "25349",
+    "description": "I have heard of your battle against the corrupted dragons, <name>, and I thank you for your courage... but I have disturbing news.The dryads of the forest, though allies of the Night Elves, have always passed us by in peace. But they have become cruel and twisted, attacking any who wander the eastern wilds.I fear for the safety of the refugees here, <name>. Please, put a stop to these twisted dryads.",
+    "name": "Twisted Sisters",
+    "requires_level": 38,
+    "zone": "Feralas"
+}

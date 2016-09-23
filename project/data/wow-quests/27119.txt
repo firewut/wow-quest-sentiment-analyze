@@ -1,0 +1,7 @@
+{
+    "_id": "27119",
+    "description": "If you're going to fight the king of the Gordok then you're going to need to get by Captain Kromcrush.  Now, you can get by him by killing him, sure.  You might actually want to leave him alive.How, you ask? I think I know! An ogre suit!I'll make you one if you bring me an Ogre Tannin from upstairs.  I'm not going anywhere like this...",
+    "name": "The Gordok Ogre Suit",
+    "requires_level": 42,
+    "zone": "Dire Maul"
+}

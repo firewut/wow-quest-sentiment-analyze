@@ -1,0 +1,7 @@
+{
+    "_id": "26330",
+    "description": "<The skull speaks once more.>My soul is ready, but my body is not.  The Bloodscalps desecrated my old body long ago.  The horrors that they inflicted upon me... my spirit watched on while they tore my body apart and, and... I can't go on.Their chief, Gan'zulah, presided over the gruesome acts.  In fact, if memory serves, he was a strong, powerful troll... about the same size as I was.  What a fine coincidence.You know what to do, <race>.  Make it quick.",
+    "name": "Who's a Big Troll?",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

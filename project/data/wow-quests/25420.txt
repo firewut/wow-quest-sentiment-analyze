@@ -1,0 +1,7 @@
+{
+    "_id": "25420",
+    "description": "I've studied the gate here for years, trying to find a way of entry that wouldn't disturb any of the ancient architecture just behind it. It figures a few overgrown earthquakes decided to muck the whole thing up! But what's done is done, and the entrance to Uldum is revealed.I wasn't expecting anything to come out of the ruins before we went in, though. A whole mess of golems are running amok in the valley now, let loose from inside. Someone needs to clean them up if we're gonna get in there!",
+    "name": "Ancient Obstacles",
+    "requires_level": 47,
+    "zone": "Tanaris"
+}

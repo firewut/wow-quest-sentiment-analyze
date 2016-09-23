@@ -1,0 +1,7 @@
+{
+    "_id": "10785",
+    "description": "There's is no cause of fury greater in this world than that of Gruul and his sons. They slaughtered my people - my children - and now I will have revenge.I have fashioned a trap from dragon fire, and if you're clever enough, you can use it to kill even a gronn.Just hurry, take the trap to Rexxar. My thirst for revenge must be quenched.",
+    "name": "It's a Trap!",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

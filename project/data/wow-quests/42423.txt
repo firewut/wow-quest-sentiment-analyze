@@ -1,0 +1,8 @@
+{
+    "_id": "42423",
+    "added_in_patch": 7,
+    "description": "Archmage Vargoth has been absent for a while. You may have a look around his living quarters here in the citadel tower, <name>. Kalec will escort you there.\r\n\r\nI will hold out hope that our esteemed colleague is merely up to his usual eccentricities.",
+    "name": "Archmage Vargoth's Retreat",
+    "requires_level": 103,
+    "zone": "Mage Campaign"
+}

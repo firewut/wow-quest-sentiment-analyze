@@ -1,0 +1,8 @@
+{
+    "_id": "8335",
+    "description": "A betrayer of our people resides atop Falthrien Academy to the southwest.Felendren is his name, and he was banished from blood elf lands for failing to heed the warnings of our teachers and elders.  He is the worst of our society, as he lives only to feed his insatiable magical addictions.  He refused to learn control; he is a shell of his former self - one of the Wretched - and he is a threat to the Sunspire.Destroy him and the wraiths he uses as minions.",
+    "name": "Felendren the Banished",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Sunstrider Isle"
+}

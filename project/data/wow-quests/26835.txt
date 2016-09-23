@@ -1,0 +1,7 @@
+{
+    "_id": "26835",
+    "description": "While you were out there, Pyrium Lodestone contacted me. He said that there is a matter of great urgency and that your assistance is needed immediately. Return to him at the entrance to Needlerock Slag to the southwest.I wish you luck with the rescue of the Stonefather and the recovery of the middle fragment.",
+    "name": "A Slight Problem",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

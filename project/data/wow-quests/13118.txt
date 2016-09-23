@@ -1,0 +1,7 @@
+{
+    "_id": "13118",
+    "description": "The Scourge have sent their armies at the Argent Crusade and have been repelled. What they do now is called a 'slash and burn.' All prisoners that they hold at Scourgeholme will be executed and raised as servants of the Lich King.Undoubtedly the Argent Crusade will request that you give their soldiers a proper farewell. I'll ask no such thing of you. To succeed we must kill Scourge indiscriminately.Venture to Scourgeholme, northwest through the Breach, and lay waste to all that stand in your way.",
+    "name": "The Purging Of Scourgeholme",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

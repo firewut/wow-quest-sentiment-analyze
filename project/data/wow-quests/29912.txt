@@ -1,0 +1,8 @@
+{
+    "_id": "29912",
+    "added_in_patch": 5,
+    "description": "Most of these vegetables will be sold, but I'd like to keep some for my family. Specifically, my nephew Liang needs some to feed to his pigs.Unfortunately, the pathway to Liang's farm is currently swarming with Snagtooth virmen. We're going to have to ask Miss Fanny to help us out.Bring some of the food we've gathered to Miss Fanny, who stands next to my house. Then ask her - NICELY! - to send them down to Liang's ranch.",
+    "name": "The Fabulous Miss Fanny",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

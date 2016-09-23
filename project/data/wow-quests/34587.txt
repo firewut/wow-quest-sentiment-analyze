@@ -1,0 +1,9 @@
+{
+    "_id": "34587",
+    "added_in_patch": 6,
+    "description": "I must say, commander, this garrison has really come along.We have enough materials, all we need now are the blueprints I drafted up and I can begin construction on your barracks.Hmm... now where did I put those blueprints?",
+    "name": "Build Your Barracks",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

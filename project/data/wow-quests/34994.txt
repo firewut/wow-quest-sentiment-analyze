@@ -1,0 +1,9 @@
+{
+    "_id": "34994",
+    "added_in_patch": 6,
+    "description": "All this sitting around is horrible for business.I have to find a way to recoup some of my lost profits.Those Draenei females are obsessed with the way their horns look.I overheard one of them talking about a root that grows in Blademoon Bloom that supposedly reduces horn shedding or something.I bet I could sell that root to them for a pretty nice profit.I'll give you a cut if you help me get a supply going.",
+    "name": "Forever Young",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

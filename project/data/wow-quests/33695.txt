@@ -1,0 +1,9 @@
+{
+    "_id": "33695",
+    "added_in_patch": 6,
+    "description": "You have helped me and now I will help you, $p. The bloom you seek is within the nearby cave, being pawed over by the new leader of these saberon.Kill him and take the bloom back to the ancient below. I hope this will clear out those plants and I can get back to my hunting...",
+    "name": "Taking the Death Bloom",
+    "requires_level": 93,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

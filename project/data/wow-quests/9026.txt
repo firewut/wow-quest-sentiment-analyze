@@ -1,0 +1,7 @@
+{
+    "_id": "9026",
+    "description": "We've got to find the source. I've seen a lot more people than usual - guards included - going in and out of The Gilded Rose. Talk to Allison. If she's selling them, she can tell you where they came from.",
+    "name": "Tracing the Source",
+    "requires_level": 1,
+    "zone": "Quests"
+}

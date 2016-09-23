@@ -1,0 +1,7 @@
+{
+    "_id": "13036",
+    "description": "Long has been the path to our salvation, young <class>. We have fought across continents, worlds even, to reach this point. Now we face our greatest challenge: the destruction of the Lich King and his Scourge.Alas, we fight this battle divided. The Horde and Alliance are in the throes of war and will lend us no support. We must remain unyielding in our cause! For what choice have we to do otherwise?Do you join the cause? Lend us your strength, <class>! My commander, Entari, awaits you at his post.",
+    "name": "Honor Above All Else",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11985",
+    "description": "If we can't overcome the defenders inside Thor Modan, the iron dwarves can hold out forever. The Earthen are bravely taking on the constructs built by the sons of iron, but they cannot break into the city.The tunnels narrow too quickly for my fellow giants to be of use, so our options are few. Would you be willing to venture into the city and kill the dwarf commanding the resistance?",
+    "name": "Into the Breach",
+    "requires_level": 72,
+    "zone": "Grizzly Hills"
+}

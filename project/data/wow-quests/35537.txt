@@ -1,0 +1,9 @@
+{
+    "_id": "35537",
+    "added_in_patch": 6,
+    "description": "Commander, scouts from Spires of Arak have brought back news to the garrison. There's word of a brewin' war between bird-men and the Shattered Hand orcs.\r\n\r\nRokhan's askin' for your presence when your work is done here, should ya be willin' sir.",
+    "name": "News from Spires of Arak",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Talador"
+}

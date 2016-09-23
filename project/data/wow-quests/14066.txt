@@ -1,0 +1,8 @@
+{
+    "_id": "14066",
+    "description": "Not long ago, a shipment of silver was stolen en route from here to Crossroads. It was meant as payroll to the guards, and we want that silver back.I'll ask around here for clues, but I want you to investigate the scene of the crime. Head west and look for a crashed caravan wagon just north of the road between here and Crossroads. Find out who took our silver and get it back!",
+    "name": "Investigate the Wreckage",
+    "requires_level": 13,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

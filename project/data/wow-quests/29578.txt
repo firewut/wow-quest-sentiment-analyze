@@ -1,0 +1,8 @@
+{
+    "_id": "29578",
+    "added_in_patch": 5,
+    "description": "The damn mogu hit us out of nowhere! Anyone they don't kill on sight is being dragged away into the woods.This is the only safehouse, and its all I can do to hold the door.What do you say, friend? Are you willing to stand up and fight for the weak?",
+    "name": "Defiance",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32309",
+    "added_in_patch": 5.1,
+    "description": "This book may be just the leverage we've been seeking... How familiar are you with the Council of the Black Harvest, <name>?After Deathwing was defeated, six of the greatest Warlocks gathered together to teach all Warlocks advanced forms of magic stolen from our defeated foes.Take a look at the tome beside me...",
+    "name": "A Tale of Six Masters",
+    "requires_level": 90,
+    "zone": "Warlock"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10626",
+    "description": "With a larger supply of this material, we might be able to forge a weapon for you to use.The two pit lords at Legion Hold, Makazradon and Morgroron, have already been equipped with these anti-demon weapons. We have no way of knowing how many more the Legion intends to produce, but if we can capture these prototypes, there should be enough for our project.<Ordinn grins.>There's a certain amount of satisfaction in using the Legion's own 'secret weapons' against them, don't you think?",
+    "name": "Capture the Weapons",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

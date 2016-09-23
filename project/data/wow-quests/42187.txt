@@ -1,0 +1,8 @@
+{
+    "_id": "42187",
+    "added_in_patch": 7,
+    "description": "We are still recovering from the attack at the Peak of Serenity.To help us rebuild the order, we should enlist the greatest champions of our class to fight by our side.I know that the two Stormstouts, Chen and Li Li, would eagerly pledge to join the cause. Speak to them and reccruit them as champions, then speak to Master Hsu.",
+    "name": "Rise, Champions",
+    "requires_level": 101,
+    "zone": "Monk Campaign"
+}

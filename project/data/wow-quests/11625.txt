@@ -1,0 +1,7 @@
+{
+    "_id": "11625",
+    "description": "Five hundred years ago, Azshara imprisoned a being named Leviroth in the waters below.  Now these barbarians seek to undo our queen's work!They took over our city and began to sacrifice my brethren to awaken him!  When they ran out of naga, they began to take tuskarr.  Their spirits will know no peace!I will help you, for it will go a long way towards quelling my vengeance.  Their captain, Ragnar, dwells deep inside northeastern Riplash.  He has in his possession a golden trident.  Bring it to me!",
+    "name": "The Trident of Naz'jan",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

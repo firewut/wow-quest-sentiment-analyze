@@ -1,0 +1,8 @@
+{
+    "_id": "4021",
+    "description": "The Horde commends your successes against the Kolkar, but the Kolkar themselves are maddened.  I have reports that a contingent of Kolkar has traveled to the Barrens from their home in Desolace, to seek vengeance.  My latest report was that, even now, they move against these bunkers, from the west!Face the Kolkar invaders, and end their threat in the Barrens.  Kill them until their leader, Warlord Krom'zar, appears.  Defeat him and bring me a piece of his banner as proof.We're counting on you, <name>.",
+    "name": "Counterattack!",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

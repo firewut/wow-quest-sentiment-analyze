@@ -1,0 +1,8 @@
+{
+    "_id": "25628",
+    "description": "This treasure's all fake, but it's not like those den whompers are going to know the difference. Stupid ogres!Here's the plan... you head into the Admiral's Den and spread all of this \"treasure\" around to any ogres that get in your way. Then all you have to do is confront Tony Two-Tusk.You'll have the key to the cage in no-time!",
+    "name": "Two-Tusk Takedown",
+    "requires_level": 38,
+    "side": "horde",
+    "zone": "Thousand Needles"
+}

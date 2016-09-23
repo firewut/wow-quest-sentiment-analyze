@@ -1,0 +1,8 @@
+{
+    "_id": "39914",
+    "added_in_patch": 7,
+    "description": "Now that I'm stronger, it's time to test your mettle, and mine. As I mentioned earlier, there is a powerful naga I wish to kill.His name is Fathom-Commander Eksis. He was responsible for slaying many of my kin before he retreated into hiding, commanding his troops from the shadows.I've finally discovered his whereabouts in a cave just east of here. Let us bring vengeance upon him for my lost brothers and sisters.",
+    "name": "Sentinel's Final Duty",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

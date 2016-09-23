@@ -1,0 +1,8 @@
+{
+    "_id": "39343",
+    "added_in_patch": 7,
+    "description": "You find tubing formed from a bendable sort of glass. It appears as though Grimoira was using it to suck out the insides of her victims.Its magical properties, however, would seem ideal for use on an advanced alchemy table.",
+    "name": "Bendy Glass Tubes",
+    "requires_level": 110,
+    "zone": "Alchemy"
+}

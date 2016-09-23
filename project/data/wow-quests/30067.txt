@@ -1,0 +1,8 @@
+{
+    "_id": "30067",
+    "added_in_patch": 5,
+    "description": "A terrible manifestation of the sha has appeared to the south.It is trying to destroy an ancient relic, the Bell of a Thousand Whispers.This bell has never been rung in the temple's history, for it is rumored to be an ancient instrument of power.Please go and defeat this demon where it stands! We must save this relic!",
+    "name": "The Shadow of Doubt",
+    "requires_level": 90,
+    "zone": "Jade Temple Grounds"
+}

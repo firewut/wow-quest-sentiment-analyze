@@ -1,0 +1,8 @@
+{
+    "_id": "34846",
+    "added_in_patch": 6,
+    "description": "We have an accessible fishing spot here, but no bait seems to work!  We need to find a local fisherman with some knowledge of the area to help us out.  Think you are up to the task?",
+    "name": "Fish Fight",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

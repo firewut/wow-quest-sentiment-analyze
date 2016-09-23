@@ -1,0 +1,7 @@
+{
+    "_id": "1655",
+    "description": "Ach, ya startled me,  man! Can't ya see I was lost in thought?What's that? Jordan's shipment... fer Ironforge. Ahhh, yeah, I know whatcha speak of. Mo'grosh ogres... dat's who took me ol' friend's ore shipment. Caravan was headin' here from the Wetlands and was ambushed. The guard who survived their attack just passed away a few days ago--healer couldn't get to 'em fast enough.If you want the shipment, you'll have to head northeast across the Loch. It's got to be there somewhere.",
+    "name": "Bailor's Ore Shipment",
+    "requires_level": 20,
+    "zone": "Paladin"
+}

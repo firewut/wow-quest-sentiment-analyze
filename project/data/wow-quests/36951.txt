@@ -1,0 +1,8 @@
+{
+    "_id": "36951",
+    "added_in_patch": 6,
+    "description": "I assume you're familiar with the arakkoa, commander? Great, flying birdfolk. Extremely territorial.\r\n\r\nSome, however, have withered wings - a disease, maybe. They seem to be outcast from arakkoa society. You find them now and then, squatting in forgotten ruins or peddling trinkets on the roadside.\r\n\r\nIt seems the Iron Horde has incited the arakkoa by moving into their lands, and the outcasts are fleeing in droves.\r\n\r\nWe should make contact with these outcasts - they could have valuable information.",
+    "name": "Arakkoa Exodus",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

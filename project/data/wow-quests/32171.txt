@@ -1,0 +1,8 @@
+{
+    "_id": "32171",
+    "added_in_patch": 5.1,
+    "description": "The tiger has fallen.",
+    "name": "End of an Elder",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

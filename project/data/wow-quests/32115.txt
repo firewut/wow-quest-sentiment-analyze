@@ -1,0 +1,8 @@
+{
+    "_id": "32115",
+    "added_in_patch": 5.1,
+    "description": "The mogu are a bunch of right bastards!\r\n\r\nThey enslaved the pandaren who worked these caves even after their death. Ye' gotta go free their spirits! It's just not right.\r\n\r\nBe careful though... so much trauma, they don't know what's a friend and what's an enemy. So they'll probably fight back.",
+    "name": "Shackles of the Past",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "851",
+    "description": "Verog may be hard to find, but judging by the info you gathered, his mate Wyneth is always in his command tent just west of here. If we kill her, Verog will come running.Regthar sent us here to scout, but he also said we should seize any opportunity to upset the centaur chain of command if we can. Lure out Verog and kill him!",
+    "name": "Verog the Dervish",
+    "requires_level": 13,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

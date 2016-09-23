@@ -1,0 +1,9 @@
+{
+    "_id": "29730",
+    "added_in_patch": 5,
+    "description": "I bet I know your first question: \"What the ook happened to Sergeant Gorrok?\" Don't worry, don't worry. He's totally alive. Not dead or anything.<Riko shuffles uncomfortably.>Well, we THINK he's alive, but he ALSO might be very, very dead.<Riko looks into your eyes for approval.>Fine! Let me tell you exactly what happened.",
+    "name": "Scouting Report: Hostile Natives",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

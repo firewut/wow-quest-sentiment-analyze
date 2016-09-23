@@ -1,0 +1,7 @@
+{
+    "_id": "11019",
+    "description": "",
+    "name": "Your Friend On The Inside",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

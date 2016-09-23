@@ -1,0 +1,7 @@
+{
+    "_id": "8191",
+    "description": "",
+    "name": "Prophetic Aura",
+    "requires_level": 58,
+    "zone": "Quests"
+}

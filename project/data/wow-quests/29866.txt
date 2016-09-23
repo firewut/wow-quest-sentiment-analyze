@@ -1,0 +1,8 @@
+{
+    "_id": "29866",
+    "added_in_patch": 5,
+    "description": "Ah, welcome traveler. I have need of your services!Syra Goldendraft was looking for some silk. Personally I hate silk as it always gets stuck in my fur.I really want to impress her though.If you bring me some silk from the Silkwood to the west of here I will gladly pay you for your help.",
+    "name": "The Threads that Stick",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

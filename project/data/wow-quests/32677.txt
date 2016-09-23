@@ -1,0 +1,8 @@
+{
+    "_id": "32677",
+    "added_in_patch": 5.2,
+    "description": "The Swollen Vault is a repository for some of Lei Shen's nastiest weaponry and most prized trinkets - not surprisingly, these are often one and the same.One artifact in particular, an amulet known as the Choker of Storms, could help us to understand his apparent mastery over lightning.Break into the vault and slay the hoard-keeper. Take his key and use it to recover the amulet from a cache at the back of the vault.",
+    "name": "Raiding the Vault",
+    "requires_level": 90,
+    "zone": "Quests"
+}

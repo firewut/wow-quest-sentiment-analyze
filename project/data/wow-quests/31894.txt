@@ -1,0 +1,8 @@
+{
+    "_id": "31894",
+    "added_in_patch": 5,
+    "description": "The calling to be a Shado-pan is one to bring balance and harmony to this land. It is our duty to ensure balance is maintained, <name>.The yaungol activity in Townlong is threatening this balance and must be stopped before it is too late.We've had sightings of yaungol in the Sumprushes. The reports indicate they are attacking the mist lurkers in the area. Find out why and put an end to it! ",
+    "name": "A Delicate Balance",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

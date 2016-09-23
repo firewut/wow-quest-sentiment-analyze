@@ -1,0 +1,7 @@
+{
+    "_id": "8282",
+    "description": "Where am I?  Where's my bag? *gasp* I must've lost it while fleeing from Deathclasp, the giant scorpid.  In my rush to escape I walked right into a nest of stonelash flayers.The satchel I was carrying had all sorts of rare reagents in it.  Without them, me and Beetix won't be able to make the potions that Cenarion Hold needs.  I'm too weak to get up yet, but I can make it worth your while if you bring back my reagents.I ran into Deathclasp in the southern mountain range, behind Bronzebeard's camp.",
+    "name": "Noggle's Lost Satchel",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13689",
+    "description": "You've proven yourself worthy of competing under the banner of Darnassus, <name>. Now, you should introduce yourself to Jaelyne Evensong, who leads the Darnassus delegation. As the night elf grand champion, she will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.It has been an honor working with you, <name>, and I wish you luck in the competition ahead.",
+    "name": "A Valiant Of Darnassus",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

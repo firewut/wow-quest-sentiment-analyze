@@ -1,0 +1,9 @@
+{
+    "_id": "33116",
+    "added_in_patch": 6,
+    "description": "Gul'dan is on the Shadow Rise just up the hill to the west. But, you must hurry, <name>. We know that he's about to leave for Talador and Frostfire Ridge.The use of the soul trap is straightforward. Simply point and shoot to ensnare Gul'dan. The crystal will take care of the rest.I'll see you back at Starfall Outpost when you have him.Good luck.",
+    "name": "To Catch a Shadow",
+    "requires_level": 94,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

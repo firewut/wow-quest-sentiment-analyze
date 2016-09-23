@@ -1,0 +1,8 @@
+{
+    "_id": "31216",
+    "added_in_patch": 5,
+    "description": "The swarm begins, Wakener! The mantid amass at the Heart of Fear.Already they fill the skies with their wings and rend the earth with their claws. They shall not stop the dark march until their bodies are laid open and bleeding upon the ground.This we shall gladly do. We will attack them from above. While I fly, use my poisons to destroy their advance.Do not mix the two serums until you are ready to attack. The reaction can be quite... violent.Speak to me when you are ready to go.",
+    "name": "Dark Skies",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

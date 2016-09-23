@@ -1,0 +1,8 @@
+{
+    "_id": "11963",
+    "description": "Farshire is overrun and all that Gerald can think of is to get me my ore shipment?  I swear that man has as much heart as any of our soldiers on the frontlines.We cannot let the civilians lose their lands if they're willing to fight for them.  We might not have the troops to spare, but we can send them weapons.These were earmarked for new recruits, but I'll be able to cover those with the ore you've brought me.  Send word to Gerald that weapons are on the way.",
+    "name": "Weapons for Farshire",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

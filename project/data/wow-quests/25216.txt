@@ -1,0 +1,7 @@
+{
+    "_id": "25216",
+    "description": "If you're heading down the trench, I'd like you to check in one of our novice members for me.His name is Sam, but he's likely to embellish it a bit. He doesn't really understand how members of the Earthen Ring work, but he tries hard, so we try to give him the benefit of the doubt.Don't get too wrapped up in helping him with his crazy schemes. Just make sure he's still in one piece and let me know so that I can have a little peace of mind.",
+    "name": "The Great Sambino",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

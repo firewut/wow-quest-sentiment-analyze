@@ -1,0 +1,8 @@
+{
+    "_id": "44211",
+    "added_in_patch": 7,
+    "description": "If we gonna win dis war, we need to get these Champions of ours better equipment.  \r\n\r\nIt won't be cheap, or easy, but I can get dem for you.",
+    "name": "Unseen Armaments",
+    "requires_level": 110,
+    "zone": "Trueshot Lodge"
+}

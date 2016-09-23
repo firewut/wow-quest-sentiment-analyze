@@ -1,0 +1,8 @@
+{
+    "_id": "44041",
+    "added_in_patch": 7,
+    "description": "We need to find out who is behind the assassination of Amber Kearnen.It won't be long before SI:7 realizes that their agent is MIA and comes sniffing around The Hall of Shadows.Here, take these stylish spy glasses and set them to scan for traces of hemoglobin. I've taken the liberty of calibrating them specifically for Amber Kearnen's blood.Follow the blood trail back to the culprits, but make sure to stay out of sight!Report back to us when you've got the information we need.",
+    "name": "The Bloody Truth",
+    "requires_level": 103,
+    "zone": "Rogue Campaign"
+}

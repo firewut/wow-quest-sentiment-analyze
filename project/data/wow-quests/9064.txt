@@ -1,0 +1,8 @@
+{
+    "_id": "9064",
+    "description": "Antheol is going to fly off his rocker when he finds out his book is ruined.  I've got a little proposal for you; don't worry, I'll make it worth your while.Take this book to him and tell him nothing of this incident.  If he asks, just tell him you dropped the book into a puddle.  He has no direct authority over you, so there's not much he can do.Antheol delivers his lectures at Stillwhisper Pond, southeast of Silvermoon.  You'll do this for us, right?  I'll reward you handsomely for this favor!",
+    "name": "Taking the Fall",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

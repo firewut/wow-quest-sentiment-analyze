@@ -1,0 +1,7 @@
+{
+    "_id": "12620",
+    "description": "We were not quick enough, <name>.  The cultist scum have arrived at the Glimmering Pillar and are making preparations to destroy it, I can sense them.We don't have much time.  Blow upon this horn atop the Glimmering Pillar to channel my power through the crystal.We shall show this scum to not trifle with the titans' creations.",
+    "name": "The Lifewarden's Wrath",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

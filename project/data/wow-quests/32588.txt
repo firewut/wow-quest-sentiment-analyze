@@ -1,0 +1,8 @@
+{
+    "_id": "32588",
+    "added_in_patch": 5.2,
+    "description": "Under orders from Jaina herself, some of our agents attempted to sneak past mogu lines to find out what was going on in the mines.\r\n\r\nThey were captured, and are being subjected to who-knows-what kind of awful tortures.\r\n\r\nYou must free them and kill whoever captured them. We don't leave anyone behind!",
+    "name": "On Her Magic-ey Secret Service",
+    "requires_level": 90,
+    "zone": "Quests"
+}

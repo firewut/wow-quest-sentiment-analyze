@@ -1,0 +1,8 @@
+{
+    "_id": "13628",
+    "description": "Kadrak has just received fresh orders for our troops. I hear we're to begin offensive strikes into Ashenvale!I have far too few supplies to support an assault, and my shipment from Orgrimmar has yet to arrive.I am forced to  improvise, and could use your help, <class>.Speak with Kadrak and ask him for the reins to Brutusk. The kodo will take you to the Warsong Labor Camp. Once there, seek out Gorka and ask her to load you up with logs.",
+    "name": "Got Wood?",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

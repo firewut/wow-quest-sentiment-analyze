@@ -1,0 +1,9 @@
+{
+    "_id": "33013",
+    "added_in_patch": 6,
+    "description": "The Iron Wolf... brought weapons...<cough>...weapons of fire and thunder.Our warriors have never seen such weapons. We were not ready.<wheeze> We must learn... to overcome...",
+    "name": "Of Fire and Thunder",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42685",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Archmage Modera",
+    "requires_level": 101,
+    "zone": "Mage Campaign"
+}

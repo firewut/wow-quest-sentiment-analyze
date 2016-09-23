@@ -1,0 +1,8 @@
+{
+    "_id": "412",
+    "description": "I should go back to Gnomeregan and continue researching a cure for irradiated gnomes.But, I stayed behind in Kharanos because the town is my home and I wanted to help defend it from the Frostmane attacks. I've been working on maintaining and repairing the steam tanks.For some reason, Frostmane scavengers have taken a liking to the gyromechanic gears I need to complete the repairs. They're all over the Frostmane Front to the southeast of town. Will you help me get those gears back?",
+    "name": "Operation Recombobulation",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

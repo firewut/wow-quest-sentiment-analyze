@@ -1,0 +1,8 @@
+{
+    "_id": "40373",
+    "added_in_patch": 7,
+    "description": "<name>, as leader of the Illidari in Lord Illidan's absence, you must choose your second-in-command.\r\n\r\nKayn or Altruis. You can only choose one.\r\n\r\nThe chosen shall become your personal champion, and their ideology will color our decisions for the Illidari going forward. No matter who is chosen, our mission remains unchanged.\r\n\r\nIf you need a reminder of our past, gaze into the Pool of Judgement. Remember the sacrifices that forged us into demon hunters. Speak to me when you are ready to choose.",
+    "name": "A New Direction",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

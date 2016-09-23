@@ -1,0 +1,8 @@
+{
+    "_id": "40968",
+    "added_in_patch": 7,
+    "description": "My injuries will not kill me, but I cannot fight. I have my own idea of how to deal with the remaining Nightborne.\r\n\r\nThey destroyed our defense matrix as soon as they arrived. You'll see they still carry fragments of the spell focuses.\r\n\r\nCollect them, combine them, and then find a hippogryph. They linger throughout the Stronghold.\r\n\r\nThese loyal beasts will take you to the skies and take care of the rest.",
+    "name": "Recovering Stolen Power",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

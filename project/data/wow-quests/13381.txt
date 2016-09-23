@@ -1,0 +1,7 @@
+{
+    "_id": "13381",
+    "description": "Put on your lucky socks, <name>, and say your favorite prayers.  This next mission will test your wit and fortitude like a visit from the in-laws!Request another bomber from Karen No.  Take it beyond The Bombardment and over the Valley of Lost Hope.  You have more targets this time, both on the land an in the air.  Keep your shields charged and your ammo loaded, <name>!  I'll see you when it's over.",
+    "name": "Watts My Target",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

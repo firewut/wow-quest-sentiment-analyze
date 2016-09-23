@@ -1,0 +1,8 @@
+{
+    "_id": "26621",
+    "description": "The weapons the Horde has supplied us with will be more than enough. The four of us should split up and arm as many Dragonmaw workers and merchants as we can.Don't underestimate us, <name>. You'll find even our tradesmen are ferocious in battle.Let's do as much damage as possible. Arm a squad of Dragonmaw and lay waste to the fel enforcers and warlocks that have intimidated my people for so long. Then meet back here to launch our final strike!",
+    "name": "Insurrection",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Twilight Highlands"
+}

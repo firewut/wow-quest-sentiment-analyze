@@ -1,0 +1,7 @@
+{
+    "_id": "29106",
+    "description": "I heard that Magni Bronzebeard, who used to be the king of Ironforge, turned into a giant diamond! Is that true? How does someone just turn into a diamond? Maybe you have to be a king and that's why no one's done it before.Can we go see him? He should be in the part of Ironforge called Old Ironforge underneath the High Seat.",
+    "name": "The Biggest Diamond Ever!",
+    "requires_level": 10,
+    "zone": "Children's Week"
+}

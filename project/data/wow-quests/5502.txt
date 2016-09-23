@@ -1,0 +1,7 @@
+{
+    "_id": "5502",
+    "description": "You have been so very kind to me, <name>.  I never dreamed that I'd have so much fun during Children's Week.  Thank you.I wish all the orphans were lucky enough to get to see all the stuff we did. Do you think we find Blax Bottlerocket again and get a foam sword rack from him? I think he's still pushing that cart up and down the main road in the Drag. That way, everyone else at the orphanage could do something fun too!After that, it'll be time for me to go home.",
+    "name": "A Warden of the Horde",
+    "requires_level": 10,
+    "zone": "Children's Week"
+}

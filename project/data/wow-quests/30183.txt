@@ -1,0 +1,8 @@
+{
+    "_id": "30183",
+    "added_in_patch": 5,
+    "description": "Tigers! No matter what land I go to I hear about these big fanged beasts. And yet I haven't had a chance to hunt any of them.Let's go hunt some tigers. I'll go east, you go west. I think I saw some near Dustback Gorge. I'm sure there are tons near those mushan.",
+    "name": "Stalker Mastery",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

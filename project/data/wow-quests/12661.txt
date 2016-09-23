@@ -1,0 +1,7 @@
+{
+    "_id": "12661",
+    "description": "By now you've probably guessed the details of my plan.We're using the Scourge's interest in you against them. You're going undercover. I know it's likely a death sentence, but if we do nothing your death is a certainty.Travel northeast to Reliquary of Pain and stand on the platform while wearing your disguise. Once inside Voltarus, you must earn the trust of the Scourge commander.When you've completed your mission, blow this horn and I'll fly to your location to receive your report.",
+    "name": "Infiltrating Voltarus",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

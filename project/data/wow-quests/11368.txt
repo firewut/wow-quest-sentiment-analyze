@@ -1,0 +1,7 @@
+{
+    "_id": "11368",
+    "description": "I have an unusual request. A certain wealthy individual that I am in contact with off-world is interested in a macabre piece.Specifically, she wants the heart of Quagmirran.I hear that the beast has three, but one will suffice for our purposes. As I understand it, you can find Quagmirran resting within a deep pool of water at the Slave Pens.",
+    "name": "Wanted: The Heart of Quagmirran",
+    "requires_level": 70,
+    "zone": "Zangarmarsh"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26175",
+    "description": "Other than what you've seen, the Portal's been surprisingly quiet.  There isn't much more work I can give to you, I'm afraid.If you're looking for trouble, you might try the Gilnean fishing village to the southwest.  Surwich, I think it was.I know we're supposed to be friends with the Gilneans, but really?  Worgen?  I had enough trouble getting used to the draenei.",
+    "name": "Surwich",
+    "requires_level": 55,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

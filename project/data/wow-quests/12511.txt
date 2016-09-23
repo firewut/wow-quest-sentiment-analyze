@@ -1,0 +1,8 @@
+{
+    "_id": "12511",
+    "description": "While we focus to hold our ground at Wintergarde and deal with the unfolding events of the Wrathgate, battalions from as far away as Westfall battle their way through the dense foliage and inhospitable denizens of Grizzly Hills. All in hopes of finding an alternate route into Icecrown.Lieutenant Dumont, stationed at Amberpine Lodge, has enlisted the aid of able bodied citizens willing to risk life and limb in the uncharted wilds. Will you rise to meet this challenge?",
+    "name": "The Hills Have Us",
+    "requires_level": 73,
+    "side": "alliance",
+    "zone": "Grizzly Hills"
+}

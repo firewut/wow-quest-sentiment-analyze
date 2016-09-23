@@ -1,0 +1,7 @@
+{
+    "_id": "11251",
+    "description": "It's come at great cost, but we've completed our inspection of the site.The news isn't good. Nearly everyone has been slain or captured. Only a few veteran guards remain unaccounted for.The scouts have done all we can here. You must pick up where we've left off.Sounds of a skirmish are coming from up the hill to the northeast. Have a look, <class>. We can only hope there are some who have survived, and that they may have some intel we can use against this enemy.",
+    "name": "Fresh Legs",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

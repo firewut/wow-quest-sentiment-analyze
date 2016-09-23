@@ -1,0 +1,7 @@
+{
+    "_id": "8667",
+    "description": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity.  They mock me, knowing I cannot step further into their domain to save my brother Arygos.In my visions I see their monstrous faces adorned by powerful crowns.  But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.Bring me the components I require, <name>.  I will give you a headpiece of unmatched power.",
+    "name": "Genesis Helm",
+    "requires_level": 60,
+    "zone": "Quests"
+}

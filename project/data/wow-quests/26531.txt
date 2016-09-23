@@ -1,0 +1,7 @@
+{
+    "_id": "26531",
+    "description": "Our best fighters are ready, we've got the idol assembled... it's time, <name>.Here's what we're gonna do. You'll travel southwest to Shadra'Alor ahead of us with the idol. You'll need to use the idol at each of the three temples, fighting through the trolls guardin' them.When you do that, Shadra will emerge into our world, and we'll be right there waiting for her with fury in our hearts. Talk to my boys on the scene as soon as you've performed the ritual!",
+    "name": "Summoning Shadra",
+    "requires_level": 32,
+    "zone": "The Hinterlands"
+}

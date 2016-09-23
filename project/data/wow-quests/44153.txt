@@ -1,0 +1,8 @@
+{
+    "_id": "44153",
+    "added_in_patch": 7,
+    "description": "\"You did not ask for this burden, but it is what fate has deemed.\" Turalyon's haunting last words still echo in my mind. I worry about the fate of the draenei... about the fate of my friend, Velen; but we must remain vigilant, <name>!For now, Light's Heart remains under your watchful eye. There is one place on Azeroth that I would trust with the safekeeping of the object: your order hall. Take it there, <name>. I will remain in Dalaran and continue looking for answers. There must be another way!",
+    "name": "Light's Charge",
+    "requires_level": 98,
+    "zone": "Order Hall"
+}

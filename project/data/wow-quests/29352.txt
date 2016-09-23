@@ -1,0 +1,8 @@
+{
+    "_id": "29352",
+    "description": "Oh, no, <name>, this is going to be a disaster if we don't find some chicken soon... Ye just cannae make cock-a-leekie soup without the chicken! It's not possible!There's still time to make the soup and broth if ye can find some fresh chicken. Will ye help me? There are usually a few chickens running around outside the front entrance to the city. If ye can get yer hands on, say, six o' them, that should save me soup.",
+    "name": "A Fowl Shortage",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Cooking"
+}

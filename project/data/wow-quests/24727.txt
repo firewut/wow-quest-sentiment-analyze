@@ -1,0 +1,7 @@
+{
+    "_id": "24727",
+    "description": "",
+    "name": "Crystal Spire",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12265",
+    "description": "I sensed a large accumulation of magic in the runes that we witnessed when you were scouting the cave. I will not have you toy with extracting the magic... often the most straight forward solution is the most effective one.Destroy the runes... stamp them out and ensure that the Cult will not have access to whatever power that they've accumulated there.",
+    "name": "Defiling the Defilers",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

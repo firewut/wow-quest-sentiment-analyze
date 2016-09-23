@@ -1,0 +1,7 @@
+{
+    "_id": "25429",
+    "description": "With the gnolls out of the way, we're ready to take care of other foes. Our scouts have discovered what appears to be a hive nearby, extending deep beneath the ground.The insects of the hive are large and ferocious, and most likely pose an even greater threat than the gnolls. I want you to proceed to the hive with caution. Cut down a good portion of the bugs and bring back their carapaces for further study.",
+    "name": "Zukk'ash Infestation",
+    "requires_level": 37,
+    "zone": "Feralas"
+}

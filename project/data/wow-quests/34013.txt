@@ -1,0 +1,8 @@
+{
+    "_id": "34013",
+    "added_in_patch": 6,
+    "description": "We had to escape Telmor with what few we could save.Someone disabled Leafshadow's cloaking field; I know not who, but I suspect it had to have been one of our own.We will retrieve our livelihoods in time, but we cannot risk losing our sacred artifacts.If you are able, bring Leafshadow, our town registry, and our prayerbook to safety.",
+    "name": "Never Forget",
+    "requires_level": 95,
+    "zone": "Talador"
+}

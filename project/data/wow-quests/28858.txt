@@ -1,0 +1,7 @@
+{
+    "_id": "28858",
+    "description": "Now here's an interesting one.  It says that members of the Horde should talk to Okrilla at Dreadmaul Hold.Hmph! I didn't even know that the Horde held Dreadmaul Hold!I guess this Okrilla requires help fighting some ogres and the Alliance. You'd think she'd already have her hands full with all the demons down there!The best way to Dreadmaul Hold is to cross the Great Sea, then to take the road south from the Swamp of Sorrows.You interested?",
+    "name": "Blasted Lands: The Other Side of the World",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

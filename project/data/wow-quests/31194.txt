@@ -1,0 +1,8 @@
+{
+    "_id": "31194",
+    "added_in_patch": 5,
+    "description": "The Slitherscale take orders from their leader, the Slitherscale Lizard-Lord. He can be found celebrating his victories on the southeastern corner of Windward Isle.If we can destroy this leader, we can deal their tribe a great blow.Without their lord, the Slitherscale will think twice before attacking the gentle cloud serpents of the east.",
+    "name": "Slitherscale Suppression",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

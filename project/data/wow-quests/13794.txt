@@ -1,0 +1,7 @@
+{
+    "_id": "13794",
+    "description": "I have asked my brothers of the Argent Crusade to work closely with those who rise to the rank of champion. Eadric the Pure, our brotherhood's grand champion, helps oversee training exercises for champions from all cities and helps them make their final preparations for tournament competition.Please go and introduce yourself to him. I know he'll be eager to meet you and work with you on your way to competing against Azeroth's greatest champions.",
+    "name": "Eadric the Pure",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

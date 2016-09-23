@@ -1,0 +1,7 @@
+{
+    "_id": "26729",
+    "description": "I arrived in Stranglethorn to study a feature known as the Altar of Naias, but made the unfortunate choice of denying Colonel Kurzen's advances, which earned me several years in that cage.  Now that I'm out, I figure I might as well continue with my original studies.The altar is on an island to the west, south of Zul'Kunda.  Gather some of the bracers from the island's water elementals.Oh, and you can use this device when you're finished.  No need to make you walk all the way back here.",
+    "name": "Water Elementals",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

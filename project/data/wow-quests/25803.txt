@@ -1,0 +1,8 @@
+{
+    "_id": "25803",
+    "description": "You thoroughly search this cluster of murloc hovels, and find no trace of the Menethil statuette.Perhaps one of the two nearby hovels to the north and northeast will have more clues.",
+    "name": "The Search Continues",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

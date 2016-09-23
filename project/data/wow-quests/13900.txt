@@ -1,0 +1,7 @@
+{
+    "_id": "13900",
+    "description": "The warlord said the horn of the ancients was being offered to Azshara above Nazj'vel.Perhaps it's not too late to save the ancient relic from being destroyed.",
+    "name": "The Offering to Azshara",
+    "requires_level": 17,
+    "zone": "Darkshore"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41192",
+    "added_in_patch": 7,
+    "description": "This new shop is shaping up quite nicely, I think. Still, there's so much left to organize.<name>, Lessah has requested your presence in Highmountain. Something about a moose?I'm not sure to what she's speaking of, but as soon as you have a chance, please go see her.",
+    "name": "The Right Path",
+    "requires_level": 110,
+    "zone": "Archaeology"
+}

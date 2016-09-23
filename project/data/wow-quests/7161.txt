@@ -1,0 +1,7 @@
+{
+    "_id": "7161",
+    "description": "Hail, <class>. It has been a long time since we have had the chance to answer the call of battle. The old feelings are slow to rise but once awakened, the blood does rush. The battle rage returns...All newcomers to the Valley must first complete the rite of battle.Deep within the Wildpaw gnoll cave is a banner of the Frostwolf. Venture forth and recover the banner. Return it to me and I shall grant you the Frostwolf initiate's insignia.",
+    "name": "Proving Grounds",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

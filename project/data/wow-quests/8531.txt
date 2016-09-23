@@ -1,0 +1,7 @@
+{
+    "_id": "8531",
+    "description": "Thank you for returning <name>. If you and your friends still have it in you, I need you to return to the Molten Core and continue your singed corestone collection efforts. What do you say?",
+    "name": "The Alliance Needs More Singed Corestones!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40337",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Flummoxed",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

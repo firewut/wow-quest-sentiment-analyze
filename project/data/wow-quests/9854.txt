@@ -1,0 +1,7 @@
+{
+    "_id": "9854",
+    "description": "Do you live for the hunt as I do, <class>?  Do you seek the quietude that comes as you stalk your prey?  Would you know what it is to honor the last heartbeats of your fallen quarry?  I will help you to achieve this.Nagrand is a lush land, full of life in the midst of this broken world.  Bring down a handful of the windrocs and then we will speak more.You can find them in many places nearby in all directions around our camp.",
+    "name": "Windroc Mastery",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

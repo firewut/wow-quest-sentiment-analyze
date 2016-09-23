@@ -1,0 +1,8 @@
+{
+    "_id": "38232",
+    "added_in_patch": 7,
+    "description": "Per your contract you will help me gather supplies for a perfectly harmless ritual.I need feathers, and horns. Lots of horns. See those shadowrunners, prowlers and heron over there in the Olivian Veil? They should have lots of both.Oh! And I need olives. Lots of olives. One for each finger.Minion! Let's ride!",
+    "name": "Minion! Kill Them!",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12086",
+    "description": "The man you seek went far to the east, to a place near the coast called Death's Stand, beyond Unu'pe.Be careful if you go in search of him, <name>.  He bore the mark of Karkut... he who watches over the dead.",
+    "name": "The Son of Karkut",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

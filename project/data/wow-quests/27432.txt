@@ -1,0 +1,7 @@
+{
+    "_id": "27432",
+    "description": "Can you believe that, after all the trouble we have in the Plaguelands... we have to worry about thieves too?  And not just normal thieves, troll thieves.And not just normal troll thieves.  Dead troll thieves!They're led by this big, dead troll named Zaeldarr the Outcast, and they come here at night and steal bodies from our graveyards, then take them back to their evil, dead troll hideout--the Undercroft to the southwest.Go there and take out Zaeldarr, <name>.  I'm sick to death of his mischief!",
+    "name": "Zaeldarr the Outcast",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

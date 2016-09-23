@@ -1,0 +1,9 @@
+{
+    "_id": "34406",
+    "added_in_patch": 6,
+    "description": "Not all of the Draenei miners made it out when the chaos erupted, <name>. Many of them are injured and still trapped inside the mine.Kaelynara's disruption has caused all hell to break loose. Arcane Wraiths are forming from the unleashed energy and attacking everything they see. The elementals that slumbered beneath the ground are emerging from the rocks frenzied and dangerous.Please find as many injured miners as you can and ensure that they return safely.",
+    "name": "Caught In The Chaos",
+    "requires_level": 95,
+    "side": "alliance",
+    "zone": "Talador"
+}

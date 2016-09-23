@@ -1,0 +1,8 @@
+{
+    "_id": "34656",
+    "added_in_patch": 6,
+    "description": "<Reshad begins hastily stuffing scrolls into his robes.>I thought I would have more time to prepare! There are powerful relics hidden out there in Skettis - if I leave without them, I may as well have died.The first is a pair of wingblades being held by an effigy near the front gate. You likely walked right past them on your way in.Another effigy on the east side of the ruins bears a white mask over its face.Bring those relics to me, and their secrets shall be yours.",
+    "name": "Hidden in Plain Sight",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

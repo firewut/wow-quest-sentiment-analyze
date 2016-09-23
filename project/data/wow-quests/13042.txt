@@ -1,0 +1,7 @@
+{
+    "_id": "13042",
+    "description": "Deep in the bowels of The Underhalls to the northeast, a mad scientist known as Dr. Terrible is up to something befitting his name.The doctor has been given dispensation by the Lich King to perform experiments upon the vargul -- the vrykul who fall in battle and are found unworthy, and then turned into Scourge.We must put an end to his work, but my auguries have been unable to find him. He does, however, have an assistant.Beat the information out of his apprentice, and then dispose of the body.",
+    "name": "Deep in the Bowels of The Underhalls",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

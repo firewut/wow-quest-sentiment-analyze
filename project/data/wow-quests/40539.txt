@@ -1,0 +1,8 @@
+{
+    "_id": "40539",
+    "added_in_patch": 7,
+    "description": "Word on the street is, yer a reliable resource for getting things done, let's say, discreetly.So here's the job. I need a new set of lock picking tools. But not just any old lock picks will do.I need something special, something that won't break if ye apply too much pressure.I'm thinking a set of diamond lock picks might do the trick. That would be lock picks made out of diamond, not the ones shaped like a diamond.Look, ye in or what?",
+    "name": "Hidden Intentions",
+    "requires_level": 104,
+    "zone": "Jewelcrafting"
+}

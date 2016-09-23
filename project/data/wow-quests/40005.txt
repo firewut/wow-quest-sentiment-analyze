@@ -1,0 +1,8 @@
+{
+    "_id": "40005",
+    "added_in_patch": 7,
+    "description": "It would seem that the portals we destroyed down here were not the only ones. Demons still pour in from the top of the Gates of Valor's edifice, summoned by the God-King himself!\r\n\r\nI cannot face Skovald alone. Come, champion, let us take the battle to him and end this threat!\r\n\r\nFor Stormheim!",
+    "name": "Stormheim's Salvation",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

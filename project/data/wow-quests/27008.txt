@@ -1,0 +1,8 @@
+{
+    "_id": "27008",
+    "description": "I'm quite adept at riding my flying carpet. Unfortunately, when I tried to investigate what the cultists had uncovered up at the Masters' Gate, they nearly shot me down.You look as if you might be skilled with the flying reins as well. Would you mind flying up there to the southwest to see what they've unearthed?",
+    "name": "Fly Over",
+    "requires_level": 83,
+    "side": "horde",
+    "zone": "Deepholm"
+}

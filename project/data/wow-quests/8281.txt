@@ -1,0 +1,7 @@
+{
+    "_id": "8281",
+    "description": "Your performance has been truly exemplary so far, <name>.  Our supply lines are not completely safe yet, however.  In the absence of dredge strikers, their larger southern cousins will surely move in to take their place in the north.You'll have to kill quite a few dredge crushers to keep them at bay, but we cannot leave the safety of our supply lines to chance.  ",
+    "name": "Stepping Up Security",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

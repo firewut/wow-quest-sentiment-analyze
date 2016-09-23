@@ -1,0 +1,7 @@
+{
+    "_id": "27978",
+    "description": "See that hill just beyond our base camp?  That's Largo's Overlook and it's not a fun place to setup camp next to.  We have been dealing with those spirits and spectres ever since we setup base camp.Can you head up there and let them know we don't plan on leaving anytime soon?  A few good kills on their ranks should put them in line.Thanks for your help on this, <name>.",
+    "name": "Ghostbuster",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

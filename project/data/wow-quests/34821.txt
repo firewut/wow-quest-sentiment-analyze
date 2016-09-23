@@ -1,0 +1,7 @@
+{
+    "_id": "34821",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Khadgar Summon",
+    "zone": "Talador"
+}

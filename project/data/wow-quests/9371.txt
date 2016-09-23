@@ -1,0 +1,8 @@
+{
+    "_id": "9371",
+    "description": "<name>, Botanist Taerix is in need of your assistance. You'll find her with her apprentices to the west, outside the ship.",
+    "name": "Botanist Taerix",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Ammen Vale"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "9899",
+    "description": "Someone needs to find a way to make Reavij come to his senses! He's ignoring his duty and instead, he's devoting all his energy to getting my attention. I've tried ignoring him and telling him to stop. Nothing seems to work.Until he gets over this, I'm left cleaning up after him. He was supposed to have dealt with Sporewing, but I'll bet the monster is alive and well. If you have time, would you mind going to the western part of the Dead Mire and killing the bat? I'll deal with Reavij in the meantime.",
+    "name": "A Job Undone",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

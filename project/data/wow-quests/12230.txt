@@ -1,0 +1,8 @@
+{
+    "_id": "12230",
+    "description": "I'm tasked with the destruction of the Scarlet Onslaught's ballistae. Unfortunately, the apothecaries and I are at odds on the use of our resources, so I've nothing to destroy them with!To the northeast are the Carrion Fields. The Scourge siegesmiths there at their forge and meat wagons are demolition masters.Luckily for us, they also leave their bombs lying about. I want you to retrieve them for me, off of the ground or the siegesmiths, I don't care which.",
+    "name": "Stealing from the Siegesmiths",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

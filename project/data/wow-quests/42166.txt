@@ -1,0 +1,8 @@
+{
+    "_id": "42166",
+    "added_in_patch": 7,
+    "description": "We don't know much about the Empyrean Society's activities here, but now that you appear to be a new recruit you should be able to ask some questions and take a look around for the strange magic Archmage Vargoth detected. \r\n\r\nLet's meet up at the rotunda on the hill.",
+    "name": "What Is Going On Here?",
+    "requires_level": 103,
+    "zone": "Mage Campaign"
+}

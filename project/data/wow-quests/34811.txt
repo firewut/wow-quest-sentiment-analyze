@@ -1,0 +1,8 @@
+{
+    "_id": "34811",
+    "added_in_patch": 6,
+    "description": "The excavation team is on strike!Foreman Thazwix and his cronies think they can squeeze the Steamwheedle Preservation Society for some extra dough by refusing to work.What I need is a scab, a strikebreaker; someone to put some pressure on them by doing the job they refuse to do!Go down into the gorge, dig up some antiquities for me, and I'll pay you what I would have payed those lazy numbskulls!",
+    "name": "Good Help is Hard to Find",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

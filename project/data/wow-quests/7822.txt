@@ -1,0 +1,7 @@
+{
+    "_id": "7822",
+    "description": "",
+    "name": "A Donation of Mageweave",
+    "requires_level": 40,
+    "zone": "Thunder Bluff"
+}

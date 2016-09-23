@@ -1,0 +1,8 @@
+{
+    "_id": "30477",
+    "added_in_patch": 5,
+    "description": "Haohan Mudclaw is the big boss of the Tillers union and the richest guy in the Valley! He's been nice to let me stay here, so I want to do something nice for him.He likes expensive stuff, like ruby shards, but I don't have a lot of money, so I need to get him something else.I know! I've seen a great big fish in Cattail Lake! We should get one of its teeth as a gift!",
+    "name": "A Gift For Haohan",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

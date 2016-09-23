@@ -1,0 +1,7 @@
+{
+    "_id": "7001",
+    "description": "The war in the valley has taken its toll on our soldiers. We must revitalize our forces!If we can fill up the stables, the Wolf Riders will once more be able to ride out into the field of battle.Take this muzzle and track down the frostwolves that inhabit the nearby forest. Once you find a wolf, use the muzzle to tame the beast. Bring the tamed beast back to me so that I may place it in the stable.When we have enough wolves stabled, the Wolf Riders will rejoin their patrol on our front lines.",
+    "name": "Empty Stables",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

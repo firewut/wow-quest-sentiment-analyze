@@ -1,0 +1,8 @@
+{
+    "_id": "25127",
+    "description": "I must send you back into the fields again, <class>. You will find large numbers of scorpids northwest of here. Bring me eight of their tails.The antidote for their sting is actually made from venom extracted from their stingers. We keep large quantities of antidote for scorpid venom on hand to heal young bloods just like you...But I'm sure you won't be needing any of that, will you?",
+    "name": "Sting of the Scorpid",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Valley of Trials"
+}

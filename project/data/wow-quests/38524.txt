@@ -1,0 +1,8 @@
+{
+    "_id": "38524",
+    "added_in_patch": 7,
+    "description": "Word has been circulating in smithing circles about a pair of Illidari blacksmiths that have been doing exciting work out on the demon-infested front lines of Suramar. I'd follow up myself, but anything described as \"demon-infested\" is a little too exotic for my tastes.I just make the armor. I prefer not to wear it.You, though... you could follow up on this tip. Be on the lookout for Nal'ryssa. From what I hear, she's a hell of a smith.",
+    "name": "Felsmith Nal'ryssa",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

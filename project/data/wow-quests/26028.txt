@@ -1,0 +1,8 @@
+{
+    "_id": "26028",
+    "description": "Now Mr. D just needs an angel to help him navigate. Will you be that angel,  mister? With you helping we can go out into the crag and kill bunches and bunches of Alliance! Waddya say? Come on,  mister! PRETTY PLEASE WITH SUGAR ON TOP?If we kill enough Alliance Mr. Krom'gar will buy us all ice cream!",
+    "name": "Mr. D's Wild Ride",
+    "requires_level": 24,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

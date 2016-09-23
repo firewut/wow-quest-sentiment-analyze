@@ -1,0 +1,8 @@
+{
+    "_id": "41860",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Dealing with Satyrs",
+    "requires_level": 110,
+    "zone": "Val'sharah"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38436",
+    "description": "Our landing was unopposed. Why are these docks all but abandoned?The rangari scouts up ahead report trouble. Bleeding Hollow scavengers are looting some abandoned buildings to the northwest, and an encampment of warlock cultists lurk near the Dark Portal. Let's find out what we can and meet up with our scouts.",
+    "name": "Obstacle Course",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

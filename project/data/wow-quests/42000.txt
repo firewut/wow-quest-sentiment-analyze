@@ -1,0 +1,8 @@
+{
+    "_id": "42000",
+    "added_in_patch": 7,
+    "description": "You may be familiar with Orik Trueheart. He has devoted his time after the Northrend campaign to learning more about Tyr. Orik has evidence of a powerful shield crafted by Tyr long ago. With the help of the Sunwalkers, we may finally be able to seek it out.Please speak to him immediately.",
+    "name": "Seeker of Truth",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

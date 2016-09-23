@@ -1,0 +1,7 @@
+{
+    "_id": "11039",
+    "description": "Some time ago, Voren'thal dispatched a small team to Netherstorm to investigate the activities of Kael'thas. Our leader has the utmost confidence in Spymaster Thalodien and his compatriots, and has decided to honor his request for reinforcements.Thalodien's report was brief, but clear that he's encountered something of great importance. Report to him at Area 52 and assist him in any way possible, <name>.",
+    "name": "Report to Spymaster Thalodien",
+    "requires_level": 67,
+    "zone": "Shattrath City"
+}

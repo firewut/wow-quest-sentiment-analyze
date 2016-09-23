@@ -1,0 +1,8 @@
+{
+    "_id": "38525",
+    "added_in_patch": 7,
+    "description": "You're a blacksmith?<The elf looks down at your hammer.>Still working in leystone, are you? I might be able to help you out.Alliances out here are hard-won. You've got a pretty face, but that's no guarantee that you aren't working for the demons. I can't afford to trust you yet.Don't come back until you're caked in demon's blood. Then we'll talk smithing.",
+    "name": "Part of the Team",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

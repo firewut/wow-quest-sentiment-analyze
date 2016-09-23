@@ -1,0 +1,7 @@
+{
+    "_id": "25011",
+    "description": "There isn't much more glory for you here on the Bulwark, <name>.  You've done enough already.  There may, however, be further adventures waiting in Silverpine Forest.Speak with my bat man, Timothy Cunningham.  He'll give you a ride to Brill, free of charge.",
+    "name": "To Bigger and Better Things",
+    "requires_level": 6,
+    "zone": "Tirisfal Glades"
+}

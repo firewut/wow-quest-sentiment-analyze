@@ -1,0 +1,7 @@
+{
+    "_id": "24948",
+    "description": "We'll never be able to re-secure the fortress walls so long as Rageroar and his goons have access to artillery. I need you to fight your way across that chasm and take out his big guns.Orcs season their heavy machinery with coal tar, which makes them flammable. Take my torch and burn any catapults you see north of Northwatch.Then, torch those big blade-throwers in Rageroar's base camp! Those things have killed enough of our men. ",
+    "name": "Lifting the Siege",
+    "requires_level": 28,
+    "zone": "Southern Barrens"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28029",
+    "description": "I'm not sure if ye've noticed, but my tower's much taller than any o' the other towers here around the Gorge.  Some dwarves pride themselves at how deep they can dig, but not me.  Sometimes I think I shoulda been born a Wildhammer.I still don't like the sight o' those other towers, though.  Reachin' up like that, ticklin' my tower's feet.  Here, take this torch, an' use it on the braziers atop those other towers.  They'll be sorry they ever built 'em to begin with.",
+    "name": "Set Them Ablaze!",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

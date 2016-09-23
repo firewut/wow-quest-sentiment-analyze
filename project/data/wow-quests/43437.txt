@@ -1,0 +1,8 @@
+{
+    "_id": "43437",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Thane Irglov",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

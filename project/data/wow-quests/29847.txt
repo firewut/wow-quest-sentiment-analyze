@@ -1,0 +1,7 @@
+{
+    "_id": "29847",
+    "description": "Just beyond this cave lies Ravenholdt Manor. You need to get inside without being seen!<Mostrasz places an enchantment on you.>There - now I'll be able to keep an eye on you and communicate as you venture into the compound. Now sneak into that manor, locate the egg, and don't get caught...",
+    "name": "To Catch a Thief",
+    "requires_level": 85,
+    "zone": "Rogue"
+}

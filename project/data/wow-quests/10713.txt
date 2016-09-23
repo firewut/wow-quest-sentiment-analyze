@@ -1,0 +1,7 @@
+{
+    "_id": "10713",
+    "description": "We will not stand idly by while they decimate the Ruuan Weald around us.  Our first priority must be to the trees.<Class>, I want you to go back out into the Weald and deliver a very different message for us.  I want you to slay every one of their hewers that you come into contact with!If they will not listen to reason, perhaps they will listen to a more assertive method of persuasion!",
+    "name": "...and a Time for Action",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

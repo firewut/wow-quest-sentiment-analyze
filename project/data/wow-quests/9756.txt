@@ -1,0 +1,7 @@
+{
+    "_id": "9756",
+    "description": "Our attempts at interrogation have failed miserably, <name>. Torture is - of course - out of the question. What we need is a <race> on the inside.I can cast a spell upon you that would make you appear blood elf and adjust your language. Through subterfuge, we may be able to get the information we need out of the captured agent.Under this guise, I want you to get whatever information you can out of the prisoner.And <name>, do not leave Blood Watch while disguised as the spell will fail.",
+    "name": "What We Don't Know...",
+    "requires_level": 18,
+    "zone": "Bloodmyst Isle"
+}

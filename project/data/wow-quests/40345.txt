@@ -1,0 +1,8 @@
+{
+    "_id": "40345",
+    "added_in_patch": 7,
+    "description": "Why you come back already? Have to wait until jobs are done or I no let you through!\r\n\r\nGo back to Throne of Ordering Around and make sure they finish!",
+    "name": "Burn the Candle at Both Ends",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

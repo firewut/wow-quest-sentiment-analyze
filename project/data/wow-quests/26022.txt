@@ -1,0 +1,7 @@
+{
+    "_id": "26022",
+    "description": "Be prepared, <name>. You will cast the first blood upon this land for us.The Syndicate, as they call themselves, are cowardly humans who betray even their own kind. Their isolation will make them easy prey.Travel north, slay any Syndicate members you find, and claim Northfold Manor in the name of the Forsaken. Bring me the Bloodstone Amulets they wear as proof of your conquest. ",
+    "name": "First Blood",
+    "requires_level": 25,
+    "zone": "Arathi Highlands"
+}

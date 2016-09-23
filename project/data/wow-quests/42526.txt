@@ -1,0 +1,8 @@
+{
+    "_id": "42526",
+    "added_in_patch": 7,
+    "description": "We are very fortunate to have come across Survivalist Bahn. He spent his younger years living off the land in Pandaria, relying on the native flora and fauna to survive.His firsthand experience with building from limited resources could really help shape Trueshot Lodge into something great.Speak to him now and see what he can do for us.",
+    "name": "Tech It Up A Notch",
+    "requires_level": 101,
+    "zone": "Hunter Campaign"
+}

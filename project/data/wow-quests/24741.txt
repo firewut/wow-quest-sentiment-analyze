@@ -1,0 +1,8 @@
+{
+    "_id": "24741",
+    "description": "Hobart thinks he's going to feed us on those tiny clucker eggs? Bah! We're going to get some real eggs!I've already set up some traps on the Raptor Rise up the path to the east. Take this bunch of wild clucker eggs and lay them in the traps. The spiny raptors will go right after the clucker eggs, and then you'll get to trade up to their larger eggs.Genius!",
+    "name": "Trading Up",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

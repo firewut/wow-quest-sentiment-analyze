@@ -1,0 +1,9 @@
+{
+    "_id": "37786",
+    "added_in_patch": 6.1,
+    "description": "The Kirin Tor created an outpost in Gorgrond with a portal to Stormwind to facilitate quick reinforcements in the assault on the Blackrock Foundry. In their infinite wisdom they built it in the heart of the Everbloom, home to the botani and the mightiest of the genesaur - Yalnu.The outpost has already been overrun and it is only a matter of time before the overgrowth spreads to Stormwind... and with it the whole of Azeroth.",
+    "name": "The Everbloom",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "The Everbloom"
+}

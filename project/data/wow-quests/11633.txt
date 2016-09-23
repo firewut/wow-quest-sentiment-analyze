@@ -1,0 +1,7 @@
+{
+    "_id": "11633",
+    "description": "Sage Aeire has finished the shroud. Take it with you and travel to the Temple City of En'kilah. Don the cloak within the city's bounds to hide yourself from most of the Scourge there. This will be our best opportunity to gather information about the enemy's fortifications and leaders.While wearing the cloak, scout the three large spires on the grounds of the city. While the shroud will shield you from most of the Scourge, the En'kilah abominations will be able to find you if you get too close.",
+    "name": "Blending In",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

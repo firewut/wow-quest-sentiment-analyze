@@ -1,0 +1,7 @@
+{
+    "_id": "29144",
+    "description": "Greetings, <class>!  Are you enjoying Hallow's End?  It seems that in response to our stink bombing the Undercity, the Horde has decided to stink bomb our city.  The stink bombs they drop are more potent than the ones used in the past.  The power of pine won't be enough.  We will need something with a little more power.  Use this Arcane Cleanser to remove the stink bombs from the city.",
+    "name": "Clean Up in Stormwind",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

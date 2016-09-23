@@ -1,0 +1,9 @@
+{
+    "_id": "35809",
+    "added_in_patch": 6,
+    "description": "Defeating Dessicus has yielded you a trophy worthy of acclaim.Take this to Maraad at Highpass.",
+    "name": "Trophy of Glory: Dessicus",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

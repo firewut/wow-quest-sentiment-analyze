@@ -1,0 +1,8 @@
+{
+    "_id": "11",
+    "description": "Gnolls, brutish creatures with no decent business in these lands, have been seen along the borders of Elwynn Forest.  A large pack of them, many more than we can handle alone, have infested the woods south of the guard tower yonder.  Another group has infested the areas near Stone Cairn Lake to the east.The Stormwind Army will commend whomever helps kill them.  Bring me their painted gnoll armbands as proof of your deed.",
+    "name": "Riverpaw Gnoll Bounty",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Elwynn Forest"
+}

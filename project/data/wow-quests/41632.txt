@@ -1,0 +1,8 @@
+{
+    "_id": "41632",
+    "added_in_patch": 7,
+    "description": "You have done a great thing for the blue dragons today, <name>, as well as for my own peace of mind.\r\n\r\nNow, armed with Light's Wrath, I only ask that you fulfill your original goal, and take the fight to the Legion.\r\n\r\nI believe Alonsus Faol awaits your return. Safe travels, friend.",
+    "name": "A Gift of Time",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

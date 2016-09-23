@@ -1,0 +1,8 @@
+{
+    "_id": "26361",
+    "description": "It was the Captain who insisted his new engines use an induction samophlange.Those things hadn't even been invented yet!I tasked Smoot with creating one based on some stolen Venture Company schematics, and he's finally built a working model.Now that he's got his samophlange, he's drunk with power. He's running all over town with it like a goblin possessed.Smack Smoot and snag my samophlange, <name>.",
+    "name": "Smoot's Samophlange",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Azshara"
+}

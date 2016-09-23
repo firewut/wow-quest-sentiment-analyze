@@ -1,0 +1,8 @@
+{
+    "_id": "32208",
+    "added_in_patch": 5.2,
+    "description": "The mines north of here are being used to extract Ghost Iron ore and energize it with lightning energy.\r\n\r\nWe need to destroy the drills they use to extract the ore. They are impervious to normal attack, but can be overloaded using the proper methods.\r\n\r\nOh - and while you're there, take out whoever is running the operation.",
+    "name": "Maximum Capacitor",
+    "requires_level": 90,
+    "zone": "Quests"
+}

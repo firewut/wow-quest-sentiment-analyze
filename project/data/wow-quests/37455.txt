@@ -1,0 +1,8 @@
+{
+    "_id": "37455",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Sealing Fate: Immense Fortune of Gold",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

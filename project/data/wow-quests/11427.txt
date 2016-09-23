@@ -1,0 +1,7 @@
+{
+    "_id": "11427",
+    "description": "Do you see those vrykul buildings on the bluffs to the northeast? The vrykul call that place Nifflevar. It's where most of their harpoon attacks on our frigates originate.Well guess what? The time for payback has come, <name>. I need you to take this harpoon control mechanism and meet up with Lieutenant Icehammer, who is hiding out in a vrykul building northwest of Nifflevar.When you're ready I'll place you on the back of one of our gryphons and zip you right to him! \r\n",
+    "name": "Meet Lieutenant Icehammer...",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

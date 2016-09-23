@@ -1,0 +1,7 @@
+{
+    "_id": "27017",
+    "description": "It's funny the things you remember.  I spent 16 hours a day working the fields, and every seventh day I'd head into bustling Andorhal to sell what I'd grown.  It was a tough life, but we did alright.But I barely remember any of that.  When I think back to those days, I think about Gloria's smile, or Andrea waving from the window whenever I'd look up from the plow.The farm's just a bit to the east, but I'm not sure I'm ready to go back, <name>.  I'd just like to make sure I hold on to these memories.",
+    "name": "Memories from a Lost Past",
+    "requires_level": 36,
+    "zone": "Western Plaguelands"
+}

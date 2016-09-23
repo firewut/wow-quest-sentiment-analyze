@@ -1,0 +1,8 @@
+{
+    "_id": "30479",
+    "added_in_patch": 5,
+    "description": "Have you seen Gina Mudclaw, the market girl? She has it all - looks, brains, and nice big tummy. Could you deliver a gift for me?I wanted to pick some orchids that grow on top of the big hills to the west, but I can't climb that high. Could you pick a few and bring them to Gina?Oh, and when you see her... tell her I said \"hi\".",
+    "name": "A Gift For Gina",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

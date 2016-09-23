@@ -1,0 +1,7 @@
+{
+    "_id": "26245",
+    "description": "The Archstone was being transported inside a flying Horde gunship called the Storm's Fury.The airship crashed south of here and our scrying has revealed the Archstone's no longer on it.Search the ship for clues related to what might've happened.",
+    "name": "Gunship Down",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25499",
+    "description": "Before we go any further, we're going to have to get you into shape.Devotion to the Old Gods is not going to save you when some emerald dragon comes chasing after you.  You need to be fleet of foot, if you catch my drift.Enough said.  We'll summon your trainer... your job is to run away from him without leaving this camp.Go!",
+    "name": "Agility Training: Run Like Hell!",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "38191",
+    "added_in_patch": 6.1,
+    "description": "Iron Horde war machines are being shipped onto battlefields by the dozens, and our forces are struggling to hold their ground. Most of these machines seem to be originating from the Iron Siegeworks in eastern Frostfire Ridge.\r\n\r\nA strategic attack to disrupt and dismantle the Iron Horde at the siegeworks could be just what we need to turn the tide of the war.",
+    "name": "Missive: Assault on the Iron Siegeworks",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

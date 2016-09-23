@@ -1,0 +1,8 @@
+{
+    "_id": "24524",
+    "description": "Your cleansing of the Winterhoof and Thunderhorn wells is spoken among the spirits, young <name>.  The Wildmane Totem is made, and your last task lies ahead.The Wildmane Water Well lies north of Thunder Bluff.  Perform the ritual!  Heal the land of the Grimtotem's poisons!  Let clean water flow once again!",
+    "name": "Wildmane Cleansing",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Mulgore"
+}

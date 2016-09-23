@@ -1,0 +1,7 @@
+{
+    "_id": "27813",
+    "description": "The Twilight sacked this town, killin' most of the Dragonmaw that lived in it. A few survived though, and they're not right keen on us takin' liberties with their supplies.Not that that matters much.Well, I'm not right keen on them attackin' my boys. Kill'm off, chase'm out - I don't care, just get'm gone.",
+    "name": "Death Worthy of a Dragonmaw",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

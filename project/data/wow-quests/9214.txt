@@ -1,0 +1,7 @@
+{
+    "_id": "9214",
+    "description": "<Class>, I want you to kill as many Shadowpine trolls as you can. We need their numbers greatly reduced before we can shift our attention toward Deatholme. And while you're at it, we might as well kill two birds with one stone, so bring me back a load of their weapons. Better that they not go to waste, and we can use them in the fight against the Scourge.Hit their camps hard to the east and the south at Zeb'Tela and Zeb'Nowa.",
+    "name": "Shadowpine Weaponry",
+    "requires_level": 15,
+    "zone": "Ghostlands"
+}

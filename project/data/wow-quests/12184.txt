@@ -1,0 +1,7 @@
+{
+    "_id": "12184",
+    "description": "Now that we've got the uniform, we've got to get enough information to complete your camouflage.Raegar brought along this camera to document the team's finds, but I have a different use in mind. I want you to take it with you to Dun Argol and use it to capture the images of iron dwarves.Of course, your models aren't going to be a cooperative lot, so you may have to, err... subdue them first. Bring back the camera and the images when you're done.",
+    "name": "Cultivating an Image",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

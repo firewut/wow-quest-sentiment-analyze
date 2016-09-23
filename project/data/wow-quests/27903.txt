@@ -1,0 +1,7 @@
+{
+    "_id": "27903",
+    "description": "This guy just won't go down!You're doin' great, kid. Only one thing left to do.According to my research, there should be a titan statue down below. Use the device to activate it, then break it down.If my theory is correct, that statue holds the key to reactivating this obelisk.",
+    "name": "Ignition",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

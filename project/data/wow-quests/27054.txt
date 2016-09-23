@@ -1,0 +1,7 @@
+{
+    "_id": "27054",
+    "description": "The Cult of the Damned maintains a small camp to the east, Malicia Outpost, which they use for field training outside of the Scholomance.  We may have allowed them to proceed unchecked with this training for too long.If cultists are truly using this plague to inoculate the wildlife, then Malicia Outpost must be where the inoculation is occurring.Instructor Malicia runs the outpost.  Find her, slay her, and find out who she's taking orders from.",
+    "name": "Desperate Acts",
+    "requires_level": 36,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11388",
+    "description": "Today's client seeks something truly unique.It is said that Harbinger Skyriss is a servant of the Old Gods. It is also said that he carries a large scroll that contains their instructions for his domination of life in the universe on their behalf.My current buyer wishes to get  his  hands on that scroll, nevermind that  he  won't be able to read the language upon it.Travel to Tempest Keep's Arcatraz and get it for me, will you, <class>?",
+    "name": "Wanted: The Scroll of Skyriss",
+    "requires_level": 70,
+    "zone": "Quests"
+}

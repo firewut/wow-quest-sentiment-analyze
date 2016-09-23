@@ -1,0 +1,8 @@
+{
+    "_id": "26139",
+    "description": "You should go on ahead and warn the other side of the span about this, <name>.Over the bridge to the north you'll find Refuge Pointe, the stronghold of the Alliance in Arathi. Tell Captain Nials to keep an eye out for these Twilight's Hammer curs.",
+    "name": "Into Arathi",
+    "requires_level": 23,
+    "side": "alliance",
+    "zone": "Arathi Highlands"
+}

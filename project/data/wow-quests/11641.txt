@@ -1,0 +1,7 @@
+{
+    "_id": "11641",
+    "description": "From the beginning, I've counseled that Chieftain Wintergale should assemble our mighty warriors and attack our enemy at their base. My advice has fallen on deaf ears and he has proven that he'd rather tip-toe around according to Sage Aeire's plans.I'll wait no longer. If Chieftain Wintergale is too cowardly to send our warriors into battle, perhaps you'd be willing to show him that a direct attack can succeed. Storm the Temple City of En'kilah and slay all in your path, <name>.",
+    "name": "A Courageous Strike",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

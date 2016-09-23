@@ -1,0 +1,7 @@
+{
+    "_id": "11302",
+    "description": "When we first scouted locations for the fort, we encountered hostile creatures at two of the glades here in the north. When we passed the snow-covered one directly south of the town, the dryads there watched us with interest, but did not attack.We were tired and worn down by the weather. They could've easily killed several of our men, but they didn't.Perhaps, in reaching out to them, we might discover unexpected allies. Are you willing to travel to the Frozen Glade and make contact with them?",
+    "name": "The Enigmatic Frost Nymphs",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

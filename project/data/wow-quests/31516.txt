@@ -1,0 +1,8 @@
+{
+    "_id": "31516",
+    "added_in_patch": 5,
+    "description": "<You take the second anointed blade in hand and feel the power of both swords course through you.><There is but one thing left to do. As the mysterious, hooded woman explained, to put an end to the Scarlet Crusade, you must thrust both blades into the corpse of High Inquisitor Whitemane.>",
+    "name": "Unto Dust Thou Shalt Return",
+    "requires_level": 90,
+    "zone": "Scarlet Monastery"
+}

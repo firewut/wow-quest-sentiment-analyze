@@ -1,0 +1,9 @@
+{
+    "_id": "35205",
+    "added_in_patch": 6,
+    "description": "You don't understand. Anythin' these plant people don't infest they fatten up and then turn inta mulch.I say we take out their food source.These botani got a few corpses lying around that I saw. Might be a good idea to burn those bodies.Let's find out if they can infest ash.",
+    "name": "Burn the Bodies",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

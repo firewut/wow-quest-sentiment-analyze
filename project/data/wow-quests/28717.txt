@@ -1,0 +1,8 @@
+{
+    "_id": "28717",
+    "description": "All able-bodied members of the Horde are hereby ordered to report to High Overlord Saurfang in Grommash Hold.High Overlord Saurfang requires your help to prepare for the glorious assault on the Twilight Highlands and our dual enemies, the Alliance and Twilight's Hammer.Meet with him in Grommash Hold at the center of Orgrimmar's Valley of Strength.Destiny calls!",
+    "name": "Warchief's Command: Twilight Highlands!",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

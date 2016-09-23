@@ -1,0 +1,7 @@
+{
+    "_id": "26084",
+    "description": "You have served us well here, <name>. Now that we've made our mark, the next phase of our conquest will occur over months rather than minutes.There is much work yet to be done, and I will spare you the tedium of waiting for our fortifications to trickle in. Travel to the east, to Hammerfall. The orcs there will no doubt have use of your aid.",
+    "name": "Hammerfall",
+    "requires_level": 25,
+    "zone": "Arathi Highlands"
+}

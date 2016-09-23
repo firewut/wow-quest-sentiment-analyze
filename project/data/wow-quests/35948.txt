@@ -1,0 +1,9 @@
+{
+    "_id": "35948",
+    "added_in_patch": 6,
+    "description": "This tooth is proof of your strength at slaying goren and your gladiator friend has born witness!Take the tooth back to Limbflayer and claim your accolades!",
+    "name": "Proof of Strength: Goren Tooth",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

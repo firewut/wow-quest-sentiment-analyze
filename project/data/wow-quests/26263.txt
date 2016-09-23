@@ -1,0 +1,7 @@
+{
+    "_id": "26263",
+    "description": "We've been trying to take out the commander of the Wildhammer encroaching on our lands, but we've had no luck.Thornar Thunderclash sits in the safety of his command post, his voice booming across the battlefield to rally the dwarves. We're thinking he needs to be quieted.Cut Thornar down and we can clean up the rest of this skirmish with no problem.",
+    "name": "Thornar Thunderclash",
+    "requires_level": 30,
+    "zone": "The Hinterlands"
+}

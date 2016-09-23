@@ -1,0 +1,7 @@
+{
+    "_id": "26034",
+    "description": "This was no reckless attack, but rather a carefully orchestrated strike against the heart of the Red Dragonflight.Zarithrian, on the bluff over there, is overseeing the assault, but the true leader of this force is a brash and powerful Twilight dragon named Halion. Not since Dargonax has a full-grown spawn of Sinestra's twisted experiments been seen.Slay him, <name>, and then when the invasion has been fully repelled, report to Krasus regarding all you have seen here.",
+    "name": "The Twilight Destroyer",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "31781",
+    "added_in_patch": 5,
+    "description": "Think you can take me again?  I'm always up for challenge!",
+    "name": "Lindsay",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Battle Pets"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43399",
+    "added_in_patch": 7,
+    "description": "We've all worked so hard turning this temple into something all priests can be proud of, it would be a shame to see it fall to the Burning Legion.We must strengthen our defenses in preparation for the attack. With the right resources, we can make the temple a nearly impenetrable fortress.",
+    "name": "Fortifying the Temple",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

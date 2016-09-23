@@ -1,0 +1,8 @@
+{
+    "_id": "39910",
+    "added_in_patch": 7,
+    "description": "In order to grant you my mark, <class>, I must first be made strong enough to come to your aid should you need it.Within the ruins of Nar'thalas, my idols sit dormant. As I've said, I'm not strong enough to get them myself.But you are strong, I can sense it. Strong enough to take on those honor-less naga who plague my home.Find my idols and return them to me. Do this and I will grant you my mark.",
+    "name": "The Druid's Debt",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

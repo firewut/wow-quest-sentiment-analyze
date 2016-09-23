@@ -1,0 +1,7 @@
+{
+    "_id": "29236",
+    "description": "Bwemba...  Is that you?Your contact was here.  He was eager to get to the next location and warn them.  And really, who could blame him?  I gave him use of a wyvern to reach the goblins of Hardwrench Hideaway, in the Cape of Stranglethorn.I will give you use of one of my wyverns to reach Hardwrench.Talk to me when you are ready to go, <name>.",
+    "name": "To Hardwrench Hideaway",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

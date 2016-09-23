@@ -1,0 +1,8 @@
+{
+    "_id": "31481",
+    "added_in_patch": 5,
+    "description": "I've picked up a few motes of pandaren wisdom during my time here. I particularly enjoy this one:\"The timid feel fear before trouble starts; the cowards feel fear as trouble happens. The bravest among us feel fear only after the troubles have been taken care of.\"Is that true? Let's find out.The Sha of Fear has fled into the Terrace of Endless Spring. Pursue it there, defeat it, and rip out its spirit - presuming it has one.Your bravery will be handsomely rewarded.",
+    "name": "Fear Itself",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "33868",
+    "added_in_patch": 6,
+    "description": "You have arrived in Frostfire Ridge. Farseer Drek'Thar can guide you from here.",
+    "name": "The Home of the Frostwolves",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

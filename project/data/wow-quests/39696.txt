@@ -1,0 +1,8 @@
+{
+    "_id": "39696",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Rise, Champions",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

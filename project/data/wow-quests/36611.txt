@@ -1,0 +1,8 @@
+{
+    "_id": "36611",
+    "added_in_patch": 6,
+    "description": "If you want me to help you permanently, you have to show me a few of these big Draenor catches first.  Head out into the wild and bring me back the biggest fish you can find from all the surrounding areas.\r\n\r\nI made this custom lure for you to use, please take care of it, it's never let me down!",
+    "name": "A True Draenor Angler",
+    "requires_level": 94,
+    "zone": "Fishing"
+}

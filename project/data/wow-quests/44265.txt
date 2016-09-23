@@ -1,0 +1,8 @@
+{
+    "_id": "44265",
+    "added_in_patch": 7,
+    "description": "Our scouts found that not only have the drogbar obtained a Titan relic, but also they've amassed an army large enough to threaten the overworld.\r\n\r\nDelve underground and stop the Underking before he can unleash the might of his drogbar army.",
+    "name": "Neltharion's Lair",
+    "requires_level": 110,
+    "zone": "Neltharion's Lair"
+}

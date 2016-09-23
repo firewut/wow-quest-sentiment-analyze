@@ -1,0 +1,8 @@
+{
+    "_id": "28527",
+    "description": "All able-bodied members of the Horde are hereby ordered to report to Windcaller Proudhorn at Cenarion Hold. You are to aid our Cenarion allies in their battle to turn back Twilight's Hammer. Cho'Gall's minions must not be allowed to dominate Silithus!You can reach Silithus by taking the northwestern road out of Un'Goro Crater.Destiny calls!",
+    "name": "Warchief's Command: Silithus!",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Silithus"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "1006",
+    "description": "",
+    "name": "What Lies Beyond",
+    "requires_level": 10,
+    "zone": "Quests"
+}

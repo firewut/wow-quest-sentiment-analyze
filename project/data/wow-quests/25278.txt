@@ -1,0 +1,8 @@
+{
+    "_id": "25278",
+    "description": "Thanks to your efforts, we may soon be able to return this shrine to its former glory. But first we've got to secure this valley. South of here, a group of ogres led by Gar'gol has set up camp in a stinking hovel.I wouldn't characterize Gar'gol as a 'threat' so much as an enormous fleshy obstacle thrown into our path to distract us from the real danger. Nonetheless, he and his goons will have to be dealt with.Kill Gar'gol's minions in Goldrinn's name!",
+    "name": "Cleaning House",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Mount Hyjal"
+}

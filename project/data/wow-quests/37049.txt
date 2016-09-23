@@ -1,0 +1,9 @@
+{
+    "_id": "37049",
+    "added_in_patch": 6,
+    "description": "Your clefthoof is most at home here in Frostfire Ridge, and that is where we will begin the training.Out on the icy plains, you will find a hunter of blood and death. The winged terror Rakkiri is feared by beasts across this region, and will prove a good first test for your future mount.",
+    "name": "Clefthoof Training: Rakkiri",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

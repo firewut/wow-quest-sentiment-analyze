@@ -1,0 +1,8 @@
+{
+    "_id": "10115",
+    "description": "The Kurenai and the draenei don't always see eye to eye, particularly on the issue of the Lost Ones. We are content to help the Lost Ones who seek us out, but we won't pursue them. Some draenei are intent on 'redeeming' them all.However, there are times when even the Lost Ones go too far, such as the Daggerfen. In their village to the west, they dabble in poisons and deceit, arts that come unnaturally to us.We must put an end to this before the vile Daggerfen can extend their influence.",
+    "name": "Daggerfen Deviance",
+    "requires_level": 62,
+    "side": "alliance",
+    "zone": "Zangarmarsh"
+}

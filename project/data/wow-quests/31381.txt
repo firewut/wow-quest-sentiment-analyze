@@ -1,0 +1,8 @@
+{
+    "_id": "31381",
+    "added_in_patch": 5,
+    "description": "Xuen, the great Celestial of the North, seeks the greatest champions in the land.Today, he holds trials of battle at his temple in Kun-Lai Summit.If you wish to test yourself against skilled fighters from all across Pandaria, then go to him and enter the challenger's ring!",
+    "name": "Trial At The Temple of the White Tiger",
+    "requires_level": 90,
+    "zone": "Kun-Lai Summit"
+}

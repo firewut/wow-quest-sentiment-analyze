@@ -1,0 +1,8 @@
+{
+    "_id": "37851",
+    "added_in_patch": 6.1,
+    "description": "One last key is required to access the Apexis device. The writings pertaining to its location read:\r\n\r\n\"The final key has been housed deep within the fungal caves where the river makes its final drop. Though the pale orcs that dwell there may be vile, they should prove a worthy deterrent.\"",
+    "name": "Amulet of Rukhmar: The Final Key",
+    "requires_level": 100,
+    "zone": "Spires of Arak"
+}

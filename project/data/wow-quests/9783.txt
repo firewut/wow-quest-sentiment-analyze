@@ -1,0 +1,8 @@
+{
+    "_id": "9783",
+    "description": "The soil sample you brought me is nearly devoid of moisture, <name>. If the soil itself is losing moisture, then the creatures that live in the Dead Mire must be suffering terribly.I've seen what happens when the region's fungal giants begin to wither and die. The pain drives them mad, causing them to attack anything in their path.These creatures have no idea what's happening to them. They're beyond our ability to save, so the best we can do is to end their suffering.",
+    "name": "An Unnatural Drought",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Zangarmarsh"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13329",
+    "description": "The Conflagration, the ground before Corp'rethar, south of the Ironwall Rampart, is where the Lich King's elite soldiers have formed up to defend the citadel.Led by a contingent of death knights, a legion of skeletal reavers bars the way. I fear that even when these reavers fall, the Scourge will simply reconstitute them and send them back at us.I've come up with a plan to stop this, but I have no way of knowing if it will work. Take this solution and use it to dissolve the remains of the reavers.",
+    "name": "Before the Gate of Horror",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

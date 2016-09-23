@@ -1,0 +1,7 @@
+{
+    "_id": "12666",
+    "description": "Quetz'lun may be dead, but I can still feel her spirit lingering in the underworld at the altar. We have to find a way to get you to her.Luckily for us, I just happen to have a supply of former supplicants at hand who are no longer in need of their sacred adornments. Both my subduers and claws are likely to still be wearing them.Bring the adornments to me and I'll draw upon their energy to enable you to cross over into Quetz'lun's underworld nightmare.",
+    "name": "Preparations for the Underworld",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

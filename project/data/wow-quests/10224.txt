@@ -1,0 +1,7 @@
+{
+    "_id": "10224",
+    "description": "As the X-52's chief of engineering, I have to see to it that the nether-rocket's main engines are in tip-top shape.Unfortunately, I haven't built them yet.<Class>, I'm in dire straits here!  I have almost all of the parts.  All that I'm missing is the engine core.Luckily for us, I think we can make use of the essence from the local mana wraiths to jump-start the engines.They can be found near most of the glowing trenches in the northern part of the island.  Except for here in Area 52, of course.",
+    "name": "Essence for the Engines",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

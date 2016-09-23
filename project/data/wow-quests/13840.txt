@@ -1,0 +1,7 @@
+{
+    "_id": "13840",
+    "description": "\"Cluck... cluck... cluck... BACAW!Cluck... cluck... cluck.\"The chicken looks up at you and then starts to scratch its claws into the ground. You think it is spelling out a word, but you are not sure what it is. Could it be... S-A-L-D-E-A-N? Before you can ask, the chicken turns away and goes about its business.",
+    "name": "REUSE",
+    "requires_level": 1,
+    "zone": "Quests"
+}

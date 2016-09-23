@@ -1,0 +1,7 @@
+{
+    "_id": "10595",
+    "description": "<Gulmok looks to the sky.>Our scouts are putting up a good fight, but the infernals keep coming!From their base of Legion Hold to the southwest, the demons bombard us with impunity! Even the elite Kor'kron guard cannot hold them off forever.I'm drafting every able-bodied <race> to do their part in defense of Shadowmoon Village. This is no game, <class>. The survival of the village is at stake. Do your duty to the Horde, and join the fray!",
+    "name": "Besieged!",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

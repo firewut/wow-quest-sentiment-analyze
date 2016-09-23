@@ -1,0 +1,9 @@
+{
+    "_id": "36996",
+    "added_in_patch": 6,
+    "description": "There's plenty more beasts out in the wild that can make a snack of your favorite mount. One of the most cunning on Draenor is the stalker.Stalkers can blend into their environments, allowing them to sneak in and steal the eggs of nearby prey. See if you and your boar can't overcome this natural defense mechanism. You'll find some mean stalkers out in Talador.",
+    "name": "Boar Training: Gezz'ran",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Talador"
+}

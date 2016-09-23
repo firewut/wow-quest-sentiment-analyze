@@ -1,0 +1,8 @@
+{
+    "_id": "29985",
+    "added_in_patch": 5,
+    "description": "The mist in this forest is a constant nuisance - one which I'm glad to hand off to trainees like you. Strange creatures lurk in the mist between these trees, and they must constantly be pushed back.Consider this part of your training.",
+    "name": "They Will Be Mist",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "37029",
+    "added_in_patch": 6.1,
+    "description": "<Goraluk sighs with... relief? ...or perhaps regret?>Once I walked these halls with pride, holding my head high as an orc of the Blackrock clan. But this is a wrong path. Our hammers were meant to craft axes, swords... not these machines from the stranger's whispers.The Warlord will not be swayed, but by force. If you can retrieve essences from the Foundry's most powerful guardians, I can craft for you a sigil that will permit direct access to Blackhand's Crucible.",
+    "name": "Sigil of the Black Hand",
+    "requires_level": 100,
+    "zone": "Quests"
+}

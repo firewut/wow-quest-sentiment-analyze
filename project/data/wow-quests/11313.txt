@@ -1,0 +1,7 @@
+{
+    "_id": "11313",
+    "description": "The ice elementals surrounding our glade were once our companions, but a volatile and destructive force has swept through the land, turning them against us!This is but one of the horrors my sisters and I have endured. We have revealed ourselves to you in the hope that you will help us stave off the decay that has crept into our glades and poisoned our sisters!We've been gathering the cores of the ice elementals and keeping them safe so that one day, we might be able to restore them. Will you help?",
+    "name": "Spirits of the Ice",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31672",
+    "added_in_patch": 5,
+    "description": "I heard a rumor around the market that Gina Mudclaw loves the smell of pumpkin blossoms. Maybe if I grow some pumpkins in my farm, she might come and visit a little more often.Could you plant a pumpkin for me?",
+    "name": "A Pumpkin-y Perfume",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

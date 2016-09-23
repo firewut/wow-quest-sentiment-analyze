@@ -1,0 +1,8 @@
+{
+    "_id": "14465",
+    "description": "It's time for everyone to head to safety.  That includes you, <name>.  Head to Greymane Manor, the others will be there shortly.Don't worry about me, I'll make sure that everyone makes it out of here in one piece.  Yes, even the few ferals we have in the pens.Once you get there, speak to Queen Greymane about the gravity of the situation.",
+    "name": "To Greymane Manor",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

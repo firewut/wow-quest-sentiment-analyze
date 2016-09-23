@@ -1,0 +1,7 @@
+{
+    "_id": "13598",
+    "description": "I have no doubts that Grimclaw will recover with the help of my healing magics, though I can't say the same for the poachers that attacked him. Still, I could use some salve to close his wounds and lessen his pain while he heals.To the east you will find the Ruins of Lornesta. Among the crumbled stones, there is a variety of fuming toadstool that flourishes in the damp environment. Bring me some of the toadstools so that I can mix a salve for our friend here.",
+    "name": "Unsavory Remedies",
+    "requires_level": 10,
+    "zone": "Darkshore"
+}

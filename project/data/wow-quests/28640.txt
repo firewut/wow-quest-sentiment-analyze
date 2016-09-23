@@ -1,0 +1,7 @@
+{
+    "_id": "28640",
+    "description": "Doesn't that smell great? My smoked meats get top dollar, and nobody else provides the exotic flavors I've got out here in the hills. And it's efficient; you just do the hunting for a small fee, and my other fine friends drag the beasts back here for skinnin' and smokin'!I've got the market cornered on Frostsaber meat right now. Absolutely delicious stuff, makes great sausages. Head out and hunt those cats just west of here, and we'll call that a start!",
+    "name": "Fresh Frostsabers",
+    "requires_level": 51,
+    "zone": "Winterspring"
+}

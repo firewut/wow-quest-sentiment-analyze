@@ -1,0 +1,7 @@
+{
+    "_id": "26411",
+    "description": "Alright, take this and apply it to his wounds. If the cauterizing effect of the flash dry explosion doesn't crack him wide open, it should completely heal him.I think.",
+    "name": "Apply and Flash Dry",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

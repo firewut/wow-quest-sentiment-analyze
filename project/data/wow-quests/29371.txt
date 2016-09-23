@@ -1,0 +1,7 @@
+{
+    "_id": "29371",
+    "description": "Well met, <class>. As we attempt to embrace the Wickerman ceremony, it is no surprise that the Horde would attempt to ruin our celebration.Now the prudent course of action may be to rise above the conflict and simply ignore the attacks.I admire those that take that high road, but I cannot help them.  But for those that seek to strike back... I can help them.  If you are interested, <class>, take this Dousing Agent and use it on the Horde's Wickerman in the Ruins of Lordaeron.",
+    "name": "A Time to Lose",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8904",
+    "description": "There's something unnatural about this epidemic of love. It's disgusting, and as it lowers our defenses, it could be a threat to the all of us.It's bad enough that so many of our people are caught up in this ridiculous behavior. But I think that it has spread even to our guardians, who should be immune to such things.Find one of our guardians and see if they've been caught up in this foolishness.",
+    "name": "Dangerous Love",
+    "requires_level": 1,
+    "zone": "Quests"
+}

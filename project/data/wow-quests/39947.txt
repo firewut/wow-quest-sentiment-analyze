@@ -1,0 +1,8 @@
+{
+    "_id": "39947",
+    "added_in_patch": 7,
+    "description": "Alright, I believe I've finished adding the missing entries into the codex. And we have the machete... err, knife.All that's left is to make our own tablet and verify my other suspicion about these tablets:I believe that they're not just simple texts, but a sort of magical device.",
+    "name": "Not So Complex?",
+    "requires_level": 104,
+    "zone": "Inscription"
+}

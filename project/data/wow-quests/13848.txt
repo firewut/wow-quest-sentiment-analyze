@@ -1,0 +1,8 @@
+{
+    "_id": "13848",
+    "description": "No reports have made it out of here since the beginning of the siege on Splintertree. By now, Commander Grimfang must be getting anxious.I am sending you to Zoram Strand to deliver our report. It's not pretty, but at least he'll have the facts.Speak to Vhulgra when you're ready to make the trip.",
+    "name": "Bad News Bear-er",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

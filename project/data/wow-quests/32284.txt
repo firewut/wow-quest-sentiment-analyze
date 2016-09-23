@@ -1,0 +1,8 @@
+{
+    "_id": "32284",
+    "added_in_patch": 5.1,
+    "description": "$p? It is good fortune I find you.Chen Stormstout says to give this to you and ask you to meet him at Binan Village of the Kun-Lai Summit.He found a friend of yours who needs much luck to get healthy.Chen say speak to Tak-Tak for fast travels.",
+    "name": "Someone You Should See",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

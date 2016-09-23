@@ -1,0 +1,7 @@
+{
+    "_id": "28119",
+    "description": "The flowers you brought me were the essential ingredient.Protective barriers surround Shadow Hold, projected from demonic braziers. If we are to drive the Shadow Council from Felwood, then those braziers must be extinguished.This vial has been infused with crying violet and the magic of the wilds. Fill it at the corrupted moonwell in the center of Jaedenar and return to me.",
+    "name": "Purity From Corruption",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

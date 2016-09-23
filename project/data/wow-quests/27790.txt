@@ -1,0 +1,8 @@
+{
+    "_id": "27790",
+    "description": "Hello there, <name>. I've heard a great deal about you. Listen closely, you're only going to have one solid shot at this.The new Defias Kingpin must be inside the hut orchestrating this entire operation. I want you to go inside and take her down, for the sake of the hundreds of innocent people the organization her father started has killed and terrorized.I'm shocked that she would let you get so close to her domain without fleeing and waiting until more favorable conditions, but it seems we're in luck.",
+    "name": "The Defias Kingpin",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Quests"
+}

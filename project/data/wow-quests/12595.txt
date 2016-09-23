@@ -1,0 +1,7 @@
+{
+    "_id": "12595",
+    "description": "Well, <name>, you've certainly proven your mettle as a hunter of all kinds of game animals -- rhinos, cats, and crocolisks. For some members of the expedition, these creatures are sufficient to test their hunting skills, but others, like myself, crave larger challenges.Dorian Drakestalker went north, across Bittertide Lake and established a camp there. He's heard rumors of gigantic primordial drakes. Just imagine what a quarry they would be! Go check up on Dorian and see if he's had any luck.",
+    "name": "In Search of Bigger Game",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

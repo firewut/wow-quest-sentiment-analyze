@@ -1,0 +1,7 @@
+{
+    "_id": "27388",
+    "description": "The heroes of Darrowshire held relics of their own, and inside of those relics lie more precious memories.First, speak with Carlin and obtain the Extended Annals of Darrowshire.  Within the tome lies the narrative that will drive our excursion through time.Then, you will need to head west to the Marris Stead.  The former owner of the Marris farmhouse collected relics from the battle of Darrowshire - for what reason, I am not certain.Gather these relics, and return to me.",
+    "name": "Heroes of Darrowshire",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

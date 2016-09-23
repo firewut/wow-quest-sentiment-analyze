@@ -1,0 +1,8 @@
+{
+    "_id": "31809",
+    "added_in_patch": 5,
+    "description": "As you look upon the severed claw of the defeated Sha of Anger, you realize that Ban Bearheart, commander of the Shado-Pan in Townlong Steppes, would want to know of your victory.",
+    "name": "Remnants of Anger",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

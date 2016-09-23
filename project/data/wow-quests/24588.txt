@@ -1,0 +1,7 @@
+{
+    "_id": "24588",
+    "description": "Yet another strange construct of Mimiron, the XT-002 Deconstructor actually thinks that it is the keeper's son. Do not be fooled by its feigned innocence. It is a deadly machine!You will find the Deconstructor within Ulduar's Scrapyard. The Council of Six has decreed that XT-002 Deconstructor must die!",
+    "name": "XT-002 Deconstructor Must Die!",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12546",
+    "description": "It is time, <name>.  The Etymidian is one of the most destructive forces ever created by the titans and I am loathe to unleash him in my lands.There is little choice, however.  Our enemies have forced my hand and the fury of the titans will cleanse all.",
+    "name": "Reclamation",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9643",
+    "description": "A good woodsman makes use of every available resource, <class>. Even the most bizarre creatures possess attributes we can use to our advantage.With Blood Watch under constant assault from the Sunhawks, we're looking to a variety of natural defenses including traps. The lasher's thorny vines are perfectly suited to the construction of the traps I have in mind. The combination of sharp spines and deadly toxin will fell unwary attackers. Bring me the vines of mutated constrictors so that I can begin my work.",
+    "name": "Constrictor Vines",
+    "requires_level": 14,
+    "zone": "Bloodmyst Isle"
+}

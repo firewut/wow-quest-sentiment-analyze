@@ -1,0 +1,7 @@
+{
+    "_id": "13476",
+    "description": "Serving the Horde in one of the great battles against the Alliance is a source of great honor!  The few however, that have served the Horde in ALL of our active battlefronts are our truly great fighters.  We shall vanquish our opponents, not by fighting isolated skirmishes, but by waging a well-coordinated war.Go forth and crush the Alliance on every front!  For Honor!  For the Horde!",
+    "name": "For Great Honor",
+    "requires_level": 71,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25861",
+    "description": "The High-Shaman are in the buildings nearby, chanting and taunting, but not daring to approach me. These Kvaldir find their courage and strength only in the mist. They are a pitiful nuisance beneath the waves.I came bearing a message. If your ladyship has the time, bring a high-shaman to my feet that I might deliver this message to him and his people.",
+    "name": "Setting An Example",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

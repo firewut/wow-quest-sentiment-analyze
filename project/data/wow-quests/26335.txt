@@ -1,0 +1,8 @@
+{
+    "_id": "26335",
+    "description": "Hellscream expects an armada of ships for his invasion, but the docks here are weeks behind schedule. Costs are rampant and quality is poor. Corruption is the problem, <name>! And I need you to root it out.The Foebreaker, a warship berthed at the northwest pier, should have been outfitted days ago. Something reeks. Go there and oversee the construction yourself.Find out who's disrupting our naval preparations and deal with them!",
+    "name": "Ready the Navy",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Azshara"
+}

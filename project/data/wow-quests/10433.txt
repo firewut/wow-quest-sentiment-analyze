@@ -1,0 +1,7 @@
+{
+    "_id": "10433",
+    "description": "The ethereals are clever and very observant, so it's no accident that I'm here posing as a simple furrier. In fact, I've been sent from Area 52 to appraise the technology the ethereals use to generate their eco-domes.I'd like to enlist your help, <class>. We've been asked to use non-goblin agents whenever possible.What I want you to do is bring me a number of ripfang lynx pelts in the guise of a hunter. You can find the lynxes all over Eco-Dome Midrealm.",
+    "name": "Keeping Up Appearances",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

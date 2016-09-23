@@ -1,0 +1,8 @@
+{
+    "_id": "35408",
+    "added_in_patch": 6,
+    "description": "The armory is lost to the traitors. All we have left are these few cannons with no ammunition.Soldier, I need you to recover cannonballs so we can get these things running.Actually, one more cannon wouldn't hurt, either.",
+    "name": "Prime the Cannons",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

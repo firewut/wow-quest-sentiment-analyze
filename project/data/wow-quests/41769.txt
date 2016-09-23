@@ -1,0 +1,8 @@
+{
+    "_id": "41769",
+    "added_in_patch": 7,
+    "description": "If we have any hope of curing this curse, we need to know what kind of magic we're dealing with.\r\n\r\nI know of an alchemist who earned himself quite the reputation for his unconventional methods. Shunned from Gilneas long ago, I believe Mad Ernie has taken up residence in these lands.\r\n\r\nHis knowledge may be the first step to breaking this curse.",
+    "name": "Mad Ernie the Alchemist",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

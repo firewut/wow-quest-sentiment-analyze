@@ -1,0 +1,8 @@
+{
+    "_id": "26257",
+    "description": "From what I've heard, all you really need to do is find a suitable harvest golem and drop in the heart. Once you've done that you should be able to take full control of the creature.I think there's a whole field of overloaded harvest golems west of here, at the Molsen Farm. Look for the arcs of electricity.Should you manage to get it working, use the golem to destroy the energized harvest reapers at the old Molsen farm. Those monsters are much more destructive than the ones on our farm.",
+    "name": "It's Alive!",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Westfall"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13577",
+    "description": "The wildkin were once numerous in Darkshore.  Such are their ties to the land that the Cataclysm that shattered Darkshore also decimated their numbers.The wildkin Aroom is the last of his tribe and is a powerful elder with a strong connection to Elune.  His help will be most necessary in healing the land -- you will find him north of here at the Moontouched Den.",
+    "name": "The Last Wildkin",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

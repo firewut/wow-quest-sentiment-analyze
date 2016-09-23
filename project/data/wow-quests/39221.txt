@@ -1,0 +1,8 @@
+{
+    "_id": "39221",
+    "description": "In the Hellfire Citadel, they work to corrupt a magnaron with fel energy within the Pits of Mannoroth.\r\n\r\nIf you delve into the fel pools of that place, be on your guard.",
+    "name": "Pits of Mannoroth",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

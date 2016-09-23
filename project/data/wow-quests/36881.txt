@@ -1,0 +1,8 @@
+{
+    "_id": "36881",
+    "added_in_patch": 6,
+    "description": "<name>, is it? I'm glad you're here. We can use every able-bodied <class> that we can get.I am assembling a coalition of Azeroth's strongest to step through this Dark Portal and stop the Iron Horde invasion. This may be the only way to save Azeroth.Will you join us?",
+    "name": "The Dark Portal",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

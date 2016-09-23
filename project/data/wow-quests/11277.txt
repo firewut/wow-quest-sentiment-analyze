@@ -1,0 +1,7 @@
+{
+    "_id": "11277",
+    "description": "They're keepin' Daegarn locked up in a cage at the large fightin' ring nearby. From what I've gathered, the Dragonflayers bring out their prisoners to battle against their most powerful gladiators. They dump the losers in the basement where Scourge necromancers turn 'em into ghoulies! It's horrifying!But first things first! The tablets are strewn about all across this dungeon. Let's get those recovered before you go off tryin' to be a hero.",
+    "name": "The Depths of Depravity",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

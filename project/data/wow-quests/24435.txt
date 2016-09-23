@@ -1,0 +1,7 @@
+{
+    "_id": "24435",
+    "description": "There are a lot of naga left on this beach. Looks like you have some wet work ahead of you,  son.",
+    "name": "Mop Up",
+    "requires_level": 12,
+    "zone": "Azshara"
+}

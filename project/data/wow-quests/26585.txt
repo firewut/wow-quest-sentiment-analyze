@@ -1,0 +1,7 @@
+{
+    "_id": "26585",
+    "description": "If this disgusting growth is truly brought on by the Verlok, then their supplies will be in their village to the north. Bring them to me so that I can verify your claims.",
+    "name": "Corruption Destruction",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

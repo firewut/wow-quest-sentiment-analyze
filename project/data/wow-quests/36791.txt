@@ -1,0 +1,7 @@
+{
+    "_id": "36791",
+    "description": "Every turn you take in Ashran you run into danger. But don't fret <name>, I've developed the perfect solution. It's my very own riff on the popular Invisibility Potion. I'm just missing one of the ingredients: cave mushrooms. Luckily, a variety grows right here in Ashran.",
+    "name": "Phantom Potion",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

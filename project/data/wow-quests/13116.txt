@@ -1,0 +1,8 @@
+{
+    "_id": "13116",
+    "description": "Da Archmage Pentarus likes to be watchin' his crazy battle ball game, but he be needin' some food for da game.You be needin' to fill his picnic basket with 4 cooked rhino dogs and then 4 wild mustard that are found in da grassy corners of de city.Fill up his basket with the mustard dog goodies, mon'.",
+    "name": "Mustard Dogs!",
+    "requires_level": 65,
+    "side": "horde",
+    "zone": "Cooking"
+}

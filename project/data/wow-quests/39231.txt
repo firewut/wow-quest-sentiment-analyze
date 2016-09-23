@@ -1,0 +1,8 @@
+{
+    "_id": "39231",
+    "description": "We believed we were done with Mannoroth, at least for a time. But Gul'dan is more powerful than we had predicted.\r\n\r\nMannoroth is nearly back in this world. His bones have been seen within the citadel, and he must be destroyed before he can reach his full power.",
+    "name": "Destructor's Rise",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

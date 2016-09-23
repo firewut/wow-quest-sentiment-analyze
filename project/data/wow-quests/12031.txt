@@ -1,0 +1,7 @@
+{
+    "_id": "12031",
+    "description": "The sacred ground of the elves to the west has been torn asunder. Now their magic is moving through the land causing ruin where it flows.The souls of the Kalu'ak are in danger as the blue dragons forces attempt to control the magic.The power came up through the lake, instantly slaying most in the village. Those that survived were driven insane.<name>, you must release these spirits so that they may move on. Leave the deranged living alone; they may yet regain their sanity in time.",
+    "name": "Freedom for the Lingering",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

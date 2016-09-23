@@ -1,0 +1,7 @@
+{
+    "_id": "29303",
+    "description": "You were insightful to bring this locket to me, <name>. I am among the few who know where Valstann's body lays.You can find his resting site in a small graveyard, southeast of Astranaar, in Ashenvale. Bring this locket to the site, and it may unlock more memories.Farewell, <name>, and good luck on your journey.",
+    "name": "Tragedy and Family",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

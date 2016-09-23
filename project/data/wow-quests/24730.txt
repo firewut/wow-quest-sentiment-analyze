@@ -1,0 +1,7 @@
+{
+    "_id": "24730",
+    "description": "You'd think that being chief digger for Marshal Expeditions means I like digging.  There might be worse things to do in this world... but none really leap to mind.We were supposed to be digging in Terror Run - FANTASTIC name by the way - for dead stegodons and diemetradons.  Well, there are plenty of live ones there too!  Wil and Hol are still all about studying this death trap, so we need those dinosaur bones.  Between you and me though, bringing some from live ones will work out just as well.",
+    "name": "Roll the Bones",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27842",
+    "description": "I miss the days when legions of powerful ogres marched by the Horde's side into battle, the pathetic Alliance cowering at their ferocity. Perhaps those days will return before I am gone to the ancestors.However, that is not the case now. An ogre magi, Glubtok, has joined forces with the despicable Defias Brotherhood and acts as Foreman over their mining operations. The pathetic fool! End his life for me, and for the spirit and glory of the Horde!",
+    "name": "Only the Beginning",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Quests"
+}

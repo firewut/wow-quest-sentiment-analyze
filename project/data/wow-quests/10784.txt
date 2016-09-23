@@ -1,0 +1,7 @@
+{
+    "_id": "10784",
+    "description": "<Tor'chunk leans in close to whisper.><name>, you've done us more than proud in the fight against the ogres so far.  And while I have every confidence in what Rexxar has planned, I would still ask that you crush the ogres at Bloodmaul Camp before returning.That way we'll be doubly certain of the outcome.To get there, head north down the ramp out of Thunderlord.  Then, at the base of the ramp, head west across Dragons' End and north through the Churning Gulch and Daggermaw Canyon.",
+    "name": "Crush the Bloodmaul Camp",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

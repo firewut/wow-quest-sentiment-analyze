@@ -1,0 +1,8 @@
+{
+    "_id": "42384",
+    "added_in_patch": 7,
+    "description": "In the recent past, our order has spent a lot of time watching and waiting. With you at the helm, we'll be able to focus on our original calling.Take a look around us, <name>. Azeroth needs us now more than ever. The same enemy that led to our formation is threatening us once again.You should send someone to gather reports from our scouts. From there, we'll be able to focus our efforts where they are needed most.",
+    "name": "Scouting Reports",
+    "requires_level": 101,
+    "zone": "Hunter Campaign"
+}

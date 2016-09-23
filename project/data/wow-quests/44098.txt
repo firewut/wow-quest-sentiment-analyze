@@ -1,0 +1,8 @@
+{
+    "_id": "44098",
+    "added_in_patch": 7,
+    "description": "Grand Conjuror Mimic has arrived to aid us in bolstering our numbers. She seeks out the most promising apprentices and trains them very quickly. Her former students are some of the most powerful conjurors in the land!Speak to her and recruit some of her apprentices to add to our roster.",
+    "name": "Recruiting Apprentices",
+    "requires_level": 103,
+    "zone": "Mage Campaign"
+}

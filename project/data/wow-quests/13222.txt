@@ -1,0 +1,7 @@
+{
+    "_id": "13222",
+    "description": "Front and center, <name>! We're beginning our assault on Wintergrasp Fortress. Those Horde animals think they can hide cowardly behind their walls? Well, I think not! We'll show them the power of Gnomish technology and smash their walls to bits!However, even the most powerful siege device is helpless without a crew. Pilot or protect one of our siege vehicles as it destroys three of the Horde structures.",
+    "name": "Defend the Siege",
+    "requires_level": 85,
+    "zone": "Wintergrasp"
+}

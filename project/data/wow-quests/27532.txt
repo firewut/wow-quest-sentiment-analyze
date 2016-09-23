@@ -1,0 +1,7 @@
+{
+    "_id": "27532",
+    "description": "With the recent, unfortunate developments involving Gidwin, it might not be wise for a man my age to take the dangerous trip through the Plaguewood.  This is fine - I can visit the Plaguewood Tower on my next trip around the loop.I do, however, have a delivery that I need to get to Judkins.  You are younger than I, and stronger in combat.  Will you take this delivery to him?",
+    "name": "The Plaguewood Tower",
+    "requires_level": 41,
+    "zone": "Eastern Plaguelands"
+}

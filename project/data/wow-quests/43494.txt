@@ -1,0 +1,8 @@
+{
+    "_id": "43494",
+    "added_in_patch": 7,
+    "description": "Good news, Highlord! We have recruited a paladin trainer named Commander Born.He is a hard teacher, but has trained some of the greatest paladin knights in recent times. We are lucky to have his services.Go speak to him, and train a squad of Silver Hand Knights.",
+    "name": "Silver Hand Knights",
+    "requires_level": 103,
+    "zone": "Paladin Campaign"
+}

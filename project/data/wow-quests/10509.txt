@@ -1,0 +1,7 @@
+{
+    "_id": "10509",
+    "description": "Now I can properly send you back to Shattrath City.  You've uncovered evidence of Kael'thas making pacts with the Burning Legion and you've got the key to the overlord's back door.Make sure Voren'thal doesn't topple over with excitement from the news - the old man's getting a bit fragile, if you know what I mean.  You'll find him inside the Seer's Library at the Scryer's Tier.",
+    "name": "Bound for Glory",
+    "requires_level": 67,
+    "zone": "Shattrath City"
+}

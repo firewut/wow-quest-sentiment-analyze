@@ -1,0 +1,8 @@
+{
+    "_id": "11167",
+    "description": "Not long after Arthas condemned us to this wretched existence, we in the Royal Apothecary Society endeavored to create a plague of our own.  A plague that would devour all flesh: living, dead or undead.We've succeeded in creating this plague and we're here to hand deliver it to the Scourge's doorstep.The Alliance intercepted the ship carrying the latest strain engineered in our Undercity laboratories.  Head to the wreckage southeast of here and salvage whatever containers you can.",
+    "name": "The New Plague",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Howling Fjord"
+}

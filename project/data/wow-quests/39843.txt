@@ -1,0 +1,8 @@
+{
+    "_id": "39843",
+    "added_in_patch": 7,
+    "description": "For my next project - sticking the forge's components to one another - I need a magical adherent. And I've found that the built-up sludge of Dalaran's sewers works perfectly for just that.It cakes up on the feet, boots, and slithering bellies of Dalaran's more long-lived residents. Scrape some off and bring it here.",
+    "name": "The Muck Stops Here",
+    "requires_level": 110,
+    "zone": "Dalaran"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26624",
+    "description": "These plans are... interesting.  Firallon, you're smarter than this!Look, he has all three ships devoted to cannon fire, and only a few men coming in through the tunnel.  He can never take Booty Bay with three ships and a dozen footmen.  And he knows that.No, they've got something else planned... and you're going to find out what it is.  Speak to Yancey Grillsen, the Bloodsail Recruiter, just to the north of town.That's right, <name>.  You'd better hope that they don't recognize your face.",
+    "name": "Getting In With the Bloodsail",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31906",
+    "added_in_patch": 5,
+    "description": "You're so bold as to venture into the heart of Grimtotem lands once more to challenge me? You will regret your decision!",
+    "name": "Kela Grimtotem",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

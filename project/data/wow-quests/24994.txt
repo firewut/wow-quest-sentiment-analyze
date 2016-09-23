@@ -1,0 +1,7 @@
+{
+    "_id": "24994",
+    "description": "My envoy just delivered me a bushel of gloom weed.  Gloom weed!  I don't need gloom weed, I need doom weed!  You can see the predicament that I'm in, <name>.I'll make it worth your while to gather what I need. Bring back to me enough doom weed and I'll give you a suitable reward.It is my understanding that they like to plague the flora near the mass gravesite, to the north of the Brill graveyard. Hurry and be mindful of the gnolls in the area.",
+    "name": "Doom Weed",
+    "requires_level": 6,
+    "zone": "Tirisfal Glades"
+}

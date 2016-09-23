@@ -1,0 +1,8 @@
+{
+    "_id": "41332",
+    "added_in_patch": 7,
+    "description": "Now, you are more powerful than ever! Truly, you are a druid without equal, <name>.I sense that Malfurion has arrived. He will certainly want to know of your accomplishments, but first, please walk with me a moment.",
+    "name": "Ascending The Circle",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

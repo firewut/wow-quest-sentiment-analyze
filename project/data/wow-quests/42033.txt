@@ -1,0 +1,8 @@
+{
+    "_id": "42033",
+    "added_in_patch": 7,
+    "description": "I see... it is as we have always feared. The Emerald Nightmare has found our world.We must call upon the ancient god, Malorne.Travel southeast to the shrine at Malorne's Refuge. There, we druids have kept a sacred relic for thousands of years, a gift from the white stag himself.I already sent Broll Bearmantle ahead to give word of your arrival.",
+    "name": "Malorne's Refuge",
+    "requires_level": 103,
+    "zone": "Druid Campaign"
+}

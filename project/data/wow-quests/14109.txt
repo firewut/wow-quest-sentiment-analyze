@@ -1,0 +1,8 @@
+{
+    "_id": "14109",
+    "description": "A new outfit? You don't say! There's quite a buzz surrounding your party. Everyone who's anyone on the island is going to be there.Well, happy shopping. Swindle Street has some of the best bargains anywhere!",
+    "name": "The New You",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

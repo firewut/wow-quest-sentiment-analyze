@@ -1,0 +1,9 @@
+{
+    "_id": "29560",
+    "added_in_patch": 5,
+    "description": "Hozen skulls are prized tokens among my village.We use them to perform ceremonial rites, and the older the skull, the more potent its magic.Luckily for us, the hozen are careless, filthy beasts. They leave the skulls of their dead scattered among their huts and campfires.Collect these skulls for me, and I will reward you handsomely.",
+    "name": "Ancient Power",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27160",
+    "description": "Dried-up Scourge... weak.  Abominations... strong.We defeat strong abominations... we win war.",
+    "name": "War Machines",
+    "requires_level": 34,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

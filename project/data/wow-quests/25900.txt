@@ -1,0 +1,7 @@
+{
+    "_id": "25900",
+    "description": "I can't believe that Nespirah would willingly allow these naga to take residence inside her shell.  As I see it, one of two things has happened: they have convinced her to willingly join their cause, or they have weakened her to a point where she cannot fight back.  Either one is bad.Here in this chamber, I should be able to communicate directly with Nespirah.  Let us find out for ourselves.  Speak to me when you are prepared, <class>.",
+    "name": "Making Contact",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

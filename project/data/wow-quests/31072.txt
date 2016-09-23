@@ -1,0 +1,8 @@
+{
+    "_id": "31072",
+    "added_in_patch": 5,
+    "description": "Forget about them, and forget their BREW. We've got real work to do.The scroll mentions \"rending daggers of the great ones\". I've got a feeling I know where to find them.A pair of mantid lieutenants patrol the Horrid March, to the south. Each one carries a ceremonial dagger.Bring those daggers back here, <name>. We may be on the brink of something big.",
+    "name": "Rending Daggers",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31998",
+    "added_in_patch": 5,
+    "description": "<name>, I need you to assemble a hearty group and lead them into the Temple of the Jade Serpent. Activate the Challenger's Orb therein, and vanquish the Sha of Doubt.Return to me when you've completed this challenge, and I shall reward you handsomely.",
+    "name": "A Worthy Challenge: Sha of Doubt",
+    "requires_level": 90,
+    "zone": "Quests"
+}

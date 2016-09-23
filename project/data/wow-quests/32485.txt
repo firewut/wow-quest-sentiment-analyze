@@ -1,0 +1,8 @@
+{
+    "_id": "32485",
+    "added_in_patch": 5.2,
+    "description": "This island is a dangerous place, <name>. We have to worry about attacks from the Zandalari, mogu, saurok, and worst of all the Sunreavers.I had perimeter wards placed on the outskirts of our camp for additional protection. In their current state they will only injure an attacker, but I'm done with warnings!With your help we can super-charge the wards into a more deadly defense system.",
+    "name": "Bolstering the Defenses",
+    "requires_level": 90,
+    "zone": "Quests"
+}

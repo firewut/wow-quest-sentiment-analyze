@@ -1,0 +1,7 @@
+{
+    "_id": "8784",
+    "description": "You have discovered an ancient Qiraji artifact! Perhaps one of the dragons near the entrance of the temple would have a use for this relic.",
+    "name": "Secrets of the Qiraji",
+    "requires_level": 60,
+    "zone": "Quests"
+}

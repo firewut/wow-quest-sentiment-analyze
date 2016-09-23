@@ -1,0 +1,8 @@
+{
+    "_id": "10079",
+    "description": "The mine's been overrun by a plague of gan'arg misfits!Not only did they run all my workers out of the tunnels, but they're pounding away in there night and day! To make things worse, now I've got Danath on me back! He says he's going to take away me ale ration if I don't get this taken care of soon!None of the miners'll go in there, and the guards are busy drinking themselves silly.I'm begging you, <name>, help me here. Danath can take me dignity, but he'll never take me ale!",
+    "name": "When This Mine's a-Rockin'",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

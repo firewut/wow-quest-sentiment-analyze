@@ -1,0 +1,8 @@
+{
+    "_id": "29015",
+    "description": "Hey <race>, you interested in treasure? I knew that would get your attention.Word from the river dock here is that one of the miners in the Venture Company's Boulder Lode mine just northeast of here discovered an emerald the size of your fist.I know a few buyers who'd be interested in getting their hands on something like that, and I'd be willing to go half and half on its sale. You in?",
+    "name": "Miner's Fortune",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

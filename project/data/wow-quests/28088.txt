@@ -1,0 +1,7 @@
+{
+    "_id": "28088",
+    "description": "The Twilight's Hammer have the alpha male of Highperch pinned down. You must head east up the ramp and release Heartrazor before the pride loses its patriarch!",
+    "name": "Release Heartrazor",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

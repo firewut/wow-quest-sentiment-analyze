@@ -1,0 +1,7 @@
+{
+    "_id": "4486",
+    "description": "Well, well, well, look at the mighty paladin in all his regality.Sorry, <name>, I meant no offense... I just get a little jealous sometimes when I see some of the feats you've accomplished. Tiza tells me it's my weakness, and I swore to her I'd work on it. It's just hard sometimes, you know?But the reason I wanted to talk to you was because Duthorian Rall in Stormwind sent word for you to meet him in the Cathedral of Light when you're ready. Sounded important. Sounded like something's going on.",
+    "name": "The Tome of Nobility",
+    "requires_level": 40,
+    "zone": "Paladin"
+}

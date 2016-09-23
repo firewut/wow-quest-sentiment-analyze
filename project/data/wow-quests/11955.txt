@@ -1,0 +1,7 @@
+{
+    "_id": "11955",
+    "description": "I believe you are strong enough for the ultimate task set before us.We cannot allow the plot between the Twilight Cult and the naga heretics of Neptulon to come to fruition. For the sake of Azeroth and all life upon it, we must act. Our path is clear. You must journey to the Slave Pens deep within Coilfang Reservoir and meet with our shaman there. Go, and quickly!",
+    "name": "Ahune, the Frost Lord",
+    "requires_level": 65,
+    "zone": "Midsummer"
+}

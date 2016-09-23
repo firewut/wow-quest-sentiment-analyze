@@ -1,0 +1,7 @@
+{
+    "_id": "11622",
+    "description": "There is someone who might shed light on this mystery, <race>.  It is rumored that the kvaldir have kept a handful of naga priestesses alive inside the temple.The high priestess, Veehja, will no doubt have great reason to resent her uninvited kvaldir guests.  Perhaps she can tell you more about what the writing on the tablet means.",
+    "name": "Secrets of Riplash",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11692",
+    "description": "You're a proven  hero . I have another problem!My boss, Tinky, went east with Bixie Wrenchshanker and I CAN'T get the outgoing on this thing to work! Tinky's the only one that can fix it and we really need it working one-hundred percent.You think you could find them? Bixie said something about following some old magnataur to a place called The Dens of Dying.I'm guessing that's where you'll find them.You can catch a ride out there by talking with Kara Thricestar at the runway.",
+    "name": "Check in With Bixie",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

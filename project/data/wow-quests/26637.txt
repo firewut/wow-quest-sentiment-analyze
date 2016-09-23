@@ -1,0 +1,7 @@
+{
+    "_id": "26637",
+    "description": "The first part of this mission is all covert ops, <name>. To that end, we need to be able to incapacitate the enemy without making any sounds. To do that we're going to need chloroform.The muckdwellers at the bottom of Lake Everstill hold chloroform in their glands. I'm going to need you to go underwater and recover muckdweller glands. Think you can handle it?Come back to me once you've recovered enough glands.Where's the lake you ask? Open your eyes, dummy. Directly west.",
+    "name": "Bravo Company Field Kit: Chloroform",
+    "requires_level": 16,
+    "zone": "Redridge Mountains"
+}

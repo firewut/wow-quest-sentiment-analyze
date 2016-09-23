@@ -1,0 +1,8 @@
+{
+    "_id": "42835",
+    "added_in_patch": 7,
+    "description": "While you experienced the raw majesty that is Nightwell Infusion, Margaux was busy preparing another demonstration for you.\r\n\r\nHead across the bridge and to the left, then again across a bridge and to your right. You will find her on the juicing veranda.\r\n\r\nEnjoy the remainder of your tour!\r\n\r\n<Sylverin offers an intensely fake smile.>",
+    "name": "The Old Fashioned Way",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

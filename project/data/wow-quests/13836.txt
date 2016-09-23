@@ -1,0 +1,7 @@
+{
+    "_id": "13836",
+    "description": "I've received word of an unfortunate accident at the Dalaran prison; a guard had his arm severed and thrown into the water by a particularly vicious inmate.Our first aid clinic promises they can reattach the arm if we bring it back.You fish long enough in the water outside the prison, and I'd bet my favorite fishing pole that arm will surface.  Find that arm, and bring it to Olisarra the Kind here in Dalaran.  She'll know what to do.",
+    "name": "Disarmed!",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

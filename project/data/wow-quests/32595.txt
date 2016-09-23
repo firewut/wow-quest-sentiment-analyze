@@ -1,0 +1,8 @@
+{
+    "_id": "32595",
+    "added_in_patch": 5.2,
+    "description": "Do you recall Mason's Folly, the hilltop east of here where you and I met before?I'm going to use the Lightning Lance to create something special, and I certainly can't do it in here.Meet me atop Mason's Folly so that we may celebrate our victories together!",
+    "name": "The Crown of Heaven",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

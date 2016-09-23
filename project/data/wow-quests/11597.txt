@@ -1,0 +1,7 @@
+{
+    "_id": "11597",
+    "description": "It seems that we always meet in the direst of circumstances, Scarab Lord. Were you not saving the world from certain destruction the last time we met?<Saurfang chuckles.>Your assistance is most welcome in Northrend, despite what the young chieftain might say.If we had even a dozen more soldiers with your power, we would be sitting in Orgrimmar right now, hunched over a warm fire.Report to Overlord Razgor, right outside the main entry to Warsong Hold, to the south.",
+    "name": "The Defense of Warsong Hold",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

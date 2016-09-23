@@ -1,0 +1,8 @@
+{
+    "_id": "31606",
+    "added_in_patch": 5,
+    "description": "You are... not like the others...I hear the Klaxxi calling... <cough>I just need a moment.",
+    "name": "The Dissector Wakens",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

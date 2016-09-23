@@ -1,0 +1,8 @@
+{
+    "_id": "12311",
+    "description": "Held within the cold stone walls of this crypt are the remains of the nobles and dignitaries that died in Northrend. At its very core now sits a necrolord who raises the corpses as servants of the Scourge.You must make your way to the bottom of the Wintergarde Crypt and kill Necrolord Amarion. Only then will the assault from within cease!And <name>, be on the lookout for any information that might be laying about inside the room where Amarion resides. \r\n",
+    "name": "The Noble's Crypt",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

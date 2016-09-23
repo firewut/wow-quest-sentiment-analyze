@@ -1,0 +1,7 @@
+{
+    "_id": "29235",
+    "description": "I hope you like to fight, <name>.  Your troll friend has been through here and warned us that the Gurubashi were on the rampage.  I never thought the battle would be this glorious though.Come, join in our fight and let's show these Gurubashi trolls the might of the Horde!",
+    "name": "Defend Grom'gol",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

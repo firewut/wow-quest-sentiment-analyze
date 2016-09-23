@@ -1,0 +1,8 @@
+{
+    "_id": "39903",
+    "added_in_patch": 7,
+    "description": "The more I learn about the Broken Isles, the more convinced I am that it is a land of wonders!Ildine and I were just discussing rumors of a dwelling in Stormheim that was once the home to a vrykul enchantress called Tigrid. It is said the site is perfectly preserved, and her enchantments were so potent that they persist to this day!Investigating the home might uncover valuable knowledge, <name>.",
+    "name": "An Enchanting Home",
+    "requires_level": 106,
+    "zone": "Enchanting"
+}

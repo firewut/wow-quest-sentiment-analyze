@@ -1,0 +1,7 @@
+{
+    "_id": "26663",
+    "description": "The attack on Booty Bay is looming.  You'll have to return to Booty Bay quickly and inform the Baron.First, however, it might be a good idea to sabotage some of the pirates' supplies while you're still in their favor.  The pirates keep most of their supplies belowdecks, spread out across the entire fleet.",
+    "name": "Sinking From Within",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

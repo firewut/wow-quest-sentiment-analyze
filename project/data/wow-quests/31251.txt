@@ -1,0 +1,9 @@
+{
+    "_id": "31251",
+    "added_in_patch": 5,
+    "description": "Yeah, yeah.\r\n\r\nEveryone knows us goblins do tinkering. And explosives. And... well, ya' know, the less reputable stuff.\r\n\r\nBut what nobody knows is that I'm really a great chef! It's a hobby of mine.\r\n\r\nGather us up some meaty bits from the creatures around here, and I'll cook us up the best meals ANYWHERE!\r\n\r\nAnd I promise, I'll only use three or four percent rocket fuel.",
+    "name": "Best Meals Anywhere!",
+    "requires_level": 87,
+    "side": "horde",
+    "zone": "Kun-Lai Summit"
+}

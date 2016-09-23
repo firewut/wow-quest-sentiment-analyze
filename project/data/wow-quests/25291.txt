@@ -1,0 +1,7 @@
+{
+    "_id": "25291",
+    "description": "You've proven you're worthy of at least participating in our most basic training.You'll find one of our settlements east of here.  Speak to instructor Mylva there.",
+    "name": "Twilight Training",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

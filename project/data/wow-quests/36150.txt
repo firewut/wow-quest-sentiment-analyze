@@ -1,0 +1,8 @@
+{
+    "_id": "36150",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "LFG WLK 75-80",
+    "requires_level": 73,
+    "zone": "Quests"
+}

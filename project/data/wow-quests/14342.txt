@@ -1,0 +1,7 @@
+{
+    "_id": "14342",
+    "description": "The demons are on the move, <race>!If nothing is done, we'll be overrun in a matter of weeks. I've just returned from Mannoroc Coven, where the infernals there are falling from the sky!We need to at least buy ourselves some time. Get down there and pick up where I left off!",
+    "name": "Infernal Encroachment",
+    "requires_level": 31,
+    "zone": "Desolace"
+}

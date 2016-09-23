@@ -1,0 +1,7 @@
+{
+    "_id": "14263",
+    "description": "Living Ire Thyme. I must have more! Be quick about it, will you?",
+    "name": "Waste of Thyme",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

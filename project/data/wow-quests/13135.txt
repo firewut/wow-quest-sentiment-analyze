@@ -1,0 +1,7 @@
+{
+    "_id": "13135",
+    "description": "Southeast of here, at the eastern reaches of Crystalsong Forest, is an area known as the Unbound Thicket. Within that thicket creeps all manner of life. One thing all of the affected creatures of the thicket share in common is their affinity for magical energy. Each of them holds pure, crystallized energy. Enough to kill us all should it ever destabilize!Travel to the Unbound Thicket and kill its denizens for crystallized energy. We need fuel and they need to die. We call that a \"win-win.\"",
+    "name": "It Could Kill Us All",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

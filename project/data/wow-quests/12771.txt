@@ -1,0 +1,7 @@
+{
+    "_id": "12771",
+    "description": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.Take this, <name>.  Guard it close, and secure its passage to Ironforge.  Magni Bronzebeard is eager to take the fight to Northrend, and this will bring him closer to his goal.",
+    "name": "Ironforge",
+    "requires_level": 65,
+    "zone": "Quests"
+}

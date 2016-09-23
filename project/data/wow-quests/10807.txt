@@ -1,0 +1,7 @@
+{
+    "_id": "10807",
+    "description": "The Ashtongue tribe is feared among all Broken.  It consists of the most vicious and bloodthirsty individuals, handpicked by Akama himself.  They are as fierce and ruthless as any naga, demon or blood elf in Illidan's army and they have been deployed in large numbers at the Ruins of Baa'ri, to the north.  Go there and put a dent in their numbers before they get a chance to mount an attack on us.",
+    "name": "The Ashtongue Broken",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

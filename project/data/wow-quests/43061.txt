@@ -1,0 +1,8 @@
+{
+    "_id": "43061",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Silkweave Bandages",
+    "requires_level": 103,
+    "zone": "Monk Campaign"
+}

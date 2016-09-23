@@ -1,0 +1,7 @@
+{
+    "_id": "10617",
+    "description": "The silk from the cocoons of the silkwings are used for all manner of things in the village. We can never get enough, and we never have enough.It is difficult to harvest the cocoons from the larva once they begin the process of metamorphosis.Our warriors are occupied with the assault on our village. If you could gather these for us, that would be helpful.",
+    "name": "Silkwing Cocoons",
+    "requires_level": 61,
+    "zone": "Blade's Edge Mountains"
+}

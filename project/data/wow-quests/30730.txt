@@ -1,0 +1,8 @@
+{
+    "_id": "30730",
+    "added_in_patch": 5,
+    "description": "Jinyu normally avoid our order, but every few years, we find one that subscribes to the way of the Crane. One such jinyu is Dextrous Izissha.Izissha is your next challenger. He waits for you on the island's southwestern shore.",
+    "name": "Dextrous Izissha",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

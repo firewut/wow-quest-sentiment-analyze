@@ -1,0 +1,7 @@
+{
+    "_id": "25953",
+    "description": "I've taken the liberty of performing some preliminary scouting. The naga may not be aware of our position, but they are not entirely unprepared for intruders.Beyond their patrols, they have set up magical sentry devices that will warn them of unwelcome guests. Fortunately, they seem to have sacrificed quality for quantity, and there is definitely a window in which the devices can be destroyed before their alarms are answered.I trust that you can see to this before our other soldiers arrive.",
+    "name": "Swift Approach",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

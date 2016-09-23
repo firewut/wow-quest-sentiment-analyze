@@ -1,0 +1,7 @@
+{
+    "_id": "10606",
+    "description": "The best way to destroy the rest of the Legion's supplies is to use their own weapons against them. I've been working on a rig that will let you take control of one of those Fel Reaver Sentinels below.There are a couple things I need to work out, yet. For that, I'll need the manual that Doctor Gutrick keeps locked in a chest at the bottom of the ramp. He probably won't give up the key without a fight, so you'll need to capture it. Bring the fel reaver manual back to me and I'll do the rest!",
+    "name": "The Art of Fel Reaver Maintenance",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

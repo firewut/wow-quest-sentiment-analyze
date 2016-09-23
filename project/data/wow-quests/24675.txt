@@ -1,0 +1,8 @@
+{
+    "_id": "24675",
+    "description": "I'm not dumb, <name>.  I know what's ahead of us.Our people are going to go through those gates and fight against an enemy that is better trained, has more numbers and better weapons than us.Even if we succeed, it'll be at a great cost.  For most of us, today's meal will be the last.I cannot fight, but I sure can cook.  Bring me meat from the stags that roam this area and I will ensure that the last meal these folks get will be their best.",
+    "name": "Last Meal",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

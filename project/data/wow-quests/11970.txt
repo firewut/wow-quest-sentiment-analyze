@@ -1,0 +1,8 @@
+{
+    "_id": "11970",
+    "description": "The festival is a time for fun and laughter, there's no mistake. It's important, however, that you understand the origins of this holiday. Education should be sought out and savored.The Festival Loremaster in the Alliance capitals can guide your way. Go now and learn.",
+    "name": "The Master of Summer Lore",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Midsummer"
+}

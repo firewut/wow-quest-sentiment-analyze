@@ -1,0 +1,8 @@
+{
+    "_id": "39869",
+    "added_in_patch": 7,
+    "description": "[PH] As foretold, you have arrived... Helya is foolish to think I'll let her ferry me into Helheim. Odyn has already smiled upon me, my soul belongs in Valhallas. \r\n\r\nMake no mistake, I am not a prisoner. Before my death Odyn appeared to me in the form of a raven. He praised my battles in life and gave me a quest no vrykul could refuse. The Helerjar arrived... and I let them slay me.\r\n\r\nPrisoner-- nay, I am a liberator, sent by Odyn to free the souls of Valarjar.",
+    "name": "Toll for the Soul",
+    "requires_level": 98,
+    "zone": "Helmouth Cliffs"
+}

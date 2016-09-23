@@ -1,0 +1,8 @@
+{
+    "_id": "32606",
+    "added_in_patch": 5.2,
+    "description": "The saurok are vile, but we share an enemy: the mogu. And I'd rather send saurok to kill mogu than send my own men.We've been collecting mogu weaponry. Bury these polearms into the skulls of the saurok. Feed our enemies' rivalry, and you may save Alliance lives.",
+    "name": "Subtle Encouragement",
+    "requires_level": 90,
+    "zone": "Quests"
+}

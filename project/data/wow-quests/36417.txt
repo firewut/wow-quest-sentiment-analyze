@@ -1,0 +1,9 @@
+{
+    "_id": "36417",
+    "added_in_patch": 6,
+    "description": "Those ogres took all of my hexweave!I kept it hidden at the bottom of my bag. How could they possibly know of its importance?If they discover even a portion of hexweave's properties, it means trouble for us all.<name>, this is a Frostwolf problem. It requires a Frostwolf solution.Will you help me?",
+    "name": "From Their Cold Dead Hands",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

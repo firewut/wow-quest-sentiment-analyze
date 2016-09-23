@@ -1,0 +1,9 @@
+{
+    "_id": "36346",
+    "added_in_patch": 6,
+    "description": "Ah, commander, it is good to see you again. With the materials we have gathered here in Draenor, we have been able to construct a trap strong enough to immobilize even the mightiest beast.These enormous creatures can be found on the western side of Nagrand, among the most fertile plains.A word of warning: these beasts are great and powerful. You may want to bring some friends along.",
+    "name": "Bigger Trap, Better Rewards",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

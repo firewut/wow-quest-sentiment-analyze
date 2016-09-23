@@ -1,0 +1,7 @@
+{
+    "_id": "25161",
+    "description": "I was supposed to receive a shipment of jasper from Azeroth Express, but I just heard their ship crashed into some tiny island called Ogrezonia.  I worry about the crew, as the giant female ogres on the island are rumored to perform horrible rituals on men who happen upon their island.  My work must go on, though, and we need those gems.  I've heard great things about your skill as a jewelcrafter - could you deliver three jagged jaspers by the end of the day?",
+    "name": "Ogrezonians in the Mood",
+    "requires_level": 1,
+    "zone": "Jewelcrafting"
+}

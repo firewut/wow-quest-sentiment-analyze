@@ -1,0 +1,7 @@
+{
+    "_id": "24554",
+    "description": "This battered old sword hilt has seen better days. Before the hilt was snapped from the blade, it must've been a magnificent example of the blacksmith's art.The graceful symbols and exotic gemstones decorating the hilt suggest that the weapon may have belonged to a powerful person. Surely, the Sunreavers would be interested in hearing about the recovery of such an artifact. Seek out their representatives at Quel'Delar's Rest, to the south of the Argent Tournament Grounds.",
+    "name": "The Battered Hilt",
+    "requires_level": 80,
+    "zone": "Icecrown"
+}

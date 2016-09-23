@@ -1,0 +1,8 @@
+{
+    "_id": "38915",
+    "added_in_patch": 7,
+    "description": "Your timing is fortunate. Our forces at Snowblind Mesa report seeing the Underking above ground.What is more, he is lightly guarded, and has the hammer with him. Thanks to your efforts, we can meet them in battle.Meet us at Snowblind Mesa and let us take the fight to Dargrul together.",
+    "name": "Battle of Snowblind Mesa",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

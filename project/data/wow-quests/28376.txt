@@ -1,0 +1,7 @@
+{
+    "_id": "28376",
+    "description": "The head of one of Deathwing's most formidable black dragons is now in your possession.While many in Azeroth would pay dearly for such an artifact, something tells you that it belongs in a museum for all to see and remember.Harrison Jones is likely to have the proper connections.Sullah would certainly be happy to deliver it to him.",
+    "name": "Myzerian's Head",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

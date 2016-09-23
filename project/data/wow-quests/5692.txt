@@ -1,0 +1,7 @@
+{
+    "_id": "5692",
+    "description": "I would teach you all you need know, <name>, but there things that only your own tribe can show you. One be how to create a new robe for you... one that reflect your place in your faith.Aelthalyste say that I direct you to her in the Undercity. She be in the War Quarter waiting for you. If you not go then she be very displeased with both of us.",
+    "name": "<NYI> In the Dark It was Created",
+    "requires_level": 15,
+    "zone": "Priest"
+}

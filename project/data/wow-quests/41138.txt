@@ -1,0 +1,8 @@
+{
+    "_id": "41138",
+    "added_in_patch": 7,
+    "description": "With leyline energy feeding in from Anora, this chamber can begin to awaken.It will be a slow process, and we must take care to mask this activity from our enemies, a process which itself requires enormous effort and focus.Furthermore, there is the conundrum of actually consuming the mana in this form. A stream too weak is not enough to provide sustenance - too powerful and it would vaporize us.There is much work to be done yet. For now, let us examine the feed.",
+    "name": "Feeding Shal'Aran",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

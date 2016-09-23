@@ -1,0 +1,7 @@
+{
+    "_id": "26870",
+    "description": "Naralex had a noble goal.Our great leader aspired to enter the Emerald Dream and help regrow these harsh lands back into the lush forest it once was.But something went terribly wrong.Naralex's trusted allies, the Druids of the Fang, turned on him! They seek not to heal the Barrens, but to dominate it.<name>, before we can awaken Naralex and restore balance to this vital place, you need to eradicate the Fanglords. Their influence has sunk too deeply.",
+    "name": "Cleansing the Caverns",
+    "requires_level": 15,
+    "zone": "Wailing Caverns"
+}

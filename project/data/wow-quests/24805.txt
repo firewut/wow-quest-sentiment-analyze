@@ -1,0 +1,7 @@
+{
+    "_id": "24805",
+    "description": "Something's not right about this Crown Chemical Company. Steamwheedle's got eyes on 'em, and we could use a few more.Head to Orgrimmar if you're interested in helping us out. Detective Snap Snagglebolt is heading up the investigation there, and he can use all the help he can get.",
+    "name": "Uncommon Scents",
+    "requires_level": 1,
+    "zone": "Love is in the Air"
+}

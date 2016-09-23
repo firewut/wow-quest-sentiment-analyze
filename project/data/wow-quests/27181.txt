@@ -1,0 +1,7 @@
+{
+    "_id": "27181",
+    "description": "It looks like a group of the ambushers stayed behind. Make them pay for their insolence! Kill all of the Bloodfang stalkers at Olsen's Farthing. For Sylvanas! For the Horde!",
+    "name": "Excising the Taint",
+    "requires_level": 11,
+    "zone": "Silverpine Forest"
+}

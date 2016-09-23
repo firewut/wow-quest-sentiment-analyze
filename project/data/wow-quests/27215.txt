@@ -1,0 +1,7 @@
+{
+    "_id": "27215",
+    "description": "There's a fellow the locals know as \"Swamp Eye\" Jarl, who lives alone out in the swamp. Sometime ago he \"took over\" Swamplight Manor after the previous owners disappeared under mysterious circumstances.I like to send someone to check up on him every once in a while. He kind of reminds me of my grandfather, you know? Some say he's not quite right in the head.If you're headed northwest on the road out of Theramore, you'll find Swamplight Manor in the Witch Hill area, before the road turns west.",
+    "name": "The Hermit of Swamplight Manor",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

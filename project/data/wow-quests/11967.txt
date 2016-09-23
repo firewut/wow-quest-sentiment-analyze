@@ -1,0 +1,7 @@
+{
+    "_id": "11967",
+    "description": "Malygos is certainly aware that something is amiss.I know him. His focus is fragmented. I am confident that I can lure him from the safety of his realm when he learns what has become of his precious Saragosa.Take me to Raelorasz at once, <name>. He must rouse every dragon he commands to face Malygos.",
+    "name": "Mustering the Reds",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

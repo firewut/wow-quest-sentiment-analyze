@@ -1,0 +1,9 @@
+{
+    "_id": "31780",
+    "added_in_patch": 5,
+    "description": "I won't be such a pushover this time around!",
+    "name": "Old MacDonald",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Battle Pets"
+}

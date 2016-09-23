@@ -1,0 +1,7 @@
+{
+    "_id": "13072",
+    "description": "I know why you've come... they've sent you to bring me back, but that cannot happen. I carry the plague of undeath, <class>, and I'll not share my fate with those near me. No, I shall stay here.My only regret lies in what I may become when death grips me. I do not fear death itself, but I loathe to consider serving the traitor, Arthas.Leave me... and see to it that no one else comes looking. You would do me a great disservice if you were to expose anyone to the plague that I carry.",
+    "name": "A Hero Remains",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

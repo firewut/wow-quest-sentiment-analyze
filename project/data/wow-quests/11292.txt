@@ -1,0 +1,7 @@
+{
+    "_id": "11292",
+    "description": "Glad to meet you. I've come here from the Grizzly Hills to do business with your cohorts. My people maintain a large outpost there, and you'd do well to visit it when you head north.I've set up traps in the woodlands and snowy areas around here. With the meat and the furs from the creatures they capture, I'll have plenty to barter with the townspeople.I can offer you a share of my profits if you're willing to help gather prey from the traps. Beware though, you won't be the only predator out there.",
+    "name": "Preying Upon the Weak",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

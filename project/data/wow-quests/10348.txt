@@ -1,0 +1,7 @@
+{
+    "_id": "10348",
+    "description": "I hear that a group of 'druids' from Azeroth has taken quite an interest in the effects of our eco-dome technology.The Cenarion Expedition's representatives are eager to get access to the plants growing within the domes, particularly one called the ivory bell, known for its healing properties. They're found in clumps of brush around larger plants in Eco-Dome Midrealm.I'll share the profits with you if you're willing to gather the herbs for my first delivery.",
+    "name": "New Opportunities",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42666",
+    "added_in_patch": 7,
+    "description": "<name>, Battlelord Gaardoun asked me to retrieve you. He says there is a very important matter that he needs your help with.\r\n\r\nHe requests your presence back on the Fel Hammer as soon as possible.",
+    "name": "Return to the Fel Hammer",
+    "requires_level": 101,
+    "zone": "Demon Hunter Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32872",
+    "added_in_patch": 5.3,
+    "description": "Our work be far from finished, <race>. If ya willin' ta put ya neck on the line for the Darkspear once more, I'll be sure ta see ya get a proper reward.",
+    "name": "Battlefield: Barrens",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

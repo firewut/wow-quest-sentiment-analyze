@@ -1,0 +1,8 @@
+{
+    "_id": "40465",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Rockcrawler Chasm Treasure",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

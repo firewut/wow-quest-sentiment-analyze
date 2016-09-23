@@ -1,0 +1,7 @@
+{
+    "_id": "12713",
+    "description": "The time has come to end this charade, <name>.As valuable as your information has been, we must bring Drakuru down and bring his project to an end before his freaks are unleashed.We've modified your scepter for the job. When the time is right, you will be able to use it on Drakuru's Blightbloods and turn them against him. It's your only hope of defeating him.Fight well.",
+    "name": "Betrayal",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

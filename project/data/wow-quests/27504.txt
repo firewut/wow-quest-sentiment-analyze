@@ -1,0 +1,7 @@
+{
+    "_id": "27504",
+    "description": "I won't be so impolite as to refuse your aid if you're offering it.We're locked in constant battle with the twilight drakes and dragons to the south. Our strikes have not been entirely without success, but the dragons coming out of Grim Batol have been breathing some kind of corruption upon us that takes time to cleanse.Velastrasza and Baleflame are attending to our injured brothers. Go and see if you can be of help to them.",
+    "name": "Even Dragons Bleed",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

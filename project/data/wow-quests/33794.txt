@@ -1,0 +1,9 @@
+{
+    "_id": "33794",
+    "added_in_patch": 6,
+    "description": "We've located the prisoners. They are being held in captivity here, inside the Shadowmoon fortress.Please rescue as many of them as you can. And hurry. We can hear their screams out here.",
+    "name": "The Great Salvation",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

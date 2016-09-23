@@ -1,0 +1,7 @@
+{
+    "_id": "9726",
+    "description": "The naga of the Bloodscale Enclave to the northeast have begun to kill our people.  We cannot allow this to continue, <class>!We suggest that you teach them a lesson as proof of our friendship.",
+    "name": "Now That We're Friends...",
+    "requires_level": 62,
+    "zone": "Zangarmarsh"
+}

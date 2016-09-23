@@ -1,0 +1,8 @@
+{
+    "_id": "37449",
+    "added_in_patch": 7,
+    "description": "I'm not going to let Cordana Felsong get away with this. There is no way in hell I am going to let that warden witch turn my people.\r\n\r\nAs for Nightglaive... I will NOT suffer a traitor to live!\r\n\r\nAre you with me, <name>?",
+    "name": "Dark Revelations",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

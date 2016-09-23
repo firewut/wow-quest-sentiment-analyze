@@ -1,0 +1,8 @@
+{
+    "_id": "41039",
+    "added_in_patch": 7,
+    "description": "Morjirn, the head brewer of the Tideskorn clan, has the Storm Brew recipe.I have never been strong enough to assault his fortress alone, but together with you, I think we can claim retribution for my fallen master. I would like nothing better than to pry the recipe from Morjirn's cold, dead fingers.While we are there, we will sample his Storm Brew. I'd like to see if his brewing skills are even near my master's.",
+    "name": "Stolen Knowledge",
+    "requires_level": 110,
+    "zone": "Monk Campaign"
+}

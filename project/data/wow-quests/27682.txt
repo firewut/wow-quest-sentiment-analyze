@@ -1,0 +1,8 @@
+{
+    "_id": "27682",
+    "description": "The Titans built two Ancient Stone Keepers to help protect Uldaman from would-be invaders and to oversee daily operations while Ironaya and Archaedas slumber. One is still fully operational in Temple Hall, but the one in Echomok Cavern has been corrupted by something.I suspect that one of the Old Gods is responsible for this, and you're going to help me see if that is indeed true. Topple both of the guardians and bring me their power cores. They'll tell us all we need to know. ",
+    "name": "We Require More Minerals",
+    "requires_level": 35,
+    "side": "horde",
+    "zone": "Uldaman"
+}

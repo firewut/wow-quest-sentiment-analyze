@@ -1,0 +1,7 @@
+{
+    "_id": "12840",
+    "description": "If anyone knows where the admiral is, then surely it must be his captains on the ships in Onslaught Harbor.<The lord-commander rubs his hands together.>Welsington and Hartford are their names if memory serves. Go beat the information out of them and then end their miserable lives.I want to know where the grand admiral is hidden!",
+    "name": "In Strict Confidence",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

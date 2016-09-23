@@ -1,0 +1,7 @@
+{
+    "_id": "13632",
+    "description": "The moon priestess has a plan to make sure that no further furbolg descend upon us from the highlands. I am more concerned with those that are already at the ruins, some of which are massing just outside of the post.Distasteful as it may be, I must ask that you head north into the Ruins of Ordil'Aran and slay the furbolg. We cannot fight on two fronts!Thank you, <class>.",
+    "name": "Rear Guard Duty",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

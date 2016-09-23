@@ -1,0 +1,7 @@
+{
+    "_id": "12136",
+    "description": "Here it is, <name>. I have translated everything printed upon the pages of the tome. Inside it you will find a list of the names of Cult of the Damned members spanning the entire continent.Their network of spies and operatives is impressive, to say the least.Farewell, friend. May the book serve you and your people well.",
+    "name": "The Translated Tome",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

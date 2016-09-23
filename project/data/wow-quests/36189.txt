@@ -1,0 +1,9 @@
+{
+    "_id": "36189",
+    "added_in_patch": 6,
+    "description": " Siram;, we're going to need a lot of lumber if we're going to build this garrison into a suitable fortress. That means we're going to have to do a little work.While I certainly wouldn't ask you to dirty your hands with manual labor, I do need you to go out and find timber for our mill. Once you mark a tree a lumberjack will come chop it down and give you the timber.Let's give our lumberjacks a test run. There's a tree nearby!",
+    "name": "Easing into Lumberjacking",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

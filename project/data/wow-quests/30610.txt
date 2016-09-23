@@ -1,0 +1,8 @@
+{
+    "_id": "30610",
+    "added_in_patch": 5,
+    "description": "Now that grummles are rescued, we need to rescue our supplies.The Ook of Dook is only chief because he has supplies.Go to the Dooker Dome area north west of here. Take some grummles with you. Keep them safe and get them near supply crates.Grummles know what to do from there.Rabbitsfoot and I will meet you there.",
+    "name": "Grummle! Grummle! Grummle!",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

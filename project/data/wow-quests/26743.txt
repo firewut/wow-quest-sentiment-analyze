@@ -1,0 +1,7 @@
+{
+    "_id": "26743",
+    "description": "Ahh... these must be names of their totemic creatures - the animals that they attribute to the spirits.  Let's see... Mahamba as water, Tsul'Kalu as earth, Pogeyan as... air?  Fire?  I can't make this part out.I'd like some more information on these spirits of theirs.  The Bloodscalp have a camp close to here, in the Tkashi ruins.  Maybe you can find some details there.",
+    "name": "Sacred to the Bloodscalp",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

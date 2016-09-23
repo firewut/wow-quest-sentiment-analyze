@@ -1,0 +1,8 @@
+{
+    "_id": "28509",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Megs Dreadshredder in Gadgetzan. Help the Horde and the Bilgewater Cartel establish a presence in Tanaris before the Alliance does!You can reach Gadgetzan in Tanaris by traveling south to the shore from Fizzle and Pozzik's Speedbarge in southeastern Thousand Needles.Destiny calls!",
+    "name": "Warchief's Command: Tanaris!",
+    "requires_level": 44,
+    "side": "horde",
+    "zone": "Tanaris"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10245",
+    "description": "You try to transcribe the shapes as you see them flash across your eyes.  The results are less than exact, but should serve as adequate evidence to prove or disprove the Aldor's suspicions.",
+    "name": "B'naar Console Transcription",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

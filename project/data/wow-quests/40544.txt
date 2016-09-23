@@ -1,0 +1,8 @@
+{
+    "_id": "40544",
+    "added_in_patch": 7,
+    "description": "Masterful shadowruby... a good choice. Before we can cut, though, we need gems.Here stands a giant statue of Nashal, an ancient vrykul. Laid in its eye sockets are two of the stones we need.Ascend the statue, take its jeweled eyes, and return them to Jabrul.",
+    "name": "Eyes of Nashal",
+    "requires_level": 106,
+    "zone": "Jewelcrafting"
+}

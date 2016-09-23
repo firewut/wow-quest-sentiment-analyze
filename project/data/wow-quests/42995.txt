@@ -1,0 +1,8 @@
+{
+    "_id": "42995",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "A Taste For Blood",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31172",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Monk Training",
+    "requires_level": 2,
+    "zone": "Warrior"
+}

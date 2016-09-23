@@ -1,0 +1,8 @@
+{
+    "_id": "384",
+    "description": "Nothing my tavern patrons enjoy more than some Beer Basted Boar Ribs!  Only problem is, the local trapper who used to bring me supplies enlisted in the King's Army to help with the war on the Alliance front. Maybe you can help me out?  If you bring me some boar ribs and a Rhapsody Malt from the tavern here, I'll give you the family recipe for my famous Beer Basted Boar Ribs, not to mention a free sample!  The secret's in the Malt!",
+    "name": "Beer Basted Boar Ribs",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

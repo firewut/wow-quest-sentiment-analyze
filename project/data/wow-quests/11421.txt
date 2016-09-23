@@ -1,0 +1,7 @@
+{
+    "_id": "11421",
+    "description": "We must strike while the vrykul forces are in disarray! Take the harpoon control mechanism to Nifflevar and locate the northernmost harpoon building on the bluff side of the village.Once there, commandeer one of the vrykul harpoon guns that are stationed on the building's deck. Use the harpoon gun to rain hell upon Wyrmskull Village! Destroy the longhouse, dockhouse, storage facility and any defenders that the vrykul may send at you!Do this and Daggercap Bay will become a much safer port!",
+    "name": "It Goes to 11...",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

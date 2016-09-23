@@ -1,0 +1,7 @@
+{
+    "_id": "11663",
+    "description": "Thank you, <class>! The information you've extracted is of vital importance to the Kirin Tor.Return at once to Donathan as we make plans for the rescue of Lady Evanor.",
+    "name": "Sharing Intelligence",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26965",
+    "description": "You're just in time, <name>nub. It is <name>nub, right?<Grand Executor Mortuus looks at a sheet of paper.>Yes, that's what the paperwork says: \"<name>nub.\"<Grand Executor Mortuus points to your name on the sheet of paper.>Where was I? Oh yes, you're just in time! The Warchief should be arriving at any moment to meet with our leader and savior, the Dark Lady herself. Just stand by and be at your best behavior. I expect that when this demonstration is over we will all receive commendations!",
+    "name": "The Warchief Cometh",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

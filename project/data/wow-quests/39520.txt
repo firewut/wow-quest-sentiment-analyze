@@ -1,0 +1,8 @@
+{
+    "_id": "39520",
+    "added_in_patch": 6.2,
+    "description": "The Alliance refuse to back down in Ashran. Teach them that the Horde will not stand aside while they plunder the power of the ancient ogre empire to use for their own schemes.",
+    "name": "Ashran Dominance",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

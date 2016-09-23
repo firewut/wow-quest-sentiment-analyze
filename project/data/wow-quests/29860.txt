@@ -1,0 +1,7 @@
+{
+    "_id": "29860",
+    "description": "I shall speak plainly to you, little <race>. My people have not been the same since our ties with Thorim were severed.Volkhan will not rest until either he, or we, are no more. We only want peace, but it seems we have no choice but war.",
+    "name": "Diametrically Opposed",
+    "requires_level": 77,
+    "zone": "Quests"
+}

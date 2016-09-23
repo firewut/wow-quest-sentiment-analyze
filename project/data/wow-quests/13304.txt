@@ -1,0 +1,7 @@
+{
+    "_id": "13304",
+    "description": "The Scourge is still reeling from our attack, <name>.  Now is the time to capitalize on our momentum.The strategically important valley below us is wide open.  We've located a disassembled demolisher vehicle in what we believe is working condition in the southeastern corner of the Valley of Lost Hope area.If you can get the remaining parts from the Scourge scavengers, you should be able to get it running again.  A single working demolisher can wreak havoc on the enemy's ground units.",
+    "name": "Field Repairs",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

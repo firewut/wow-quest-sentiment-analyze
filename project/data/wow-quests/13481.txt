@@ -1,0 +1,7 @@
+{
+    "_id": "13481",
+    "description": "The Light smiles upon me. I have not yet died in this living nightmare, but the Scourge will kill me and tear my body apart for use in their 'work' here if I cannot escape.I cannot make it on my own, <class>, but with your help, I may yet live to fight the Scourge again.Will you help me make my escape before the Scourge's butchers come to finish me off?",
+    "name": "Let's Get Out of Here!",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24970",
+    "description": "While you were inside that cave, your big friend Darnell came by with some alarming news.Since the val'kyr arrived, we've seen more and more undead that chose not to join our forces under the banner of the Dark Lady.  They've been gathering at a small camp here in the valley, and now they've organized forces.They plan to attack Deathknell, <class>.Darnell is just down the road, to the east.  Be careful, <name>.  While those undead aren't completely brainless, they're still not quite right in the head.",
+    "name": "No Better Than the Zombies",
+    "requires_level": 3,
+    "side": "horde",
+    "zone": "Deathknell"
+}

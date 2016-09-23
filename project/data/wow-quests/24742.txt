@@ -1,0 +1,7 @@
+{
+    "_id": "24742",
+    "description": "I created a thermometer to take readings of the temperatures at the volcano, and I'd like to find the hottest lava flows.  It gives the measurements in degrees Kraklenheit!Here, take it, and take readings of the temperatures at the ridge whenever you see a hot spot!Hot spots usually take the form of a glowing, rocky pillar jutting out of the ground.  You'll find them around the base of Fire Plume Ridge... one trip around the perimeter will likely suffice.",
+    "name": "Finding the Source",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

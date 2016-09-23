@@ -1,0 +1,8 @@
+{
+    "_id": "26989",
+    "description": "The battle over this region still rages, <name>nub. Although we soundly beat back the Gilnean defenses and took Gilneas for the Horde, a small group of rebels managed to escape. The \"Gilneas Liberation Front\" - as they call themselves - make attacks of opportunity against our forces in the field. The rebels have had a few minor victories and now grow brazen in their assaults! The time to strike back is now, <name>nub.Venture south into the wilds of Silverpine and kill any rebel that you cross.",
+    "name": "The Gilneas Liberation Front",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

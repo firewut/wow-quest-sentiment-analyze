@@ -1,0 +1,9 @@
+{
+    "_id": "35170",
+    "added_in_patch": 6,
+    "description": "They... they came out of nowhere. From that direction.<The young girl points vaguely west through her tears.>They were on their nasty wolves.Please, commander, my family's honor is at stake. Will you get vengeance for me?",
+    "name": "Consumed by Vengeance",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41606",
+    "added_in_patch": 7,
+    "description": "<Kell barely manages to speak.>That naga witch... has given many of my kin... to the sea giants.Brytag was... the last one I saw alive.Find him quickly.",
+    "name": "Finding Brytag",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

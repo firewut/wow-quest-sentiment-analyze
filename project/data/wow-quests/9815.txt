@@ -1,0 +1,7 @@
+{
+    "_id": "9815",
+    "description": "The most affected elements of water can be found in the Halaani Basin, southwest of here, beneath the abandoned city of Halaa. While some distressed elements can be destroyed without any impact upon the environment, spawns of muck must be physically removed from the world once destroyed.You see, muck spawns leave behind globules of tainted debris that if left untouched will spread and further contaminate the environment.Destroy these muck spawns and bring back their muck-ridden cores.",
+    "name": "Muck Diving",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "42815",
+    "added_in_patch": 7,
+    "description": "If I'm to assist in this war, I need firsthand information. I will fly to the Broken Shore and  see the battlefield for myself.Your record as a proven commander is unquestioned, and you were there. I could use your insight.Will you accompany me to the Broken Shore? I don't anticipate engaging the enemy, but that close to the Fel Storm, one can never be sure.",
+    "name": "Return to the Broken Shore",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Artifact"
+}

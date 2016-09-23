@@ -1,0 +1,8 @@
+{
+    "_id": "32806",
+    "added_in_patch": 5.3,
+    "description": "I am glad you are here, <name>. I have been using my dream brew to experience events around the world, but the more I learn, the more confused I become.For instance, King Wrynn has asked the dwarves of Ironforge for more troops, but they do not all support him.I will tell you more, but I would also like to hear from your experience firsthand...",
+    "name": "The King and the Council",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

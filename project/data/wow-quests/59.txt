@@ -1,0 +1,8 @@
+{
+    "_id": "59",
+    "description": "For your shrewdness and valor, I have a marker here that is good for one piece of armor.  I want you to take it to Sara Timberlain at the Eastvale Logging Camp.  Give her the marker, and she will fashion the armor for you.  And after you receive it, <name>, use it in the defense of Elwynn.Eastvale is just east of this post across the bridge.",
+    "name": "Cloth and Leather Armor",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Elwynn Forest"
+}

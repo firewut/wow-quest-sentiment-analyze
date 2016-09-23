@@ -1,0 +1,9 @@
+{
+    "_id": "36469",
+    "added_in_patch": 6,
+    "description": "I been tryin' ta get dis place ready for your pets, but we uncovered some rude pests while buildin' da garrison.  I tried takin' care o' dem myself, but they be too tough for my little friends.Beat da angry carrot in da garden, da rat eatin' our food, and da ornery water creature harassing da fishermen.  If you can do it, I be free to finish up da work on your menagerie.",
+    "name": "Pets Versus Pests",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

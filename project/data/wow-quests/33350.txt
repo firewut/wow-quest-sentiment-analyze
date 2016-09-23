@@ -1,0 +1,8 @@
+{
+    "_id": "33350",
+    "added_in_patch": 6,
+    "description": "Redridge group trial. Get to the blue marker, then the green marker, then the red marker, then return to the Lakeshire Ironelf cmap.",
+    "name": "Redridge Group Trial",
+    "requires_level": 1,
+    "zone": "Redridge Mountains"
+}

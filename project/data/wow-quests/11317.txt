@@ -1,0 +1,7 @@
+{
+    "_id": "11317",
+    "description": "We braved the Rivenwood because of my troubled dreams concerning my worg life-friend, Ulfang. He has called out for help, and you must go to him.But, you do not have the means to speak with him, or walk amongst the other worgs. I know a way.First, you must cleanse your inner turmoil.There is a shrine that sits at the top of Frostblade Peak, northeast of Camp Winterhoof. A single path leads up to it from the western base of the mountain.Meditate there and then return to me.",
+    "name": "The Cleansing",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

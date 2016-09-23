@@ -1,0 +1,7 @@
+{
+    "_id": "7366",
+    "description": "The Archbishop is as kind as he is wise. For a man to look mercifully on such a wretched lot...<Commander Philips shakes his head in disbelief.>Too kind... Just too kind.The Archbishop asks that we take pity on the undead and grant them swift and permanent deaths. For this grand display of mercy, we merely require their black, disease ridden hearts.Bring me the hearts of the Forsaken so that they may be ceremoniously incinerated at the Cathedral of Light. Make haste, <name>!",
+    "name": "The Archbishop's Mercy",
+    "requires_level": 200,
+    "zone": "Alterac Valley"
+}

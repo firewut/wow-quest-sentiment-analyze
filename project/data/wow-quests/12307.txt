@@ -1,0 +1,7 @@
+{
+    "_id": "12307",
+    "description": "Have you heard of the wolfsbane plant?  It is a horrible weed... it destroys our farmable crops.We spent all of last week cutting them down, but the roots are beginning to sprout again.It might not seem like an urgent matter, but a resurgence of the plant could be a real... disaster.  Do you think you could help us by uprooting them where you find them near the village?",
+    "name": "Wolfsbane Root",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28842",
+    "description": "Umbranse lurks in the back of Mazthoril. His time has come.Unfortunately, I am unable to join you on this quest. While I'd love to get my hands on that snake, Mazthoril's magic would rip me apart in its current state. No, I need you to finish this for me.When the deed is done, use this charm. It will return you safely to the egress.",
+    "name": "Umbranse's Deliverance",
+    "requires_level": 53,
+    "zone": "Winterspring"
+}

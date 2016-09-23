@@ -1,0 +1,9 @@
+{
+    "_id": "33134",
+    "added_in_patch": 5.4,
+    "description": "Greetings, <name>. I am privileged to offer you an excellent opportunity. Through the centuries, we've honed a method by which the very laws of chance themselves can be bent. With a Warforged Seal, valuable artifacts will find their way into your hands more frequently as you pursue Garrosh and his forces.",
+    "name": "Warforged Seals",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Vale of Eternal Blossoms"
+}

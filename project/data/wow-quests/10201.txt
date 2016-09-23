@@ -1,0 +1,7 @@
+{
+    "_id": "10201",
+    "description": "The oil is finally ready for its first test. It seems heavy enough to serve as a high quality weapon oil.The only way to find out is to have a professional try it out. See Grek over there by the wanted posters? Sure, he's no poet, but the orc knows his way around a weapon!Take a sample of the oil to him and ask him to use it on his weapon. After he's had a chance to test it out, let me know what he thinks of it.",
+    "name": "And Now, the Moment of Truth",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

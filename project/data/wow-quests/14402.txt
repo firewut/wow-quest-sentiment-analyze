@@ -1,0 +1,8 @@
+{
+    "_id": "14402",
+    "description": "I suppose now is as good a time to leave as any.I have my best outfit, my favorite book and my loving cat.I hope I'm not forgetting anything.Tell that mayor of yours that I'll be on my way.  I suppose I'll see you in town with the others!",
+    "name": "Ready to Go",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

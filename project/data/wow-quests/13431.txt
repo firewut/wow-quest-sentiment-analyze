@@ -1,0 +1,7 @@
+{
+    "_id": "13431",
+    "description": "Bring me the elemental signets that the cudgel requires!The earthen signet is held by Gruul the Dragonkiller. Gruul can be found inside his lair in the Blade's Edge Mountains.The second signet is the blazing heart of a creature known as Nightbane. This mythical beast is said to reside in the hallowed halls of the prophet, Medivh.Make haste!\r\n",
+    "name": "The Cudgel of Kar'desh",
+    "requires_level": 70,
+    "zone": "The Slave Pens"
+}

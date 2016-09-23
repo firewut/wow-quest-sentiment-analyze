@@ -1,0 +1,7 @@
+{
+    "_id": "11471",
+    "description": "I know why you're here, <name>.  You've been sent to kill our leader, Jonah Sterling.I'd like to offer my help.  Jonah's leadership threatens our operation.Attacking the Horde and the Alliance fleets simultaneously?  Suicidal.  Trying to sell the tuskarr as slaves when they die days after leaving this climate?  Disastrous.Jonah's hideout is located inside a cave west of here.  Bring me his spyglass as proof of the deed and my first action as leader will be to end all attacks against your allies.",
+    "name": "The Jig is Up",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

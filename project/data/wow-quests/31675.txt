@@ -1,0 +1,8 @@
+{
+    "_id": "31675",
+    "added_in_patch": 5,
+    "description": "Grandpa often told me to \"Keep my drawers clean and my dirt cleaner.\" It sounds like a joke, but he makes a good point.Vegetables tend to leave behind bits of root that can contaminate your soil... but a nice, big, white turnip will clean that gunk right up. Think you could plant a white turnip for me?",
+    "name": "The White Turnip Treatment",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8494",
+    "description": "Well hello there,  Mr.  Fancypants, aren't you a sight for sore eyes. In case you hadn't heard while you were out there \"adventuring\", the Alliance has been gearing up for a war in Ahn'Qiraj and is in need of iron bars... a whole mess of 'em. Bring them to me in stacks of twenty. We can count on you, right, <class>?",
+    "name": "The Alliance Needs Iron Bars!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

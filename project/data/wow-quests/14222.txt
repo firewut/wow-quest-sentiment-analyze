@@ -1,0 +1,8 @@
+{
+    "_id": "14222",
+    "description": "We've got a good chokepoint here, <name>.  Feel free to say a prayer if that's your sort of thing.Take courage and let's kill these mutts.",
+    "name": "Last Stand",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

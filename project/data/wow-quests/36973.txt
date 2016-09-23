@@ -1,0 +1,9 @@
+{
+    "_id": "36973",
+    "added_in_patch": 6,
+    "description": "Now plenty of mounts have been known to run away at the sight of a fierce predator. Way out in the desolate cliffs of Gorgrond, they've got some of the fiercest.Let's put your talbuk to the test. See if the two of you can't take down the mighty raptor known as Riplash.",
+    "name": "Talbuk Training: Riplash",
+    "requires_level": 94,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

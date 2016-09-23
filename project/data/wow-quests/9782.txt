@@ -1,0 +1,8 @@
+{
+    "_id": "9782",
+    "description": "I have lived among the anchorites of Telredor for some time, <name>, and in that time I've come to know the marsh quite well. Recently, I've started to notice a disturbing change in the land to the northeast.Virtually all life there has begun to wither and die, seemingly without explanation. I have a few ideas as to what might be happening, but they are little more than speculation. If you were to bring me a sample of the soil in that area, I may be able to get to the bottom of this mystery.",
+    "name": "The Dead Mire",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Zangarmarsh"
+}

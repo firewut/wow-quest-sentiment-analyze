@@ -1,0 +1,8 @@
+{
+    "_id": "30168",
+    "added_in_patch": 5,
+    "description": "Saurok!These vile creatures are obsessed with killing and stealing. They attacked our settlement without provocation or warning.Please, <class>, can you aid us?Help us recover our lost possessions from these Riverblade raiders that march along the river and we will gladly reward you.",
+    "name": "Thieving Raiders",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

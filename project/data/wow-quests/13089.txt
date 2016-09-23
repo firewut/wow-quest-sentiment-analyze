@@ -1,0 +1,7 @@
+{
+    "_id": "13089",
+    "description": "Nothing like a stew made from the living to warm your bones.   Bring me some of the chilled meat that can be found on the wretched beasts of this place, and I shall teach you to make a warm stew.",
+    "name": "Northern Cooking",
+    "requires_level": 65,
+    "zone": "Cooking"
+}

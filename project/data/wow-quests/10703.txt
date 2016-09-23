@@ -1,0 +1,7 @@
+{
+    "_id": "10703",
+    "description": "It's time to get down in the muck and get dirty. What were you expectin'? You gotta learn to walk before you can crawl, right? Er, reverse that...Anyway, we got all hands on deck fer killin' the garbage being thrown at us by the Burning Legion. That leaves you with the honor of cleaning up the crazed wildlife of Shadowmoon Valley.Grab a sword, staff, whatever it is that makes you happy, and kill as much of the wildlife as you can see. That'll clear a way out for our supply caravans!",
+    "name": "Put On Yer Kneepads...",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42598",
+    "added_in_patch": 7,
+    "description": "You will soon command one of the greatest armies in existence, but before my own Valarjar follow your every command you must prove your ability to lead.Speak to the two vrykul champions who ascended into these halls with you and tell them it is time for you to assume your duties as Odyn's chosen.",
+    "name": "Champions of Skyhold",
+    "requires_level": 101,
+    "zone": "Warrior Campaign"
+}

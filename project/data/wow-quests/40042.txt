@@ -1,0 +1,8 @@
+{
+    "_id": "40042",
+    "added_in_patch": 7,
+    "description": "I have a theory on how we can better harvest this felwort, <name>. You see, sometimes in order to understand how something comes into being, you have to work backwards.I've recently heard of the corruption of one of our greatest gods, Cenarius. I have no doubt the same corruption that lives in these herbs also resides within him now.If you were able to cleanse that corruption, find a way to understand how it works and remove it, I think we can apply that to how we harvest these herbs.",
+    "name": "Felwort Mastery",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

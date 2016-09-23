@@ -1,0 +1,7 @@
+{
+    "_id": "12474",
+    "description": "With the Naxxramas war machine stopped dead in its tracks the time has come for you to help our forces at Angrathar, the Wrathgate. Nestled against the mountain in northern Dragonblight is our base of operations, Fordragon Hold. It is there that Lord Fordragon awaits your arrival! Go now, <name>!Take the north gate out of town and travel north by northwest until you arrive at your destination.Light protect you!",
+    "name": "To Fordragon Hold!",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

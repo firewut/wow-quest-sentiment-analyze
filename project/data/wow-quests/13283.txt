@@ -1,0 +1,7 @@
+{
+    "_id": "13283",
+    "description": "Yo, <name>, I need you to get my jumpbot to the top of this mountain to the southeast, like yesterday!That girly, self-righteous Frazzle Geargrinder thinks that her jumpbot's better than mine. Hah! We're in a race to see who's gonna be king of the mountain!Once you jump up there, plant our battle standard in the pile of bones and show everyone that the Horde, and my mad engineering skills, are the best!",
+    "name": "King of the Mountain",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

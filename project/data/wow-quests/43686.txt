@@ -1,0 +1,8 @@
+{
+    "_id": "43686",
+    "added_in_patch": 7,
+    "description": "The Lich King demands too much! Tirion Fordring deserves more than a life of anguish and undeath!Know this, Deathlord... I will obey your will, but there will be no redemption for what we are about to do.The Silver Hand will never hand Tirion to us. The path to the Fourth Horseman will be soaked in righteous blood!Blood that will stain our hands forever.Your will be done, Deathlord. I will begin the preparations to invade Light's Hope. If this is what it takes to save our world, so be it!",
+    "name": "The Fourth Horseman",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

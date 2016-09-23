@@ -1,0 +1,8 @@
+{
+    "_id": "28174",
+    "description": "The Blackrock orcs are ceaseless.  They swarm atop the battle-plains to the east, poised to strike at any moment.They already attacked my homeland once.  I'm here to make sure it doesn't happen again.If you hold any love for mankind, you'll do the same.  So prove yourself.  Travel south, to the Whelping Downs, and slay their whelpers and the hatchling black dragons.  Prove to me that you're ready for this war.",
+    "name": "Burning Vengeance",
+    "requires_level": 49,
+    "side": "alliance",
+    "zone": "Burning Steppes"
+}

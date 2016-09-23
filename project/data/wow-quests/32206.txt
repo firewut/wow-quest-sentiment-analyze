@@ -1,0 +1,8 @@
+{
+    "_id": "32206",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari here are very powerful, <class>. They should not be underestimated. We cannot afford to ignore them as a threat simply because they do not wield swords.More arrive every day, and with them centuries of magic knowledge. This threat must be dealt with, and quickly.Aid us in clearing this area, <class>. Perhaps we can even learn something from them in the process.",
+    "name": "This Just Won't Do",
+    "requires_level": 90,
+    "zone": "Quests"
+}

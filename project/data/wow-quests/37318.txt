@@ -1,0 +1,8 @@
+{
+    "_id": "37318",
+    "added_in_patch": 6,
+    "description": "Many years ago my family and I were slain in this very spot.The saberon you see around you are descended from the tribe that murdered my village. Long have I waited, here in this forgotten place, to see justice brought to the saberon for their crimes.The Snarlpaw chief is a boneseer, a saberon who divines the future using the remains of the dead.Collect the ancient skulls of the Snarlpaw ancestors and place them in the boneseer's cauldron.Let their own bones fill their cauldron for once!",
+    "name": "The Dead Do Not Forget...",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

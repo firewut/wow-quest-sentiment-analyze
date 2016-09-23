@@ -1,0 +1,8 @@
+{
+    "_id": "39941",
+    "added_in_patch": 7,
+    "description": "We demon hunters ritualistically remove our eyes in order to see the demons more clearly.Down below, a demon commander walks amongst his troops, unseen by normal eyes. He keeps the chaos in order, as we must keep our chaos in check.Destroy his warding crystal, then slay him.",
+    "name": "Control is Key",
+    "requires_level": 102,
+    "zone": "Inscription"
+}

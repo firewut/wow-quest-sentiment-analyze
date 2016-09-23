@@ -1,0 +1,8 @@
+{
+    "_id": "40388",
+    "added_in_patch": 7,
+    "description": "Someone with whom I believe you are familiar commands in the battlefield below.\r\n\r\nJarod Shadowsong speaks highly of you, and has requested that you join him in battle.\r\n\r\nHe has plans to put an end to this fight.",
+    "name": "Huln's War - Shadowsong",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

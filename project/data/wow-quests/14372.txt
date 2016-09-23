@@ -1,0 +1,7 @@
+{
+    "_id": "14372",
+    "description": "It pleases me to see that you still draw breath, <class>. I have been sent word that the demon activity in the south has been intensifying.There is a camp on the borderlands there that is in danger of being cut off if the demons move northward.Perhaps you could lend them a hand?I know the leader of the camp there is Thargad. He will be able to direct you wisely.Thank you, friend. Be well.",
+    "name": "Thargad's Camp",
+    "requires_level": 31,
+    "zone": "Desolace"
+}

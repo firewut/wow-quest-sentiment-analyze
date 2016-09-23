@@ -1,0 +1,8 @@
+{
+    "_id": "31036",
+    "added_in_patch": 5,
+    "description": "Orgrimmar's Ragefire Chasm has been taken by the Dark Shaman. <name>, we cannot allow this to pass unpunished, lest they next set their sights on Thunder Bluff.Go speak with Commander Bagran just inside the Chasm. Help him in any way you can, for our fates are intertwined.",
+    "name": "Enemies Below",
+    "requires_level": 15,
+    "zone": "Ragefire Chasm"
+}

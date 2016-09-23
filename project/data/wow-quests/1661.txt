@@ -1,0 +1,7 @@
+{
+    "_id": "1661",
+    "description": "I greet you once again, <name>. I am more proud to call you  brother than ever before--your dedication is a tribute to us all.The time has come for me to bestow a great gift upon you. But know this, for now I give you this freely, but later, when time permits, this will be a much greater challenge to all paladins who choose to undertake my quest.Speak to me again and I shall grant you a great boon.",
+    "name": "The Tome of Nobility",
+    "requires_level": 40,
+    "zone": "Paladin"
+}

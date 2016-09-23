@@ -1,0 +1,8 @@
+{
+    "_id": "26189",
+    "description": "When we hauled up here to get away from the raptors, we put ourselves right next to a whole slew of Dragonmaw orcs!I've heard the stories in Menethil, how the Dragonmaw are even cruder barbarians than other orcs, how they strangle black dragons with their bare hands... I don't know how much of it's true, but I know we can't just let 'em sit up here in the hills.You've got the chops for it, <name>. Head east to the Angerfang Encampment, take care of those orcs, and make sure you get their leader!",
+    "name": "The Angerfang Menace",
+    "requires_level": 22,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26681",
+    "description": "Take this note to Ello Ebonlocke, the Mayor of Darkshire.He and I are old friends...and when he reads it and discovers what you did for me...I'm sure he'll be just as happy as I am!  Hahahaha!",
+    "name": "Note to the Mayor",
+    "requires_level": 19,
+    "zone": "Duskwood"
+}

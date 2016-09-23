@@ -1,0 +1,7 @@
+{
+    "_id": "10238",
+    "description": "Why would fel orcs steal my shredder parts?  I hate them so much.  They just sneak into my camp here and take things all the time.  A couple of days ago they stole three of my peons!  Now the rest of my peons have run off because they are afraid they are going to be eaten by fel orcs.  I can't run a mine without peons.  If you could save the peons that I lost maybe the others would come back.  The fel orcs have their camps along the wall to the southwest.",
+    "name": "How to Serve Goblins",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

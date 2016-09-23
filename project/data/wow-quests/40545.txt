@@ -1,0 +1,8 @@
+{
+    "_id": "40545",
+    "added_in_patch": 7,
+    "description": "It's a catastrophe! No, even worse, a conspiracy!I heard the Legion was back again, and I thought to myself, \"Hobart, now's your time to shine.\"I made us enough guns to blow those demons back to the beginning of time!But then we get here, and what happens? Everyone just happens to \"find\" all these ancient artifacts to fight the demons with!Long story short, I have too many guns and need to get rid of 'em.",
+    "name": "Aww Scrap!",
+    "requires_level": 98,
+    "zone": "Engineering"
+}

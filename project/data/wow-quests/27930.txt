@@ -1,0 +1,7 @@
+{
+    "_id": "27930",
+    "description": "The coast is clear.  If Rheastrasza or the egg were able to miraculously evade Deathwing's flames, they would probably need your assistance as soon as possible.",
+    "name": "Devastation",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

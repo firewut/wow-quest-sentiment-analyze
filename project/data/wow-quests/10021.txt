@@ -1,0 +1,7 @@
+{
+    "_id": "10021",
+    "description": "Much of this region was inhabited by draenei long ago.  We Aldor were charged with the safeguarding of our holy sites and altars.  Many of them have since been destroyed or taken over by our enemies.To the east of here there is an arakkoa outpost.  It was purposefully built on the location of three of our sacred altars. The arakkoa use their foul magic to warp and defile the innate power of our shrines.Take this to the arakkoa outpost and use it to cleanse the three altars.",
+    "name": "Restoring the Light",
+    "requires_level": 62,
+    "zone": "Shattrath City"
+}

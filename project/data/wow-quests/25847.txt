@@ -1,0 +1,7 @@
+{
+    "_id": "25847",
+    "description": "Throughout all of Greatwood Vale you will find Grimtotem under attack by the Horde. Hellscream's armies show no mercy and no compassion, killing anything that stands in their way.But no more! Take the armaments you brought for us and find Grimtotem in battle with the Horde. Give them the weapons of the Alliance and watch as they destroy their Horde assailants! Go, there is much work to do, ally.",
+    "name": "Grimtotem Supremacy",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

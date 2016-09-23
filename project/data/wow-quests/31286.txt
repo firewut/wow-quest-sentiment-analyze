@@ -1,0 +1,8 @@
+{
+    "_id": "31286",
+    "added_in_patch": 5,
+    "description": "Ah, a <class>. I could make good use of your skills.A convoy was struck just up the road by a band of marauding saurok. These marauders made off with some... merchandise... her ladyship, the Madam Goya, had a mind to sell.One does not steal from her ladyship.If you recover these items I will gladly provide you a finders fee.",
+    "name": "Robbing Robbers of Robbers",
+    "requires_level": 87,
+    "zone": "The Veiled Stair"
+}

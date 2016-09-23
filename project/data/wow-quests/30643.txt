@@ -1,0 +1,8 @@
+{
+    "_id": "30643",
+    "added_in_patch": 5,
+    "description": "The battle against the mogu rages fiercely with neither side giving quarter.We cannot hold our position forever. Something must be done to strike a blow at the mogu, a blow from which they cannot recover.Go check in with Zhi the Harmonious at The Silent Sanctuary. I wish to hear his thoughts on this matter.",
+    "name": "The Mogu's Message",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

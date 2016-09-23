@@ -1,0 +1,7 @@
+{
+    "_id": "29324",
+    "description": "Have you met Sister Aquinne? She and I trained together in Dolanaar, and she recently came to the city to study at the Temple of the Moon. We decided to go for a boat ride, but the clumsy oarsman managed to capsize the craft!When we got back to the shore, Aquinne's moon pendant was missing. The lakes in Darnassus are full of giant catfish who will gobble up anything shiny!I've been catching them nonstop, hoping to find the one with her pendant. I don't suppose you want to help?",
+    "name": "The Sister's Pendant",
+    "requires_level": 10,
+    "zone": "Fishing"
+}

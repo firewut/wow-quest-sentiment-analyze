@@ -1,0 +1,8 @@
+{
+    "_id": "27847",
+    "description": "These prototypes are going to change the face of Horde warfare when I perfect them! The issue I've been having is that their power sources don't allow for complicated combat maneuvers or large frames, both highly desired traits when it comes to fighting Alliance.The Defias, with some help from goblin traitors like Helix, have almost completed the Foe Reaper 5000, a massive golem that will actually work!We can't have that going public, can we? I'll lose customers!",
+    "name": "Not Quite There",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Quests"
+}

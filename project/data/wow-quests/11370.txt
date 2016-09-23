@@ -1,0 +1,7 @@
+{
+    "_id": "11370",
+    "description": "While it is known that Warlord Kalithresh of the naga is a great warrior in his own right, there are fewer who know that he has codified all of his knowledge.One of my customers is aware of it though, and is keenly interested in obtaining his treatise.I ask that you travel to the Steamvault in Coilfang Reservoir and obtain this book for me.",
+    "name": "Wanted: The Warlord's Treatise",
+    "requires_level": 70,
+    "zone": "Zangarmarsh"
+}

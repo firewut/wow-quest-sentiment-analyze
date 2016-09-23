@@ -1,0 +1,8 @@
+{
+    "_id": "12303",
+    "description": "<The quartermaster lowers his voice and whispers to you.><Class>, I need your help; our coffers are empty. The Kor'kron Vanguard at the Wrath Gate has taken all of our coin for the fight there.But, I've heard whispers that there's treasure to be had amongst the wrecks on the Forgotten Shore to the southeast.We have to do something soon, or we won't be able to continue the fight against the Scarlet Onslaught. War isn't cheap, you know!",
+    "name": "Funding the War Effort",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11545",
+    "description": "We've taken Sun's Reach from the enemy and our final victory is at hand.  The cost was high and many brave combatants gave their lives so we could achieve this.It is my goal to ensure that those who perished in combat are not forgotten.  I ask that you take a moment to consider making a donation towards a memorial fund.  Any leftover gold will go to the widows and orphans of the fallen.",
+    "name": "A Charitable Donation",
+    "requires_level": 70,
+    "zone": "Isle of Quel'Danas"
+}

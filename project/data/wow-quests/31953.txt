@@ -1,0 +1,8 @@
+{
+    "_id": "31953",
+    "added_in_patch": 5,
+    "description": "You seek to do battle once more? Very well, it will strengthen me to better protect the sacred sites of my people.",
+    "name": "Grand Master Hyuna",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

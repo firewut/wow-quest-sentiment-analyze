@@ -1,0 +1,7 @@
+{
+    "_id": "13832",
+    "description": "Hard to believe that most people fish in the Dalaran Sewers for giant rats and mutated fish.  Especially when those waters are filled with priceless jewelry - discarded by broken hearted fools, thieves, and careless drunks.The trick is to let your hook drag the bottom and don't pull up too hard when you get something.  Try it out, <name>.  I'd be willing to trade whatever you find for a few trinkets of my own.",
+    "name": "Jewel Of The Sewers",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

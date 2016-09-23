@@ -1,0 +1,8 @@
+{
+    "_id": "44161",
+    "added_in_patch": 7,
+    "description": "Battlelord Gaardoun has offered to recruit more broken warriors for the cause. He just needs a few things first. He said something about the right tool for the job, or something like that.\r\n\r\nTime to put your new champions to the test. I'm sure it will be a grueling mission.",
+    "name": "Things Gaardoun Needs",
+    "requires_level": 101,
+    "zone": "Demon Hunter Campaign"
+}

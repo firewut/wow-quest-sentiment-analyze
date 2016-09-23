@@ -1,0 +1,7 @@
+{
+    "_id": "27452",
+    "description": "Some of my counterparts have told me that the land wants to heal, but several high-ranking undead - along with the Cult of the Damned - are not allowing it to.  That means we have to stop them!  I've got a plan, but first, you're going to need a cultist disguise.Head southeast into Corin's Crossing, and take the clothing from the human cultists that roam through the town.  I'll contact you when you've completed this step.",
+    "name": "Dark Garb",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

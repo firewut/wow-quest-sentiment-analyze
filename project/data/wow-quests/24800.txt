@@ -1,0 +1,7 @@
+{
+    "_id": "24800",
+    "description": "At last, Quel'Delar is restored for the glory of the Sunreavers and the sin'dorei! All of Silvermoon will proclaim you a hero, as will all of the Horde.Archmage Aethas Sunreaver, the leader of the Sunreavers, asked to see you after you returned from the Sunwell. Travel to the Violet Citadel in Dalaran as soon as you can, <name> and bring Quel'Delar with you. The archmage wishes to congratulate you personally!",
+    "name": "A Victory For The Sunreavers",
+    "requires_level": 80,
+    "zone": "Icecrown"
+}

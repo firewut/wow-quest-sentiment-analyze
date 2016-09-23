@@ -1,0 +1,8 @@
+{
+    "_id": "31941",
+    "added_in_patch": 5,
+    "description": "Grandpa always said, \"A squash a week, and your tail won't reek.\"<Yoon subtly sniffs the air.>Yup. I think it's been about a week. Could you help me plant a Jade Squash?",
+    "name": "Squash Those Foul Odors",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

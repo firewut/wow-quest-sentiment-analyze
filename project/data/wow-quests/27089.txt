@@ -1,0 +1,7 @@
+{
+    "_id": "27089",
+    "description": "You have no idea how difficult it was to stay disguised while I watched Koltira let this war slip away from us.  Even now, those infernal farmers threaten to overwhelm us.  All because he refused to slay a friend.Take my val'kyr again, <name>.  With her by your side, kill these farmers, convert them to Forsaken, and mobilize them.  Then take a group of them into Alliance-held western Andorhal and hunt down this death knight, Thassarian.We will win this war yet.",
+    "name": "Ace in the Hole",
+    "requires_level": 38,
+    "zone": "Western Plaguelands"
+}

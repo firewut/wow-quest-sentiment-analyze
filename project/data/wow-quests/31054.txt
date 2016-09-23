@@ -1,0 +1,8 @@
+{
+    "_id": "31054",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Unlocked Yalia Sagewhisper",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

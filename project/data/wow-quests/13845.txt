@@ -1,0 +1,7 @@
+{
+    "_id": "13845",
+    "description": "This vial of poison looks particularly dangerous.  Perhaps someone in Dalaran might be interested in it.",
+    "name": "Sealed Vial of Poison",
+    "requires_level": 70,
+    "zone": "Dalaran"
+}

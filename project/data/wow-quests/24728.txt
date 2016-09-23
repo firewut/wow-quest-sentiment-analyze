@@ -1,0 +1,7 @@
+{
+    "_id": "24728",
+    "description": "",
+    "name": "Crystal Ward",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "36005",
+    "added_in_patch": 6,
+    "description": "We've learned everything we need from the ogres, <name>. Thanks to your efforts, I believe I can pierce the veil of secrecy that's cloaking Gul'dan.I WILL find him, <class>.Once my spell is finished we should be ready to leap into action. I won't begin until you let me know you're ready.",
+    "name": "The Scrying Game",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

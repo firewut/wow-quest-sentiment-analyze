@@ -1,0 +1,8 @@
+{
+    "_id": "40793",
+    "added_in_patch": 7,
+    "description": "Your weapon is stronger than ever, now is the perfect time to put it to use and take our fight to the Legion.Master Hsu has set up a command table by the training grounds, and has collected reports from our friends and allies around all of Azeroth.When you are ready, Grandmaster, he should have an update prepared for you.",
+    "name": "A Matter of Planning",
+    "requires_level": 98,
+    "zone": "Monk Campaign"
+}

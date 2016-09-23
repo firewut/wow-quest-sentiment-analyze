@@ -1,0 +1,7 @@
+{
+    "_id": "7426",
+    "description": "",
+    "name": "One Man's Love",
+    "requires_level": 200,
+    "zone": "Alterac Valley"
+}

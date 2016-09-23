@@ -1,0 +1,7 @@
+{
+    "_id": "25984",
+    "description": "<name>, I need you to get this information to Legionnaire Nazgrim on Promontory Point. He's up there to the northwest with Erunak Stonespeaker and those Earthen Ring people.",
+    "name": "Promontory Point",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

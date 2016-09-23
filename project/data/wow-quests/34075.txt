@@ -1,0 +1,9 @@
+{
+    "_id": "34075",
+    "added_in_patch": 6,
+    "description": "Vul'gath's time has come to an end, <name>. My daughter's blood is upon his hands, now his blood will be on ours!Show no mercy and strike him down!",
+    "name": "Vul'gath's End",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

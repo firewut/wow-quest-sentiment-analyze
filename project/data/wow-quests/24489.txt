@@ -1,0 +1,8 @@
+{
+    "_id": "24489",
+    "description": "I'm notoriously bad at reading troll facial expressions.  That being said, these trolls don't look angry to me.  They seem to be confused... maybe a little frightened.Something happened that we're not seeing here, <name>.  I say we do some investigation before we just kill every troll in sight.There are three troll camps in the area: one to the southeast, one to the southwest, and one due west.  Each camp has a soothsayer... see if you can get close enough to listen to what they're saying.",
+    "name": "Trolling for Information",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

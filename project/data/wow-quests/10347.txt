@@ -1,0 +1,8 @@
+{
+    "_id": "10347",
+    "description": "<name>, are you ready for another sortie over the Abyssal Shelf?  I fear that, if we do not maintain pressure on the Legion forces there and allow them to strengthen their hold, then we may suffer a large demon attack from the north.What say you, <class>?  Do you want to take another windrider and hammer the Abyssal Shelf one more time?",
+    "name": "Return to the Abyssal Shelf",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

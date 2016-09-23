@@ -1,0 +1,7 @@
+{
+    "_id": "7081",
+    "description": "The graveyards in Alterac Valley are prized territories.  Both the Horde and the Alliance fight savagely for these sacred grounds.  Are you, <name>, ready to join that fight?I want you to assault an enemy graveyard.  Find a graveyard with a Horde banner in its midst, and pull it from the ground!  Do that, and your task will be complete....But if you can also hold the graveyard for a few minutes, then our troops will soon come to relieve you.",
+    "name": "Alterac Valley Graveyards",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

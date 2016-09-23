@@ -1,0 +1,8 @@
+{
+    "_id": "31460",
+    "added_in_patch": 5,
+    "description": "One of those adorable little grummles came by and said that Lorewalker Cho sent for you. You should meet up with him!\r\n\r\nThe grummel said he's at Onekeg, to the north.",
+    "name": "Cho's Missive",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

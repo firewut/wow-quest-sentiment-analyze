@@ -1,0 +1,8 @@
+{
+    "_id": "26110",
+    "description": "It's funny. Kin and I have been through so much together, and here we find ourselves back in Arathi, like so many years ago.We broke up a plot to create a new plague right here, her and I. It doesn't look like the Horde learned their lesson, because they're all over this farm yet again.Their undead courier is shuffling around as obvious as daylight. If you want to help, find the courier and bring back whatever they're carrying.",
+    "name": "Just Like Old Times",
+    "requires_level": 26,
+    "side": "alliance",
+    "zone": "Arathi Highlands"
+}

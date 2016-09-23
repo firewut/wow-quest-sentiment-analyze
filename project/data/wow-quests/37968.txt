@@ -1,0 +1,8 @@
+{
+    "_id": "37968",
+    "added_in_patch": 6.2,
+    "description": "Up in the hills of Tanaan Jungle, the Sargerei have converted a once-sacred temple into a den of demonic summoning.\r\n\r\nWe must attack them now, before their rituals complete. The longer we delay, the stronger our enemy grows.",
+    "name": "Assault on the Temple of Sha'naar",
+    "requires_level": 100,
+    "zone": "Tanaan Jungle"
+}

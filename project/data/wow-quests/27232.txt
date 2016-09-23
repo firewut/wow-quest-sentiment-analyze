@@ -1,0 +1,7 @@
+{
+    "_id": "27232",
+    "description": "<The communication console hums.>Those worgen you killed were the scouting party. There are hundreds more incoming! Looks like Crowley and Bloodfang made the blood offering to every human in Lordaeron.Get in one of those Horde cannons and send them all back to their makers. Let the waters of Lordamere Lake run red with their blood!",
+    "name": "The Waters Run Red...",
+    "requires_level": 11,
+    "zone": "Silverpine Forest"
+}

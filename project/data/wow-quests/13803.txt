@@ -1,0 +1,8 @@
+{
+    "_id": "13803",
+    "description": "We knew the elves wouldn't go down without a fight, but no one expected them to be able to lay siege to Splintertree...Time for them to pay for their actions!Nearby, in the Dor'Danil Barrow Den, lies something very dear to the enemy - the Forest Heart.I need someone to make their way to the heart and corrupt it.That someone is you, <name>.First though, bring my axe to Durak here in the mines. He'll make use of the blood of our enemies.",
+    "name": "Blood of the Weak",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

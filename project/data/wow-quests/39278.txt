@@ -1,0 +1,8 @@
+{
+    "_id": "39278",
+    "added_in_patch": 6.2,
+    "description": "The water-proofed manifest contains some form of code for the most part, hiding the contents of the actual manifest. In the corner is a hastily scrawled note for a Mr. Knuckles. \"Shipment attacked, got away but boat is sinking. Get here before they do.\"There are coordinates after that which lead to the sunken boat. Mr. Knuckles is definitely the kind of person you want owing you a favor, not the other way around.",
+    "name": "The Missing Manifest",
+    "requires_level": 100,
+    "zone": "Nagrand"
+}

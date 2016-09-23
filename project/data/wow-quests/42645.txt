@@ -1,0 +1,8 @@
+{
+    "_id": "42645",
+    "added_in_patch": 7,
+    "description": "Ending the evil of the Blood Prince will be a boon to this land, but we can't just allow these crazed corsairs to run amok.  I'm afraid there is no choice but to put them to the sword.\r\n\r\nCarry out this noble deed, my good fellow, and we will celebrate with a nice warm lager.",
+    "name": "Spilling Bad Blood",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

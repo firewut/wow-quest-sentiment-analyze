@@ -1,0 +1,7 @@
+{
+    "_id": "12260",
+    "description": "You may wonder how I can maintain this guise; I use a magic mirror that was loaned to me by the spy mistress.It only has so much power in it, but I think there's enough for the both of us. Here, take it. I want you to use it to impersonate one of the Onslaught raven priests.Be quick about it... I have no idea how long my glamour will last while you have the mirror.Realize that you won't immediately be perfectly disguised, so don't count on it being foolproof until I've had a chance to help you.",
+    "name": "The Perfect Dissemblance",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

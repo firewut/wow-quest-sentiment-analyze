@@ -1,0 +1,8 @@
+{
+    "_id": "30757",
+    "added_in_patch": 5,
+    "description": "Our lord, Taran Zhu, has been overcome by a sha of pure hatred. The whole monastery has been lost!<Class>, you must find a way to free him of this possession. Last I knew, he was meditating in the Grove of Falling Blossoms.",
+    "name": "Lord of the Shado-Pan",
+    "requires_level": 87,
+    "zone": "Quests"
+}

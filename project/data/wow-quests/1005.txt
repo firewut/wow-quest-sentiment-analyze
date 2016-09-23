@@ -1,0 +1,7 @@
+{
+    "_id": "1005",
+    "description": "",
+    "name": "What Lurks Beyond",
+    "requires_level": 10,
+    "zone": "Quests"
+}

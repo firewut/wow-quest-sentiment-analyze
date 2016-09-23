@@ -1,0 +1,8 @@
+{
+    "_id": "26004",
+    "description": "Our main base of operations in Stonetalon Mountains is Krom'gar Fortress. It is from there that Overlord Krom'gar oversees all Horde military activity in the region. Krom'gar reports everything that happens directly to the Warchief.The attack plans you brought back detail an assault that's supposed to take place against Krom'gar Fortress soon. Take the plans and head to the fortress, southwest of here. Give them to the Overlord.So long, <name>. Truly, Hellscream's eyes are upon you.",
+    "name": "Krom'gar Fortress",
+    "requires_level": 24,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

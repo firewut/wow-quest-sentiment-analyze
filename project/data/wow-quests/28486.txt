@@ -1,0 +1,7 @@
+{
+    "_id": "28486",
+    "description": "Neferset City is too well defended.  The mountain next to it, however, is not.I've spoken to the ranger captain and he's willing to take a handful of his men and secure the strategic mountaintop.There is one catch, <name>.  He agreed, but only if you would spearhead the attack with them.It must be a small group, else we'll draw the enemy's attention too soon, but trust me... the rangers of Ramkahen are as tough as they come.  With you by their side we'll surely succeed.",
+    "name": "Salhet's Gambit",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

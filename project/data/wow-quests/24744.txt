@@ -1,0 +1,8 @@
+{
+    "_id": "24744",
+    "description": "Bamm Megabomb? Who does he think he is? His spiny raptor eggs are no match for what we are about to recover!As you well know, each Town-In-A-Box is equipped with a micro mechachicken for just such a dietary emergency. Luckily for us, my keen intellect was able to deduce the location that our prodigious, pre-programmed poultry ran off to.Head north to the Scorched Gully. But beware, its circuit boards are fried and I imagine it's not so micro any longer!",
+    "name": "The Biggest Egg Ever",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

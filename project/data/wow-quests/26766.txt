@@ -1,0 +1,7 @@
+{
+    "_id": "26766",
+    "description": "We're only going to get one shot at capturing Abyssion, <name>.  Let's make it count.We'll test out the trap on the biggest of the stone dragons in the Alabaster Shelf.To lure the stone matriarch, we're going to need to gather sufficient bait.Take this knife and carve 5 sides of basilisk meat.  That ought to be enough even for her appetite.",
+    "name": "Big Game, Big Bait",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

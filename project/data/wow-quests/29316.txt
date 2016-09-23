@@ -1,0 +1,7 @@
+{
+    "_id": "29316",
+    "description": "There are certain things that everyone needs, from the basic household cook to the master chef. One of the city's most important staples is rice flour. Most families keep at least one basket of rice in their houses and the residents of the Craftsmen's Terrace and Tradesmen's Terrace are no different.I often ask my students to help with the task of pounding rice into flour since it's good practice and an endless task. Why don't you give it a try?",
+    "name": "Back to Basics",
+    "requires_level": 10,
+    "zone": "Cooking"
+}

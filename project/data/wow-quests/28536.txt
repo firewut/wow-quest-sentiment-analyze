@@ -1,0 +1,7 @@
+{
+    "_id": "28536",
+    "description": "You have seen enough. Know that the Crystal of Zin-Malor brings only ruin to all around it.Leave this place, if you do not wish to join us.",
+    "name": "The Curse of Zin-Malor",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12263",
+    "description": "The Cult of the Damned has not come just to extract power from dead dragons. I suspect I know what they are up to, but I need you to prove me correct.I will grant you the guise of this dead necrolyte. Proceed to the back of the cave and confirm their intentions for being in this sacred place. I will watch through your eyes. Be cautious <name>, any damage done to you is likely to break the fragile illusion.",
+    "name": "The Best of Intentions",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

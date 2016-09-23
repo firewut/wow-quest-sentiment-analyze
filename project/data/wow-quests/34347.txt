@@ -1,0 +1,8 @@
+{
+    "_id": "34347",
+    "added_in_patch": 6,
+    "description": "Lieutenant O'rok:Send an elite strike team to Cragplume Cauldron.Retrieve a high-value artifact from the crater and deliver it to my command post in northern Talador.With your remaining forces, go to Gorgorek's Fall. Protect and prepare the ancient magnaron specimen for retrieval.Immediate action is required.- Bladefury",
+    "name": "Bladefury's Orders",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

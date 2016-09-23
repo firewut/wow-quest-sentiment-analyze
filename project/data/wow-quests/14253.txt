@@ -1,0 +1,7 @@
+{
+    "_id": "14253",
+    "description": "Say, <class>, while you're out there exploring the desert wastes, do me a favor?Keep an eye out for Dread Swoops. Their oily feathers make for the best fletching, and to the right buyer they can fetch a handsome price.Lucky for you, I know all of the right buyers!",
+    "name": "Fletch Me Some Plumage!",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

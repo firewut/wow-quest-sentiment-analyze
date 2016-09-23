@@ -1,0 +1,9 @@
+{
+    "_id": "36309",
+    "added_in_patch": 6,
+    "description": "A stitched patch along the side of the satchel clearly identifies its owner.You remember hearing stories of a great blacksmith just north of Embaari.",
+    "name": "The Strength of Iron",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

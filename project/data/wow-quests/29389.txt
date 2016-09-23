@@ -1,0 +1,7 @@
+{
+    "_id": "29389",
+    "description": "Your work has given us the advantage we need to mobilize against the denizens of the Firelands. We are gathering our invasion force just south of our position.We could use your strength again, <race>. Speak with Matoclaw at the Sanctuary of Malorne. She is coordinating the invasion effort.",
+    "name": "Guardians of Hyjal: Firelands Invasion!",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

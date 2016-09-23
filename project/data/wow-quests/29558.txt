@@ -1,0 +1,9 @@
+{
+    "_id": "29558",
+    "added_in_patch": 5,
+    "description": "I see you want to save your friend. I can help you, if you will help me.First of all, it should be obvious that the fewer the Slingtail roaming around, the easier it will be to escape.Kill the hozen guards around us, and we will be one step closer to freedom.",
+    "name": "The Path of War",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

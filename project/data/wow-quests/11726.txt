@@ -1,0 +1,7 @@
+{
+    "_id": "11726",
+    "description": "The wolves have been pawing through the wreckage ever since the crash and I'm afraid they consumed the microfilm from our mission in the process.I have a plan to recover that microfilm, but I need your help to make it work.To the south and east, in the Flood Plains, live creatures called gorlocs. They prepare their foods with noxious spices, which would sicken any other creature. If you can gather enough of the spice pouches from gorloc steam belchers or gorloc waddlers, I can make the wolf bait.",
+    "name": "A Little Bit of Spice",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

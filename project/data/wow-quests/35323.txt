@@ -1,0 +1,8 @@
+{
+    "_id": "35323",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Stormstout Brewery Reward Quest",
+    "requires_level": 85,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27986",
+    "description": "The Thorium Brotherhood doesn't maintain a militia - just a few guards, and me, and that's it.  If we're to successfully strike against the Dark Irons of the gorge, we're gonna need help.Mountain-Lord Rendan sits atop that tower across the gorge, to our south.  He doesn't consort with Twilight folks or fire elementals, but he hasn't joined the brotherhood either.  Maybe it's time we paid him a visit.  With his help, we might just stand a chance.",
+    "name": "In the Hall of the Mountain-Lord",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

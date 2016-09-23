@@ -1,0 +1,8 @@
+{
+    "_id": "32109",
+    "added_in_patch": 5.1,
+    "description": "For too long the Horde has been allowed to run rampant across Azeroth. I will not see these new lands conquered by some barbaric \"warchief.\"Are you ready to bring Alliance justice to the shores of Pandaria?Let us return to the landing site. Use the flare launcher to bring in the fleet proper, and begin Operation: Shieldwall.",
+    "name": "Lion's Landing",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

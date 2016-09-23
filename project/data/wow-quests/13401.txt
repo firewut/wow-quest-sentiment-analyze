@@ -1,0 +1,7 @@
+{
+    "_id": "13401",
+    "description": "Now you know what you're up against, <name>.  An opponent who no longer knows pain... remorse... or humanity.  An opponent who will do anything to get what he wants.The heart was his weakness and now he knows you've found it.If you're going to go back for it, you'd best bring help.  He will not leave it unguarded again.",
+    "name": "Knowledge is a Terrible Burden",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

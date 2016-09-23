@@ -1,0 +1,7 @@
+{
+    "_id": "24667",
+    "description": "I've been on top of this silithid situation for almost a month, which makes me the local expert. Just last week the Earthen Ring was visiting, and wanted me to write down everything I know.<Crawgol hands you a tattered book.>I'm not much of a writer. Or a reader, for that matter. But this book is probably the most definitive thing ever written about this foe.Deliver it to Tauna Skychaser down in Firestone Point. It's south of here, just west of the main road.",
+    "name": "Firestone Point",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

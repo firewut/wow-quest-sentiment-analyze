@@ -1,0 +1,7 @@
+{
+    "_id": "24944",
+    "description": "This fight isn't over, <class>. Not by a long shot.Some of the soldiers in the courtyard still have breath in their lungs. We can save them! I've soaked these rags in an herbal remedy we used to rely on back in Gilneas. The smell is awful but this poultice can practically raise the dead.Use these bandages on wounded defenders down in the courtyard and we'll see if we can't get them back in the fight.",
+    "name": "Back in the Fight",
+    "requires_level": 28,
+    "zone": "Southern Barrens"
+}

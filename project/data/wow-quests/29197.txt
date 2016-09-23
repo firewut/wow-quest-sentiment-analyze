@@ -1,0 +1,7 @@
+{
+    "_id": "29197",
+    "description": "Our invasion plan looks to have backfired. Several of our birds have already reported in, speaking of fires breaking out across the vales of central Hyjal.Now, many of our druids are stranded out in the field, unprepared for such a large-scale attack. Thisalee was near Ashen Lake, and several others were out in the Regrowth, to the northeast.Go, <name>! Find them, and make sure that they do not succumb to this backdraft!",
+    "name": "Caught Unawares",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

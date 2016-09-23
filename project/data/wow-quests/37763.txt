@@ -1,0 +1,9 @@
+{
+    "_id": "37763",
+    "added_in_patch": 6.1,
+    "description": "Commander. Frostwolf scouts report that blackrock miners dug up a magnaron, and they've coerced the beast into helping them to create their infernal machines. They call it \"Kromog.\"We must destroy it, <name>. Travel to Blackrock Foundry and defeat Kromog.",
+    "name": "The Black Forge: Kromog",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28804",
+    "description": "",
+    "name": "Dark Iron Contingency Plan",
+    "requires_level": 1,
+    "zone": "Archaeology"
+}

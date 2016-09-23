@@ -1,0 +1,7 @@
+{
+    "_id": "26457",
+    "description": "The Warsong Lumber Camp is a blight upon an embattled landscape. Every time we make progress in halting their operations, Overseer Gorthak orders his loggers to redouble their efforts!Now, the orcs are cutting more wood than they can possibly use, leaving it to rot while their blades bite into fresh trees! This is an affront to all we stand for, <name>, and we will show them that we'll not suffer further destruction of our lands!Go, and do not rest until Overseer Gorthak and his minions are dead!",
+    "name": "Agents of Destruction",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

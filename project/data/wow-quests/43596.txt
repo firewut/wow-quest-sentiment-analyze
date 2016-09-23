@@ -1,0 +1,8 @@
+{
+    "_id": "43596",
+    "added_in_patch": 7,
+    "description": "In a time before memory, the Naglfar was the prize of Helya's fleet. It would seem that it has lived on to serve her once more.\r\n\r\nNow, the dread ship sails the sea of souls, and cuts through the mist unseen by the living. The kvaldir must have a way to summon her, and this is what you must seek.\r\n\r\nFind her berth and board the Naglfar. Put an end to the dread ship, and the souls of the Tideskorn may be redeemed.",
+    "name": "Piercing the Mists",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

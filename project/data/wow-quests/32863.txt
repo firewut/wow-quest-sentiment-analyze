@@ -1,0 +1,8 @@
+{
+    "_id": "32863",
+    "added_in_patch": 5.3,
+    "description": "Are you ready to put your pets to the test? The battle pet arena is no place for low-level rabbits, you'd better have a rocketbot in your pocket and be ready for action. If you've got three fully-experienced pets, find battles against trainers of similar skill and show the world what you've got. You can find the instructions in your Pet Journal.",
+    "name": "What We've Been Training For",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

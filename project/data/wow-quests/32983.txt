@@ -1,0 +1,9 @@
+{
+    "_id": "32983",
+    "added_in_patch": 6,
+    "description": "The goren and the magnaron are ravaging the element spirits and smelting their essence as one would smelt steel.Commander, take my totem, travel east to Magnarok. Please, find them, and free them.Draka and I will make our way to the Ascent of Frostfire. Meet us there if you are successful.",
+    "name": "In the Shadow of Giants",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

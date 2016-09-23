@@ -1,0 +1,8 @@
+{
+    "_id": "31148",
+    "added_in_patch": 5,
+    "description": "Actually, before I go - you should speak with Novice Elreth. She had some work for you, and you would do well to help others and improve your skills.\r\n\r\nThe next time you see me, I will be in Undercity.",
+    "name": "Novice Elreth",
+    "requires_level": 2,
+    "zone": "Deathknell"
+}

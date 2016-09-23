@@ -1,0 +1,7 @@
+{
+    "_id": "29223",
+    "description": "So da Gurubashi be on da rampage an' dey usin' serpents to lead da charge.You know who be good at keepin' da animal population in check?  Da hunters at Nesingwary's Expedition.Head over dere and see how dey doin'.  See if dey know a good way to get rid of da serpents.If dey don't know, den you gotta at least warn dem dat dese serpents, it ain't all natural.",
+    "name": "Nesingwary Will Know",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "33872",
+    "added_in_patch": 6,
+    "description": "I thought if I could just bring him here that I might be able to correct his transgression against the Light. That perhaps I could save my son! Now my beloved Arumel is a twisted phantasm.I'm left with no choice but to right my wrongs and I need your help.Bring me duskwing dust from the moths on Duskfall Island. With your aid I can craft an elixir that will let us travel to the realm of the dead and lay Arumel to rest.",
+    "name": "Dust of the Dead",
+    "requires_level": 94,
+    "zone": "Talador"
+}

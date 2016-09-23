@@ -1,0 +1,7 @@
+{
+    "_id": "10487",
+    "description": "The Alliance has recently moved in to the west, using their elven magics to grow a town and grove in a short matter of time.  We must keep their defenses weak so that they do not also grow a spine.I have a plan that will do that and more.  I want you to traverse the bridge to the southwest, which crosses over Bloodmaul Ravine and leads into the Living Grove.Attack their fey drake defenses in the Living Grove and bring back the magical dust that sometimes can be found upon their wings.",
+    "name": "Dust from the Drakes",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27383",
+    "description": "The battle for Darrowshire still haunts me, <race>.  I wake up in cold sweats, convinced that I'm still there; that it is happening all over again.I've coped with the loss of my comrades, but the loss of my family members is still cripplingly painful.  One of my kin lost during the attack was my young niece, Pamela.If you are brave enough to enter Darrowshire, will you search for any sign of Pammy?  Darrowshire's ruins are due south of here.",
+    "name": "Little Pamela",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

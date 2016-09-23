@@ -1,0 +1,8 @@
+{
+    "_id": "32147",
+    "added_in_patch": 5.1,
+    "description": "",
+    "name": "Attack Daily 06",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

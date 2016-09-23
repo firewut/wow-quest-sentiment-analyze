@@ -1,0 +1,7 @@
+{
+    "_id": "25934",
+    "description": "Good day, citizen, allow me to introduce myself. I am Salsbury, soon to be the world's first gnomegen. Malyk has assured me that as soon as my work here is complete he will grant me the gift of the worgen.So with the introduction out of the way, I've a request!Within the Charred Vale, south of here, roam newly created fire elementals. I desperately need a rare blazing heart of fire from one of the fiends. Get it for me and you bring me one step closer to becoming a gnomegen!",
+    "name": "World First: Gnomegen",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

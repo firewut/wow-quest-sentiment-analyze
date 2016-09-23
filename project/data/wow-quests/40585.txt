@@ -1,0 +1,8 @@
+{
+    "_id": "40585",
+    "added_in_patch": 7,
+    "description": "The Legion thinks you are dead. It will be quite the surprise when you punish them for that assumption!This allows us to see all across the Broken Isles and assign warriors to various tasks.Once you've taken a look, you should choose your first area of operation. I've already picked out the best spots!",
+    "name": "Thus Begins the War",
+    "requires_level": 98,
+    "zone": "Warrior Campaign"
+}

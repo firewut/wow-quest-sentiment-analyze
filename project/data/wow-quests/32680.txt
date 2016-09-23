@@ -1,0 +1,9 @@
+{
+    "_id": "32680",
+    "added_in_patch": 5.2,
+    "description": "There is no time to waste, <name>. Every moment we delay here gives Jaina and the Kirin Tor more of a hold on the Isle.Lor'themar awaits us. Speak to me when you are ready to depart. I will escort you there myself.",
+    "name": "The Storm Gathers",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Quests"
+}

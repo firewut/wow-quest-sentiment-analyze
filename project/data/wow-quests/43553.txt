@@ -1,0 +1,8 @@
+{
+    "_id": "43553",
+    "added_in_patch": 7,
+    "description": "Our scouts report that the vrykul damned are forced to sail aboard the Naglfar, a ship built of death.\r\n\r\nTravel to the Maw of Souls and confront Helya, before she collects any more poor, unfortunate souls.",
+    "name": "Maw of Souls",
+    "requires_level": 110,
+    "zone": "Helmouth Cliffs"
+}

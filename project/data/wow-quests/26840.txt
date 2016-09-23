@@ -1,0 +1,8 @@
+{
+    "_id": "26840",
+    "description": "With Orgrimmar secure and our Dragonmaw allies behind us, we can turn our attention to the conquest of the Twilight Highlands and the utter destruction of Deathwing's forces there.I need the Horde's best on the front lines. That means you. And all your friends.The Highlands WILL be ours!Use the new portal you created to return to Dragonmaw Port. Report to Zaela to see where she needs you the most.",
+    "name": "Return to the Highlands",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Twilight Highlands"
+}

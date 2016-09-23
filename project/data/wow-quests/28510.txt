@@ -1,0 +1,8 @@
+{
+    "_id": "28510",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Konu Runetotem at Camp Ataya in Feralas. Help the Horde secure the great forest against the Alliance and the Grimtotems.You can reach Camp Ataya by traveling south from Desolace and into Feralas.Destiny calls!",
+    "name": "Warchief's Command: Feralas!",
+    "requires_level": 34,
+    "side": "horde",
+    "zone": "Feralas"
+}

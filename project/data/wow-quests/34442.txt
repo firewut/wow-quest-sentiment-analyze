@@ -1,0 +1,8 @@
+{
+    "_id": "34442",
+    "added_in_patch": 6,
+    "description": "We must move on, there isn't time to waste!One of the elders of my clan, Ga'nar, is out there somewhere. I can sense him, but I cannot find him.Keep an eye out for Ga'nar. He is a strong-willed orc, and will languish in captivity.",
+    "name": "Ga'nar of the Frostwolf",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

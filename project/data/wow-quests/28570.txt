@@ -1,0 +1,7 @@
+{
+    "_id": "28570",
+    "description": "You're quite the <race>, aren't you?  Look at you... you're all grown up already.  And we only just met!I know how it'll go... soon you'll run out of things to do here at Flame Crest.  You'll promise to come back.  But you never will.Kibler's seen it all before.When you do leave, talk to Sharon Boomgetter in the southeastern corner of the Steppes.  She'll give you a ride on the bullet.What?  Oh, it's just a rocket.  Perfectly safe.",
+    "name": "The Bogpaddle Bullet",
+    "requires_level": 51,
+    "zone": "Swamp of Sorrows"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "31600",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Enable Scenarios",
+    "zone": "Scenario"
+}

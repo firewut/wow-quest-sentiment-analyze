@@ -1,0 +1,7 @@
+{
+    "_id": "28875",
+    "description": "Our scouts in the field report that High Shaman MacKilligan has moved out of Thundermar and is fighting amidst the Thundermar Ruins northwest of here, across the river.He's a dangerous one, <name>, responsible for the deaths of many a Dragonmaw. He WILL be destroyed, that is not the question.The question is: will you be the one to earn the glory of the kill?",
+    "name": "Bring Down the High Shaman",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

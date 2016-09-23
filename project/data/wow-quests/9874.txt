@@ -1,0 +1,8 @@
+{
+    "_id": "9874",
+    "description": "I have just gotten word of a catastrophe of epic proportions, <name>. The foul Murkblood have sacked the orc village of Sunspring Post, northwest of here, and murdered its residents. To make matters worse, they have begun dumping the bodies into Sunspring Lake. Should those bodies rot, our primary source of water in the region will be compromised.It's a gruesome task that I give you next but it must be done. Take this enchanted torch and return to Sunspring. Burn all of the rotting orc corpses...",
+    "name": "Stopping the Spread",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

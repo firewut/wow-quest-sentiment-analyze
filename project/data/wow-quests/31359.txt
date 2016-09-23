@@ -1,0 +1,8 @@
+{
+    "_id": "31359",
+    "added_in_patch": 5,
+    "description": "To really connect with Kovok you need to challenge him mentally and physically. You must respect his strength and intelligence; only then will he allow you to really train him.The muckscale tribe may provide an adequate test of his abilities and with you there he shouldn't be in danger.Additionally, this will allow us to decrease their numbers in the Briny Muck.",
+    "name": "The Kunchong Whisperer",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

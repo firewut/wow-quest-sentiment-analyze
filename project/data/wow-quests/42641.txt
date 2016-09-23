@@ -1,0 +1,8 @@
+{
+    "_id": "42641",
+    "added_in_patch": 7,
+    "description": "Most Fascinating! It would appear that we're dealing with our very own vrykul vampyr!\r\n\r\nAll we have encountered have been of blood elven descent, but it has long been theorized that the vrykul have suffered the curse as well. It's too bad he's awake - I would dearly like a subject to study.\r\n\r\nOh well, guess there's nothing for it. Take this stake and put it through the old chap's heart. I'm pretty sure that should do the trick.",
+    "name": "What the Bonespeakers Buried",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

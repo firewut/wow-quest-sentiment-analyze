@@ -1,0 +1,7 @@
+{
+    "_id": "27013",
+    "description": "I'm happy for Nathaniel: he's spent so long trying to return to Northridge, and now with the Scarlet Crusade out of the way, he can finally move back home.  It's just... even for such a seemingly-idyllic setting, it's not really the best place to raise a family.For example: along this valley's edge, you will find rabid foxes searching for innocent prey.  Every once in a while I catch a glimpse of one looking right at me.Please, <class>, remove some of these foxes.  I don't feel safe with them near.",
+    "name": "Too Close for Comfort",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

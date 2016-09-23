@@ -1,0 +1,8 @@
+{
+    "_id": "42197",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Duke Hydraxis",
+    "requires_level": 101,
+    "zone": "Shaman Campaign"
+}

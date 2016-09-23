@@ -1,0 +1,7 @@
+{
+    "_id": "10186",
+    "description": "Let me be the first to welcome you aboard, Junior Technician 3rd Grade <name>!We're building my masterpiece out here - the X-52 Nether-Rocket!But first we need to get all of the parts and fuel for it.  That's where you come in.To start, I need crystals - LOTS of crystals - for the rocket's Etherlithium Engine Matrix.  The draenei had crystals coming out of their ears!So head north to the Ruins of Enkaat and get them for me!  Nevermind all of the draenei ghosts.",
+    "name": "You're Hired!",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

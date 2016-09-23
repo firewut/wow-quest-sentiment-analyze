@@ -1,0 +1,8 @@
+{
+    "_id": "25734",
+    "description": "I'm feeling slightly less wobbly now, so I'm going to start setting up the level for my final measurements here. There's one last thing I need from you.There's a seismograph set up deep within Thelgen Rock to record any movements in the earth. If things have been continuing to shift since the cataclysm, this'll tell us.The seismograph's at the very bottom of the cave; find it and bring the record it's created back to me.",
+    "name": "Down In Thelgen Rock",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26611",
+    "description": "Shiver me timbers!  So the Bloodsail Buccaneers are planning some sort of attack on Booty Bay?  Why, the nerve of those scoundrels.  Booty Bay will always be run by the Blackwater Raiders!This is bigger than I thought.  Report what you have learned to Baron Revilgaz at once!  You'll find him here in Booty Bay.",
+    "name": "The Baron Must Be Told",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

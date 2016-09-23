@@ -1,0 +1,8 @@
+{
+    "_id": "34987",
+    "added_in_patch": 6,
+    "description": "Ey, pal! We got an issue, here.Me ol' pal Thaelin's rigged together this here plunger out of spare Blackrock parts - engineerin' whiz that he is - but we're gonna need some gunpowder if we really want ta' do any damage.",
+    "name": "The Gunpowder Plot",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26447",
+    "description": "The demon dropped this parchment, which is amazingly written in the Orcish tongue!  The ones mentioned in it, Diathorus and Gorgannon, are the two infamous dreadlords that control the demons hereabouts.The plans detail preparations for a demonic attack on Splintertree Post to the northwest.You're certain that Valusha at Splintertree Post would be interested in these.",
+    "name": "Diabolical Plans",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

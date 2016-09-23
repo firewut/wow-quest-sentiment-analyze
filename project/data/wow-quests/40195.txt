@@ -1,0 +1,8 @@
+{
+    "_id": "40195",
+    "added_in_patch": 7,
+    "description": "My brother, Taldranis, was on a ship headed here to Azsuna. The ship was ambushed by the sea giants and my brother was taken captive.I believe he still lives out his days in those horrible caves, slaving away for the giants. Go and free him, please.Take this with you, it may give him enough protection should you run into any trouble. And be careful not to get captured by the giants yourself.",
+    "name": "A Daring Rescue",
+    "requires_level": 104,
+    "zone": "Leatherworking"
+}

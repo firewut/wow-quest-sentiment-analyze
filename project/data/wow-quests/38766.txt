@@ -1,0 +1,8 @@
+{
+    "_id": "38766",
+    "added_in_patch": 7,
+    "description": "The doomguard commander and his queen must be dealt with. His eredar are summoning in a huge number of reinforcements.\r\n\r\nWe need to put an end to him before the Legion overruns our new foothold up in the volcano!\r\n\r\nAs an added benefit, you can steal his demonic power.",
+    "name": "Before We're Overrun",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

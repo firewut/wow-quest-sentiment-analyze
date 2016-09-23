@@ -1,0 +1,7 @@
+{
+    "_id": "13503",
+    "description": "Here... take this Egg Basket and go hunting for Brightly Colored Eggs. Return to me with the basket when you've found ten Noblegarden Chocolates.",
+    "name": "A Tisket, a Tasket, a Noblegarden Basket",
+    "requires_level": 1,
+    "zone": "Noblegarden"
+}

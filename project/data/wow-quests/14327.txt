@@ -1,0 +1,7 @@
+{
+    "_id": "14327",
+    "description": "It would seem that we have no choice.As reluctant as I am to cooperate with the Kolkar, there is wisdom in the words of their Khan.You may give him my word that we shall lend our spears to the battle.",
+    "name": "My Word is My Bond",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

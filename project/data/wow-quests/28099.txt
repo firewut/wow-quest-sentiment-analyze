@@ -1,0 +1,7 @@
+{
+    "_id": "28099",
+    "description": "Based on this information you've delivered, I believe that one of this \"Archduke's\" minions may already have turned its eyes toward Thorium Point.His name is Rasha'krak, and he patrols the lava pools just to our south.  He looks like the latent fire elementals that rage nearby, except for one small difference: the bracers of binding that encircle his wrists.Find him and bring these bracers to me, <name>.  I need proof that we are in danger before we involve ourselves in elemental wars.",
+    "name": "Rasha'krak",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "33800",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Darren's Bombing Run of Awesomeness",
+    "requires_level": 90,
+    "zone": "Quests"
+}

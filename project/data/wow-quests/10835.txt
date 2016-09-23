@@ -1,0 +1,8 @@
+{
+    "_id": "10835",
+    "description": "<name>, I have prepared a preliminary report of my findings regarding the Bleeding Hollow orcs.  My colleague in Thrallmar, Apothecary Antonivich, will be happy to receive them.  He too studies the phenomenon of fel orcs... in hopes of preventing such a tragedy from again befalling our orcish allies.Take him this report, and I will continue my study of the blood you brought me.  If fortune is with us, we will isolate the cause of the fel orc affliction.",
+    "name": "Apothecary Antonivich",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

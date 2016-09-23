@@ -1,0 +1,8 @@
+{
+    "_id": "42412",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Huntsman Blake",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30881",
+    "added_in_patch": 5,
+    "description": "You may know your next challengers. They were arguing fiercely when they arrived, so I have charged them with fighting side by side.This will teach them the strength of friendship, and possibly entertain me in the process.Go to the north eastern arena and face this jinyu and hozen.Do not be gentle, they need to learn to work together.",
+    "name": "Round 2: Clever Ashyo & Ken-Ken",
+    "requires_level": 90,
+    "zone": "Kun-Lai Summit"
+}

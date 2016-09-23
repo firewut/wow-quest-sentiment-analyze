@@ -1,0 +1,8 @@
+{
+    "_id": "39602",
+    "added_in_patch": 7,
+    "description": "Linzy said that Lyndras escaped down into the sewers of Dalaran. Surely there must be a clue down there as to his whereabouts.Hopefully he hasn't caused any more commotion amongst the citizens of Dalaran.",
+    "name": "Where's Lyndras: Sewer Sleuthing",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34566",
+    "added_in_patch": 6,
+    "description": "Commander, the outpost is nearly fully operational.Gazlowe provided us with two different blueprints to fill this final plot - an Arsenal or an Arcane Sanctum.Either one would provide us with the additional firepower we need to stop the Iron Horde's advance.The plans are on the drafting table. It's your call.",
+    "name": "At Your Command",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

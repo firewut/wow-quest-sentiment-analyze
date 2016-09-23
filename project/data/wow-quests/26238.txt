@@ -1,0 +1,7 @@
+{
+    "_id": "26238",
+    "description": "The Horde has done much for us Revantusk, and we're no freeloaders. With the other forest troll tribes pushed back, we're striking out to claim more land in the name of the Horde.But now the Wildhammer dwarves are getting in our way. If it's a war they want, it's a war they'll get... and I don't plan to lose a war to creatures half my height.Get out there and kill me some dwarves.",
+    "name": "The Savage Dwarves",
+    "requires_level": 30,
+    "zone": "The Hinterlands"
+}

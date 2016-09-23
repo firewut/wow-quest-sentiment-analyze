@@ -1,0 +1,7 @@
+{
+    "_id": "25218",
+    "description": "Fine! Fine. You argued me into it. You can help.I'm leaking air worse than a zeppelin stuffed with quilboar! My air valve must have come loose somewhere in the trench.I brought spare air balloons - make yourself useful and go fill one up, will ya? And find my valve! I'll need that too.I bet the crabs snatched it up... pinchy, greedy little things.",
+    "name": "Undersea Inflation",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

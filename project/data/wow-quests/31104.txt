@@ -1,0 +1,8 @@
+{
+    "_id": "31104",
+    "added_in_patch": 5,
+    "description": "The Shado-Pan brothers and sisters continue to whisper of your deeds, <name>.In fact, Yalia herself has taken quite an interest in your studies.She wishes to challenge you in the training ring.You would do well to impress her. If you do, she just may be willing to help you in the future.",
+    "name": "The Challenger's Ring: Yalia Sagewhisper",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

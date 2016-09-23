@@ -1,0 +1,7 @@
+{
+    "_id": "14041",
+    "description": "Have you tried the cranberry chutney yet? It's made with fresh tangy Southfury cranberries. Just pick some up from the Pilgrim's Bounty vendor if you want to try your hand at making chutney.The recipe should be in your bountiful cookbook.If you've got some extra time on your hands, would you mind making some of the chutney and bringing it to Dokin Farplain at the base of the elevator on the western side of Thunder Bluff?",
+    "name": "Cranberry Chutney",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

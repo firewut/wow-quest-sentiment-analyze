@@ -1,0 +1,7 @@
+{
+    "_id": "28623",
+    "description": "Our work is done here, <name>.  Against all odds, we stopped the Neferset advance on Nahom.Let us join the forces pushing west, lest they take all the glory for themselves.They must've reached the outskirts of Neferset City by now.",
+    "name": "The Push Westward",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

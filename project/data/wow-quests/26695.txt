@@ -1,0 +1,7 @@
+{
+    "_id": "26695",
+    "description": "I've got an idea, but it's going to involve some footwork on your part.  As a goblin cartel, the Blackwater Raiders have a lot of explosives on hand.  In fact, I know for a fact that our old friend Narkk keeps a case in the back of his shop, in the Old Port Authority.Go grab them and bring them here, if they haven't already exploded.",
+    "name": "Prepare for Takeoff",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

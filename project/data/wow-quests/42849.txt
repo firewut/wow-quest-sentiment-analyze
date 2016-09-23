@@ -1,0 +1,8 @@
+{
+    "_id": "42849",
+    "added_in_patch": 7,
+    "description": "A new mission requires our attention, Highlord <name>. Hearthglen has come under attack by a small demon army.No doubt, they are testing our strength... and our patience.Strength we have in bounds, but my tolerance wears thin. I suggest we send our champions and troops to deal with this threat.",
+    "name": "Wrath and Justice",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

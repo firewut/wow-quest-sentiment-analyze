@@ -1,0 +1,8 @@
+{
+    "_id": "26566",
+    "description": "We will need all the weapons, inventions, and soldiers we can get in order to defeat Razlo Crushcog and his followers.Over to the northeast, you'll find Engineer Grindspark, one of a new generation of brilliant gnomish minds. Why, he hasn't had an explosion in over three prototypes!But enough bragging. Engineer Grindspark is working on a bot that he says will help clean up the toxic airfield. You should introduce yourself to him and see if he needs any help testing it.",
+    "name": "A Triumph of Gnomish Ingenuity",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

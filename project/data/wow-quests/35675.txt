@@ -1,0 +1,9 @@
+{
+    "_id": "35675",
+    "added_in_patch": 6,
+    "description": "Posted by: Quartermaster JolieWe're running out of supplies to repair our troops' armor.I'll pay handsomely for the husk of the mighty ravager Spineslicer. It would provide us with repair materials for weeks.",
+    "name": "Wanted: Spineslicer's Husk",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

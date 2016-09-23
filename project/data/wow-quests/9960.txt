@@ -1,0 +1,7 @@
+{
+    "_id": "9960",
+    "description": "Hey there, <class>.  We haven't heard from the druids of the Cenarion Thicket in quite some time.I want you to go over there and check to see what's happening.  You can find it by heading northwest through the forest.",
+    "name": "What's Wrong at Cenarion Thicket?",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

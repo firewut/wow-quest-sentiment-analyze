@@ -1,0 +1,8 @@
+{
+    "_id": "40858",
+    "added_in_patch": 7,
+    "description": "Yeh seem ta 'ave everything yeh need. Head back to Didi now wit' yer supplies and giv'er a slap on tha back from me!",
+    "name": "The Missing Pieces",
+    "requires_level": 98,
+    "zone": "Engineering"
+}

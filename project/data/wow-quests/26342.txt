@@ -1,0 +1,8 @@
+{
+    "_id": "26342",
+    "description": "We have reliable intelligence that Razlo Crushcog has taken up a defensive position on the island in the middle of frozen Iceflow Lake. To make matters worse, he's surrounded himself with a network of sentry-bots that will detect any possible attackers.If we're to take on Crushcog, we'll need to take out those sentries. This device launches a dark, sticky paint that will coat the optical sensors of Crushcog's sentry-bots. Use it to take out his early warning system.",
+    "name": "Paint it Black",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

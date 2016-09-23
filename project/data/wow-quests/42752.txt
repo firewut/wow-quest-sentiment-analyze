@@ -1,0 +1,8 @@
+{
+    "_id": "42752",
+    "added_in_patch": 7,
+    "description": "<All that is left now is to travel to the Isle of the Watchers off of southwest Azsuna. There, you will need to break back in to the Vault of the Wardens and descend down into its lowest recesses where once you were imprisoned.>\r\n\r\n<Within the so-called Vault of the Betrayer, where the Wardens once held Illidan's corpse, the Sargerite Keystone awaits.>",
+    "name": "Vault Break-In",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

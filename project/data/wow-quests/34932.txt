@@ -1,0 +1,8 @@
+{
+    "_id": "34932",
+    "added_in_patch": 6,
+    "description": "In a cave not far from here, there lives an old woman named Challe.I knew Challe many years ago when I was young; though as I have become old and grey, she has kept her youth and beauty.Challe was jealous of my love for Dahaka and I have long suspected that Challe had a part in her death. However, without evidence I could not bring justice against her.Meet with Challe and tell her that I am dying. Tell her that I wish to know the truth of Dahaka's fate before I leave this world.",
+    "name": "Guise of the Deceiver",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

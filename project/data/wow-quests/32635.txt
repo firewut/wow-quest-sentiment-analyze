@@ -1,0 +1,8 @@
+{
+    "_id": "32635",
+    "added_in_patch": 5.2,
+    "description": "The Sunreavers have planted tactical mana bombs around our camp. These must be dismantled before they are detonated.Look for them in areas of high importance such as our supplies. Make sure you find and disable them all. We cannot afford to lose any ground here.",
+    "name": "Enough with the Bombs!",
+    "requires_level": 90,
+    "zone": "Quests"
+}

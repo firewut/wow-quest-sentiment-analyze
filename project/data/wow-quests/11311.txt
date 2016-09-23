@@ -1,0 +1,7 @@
+{
+    "_id": "11311",
+    "description": "If you are to survive here, as we have, you must learn to face the environment's challenges head on. The elements will claim your life if you're not vigilant, as the proliferation of elementals in these northern hills shows.We must cull the elementals one last time before we can leave this place. Are you willing to aid us while we continue to make preparations?You must kill any iceshard elementals or howling cyclones you encounter in the snowy hills surrounding the outpost.",
+    "name": "Suppressing the Elements",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

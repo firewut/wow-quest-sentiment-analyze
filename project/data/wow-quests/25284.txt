@@ -1,0 +1,8 @@
+{
+    "_id": "25284",
+    "description": "Our resources are limited, <class>, but that doesn't mean we can't make some trouble down below. Use the ropes here to sneak down the hillside, then slay the human prison wardens.Killing a couple scrawny guards won't turn the tide of battle, but  imagine the fear and chaos we'll reap as the humans discover the mutilated bodies...<Holgom grins a yellowed grin, his eyes glinting.>",
+    "name": "Feeding the Fear",
+    "requires_level": 28,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

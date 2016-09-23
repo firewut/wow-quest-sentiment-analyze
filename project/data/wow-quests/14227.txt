@@ -1,0 +1,7 @@
+{
+    "_id": "14227",
+    "description": "So it's true....The parchment you discovered in Thunder Axe Fortress details a powerful summoning ritual. One stronger than the Burning Blade have ever been known to possess.Clearly, this rite must be stopped at all costs!Perhaps if this demon were summoned forth prematurely the crisis could be averted.",
+    "name": "Putting Their Heads Together",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

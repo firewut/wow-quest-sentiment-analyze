@@ -1,0 +1,7 @@
+{
+    "_id": "25482",
+    "description": "",
+    "name": "World Event Dungeon - Headless Horseman",
+    "requires_level": 75,
+    "zone": "Quests"
+}

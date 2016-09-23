@@ -1,0 +1,9 @@
+{
+    "_id": "37002",
+    "added_in_patch": 6,
+    "description": "Alright, we've taken on foes in the sky and on land, and even in the rain. What happens when the beasts are below your feet, though? We're about to find out!The rockworm is a cunning predator, striking at prey from below the sands. Many beasts of Nagrand have grown wary of the rumbling of the earth. Take your boar on out to the sandy shores and see if you can't take down one of the elder rockworms: Ironbore.",
+    "name": "Boar Training: Ironbore",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

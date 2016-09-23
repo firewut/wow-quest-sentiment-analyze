@@ -1,0 +1,8 @@
+{
+    "_id": "24897",
+    "description": "We were wrong. It wasn't the naga that were preparing to attack... it was the nearby Oomlot tribe.<name>, you need to get back to the Town-In-A-Box. The pygmies are already attacking!Here, take this. We bought it off of a pygmy who said it used to belong to some great leader of theirs. Someone whose name translates as Dark Tan Helmet.It should fool them so that they don't attack you.",
+    "name": "Get Back to Town",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

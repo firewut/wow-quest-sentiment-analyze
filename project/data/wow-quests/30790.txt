@@ -1,0 +1,8 @@
+{
+    "_id": "30790",
+    "added_in_patch": 5,
+    "description": "Golgoss' strength is great, but he requires nutrition before he can use it.The snarlthorn bushes in the Upper Sumprushes have heavy, fibrous branches. These should sate his appetite.",
+    "name": "Golgoss Hungers",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

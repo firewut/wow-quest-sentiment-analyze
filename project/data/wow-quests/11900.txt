@@ -1,0 +1,7 @@
+{
+    "_id": "11900",
+    "description": "I had hoped that the Nexus' impact was limited to this region. Recently though, reports have flooded in from all over Azeroth suggesting that geologic instability is growing exponentially!I need the Nexus monitored regularly as I work to develop a solution.I've placed sensitive instruments around Coldarra, disguised as Malygos' scrying orbs. One lies in the trench near the Nexus, and three are hidden in the structures around the valley's perimeter. Visit each and return to me with their readings.",
+    "name": "Reading the Meters",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39334",
+    "added_in_patch": 7,
+    "description": "Here is your flask, good as new. A fair trade for those potions.Be a little more careful with your breakables next time!",
+    "name": "Thanks for Flasking",
+    "requires_level": 104,
+    "zone": "Alchemy"
+}

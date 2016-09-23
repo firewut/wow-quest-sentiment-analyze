@@ -1,0 +1,8 @@
+{
+    "_id": "41112",
+    "added_in_patch": 7,
+    "description": "There is a goblin who is a master of portals and teleportation by the name of Akazamzarak. His talents have gone mostly unnoticed, however, since he mostly uses them for chicanery.\r\n\r\nHe is, what you would call, a street performer.\r\n\r\nFortunately for us, he is performing in the streets of Dalaran, grifting coins from the unenlightened masses.\r\n\r\nTake this bag of gold. See if you can convince him to change vocations.",
+    "name": "The Great Akazamzarak",
+    "requires_level": 98,
+    "zone": "Quests"
+}

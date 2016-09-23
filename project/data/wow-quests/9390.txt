@@ -1,0 +1,8 @@
+{
+    "_id": "9390",
+    "description": "Hear my plight, <class>.  My brother, Sedai, left long ago to contact the orcs of Mag'har Post.  Ever the idealist, he thought the time was ripe to set our differences aside and negotiate a peace with them.He's been missing for days and I fear for the worst.Would you set my mind to rest and look for him?  Sedai must be somewhere nearby to the east.",
+    "name": "In Search of Sedai",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

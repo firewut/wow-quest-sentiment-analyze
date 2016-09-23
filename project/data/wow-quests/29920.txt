@@ -1,0 +1,8 @@
+{
+    "_id": "29920",
+    "added_in_patch": 5,
+    "description": "My love, Lo, tried to get permission to marry me from the pandriarchs. Though they have passed beyond, their favor would carry a lot of weight.Thing is, they are spirits, and none of the gifts or tributes we brought impress them. To win their favor they claimed that either Lo or a champion must defeat them in single combat.Lo is a good man, but not a fighter.Would you be our champion?",
+    "name": "Getting Permission",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

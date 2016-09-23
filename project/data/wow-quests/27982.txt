@@ -1,0 +1,7 @@
+{
+    "_id": "27982",
+    "description": "Have ye seen the ridiculous necklaces those Twilight's Hammer cultists all wear?  The gems on those things are bigger than Hansel's fist!A few hamburger-sized jewels like that, and Burninate over there could really push his blacksmithing business to the next level.  Fetch those collars, and he'll make it worth your while.",
+    "name": "Twilight Collars",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28841",
+    "description": "Mazthoril's innate magic can wreak unimaginable havoc if mishandled. Umbranse's wanton casting within the cavern has opened up a number of tesseracts - in other words, portals - connecting to other worlds. If I am to return to Mazthoril, these tesseracts must be closed.The dreamcatcher will close the portals, buying you safe entrance into Umbranse's lair. First defeat whatever comes out of the tesseracts, then use the dreamcatcher to quickly close them, before anything else spills into this world.",
+    "name": "The Arcane Storm Within",
+    "requires_level": 53,
+    "zone": "Winterspring"
+}

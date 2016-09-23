@@ -1,0 +1,8 @@
+{
+    "_id": "32152",
+    "added_in_patch": 5.1,
+    "description": "The Horde got the bright idea to send Bilgewater goblins to attack our quarry.\r\n\r\nThey've been packing heavy explosives - heavy explosives that will react with the ammunition in their demolishers.\r\n\r\nKill the Bilgewater goblins until you find an explosive, plant it on one of the demolishers... and BOOM! Siege ended.",
+    "name": "Siege Damage",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

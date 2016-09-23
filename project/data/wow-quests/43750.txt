@@ -1,0 +1,8 @@
+{
+    "_id": "43750",
+    "added_in_patch": 7,
+    "description": "Once, the mighty titanforged keepers of Ulduar and Odyn acted as one. Ever since Odyn broke off to create the valarjar, not even Odyn's own son Thorim is bound to follow his father's advice.There is one hope to unite the forces of Skyhold and Ulduar however.The Gjallarhorn was a gift given to Hymdall before Odyn's departure. The keepers of Ulduar are oathbound to answer the call of the Gjallarhorn were it to be sounded as it would signal that the end times are upon us!",
+    "name": "The Call of Battle",
+    "requires_level": 101,
+    "zone": "Warrior Campaign"
+}

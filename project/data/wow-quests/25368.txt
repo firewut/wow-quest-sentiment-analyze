@@ -1,0 +1,7 @@
+{
+    "_id": "25368",
+    "description": "The other spirits and I are bound here by a cruel demon named Verinias. He is our captor, a twisted, mindless beast who devours our souls over millennia.The lure of the souls and arcane magic you've brought me should let you draw him out. Take this condensed essence to the dead tree at the far north of the ruins. Use it to lure Verinias and slay him, that I may finally be free...",
+    "name": "Verinias the Twisted",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

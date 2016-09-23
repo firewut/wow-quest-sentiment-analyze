@@ -1,0 +1,8 @@
+{
+    "_id": "24753",
+    "description": "Lets put dose skills ta use. I'll start ya off easy, mon.There be cats killing our boars. Dat food ain't for sharin'. Dose boars are gonna need ta be alive if ya be wanting food tonight.Dey're all over the island. Bring me some cat pelts.",
+    "name": "A Rough Start",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Echo Isles"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14107",
+    "description": "The Argent Crusade is hardly the first force to challenge the Lich King. Our enemy turns spirits of the fallen against us.Their spirits wander the Valley of Fallen Heroes, southwest of the grounds and between Aldur'thar and the Ironwall Rampart. The area is littered with discarded soul crystals, used by the Scourge to control the spirits. Gather those soul crystals and use them with this Light-blessed relic to bestow the blessing of peace upon the spirits. They have more than earned their rest.",
+    "name": "The Fate Of The Fallen",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

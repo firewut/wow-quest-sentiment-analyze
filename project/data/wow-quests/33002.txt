@@ -1,0 +1,8 @@
+{
+    "_id": "33002",
+    "added_in_patch": 5.4,
+    "description": "[TEMP TEXT] I've taken what I know and filled in the blank and illegible pieces of your scroll, <name>. But I'm no scribe, and a document like this needs to be recorded and archived.The scribes of Pandaria make a point to archive ancient texts like yours. Bring it to the scribe in the Seat of Knowledge.Farewell, warrior.",
+    "name": "Scribe Wei Wu",
+    "requires_level": 90,
+    "zone": "Warrior"
+}

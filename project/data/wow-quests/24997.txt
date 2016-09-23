@@ -1,0 +1,7 @@
+{
+    "_id": "24997",
+    "description": "The mass graves within the forest to the west of us were made to accommodate the... impressive... number of deaths Tirisfal suffered when the plague first came.  The bodies in these graves have so far been spared an undeath, but the Scourge now send Rot Hide gnolls to gather the corpses and use them to bolster their armies.  This cannot be allowed!Your task is twofold: slay the Rot Hides at the mass grave and Garren's Haunt, and gather from them the embalming ichor that gives them life.",
+    "name": "Graverobbers",
+    "requires_level": 6,
+    "zone": "Tirisfal Glades"
+}

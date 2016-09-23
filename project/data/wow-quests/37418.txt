@@ -1,0 +1,8 @@
+{
+    "_id": "37418",
+    "added_in_patch": 6,
+    "description": "Commander! Great news! Now that the workshop is fully armed and operational, we can start cranking out siege weapons just as soon as we have the resources.The Overcharged Demolisher is the pinnacle of goblin engineering, if I do say so myself. It's more powerful than your average demolisher, and you can use it almost anywhere! The only limit is the amount of fuel we're able to pack into the chasis.As soon as you're ready to begin production, just bring us some resources and place a work order!",
+    "name": "Fully Armed and Operational",
+    "requires_level": 90,
+    "zone": "Garrison Support"
+}

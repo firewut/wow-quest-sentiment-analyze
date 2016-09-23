@@ -1,0 +1,7 @@
+{
+    "_id": "10480",
+    "description": "The Illidari naga of the region have taken control of the only clean water supply that exists in Shadowmoon Valley.Directly north of here you will find the lair of the naga: Coilskar. Around Coilskar are pockets of agitated water that howl to the land in anguish. It is at those pockets that the enraged spirits of water now wander.Travel to Coilskar and use the totem of spirits to capture watery souls. You will find the largest concentration of these spirits near Coilskar Cistern.\r\n",
+    "name": "Enraged Spirits of Water",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

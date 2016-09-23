@@ -1,0 +1,8 @@
+{
+    "_id": "40237",
+    "added_in_patch": 6.2,
+    "description": "We've had enough! The working conditions in the Foundry are intolerable with all the fire and the ogron and the flames and the fire elementals and infernos and marauding adventurers! But especially the heat.I've had enough! Me and the boys are going to start a work stoppage but we need to hire some security muscle and the only goon from Highmaul I could get to agree to the job only takes payment in Apexis Crystals.",
+    "name": "Work Work Stoppage",
+    "requires_level": 100,
+    "zone": "Quests"
+}

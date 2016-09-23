@@ -1,0 +1,8 @@
+{
+    "_id": "34157",
+    "added_in_patch": 6,
+    "description": "<name>, Nyami ran off to 'take down Teron'gor herself.'You need to find her. She has no chance against him on her own.I must remain here and organize our ranks should another attack fall upon us. I'm counting on you.",
+    "name": "Into the Heart of Madness",
+    "requires_level": 95,
+    "zone": "Talador"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32430",
+    "added_in_patch": 5.1,
+    "description": "There's an Alliance dwarf I've been keeping a close eye on. High Marshal Twinbraid proved to be a nuisance in Southern Barrens when he struck back at the Horde after the loss of Bael Modan. He's now entrenched within the Alliance stronghold in Lion's Landing, helping to orchestrate the Krasarang counter-offensive.Only a legendary group of Horde heroes could possibly defeat him.If you wish to finish him off, bring friends. Lots of friends.",
+    "name": "A Change of Command",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

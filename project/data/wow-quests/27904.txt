@@ -1,0 +1,7 @@
+{
+    "_id": "27904",
+    "description": "The Grell are forest spirits that wander the Misty Valley to the east. Though they resemble imps, I have found no demonic traces among the ones I've studied. They are, as far as I can tell, uncorrupted. Those that dwell in the valley move as one with the wind, summoning gusts of breeze at their whim. This pure air may be incorporated into my remedy for poor Magtoor.Please, <name>, gather the smoky crystals found within the grells' bodies for me. I must exhaust every potential cure.",
+    "name": "Breath of Mist",
+    "requires_level": 53,
+    "zone": "Swamp of Sorrows"
+}

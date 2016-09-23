@@ -1,0 +1,7 @@
+{
+    "_id": "28116",
+    "description": "We must prepare carefully before assaulting Jaedenar. The magic of the warlocks and demons within Jaedenar is strong, and we will need wards of our own before entering.We need only one more ingredient: Crying Violet, which grows in the hills near the enemy's stronghold to the northwest. Gather the crying violet, then meet my assistant in the field. He will know what to do next.",
+    "name": "Crying Violet",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

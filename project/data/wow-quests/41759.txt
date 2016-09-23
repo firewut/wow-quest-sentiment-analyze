@@ -1,0 +1,8 @@
+{
+    "_id": "41759",
+    "added_in_patch": 7,
+    "description": "Channeling the demonic gateway will require the assistance of someone with intimate knowledge of the Burning Legion.\r\n\r\nI know of such a warlock, though I imagine her blood still boils upon hearing my name. It might be best if you are the one to request her help.",
+    "name": "An Unlikely Ally",
+    "requires_level": 103,
+    "zone": "Warlock Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41911",
+    "added_in_patch": 7,
+    "description": "The hops for our brew must be a very specific, and they will also be hard to acquire.Amaranthine Hops only grow in the realm known as the Emerald Dream, meaning we can only acquire this ingredient from a druid.There is one such supplier from whom I receive this item, but she may ask for something in exchange.",
+    "name": "Amaranthine Hops",
+    "requires_level": 110,
+    "zone": "Monk Campaign"
+}

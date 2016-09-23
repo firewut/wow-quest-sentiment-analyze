@@ -1,0 +1,8 @@
+{
+    "_id": "34437",
+    "added_in_patch": 6,
+    "description": "I can get back to Drek'Thar myself... after I run this stinking shovel through a few Blackrock stomachs.",
+    "name": "The Prodigal Frostwolf",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

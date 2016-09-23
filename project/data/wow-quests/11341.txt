@@ -1,0 +1,7 @@
+{
+    "_id": "11341",
+    "description": "We will fight and crush the enemy wherever we find them.  Azeroth, Outland, the place makes no difference.We cannot allow the Alliance to establish superiority in the Eye of the Storm.  Take the battle to them today... tomorrow it might be too late!",
+    "name": "Call to Arms: Eye of the Storm",
+    "requires_level": 71,
+    "zone": "Eye of the Storm"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29125",
+    "description": "Spirit fragments of Malorne - seen to us mortals as ghostly white deer - still frolic through these forests. While Malorne is no longer with us, these pieces of his spirit may be of use to us.Travel east and walk among the trees. If you are able to get close enough to one of the spirit fragments, it will bestow its power to you.Oh, and take this staff. You may need it later.",
+    "name": "Between the Trees",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

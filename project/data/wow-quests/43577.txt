@@ -1,0 +1,8 @@
+{
+    "_id": "43577",
+    "added_in_patch": 7,
+    "description": "The time has come to make our move against the Legion.The Legion has multiple portals across the Broken Isles.Should your armies succeed in securing one while it's still active, Hymdall can use the runestones you gathered to direct it to whatever hellish world Hodir is trapped in.",
+    "name": "Capturing the Gateway",
+    "requires_level": 110,
+    "zone": "Warrior Campaign"
+}

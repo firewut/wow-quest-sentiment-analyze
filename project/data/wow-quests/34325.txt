@@ -1,0 +1,8 @@
+{
+    "_id": "34325",
+    "added_in_patch": 6,
+    "description": "I've searched the depths of the earth and found the means to break the spells that hold my people captive, but it only functions to free one who is completely bound. I would be unable to prevent myself from becoming bound by the same magic.You, flesh creature, are not of the flames below so their binding spells should not affect you.Please take my jewel, use its power to free my people!",
+    "name": "Flames Of The Earth",
+    "requires_level": 100,
+    "zone": "Frostfire Ridge"
+}

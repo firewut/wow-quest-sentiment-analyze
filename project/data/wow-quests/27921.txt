@@ -1,0 +1,8 @@
+{
+    "_id": "27921",
+    "description": "It appears that Lord Walden has finally taken notice to our presence and has heightened his defenses. It's worthless really... nothing will deter our pack.The path ahead to him is rife with powerful Scourge minions, but I trust that you will be able to clear the path for the rest of us to follow in. Once we kill Walden, it should be a straight shot to his cowardly leader.",
+    "name": "Fighting Tooth and Claw",
+    "requires_level": 16,
+    "side": "alliance",
+    "zone": "Quests"
+}

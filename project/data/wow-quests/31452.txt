@@ -1,0 +1,8 @@
+{
+    "_id": "31452",
+    "added_in_patch": 5,
+    "description": "Usually, Merchant Shi comes through Kun-Lai Summit to trade with the Jinyu and Grummle. We've heard word that he hadn't been seen at Binan, and we haven't seen him here...\r\n\r\nI'm worried something has happened to him. Can you go to the Inkgill Mere and see if he's there?",
+    "name": "The Missing Merchant",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

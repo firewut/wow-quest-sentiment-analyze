@@ -1,0 +1,8 @@
+{
+    "_id": "25684",
+    "description": "I admit, we haven't picked the most... convenient of spots to perform our studies, especially for passing adventurers who wish to enter and leave at will.  Our agreement with the ogres is tenuous, and I'm afraid we can't convince them not to attack you when you draw near.However, I can allow you to attune yourself to our bloodstone teleporters.  Simply place your hands on the stone to my right, and you will be teleported outside of the cave.  Then use the stone outside to teleport back!",
+    "name": "Attune the Bloodstone",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

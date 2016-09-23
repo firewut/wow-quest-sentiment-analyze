@@ -1,0 +1,7 @@
+{
+    "_id": "10729",
+    "description": "",
+    "name": "Path of the Violet Mage",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

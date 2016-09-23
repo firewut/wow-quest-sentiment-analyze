@@ -1,0 +1,8 @@
+{
+    "_id": "43490",
+    "added_in_patch": 7,
+    "description": "<The book is missing several pages. Nearby, you can see signs of a struggle.><If you can seek the missing pages on the nearby demons, perhaps you could learn what fate befell your allies.>",
+    "name": "Aponi's Trail",
+    "requires_level": 110,
+    "zone": "Paladin Campaign"
+}

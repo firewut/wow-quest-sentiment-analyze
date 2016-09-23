@@ -1,0 +1,7 @@
+{
+    "_id": "25208",
+    "description": "It seems we've found an infestation far worse than the one we expected. Cho'gall is no doubt trying to use the Gordok to gain access to the remnants of Eldre'thalas within Dire Maul, full of the forbidden powers that brought the downfall of the Shen'dralar...I am rambling. Leave me, <name>. Tell Silvia of what you've learned. Whatever is occuring in Dire Maul must be stopped.",
+    "name": "Tell Silvia",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11572",
+    "description": "Return to Elder Atuik at Kamagua. He and the rest of my people must be warned of this impending doom that approaches from the sea.<Orfus shivers.>Use the Ancient Lift to reach him. Please hurry!",
+    "name": "Return to Atuik",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

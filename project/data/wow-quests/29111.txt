@@ -1,0 +1,7 @@
+{
+    "_id": "29111",
+    "description": "You've managed to stir the Burning Blade's nest. Our scouts report that they are gathering for an attack.You must complete the caravan's journey before they arrive. The supplies are packed, the kodos are rested, and I hope you don't mind but I made a few adjustments to your gun.If you meet up with any resistance, shoot first and ask questions later.Quickly! They come! Speak to me when you are ready to leave.",
+    "name": "Mor'shan Caravan Delivery",
+    "requires_level": 15,
+    "zone": "Northern Barrens"
+}

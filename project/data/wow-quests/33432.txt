@@ -1,0 +1,8 @@
+{
+    "_id": "33432",
+    "added_in_patch": 6,
+    "description": "You want to get some practice in?For this challenge: run through the arch, then get to the red marker, the purple marker, and finally return here.You have all the time you need.",
+    "name": "Elwynn South Distance Practice",
+    "requires_level": 1,
+    "zone": "Elwynn Forest"
+}

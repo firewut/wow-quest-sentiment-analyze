@@ -1,0 +1,8 @@
+{
+    "_id": "32682",
+    "added_in_patch": 5.2,
+    "description": "As you know, <name>, I'm getting along in my years. One can't stay a spry young pandaren forever, you know.I'm looking for someone to take over my duties here at the Tillers Union, and I can't think of a better person than Farmer Yoon.He's got a good deal to learn, but he's got a good head on his shoulders and most importantly, a generous heart.Do you think he'd be interested?",
+    "name": "Inherit the Earth",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

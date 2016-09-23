@@ -1,0 +1,8 @@
+{
+    "_id": "38894",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Founded Garrison",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26134",
+    "description": "There is nothing left for you here, <name>. As for me, I must lay Masha's body to rest. Once I have done that I will go to the bombing site and begin the process of regrowth. Perhaps one day a new grove will bloom - a grove infused with the spirit of my child and the fallen night elf youths.If you wish to travel to Desolace, I hear word of a blood elf named Furien seeking adventuring partners. Perhaps you should seek him out.Farewell, friend, I will never forget you.",
+    "name": "Nothing Left for You Here",
+    "requires_level": 27,
+    "zone": "Stonetalon Mountains"
+}

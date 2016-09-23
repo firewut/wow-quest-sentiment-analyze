@@ -1,0 +1,8 @@
+{
+    "_id": "24487",
+    "description": "Ye've done us a great service here, but I'm afraid I've gotta send ye off elsewhere.Grelin Whitebeard, a good friend of mine, has put in word that he may need some reinforcements near the troll camps to the southwest.  Follow the road westward, ye should find him soon enough.Be well, <name>.  Troggs may be a pain, but trolls are a whole other type of trouble.",
+    "name": "Whitebeard Needs Ye",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

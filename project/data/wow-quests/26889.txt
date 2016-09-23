@@ -1,0 +1,7 @@
+{
+    "_id": "26889",
+    "description": "Well gosh, we've cleaned up quite a bit here!<Kelsey clears her throat.>Listen, <name>, I'm looking forward to finally vacating this killbox so I can get away from these goblins and drop the cheer-act. If you'd like to continue to advance the interests of Gnomeregan, and by extension the Alliance, in the area, head south to Bootlegger Outpost.Talk to Zeke Bootscuff there, and remember that any work for the Steamwheedle will help us shut the Bilgewater out of Tanaris for good.",
+    "name": "All Cheered Out",
+    "requires_level": 44,
+    "zone": "Tanaris"
+}

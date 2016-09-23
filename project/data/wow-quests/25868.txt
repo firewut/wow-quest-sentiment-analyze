@@ -1,0 +1,8 @@
+{
+    "_id": "25868",
+    "description": "I've found out who's pulling the strings on this operation here. Yorla Darksnare is directing the Dark Iron dwarves from a camp to the east, and it might've been orders to have the gnolls steal Ironforge's gold in the first place.What's more, she's a wanted criminal... she's been inciting rebellion and attacks against Ironforge since Magni was still alive.She can't slip through our fingers this time, <name>. Go and get her!",
+    "name": "Yorla Darksnare",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

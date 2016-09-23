@@ -1,0 +1,9 @@
+{
+    "_id": "37687",
+    "added_in_patch": 6.2,
+    "description": "I need your help. Iskar has gone missing. I have reason to believe he has followed the remnants of the Sethekk who have been gathering here in Tanaan. I've been investigating and... what was that?<Reshad's voice drops to a whisper>There is movement in the shadows, we are being watched!Take these vials, they form a gas with a terrible smell when the liquid comes in contact with the air. Smells terrible, they won't be able to resist it. Use them to drive our watchers out of hiding.",
+    "name": "Garrison Campaign: In the Shadows",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

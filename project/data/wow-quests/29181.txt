@@ -1,0 +1,7 @@
+{
+    "_id": "29181",
+    "description": "Skylord Omnuron and his Druids of the Talon have been a fearsome force for us back in Hyjal. I know that they prefer the familiar skies of that battlefield, but the time may come when we need them here nonetheless.If you get your hands on enough marks, you should appeal to Omnuron that his druids should be on the main front. Omnuron watches out for his own, but he also understands the importance of this effort.",
+    "name": "Druids of the Talon",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

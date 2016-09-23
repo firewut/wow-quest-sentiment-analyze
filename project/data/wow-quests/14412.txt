@@ -1,0 +1,8 @@
+{
+    "_id": "14412",
+    "description": "Those Forsaken ships sank way too close to our Fishery.  All the survivors are making their way here and, as you can see, we're a bit outnumbered.Help us hold them back while I finish making repairs to the boats.",
+    "name": "Washed Up",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

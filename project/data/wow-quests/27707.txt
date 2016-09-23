@@ -1,0 +1,7 @@
+{
+    "_id": "27707",
+    "description": "Hieroglyphs depicting a chained Tol'vir mark the southeastern corner of the map.Perhaps Tahet was brought there when he was imprisoned.",
+    "name": "Neferset Prison",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "33111",
+    "added_in_patch": 6,
+    "description": "The ancients of the Cursed Woods have been corrupted by demonic magic. Since they need to be destroyed, we might as well make use of their resources. Waste not, want not.Beware: these woodland behemoths are no easy targets. Gather trusted friends before you engage these twisted ancients.-- Baros Alexston",
+    "name": "Bounty: Twisted Ancient",
+    "requires_level": 94,
+    "zone": "Shadowmoon Valley"
+}

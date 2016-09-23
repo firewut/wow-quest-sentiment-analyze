@@ -1,0 +1,8 @@
+{
+    "_id": "26228",
+    "description": "Listen, I really shouldn't be talkin' to you, but I owe Horatio a favor or two. I don't really know nothin' about what happened to the Furlbrows, but I might be able to point you in the right direction.<Lou hands you a large crate.>That crate used to be my home before I struck it rich. Now I'm livin' the life every hobo dreams of!Right, so you take that there livin' crate and head to the Jangolode Mine, southwest of here. Head to the back of the mine and once there, hide in the crate. ",
+    "name": "Livin' the Life",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

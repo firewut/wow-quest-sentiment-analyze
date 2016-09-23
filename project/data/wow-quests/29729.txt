@@ -1,0 +1,8 @@
+{
+    "_id": "29729",
+    "added_in_patch": 5,
+    "description": "The explosives are set. All we have to do now is pull the trigger.",
+    "name": "Without a Trace",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

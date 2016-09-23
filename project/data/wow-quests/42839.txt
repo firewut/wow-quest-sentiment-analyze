@@ -1,0 +1,8 @@
+{
+    "_id": "42839",
+    "added_in_patch": 7,
+    "description": "This is just... unspeakable.\r\n\r\nMargaux risked everything to get these mana wyrms to us. I cannot let it end this way.\r\n\r\nI need you to find someone who can make this right. Someone who will do whatever it takes to see Overseer Durant slain.\r\n\r\nSpeak with Vanthir. I am certain he will know exactly who we need.",
+    "name": "Seek the Unsavory",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

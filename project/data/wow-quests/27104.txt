@@ -1,0 +1,7 @@
+{
+    "_id": "27104",
+    "description": "The monster responsible for the ruin you see before you is called Alzzin the Wildshaper. To reach him, however, you will need to also slay Zevrim Thornhoof, the satyr who currently holds the still noble ancient Old Ironbark in his grasp.Once Ironbark is free, he will help you make an entrance into Alzzin's domain. Enter and slay him without mercy, for there is no other way.",
+    "name": "Alzzin the Wildshaper",
+    "requires_level": 36,
+    "zone": "Dire Maul"
+}

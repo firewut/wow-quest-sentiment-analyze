@@ -1,0 +1,7 @@
+{
+    "_id": "12522",
+    "description": "She's ruined... ruined! I told that captain to be careful with such a precious cargo, but would she listen to me? No!When the ship ran aground, it damaged my flying machine, the Spirit of Gnomeregan. Now, we're left without any means to send our reports!There is a chance, though, that the Venture Company's antics may work in our favor. They shot down another flying machine right about where Monte parachuted into the swamp to the east. Go there and retrieve the engine. It may be our only hope.",
+    "name": "Need an Engine, Take an Engine",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

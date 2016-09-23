@@ -1,0 +1,9 @@
+{
+    "_id": "34789",
+    "added_in_patch": 6,
+    "description": "This was a betrayal from within. There's no other explanation for it. None of the Exarchs trust each other now - especially me. But Othaar and Akama can damn their laws. We've got to rout out the traitor and the only way to do it is to speak to the corpse!Join me just outside the Altar of Sha'tar atop the eastern cliffs. Soulbinder Nyami and I will perform an exorcism to save Hataaru's immortal soul... and maybe learn who did this to him.Do you trust me, <name>?",
+    "name": "Speaker for the Dead",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

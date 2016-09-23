@@ -1,0 +1,8 @@
+{
+    "_id": "26176",
+    "description": "You've helped us quite a bit here. If you're leaving, I'd ask you to take this status report up to Thelsamar.Follow the road just north, and you can't miss it. Mountaineer Kadrell will want the report.",
+    "name": "Onward to Thelsamar",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

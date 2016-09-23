@@ -1,0 +1,7 @@
+{
+    "_id": "11957",
+    "description": "Using the mana crystals you provided, I have created this Power Focus.Saragosa is a glutton. She will be unable to resist its lure. Inside it lie magics that will greatly diminish her power. Let us hope she does not see through my ruse....Prepare yourself, <name>, and speak to me again when you are ready to face Saragosa.\r\n",
+    "name": "Saragosa's End",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

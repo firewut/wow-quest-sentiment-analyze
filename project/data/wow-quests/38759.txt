@@ -1,0 +1,8 @@
+{
+    "_id": "38759",
+    "added_in_patch": 7,
+    "description": "Cyana went down to the Molten Shore. She was going to help some of the demon hunters who came in through the gateway ahead of us. Instead, she got herself into trouble.\r\n\r\nThis inquisitor revealed they're being held prisoner by some new type of demon called a 'jailer'. The thing sucks the souls out of its victims. I doubt they can hold out much longer.",
+    "name": "Set Them Free",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

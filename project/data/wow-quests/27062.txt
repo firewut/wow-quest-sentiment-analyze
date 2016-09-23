@@ -1,0 +1,8 @@
+{
+    "_id": "27062",
+    "description": "The Quilboar in Razorfen Downs seem to have allied with the Scourge. This is dark news for us, <class>. We have dire enough problems dealing with these Grimtotem, we won't be able to handle an attack by the Scourge. Venture into Razorfen Downs, east of here, and see if you can find anyone that may be able to help you stop them before they decide to attack here.",
+    "name": "Looming Threat",
+    "requires_level": 42,
+    "side": "horde",
+    "zone": "Razorfen Downs"
+}

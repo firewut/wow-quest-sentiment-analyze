@@ -1,0 +1,7 @@
+{
+    "_id": "27266",
+    "description": "Wulf Hansreim oversees the training and coordination of hunters in the service of Stormwind. He has asked to speak to you personally. As soon as you are able, travel to Stormwind and exit the Old Town district through the south gate to reach his headquarters.I have no idea what he has planned, but it sounds like he has been impressed with your rapid progress.",
+    "name": "Wulf Calls",
+    "requires_level": 20,
+    "zone": "Hunter"
+}

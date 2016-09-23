@@ -1,0 +1,8 @@
+{
+    "_id": "35945",
+    "added_in_patch": 6,
+    "description": "I've been hanging here forever!I was flying around, surveying the area for Nixxie when -- blamo! One of those stupid ogres throws a rock right at me!My glider busted and here I am... and boy is this uncomfortable.Help me down will ya? I'll make it worth your while.",
+    "name": "Greblin Fastfizzle",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

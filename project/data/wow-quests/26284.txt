@@ -1,0 +1,8 @@
+{
+    "_id": "26284",
+    "description": "Fer a job like this, I normally bring me whole crew o' demolitionists. With some help in settin' up th' powder, th' charges, and th' rest o' th' gear, the job gets done a lot faster.Those blasted troggs have me men caged all around Frostmane Hold. Now I'm 'ere all alone without th' personnel I need to finish th' job.You look like a capable <class>, though. Would you find th' demolitionists th' troggs captured and break them out o' their cages?",
+    "name": "Missing in Action",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

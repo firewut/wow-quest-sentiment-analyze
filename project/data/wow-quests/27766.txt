@@ -1,0 +1,7 @@
+{
+    "_id": "27766",
+    "description": "I need another favor from you.  I need you to obtain the bodies of the black dragon whelplings that fly nearby.  Slay them, and bring the corpses to me.",
+    "name": "Second Sample: Whelps",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

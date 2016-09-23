@@ -1,0 +1,8 @@
+{
+    "_id": "25942",
+    "description": "Many good warriors have been lost today.If what the shaman says is true, then we must act swiftly or we will add to their numbers.The naga are out there, scouring these waters looking for survivors.We are not yet ready to fight, <race>. You must buy us time to make preparations.Find the naga that hunt us and delay their efforts.",
+    "name": "Buy Us Some Time",
+    "requires_level": 80,
+    "side": "horde",
+    "zone": "Kelp'thar Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44278",
+    "added_in_patch": 7,
+    "description": "<Arduen Soulblade is bleeding from several ghastly wounds. It appears he was left here to die.>Within the prison are three of our... <cough>... comrades.We were taken by surprise while scouting the area.I am not long for this world, <name>, but please... you can still save them.",
+    "name": "Illidari Freedom",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

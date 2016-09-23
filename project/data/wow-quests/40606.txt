@@ -1,0 +1,8 @@
+{
+    "_id": "40606",
+    "added_in_patch": 7,
+    "description": "Though the journal devolves into dark ramblings written in hurried scribbles, one entry stands out:\r\n\r\n\"Ulthalesh. The name rings in my head. I can hear it calling, but where?\r\n\r\n\"The spirits... the very land here is tied to it. It is no wonder we would so often get lost in this place. The forces pull my compass point in every direction...\r\n\r\n\"Perhaps if it had a stronger pull, the compass could show the way...\"",
+    "name": "To Point the Way",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

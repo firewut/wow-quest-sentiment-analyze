@@ -1,0 +1,8 @@
+{
+    "_id": "24506",
+    "description": "<Class>! Come close quickly, I must have a word!My queen, the Lady Sylvanas Windrunner, has uncovered a hole in the defenses of Icecrown Citadel into a place she referred to as \"The Forge of Souls.\" She sent word before she left for me to find fierce fighters to send her way. I think you'll do.Go to her within the entrance to the forge, <class>.",
+    "name": "Inside the Frozen Citadel",
+    "requires_level": 78,
+    "side": "horde",
+    "zone": "Quests"
+}

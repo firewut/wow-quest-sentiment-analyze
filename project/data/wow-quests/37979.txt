@@ -1,0 +1,9 @@
+{
+    "_id": "37979",
+    "added_in_patch": 6.1,
+    "description": "With the shards recovered, it is now possible to restore the Dream of Argus. You must seek out the device that Maatun mentions in his journal, which is said to be in a cave overlooking Anguish Fortress.",
+    "name": "Dream of Argus: The Crystal Reborn",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

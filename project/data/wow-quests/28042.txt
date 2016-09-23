@@ -1,0 +1,8 @@
+{
+    "_id": "28042",
+    "description": "I recently came into possession of something that needs to be delivered to a gnome that goes by the name, Brivelthwerp. It's more like Briveltwerp if you ask me.I want you to take it to him in the southwest, down at the Sunken Dig Site. He's up to something and there's moolah involved... I can smell it!Keep an eye on what he's doing, <name>, and see if you can't get a cut of his profits. A big cut!",
+    "name": "Special Delivery for Brivelthwerp",
+    "requires_level": 38,
+    "side": "horde",
+    "zone": "Thousand Needles"
+}

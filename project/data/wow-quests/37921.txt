@@ -1,0 +1,7 @@
+{
+    "_id": "37921",
+    "description": "Our salvage team thought these here docks would be abandoned, but they're crawlin' wit' remnants of the Iron Horde. Gul'dan's cronies are convertin' anyone they can and evacuatin' everyone to Tanaan Jungle.Commander, if yeh can clear this place out, my team can salvage some of this equipment.Plus, ev'ry orc yeh kill here is one less ta worry about in Tanaan!",
+    "name": "Clearing the Docks",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

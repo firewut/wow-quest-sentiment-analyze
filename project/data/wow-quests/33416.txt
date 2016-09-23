@@ -1,0 +1,8 @@
+{
+    "_id": "33416",
+    "added_in_patch": 6,
+    "description": "For this challenge, run through the arch, then get to the red marker, the purple  marker, then return here before the bell tolls 12 times. Good luck!",
+    "name": "South Sprint 12",
+    "requires_level": 1,
+    "zone": "Northshire"
+}

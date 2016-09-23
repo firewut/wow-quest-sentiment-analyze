@@ -1,0 +1,7 @@
+{
+    "_id": "28694",
+    "description": "Have you been over to the Wellson Shipyard yet, <name>?  Best to stay away from there unless you have a good reason to venture in.  Unfortunately, that is exactly what I need you to do.You see, we have been short on supplies ever since we recaptured the island.  That ghost ridden shipyard is overflowing with lumber but every time we send an escort to recover the lumber, they never make it back.Can you help us out?",
+    "name": "Watch Out For Splinters!",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10426",
+    "description": "Just look around you, <class>! Isn't it amazing? Of course, this incredible resurgence of life is a byproduct of the ethereal domes, but imagine what it could do in the hands of the expedition.I'm preparing to negotiate with the ethereals for access to their technology, but I'd like to get a better idea of its effects on plant-based life.I've built a device to concentrate the dome's energies on the lashers in this area. Would you be so kind as to test it for me and share the results?",
+    "name": "Flora of the Eco-Domes",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

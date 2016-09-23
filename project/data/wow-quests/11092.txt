@@ -1,0 +1,7 @@
+{
+    "_id": "11092",
+    "description": "Captain <name>!<Taskmaster Varkule salutes you.>Overlord Mor'ghor has asked to see you in his chambers at once!",
+    "name": "Hail, Commander!",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10441",
+    "description": "<Audi lowers her voice again.>Now that we have the goods, I'll be sending most of the parts on to Area 52. There's enough here for more than one generator, presenting us with a perfect business opportunity.I've seen the Cenarion Expdedition's representative trying to negotiate. I want you to let her know that we can provide what she seeks at a very reasonable price. There's no reason for her to continue dealing with those two-timing ethereals.",
+    "name": "Peddling the Goods",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25184",
+    "description": "All you have to do is jump in and speak with Assistant Greely when you get to the bottom.",
+    "name": "Wild Mine Cart Ride",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

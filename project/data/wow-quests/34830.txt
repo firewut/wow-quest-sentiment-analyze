@@ -1,0 +1,8 @@
+{
+    "_id": "34830",
+    "added_in_patch": 6,
+    "description": "Soon after the orcs swept in, Veil Akraz was laid to waste by a beam of light from Skyreach.<Ishaal's eyes glass over as he peers into his orb.>It seems they missed their true target. Zellek is still there, hiding in the realm of shadow.And... someone else as well. The orc assassin who used my orb.Take this. Drink it in Veil Akraz and find Zellek.Oh, and be careful. It's a little more potent than the last one. You'll see...",
+    "name": "Behind the Veil",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

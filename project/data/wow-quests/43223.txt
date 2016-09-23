@@ -1,0 +1,8 @@
+{
+    "_id": "43223",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Primal Gladiator's Silk Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

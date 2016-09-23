@@ -1,0 +1,8 @@
+{
+    "_id": "32340",
+    "added_in_patch": 5.1,
+    "description": "While Akama and his men are dealing with the demons, there is nobody to stop you from stealing a relic or two...",
+    "name": "Plunder the Black Temple",
+    "requires_level": 90,
+    "zone": "Warlock"
+}

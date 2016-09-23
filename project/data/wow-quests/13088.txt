@@ -1,0 +1,7 @@
+{
+    "_id": "13088",
+    "description": "We got a lot of new recruits here and these lads are hungry!  If you could go out and get me some chilled meat for stew, I could teach you how to make it for yourself.",
+    "name": "Northern Cooking",
+    "requires_level": 65,
+    "zone": "Cooking"
+}

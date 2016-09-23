@@ -1,0 +1,9 @@
+{
+    "_id": "36230",
+    "added_in_patch": 6,
+    "description": "This hammer was once used to craft magnificent weapons for my Frostwolf brothers and sisters.When I was taken prisoner by the Thunderlords, however, I refused to wield it. How could I craft weapons to be used against my own people?It saddens me to see that it has been damaged and abused.I wished to one day pass it down to Kugra, but now, her anger prevents her from even visiting my grave.Please $p, can you help me repair my hammer and seek revenge on those that caused this?For Kugra....",
+    "name": "The Restless Spirit",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

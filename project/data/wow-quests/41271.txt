@@ -1,0 +1,8 @@
+{
+    "_id": "41271",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Into the Whirlpool",
+    "requires_level": 110,
+    "zone": "Fishing"
+}

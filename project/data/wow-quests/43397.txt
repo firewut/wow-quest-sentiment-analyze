@@ -1,0 +1,8 @@
+{
+    "_id": "43397",
+    "added_in_patch": 7,
+    "description": "You and Delas have had dealings with the paladins before, maybe it's possible they will grant you an audience with their war council. \r\n\r\nHead to the Sanctum of Light and ask the paladins to help us defend Netherlight Temple from Balnazzar's attack.",
+    "name": "United As One",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

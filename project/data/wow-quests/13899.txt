@@ -1,0 +1,7 @@
+{
+    "_id": "13899",
+    "description": "If the naga want to throw in their lot with the Twilight's Hammer, then may Elune have mercy on them.Go into their lair in the island of Nazj'vel and find their leader, the naga warlord known only as Wrathspine.Perhaps the horn of the ancients can still be saved.",
+    "name": "The Darkscale Warlord",
+    "requires_level": 17,
+    "zone": "Darkshore"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10120",
+    "description": "Aided by the Alliance, my forces will hold the line here, but I need you to deliver my report to General Krakork in Thrallmar. With his help, we'll be able to drive these demons back into the abyss that spawned them! Speak to Vlagga Freyfeather. She'll speed you on your way.",
+    "name": "Arrival in Outland",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

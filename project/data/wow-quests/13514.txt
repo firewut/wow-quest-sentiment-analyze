@@ -1,0 +1,7 @@
+{
+    "_id": "13514",
+    "description": "Come to join the offensive? If you're looking for Sandrya Moonfall, she's leading the attack on the Shatterspear leader at the cave in the back of the vale, you can meet her there.While you're here though, we could certainly use your help with routing the rest of their tribe. Go ahead and take the company of one of the Vengeful Protectors there and see to it that every last building is destroyed and every last troll killed. We can't have them coming back for revenge when we're less prepared, can we?",
+    "name": "The Ancients' Ire",
+    "requires_level": 10,
+    "zone": "Darkshore"
+}

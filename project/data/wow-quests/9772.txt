@@ -1,0 +1,8 @@
+{
+    "_id": "9772",
+    "description": "Flecks of withered fungus dot the body of Scout Jyoba. Whatever killed him must've been made of the same dying fungus as the giant wilting mushrooms of the Dead Mire. Perhaps one of the withered giants caught him by surprise as he sat writing his report.Without the text of the report, it's nearly impossible to tell what the scout discovered. If the report can be found, it should be returned to Zurai.",
+    "name": "Jyoba's Report",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

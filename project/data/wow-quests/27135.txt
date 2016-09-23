@@ -1,0 +1,7 @@
+{
+    "_id": "27135",
+    "description": "Alright, we need something that's going to make the compound go, \"Boom\"!I'm all out of gun powder, but I think I know what we can use instead... the heart of my fire elemental!Here, take my fire totem east to the Blood Trail. Just flip the switch on it near any of the lava pools over there and Magmatooth should be summoned. Bring back his heart and we'll be in business.",
+    "name": "Something that Burns",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

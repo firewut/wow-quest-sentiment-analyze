@@ -1,0 +1,8 @@
+{
+    "_id": "32214",
+    "added_in_patch": 5.1,
+    "description": "There is nothing more unnerving than walking along, minding your own business, and hearing someone following you. I swear I hear it all over the place down here! We're being watched!I have a feeling the entire beach is just crawling with spies!I made some improvements to our infrared goggle tech to put an end to the sabotogery. That's right sabotogery! Now I just need you to try 'em out! Feel free to dispose of any spies you happen to catch.",
+    "name": "Bilgewater Infiltrators",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

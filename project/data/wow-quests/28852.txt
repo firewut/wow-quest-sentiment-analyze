@@ -1,0 +1,7 @@
+{
+    "_id": "28852",
+    "description": "At last, reinforcements! I'm so glad you're here. We never imagined just how entrenched the Twilight's Hammer forces are. And there are so many!Several of our drakes have been captured just inside the main hall. Please, break their bonds and free them.Once free, together we can scourge these halls clean with flame. Just climb aboard a red drake and call out your targets. You will definitely want to cut down the enemy numbers before delving deeper into the ruins.",
+    "name": "Soften them Up",
+    "requires_level": 84,
+    "zone": "Quests"
+}

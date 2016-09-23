@@ -1,0 +1,7 @@
+{
+    "_id": "29240",
+    "description": "Now, back to the matter at hand...I am convinced that the vision in the Nexus is one of Deathwing's illusions designed to bring conflict into our flight at a very fragile time.The Worldbreaker would only be strengthened were we to fall to infighting.Still, a gnawing sense of unease tempts me to take a path of caution.It would be wise for me to take Tarecgosa and withdraw until the time of choosing.",
+    "name": "Emergency Extraction",
+    "requires_level": 85,
+    "zone": "Borean Tundra"
+}

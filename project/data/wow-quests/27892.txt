@@ -1,0 +1,7 @@
+{
+    "_id": "27892",
+    "description": "Oh, you want to talk?  Fine.I'm Jurrix, the only merc here with half a brain.  The only one with any bite to my attacks, too.  The only reason I keep these meat shields around is to keep myself from getting killed.Listen, you're the boss of this operation.  You give the word, and I'll send a fireball right through your target's heart.  If things start getting hectic, I can even warp time a bit so you can fit in a few extra attacks.Why don't we go try fighting together?",
+    "name": "Jurrix the Striker",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

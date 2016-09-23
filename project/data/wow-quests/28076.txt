@@ -1,0 +1,7 @@
+{
+    "_id": "28076",
+    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to Northern Dire Maul, east of Feathermoon Stronghold, immediately!King Gordok and his growing army of Gordok ogres pose the largest and most powerful threat in the area to us! If you so choose, head to Northern Dire Maul and speak with the Druid of the Talon already sent there as a forward scout.",
+    "name": "Adventurers Wanted: Northern Dire Maul",
+    "requires_level": 44,
+    "zone": "Dire Maul"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39590",
+    "added_in_patch": 7,
+    "description": "The watcher Yotnar keeps the vault, and he is a fickle one. Challengers come from far and wide seeking the trials, but the watcher chooses not to see.\r\n\r\nIf you wish to catch his eye, show him you are worth being seen.\r\n\r\nSome of these challengers await in camps throughout the Valley of the Sword. Bring their heads to Yotnar, so that he may see them, and you.",
+    "name": "Ahead of the Game",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

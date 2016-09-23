@@ -1,0 +1,8 @@
+{
+    "_id": "32836",
+    "added_in_patch": 5.3,
+    "description": "The \"grumplefloot\" has been hastily carved out of a tree root, with holes unevenly spaced along its length.A close inspection of its backside, however, reveals words carved into the wood:RETURN TO BRAWLER'S GUILD",
+    "name": "A Knockoff Grumplefloot",
+    "requires_level": 100,
+    "zone": "Brawler's Guild"
+}

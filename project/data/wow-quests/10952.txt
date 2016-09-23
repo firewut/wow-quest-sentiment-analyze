@@ -1,0 +1,7 @@
+{
+    "_id": "10952",
+    "description": "There's one place that if we don't go anywhere else, we have to go to: the Dark Portal!The orphan matrons are always trying to scare us with stories about how dangerous it is, with lots of demons, and people like you coming through it.<Dornaa rolls her eyes.>But you're here, and nice, so it can't be too bad, right?I want to see it for myself.  You remember where it is on the eastern edge of Hellfire Peninsula?",
+    "name": "A Trip to the Dark Portal",
+    "requires_level": 60,
+    "zone": "Children's Week"
+}

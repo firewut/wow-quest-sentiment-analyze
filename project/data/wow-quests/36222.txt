@@ -1,0 +1,8 @@
+{
+    "_id": "36222",
+    "added_in_patch": 6,
+    "description": "You have da blood stones required as proof of your worth. Hmm. Yes, you might be da champion Mogor be lookin' for.You be one of only two to complete da blood stone trial. Da two of ya be fightin' for da glory of becoming Blood Champion.Speak to Gurgthock and we be seein' if you be a champion... or just another stain on da arena floor.",
+    "name": "The Champion of Blood",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

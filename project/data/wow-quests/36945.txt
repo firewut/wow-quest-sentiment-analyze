@@ -1,0 +1,9 @@
+{
+    "_id": "36945",
+    "added_in_patch": 6,
+    "description": "I have seen great beasts floating slowly along the rivers of Talador. The 'riverbeasts,' I believe they are called.Their hides are solid, like rock, and yet they float along the waters easily. I would quite like to see one of these up close, if you should head that way. Tormak has created for you another rope, if you are interested.",
+    "name": "Requisition a Riverbeast",
+    "requires_level": 95,
+    "side": "horde",
+    "zone": "Talador"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40873",
+    "added_in_patch": 7,
+    "description": "So while we've got all tha parts for tha pack again, I'm afraid I'm all outta gunpowder.This is the worst thing ta ever happen ta me.But there's hope. Just o'er to tha north are caves filled with crashed ships. Chances are them sea giants crashed one or two ships with cannons. And cannons mean gunpowder, sweet gunpowder.Search their caves fer sum powder an' bring it on back.",
+    "name": "Keep Yer Powder Dry",
+    "requires_level": 106,
+    "zone": "Engineering"
+}

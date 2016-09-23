@@ -1,0 +1,9 @@
+{
+    "_id": "39217",
+    "added_in_patch": 6.2,
+    "description": "Well <name>, the good news is that our excavation team breached a chamber below right outside some sort of vault. The bad news is that the Horde were there too. Go down there and take a look.",
+    "name": "Don't Hate, Excavate!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ashran"
+}

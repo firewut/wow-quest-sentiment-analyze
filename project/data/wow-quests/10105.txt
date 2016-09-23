@@ -1,0 +1,7 @@
+{
+    "_id": "10105",
+    "description": "Now that Swamprat Post is complete, our control of the roads in and out of the marsh is much less tenuous. Our presence in Terokkar Forest is much less secure. Even so, at Stonebreaker Hold, Rakoria awaits word of our progress.She's sharp and capable, <name>, but be careful around her. She's got a lot of goods she's eager to move along the roads, but don't assume she's got our best interests at heart. Rakoria goes where she believes there's profit to be found.",
+    "name": "News for Rakoria",
+    "requires_level": 62,
+    "zone": "Zangarmarsh"
+}

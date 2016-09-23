@@ -1,0 +1,7 @@
+{
+    "_id": "26617",
+    "description": "This old, weathered coin was found on the body of the pirate \"Good-Boy\" Bruce.  Its front side bears the image of a large, unfamiliar pirate ship; on its back side, the term \"Brashtide Crew\".Someone who has been in the piracy business for some time might know what this coin is, or what it means.",
+    "name": "An Old Sea Dog",
+    "requires_level": 30,
+    "zone": "The Cape of Stranglethorn"
+}

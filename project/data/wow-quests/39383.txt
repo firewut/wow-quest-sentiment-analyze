@@ -1,0 +1,8 @@
+{
+    "_id": "39383",
+    "added_in_patch": 7,
+    "description": "Xandris the Dishonored was among the first to betray his brethren and accept the curse of Xavius.During the great war, it was he who led the slaughter of many of my dearest friends.The last time I met him on the battlefield he fled. Help me to finally dispense justice on this foul being.",
+    "name": "Dishonored",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35016",
+    "added_in_patch": 6,
+    "description": "My hunters are all dead, you will be my hunting pack now.Find their bodies and take their skulls.  I will choose which to honor and which to cast aside.  It is our way.I will go further and see what other skulls may be found here.",
+    "name": "Basic Skulltaking",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

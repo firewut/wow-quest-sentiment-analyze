@@ -1,0 +1,8 @@
+{
+    "_id": "43405",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Da-Nel's Second Quest",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

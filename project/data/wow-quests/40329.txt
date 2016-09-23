@@ -1,0 +1,8 @@
+{
+    "_id": "40329",
+    "added_in_patch": 6.2,
+    "description": "You have proven yourself before but the wilds of Draenor are on another level. Defeat tamers in the wilds to prove your pet battle supremacy: Cymre Brightblade in Gorgrond, Vesharr in Spires of Arak, Tarr the Terrible in Nagrand, Taralune in Talador, Gargra in Frostfire Ridge, or Ashlei in Shadowmoon Valley. You can also defeat a visiting tamer: Erris the Collector or Kura Thunderhoof in your garrison.By defeating them will show your dominance in Draenor.",
+    "name": "Battle Pet Tamers: Warlords",
+    "requires_level": 90,
+    "zone": "Battle Pets"
+}

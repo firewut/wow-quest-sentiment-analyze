@@ -1,0 +1,7 @@
+{
+    "_id": "11668",
+    "description": "There's a lot of big fish in the Zangarmarsh lakes.  Ever wonder what they eat?Shrimp.  Giant freshwater shrimp.  The Rokk tells me the dishes you can make with shrimp are nearly endless.But shrimp are too small to catch with a fishing line.  So here's the trick: cut open the bloated barbed gill trout and you'll find a shrimp or two if you're lucky.",
+    "name": "Shrimpin' Ain't Easy",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

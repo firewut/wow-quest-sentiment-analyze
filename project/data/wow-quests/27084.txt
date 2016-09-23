@@ -1,0 +1,7 @@
+{
+    "_id": "27084",
+    "description": "The battle started when they attacked us from the rear.  I let my guard down, and a group of poorly-armed farmers and militiamen swung into our flank from the Writhing Haunt.They may be weak, but unchecked, they threaten to overwhelm us with their numbers.Lindsay's pet abominations can handle the melee combat.  You take this collar, stay in the rear, and use it to release my ebon gargoyle upon these farmers.",
+    "name": "The Farmers' Militia",
+    "requires_level": 38,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28837",
+    "description": "We, the blue dragons, have been forced out of our home, Mazthoril. An impostor by the name of Umbranse has taken advantage of us in our weakest hour, and now occupies the cave.Mazthoril is a place of extremely potent magic, and he does not know how to wield it. Even the wildlife suffers.The beasts nearby have been altered. Please, <race>, I must ask you a favor. Gather their brains, so I can see if I can undo this Umbranse's wild magic.",
+    "name": "Altered Beasts",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30352",
+    "added_in_patch": 5,
+    "description": "Thing about hunting birds is you need ammo - and I ain't got any. Thing about hunting with Nesingwary is you need to prove you can keep your tally and bragging rights up.Can't hunt, can't brag. And I like bragging so this is no good.Can I hire you to go kill me some carp hunters? You'll find them up and down the river west of here. There are a bunch of them so don't hesitate to hunt while doing other stuff.",
+    "name": "Crane Mastery",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

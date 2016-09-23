@@ -1,0 +1,7 @@
+{
+    "_id": "12960",
+    "description": "A wealthy shipping concern has requested a collection of Wicked Sun Brooches to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.\r\n",
+    "name": "Shipment: Wicked Sun Brooch",
+    "requires_level": 65,
+    "zone": "Jewelcrafting"
+}

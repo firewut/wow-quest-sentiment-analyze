@@ -1,0 +1,8 @@
+{
+    "_id": "25710",
+    "description": "Nethergarde has stood steadfast for years against the demon onslaught that plagues this land.  Our watch is never-ending, our vigilance unfaltering, and our courage bottomless.We have held these lands since the portal opened, but now these Horde insects have the insolence to stand in our way!?  We have protected THEM as well as we have protected ourselves!<Lungertz looks you over.>Let's see if you've got a hand for combat.  Slay one of the Horde's Okril'lon scouts that nibble at our perimeter.",
+    "name": "Minor Distractions",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

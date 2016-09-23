@@ -1,0 +1,8 @@
+{
+    "_id": "42123",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Reclaiming Llothien",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

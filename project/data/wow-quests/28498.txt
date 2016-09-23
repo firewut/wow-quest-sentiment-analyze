@@ -1,0 +1,7 @@
+{
+    "_id": "28498",
+    "description": "There is an old story about Nahom.  It speaks of how a powerful prophet named Atulhet held off troves of enemies by channeling the power of the sun through this very temple.Most believe the tale to be just a legend, but that power... would certainly be useful to us now.The vile Neferset have ransacked Atulhet's tomb.  They've taken any artifacts of power and shattered the tablets that encode his memories.Go to the Tombs of the Precursors to the east and retrieve any fragments that you find.",
+    "name": "The Secret of Nahom",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

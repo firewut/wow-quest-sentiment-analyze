@@ -1,0 +1,8 @@
+{
+    "_id": "34567",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Mage Tower",
+    "requires_level": 94,
+    "zone": "Talador"
+}

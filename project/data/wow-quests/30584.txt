@@ -1,0 +1,8 @@
+{
+    "_id": "30584",
+    "added_in_patch": 5,
+    "description": "Have you ever had a fresh dojani eel <name>?  No?Well you have not lived then!  Head north up to the dojani river and fish up a few for us.   Be careful, those eels can zap you if you're not careful!",
+    "name": "Shocking!",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

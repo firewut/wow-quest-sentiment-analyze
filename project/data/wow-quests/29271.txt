@@ -1,0 +1,7 @@
+{
+    "_id": "29271",
+    "description": "We should be okay here for now, and they have need of you in the Firelands. You should go through the portal and help them out.",
+    "name": "Bound for Warmer Weather",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

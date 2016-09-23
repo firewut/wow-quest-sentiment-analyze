@@ -1,0 +1,8 @@
+{
+    "_id": "31855",
+    "added_in_patch": 5,
+    "description": "The time has come for you to return to the Peak of Serenity to continue your training.  Use Zen Pilgrimage to return there and speak with Master Hight when you arrive.",
+    "name": "The Peak of Serenity - Continue Your Training",
+    "requires_level": 30,
+    "zone": "Peak of Serenity"
+}

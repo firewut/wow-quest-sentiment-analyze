@@ -1,0 +1,7 @@
+{
+    "_id": "9724",
+    "description": "The Cenarion Expedition has become a large organization with a good degree of autonomy.  These events are important enough that we need to warn the Cenarion Circle.Do not worry, I will not ask you to travel back to Moonglade; we have emissaries as nearby as Hellfire Peninsula.",
+    "name": "Warning the Cenarion Circle",
+    "requires_level": 61,
+    "zone": "Zangarmarsh"
+}

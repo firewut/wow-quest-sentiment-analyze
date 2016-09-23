@@ -1,0 +1,8 @@
+{
+    "_id": "33378",
+    "added_in_patch": 5.4,
+    "description": "The Vision of Time is nearly perfected, we now have much more control over the visions we seek. Your efforts have been instrumental in completing the artifact and restoring the strength of not only my flight, but also our allies in the Timewalkers. All of us are in your debt.Quite fortunately, I have located a sort of crux in time - an intersection of timeways - right here in Pandaria. Take the Vision of Time to the Temple of the White Tiger. There, in the cellars, turn the hourglass.",
+    "name": "Courting Destiny",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

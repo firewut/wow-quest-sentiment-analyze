@@ -1,0 +1,8 @@
+{
+    "_id": "40180",
+    "added_in_patch": 7,
+    "description": "The two dwarves behind me are the Glowergold brothers. They're my resident mail armor experts.While Ranid has decided to focus his skills towards lining his pockets, his brother, Thanid, still enjoys the crafting side of the trade.Introduce yourself to Thanid. You may work with him to further our knowledge of turning these stormscales into something extraordinary.",
+    "name": "Mail Men",
+    "requires_level": 98,
+    "zone": "Leatherworking"
+}

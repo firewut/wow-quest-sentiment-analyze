@@ -1,0 +1,8 @@
+{
+    "_id": "25058",
+    "description": "The paratroopers have mined the beach!The Warchief asked me if there's anything we can do about that. I told him, 'You bet we can!'. I was thinking maybe you could take this satchel of grenades and detonate the land mines from a safe distance?It's how we do things, right?!",
+    "name": "Mine Disposal, the Goblin Way",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27993",
+    "description": "We was lucky to escape, <class>. I'm not sure I'd feel right if we didn't take care of them ambushers.Hows about you git back up to Khartut's tomb and give them little buggers what fer!It's off to the northeast, just inside the entrance to Uldum if'n I recollect correctly.What're you looking at? I sure ain't in no condition to do it!",
+    "name": "Take it to 'Em!",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26188",
+    "description": "My grandfather told me stories about his battles with a strider named Mazzranache. He told me of its demonic red eyes, razor-sharp talons and venomous bite.As fortune would have it, while traveling across the plains, I encountered it, and it took a nasty bite from my shoulder. He was as terrible as my grandfather described. I have gathered all the parts of the remedy I need to cure myself... except a flatland cougar femur.I grow weaker by the moment... please, help me.",
+    "name": "Mazzranache",
+    "requires_level": 6,
+    "zone": "Mulgore"
+}

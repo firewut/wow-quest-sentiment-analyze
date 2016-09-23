@@ -1,0 +1,9 @@
+{
+    "_id": "34230",
+    "added_in_patch": 6,
+    "description": "The Mother of Wolves was infected with demon magic. The Shadow Council must have hoped to spread the corruption to the other frost wolves and then to Throm'var.The hunters are reporting they've seen glowing green eyes down in the Icescar Boneyard to the west. We both know what that means.I have an idea... we're going to use the Shadow Council's \"eyes\" against them to reveal their base. All we need is the lead warlock's All-Seeing Ring.",
+    "name": "Eye Need That",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

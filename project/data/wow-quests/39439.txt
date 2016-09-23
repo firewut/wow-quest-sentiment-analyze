@@ -1,0 +1,8 @@
+{
+    "_id": "39439",
+    "added_in_patch": 7,
+    "description": "The murlocs managed to steal some of our sacred relics and carry them down into the lower cavern.\r\n\r\nWhile we warm up, do you think you could go find them?",
+    "name": "Stonedark Relics",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

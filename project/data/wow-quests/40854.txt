@@ -1,0 +1,8 @@
+{
+    "_id": "40854",
+    "added_in_patch": 7,
+    "description": "Say, since you're down here, I have something that you might be interested in.<Filgo points over to a husk lying in the junk behind him.>I found that thingy down in Azsuna, just lying on the beach. I'm sure with a little tinkering, an engineer like you could probably get it up and running in no time.Might even be useful against the Legion. Kind of like fighting fel with fel, heh!",
+    "name": "Endless Possibilities",
+    "requires_level": 98,
+    "zone": "Engineering"
+}

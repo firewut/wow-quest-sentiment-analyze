@@ -1,0 +1,7 @@
+{
+    "_id": "28366",
+    "description": "I would prefer to do as much as we can to protect my people from the Deadwood tribe without slaughtering every last one of them. We've taken steps towards this before, and if you wish to prove yourself to the Timbermaw tribe, I would ask you do this as well.Look for the piles of weapons kept in Felpaw Village to the southwest. Take as many as you find. If we disarm the Deadwood tribe, we may be able to stop some bloodshed later.",
+    "name": "Disarming Bears",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

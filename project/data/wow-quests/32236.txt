@@ -1,0 +1,8 @@
+{
+    "_id": "32236",
+    "added_in_patch": 5.1,
+    "description": "This cave is crawlin' with nasty shale spiders! How's a girl supposed to get any work done with them gobbling up the miners AND the ore?!This seemed like a good opportunity to use my newest invention, Bug Off. See, all you have to do is spray this stuff all over the shale spiders. They hate it and it doesn't seem to have many long term side-effects for the miners!What could possibly go wrong?Take this handy sprayer and get to work!",
+    "name": "Bug Off!",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

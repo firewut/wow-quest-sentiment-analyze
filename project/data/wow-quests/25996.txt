@@ -1,0 +1,7 @@
+{
+    "_id": "25996",
+    "description": "Thanks to you and the Legionnaire, Nespirah has full control of her body... but most of the naga don't know this yet.  Once we make our escape, she will activate her biological defenses and destroy the naga from within.Make yourself ready... I will now tell Nespirah to begin the countdown.",
+    "name": "Waking the Beast",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

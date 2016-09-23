@@ -1,0 +1,7 @@
+{
+    "_id": "12685",
+    "description": "This is what it has come down to... revenge.<Har'koa sighs.>Take this ritual kit and enact it near Quetz'lun's corpse upon her altar. If everything works properly, her spirit should be drawn into the material world where she will be able to reclaim her power from the prophet.The rest will be up to you, <name>. You must slay the prophet in his drained state.",
+    "name": "You Reap What You Sow",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

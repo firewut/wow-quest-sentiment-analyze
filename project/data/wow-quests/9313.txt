@@ -1,0 +1,7 @@
+{
+    "_id": "9313",
+    "description": "By all that is good, <name>, you must go at once to this Azure Watch and speak with Dyvuun!There is a path that leads west off of this tiny isle.  Follow it and cross the Crystalbrook River to arrive on the larger part of the isle.  Continue to follow the path and you should find Azure Watch.See if you can convince them to send us some aid and supplies.  The rest of us will follow when we can.Thank you, we wouldn't have made it without you!",
+    "name": "Travel to Azure Watch",
+    "requires_level": 2,
+    "zone": "Azuremyst Isle"
+}

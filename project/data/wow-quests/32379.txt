@@ -1,0 +1,8 @@
+{
+    "_id": "32379",
+    "added_in_patch": 5.1,
+    "description": "I'm not prepared to throw away more of our people fighting against an enemy we don't know or understand. \r\n\r\nSee if you can find any clues in the area as to who exactly these \"Korune\" mogu are. A contingency in case this operation doesn't go as planned.",
+    "name": "Legacy of the Korune",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

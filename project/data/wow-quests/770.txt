@@ -1,0 +1,8 @@
+{
+    "_id": "770",
+    "description": "The ragged hide of Ghost Howl still bears a terrible wound, gained from the wolf's battles against the Burning Legion.Perhaps someone in Camp Sungraze should know of Ghost Howl's demise....",
+    "name": "The Demon Scarred Cloak",
+    "requires_level": 6,
+    "side": "horde",
+    "zone": "Mulgore"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11020",
+    "description": "The Dragonmaw have peons stationed at nearly every crystal formation up here. While the outright slaying of them would draw far too much unwanted attention to you, there is a way that we can thin their numbers and remain below the suspicious eyes of Mor'ghor.Venture into the wilds of Shadowmoon Valley and slay the tainted wildlife. Take from them their corrupt fel glands. Use those fel glands with this mutton that I'll give you near the peons. They'll take one bite and fall deathly ill!",
+    "name": "A Slow Death",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

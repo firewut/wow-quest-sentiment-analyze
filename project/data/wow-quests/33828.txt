@@ -1,0 +1,9 @@
+{
+    "_id": "33828",
+    "added_in_patch": 6,
+    "description": "Not long ago, the most advanced weapon a Thunderlord could make was a really, really big spear. The Blackrock orcs must have shipped in a fearsome master to have them producing cannons so rapidly.We need to find that master.",
+    "name": "The Master Siegesmith",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

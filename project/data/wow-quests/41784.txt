@@ -1,0 +1,8 @@
+{
+    "_id": "41784",
+    "added_in_patch": 7,
+    "description": "Don't let the aroma deceive you, this concoction is mostly safe for consumption.\r\n\r\nWhoever is afflicted should drink the entire contents of the vial, every last drop! If the elixir works, the effects should be immediate. If not, well... just tell them they drink at their own risk, alright?\r\n\r\nKeep in mind, this will only weaken the curse, not cure it.",
+    "name": "Borrowed Time",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

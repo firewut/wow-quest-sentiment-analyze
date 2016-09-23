@@ -1,0 +1,7 @@
+{
+    "_id": "27063",
+    "description": "The Scourge are a direct affront to nature. They have managed to corrupt the Quilboar in Razorfen Downs and now threaten to spread further into Thousand Needles and eventually, I fear, west into Feralas. You must go there and do anything you can to confine them. Perhaps you can find someone in the area to help you? The winds whisper of a powerful presence in the area.",
+    "name": "Looming Threat",
+    "requires_level": 42,
+    "zone": "Razorfen Downs"
+}

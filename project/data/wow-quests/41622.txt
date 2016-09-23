@@ -1,0 +1,8 @@
+{
+    "_id": "41622",
+    "added_in_patch": 7,
+    "description": "[ph] Defend the bluffs!",
+    "name": "Crawliac's Legacy",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

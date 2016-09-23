@@ -1,0 +1,8 @@
+{
+    "_id": "30674",
+    "added_in_patch": 5,
+    "description": "Some of the fish that the Unga hozen have gathered don't seem do be dead yet. There may still be time to throw them back into the water.",
+    "name": "Balance Without Violence",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

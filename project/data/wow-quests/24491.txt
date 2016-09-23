@@ -1,0 +1,8 @@
+{
+    "_id": "24491",
+    "description": "D-d-did you see that?  How the whole cave just crumbled like that?  I guess it's good that you got here when you did, and not a minute earlier.While this development makes my job of monitoring the cave entrance much easier, I imagine it makes it a lot harder for you to get to Kharanos.Hey wait, I've got an idea!  The Gnomeregan Airmen have a flight path not far from here.  I'll send up a signal, and they should be here to help.  I imagine they'll land back over at Anvilmar.",
+    "name": "Follow that Gyro-Copter!",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

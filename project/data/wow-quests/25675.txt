@@ -1,0 +1,8 @@
+{
+    "_id": "25675",
+    "description": "I saw your handiwork down there, <race>.  How'd you like to hunt some more ogres?We only enslaved the ones we could catch.  Most of the strongest ogres still brood in Dreadmaul Post, plotting our demise.  Our guards can handle the scattered ambushers, but we are not yet firmly entrenched, and will buckle quickly under a coordinated attack.Go south to Dreadmaul Post and send a message, <name>.  Slay the strongest before they get any ideas.",
+    "name": "Ogre Combat",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

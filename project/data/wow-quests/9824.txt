@@ -1,0 +1,7 @@
+{
+    "_id": "9824",
+    "description": "I'm trying to obtain an imprint of Karazhan's energy... for a personal project, of course.  Unfortunately, I'm not getting anything up here.  If I could get near an underground water source, my crystal would pick up the signals much more clearly.I've heard of an underground pond as well as a well in a cellar below us.  This whole place is crawling with ghosts however, and venturing there would be hazardous for someone my age.  What do you say; will you help an old man and perform the scrying for me?",
+    "name": "Arcane Disturbances",
+    "requires_level": 68,
+    "zone": "Karazhan"
+}

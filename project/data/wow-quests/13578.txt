@@ -1,0 +1,7 @@
+{
+    "_id": "13578",
+    "description": "<The creature hoots sadly as it addresses you.>Aroom is last of tribe...Others won't rest... need funeral pyre.  Bring Aroom the feathers of others.... let them rest.Then Aroom help you.",
+    "name": "Aroom's Farewell",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

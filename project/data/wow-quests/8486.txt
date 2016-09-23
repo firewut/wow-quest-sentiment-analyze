@@ -1,0 +1,8 @@
+{
+    "_id": "8486",
+    "description": "It's about time that dimwit, Caidanis, sent someone this way.I warned of the dangers of increasing the load on the West Sanctum!  Now one of our energy converters is destroyed and arcane wraiths are pouring out of the sanctum!I'm going to need you to take care of these creatures before we send anyone in for repairs.  Make haste!",
+    "name": "Arcane Instability",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

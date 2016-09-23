@@ -1,0 +1,7 @@
+{
+    "_id": "10825",
+    "description": "This strange, magical orb drops from beneath the contour feathers of the arakkoa.Suffused with an eerie, purple glow, the orb pulses to an unheard beat.  Holding it makes you mildly uncomfortable, and so you quickly place it within your pack.Perhaps Tree Warden Chawn at Ruuan Weald to the west, through the tunnel and across the Wyrmskull Bridge, would be interested in examining it?",
+    "name": "The Truth Unorbed",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

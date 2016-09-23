@@ -1,0 +1,7 @@
+{
+    "_id": "26140",
+    "description": "Place the dead merciless one upon your head to pose as one of their slaves.Enter L'ghorek. Commune with the ancient.",
+    "name": "Communing with the Ancient",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

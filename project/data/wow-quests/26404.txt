@@ -1,0 +1,7 @@
+{
+    "_id": "26404",
+    "description": "Hey, have you been to Hardwrench Hideaway yet?  Oh, you've GOT to see it.  It's everything a goblin could ever hope for.Tell you what... you look like a stand-up <class>.  Raskha in the vest and the skirt over here can give you a ride, if you don't already know the way.The flight's on me.",
+    "name": "Above My Pay Grade",
+    "requires_level": 29,
+    "zone": "Northern Stranglethorn"
+}

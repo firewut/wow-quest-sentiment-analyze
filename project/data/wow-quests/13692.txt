@@ -1,0 +1,7 @@
+{
+    "_id": "13692",
+    "description": "My sword was lost at sea.  Catch it and bring it back!",
+    "name": "The Sword and the Sea",
+    "requires_level": 77,
+    "zone": "Fishing"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10563",
+    "description": "The fortress of Legion Hold is nigh impregnable, and to be completely honest, I can't spare the forces for an assault. Our hopes are riding on you, <name>.What little information we've been able to gather indicates that the Legion stocks and prepares its infernals at the hold. With the help of a disguise I'll give you, you must sneak into Legion Hold and learn about their plans. Your best hope is to intercept or overhear communication between their commanders. Good luck, <name>.",
+    "name": "To Legion Hold",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28112",
+    "description": "Everything is ready!  Undo my chains and set your friends free.We must move quickly before the Neferset scum realize we're up to something!If we make it, see my brother, King Phaoris for a reward.",
+    "name": "Escape From the Lost City",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26501",
+    "description": "The stone troggs have found a way to burrow up from underneath our homes!I've sent our geomancers to seal all of the buildings, but they need these reagents and enough time out of battle to properly cast their rockslide rituals.When you're done, report to, Gravel Longslab, just to the north on the Fractured Front.",
+    "name": "Sealing the Way",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

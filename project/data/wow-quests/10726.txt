@@ -1,0 +1,7 @@
+{
+    "_id": "10726",
+    "description": "Your services have gone above and beyond what is expected of you, <name>.  You are but a step away from achieving the highest honor available to non-citizens of Dalaran.Continue to prove your loyalty to us and I will empower your signet to its full capacity.",
+    "name": "Eminence Among the Violet Eye",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

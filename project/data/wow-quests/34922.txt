@@ -1,0 +1,8 @@
+{
+    "_id": "34922",
+    "added_in_patch": 6,
+    "description": "We came here to perform the ritual of calling to bring the return of the Raven Mother. We had distributed parts of the scroll to everyone and had just begun when we were attacked by the Bloodmane. Now most of the flock has been killed and fragments lay scattered across our homeland.The ritual was a failure but we will not allow these mongrels to break our faith. We must continue our prayers here but we would be grateful if you can recover the scroll fragments for us.",
+    "name": "Words of the Raven Mother",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

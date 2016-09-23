@@ -1,0 +1,8 @@
+{
+    "_id": "40152",
+    "added_in_patch": 7,
+    "description": "Your skills surpass mine, <name>. I have never even SEEN a scale such as this... let alone remove one so expertly.If you still wish to learn more, you will need to seek an even greater skinner than I. His name is Ske'rit, and he was once my student.You will find him in the wild areas of Suramar.",
+    "name": "Scales for Ske'rit",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

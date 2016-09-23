@@ -1,0 +1,8 @@
+{
+    "_id": "30234",
+    "added_in_patch": 5,
+    "description": "Vicejaw! Sounds absolutely violent, does it not? I came up with it myself, and I think it's very suiting. I tried to wrestle my staff away from him for hours, but he simply would not let go!Okay, it was really more like a few seconds. I like to be truthful to my friends, even if it makes my stories significantly more boring.Anyway, would you be so kind as to release your oh-so-potent wrath upon this crocolisk with a vice-like jaw, and then kindly bring my staff back? Preferably in-tact!",
+    "name": "Vicejaw",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

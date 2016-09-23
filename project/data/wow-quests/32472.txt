@@ -1,0 +1,8 @@
+{
+    "_id": "32472",
+    "added_in_patch": 5.2,
+    "description": "The Pterodactyl Hatchlings being trained by Zandalari to the north are not yet the violent and savage beasts they are to become.\r\n\r\nI believe we should save these creatures before the trolls corrupt them. If you could just frighten them off, perhaps some of them will be spared an unfortunate fate.",
+    "name": "Frighten Pterodactyls [PH]",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10411",
+    "description": "Around the ruined manaforge you will find the run-off of Dimensius's handy work. Seeping sludge occupies the pools that surround Ultris. Directly below those pools, where the Ethereum Staging Grounds now stand, you will find even more run-off in the form of void waste.The best method of disposal is to use electro-shock to break slimes down to globules. Use this elixir to augment your attacks with electricity. The resultant discharge will break the slimes up into their raw form. Destroy the globules!",
+    "name": "Electro-Shock Goodness!",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

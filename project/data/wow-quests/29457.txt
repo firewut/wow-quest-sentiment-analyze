@@ -1,0 +1,7 @@
+{
+    "_id": "29457",
+    "description": "This battered badge carries the insignia of an enemy officer. While worth little more to you than the metal it's made from, this piece would have significant value to a collector of military memorabilia.Professor Thaddeus Paleo of the Darkmoon Faire is famous all over Azeroth for his large collection of military artifacts. Show the badge to him the next time you visit the Darkmoon Faire.",
+    "name": "The Enemy's Insignia",
+    "requires_level": 15,
+    "zone": "Darkmoon Faire"
+}

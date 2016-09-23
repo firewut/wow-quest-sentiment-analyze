@@ -1,0 +1,7 @@
+{
+    "_id": "10064",
+    "description": "The Hand of Argus has established a forward base at Vindicator's Rest, but they are sorely outnumbered by both the blood elves and mutated wildlife. Without backup, their outpost is in danger of falling, and we'd have no way to keep an eye on events near the Vector Coil.Report to Scout Jorli at Vindicator's Rest to the northwest and offer her your assistance, <name>.",
+    "name": "Talk to the Hand",
+    "requires_level": 16,
+    "zone": "Bloodmyst Isle"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "71",
+    "description": "Now that you have both medallions, deliver them to Guard Thomas at the bridge so that he might know the fate of his murdered guards.",
+    "name": "Report to Thomas",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Elwynn Forest"
+}

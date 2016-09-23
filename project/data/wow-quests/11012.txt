@@ -1,0 +1,7 @@
+{
+    "_id": "11012",
+    "description": "",
+    "name": "Blood Oath of the Netherwing",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

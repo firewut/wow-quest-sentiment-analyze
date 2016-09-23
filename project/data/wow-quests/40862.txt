@@ -1,0 +1,8 @@
+{
+    "_id": "40862",
+    "added_in_patch": 7,
+    "description": "If yer gonna wander inta these woods, ye'll be wantin' somethin' with some punch. These plants are a might grabby.I've got me special explosive charges here that should send those fertilizer mutations back to the dirt.Take 'em with yeh and give them viney beasties a what-fer!",
+    "name": "All Charged Up",
+    "requires_level": 102,
+    "zone": "Engineering"
+}

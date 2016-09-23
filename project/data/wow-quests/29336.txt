@@ -1,0 +1,7 @@
+{
+    "_id": "29336",
+    "description": "Go'el must be in the plane of water... the Abyssal Maw itself! I shudder to imagine what fate awaits him there.Find the elemental, Hydrius, near the Abyssal Breach. He knows of Go'el and is sympathetic to our fight against Ragnaros. If anyone can help you there, it's him.I will meet you beneath the tides of Vashj'ir, <race>...",
+    "name": "Into Coaxing Tides",
+    "requires_level": 85,
+    "zone": "Quests"
+}

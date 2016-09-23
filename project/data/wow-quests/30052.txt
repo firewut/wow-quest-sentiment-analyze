@@ -1,0 +1,8 @@
+{
+    "_id": "30052",
+    "added_in_patch": 5,
+    "description": "You want some hops? I've got plenty in the shed out back. I'll gladly share some with you... if you'll help me weed my field.Now \"hop\" to it! Get it?",
+    "name": "Weed War",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

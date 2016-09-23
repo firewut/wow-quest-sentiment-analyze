@@ -1,0 +1,7 @@
+{
+    "_id": "26679",
+    "description": "Something is happening outside.  Could the Bloodsail already be here?You'd better get Revilgaz his doublerum.  Quickly.",
+    "name": "Return to Revilgaz",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "29552",
+    "added_in_patch": 5,
+    "description": "We may have won the first battle, but a critical task still remains.Dozens of Skyfire pilots were shot down during the initial aerial battle.Without medical aid, their condition will deteriorate over time, until they finally perish. We are their only hope for survival.Go into the orchard and revive as many pilots as you can find.We will leave no one behind.",
+    "name": "Critical Condition",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

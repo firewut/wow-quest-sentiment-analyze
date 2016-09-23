@@ -1,0 +1,8 @@
+{
+    "_id": "42245",
+    "added_in_patch": 7,
+    "description": "Please, if you're reading this then there still may be time. I was badly burned fighting the Legion.I've included a rough sketch of where I am relative to the Crumbled Palace.Please hurry, and bring supplies.",
+    "name": "Singed Note",
+    "requires_level": 98,
+    "zone": "First Aid"
+}

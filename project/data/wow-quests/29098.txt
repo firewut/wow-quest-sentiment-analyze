@@ -1,0 +1,7 @@
+{
+    "_id": "29098",
+    "description": "TBD",
+    "name": "Demon Seed",
+    "requires_level": 15,
+    "zone": "Northern Barrens"
+}

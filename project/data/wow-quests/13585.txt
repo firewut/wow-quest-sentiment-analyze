@@ -1,0 +1,7 @@
+{
+    "_id": "13585",
+    "description": "My duty here has been fulfilled as best it can.  Send word to Malfurion that I'll be joining him soon.Good luck to you, <name>.  Good luck to all of us.",
+    "name": "Sworn to Protect",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

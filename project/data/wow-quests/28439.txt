@@ -1,0 +1,7 @@
+{
+    "_id": "28439",
+    "description": "I've been looking for a good, strong soldier like you.  I need someone to keep my troops in line.Outside the stronghold, you will find orcs, ogres, and trolls preparing for the assault on Redridge.  My sergeants keep them in line, but I'd like you to assist them.Take this cudgel and discipline a few of my soldiers.  I don't care if they're misbehaving or standing perfectly in line, I want them beaten.  I want them focused, battle-hardened, and obedient.Now go.",
+    "name": "I Am the Law and I Am the Lash",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

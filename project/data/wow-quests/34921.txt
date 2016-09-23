@@ -1,0 +1,8 @@
+{
+    "_id": "34921",
+    "added_in_patch": 6,
+    "description": "These outcasts are not the only cursed arakkoa holding their ground in Arak.\r\n\r\nA curious cult has formed in worship of Ka'alu, my consort and the keeper of my brood. They are considered to be quite... odd.\r\n\r\nRegardless, the outcasts will need their help. Without the wings of the ravens, Iskar can never take his fight to the spires.\r\n\r\nTake this feather and place it in the offering basket south of here. The so-called \"Ravenspeakers\" will surely take notice.",
+    "name": "Cult of the Ravenspeakers",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

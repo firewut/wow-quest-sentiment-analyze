@@ -1,0 +1,8 @@
+{
+    "_id": "24490",
+    "description": "The presence of a fire elemental here in Coldridge is no small matter.  That earthquake did more than just upset a bunch of troggs... it changed the world enough to tear a gash into the elemental plane.  We should submit a report to Ironforge.You wouldn't be willing to take a trip, would ya?  Don't worry, I've a feeling that you'll do just fine.  Talk to Hands Springsprocket by the tunnel on the eastern edge of the valley.  He'll point you in the right direction.",
+    "name": "A Trip to Ironforge",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

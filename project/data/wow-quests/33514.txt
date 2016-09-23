@@ -1,0 +1,8 @@
+{
+    "_id": "33514",
+    "added_in_patch": 6,
+    "description": "You are good to have come so quickly.  I must ask you to put your lives in danger once more in order to save Kalimdor.Amnennar's apprentice, Death Speaker Blackthorn, hopes to return his master to the realm of the living!  We must quickly make our way atop the Spiral of Thorns and defeat him before the ritual can be completed.  We must strike together, only with our combined force can we hope to stop him!",
+    "name": "The Ritual",
+    "requires_level": 40,
+    "zone": "Razorfen Downs"
+}

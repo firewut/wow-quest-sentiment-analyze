@@ -1,0 +1,7 @@
+{
+    "_id": "12662",
+    "description": "<Dagoda looks at Ahunae and sighs.>You want to really deal with Heb'Drakkar? Collecting scalps isn't going to get the job done. You have to take out their leader, Heb'Jin.The problem is, he's up on the bat rookery goading his forces on.Bang his drum and I guarantee that he'll fly down. That's when you kill him.You can take this net we got from one of his headhunters. Use it to trap his bat when he lands. That way you won't have to fight both of them.\r\n",
+    "name": "Bringing Down Heb'Jin",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

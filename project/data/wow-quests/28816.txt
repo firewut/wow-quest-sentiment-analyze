@@ -1,0 +1,8 @@
+{
+    "_id": "28816",
+    "description": "The Earthen Ring has identified the watery realm of Vashj'ir as a source of the adversary's destructive energies.It is still uncertain what dangers might be faced there. Any information you could gather would be of great value.The Horde is sending warships to the region as we speak. To gain passage, speak to Commander Thorak at Bladefist Bay.May the spirits guide you, <name>.",
+    "name": "To the Depths",
+    "requires_level": 80,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12330",
+    "description": "My sister is here somewhere, and I can't seem to get this monster to talk.He doesn't seem to care about his own well-being, but I've an idea.  I knew Anatoly's wife, Tatjana, from before the wolfcult arrived -- she was a horse-handler.Take this tranquillizer dart.  Bring her back alive, we're going to need her if we're to have any leverage with Anatoly.I will help you find the person behind all this once we save my sister.",
+    "name": "Anatoly Will Talk",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

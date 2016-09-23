@@ -1,0 +1,8 @@
+{
+    "_id": "42389",
+    "added_in_patch": 7,
+    "description": "With so many in need of our help, it may be time to call in some of our scouts in the field.One such scout is a huntress by the name of Hilaire. Although she abandoned her clan long ago to join our order, she still feels a need to watch over them.Her dedication to protect those who would shun her is admirable, but we need her here.Seek Hilaire out in Stormheim, and let her know it's time to come home.",
+    "name": "Calling Hilaire Home",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

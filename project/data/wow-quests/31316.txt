@@ -1,0 +1,8 @@
+{
+    "_id": "31316",
+    "added_in_patch": 5,
+    "description": "I can tell you have been honing your pet battle skills, <name>.  I think it's time for you to take on a real challenge.Julia Stevens can be found at the Maclure Vineyards south of Stormwind.  She is an up and coming wild pet tamer and I think it's time you faced her in battle!",
+    "name": "Julia, The Pet Tamer",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

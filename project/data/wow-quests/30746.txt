@@ -1,0 +1,8 @@
+{
+    "_id": "30746",
+    "added_in_patch": 5,
+    "description": "<The roar bellows out again, louder and more fierce than any of the yetis you've encountered so far. Again, a grummle voice replies...>Eep! Please, great Kota Kon, forgive grummle. Let me go, I'll bring lots of kafa right away! Promise!<The beast called Kota Kon answers with another meaty roar.>",
+    "name": "A Fair Trade",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

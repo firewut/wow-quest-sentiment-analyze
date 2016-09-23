@@ -1,0 +1,7 @@
+{
+    "_id": "10523",
+    "description": "<Grom'tor wraps the documents up and places them in a lockbox.>Take this box to father. He awaits your return at the farm, northeast of here.Tell him that I will be home soon. As soon as I am done having my fun...",
+    "name": "The Cipher of Damnation - The First Fragment Recovered",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

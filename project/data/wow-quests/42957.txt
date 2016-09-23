@@ -1,0 +1,8 @@
+{
+    "_id": "42957",
+    "added_in_patch": 7,
+    "description": "My riddles you've solved but your job is not complete.\r\n\r\nCome, meet me at the Jade Serpent Temple for the answers you seek.",
+    "name": "Journey to the East",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

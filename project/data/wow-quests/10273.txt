@@ -1,0 +1,7 @@
+{
+    "_id": "10273",
+    "description": "Your former employer, Wind Trader Marid, must've gotten wind that you're helping us now. Through my projection, I've seen his nether-stalkers entering the area, hoping to track us down.We've been able to evade them so far, but Marid must be dealt with before the problem grows more severe.If your impressions of Marid are correct, he'll do just about anything to secure the supply of his product. Return to him and tell him you're prepared to offer a deal. Lure him away and slay him.",
+    "name": "Troublesome Distractions",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

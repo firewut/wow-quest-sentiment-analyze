@@ -1,0 +1,7 @@
+{
+    "_id": "27919",
+    "description": "We appreciate your assistance here in this swamp, <name>.  I would like to inform you that I have received correspondence from Nethergarde Keep.Enohar Thunderbrew has requested help in investigating the shipwrecks of the Red Reaches, but we have had none willing to make the journey, and I could not leave the Harborage.Nethergarde Keep sits in the Blasted Lands, south of the Swamp of Sorrows.  Do not journey too close to Stonard on your way.",
+    "name": "Onward to the Blasted Lands",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

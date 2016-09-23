@@ -1,0 +1,8 @@
+{
+    "_id": "14377",
+    "description": "A cursory study of the azsharite you brought me reveals that it's not biological in nature, nor is it naturally formed. There's another creature in Azshara with similar properties: the cliff giants that lumber around these cliffs.One of the giants seems willing to help our research along. Take the meat you collected to Gormungan, the giant standing just west of here. Befriend him, then grill him - find out if he knows the secret of azsharite!",
+    "name": "Befriending Giants",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Azshara"
+}

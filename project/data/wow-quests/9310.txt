@@ -1,0 +1,7 @@
+{
+    "_id": "9310",
+    "description": "On the corpse of the fallen wight, you find a crystal faintly radiating necrotic energy.",
+    "name": "Faint Necrotic Crystal",
+    "requires_level": 1,
+    "zone": "Quests"
+}

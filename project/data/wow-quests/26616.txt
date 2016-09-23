@@ -1,0 +1,7 @@
+{
+    "_id": "26616",
+    "description": "Those Blackrock orcs are gonna need an army to handle the Bravo Company and you, <name>. When you're ready to go, meet us at the dock facing Lake Everstill and we'll set off on my riverboat for Camp Everstill on the other side of the lake.See you there, <name>.",
+    "name": "It's Never Over",
+    "requires_level": 16,
+    "zone": "Redridge Mountains"
+}

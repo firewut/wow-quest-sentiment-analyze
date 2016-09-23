@@ -1,0 +1,9 @@
+{
+    "_id": "38904",
+    "added_in_patch": 7,
+    "description": "Fear not, <name>. I'm angry, but I don't chase my own death.We will fly in and scout the ideal point of attack. The demons are still drunk on their victory, but we will put a swift end to their revelry!Take my spare mount and we will fly to the Broken Shore. There we will bring honor to our dead.",
+    "name": "Return to the Broken Shore",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Artifact"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "33076",
+    "added_in_patch": 6,
+    "description": "I see a thousand glimpses of the future, swimming in a chaotic blur.It is possible to focus my energies to see the true eventuality - the future most likely to come to pass.I will need an oracle stone to focus my power, and a special elixir to still my mind.To make the elixir, I will need the following ingredients: wing dust from Swamplighters along the river, fresh hearts from a monstrously-sized hydra, and a rare star lily.Meet me at Moonwillow Peak when this task is done.",
+    "name": "The Clarity Elixir",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

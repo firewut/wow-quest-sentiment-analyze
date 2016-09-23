@@ -1,0 +1,7 @@
+{
+    "_id": "10904",
+    "description": "We must shut down the Burning Legion's access to Death's Door, but first you're going to destroy their two warp-gates!The problem is, we can't even scratch one of those things, so you're going to need to use their own weapons against them.The death's might, death's watch, deathforge over-smiths and deathforge technicians carry the ammunition for the fel cannons.Normally it wouldn't affect any of them, but if you bring the cannonballs to me, I will imbue them with Nature's unbridled wrath!",
+    "name": "Harvesting the Fel Ammunition",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

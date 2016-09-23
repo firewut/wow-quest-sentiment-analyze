@@ -1,0 +1,8 @@
+{
+    "_id": "42967",
+    "added_in_patch": 7,
+    "description": "Well said, Highlord. The Legion is not one individual enemy - it is a massive beast with many heads.To defeat them, we will need to stay vigilant on all fronts.Let us send our champions to deal with the Legion incursions as they come.",
+    "name": "The Highlord's Command",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

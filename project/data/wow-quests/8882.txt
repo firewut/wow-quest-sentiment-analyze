@@ -1,0 +1,7 @@
+{
+    "_id": "8882",
+    "description": "",
+    "name": "Cluster Launcher",
+    "requires_level": 55,
+    "zone": "Lunar Festival"
+}

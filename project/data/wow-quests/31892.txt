@@ -1,0 +1,8 @@
+{
+    "_id": "31892",
+    "added_in_patch": 5,
+    "description": "The very same trainers you bested before in Kalimdor have challenged you once more. No doubt they have not forgotten your last victory!Seek them out and show them your prowess!",
+    "name": "Battle Pet Trainers: Kalimdor",
+    "requires_level": 5,
+    "zone": "Battle Pets"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44351",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "FLAG: Upgrade First Crafted Item",
+    "requires_level": 110,
+    "zone": "Quests"
+}

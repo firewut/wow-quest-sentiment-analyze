@@ -1,0 +1,8 @@
+{
+    "_id": "31895",
+    "added_in_patch": 5,
+    "description": "It's time we go to the source, <name>!Shado-Pan marksmen keep a constant watch over the Dread Wastes from the top of the Serpent's Spine. They would surely welcome the aid of a skilled <class> such as yourself.Seek out Bowmistress Li atop the Serpent's Spine on the border of Dread Wastes.",
+    "name": "Better Off Dread",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

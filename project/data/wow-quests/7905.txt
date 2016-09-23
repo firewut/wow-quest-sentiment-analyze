@@ -1,0 +1,8 @@
+{
+    "_id": "7905",
+    "description": "The Darkmoon Faire is coming! Experience our thrilling games, win fabulous prizes, have your fortune told!If you act right now, you can redeem this voucher for free prize tickets and a copy of the world-famous Darkmoon Adventurer's Guide to help you identify treasures in your travels!Just hand your voucher to Gelvas Grimegate located inside the Faire.Right now, the entrance to the Faire is outside Goldshire, in Elwynn Forest.",
+    "name": "The Darkmoon Faire",
+    "requires_level": 6,
+    "side": "alliance",
+    "zone": "Ironforge"
+}

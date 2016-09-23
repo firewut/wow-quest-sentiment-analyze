@@ -1,0 +1,7 @@
+{
+    "_id": "12447",
+    "description": "The Scourge come. Korialstrasz calls upon his allies in a futile attempt to save their Ruby Dragonshrine, but it seems the good graces of the red flight don't extend to saving the shrines of the other flights.Surprised? I'm not.There is another of my brood who has left to clear our Obsidian Dragonshrine of the undead vermin that now infest it. All it would take to prove yourself more noble and righteous than Alexstrasza herself is a quick jaunt over there and a few swings of a blade.I'm amused.",
+    "name": "The Obsidian Dragonshrine",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

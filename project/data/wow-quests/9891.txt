@@ -1,0 +1,8 @@
+{
+    "_id": "9891",
+    "description": "Take what you have learned and tell Jorin at Garadar. I can assure you that he won't be happy to know that our village was destroyed and many of our people killed because the ogres needed more space.May the ancestors watch over you... I will be hiding in the bushes if you need me for anything else.",
+    "name": "Because Kilrath is a Coward",
+    "requires_level": 64,
+    "side": "horde",
+    "zone": "Nagrand (Outland)"
+}

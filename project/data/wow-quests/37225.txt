@@ -1,0 +1,8 @@
+{
+    "_id": "37225",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Thek'talon's Talon",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

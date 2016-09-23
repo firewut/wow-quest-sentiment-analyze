@@ -1,0 +1,8 @@
+{
+    "_id": "39746",
+    "added_in_patch": 7,
+    "description": "Our defeat at the Broken Shore was decisive. The Burning Legion has a foothold on Azeroth, and the best of our armies are retreating in tatters.The elders of the Earthen Ring have called an emergency council near the heart of our world - the Maelstrom. <name>, your triumphs throughout Azeroth and Draenor are the stuff of legend. We need you more than ever.Join me at the Maelstrom. Stormcaller Mylra will be flying there shortly - find her at Krasus' Landing here in Dalaran.",
+    "name": "A Ring Unbroken",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

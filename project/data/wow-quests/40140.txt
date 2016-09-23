@@ -1,0 +1,8 @@
+{
+    "_id": "40140",
+    "added_in_patch": 7,
+    "description": "An' wit dat, my research be done.<Ske'rit hands you a scroll casing.>Dis is what I been workin' on here in Suramar. Bring it to Kondal, so dat he can teach it to all you other skinnahs.Since you been helpin' so much, I put your name on it, <name>. Hope you don't mind.",
+    "name": "Ske'rit's Leather Handbook",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

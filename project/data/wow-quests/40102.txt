@@ -1,0 +1,8 @@
+{
+    "_id": "40102",
+    "added_in_patch": 7,
+    "description": "The time has come! Murky and his followers need a place to hide out and train--away from the mature murlocs--so that they can prepare to take over in the future.\r\n\r\nThere's a nice cave not too far away... only problem is that it's filled with makrura.\r\n\r\nThis would be a good base for the tadpoles. Murky must go show them what for!\r\n\r\nMindmeld with Murky in his egg and show him how it's done!",
+    "name": "Murlocs: The Next Generation",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

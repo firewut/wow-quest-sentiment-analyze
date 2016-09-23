@@ -1,0 +1,7 @@
+{
+    "_id": "7401",
+    "description": "By order of Sergeant Yazra Bloodsnarl, all dwarves on the field of battle are to be killed on sight.Should you slay a dwarf in combat, rip out their spine, leaving a spineless heap of stink and rot to serve as a warning to any and all that dare oppose the might of the Frostwolf.Return to Sergeant Yazra Bloodsnarl with proof of your heroics.",
+    "name": "Wanted: DWARVES!",
+    "requires_level": 200,
+    "zone": "Alterac Valley"
+}

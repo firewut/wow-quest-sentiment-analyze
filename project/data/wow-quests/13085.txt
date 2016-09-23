@@ -1,0 +1,7 @@
+{
+    "_id": "13085",
+    "description": "I just saw that incompetent fool, Vaelen the Flayed, sneak into the vault building.Go see to it that he rectifies his mistake and returns my death knights to me!",
+    "name": "Vaelen Has Returned",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

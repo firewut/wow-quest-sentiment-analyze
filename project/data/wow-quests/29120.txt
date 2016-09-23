@@ -1,0 +1,7 @@
+{
+    "_id": "29120",
+    "description": "I got da feeling dat somethin' ain't right wit' dat panther, <name>.  It ain't natural.  I gonna need to perform some rituals over da body.  Put Mauti down, an' den let's see what we can find out, <name>.",
+    "name": "Mauti",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

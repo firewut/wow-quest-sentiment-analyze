@@ -1,0 +1,8 @@
+{
+    "_id": "42804",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Invasion: Azshara",
+    "requires_level": 1,
+    "zone": "Azshara"
+}

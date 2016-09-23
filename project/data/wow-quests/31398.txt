@@ -1,0 +1,8 @@
+{
+    "_id": "31398",
+    "added_in_patch": 5,
+    "description": "Why would the saurok have amber? More importantly, why would Oracle Hiss'ir be so protective of it?It is unlikely this came from the heavily guarded Zan'vess, so where did it come from?Perhaps the Klaxxi will know what to make of it.",
+    "name": "Falling to Pieces",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "38462",
+    "description": "The ritual site is already prepared, and it is protected by a barrier... one that I created. I can destroy the barrier, but I will need three items currently in use at Forge Camp Vengeance.\r\n\r\nIf you can get those ritual items, I will meet you at the Corrupted Refuge and remove the barrier. Even if it kills me.",
+    "name": "Breaching the Barrier",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

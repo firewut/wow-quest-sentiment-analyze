@@ -1,0 +1,7 @@
+{
+    "_id": "27468",
+    "description": "One by one, we're gonna have to pull our siege tanks outta the muck. Take these 'ere spare parts you've collected and give 'em to a siege tank commander who's standing on top of a gimped-up machine.Then defend the tank while engineers de-gimpify it.Go an' make me proud, <class>!",
+    "name": "Siege Tank Rescue",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

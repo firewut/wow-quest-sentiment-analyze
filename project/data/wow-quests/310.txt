@@ -1,0 +1,7 @@
+{
+    "_id": "310",
+    "description": "I have to admit, those Thunderbrews make some good drinks.  But they need to learn that theirs isn't the only decent brew!  Maybe you can help me teach them that lesson...Here, take this barrel of Barleybrew Scalder.  Sneak into the basement of the Thunderbrew Distillery in Kharanos and switch it with one of their barrels of Thunder Ale.  Then we'll see how their patrons like my brew over theirs!And if the barrels are guarded, then you might have to distract the guard ...",
+    "name": "Bitter Rivals",
+    "requires_level": 5,
+    "zone": "Dun Morogh"
+}

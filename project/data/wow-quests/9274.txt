@@ -1,0 +1,7 @@
+{
+    "_id": "9274",
+    "description": "The lake to the north has been haunted by the ghosts of my ancestors for as long as I can remember, <name>.  The poor souls were victims of a tragic incident in which scores of them drowned at the bottom of the lake.The details of the event are mostly forgotten, but their haunting cries serve as a constant reminder of their curse.If you're up to the task, I want you to go to the lake and put an end to their suffering, <name>.  You will have my gratitude as well as theirs... I'm sure.",
+    "name": "Spirits of the Drowned",
+    "requires_level": 9,
+    "zone": "Ghostlands"
+}

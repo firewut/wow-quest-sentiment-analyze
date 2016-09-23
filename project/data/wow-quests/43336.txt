@@ -1,0 +1,8 @@
+{
+    "_id": "43336",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Purge of the Nightmare",
+    "requires_level": 110,
+    "zone": "Val'sharah"
+}

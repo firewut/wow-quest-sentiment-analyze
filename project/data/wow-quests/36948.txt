@@ -1,0 +1,8 @@
+{
+    "_id": "36948",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Auctioning for Parts",
+    "requires_level": 96,
+    "zone": "Shadowmoon Valley"
+}

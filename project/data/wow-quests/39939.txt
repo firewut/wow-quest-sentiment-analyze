@@ -1,0 +1,8 @@
+{
+    "_id": "39939",
+    "added_in_patch": 7,
+    "description": "We do not simply fight the demons, <name>. We observe them.One of my best demon hunters, Zaria Shadowheart, is currently gathering intel on the demons in Felblaze Ingress.Go to her. She will teach you what she has learned from the demons invading that region.",
+    "name": "Scribal Knowledge",
+    "requires_level": 102,
+    "zone": "Inscription"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34788",
+    "added_in_patch": 6,
+    "description": "Only three members remain of the Exarch Council, but we are all deeply indebted to you. The vote is unanimous: Your Alliance will have our full support on Draenor.We are also going to place a draenei representative under your direct command. Three potential candidates are here in the courtyard. Speak to them and choose who you want - we will dispatch him or her immediately to your garrison!",
+    "name": "Friend of the Exarchs",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

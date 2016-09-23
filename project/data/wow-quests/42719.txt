@@ -1,0 +1,8 @@
+{
+    "_id": "42719",
+    "added_in_patch": 7,
+    "description": "Brightwing has lots of friends. I like friends!But you know who isn't Brightwing's friend? Scary monsters from the nightmare!They hurt Brightwing's allies, and they made the grove all yucky!This place needs to be cleansed, but I'm all out of magic.Can you bring Brightwing some purified water to help? You'll have to go far, far away... to the Eye of Azshara where the naga live.",
+    "name": "Cleansing the Dreamway",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

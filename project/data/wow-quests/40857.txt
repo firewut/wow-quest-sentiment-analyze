@@ -1,0 +1,8 @@
+{
+    "_id": "40857",
+    "added_in_patch": 7,
+    "description": "So many artifacts to catalogue, and never enough time.Good to see you again, <name>. Brann Bronzebeard and the Explorers' League are in Stormheim right now and could use your help tracking down an ancient titan relic.Brann can fill you in on the details when you arrive.",
+    "name": "Bits and Pieces",
+    "requires_level": 110,
+    "zone": "Archaeology"
+}

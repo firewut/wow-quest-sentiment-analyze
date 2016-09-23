@@ -1,0 +1,8 @@
+{
+    "_id": "44366",
+    "added_in_patch": 7,
+    "description": "There is still one last path you may yet walk - one more weapon you might wield.If you wish to seek it out, just say the word.",
+    "name": "One Last Adventure",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

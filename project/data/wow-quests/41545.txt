@@ -1,0 +1,8 @@
+{
+    "_id": "41545",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Aethril Cluster",
+    "requires_level": 110,
+    "zone": "Herbalism"
+}

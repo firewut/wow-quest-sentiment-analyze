@@ -1,0 +1,7 @@
+{
+    "_id": "10044",
+    "description": "The Greatmother has asked that I seek you out and deliver a message. She wishes to speak with you at once.My will has been sapped but make no mistake, <name>, if you anger the Greatmother, I will come down upon you with all the force that I can muster. She is in the main hall.<Garrosh points at the large building to the north.>Listen to what she has to say and do as she tells you.",
+    "name": "A Visit With the Greatmother",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

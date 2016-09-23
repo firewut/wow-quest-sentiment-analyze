@@ -1,0 +1,9 @@
+{
+    "_id": "32990",
+    "added_in_patch": 6,
+    "description": "The siege has been broken - they underestimated the resilience of Stonefang, and our reinforcement wave from Bladespire caught them completely off-guard.Once we finish cleaning up here, we rally anyone who can still fight and prepare to march for Grom'gar.The outpost captain, Karg Bloodfury, should have come out to meet us by now. Can you get him out here?Tell him Lokra is waiting. He knows how much I hate to be kept waiting.",
+    "name": "They Who Held Fast",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

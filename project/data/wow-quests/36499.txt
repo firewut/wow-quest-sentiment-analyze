@@ -1,0 +1,9 @@
+{
+    "_id": "36499",
+    "added_in_patch": 6,
+    "description": "All able bodied members of the Horde are hereby ordered to report to Thrall in Blasted Lands.Use the portal at the Cleft of Shadow in Orgrimmar to head directly to the front line.This new threat is known only as the Iron Horde. They have taken over the Dark Portal and must be stoppedDestiny calls!",
+    "name": "Iron Horde Invasion",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

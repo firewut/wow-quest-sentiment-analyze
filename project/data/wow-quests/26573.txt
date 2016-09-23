@@ -1,0 +1,7 @@
+{
+    "_id": "26573",
+    "description": "<The gnomecorder clicks.>His gear alone won't be enough, <name>. His heart must also be in this battle. To capture that, we need items of sentimental value. The Blackrock orcs of Render's Camp, located in the north, hold two such items that belong to Keeshan.Get up there and search their coffers for Keeshan's headband and a jade amulet left to him by his wife - who was brutally killed during a Blackrock orc invasion.Bring them back to me should you succeed.",
+    "name": "His Heart Must Be In It",
+    "requires_level": 15,
+    "zone": "Redridge Mountains"
+}

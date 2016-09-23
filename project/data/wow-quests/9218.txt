@@ -1,0 +1,7 @@
+{
+    "_id": "9218",
+    "description": "The dark energy that flows through the bodies of reanimated skeletons tends to accumulate primarily in their spine.  I've discovered a method of instilling this energy into a potion that boosts our magical abilities against the undead.Bring me some spinal dust and I'll be glad to provide you with a sample.  You'll find an ample number of skeletons wandering the Dead Scar, west of here.",
+    "name": "Spinal Dust",
+    "requires_level": 15,
+    "zone": "Ghostlands"
+}

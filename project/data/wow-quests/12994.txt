@@ -1,0 +1,7 @@
+{
+    "_id": "12994",
+    "description": "The rapport you've developed with the inhabitants of Dun Niffelem has yielded some unexpected discoveries.For example, you somehow find yourself able to understand the denmother's guttural growls and sharp quips - at least you think you do.It would seem that she senses danger outside the stronghold and wants you to do something about it.With her forepaw, she removes the chain from around her neck and lets it drop at your feet. As you pick it up you notice an aged fang attached to it....",
+    "name": "Spy Hunter",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

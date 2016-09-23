@@ -1,0 +1,7 @@
+{
+    "_id": "26389",
+    "description": "The orcs have begun burning down the forest, <name>! They have taken over the vineyard to the east and are planning their final assault against us! They must be stopped!Head east, across the river, and kill the rampaging Blackrock orcs. Collect their weapons as proof of their demise and return to me.You're our only hope, <name>!",
+    "name": "Blackrock Invasion",
+    "requires_level": 2,
+    "zone": "Elwynn Forest"
+}

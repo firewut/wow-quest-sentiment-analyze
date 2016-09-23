@@ -1,0 +1,8 @@
+{
+    "_id": "36017",
+    "added_in_patch": 6.1,
+    "description": "I'd had some time to compare the Flamebinder's tome with the elemental tablets you collected. Where it gets interesting is when I cross-reference the incantations you obtained from the ogre felbreakers... I can see I'm losing you. I will get to the point: I believe I can cast a spell that will nullify Gul'dan's mind control over his assassin Garona.Mind-controlled or not, she may be dangerous, so I won't begin the spell until you're with me. Let me know when you're ready!",
+    "name": "Prisoner of the Mind",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

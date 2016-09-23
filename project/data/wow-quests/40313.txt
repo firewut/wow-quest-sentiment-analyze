@@ -1,0 +1,7 @@
+{
+    "_id": "40313",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Barracks Drop 02 Tracking Event",
+    "zone": "Demon Hunter"
+}

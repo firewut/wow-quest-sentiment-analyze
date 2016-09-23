@@ -1,0 +1,8 @@
+{
+    "_id": "36649",
+    "added_in_patch": 6,
+    "description": "Shattrath City is in the hands of Sargerei forces under the leadership of the traitor Exarch, Socrethar.\r\n\r\nMembers of the Sha'tari Defense have been requesting aid against the Shadow Council forces in the eastern portions of the city.",
+    "name": "Assault on Shattrath Harbor",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

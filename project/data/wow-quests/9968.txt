@@ -1,0 +1,7 @@
+{
+    "_id": "9968",
+    "description": "Something strange has changed the teromoths of the thicket.Where once there was a diversity of life in there, now only the teromoths remain.  And while before they were at peace, now they are agitated and will not hesitate to attack you should you get close.I need to compare the vicious ones to the normal.  Collect for me a number of samples from both.  You'll find the unaffected teromoths both to the south and the north.I'm certain this is related to whatever killed all of the druids.",
+    "name": "Strange Energy",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

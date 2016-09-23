@@ -1,0 +1,7 @@
+{
+    "_id": "9892",
+    "description": "",
+    "name": "More Obsidian Warbeads",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

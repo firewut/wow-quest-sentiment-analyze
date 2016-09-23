@@ -1,0 +1,8 @@
+{
+    "_id": "41433",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Massive Leystone Deposits",
+    "requires_level": 110,
+    "zone": "Mining"
+}

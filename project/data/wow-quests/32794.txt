@@ -1,0 +1,9 @@
+{
+    "_id": "32794",
+    "added_in_patch": 6,
+    "description": "The Thunderlord are capturing gronn for the Iron Horde. Show these fools why gronn are NOT pets. Follow us into Grulloc's Grotto and sunder the chains of the captive gronn. Let the beasts seek to gain their own vengeance against the Thunderlord.Meet us at Grulloc's Lair beneath the grotto when you are done.",
+    "name": "Wrath of Gronn",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

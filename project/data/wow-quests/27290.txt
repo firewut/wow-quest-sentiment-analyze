@@ -1,0 +1,7 @@
+{
+    "_id": "27290",
+    "description": "The time has come to destroy Crowley, Bloodfang and every dog at their command. To do this, though, will require cunning and planning the likes of which they would never dare dream!As one of my most trusted soldiers, <name>, I need you to go to Forsaken Forward Command, located in Gilneas, and report to Deathstalker Commander Belmont. I have sent Belmont ahead with my plans. He awaits your arrival.Arthura will escort you to Forward Command. Tell me when you are ready and I will send you on your way.",
+    "name": "To Forsaken Forward Command",
+    "requires_level": 12,
+    "zone": "Ruins of Gilneas"
+}

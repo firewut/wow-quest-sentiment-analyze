@@ -1,0 +1,8 @@
+{
+    "_id": "13648",
+    "description": "A dark iron spy has infiltrated the town, stolen documents from the Explorers' League establishment, and is now in hiding somewhere nearby. He was last sighted near the top of the hill to the south of town.A sizable reward awaits anyone who can bring this spy to justice. Dead or alive - dead preferred.",
+    "name": "WANTED: The Dark Iron Spy",
+    "requires_level": 8,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

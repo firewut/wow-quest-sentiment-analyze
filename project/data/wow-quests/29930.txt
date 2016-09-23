@@ -1,0 +1,8 @@
+{
+    "_id": "29930",
+    "added_in_patch": 5,
+    "description": "Aw'right, so you need jade, do ya? I'd say we owe you at least that - we got plenty in the quarry, and thanks to yer help we should be back on schedule in no time.I should probably get back to the wife, so let's you and me take this cart o' the good stuff straight to her.Now, I ain't never met no <race> t'were too big for me to pull in a wagon. You climb on the back there and let ol' Hao do the legwork.",
+    "name": "What's Mined Is Yours",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

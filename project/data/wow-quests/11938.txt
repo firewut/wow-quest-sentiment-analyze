@@ -1,0 +1,8 @@
+{
+    "_id": "11938",
+    "description": "Now that we have this phylactery, I shouldn't have any problems getting the information I need.  It won't take long for the Scourge in the Temple City to notice something's up, however.I won't be able to fend off a full scale attack here.  Or maybe I would... but I'd rather not find out.I want you to head down there and inflict some casualties.  Hopefully they'll be distracted long enough for these two to spill their guts... figuratively, of course.  Take Lurid with you, he might be of aid.",
+    "name": "Buying Some Time",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

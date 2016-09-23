@@ -1,0 +1,8 @@
+{
+    "_id": "31320",
+    "added_in_patch": 5,
+    "description": "Heeeey buddy, how'sh it goin'? You wanna buy a jinyu a drink?",
+    "name": "Buy A Fish A Drink?",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

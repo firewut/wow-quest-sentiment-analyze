@@ -1,0 +1,7 @@
+{
+    "_id": "12919",
+    "description": "My people have been decimated by the Lich King. The Scourge now use the corpses of storm giants to create mindless flesh giants, or worse, stitched together aberrations like Thrym.I will stop at nothing to see them all driven from this world. We will work together to destroy the Scourge that threaten Zul'Drak.We will kill them all: Navarius, Algar and Thrym!When you are ready, let me know and we will begin our destructive journey.",
+    "name": "The Storm King's Vengeance",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

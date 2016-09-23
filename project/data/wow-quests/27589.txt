@@ -1,0 +1,8 @@
+{
+    "_id": "27589",
+    "description": "Everyone inside the Grim Guzzler is absolutely hammered and, therefore, easily angered. I think we can seriously hinder the Dark Irons by causing a bit of chaos here.I need you to start a fight with three of the bar's infamous patrons. Damage the kegs and Hurley Blackbreath will come running. Steal items off the tables near Plugger Spazzring and he'll fight. As for Ribbly Screwspigot...just talk to the little hothead. Report to Thunderheart when you're done.",
+    "name": "The Grim Guzzler",
+    "requires_level": 51,
+    "side": "horde",
+    "zone": "Blackrock Depths"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26466",
+    "description": "I fear the ancient statuette's secrets will remain forever hidden unless you find the key to their ancient locks.That key is a ring, the Ring of Zoram. It belonged to the rulers of this city before the waves of the Sundering drowned it.For years the ring was lost, but the naga have recently found it.Their leader, Ruuzel, dwells on her isle on the northern edge of the Zoram Strand. Please, <name>, retrieve the ring for me!",
+    "name": "Ruuzel",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35036",
+    "added_in_patch": 6,
+    "description": "I found this one skulking nearby. He claims to be an ally of yours.Is this true? Or does he cook slowly over my fire?",
+    "name": "Is This One of Yours?",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

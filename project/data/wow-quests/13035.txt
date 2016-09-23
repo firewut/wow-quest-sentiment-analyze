@@ -1,0 +1,7 @@
+{
+    "_id": "13035",
+    "description": "The attack on the Terrace of the Makers was not a half-hearted move on my brother's behalf.  He sent a legion of iron dwarves and some of his most powerful lieutenants.Use the Horn of the Peaks to call the earthen to your side and defeat Loken's servants.You'll find the giant, Eisenfaust, inside the Hall of the Shaper to the north.  You'll find the others deeper inside the Terrace of the Makers, beyond the stairs to the northwest.",
+    "name": "Loken's Lackeys",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

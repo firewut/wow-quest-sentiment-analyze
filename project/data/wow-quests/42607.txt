@@ -1,0 +1,8 @@
+{
+    "_id": "42607",
+    "added_in_patch": 7,
+    "description": "The souls that make it to these halls are brave, yes. That's why they're here after all.Valor alone does not make for an effective army, however. You will need someone who can train those who would be valarjar to fight with discipline.Have your champions send word to Captain Stahlstrom. Unruly vrykul berserkers may not fear death, but they might fear Hjalmar Stahlstrom enough to make them follow your orders.",
+    "name": "Captain Stahlstrom",
+    "requires_level": 101,
+    "zone": "Warrior Campaign"
+}

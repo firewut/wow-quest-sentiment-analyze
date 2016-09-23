@@ -1,0 +1,8 @@
+{
+    "_id": "9841",
+    "description": "It's impossible to work with all this infernal buzzing! Do you hear it?I can't get it out of my head! I know exactly what's making the noise, too. It's those damnable marshlight bleeders! The noise always comes from the south and west of the village.They're too big to swat, crush underfoot, or wave away. The only way to stop that unholy droning is to kill them. I don't care how you do it, <name>, just quiet them!",
+    "name": "Stinging the Stingers",
+    "requires_level": 62,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

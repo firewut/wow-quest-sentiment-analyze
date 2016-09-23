@@ -1,0 +1,8 @@
+{
+    "_id": "24654",
+    "description": "The silithid! They're bugs, <name>. Or something like bugs. They're not natural... and we built a fortress on the equivalent of an anthill.Take this burning pitch. It'll set the buggers on fire and plug up their burrows at the same time. Be careful when you pour this stuff on there - the silithid will come out in swarms!Look for silithid mounds around the exterior of Desolation Hold. They look like heaps of sand. Kill anything that crawls out.",
+    "name": "Silithissues",
+    "requires_level": 32,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34507",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Frozen Frostwolf Axe",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

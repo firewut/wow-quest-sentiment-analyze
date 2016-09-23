@@ -1,0 +1,8 @@
+{
+    "_id": "12272",
+    "description": "Hours before the Naxxramas invasion, one of the miners stumbled upon a dark ore that was oozing a viscous fluid. In the chaos that occurred during the evacuation of the mine, we lost the samples taken from the alien node. Now the Scourge prospects the ore for use in their machines of death.You must get back to Wintergarde Mine, due northeast of here in the Carrion Fields, and recover the strange ore. It is imperative to our mission's success!",
+    "name": "The Bleeding Ore",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

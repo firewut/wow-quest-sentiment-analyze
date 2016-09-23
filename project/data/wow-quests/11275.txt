@@ -1,0 +1,7 @@
+{
+    "_id": "11275",
+    "description": "My people have been hunting the giant yeti of these hills for generations and I will be participating for the first time this year. It will probably be the last before we leave the post forever.To prepare for the hunt, I must fashion a loud horn from the horns of the dire rams that roam the snowy areas near our camp. The elders tell me the sound mimics the mating call of the female yeti, but I have my doubts.Bring me the best dire ram horns you can find, <name>, and I'll select one from among them.",
+    "name": "Making the Horn",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

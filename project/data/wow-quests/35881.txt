@@ -1,0 +1,8 @@
+{
+    "_id": "35881",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Bonus Objective: Ruins of the First Bastion",
+    "requires_level": 92,
+    "zone": "Ruins of the First Bastion"
+}

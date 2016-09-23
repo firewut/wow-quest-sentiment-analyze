@@ -1,0 +1,7 @@
+{
+    "_id": "27510",
+    "description": "These worgen take us for fools! One would think that only an idiot would mistake one of their druids in bear form as a real bear. Unfortunately, there are many idiots here at the Forsaken Front. We've already lost a few battalions to organized worgen bear attacks. Yes, it's even more idiotic than it sounds.Directly east of here, heading towards Hillsbrad, you will find worgen druids roaming the woods, masquerading as bears. Kill them and make our southern supply line safe again.",
+    "name": "A Wolf in Bear's Clothing",
+    "requires_level": 14,
+    "zone": "Silverpine Forest"
+}

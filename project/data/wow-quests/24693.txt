@@ -1,0 +1,7 @@
+{
+    "_id": "24693",
+    "description": "Here in Marshal's Stand, I can't really do too much profiteering without arousing suspicion from the scientists.  There is, however, another place where I might have use of you.My business associate, Gremix, has a camp northwest of here, on the opposite side of the volcano.  He's a savvy business mind, and has a better eye for profit than even I do.  I'm sure he could put you to work, if you'd like to make some more coin.",
+    "name": "Mossy Pile",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

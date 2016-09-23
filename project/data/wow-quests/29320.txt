@@ -1,0 +1,8 @@
+{
+    "_id": "29320",
+    "description": "You've fished in Brightwater Lake, yes?The prize catch there is one of the lake's massive corpse-fed pikes. However, they only bite on a very specific type of bait... corpse worms.Search the graves in the courtyard up top and you should find some.",
+    "name": "Like Pike?",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Fishing"
+}

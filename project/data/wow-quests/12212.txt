@@ -1,0 +1,8 @@
+{
+    "_id": "12212",
+    "description": "G'day, <class>.The good lieutenant here says that there's been a Horde raid on our storehouse that's left our food supply dangerously low.No doubt we'll make those cretins pay, but first we need to focus our attention on restocking. My men are doing all they can, but we're going to need every able body to contribute if we're to avert a crisis.You should have no trouble harvesting venison from the local stag in these parts. Happy hunting!",
+    "name": "Replenishing the Storehouse",
+    "requires_level": 73,
+    "side": "alliance",
+    "zone": "Grizzly Hills"
+}

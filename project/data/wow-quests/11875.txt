@@ -1,0 +1,7 @@
+{
+    "_id": "11875",
+    "description": "The troops of the Shattered Sun Offensive will need every advantage they can get to beat back the allies of Kil'Jaeden. My colleagues in Stormwind have created oils which will strengthen the blades and armor of our troops.The key ingredient, nether residue, pervades Outland  -- if you know where to look. Any master herbalist, skinner, or miner who knows the signs can gather it while plying  his trade. Those herbs, ores, and beasts native to Outland may all bear the residue.",
+    "name": "Gaining the Advantage",
+    "requires_level": 70,
+    "zone": "Shattrath City"
+}

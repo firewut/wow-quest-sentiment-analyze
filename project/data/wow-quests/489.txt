@@ -1,0 +1,8 @@
+{
+    "_id": "489",
+    "description": "The Council of the Forest has news that you aided Zenn Foulhoof. The satyr is an enemy of the forest. As a <race>, you should know better than to defile the forest by killing Nature's creatures.You must redeem yourself in the eyes of the Council if you wish to remain a friend of Teldrassil.Teach Foulhoof a lesson and you shall be redeemed. Fel Cones are corrupted seeds that fall from the trees. They billow with green smoke.Give some to Foulhoof. He'll think you have brought him a harmless snack.",
+    "name": "Seek Redemption!",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

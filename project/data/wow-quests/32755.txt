@@ -1,0 +1,8 @@
+{
+    "_id": "32755",
+    "added_in_patch": 5.2,
+    "description": "",
+    "name": "Empyreal Queens Dead",
+    "requires_level": 90,
+    "zone": "Quests"
+}

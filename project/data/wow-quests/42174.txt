@@ -1,0 +1,8 @@
+{
+    "_id": "42174",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champions of Elune",
+    "requires_level": 110,
+    "zone": "Val'sharah"
+}

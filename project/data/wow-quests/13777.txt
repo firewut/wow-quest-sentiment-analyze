@@ -1,0 +1,7 @@
+{
+    "_id": "13777",
+    "description": "The grand melee is the most important of the tournament's competitions. Victory will not be easy, but I am confident that we will win. You must practice with your mount until the two of you work as one.It will help prepare you for the rigors of tournament combat.Go to the stables outside the pavilion, equip your lance, mount the stabled Mulgore kodo, and challenge the valiants. They wait in the Horde Valiants' Ring just outside our tent.",
+    "name": "The Grand Melee",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

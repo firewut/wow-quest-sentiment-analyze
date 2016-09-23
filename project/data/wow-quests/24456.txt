@@ -1,0 +1,8 @@
+{
+    "_id": "24456",
+    "description": "The Grimtotem are a tribe that believe all of Kalimdor should belong to the tauren alone. Their hate and anger led to a corrupting thirst for power. Magatha, their leader, poisoned our High Chieftain, Cairne Bloodhoof, and attempted to take Thunder Bluff for herself; she was defeated, and the Grimtotem exiled.Now they seek to ruin Mulgore itself as they are driven out. Quickly, <name>, you must go to the Thunderhorn Water Well in the north and perform the ritual!",
+    "name": "Thunderhorn Cleansing",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Mulgore"
+}

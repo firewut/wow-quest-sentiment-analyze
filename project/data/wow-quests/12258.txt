@@ -1,0 +1,8 @@
+{
+    "_id": "12258",
+    "description": "The town square, down this path, is overrun with the undead citizens of Wintergarde! Our own crypt provides a seemingly endless supply of soldiers for the Scourge to throw at us. Take no pity on them, though, <name>. While they were once mortal, capable of compassion and thought, they are now ravaging undead with only one purpose: our destruction.Venture forth to the town square and deliver the vengeful geists to their maker. Give them peace.",
+    "name": "The Fate of the Dead",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

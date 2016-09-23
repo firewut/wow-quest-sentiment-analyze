@@ -1,0 +1,7 @@
+{
+    "_id": "25044",
+    "description": "I have not forgotten my brush with death at the hands of the quilboar in that filthy jungle. The General here has ordered some tactical strikes, but he stops short of genocide. I have no such qualms.Take this horn that I 'borrowed' during my negotiations. Blow the horn within the Bristleback challenge ring west of our position - you can't miss it. I want you to challenge the champion of the Bristleback, Sabersnout, to single combat. His death in front of his followers will leave them in utter chaos.",
+    "name": "Diplomacy By Another Means",
+    "requires_level": 30,
+    "zone": "Southern Barrens"
+}

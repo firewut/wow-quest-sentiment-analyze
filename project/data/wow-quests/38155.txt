@@ -1,0 +1,8 @@
+{
+    "_id": "38155",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "WLK 70-79",
+    "requires_level": 60,
+    "zone": "Quests"
+}

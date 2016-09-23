@@ -1,0 +1,8 @@
+{
+    "_id": "25715",
+    "description": "We've seen countless ships sail past the shore to the southeast, but most pass by inconspicuously.  Several days ago, however, a powerful storm carried several of the ships to shore and left them wrecked.I'd bet a pint of Nethergarde Bitter that they were Horde ships if I didn't love Nethergarde Bitter so much.  I can pay you gold, though, if you'll go check out those ships and report back.",
+    "name": "A Closer Look",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

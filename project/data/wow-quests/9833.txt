@@ -1,0 +1,7 @@
+{
+    "_id": "9833",
+    "description": "One of the reasons Ikuti led us to Zangarmarsh was to help open the lines of communication between the draenei and the Kurenai home city of Telaar in Nagrand. In order for messengers to pass swiftly between Telaar and Telredor, the roads must be secured.On our way here, we were attacked repeatedly by marshfang slicers. We were able to fight them off, but they would pose a formidable threat to a solitary messenger. Reducing their numbers will help ensure the safety of our messengers.",
+    "name": "Lines of Communication",
+    "requires_level": 62,
+    "zone": "Zangarmarsh"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28373",
+    "description": "Okay, I know this is a longshot, but I figure it never hurts to ask.While I deal with the fallout of all the ridiculous nonsense that just went on here, I need you to go speak to some bears. The Timbermaw furbolg control the forests to the northeast, and they're not too fond of us.I just need someone to give them the idea the Horde isn't all that bad. Head northeast up the road to Timbermaw Hold--don't go into Felpaw Village--and ask the furbolg outside if they have any favors they'd like done.",
+    "name": "Timbermaw Hold",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

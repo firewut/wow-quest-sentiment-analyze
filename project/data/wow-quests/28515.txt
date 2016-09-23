@@ -1,0 +1,7 @@
+{
+    "_id": "28515",
+    "description": "I get precious little time away from Searing Gorge these days.  I've been meaning to visit a friend in Burning Steppes for the last several months, but haven't had the chance.His name is Mouton Flamestar.  While he's not a member of the Brotherhood, he's a trusted friend, and definitely trustworthy.Will you send him my regards?  You'll have to travel south, through the base of Blackrock Mountain.  Just keep heading south... you'll find him.Thank you.",
+    "name": "Mouton Flamestar",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

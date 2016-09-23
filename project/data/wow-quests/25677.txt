@@ -1,0 +1,8 @@
+{
+    "_id": "25677",
+    "description": "All over this cavern you'll find unguarded piles of ore, just waiting to be tampered with.  Our first choice would be to steal the ore, obviously, but that requires mine carts, protection, and labor... three things we just don't have.  So instead, we're just going to ruin this little mining party with a little bit of highly corrosive solvent.Take this bottle - CAREFULLY - and pour it onto those heaps of ore.  'Cause if we can't have this ore, then neither can they.",
+    "name": "It's All Mine",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "37981",
+    "added_in_patch": 6.1,
+    "description": "Dear Unadulterated Badass,If you're reading this, you're exactly the sort of tough-as-nails champ in the making we need down at the Ring of Blood in Nagrand.You and two friends are cordially invited to fight for your lives against the toughest creatures this side of Gorgrond. It's positively brutal - and the crowd loves it!Come talk to me to start your first fight - beat four of the fiercest creatures I've got and you'll get a shot at the champ himself!-Gurgthock",
+    "name": "The World Famous Ring of Blood!",
+    "requires_level": 100,
+    "zone": "Nagrand"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31445",
+    "added_in_patch": 5,
+    "description": "If you want to explore all the secrets of the deep ocean, and catch some big fish, speak to my brother Haito at the Anglers Wharf in Krasarang Wilds.I'm sure he'd love to show you a thing or two about reeling!",
+    "name": "zzOld",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

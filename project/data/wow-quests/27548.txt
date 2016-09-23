@@ -1,0 +1,7 @@
+{
+    "_id": "27548",
+    "description": "Our enemies are becoming smarter - adapting to our tactics. Recently an attack was made upon Pyrewood Village, southwest of here. Our troops occupying the town were decimated, of course, but what made the attack especially interesting was the racial composition of the attacking force. No humans were used.<Walden laughs.>Rightfully, they fear being reanimated as Forsaken.Let us teach the non-humans a lesson in fear. Together we will show them what happens to corpses that we cannot use.",
+    "name": "Lessons in Fear",
+    "requires_level": 15,
+    "zone": "Silverpine Forest"
+}

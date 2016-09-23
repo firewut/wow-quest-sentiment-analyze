@@ -1,0 +1,8 @@
+{
+    "_id": "32505",
+    "added_in_patch": 5.2,
+    "description": "You there! Assist me.In life I was the Royal Chamberlain for his majesty, the Thunder King. For my dedication, I was condemned to this stone form, forever forced to watch over a portion of his wealth.Someone has desecrated my glorious body and sent pieces of it across the island. The thought of spending an eternity as nothing more than a head depresses me.Search the island, recover these pieces and I shall grant you one of his majesty's treasures.",
+    "name": "The Crumbled Chamberlain",
+    "requires_level": 90,
+    "zone": "Quests"
+}

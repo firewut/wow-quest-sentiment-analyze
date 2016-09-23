@@ -1,0 +1,8 @@
+{
+    "_id": "42616",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Dvalen Ironrune",
+    "requires_level": 98,
+    "zone": "Warrior Campaign"
+}

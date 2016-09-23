@@ -1,0 +1,8 @@
+{
+    "_id": "42045",
+    "added_in_patch": 7,
+    "description": "Our work here is done, <name>. We have successfully defended the Dreamway. It will be only a matter of time before it is restored to its former state.But we have more important matters at hand.Take the Idol of the Wilds and go onward to Nordrassil. With any luck, they have already gathered. We will meet you there.",
+    "name": "Communing With Malorne",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

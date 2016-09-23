@@ -1,0 +1,7 @@
+{
+    "_id": "26978",
+    "description": "Have you seen the condition of Felstone Field?  The Alliance forces at Andorhal have taken the area, and they're using it to... to... to grow CROPS!I almost liked it better when the Scourge held the area.  At least they had the sense to put a giant plague cauldron in the middle of the field.We're going to take that farm back from these humans, <name>.  Take these drums and place them at key locations around the field.  I'll be waiting here at the Bulwark.",
+    "name": "Who Needs Cauldrons?",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

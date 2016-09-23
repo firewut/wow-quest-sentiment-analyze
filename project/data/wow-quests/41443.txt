@@ -1,0 +1,8 @@
+{
+    "_id": "41443",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Ancient Leystone Deposits",
+    "requires_level": 110,
+    "zone": "Mining"
+}

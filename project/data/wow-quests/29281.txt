@@ -1,0 +1,7 @@
+{
+    "_id": "29281",
+    "description": "These druids be lackin' the tools ta properly handle the job out 'ere. I got meself a buddy back at day ol' stag shrine through the portal though. If we were ta be gettin' reunited, we'd sure have some real toys ta use against ol' Ragboy and 'is cronies.Take some of dem mark things an' go find Matoclaw. Ask her fer Ricket. We need'r here so we can be causin' some real trouble. ",
+    "name": "Additional Armaments",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

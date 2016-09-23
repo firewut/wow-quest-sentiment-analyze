@@ -1,0 +1,7 @@
+{
+    "_id": "25463",
+    "description": "A Highborne mage named Estulan, estranged from his surviving brothers, has built a tower to the east where he trains young night elves in arcane magic.Were it not for Lady Tyrande's recent mercy towards his kind, his execution would be my duty under the law. He will be watched closely, but I will not deny aid to my Sentinels simply out of pride.I've sent Silvia ahead to the Tower of Estulan to begin an offensive against the ogres infesting the nearby forest. Report to her for further orders.",
+    "name": "Report to Silvia",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

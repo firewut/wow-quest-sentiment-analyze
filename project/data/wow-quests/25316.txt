@@ -1,0 +1,7 @@
+{
+    "_id": "25316",
+    "description": "<name>!  We've heard much about you and your previous accomplishments.It is good that you've come here just as Azeroth finds itself in a time of great need.Deathwing's minions are attacking Hyjal and seek to bring the destructive Ragnaros back into our world.Aronus will take you to join Malfurion's forces in Hyjal. Lend them what help you can.",
+    "name": "As Hyjal Burns",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

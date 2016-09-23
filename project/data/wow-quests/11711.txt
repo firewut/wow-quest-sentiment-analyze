@@ -1,0 +1,8 @@
+{
+    "_id": "11711",
+    "description": "We're seeing more deserters show up at our gates with each passing day. We simply do not have enough room to keep all of these maggots caged up. Especially not if we want to keep the pigs happy.<Nork snorts as he laughs.>I want you to escort one of these cowards to the crossroads east of here and fire this flare gun. One of their captains will show up when they see the flare and take the coward off your hands.Report to Scout Tungok on the east road once the delivery has been made.\r\n",
+    "name": "Coward Delivery... Under 30 Minutes or it's Free",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

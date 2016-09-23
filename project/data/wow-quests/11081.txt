@@ -1,0 +1,7 @@
+{
+    "_id": "11081",
+    "description": "This document outlines a revolt planned by the Murkblood broken. It seems that the dragon was to be used as a diversion to draw attention away from their escape. Looking at all of the corpses littering the mine, it would be safe to assume that their plans failed.Return the escape plans to the Mistress of the Mines.",
+    "name": "The Great Murkblood Revolt",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

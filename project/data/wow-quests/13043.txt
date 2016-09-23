@@ -1,0 +1,7 @@
+{
+    "_id": "13043",
+    "description": "Opening the tome, you notice all manner of disgusting illustrations concerning the construction of what the doctor refers to as \"the ultimate weapon\"!Clearly the prototype, Nergeld, is the massive flesh giant standing still at the end of the nearby Hall of Horrors.If an army of those things were to be constructed, then it would mean doom. The only way to ensure that doesn't happen is to slay Dr. Terrible!Perhaps if you were to take control of the construct, the doctor would reveal himself?",
+    "name": "The Sum is Greater than the Parts",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13452",
+    "description": "",
+    "name": "Candy Bucket",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

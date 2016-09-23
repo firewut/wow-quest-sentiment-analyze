@@ -1,0 +1,7 @@
+{
+    "_id": "25453",
+    "description": "I'm a bit confused. The Rage Scar yeti used to be the finest source of leather in these lands... but these pelts are weak and even rotted in spots. Some sort of illness must be plaguing the creatures.I'll have to rely on a different source. The yeti of Feral Scar Vale to the south have hides nearly as strong. They are also a great deal fiercer; do not hunt them without caution, <class>.",
+    "name": "Improved Quality",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

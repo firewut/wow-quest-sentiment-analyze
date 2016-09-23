@@ -1,0 +1,7 @@
+{
+    "_id": "10930",
+    "description": "I was right! These carcasses you brought me belong to maturing worms. Do you know what that means? It means that somewhere out there is a big one! I think we can get it to come out if we can provide the right kind of food. Let's see... something big! Yes!I remember seeing clefthooves east of here on the other side of the Bone Wastes. Get out there and kill a clefthoof. Once it's dead, use the drums. Hopefully the big one will come up to feed. If you manage to kill it, bring me its organs!",
+    "name": "The Big Bone Worm",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

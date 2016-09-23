@@ -1,0 +1,8 @@
+{
+    "_id": "40547",
+    "added_in_patch": 7,
+    "description": "Jabrul was thinking that he'd like to come up to Dalaran and discuss jewel designs with the masters.But Jabrul doesn't know how to get up to it. Jabrul did have an interesting idea that might work.If you mailed Jabrul to Dalaran, then surely he'd arrive safe and sound.",
+    "name": "To Dalaran, With Love",
+    "requires_level": 108,
+    "zone": "Jewelcrafting"
+}

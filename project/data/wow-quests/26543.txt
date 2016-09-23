@@ -1,0 +1,8 @@
+{
+    "_id": "26543",
+    "description": "Nothing tastes like fresh monstrous clam meat, <name>.  I have been so busy with work these past few weeks that I have not been able to make it out to the local clam spawning grounds.  Think you could run down there and gather some of those tasty treats for me?The clams can be found near the shoreline on the eastern coast of Durotar.  Should be plenty right around the Orgrimmar docks.",
+    "name": "Clammy Hands",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Fishing"
+}

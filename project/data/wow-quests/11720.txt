@@ -1,0 +1,8 @@
+{
+    "_id": "11720",
+    "description": "Hellscream assigned Mighthorn and I with the daunting task of magnataur extermination on the southern front of Warsong Hold. With us came an entire platoon of seasoned Horde soldiers. Our initial foray into the nearby magnataur dens proved quite unsuccessful as our entire squad was wiped out by the lair defenders. We're the only ones left...We aren't scientists or researchers. We're soldiers of the Horde, just like you. Soldiers on a mission that cannot fail...Speak to Primal Mighthorn now.",
+    "name": "The Invasion of Gammoth",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

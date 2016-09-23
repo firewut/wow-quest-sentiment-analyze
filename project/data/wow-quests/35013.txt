@@ -1,0 +1,8 @@
+{
+    "_id": "35013",
+    "added_in_patch": 6,
+    "description": "<Kurekk squints at the bangle, rotating it slowly in his claws.>There is an inscription on the inside.\"To my father, may Rukhmar illuminate your path. With love, Lithic.\"It cannot be... This is Terokk's bangle! It was a gift from his daughter, he wore it for years until...Well, we had better return it.Terokk built a memorial to Lithic not far from Talon Watch. It should rest there.",
+    "name": "Lithic's Gift",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "7382",
+    "description": "There's something not quite right about all of this... Did anybody think to burn Korrak's corpse? Those trolls will stop at nothing to revive their fallen leader - as blue skinned pagan man-beasts often do.Just keep your eyes out, <name>. Don't be alarmed if Korrak makes a surprise appearance; and if he does, I want him executed - his corpse burned to ashes.For good measure, lop off his head and bring me his skull before you ignite the lifeless mass.",
+    "name": "Korrak the Everliving",
+    "requires_level": 50,
+    "zone": "Alterac Valley"
+}

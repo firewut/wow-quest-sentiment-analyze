@@ -1,0 +1,7 @@
+{
+    "_id": "27348",
+    "description": "This zeppelin was carrying six months' worth of supplies to us at Mudsprocket! Sure, they've been able to barter for some of what they need, but they won't hold out forever.I've been sent out here to recover what I can of the cargo, but the wreckage is scattered all over the marsh in this area. I'm sure a lot of the cargo didn't survive the crash, but are you willing to help me recover what we can?",
+    "name": "Secure the Cargo!",
+    "requires_level": 36,
+    "zone": "Dustwallow Marsh"
+}

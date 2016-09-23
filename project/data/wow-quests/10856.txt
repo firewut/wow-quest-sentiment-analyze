@@ -1,0 +1,7 @@
+{
+    "_id": "10856",
+    "description": "Brave acts of industrial sabotage will only get us so far, <name>.  Just as Forge Base: Oblivion serves as an assembly site for Fel Reavers, Forge Base: Gehenna serves as a staging ground for their army as it is where the majority of the Legion's teleportation devices are located.I want you to go in there and put a dent in their numbers.  They must have a full regiment of wrathbringers by now and we just can't allow that.",
+    "name": "The Best Defense",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

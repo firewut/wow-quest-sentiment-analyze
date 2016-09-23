@@ -1,0 +1,7 @@
+{
+    "_id": "9792",
+    "description": "You've been honorable in our dealings, <name>, at a time when trust is hard to win among my people.A large group of my brethren have made their home in the old draenei city of Telaar in Nagrand, to the south. To reach Telaar, take the road south into Nagrand, then continue southeast until you find yourself in the cliffs east of Oshu'gun.Anyone who has aided us, as you have, would be welcome among the people of Telaar.Seek out Warden Moi'bff Jill and tell him you have earned my trust.",
+    "name": "A Message to Telaar",
+    "requires_level": 64,
+    "zone": "Zangarmarsh"
+}

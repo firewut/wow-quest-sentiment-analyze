@@ -1,0 +1,8 @@
+{
+    "_id": "32756",
+    "added_in_patch": 5.2,
+    "description": "",
+    "name": "Lei Shen Dead",
+    "requires_level": 90,
+    "zone": "Quests"
+}

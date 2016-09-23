@@ -1,0 +1,8 @@
+{
+    "_id": "40649",
+    "added_in_patch": 7,
+    "description": "It would seem we are fortuitous that you seek G'Hanir this day, <name> - the dryad Mylune arrived not long ago from the sacred shrine where the staff has been guarded for many centuries.Few are privy to its hidden location within the roots of Shaladrassil, but you have certainly earned that right.Speak to Mylune when you are ready to depart - I saw her last just east of here up the hill.",
+    "name": "Meet with Mylune",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

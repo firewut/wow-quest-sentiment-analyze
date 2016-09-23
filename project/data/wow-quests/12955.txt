@@ -1,0 +1,7 @@
+{
+    "_id": "12955",
+    "description": "Mrrfrmrfrrmrrr...<The Leaper clears his throat.>Sorry about that. It can sometimes be hard to understand what I'm saying. You know how it is.I wanted to make sure that if you find yourself at the Savage Ledge, over the mountains to the west, that you make sure to eliminate the competition there.Specifically, I'd like you to challenge to duels and humiliate Sigrid Iceborn, Efrem the Faithful, Onu'zun, and Tinky Wickwhistle in front of the vrykul.",
+    "name": "Eliminate the Competition",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

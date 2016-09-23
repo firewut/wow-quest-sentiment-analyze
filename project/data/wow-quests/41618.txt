@@ -1,0 +1,8 @@
+{
+    "_id": "41618",
+    "added_in_patch": 7,
+    "description": "The Seawarden made a deal with the Tidemistress. She handed us over to him like cattle.I despise that sea giant! If I were not trapped in this bubble, I would choke the life out of him with my own two hands.If you cross his path before I get out of here, make him regret ever making a deal with the naga!",
+    "name": "The Seawarden",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

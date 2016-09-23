@@ -1,0 +1,7 @@
+{
+    "_id": "12986",
+    "description": "Norgannon's Core is not at this location. I am not sure why you seek it, <race>, and I am equally unsure if you truly know the purpose of that which you seek.I would like you to aid me before I consider extending my assistance.  I have recently encountered knowledge of the watcher, Thorim. His seat of power is contested, and his fate remains to be seen. This troubles me, for I do not know of the other watchers. Utilize this databank to examine their temples to the northeast and return the knowledge to me.",
+    "name": "Fate of the Titans",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

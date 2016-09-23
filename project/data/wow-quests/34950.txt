@@ -1,0 +1,9 @@
+{
+    "_id": "34950",
+    "added_in_patch": 6,
+    "description": "Nearby, a group of Iron Horde took over a key strategic position with surprising alacrity.\r\n\r\nThey used a machine they call Dreadpiston to terrible effect in the siege, and I believe we need to destroy that machine before moving against the Iron Horde in Tuurem.",
+    "name": "Dreadpiston",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

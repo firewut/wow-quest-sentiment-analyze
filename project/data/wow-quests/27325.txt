@@ -1,0 +1,7 @@
+{
+    "_id": "27325",
+    "description": "Whatever the Grimtotem are doing with these Drums of War, we don't want them to have them.Don't worry, <name>, we'll figure it all out. But first, we need to gather all of the pieces of the puzzle.",
+    "name": "The Drums of War",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

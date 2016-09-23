@@ -1,0 +1,8 @@
+{
+    "_id": "26542",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Gryphon Master Talonaxe at the aviary in Aerie Peak.Our new brothers in the Alliance need your help to fend off the aggressive Horde offensive in their beloved homeland. Travel north from the Arathi Highlands, through the dwarven mountain pass and follow the road northwest to Aerie Peak.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: The Hinterlands!",
+    "requires_level": 29,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

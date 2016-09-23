@@ -1,0 +1,7 @@
+{
+    "_id": "12891",
+    "description": "When I was in the - ahem - employ of the Lich King, we would often use a device known as a sovereign rod to keep some of the more intelligent Scourge in line.I require that you assist me in the construction of a new one.Luckily for you, all of the necessary components are at hand: a cultist rod, an abomination hook, a geist rope, and a handful of Scourge essences.This should not be difficult, <class>.",
+    "name": "I Have an Idea, But First...",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

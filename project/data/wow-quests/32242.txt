@@ -1,0 +1,8 @@
+{
+    "_id": "32242",
+    "added_in_patch": 5.1,
+    "description": "I am told that the mogu once possessed hundreds of hidden armories full of earth-shattering weapons.When a mogu army prepared for war, they struck fear and terror into the hearts of their enemies.THIS is the knowledge I seek here on Pandaria!I have sent an expedition to study some ruins to the west, but they work as slowly as dim-witted peons!Go speak to Fanlyr Silverthorn, their leader. Tell him that I want to see results immediately.",
+    "name": "Buried Secrets",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

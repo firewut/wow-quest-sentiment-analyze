@@ -1,0 +1,9 @@
+{
+    "_id": "35204",
+    "added_in_patch": 6,
+    "description": "The botani use monstrous insect-like creatures to pollinate their bloom.The pollen they carry has a number of powerful properties that would be of use to your garrison forces.If you bring me a reserve of this pollen I should be able to convert it to something of value.",
+    "name": "Pollen Power",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

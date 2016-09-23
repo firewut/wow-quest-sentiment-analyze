@@ -1,0 +1,7 @@
+{
+    "_id": "9251",
+    "description": "You question why you are still alive. After all, you have in your possession an item of great evil. The answer is not clear, <name>. I only do as I must.Kel'Thuzad sits atop his throne in Naxxramas, plotting... He seeks that which you hold and holds that which you seek.As for the base of the staff; the dwarf, Brann Bronzebeard, held it when he entered Ahn'Qiraj. He has left Ahn'Qiraj but the base of Atiesh remains.Should you succeed in recovering the pieces, return them to me.",
+    "name": "Atiesh, the Befouled Greatstaff",
+    "requires_level": 60,
+    "zone": "Legendary"
+}

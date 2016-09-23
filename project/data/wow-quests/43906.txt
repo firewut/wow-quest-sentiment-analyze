@@ -1,0 +1,8 @@
+{
+    "_id": "43906",
+    "added_in_patch": 7,
+    "description": "While we know that the Nightmare bends the boundary between reality and dream, there is no doubt of the threat upon us. Our own allies have fallen into darkness.",
+    "name": "Into the Nightmare: Fall of Cenarius",
+    "requires_level": 110,
+    "zone": "The Emerald Nightmare"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42658",
+    "added_in_patch": 7,
+    "description": "As I'm sure you've noticed, demons have taken over the vale. Their arrival has forced many of my fellow druids to flee their homes, but I refuse to go down without a fight.Despite all this, I'm happy to provide enchantments for your weapons, but you should know that it is a delicate process that takes time and concentration, something I have little of lately.If you're willing to shelter me from attackers, I will certainly do my best to enchant your weapons.",
+    "name": "Delicate Enchantments",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

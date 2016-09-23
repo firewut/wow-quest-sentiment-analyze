@@ -1,0 +1,7 @@
+{
+    "_id": "26656",
+    "description": "When Deathwing came, the Stone Dragons flocked to him. In his absence, they are again without purpose. They swarm and feed upon our kin.I have bound dozens of Opalescent Guardians, but am unable to lead them from the safety of cover. I need someone more swift, as I suspect you might be.Lead them by ground towards Therazane's Throne to the east. Surely, some will not make it, but as long as you keep moving, you should be able to bring several to join our forces there.",
+    "name": "Don't. Stop. Moving.",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

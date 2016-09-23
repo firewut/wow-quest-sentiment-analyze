@@ -1,0 +1,9 @@
+{
+    "_id": "39571",
+    "added_in_patch": 6.2,
+    "description": "Draenei at the Temple of Sha'naar would mine these mountains for perfect crystals to power our arcane devices. Sadly, the temple is lost to us - we have been betrayed by the Sargerei.<name>, it is imperative that you venture into those mines and secure those crystals before the Sargerei use them in their demonic rituals. If you must kill our former brothers and sisters, so be it.",
+    "name": "Disarming Sha'naar",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

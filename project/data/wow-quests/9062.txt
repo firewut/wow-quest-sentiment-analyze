@@ -1,0 +1,8 @@
+{
+    "_id": "9062",
+    "description": "Those blasted Wretched sure can run fast at the sight of someone who'll stand up to them.  But let's not worry about that now.  I need to find my instructor's elemental grimoire.I'm certain I saw one of those cowards throw it into the river but I cannot seem to be able to locate it.  I could use another set of eyes.  I'll throw in a bit of coin if you spot it.",
+    "name": "Soaked Pages",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

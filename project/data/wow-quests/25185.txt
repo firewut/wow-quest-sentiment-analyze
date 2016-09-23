@@ -1,0 +1,7 @@
+{
+    "_id": "25185",
+    "description": "<You shield your eyes from the blast and the debris as the mine implodes onto itself.><General Twinbraid will be pleased, but somehow you doubt it'll be enough to quench his thirst for vengeance.>",
+    "name": "The Deed Is Done",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

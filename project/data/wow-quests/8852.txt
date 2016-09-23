@@ -1,0 +1,7 @@
+{
+    "_id": "8852",
+    "description": "",
+    "name": "Ten Signets for War Supplies",
+    "requires_level": 20,
+    "zone": "Quests"
+}

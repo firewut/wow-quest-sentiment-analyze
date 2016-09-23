@@ -1,0 +1,8 @@
+{
+    "_id": "12040",
+    "description": "We are in the midst of a civil war. At the heart of this world the last living members of my species defend themselves against total annihilation. The Lich King seeks to rule the kingdom of Azjol-Nerub at any cost. Those that do not acquiesce are branded enemies of the Scourge and marked for death.In Arthas we both have an enemy...Join our cause and rid this place of the taint of Anub'ar! Let Anub'arak himself hear the anguish of their death cries!",
+    "name": "An Enemy in Arthas",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

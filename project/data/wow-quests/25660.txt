@@ -1,0 +1,7 @@
+{
+    "_id": "25660",
+    "description": "You think I'm going to just let you go after you killed me like that, mon? No way! I didn't create a piratical mercantile empire out of nothing just to see you bring me down.You're going to help me get back to life. Find my ex-wife, Ajamon, on the north side of the Holdfast. Just follow your nose. She'll be wherever the stinky brewing cauldron is.",
+    "name": "Haunted",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

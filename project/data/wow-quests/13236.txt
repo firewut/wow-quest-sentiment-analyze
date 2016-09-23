@@ -1,0 +1,7 @@
+{
+    "_id": "13236",
+    "description": "You probably think you're quite strong -- fighting these undead and crushing their bones beneath your war machines.That is nothing compared to the strength it took to create them.I saw the prince do it himself.  I can show you how it happened... if you'd like.",
+    "name": "Army of the Damned",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

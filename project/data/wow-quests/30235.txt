@@ -1,0 +1,8 @@
+{
+    "_id": "30235",
+    "added_in_patch": 5,
+    "description": "Quid is a very powerful and very ancient water spirit, though you might not know it with his child-like ways.This morning, Quid nearly killed several villagers in the bar when he jokingly caused several of the water kegs to explode.As long as the water flows, Quid will remain. He cannot be slain. But he can be reminded that we do not take his dangerous antics in jest.Would you be willing to carry this message to him on behalf of the village?",
+    "name": "Quid Pro Quo",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

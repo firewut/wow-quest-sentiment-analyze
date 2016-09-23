@@ -1,0 +1,8 @@
+{
+    "_id": "31971",
+    "added_in_patch": 5,
+    "description": "I see the triumphant tamer returns to again test  himself against me. Very well. I accept your challenge.",
+    "name": "Grand Master Obalis",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

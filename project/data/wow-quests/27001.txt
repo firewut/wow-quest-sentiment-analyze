@@ -1,0 +1,7 @@
+{
+    "_id": "27001",
+    "description": "The Highlord was generous enough to send some of his recruits to protect us here at the mill.  With your horsemanship skills, and their martial prowess, we can do away with this spider problem easily.Hop back on that mustang and scare those spiders again, but this time, scare them all the way up here to the mill.  These Hearthglen recruits can handle things from there.",
+    "name": "This Means WAR (Wild Arachnid Roundup)",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25178",
+    "description": " Hey handsome, welcome back!  You wouldn't mind running another errand, would you?  I'd be EVER so grateful...m not finished with you yet.;I hear you're headed off to the shore east of here.  The beach is filled with crashed ships, and those ships have gnomish tools in them... tools that I can use. See you soon, beefcake!",
+    "name": "Shipwreck Searching",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

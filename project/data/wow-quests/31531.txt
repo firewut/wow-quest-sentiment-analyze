@@ -1,0 +1,8 @@
+{
+    "_id": "31531",
+    "added_in_patch": 5,
+    "description": "I've identified another high risk target, one that most people would not suspect.The cliff kites soaring above the hills to the east are quite dangerous.I have seen them swooping down to the farms, snatching grain and seed when no one is looking.In order to protect the farms, we must thin their numbers.",
+    "name": "Mission: Aerial Threat",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

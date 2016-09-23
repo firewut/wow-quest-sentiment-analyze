@@ -1,0 +1,8 @@
+{
+    "_id": "14367",
+    "description": "Lord Godfrey is leading the attack near the Forsaken's landing area.  See what you can do to help us keep the Forsaken back.I've been told Godfrey has commandeered the storm cellar in the Allen Farmstead, far to the west.  Seek him there.",
+    "name": "The Allens' Storm Cellar",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

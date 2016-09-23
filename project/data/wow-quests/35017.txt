@@ -1,0 +1,9 @@
+{
+    "_id": "35017",
+    "added_in_patch": 6,
+    "description": "The others... gone or wandered into the haze.  It called to me as well but I am too strong.  I chose to kill until they crushed my body.  I haven't killed enough of them yet $p, not enough!  Go.  Kill more of them and tell my hunt leader that I don't go alone into the dark.",
+    "name": "Skulltaker's Revenge",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

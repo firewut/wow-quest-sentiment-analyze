@@ -1,0 +1,9 @@
+{
+    "_id": "37022",
+    "added_in_patch": 6,
+    "description": "The wolves of Draenor are some of the most savage beasts around, but they've also gotten used to the sights and smells of the orcs and ogres that live here. It shouldn't take us much time at all to train this little ball of fur and death.Let's set it loose against the ogres of the region that yer familiar with. That Gorian Beast-Lasher, the one that smells of blood and fear, go on and see how your wolf reacts to that.",
+    "name": "Wolf Training: Cruel Ogres",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

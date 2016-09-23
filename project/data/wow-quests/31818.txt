@@ -1,0 +1,9 @@
+{
+    "_id": "31818",
+    "added_in_patch": 5,
+    "description": "Think you can take me again, eh?",
+    "name": "Zunta",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Battle Pets"
+}

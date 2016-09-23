@@ -1,0 +1,7 @@
+{
+    "_id": "12659",
+    "description": "I thinkin' it be time to do some scalpin', mon!The trolls at Heb'Drakkar to the northeast should do nicely. With their fancy bats and attackin' us, they got it comin'!Ahunae even give you his own knife so that you do the job right.",
+    "name": "Scalps!",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

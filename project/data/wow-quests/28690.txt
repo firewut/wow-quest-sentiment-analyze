@@ -1,0 +1,7 @@
+{
+    "_id": "28690",
+    "description": "Forgotten Hill has been overrun with zombies and ghouls ever since we reclaimed this wretched isle.  We have tried to clear them out many times but they always seem to come back.One of our lieutenants recommended taking the ghouls' bones when we kill them in hopes that they can't reincarnate overnight.  Think you can help us out with this one?",
+    "name": "Salvaging the Remains",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10360",
+    "description": "",
+    "name": "A Donation of Silk",
+    "requires_level": 26,
+    "zone": "Silvermoon City"
+}

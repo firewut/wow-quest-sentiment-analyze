@@ -1,0 +1,7 @@
+{
+    "_id": "25796",
+    "description": "It is our destiny to take this oil. Unfortunate that the centaur retreated to here when the sea rushed in.Unfortunate for them, that is.They've spit in our faces, <name>. We made them a generous offer and they made the mistake of not accepting. Now we... you, will show them the error of their ways.Clear the centaur off of the Splithoof Heights. The oil must flow!",
+    "name": "Eminent Domain",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

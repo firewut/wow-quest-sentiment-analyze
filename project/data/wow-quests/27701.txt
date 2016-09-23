@@ -1,0 +1,7 @@
+{
+    "_id": "27701",
+    "description": "Lirastrasza is the last and greatest of the red dragons that the Twilight's Hammer captured. They're about to kill her, <class>.You need to take the Elementium Axe and free her from her bonds before they do.",
+    "name": "Dragon, Unchained",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

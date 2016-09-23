@@ -1,0 +1,9 @@
+{
+    "_id": "37037",
+    "added_in_patch": 6,
+    "description": "Deep in the forests of Nagrand are some beasts capable of evading almost any predator. The greatest of them all, the Moth of Wrath, is coated with a foul-smelling dust.If the moth dust is enough to keep wolves at bay, it will probably be a pretty good test for your boar. See if you can keep it focused and defeat the moth.",
+    "name": "Boar Training: Moth of Wrath",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Nagrand"
+}

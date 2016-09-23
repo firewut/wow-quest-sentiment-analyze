@@ -1,0 +1,9 @@
+{
+    "_id": "34048",
+    "added_in_patch": 6,
+    "description": "My patented \"Come to Papa\" voice command was only the first step.I also programmed all of my mole machines with a \"Go Home\" command that'll send 'em auto-diggin' to a pre-determined location - my workshop in Gorgrond!Let's send the mole machines home before the orcs stink 'em all up with their stupid breath and their sweaty... leather... thongs.<You hear Thaelin gagging a little from inside The Suit.>Blech!",
+    "name": "\"Mole Machine, Go Home\"",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

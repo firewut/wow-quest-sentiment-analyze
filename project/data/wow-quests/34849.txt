@@ -1,0 +1,9 @@
+{
+    "_id": "34849",
+    "added_in_patch": 6,
+    "description": "When they clapped me in irons, the Burning Blade instructor, Luhk the Keen-Eyed, took my blade. He's an honorable orc, even if his training techniques are counter-productive.I want my blade back, <class>. Then, I'll break myself free.",
+    "name": "The Blade Itself",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

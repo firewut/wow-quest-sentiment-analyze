@@ -1,0 +1,7 @@
+{
+    "_id": "13138",
+    "description": "<Olakin turns one of the shards over in an armored fist.>These could pierce armor with enough force. We have to find out what they're made of and what the Lich King intends to do with them.To the east, nestled next to Icecrown Citadel itself, lies Malykriss. From the few reports we have, it's full of smelting and smithing equipment. Bring these shards there, and smelt them in one of the open furnaces on the bottom level of Malykriss. Once the metal has been reformed, we can identify it.",
+    "name": "I'm Smelting... Smelting!",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

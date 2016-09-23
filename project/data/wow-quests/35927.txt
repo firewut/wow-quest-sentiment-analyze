@@ -1,0 +1,8 @@
+{
+    "_id": "35927",
+    "added_in_patch": 6.2,
+    "description": "",
+    "name": "Forsaken Brains",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

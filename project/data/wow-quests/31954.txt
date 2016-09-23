@@ -1,0 +1,8 @@
+{
+    "_id": "31954",
+    "added_in_patch": 5,
+    "description": "This time I'm gonna do the beating! You watch!",
+    "name": "Grand Master Mo'ruk",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24602",
+    "description": "In our hurried escape for safety, we disturbed the resting homes of our ancestors, <name>.  A grave sin, if you'll pardon the pun.It is tradition that a small memento be buried on top of a Gilnean's graveyard, beneath the shallow earth.  The stampede of people fleeing these tunnels has unearthed these mementos and angered the spirits.Find them and bring them to me.  We'll see to it that the dead return to their eternal slumber.",
+    "name": "Laid to Rest",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

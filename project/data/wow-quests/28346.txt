@@ -1,0 +1,7 @@
+{
+    "_id": "28346",
+    "description": "We need to make this work, <name>. The answer is in the blood! Family bonds have kept these Wildhammer clans apart from one another. It'll take family bonds to glue 'em back together. It's a long shot, but we're going to have to play matchmaker!I'll track down Colin Thundermar and talk with him. You're a smooth one - you should talk to Keegan Firebeard inside. He's sharp enough to understand a political marriage. Go find out if he fancies anyone!",
+    "name": "The Bachelor",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12291",
+    "description": "The toxins in the murkweed elixir will render you unconscious. So powerful is the effect of the murkweed that even your spirit will be fooled, allowing you to temporarily enter the world of the dead.Once a spirit, you must speak to the ghostly denizens of the Forgotten Shore. Seek out the cause of their anguish and return to me.Remember, <name>, these spirits were once Alliance soldiers. Treat them with respect, honor and dignity.Now, with elixir in hand, venture south to the Forgotten Shore.",
+    "name": "The Forgotten Tale",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42968",
+    "added_in_patch": 7,
+    "description": "You are right, Highlord. Our military efforts cannot succeed without solid logistics.That means we need a steady supply of weapons, food, medicine, and other provisions.Let us send our champions to establish a supply line.",
+    "name": "The Highlord's Command",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

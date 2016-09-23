@@ -1,0 +1,7 @@
+{
+    "_id": "29349",
+    "description": "One of the great delicacies of Mulgore is the crayfish that dwell in our lakes and streams. They are particularly popular during weddings or the celebration of a birth.Would you help me catch some of these crafty crustaceans for the cooking pots of Thunder Bluff?You can fish them up from Stonebull Lake, or simply dive in and grab them.",
+    "name": "Craving Crayfish",
+    "requires_level": 10,
+    "zone": "Fishing"
+}

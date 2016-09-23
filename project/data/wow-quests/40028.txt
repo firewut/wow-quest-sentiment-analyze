@@ -1,0 +1,8 @@
+{
+    "_id": "40028",
+    "added_in_patch": 7,
+    "description": "As you finish gathering the foxflower, a particular part of the bloom catches your eye.One of the leaves has a small protuberance, right where it meets the stem. Further investigation suggests that this is where the foxflower's unusual smell comes from.Your herbalism trainer would be interested in seeing this.",
+    "name": "The Pied Picker",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

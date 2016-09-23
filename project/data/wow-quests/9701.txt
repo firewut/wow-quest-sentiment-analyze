@@ -1,0 +1,7 @@
+{
+    "_id": "9701",
+    "description": "We need to learn all that we can of the sporelings at Sporeggar and their relationship to the creatures around them.  One way to do that is what I'm doing; passive observation while making a note of their interactions.I need you to head over to the Spawning Glen to the west.  Investigate the whole area and then return to tell me what you saw.",
+    "name": "Observing the Sporelings",
+    "requires_level": 61,
+    "zone": "Zangarmarsh"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39372",
+    "added_in_patch": 7,
+    "description": "You saved me at Riverbend not long ago. It is the reason I vouched for you as emissary to this tribe, and the only reason you're alive here now. I consider my debt to you paid.\r\n\r\nYou must prove yourself to the Bloodtotem chieftain before he will speak with you.\r\n\r\nWithin the forest is the Witch of the Wood, a harpy mother who recently descended into this territory. If you are able to defeat her and show her carcass to the Bloodtotem, they might allow you an audience with Torok.",
+    "name": "Witch of the Wood",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

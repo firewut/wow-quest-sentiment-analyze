@@ -1,0 +1,8 @@
+{
+    "_id": "39769",
+    "added_in_patch": 7,
+    "description": "Go talk to the Bluewax Gatekeeper and see if he will let you through to the Candleking. If you can get through by donning the skull, the smell will be worth it.",
+    "name": "The Gates of Wax",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

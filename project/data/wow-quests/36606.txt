@@ -1,0 +1,9 @@
+{
+    "_id": "36606",
+    "added_in_patch": 6,
+    "description": "Welcome back, sir.\r\n\r\nOne of Bodrick's men delivered a message about a caravan being dispatched for Nagrand. He's awaiting your approval on a new outpost.\r\n\r\nI've been hearing whispers around camp about Nagrand. They say it's Warsong territory. They might need your help sir.",
+    "name": "News from Nagrand",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39657",
+    "added_in_patch": 6.2,
+    "description": "",
+    "name": "Candy Bucket",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

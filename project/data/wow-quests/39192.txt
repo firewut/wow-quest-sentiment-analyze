@@ -1,0 +1,8 @@
+{
+    "_id": "39192",
+    "added_in_patch": 7,
+    "description": "This Forge has been working for longer than your race has existed; we might know a few things. Your weapon is powerful, it will take my personal forge in order to work it.\r\n\r\nWe can work the artifact to provide various improvements, provided you have enough experience with it. Let's give it a try shall we?",
+    "name": "The Forge of Odyn",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

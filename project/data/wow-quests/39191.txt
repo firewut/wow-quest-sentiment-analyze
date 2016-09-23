@@ -1,0 +1,8 @@
+{
+    "_id": "39191",
+    "added_in_patch": 7,
+    "description": "The greatest warrior should wield the greatest weapons. Long ago a great king, Magnar Icebreaker, wielded weapons crafted from a scale of the mightiest dragon in the land. He should be here, but he is not. Instead he languishes in his tomb.\r\n\r\nHis son, Hruthnir, is here. He will lead you to the tomb. If Magnar can be saved, do so. Either way, return with his weapons.",
+    "name": "Legacy of the Icebreaker",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

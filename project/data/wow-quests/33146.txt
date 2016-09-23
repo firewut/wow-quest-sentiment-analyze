@@ -1,0 +1,8 @@
+{
+    "_id": "33146",
+    "added_in_patch": 5.4,
+    "description": "Hello, <name>. Care to work the noodle stand again?Just let me know when you're ready to work another shift and I'll get everything set up.",
+    "name": "Noodle Time",
+    "requires_level": 90,
+    "zone": "Cooking"
+}

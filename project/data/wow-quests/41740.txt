@@ -1,0 +1,8 @@
+{
+    "_id": "41740",
+    "added_in_patch": 7,
+    "description": "There are many ways to commune with the elements. In their ingenuity, the goblins have found ways to imbue their mechanical devices with the energy of elemental spirits. I do not pretend to understand. But in our hour of need, we should not hesitate to embrace a diversity of options.We are fortunate to have at our disposal the services of the one they call \"Goldmine,\" whose unorthodox research may significantly augment our power. He waits nearby.",
+    "name": "Tech It Up A Notch",
+    "requires_level": 101,
+    "zone": "Shaman Campaign"
+}

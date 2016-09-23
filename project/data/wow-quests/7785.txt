@@ -1,0 +1,7 @@
+{
+    "_id": "7785",
+    "description": "Examine the vessel of his rebirth, mortal. It is from this that the Windseeker shall be reborn!",
+    "name": "Examine the Vessel",
+    "requires_level": 60,
+    "zone": "Legendary"
+}

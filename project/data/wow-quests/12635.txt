@@ -1,0 +1,7 @@
+{
+    "_id": "12635",
+    "description": "I overheard that you are going to see to the well-being of Har'koa. Good luck to you.I am wondering if while you are in the vicinity of the altar, you would be willing to recover their relics? I do not require many, and it is only a short trip to the southeast.What do you say?",
+    "name": "Relics of the Snow Leopard Goddess",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

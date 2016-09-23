@@ -1,0 +1,9 @@
+{
+    "_id": "37038",
+    "added_in_patch": 6,
+    "description": "The elements can sometimes pose a problem for some beasts. Even the mightiest wolf will often cower at the sound of thunder in the distance.In Nagrand, off on a windswept cliff high above the shore, is a creature made of pure thunderstorms. Hop atop your beast and face off against Thundercall, and we will see how your mount fares.",
+    "name": "Boar Training: Thundercall",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Nagrand"
+}

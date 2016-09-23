@@ -1,0 +1,8 @@
+{
+    "_id": "31190",
+    "added_in_patch": 5,
+    "description": "I'm not gonna sit in a damn rocking chair while my crew gets devoured by a leviathan!Come on, let's get to the dock and launch a dinghy. I got a special one set up just for this kind of situation. My own little Mist-Hopper Jr.We'll give that thing a case of harpoon fever.",
+    "name": "The Mariner's Revenge",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

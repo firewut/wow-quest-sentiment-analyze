@@ -1,0 +1,8 @@
+{
+    "_id": "38954",
+    "added_in_patch": 7,
+    "description": "That's strange. Lyndras was here one moment, and then he ran off the next. He had such a strange look on his face.Perhaps we should track him down.",
+    "name": "Where's Lyndras?",
+    "requires_level": 104,
+    "zone": "Tailoring"
+}

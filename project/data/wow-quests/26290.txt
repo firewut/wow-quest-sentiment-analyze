@@ -1,0 +1,8 @@
+{
+    "_id": "26290",
+    "description": "Helix has got himself holed up inside Klaven Mortwake's old tower. I won't lie to you, <name>, it's heavily guarded. I count six armed mercenaries just on the outside. There's no way you're getting inside that tower by yourself. Lucky for you, Claire and I are here.<Kearnen pats her sniper rifle.>I'll cover your entry.Take this shrouding potion, you'll need it once you get inside. Use it as soon as you enter the tower and head upstairs. Find out what Helix is hiding up there!",
+    "name": "Secrets of the Tower",
+    "requires_level": 11,
+    "side": "alliance",
+    "zone": "Westfall"
+}

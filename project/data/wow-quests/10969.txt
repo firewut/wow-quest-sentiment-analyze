@@ -1,0 +1,7 @@
+{
+    "_id": "10969",
+    "description": "It would seem that an outside force has taken an interest in the business practices of the Consortium. Five Consortium dealers have gone missing in the past two days. We have reason to believe the Ethereum are involved. If you are interested in assisting, seek out Commander Ameer at the Protectorate Watch Post.You will find the Protectorate Watch Post directly east of here on the next island. \r\n",
+    "name": "Seek Out Ameer",
+    "requires_level": 70,
+    "zone": "Netherstorm"
+}

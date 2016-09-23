@@ -1,0 +1,7 @@
+{
+    "_id": "25091",
+    "description": "If you're looking for more work, I've got a line for you. I know an elf by the name of Trenton Lighthammer who's been obsessed with the sand trolls near here for years. He's dead-set on finding some kind of mythical sword made by them, and just a while ago he finally got a crew together to go to Sandsorrow Watch and look for it.Last I heard, they kicked the trolls out of one of their camps and set up shop there. Look for it to the west, near Zul'Farrak.",
+    "name": "Sandsorrow Watch",
+    "requires_level": 43,
+    "zone": "Tanaris"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41234",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Shaggy Saber Hide",
+    "requires_level": 110,
+    "zone": "Mining"
+}

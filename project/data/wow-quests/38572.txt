@@ -1,0 +1,8 @@
+{
+    "_id": "38572",
+    "description": "I can build you a shipyard. And not some wasteful piece of over-engineering like this place.But I'm going to need my blueprints. My work was confiscated when Gul'dan turned this harbor over to Admiral Knar.<Roark spits.>Gul'dan's green poison courses through Knar's veins. He's calling the shots from on high. We'll need to grapple up there to take him out.",
+    "name": "Hook, Line, and... Sink Him!",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

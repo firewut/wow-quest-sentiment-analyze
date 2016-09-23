@@ -1,0 +1,7 @@
+{
+    "_id": "26154",
+    "description": "NOW, TAKE... THE ATTUNED RUNESTONE... AND USE... IT TO POSSESS... ONE OF... THE BOUND TORRENTS... AT... THE CENTRAL TEMPLE. THEY WILL IGNORE... YOU. YOU ARE BENEATH... THEIR NOTICE.USE... THE ELEMENTAL'S POWERS... TO DESTROY... THE TWILIGHT DEVOTEES... AND... THEIR... FACELESS OVERSEERS.",
+    "name": "Twilight Extermination",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27940",
+    "description": "The sky above the Shriveled Oasis is littered with these nasty vultures.Like infectious rodents with wings, these creatures serve no great purpose and inflict untold misery.Rid the skies of this nuisance and leave the region better than you found it.",
+    "name": "Dirty Birds",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

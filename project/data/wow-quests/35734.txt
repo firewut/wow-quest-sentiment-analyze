@@ -1,0 +1,8 @@
+{
+    "_id": "35734",
+    "added_in_patch": 6,
+    "description": "<As Reshad begins reciting a tale of Terokk's glory days, your eyes fall to the twin swords at the effigy's belt.\r\n\r\nThey had seemed so plain in Skettis, but now they thrum with power, as if reacting to the scrollkeeper's words.>",
+    "name": "The Talon King",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

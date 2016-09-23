@@ -1,0 +1,8 @@
+{
+    "_id": "11792",
+    "description": "Not so fast there.  I don't know about you, <class>, but I was hardly convinced by the general's words.  They rung unsure... as if they were not his own.Something's amiss here.  All of our efforts to collaborate have been blocked and delayed.  It is time we took a more independent approach.If we're to learn more about the cultists inside the keep... perhaps we should investigate those outside.Intelligence reports a small group of them aiding the Scourge north of here.  See if they carry any clues.",
+    "name": "Enemies of the Light",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

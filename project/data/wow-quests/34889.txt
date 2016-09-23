@@ -1,0 +1,9 @@
+{
+    "_id": "34889",
+    "added_in_patch": 6,
+    "description": "There's a minor fire we'll need to put out before we can enact my plan.Morkurk has placed powerful wards throughout Gordal Fortress that will prevent any sort of mass summoning - awfully detrimental to our scroll of mass teleportation.Thankfully, no ogre would ever consider that a single enemy or two would have the gall to breach their walls.",
+    "name": "Orbs of Power",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

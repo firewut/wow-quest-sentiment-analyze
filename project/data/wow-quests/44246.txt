@@ -1,0 +1,8 @@
+{
+    "_id": "44246",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Rottgut",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

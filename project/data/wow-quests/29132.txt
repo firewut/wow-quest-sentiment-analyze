@@ -1,0 +1,8 @@
+{
+    "_id": "29132",
+    "description": "I expected that I would find you here, <class>. But then, we of the bronze flight have somewhat of an advantage when it comes to such things.<Coridormi smiles.>For reasons unknown to me, my master seeks audience with you.I would counsel you not to take this invitation lightly, <name>. Anachronos seldom has cause to interact with mortals. Wisdom would dictate that you seek him out in the Caverns of Time at once.Speak to me when you are ready and I shall personally deliver you.",
+    "name": "A Legendary Engagement",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

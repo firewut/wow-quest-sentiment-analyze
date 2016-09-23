@@ -1,0 +1,8 @@
+{
+    "_id": "11895",
+    "description": "From what you describe, the creatures of metal should be easy to deal with. But first, you must master the storm.Behind me in the lodge is a totem. When you are ready, focus your will upon it and the storm will come. You must defeat the storm and in so doing take its essence into yourself.If others are there, it is enough that you all work together to defeat it. Return to me after, <class>.",
+    "name": "Master the Storm",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

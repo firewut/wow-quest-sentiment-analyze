@@ -1,0 +1,9 @@
+{
+    "_id": "32942",
+    "added_in_patch": 5.4,
+    "description": "<Yoon keeps the details of this order short, but detailed.>Another request has come through for the Horde. The Sunreaver Onslaught, located out on the Isle of Thunder, has requested a bushel of scallions.Though this Horde and Alliance conflict still gets my fur in a bristle, I won't turn away a hungry stomach.",
+    "name": "Work Order: Sunreaver Onslaught I",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Valley of the Four Winds"
+}

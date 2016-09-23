@@ -1,0 +1,7 @@
+{
+    "_id": "12434",
+    "description": "",
+    "name": "Always Seeking Solvent",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

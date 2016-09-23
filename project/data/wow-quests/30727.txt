@@ -1,0 +1,8 @@
+{
+    "_id": "30727",
+    "added_in_patch": 5,
+    "description": "Ellia Ravenmane requested a rematch with you. She seems to identify you as her \"rival\".We discourage rivalries here within the Cradle of Chi-Ji, but we rarely decline a rematch request. You will find Ellia near the Pedestal of Hope, on the island's eastern side.",
+    "name": "Ellia Ravenmane: Rematch",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

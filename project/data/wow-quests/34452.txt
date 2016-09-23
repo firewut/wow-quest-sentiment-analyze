@@ -1,0 +1,9 @@
+{
+    "_id": "34452",
+    "added_in_patch": 6,
+    "description": "With the brute force of our enemy neutralized, we must turn our sights on quelling the aftermath and preparing for any future assaults. We still need Auchindoun's defenses reinvigorated.Meet me at Light's Rest, not far south of here. We have reports coming in of demonic taint in the area, and we may be able to track down the remaining power crystal shards at its source.",
+    "name": "Light's Rest",
+    "requires_level": 95,
+    "side": "alliance",
+    "zone": "Talador"
+}

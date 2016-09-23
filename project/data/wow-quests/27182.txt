@@ -1,0 +1,8 @@
+{
+    "_id": "27182",
+    "description": "The marsh seems to have a strange effect on humans. Some grow mad simply by living here.Anyone who has ever settled at Swamplight Manor has gone mad in a spectacular way. The latest owner, one \"Swamp Eye\" Jarl, is already showing signs.I don't completely understand what's happening there, you'd have my thanks for looking into it.The manor is at the eastern edge of the swamp. Trek east across Bluefen and past North Point Tower. The manor is in a haunted patch of land called Witch Hill.",
+    "name": "The Hermit of Witch Hill",
+    "requires_level": 34,
+    "side": "horde",
+    "zone": "Dustwallow Marsh"
+}

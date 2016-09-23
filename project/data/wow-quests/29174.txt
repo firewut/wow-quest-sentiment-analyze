@@ -1,0 +1,7 @@
+{
+    "_id": "29174",
+    "description": "A city like Zul'Gurub is similar to one of the many towering trees you see nearby.The trunk may be thick, and the canopy vast and leafy, but without nutrients from the roots far below, the tree will wither and fall.Jin'Do's army is fed largely by the actions of two minor Gurubashi trolls.  Sever these roots, and the city will fall all the easier.",
+    "name": "Break Their Spirits",
+    "requires_level": 85,
+    "zone": "Quests"
+}

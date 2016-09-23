@@ -1,0 +1,7 @@
+{
+    "_id": "27651",
+    "description": "They already left to hunt down the ettin that lead the attack on Dunwald. I asked them to at least give ya a chance to catch up, but I'm not sure waitin's in their blood.They made off towards the town square, in the center of the ruins. You should go join'm before ya miss out on all the fun.",
+    "name": "Doing It Like a Dunwald",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

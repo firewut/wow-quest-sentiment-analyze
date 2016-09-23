@@ -1,0 +1,8 @@
+{
+    "_id": "42683",
+    "added_in_patch": 7,
+    "description": "Having Loramus back will work greatly to our advantage, despite the fact that he's trapped inside Razelikh's body... and also that the demon sometimes takes control.\r\n\r\nStill, he was one of our most powerful demon hunters. And now, he also has the knowledge of a dreadlord at his disposal.\r\n\r\nI think we should have him share his knowledge and wisdom with us to improve our odds in this war.",
+    "name": "Demonic Improvements",
+    "requires_level": 101,
+    "zone": "Demon Hunter Campaign"
+}

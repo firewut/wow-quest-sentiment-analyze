@@ -1,0 +1,8 @@
+{
+    "_id": "834",
+    "description": "I'm Rezlak, one of Gazlowe's boys. Boss sent me to help the orcs here in Durotar. Things'd been going good except for the caravans. Can't manage to keep them safe! Makes my job a little harder, you know?The last shipment, which they PROMISED would get through, was snatched by the Dustwind harpies of...where was it...Razorwind Canyon?I gotta have those supplies! Follow the big canyon to the south, you'll find the ravine cut right into the west and east sides of the walls.",
+    "name": "Winds in the Desert",
+    "requires_level": 7,
+    "side": "horde",
+    "zone": "Durotar"
+}

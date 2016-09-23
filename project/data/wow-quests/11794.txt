@@ -1,0 +1,8 @@
+{
+    "_id": "11794",
+    "description": "I've made it my business to learn as much as possible about the vile death cult, including their secret language.Vurenn was right.  The cultists mention disguised operatives in various locations in Valiance Keep: the lower docks, the jail inside the inner hold and in the inn's kitchen.Take this oculus.  Use it at those three locations - anyone that has recently used the cult's necromancy will be enshrouded by a dark aura.  Take care of the cultists before something nefarious happens.",
+    "name": "The Hunt is On",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

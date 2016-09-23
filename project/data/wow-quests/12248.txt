@@ -1,0 +1,7 @@
+{
+    "_id": "12248",
+    "description": "The druids of old seem to have had good reasons for destroying Vordrassil.  We cannot let the furbolgs regrow it.On the other hand, saving Ursoc's spirit hinges on the magic contained by the sapling.Take this torch and use it to burn the tree.  You will find it in the middle of Grizzlemaw, inside Vordrassil's old trunk.Bring me Vordrassil's ashes.  It is my hope that once purified by fire, we may use its magic to cleanse Ursoc's spirit of its dark taint.",
+    "name": "Vordrassil's Sapling",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

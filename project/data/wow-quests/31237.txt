@@ -1,0 +1,8 @@
+{
+    "_id": "31237",
+    "added_in_patch": 5,
+    "description": "If this Empress is truly possessed by fear and paranoia, she will have sent scouts to every corner of the land in order to cement her control.These scout grubs are likely everywhere, but difficult to spot with the naked eye. Better to track them by the pheromone trails they leave behind.I've already... gifted you... a reactive toxin that will reveal these trails to you for a brief time after experiencing the thrill of victory.Go now to the Terrace of Gurthan and root out these spies.",
+    "name": "Debugging the Terrace",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

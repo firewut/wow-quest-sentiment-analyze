@@ -1,0 +1,9 @@
+{
+    "_id": "29900",
+    "added_in_patch": 5,
+    "description": "My father has dedicated his life to studying the Vale of Eternal Blossoms.The Vale is a mythical place, sealed after the Pandaren revolution twelve thousand years ago. We know so little about it!My father followed a trail of clues to the cave down the hill, seeking a very old poem known as the Song of the Vale, but he is in no condition to retrieve it. It is guarded by some sort of ancestor spirit.If you are heading that way anyway, would you mind bringing it back to him?",
+    "name": "An Ancient Legend",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

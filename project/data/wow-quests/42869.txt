@@ -1,0 +1,8 @@
+{
+    "_id": "42869",
+    "added_in_patch": 7,
+    "description": "<Kor'vas glances at your glaives, her eyes widening.>I'm excited to see what those can do in person! Maybe we can spar a bit before heading out on the next hunt?While you were gone we built a camp just off of this landing to help us watch over the Legion's movements. We should head there right away - Jace needed your help with something. It sounded big!",
+    "name": "Eternal Vigil",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

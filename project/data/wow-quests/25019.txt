@@ -1,0 +1,7 @@
+{
+    "_id": "25019",
+    "description": "We are not the only ones who have discovered the value of the Southmoon Ruins. The dwarves of the Explorers' League have swarmed there, taking artifacts and inscriptions for the Alliance.I don't think I have to explain much further. We will not allow the discoveries here to fall into the hands of the Alliance. Slay as many dwarves as you can, and drive them from the ruins!",
+    "name": "Laying Claim",
+    "requires_level": 46,
+    "zone": "Tanaris"
+}

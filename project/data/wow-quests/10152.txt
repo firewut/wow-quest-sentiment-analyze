@@ -1,0 +1,7 @@
+{
+    "_id": "10152",
+    "description": "In addition to other instructions, the orders tell the remaining fel orcs to prepare their equipment and rations for a coming attack.According to the plans, Warboss Nekrogg's forces are to form the western flank of a pincer attack on Thrallmar.With the town's garrison concentrating on its eastern walls, an attack from the west would be devastating. Thrallmar can only hope to hold out if the western forces are kept out of the battle.",
+    "name": "The Western Flank",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

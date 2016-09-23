@@ -1,0 +1,8 @@
+{
+    "_id": "32640",
+    "added_in_patch": 5.2,
+    "description": "This island is riddled with lurking threats from three powerful groups, waiting for the chance to pounce on us. Masters of lightning, ancient and powerful spirits, and primal Zandalari monstrosities.If you can get your hands on some of the Shan'ze Ritual Stones scattered across the isle, you should be able to beckon these powerful opponents out of hiding and strike out at them.Find and destroy members of each group to keep them destabilized, and I will make it worth your time.",
+    "name": "Champions of the Thunder King",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13165",
+    "description": "The haze has been lifted. I can see as clearly now as the day that I plunged the Ashbringer into my own heart to free my father's cursed soul: my last memory as a free man.We must take back Acherus from the Scourge if our order is to survive in this new world. I have taught you how to call forth a death gate. The death gate will return you to Acherus when you call upon it, <name>. Use it now and meet me at Acherus. The first battle of the Knights of the Ebon Blade is underway! Death to the Scourge!",
+    "name": "Taking Back Acherus",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

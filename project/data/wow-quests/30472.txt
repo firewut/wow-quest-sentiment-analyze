@@ -1,0 +1,8 @@
+{
+    "_id": "30472",
+    "added_in_patch": 5,
+    "description": "Sho - that girl who lives up in the mountains - is in town today. I saw her walking toward the Halfhill Market.Such a long walk... she must be hungry! And I think I know just the thing that she'll like.The hozen up on the Skyrange cook a soup out of fish and apples. It sounds gross, I know... but it's awesome. You'll find it near their big, scary totem.",
+    "name": "A Gift For Sho",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

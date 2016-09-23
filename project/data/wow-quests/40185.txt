@@ -1,0 +1,8 @@
+{
+    "_id": "40185",
+    "added_in_patch": 7,
+    "description": "During one of our recent battles, my brother, Lohrumn, was slain. His armor was taken by the drogbar.You would honor his memory by retrieving what has been stolen. I will make it worth your while, leatherworker.",
+    "name": "Shoulder the Burden",
+    "requires_level": 102,
+    "zone": "Leatherworking"
+}

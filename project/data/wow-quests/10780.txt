@@ -1,0 +1,7 @@
+{
+    "_id": "10780",
+    "description": "There is one last element missing from the staff. We must direct the staff's power toward the Dark Conclave spirits.We can do that by gathering feathers scattered on the ground at the Sketh'lon Base Camp and using them in the staff. The base camp is to the south, east of Wildhammer Stronghold.Gul'dan's magic utterly destroyed my brethren, leaving only their spirits, but it did not stop there. The magic fed on the spell the arakkoa were preparing, forging a sinister force that engulfed the spirits.",
+    "name": "Sketh'lon Feathers",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10206",
+    "description": "Those ethereal clowns are as opportunistic as us, I'll give them that.  But no one, and I mean NO ONE, moves in on a B.O.O.M. claim!The Heap to the south is ours!If we're to finish the X-52 Nether-Rocket, we're going to need all of the new tech that we can get our hands on.  And since the ethereals are stealing from us, I think it's only fair that we repay them in kind.Why don't you head down there and see if you can acquire some of their technology out from under their noses!",
+    "name": "Pick Your Part",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

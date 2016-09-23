@@ -1,0 +1,8 @@
+{
+    "_id": "30964",
+    "added_in_patch": 5,
+    "description": "A dry bandage doesn't do much good, other than maybe keeping bugs out of the wound. In some camps, that's the best you can hope for.Not in my camp, though.I prefer to make a paste from whatever soothing herbs I can find, and layer that between bandages. The most soothing herbs I've been able to find in the field are the Mao-Willows from the fields in the northeast. If you run into any, bring them back.",
+    "name": "A Proper Poultice",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

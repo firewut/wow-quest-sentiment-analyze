@@ -1,0 +1,7 @@
+{
+    "_id": "3382",
+    "description": "We were just off the coast looking for a safe haven to make anchor. The sun hadn't been down for more than an hour when they attacked... those damned naga!I'm not sure what they were looking for, but it's clear they didn't find it--they've already come back once. A couple of my scouts are on watch at the entrance of the valley to give us fair warning when the next attack comes.I'm sorry you've come along now, <name>, but it's out of my hands.Are you ready for the fight of your life?",
+    "name": "A Crew Under Fire",
+    "requires_level": 48,
+    "zone": "Azshara"
+}

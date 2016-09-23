@@ -1,0 +1,8 @@
+{
+    "_id": "14482",
+    "description": "Citizen!As you may have heard, the Horde's attacking just offshore. The fighting's been fierce and relentless.We need every able body out there repelling the enemy!Report to the northernmost dock at once for transport to the battle.Oh, and our official warships are... err, a bit late in their scheduled return. Don't worry though, we've commissioned mercenary vessels to serve in the meantime.Hurry along now, <class>. Stormwind needs you!",
+    "name": "Call of Duty",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

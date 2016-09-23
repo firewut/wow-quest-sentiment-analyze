@@ -1,0 +1,7 @@
+{
+    "_id": "13286",
+    "description": "Desperate times, <class>...As uncomfortable as it makes me, I'm prepared to accept assistance from anyone - including our resident death knight.Go to Thassarian and see if he can help us develop tactics against the Scourge that will ensure victory once we are able to mount another offensive.We have come so far... we must not fail here!",
+    "name": "...All the Help We Can Get.",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

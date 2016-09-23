@@ -1,0 +1,7 @@
+{
+    "_id": "28267",
+    "description": "Come out back vizh me, <race>.Zhere is somezhink I vould like you to see.",
+    "name": "Firing Squad",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

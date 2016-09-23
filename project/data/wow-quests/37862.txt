@@ -1,0 +1,8 @@
+{
+    "_id": "37862",
+    "added_in_patch": 7,
+    "description": "Wait, what was it that I heard? Was it... \"feast on the dragons\"? We must check on grandfather, right away!Let me know when you're ready to depart.",
+    "name": "Still Alive",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

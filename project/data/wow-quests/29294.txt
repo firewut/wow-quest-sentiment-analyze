@@ -1,0 +1,7 @@
+{
+    "_id": "29294",
+    "description": "Several of our scouts have reported seeing what seemed to be living flames skittering around the surfaces of Fireplume Peak.If the reports are accurate, we need these for study immediately. We've yet to fully understand where all of the attacking elementals come from, and these could well lend us significant insight.",
+    "name": "Animate Embers",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

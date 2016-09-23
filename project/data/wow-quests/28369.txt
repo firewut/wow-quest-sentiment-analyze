@@ -1,0 +1,7 @@
+{
+    "_id": "28369",
+    "description": "Before you go, be sure to stop by the inn behind me. My sister Fanny is inside.Refugees are pouring into Thundermar from all of the torched Wildhammer settlements around us, and I put Fanny in charge of 'em. She's tough as talons, that one. But she might need your help.",
+    "name": "My Sister, Fanny",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26790",
+    "description": "There he is, <name>. The foolish beast fell asleep right out in the open! Good news for us, eh? Come, hero, we fight now! You can even have the honor of severing his head from his massive body. What's that? Too big for your bags? Why, carry it, of course! <Thrall grins.>",
+    "name": "Magmadar Must Die!",
+    "requires_level": 1,
+    "zone": "Stonetalon Mountains"
+}

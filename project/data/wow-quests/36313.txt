@@ -1,0 +1,9 @@
+{
+    "_id": "36313",
+    "added_in_patch": 6,
+    "description": "Oru'kai was the first ogre mage to master the art of enchanting on Draenor. Upon his death, his items were scattered across Draenor. I have tracked his staff to the shore you see before us. \r\n\r\nAs you can see, the staff's enchantment is making it difficult to retrieve. A would-be apprentice, Deema, took one of Oru'kai's rings in to break the enchantment, but she failed and became trapped as well. \r\n\r\nFind and free Deema, take the ring, complete her task, and I will consider a reward.",
+    "name": "Failed Apprentice",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

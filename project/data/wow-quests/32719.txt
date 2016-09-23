@@ -1,0 +1,8 @@
+{
+    "_id": "32719",
+    "added_in_patch": 5.2,
+    "description": "Greetings, <name>. I am privileged to offer you an excellent opportunity. Through the centuries, we've honed a method by which the very laws of chance themselves can be bent. With a Mogu Rune of Fate, valuable artifacts will find their way into your hands more frequently inside the palace of the Thunder King.",
+    "name": "Mogu Runes of Fate",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34805",
+    "added_in_patch": 6,
+    "description": "I am no sorcerer, but I've picked up a few spells in my time - enough for me to pass unseen by the naked eye.Unfortunately, the vampire bats in these woods don't use their eyes. They will hear my shuffling robes and Percy's incessant clucking a mile away.Clear them away from the path, would you?",
+    "name": "Echo Hunters",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

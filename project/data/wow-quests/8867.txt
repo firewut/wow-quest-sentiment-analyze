@@ -1,0 +1,7 @@
+{
+    "_id": "8867",
+    "description": "Every year the druids of Moonglade hold a celebration of our city's great triumph over an ancient evil.We celebrate the wisdom of our elders, share in magnificent feasts and of course... shoot fireworks!For a small donation you can purchase colorful rockets from our vendor.  Try using some of the launchers around here, <name>.",
+    "name": "Lunar Fireworks",
+    "requires_level": 1,
+    "zone": "Lunar Festival"
+}

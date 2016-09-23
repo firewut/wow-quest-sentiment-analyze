@@ -1,0 +1,8 @@
+{
+    "_id": "11686",
+    "description": "According to Luther's notes the Scourge is now using this place as a breeding ground for those monsters you see lumbering across the field.<Ickoris shudders.>Those monsters were once orcs... tauren...We need more information before a plan can be devised. I want you to investigate three sites that are heavily trafficked by Scourge: the Warsong Granary, southwest of us, Torp's Farm, directly west of us, and the old Warsong Slaughterhouse, north of us.Return to me once you've scouted 'em out.",
+    "name": "The Warsong Farms",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

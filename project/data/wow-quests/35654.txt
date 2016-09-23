@@ -1,0 +1,9 @@
+{
+    "_id": "35654",
+    "added_in_patch": 6,
+    "description": "There are strange, glowing objects within Tangleheart, seemingly pollinated by a variety of stinging creature.\r\n\r\nThe botani sometimes collect whatever the pods produce. I can't be sure what it is, but it might be dangerous to us.\r\n\r\n- Frenna",
+    "name": "Chapter I: Plant Food",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

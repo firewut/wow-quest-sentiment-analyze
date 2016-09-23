@@ -1,0 +1,7 @@
+{
+    "_id": "29233",
+    "description": "Dis death ain't be in vain, <name>.  We figure out dat Kilnara be on da prowl.  Tings don't look good.We better check out Grom'gol Base Camp to da west.  Maybe we find my contact dere.",
+    "name": "Warn Grom'gol",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

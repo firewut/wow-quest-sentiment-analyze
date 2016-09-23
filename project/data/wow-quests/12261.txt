@@ -1,0 +1,7 @@
+{
+    "_id": "12261",
+    "description": "They're drawing power from the bones of my dead brothers...I have no love for the cult, but I'm baffled by their audacity. There will be no mercy shown for them... not that I ever would have anyway.Ensure that they have no place to flee when the slaughter starts. Place a destructive ward at the end of the path leading out of the shrine... where the road starts to give way to snow. Defend it until it is fully charged.",
+    "name": "No Place to Run",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

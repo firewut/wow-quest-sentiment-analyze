@@ -1,0 +1,8 @@
+{
+    "_id": "25020",
+    "description": "At the Southmoon ruins, just east of here, we've made some finds. My colleagues have found stone shards, engraved with ancient writings, newly exposed by the shifting sands.The writings are in no known tongue, though they bear resemblance to markings we've seen on other ruins of the titans. Deciphering them could reveal many more secrets.Unfortunately, my colleagues are also busy defending the tablets from the Alliance. I need you to go to the Southmoon ruins and retrieve the tablets yourself.",
+    "name": "Fragments of Language",
+    "requires_level": 46,
+    "side": "horde",
+    "zone": "Tanaris"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42046",
+    "added_in_patch": 7,
+    "description": "If Malorne is in danger, then things are even worse than I feared. It truly is up to us now.We have very little time left. Let us reconvene in the Dreamgrove at once.",
+    "name": "A New Beginning",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

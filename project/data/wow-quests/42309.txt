@@ -1,0 +1,8 @@
+{
+    "_id": "42309",
+    "added_in_patch": 7,
+    "description": "What can I tell ya, I'm satyr hater. Those cursed beasts slashed me up pretty good when I was trying to rescue my comrades in the Sleeper's Barrow. To whomever finds this letter, make your way over to the barrow. You'll find me in there, hopefully still alive.-Satyr Hater",
+    "name": "Bloody Request",
+    "requires_level": 98,
+    "zone": "First Aid"
+}

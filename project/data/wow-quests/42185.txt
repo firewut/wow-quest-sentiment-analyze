@@ -1,0 +1,8 @@
+{
+    "_id": "42185",
+    "added_in_patch": 7,
+    "description": "Prustaga is almost certainly on her way to the Temple of Storms, which is where I imbued Titanstrike with the Thunderspark.If my deductions are correct, she'll attempt to reverse the process and infuse the spark into herself, thus attaining the godlike power she craves!Hopefully Thorim isn't off cavorting with his hounds again. If Prustaga has the local vrykul on her side, things may get... complicated.",
+    "name": "Never Hunt Alone",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

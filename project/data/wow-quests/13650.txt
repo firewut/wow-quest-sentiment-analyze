@@ -1,0 +1,8 @@
+{
+    "_id": "13650",
+    "description": "We've uncovered some incredible artifacts at this site. It's hard to be convinced that it's all authentic, but there could be serious historical potential.Unfortunately, when the troggs overran the site, we lost access to three of our most notable finds to date. I'm concerned that the troggs might have stolen them or defiled them in our absence.If you go into the excavation, find the Upturned Giant, the Overdressed Woman, and the Broken Tablet, and make sure they're still intact.",
+    "name": "Keep Your Hands Off The Goods!",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

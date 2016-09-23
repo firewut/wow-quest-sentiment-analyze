@@ -1,0 +1,8 @@
+{
+    "_id": "44690",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "A Thirst For Blood",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

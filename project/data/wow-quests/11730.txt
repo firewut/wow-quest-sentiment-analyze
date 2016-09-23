@@ -1,0 +1,7 @@
+{
+    "_id": "11730",
+    "description": "The Ultrasonic Screwdriver is the ultimate tool. It can do anything to mechanical stuff!Head back into the pools and dismantle a number of Mechazod's robots. Then all you have to do is use the screwdriver on their remains, and I'm betting that they'll turn to our side, for a short time anyway.I'm pretty sure it won't work on the mechagnomes, so don't even bother with them.Oh, and if you want to take anything from the robot's insides, you'll want to do so before using the screwdriver!",
+    "name": "Master and Servant",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44465",
+    "added_in_patch": 7,
+    "description": "Felinda Frye has recently joined us at the Heart of Azeroth. She oversees the recruitment and training of our Earthcallers.I recommend that you speak with her at your soonest convenience, Farseer <name>. The Earthcallers are powerful shaman and will greatly bolster our ranks.",
+    "name": "Recruiting Earthcallers",
+    "requires_level": 103,
+    "zone": "Shaman Campaign"
+}

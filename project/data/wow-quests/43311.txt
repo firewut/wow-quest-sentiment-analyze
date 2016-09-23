@@ -1,0 +1,8 @@
+{
+    "_id": "43311",
+    "added_in_patch": 7,
+    "description": "If Ly'leth is to achieve the role of advisor to the Grand Magistrix we will need to open a path for her.\r\n\r\nIt is true she will have some supporters but they alone cannot grant her the title.\r\n\r\nThere are other houses that Ly'leth must contend with. Fear and coercion are their tools. None dare stand against them openly, and we cannot win them over with favors and oaths. \r\n\r\nSeek out Arluin. I trust he will have some ideas of how to proceed.",
+    "name": "Or Against Us",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

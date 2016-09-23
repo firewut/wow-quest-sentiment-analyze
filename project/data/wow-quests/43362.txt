@@ -1,0 +1,8 @@
+{
+    "_id": "43362",
+    "added_in_patch": 7,
+    "description": "This arcan'dor is one of an ancient species. They were not bred, but created. In them the arcane and primitive druidic magics merged into something greater than both.\r\n\r\nThe arcane will soon devour it whole.\r\n\r\nWe can restore balance, but it will require wild magic. Magic trapped in another realm.\r\n\r\nYou must enter the Emerald Dream- the pure, unsullied vision of Azeroth - and bring back the essence of life itself.\r\n\r\nOnly then can the arcan'dor find stability and begin to thrive once more.",
+    "name": "The Stuff of Dreams",
+    "requires_level": 110,
+    "zone": "The Emerald Nightmare"
+}

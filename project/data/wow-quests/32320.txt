@@ -1,0 +1,8 @@
+{
+    "_id": "32320",
+    "added_in_patch": 5.1,
+    "description": "This hearthstone was part of a conversation Vol'jin and I shared a long time ago.He believes his people are in danger. I don't know what all has transpired in my absence, but I can at least do this for my friend.Come, $p, travel with me to the Echo Isles. We must make sure that the Darkspear are safe.",
+    "name": "The Horde Is Family",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

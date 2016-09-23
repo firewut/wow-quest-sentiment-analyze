@@ -1,0 +1,8 @@
+{
+    "_id": "26318",
+    "description": "My team has finished settin' up th' powder kegs and th' detonator at the bottom o' th' cave in th' western part of Frostmane Hold. All you need to do is venture down there and activate th' detonator to explode the powder and collapse those tunnels.That'll stop th' flow of troggs from th' deep parts of th' earth. Mekkatorque'll have an easier time of dealin' with the remainin' troggs if you can take out their leader, who calls 'imself Boss Bruggor. Good luck, <name>.",
+    "name": "Finishin' the Job",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

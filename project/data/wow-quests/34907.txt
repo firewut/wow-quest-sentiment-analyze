@@ -1,0 +1,8 @@
+{
+    "_id": "34907",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Vignette/Treasure: Lagoon Pool/Giant Clam",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

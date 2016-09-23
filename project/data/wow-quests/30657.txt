@@ -1,0 +1,9 @@
+{
+    "_id": "30657",
+    "added_in_patch": 5,
+    "description": "The yaungol of Fire Camp Ordo are the worst threat we're facing. I need you to head west and take out their leader.The coward is hiding in a cave, which is protected by a fire shield cast by his four underlings.Take them out and the shield will come down. You'll find them in their tents, channeling.",
+    "name": "In Tents Channeling",
+    "requires_level": 87,
+    "side": "horde",
+    "zone": "Kun-Lai Summit"
+}

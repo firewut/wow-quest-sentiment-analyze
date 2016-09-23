@@ -1,0 +1,7 @@
+{
+    "_id": "13579",
+    "description": "Nothing will repair the land quicker than the strength of those who inhabit it.  We night elves are fortunate that some of our best allies just happen to be both the land and its inhabitants at once.The Ancient of War known as Selenn was charged with guarding the ruins of Ameth'Aran, to the south.  Go there and seek his help.",
+    "name": "Protector of Ameth'Aran",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

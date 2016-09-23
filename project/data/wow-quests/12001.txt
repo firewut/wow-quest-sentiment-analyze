@@ -1,0 +1,7 @@
+{
+    "_id": "12001",
+    "description": "Staring into the card, the image blurs until you see yourself standing covered in the furs from many wolves and bears.  You can only assume this is your destiny should you invoke the tarot's power.",
+    "name": "zzOLDHunting Tarot: Lesser Beasts",
+    "requires_level": 5,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27550",
+    "description": "The attacks against our front are a distraction. With our attention turned towards the worgen onslaught, the Alliance has managed to take Pyrewood Village from our occupying forces.<Godfrey hands you a bundle of torches.>It must be purged.With these torches we will burn Pyrewood Village to the ground, leaving only ashes for the enemy to hide behind.Let us not waste another minute. Pyrewood Village is located southwest of the Forsaken Front. Lead us there, <name>.",
+    "name": "Pyrewood's Fall",
+    "requires_level": 15,
+    "zone": "Silverpine Forest"
+}

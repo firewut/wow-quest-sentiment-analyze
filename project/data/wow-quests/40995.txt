@@ -1,0 +1,8 @@
+{
+    "_id": "40995",
+    "added_in_patch": 7,
+    "description": "Power, eh? You bet! I got just the thing!We've managed to get our hands on a rare venom from an uncharted island deep in the south seas. We captured as much of it as we could.I had my boys build a device that can inject the venom into weapons, but just in small quantities for now until we've got a better handle on its effects.Anywho, we got it locked up in a secure area just over there. You're free to use it, Shadow <name>... for a price, of course!",
+    "name": "Injection of Power",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "33374",
+    "added_in_patch": 5.4,
+    "description": "You have heard the words of the celestials, but what did you learn on your path to the shrines?The wisdom of the pilgrimage is in its silence and simplicity. As you listen to the wind rustling in the trees, and note even the smallest butterfly, your mind is open to learning the deepest lessons the trials have to teach us. Perhaps you noticed the many great beasts that roam the island?Therein lies your trial. You have learned much from Pandaria, now let us put your knowledge to the test.",
+    "name": "Path of the Mistwalker",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

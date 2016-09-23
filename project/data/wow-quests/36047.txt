@@ -1,0 +1,9 @@
+{
+    "_id": "36047",
+    "added_in_patch": 6,
+    "description": "We have Gardul right where we want him, commander.You're far more equipped to face him than I am. Dispose of him, take his formula from his corpse, and grab as many barrels of poison as you can.I'll guard this ramp and make sure no reinforcements come to his aid.",
+    "name": "We Have Him Now",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

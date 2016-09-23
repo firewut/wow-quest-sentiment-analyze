@@ -1,0 +1,8 @@
+{
+    "_id": "32594",
+    "added_in_patch": 5.2,
+    "description": "Our next objective is to temper this weapon with the blood of a demigod, one imbued with the Thunder King's powers.My agents tell me that the mogu named Shan Bu is creating just such a creature, intended to guard the Thunder King's citadel.Once your faction has fought your way to the front gates, attack Storm Lord Nalak and thrust this lance into his side. The creature will do everything in his power to stop you - stay alive long enough to siphon out the power of the Storm Lord!",
+    "name": "Spirit of the Storm Lord",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

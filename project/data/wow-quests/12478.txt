@@ -1,0 +1,7 @@
+{
+    "_id": "12478",
+    "description": "They have labeled the cave as Frostmourne Cavern. Why the Scarlet Onslaught is interested in such things is unknown, but by the look of things, the area surrounding the cave is heavily guarded. Nonetheless, we must proceed!Take this scrying orb and travel north out of town and then northwest towards Scarlet Point. Make your way into the cave and battle your way to the bottom. Once there, use the orb. Return here with what you discover.",
+    "name": "Frostmourne Cavern",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

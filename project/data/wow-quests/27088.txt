@@ -1,0 +1,8 @@
+{
+    "_id": "27088",
+    "description": "Take this cage, <class>. I've placed inside it one of my own mutant bush chickens, with a few slight modifications. Within the butt of this bush chicken is a stick of dynamite laced with gunk from the diseased organs you brought me.Take the cage out into the surrounding forest and locate the wandering forest ettin. Release the chicken and sit back as my masterwork does its job. The ensuing explosion should be sufficient to kill the ettin or greatly weaken it, allowing you to finish it off.",
+    "name": "It's Only Poisonous if You Ingest It",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

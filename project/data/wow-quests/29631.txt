@@ -1,0 +1,8 @@
+{
+    "_id": "29631",
+    "added_in_patch": 5,
+    "description": "Might I ask a favor of you, trainee <name>?Before I came to the monastery, I was a stranger to battle. During my time as a trainee, I performed adequately, but I was never placed in any real danger. Now, as a graduate and a wage-earning guard, I am expected to protect this perimeter at all costs.I can handle greenwood sprites, but the tigers in the western Waxwood are something different altogether. Would you mind taking care of them for me?",
+    "name": "Burning Bright",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

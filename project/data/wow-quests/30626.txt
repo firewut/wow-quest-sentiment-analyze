@@ -1,0 +1,8 @@
+{
+    "_id": "30626",
+    "added_in_patch": 5,
+    "description": "I'm going to withdraw what few forces I have. We may have to fall back to the Stormstout Brewery, or even Halfhill. That call is Commander Loon Mai's to make.You go ahead. Deliver word to the Commander. My Shado-Pan will be shortly behind.",
+    "name": "Retreat!",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

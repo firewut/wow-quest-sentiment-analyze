@@ -1,0 +1,7 @@
+{
+    "_id": "26858",
+    "description": "The Searing Blade has managed to summon a foul demon they call Taragaman the Hungerer to lead the first attack in their takeover of Orgrimmar!Make haste and slay Taragaman in the name of the Warchief! Lok'tar ogar!",
+    "name": "Taragaman the Hungerer",
+    "requires_level": 13,
+    "zone": "Ragefire Chasm"
+}

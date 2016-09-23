@@ -1,0 +1,8 @@
+{
+    "_id": "29343",
+    "description": "I'm sure by now ye've heard the tale o' Old Ironjaw, the most famous and elusive fish in the waters o' Ironforge's Forlorn Cavern. Well, in his many years, he's been responsible for the rise o' many young ironjaws. Don't let the name fool ye, <name>, these young'uns are every bit as clever as their dad, but somewhat lackin' in experience.With skill an' patience, ye could probably catch one, an' when ye do, bring it to the museum in Ironforge's Library an' put it on display fer all to see!",
+    "name": "One fer the Ages",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Fishing"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26485",
+    "description": "I've got plans to brew up somethin' special for those pesky trolls. Aye, I said for them... a brew they won't ever forget! A brew that'll have them pickin' their tusks out of the hillsides!I've got a few ingredients steepin' already, but I could use a hand gatherin' more. At the bottom of the Overlook Cliffs to the east, near the shore, is a whole mess o' snapjaws. I need fresh, whole gizzards from them for my blastbrew.",
+    "name": "Snapjaws, Lad!",
+    "requires_level": 29,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

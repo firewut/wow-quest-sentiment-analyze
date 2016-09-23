@@ -1,0 +1,8 @@
+{
+    "_id": "42503",
+    "added_in_patch": 7,
+    "description": "<The coded message you obtained is protected by powerful magic, rendering it indecipherable by conventional means.><If you use the cipher you took from Felcaller Whitley you might be able to crack the code, leading you ever closer to both the cult's base of operations and Garona.>",
+    "name": "Codebreaker",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26475",
+    "description": "I'd hoped Orendil's cure would save Relara, but I fear it only slowed the disease running through her. We must find more powerful medicine! Thankfully, Orendil spoke to me of further remedies should his first one fail.Elune's Tear is a type of stone that rests in only one place: the remains of Iris Lake, destroyed by the eruption of Thunder Peak, northeast of Astranaar. Orendil said the stone will wash away corruption.Please, <name>, bring me Elune's Tear and pray it will end my child's sickness!",
+    "name": "Elune's Tear",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

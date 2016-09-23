@@ -1,0 +1,8 @@
+{
+    "_id": "9918",
+    "description": "The battle plans were written up by an ogre lieutenant. His name is either Dump or Lump.<Bintook turns the parchment sideways and cocks her head.>It could also be Billy.Anyhow, I think you should go back out there and have a word with Billy or Lump or Dumpy or whatever! Try to approach him diplomatically. If that doesn't work, try using some muscle.",
+    "name": "Not On My Watch!",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

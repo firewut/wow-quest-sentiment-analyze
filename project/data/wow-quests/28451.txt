@@ -1,0 +1,7 @@
+{
+    "_id": "28451",
+    "description": "The warlocks of the Blackrock Clan often practice their magic in the Skull Warren, a cave on the eastern side of Dreadmaul Rock.  Their leader, Xi'lun, is busy elsewhere, so the cave is currently being held by another of the Big Three: Dragon-Lord Neeralak.  And Neeralak's expertise is in dragons, not in necromancy.I've used the slumber sand on those flamekin you captured.  Try to convince Neeralak that they're warlock imps, and not flamekin.  When they wake up, they won't be happy.",
+    "name": "A Delivery for Neeralak",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

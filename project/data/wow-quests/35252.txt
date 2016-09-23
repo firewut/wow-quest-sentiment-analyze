@@ -1,0 +1,8 @@
+{
+    "_id": "35252",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Chest Reward Tracking Quest",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

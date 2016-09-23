@@ -1,0 +1,7 @@
+{
+    "_id": "28360",
+    "description": "I'd love so much to save every creature in the forest, but as you probably have seen, some are just too far gone.When we first founded Whisperwind Grove, the woods just to the south were full of beautiful coursers, majestic and gentle creatures. The corruption here hasn't made them violent, but they've wasted away to nearly nothing.Even if they were cleansed, they would know only pain and suffering. Please, <class>, help put them down for me.",
+    "name": "Running Their Course",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25283",
+    "description": "High Tinker Mekkatorque asked me to write a speech that he could give before the battle starts, but I can't tell which draft is good and which ones just stink.Could you try some of them out on some of the local gnome residents?  This device creates an image of Mekkatorque saying a few lines from each of my speech drafts.Let me know which one works, okay?",
+    "name": "Prepping the Speech",
+    "requires_level": 1,
+    "zone": "Dun Morogh"
+}

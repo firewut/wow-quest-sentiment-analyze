@@ -1,0 +1,8 @@
+{
+    "_id": "12325",
+    "description": "You have done much to advance our efforts against the Scourge, <name>. In fact, the morale of all those who have come into contact with you soars! Such is your influence over the soldiers and citizenry of Wintergarde, ally.And because of you we are now prepared to go on the offensive! You are to report to Duke August Foehammer, across the Carrion Fields at Thorson's Post, east of here. Gryphon Commander Urik at the gryphon station has prepared a special gryphon to drop you behind enemy lines. Go now!",
+    "name": "Into Hostile Territory",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

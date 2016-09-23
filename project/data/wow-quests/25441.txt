@@ -1,0 +1,7 @@
+{
+    "_id": "25441",
+    "description": "I have no fondness for snakes, and even less so down here. Fortunately for us, the watery elements still bend to my will for now.Take these globes and throw them at the ground to send the nearby water into a vortex, pulling in all the nearby serpents. The naga will most certainly turn the snakes against us, so keep the orbs close at hand.",
+    "name": "Vortex",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

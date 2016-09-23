@@ -1,0 +1,8 @@
+{
+    "_id": "30334",
+    "added_in_patch": 5,
+    "description": "The hozen, up in the mountains to the west, continue to steal vegetables from my fellow farmers. Being so close to Halfhill, I very rarely suffer hozen attacks, but my friends have not been so lucky.Seems to me like they steal way more than they can eat. If you can find any intact vegetables up there in those mountains... steal them back!",
+    "name": "Stealing is Bad... Re-Stealing is OK",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

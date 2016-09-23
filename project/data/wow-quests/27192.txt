@@ -1,0 +1,7 @@
+{
+    "_id": "27192",
+    "description": "Men as far as Kul Tiras spoke of the legendary Fras Siabi's premium tobacco. It was a delicacy enjoyed by every single person of importance that visited Stratholme. King Terenas, Uther the Lightbringer, Highlord Fordring...yes, they all enjoyed Siabi's specialty.Sadly, Fras stayed in his shop when Stratholme was invaded, swearing on his life that the Scourge would never touch his tobacco. Venture forth and see if even one bit remains here...it is worth its weight in gold, I assure you.",
+    "name": "The Great Fras Siabi",
+    "requires_level": 42,
+    "zone": "Stratholme"
+}

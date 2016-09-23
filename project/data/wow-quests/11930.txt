@@ -1,0 +1,7 @@
+{
+    "_id": "11930",
+    "description": "The path across Transborea, to the east, is the only way to reach the Dragonblight. Many perils await you as you make your journey across the tundra. Beware the Scourge and its influence upon the beasts of the land. Rumors have started to spread about our very own taunka brothers and sisters rising from the dead and attacking caravans on their way to the Dragonblight! Defend your caravan and get the evacuees to safety!Wartook Iceborn waits for you across the bridge leading into the Dragonblight.",
+    "name": "Across Transborea",
+    "requires_level": 71,
+    "zone": "Borean Tundra"
+}

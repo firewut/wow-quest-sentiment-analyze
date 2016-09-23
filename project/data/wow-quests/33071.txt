@@ -1,0 +1,8 @@
+{
+    "_id": "33071",
+    "added_in_patch": 7,
+    "description": "If you are reading this letter, it likely means that I am dead. Please deliver this to my son, Faran, at Teluuna Observatory.Dearest Faran and Elsa,I have fallen in the line of duty while defending the Temple of Karabor.Please know that I love you both with all of my heart. My spirit will watch over you for the rest of your days. Be strong, love one another, and live this life to the best of your ability.I am so proud of you both.Love,Your Mother",
+    "name": "The Call of War",
+    "requires_level": 1,
+    "zone": "Quests"
+}

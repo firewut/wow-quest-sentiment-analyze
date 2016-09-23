@@ -1,0 +1,7 @@
+{
+    "_id": "27177",
+    "description": "Between the Horde and the naga, our fleet has been decimated. We can't do anything to bring back the men who gave their lives to the sea, but sink me if I allow all of our supplies to be lost forever.Swim out to the Obsidian Breakers southwest of Highbank and retrieve our supplies from the wrecks and the ocean floor.",
+    "name": "Salvage Operation",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

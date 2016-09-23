@@ -1,0 +1,8 @@
+{
+    "_id": "11706",
+    "description": "I have created and bound Alluvius using the Horn of Elemental Fury. He will respond to the horn's call when you stand near the southernmost sinkhole in the Geyser Fields.The quake Alluvius will unleash should collapse the Nerubian tunnels and put an end to their flanking attack. I wouldn't be surprised if the Nerubian commander showed himself after the quake. If the collapse of the tunnels doesn't break the back of their assault, the defeat of their leader surely will.",
+    "name": "The Collapse",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

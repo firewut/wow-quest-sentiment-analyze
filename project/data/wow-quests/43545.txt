@@ -1,0 +1,8 @@
+{
+    "_id": "43545",
+    "added_in_patch": 7,
+    "description": "While investigating the remains of Black Rook Hold, our Champions were ambushed!  The Lord of the Rook appears to have allied himself with the Legion.\r\n\r\nWe need your assistance to defeat his growing army, and bring him down.",
+    "name": "The Lord of Black Rook Hold",
+    "requires_level": 110,
+    "zone": "Black Rook Hold"
+}

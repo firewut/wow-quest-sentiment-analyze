@@ -1,0 +1,9 @@
+{
+    "_id": "33263",
+    "added_in_patch": 6,
+    "description": "<This looks like one of the pack mules from your garrison. It's strange that it's wandering out here alone.You probably should investigate.>",
+    "name": "Gloomshade Grove",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

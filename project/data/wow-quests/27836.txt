@@ -1,0 +1,7 @@
+{
+    "_id": "27836",
+    "description": "Slaying the foul creatures that plague the river will not be enough, <name>.A new generation of these monstrosities already threatens to spawn within our holy waters.Seek their foul eggs and destroy them.",
+    "name": "Stopping the Spread",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

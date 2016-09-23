@@ -1,0 +1,8 @@
+{
+    "_id": "30152",
+    "added_in_patch": 5,
+    "description": "The time for the great race is upon us!Traverse the course among the spires and pass through the checkered flags on each of the 10 balloon checkpoints.Make sure to pass underneath the finish line when you are done.The competition will be fierce, but I wish you luck. Speak to me when you are ready to begin.",
+    "name": "The Sky Race",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

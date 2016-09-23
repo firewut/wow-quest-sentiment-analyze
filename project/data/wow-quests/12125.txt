@@ -1,0 +1,8 @@
+{
+    "_id": "12125",
+    "description": "The blood of innocents was once used to sate the thirst of the blade. Alas, such options are no longer available to me.<Koltira pauses to think.>We must improvise. South of here, upon the high bluffs, is the tuskarr village of Indu'le. Having been recently overrun by the Blue Dragonflight's chaotic magic, the resident tuskarr of Indu'le have gone mad.Take this blood gem and use it on a deranged villager. If I cannot take the blood of innocents, I shall have the blood of the meek!",
+    "name": "In Service of Blood",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

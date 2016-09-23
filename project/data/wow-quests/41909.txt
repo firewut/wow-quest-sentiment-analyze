@@ -1,0 +1,8 @@
+{
+    "_id": "41909",
+    "added_in_patch": 7,
+    "description": "We have sent scouts to search for our kidnapped allies, and our efforts may have finally paid off.They've tracked them to the vrykul homeland of Stormheim, but the unfamiliar territory has slowed our progress and we're in danger of losing the trail.I suggest that we send our champions immediately to assist with the tracking effort.",
+    "name": "Tracking the Tideskorn",
+    "requires_level": 103,
+    "zone": "Monk Campaign"
+}

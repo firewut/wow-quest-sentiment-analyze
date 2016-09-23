@@ -1,0 +1,8 @@
+{
+    "_id": "41215",
+    "added_in_patch": 7,
+    "description": "The trapper you slew was but one of many.The Nightborne are subjugating the local creatures, creating a sort of pleasurable exhibit. I think we can strike them in two places at once.Descend upon these trappers, <race>. Let us teach them a lesson in respecting their prey.",
+    "name": "They Become The Hunted",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

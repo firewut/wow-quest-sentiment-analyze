@@ -1,0 +1,8 @@
+{
+    "_id": "11925",
+    "description": "Torch catching sure keeps you on your toes.  Think you can keep it up for a long time?Let's see...",
+    "name": "More Torch Catching",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Midsummer"
+}

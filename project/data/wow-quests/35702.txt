@@ -1,0 +1,9 @@
+{
+    "_id": "35702",
+    "added_in_patch": 6,
+    "description": "The artifact we seek is within our grasp.Be prepared for a fight. If they truly have learned how to control gronn, this may be more difficult than I anticipated.I will join you in this battle as soon as you arrive.",
+    "name": "Chains of Iron",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

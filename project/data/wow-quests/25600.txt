@@ -1,0 +1,7 @@
+{
+    "_id": "25600",
+    "description": "A terrible evil squats in the heart of this cavern, <name>. Forgemaster Pyrendius has personally crafted many of the cursed weapons that Twilight's Hammer is using in their conquest of the realms above.Before we leave these lands of flame... Pyrendius must die.He will not go down easy. But, if I'm reading the tome correctly, we can briefly open up small gateways to the Abyssal Maw, the realm of water. Lure Pyrendius onto a portal rune and activate it to weaken him!",
+    "name": "Forgemaster Pyrendius",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

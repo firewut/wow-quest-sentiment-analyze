@@ -1,0 +1,8 @@
+{
+    "_id": "37232",
+    "added_in_patch": 6,
+    "description": "You! You're the one that found me the blade, correct? I have need of your services again.The blade worked wonderfully, allowing me to sever the tormented undead from this world. Their screams were such beautiful music.However, the Soulsever Blade cannot be repaired, as it is partially woven with spirit energy that is drawn upon each time a soul is released. I need another, as there are still dark forces at work in this place, raising spirits and turning them.",
+    "name": "Soulcarver Voss",
+    "requires_level": 100,
+    "zone": "Auchindoun"
+}

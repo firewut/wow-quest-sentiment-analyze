@@ -1,0 +1,7 @@
+{
+    "_id": "28802",
+    "description": "",
+    "name": "Map of the Architects",
+    "requires_level": 1,
+    "zone": "Archaeology"
+}

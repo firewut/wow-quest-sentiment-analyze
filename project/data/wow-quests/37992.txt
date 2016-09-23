@@ -1,0 +1,9 @@
+{
+    "_id": "37992",
+    "added_in_patch": 6.1,
+    "description": "With the pieces recovered, all that is left is to reforge Gutrek's Cleaver. Goldspade's journal seems to indicate that the only place to do this is the location where it was initially dismantled.\r\n\r\nThe journal mentions a \"Spirit Forge\" used to dismantle the blade, and that it may be located somewhere in the nearby gorge. Find the forge and use it to combine the pieces you've gathered.",
+    "name": "Gutrek's Cleaver: The Spirit Forge",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Nagrand"
+}

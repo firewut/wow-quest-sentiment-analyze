@@ -1,0 +1,7 @@
+{
+    "_id": "14302",
+    "description": "You have accomplished much in your efforts against the naga, <name>. But I fear it is not nearly enough....This is my official assessment of the naga presence.I'm confident that my peers in the wildlands will take the necessary action.Bring this to Karnum at the grove in the center of the Cenarion Wildlands to the southeast. He will know what to do.Thank you, <name>. And farewell.",
+    "name": "Official Assessment",
+    "requires_level": 28,
+    "zone": "Desolace"
+}

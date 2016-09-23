@@ -1,0 +1,8 @@
+{
+    "_id": "26205",
+    "description": "If the multi-bot works, it will help us do all kinds of jobs that are unpleasant or dangerous for us gnomes!After Thermaplugg detonated his irradiator at the end of Operation: Gnomeregan, toxic clouds and ooze began bubbling up at the old airfield south of town.If we don't get it under control, the contamination could spread to the rest of our lands. Take the multi-bot with you, and bring it close to the geysers in the green pools at the Toxic Airfield. Your bot should spring into action!",
+    "name": "A Job for the Multi-Bot",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

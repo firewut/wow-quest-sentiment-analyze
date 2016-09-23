@@ -1,0 +1,9 @@
+{
+    "_id": "34795",
+    "added_in_patch": 6,
+    "description": "<The officer is in a great deal of pain. It's clear that he's not long for this world.>The Warsong. Surprise attack.Headed into... the Burning Blade....<He takes a moment, before continuing.>They took the... blueprints....<These are his last words.>",
+    "name": "The Might of the Warsong",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

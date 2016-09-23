@@ -1,0 +1,7 @@
+{
+    "_id": "13626",
+    "description": "There were two humans here: Feero Ironhand and Delgren the Purifier. They were members of a holy organization known as The Argent Dawn. Both fell defending the post when the Horde first attacked.I'm going to loan you my magical cloak. It was a gift from Cenarius that allows me to move invisibly.Find both of their corpses and retrieve Feero's hammer and Delgren's prayer book. Feero's corpse is in the courtyard and Delgren's is atop the tower.Beware, the warlock up there will be able to see you.",
+    "name": "Respect for the Fallen",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11073",
+    "description": "I... I've turned a blind eye to your dealings with the arakkoa prisoner, <name>.  It looks like your instincts to cooperate with him were right.You must understand... I would've faced a mutiny in my current state if I endorsed your efforts to bring Terokk to this world.Take the items that Hazzik prepared for you and go ahead with your plan.  I will command my men to back you up when the time comes.  I recommend that you bring a force of your own as well.  I fear you'll only get one chance at this.",
+    "name": "Terokk's Downfall",
+    "requires_level": 70,
+    "zone": "Terokkar Forest"
+}

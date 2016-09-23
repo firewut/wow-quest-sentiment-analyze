@@ -1,0 +1,8 @@
+{
+    "_id": "26546",
+    "description": "Our clan reveres the gryphon as a sacred animal. They're majestic creatures of the skies, and more than just beasts; they're intelligent and cunning.Some say we keep them, but it's more of a friendship. If you want to befriend the Wildhammer here, first befriend our gryphons! Take this bag o' chow, it's nice and fresh. Our trained razorbeak gryphons wander the forests to the south of the aviary. Go on and feed a few of 'em for me, aye?",
+    "name": "Razorbeak Friends",
+    "requires_level": 29,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

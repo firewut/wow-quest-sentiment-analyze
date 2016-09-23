@@ -1,0 +1,8 @@
+{
+    "_id": "33409",
+    "added_in_patch": 6,
+    "description": "Welcome to the Ironelf games! For this challenge: get to the blue marker, then the green marker, then return here.Score is based on your time, so get back as fast as you can!",
+    "name": "Elwynn Run",
+    "requires_level": 4,
+    "zone": "Northshire"
+}

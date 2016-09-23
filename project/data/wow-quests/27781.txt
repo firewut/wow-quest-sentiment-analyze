@@ -1,0 +1,8 @@
+{
+    "_id": "27781",
+    "description": "<Bzzzzzzzzzzzzt.><Bzzzzzzzzzzzzt.>He-hello? <name>, are you there? Are you still alive? Hello?Oh good, you're still there! What in the name of Lordareon are they building? It's some sort of mechanized monstrosity! You have to stop them from completing that...that...thing! Throw out the rules, do whatever you have to do to thwart them!",
+    "name": "The Machination",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Quests"
+}

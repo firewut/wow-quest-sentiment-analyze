@@ -1,0 +1,9 @@
+{
+    "_id": "36137",
+    "added_in_patch": 6,
+    "description": " Siram;, we're going to need a lot of lumber if we're going to build this garrison into a suitable fortress. That means we're going to have to do a little work.While I certainly wouldn't ask you to dirty your hands with manual labor, I do need you to go out and find timber for our mill. Once you mark a tree an able-bodied lazy-good-for-nothing peon will come and chop it down and give you the timber.Frostfire isn't the best place for timber, but I did see a suitable small tree nearby.",
+    "name": "Easing into Lumberjacking",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

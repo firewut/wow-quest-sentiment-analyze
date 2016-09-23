@@ -1,0 +1,9 @@
+{
+    "_id": "29935",
+    "added_in_patch": 5,
+    "description": "Hmm, maybe wikket not so bad after all!Other baldskins not nice to hozen.Hozen take this from bad wikkets!All wikket loot goes to Kah Kah - Chief's orders!Here, wikket. You take it. Kah Kah will want to meet new hozen friend.His camp south at Grookin Hill.",
+    "name": "Orders are Orders",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

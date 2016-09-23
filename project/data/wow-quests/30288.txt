@@ -1,0 +1,8 @@
+{
+    "_id": "30288",
+    "added_in_patch": 5,
+    "description": "I don't know if you noticed, but my town is on fire... again.We have water buckets all over town, but no one can get out to put out the fires. Please, please, help us!",
+    "name": "My Town, It's On Fire Again",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

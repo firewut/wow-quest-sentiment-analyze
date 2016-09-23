@@ -1,0 +1,7 @@
+{
+    "_id": "14307",
+    "description": "The winds of change are blowing, <race>. Of that there can be no doubt.There are many pressing issues vying for our attention and action. Chief among them is the spreading of our growing oasis.Its growth has surpassed our hopes as well as our understanding, yet now it faces opposition.To the west, where the grass meets the sand, whirlwinds prevent its penetration into the desert.Go and eliminate this hostile obstacle to life!",
+    "name": "Stubborn Winds",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14121",
+    "description": "We're all going to die!!!<You slap Megs to calm her down.>Sorry about that,  Mr.  <name>. Okay, we need to find a way to get a lot of moolah quickly.There are reports of the Trade Prince sending hired looters into the streets.You could take the hot rod out there and run them down, snatching the loot that they've illegally stolen. There wouldn't be anything wrong with that, right?",
+    "name": "Robbing Hoods",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

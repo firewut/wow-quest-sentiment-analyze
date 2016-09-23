@@ -1,0 +1,7 @@
+{
+    "_id": "10438",
+    "description": "Here it is, <name>. Take this phase disruptor and mount up! The Protectorate nether drake will fly you close enough to Ultris so that you can drop the disruptor on top of the void conduit.Drop as many disruptor charges as possible to ensure complete annihilation!When you are ready, speak with the nether drake and he'll take you up.If you miss the mark you will have to get more bombs from me before you can go up again.",
+    "name": "On Nethery Wings",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

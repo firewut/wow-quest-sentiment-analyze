@@ -1,0 +1,7 @@
+{
+    "_id": "12822",
+    "description": "Now that we have the teleporter open, my plan is quite complex... it has several facets and will take impeccable coordination. And there are supplies to be gathered! And troops to recruit! Likely, weeks of hard labor as well!Hahah, I had you going there for a moment, didn't I? You've got this, kid. Hop through the teleporter and take the fight to them! Our sappers will back you up... they won't have anywhere to run.",
+    "name": "Know No Fear",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

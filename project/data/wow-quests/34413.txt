@@ -1,0 +1,8 @@
+{
+    "_id": "34413",
+    "added_in_patch": 6,
+    "description": "[Test Quest - Do Not Translate]This box is empty, begging to be filled with wood.Protect your peasants as they gather materials from the region.",
+    "name": "Lumberstruck",
+    "requires_level": 90,
+    "zone": "Gorgrond"
+}

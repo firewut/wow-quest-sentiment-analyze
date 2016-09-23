@@ -1,0 +1,8 @@
+{
+    "_id": "14189",
+    "description": "It is true that Furien dedicated his last days to a special research project. What that was, he would not share with me.Fortunately, I was able to recover his journal, but it's written in a code that I cannot decipher.Perhaps there is a clue to its translation in the region to the east where he spent his time.Take the journal, <class>, and speak with Narimar when you are ready to investigate this mystery.",
+    "name": "Translation",
+    "requires_level": 27,
+    "side": "horde",
+    "zone": "Desolace"
+}

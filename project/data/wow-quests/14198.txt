@@ -1,0 +1,7 @@
+{
+    "_id": "14198",
+    "description": "You cannot help but to feel a twinge of pride, having unlocked this long lost secret of the ancient worshippers of Elune.You now possess the power to inflict great damage upon your enemy.As it was Furien's tireless work that made this possible, it only seems right that the weapon should be unleashed upon those who took his life.The Alliance scum at Nijel's Point shall pay for their offenses against the Horde!",
+    "name": "Rider on the Storm",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

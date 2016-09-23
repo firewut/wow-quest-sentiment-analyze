@@ -1,0 +1,8 @@
+{
+    "_id": "9998",
+    "description": "The recent arrival of the fel orcs at the ruins to the east both puzzles and troubles Thander. They wasted no time in starting to construct fortifications and repair the buildings.The construction goes on day and night, <name>. I've dispatched one of my most reliable agents to keep watch, but we can ill afford to delay action. Move against their workers, then seek out Theloria Shadecloak at the Allerian Post to the north of the Bonechewer Ruins. She'll give you further instructions.",
+    "name": "Unruly Neighbors",
+    "requires_level": 62,
+    "side": "alliance",
+    "zone": "Terokkar Forest"
+}

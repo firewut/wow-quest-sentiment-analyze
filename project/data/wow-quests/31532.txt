@@ -1,0 +1,8 @@
+{
+    "_id": "31532",
+    "added_in_patch": 5,
+    "description": "During my routine patrol of the mountains this morning, I spotted a huge white bird diving down to the farmlands.It lifted an entire yak in its talons and disappeared among the cliffs.Today a yak, tomorrow a farmhand!We must eliminate this bird before it chooses its next victim.",
+    "name": "Mission: Predator of the Cliffs",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

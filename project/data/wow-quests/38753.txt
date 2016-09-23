@@ -1,0 +1,8 @@
+{
+    "_id": "38753",
+    "added_in_patch": 7,
+    "description": "Malfurion is nearby. I can sense him..Search the summit of Andu'talah while I continue to scour the forest.Be swift, <name>. Time is of the essence!",
+    "name": "The Demon's Trail",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

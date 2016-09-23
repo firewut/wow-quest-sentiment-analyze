@@ -1,0 +1,8 @@
+{
+    "_id": "38965",
+    "added_in_patch": 7,
+    "description": "With Lyndras being locked up in Violet Hold, you feel responsible for him and must discover the truth behind his actions.Perhaps if you were able to speak with him, you could find a way to have him released from the hold and put back into your custody.Go into Violet Hold and find out what happened to Lyndras.",
+    "name": "Into the Hold",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

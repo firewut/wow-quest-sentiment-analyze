@@ -1,0 +1,8 @@
+{
+    "_id": "35546",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Mana-Tombs Reward Quest",
+    "requires_level": 62,
+    "zone": "Quests"
+}

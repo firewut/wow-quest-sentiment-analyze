@@ -1,0 +1,8 @@
+{
+    "_id": "14070",
+    "description": "We need to send a message to several deadbeats. Of course, they're hiding out in Drudgetown, the scum. I know how you hate going into the slums, boss- man , but what can we do?<Sassy rifles through some paperwork.>I have all of the names right here.Might I suggest a little 'personal visit'? A couple of strategic beatdowns will send a message to the other debtors AND your competition.<name> is not a goblin to be trifled with!",
+    "name": "Do it Yourself",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

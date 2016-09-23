@@ -1,0 +1,8 @@
+{
+    "_id": "31670",
+    "added_in_patch": 5,
+    "description": "Grandpa always said, \"Carrots ain't nothin but a welcomin' mat for virmen.\" I don't think I ever saw him grow a single carrot.For once, I disagree with Grandpa. I like to live on the edge. Plus, I like to eat carrots.I like to eat carrots on the edge.Could you get some seeds and grow one for me?",
+    "name": "That Dangling Carrot",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

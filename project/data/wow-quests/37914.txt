@@ -1,0 +1,8 @@
+{
+    "_id": "37914",
+    "added_in_patch": 6.1,
+    "description": "In Frostfire Ridge, a Thunderlord sage by the name of Argoram seems to have uncovered the whereabouts of a storied weapon, known to the orcs as Gronnsbane. \r\n\r\nHe was last spotted headed into Magnarok. Find him and see if he can lead you to this relic.",
+    "name": "Treasure Contract: The Thunderlord Sage",
+    "requires_level": 100,
+    "zone": "Frostfire Ridge"
+}

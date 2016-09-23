@@ -1,0 +1,8 @@
+{
+    "_id": "25205",
+    "description": "My \"associate\" here has some plans for you that I don't agree with.  His actions are hasty, uncontrolled, and irresponsible, and you may end up paying for them with your life.Before you work with Gor, first listen to the tale that I have to tell.  It's a moralistic story - a fable - but I believe its lesson will prove valuable.  Speak to me when you are ready.",
+    "name": "The Wolf and The Kodo",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Durotar"
+}

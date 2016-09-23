@@ -1,0 +1,7 @@
+{
+    "_id": "10950",
+    "description": "One of the priests that comes to visit told a story about a place nearby.  It's called Auchindoun, and it's supposed to be very important to the draenei.He said it used to be the place where the bodies of the draenei were taken when they died.  But some time ago, something bad blew it up.I'd like to see its Ring of Observance.  The orphan matron told me that it is in the middle of the Bone Wastes, on the south side of the Terokkar Forest.Please,  Mr.  <name>, can we go?",
+    "name": "Auchindoun and the Ring of Observance",
+    "requires_level": 60,
+    "zone": "Children's Week"
+}

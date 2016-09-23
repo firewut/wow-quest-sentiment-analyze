@@ -1,0 +1,7 @@
+{
+    "_id": "26755",
+    "description": "Oh good, you brought another catapult with you! Clay might be older than dirt, but he makes a mean war machine.Well, you didn't bring it all the way out here for your health, flesh bag. Get in one of those things and bombard the fungal terrors and reinforcements streaming out of Needlerock Slag.We have to keep them off the front!",
+    "name": "Keep Them off the Front",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

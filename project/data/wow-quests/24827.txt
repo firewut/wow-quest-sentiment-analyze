@@ -1,0 +1,7 @@
+{
+    "_id": "24827",
+    "description": "",
+    "name": "Path of Courage",
+    "requires_level": 80,
+    "zone": "Quests"
+}

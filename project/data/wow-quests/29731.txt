@@ -1,0 +1,9 @@
+{
+    "_id": "29731",
+    "added_in_patch": 5,
+    "description": "MOST of what Riko said is true.We didn't dare pursue Gorrok - the Horde's numbers here are far too few. Our forces can only sustain so many losses, and frankly, we don't know how powerful that witch really is.Let me pick up where the hozen left off...",
+    "name": "Scouting Report: On the Right Track",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

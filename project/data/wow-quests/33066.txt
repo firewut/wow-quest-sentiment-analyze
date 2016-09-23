@@ -1,0 +1,9 @@
+{
+    "_id": "33066",
+    "added_in_patch": 6,
+    "description": "It's good to know what Teron'gor and Cho'gall are up to. It's more important that we stop Gul'dan.Some of his disciples can summon minor demons. To do this, these lesser warlocks must use a soul shard. The foul crystal creates a connection to the Twisting Nether, pulling a demon through against its will.Gul'dan's as much demon as he is orc. If we can gather some of the more potent shards, we can combine them into something that just might capture him.",
+    "name": "Soul Shards of Summoning",
+    "requires_level": 94,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

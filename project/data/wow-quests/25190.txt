@@ -1,0 +1,8 @@
+{
+    "_id": "25190",
+    "description": "The quilboar are a stain on the land that not even the river can wash away.  They told me to evacuate, but I told them that my job was not yet done.Hrrrraaagh!  I hate quilboar so much!  Will you help me kill them?",
+    "name": "Raggaran's Rage",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

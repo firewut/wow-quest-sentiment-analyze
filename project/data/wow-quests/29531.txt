@@ -1,0 +1,7 @@
+{
+    "_id": "29531",
+    "added_in_patch": 5,
+    "description": "I really need you to kill some stuff for me. It's pretty important.",
+    "name": "Kill Stuff",
+    "zone": "Quests"
+}

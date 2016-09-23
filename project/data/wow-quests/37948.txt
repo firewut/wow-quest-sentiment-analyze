@@ -1,0 +1,8 @@
+{
+    "_id": "37948",
+    "description": "Gurgthock stopped by from the Ring of Blood and said that Mogor wants his Blood Champion to participate in a special exhibition match. That's you, commander!Just whisper \"I seek the seeker.\" into Gurgthock's ear and he'll get things going for ya!",
+    "name": "Death to Nullifier Darkoor!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

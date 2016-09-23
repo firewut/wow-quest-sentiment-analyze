@@ -1,0 +1,8 @@
+{
+    "_id": "30597",
+    "added_in_patch": 5,
+    "description": "This beautiful stone clearly has magical potential... at least to one trained in alchemy.  You are certain that with the right herbs native to Pandaria, this stone could become very useful.",
+    "name": "Strange Spherical Stone",
+    "requires_level": 85,
+    "zone": "Alchemy"
+}

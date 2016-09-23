@@ -1,0 +1,7 @@
+{
+    "_id": "13124",
+    "description": "Malygos and his underlings grow stronger in power with each passing day. And now, our latest assault team has been captured and is being held in the Oculus.We must attempt a rescue! Belgaristrasz and his companions are invaluable to our cause.",
+    "name": "The Struggle Persists",
+    "requires_level": 77,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10893",
+    "description": "With the Blackwing wyrmcultists massing in the tunnel, we're hard pressed to deal with the situation.  Quite frankly, they have the numbers.And while we've been able to take care of any of their people that get too close, the fact remains that if they attack in earnest, we're going to be overrun.The situation calls for someone to get through to the other end of the tunnel, and take out their leader, Draaca Longtail.  Up for some fun?",
+    "name": "Longtail is the Lynchpin",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

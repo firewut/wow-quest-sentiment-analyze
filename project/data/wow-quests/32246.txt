@@ -1,0 +1,8 @@
+{
+    "_id": "32246",
+    "added_in_patch": 5.1,
+    "description": "It has been two months since the parting of the mists. Alliance scouts, seeking a suitable landing site for the fleet, have engaged Horde forces on a beach in Krasarang Wilds.Meet with Scout Lynna and help secure the landing site.",
+    "name": "Meet the Scout",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

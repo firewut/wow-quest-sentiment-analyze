@@ -1,0 +1,8 @@
+{
+    "_id": "27920",
+    "description": "We've hit an unexpected snag in our assault on the keep, <name>. It seems the servants that tended to Baron Silverlaine and Commander Springvale in life do so now in death as well, and Godfrey has placed them directly between us and him.Not to worry, we won't let them be anything more than a minor inconvenience. Eliminate Silverlaine and Springvale both and not only will their guards no longer have masters to direct them, it will place us that much closer to our final goal.",
+    "name": "Armored to the Teeth",
+    "requires_level": 16,
+    "side": "alliance",
+    "zone": "Quests"
+}

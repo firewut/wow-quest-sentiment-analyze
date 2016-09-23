@@ -1,0 +1,7 @@
+{
+    "_id": "29788",
+    "added_in_patch": 5,
+    "description": "You faced forest sprites in the Dawning Valley, but the forest sprites in this grove are a different breed. Crueler and more dangerous.If you would clear some of these sprites out, the spirits would thank you.",
+    "name": "Unwelcome Nature",
+    "zone": "The Wandering Isle"
+}

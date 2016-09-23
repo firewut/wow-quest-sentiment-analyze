@@ -1,0 +1,8 @@
+{
+    "_id": "32707",
+    "added_in_patch": 5.2,
+    "description": "I do have one thing I would ask of you, <class>.We've gotten our hands on a powerful ritual stone that the Shan'ze mogu use to beckon their allies into battle, but we need more than one to perform their rituals.If you come upon three of these stones, bring them back to me. We can gather our forces and use these stones to beckon some of Lei Shen's most powerful servants directly into our traps.",
+    "name": "Secrets in the Isle of Thunder",
+    "requires_level": 90,
+    "zone": "Quests"
+}

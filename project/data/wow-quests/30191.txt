@@ -1,0 +1,8 @@
+{
+    "_id": "30191",
+    "added_in_patch": 5,
+    "description": "Someone left some beer out up on the southern rise and now the sprites have developed a taste for our brew. They've been sneaking into town all morning, stealing whatever kegs they find.Bring back what you can. A pandaren worker without brew is just... it won't be very productive. We need the men in good spirits.",
+    "name": "Steer Clear of the Beer Here",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

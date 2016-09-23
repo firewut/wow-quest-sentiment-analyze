@@ -1,0 +1,8 @@
+{
+    "_id": "20440",
+    "description": "Our sacred wells have been tainted, and I will need your help to fix this.To cleanse each well, I must create a cleansing totem, then you must bring the totem to the well and perform a cleansing ritual.First we will create a cleansing totem for the Winterhoof Water Well.  To do this, the land must offer its aid. Hunt prairie wolves for their paws and adult plainstriders for their talons.  They are to the southwest.Return to me with the paws and talons, <name>.",
+    "name": "Poison Water",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Mulgore"
+}

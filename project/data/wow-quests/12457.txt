@@ -1,0 +1,7 @@
+{
+    "_id": "12457",
+    "description": "We've set up chain guns and barricades directly to the east and to the west. Our injured soldiers are hiding in both rooms - trying their best to not alert the mindless ghouls to their presence.Now that we have ammo, I need you to man one of the chain guns and use it to blast a path clear for our soldiers! Once you're on board, call a soldier out from hiding and then lay down heavy fire to keep the Scourge off him!Get a move on!",
+    "name": "The Chain Gun And You",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

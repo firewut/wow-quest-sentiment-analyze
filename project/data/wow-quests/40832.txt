@@ -1,0 +1,8 @@
+{
+    "_id": "40832",
+    "added_in_patch": 7,
+    "description": "My masters gave me strict instructions to deliver this letter to you as quickly as possible.Its contents are for you and you alone.Good luck.",
+    "name": "Call of The Uncrowned",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

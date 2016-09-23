@@ -1,0 +1,8 @@
+{
+    "_id": "40989",
+    "added_in_patch": 7,
+    "description": "<name>? Master, is that you?Don't you recognize me? It's me, Nomi! Remember, we cooked together in Pandaria? More accurately, you cooked and I learned. I was not much more than a cub back then.Boy, am I glad to see you!I'm headed back to the Dalaran kitchens. Come find me! Maybe we can work together!",
+    "name": "The Prodigal Sous Chef",
+    "requires_level": 98,
+    "zone": "Cooking"
+}

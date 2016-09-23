@@ -1,0 +1,8 @@
+{
+    "_id": "41795",
+    "added_in_patch": 7,
+    "description": "It would be best to conduct the summoning on the outskirts of Dreadscar Rift. If things do not go as planned, at least the aftermath will be contained to a small island of land that floats above our order.Once the sisters have been summoned, use the Bloodstone to enslave them.I'll let the others know it's time to begin.",
+    "name": "Summoning the Sisters",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

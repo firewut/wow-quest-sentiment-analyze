@@ -1,0 +1,8 @@
+{
+    "_id": "31480",
+    "added_in_patch": 5,
+    "description": "My siblings are so serious. I think life's too short to be so serious all the time. Let's have some tea together. Let me teach you how to make ginseng tea.",
+    "name": "Have a Drink",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

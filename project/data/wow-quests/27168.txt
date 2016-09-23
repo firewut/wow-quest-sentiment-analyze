@@ -1,0 +1,8 @@
+{
+    "_id": "27168",
+    "description": "Sorrow Hill, up the road to the northeast, was one of the first places that the Argent Crusaders and Cenarion Circle were able to heal.  The area is now freed of the Scourge.However, there are still many specters of the past that, for some reason, have not passed on into the next world.  They may be mourning, they may have unfinished business... or they may just be lost.Take my thurible and use it to douse them with holy incense.  One way or another, we will help them move onto the next plane.",
+    "name": "Those That Couldn't Let Go",
+    "requires_level": 34,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

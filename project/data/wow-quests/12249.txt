@@ -1,0 +1,7 @@
+{
+    "_id": "12249",
+    "description": "It is time, <name>.  Take these ashes and look for the furbolg that Kodian spoke of.  If he went to seek Ursoc, he will be near his den, north of Grizzlemaw.You will need his help.  You won't be able to defeat Ursoc alone.Once you've defeated Ursoc, use these ashes to purify his spirit.  Only then will we know whether our efforts have been in vain or not.",
+    "name": "Ursoc, the Bear God",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

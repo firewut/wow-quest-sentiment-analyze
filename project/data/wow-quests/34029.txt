@@ -1,0 +1,9 @@
+{
+    "_id": "34029",
+    "added_in_patch": 6,
+    "description": "A few days ago a bunch of Iron Horde orcs showed up and kidnapped Thaelin. They've been keeping me alive as collateral to make sure he cooperates.I don't know where they took him, but I know how to get us there.Thaelin keeps a tracking device on him at all times - don't ask where he hides it. Anything he makes that can move has a \"Come to Papa\" button that sends it straight to him.In retrospect, not a great feature for the walking bombs... but perfect for the mole machine! Jump in and let's go!",
+    "name": "The Prototype",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

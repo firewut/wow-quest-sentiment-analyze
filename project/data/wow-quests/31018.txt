@@ -1,0 +1,8 @@
+{
+    "_id": "31018",
+    "added_in_patch": 5,
+    "description": "The Klaxxi have detected the existence of another paragon, Wakener.This one was kept well-hidden from us, and for good reason.The Empress already has possession of this one, and her adjuncts work to destroy it even now.They are performing their sorcery in a chamber deep beneath the palace, and they must be stopped.We hold Klaxxi'vess. You must go in our stead. Find the entrance to their chamber from the ledge to the west.",
+    "name": "Beneath the Heart of Fear",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

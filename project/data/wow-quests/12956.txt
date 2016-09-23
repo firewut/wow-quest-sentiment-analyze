@@ -1,0 +1,7 @@
+{
+    "_id": "12956",
+    "description": "Clearly, this is more than an ordinary hunk of metal.Unlike any ore you're familiar with, it is hard but not brittle, far lighter than it looks, and glows even when cool.Looking closer, you can make out one of Thorim's runes shining beneath the surface....",
+    "name": "A Spark of Hope",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

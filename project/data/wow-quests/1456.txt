@@ -1,0 +1,7 @@
+{
+    "_id": "1456",
+    "description": "Intriguing.Well, we might not be without hope quite yet.Along that same coast, but to the north near Ranazjar Isle, there're night elf ruins at the bottom of the ocean. A tribe of naga, the Slitherblade, make that their home. I think that'd be our best bet.If a scouting party went that far south, then they must've been pretty powerful. If you're gonna find Karnitol's belongings, I'd start with the more powerful naga: the tidehunters or sea witches.",
+    "name": "The Karnitol Shipwreck",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

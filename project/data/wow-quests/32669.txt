@@ -1,0 +1,9 @@
+{
+    "_id": "32669",
+    "added_in_patch": 5.2,
+    "description": "It's time for you to learn how to ride! Seek out Kildar in Orgrimmar's Valley of Honor. Don't forget to buy your mount while you are there!",
+    "name": "Learn To Ride",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Riding"
+}

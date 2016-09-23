@@ -1,0 +1,8 @@
+{
+    "_id": "25727",
+    "description": "The Dark Iron clan is up to no good out here. And if that surprises you, you're thicker than the addled blotters over in that tent. Muradin may pay lip service to those sooty cretins back in Ironforge, but out here all bets are off.We had a raid against the camp last night, and one raid is too many. Their leader's a stout fellow by the name of Glowerglare, and he's hiding in the cave on the south bank of the river.Bring me Glowerglare's beard as proof he's no longer a threat to us and Ironforge.",
+    "name": "Drungeld Glowerglare",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

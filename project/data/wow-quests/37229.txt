@@ -1,0 +1,8 @@
+{
+    "_id": "37229",
+    "added_in_patch": 6,
+    "description": "Baelog and Eric swear there's got to be treasure at the bottom of the mine. Why? Because it's a mine! An' we sure do love rocks that sparkle.On our last trip, we were beaten back by huge ogres. Baelog held up the rear, swingin' his sword, while Eric rushed on ahead to try and find a quick exit.Wouldn't you know, in all that excitement, I done lost my shield AGAIN?<Olaf looks at you imploringly.>",
+    "name": "Like A Dwarf In A Mine",
+    "requires_level": 100,
+    "zone": "Bloodmaul Slag Mines"
+}

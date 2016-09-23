@@ -1,0 +1,7 @@
+{
+    "_id": "28381",
+    "description": "Barely a crow's flight to the north, goblins ravage this forest, clearcutting it to fuel the war machines of the Horde and line their own pockets. This one pays enough pleasant words and crafted lies to the druids here for them to turn a blind eye, afraid to disturb the tenuous neutrality here.The worgen of Talonbranch Glade have had enough. Join us! The hippogryph master can take you directly to our home. Denmother Ulrica will welcome any <race> who wishes to fight.",
+    "name": "The Denmother",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

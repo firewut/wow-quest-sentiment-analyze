@@ -1,0 +1,7 @@
+{
+    "_id": "11499",
+    "description": "<Class>, today I ask the impossible. Today, you must obtain the signet ring of Kael'thas Sunstrider, lord of the blood elves!It's true, the rumors of his death within Tempest Keep were ill-founded. He has appeared once more, this time at the Magisters' Terrace on the Isle of Quel'Danas. What he is doing there is a tale for someone else to tell you. What I know is that I have innumerable collectors interested in his princely ring, and I mean to acquire it for them.Or rather, I mean for you to do so.",
+    "name": "Wanted: The Signet Ring of Prince Kael'thas",
+    "requires_level": 70,
+    "zone": "Quests"
+}

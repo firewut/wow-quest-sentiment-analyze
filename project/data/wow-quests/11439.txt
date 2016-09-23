@@ -1,0 +1,7 @@
+{
+    "_id": "11439",
+    "description": "The brave dwarves of Kharanos can form a fire brigade in an instant, now that the Headless Horseman is around. Do you want to help?South of here, the mountaineers set up a small area to practice fighting fires.  Go there and throw buckets onto the blazes.  You can fill a bucket from the water barrel here.Good bye, <name>.  When you're done with fire brigade practice, please visit us again!",
+    "name": "Fire Brigade Practice",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

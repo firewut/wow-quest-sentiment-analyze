@@ -1,0 +1,9 @@
+{
+    "_id": "39512",
+    "added_in_patch": 6.2,
+    "description": "Gul'dan be growin' his Shadow Council like a spider spin a web. But some of this new blood, they not so smart. They write down the secrets but don't burn 'em.Catch his minions out in the open and bring their secrets back to me! You find them workin' with the arakkoa in da Ruins of Kra'nak or atop the Throne of Kil'jaeden.",
+    "name": "Secrets of the Shadow Council",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Tanaan Jungle"
+}

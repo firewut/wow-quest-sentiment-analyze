@@ -1,0 +1,8 @@
+{
+    "_id": "35542",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Old Hillsbrad Foothills Reward Quest",
+    "requires_level": 64,
+    "zone": "Quests"
+}

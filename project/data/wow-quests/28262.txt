@@ -1,0 +1,7 @@
+{
+    "_id": "28262",
+    "description": "Lord Tony Romano, one of the senior rogue trainers in Stormwind's SI:7, has sent word that he wants to speak with you. Head to Stormwind as soon as you can and look for him in the SI:7 building just south of Old Town.",
+    "name": "Meet with Lord Tony Romano",
+    "requires_level": 50,
+    "zone": "Stormwind City"
+}

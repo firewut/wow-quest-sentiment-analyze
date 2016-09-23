@@ -1,0 +1,7 @@
+{
+    "_id": "12028",
+    "description": "<Race>, we have not heard from our people at Indu'le Village since the ground shook and was torn apart!Have you ever been upon a vision quest? You've bested Loguhn, so you must be capable.I will give you a special incense to sprinkle into my brazier. Breathe deep from its vapors and your spirit will be sent aloft to view what has transpired at Indu'le.As your spirit soars, I will be able to look through your eyes.",
+    "name": "Spiritual Insight",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

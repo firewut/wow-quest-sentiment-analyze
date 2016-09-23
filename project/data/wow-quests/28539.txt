@@ -1,0 +1,7 @@
+{
+    "_id": "28539",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Huntress Jalin at Stardust Spire in Ashenvale.The Horde's forces are poised to push into Stonetalon and they must be opposed! You can reach Stardust Spire by traveling to the southern part of Ashenvale Forest, near the border with Stonetalon.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Stonetalon Mountains!",
+    "requires_level": 24,
+    "zone": "Stonetalon Mountains"
+}

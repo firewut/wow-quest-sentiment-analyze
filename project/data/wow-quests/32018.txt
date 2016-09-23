@@ -1,0 +1,8 @@
+{
+    "_id": "32018",
+    "added_in_patch": 5,
+    "description": "An unusual pandaren came through town a few days back. He told a better tale than Pan, drank twice as much as Lee, and then beat me up in front of the bar. All while his little niece made fun of us.It was awesome.They said they were headed to the Valley of the Four Winds. You should meet him! Just... watch out for that right hook.",
+    "name": "His Name Was... Stormstout",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

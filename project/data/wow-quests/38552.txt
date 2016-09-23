@@ -1,0 +1,8 @@
+{
+    "_id": "38552",
+    "added_in_patch": 7,
+    "description": "The tomb, I've found it.",
+    "name": "Lord Hal'shara's Tomb",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

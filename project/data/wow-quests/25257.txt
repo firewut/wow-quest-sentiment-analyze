@@ -1,0 +1,8 @@
+{
+    "_id": "25257",
+    "description": "I own a couple gladiators that I put into competitions around Kalimdor.  You can see most of them chained up around here... we were lucky to rein these ones in after the cart broke down.Ghislania, that naga over there... she's lost her last three fights.  She could use a tune-up, or maybe just a little bit of thrashing.  Go challenge her, I'll bet even YOU are stronger than she is.",
+    "name": "Ghislania",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Durotar"
+}

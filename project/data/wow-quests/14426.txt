@@ -1,0 +1,7 @@
+{
+    "_id": "14426",
+    "description": "This is the second quest!  This time you won't have to kill stuff.",
+    "name": "The Second Quest",
+    "requires_level": 2,
+    "zone": "Quests"
+}

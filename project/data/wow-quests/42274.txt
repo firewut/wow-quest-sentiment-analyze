@@ -1,0 +1,8 @@
+{
+    "_id": "42274",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Won't Anyone Think of the Whelps?",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "28666",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to John J. Keeshan at Flamestar Post.Your aid is urgently needed to put an end to the Blackrock orc menace!You can reach the Burning Steppes by traveling south from the Searing Gorge through Blackrock Mountain. Look for Flamestar Post on the far side of the mountain.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Burning Steppes!",
+    "requires_level": 49,
+    "side": "alliance",
+    "zone": "Burning Steppes"
+}

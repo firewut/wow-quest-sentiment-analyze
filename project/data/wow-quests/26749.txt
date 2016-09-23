@@ -1,0 +1,7 @@
+{
+    "_id": "26749",
+    "description": "Thank you, <name>.  I know you didn't have to save my life.The return of Bloodlord Mandokir is ill news.  He was killed inside Zul'Gurub several years ago, and we thought we had seen the last of him and his kind.  The trolls of Zul'Gurub were attempting to perform a hideous, horrible ritual.  If Mandokir is alive, then it stands to reason that he is not the only one.The explorers at Fort Livingston, far to the south, may know more.  Speak with their priestess.",
+    "name": "Priestess Thaalia",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

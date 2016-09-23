@@ -1,0 +1,7 @@
+{
+    "_id": "13287",
+    "description": "As someone of your experience must surely know, there's no better way to familiarize one's self with their enemy than by confronting them in combat.While you no doubt lust for the glory of taking Icecrown Citadel, that cannot happen without taking each of the Lich King's gates first. For now, you must focus your efforts on the first of these...Return to the Broken Front. Engage the enemy in battle. Search for a weakness we might exploit and return to me with a detailed report.",
+    "name": "Poke and Prod",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27816",
+    "description": "Shame about the Doyles. It's a fair miracle that as many of us made it out as is though, so can't count it as much of a surprise.Those louts at Thundermar are cowards. Even after tellin' them it was Keegan askin', they won't set foot outside of their town. I did rope in the Moores though, so that's at least three clans' worth.Keegan wanted to hear from ya personally when you returned. Go find'm in town.",
+    "name": "Personal Request",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

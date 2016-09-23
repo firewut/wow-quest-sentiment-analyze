@@ -1,0 +1,8 @@
+{
+    "_id": "39772",
+    "added_in_patch": 7,
+    "description": "Okay guess you can go say hi to Candleking now.",
+    "name": "Can't Hold a Candle To You",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

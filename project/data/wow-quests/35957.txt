@@ -1,0 +1,8 @@
+{
+    "_id": "35957",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Bloodmaul Slag Mines Reward Quest",
+    "requires_level": 90,
+    "zone": "Quests"
+}

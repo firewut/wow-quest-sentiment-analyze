@@ -1,0 +1,7 @@
+{
+    "_id": "36519",
+    "description": "",
+    "name": "The True Path",
+    "requires_level": 94,
+    "zone": "Talador"
+}

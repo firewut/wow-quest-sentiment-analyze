@@ -1,0 +1,8 @@
+{
+    "_id": "34900",
+    "added_in_patch": 6,
+    "description": "That's better, but there's still something wrong. I'm getting desperate here, <name>.Can I call ya, <name>? Great.Look, I think I have it now. I know what's wrong.They miss their babies.Yeah! When they first came here, the, uh... the bastard hunters that... abandoned them said they left the babies behind.If we're going to save them from a life of misery, if we're going to save those babies, <under his breath> and turn a tidy profit, we've got to get them some new babies!",
+    "name": "New Babies",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

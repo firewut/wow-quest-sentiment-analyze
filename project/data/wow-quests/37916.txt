@@ -1,0 +1,7 @@
+{
+    "_id": "37916",
+    "description": "Looking through Argoram's journal, it becomes apparent that claiming this relic will be far more complicated than simply finding the pieces of the spear.\r\n\r\nHowever, that would be the best place to start...",
+    "name": "Gronnsbane: The Broken Spear",
+    "requires_level": 100,
+    "zone": "Frostfire Ridge"
+}

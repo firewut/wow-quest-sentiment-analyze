@@ -1,0 +1,8 @@
+{
+    "_id": "13967",
+    "description": "The furbolg are more numerous than we expected in these southern regions. They have also been far more aggressive here than we would like.With our resources divided between hunting down elves and harvesting much-needed lumber, that leaves you to help me put an end to our furbolg distraction.I have research to conduct here. In the meantime, I need you to take a more hands-on approach. Bring me the ears of nearby furbolg as proof to Tarkan that the problem is being dealt with.",
+    "name": "Thinning the... Herd?",
+    "requires_level": 23,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

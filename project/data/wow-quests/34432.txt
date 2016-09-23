@@ -1,0 +1,9 @@
+{
+    "_id": "34432",
+    "added_in_patch": 6,
+    "description": "We will protect the wounded prisoners and make sure Kargath doesn't get through the rubble. You go ahead and clear the cave, <name>.",
+    "name": "The Shadowmoon Clan",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Assault on the Dark Portal"
+}

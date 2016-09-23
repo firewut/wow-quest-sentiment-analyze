@@ -1,0 +1,8 @@
+{
+    "_id": "13988",
+    "description": "An explosion of life from barren soil... My companion Jerrik has described similar events happening elsewhere in the Barrens. I shall have to see this for myself, but I cannot abandon my post.Here, <name>, I will loan you my 'eyes.' My eagle companion here has served me since I was named. Please accompany him to Thunderhead Summit, where Jerrik awaits, and we will investigate.To get to the peak, follow the road east out of the Crossroads. Turn south when you reach a large stone scrawled with paintings.",
+    "name": "A Growing Problem",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

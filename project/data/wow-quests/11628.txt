@@ -1,0 +1,7 @@
+{
+    "_id": "11628",
+    "description": "To the northeast looms the Temple City of En'kilah, the Scourge's seat in Borean Tundra. From behind its walls, the Scourge commander has sent his Nerubians to surround us.Remaining on the defensive would doom my people, but my advisors differ in their strategies. Durm would charge in blindly, while Sage Aeire favors stealth.The Temple City has blighted the nearby lands and the native creatures. Aeire believes the pelts of the scourged mammoths can serve as a cloak that may hide an infiltrator.",
+    "name": "Shrouds of the Scourge",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

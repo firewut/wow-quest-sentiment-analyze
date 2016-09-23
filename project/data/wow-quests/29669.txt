@@ -1,0 +1,7 @@
+{
+    "_id": "29669",
+    "description": "I must now ask you to complete a most somber task.Warp Splinter used to act as guardian to all of the Botanica. He is now impure, and must be taken down.",
+    "name": "A Most Somber Task",
+    "requires_level": 67,
+    "zone": "Quests"
+}

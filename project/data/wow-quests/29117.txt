@@ -1,0 +1,7 @@
+{
+    "_id": "29117",
+    "description": "The other day, when some of us were out with the matron, I saw a gnome pushing a cart filled with toys. He had dolls, copper racers, leather balls, and some kites. I've always wanted to get a dragon kite and the matron said that if I saved all my money I could buy one, but that's going to be a long time.I think the gnome's name was Craggle Wobbletop or something like that. If we can find him, could we get some kites and fly them together? I saw him walking around the canals outside the Trade District.",
+    "name": "Let's Go Fly a Kite",
+    "requires_level": 10,
+    "zone": "Children's Week"
+}

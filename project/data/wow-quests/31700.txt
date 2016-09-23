@@ -1,0 +1,8 @@
+{
+    "_id": "31700",
+    "added_in_patch": 5,
+    "description": "I loathe sprites! One time, one of those nasty buggers followed me all day, putting dirt in my tea and bugs in my hair.I mean, who does that!?Well, I think it's time for a little payback. Do you know what the sprites up at Windward Isle love more than anything in the world?Yeah, you guessed it. Shoes!And we're going to steal them. Won't that make them mad! Hah!Well, I'm scared to go near sprites, so you'll have to do it, <name>. ",
+    "name": "The Shoe Is On The Other Foot",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

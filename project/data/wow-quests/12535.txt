@@ -1,0 +1,7 @@
+{
+    "_id": "12535",
+    "description": "You good hunter, but Frenzyheart can make you stronger. Harkek think maybe you ready for something more important.Before Rakjak send you on important mission, you need gather things for Rakjak. All along river to south are blue crystals. Rakjak need lots of blue crystals.You go get crystals now.",
+    "name": "Mischief in the Making",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

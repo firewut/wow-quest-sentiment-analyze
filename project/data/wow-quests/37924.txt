@@ -1,0 +1,8 @@
+{
+    "_id": "37924",
+    "added_in_patch": 6.2,
+    "description": "It would go a bit faster if you could mark any bigger piles of resources you see while you are clearing those guys out.Just drop this flag down and someone will be along directly!",
+    "name": "Maritime Salvage",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30625",
+    "added_in_patch": 5,
+    "description": "Those five students - the ones who were looking for the Hidden Master - they went up to the front lines, alone. I'd send Shado-Pan to aid them, but I haven't got any left.There's dangerous creatures up there near the wall. If you find those students, make sure that they haven't fallen to any of them.",
+    "name": "Students No More",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

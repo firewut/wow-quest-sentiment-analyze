@@ -1,0 +1,7 @@
+{
+    "_id": "14270",
+    "description": "The air around this strange stone crackles with energy. The stone itself is smooth and icy cold. It pulses periodically as you run your hands over it, like the crashing of surf.A wedge-shaped piece appears to be missing from the top surface of the artifact. This 'keystone shard' is likely the key to unlocking the secrets of the stone. Search the grounds near the temple and locate the keystone shard.",
+    "name": "The Keystone Shard",
+    "requires_level": 11,
+    "zone": "Azshara"
+}

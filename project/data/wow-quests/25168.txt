@@ -1,0 +1,8 @@
+{
+    "_id": "25168",
+    "description": "Northwatch is a highly-defended stronghold southwest of here, across the harbor.  It's a strategically-located stronghold that the Horde still struggles to overtake.  We don't need the humans setting up another Northwatch here in Durotar.Sweep through the valley to the west and slay these humans, <name>.  Let them know the power and the fury of Sen'jin.",
+    "name": "Purge the Valley",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

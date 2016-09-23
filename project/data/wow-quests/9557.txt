@@ -1,0 +1,7 @@
+{
+    "_id": "9557",
+    "description": "Lacking the means to read the book's contents, you think about who might be able to help you separate the author's words from the mapmaker's scrawl.Remembering Anchorite Paetheus's collection of artifacts from countless cultures, you wonder if his experienced eye might be able to help you decipher the book's contents.",
+    "name": "Deciphering the Book",
+    "requires_level": 13,
+    "zone": "Bloodmyst Isle"
+}

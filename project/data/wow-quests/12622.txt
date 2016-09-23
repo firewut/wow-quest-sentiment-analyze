@@ -1,0 +1,7 @@
+{
+    "_id": "12622",
+    "description": "You thinkin' what Ahunae thinkin', mon?Some of the Drakkari trolls have gathered at the Pools of Jin'Alai to the southwest. We be needin' to draw out their leaders, and Ahunae knows just how you be doin' it, too!Go in there and kill those trolls. When you kill enough, their leaders show up.When they show up next to their totems, you make sure to be gettin' the treasure of Kutube'sa, Gawanil, and Chulo the Mad, mon.",
+    "name": "The Leaders at Jin'Alai",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

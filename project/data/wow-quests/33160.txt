@@ -1,0 +1,8 @@
+{
+    "_id": "33160",
+    "added_in_patch": 5.4,
+    "description": "You have found your way to the Timeless Isle, <class>. The bronze dragonflight is keen to investigate the mysteries of this place, but the island is dangerous, and we will need your help.Midway up this beach, you will find a paved path to the east.It will lead you to the ancient Celestial Court. You will find Kairoz there, one of the Keepers of Time that we are working with.Kairoz will answer any questions you might have. Be careful: The way may not be safe.",
+    "name": "Time Keeper Kairoz",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

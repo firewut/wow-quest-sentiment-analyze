@@ -1,0 +1,8 @@
+{
+    "_id": "12451",
+    "description": "While we build Conquest Hold, I sent Scout Vor'takh to make contact with our taunka allies in the east. They're based in Camp Oneqwah, which is in the easternmost part of Grizzly Hills, beyond Grizzlemaw.Make the journey there, hear Vor'takh's report and offer your assistance with anything he and the local chieftain may need. Your contributions to Conquest Hold have been exemplary and I know Vor'takh will be grateful for the assistance.",
+    "name": "Onward to Camp Oneqwah",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

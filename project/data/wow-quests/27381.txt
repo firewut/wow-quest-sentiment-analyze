@@ -1,0 +1,7 @@
+{
+    "_id": "27381",
+    "description": "While we're waiting here at this tower, we might as well see if anybody else is headed to Light's Hope Chapel.  The more, the merrier, I say!Ask around to see if anybody wants to join us on our trip.  I'm sure you can find somebody who's headed to Light's Hope.",
+    "name": "Traveling Companions",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

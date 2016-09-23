@@ -1,0 +1,7 @@
+{
+    "_id": "28782",
+    "description": "Local legend tells of a mighty owl that circles the mountaintops like death on wings.  They named her Deathwing.Soon afterwards, they were told that that name was already taken.  So they settled on a moniker that evoked a similar sense of horror and dread:Hell-Hoot.Hell-Hoot can be found atop the mountain to the southwest of our smoking pit.  Silence the infernal nocturnal... so we can eat her!",
+    "name": "A Bird of Legend",
+    "requires_level": 51,
+    "zone": "Winterspring"
+}

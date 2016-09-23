@@ -1,0 +1,7 @@
+{
+    "_id": "12626",
+    "description": "<Corvus salutes.>Our stockpiles of weapons, armor and munitions are nearly at maximum capacity. We are ready for war!<Corvus rolls up a fleshy piece of vellum.>On the other side of this garrison floor, southwest of here, you will find the officers' quarters. Take this status report there and deliver it to Scourge Commander Thalanor, battalion commander of the Company of the Damned.",
+    "name": "Company of the Damned",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

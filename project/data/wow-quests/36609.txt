@@ -1,0 +1,9 @@
+{
+    "_id": "36609",
+    "added_in_patch": 6,
+    "description": "What's this species, a molten catfish you say? I have never even heard of a fish like this, much less seen one in person!\r\n\r\nI have to find more fish like this, it's what I live for! And if the fishing is as good as you say it is, there is just no way I can pass this opportunity up.  Take this page from my journal as proof that you found me and I will meet you back at your Garrison.",
+    "name": "The Great Angler Returns",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Fishing"
+}

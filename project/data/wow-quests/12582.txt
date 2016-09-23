@@ -1,0 +1,7 @@
+{
+    "_id": "12582",
+    "description": "",
+    "name": "Frenzyheart Champion",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

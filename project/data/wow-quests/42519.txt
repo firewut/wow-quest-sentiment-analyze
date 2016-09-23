@@ -1,0 +1,8 @@
+{
+    "_id": "42519",
+    "added_in_patch": 7,
+    "description": "As leader of our order, other hunters will look to you for guidance. Many will be willing to pledge themselves to you, doing whatever is necessary in the name of the Unseen Path.I know of two within our ranks who are impressed with what they've seen from you so far, and want to help any way they can.Seek them out, and let them ease the burden of leadership.",
+    "name": "Rise, Champions",
+    "requires_level": 101,
+    "zone": "Hunter Campaign"
+}

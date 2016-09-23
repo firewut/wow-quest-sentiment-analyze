@@ -1,0 +1,7 @@
+{
+    "_id": "25951",
+    "description": "Get to the bridge on the east, quickly. Lady Naz'jar and the Fathom-Lord should be there with whatever forces remain.Follow our Lady's direction, as always. Hold the bridge until we can complete the ritual.Once our allies arrive, the Kvaldir will be doomed.",
+    "name": "Final Judgment",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

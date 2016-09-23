@@ -1,0 +1,7 @@
+{
+    "_id": "10865",
+    "description": "Quickly, you must inform Leoroxx of what is transpiring up at Razaan's Landing!Those orbs were comprised of souls, some of them Mok'Nathal!",
+    "name": "Inform Leoroxx!",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

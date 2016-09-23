@@ -1,0 +1,8 @@
+{
+    "_id": "11896",
+    "description": "You now have the power of the storm within you. I will give you the means to focus that power and weaken the robots in the pools.Take this lightning rod. Use it against the robotic creations of the mechagnomes you find within the greater pools area to the west. Do not worry about using it against the mechagnomes themselves; Greatmother Taiga has other plans for them.Once the robots are weakened by the power of the storm, dismantle them utterly!",
+    "name": "Weakness to Lightning",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

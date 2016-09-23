@@ -1,0 +1,8 @@
+{
+    "_id": "42411",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Beastmaster Hilaire",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

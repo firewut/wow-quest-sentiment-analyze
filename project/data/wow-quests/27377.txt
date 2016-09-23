@@ -1,0 +1,7 @@
+{
+    "_id": "27377",
+    "description": "We knew this was a possibility, but we had no idea how the beast would defend itself. Iso'rath's body is reacting quickly to our threat.I can complete the summoning from here, but only if you can hold back Iso'rath's defenses. Keep them busy! We will survive this!",
+    "name": "Devoured",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

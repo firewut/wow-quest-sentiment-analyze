@@ -1,0 +1,8 @@
+{
+    "_id": "31958",
+    "added_in_patch": 5,
+    "description": "You wish to test yourself against me once more? Very well, let us fight.",
+    "name": "Grand Master Aki",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

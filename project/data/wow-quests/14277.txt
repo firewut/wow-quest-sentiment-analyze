@@ -1,0 +1,8 @@
+{
+    "_id": "14277",
+    "description": "Most of us made it here alive... but there are worgen on this side of the city as well.We're going to continue heading south once everyone's accounted for.That reminds me, someone was asking about you.  It was a mage named Myriam.  She mentioned something about you being \"ready.\"",
+    "name": "Arcane Inquiries",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

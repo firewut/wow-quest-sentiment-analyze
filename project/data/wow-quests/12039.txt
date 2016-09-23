@@ -1,0 +1,8 @@
+{
+    "_id": "12039",
+    "description": "Angrathar, the Wrathgate... I watched as the metal holding the gate together pulsed and undulated as if it were alive! In 50 years I've never seen metal \"breathe.\"Only ones who knew anything about it were the tuskarr. They called it the \"Black Blood of Yogg-Saron\" and told me to keep my distance.There's a sinkhole outside Icemist Village to the west called the Pit of Narjun. I've heard of these sinkholes being rich with this strange ore. If you head that way, could you try and get me some samples?",
+    "name": "Black Blood of Yogg-Saron",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27824",
+    "description": "I've got a little proposition for you, if you're interested.Those Dark Irons were here before Durdin and his crew arrived.  That means that, once these titan ruins opened up, the dark irons were the first ones in there, lootin' all the good stuff.  I'll bet they've still got those treasures locked up inside Angor Fortress, northwest of here.You've more than proven your ability to wallop a dwarf.  Head on into that fortress and wallop your way to titan treasure.I'd go with, but I'm drunk.",
+    "name": "The Good Stuff",
+    "requires_level": 44,
+    "side": "alliance",
+    "zone": "Badlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28145",
+    "description": "Iset attempted to defend this holy ground when the Wastewander bandits ransacked it.They appear to have used the potent toxin present in the venomblood scorpids.Take this vial and collect venom from their corpses so that I may concoct an antidote.  I fear Iset might not have much time.",
+    "name": "Venomblood Antidote",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

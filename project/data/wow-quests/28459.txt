@@ -1,0 +1,7 @@
+{
+    "_id": "28459",
+    "description": "The Shattered Hand has discovered increased collaboration between Twilight's Hammer and the Dark Iron dwarves in Blackrock Depths. We have an opportunity to strike at our enemies and empower ourselves, <name>.Twilight's Hammer followers have placed a number of elemental binding stones throughout Shadowforge City, the Domicile, the Shrine of Thaurissan, the West Garrison and the East Garrison. Find and capture those stones!",
+    "name": "Stones of Binding",
+    "requires_level": 50,
+    "zone": "Blackrock Depths"
+}

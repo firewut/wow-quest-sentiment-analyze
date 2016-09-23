@@ -1,0 +1,8 @@
+{
+    "_id": "39349",
+    "added_in_patch": 7,
+    "description": "The next ingredient on the list will supposedly add strength to the mix, according to Deucus. I've heard of it before, but haven't really used it.It's called Sabelite Sulfate, and it's said the elves of Black Rook Hold use it in their blacksmithing.Something like that won't just be lying around. You may have to delve deep into the hold to find it.And due to its weight, I made need a concoction of yours to compensate, something to give me a bit more strength.",
+    "name": "Heavy, But Helpful",
+    "requires_level": 110,
+    "zone": "Alchemy"
+}

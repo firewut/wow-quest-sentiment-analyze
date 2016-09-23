@@ -1,0 +1,8 @@
+{
+    "_id": "42918",
+    "added_in_patch": 7,
+    "description": "Hodir valiantly went through that demonic portal. He should've earned an honorable death, but instead was taken prisoner by Legion scum.We always imagined the battles of the end days to take place here in Azeroth, but we shall bring the fight to the enemy if it means sparing one of our own that terrible fate.Hymdall thinks that with the right power source, he can reactivate and redirect to Legion's own gateways. Gather demonic runestones from Legion and let the final conflict begin!",
+    "name": "Demonic Runes",
+    "requires_level": 110,
+    "zone": "Warrior Campaign"
+}

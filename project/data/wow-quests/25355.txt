@@ -1,0 +1,8 @@
+{
+    "_id": "25355",
+    "description": "Lo'Gosh granted me a vision while you were in the hovel, <name>. I saw you striding across the Lightning Ledge, with lightning bolts in your hand. The vision was powerful: Lo'Gosh feels this is of utmost importance. We must not fail the ancient.Upon the Lightning Ledge, Twilight's Hammer has been experimenting with devices they call \"Lightning Channels.\"Investigate one of these channels, then use this totem to summon the Spirit of Lo'Gosh and learn what the ancient is planning...",
+    "name": "Lightning in a Bottle",
+    "requires_level": 80,
+    "side": "horde",
+    "zone": "Mount Hyjal"
+}

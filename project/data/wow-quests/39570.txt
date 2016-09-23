@@ -1,0 +1,9 @@
+{
+    "_id": "39570",
+    "added_in_patch": 6.2,
+    "description": "Gul'dan has been building a spy network for himself - the so-called \"Shadow Council\". As they struggle to control Tanaan, the Shadow Council has grown careless. Their members are out in the open, recruiting arakkoa at the Ruins of Kra'nak or summoning demons at the Throne of Kil'jaeden.Find members of the Shadow Council and acquire any intelligence they were foolish enough not to destroy!",
+    "name": "Secrets of the Shadow Council",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25301",
+    "description": "<During your brief communion with the Eye, you felt that its power source lay deep within the hovel. You felt the weight of a powerful tome, binding together four elements.><Mastering the Eye will require you to search the hovel for this tome.>",
+    "name": "Mastering Puppets",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

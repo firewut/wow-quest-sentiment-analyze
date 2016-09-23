@@ -1,0 +1,8 @@
+{
+    "_id": "42231",
+    "added_in_patch": 7,
+    "description": "It appears we have been afforded a unique opportunity.A small order of paladins has come forward claiming to know the location of Tyr's tomb. They say they are the protectors of his warhammer, but that the ancient weapon is now imperiled.I'd like you to speak with Travard, their leader, to find out more about this artifact.",
+    "name": "The Mysterious Paladin",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9636",
+    "description": "Have you seen the swamp gas?  Isn't it just shiny?It takes a Zapthrottle Mote Extractor to suck 'em dry though.  I could give you the plans to make one, but I really need some spare parts to fix stuff 'round here.Last time I checked, there were plenty of parts lying around near the steam pump at the Dead Mire to the northeast.  I think the withered giants broke the pump out there.Shall we help each other out?",
+    "name": "The Zapthrottle Mote Extractor!",
+    "requires_level": 58,
+    "zone": "Engineering"
+}

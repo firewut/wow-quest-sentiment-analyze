@@ -1,0 +1,8 @@
+{
+    "_id": "29627",
+    "added_in_patch": 5,
+    "description": "First things first, though.A proper trainee needs a proper weapon. And a scrupulous trainee builds his own... or at least gathers the materials.The switches which grow nearby should suffice for any respectable weapon. You'll also need to shop for black walnut extract to treat the wood. While you're there, get some ale, for...<Wu pauses.>...well, you know what ale is for.",
+    "name": "A Proper Weapon",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

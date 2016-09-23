@@ -1,0 +1,8 @@
+{
+    "_id": "32617",
+    "added_in_patch": 5.2,
+    "description": "",
+    "name": "A Mountain of Giant Dinosaur Bones",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

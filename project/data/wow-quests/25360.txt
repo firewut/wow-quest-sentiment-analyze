@@ -1,0 +1,7 @@
+{
+    "_id": "25360",
+    "description": "These crabs are not friendly. Not. Friendly.Sam's endless drilling is riling them up. I know from experience that there's no stopping Sam, so let's look into the other side of things, shall we?",
+    "name": "Crabby Patrons",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

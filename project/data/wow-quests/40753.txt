@@ -1,0 +1,8 @@
+{
+    "_id": "40753",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Blingtron 6000",
+    "requires_level": 1,
+    "zone": "Engineering"
+}

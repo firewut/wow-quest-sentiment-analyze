@@ -1,0 +1,8 @@
+{
+    "_id": "14127",
+    "description": "The wax seal on these orders has been freshly broken. You can't read the carefully-penned night elven script, but a small hand-drawn map indicates the nearby ruins. Underneath the map, written in a different language entirely, are a series of runes penned in a metallic, shimmering ink.Ag'tor will no doubt want to see this important piece of intelligence. ",
+    "name": "Return of the Highborne?",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Azshara"
+}

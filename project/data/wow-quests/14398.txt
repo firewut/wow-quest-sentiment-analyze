@@ -1,0 +1,8 @@
+{
+    "_id": "14398",
+    "description": "It's not going to be easy to get Grandma Wahl to come with us.  You must do whatever you can to convince her, though.You'll find her at the Wahl Cottage.  Please, <name>.  Do not lose your patience with her.  Her mind is old and she's not entirely lucid.",
+    "name": "Grandma Wahl",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

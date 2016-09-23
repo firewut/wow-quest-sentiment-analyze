@@ -1,0 +1,8 @@
+{
+    "_id": "28730",
+    "description": "Tenaron Stormgrip oversees all that happens in this glade. He presides at the top of Aldrassil.If you look to your south, you will see the underside of the ramp that leads up to him. Ascend this ramp and complete your training.It was wonderful to have met you, <name>. I swell with pride knowing that among young night elves, there are some so selfless and full of life as you are. You will do great things for our people. You will do great things for this world.Until we meet again.",
+    "name": "Precious Waters",
+    "requires_level": 3,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

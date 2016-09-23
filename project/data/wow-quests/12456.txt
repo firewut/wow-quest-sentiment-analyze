@@ -1,0 +1,7 @@
+{
+    "_id": "12456",
+    "description": "I can feel that the shrine is not completely back in balance. The verdant keeper has been angered by our actions, and I sense that he will not listen to reason.Alystros is an immense skytalon who perches at the south end of the Emerald Dragonshrine. It is he who is in charge of the dragonshrine's aerial defenses. I fear that we will have to deal with him.Take these skytalon molts and place them on the ground where he can see them. He will come. Bring me his plume.",
+    "name": "The Plume of Alystros",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

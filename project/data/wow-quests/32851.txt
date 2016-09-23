@@ -1,0 +1,8 @@
+{
+    "_id": "32851",
+    "added_in_patch": 5.3,
+    "description": "The Blingtron line didn't really pick up until the 4000 series hit the vendor shelves. Few remember the Blingtron 3000, but it was a real engineering marvel in its own right!The challenge card you've unlocked gives you the ability to fight Blingtron 3000 right here, in the Brawler's Guild.Lucky you!",
+    "name": "Blingtron 3000",
+    "requires_level": 100,
+    "zone": "Brawler's Guild"
+}

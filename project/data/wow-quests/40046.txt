@@ -1,0 +1,8 @@
+{
+    "_id": "40046",
+    "added_in_patch": 7,
+    "description": "The kvaldir exist to spite Odyn, and it is here their spiteful work is done. They rob the souls of the living - the souls not yet judged - thus robbing Odyn of his champions.\r\n\r\nThey bring them here to transport to Helya, though the mists obscure any indications of how.\r\n\r\nYou seem to fare the mists well. Perhaps if you search the wreckage in the bay, the answer may present itself. You outsiders seem to have a knack for uncovering the most hidden of secrets.",
+    "name": "Scavenging the Shallows",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

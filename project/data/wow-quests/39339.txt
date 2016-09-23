@@ -1,0 +1,8 @@
+{
+    "_id": "39339",
+    "added_in_patch": 7,
+    "description": "I have customers asking for alchemist stones, but I'm unable to make any until I replace my crucible.In order to create a new one, we'll need a few things, but first we'll need a proper container. Something that can be augmented to withstand a demon's breath.There's a place in Suramar which the Legion has occupied. There surely must be a device there we can take that will be suitable for our needs.",
+    "name": "A Fragile Crucible",
+    "requires_level": 110,
+    "zone": "Alchemy"
+}

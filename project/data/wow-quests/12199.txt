@@ -1,0 +1,7 @@
+{
+    "_id": "12199",
+    "description": "Now that the golem is fully charged, it can be used against the leader at Dun Argol.When I observed Iron Thane Furyhammer, he was always guarded by a personal golem that shielded him from all harm.That construct, called The Anvil, can be disrupted, causing him to drop the shield. Use your golem's EMP ability to do just that. You'll be able to activate and take control of your golem inside Dun Argol.The thane is in the main plant at the top and supervises production from the bottom level.",
+    "name": "Bringing Down the Iron Thane",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25329",
+    "description": "So the Twilight's Hammer thinks it can just raise its own army of ogres here? In the middle of Horde territory? We'll see about that.Ogres only respect one thing: strength. I want you to lead the assault on Cho'gall's sermon, <name>. Throw wide the doors of Dire Maul, leap into the arena, and cut down his attendants.",
+    "name": "Might of the Stonemaul",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

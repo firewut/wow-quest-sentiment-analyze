@@ -1,0 +1,8 @@
+{
+    "_id": "27025",
+    "description": "It's stabthistle season! Stabthistle seeds are responsible for up to 89% of seed-related injuries among hunters.You'll find stabthistle seeds mostly in the lower woodland just north of the lodge. They're commonly found at the base of trees, and they will stab and hurt you.I'd advise you to avoid them, but I actually need someone to help remove them for the sake of safety! Bring me back stabthistle seeds so we can make sure others don't get hurt.",
+    "name": "Thistle While You Work",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

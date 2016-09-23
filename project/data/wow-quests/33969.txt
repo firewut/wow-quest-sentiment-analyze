@@ -1,0 +1,9 @@
+{
+    "_id": "33969",
+    "added_in_patch": 6,
+    "description": "The spiders in the nearby overrun mine are feared by many, for their venom twists the very form of their victims. Many of the locals stay far away from their hollow, but I fear the Shadow Council has become privy to this information.Our scouts report that their warlocks are infusing these spiders with fel energy so that their venom turns their victims into demonic minions!We must destroy the defiling crystals so this madness does not spread.",
+    "name": "Vile Defilers",
+    "requires_level": 95,
+    "side": "alliance",
+    "zone": "Talador"
+}

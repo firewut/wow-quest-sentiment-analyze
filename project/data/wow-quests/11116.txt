@@ -1,0 +1,7 @@
+{
+    "_id": "11116",
+    "description": "Four trials you must pass before you are deemed worthy of the Tempest key.Only one obstacle remains, mortal. Gather an army and travel to the lair of Magtheridon, deep inside Hellfire Citadel. Battle your way to the heart of the chamber and destroy the foul corrupter!Do this and you will be granted the Tempest key.",
+    "name": "Trial of the Naaru: (QUEST FLAG)",
+    "requires_level": 70,
+    "zone": "Magtheridon's Lair"
+}

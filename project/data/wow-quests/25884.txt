@@ -1,0 +1,7 @@
+{
+    "_id": "25884",
+    "description": "Oh fer the love of...I know our survivor friend here means well, but the lad's been severely traumatized.There only be one way ta deal with these accursed beasts, an' that be a fine dwarven axe buried hilt-deep in the noggin.Pile up enough o' their corpses an' they'll think twice before fiddlin' with yer tasty bits.Mark me words laddie, them buggers don't like the sight o' their own blood any more than you or I.Now git out there an' give 'em what fer!",
+    "name": "Come Hell or High Water",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

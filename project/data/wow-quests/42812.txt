@@ -1,0 +1,8 @@
+{
+    "_id": "42812",
+    "added_in_patch": 7,
+    "description": "Before we march on the Broken Isles, <name>, we must put Highlord Tirion to rest.There is but one place suitable for a paladin of his caliber... Light's Hope Sanctum, a secret bastion of the Light hidden beneath our chapel here.Paladins the world have gathered below for the ceremony. They await your arrival to begin the ceremony.",
+    "name": "We Meet at Light's Hope",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

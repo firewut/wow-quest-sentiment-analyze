@@ -1,0 +1,7 @@
+{
+    "_id": "27942",
+    "description": "Zhere is somezhink I need handled, <race>.My most trusted advisor has run afoul of an ancient curse. A hex zhat has transformed zhe man into a turkey, of all zhings!I haff studied for days to discover a remedy for his condition, and finally I am ready to conduct zhe ritual.I vill reqvire several idols from zhe nearby ruins. You are to brink zhem to me at vonce!Dismissed!",
+    "name": "Idolatry",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

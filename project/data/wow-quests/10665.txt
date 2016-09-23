@@ -1,0 +1,7 @@
+{
+    "_id": "10665",
+    "description": "Working with the ingots you brought is going to require a lot of heat -- rather more than a conventional forge can supply.I'm going to need a supplemental heat source for the forge and there are very few things in Outland that can supply that kind of power.The Mechanar area of Tempest Keep turns out manacells containing an incredible amount of power. Find one of the overcharged manacells from the stacks around Mechano-Lord Capacitus and bring it back here.",
+    "name": "Fresh from the Mechanar",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

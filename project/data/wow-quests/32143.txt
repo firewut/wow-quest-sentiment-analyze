@@ -1,0 +1,8 @@
+{
+    "_id": "32143",
+    "added_in_patch": 5.1,
+    "description": "Greetings $p! I have heard a lot about your success in the field. I would like to use your services to test my latest \"Siege-o-Matic\", a device of terrible and varied abilities.I promise it is mostly harmless to its users.When you are around Domination Point be on the look out for my Scout-o-Meters. They have been dispatched to get info on good siege targets. When you find one, activate it and I will pilot a Siege-o-Matic to your location.See you in the field... as it were.",
+    "name": "A Kind of Magic",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

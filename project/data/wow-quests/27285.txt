@@ -1,0 +1,7 @@
+{
+    "_id": "27285",
+    "description": "Ah, I almost missed this... The leather strap on the back must have burned off, but it seems like it was made to fit a large person. I'd guess a tauren, actually.That's about all I can tell you. Tell Captain Vimes I'm sorry I couldn't be of more help.",
+    "name": "The Black Shield",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "6386",
+    "description": "My wind riders are trained to fly to many different places, as long as you have already been to that place and spoken with the wind rider master there.You have been to Razor Hill and spoken to their wind rider master Burok, so now you can fly directly to him from here.  Once you're at Razor Hill, you can deliver Gryshka's letter to Grimtak.Speak with me when you are ready to go.",
+    "name": "Return to Razor Hill",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Durotar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12471",
+    "description": "I thank you for saving me, <name>.  The kvaldir are animals!They made us fight the other prisoners.  It would've been more merciful to just kill us all.The youngling Karuk is still alive -- I noticed him arrive here.  Tell him his father fought until the end.",
+    "name": "Cruelty of the Kvaldir",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12673",
+    "description": "If ya ever gonna be worthy of da Lich King's gifts, ya must learn ta be a great leader - one who be commandin' respect!I got a task dat gonna refine your command skills, mon....Summa my minions be trained ta harvest blight crystals from da land below, but dey be lazy and slow. You gonna be in charge o' dem, mon.Take dis scepter and teach 'em how to get da job done. When dey be under your control, make 'em harvest dem crystals!",
+    "name": "It Rolls Downhill",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41957",
+    "added_in_patch": 7,
+    "description": "I've obtained a request from Vindicator Boros in Dalaran asking for our help.He has recovered a soldier who escaped from the Legion! He was injured and his wounds are resisting every healing treatment available to them. Normally this would fall to an acolyte to handle, but the soldier mentioned T'uure in his delirium! I thought the holy gem was lost!You are strong with the Light, perhaps you can succeed where they can't?If you need it, Brother Larry can provide you with a flight to Dalaran.",
+    "name": "The Vindicator's Plea",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26153",
+    "description": "My daughter Penny loves pumpkin pancakes but we have had a shortage of pumpkins here in Elwynn from the frostbite last season.  I have heard of a new pumpkin patch north of Stormwind that might be ripe for the picking now though.  Head out and harvest a few of those ripe pumpkins for me and let's see what we can do.",
+    "name": "Penny's Pumpkin Pancakes",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Cooking"
+}

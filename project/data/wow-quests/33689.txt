@@ -1,0 +1,9 @@
+{
+    "_id": "33689",
+    "added_in_patch": 6,
+    "description": "I have a hunting den not far from here where I gather my trophies as well as reagents for the Laughing Skull. Not long ago this giant plant monster charged in from the overgrowth and was killed by several of the giant rock monsters. Since it died smaller plant beasts have sprung up and made a mess of the place.They have also cut me off from my best source of reagents. Kill them, I will attempt to reach my den and salvage what I can...",
+    "name": "Plant Pruning",
+    "requires_level": 93,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

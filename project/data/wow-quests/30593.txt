@@ -1,0 +1,9 @@
+{
+    "_id": "30593",
+    "added_in_patch": 5,
+    "description": "The admiral's asked me to take care of a major problem, but my specialty's in healing, not fighting!The pandaren in the camp here have told me that something is animating the statues to the northeast at Mogujia.Will you help me out, <name>? We can't afford to have a fight with an army of statues right now.",
+    "name": "Deanimate the Reanimated",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

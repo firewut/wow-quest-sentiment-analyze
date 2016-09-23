@@ -1,0 +1,7 @@
+{
+    "_id": "9702",
+    "description": "I was wondering why the bog lords were crossing the road to go to the Spawning Glen - they must be starving for some reason.  This just will not do!I mean, normally I wouldn't get involved, but if they continue to eat all of the sporeling pods they'll wipe them out!Here's what we'll do: I'll stay here and you head to the Quagg Ridge to the east and look for dietary clues as to why they're raiding the sporelings.",
+    "name": "A Question of Gluttony",
+    "requires_level": 61,
+    "zone": "Zangarmarsh"
+}

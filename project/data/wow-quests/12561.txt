@@ -1,0 +1,7 @@
+{
+    "_id": "12561",
+    "description": "This should never have happened.  The forces of undeath storm the very cradle of life!If you're not here to destroy the minions of the Lich King, then leave at once.  Do not incur my wrath by distracting me from my duties.",
+    "name": "An Issue of Trust",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

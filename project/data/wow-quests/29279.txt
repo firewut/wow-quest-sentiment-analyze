@@ -1,0 +1,7 @@
+{
+    "_id": "29279",
+    "description": "We've constructed this moonwell, but it serves little purpose until it is filled with the sacred waters of the Well of Eternity.With an active moonwell, we would be able to bless our food stores, and we may also be able to use the blessing to offer you some protection from fire as well.When you've obtained enough marks, speak to Matoclaw at the Sanctuary of Malorne. She'll be able to secure transport of the sacred waters.",
+    "name": "Filling the Moonwell",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

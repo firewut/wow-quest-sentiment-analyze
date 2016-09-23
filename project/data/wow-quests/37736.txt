@@ -1,0 +1,8 @@
+{
+    "_id": "37736",
+    "added_in_patch": 7,
+    "description": "Now stop right there. Look at you! You look like you just walked in off of the street. Where are your robes and hat?And don't tell me you've entered the academy without your wand and spellbook.Freshmen.Put yourself together, and maybe then I will consider letting you enter the academy.",
+    "name": "Dressing With Class",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30942",
+    "added_in_patch": 5,
+    "description": "Shhh! Don't speak so loudly! My father might hear you.<Shomi gestures to Steelbender Doshu.>My father is delusional! He thinks I should be studying my tea pouring while our village is under attack. It's ridiculous! I have just as much courage as any man. I just don't know how to fight... yet.That's where you come in. Let me travel with you! I'm a fast learner and I won't get in the way I promise!Pleaseeeeee!If we get separated I'll meet you back in the village.",
+    "name": "Make A Fighter Out of Me",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

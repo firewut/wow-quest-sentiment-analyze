@@ -1,0 +1,7 @@
+{
+    "_id": "27656",
+    "description": "The Stagalbog east of town is swarming with crocolisks. Swarming, you hear me? I've sold every bit of crocolisk you could imagine.Crocolisk hides, teeth, tails, tongues, eyes, you name it. My point is, they ain't sellin' anymore. There's too many crocs! We're over-supplied and under-demanded.So since they're of no use to me, and they occasionally eat my guests, I need you to just kill the suckers. Do me the favor, eh? I'll be here negotiatin' things with your people.",
+    "name": "Croc-Out",
+    "requires_level": 51,
+    "zone": "Swamp of Sorrows"
+}

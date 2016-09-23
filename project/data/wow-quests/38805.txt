@@ -1,0 +1,8 @@
+{
+    "_id": "38805",
+    "added_in_patch": 7,
+    "description": "You are nothing compared to me. You think yourself hardened, experienced... heroic, even. Hah!You have no idea what I've been through. The tortures I've endured, the sacrifices I've made. All for the sake of my trade!Yes, I'm a miner, just like you. Want to learn what I have to teach? Come to the Crimson Thicket in Suramar, and speak my name:Ondri.",
+    "name": "Ondri",
+    "requires_level": 98,
+    "zone": "Mining"
+}

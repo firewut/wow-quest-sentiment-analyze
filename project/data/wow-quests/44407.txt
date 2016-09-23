@@ -1,0 +1,8 @@
+{
+    "_id": "44407",
+    "added_in_patch": 7,
+    "description": "You have not one but TWO powerful artifacts to use against the Legion. But can you imagine a world where you have three? Think of what you could do in such a world!\r\n\r\nShall we look at the possibilities?",
+    "name": "The Third Legend",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

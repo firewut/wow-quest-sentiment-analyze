@@ -1,0 +1,8 @@
+{
+    "_id": "43852",
+    "added_in_patch": 7,
+    "description": "Aye, it warms me heart t' know that Yancey's now part o' th' crew.\r\n\r\n<Tethys feeds Crackers some cackle fruit from the table.>\r\n\r\nWhy don't you be a good  lad and see if he can sponge us up some bilge rats.",
+    "name": "Fancy Lads and Buccaneers",
+    "requires_level": 103,
+    "zone": "Rogue Campaign"
+}

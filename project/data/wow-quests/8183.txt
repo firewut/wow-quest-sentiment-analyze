@@ -1,0 +1,7 @@
+{
+    "_id": "8183",
+    "description": "The Heart of Hakkar burns from within.  Although the Soulflayer is defeated, the kernel of his power yet remains in this cursed organ.",
+    "name": "The Heart of Hakkar",
+    "requires_level": 58,
+    "zone": "Quests"
+}

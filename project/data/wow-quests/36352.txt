@@ -1,0 +1,9 @@
+{
+    "_id": "36352",
+    "added_in_patch": 6,
+    "description": "Are you sure I can't take this off your hands? I'll give you a fair price!Alright, alright... if you insist on finding the owner, you might want to try visiting Wor'gol.Rumor has it there is a master craftsman there who's skilled in manipulating precious metals and stones. Might be your guy.",
+    "name": "Locating the Lapidarist",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

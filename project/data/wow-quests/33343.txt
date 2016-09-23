@@ -1,0 +1,8 @@
+{
+    "_id": "33343",
+    "added_in_patch": 5.4,
+    "description": "Your efforts have driven back the Ordon and brought peace to the Celestial Court, but it will not last. It is time to silence the great emissary of Ordos - the Archiereus of Flame.Speak with Mistweaver Ku and purchase a scroll of challenge, then travel to Three-Breeze Terrace to the north. Issue a challenge at the challenge stone, it will undoubtedly catch the attention of the Ordon, drawing the archiereus out of the Ordon Sanctuary. It is your only chance.",
+    "name": "The Archiereus Of Flame",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

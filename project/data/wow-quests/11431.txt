@@ -1,0 +1,7 @@
+{
+    "_id": "11431",
+    "description": "Hey there! I'm a crazy dwarf! We dwarves believe when you get enough brew together, invisible creatures show up. In fact, they are probably wandering around the Brewfest grounds right now! But you can only see them if you are wearing Synthebrew Goggles.There might be some other way to see them, but who knows?!So here it is, bring me 5 of those wolpertingers with this net I got from a really drunk dwarf.If you can't see them, talk to me and I'll give you some Synthebrew Goggles.",
+    "name": "Catch the Wild Wolpertinger!",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

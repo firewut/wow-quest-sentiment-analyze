@@ -1,0 +1,8 @@
+{
+    "_id": "30359",
+    "added_in_patch": 5,
+    "description": "They have my daughter! Brojai... that Lord Reclaimer! I can see him clearly through Lyalia's eyes.That foolish girl must have tried to take him head on.Please, $p! Go to the Ruins of Korja and try to free her.I'll get Kang and try to draw out Brojai from the ruins with a distraction.",
+    "name": "The Lord Reclaimer",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

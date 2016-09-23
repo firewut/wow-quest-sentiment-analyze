@@ -1,0 +1,7 @@
+{
+    "_id": "12884",
+    "description": "West of here, across the ruined roads and structures, is the death knight encampment of Ebon Watch.<Crusader Lord Lantinga rolls up Drakuru's orders.>Take these orders and deliver them to Stefan Vadu. He is the death knight in command at Ebon Watch. Let him know that the Argent Crusade will deal with Prince Navarius. They'll have to handle Drakuru.Be careful, <name>. The way to Ebon Watch is teeming with Scourge.",
+    "name": "The Ebon Watch",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

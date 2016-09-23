@@ -1,0 +1,9 @@
+{
+    "_id": "35861",
+    "added_in_patch": 6,
+    "description": "We are getting reports that Iron Horde warships are docking on a small island just south of Shadowmoon Valley.We sent in some scouts, but we haven't heard back from them yet. It might be worth investigating.Dungar Longdrink has a gryphon waiting for you when you are ready, commander.",
+    "name": "Garrison Campaign: Darktide Roost",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

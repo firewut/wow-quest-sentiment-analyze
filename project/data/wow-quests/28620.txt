@@ -1,0 +1,7 @@
+{
+    "_id": "28620",
+    "description": "Our outpost in the southeast is having some problems. I don't have any details other than... well, let me just read from the latest letter:\"The orcs have grown petulant. Send help or I will have them beaten with reeds.\"That's it. It was sent from our chief psylosopher, Nils Beerot. Yea, I have no idea what that means either. Could you please head to Eastpoint Tower and find out what he needs? I can't take any more of these cryptic letters!Just head south and then follow the road east.",
+    "name": "Eastpoint Tower",
+    "requires_level": 23,
+    "zone": "Hillsbrad Foothills"
+}

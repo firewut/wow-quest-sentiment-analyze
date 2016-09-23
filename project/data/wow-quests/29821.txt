@@ -1,0 +1,9 @@
+{
+    "_id": "29821",
+    "added_in_patch": 5,
+    "description": "Listen, pal.I sent out a coupla supply drones from the gunship, and they've all been lost or crashed. Almost all, that is.One of 'em buzzed right through the camp here and crashed out by them waterfalls.How 'bout you see what you can do about bringin' the contents of that crate back here, hmm?We're all outta drones, but my rocket boots might get come in handy... or footy, as the case may be.Hah! I just kill me...",
+    "name": "Missed Me By... That Much!",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

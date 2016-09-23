@@ -1,0 +1,7 @@
+{
+    "_id": "26718",
+    "description": "Something bad happened.",
+    "name": "Breadcrumb to Badlands",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

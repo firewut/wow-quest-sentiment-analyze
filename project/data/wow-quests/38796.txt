@@ -1,0 +1,8 @@
+{
+    "_id": "38796",
+    "added_in_patch": 7,
+    "description": "This ore is remarkably heavy. More disturbingly, it seems to darken and hiss at your touch.Perhaps your mining trainer in Dalaran has some insights.",
+    "name": "Felslate Seam Sample",
+    "requires_level": 98,
+    "zone": "Mining"
+}

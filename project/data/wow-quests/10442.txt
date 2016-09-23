@@ -1,0 +1,8 @@
+{
+    "_id": "10442",
+    "description": "<Class>, there's some tauren by the name of Thiah Redmane that keeps pestering us for assistance.  She's with the Cenarion Expedition, and they've setup a little post just to the west on the south side of the road leading to Zangarmarsh.If you hit Thornfang Hill, you've gone too far.Do you think you might head over there and see what she needs?  I don't want to have to bother Ranger Captain Venn'ren with such trivialities.",
+    "name": "Helping the Cenarion Post",
+    "requires_level": 61,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

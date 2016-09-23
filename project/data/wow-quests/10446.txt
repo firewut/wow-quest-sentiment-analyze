@@ -1,0 +1,7 @@
+{
+    "_id": "10446",
+    "description": "They're building a second mana bomb in the courtyard.  My intel suggests that the final code for the bomb is being held by Sharth Voldoun, the overseer of the project at Firewing Point.<name>, you have to go back in there and retrieve the final code from him.  He keeps himself to the top of the highest spire.Take the final code to the mana bomb that they're working on in the central courtyard and set it off.Only then will we be certain that the Allerian Stronghold is safe.",
+    "name": "The Final Code",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

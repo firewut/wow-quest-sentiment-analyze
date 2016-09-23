@@ -1,0 +1,7 @@
+{
+    "_id": "13171",
+    "description": "My main concern is the saronite quarry down the path to the southwest. They are pulling up immense amounts of ore from that quarry and I'd like to know what they're building with it. To that end, we'll start by weakening their defenses.I noticed a series of crystals scattered throughout the base and I assume they are defensive structures of some sort, not unlike ziggurats. Use the eidolon watcher to destroy any of those crystals that you find.",
+    "name": "From Whence They Came",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

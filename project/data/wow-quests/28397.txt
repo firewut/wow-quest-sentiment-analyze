@@ -1,0 +1,7 @@
+{
+    "_id": "28397",
+    "description": "They made a mistake by not killing me when they had the chance. Perhaps they thought Orkus would drown. HAH! Now they will pay the price for their carelessness.You and I will tear this island apart, <name>. They will never expect this! Once all of their soldiers are dead we will confront the leaders. Be on the lookout for attack plans. If we can get our hands on their plans we will be able to put a stop to their whole invasion!Let's go, <name>!",
+    "name": "They Will Never Expect This...",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

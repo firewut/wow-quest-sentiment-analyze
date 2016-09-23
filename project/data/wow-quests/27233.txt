@@ -1,0 +1,7 @@
+{
+    "_id": "27233",
+    "description": "I can handle training from here.  If you're looking for something else to do, I recommend heading up the road to the northwest.  The Cenarion druids and Argent Crusade have a small camp set up there, at Dalson's old farm.  Maybe they can keep you busy until we need your help again.",
+    "name": "The Menders' Stead",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

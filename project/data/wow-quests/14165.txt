@@ -1,0 +1,8 @@
+{
+    "_id": "14165",
+    "description": "Workers act like it's their job to complain. If it isn't the backbreaking labor, the long hours, or the low pay, it's being turned to stone by basilisks. It's always something!But I'm thinking maybe this whole workers-to-stone business could be a big moneymaker for me. What if those guys are now high-quality stone? My whiny employees could be worth more to me as luxury building materials than a source of labor! Grab a stonified mountainfoot miner and haul him or her back to me. ",
+    "name": "Stone Cold",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Azshara"
+}

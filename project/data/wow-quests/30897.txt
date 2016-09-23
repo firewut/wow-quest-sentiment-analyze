@@ -1,0 +1,8 @@
+{
+    "_id": "30897",
+    "added_in_patch": 5,
+    "description": "Look... um... this is really embarrassing. I set down my sword for like ONE SECOND to gather some orbs, and a big sprite sprung out of nowhere, snatched it, and bounded off down the western gap.I can't go back to camp without it. Losing your weapon is a sure way to get kicked out of the Shado-Pan. It's sacred.Please, can you try to find this big sprite and get my sword back? It would mean a lot to me.",
+    "name": "In the Wrong Hands",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

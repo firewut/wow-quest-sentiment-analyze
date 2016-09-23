@@ -1,0 +1,8 @@
+{
+    "_id": "27028",
+    "description": "We're always looking for new game around here. Daryl may like his boars, but the rest of us prefer things more exotic.Now, I'd never say the Loch draining was a good thing, but it did have a silver lining. The swampy ground's brought in new prey: Hornets!Giant hornets, mind you. Not many hunters have tussled with massive bugs before. It's rather novel.If you'd like to give it a try, I'll wager with you. Bring me back some of those nice glossy wings of theirs and I'll pay up.",
+    "name": "Hornet Hunting",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

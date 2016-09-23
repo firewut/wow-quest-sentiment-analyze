@@ -1,0 +1,9 @@
+{
+    "_id": "34309",
+    "added_in_patch": 6,
+    "description": "It be a long time since we hear from Shadow Hunter Bwu'ja, commander. Last we know she be on assignment keeping an eye on dem Bloodmaul ogres up in Frostfire.Dem ogres just be a bunch a slavers so something really big must be happening ta keep her from reporting in.Go over ta de Stonefury Cliffs an' find her.",
+    "name": "Garrison Campaign: The Search for Shadow Hunter Bwu'ja",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

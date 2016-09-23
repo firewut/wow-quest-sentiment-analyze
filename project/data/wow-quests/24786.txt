@@ -1,0 +1,8 @@
+{
+    "_id": "24786",
+    "description": "Ya done quite well for ya'self, <class>. I'm sure I could teach ya a trick or two here and dere, but I not be wastin' ya time on tiki targets no longer.l put one last trial before ya den, mon. Head over to da provin' pit in the middle of dis area and fight a real baddy - one dat wants ta kill ya back. Just let the jailor by the pit know when ya ready.",
+    "name": "Proving Pit",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Echo Isles"
+}

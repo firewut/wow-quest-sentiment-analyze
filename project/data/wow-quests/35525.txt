@@ -1,0 +1,8 @@
+{
+    "_id": "35525",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "The Botanica Reward Quest",
+    "requires_level": 67,
+    "zone": "Quests"
+}

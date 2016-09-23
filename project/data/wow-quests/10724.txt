@@ -1,0 +1,7 @@
+{
+    "_id": "10724",
+    "description": "Shortly after my arrival in the mountains, I came under attack by a group of Bladespire ogres.Though I fought free of them, and slew many, they took my wyvern, Leokk, captive. Spirit has found him, locked in a cage in the heart of the Bladespire encampment outside of Gruul's lair.One of the ogres must carry his key. Find it and Spirit can use it to unlock Leokk's cage.You will find the encampment at the north end of the Daggermaw Canyon down below.",
+    "name": "Prisoner of the Bladespire",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

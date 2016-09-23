@@ -1,0 +1,8 @@
+{
+    "_id": "39804",
+    "added_in_patch": 7,
+    "description": "The Trial of Valor will be your next test, and test you it will!\r\n\r\nBut only a fool fights on an empty stomach. Are you a fool, outsider?\r\n\r\nNo? Then lend these old bones a hand and butcher the moose for our meal. I will spin you a tale of rocks, trees and spirits.",
+    "name": "Speaking of Bones",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

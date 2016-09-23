@@ -1,0 +1,8 @@
+{
+    "_id": "38564",
+    "added_in_patch": 7,
+    "description": "Reading over this research, I found an interesting method that I'd like you to try.The method would require us to chill the metal to sub-freezing temperatures during the pre-tempering phase. Simple water quenching won't do.Good thing you can't walk two steps in this city without bumping into a frost mage! See if you can recruit one for the shop, <name>.",
+    "name": "A Sweet Bargain",
+    "requires_level": 108,
+    "zone": "Blacksmithing"
+}

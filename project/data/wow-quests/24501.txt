@@ -1,0 +1,8 @@
+{
+    "_id": "24501",
+    "description": "The spiders keep coming in alarming numbers, <name>.  You're going to have to go into their lair and kill the broodmother.We've spotted the giant spider known as Rygna at the edge of the Blackwald in an area covered in thick webs.  It'll be dangerous, but we're all counting on you.",
+    "name": "Queen-Sized Troubles",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

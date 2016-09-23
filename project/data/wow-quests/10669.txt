@@ -1,0 +1,7 @@
+{
+    "_id": "10669",
+    "description": "Some demons pledge allegiance to no one but themselves.  A true enemy of demons finds and destroys his prey regardless of affiliation, however.The demon Xeleth - a Legion defector - was once worshipped as a god by primitive swamp creatures in Zangarmarsh.  When Draenor was nearly destroyed, he retreated into a slumber deep beneath Marshlight Lake.  Find the portal at the lake and plant this spear into the ground.Xeleth will awake - be ready to slay him and prove you're an enemy to all demons.",
+    "name": "Against All Odds",
+    "requires_level": 68,
+    "zone": "Nagrand (Outland)"
+}

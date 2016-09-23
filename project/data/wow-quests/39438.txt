@@ -1,0 +1,8 @@
+{
+    "_id": "39438",
+    "added_in_patch": 7,
+    "description": "The murlocs are usually pretty scared of us, but some bigger one led them into our cavern and they're getting too brave.\r\n\r\nKill their leader. I think its name is something like \"Guhruhlruhlruh.\"",
+    "name": "Guhruhlruhlruh",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

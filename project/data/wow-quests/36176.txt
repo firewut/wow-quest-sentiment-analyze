@@ -1,0 +1,9 @@
+{
+    "_id": "36176",
+    "added_in_patch": 6,
+    "description": "<The note is barely legible, but it seems to be an advertisement for a local hunting competition out of Embaari Village.>\"Any and all competitors are welcome to test their skills in a friendly hunting challenge.\"",
+    "name": "A Call for Huntsman",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

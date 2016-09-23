@@ -1,0 +1,8 @@
+{
+    "_id": "42977",
+    "added_in_patch": 7,
+    "description": "The elemental lords must be united,  but there has been no Windlord to lead the air elementals since the death of Al'Akir.Once, there was an heir to the Throne of Four winds named Prince Thunderaan, but the prince was defeated in the mortal realm and still awaits rebirth. Only one man holds the knowledge necessary to complete the prince's rebirth.There is a servant of Thunderaan who wanders the sands of Silithus. Find him, and he will show you the way.",
+    "name": "Servant of the Windseeker",
+    "requires_level": 103,
+    "zone": "Shaman Campaign"
+}

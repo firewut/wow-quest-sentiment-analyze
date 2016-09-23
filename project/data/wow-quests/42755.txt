@@ -1,0 +1,8 @@
+{
+    "_id": "42755",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Eye of Azshara: Azsunian Pearls",
+    "requires_level": 110,
+    "zone": "Eye of Azshara"
+}

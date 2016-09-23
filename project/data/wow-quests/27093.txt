@@ -1,0 +1,8 @@
+{
+    "_id": "27093",
+    "description": "Some would say that we are lucky to be alive. Those people would be idiots. At least had we died we would not have had to face the Warchief's wrath. Alas, what's done is done! Now we must attempt to regain our lost honor.The third ship in our fleet sank off the coast of the Skittering Dark, northwest of here. Those that made it to shore quickly found themselves swarmed by the giant spiders of the area and encased in webbing.If there are survivors we must free them! Go, <name>! To the Skittering Dark!",
+    "name": "Lost in the Darkness",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

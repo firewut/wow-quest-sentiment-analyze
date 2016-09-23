@@ -1,0 +1,8 @@
+{
+    "_id": "24902",
+    "description": "It's true then?  Gilneas has lost her favorite son.We will mourn when this is all over but not a day sooner.We will not allow ourselves the luxury of grief while the enemy still breathes Gilnean air.My father's men are ready to strike while we still have the Banshee Queen's trail.  Just say the word if you're ready.  Liam deserves swift vengeance.",
+    "name": "The Hunt For Sylvanas",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

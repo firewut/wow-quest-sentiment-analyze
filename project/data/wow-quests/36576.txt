@@ -1,0 +1,9 @@
+{
+    "_id": "36576",
+    "added_in_patch": 6,
+    "description": "With the Heart of the Magnaron, we wield a powerful weapon against the Iron Horde.They amass far to the north at the Iron Approach. This will not be easy, but we must seize the opportunity to deal a blow to the Iron Horde while we possess the artifact.We are prepared to depart at your command. Speak with Rangari Rajess when you are ready.",
+    "name": "Strike While the Iron is Hot",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

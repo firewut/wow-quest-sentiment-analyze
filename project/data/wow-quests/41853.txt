@@ -1,0 +1,8 @@
+{
+    "_id": "41853",
+    "added_in_patch": 7,
+    "description": "I have a favor to ask of you, <name>. My good friend Hiro is still somewhere inside the main camp.Only problem is, the Gates of Valor are swarming with the biggest, baddest, nastiest Legion creatures I've ever seen. If we walk in there, we'll just get slaughtered.But I've seen these vrykul chugging some kind of special brew called Storm Brew. It's some kind of combat tonic that makes them bigger and stronger.Let's steal some of that drink, then storm in to save Hiro!",
+    "name": "Zero to Hiro",
+    "requires_level": 110,
+    "zone": "Monk Campaign"
+}

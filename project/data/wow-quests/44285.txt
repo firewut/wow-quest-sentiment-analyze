@@ -1,0 +1,8 @@
+{
+    "_id": "44285",
+    "added_in_patch": 7,
+    "description": "The darkness of the Nightmare is like a heavy shroud, warping reality and altering the perception of all living things. As areas of the Dream are cleansed, Xavius's hold weakens, and the way to the heart of the Nightmare will be revealed. But there might be a more direct way... my teacher once spoke of a pure power that could illuminate the darkness of the Nightmare, and allow all paths to become clear. But alas, Cenarius is lost....",
+    "name": "Piercing the Veil",
+    "requires_level": 110,
+    "zone": "The Emerald Nightmare"
+}

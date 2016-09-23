@@ -1,0 +1,7 @@
+{
+    "_id": "29807",
+    "description": "Anub'arak, the traitor king, makes his home in the once proud Kingdom of Azjol-Nerub.He has twisted and perverted our homeland into the wretched squalor it is today. He rules over an army of undead nerubians who have pledged themselves to serving the Lich King.Bring an end to his reign.",
+    "name": "Death to the Traitor King",
+    "requires_level": 70,
+    "zone": "Azjol-Nerub"
+}

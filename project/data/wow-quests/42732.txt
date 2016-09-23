@@ -1,0 +1,8 @@
+{
+    "_id": "42732",
+    "added_in_patch": 7,
+    "description": "Loramus has researched a way to make our warglaives even deadlier, especially against demons.\r\n\r\nIf he's to be trusted, he says that all he needs is an amount of Obliterum. Normally, the substance is used to improve the protection of armor, but Loramus insists he can use it for our warglaives.\r\n\r\nI am certain we will all benefit from their increased deadliness on the battlefield.",
+    "name": "Deadlier Warglaives",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

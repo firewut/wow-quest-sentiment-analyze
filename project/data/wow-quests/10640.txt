@@ -1,0 +1,7 @@
+{
+    "_id": "10640",
+    "description": "It is rare in this day and age to hear of those who follow the path of the demon hunter.  It is rarer still to find someone who does and has no allegiance to Illidan.There are rumors of one such individual here in Outland.  One name is said to be feared in the Legion fields of Nagrand more than any army of Aldor vindicators.  That name is Altruis.Go to western Nagrand and find him.  He might be willing to shed some light on these new demon hunter training grounds.",
+    "name": "Altruis",
+    "requires_level": 68,
+    "zone": "Nagrand (Outland)"
+}

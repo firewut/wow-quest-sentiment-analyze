@@ -1,0 +1,8 @@
+{
+    "_id": "24858",
+    "description": "Looks like the naga down there in the ruins are preparing to invade our Town-In-A-Box. I have lots of dead scouts here as proof.I don't know about you, but I'm not about to let them try. Let's get the jump on them!Could you lay the foundation for our new coastal holdings by replacing their banners with our own? That's some prime real estate down there!",
+    "name": "Bilgewater Cartel Represent",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40419",
+    "added_in_patch": 7,
+    "description": "The demon has told us how to open a portal to the world where he says Alleria is being held. You and I can go through and see if there is any truth to his claims.In case it's a trap, Magus Solgaze has given me a portal stone to get us back to Dalaran.This demonic magic is anathema to the mage, so we must move quickly. I'm ready when you are, <name>.",
+    "name": "Rescue Mission",
+    "requires_level": 98,
+    "zone": "Niskara"
+}

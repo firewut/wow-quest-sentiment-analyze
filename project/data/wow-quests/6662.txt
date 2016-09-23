@@ -1,0 +1,7 @@
+{
+    "_id": "6662",
+    "description": "Me brother, Nipsy, runs a rat kabob operation on the other side of Deeprun. Ye needs to take this here crate o' rats to him before they go bad. Get a move on!Ye have ridden a tram before, aye? It's easy. Just step aboard when she arrives and enjoy the ride. An' keep yer arms and legs inside durin' the ride, lest ye be peglegged fer life.",
+    "name": "Me Brother, Nipsy",
+    "requires_level": 10,
+    "zone": "Deeprun Tram"
+}

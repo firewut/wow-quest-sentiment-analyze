@@ -1,0 +1,7 @@
+{
+    "_id": "26370",
+    "description": "The Defias Brotherhood are not a force to be taken lightly, <name>. What you witnessed was the birth of a ruthless organization of criminals that will stop at nothing to see Stormwind turned to rubble.I need you to return to Sentinel Hill and let Gryan know that I am sending him troops. I hope it's not too late.",
+    "name": "Return to Sentinel Hill",
+    "requires_level": 12,
+    "zone": "Westfall"
+}

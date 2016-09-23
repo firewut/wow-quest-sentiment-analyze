@@ -1,0 +1,9 @@
+{
+    "_id": "33972",
+    "added_in_patch": 6,
+    "description": "The deathweb spiders are remarkable creatures. Their venom twists the very form of their victims.We are not the only ones privy to this information. The Shadow Council has already dispatched its warlocks to Deathweb Hollow to infuse the spiders with fel energy so that their venom turns creatures into demonic minions!We must destroy the defiling crystals to prevent all of Talador from bending to Teron'gor's will!",
+    "name": "Vile Defilers",
+    "requires_level": 95,
+    "side": "horde",
+    "zone": "Talador"
+}

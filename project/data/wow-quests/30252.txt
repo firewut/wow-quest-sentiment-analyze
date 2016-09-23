@@ -1,0 +1,8 @@
+{
+    "_id": "30252",
+    "added_in_patch": 5,
+    "description": "I've been pushing and shoving and hammering all morning, but it's hopeless.These rocks won't budge!\"It will be a breeze,\" Grandpa said. \"Farming's like breathing!\" he said. Maybe for him, but not for me!How am I supposed to succeed at this whole FARMING thing if I can't even clear my farm for planting?Hey, wait a minute. You look like you've got some muscle on you.Would you be willing to help me out? Just until I can catch my breath.",
+    "name": "A Helping Hand",
+    "requires_level": 85,
+    "zone": "Valley of the Four Winds"
+}

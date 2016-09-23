@@ -1,0 +1,8 @@
+{
+    "_id": "26845",
+    "description": "Dorli's filled me in on this crazy trogg-slave operation the kobolds have going, and if you haven't talked to her about it yet, I suggest you do.I'd like to get to the bottom of this. Literally! Whoever's running this show is bound to be at the bottom of the mine, calling the shots, and I want them dealt with.Find whatever crafty bugger is directing the geomancers and diggers and bring me back their head.",
+    "name": "Who's In Charge Here?",
+    "requires_level": 11,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30144",
+    "added_in_patch": 5,
+    "description": "Now that your serpent is fully grown, you are ready to begin flight training.As with all novices, you must start at the beginning.Your first task is simple. Fly through 6 of the cloud rings between the spires to the east.",
+    "name": "Flight Training: Ring Round-Up",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

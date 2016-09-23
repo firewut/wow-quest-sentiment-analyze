@@ -1,0 +1,7 @@
+{
+    "_id": "28271",
+    "description": "Alright, <name>, here's what I've learned.There's a titan device deep in a place called the Halls of Origination. It's meant to be an emergency reset switch for all life on Azeroth. If activated, it will destroy every living thing in the world!Now, it's only meant to be used under certain extreme conditions, but if Deathwing is able to corrupt the titan watchers, he could use the contents of the coffer to trigger the device.Go to the Obelisk of the Moon, <name>. Slow them down!",
+    "name": "Reduced Productivity",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

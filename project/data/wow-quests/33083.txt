@@ -1,0 +1,9 @@
+{
+    "_id": "33083",
+    "added_in_patch": 6,
+    "description": "We cannot enter these gates, but you can, <class>.Your mission is critical, and the Shadowmoon will kill you on sight. Do not hesitate to return the favor.",
+    "name": "On the Offensive",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

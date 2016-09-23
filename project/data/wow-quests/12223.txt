@@ -1,0 +1,7 @@
+{
+    "_id": "12223",
+    "description": "There's a flurry of activity down in Voldrune village to the south. Thane Torvald Eriksson and his huscarls are preparing for war. With most of our men in the field dealing with the Horde's treachery, Amberpine will be vulnerable.Travel to Voldrune, which is near the southern coast, and show those Dragonflayers we're no soft target.Slay as many of the huscarls as you can find. Make them think twice about taking advantage of our conflict with the Horde.",
+    "name": "Thinning the Ranks",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

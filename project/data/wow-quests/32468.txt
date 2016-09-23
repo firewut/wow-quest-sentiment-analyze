@@ -1,0 +1,8 @@
+{
+    "_id": "32468",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari Edgetossers to the north are known for becoming fierce Pterodactyl riders and axe throwers. Even now, they train the Pterodactly Hatchlings to become ravenous beasts.\r\n\r\nPlease, dispatch of some of the Edgetossers and bring back some of their throwing axes so they cannot be used against us.",
+    "name": "Disarming Axe Throwers [PH]",
+    "requires_level": 90,
+    "zone": "Quests"
+}

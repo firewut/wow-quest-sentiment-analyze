@@ -1,0 +1,8 @@
+{
+    "_id": "14155",
+    "description": "How's that shredder holding up? I think I can bring your emergency power supplies online - that'll recharge you when you're wounded.Listen, these night elves are being strengthened by an ancient of war who's taken root just west of the gates. He's a big, giant tree. You know what to do! Take him out!You were made for this!!",
+    "name": "Arborcide",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Azshara"
+}

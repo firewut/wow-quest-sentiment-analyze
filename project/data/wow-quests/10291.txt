@@ -1,0 +1,8 @@
+{
+    "_id": "10291",
+    "description": "Though our warriors are without peer, our hold on this wasteland is still tenuous. Report to Nazgrel inside the barracks - he has need of agents... such as you. If we can't protect our holdings here, we'll be of no use to anyone. Now go!",
+    "name": "Report to Nazgrel",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

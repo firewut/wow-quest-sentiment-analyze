@@ -1,0 +1,7 @@
+{
+    "_id": "27625",
+    "description": "The undead are here! The Forsaken! They've been moving closer and closer, but to launch an all-out attack on us... those horrid abominations!The young draenei I was charged with have trained with the Highvale elves in combat. They are not defenseless, but they need help!Please, <name>, assist them! Drive back the Forsaken!",
+    "name": "In Defense of Quel'Danil",
+    "requires_level": 30,
+    "zone": "The Hinterlands"
+}

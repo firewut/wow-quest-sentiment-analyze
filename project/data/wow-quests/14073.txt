@@ -1,0 +1,8 @@
+{
+    "_id": "14073",
+    "description": "<name>! Your reputation among the Horde grows. I've been hearing reports from both the Forgotten Pools and the Stagnant Oasis that you've been a real bane to our centaur foes. Well done, indeed.Regthar Deathgate is in charge of our operations against the centaur all over the Northern Barrens. He could use a bold <class> like yourself to bolster his forces. Report to him at his outpost along the road west of here and aid him in any way he requires. ",
+    "name": "Deathgate's Reinforcements",
+    "requires_level": 16,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

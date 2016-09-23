@@ -1,0 +1,8 @@
+{
+    "_id": "30599",
+    "added_in_patch": 5,
+    "description": "Before, grummles keep hozen from ravaging by bribing with food.But now the Broketooth hozen south of here have their big magic idols. The Ook of Dook has trained them to use their idols to get power from sacrifices.They are using them to kill grummles!You must destroy these idols!For every idol, there is a chief. Kill the chief and throw corpse on their altar.",
+    "name": "A Monkey Idol",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

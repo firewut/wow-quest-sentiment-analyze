@@ -1,0 +1,7 @@
+{
+    "_id": "10580",
+    "description": "Despite the good that we've done here, I feel bad about one thing: driving Toshley and his gnome friends away.We had no choice; they were making a mess of our efforts in the grove with all of their technology and experimentation.I would appreciate it if you would find out what became of them.  Last we heard, they headed east across the bridge.  I'm certain that they must have turned south, away from Thunderlord Stronghold.Look for a clue as to their whereabouts in the southern Jagged Ridge.",
+    "name": "Where Did Those Darn Gnomes Go?",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

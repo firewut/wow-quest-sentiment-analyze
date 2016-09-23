@@ -1,0 +1,8 @@
+{
+    "_id": "37234",
+    "added_in_patch": 6,
+    "description": "The light... has gone out. I know not why.I am more troubled now than before. I can find little comfort in the everyday. Each day seems darker than the last.Please, bring me another one of the Sun Crystals. Its light is so warm, so comforting.",
+    "name": "The Dark Within",
+    "requires_level": 100,
+    "zone": "Skyreach"
+}

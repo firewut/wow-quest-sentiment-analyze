@@ -1,0 +1,7 @@
+{
+    "_id": "29509",
+    "description": "The Darkmoon Faire's crunchy frog is famous all over Azeroth!We've just had a fresh batch of frogs delivered. How'd you like to help whip up a few and practice your cooking skills in the process?You can get the flour you'll need to bread the frogs from any trade goods vendor in Elwynn Forest or Mulgore.",
+    "name": "Putting the Crunch in the Frog",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

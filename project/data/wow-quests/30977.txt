@@ -1,0 +1,8 @@
+{
+    "_id": "30977",
+    "added_in_patch": 5,
+    "description": "All of my men are down at Farwatch Overlook to the southwest, holding off mantid that are trying to fly across the chasm. As long as my marksmen have arrows, they'll ground any mantid that clear the chasm.If you're here to help, I could use some more men clearing the mantid out once they're on the ground. Are you willing, <class>?",
+    "name": "Grounded Welcome",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

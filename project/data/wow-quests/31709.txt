@@ -1,0 +1,8 @@
+{
+    "_id": "31709",
+    "added_in_patch": 5,
+    "description": "I heard that there has been some strange behavior down at The Widow's Wail to the north.Hyacinth and I went to investigate, and I am certain that some presence of the sha has found its way into the cavern.I created this device to measure sha energy levels.If you are going that way, would you mind taking measurements of any sha disturbances?The disturbances look like streams of white and black sha energy pouring from the ground.",
+    "name": "Lingering Doubt",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

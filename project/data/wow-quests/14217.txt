@@ -1,0 +1,8 @@
+{
+    "_id": "14217",
+    "description": "You find it most amusing to think that this ancient relic is bestowing upon you a blessing meant for your enemies.You determine to make as much as you can of this unintentional gift.",
+    "name": "Satyrical Offerings",
+    "requires_level": 27,
+    "side": "horde",
+    "zone": "Desolace"
+}

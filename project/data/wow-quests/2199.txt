@@ -1,0 +1,7 @@
+{
+    "_id": "2199",
+    "description": "I am a jeweler of great renown here in Ironforge!  Well, former renown anyway... I have fallen onto hard times due to the chicanery of a competitor!  A bad reputation in this business spells financial disaster.  As a result, I find myself without a copper to my good-though-currently-sullied name.I want you to get me five silver bars to finish an order I received - the first in what seems like an eternity.You get me those five silver bars, and I'll answer your questions on the necklace.",
+    "name": "Lore for a Price",
+    "requires_level": 37,
+    "zone": "Uldaman"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "37332",
+    "added_in_patch": 6,
+    "description": "The umbraspore giant you killed seemed immune to the volatile spores in the area. Perhaps the odd growths you found all over its body contribute to its immunity. You grab a big, disgusting fungal lump in order to give it to the rangari for study.",
+    "name": "Fungal Bundle",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

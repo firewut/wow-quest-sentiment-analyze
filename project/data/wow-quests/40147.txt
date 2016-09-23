@@ -1,0 +1,8 @@
+{
+    "_id": "40147",
+    "added_in_patch": 7,
+    "description": "The other day, Mother and I were up at the top of the nearby mountain, and she threw her skinning knife at me because the view wasn't good enough.Her knife is still up there, somewhere. I'd feel horrible just leaving it.",
+    "name": "Mother's Prized Knife",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

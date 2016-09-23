@@ -1,0 +1,8 @@
+{
+    "_id": "35747",
+    "added_in_patch": 6,
+    "description": "We cannot risk the reactivation of the Dark Portal. Now is the time for the deathblow.Thaelin should have figured out how to get that tank working by now. Take him with you, and turn that tank against the Dark Portal itself. We will follow behind you.",
+    "name": "Taking a Trip to the Top of the Tank",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41036",
+    "added_in_patch": 7,
+    "description": "Kathra'natir escaped my grasp, but I know what his next step will be.He seeks an ancient relic called the Forge of the Guardian, used for centuries by the Council of Tirisfal to infuse their power into the Guardian. The forge was hidden away, its location known only to the Council themselves.Now the dreadlord has this knowledge.We must go to the Violet Hold. I only hope we are not too late.",
+    "name": "The Dreadlord's Prize",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10020",
+    "description": "The woman to my right suffered a severe injury to the head.  She survived, but lost her eyesight.A traditional cure used among my people requires the blood of a very old basilisk.Unfortunately, due to poaching from various groups, Terokkar basilisks don't tend to live very long.There is one basilisk whose name I've known since I was a youngling.  It is known only as \"Stonegazer\" and it's rumored to live east of here, near the land's edge.Bring me its blood so that Zahlia may see once again.",
+    "name": "A Cure for Zahlia",
+    "requires_level": 62,
+    "zone": "Shattrath City"
+}

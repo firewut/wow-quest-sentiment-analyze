@@ -1,0 +1,8 @@
+{
+    "_id": "40156",
+    "added_in_patch": 7,
+    "description": "This demonic hide is completely unlike any standard beast hide you are accustomed to.Your skinning trainer in Dalaran would be interested in seeing this.",
+    "name": "Felhide Sample",
+    "requires_level": 110,
+    "zone": "Skinning"
+}

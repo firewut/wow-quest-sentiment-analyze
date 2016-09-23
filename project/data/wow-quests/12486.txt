@@ -1,0 +1,8 @@
+{
+    "_id": "12486",
+    "description": "Did you feel it?<Sauranok momentarily clutches his chest in confusion. His hand comes away trailing red-hot steam.>Something terrible has happened to my old friend, Farseer Grimwalker. I just sensed it.He had a pupil that he took with him when he went north. They were going to help the overlord establish an outpost on the edge of Sholazar Basin.Her name is Snarlfang. She is a spirit talker.Perhaps she will know what happened. Or, at least, she can help you to find out.",
+    "name": "To Bor'gorok Outpost, Quickly!",
+    "requires_level": 69,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

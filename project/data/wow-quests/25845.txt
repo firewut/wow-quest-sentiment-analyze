@@ -1,0 +1,7 @@
+{
+    "_id": "25845",
+    "description": "Grimtotem need weapons! The Horde, empowered by their Warchief and with the help of their new goblin allies, have amassed powerful weaponry. Our armaments are simply no match for their firepower. Supply the Grimtotem with strong weapons and we will work together to destroy the Horde!These are our demands! Supply the Grimtotem and we will fight for the Alliance!",
+    "name": "Terms of Service",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27655",
+    "description": "There's nothing worse than a self-hating Twilight's Hammer cultist. Nothing! These idiots actually want to bring about the end of the world.That marks them for extinction in my book.Between the citadel veterans, the corrupted elementalists, and the twilight vindicators, you should have no shortage of targets.I could care less how you choose to kill them.",
+    "name": "Bring the Hammer Down",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

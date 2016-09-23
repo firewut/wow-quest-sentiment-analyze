@@ -1,0 +1,8 @@
+{
+    "_id": "27335",
+    "description": "A messenger just asked me to pass along an invitation. It is from Tyelis, a priest trainer and emissary from Silvermoon.He asks you to meet him inside Grommash Hold in Orgrimmar. You should make your way there immediately, <name>. It sounds important.",
+    "name": "Journey to Orgrimmar",
+    "requires_level": 20,
+    "side": "horde",
+    "zone": "Priest"
+}

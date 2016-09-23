@@ -1,0 +1,7 @@
+{
+    "_id": "30113",
+    "description": "<Zazzo performs an enchantment on the vial of blood, then quickly hands it back to you, as though it's toxic.>Done! You'll want to get this back to Wrathion as soon as possible, along with those two daggers of yours.I don't know what he plans to do with this stuff. Between you and me, sometimes that little dragon kid creeps me out. Good luck!",
+    "name": "Victory in the Depths",
+    "requires_level": 85,
+    "zone": "Rogue"
+}

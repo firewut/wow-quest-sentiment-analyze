@@ -1,0 +1,7 @@
+{
+    "_id": "27387",
+    "description": "The Annals of Darrowshire tells of the villains of that battle.  It tells how the ghoul lord Horgus the Ravager was destroyed by Alliance forces during the battle.  He was slain among the foothills north of here, and his skull remains there.Marduk the Black was never defeated, but his fabled sword now rusts, ownerless.  It can be found near the road to our southeast.Retrieve these items, <name>.  I know not why, but I am certain their fate lies with you.",
+    "name": "Villains of Darrowshire",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

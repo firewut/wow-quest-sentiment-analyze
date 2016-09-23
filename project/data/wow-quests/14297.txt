@@ -1,0 +1,7 @@
+{
+    "_id": "14297",
+    "description": "I knew these guys would be trouble as soon as we started building this tower. Scoffing our bribes. Stealing our workers.Labor isn't cheap with all the construction in Azshara. I need those men back!",
+    "name": "Pro-liberation",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

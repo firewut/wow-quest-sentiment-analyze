@@ -1,0 +1,7 @@
+{
+    "_id": "26007",
+    "description": "This warrior was near death, but I fear we do not have the time to await his full recovery. He has information we desperately need to know.Be patient with him, but keep him talking until we've learned all that we can.With luck we might discover just what we're up against...",
+    "name": "Debriefing",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

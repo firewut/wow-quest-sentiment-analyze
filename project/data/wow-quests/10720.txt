@@ -1,0 +1,7 @@
+{
+    "_id": "10720",
+    "description": "The ogres, simple as they are, would notice you dispersing this poison throughout their camp. Thus, I will teach you how to enlist the help of one of nature's smallest creatures to do this task.By playing a simple rhythm on this drum, you can coax a marmot to follow your commands.There is a den of marmots near the Bloodmaul camp, to the north, down in the Daggermaw Canyon past the Circle of Blood.Once you have a marmot's aid, use it to disperse the poison to the Bloodmaul's kegs.",
+    "name": "The Smallest Creatures",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

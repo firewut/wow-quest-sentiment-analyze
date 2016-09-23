@@ -1,0 +1,7 @@
+{
+    "_id": "12821",
+    "description": "The sapper squad is ready. That means it's fun time, my dear!There's only one thing holding us up from our full-scale assault on Garm! I sent a runner to set a teleporter up behind Garm--successfully I might add--and he returned to get the power cell it needs to function. It isn't working yet... which means the power cell didn't get there.I need you to look just on the other side of Garm's Bane for the power cell. When you find it, bring it farther east to Garm's Rise and activate the teleporter.",
+    "name": "Opening the Backdoor",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

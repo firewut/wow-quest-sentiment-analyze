@@ -1,0 +1,8 @@
+{
+    "_id": "30827",
+    "added_in_patch": 5,
+    "description": "If my suspicions are correct, this place still reels from some lingering darkness.Whatever happened here... it could not have been the natural course of events.Even the yaungol are not so brutal as to slaughter their own kind to the point of... this.I will use the totems that you brought me to perform a cleansing ritual.I need someone to assist me in the ceremony. Let me know when you are ready.",
+    "name": "What Lies Beneath",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

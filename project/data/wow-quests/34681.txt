@@ -1,0 +1,9 @@
+{
+    "_id": "34681",
+    "added_in_patch": 6,
+    "description": "Da Iron Horde have proved themselves worthy foes.They managed to get their fleet movin' to Talador from Gorgrond without my spies seein' a thing. Talador be a crossroads for the whole continent. We can't let them have it.Don't worry boss, we got a plan. Foreman Grobash be settin' up an outpost for our forces as we speak. They be ready for you when you arrive, commander.",
+    "name": "It's a Matter of Strategy",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

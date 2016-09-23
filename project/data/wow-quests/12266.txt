@@ -1,0 +1,7 @@
+{
+    "_id": "12266",
+    "description": "You can leave now, <race>.Go tell Nalice she missed out on a good slaughter.",
+    "name": "Tales of Destruction",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "6781",
+    "description": "",
+    "name": "More Armor Scraps",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

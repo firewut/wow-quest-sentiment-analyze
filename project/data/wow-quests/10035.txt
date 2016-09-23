@@ -1,0 +1,7 @@
+{
+    "_id": "10035",
+    "description": "There's a creature in the Bone Wastes so fearsome that only the dauntless dare to stalk him.I speak of Torgos, king of the bonelashers, who circles over Veil Rhaze on the western edge of the wastes.Too bad that there's an arakkoan scarecrow there, known as Torgos's Bane, which keeps him at bay.  I'd bet if you laid his mate Trachela's carcass at the foot of that scarecrow he'd come down anyway.  She can be found at Carrion Hill in the northern wastes.Bring me one of Torgos's tail feathers.",
+    "name": "Torgos!",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

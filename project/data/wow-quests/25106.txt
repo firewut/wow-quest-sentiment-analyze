@@ -1,0 +1,7 @@
+{
+    "_id": "25106",
+    "description": "Look at the chaos down there, <name>! I've instructed the foremen to save what artifacts they can. Who knows what treasures these tauren animals are like to make off with.Can you help get a handle on things? Kill the raiders and save what artifacts you can.While you're at it, look for my missing tools. A few quick repairs and I can get this flying machine up and running again.",
+    "name": "Hands Off Me Dig!",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

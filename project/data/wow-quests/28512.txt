@@ -1,0 +1,7 @@
+{
+    "_id": "28512",
+    "description": "Dark Iron dwarves may be scheming and mischievous... but they're not all enemies.  I've spoken several times with the dwarves of the Thorium Brotherhood, and they've never been anything but helpful.An acquaintance of mine, Jack Rockleg, came to town not long ago, asking if I could join him on an expedition of some sort.  It sounded important.I'm a little busy, but maybe you wouldn't mind going?  Just travel west, on the road to Searing Gorge.  You'll see him soon after leaving the Badlands.",
+    "name": "To the Aid of the Thorium Brotherhood",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

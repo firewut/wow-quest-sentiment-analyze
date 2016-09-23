@@ -1,0 +1,8 @@
+{
+    "_id": "10087",
+    "description": "I'm a lucky, lucky goblin.  I get to make explosives and killing machines, knowing they'll be used immediately on important missions!Speaking of missions, I just got one from Thrallmar command: burn the Alliance cannons on the far side of the Path of Glory... the ones pointing dangerously close to Horde fortifications.  Take this torch and make your way to each cannon.  Fire the torch and watch the sparks fly!",
+    "name": "Burn It Up... For the Horde!",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

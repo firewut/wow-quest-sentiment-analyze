@@ -1,0 +1,8 @@
+{
+    "_id": "38323",
+    "added_in_patch": 7,
+    "description": "Forgive me, <race>. Archdruid Moonclaw's fall is a terrible blow...Malfurion must be informed of what has transpired here. Inform him of Thaon's fate and of the return of Xavius.Make haste, friend. I fear this may be the greatest threat Val'sharah has ever faced.",
+    "name": "Return to the Grove",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

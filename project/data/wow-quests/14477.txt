@@ -1,0 +1,7 @@
+{
+    "_id": "14477",
+    "description": "Lemme check the connections... and we're set. You do the honors, <name>. Push it. Push the button!Push the button, <name>!After the fireworks, go tell Kroum back at Valormok that his skies are clear.Push the button!",
+    "name": "Push the Button!",
+    "requires_level": 18,
+    "zone": "Azshara"
+}

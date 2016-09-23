@@ -1,0 +1,8 @@
+{
+    "_id": "14348",
+    "description": "Look here, <name>.  The big fat ones -- abominations, they're called -- they don't go down easy, so don't tackle them on your own.But I have an idea so crazy it might just work.  Or it might get you killed, if we're not careful, I suppose.There's barrels of gunpowder beneath the sheds and by the windmills.  Grab them and toss 'em right on the abominations' heads.  I'll take care of the rest with this trusty old blunderbuss.",
+    "name": "You Can't Take 'Em Alone",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

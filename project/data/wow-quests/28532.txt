@@ -1,0 +1,8 @@
+{
+    "_id": "28532",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Blood Guard Aldo Rockrain at Silverwind Refuge in Ashenvale. The Horde forces in Stonetalon need your help to drive back the Alliance invaders and protect our people. The blood guard will direct you to the border of Stonetalon.To reach Silverwind Refuge, travel into the heart of Ashenvale and join our forces by the lake.Destiny calls!",
+    "name": "Warchief's Command: Stonetalon Mountains!",
+    "requires_level": 24,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

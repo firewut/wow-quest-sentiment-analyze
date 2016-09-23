@@ -1,0 +1,7 @@
+{
+    "_id": "12218",
+    "description": "Before I can ship you off to Doctor Malefious with the good news, you will have to run a simple field test of the blight with the modifications I have made.The hungering dead stream out from what remains of Old Wintergarde. Commandeer a vehicle from the east gate and drive it northeast through Vengeance Pass until you reach the twin towers at the southeastern edge of Wintergarde. Drop the blight bomb on the undead that cover the area. Report back to me with the results!",
+    "name": "Spread the Good Word",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

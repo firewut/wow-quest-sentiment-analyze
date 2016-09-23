@@ -1,0 +1,8 @@
+{
+    "_id": "11602",
+    "description": "Aerial reconnaissance of the quarry reports that the Nerubians are storing their eggs on the scaffolding surrounding the base. Smart beasts these are... They're keeping the eggs high and dry, away from the epicenter of conflict.You're going to have to go back out there and track down their eggs. Find 'em, smash 'em, and trash 'em.Each egg destroyed means twenty less Nerubians feeding on our corpses.\r\n",
+    "name": "Cutting Off the Source",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

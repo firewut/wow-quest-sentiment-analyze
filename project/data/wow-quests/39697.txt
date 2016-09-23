@@ -1,0 +1,8 @@
+{
+    "_id": "39697",
+    "added_in_patch": 6.2,
+    "description": "I've been doing a little digging - or whatever you call digging in naval terms. Snorkeling?Gul'dan has sent his most powerful flagship on a scouting mission to the four corners of Draenor. He is mapping out all the oceanic ley-line conjunctions. This is information that I could use to upgrade your ring... But in Gul'dan's hands, it could be catastrophic.Scramble the fleet, <name>! Hunt down his infamous flagship, \"The Master's Call,\" and steal that map before they complete their mission. Hurry!",
+    "name": "Master vs. Commander",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

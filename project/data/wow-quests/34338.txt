@@ -1,0 +1,8 @@
+{
+    "_id": "34338",
+    "added_in_patch": 6,
+    "description": "Whatever lies at the bottom of this cauldron is of great use to the Iron Horde, and therefore, of great interest to us.I need you to investigate the bottom of this crater.You go ahead. I'll be right behind you.",
+    "name": "The Descent",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

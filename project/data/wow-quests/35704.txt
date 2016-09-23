@@ -1,0 +1,8 @@
+{
+    "_id": "35704",
+    "added_in_patch": 6,
+    "description": "The ravenspeaker acolytes have been equipped with Apexis interfaces, they just need to get close enough.Come, let us take to the skies and secure the Terrace of Dawn.When all is aligned, we shall turn the false suns against one another and the spires shall burn like torches!I look forward to penning your actions into history.",
+    "name": "When All Is Aligned",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

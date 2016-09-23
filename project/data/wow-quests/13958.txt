@@ -1,0 +1,7 @@
+{
+    "_id": "13958",
+    "description": "We have the enemy on their heels. Victory is within sight!It is not yet time to celebrate though, <class>. There remains much to be done before the Horde can lay claim to Ashenvale.At Raynewood Retreat to the east a battle has been joined. Reports indicate many Horde wounded.Take these medical supplies there and give them to Thagg. Tell him of our assault on Astranaar. It may help to bolster morale.",
+    "name": "Condition Critical!",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

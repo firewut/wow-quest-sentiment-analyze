@@ -1,0 +1,8 @@
+{
+    "_id": "24937",
+    "description": "<name>, you have to get back to the Town-In-A-Box and warn them about the goblin zombies up in the volcano's caldera!",
+    "name": "Oomlot Dealt With",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

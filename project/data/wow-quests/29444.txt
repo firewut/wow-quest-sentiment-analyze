@@ -1,0 +1,7 @@
+{
+    "_id": "29444",
+    "description": "You're not certain what kind of creature this egg harbors, but it sure doesn't look like the egg of any ordinary animal.The Darkmoon Adventurer's Guide says that an intrepid adventurer might come across any number of strange eggs in his travels. It further notes that the Darkmoon Faire's Zoo Bizarre is always interested in acquiring such specimens.Take the egg to Yebb Neblegear at the Darkmoon Faire.",
+    "name": "An Exotic Egg",
+    "requires_level": 15,
+    "zone": "Darkmoon Faire"
+}

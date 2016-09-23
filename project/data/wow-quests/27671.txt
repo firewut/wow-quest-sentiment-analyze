@@ -1,0 +1,8 @@
+{
+    "_id": "27671",
+    "description": "If we don't do something quick, neither Nevin nor the survivors will make it out of here alive. I'm going to give you my squad's emergency teleport beacon. We still have enough strength and ammunition to fight our way out of here, but those survivors are in no condition to make a run for it.Use the beacon on survivors to arrange for them to be teleported out of here to the safe area my men have set up. Once you've done that, report back to me and we'll make arrangements to get you out of here.",
+    "name": "See to the Survivors",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

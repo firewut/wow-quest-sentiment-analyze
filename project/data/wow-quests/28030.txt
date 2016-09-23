@@ -1,0 +1,7 @@
+{
+    "_id": "28030",
+    "description": "Those gorge-digging dwarves do at least one thing right: they make very high-quality bullets.  I've been unable to reproduce their results, so I've taken to stealing whatever bullets of theirs that I can find.Ye want my help?  Get me a couple hundred bullets from those marksmen below.I'm sure they'll be happy to give ye their bullets one at a time, but you might find it faster just to look for the crates filled with them.",
+    "name": "They Build a Better Bullet",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

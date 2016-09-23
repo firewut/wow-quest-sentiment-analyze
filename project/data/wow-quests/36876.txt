@@ -1,0 +1,9 @@
+{
+    "_id": "36876",
+    "added_in_patch": 6,
+    "description": "The Exarchs do nothing but squabble amongst themselves over petty issues while our people are slaughtered in their homes by orc filth. If they will not raise a fist of defiance against our enemies, I will.I wish to join your Alliance and rid this world of Horde. ALL HORDE - \"Iron\" or otherwise.This Altar of Bones that I stand upon represents glory in battle against our Horde enemy. Place an offering upon it and earn a conqueror's tribute worthy of your unrelenting bloodthirst.Kill. Them. All.",
+    "name": "Warlord of Draenor",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

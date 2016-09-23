@@ -1,0 +1,8 @@
+{
+    "_id": "29334",
+    "description": "For all the grousing those Kor'kron Overseers do about Undercity food, there's ONE thing they'll eat in spades: My sister Audrey's Thrice-Spiced Crunchy Stew.Its popularity means she's always running low on ingredients. Could you gather some for her at the coach she sells them from?You'll find traps all over the city; just take their contents to Audrey and she'll handle the rest!",
+    "name": "Roach Coach",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Cooking"
+}

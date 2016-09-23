@@ -1,0 +1,9 @@
+{
+    "_id": "35905",
+    "added_in_patch": 6,
+    "description": "Your laborers below have finished with the harvest and are ready to cart supplies back to your garrison. Don't worry about the safety of your caravan this time; I will dispatch a rangari detail to shadow them from the woods and protect them.The Exarchs will always watch over you.Your supplies should be waiting for you when you return to your garrison. Good luck with your campaign, <name>!",
+    "name": "Supply Drop",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

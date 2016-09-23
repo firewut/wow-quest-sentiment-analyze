@@ -1,0 +1,8 @@
+{
+    "_id": "40959",
+    "added_in_patch": 7,
+    "description": "The Legion believes we are still reeling from our loss on the Broken Shore.Let's prove them wrong.Our scouts have mapped out the Broken Isles, learning everything we can about each region for our imminent assault.Choose where to strike first, and you will lead the Unseen Path's efforts personally.",
+    "name": "The Campaign Begins",
+    "requires_level": 98,
+    "zone": "Trueshot Lodge"
+}

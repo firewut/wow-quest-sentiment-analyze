@@ -1,0 +1,8 @@
+{
+    "_id": "43042",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Warmongering Combatant's Scaled Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

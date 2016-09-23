@@ -1,0 +1,8 @@
+{
+    "_id": "41624",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Rocko Needs a Shave",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

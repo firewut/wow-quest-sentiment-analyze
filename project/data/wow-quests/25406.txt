@@ -1,0 +1,7 @@
+{
+    "_id": "25406",
+    "description": "With the nearby ogres dealt with, we should take the offensive and press our attack into their territory.The Gordok ogres are the head of the Gordunni clan, ruling them from the ruins now called Dire Maul. They are stronger than the lesser Gordunni, but I have no doubt you can handle them, <name>. They won't know what hit them.",
+    "name": "Gordok Guards",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

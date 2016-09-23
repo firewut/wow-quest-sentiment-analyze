@@ -1,0 +1,8 @@
+{
+    "_id": "26540",
+    "description": "The red dragonflight represents the aspect of life. As such, their blood has healing properties.This crate of bandages has been soaked in red dragon blood. It is the last of my supply. May it bring a speedy recovery to your warriors.Whatever the outcome of your negotiations here, do not forget that you have friends among the Dragonmaw.",
+    "name": "Dangerous Compassion",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Twilight Highlands"
+}

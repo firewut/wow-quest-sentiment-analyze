@@ -1,0 +1,8 @@
+{
+    "_id": "40730",
+    "added_in_patch": 7,
+    "description": "I would imagine you thought I would simply have wine to deliver.\r\n\r\n<Deline chuckles.>\r\n\r\nIf it were that easy, his people would not be starving.\r\n\r\n<Her expression becomes serious.>\r\n\r\nThese... loyalists, shall we say, enjoy abundance. They dance to the Magistrix's whims and so they have all that they need.\r\n\r\nThere is no Arcwine shortage. The Magistrix created one to keep us in line.\r\n\r\nThey will not miss a few bottles. They have plenty.\r\n\r\nSearch the square and bring as much as you can carry back.",
+    "name": "Redistribution",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

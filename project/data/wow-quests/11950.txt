@@ -1,0 +1,7 @@
+{
+    "_id": "11950",
+    "description": "Listen, <name>.  Warriors like me are replaceable.  If I fall, my brothers and cousins will pick up my spear and fight.My people cannot survive without wise elders.  Stubborn Muahit, our most venerable shaman, refuses to leave the altar to Tayutka in the central island.  We would suffer a significant loss if he was slain by these monsters.You are an outsider, maybe he'll listen to you.  Show him reason... ask him to flee to the safety of Unu'pe before it's too late.",
+    "name": "Muahit's Wisdom",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

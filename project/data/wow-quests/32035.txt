@@ -1,0 +1,8 @@
+{
+    "_id": "32035",
+    "added_in_patch": 5,
+    "description": "Strange noises comin' from over at the Silken Fields.Strange smells, too.Almost makes you think that they could use a cash-strapped <class> to complete a few odd jobs for 'em. Make a few pieces of gold.Or not.",
+    "name": "Got Silk?",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

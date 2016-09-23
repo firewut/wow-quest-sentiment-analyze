@@ -1,0 +1,8 @@
+{
+    "_id": "31931",
+    "added_in_patch": 5,
+    "description": "One of my chickens flew for just a moment yesterday, I swear. We're finally hitting the big time!Oh, you'd like to battle again?",
+    "name": "Beegle Blastfuse",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

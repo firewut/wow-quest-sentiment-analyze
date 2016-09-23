@@ -1,0 +1,8 @@
+{
+    "_id": "40652",
+    "added_in_patch": 7,
+    "description": "It is time that we turn our attention to matters in the Broken Isles.Skylord Omnuron has gathered information on events from all over the Isles. If we are presented with any opportunity to strike against the Legion he will know of it.Go and see if he has anything available.",
+    "name": "Word on the Winds",
+    "requires_level": 98,
+    "zone": "Druid Campaign"
+}

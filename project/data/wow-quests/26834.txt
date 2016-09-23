@@ -1,0 +1,7 @@
+{
+    "_id": "26834",
+    "description": "Down below in Needlerock Chasm is where the mystics are sprouting all of these fungal monstrosities. I sent Slate Quicksand and a small force to deal with it, but they've run into a snag.You remember the Arch Geomancer? Would you fly down there to the northeast and lend him a hand?",
+    "name": "Down Into the Chasm",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

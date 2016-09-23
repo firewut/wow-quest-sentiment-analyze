@@ -1,0 +1,9 @@
+{
+    "_id": "37789",
+    "added_in_patch": 6.1,
+    "description": "Hellscream's Ironmarch vanguard managed to reach Blackrock Mountain and has allied with Warlord Zaela o' the Dragonmaw clan. Even now the Iron Horde readies to invade Azeroth while Zaela prepares a doomsday weapon in the heart o' the mountain to ensure nothing stands in their way.You must put a stop to Zaela once and for all, commander. She's been a thorn in our side for too long.",
+    "name": "Upper Blackrock Spire",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Upper Blackrock Spire"
+}

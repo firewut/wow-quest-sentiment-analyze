@@ -1,0 +1,7 @@
+{
+    "_id": "13152",
+    "description": "So they've been embedding these ghouls with broken shards of saronite down in the Sanctum of Reanimation? We must put a stop to this, before these ghouls can be deployed against our troops.Find the entrance to the Sanctum of Reanimation in the flesh giant lab area of the Fleshwerks. There, the ghoul mastermind, Doctor Sabnok, keeps the most fearsome of his creations, Patches. Free Patches from his chains and help him take his revenge on the doctor. Let his own creation be his undoing.",
+    "name": "A Visit to the Doctor",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

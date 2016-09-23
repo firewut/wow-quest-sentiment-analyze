@@ -1,0 +1,9 @@
+{
+    "_id": "35429",
+    "added_in_patch": 6,
+    "description": "Those of us who grew up in Gorgrond have long learned a few secrets of the botani that can be used to grow our own plants.There is no such thing as a hungry Laughing Skull for this reason.The ravagers are the key.Outside of Evermorn Springs you will find ravagers of every type. Slay them and bring me the pollen they carry, and I can cultivate it to be of use to your garrison.",
+    "name": "Pollen Power",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

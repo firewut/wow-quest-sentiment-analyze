@@ -1,0 +1,8 @@
+{
+    "_id": "43400",
+    "added_in_patch": 7,
+    "description": "To prepare for the battle, we will need the best armor and weapons we can get.Lumenstone is an enchanted material that can withstand great amounts of fel magic.It is found in rare quantities all over the Broken Isles, and many of the native races use it in their own metalcrafting.We should send our champions to target enemies around the Broken Isles - there should be plenty of lumenstone to be found in their stockpiles.",
+    "name": "Lumenstone",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

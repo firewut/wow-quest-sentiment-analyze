@@ -1,0 +1,7 @@
+{
+    "_id": "26017",
+    "description": "Stick this device on your head, then swim through the kelp and coral along the canyon's edge.  There should be all kinds of little fish in there that find your new antenna irresistible.When we return to Darkbreak Cove, we'll have armfuls of fish for everyone!",
+    "name": "A Lure",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

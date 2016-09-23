@@ -1,0 +1,8 @@
+{
+    "_id": "42405",
+    "added_in_patch": 7,
+    "description": "Leaders from some of the greatest military factions are here, ready and willing to help.They're currently waiting to speak with you directly, hoping to provide insight on how they can help.With any luck, we can pull our resources and find a way to take Hakkar down.",
+    "name": "Informing Our Allies",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

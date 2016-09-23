@@ -1,0 +1,7 @@
+{
+    "_id": "14481",
+    "description": "The Horde and Alliance are locked in battle with one another in the seas to the west.Below them, a great host of enemies prepares to carry out a plan that could be the undoing of us all.I am sending you to speak with the admiral of the alliance forces. Share with him the vision you have seen. Convince him to focus his attention on the true threat below, before it grows too late...To gain audience with the admiral, you must first enlist with the recruiter at the harbor.",
+    "name": "Into The Abyss",
+    "requires_level": 78,
+    "zone": "Stormwind City"
+}

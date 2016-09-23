@@ -1,0 +1,8 @@
+{
+    "_id": "31003",
+    "added_in_patch": 5,
+    "description": "You aren't going to believe what I saw! Two mantid fighting each other, whipping some serious magic back and forth.One of them didn't look like any mantid I've ever seen. Completely different color and dress to him, like some kind of... oracle or something. The other one was a total psycho, splashing sha energy around like it was a keg of Stormstout Special.Look, I gotta get back to my post, but those two are still fighting in the cave behind me and I have a feeling it's a big deal. Check it out?",
+    "name": "Psycho Mantid",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

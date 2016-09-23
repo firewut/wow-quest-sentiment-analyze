@@ -1,0 +1,7 @@
+{
+    "_id": "28342",
+    "description": "The infernals that lurk in Shatter Scar Vale are formidable, but not invincible. Much progress has been made in thinning their numbers.Destroying them is only part of the solution, however. I've found that the stone that infernals are made of still contains large amounts of fel magic even after the infernal's death.The rubble of slain infernals now litters Shatter Scar Vale, leeching its corruption back into the ground. If you could collect it and bring it to me, I would be grateful.",
+    "name": "Fel To Pieces",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

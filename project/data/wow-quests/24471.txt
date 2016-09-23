@@ -1,0 +1,8 @@
+{
+    "_id": "24471",
+    "description": "<name>, listen!  Unlike Joren, I've no need for yer blade, but I do need someone with a steady hand and a bit o' courage.Our mountaineers are trained to protect the village from the odd wolf attack... not an all-out trogg invasion!  Many of our best have succumbed to wounds and exhaustion, and I need yer help bandaging them up.Here, take my first aid kit and assist as many as ye can.",
+    "name": "Aid for the Wounded",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

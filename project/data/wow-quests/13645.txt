@@ -1,0 +1,7 @@
+{
+    "_id": "13645",
+    "description": "I would ask you to deliver the gem directly to Raene Wolfrunner. Last I heard, she was still in Astranaar to the southeast.At least the road between here and there is still relatively safe, so it should be a simple matter of following it there. Of course, if you'd rather, I believe that Sentinel Avana would be willing to loan you one of her nightsabers to swiftly make the trip.Whatever you choose, good health to you, <name>. May our paths cross again soon.",
+    "name": "To Raene Wolfrunner",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

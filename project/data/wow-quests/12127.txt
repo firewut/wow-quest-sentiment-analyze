@@ -1,0 +1,8 @@
+{
+    "_id": "12127",
+    "description": "The biting cold protects the death knight while repelling his enemies. He that commands the power of frost can incite chaos and destruction!Take this frost gem and travel far across the open tundra of the Dragonblight until you come upon the Mirror of Dawn, east of Wyrmrest Temple. It is there that you are to battle the legions of ice revenants that dwell upon the lakes surface and take from them the essence of frost. Utilize the power of the gem when they are weak, <name>!",
+    "name": "In Service of Frost",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

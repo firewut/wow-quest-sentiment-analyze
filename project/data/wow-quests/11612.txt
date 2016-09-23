@@ -1,0 +1,7 @@
+{
+    "_id": "11612",
+    "description": "You're a welcome sight, <class>. My name is Etaruk, and I used to be a craftsman here at the Coldrock Quarry.My companions and I were preparing a new set of statues for their last set of rites when we saw those mysterious blue platforms come flying over the plateau.When they landed, the mages they carried swarmed the quarry, murdering my fellows and plundering the quarry. If we don't stop them, they'll destroy our statues and make off with our artifacts. Will you help me defeat the invaders?",
+    "name": "Reclaiming the Quarry",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "36946",
+    "added_in_patch": 6,
+    "description": "The plains of Nagrand are the most lush and fertile that I have ever seen. Should you ever see them, you will come upon the mightiest beasts that this place has to offer.Among them, the great elekk. A magnificent beast with horns that can grow larger than you or I.Here is another rope, should you wish to tangle with such a beast.",
+    "name": "Entangling an Elekk",
+    "requires_level": 97,
+    "side": "horde",
+    "zone": "Nagrand (Outland)"
+}

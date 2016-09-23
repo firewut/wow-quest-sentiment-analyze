@@ -1,0 +1,7 @@
+{
+    "_id": "7796",
+    "description": "",
+    "name": "Additional Runecloth",
+    "requires_level": 50,
+    "zone": "Stormwind City"
+}

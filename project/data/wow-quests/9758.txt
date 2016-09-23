@@ -1,0 +1,7 @@
+{
+    "_id": "9758",
+    "description": "Now my friend, if you would be so kind as to return to Arcanist Vandril, I know that he is very anxious to send you out on your first mission here in the Ghostlands.We're counting on you, <name>.  Don't let us down.",
+    "name": "Return to Arcanist Vandril",
+    "requires_level": 9,
+    "zone": "Ghostlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32556",
+    "added_in_patch": 5.2,
+    "description": "This whole area is littered with Zandalari artifacts. I would be lying if I said studying them didn't interest me. I am fascinated by the significance of these objects to their rituals.The more we understand our enemies, the better prepared we are to defeat them.If I am to study them, I will need to see them up close. Bring me as many artifacts as you can find. ",
+    "name": "The More You Know",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35188",
+    "added_in_patch": 6,
+    "description": "Ah, initiate. Are you ready for your first task?The woods to the south are filled with pesky podlings. The filthy things dig up our farms, steal supplies, and prey on unwitting trainees.They are disgusting, horrible creatures which need to be eliminated.<Zamaya gives you a skeptical look.>I will require their spears as proof that you finished this task.",
+    "name": "Pesky Podlings",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

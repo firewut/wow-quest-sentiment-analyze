@@ -1,0 +1,8 @@
+{
+    "_id": "923",
+    "description": "There is a malevolence growing in the timberlings. We are trying to find the source, but until we do...in order to keep Teldrassil safe we must cut down the timberlings who are beyond help. Those that wander Wellspring Lake to the north are the most tainted. They must be removed!Destroy the Timberlings you find there, and gather the mossy tumors growing upon them. Bring the tumors to me so that they may be burned.",
+    "name": "Mossy Tumors",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12979",
+    "description": "This armor plate is thick and oversized compared to the rest of the golem's defenses. A quick examination of the golem's corpse reveals that this heavier plate seems to have been bolted on as an afterthought or a crude upgrade.Why would the iron dwarves have added this redundant and mismatched armor to their war golems?Perhaps Bruor Ironbane would know if he had the chance to examine several of these plates from stormforged war golems.",
+    "name": "Armor of Darkness",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

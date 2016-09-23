@@ -1,0 +1,7 @@
+{
+    "_id": "11496",
+    "description": "Our first priority is to capture the Sun's Reach Sanctum.  Once we've secured it, we'll be able to use its energy to open a portal from Shattrath.The sanctum is overrun with the Wretched - former blood elves who've devolved into mindless husks of their former selves.  Its defenses would've normally prevented this intrusion, but the Wretched have stolen the power sources from the protective wards.Hunt down the Wretched and get the mana remnants they carry.  Use them to energize the sanctum wards.",
+    "name": "The Sanctum Wards",
+    "requires_level": 70,
+    "zone": "Isle of Quel'Danas"
+}

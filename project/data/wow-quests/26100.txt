@@ -1,0 +1,7 @@
+{
+    "_id": "26100",
+    "description": "Perhaps if you spoke to Overlord Krom'gar, <name>. Maybe he would listen to what you had to say? You are a Champion in his army, after all. You saw everything. Please help us, <name>. We simply wish to be left alone - in peace.Talk to Overlord Krom'gar and try to help him see that we did not mean for any of this to happen.",
+    "name": "The General is Dead",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

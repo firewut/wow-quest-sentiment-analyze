@@ -1,0 +1,8 @@
+{
+    "_id": "42100",
+    "added_in_patch": 7,
+    "description": "Creating the anchor will require more power than our soul shards will be able to provide.\r\n\r\nDreadscar's troops are capable of amassing a large amount of soul shards when they defeat enemies while on missions. Once we have enough, I can harvest the supply and use them to craft the anchor.",
+    "name": "Empowering the Soul",
+    "requires_level": 103,
+    "zone": "Warlock Campaign"
+}

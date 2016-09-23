@@ -1,0 +1,8 @@
+{
+    "_id": "40138",
+    "added_in_patch": 7,
+    "description": "Ya, I can train you. Ting is, I'm still workin' on my techniques 'ere in Suramar. In fact, you can probably help.I need ta look at a few special skins, for comparison. I need a strong white yeti pelt, a really big demon skin, and da thickest direhorn skin you can find.Do that, and I'll share my results with you and' ol' Kondal up in de city.",
+    "name": "Hides of Legend",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

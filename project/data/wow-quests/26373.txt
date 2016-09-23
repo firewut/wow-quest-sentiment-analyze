@@ -1,0 +1,8 @@
+{
+    "_id": "26373",
+    "description": "Some of the mountaineers under Stonegrind's command were telling me about the situation out at Kharanos. When the troggs took over Frostmane Hold, it sounds like the surviving trolls fled westward, deep into the heart of the dwarven homeland.Now, they threaten the dwarven town of Kharanos. It sounds like they're going to need all the help they can get. You should go to Kharanos and introduce yourself to Captain Tharran. Just follow the road east out of Brewnall and keep going until you see the town.",
+    "name": "On to Kharanos",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

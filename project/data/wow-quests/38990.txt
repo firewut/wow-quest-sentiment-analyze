@@ -1,0 +1,8 @@
+{
+    "_id": "38990",
+    "added_in_patch": 7,
+    "description": "<A powerful presence again touches your thoughts.>I have ordered your brethren to Icecrown to prepare for the coming conflict, but I have a more important fate in mind for you. You, <name>, will be the hand of our vengeance!Use the Death Gate to return to Acherus and I shall reveal your role in this.",
+    "name": "The Call of Icecrown",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

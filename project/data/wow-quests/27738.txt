@@ -1,0 +1,7 @@
+{
+    "_id": "27738",
+    "description": "A spot on the southern end of the map was marked with hieroglyphs of crocodiles fighting each other.That must be where Caimas took Tahet.Go to the Pit of Scales and find a way to rescue the Vizier's son.",
+    "name": "The Pit of Scales",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

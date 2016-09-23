@@ -1,0 +1,8 @@
+{
+    "_id": "39388",
+    "added_in_patch": 7,
+    "description": "Our quick action today has stopped this aggression and saved my valley. As you requested, I will join Malfurion in the Grove of Cenarius.Still, there is much about these satyrs that I wish to tell you. This information would be most valuable to you.Please meet me in my den before departing.",
+    "name": "Moonclaw's Wisdom",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

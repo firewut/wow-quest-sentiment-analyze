@@ -1,0 +1,7 @@
+{
+    "_id": "27481",
+    "description": "It is time that I asked a favor of you, <name>.Far to the north of Eastwall Tower, hidden among the hills, is the Mossflayer capital city of Zul'Mashar.  It was here that I was born, and here that I died.The traitor, Thresh'jin, sits atop Zul'Mashar's ziggurat.  It was my every right to be there, but he took the seat from me with treachery and deceit.  He is not strong.  He is weak.I will meet you in Zul'Mashar, and we will kill him.  Your strength and mine.  Together.",
+    "name": "Out of the Ziggurat",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

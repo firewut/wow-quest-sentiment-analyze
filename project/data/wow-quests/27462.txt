@@ -1,0 +1,7 @@
+{
+    "_id": "27462",
+    "description": "One of the key fortifications within Tyr's Hand is the barracks, which lies right next to this flare.  The Brotherhood of Light and their centurions will need all the help they can get in sacking it.",
+    "name": "To Take the Barracks",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

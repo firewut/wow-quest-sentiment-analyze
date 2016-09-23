@@ -1,0 +1,7 @@
+{
+    "_id": "29102",
+    "description": "Da first place we check gonna be da place most likely to be attacked first.  You call it Fort Livingston.Fort Livingston be surrounded by troll ruins... It make for an easy target.Maybe we find da emissary dere.  Hopefully it ain't too late.",
+    "name": "To Fort Livingston",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

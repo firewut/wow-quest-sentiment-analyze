@@ -1,0 +1,7 @@
+{
+    "_id": "28871",
+    "description": "The Wildhammer grow bold with their new Alliance allies. They dare press across the river. Drive them back!Seek out and crush the Wildhammer warbrands who fight in the riverbed and within the Thundermar Ruins along the north bank. The best among them carry insignias - gather them for me to prove your allegiance to the Dragonmaw cause.",
+    "name": "Crushing the Wildhammer",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

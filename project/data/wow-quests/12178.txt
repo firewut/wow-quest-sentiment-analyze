@@ -1,0 +1,7 @@
+{
+    "_id": "12178",
+    "description": "This is it, mon.  Let's take these hides to Krenna and see if they pass the test.Let's hope for both our sakes Krenna doesn't notice anything.",
+    "name": "Delivery to Krenna",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

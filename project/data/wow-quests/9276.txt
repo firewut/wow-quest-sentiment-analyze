@@ -1,0 +1,7 @@
+{
+    "_id": "9276",
+    "description": "Our resources are spread pretty thin here, <class>, so your help is going to be invaluable.  The captain has tasked me with overseeing the harassment of the local Shadowpine troll camps. We have a policy of keeping them off balance until the day when we can launch a brutal offensive to wipe them out.Until then, we need all of the volunteers that we can get so that those Shadowpine troll numbers are decreased.Think you could head east to Zeb'Tela and hurt them a little?",
+    "name": "Attack on Zeb'Tela",
+    "requires_level": 15,
+    "zone": "Ghostlands"
+}

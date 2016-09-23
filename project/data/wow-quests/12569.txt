@@ -1,0 +1,7 @@
+{
+    "_id": "12569",
+    "description": "The largest crocolisk in the basin, known around here as \"Bushwhacker\" for his ambush prowess, likes to sun himself in the shallow waters of River's Heart. It's the large lake at the basin's center, and is to the east of our camp.I want you to take the camouflage I've prepared and hide on the western beach of River's Heart and ambush Bushwhacker when he shows himself. Bring back his mighty jaws if you are able to overcome him.",
+    "name": "Crocolisk Mastery: The Ambush",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

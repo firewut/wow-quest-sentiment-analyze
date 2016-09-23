@@ -1,0 +1,8 @@
+{
+    "_id": "25680",
+    "description": "First things first... it looks like we got ourselves a problem.  These miners down the pathway to the right have been runnin' around like a chickens without they heads on.  My best guess is that they dug too deep and found somethin' nasty... a demon, an elemental, or some kind o' tentacley beast.Tak'arili don't like surprises.  Find out what the problem is and take care of it, then we get ourselves back on track.",
+    "name": "That's Not Us",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

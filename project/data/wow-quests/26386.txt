@@ -1,0 +1,7 @@
+{
+    "_id": "26386",
+    "description": "Priestess is not very good at speaking Orcish, no.Maybe you go speak with Surkhan, upstairs.Tell him about what you've seen inside Zul'Gurub, yes.",
+    "name": "Surkhan",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

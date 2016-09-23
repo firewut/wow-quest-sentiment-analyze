@@ -1,0 +1,8 @@
+{
+    "_id": "40725",
+    "added_in_patch": 7,
+    "description": "A satyr known as Arganax has infiltrated the village of Lorlathil in Val'sharah. I believe that Arganax has disguised himself as one of the local residents.Use the demon Eye of Azzorok on the villagers in Lorlathil. If there is a demon disguised as a local, the Eye of Azzorok will reveal their true identity.Uncover the demon infiltrator Arganax, and slay him without mercy.",
+    "name": "Arganax",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

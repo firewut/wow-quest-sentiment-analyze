@@ -1,0 +1,7 @@
+{
+    "_id": "11448",
+    "description": "It's all a bunch of cryptic nonsense! Even with this cipher I can't make heads or tails of these tablets. Admittedly, cryptography is not my strong point.You'll need to take the cipher and tablets to our cryptographer, Stanwad. Unfortunately, I haven't heard from Stanwad in two weeks. He took a team of twenty scientists to the dig sites on the southeastern bluffs of the fjord and hasn't been heard from since. The best I can do is have McGoyver over there give you a lift with his flying machine.",
+    "name": "The Explorers' League Outpost",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

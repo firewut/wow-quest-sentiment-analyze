@@ -1,0 +1,7 @@
+{
+    "_id": "28081",
+    "description": "The Warchief has requested that any able-bodied adventurer head to Stratholme's service gate, just northwest of the Northpass Tower, immediately!Lord Aurius Rivendare, former paladin of the Silver Hand and recently resurrected son of none other than Baron Rivendare himself, now leads the remaining scourge forces there! If you so choose, head to the service gate and speak with Crusade Commander Eligor Dawnbringer, leader of the Argent Crusade effort to retake Stratholme for its true owners.",
+    "name": "Adventurers Wanted: Stratholme Service Gate",
+    "requires_level": 48,
+    "zone": "Stratholme"
+}

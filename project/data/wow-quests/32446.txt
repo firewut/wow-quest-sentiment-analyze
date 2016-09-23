@@ -1,0 +1,8 @@
+{
+    "_id": "32446",
+    "added_in_patch": 5.1,
+    "description": "Those shredders are becoming a problem down there, <class>.We've sent in the Mecha-Pounders, but it just isn't enough. They're getting damaged faster than we can repair 'em!I happened upon this strange remote while scouting. With a little bit of re-configurin' I think we can use it.Try usin' it on the Jungle Shredders. Hopefully it will destroy them and then you can bring me the scrap metal.",
+    "name": "Dis-Assembly Required",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

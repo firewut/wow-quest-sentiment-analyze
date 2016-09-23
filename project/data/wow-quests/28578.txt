@@ -1,0 +1,8 @@
+{
+    "_id": "28578",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Fiona on the east bank of the Thondroril River.The Argent Crusade needs your help to win back the Eastern Plaguelands from the grasp of the Scourge.To reach the Eastern Plaguelands, cross the Thondroril River from the Western Plaguelands and look for Fiona on the eastern bank.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Eastern Plaguelands!",
+    "requires_level": 39,
+    "side": "alliance",
+    "zone": "Eastern Plaguelands"
+}

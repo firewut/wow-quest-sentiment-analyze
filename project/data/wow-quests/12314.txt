@@ -1,0 +1,7 @@
+{
+    "_id": "12314",
+    "description": "The Horde's forces are poised to break through our lines and complete their conquest of Venture Bay if we do not act. The Horde's forces in the port are commanded by Captain Zorna, near the ship on the far side of the bay.If you can defeat her, the Horde's offensive will falter and we can seize the chance to capture the port. Beware, <name>, for Zorna is a fierce fighter. It may take several people to defeat her, or if you have access to a repaired shredder, you might try using it to your advantage.",
+    "name": "Down With Captain Zorna!",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

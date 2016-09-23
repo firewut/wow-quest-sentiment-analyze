@@ -1,0 +1,8 @@
+{
+    "_id": "33138",
+    "added_in_patch": 5.4,
+    "description": "Oh my friend, today you and your companions have put an end to the sha that has plagued Pandaria since before time was recorded. You have accomplished that which even the titans and their mogu servants could not: destroying the last breaths of Y'Shaarj.Come, will you join me in the Vale of Eternal Blossoms? There is something I would like you to bear witness to.",
+    "name": "Why Do We Fight?",
+    "requires_level": 90,
+    "zone": "Quests"
+}

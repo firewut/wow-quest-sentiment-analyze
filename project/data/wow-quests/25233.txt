@@ -1,0 +1,7 @@
+{
+    "_id": "25233",
+    "description": "Cho'gall's Twilight Proveditors swear a blood oath that they will get their supplies through to the front, pledging a pound of their own considerable flesh for every pound of supplies they fail to deliver. They would rather die than fail.See to it that they do both.",
+    "name": "End of the Supply Line",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

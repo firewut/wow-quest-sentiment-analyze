@@ -1,0 +1,8 @@
+{
+    "_id": "30691",
+    "added_in_patch": 5,
+    "description": "While you are in the water below, you should slay Nahassa, the mortbreath patriarch. He suffers. I can feel his death cries ululating up to the surface of the lagoon.Find his cave, and put him out of his misery. Not because it will solve Marista's crocolisk problem. Simply out of mercy.",
+    "name": "Misery",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

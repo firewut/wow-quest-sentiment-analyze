@@ -1,0 +1,9 @@
+{
+    "_id": "37793",
+    "added_in_patch": 6.1,
+    "description": "The Iron Docks is one o' the Iron Horde's greatest assets in this war. Our scouts have reported that the docks are alight with activity, indicatin' imminent attack.Skulloc, son o' Gruul, was seen leavin' the Blackrock Foundry, armed to the teeth with powerful cannons, and has been loaded onto their mightiest warship. It doesn't matter where they intend to strike, commander - you must sack the Iron Docks and defeat Skulloc before they ever leave!",
+    "name": "Iron Docks",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Iron Docks"
+}

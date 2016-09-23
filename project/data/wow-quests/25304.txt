@@ -1,0 +1,7 @@
+{
+    "_id": "25304",
+    "description": "Our settlement on Sardor Isle was lost to the Hatecrest naga. Overwhelmed by their numbers, we fell back to the mainland. While they coveted their newly-gained sandbar, we raised New Feathermoon on the shore and amassed an even greater army.Now, the Hatecrest will be driven back into the sea. Find our Ancient of War along the shore. He will take you to the front lines, where Tambre leads the offensive.",
+    "name": "The Battle of Sardor",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

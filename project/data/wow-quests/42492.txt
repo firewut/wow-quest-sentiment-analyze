@@ -1,0 +1,8 @@
+{
+    "_id": "42492",
+    "added_in_patch": 7,
+    "description": "PH",
+    "name": "PH: Withered Scenario",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

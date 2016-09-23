@@ -1,0 +1,7 @@
+{
+    "_id": "12288",
+    "description": "You there, <class>! Help me!We're losing valuable lives! There are simply too many wounded for me to tend to alone. If we can't get our soldiers healed we could be run out of Grizzly Hills altogether!Take this tourniquet and use it on the wounded down on the battlefield.Hurry, <name>! They're dyyying!!",
+    "name": "Overwhelmed!",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

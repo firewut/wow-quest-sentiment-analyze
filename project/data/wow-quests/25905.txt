@@ -1,0 +1,8 @@
+{
+    "_id": "25905",
+    "description": "The rams we raise and train here at Amberstill ranch have long been the mounts of choice for Dun Morogh's mountaineers. Aye, there're a few here, but not enough to guard my family and all the animals.A few brave Frostmane raiders have taken to stealing our rams under the cover of night, taking them south into the Tundrid Hills. Would you be willing to help return them? You'll need to get fairly close to them and give a sharp whistle to get their attention. Their training will take over from there.",
+    "name": "Rams on the Lam",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

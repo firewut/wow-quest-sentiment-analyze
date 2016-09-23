@@ -1,0 +1,7 @@
+{
+    "_id": "14172",
+    "description": "It's good to visit with friends and family again, though I may have overdone it... I've already eaten everything they made for me!Might I trouble you for some more of that delicious Bread of the Dead? I'd be most grateful...Chapman there sells the recipe, I think.",
+    "name": "The Grateful Dead",
+    "requires_level": 1,
+    "zone": "Day of the Dead"
+}

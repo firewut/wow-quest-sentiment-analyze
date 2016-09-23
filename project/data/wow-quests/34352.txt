@@ -1,0 +1,8 @@
+{
+    "_id": "34352",
+    "added_in_patch": 6,
+    "description": "<Rexxar looks at you as you inspect the dead goblin. It's clear what he wants you to do.>",
+    "name": "Darktide Defender",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

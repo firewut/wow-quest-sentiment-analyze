@@ -1,0 +1,7 @@
+{
+    "_id": "25346",
+    "description": "The mountain giants left the mountains to aid the night elves when the Burning Legion appeared in the world. You will know them by their massive size and the way the ground begins to shake as you travel along their rocky terrain.I am eager to harness power of that size. Kill 7 mountain giants, then use the muisek vessel to capture their powerful muisek.",
+    "name": "Mountain Giant Muisek",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

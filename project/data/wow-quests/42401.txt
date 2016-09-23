@@ -1,0 +1,8 @@
+{
+    "_id": "42401",
+    "added_in_patch": 7,
+    "description": "This is the last known location of the missing Kirin Tor. There isn't much evidence, other than a torn piece of cloth, which looks to be from one of our tabards.The scrap may be small, but it should be heavy with the essence of magic. We can only hope that Baron can catch the scent and track down the mages.",
+    "name": "The Scent of Magic",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

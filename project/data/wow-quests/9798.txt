@@ -1,0 +1,7 @@
+{
+    "_id": "9798",
+    "description": "These plans seem important.  You should take them to Vindicator Aldar at the crash site.",
+    "name": "Blood Elf Plans",
+    "requires_level": 2,
+    "zone": "Ammen Vale"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "36698",
+    "added_in_patch": 6,
+    "description": "As we do battle all across Draenor, the cowardly Alliance try to seize our territory within Ashran.\r\n\r\nOur men would be inspired to see you join the battlefield, striking terror into the hearts of the Alliance.",
+    "name": "Battle in Ashran",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

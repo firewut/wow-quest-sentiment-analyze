@@ -1,0 +1,8 @@
+{
+    "_id": "14112",
+    "description": "The crusaders have captured a yeti that they're calling Icehowl. He's to be a participant in the coliseum battles and we've been asked to help with his training and upkeep.The crusaders weren't fond of my suggestion that we feed the beast surplus Sunreavers. The creature has a predilection for shark meat, so I want you to fly down to the Silver Blade, floating in the strait to the north. Get some fresh chum from one of the buckets on the boat, then spread it in the water to attract sharks.",
+    "name": "What Do You Feed a Yeti, Anyway?",
+    "requires_level": 77,
+    "side": "alliance",
+    "zone": "Tournament"
+}

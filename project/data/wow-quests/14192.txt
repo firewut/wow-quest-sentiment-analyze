@@ -1,0 +1,8 @@
+{
+    "_id": "14192",
+    "description": "If that prism of yours is tuned to refract a basilisk's gaze, we can use its crystal properties to reverse the process. All we need is a source of power.In the weapons cabinet to your right, you'll find our prototype laser mining drill. I loved that thing but the near daily dismemberments got to be a real bother. Grab the laser drill and swap out the lens with that crystal of yours...",
+    "name": "Prismbreak",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Azshara"
+}

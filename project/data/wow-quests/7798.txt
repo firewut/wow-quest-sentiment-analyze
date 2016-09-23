@@ -1,0 +1,7 @@
+{
+    "_id": "7798",
+    "description": "",
+    "name": "A Donation of Silk",
+    "requires_level": 26,
+    "zone": "The Exodar"
+}

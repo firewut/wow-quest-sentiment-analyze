@@ -1,0 +1,8 @@
+{
+    "_id": "26557",
+    "description": "I've fished sandy carp in Orgrimmar's local waters for years now.  Recently, I have noticed my bait is not working as well as it used to.  I suspect it has something to do with all the tauren that moved into the Valley of Wisdom.I spoke with one of their local fisherman and it just turns out their appetite has changed.  They are biting on stag eyes these days.  You should be able to find plenty of stags north of Orgrimmar, just outside the northern gate.",
+    "name": "A Staggering Effort",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Fishing"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10414",
+    "description": "",
+    "name": "Single Firewing Signet",
+    "requires_level": 64,
+    "zone": "Shattrath City"
+}

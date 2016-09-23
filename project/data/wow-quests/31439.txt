@@ -1,0 +1,8 @@
+{
+    "_id": "31439",
+    "added_in_patch": 5,
+    "description": "The beacon in Amberglow Hollow seems to have been tampered with. Right before the signal cut out the Klaxxi'va picked up a signal for another paragon nearby.They believe he is hidden in that wretched little swamp, Duskroot Fen.I will meet you in the fen to set up a temporary beacon until I can get Amberglow operational again.You will wake the paragon and then you will help me.",
+    "name": "Dropping Our Signal",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

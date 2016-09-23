@@ -1,0 +1,8 @@
+{
+    "_id": "35339",
+    "added_in_patch": 6,
+    "description": "I don't know what happened. My crew and I must have been the first to fall.My wife, the innkeeper, is in the same stupor you found me in. I can feel it... and there are others with her.Please, give the townsfolk peace and show their essences to my wife. That should bring her back from that cold abyss.",
+    "name": "A Parting Favor",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

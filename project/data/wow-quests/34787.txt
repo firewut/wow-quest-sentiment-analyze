@@ -1,0 +1,9 @@
+{
+    "_id": "34787",
+    "added_in_patch": 6,
+    "description": "The council is almost assembled: Othaar, myself, Hataaru and Naielle are ready. Only Exarch Maladaar remains. He has not been himself since he returned from his capture at the hands of the Iron Horde... but Vindicator Maraad was able to track him down.Find Maladaar at the Fey Landing, just south of the town center.",
+    "name": "Exarch Maladaar",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40872",
+    "added_in_patch": 7,
+    "description": "While I was, eh, testin' out this new flight pack fer Hobart, it sorta exploded an' sent me flyin' back over 'ere.You can see all the pieces out there in tha water.Now, I've got these boots 'ere that Hobart gave me to test out too, but they're not quite me size.I figure we could kill two birds with one stone and 'ave ye test 'em out while pickin' up the broken bits of the pack.Mind tha sharks while yer out there.",
+    "name": "Going Out With a Bang",
+    "requires_level": 106,
+    "zone": "Engineering"
+}

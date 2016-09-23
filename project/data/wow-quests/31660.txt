@@ -1,0 +1,8 @@
+{
+    "_id": "31660",
+    "added_in_patch": 5,
+    "description": "Newly hatched mantid have only two instincts: kill and feed. They turn on one another, devouring the weak and leaving the strongest to mature.Those hatched during a swarm - the swarmborn - are turned loose on our enemies instead.The swarmborn in the Clutches of Shek'zeer have been tainted. They are born into shadows and nightmares. Driven by terror, not hunger.They are not fit to swarm. They must be purged.",
+    "name": "Not Fit to Swarm",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

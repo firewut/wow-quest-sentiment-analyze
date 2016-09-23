@@ -1,0 +1,8 @@
+{
+    "_id": "31128",
+    "added_in_patch": 5,
+    "description": "Lao-Chin seems to have his head in the clouds... or, rather, in his beer.\r\n\r\nAfter all of his recent battles, he seems completely obsessed with with trying to develop the perfect brew for fighting. \r\n\r\nThat's well and good, but we need him to actually do some fighting!\r\n\r\nYou should go challenge him, see if you can snap him out of his rut. \r\n\r\nIf you beat him, he'll probably want to go out and help fight just to try to one-up you!",
+    "name": "The Challenger's Ring: Lao-Chin the Iron Belly",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

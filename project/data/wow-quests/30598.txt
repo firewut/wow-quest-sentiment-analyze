@@ -1,0 +1,8 @@
+{
+    "_id": "30598",
+    "added_in_patch": 5,
+    "description": "Great cranes have been nesting in this area for generations.  The Narsong Spires provide a sheltered area to rear their young.Their pristine eggs are revered as bait for catching the silver goby.  Retrieve a crane egg and see if you can catch a goby!",
+    "name": "Who Knew Fish Liked Eggs?",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

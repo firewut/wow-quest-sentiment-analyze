@@ -1,0 +1,7 @@
+{
+    "_id": "11083",
+    "description": "Don't worry about this dragon, <name>. We've got plans for it...Deeper in this mine is a band of crazed Murkblood. After the dragon broke out, they were cut off from the exit. Somehow, after a mere 2 days of isolation, they've lost all sense of decency.They've resorted to cannibalism and the promotion of mayhem. We don't need that kind of madness in this place. Find 'em and kill 'em. All of 'em.",
+    "name": "Crazed and Confused",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

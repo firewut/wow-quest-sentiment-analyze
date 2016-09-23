@@ -1,0 +1,9 @@
+{
+    "_id": "35275",
+    "added_in_patch": 6,
+    "description": "Axefall be just a moment's ride from here.I be markin' da location on your map and meet you dere.",
+    "name": "Inspecting the Troops",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

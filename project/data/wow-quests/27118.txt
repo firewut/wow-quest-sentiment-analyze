@@ -1,0 +1,7 @@
+{
+    "_id": "27118",
+    "description": "",
+    "name": "A Broken Trap",
+    "requires_level": 42,
+    "zone": "Dire Maul"
+}

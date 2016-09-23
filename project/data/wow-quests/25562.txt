@@ -1,0 +1,7 @@
+{
+    "_id": "25562",
+    "description": "The fires may be dealt with, but those Southsea pirates are still getting ready to board the Speedbarge!<name>, you need to go back to Griznak and get on your boat. Use the cannon to sink them before it's too late!",
+    "name": "Circle the Wagons... er, Boats",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

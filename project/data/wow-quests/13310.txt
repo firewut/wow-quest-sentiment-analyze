@@ -1,0 +1,7 @@
+{
+    "_id": "13310",
+    "description": "Alright scrub, I've got something to keep you from being a complete waste.A unit of highly trained infiltrators is ready to be dropped inside of Ymirheim. The vrykul inside have automated spear guns that have been ripping our transports to shreds, so we had the engineers on Orgrim's Hammer whip us up a suppression turret.You're the gunner. Launch rounds at their spear guns to obscure their vision and clog their gears. See to it that my men all make their drops and the transport stays in one piece.",
+    "name": "Assault by Air",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

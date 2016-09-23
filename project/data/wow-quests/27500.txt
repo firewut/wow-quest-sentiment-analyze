@@ -1,0 +1,7 @@
+{
+    "_id": "27500",
+    "description": "Now while the attack upon the Twilight Gate is launched, there is one last loose end to tie up: Za'brox and Beeble'phod, the disciples of Cho'gall.Intelligence has placed them within the Den of the Disciples, a small ogre cave at the southwest corner of the Twilight Gate.You're fairly certain that Cassius and Kurdran will want proof of their deaths.",
+    "name": "Four Heads are Better than None",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

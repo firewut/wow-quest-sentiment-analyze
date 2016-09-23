@@ -1,0 +1,7 @@
+{
+    "_id": "25771",
+    "description": "A shard of glimmering rock sits before you.  You sense that this item would be of value to someone within the Blasted Lands.",
+    "name": "One Draenei's Junk...",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

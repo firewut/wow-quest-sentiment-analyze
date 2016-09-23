@@ -1,0 +1,7 @@
+{
+    "_id": "30093",
+    "description": "The city has been in chaos for days now. Hiram Creed, disguised as a Gilnean, has infected the lot of those dogs with his own draconic blood. Even the Forsaken are having trouble routing him out.Only a surgical assassination can end this!The bridge behind me is relatively unguarded. Slip in through merchant's square and head south - you'll find Creed in the middle of the military district.I'll keep an eye on you and pull you out if there's any trouble....There WILL be trouble!",
+    "name": "Assassinate Creed",
+    "requires_level": 85,
+    "zone": "Rogue"
+}

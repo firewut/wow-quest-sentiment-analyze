@@ -1,0 +1,7 @@
+{
+    "_id": "11872",
+    "description": "It's despicable, really, to anoint one's self as the \"Clam Master,\" as if they hold mastery over the creatures of the sea. None may make such claims!This \"Clam Master\" must be found and slain. He was last seen at the wreckage just off the coast of the Abandoned Reach. Find him and kill him.Once this is done, return to Hierophant Cenius at the D.E.H.T.A. Encampment, north of here, and let her know that the mission was a success.",
+    "name": "The Nefarious Clam Master...",
+    "requires_level": 70,
+    "zone": "Borean Tundra"
+}

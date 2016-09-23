@@ -1,0 +1,8 @@
+{
+    "_id": "10116",
+    "description": "Wanted: Chieftain Mummaki - leader of the foul and degenerate Lost One tribe of the Daggerfen, for his brutal attacks against the Orebor Harborage.The chieftain and his band of assassins are responsible for the deaths of numerous Kurenai and draenei and should only be approached by seasoned combatants.Travelers are advised to avoid the Daggerfen Village area to the west of the Orebor Harborage.To claim the bounty, present proof of the chieftain's demise to Ikuti.",
+    "name": "Wanted: Chieftain Mummaki",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Zangarmarsh"
+}

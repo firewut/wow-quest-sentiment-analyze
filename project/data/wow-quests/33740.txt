@@ -1,0 +1,8 @@
+{
+    "_id": "33740",
+    "added_in_patch": 6,
+    "description": "It happened so fast. A white-hot flash of light ignited the nearby woods, followed by terrible winds that swept the flames across Aruuna.Moments later, arakkoa began descending through the smoke.I need to get Melani to the Pilgrim's Road. From there we can head for Anchorite's Sojourn and the protection of the vindicators. With the arakkoa roaming the area freely, I fear we'll be run down or worse: taken by the spreading wildfires.",
+    "name": "Burning Sky",
+    "requires_level": 94,
+    "zone": "Talador"
+}

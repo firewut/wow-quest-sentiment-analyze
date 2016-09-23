@@ -1,0 +1,8 @@
+{
+    "_id": "29927",
+    "added_in_patch": 5,
+    "description": "<For once, the foreman lowers her voice.>Look, this ain't easy... I got another favor to ask. My idiot husband, Hao, is a shift lead down at the quarry. I told him not to go back, that it was too dangerous, but he's as stubborn as a hozen and twice as stupid. Says the boys need him around for \"moral support.\"<Mann sneers.>What about my moral support?! What am I gonna do if that idiot dies?!Please... keep an eye out for him. Tell him to come home.<Her eyes soften before she turns away.>",
+    "name": "Mann's Man",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

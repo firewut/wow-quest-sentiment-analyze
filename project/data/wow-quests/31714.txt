@@ -1,0 +1,8 @@
+{
+    "_id": "31714",
+    "added_in_patch": 5,
+    "description": "Those Oona hozen have gone too far this time.Do you know what they are doing with wild cloud serpents? Captured hatchlings are forced to fight one another in the pits, for nothing more than the Oona's amusement.Savages!If the young hatchlings learn such aggressive behavior at a young age, they may become violent and corrupted adults. A malicious cloud serpent is not something we want to deal with.We must save the hatchlings.",
+    "name": "Saving the Serpents",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

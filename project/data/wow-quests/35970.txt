@@ -1,0 +1,8 @@
+{
+    "_id": "35970",
+    "added_in_patch": 6,
+    "description": "I'm looking for precious artifacts. The kind of artifacts that can help solve some of the greatest mysteries of Draenor, and make the Steamwheedle Preservation Society a ton of moolah. And ladies love the moolah, know what I'm sayin?So, get me the artifacts, I'll get the ladies, and you get... wait, what are you looking for again?",
+    "name": "Preservation Capitalization",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

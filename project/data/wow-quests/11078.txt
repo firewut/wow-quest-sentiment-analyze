@@ -1,0 +1,7 @@
+{
+    "_id": "11078",
+    "description": "As ye've flown around, ye must have noticed the dragons above.  I trust ye haven't fallen victim ta their rage.  Help us put an end ta it, <name>!Rivendark and Obsidia lord over this terrace, while Insidion and Furywing rule the skies over yon terrace ta the northeast.  Each has a perch on their respective domains.  I be wondering if ye and yer friends will go ta one,  lad , break open an egg with 35 apexis shards and attract the dragon down.Bring me some teeth as proof.",
+    "name": "To Rule The Skies",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

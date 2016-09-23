@@ -1,0 +1,8 @@
+{
+    "_id": "39906",
+    "added_in_patch": 7,
+    "description": "To earn my mark, <class>, you must first prove yourself in battle to me. There is a naga I wish to kill, but I am not strong enough to slay him.Before we go into battle together, I need your help as an enchanter to become stronger. I'm sure by now you have a bevy of enchantments in your repertoire.Make some for me so that I may become strong enough again to make a difference in this world.",
+    "name": "Prepping For Battle",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

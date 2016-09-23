@@ -1,0 +1,7 @@
+{
+    "_id": "27114",
+    "description": "",
+    "name": "The Gordok Taste Test",
+    "requires_level": 42,
+    "zone": "Dire Maul"
+}

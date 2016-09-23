@@ -1,0 +1,7 @@
+{
+    "_id": "25491",
+    "description": "This land has been scourged by fire, but it may yet renew itself.Some seeds deep in the soil may have withstood the scorching heat here in The Flamewake. These durable plants are the key to this forest's regrowth. Please, collect some of these seedlings for me.",
+    "name": "Durable Seeds",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

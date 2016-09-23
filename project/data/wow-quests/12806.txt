@@ -1,0 +1,7 @@
+{
+    "_id": "12806",
+    "description": "Some would say that our most critical mission lies not with the Lich King, but with the utter destruction of the Scarlet Onslaught. I would say that is foolish, but who am I to judge?Death's Rise is far to the southwest, overlooking the sea along the cliff wall. There you will find Lord-Commander Arete personally overseeing the Onslaught's destruction himself.<The baron clears his throat.>Do see to it that you report to him with all due haste. He asked for you personally.",
+    "name": "To the Rise with all Due Haste!",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

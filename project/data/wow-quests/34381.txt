@@ -1,0 +1,9 @@
+{
+    "_id": "34381",
+    "added_in_patch": 6,
+    "description": "Dere be ogres in da cave, I smell de stink of 'em.Keep ye weapon handy, we gonna have ta move quick and take down de ogres before dey start tossing da mojo.<Bwu'ja peeks into the cave.>Watch ye self mon, something be going down in dere.",
+    "name": "The Shadow Gate",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

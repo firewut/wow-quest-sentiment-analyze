@@ -1,0 +1,8 @@
+{
+    "_id": "24927",
+    "description": "Look, babe, you should be able to see what's happening here pretty easily. There's pirates, there's goblins, the goblins are fighting the pirates. There's some sad little gnomes trying to fight the pirates too.I'll make it nice and simple for you: we need to kill a lot of pirates. Go do that, 'kay? We don't want the gnomes killing more than us, after all.",
+    "name": "Dead Man's Chest",
+    "requires_level": 44,
+    "side": "horde",
+    "zone": "Tanaris"
+}

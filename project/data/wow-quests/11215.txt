@@ -1,0 +1,8 @@
+{
+    "_id": "11215",
+    "description": "The Steamwheedle Cartel's new outpost in the southern part of the marsh isn't faring so well. The zeppelin carrying supplies to Mudsprocket crashed, leaving them without vital tools, food, and medical supplies.Follow the road down south and into the marsh's interior. You'll pass by Tabetha's Farm and the Stonemaul Ruins before the road brings you to Mudsprocket. Offer any help you can provide to the town's leadership.",
+    "name": "Help Mudsprocket",
+    "requires_level": 39,
+    "side": "horde",
+    "zone": "Dustwallow Marsh"
+}

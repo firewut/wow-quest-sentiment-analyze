@@ -1,0 +1,7 @@
+{
+    "_id": "29844",
+    "description": "Da land of da ice trolls is a shadow of its former glory.If you be havin' the courage, search for history tablets to see what brought the Drakkari Empire to such an end.Perhaps one day we be givin' dis land back to a new line of frost trolls.",
+    "name": "For Posterity",
+    "requires_level": 74,
+    "zone": "Quests"
+}

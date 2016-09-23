@@ -1,0 +1,8 @@
+{
+    "_id": "41064",
+    "added_in_patch": 7,
+    "description": "Even as we speak, the Legion's dark masters fashion new horrors in hopes that they might destroy us - especially you.You must increase your own power as well.The Cursed Forge of the Nathrezim, our greatest treasure from taking the Fel Hammer, waits in the chamber ahead. You can use it to further empower your blades and maintain our edge over the enemy.",
+    "name": "Cursed Forge of the Nathrezim",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

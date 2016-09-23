@@ -1,0 +1,7 @@
+{
+    "_id": "865",
+    "description": "The raptors of the Barrens are smarter than raptors in other lands. I think all those smarts are hiding in their horns! If so, then I could grind their horns into powder and use it to make \"smart drinks.\" I'll make a fortune!Here's where you come in: I want the horn from the smartest raptor around. \"King Reaperclaw\" leads a whole pack of intelligent raptors up on the bluffs north of Ratchet. Bring me his horn! And don't get ripped to ribbons like everyone else I've sent!",
+    "name": "It's Gotta be the Horn",
+    "requires_level": 14,
+    "zone": "Northern Barrens"
+}

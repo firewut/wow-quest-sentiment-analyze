@@ -1,0 +1,7 @@
+{
+    "_id": "27685",
+    "description": "G'day, laddie.The name's Rendel.Seems ol' Moanah and I got here in the nick of time, eh?Erunak wasn't kiddin' when he said it was life or death!So... in our rush ta git over here, we left a little unfinished business off to the east a ways.A little lady was near death herself. We had no choice but ta leave her by a little air vent when we came here to yer rescue.How bout yeh git over and help her while there's still time?",
+    "name": "Good Deed Left Undone",
+    "requires_level": 80,
+    "zone": "Vashj'ir"
+}

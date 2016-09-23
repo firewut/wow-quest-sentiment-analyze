@@ -1,0 +1,8 @@
+{
+    "_id": "26671",
+    "description": "You've recovered everything. Everything except the last page......which I've got right here. Don't look at me like that. You'll understand when you read it. Some even say it's cursed, you know. In fact, I was relieved when the worgen broke in and made off with these!Take it. Take all of it, in fact. I thank you for recovering my archives, but I don't want anything to do with this ever again. Please, just leave me be.",
+    "name": "The Fate of Stalvan Mistmantle",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

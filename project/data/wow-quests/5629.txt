@@ -1,0 +1,7 @@
+{
+    "_id": "5629",
+    "description": "Hello again, <name>. I know you've been busy aiding our people, but you must take some time for yourself also. Priestess Alathea sent someone here looking for you. It seems that you've caught the attention of our elders and they feel you are prepared for greater things. Head to the Temple of the Moon in Darnassus and look for Alathea there. She will be waiting. Good luck, and may Elune be with you.",
+    "name": "Returning Home",
+    "requires_level": 10,
+    "zone": "Priest"
+}

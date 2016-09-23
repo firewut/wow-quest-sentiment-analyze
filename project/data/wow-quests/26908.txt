@@ -1,0 +1,7 @@
+{
+    "_id": "26908",
+    "description": "Mankrik's furor over his dead wife raises further concerns, <class>.The quilboar in Razorfen Kraul are far more ruthless and full of hatred than Mankrik could ever imagine.You should travel south there and speak with my old friend Auld Stonespire. He works to put an end to their rampage before the land suffers more in its already weak condition.",
+    "name": "Feeling Thorny",
+    "requires_level": 30,
+    "zone": "Razorfen Kraul"
+}

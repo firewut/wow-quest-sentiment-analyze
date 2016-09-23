@@ -1,0 +1,8 @@
+{
+    "_id": "30793",
+    "added_in_patch": 5,
+    "description": "Now is the time to strike.Golgoss, Arconiss, and I will go east, into Jahesh's domain. Meet us there, and prepare for battle.Today, we restore the pride of our people.",
+    "name": "Mists' Opportunity",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

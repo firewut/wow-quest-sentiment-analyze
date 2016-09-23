@@ -1,0 +1,8 @@
+{
+    "_id": "872",
+    "description": "Pigmen running amok right on the border of Durotar? Not on my watch! It is as they say, <name>: The best defense is crushing all who oppose you.One of my scouts followed the quilboar after the last caravan raid, so we know where to strike. Kreenig Snarlsnout is the mastermind behind the attacks along the river. Crush him, <class>. Defeat him and disembowel his forces so that the attacks on this camp cease.Search for a quilboar-infested cavern along the river, just south of our stables.",
+    "name": "The Far Watch Offensive",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

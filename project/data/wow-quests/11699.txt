@@ -1,0 +1,7 @@
+{
+    "_id": "11699",
+    "description": "The cultists magicked me into this cage and there's no door to it. Little did they know that I'm the chief transmatter engineer for the airstrip!With your help, and a little elbow-grease, I won't be in here for long.I'm going to need an engine-core crystal from one of the ghouls in here, a magical gyroscope from their doctor, and a piloting scourgestone from the lich-lord up top.With all of that stuff, I should be able to make a port device to get back to Fizzcrank's and escape the gnome way!",
+    "name": "I'm Stuck in this Damned Cage... But Not For Long!",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

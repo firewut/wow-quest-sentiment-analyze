@@ -1,0 +1,9 @@
+{
+    "_id": "32804",
+    "added_in_patch": 6,
+    "description": "Even when on a mission of vengeance we must remember to uphold the honor that is required of a member of the Frostwolves.In the grotto below are the fallen corpses of many good Frostwolf orcs. They must be remembered.While you carry out Ga'nar's task, look for articles of our fallen brethren. Bring these articles to me so that I might pass them to a shaman for final burial as is our tradition.",
+    "name": "Articles of the Fallen",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

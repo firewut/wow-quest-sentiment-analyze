@@ -1,0 +1,9 @@
+{
+    "_id": "34952",
+    "added_in_patch": 6,
+    "description": "Hallvalor is the ancestral home o' the Burning Blade clan. Since they be such fast friends, the Warsong allow the blademasters an' their shaman to remain in Nagrand when all o' the other clans are forced out.Blah, blah, blah.I say, if they're the friend o' my enemy, then they're my enemy, and that's all I need to know!",
+    "name": "The Friend o' My Enemy",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

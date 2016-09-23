@@ -1,0 +1,8 @@
+{
+    "_id": "32223",
+    "added_in_patch": 5.1,
+    "description": "Wanted for crimes against the Domination Point forces!Lieutenant Ethan Jacobson is responsible for leading several ground assaults against the Bilgewater lumber operation.Last spotted occupying an island south of Quickchop's Lumber Farm.",
+    "name": "Wanted: Lieutenant Ethan Jacobson",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

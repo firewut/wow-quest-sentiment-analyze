@@ -1,0 +1,7 @@
+{
+    "_id": "26108",
+    "description": "The highland fleshstalkers to the south are even fiercer than the others of their kind. They possess not just strength, but true cunning.When I was trapped by lethargy, even the amulets of strength failed to move me. But Tor'gan used the hearts of the fleshstalkers to imbue me with spirits that conquered my doubt, freeing me.Our soldiers deserve the guile of the raptor. Collect the fleshstalker hearts for me, <name>.",
+    "name": "Guile of the Raptor",
+    "requires_level": 26,
+    "zone": "Arathi Highlands"
+}

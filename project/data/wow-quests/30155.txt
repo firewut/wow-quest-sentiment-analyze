@@ -1,0 +1,8 @@
+{
+    "_id": "30155",
+    "added_in_patch": 5,
+    "description": "The situation at the islands remains dire, <name>.The Slitherscale saurok have not responded to our attempts at peace, so only one option remains.In order to protect the wild cloud serpents, we must rid the island of their presence. Only then can the cloud serpents be left to live in peace.",
+    "name": "Restoring the Balance",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

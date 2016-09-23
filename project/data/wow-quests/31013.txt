@@ -1,0 +1,8 @@
+{
+    "_id": "31013",
+    "added_in_patch": 5,
+    "description": "I recently received word that some of your kind might be coming our way.I've recently been trying to bolster the strength of the Horde. A few pandaren might do us good.Walk with me, <name>.",
+    "name": "The Horde Way",
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

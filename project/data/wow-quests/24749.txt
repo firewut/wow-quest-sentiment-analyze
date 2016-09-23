@@ -1,0 +1,7 @@
+{
+    "_id": "24749",
+    "description": "Before your weapon can reach its full potential it must be endowed with its signature powers. First among them is unholiness.You must seek out and defeat the one called Professor Putricide, but his death is not your only goal. You must use his resources against him.Find a way to absorb his mutated slime. Use the foul substance to infuse your weapon with the power of the unholy. Only when this has been done shall I reveal your next task.",
+    "name": "Unholy Infusion",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14233",
+    "description": "Looking through the dead orc's belongings, you find a field journal. Though it is heavily water damaged, the writing is still legible, if barely.Flipping through the pages, an interesting story unfolds. Good thing you decided to study Orcish.Like the Trade Prince's yacht, the orcs were fired upon by Alliance warships. You do remember an orc warship that you passed right before the Alliance opened fire. Maybe they were firing on the orcs instead of your ship?Stupid orcs! They got you sunk!",
+    "name": "Orcs Can Write?",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

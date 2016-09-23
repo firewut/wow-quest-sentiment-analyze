@@ -1,0 +1,8 @@
+{
+    "_id": "40905",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Lieutenant Strathmar",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

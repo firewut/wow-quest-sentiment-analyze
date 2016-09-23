@@ -1,0 +1,8 @@
+{
+    "_id": "38833",
+    "added_in_patch": 7,
+    "description": "The Firmament Stone is one of the few anvils beneath the sky that can tolerate the hammer strikes necessary to craft demonsteel.Here, I will show you.Two parts leystone, one part felslate. No heat, no tempering, just pure strength and finesse.Try it. I will coach you.",
+    "name": "The Art of Demonsteel",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

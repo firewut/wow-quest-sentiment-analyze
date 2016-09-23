@@ -1,0 +1,8 @@
+{
+    "_id": "40341",
+    "added_in_patch": 7,
+    "description": "Wavespeaker Adelee tracked Sharas'dal to the Throne of Tides within the Abyssal Maw, then disappeared. <name>, if we go after her, we are almost certainly walking into a trap.But the elements are with us, my friend. The naga will not expect a shaman of your caliber!Swim to the Throne of Tides to the Northwest, within the Abyssal Depths. I will join you once you are inside. Let's find our missing shaman and get that artifact!",
+    "name": "Azshara's Power",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

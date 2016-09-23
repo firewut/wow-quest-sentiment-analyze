@@ -1,0 +1,8 @@
+{
+    "_id": "40332",
+    "added_in_patch": 7,
+    "description": "Do not let... my body lie in... the mud.Set my flesh... aflame.",
+    "name": "Beach Bonfire",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

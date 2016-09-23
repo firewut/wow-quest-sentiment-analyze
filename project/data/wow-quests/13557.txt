@@ -1,0 +1,7 @@
+{
+    "_id": "13557",
+    "description": "This key appears to be for the animal cages spread throughout Cliffspring Hollow. Tharnariun would surely appreciate if you took advantage of the situation to free some of the uncorrupted duskrats and thistle bears that are still being held captive.",
+    "name": "Bearer of Good Fortune",
+    "requires_level": 8,
+    "zone": "Darkshore"
+}

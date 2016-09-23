@@ -1,0 +1,8 @@
+{
+    "_id": "30378",
+    "added_in_patch": 5,
+    "description": "Regroup at the harbor entrance to inform Blastmaster Sparkfuse of your success.He will trigger the powder barrels and signal the airship forward.Make certain that none of your group is on those ships when they go up!",
+    "name": "The Blastmaster",
+    "requires_level": 85,
+    "zone": "Theramore's Fall (Horde)"
+}

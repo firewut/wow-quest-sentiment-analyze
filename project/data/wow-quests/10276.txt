@@ -1,0 +1,7 @@
+{
+    "_id": "10276",
+    "description": "With the data from both the first and second points, I'm now certain that the crystal is at the top of the Ruins of Farahlon to the northeast.Unfortunately, the data indicates that the crystal is moving, which means that it has already been discovered, probably by the Burning Legion!Just in case, I recommend that you take some friends along.Slay the demon that has the crystal and return it to Nexus-Prince Haramad.",
+    "name": "Full Triangle",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

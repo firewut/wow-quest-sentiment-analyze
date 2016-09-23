@@ -1,0 +1,9 @@
+{
+    "_id": "38187",
+    "added_in_patch": 6.1,
+    "description": "Shattrath City is in the hands of Sargerei forces under the leadership of the once Exarch, Socrethar.\r\n\r\nThe Shadow Council forces in the eastern portion of the city are gaining in power through the aid of demons from the Nether, and need to be culled before they become a threat to all of our operations.",
+    "name": "Missive: Assault on Shattrath Harbor",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

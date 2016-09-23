@@ -1,0 +1,9 @@
+{
+    "_id": "29556",
+    "added_in_patch": 5,
+    "description": "We've located an Alliance wreck to the south. Unfortunately, the locals have informed us that it's currently being scavenged by a group of creatures called \"hozen.\"\r\n\r\nBy pillaging our wrecked ships, these creatures have already shown that they aren't friendly. We can't have them taking spoils from our ships, stealing our supplies, and worse, potentially capturing or killing any survivors.\r\n\r\nGet down there and take them out! When you're done, meet up with Nodd Codejack, our SI:7 agent in the area.",
+    "name": "Hozen Aren't Your Friends, Hozen Are Your Enemies",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

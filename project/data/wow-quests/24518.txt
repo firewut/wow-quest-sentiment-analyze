@@ -1,0 +1,8 @@
+{
+    "_id": "24518",
+    "description": "This bundle of papers was found in a leather satchel hidden under the officer's clothes.Battle maps of the region depict Honor's Stand, connected to what appears to be a large unfinished roadway crossing the Barrens all the way from Theramore. It looks like the Alliance plans to build a road from the coast straight into the heart of Kalimdor!Kilrok Gorehammer will want to see this.",
+    "name": "The Low Road",
+    "requires_level": 29,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

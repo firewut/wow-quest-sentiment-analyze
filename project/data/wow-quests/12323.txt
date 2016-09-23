@@ -1,0 +1,7 @@
+{
+    "_id": "12323",
+    "description": "There are still pockets of cowardly Venture Company men holed up in some of the buildings at the center of Venture Bay. I need every man I can spare out there fighting against the Horde, but we can't allow those Venture Company stragglers to camp out in those buildings, either.Maybe we can \"convince\" them to make for their ship. Take this smoke bomb and use it to smoke out the stragglers from their places in the bunkhouse, sawmill, or stables. Don't get too close, though; they probably bite.",
+    "name": "Smoke 'Em Out",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

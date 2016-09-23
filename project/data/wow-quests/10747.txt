@@ -1,0 +1,7 @@
+{
+    "_id": "10747",
+    "description": "I need to examine the whelps that they are raising at the Blackwing Coven.There should be an abundance of them flying around inside their cavernous base, as well as a number of eggs, which if you get close to them will likely hatch.Please, <name>, take the net and capture a handful of them alive for me.Find them by heading west across the Wyrmskull Bridge and heading through the Wyrmskull Tunnel.  Follow the path to its end past Grishnath and the Raven's Wood.",
+    "name": "Whelps of the Wyrmcult",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

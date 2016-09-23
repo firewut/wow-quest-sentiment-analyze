@@ -1,0 +1,7 @@
+{
+    "_id": "9829",
+    "description": "Alturus's report is unsettling.  We thought it was bad when Karazhan sealed itself off to the outside world.  We had agents inside; we never heard from any of them again.  Now this... demonic emanation.  We must investigate it.The only people who can reopen Karazhan were presumed dead: Khadgar and Medivh.While we hope that the latter is indeed gone, we recently learned that his apprentice, Khadgar, is alive and well in a place called Shattrath City.  Find him and give him Alturus's report.",
+    "name": "Khadgar",
+    "requires_level": 68,
+    "zone": "Shattrath City"
+}

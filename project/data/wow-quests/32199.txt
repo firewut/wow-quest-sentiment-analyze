@@ -1,0 +1,8 @@
+{
+    "_id": "32199",
+    "added_in_patch": 5.1,
+    "description": "The Boss-Lady desires crabs!Why are you looking at me like that? It's not uncommon for a classy person, such as her loveliness, to want crab for dinner. What did you think I meant?There are some big crabs wandering around on Bilgewater Beach that should be suitable for her refined palate.Bring Sezik the best crab meat you can find!",
+    "name": "Krasarang Steampot",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "37756",
+    "added_in_patch": 6.1,
+    "description": "The Iron Horde is just one of the threats we must deal with on Draenor. We must also clean up the chaos they are leaving in their wake.Brackenspore, ancient walker of the deep, was drawn from the waters near Highmaul by the presence of the Iron Horde. He spreads his fungal growth in his wake and will eradicate all of us if left unchecked.Travel to Highmaul and defeat Brackenspore.",
+    "name": "Walled City: Brackenspore",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

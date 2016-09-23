@@ -1,0 +1,9 @@
+{
+    "_id": "36123",
+    "added_in_patch": 6,
+    "description": "The Road of Glory is not just the only field of strife in this land, <name>. We must go into the wilderness here to uncover the artifacts.Venture forth and kill a member of the Horde you find in the outskirt areas and bring me back a piece of their armor to prove your worth.",
+    "name": "Into The Wilderness",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ashran"
+}

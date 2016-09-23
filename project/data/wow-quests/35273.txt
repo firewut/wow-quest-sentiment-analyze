@@ -1,0 +1,8 @@
+{
+    "_id": "35273",
+    "added_in_patch": 6,
+    "description": "<Apexis constructs are about to emerge from their ancient chambers on a warpath. The arakkoa are sure to send more sol-shapers to support them.The interface and the turret hum in soft resonance.>",
+    "name": "Hot Seat",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

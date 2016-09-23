@@ -1,0 +1,7 @@
+{
+    "_id": "13009",
+    "description": "It remains uncertain whether or not our people can ever rekindle the affection we once held for Thorim.May this armor, if nothing else, remind him of the days when we stood together in honor, invincible.",
+    "name": "A New Beginning",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

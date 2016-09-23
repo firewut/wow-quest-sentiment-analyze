@@ -1,0 +1,7 @@
+{
+    "_id": "11386",
+    "description": "I always assumed that Pathaleon the Calculator used magic to project his image across Outland. Apparently I was wrong.My latest customer tells me that the blood elf uses a mechanical device for his communication with the leaders of Prince Kael'thas's special projects. As I understand it, he acquired it from the Zaxxis rebels in the Netherstorm.My client wishes to obtain the projector. Why don't you pay Pathaleon a visit? He can be found within the Mechanar at Tempest Keep.",
+    "name": "Wanted: Pathaleon's Projector",
+    "requires_level": 70,
+    "zone": "Quests"
+}

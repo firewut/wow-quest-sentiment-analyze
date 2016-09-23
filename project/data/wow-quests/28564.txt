@@ -1,0 +1,8 @@
+{
+    "_id": "28564",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Commander Althea Ebonlocke in Darkshire.The commander's watchmen are stretched thin defending against marauding wolves and bands of wild worgen. They cannot hold out for long without your help. You can reach Darkshire in Duskwood by following the road south at the border between Elwynn Forest and the Redridge Mountains.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Duskwood!",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

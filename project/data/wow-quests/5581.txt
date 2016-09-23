@@ -1,0 +1,7 @@
+{
+    "_id": "5581",
+    "description": "Here it is - the Hand of Iruxos.Got it from one of the Burning Blade leaders myself.You must possess it if the demon portals at Mannoroc Coven are to be banished... which is what I now ask you to do.With the demon threat increasing we must close these portals to stem the tide of demons to this world.\r\n",
+    "name": "Portals of the Legion",
+    "requires_level": 31,
+    "zone": "Desolace"
+}

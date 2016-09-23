@@ -1,0 +1,8 @@
+{
+    "_id": "24682",
+    "description": "Quickly, through the portal! I'll find you on the other side.",
+    "name": "The Pit of Saron",
+    "requires_level": 78,
+    "side": "horde",
+    "zone": "Quests"
+}

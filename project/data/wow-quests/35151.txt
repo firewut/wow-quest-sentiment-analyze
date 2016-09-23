@@ -1,0 +1,9 @@
+{
+    "_id": "35151",
+    "added_in_patch": 6,
+    "description": "You have already constructed an impressive garrison in Frostfire. I believe I should defer this next choice to you.One region of Gorgrond is rich in resources. A lumber mill could help us make the most of them.Another region harbors hardened gladiators. A sparring arena would help persuade them to fight for our cause.Either path will strengthen us as we seek to find and weaken the Iron Horde.Which do you choose, Commander?",
+    "name": "Your Base, Your Choice",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Beastwatch"
+}

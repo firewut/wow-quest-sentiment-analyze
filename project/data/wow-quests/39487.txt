@@ -1,0 +1,8 @@
+{
+    "_id": "39487",
+    "added_in_patch": 7,
+    "description": "A drogbar stonecaster known as Gelmogg entered our sacred water caverns and aims to draw its power into himself.\r\n\r\nWe must destroy him before he gets too powerful.\r\n\r\nHe is in the upper caverns.",
+    "name": "Crystal Fury",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

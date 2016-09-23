@@ -1,0 +1,8 @@
+{
+    "_id": "37776",
+    "description": "Good day to ya, commander!I have bad news.We've been contracting out some spy work to the local fisherman - we pay 'em some coin, they take their boats out north of Umbrafen and see what the Iron Horde's up to. Win-win, right?Well, it turns out... no. Every boat that goes out never comes back. Apparently this giant water elemental, Undertow I think it was, is murdering the snot out of everyone that passes through.Any chance you could clear it out for us, commander?",
+    "name": "Death to Undertow!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

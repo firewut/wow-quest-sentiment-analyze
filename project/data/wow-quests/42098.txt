@@ -1,0 +1,8 @@
+{
+    "_id": "42098",
+    "added_in_patch": 7,
+    "description": "In order to create the anchor, we'll need to link something of Shinfel's to an unclaimed soul.\r\n\r\nThe soul will act like a beacon, guiding Shinfel through the Twisting Nether, and back to Dreadscar Rift.\r\n\r\nShinfel's staff should provide us with the link we need, but the soul will be a bit harder to find. \r\n\r\nDwelling within Black Rook hold is an amalgam of souls, some lost and forgotten. Killing this monstrosity should provide us with the soul we need.",
+    "name": "An Unclaimed Soul",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

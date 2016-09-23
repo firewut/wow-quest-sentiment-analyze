@@ -1,0 +1,7 @@
+{
+    "_id": "7282",
+    "description": "He must be put out of his misery, soldier! He knows not what he does. He has become a mindless servant of the dreaded Banshee Queen.Venture forth, across the Field of Strife, to the depths of Frostwolf territory. Find my brother and destroy him. His torment must come to an end.",
+    "name": "Brotherly Love",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

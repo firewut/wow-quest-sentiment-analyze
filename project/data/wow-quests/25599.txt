@@ -1,0 +1,7 @@
+{
+    "_id": "25599",
+    "description": "Twilight's Hammer is using these corridors, and others like them, to move supplies from the elemental planes up into Azeroth. In order to seal these passages off, we're going to need to know how they're constructed.Find for me the Tome of Openings, used by the elementals to open gates between the planes.Cindermaul the Portal Master should have one. You'll have to kill him. Careful! He's probably got some tricks up his sleeve...",
+    "name": "Cindermaul, the Portal Master",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

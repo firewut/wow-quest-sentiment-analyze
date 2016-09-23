@@ -1,0 +1,9 @@
+{
+    "_id": "34672",
+    "added_in_patch": 6,
+    "description": "We barely escaped the Twilight's Hammer sacrificial altar, but there are others who need help deeper within these caves. If these cultists complete their blood ritual, they will unleash Aku'mai the Devourer onto the world. You cannot let this happen.",
+    "name": "The Rise of Aku'mai",
+    "requires_level": 20,
+    "side": "alliance",
+    "zone": "Blackfathom Deeps"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43506",
+    "added_in_patch": 7,
+    "description": "The raw power of the runestones will allow Hymdall to temporarily open a tear into demonic worlds, but it's not enough.The Legion hides its presence in far away worlds with dark magic. Bring a greater runestone so that Hymdall can hone in on our enemies across the cosmos.",
+    "name": "Greater Power",
+    "requires_level": 110,
+    "zone": "Warrior Campaign"
+}

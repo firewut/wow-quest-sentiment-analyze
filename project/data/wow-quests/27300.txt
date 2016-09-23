@@ -1,0 +1,7 @@
+{
+    "_id": "27300",
+    "description": "Da Twilight's Hammer have destroyed a Dragonmaw town to the south and are performin' dey're summonin' rituals from there. Offer dem no respite to continue wit dey're incantations. Bring tha battle to dem!",
+    "name": "Pushing Back",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

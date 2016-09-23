@@ -1,0 +1,7 @@
+{
+    "_id": "10753",
+    "description": "The number of atrocities committed by the Burning Legion is countless. Even as we speak, they send their legion forces against the creatures of this land. Helpless to defend against their power, they fall one by one. <name>, help me stop these crimes of nature destroy all which they corrupt. Over the hill, east of here, you will see the corruption spreading across Bladed Gulch. Kill the ones causing the crime, the Fel Corrupters, and as many Felsworn as you can.",
+    "name": "Culling the Wild",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

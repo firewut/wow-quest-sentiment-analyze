@@ -1,0 +1,7 @@
+{
+    "_id": "196",
+    "description": "A particularly cagey brand of raptor, known by locals as the \"Jungle Stalker\", prowls the forests to the south, across the river.  They are far more difficult to track down and kill than the other breeds you've been trying your luck at.Killing these Jungle Stalkers will undoubtedly make for a good tale around the fire.",
+    "name": "Raptor Prowess",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

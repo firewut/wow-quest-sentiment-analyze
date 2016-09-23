@@ -1,0 +1,9 @@
+{
+    "_id": "31455",
+    "added_in_patch": 5,
+    "description": "Our new recruits have spoken in hushed tones about a group of Pandaren they call the \"Shado-Pan\". They are apparently very strong, and secretive.\r\n\r\nThat's where you come in. Rumor is they have a base of operations to the southeast, near Firebough Nook. You should travel there as an envoy of the Alliance. Give them any help they require.",
+    "name": "The Shado-Pan",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "36757",
+    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in your Garrison.",
+    "name": "Pristine Cracked Ivory Idol",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

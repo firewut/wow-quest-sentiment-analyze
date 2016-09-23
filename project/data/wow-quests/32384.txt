@@ -1,0 +1,8 @@
+{
+    "_id": "32384",
+    "added_in_patch": 5.1,
+    "description": "It is time to make our move. Go to the Tomb of Shadows, weaken him, and take him captive.\r\n\r\nI will stay here in case Garrosh arrives. He must be delayed so that we can take our prize before he destroys it in his anger.\r\n\r\nHurry!",
+    "name": "Trapping the Leader",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

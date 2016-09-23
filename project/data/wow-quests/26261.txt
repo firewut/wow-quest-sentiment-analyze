@@ -1,0 +1,7 @@
+{
+    "_id": "26261",
+    "description": "According to the orders you found, there is a key inside the tent in the southeastern end of Deathwing's Fall.Obtain it and free the slaves in the quarry to the south.",
+    "name": "Question the Slaves",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

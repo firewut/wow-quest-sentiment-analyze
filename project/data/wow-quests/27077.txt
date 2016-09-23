@@ -1,0 +1,8 @@
+{
+    "_id": "27077",
+    "description": "The cultists of the Twilight's Hammer use their powers to draw elementium metal from deep beneath the earth. They coax it out into twisted spikes to form their buildings, rooted right into the defiled ground.The ogres here seem to be in the middle of weaving the stuff, and we need to strike while they're still twisting it into shape.Tear the spikes right out of the ground while they're still pliable, and bring them back to me! We're not going to give these curs a single inch of our land.",
+    "name": "Clutching at Chaos",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

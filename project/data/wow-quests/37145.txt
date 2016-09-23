@@ -1,0 +1,8 @@
+{
+    "_id": "37145",
+    "added_in_patch": 6,
+    "description": "Listen, I don't know how I got here, but I have it on good authority that there is an entire island made of shiny things and it's just off of the coast a ways.All we have to do is hop in the water and swim out there, then we can load up our pockets and swim back! I'm just going to rest up and do some stretching before heading out.Don't try and stop me!",
+    "name": "Budd's Gambit",
+    "requires_level": 92,
+    "zone": "Iron Docks"
+}

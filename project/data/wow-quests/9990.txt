@@ -1,0 +1,7 @@
+{
+    "_id": "9990",
+    "description": "You know, come to think of it, I do recall selling several boxes of strange and exotic engineering parts to Empoor about a month ago.  I'm not sure what they'd be used for, but I know that they were delivered to Tuurem.Perhaps one or more of those boxes is still there?",
+    "name": "Investigate Tuurem",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

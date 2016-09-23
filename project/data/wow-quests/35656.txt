@@ -1,0 +1,9 @@
+{
+    "_id": "35656",
+    "added_in_patch": 6,
+    "description": "I can feel a powerful presence in the marsh $p, it is not far from here.Go see what is there while I finish my grim feast.  I will catch up...",
+    "name": "A Heartfelt Search",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29156",
+    "description": "A group of trolls, claiming to represent the Darkspear tribe, have arrived at Stormwind Harbor.  Our guards are keeping them at bay, for now.The Stormwind Harbor Guards are seeking seasoned adventurers for help in removing the trolls from the harbor.  Report to Commander Sharp at Stormwind Harbor.",
+    "name": "The Troll Incursion",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

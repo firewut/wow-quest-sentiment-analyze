@@ -1,0 +1,9 @@
+{
+    "_id": "36165",
+    "added_in_patch": 6,
+    "description": "We're in luck, commander. The antidote is relatively easy tae make.I've made a small amount with what I had on me. You should take it tae Kolrigg before it's too late. It'll keep him alive long enough for me tae make more.",
+    "name": "No Time to Waste",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

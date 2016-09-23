@@ -1,0 +1,7 @@
+{
+    "_id": "29571",
+    "description": "The Earthen Ring often finds itself working closely with the druids of the Cenarion Circle. Now is one such time.Travel north to the Underbog and speak with Watcher Jhang. She is in charge of an expedition in the Coilfang Reservoir to stop the naga there and save Zangarmarsh.",
+    "name": "Defending the Wilds",
+    "requires_level": 63,
+    "zone": "The Underbog"
+}

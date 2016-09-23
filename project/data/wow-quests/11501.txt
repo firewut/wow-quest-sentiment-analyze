@@ -1,0 +1,7 @@
+{
+    "_id": "11501",
+    "description": "Westguard needs to know what's going on here, <name>. I want you to personally deliver the news to Captain Adams.Whenever you're ready, let me know and I'll put you back in the construct for one final flight. It'll take you to Westguard Keep, but more than likely blow up in the process.It's been a pleasure...",
+    "name": "News From the East",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

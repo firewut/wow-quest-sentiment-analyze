@@ -1,0 +1,7 @@
+{
+    "_id": "10452",
+    "description": "[PH Fel Orc 1.",
+    "name": "DON'T USE [PH] Fel Orc 1",
+    "requires_level": 55,
+    "zone": "Hellfire Peninsula"
+}

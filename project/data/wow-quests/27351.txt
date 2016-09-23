@@ -1,0 +1,7 @@
+{
+    "_id": "27351",
+    "description": "SI:7 has been watching your progress with interest. You service to the Alliance is well-known and tales of your deeds have reached the king's ears.In recognition of your service, King Wrynn has commissioned the royal armorer to forge a special weapon.The cursed Shadowfang Keep in Silverpine Forest is home to the exotic materials for your weapon. Travel there and recover Commander Springvale's sharpening stone, a supply of moonsteel ingots, and sinew from the ghouls and geists infesting the keep.",
+    "name": "A Royal Reward",
+    "requires_level": 20,
+    "zone": "Rogue"
+}

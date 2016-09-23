@@ -1,0 +1,8 @@
+{
+    "_id": "26733",
+    "description": "<Brother Nimetz analyzes the samples you've given him.>This... this is just basilisk blood!No, it's mostly basilisk blood.  They've added something to it though.  I'll need a control sample to perform a proper comparison.They most likely obtained the blood from the crystal spine basilisks, found to the east of their compound.  Bring me back some pure samples, and I'll have this elixir figured out.",
+    "name": "Control Sample",
+    "requires_level": 24,
+    "side": "alliance",
+    "zone": "Northern Stranglethorn"
+}

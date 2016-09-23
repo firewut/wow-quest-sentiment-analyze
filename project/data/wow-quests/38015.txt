@@ -1,0 +1,8 @@
+{
+    "_id": "38015",
+    "added_in_patch": 7,
+    "description": "This many withered threaten to wipe our brood out completely!Quickly, <name>! Crack off a ley crystal and heal any wounded drakes you can find out on the battlefield.I will do what I can to keep these whelplings safe and healthy.",
+    "name": "On the Brink",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

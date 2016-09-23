@@ -1,0 +1,8 @@
+{
+    "_id": "40214",
+    "added_in_patch": 7,
+    "description": "Listen, you. I'm not sure when the crazy side of me will come out again, so let's make our time together short.You want to learn how to make armor to rival the demons? Follow my instructions and you'll have an excellent grasp on the procedures.",
+    "name": "Fel Tanning",
+    "requires_level": 110,
+    "zone": "Leatherworking"
+}

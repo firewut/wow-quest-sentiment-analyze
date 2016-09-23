@@ -1,0 +1,8 @@
+{
+    "_id": "31704",
+    "added_in_patch": 5,
+    "description": "<Your serpent catches your gaze and ducks its head bashfully.>You can tell that someone has gotten out of its pen and had \"an accident.\"Well, at the rate that the hatchling's been eating, it had to come out the other end... somewhere.You had better find the serpent's poop and clean it up before the Serpent Masters find out.",
+    "name": "Pooped",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

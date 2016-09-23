@@ -1,0 +1,9 @@
+{
+    "_id": "38060",
+    "added_in_patch": 7,
+    "description": "The Skyfire's starboard propeller came to rest on the cliffs overlooking our camp - we're gonna use it like a big antenna and push our distress signal so far that even Mekkatorque's alarm clock could pick it up!Unfortunately, it might attract some unwanted attention.We're braced for enemy contact down here at the camp - fire up that signal and be ready to defend the antenna!",
+    "name": "Signal Boost",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

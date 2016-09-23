@@ -1,0 +1,7 @@
+{
+    "_id": "11503",
+    "description": "Our ancient enemy, the draenei, have returned with powerful allies.  They wage war in Halaa, southwest of here.We cannot allow them a victory there as Garadar would be next without a doubt.Go and slay those who would aid our ancient enemy.",
+    "name": "Enemies, Old and New",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

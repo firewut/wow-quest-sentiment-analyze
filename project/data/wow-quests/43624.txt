@@ -1,0 +1,8 @@
+{
+    "_id": "43624",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Isel the Hammer",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

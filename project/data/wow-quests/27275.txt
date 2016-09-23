@@ -1,0 +1,7 @@
+{
+    "_id": "27275",
+    "description": "We saw to it that the sentinel was healed and re-equipped. I already sent her back into the field.Head back up and go to Darkcloud Pinnacle. She'll meet you there.",
+    "name": "Together Again",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

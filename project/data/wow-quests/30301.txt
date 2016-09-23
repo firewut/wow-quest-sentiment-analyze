@@ -1,0 +1,8 @@
+{
+    "_id": "30301",
+    "added_in_patch": 5,
+    "description": "There is no more sure message we can send them then to burn the tents the sleep in.Scour the ruins. Destroy every tent you find.",
+    "name": "Offering a Warm Welcome",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

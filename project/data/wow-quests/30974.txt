@@ -1,0 +1,8 @@
+{
+    "_id": "30974",
+    "added_in_patch": 5,
+    "description": "The kegs are full of my worst stock. Good for burning, crap for drinking.I've broken out some tankards of my best spirits and had them carried out amongst the kegs though - those are for my well-deserving men!  Spirits to raise their spirits after endless, grueling fighting.Would you be up for spreading the good cheer?",
+    "name": "Raising Spirits",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "28868",
+    "description": "We need to halt the construction on this Frostmane village. If we let them get too entrenched, it will be more difficult to keep them from settling here permanently.It's time to give those brutes a gnome's-eye view of the world! Take this gnomish viewpoint equalizer and use it on the Frostmane builders to bring them down to our level. They won't be able to lift their tools and construction will come to a standstill.",
+    "name": "The View from Down Here",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

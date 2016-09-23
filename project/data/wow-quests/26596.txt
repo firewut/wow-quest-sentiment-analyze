@@ -1,0 +1,7 @@
+{
+    "_id": "26596",
+    "description": "I've been sent by the good people of Theramore to find loyal members of the Alliance who are willing to help Lady Jaina with some problems in Dustwallow.You weren't really here working for the goblins, were you?The path back to Dustwallow will take you through Ratchet.  Wait on the end of this pier for the next boat.  Once you get to Ratchet, speak with Gazlowe.  He'll point you in the right direction from there.Ugh, I think I stepped on a fish!  And it flopped!",
+    "name": "The Call of Kalimdor",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

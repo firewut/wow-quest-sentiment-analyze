@@ -1,0 +1,7 @@
+{
+    "_id": "27740",
+    "description": "Hey, while you were out, the Baron stopped by! He kicked me until money came out!He always does that though. But this time he asked me to tell you something! He wants you to go south and help out our herbalist, Baba Bogbrew.She's all the way across the water! But just talk to my girl Daisy outside and she'll send you there the Crazy Larry way!",
+    "name": "Baba Bogbrew",
+    "requires_level": 51,
+    "zone": "Swamp of Sorrows"
+}

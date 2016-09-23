@@ -1,0 +1,8 @@
+{
+    "_id": "11708",
+    "description": "Now that you're here, it's time for me to tell you the full story of what's going on.After you've heard my tale, go outside and find my second-in-command, Jinky Wingnut. She'll handle everything from here on out.",
+    "name": "The Mechagnomes",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

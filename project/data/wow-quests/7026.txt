@@ -1,0 +1,7 @@
+{
+    "_id": "7026",
+    "description": "",
+    "name": "Ram Riding Harnesses",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

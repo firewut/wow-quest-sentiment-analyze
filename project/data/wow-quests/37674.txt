@@ -1,0 +1,8 @@
+{
+    "_id": "37674",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "Shadowmoon Valley 6.0:JP3 - Gloomshade Grove - Tracking Quest - See Shelly Hamby (Game of Thorns)",
+    "requires_level": 90,
+    "zone": "Shadowmoon Valley"
+}

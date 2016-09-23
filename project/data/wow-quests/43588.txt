@@ -1,0 +1,8 @@
+{
+    "_id": "43588",
+    "added_in_patch": 7,
+    "description": "<This feed appears to draw power from the leyline in order to become fully operational.You should be able to imbue it with mana, but it will take a few minutes to draw enough leyline energy to accept the infusion.Beware, for creatures may notice the surge of arcane energy...>",
+    "name": "Leyline Feed: Kel'balor",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29177",
+    "description": "The agents of Twilight continue their assault within this pocket of the Firelands. We must not let our offensive fall! Take wing, and destroy as many of those lancers as you can!Do not forget to pick up and equip your lance first.",
+    "name": "Vigilance on Wings",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

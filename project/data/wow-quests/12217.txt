@@ -1,0 +1,8 @@
+{
+    "_id": "12217",
+    "description": "Well, <name>, we've determined how the Horde was able to locate our hidden stores of food.It turns out that they were binding their sight to the unsuspecting eagles that soar above the trees here. Using eagle vision, they were able to effectively spy on our every action.By order of the lieutenant, we've got to hunt down these majestic birds in order to thwart our enemy.",
+    "name": "Eagle Eyes",
+    "requires_level": 73,
+    "side": "alliance",
+    "zone": "Grizzly Hills"
+}

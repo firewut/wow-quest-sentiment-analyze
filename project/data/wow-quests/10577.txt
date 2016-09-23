@@ -1,0 +1,7 @@
+{
+    "_id": "10577",
+    "description": "Take this disguise and enter Eclipse Point. Once inside, use the disguise to cloak yourself. The Eclipsion blood elves will be unable to see through the disguise, thereby granting you safe passage to Grand Commander Ruusk.Once you find Ruusk, tell him where next to move the cipher. You're going to have to act your heart out, <name>. Play it off as if you are his superior, delivering a message from his lord. That should do it!Oh - watch out for the dragonhawks as they see through the disguise.",
+    "name": "What Illidan Wants, Illidan Gets...",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

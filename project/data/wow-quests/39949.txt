@@ -1,0 +1,8 @@
+{
+    "_id": "39949",
+    "added_in_patch": 7,
+    "description": "These sewers are something of a... \"settling place\" for many who can't cope with the stresses of regular Dalaran life. Take, for example, the target of this particular contract.His name is Inkrot. He was once a scribe like you, but the stresses of dealing with the Professor drove him mad.<Raethan hands you the contract.>This says he's stolen a jewel from Cartier and Co. Bring me the jewel. Whatever else you find on him is yours.",
+    "name": "Once a Scribe Like You",
+    "requires_level": 106,
+    "zone": "Inscription"
+}

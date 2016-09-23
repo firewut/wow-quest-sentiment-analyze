@@ -1,0 +1,8 @@
+{
+    "_id": "9401",
+    "description": "You pull the stone axe out of the body to examine it more closely.  There's something unusual about the craftsmanship of the weapon.Its origin appears orcish, though the materials aren't like anything you've seen before.  Nazgrel might be interested in seeing the weapon.",
+    "name": "A Strange Weapon",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

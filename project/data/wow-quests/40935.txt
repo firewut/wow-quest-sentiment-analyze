@@ -1,0 +1,8 @@
+{
+    "_id": "40935",
+    "added_in_patch": 7,
+    "description": "I was wrong about you, death knight. Your assistance against the Dark Riders has proven a great service to the Light. Perhaps I should not be so quick to judge.\r\n\r\nNevertheless, you have allowed me to fill my purpose in returning these artifacts to their rightful owners. As for Apocalypse, I can think of no safer place than in your care. \r\n\r\nMay it serve you well against the Legion, death knight.",
+    "name": "The Call of Vengeance",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

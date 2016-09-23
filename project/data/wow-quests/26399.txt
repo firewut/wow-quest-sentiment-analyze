@@ -1,0 +1,7 @@
+{
+    "_id": "26399",
+    "description": "Say... have you heard about the ogres?  I got a hot tip from some fella' named Mok'thardin that some <race> schmuck in a ridiculous <class> getup found this ogre hand, and...<Skeezy trails off as he looks you over.>What was I just saying?  Oh yes... some  SWASHBUCKLING HERO found this ogre hand, and Mok'thardin thinks it means that the ogres have some special artifact.  I've seen them guarding a chest up in some ruins behind their mound.  Care to fetch it for me?",
+    "name": "The Mosh'Ogg Bounty",
+    "requires_level": 26,
+    "zone": "Northern Stranglethorn"
+}

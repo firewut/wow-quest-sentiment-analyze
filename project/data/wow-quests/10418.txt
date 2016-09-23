@@ -1,0 +1,7 @@
+{
+    "_id": "10418",
+    "description": "In searching the area for clues about the damage to our equipment, I've seen pieces of the shield generators at the bottom of the small lake to the north. I'm not sure why the crocolisks have taken an interest in the equipment, but we have to put a stop to this problem.The Consortium is quite clear on this matter. If it comes down to a choice between the equipment and crocolisks, the animals will have to go. I'll make it worth your while to deal with them.",
+    "name": "Deal With the Saboteurs",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

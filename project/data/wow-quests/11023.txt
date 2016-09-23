@@ -1,0 +1,7 @@
+{
+    "_id": "11023",
+    "description": "We're still having problems with those flak cannons, <name>.Don't get me wrong -- I think that you did an outstanding job the last time out -- but, that doesn't change the fact that those damned demons seem to be replenishing their ammo supplies faster than we can knock them out.  And that means we're having a hell of a time getting our people through there, not to mention the risk those demons pose to Ogri'la.What do you say?  Want to take another shot at it?",
+    "name": "Bomb Them Again!",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

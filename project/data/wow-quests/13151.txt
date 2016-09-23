@@ -1,0 +1,7 @@
+{
+    "_id": "13151",
+    "description": "Arthas will soon face a desperate dilemma, and make a momentous decision.I must call upon you to accompany the prince in his culling.Arthas must make it through Stratholme alive and you must see to it that he defeats Mal'Ganis!",
+    "name": "A Royal Escort",
+    "requires_level": 78,
+    "zone": "Quests"
+}

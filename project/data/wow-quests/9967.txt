@@ -1,0 +1,7 @@
+{
+    "_id": "9967",
+    "description": "This next battle involves a duo - twin brothers to be precise. They call themselves the \"Blue Brothers.\"It's not too late to chicken out, <name>. I'd certainly understand.But if you're ready for some action, step in the Ring of Blood and wait for the Murkblood twins to arrive.Last one standing is the winner!",
+    "name": "The Ring of Blood: The Blue Brothers",
+    "requires_level": 65,
+    "zone": "Nagrand (Outland)"
+}

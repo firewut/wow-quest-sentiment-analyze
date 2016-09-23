@@ -1,0 +1,8 @@
+{
+    "_id": "37245",
+    "added_in_patch": 6,
+    "description": "If you don't mind, I'm trying VERY hard to prevent all of our worlds from collapsing into the void, AGAIN.Oh, right, you helped me last time, didn't you? Well, you've got great timing. I'm in need of another Gate-Key.Well? Go on! The infinite horrors of the abyss aren't just going to wait until you've had a nap! Having that many tentacles makes them really antsy.",
+    "name": "Whispers in the Darkness",
+    "requires_level": 98,
+    "zone": "Shadowmoon Burial Grounds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25163",
+    "description": "Sabotage! It had to be. The whole fortress magazine exploded. The Horde must've gotten someone inside...<Class>, if you've the stones to rush into that burning nightmare... look for some clues as to who did this to us. The General will want to know! Look for a Horde corpse in the wreckage and get to the bottom of this disaster...",
+    "name": "Who Did This?",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

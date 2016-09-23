@@ -1,0 +1,8 @@
+{
+    "_id": "31456",
+    "added_in_patch": 5,
+    "description": "There's another Pandaren settlement out here, Muskpaw Ranch. I don't know if they're alright, what with everything that's been going on with the Yaungol invasion.\r\n\r\nYou've been so helpful - you should go check up on them, friend!",
+    "name": "Muskpaw Ranch",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

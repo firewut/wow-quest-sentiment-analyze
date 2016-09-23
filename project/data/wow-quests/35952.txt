@@ -1,0 +1,8 @@
+{
+    "_id": "35952",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Tracking: Mill Treasure 2",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

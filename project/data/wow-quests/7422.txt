@@ -1,0 +1,7 @@
+{
+    "_id": "7422",
+    "description": "",
+    "name": "Tuft it Out",
+    "requires_level": 200,
+    "zone": "Alterac Valley"
+}

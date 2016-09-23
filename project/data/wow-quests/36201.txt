@@ -1,0 +1,9 @@
+{
+    "_id": "36201",
+    "added_in_patch": 6,
+    "description": "Now that you have proven yourself as a warrior, let's see how your fishing skills hold up. I have fashioned a bait out of the moonshell claws you brought me. Use it to catch the shadow sturgeon in these coastal waters.",
+    "name": "Proving Your Worth",
+    "requires_level": 94,
+    "side": "alliance",
+    "zone": "Fishing"
+}

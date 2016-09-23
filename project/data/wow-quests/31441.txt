@@ -1,0 +1,8 @@
+{
+    "_id": "31441",
+    "added_in_patch": 5,
+    "description": "Today you learn that no one can be trusted in times of war, Wakener. Even those closest to the Klaxxi are susceptible to corruption.Who knows how long this traitor has been corrupted. He must be destroyed!You appear confused. Do you not see the traitor in our midst? Allow me to adjust your vision.",
+    "name": "Corruption Runs Deep",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

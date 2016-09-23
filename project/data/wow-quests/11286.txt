@@ -1,0 +1,7 @@
+{
+    "_id": "11286",
+    "description": "I came out here for a different reason; an old friend of mine has been calling to me in my dreams. But now that I see these small things with their machines making a big hole in the ground, it makes my blood boil.From what I can see, these dwarves, as they are known, are digging up artifacts; artifacts that could be important to our past.I want you to go down there and get these things for me. Don't let any of those dwarves stand in your way.",
+    "name": "The Artifacts of Steel Gate",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

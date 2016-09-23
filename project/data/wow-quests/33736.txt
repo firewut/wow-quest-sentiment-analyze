@@ -1,0 +1,9 @@
+{
+    "_id": "33736",
+    "added_in_patch": 6,
+    "description": "The orcs themselves are not the only threat. We may have weakened them considerably, but they still have siege weapons of significant power.\r\n\r\nSabotage siege weapons you find with the explosives you collected from the beach.",
+    "name": "Iron Them Out",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

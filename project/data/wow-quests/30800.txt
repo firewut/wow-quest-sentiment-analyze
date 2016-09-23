@@ -1,0 +1,8 @@
+{
+    "_id": "30800",
+    "added_in_patch": 5,
+    "description": "Our only hope is to find the Thunder King's remains before they do. He must be buried within the Tomb of Conquerors.Getting to his remains will not be easy, <name>. The tomb will no doubt be defended by guardians and other unfriendly surprises intended to ward off thieves.Once inside we will need to figure out where his remains have actually been placed.",
+    "name": "Stealing Their Thunder King",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

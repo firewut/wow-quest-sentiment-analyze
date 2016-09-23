@@ -1,0 +1,8 @@
+{
+    "_id": "33008",
+    "added_in_patch": 5.4,
+    "description": "Ah, I have been waiting for your arrival, traveler.I wish we could meet in better times, but alas, I fear the situation in the Vale is quite dire.But let us not speak of that now. Go visit Madam Vee Luo at the Shrine of Two Moons.She should be able to settle you in.",
+    "name": "Into the Vale",
+    "requires_level": 87,
+    "zone": "Vale of Eternal Blossoms"
+}

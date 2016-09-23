@@ -1,0 +1,7 @@
+{
+    "_id": "12070",
+    "description": "The sons of iron have used their runes to enthrall many of my brothers and are using them to break the siege on Thor Modan. I wish we did not have to fight them, but we have no choice.My giants will not hold out long against them.I have imbued this earthen shard with a blessing that will aid our allies. Take it with you to the battle in the Boulder Hills to the north, and use it to reassure and fortify my brethren.Kill any iron dwarves who would stand in your way.",
+    "name": "Rallying the Troops",
+    "requires_level": 72,
+    "zone": "Grizzly Hills"
+}

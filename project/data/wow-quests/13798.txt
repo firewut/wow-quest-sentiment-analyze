@@ -1,0 +1,8 @@
+{
+    "_id": "13798",
+    "description": "Just in time, <class>. The elves have launched another attack!From the guard towers, use the accursed ore to mark targets for Draaka.Her projectiles will strike your target and erupt in fel magic flame, destroying any nearby enemies.There is strong prejudice against the use of demonic magics. Unjustified, but real nonetheless. For this reason, I will transform you into an imp for the duration of the mission to prevent you from being identified.",
+    "name": "Rain of Destruction",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

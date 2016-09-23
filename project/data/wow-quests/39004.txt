@@ -1,0 +1,7 @@
+{
+    "_id": "39004",
+    "description": "We have one final task before us, <name>. We must defeat Gul'dan and unravel his plans for this world.I have no reward to offer you - I have given you everything I can.Come. When you and your allies are ready, we march on Hellfire Citadel... and end this.",
+    "name": "Darkness Incarnate",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

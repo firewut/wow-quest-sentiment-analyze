@@ -1,0 +1,7 @@
+{
+    "_id": "40733",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "FLAG - Reaves Failure Detection Module",
+    "zone": "Quests"
+}

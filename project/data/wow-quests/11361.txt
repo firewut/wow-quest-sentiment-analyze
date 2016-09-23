@@ -1,0 +1,7 @@
+{
+    "_id": "11361",
+    "description": "The grunts set up a fire training area outside the village.  These days, Razor Hill's buildings often catch fire -- you should lend a hand and train as a fire fighter!Head west out of Razor Hill, then turn right as you pass the village's wall.  Find the training area, then grab buckets and toss them on the practice fires.",
+    "name": "Fire Training",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

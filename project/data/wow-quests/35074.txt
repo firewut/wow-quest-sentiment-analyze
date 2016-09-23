@@ -1,0 +1,9 @@
+{
+    "_id": "35074",
+    "added_in_patch": 6,
+    "description": "We need to stock the garrison pond with local fish.  I need you to search the waters in Talador for fish that we can stock up with.  Once you have the fish, you will need to slice them up and look for eggs inside.",
+    "name": "Blackwater Whiptail",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Fishing"
+}

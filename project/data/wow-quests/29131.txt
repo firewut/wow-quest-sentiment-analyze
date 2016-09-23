@@ -1,0 +1,7 @@
+{
+    "_id": "29131",
+    "description": "We are in trouble here, <name>.  Your troll friend has been through here and warned us that things were going to get serious, but I didn't think it would be this bad.We are doing our best to hold off these trolls.  But any help you can offer would greatly help.",
+    "name": "Defend the Rebel Camp",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

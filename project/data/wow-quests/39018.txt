@@ -1,0 +1,8 @@
+{
+    "_id": "39018",
+    "added_in_patch": 6.2,
+    "description": "Archmage Khadgar has a very urgent favor to ask. He is gravely concerned about additional threats this world may hold for Azeroth, and he will need your assistance pursuing them. Please see him at his tower, east of Talador, in the Zangarra swamp.",
+    "name": "Call of the Archmage",
+    "requires_level": 98,
+    "zone": "Legendary"
+}

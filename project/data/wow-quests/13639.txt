@@ -1,0 +1,8 @@
+{
+    "_id": "13639",
+    "description": "Ironband has an excavation to the southeast and he's been needing a hefty amount of explosives sent from the league for all the carving. Huldar, Miran, and Saean just departed with the most recent load and could probably use a hand.They can't have made it very far, strong as they are. They can only move so fast laden down with those barrels.They're taking the normal route to the site, leaving south out of town and following the curve of the Loch. Go catch up with them and help'm out, will ya?",
+    "name": "Resupplying the Excavation",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28019",
+    "description": "The Warchief demands that able-bodied adventurers assault the Scarlet Monastery, northeast of the Undercity, immediately!The Scarlet Crusade has continually threatened Forsaken strongholds throughout the plaguelands. They MUST be destroyed.Report to the Scarlet Monastery to execute the Warchief's orders and crush the crusade once and for all.",
+    "name": "Adventurers Wanted: Scarlet Monastery",
+    "requires_level": 37,
+    "zone": "Quests"
+}

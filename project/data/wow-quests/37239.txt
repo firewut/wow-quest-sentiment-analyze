@@ -1,0 +1,8 @@
+{
+    "_id": "37239",
+    "added_in_patch": 6,
+    "description": "I feel that I can trust you, perhaps. You have, at least, not spoken of my secret to anyone, and for that I thank you.I have need of your aid again, and in return, I will share some of my own information. I am here, you see, to find an elf by the name of Alleria. She was lost years ago, on Draenor. It is my faint hope that the twisting nether brought her here.I do not know if such a thing is even possible, but do keep an eye out for any signs of high elves as you travel.",
+    "name": "Fate of the Fallen",
+    "requires_level": 100,
+    "zone": "Shadowmoon Burial Grounds"
+}

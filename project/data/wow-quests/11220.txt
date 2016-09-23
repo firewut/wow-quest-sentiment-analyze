@@ -1,0 +1,7 @@
+{
+    "_id": "11220",
+    "description": "Until the head of the Headless Horseman is destroyed, his rampage will not end.The Horseman rests within the Forlorn Cloister of the Scarlet Monastery, in Tirisfal Glades.  Go to his pumpkin shrine and speak these words:  Horseman, rise  Your time is nigh  You felt death once  Now, know demise!This will rouse the fiend.  Destroy the head of the Horseman and he will plague us no longer.",
+    "name": "The Headless Horseman",
+    "requires_level": 75,
+    "zone": "Hallow's End"
+}

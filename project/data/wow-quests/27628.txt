@@ -1,0 +1,7 @@
+{
+    "_id": "27628",
+    "description": "Hurry, <name>.  We must speak to my brother, the king.He is bent on averting war with Al'Akir and the Neferset.  He has foolish hopes that there is a diplomatic solution to this problem.Maybe once he hears what occurred here he will see reason.",
+    "name": "Send Word to Phaoris",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

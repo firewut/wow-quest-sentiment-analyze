@@ -1,0 +1,8 @@
+{
+    "_id": "35091",
+    "added_in_patch": 6,
+    "description": "It's revolting, absolutely disgusting, infuriating even!I'm talking about seeing those spore creatures walking around Pinchwhistle Point.While I'm working on the machine here how about you go out and kill off some of those spore creatures? I'll feel a bit better knowing there are less of those things moving around.",
+    "name": "Sporicide",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

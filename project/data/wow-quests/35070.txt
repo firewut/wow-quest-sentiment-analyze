@@ -1,0 +1,9 @@
+{
+    "_id": "35070",
+    "added_in_patch": 6,
+    "description": "Burrowing native creatures known as \"goren\" have tunneled into our crystal mines. Judging from our experience at the gates, I suspect my own experimental resonance crystal is whipping the native wildlife into a frenzy.Enter the Elodor Dig to the north and disable the malfunctioning resonance crystal!Be careful - my earthworkers report that the mine is crawling with those beasts.",
+    "name": "Shut 'er Down",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

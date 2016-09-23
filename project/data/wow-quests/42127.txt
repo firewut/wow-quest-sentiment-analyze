@@ -1,0 +1,8 @@
+{
+    "_id": "42127",
+    "added_in_patch": 7,
+    "description": "Archmage Omniara is a very powerful arcanist and her skills will be quite an asset to our order.She is capable of summoning multiple Water Elementals at the same time! Fortunately, she has agreed to share her knowledge with us.\r\n\r\nSpeak to her now, and recruit her elementals.",
+    "name": "Building Our Troops",
+    "requires_level": 101,
+    "zone": "Mage Campaign"
+}

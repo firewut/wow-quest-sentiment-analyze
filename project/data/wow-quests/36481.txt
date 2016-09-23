@@ -1,0 +1,8 @@
+{
+    "_id": "36481",
+    "added_in_patch": 6,
+    "description": "You're ready to fly high and give the Firebird's challenge a shot? That's great!Simply collect 15 rings to win! Speak to me when you're ready for takeoff!",
+    "name": "Firebird's Challenge",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

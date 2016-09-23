@@ -1,0 +1,9 @@
+{
+    "_id": "34403",
+    "added_in_patch": 6,
+    "description": "Kaelynara's lust for arcane power has consumed her and she threatens the safety of all in this mine. She must be stopped.Unfortunately, there is nothing we can do while she shields herself. We will need to find a way to penetrate her shielding spell.Perhaps if I were to build a focusing crystal, I could use it to lower her shield...I'll need you to search the crystal mine for the necessary components.First, I'll need arcane essence from the Crystal Ragers and Arcane Wraiths in the mine.",
+    "name": "Arcane Essence",
+    "requires_level": 95,
+    "side": "alliance",
+    "zone": "Talador"
+}

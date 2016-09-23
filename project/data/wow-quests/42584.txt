@@ -1,0 +1,8 @@
+{
+    "_id": "42584",
+    "added_in_patch": 7,
+    "description": "We will need more allies on our side before we can be effective, Archdruid. A skilled dryad by the name of Sister Lilith is on her way to the Dreamgrove, but we've received word that she may be in trouble.Send Zen'tabra to her aid.",
+    "name": "Sister Lilith",
+    "requires_level": 101,
+    "zone": "Druid Campaign"
+}

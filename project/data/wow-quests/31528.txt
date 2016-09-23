@@ -1,0 +1,8 @@
+{
+    "_id": "31528",
+    "added_in_patch": 5,
+    "description": "<name>, I need you to assemble a fearless group and lead them into the depths of Scholomance. Activate the Challenger's Orb, and cleanse Scholomance of Darkmaster Gandling's evil presence.Return to me when you've completed this challenge and I shall reward you handsomely.",
+    "name": "A Worthy Challenge: Darkmaster Gandling",
+    "requires_level": 90,
+    "zone": "Scholomance"
+}

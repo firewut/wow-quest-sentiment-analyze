@@ -1,0 +1,7 @@
+{
+    "_id": "27669",
+    "description": "It looks like all that's left to do is to place the orbs on the pedestals at each corner of this mechanism.We appear to have stumbled upon what may be the most important find in modern history.<Harrison looks at you for a moment, then hands you the orbs.>Well, go ahead, <name>.We'd have never made this discovery without you.",
+    "name": "Do the Honors",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

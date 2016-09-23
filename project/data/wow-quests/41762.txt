@@ -1,0 +1,8 @@
+{
+    "_id": "41762",
+    "added_in_patch": 7,
+    "description": "Elisande's decision to welcome the Legion into Suramar earned her plenty of enemies, though only some of us were bold enough to openly defy her.We have allies in the city - we just don't know how many.I need you to make contact with a spell-fencer by the name of Silgryn. He is loyal to our cause, and has been lying in wait since our failed coup.He patrols the western edge of the city. Address him by name and tell him our cause is not lost!",
+    "name": "Sympathizers Among the Shal'dorei",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

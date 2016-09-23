@@ -1,0 +1,8 @@
+{
+    "_id": "44549",
+    "added_in_patch": 7,
+    "description": "<Only one region remains from your order's carefully laid plan to assault the Broken Isles and gather the Pillars of Creation.><Victory feels close, but studying your order's intelligence one last time couldn't hurt.>",
+    "name": "Master of the Isles",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

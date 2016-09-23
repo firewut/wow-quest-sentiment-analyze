@@ -1,0 +1,9 @@
+{
+    "_id": "37093",
+    "added_in_patch": 6,
+    "description": "The talbuk is ready for more training, and for this, we will return to its home in Shadowmoon Valley.One of the great beasts of this land, Great-Tusk, has taken the valley for his own. Pit your beast against him in combat, and if you should survive, it will have greater confidence in its own abilities.",
+    "name": "Talbuk Training: Great-Tusk",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Shadowmoon Valley"
+}

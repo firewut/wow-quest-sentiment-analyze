@@ -1,0 +1,8 @@
+{
+    "_id": "29542",
+    "description": "With the Legion to one side and the fel orcs to the other, Thrallmar is going to be overrun if we don't do something about it.Head west to the Hellfire Ramparts and speak with Stone Guard Stok'ton. He's in charge of a covert operation to start a Horde invasion on the entire citadel.",
+    "name": "Invading the Citadel",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Quests"
+}

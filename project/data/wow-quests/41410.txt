@@ -1,0 +1,8 @@
+{
+    "_id": "41410",
+    "added_in_patch": 7,
+    "description": "<name>... I did not expect to see you down here.The Sashj'tar are... rallying against Jandvik. I had a plan to... decimate them using these old powder kegs.The naga proved more formidable to these old bones than I thought.<Fjolrik coughs out some blood.>We haven't much time... to prepare.",
+    "name": "Dry Powder",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

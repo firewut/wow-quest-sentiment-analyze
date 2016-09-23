@@ -1,0 +1,7 @@
+{
+    "_id": "26309",
+    "description": "The Vilebranch trolls here used to drink the corrupted blood of the god Hakkar himself for power. They boiled it in crude pots before drinking, dark vessels full of unholy strength.Hakkar was killed long ago, of course. But the interesting thing... I still see some cauldrons bubbling up there. Bring me back a few and we'll see just what they've got cooking.",
+    "name": "Dark Vessels",
+    "requires_level": 31,
+    "zone": "The Hinterlands"
+}

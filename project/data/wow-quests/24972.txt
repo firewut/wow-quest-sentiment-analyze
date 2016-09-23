@@ -1,0 +1,8 @@
+{
+    "_id": "24972",
+    "description": "<Sarvis produces a piece of paper from within his robes.>These will need to be taken to my field agent, Deathguard Simmer.  This information contains the whereabouts of the last few holdouts from the Scarlet Crusade.  We will destroy these crusaders, once and for all.  And I have a feeling you'll be instrumental in that effort, <name>.Take the road north out of Deathknell.  Soon after entering Tirisfal proper, you'll see a large manse.  Simmer's inside.",
+    "name": "Vital Intelligence",
+    "requires_level": 2,
+    "side": "horde",
+    "zone": "Deathknell"
+}

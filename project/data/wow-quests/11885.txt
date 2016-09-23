@@ -1,0 +1,7 @@
+{
+    "_id": "11885",
+    "description": "The descendants held prisoner by the Skettis talonpriests are listed in this book: Gezzarak the Huntress, Karrog the crystal giant, the heretic known as Darkscreecher Akkarai and Vakkiz the Windrager.  They will all need to be slain before Terokk returns to this world.You will need the scrolls carried by the time-lost arakkoa to call them forth at the summoning circles in Skettis.  These are powerful beings you will be facing; you would do well to bring friends.",
+    "name": "Adversarial Blood",
+    "requires_level": 70,
+    "zone": "Terokkar Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10829",
+    "description": "This is troubling!  The arakkoa are causing the ancients and protectors to become possessed by evil spirits!But, there is one ancient that could not possibly have been affected.  His name is Treebole, and you must go to him at once if we're to save the trees of the Raven's Wood!Go back to the Raven's Wood.  You will find him at the fork in the path just past Grishnath.",
+    "name": "Treebole Must Know",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

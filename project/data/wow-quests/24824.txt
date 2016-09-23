@@ -1,0 +1,7 @@
+{
+    "_id": "24824",
+    "description": "We are here to monitor the scars of the land, and watch for further signs of instability.  While we haven't seen any yet, a cataclysmic aftershock could devastate the Barrens even further.To the northeast, near the chasm, earth elementals rampage out of control. To soothe the earth, these need to occasionally be destroyed, and their essence returned in a ritual. If you help us do this, <class>, I would be happy to reward you.",
+    "name": "The Disturbed Earth",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

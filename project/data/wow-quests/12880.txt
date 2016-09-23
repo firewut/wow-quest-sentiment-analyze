@@ -1,0 +1,7 @@
+{
+    "_id": "12880",
+    "description": "Combining the keystone will require Norgannon's Binding - a device located in the Engine of the Makers, the large pit beside us. Brann should be down there with the other half of the keystone now. I have instructed him on the use of the device. He awaits your presence.I will do what I can to keep the iron dwarves occupied, but I do not have confidence that I will hold them for long. King Stormheart is returning to the defense of Frosthold with some of his men shortly. Please hurry, <race>.",
+    "name": "The Master Explorer",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

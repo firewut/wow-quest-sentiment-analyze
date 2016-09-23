@@ -1,0 +1,8 @@
+{
+    "_id": "41582",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Smooth Sunrunner Hide",
+    "requires_level": 110,
+    "zone": "Mining"
+}

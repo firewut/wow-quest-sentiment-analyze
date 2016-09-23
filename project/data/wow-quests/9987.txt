@@ -1,0 +1,8 @@
+{
+    "_id": "9987",
+    "description": "We need to show the arakkoa that they cannot attack our people with impunity. If we don't stop them here, the roads will no longer be safe for our merchants, couriers, or soldiers.My scouts have identified the leaders of each of the major arakkoa settlements in the area. Seek out Ashkaz, Ayit, and Urdak, in Veil Reskk, Veil Shienor, and Veil Skith and kill them. ",
+    "name": "Stymying the Arakkoa",
+    "requires_level": 62,
+    "side": "horde",
+    "zone": "Terokkar Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14017",
+    "description": "You said the body was taken by cultists? I can only think of one place they would have gone, Deathspeaker's Watch, the encampment on the rise west of the tournament grounds.Whatever the cultists are doing must be stopped. The rumors I've heard can only be true, then. The infamous Doctor Kohler must be among the cultists, practicing his arts. Look for a rise or an altar overlooking the cultist camp, slay the doctor, and look for proof of his plans. Slow down his work in any other way you can.",
+    "name": "The Black Knight's Fate",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

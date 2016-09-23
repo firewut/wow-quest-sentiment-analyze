@@ -1,0 +1,7 @@
+{
+    "_id": "27368",
+    "description": "You should have seen me fight!  I must have killed six of those beasts, when...Oh wait, you can count the bodies, can't you?  OK, fine.  I killed four of them, when the fifth one shot me with this web.  To make things even worse... when he blasted me with web juice, my mouth was open!I can't seem to break these webs, and I doubt you'll be able to, either.  No, you'll have to get some of the stomach juice from those undead spider-things.  That'll do the trick.",
+    "name": "Just Encased",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

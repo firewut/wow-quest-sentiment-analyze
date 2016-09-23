@@ -1,0 +1,8 @@
+{
+    "_id": "41029",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Tracking Quest for Latosius Challenge 2",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "895",
+    "description": "WANTED!    \"Cap'n\" J. Garvey of     the Maiden's DaggerCharged with piracy on the open seas, kidnapping, extortion, arson, slavery, et al. Garvey recently arrived in these waters leading a crew of Southsea Freebooters and was last seen assaulting Fray Island. Bring proof of death in an identifiable condition!-- Gazlowe",
+    "name": "WANTED: Cap'n Garvey",
+    "requires_level": 14,
+    "zone": "Northern Barrens"
+}

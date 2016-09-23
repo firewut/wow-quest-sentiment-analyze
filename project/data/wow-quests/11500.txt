@@ -1,0 +1,7 @@
+{
+    "_id": "11500",
+    "description": "It has been whispered to Mah'duun that the sisters of torment are to be sent back to the hells from which they sprang.Mah'duun knows that these demons can be found at the Magisters' Terrace on the Isle of Quel'Danas.You will do this thing to earn the bounty, or you will not.",
+    "name": "Wanted: Sisters of Torment",
+    "requires_level": 70,
+    "zone": "Quests"
+}

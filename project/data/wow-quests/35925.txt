@@ -1,0 +1,8 @@
+{
+    "_id": "35925",
+    "added_in_patch": 6,
+    "description": "Raz,Your orders are to capture four additional gronn for weaponization.Of your first group, only one survived the entire process.One attacked our soldiers relentlessly and had to be put down. Another fell victim to a misfire while being fitted. Yet another rolled onto its cannons in its sleep. We're still cleaning up that mess.Rest assured, your efforts are not in vain.- Captain Brak",
+    "name": "The Gronn Strategy",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

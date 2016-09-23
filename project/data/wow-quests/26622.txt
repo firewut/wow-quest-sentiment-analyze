@@ -1,0 +1,8 @@
+{
+    "_id": "26622",
+    "description": "The time has come. Mor'ghor dies today.Be warned, <class>. Demon blood courses through his wretched veins, and he channels unnatural power. He will be destroyed, yes. But it will not be an easy fight.You remember where Mor'ghor resides, at the top of the camp. I will meet you there. Finish him!Be sure to recruit 3 Dragonmaw followers if you are short - you will need our help.",
+    "name": "Death to Mor'ghor",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Twilight Highlands"
+}

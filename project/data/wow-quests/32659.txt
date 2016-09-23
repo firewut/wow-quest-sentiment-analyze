@@ -1,0 +1,8 @@
+{
+    "_id": "32659",
+    "added_in_patch": 5.2,
+    "description": "Once your mogu pumpkins are ready to be picked, you'll need only to package them for pick-up.I wouldn't dilly-dally if I were you. The Klaxxi aren't known for their patience!",
+    "name": "Work Order: The Klaxxi II",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

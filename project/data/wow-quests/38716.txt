@@ -1,0 +1,8 @@
+{
+    "_id": "38716",
+    "added_in_patch": 7,
+    "description": "Inside the chest, hidden amongst various knickknacks, is a signet engraved with a unique crest.The band, made from a silvery, unbreakable metal, has been worn down by time, as if absently twisted and rubbed against its owner's finger.",
+    "name": "Black Rook Hold",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

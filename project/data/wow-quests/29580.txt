@@ -1,0 +1,8 @@
+{
+    "_id": "29580",
+    "added_in_patch": 5,
+    "description": "They may not be weaponmasters, but many of these farmers can wield a simple hoe or a rake as an extension of their own will.That mastery coupled with the right motivation could muster a force capable of standing against the mogu.If you can bring back some tools from the orchard, I'll distribute them to anyone willing to fight.",
+    "name": "Orchard-Supplied Hardware",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

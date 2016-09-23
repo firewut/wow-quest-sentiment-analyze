@@ -1,0 +1,8 @@
+{
+    "_id": "30355",
+    "added_in_patch": 5,
+    "description": "Mogu do NOT use arcane magics.They are thugs. They have always been thugs. Only when they ruled their empires in the old stories did they ever know any kind of magic.But these mogu are using arcane portals and old artifacts. We need to stop them!$p, look for any artifacts the mogu are using to cast their magics with. I saw piles of these items being collected near the Ruins of Korja south of here.",
+    "name": "Re-Reclaim",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

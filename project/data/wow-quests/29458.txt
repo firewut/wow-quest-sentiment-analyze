@@ -1,0 +1,7 @@
+{
+    "_id": "29458",
+    "description": "This book is covered in battered leather stained with blood and mud. Leafing through the pages, you discover that it is a personal journal of an adventurer with a high opinion of himself and his adventures.Professor Thaddeus Paleo of the Darkmoon Faire might want to see something like this.",
+    "name": "The Captured Journal",
+    "requires_level": 15,
+    "zone": "Darkmoon Faire"
+}

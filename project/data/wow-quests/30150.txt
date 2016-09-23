@@ -1,0 +1,8 @@
+{
+    "_id": "30150",
+    "added_in_patch": 5,
+    "description": "<The hatchling scampers about, then whines and whimpers.>From the cloud serpent's behavior, you have a hunch that it wants a sweet treat.The fragrant trees in The Arboretum are home to many honey hives.It will be a simple matter to collect combs from the nearby honeykeepers.",
+    "name": "Sweet as Honey",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

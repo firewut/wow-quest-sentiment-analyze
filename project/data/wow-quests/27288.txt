@@ -1,0 +1,7 @@
+{
+    "_id": "27288",
+    "description": "Reethe? That coward?We threw him out of camp because he insisted on raiding the supplies of the ogres up at Brackenwall Village. We're not so many in number that we could stand up to those mindless brutes.He crossed the line one too many times, so we left him to fend for himself.Now, I helped you out... So, why don't you help us out and forget you bumped into us?",
+    "name": "The Deserters",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

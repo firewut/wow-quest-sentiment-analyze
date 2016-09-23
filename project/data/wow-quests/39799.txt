@@ -1,0 +1,8 @@
+{
+    "_id": "39799",
+    "added_in_patch": 7,
+    "description": "Have you seen the fog that surrounds us? The chill winds of Acherus have provided us with a perfect concealment from the prying eyes of the Legion!Under cover of this fog we've been able to send out scouting teams who've put together a fairly comprehensive map of the Broken Isles.Choose where we shall begin our assault. You, of course, shall have the honor of spearheading our efforts, but the rest of the Ebon Blade will follow your lead.",
+    "name": "Our Next Move",
+    "requires_level": 98,
+    "zone": "Death Knight Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12636",
+    "description": "Behold, Acherus, the grand citadel of death! It has no equal in this world! Not even the mighty Naxxramas could withstand a direct assault from the Ebon Hold. Looming above the face of the necropolis is the all-seeing eye of Acherus. From it the master is able to see great distances into the territories held by our enemies. What the eye sees, the Lich King sees, and now the time has come for you to peer through the eye! The Lich King has called for you, <name>.Go now! Suffer well,  brother...\r\n",
+    "name": "The Eye Of Acherus",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

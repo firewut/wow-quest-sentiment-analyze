@@ -1,0 +1,8 @@
+{
+    "_id": "31280",
+    "added_in_patch": 5,
+    "description": "There are many ways of cooking, and each creates dishes with unique properties. The Pandaren Ways of Cooking are the Ways of the Grill, the Wok, the Pot, the Steamer, the Oven and the Brew. You seem to already have the basics of each way, from your experience in faraway lands. If you wish to progress further, speak with my siblings and learn the first advanced recipe each of them teaches. Find out which Way suits you the best.",
+    "name": "Ways of Cooking",
+    "requires_level": 85,
+    "zone": "Deepholm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42452",
+    "added_in_patch": 7,
+    "description": "Ebonchill bears a lineage of powerful wielders dating back to its maker, Alodi. He passed it on to his favorite apprentice and so on until... the archmage Arrexis, I believe.Arrexis disappeared sometime around the First War. I know nothing of his fate, but the answer may well be somewhere in this library.Start by looking around here. Whatever you find should lead us to Ebonchill.",
+    "name": "Finding Ebonchill",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40562",
+    "added_in_patch": 7,
+    "description": "<name>, great to see you again. It feels like forever since last we spoke.We've received some information about a group of jewelcrafting nightborne in Suramar that are doing fantastic things with necklaces. I'd like to take a look at some of their gems.And their designs.And... a new loupe might be nice, too. I hear the city inspectors carry them.",
+    "name": "A Personal Touch",
+    "requires_level": 110,
+    "zone": "Jewelcrafting"
+}

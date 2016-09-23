@@ -1,0 +1,8 @@
+{
+    "_id": "26222",
+    "description": "There's just too much to do around here, and too few gnomes on their feet to help! The high tinker has asked me to start converting some of our old bots and parts from Operation: Gnomeregan. I hope to have a new line of multi-bots ready for a field test soon!I don't suppose you'd have some time to help, do you? There are all kinds of parts scattered around. Pick up anything you find and bring it back to me. You never know what could turn out to be useful!",
+    "name": "Scrounging for Parts",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

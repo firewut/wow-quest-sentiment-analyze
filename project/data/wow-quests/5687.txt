@@ -1,0 +1,7 @@
+{
+    "_id": "5687",
+    "description": "The time has come again for you to return to the Cathedral of Light in Stormwind, <name>. High Priestess Laurena would have you meet with her when you're ready. It is more than likely to repay you for all you have done for your people and the Light.Good luck, and may Elune be with you in your travels.",
+    "name": "<NYI> The Light Protects You",
+    "requires_level": 25,
+    "zone": "Priest"
+}

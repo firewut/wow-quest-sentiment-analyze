@@ -1,0 +1,8 @@
+{
+    "_id": "42132",
+    "added_in_patch": 7,
+    "description": "I think you already know what I am going to tell you... It is well past time to make Allari and Jace your champions.\r\n\r\nThe two of them were instrumental in the planning and preparation for the invasion of Niskara. They have earned it and you would be hard pressed to find better champions anywhere.",
+    "name": "Last, But Not Least",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

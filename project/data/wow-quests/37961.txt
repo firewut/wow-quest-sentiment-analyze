@@ -1,0 +1,9 @@
+{
+    "_id": "37961",
+    "added_in_patch": 6.1,
+    "description": "You know what would boost morale around here?\r\n\r\nBass. Beats. Music!\r\n\r\nEveryone loves a party! You go out and get me some hardware, and I'll make a system that will shatter Draenor itself.",
+    "name": "Bringing the Bass",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison"
+}

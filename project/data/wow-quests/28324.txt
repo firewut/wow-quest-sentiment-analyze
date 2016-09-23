@@ -1,0 +1,7 @@
+{
+    "_id": "28324",
+    "description": "We used a fairly potent strain of blight against the humans of Southshore. As you can see, it worked. The trouble with blight use, though, is that blight tends to stick around after it's served its purpose.What I need from you is to take this testing kit and get out into the field to get a lethality count from the blight slimes that we've released into the area. Use the lethality analyzer on the blight slimes sweeping the slime pools. Come back to me when you have some solid data.",
+    "name": "Studies in Lethality",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

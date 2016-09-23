@@ -1,0 +1,8 @@
+{
+    "_id": "9940",
+    "description": "Wanted: Dead or AliveZorbo the Advisor, wanted for numerous planned attacks on Telaar. Along with his reavers and shaman, Zorbo has slain countless Broken. Consider Zorbo as armed, dangerous, and merciless.Zorbo makes his home in the Laughing Skull Ruins in the northern mountains of Nagrand.Reward for Zorbo the Advisor's death or capture to be dispensed by Warden Moi'bff Jill at Telaar.",
+    "name": "Wanted: Zorbo the Advisor",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

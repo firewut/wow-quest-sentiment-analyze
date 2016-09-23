@@ -1,0 +1,8 @@
+{
+    "_id": "30271",
+    "added_in_patch": 5,
+    "description": "The sha have the mysterious ability to evoke powerful, often overwhelming, emotional responses in their victims.As we fled the temple, senior members of the Crane Wing order stayed behind to cover our escape. They are no doubt being subjected to intense emotional trauma, and I fear they are not all strong enough to resist falling into despair.$p, we have to show them there is still hope! Show them that despair CAN be defeated!",
+    "name": "Sha Can Awe",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

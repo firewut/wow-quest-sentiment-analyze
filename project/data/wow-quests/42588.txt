@@ -1,0 +1,8 @@
+{
+    "_id": "42588",
+    "added_in_patch": 7,
+    "description": "Leafbeard is known as the Storied for good reason.It is said that he remembers tales from before the Sundering. After examining the inscribed leaf that our champions recovered, he may be able to provide new knowledge and improvements for the grove.Go take it to him now.",
+    "name": "Branching Out",
+    "requires_level": 101,
+    "zone": "Druid Campaign"
+}

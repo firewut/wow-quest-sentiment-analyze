@@ -1,0 +1,8 @@
+{
+    "_id": "42771",
+    "added_in_patch": 7,
+    "description": "The lost souls roaming the cemetery grounds have been drawn to the realm of the living in the wake of the Light's disturbance. In truth, they merely seek comfort... as we all do in these dark times since Highlord Tirion's passing.However, their unrest threatens the very sanctity of the tomb we have sworn to protect. If we are to restore peace here, then they must be exorcised.",
+    "name": "Keeping the Peace",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

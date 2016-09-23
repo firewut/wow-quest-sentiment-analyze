@@ -1,0 +1,8 @@
+{
+    "_id": "42148",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "The Wine's Gone Bad",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

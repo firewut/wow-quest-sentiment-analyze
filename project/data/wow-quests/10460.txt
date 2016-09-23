@@ -1,0 +1,7 @@
+{
+    "_id": "10460",
+    "description": "",
+    "name": "Defender's Pledge",
+    "requires_level": 70,
+    "zone": "Caverns of Time"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13761",
+    "description": "The grand melee is the most important of the tournament's competitions. The people of Darnassus are looking forward to seeing us win the melee. To that end, they've been honing their skills against the valiants representing the other Alliance capitals.I suggest you do the same.The Alliance Valiants' Ring is just outside our tent. Go to the stables on the outside the pavilion, equip your lance, mount the stabled Darnassian mistsaber, and challenge the valiants.",
+    "name": "The Grand Melee",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25832",
+    "description": "<name>, you've done all you can here. This whole cavern is about to collapse in on itself!I'll gather up the last of our feathered steeds and ensure that the flamegate is sealed behind me.You should go on ahead and let Aviana know that this abominable hatchery is no more!",
+    "name": "Return to Aviana",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

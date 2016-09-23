@@ -1,0 +1,7 @@
+{
+    "_id": "12929",
+    "description": "The earthen who once inhabited, built, and maintained Ulduar were ousted from their home when Loken took over the city. Since then, his iron dwarf followers have relentlessly attacked the exiles.They have taken refuge in an old titan building, which they now call Bouldercrag's Refuge, on the face of a mountain west of the Inventor's Library. Bouldercrag and his brethren fight to keep the irons from overrunning their haven, but they cannot hold their ground long. Find and help them, <name>.",
+    "name": "The Earthen of Ulduar",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41901",
+    "added_in_patch": 7,
+    "description": "You have my thanks, mortal for bringing about my rebirth. However, thanks alone would not be honorable.I know that the Earthen Ring seeks to save Azeroth from the Burning Legion.I will pledge my sword, and the armies of Skywall to the aid of Azeroth.When the time for battle arrives, and the Earthen Ring stands upon the battlefield against the Burning Legion, the Windlord shall stand with you.",
+    "name": "Oath of the Windlord",
+    "requires_level": 103,
+    "zone": "Shaman Campaign"
+}

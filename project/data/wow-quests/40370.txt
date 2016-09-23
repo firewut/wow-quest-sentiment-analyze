@@ -1,0 +1,8 @@
+{
+    "_id": "40370",
+    "added_in_patch": 7,
+    "description": "Do you feel it in the air, <race>? The stage is set for us to make things right.While you were busy I was able to track down the elder elemental that rules these waters. Its name is the Azurefall Guardian and it resides within the channels below Tel'anor.Take the ritual focus, it should help you during the battle.",
+    "name": "Purge the Unclean",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

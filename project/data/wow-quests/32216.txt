@@ -1,0 +1,8 @@
+{
+    "_id": "32216",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari treat their skyscreamer pets as little more than scuttling vermin, bending them to their will with violence and torment.\r\n\r\nI can hear one writhing in pain at their hands.\r\n\r\nFind the tormented skyscreamer within Za'Tual and help it break free of its captors.",
+    "name": "Pterrible Ptorment",
+    "requires_level": 90,
+    "zone": "Quests"
+}

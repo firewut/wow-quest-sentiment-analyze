@@ -1,0 +1,7 @@
+{
+    "_id": "12588",
+    "description": "One of our troops came across an old treasure map during our last offensive. If what it shows is true, then there are priceless troll artifacts nearby.My soldiers have their hands full, pressed between the Drakkari and the Scourge. I need you to follow up on this intelligence.Take this shovel and use it at the loose dirt mounds to the southwest. Return to me after a diligent search has been conducted.",
+    "name": "Troll Patrol: Can You Dig It?",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

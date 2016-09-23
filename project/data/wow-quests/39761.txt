@@ -1,0 +1,8 @@
+{
+    "_id": "39761",
+    "added_in_patch": 7,
+    "description": "I've been working for many years to improve the forges. This weapon will be the perfect demonstration of the Soul Forge, their latest design!\r\n\r\nWe can take your artifact to the forge and shape it to make use of the power it contains, provided you've fed your weapon enough souls first. Let's give it a little try, eh?",
+    "name": "Advanced Runecarving",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

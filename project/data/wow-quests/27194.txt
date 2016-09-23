@@ -1,0 +1,7 @@
+{
+    "_id": "27194",
+    "description": "<The Banshee Queen speaks through your mind.>We must act quickly, <name>. They mustn't be given the chance to flee. I am dispatching a squadron of my most powerful troopers to the Deep Elem Mine. I'm also sending the Horseman with them to ensure that nothing goes wrong. Meet him at the Deep Elem Mine, east of Olsen's Farthing, and CRUSH those rats.",
+    "name": "Cornered and Crushed!",
+    "requires_level": 11,
+    "zone": "Silverpine Forest"
+}

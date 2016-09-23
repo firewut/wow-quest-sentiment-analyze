@@ -1,0 +1,7 @@
+{
+    "_id": "29275",
+    "description": "The Druids of the Flame... an order of druids that, up until a few weeks ago, Tholo and I had never even heard of. Now, under the leadership of Fandral Staghelm, they threaten our mission's success with their mastery of fire.It would appear that they store some supplies in the Igneous Depths, to the northeast. Perhaps, if we can get some of those supplies, we will have more luck when we take the fight to Fandral.",
+    "name": "Fandral's Methods",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

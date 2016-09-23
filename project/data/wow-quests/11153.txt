@@ -1,0 +1,7 @@
+{
+    "_id": "11153",
+    "description": "All of our ships are sunk! We need your help to break the pirate blockade below in the Shattered Straits!Take these cluster bombs and hitch a ride on the zeppelin that Harrowmeiser has 'loaned' to us.  He'll fly you over the decks of those pirate scoundrels, and you make sure to give it to them good!If you can't bomb them to smithereens, I'm afraid we'll never be able to break the blockade.",
+    "name": "Break the Blockade",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

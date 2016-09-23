@@ -1,0 +1,7 @@
+{
+    "_id": "8318",
+    "description": "Some of the Twilight's Hammer cultists carry around little papers with gibberish written on them.  I want you to bring me a stack of them, <class>.I can't figure out what the gibberish means, but that's not the point!  These papers are how their different groups communicate secretly.  The more texts we take out of circulation, the less they can communicate!",
+    "name": "Secret Communication",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

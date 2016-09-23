@@ -1,0 +1,8 @@
+{
+    "_id": "26676",
+    "description": "Here's your Zombie Juice......and be careful with this stuff.  It's strong enough to raise the dead!",
+    "name": "Juice Delivery",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

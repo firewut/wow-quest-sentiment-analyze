@@ -1,0 +1,7 @@
+{
+    "_id": "10768",
+    "description": "The wind riders must return to Shadowmoon Village to prepare for the next phase of our assault. What I need from you now are the tabards that these blood elves wear.When you have collected enough tabards, call for a wind rider using the Kor'kron flare gun. Prepare yourself for a bit of espionage, <race>!",
+    "name": "Tabards of the Illidari",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10822",
+    "description": "",
+    "name": "Single Sunfury Signet",
+    "requires_level": 68,
+    "zone": "Shattrath City"
+}

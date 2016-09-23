@@ -1,0 +1,7 @@
+{
+    "_id": "27852",
+    "description": "War rages in the swamp, <name>. Vicious humans have settled north of the city and brought an army to our doorstep.There is nothing in this swamp for them. Their sole reason for coming here is to attack us, unprovoked. We will not give them the pleasure of victory!We are undermanned and I need every able orc to take to the battlefield. Go, and slay as many humans as you can.",
+    "name": "Orcs and Humans",
+    "requires_level": 52,
+    "zone": "Swamp of Sorrows"
+}

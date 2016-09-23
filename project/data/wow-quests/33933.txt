@@ -1,0 +1,8 @@
+{
+    "_id": "33933",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Deceptia's Smoldering Boots",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

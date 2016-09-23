@@ -1,0 +1,7 @@
+{
+    "_id": "26248",
+    "description": "Something's wrong here, <name>.The ship's crew has been slain.  Yet there is no bloodshed or damage to the ship's structure.This was not the Horde's doing.We will find the answers we seek by speaking to the spirits of the dead.  They have not yet left this world.Take this totem and place it near the corpses of the fallen.  You will have a few seconds to listen to their last few thoughts.Beware, however!  There is no telling how the spirits of the dead will react to our prodding.",
+    "name": "All Our Friends Are Dead",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30075",
+    "added_in_patch": 5,
+    "description": "Are you seeing this? Virmen, hozen, and water sprites... all pouring out of the brewery doors and windows! What the heck is going on in there!?There is another entrance, on the eastern side of the brewery. I'm going to run over there and try to figure out what's going on. In the meantime, see if you can't get rid of these creatures. There's nothing worse than a drunken hozen.",
+    "name": "Clear the Way",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

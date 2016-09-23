@@ -1,0 +1,7 @@
+{
+    "_id": "25431",
+    "description": "Most of the insects we've seen wandering the hive have been enormous enough, but my scouts reported an especially huge one. It's supposedly a massive wasp, and it seemed to be directing the workers on the surface.I don't know much about these things, but if they're starting to wander beyond that pit in the ground, we need to put a stop to it. Kill this giant wasp and return to me.",
+    "name": "Stinglasher",
+    "requires_level": 37,
+    "zone": "Feralas"
+}

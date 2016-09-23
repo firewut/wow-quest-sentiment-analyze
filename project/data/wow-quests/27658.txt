@@ -1,0 +1,7 @@
+{
+    "_id": "27658",
+    "description": "My investigation into Cho'gall's artifact has hit a dead end. The Twilight's Hammer enslaved a group of Wildhammer smiths and then drowned them in the lake when they were done with their services.<Garona spits.>I hate to say it, but we need help. There's an Earthen Ring woman, a draenei named Earthcaller Yevaa.  She and her pet goblin are southwest at the Elementium mine.They need help with shutting down the elemental portals around here. In exchange, she can help us with our problem.",
+    "name": "Help from the Earthcaller",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

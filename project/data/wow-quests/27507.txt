@@ -1,0 +1,7 @@
+{
+    "_id": "27507",
+    "description": "Fragile Twilight invaders litter the redoubt. They're pouring in from somewhere to the west.There can be no mercy offered to them within this hallowed place. Whatever violence grips your moral heart, release it upon them.",
+    "name": "Encroaching Twilight",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

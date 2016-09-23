@@ -1,0 +1,7 @@
+{
+    "_id": "8880",
+    "description": "",
+    "name": "Cluster Rockets",
+    "requires_level": 45,
+    "zone": "Lunar Festival"
+}

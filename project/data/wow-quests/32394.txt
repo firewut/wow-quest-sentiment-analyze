@@ -1,0 +1,8 @@
+{
+    "_id": "32394",
+    "added_in_patch": 5.1,
+    "description": "There's no telling what lies below, so I will lead the initial scouting party myself.If your report was correct, then the Korune mogu hid the Divine Bell in the rooms below our very feet.I have a feeling they would not have left such a precious artifact unguarded.I could use a capable <class> such as yourself to watch my back. Let me know when you're ready.",
+    "name": "The Divine Bell",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

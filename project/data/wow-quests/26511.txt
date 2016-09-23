@@ -1,0 +1,8 @@
+{
+    "_id": "26511",
+    "description": "Headed out to Lake Everstill? You'll be happy to know that we currently have a bounty on murlocs. Kill as many as you can and be rewarded! Any murloc will do. All you need to do is kill indiscriminately.You'll find Lake Everstill directly east of Lakeshire. It's the lake. Has water in it... Any of this ring a bell?",
+    "name": "Lake Everstill Clean Up",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Redridge Mountains"
+}

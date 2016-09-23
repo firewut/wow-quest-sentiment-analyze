@@ -1,0 +1,8 @@
+{
+    "_id": "43170",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Warmongering Gladiator's Satin Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

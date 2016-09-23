@@ -1,0 +1,9 @@
+{
+    "_id": "34582",
+    "added_in_patch": 6,
+    "description": "So, you are the one that has led my children home? I have been waiting for you.The Iron Horde grows stronger every day.I have foreseen a great battle, but my visions are clouded. It's as if time is sitting on top of itself. One thing is certain, your presence here is of great importance.",
+    "name": "Finding a Foothold",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

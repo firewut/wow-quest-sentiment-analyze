@@ -1,0 +1,7 @@
+{
+    "_id": "9853",
+    "description": "Gurok must be summoned. You summon Gurok and you destroy.You must go to Warmaul Hill to the northwest and find where ogre worships Gurok. You put ogre skull from Warmaul ogres on Gurok's earthen brand. Only then will Gurok come. Seven skulls.If you live, bring Gordawg back Gurok earthen head. Gordawg crushes head.<Gordawg bites down hard, shaking the earth beneath your feet.>",
+    "name": "Gurok the Usurper",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

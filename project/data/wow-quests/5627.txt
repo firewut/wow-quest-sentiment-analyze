@@ -1,0 +1,7 @@
+{
+    "_id": "5627",
+    "description": "",
+    "name": "Stars of Elune",
+    "requires_level": 10,
+    "zone": "Priest"
+}

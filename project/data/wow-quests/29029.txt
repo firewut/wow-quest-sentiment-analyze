@@ -1,0 +1,7 @@
+{
+    "_id": "29029",
+    "description": "<The corrupted water bubbles and froths, as if trying to break free from itself.>Take this water to our scout in the field. He should be able to purify it for our attack on the Shadow Hold's defenses!",
+    "name": "Dying Knowledge",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

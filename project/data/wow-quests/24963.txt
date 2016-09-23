@@ -1,0 +1,7 @@
+{
+    "_id": "24963",
+    "description": "Okay, babe, listen up. There's two ways to get people to do what you want. You can provide goods, services, and things people want...or you can beat the living daylights out of them.I've often found it's useful to do both at the same time, and you're pretty familiar with both methods by now. Take these little silithid treats, go and beat some ogres dizzy, and then give them the treat before you knock them completely dead, 'kay?",
+    "name": "Maul 'Em With Kindness",
+    "requires_level": 45,
+    "zone": "Tanaris"
+}

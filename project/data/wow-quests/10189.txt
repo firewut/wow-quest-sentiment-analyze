@@ -1,0 +1,7 @@
+{
+    "_id": "10189",
+    "description": "You may have noticed one of Kael's manaforges on your way here.  You know, the large purple buildings sucking energy from the sky?We were sent here by the Sha'tar to investigate them.  You can help our information gathering efforts by obtaining a personnel roster.  Giving us an idea of who's there and what they do will prove to be invaluable information.We believe Captain Arathyn, leading a ballista team just outside of Manaforge B'naar, is in possession of one such roster.  Obtain it for us.",
+    "name": "Manaforge B'naar",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

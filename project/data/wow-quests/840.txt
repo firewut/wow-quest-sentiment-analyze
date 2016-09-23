@@ -1,0 +1,8 @@
+{
+    "_id": "840",
+    "description": "Hmm, you look pretty strong.Listen, my good friend Kargal needs some new recruits for Barrens duty. I know you want to do what's right for the Horde. Well, this is your chance.Take this recruitment letter to Kargal and see if he'll sign it.",
+    "name": "Conscript of the Horde",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Durotar"
+}

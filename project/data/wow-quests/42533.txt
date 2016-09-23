@@ -1,0 +1,8 @@
+{
+    "_id": "42533",
+    "added_in_patch": 7,
+    "description": "So the Lich King has revealed the second of the Four Horsemen... it appears that not even kings may rest as the world burns around them.So be it, Deathlord.I will send Nazgrim and Thassarian to meet you at the fallen kingdom of Stromgarde.Prince Galen Trollbane holds the key to the tomb of his father, a famous sword known as Trol'kalar. In order to raise the king as the second of the Four Horsemen, we will need to gain entrance to the tomb.Do what you must to persuade Galen assist us...",
+    "name": "The Ruined Kingdom",
+    "requires_level": 103,
+    "zone": "Death Knight Campaign"
+}

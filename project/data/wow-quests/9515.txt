@@ -1,0 +1,7 @@
+{
+    "_id": "9515",
+    "description": "A naga invasion would be disastrous, <name>. I've seen what naga can do and I would not want to see such a catastrophe befall any being. If I were to guess, this Warlord Sriss'tiz will be hidden in a cave - probably along the coast to the west.Find Warlord Sriss'tiz and put an end to his reign.",
+    "name": "Warlord Sriss'tiz",
+    "requires_level": 6,
+    "zone": "Azuremyst Isle"
+}

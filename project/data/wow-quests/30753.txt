@@ -1,0 +1,8 @@
+{
+    "_id": "30753",
+    "added_in_patch": 5,
+    "description": "There is only one way to kill sharks where I come from, with your bare hands!I dumped a good amount of chum in the water just off the dock here, this place should be crawling with the local reef sharks in no time.  Hop on the first one you see and take it out!",
+    "name": "Jumping the Shark",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

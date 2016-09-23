@@ -1,0 +1,8 @@
+{
+    "_id": "9399",
+    "description": "You probably think most Broken are evil, don't you?  In reality many just lack guidance.Before I met the Omenai, I too was lost.Our minds suffered terrible pain from the orcs' demonic magic.  We are easily confused and taken advantage of.Demons allied with Illidan raid Hellfire daily and capture our kind as slaves.  With the Omenai we now have hope.  Travel to the Ruins of Sha'naar, southwest of here, and slay the Illidari taskmasters so my people may be free!",
+    "name": "Cruel Taskmasters",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

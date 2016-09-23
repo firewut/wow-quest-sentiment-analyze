@@ -1,0 +1,7 @@
+{
+    "_id": "11516",
+    "description": "We have to shut down this gateway to stop Legion reinforcements to the Isle of Quel'Danas.Take these embers, they contain one of my creations: a living flare.  It is designed to act as a powerful destructive force - as long as it has been provided enough energy.Find the fel sparks that wander the area and slay them near the living flare.  The flare will grow in power each time, until it becomes unstable.Once you've achieved this bring the flare to the gateway.  It will know what to do.",
+    "name": "Blast the Gateway",
+    "requires_level": 70,
+    "zone": "Hellfire Peninsula"
+}

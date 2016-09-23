@@ -1,0 +1,8 @@
+{
+    "_id": "34093",
+    "added_in_patch": 6,
+    "description": "Those Thunderlords circling above us are a problem <name>.They fly their pathetic Rylaks leisurely across the valley, thinking they are safe to rain spears down on our heads. We need to show them they are not safe from Frostwolf Vengeance!I have a plan but we will need to gather some material. Go hunt across the valley for any of their spears that survived intact. I think five should be enough.",
+    "name": "Getting the Points",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

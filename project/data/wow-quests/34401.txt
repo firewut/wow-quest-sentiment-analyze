@@ -1,0 +1,9 @@
+{
+    "_id": "34401",
+    "added_in_patch": 6,
+    "description": "Kaelynara will not stop until she has drained every last drop of arcane energy from the crystal...and destroyed this entire mine in the process. The arcane shield she guards herself with cannot be penetrated by normal means, but I have a plan.If I had a focusing crystal powerful enough to momentarily pierce her shield, Kaelynara could then be dealt with.Fortunately, we are in the perfect place to build one. Start by bringing me arcane essence from the creatures rampaging throughout the mine.",
+    "name": "Arcane Essence",
+    "requires_level": 95,
+    "side": "horde",
+    "zone": "Talador"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10301",
+    "description": "While I'm glad to have most of Krasus's Compendium back, it's useless without the heliotrope oculus. You see, Krasus was well aware of the sheer power of the spells recorded in the book and took steps to safeguard them from prying eyes.Only a knowledgeable mage can use the oculus to unlock the compendium's secrets.During Kael'thas's attack, one of his lieutenants, Spellreaver Marathelle, looted it and took it to Sunfury Hold northeast of the tower. No doubt she thought it a pretty little bauble.",
+    "name": "Unlocking the Compendium",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

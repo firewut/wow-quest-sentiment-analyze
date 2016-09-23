@@ -1,0 +1,9 @@
+{
+    "_id": "38312",
+    "added_in_patch": 7,
+    "description": "So these trials are what will get us the Aegis, and the next one is on the top of that mountain? That may prove problematic.\r\n\r\nThe only way I see up the mountain is through that vrykul city, and the gates are shut tight. We should be able to grapple over, though. If you don't have a launcher, I managed to wrangle a spare from one of these vrykul.\r\n\r\nI'll scout ahead and see if I can find a good spot to get in.",
+    "name": "A Grapple a Day",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

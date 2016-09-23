@@ -1,0 +1,8 @@
+{
+    "_id": "25735",
+    "description": "Thelgen Rock over yonder is something of a natural wonder. It's the only known source of incendicite in the world!The stuff's rare, highly sought, and ridiculously explosive. Hit it with a steel mining pick and you'll set off a fireworks show that'll put a room full of goblins to shame.Luckily, I've developed a spark-proof pick for such tasks. I'll loan it to you if you bring me back some incendicite ore, and I'll split you in on the profits, of course.",
+    "name": "Incendicite Ore",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

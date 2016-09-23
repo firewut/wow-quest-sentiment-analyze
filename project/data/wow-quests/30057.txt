@@ -1,0 +1,8 @@
+{
+    "_id": "30057",
+    "added_in_patch": 5,
+    "description": "Those virmen... they make me do horrible, horrible, silly things. All involving carrots. I couldn't tell you how many carrots they threw at me.Let's not waste any more time. Get me out of here!",
+    "name": "Seeing Orange",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

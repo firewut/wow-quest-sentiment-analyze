@@ -1,0 +1,8 @@
+{
+    "_id": "40863",
+    "added_in_patch": 7,
+    "description": "Well, I've worked out all the kinks. Added a few nuts and bolts, and fitted a new housing for the power core.Problem is, none of the batteries I have here seem to work. I think we're gonna have to fashion somethin' new together.I'm gonna need your help, <name>. Let's start by trying a charged gem from the jewelcrafting shop down the way.",
+    "name": "Always the Last Thing",
+    "requires_level": 102,
+    "zone": "Engineering"
+}

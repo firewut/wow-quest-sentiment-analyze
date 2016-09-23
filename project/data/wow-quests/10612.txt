@@ -1,0 +1,7 @@
+{
+    "_id": "10612",
+    "description": "<Plexi leafs through the manual.>Well, this has everything we need, but there's just one problem. Fel Reavers aren't really built to respond to remote control.We can modify one for you to use for a short time, but you'll have to work fast, or there's no telling what might happen! I wouldn't be surprised if your little stunt with the fel reaver catches the attention of the Legion's lackeys, either. Keep an eye out, and whatever you do, don't forget to destroy as much as you can!",
+    "name": "The Fel and the Furious",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

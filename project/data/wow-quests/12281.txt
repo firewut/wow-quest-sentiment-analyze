@@ -1,0 +1,8 @@
+{
+    "_id": "12281",
+    "description": "We must take solace in the fact that Slinkin's death, while tragic, was for the greater good. His discovery coupled with your heroics in the mine and the samples you returned brings us one step closer to understanding the Scourge war machine.Take this package to High Commander Halford Wyrmbane. It holds a sample of the strange ore and my analysis.",
+    "name": "Understanding the Scourge War Machine",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

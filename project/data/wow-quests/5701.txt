@@ -1,0 +1,7 @@
+{
+    "_id": "5701",
+    "description": "",
+    "name": "<NYI> <TXT> The Rites of Old",
+    "requires_level": 25,
+    "zone": "Priest"
+}

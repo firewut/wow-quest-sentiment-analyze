@@ -1,0 +1,7 @@
+{
+    "_id": "10369",
+    "description": "Yes, the elemental spirits have returned to us!  We are not as strong as we once were, but a little magic can go a long way in the right hands.Arzeth has great powers bestowed upon him by his dark lord.  Take this staff.  It was once a great symbol of our tribe.  Use it against Arzeth and his powers will be temporarily removed from him.  Defeat him then, so that my people may finally be free!",
+    "name": "Arzeth's Demise",
+    "requires_level": 60,
+    "zone": "Hellfire Peninsula"
+}

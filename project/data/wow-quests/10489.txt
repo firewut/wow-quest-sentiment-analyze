@@ -1,0 +1,8 @@
+{
+    "_id": "10489",
+    "description": "WANTED!Stronglimb Deeproot, ancient of war and chief defender of the Living Grove south of Sylvanaar.Find him by heading west across the bridge that traverses the Bloodmaul Ravine.Return his hewn trunk to Tor'chunk Twoclaws.",
+    "name": "Felling an Ancient Tree",
+    "requires_level": 65,
+    "side": "horde",
+    "zone": "Blade's Edge Mountains"
+}

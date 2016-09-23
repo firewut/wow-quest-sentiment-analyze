@@ -1,0 +1,7 @@
+{
+    "_id": "9628",
+    "description": "It's too late to assist the cartographers in completing their mission, but it appears they collected the data Harbinger Mikolaas was expecting. The crystal storing their survey information was not among their ransacked packs, so it must be in the hands of the Wrathscale naga.You know that Harbinger Mikolaas will be saddened by the loss of the survey crew, but would want to salvage the survey data.",
+    "name": "Salvaging the Data",
+    "requires_level": 10,
+    "zone": "Bloodmyst Isle"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11933",
+    "description": "This flame, stolen from the heart of the Exodar itself, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",
+    "name": "Stealing the Exodar's Flame",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

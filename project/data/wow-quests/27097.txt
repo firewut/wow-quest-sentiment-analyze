@@ -1,0 +1,7 @@
+{
+    "_id": "27097",
+    "description": "Fenris Isle stands defiantly at the heart of Lordamere Lake - a cruel memory of a time long since passed.Though no longer infested by gnoll vermin, a new threat has emerged.  Human refugees, driven from their holdings in Hillsbrad, have fled to Fenris Isle in hopes of escaping defeat at our hands. A critical error on their part.You are to take Agatha with you to Fenris Isle and slaughter all humans. She will raise the fallen as Forsaken, bolstering our forces in the process.Do not fail me, <name>.",
+    "name": "Rise, Forsaken",
+    "requires_level": 11,
+    "zone": "Silverpine Forest"
+}

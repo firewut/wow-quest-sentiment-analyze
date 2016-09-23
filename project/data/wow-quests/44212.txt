@@ -1,0 +1,8 @@
+{
+    "_id": "44212",
+    "added_in_patch": 7,
+    "description": "Our path is a winding, twisting road full of peril.  Yet did you know it can be walked many times?  There is an item of great power available to us.  It allows us another opportunity, a second chance.\r\n\r\nDo you wish to acquire one?",
+    "name": "Unseen Fate",
+    "requires_level": 110,
+    "zone": "Trueshot Lodge"
+}

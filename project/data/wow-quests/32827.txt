@@ -1,0 +1,8 @@
+{
+    "_id": "32827",
+    "added_in_patch": 5.3,
+    "description": "Even the strongest defense can still have a weakness, <class>. We just need to find the weakness in the Sunreaver's defense and then exploit it as much as possible.Scouts have reported the use of perimeter wards around Dawnseeker Promontory. They're powerful, but not deadly.Disabling them would allow us to keep closer watch on their activities.",
+    "name": "Re-Use Me",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27061",
+    "description": "The dragon they're speaking of is Abyssion, <name>.  It's not going to be easy to get the fragment off of him.Meet with Mylra again.  She is operating nearby at the Twilight Overlook.She will tell you what our next move will be.",
+    "name": "The Twilight Overlook",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

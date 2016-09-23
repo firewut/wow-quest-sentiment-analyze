@@ -1,0 +1,8 @@
+{
+    "_id": "24503",
+    "description": "It's all up to you, kid. You demolished the Steamwheedle Sharks, so now all that's left to do is to kick the winning goal.Now, just between you and me, I think we should do this one right. I don't want you to just kick a goal... I want you to kick it so far it sails between the two smokestacks behind the goal!I've modified the footbomb to give you the extra power that you'll need.Make me proud!",
+    "name": "Fourth and Goal",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

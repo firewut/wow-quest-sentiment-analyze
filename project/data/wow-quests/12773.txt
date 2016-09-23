@@ -1,0 +1,7 @@
+{
+    "_id": "12773",
+    "description": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.Take this, <name>.  Guard it close, and secure its passage to Darnassus.  Deliver it to Tyrande Whisperwind -- her priests will find it a vital source of power in their fight against the unholy forces from the North.",
+    "name": "Darnassus",
+    "requires_level": 65,
+    "zone": "Quests"
+}

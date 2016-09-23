@@ -1,0 +1,7 @@
+{
+    "_id": "13168",
+    "description": "Look what we have here... eyes of dominion. The Cult normally goes to great lengths to keep these things safe, but I suppose their options for retreat are few when we're slaughtering them in their own home.The eyes allow a being of any relative power to control an undead minion's actions precisely. As you can imagine, this can be extremely useful when it comes to your typical clumsy ghoul or skeleton.Care to try your hand at it? Use one of the eyes to control a captured shade.",
+    "name": "Parting Gifts",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

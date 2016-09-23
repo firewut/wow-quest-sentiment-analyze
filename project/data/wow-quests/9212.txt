@@ -1,0 +1,7 @@
+{
+    "_id": "9212",
+    "description": "These trolls ambushed me and have been keeping me in this cage.  I think they're planning to sacrifice me!  Help me get out of here!The lock on the cage isn't that complex... I just can't get to it from this side.  Please escort me back to the Farstrider Enclave.  I'm sure Captain Helios will reward you, and you'll have my undying gratitude!",
+    "name": "Escape from the Catacombs",
+    "requires_level": 14,
+    "zone": "Ghostlands"
+}

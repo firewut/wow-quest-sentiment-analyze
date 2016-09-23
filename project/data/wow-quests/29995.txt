@@ -1,0 +1,8 @@
+{
+    "_id": "29995",
+    "added_in_patch": 5,
+    "description": "The \"children\" you seek are not actually children but grown pandaren, despite what their elders might claim. Their love will not be held in check by the feuds of their families.You will find both Syra and Lo at the Shrine of the Dawn, ever seeking an answer to their dilemma amongst the pandriarchs of old.",
+    "name": "Shrine of the Dawn",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

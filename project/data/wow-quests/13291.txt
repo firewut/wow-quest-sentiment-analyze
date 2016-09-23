@@ -1,0 +1,7 @@
+{
+    "_id": "13291",
+    "description": "I get it, I get it. Cappy's too busy to see this for himself. His loss!See, I've managed to 'acquire' a certain shipment of solution from the enemy. And as much as I hate tinkerin' with inferior goblin technology, I'm inclined to make an exception here.Take this sample. I'll need you to run a few field tests, just to prove its usefulness, while I try to do a little reverse engineering to duplicate the creation process.Go to the front and gather the materials to make a decoy, then use the oil.",
+    "name": "Borrowed Technology",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

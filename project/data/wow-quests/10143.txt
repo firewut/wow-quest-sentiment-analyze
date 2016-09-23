@@ -1,0 +1,8 @@
+{
+    "_id": "10143",
+    "description": "Your battle prowess has been noted by high command, <class>. They want to send you to the front lines to meet up with Rohamus's crew. They're radicals, devoted to the complete extermination of the Burning Legion, so you may fit right in...Head east about 400 paces, across the Valley of Bones, until you run into a destroyed fel reaver. You'll see Expedition Point where a Legion base used to stand. Once there, you are to report to Forward Commander Kingston.Now move out!",
+    "name": "Expedition Point",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

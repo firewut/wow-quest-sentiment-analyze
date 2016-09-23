@@ -1,0 +1,8 @@
+{
+    "_id": "10809",
+    "description": "The poster reads:\"Worg Master Kruush leads the worg riders of the Bleeding Hollow clan.  A price has been placed on his head, for his riders exact heavy tolls on supply trains to Spinebreaker Post.\"\"Scouts report him within Zeth'Gor, and the hero able to bring the severed head of this villain to me will earn the thanks of the Horde, and a large bounty.\"\"-Captain Darkhowl\"",
+    "name": "Wanted: Worg Master Kruush",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

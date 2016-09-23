@@ -1,0 +1,8 @@
+{
+    "_id": "31973",
+    "added_in_patch": 5,
+    "description": "The natives have taught me the strength of the earth. I know it's unending endurance. Let us battle once more, and you'll see that I'm tougher than ever!",
+    "name": "Bordin Steadyfist",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

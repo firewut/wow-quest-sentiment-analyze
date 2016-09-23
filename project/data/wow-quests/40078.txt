@@ -1,0 +1,8 @@
+{
+    "_id": "40078",
+    "added_in_patch": 7,
+    "description": "With Ashildir's judgment, your final trial is complete. \r\n\r\nBut even Valhallas can wait, for now we must eat! Being dead works up quite an appetite.\r\n\r\nCome now, bring some of that fish to roast over the fire. It is far too heavy for me to carry.",
+    "name": "A Heavy Burden",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

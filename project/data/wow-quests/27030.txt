@@ -1,0 +1,8 @@
+{
+    "_id": "27030",
+    "description": "We've seen more foxes in the hills lately. Cunning creatures, they are. A good test of a hunter's skills, and a fine profit to boot!It's their tails, lad. Fine and fluffy, they're just as good hung on yer belt to ward off fleas as they are to line the gloves of some fancy noble.Listen to me prattle on. I'm no goblin; the thrill's in the hunt! But if you bring me back some foxtails, I'll still gladly pay you for 'em. You'll find the foxes just north of the lodge in the lower woodlands.",
+    "name": "Foxtails By The Handful",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

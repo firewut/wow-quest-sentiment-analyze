@@ -1,0 +1,7 @@
+{
+    "_id": "12485",
+    "description": "",
+    "name": "Howling Fjord: aa - A - LK FLAG",
+    "requires_level": 60,
+    "zone": "Howling Fjord"
+}

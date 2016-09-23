@@ -1,0 +1,7 @@
+{
+    "_id": "29455",
+    "description": "Hey there! Step right up!Why not show everyone how skilled you are?  Just land three rings on the Darkmoon Turtle and you'll get a prize.For one game token you can buy a stack of rings and show the world why we call you the \"Eagle Eyed <Class>.\"",
+    "name": "Target: Turtle",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11428",
+    "description": "You have been a great friend and ally to us, <name>. There is one more thing I must ask of you.You have seen the corruption of the Twisted Glade and the beasts that dwell there. The blacksouled keepers will continue raising these abominations from the waters and soil of our glade unless we act against them.The most powerful of the blacksouled keepers is known as Keeper Witherleaf. Slay him, <name>, and open the way for the redemption of the glade as you once redeemed my sisters.",
+    "name": "Keeper Witherleaf",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10641",
+    "description": "The Burning Legion has proven its capacity to corrupt mortal souls time and again.  If I'm to entrust you with the knowledge you seek, I must have proof of your allegiance.A demoness known as Sathal has eluded me for a long time as she's gifted with an incorporeal form.She watches over the wrath priestesses as they do her bidding at Forge Base: Gehenna.  Slay one of her minions and spill her blood on the ground.  This affront should cause Sathal to materialize temporarily.  Slay her while you can.",
+    "name": "Against the Legion",
+    "requires_level": 68,
+    "zone": "Nagrand (Outland)"
+}

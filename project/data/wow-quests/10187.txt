@@ -1,0 +1,7 @@
+{
+    "_id": "10187",
+    "description": "Although things are grim here, it heartened us quite a bit to hear from you that the archmage has not forgotten the village's plight.<The custodian glances up at the tower.>It's ridiculous, isn't it? Sometimes it seems all that separates us is a wall of mere stone. The wall of magic is easy enough to forget.If you would be so kind, ascend the tower and let Archmage Vargoth know that we are making progress with the village and will soon have a plan to ward off the mana creatures.",
+    "name": "A Message for the Archmage",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "29827",
+    "added_in_patch": 5,
+    "description": "Since you've been gone, more and more of these creatures are approaching our camp. They appear to be amassing for a major assault!We're going to have to take some drastic measures if we hope to see tomorrow.Here, take my poisoned throwing stars and figure out a way to thin out their numbers.",
+    "name": "Acid Rain",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

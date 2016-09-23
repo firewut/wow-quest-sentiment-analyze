@@ -1,0 +1,7 @@
+{
+    "_id": "2948",
+    "description": "Listen <name>, that ring is yours, sure... but I can make you a better one!  That design, like I said, is really simple.  I am a lot more skilled now, and for the mere fee of thirty silver coins I'll spruce it up for you!  Well, a little more than thirty, actually...I'm in a tight spot right now; all my material stock is all dried up.  If you bring me a bar of silver and a moss agate, I'll add a silver and agate lattice to the ring that will give it a little more pizzazz!Trust me!",
+    "name": "Gnome Improvement",
+    "requires_level": 24,
+    "zone": "Ironforge"
+}

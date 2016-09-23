@@ -1,0 +1,8 @@
+{
+    "_id": "26928",
+    "description": "Murlocs workin' with gnolls? That's a laugh! Now, just killin' them won't get you anywhere. Too many of the buggers.But I've got a plan, usin' the old noggin, see. Those murlocs, they have this smell, they get that smell on stuff, and when another murloc smells it, they go all crazy! Makes great bait for 'em.Anyway, they've got little glands that have that smell in 'em. You go and get me a bunch of those.",
+    "name": "Smells Like A Plan",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

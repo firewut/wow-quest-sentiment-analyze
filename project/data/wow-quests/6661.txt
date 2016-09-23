@@ -1,0 +1,8 @@
+{
+    "_id": "6661",
+    "description": "Avast ye scallywag. Arrrr... Arrrr ye looking fer work? We gots a serious rat problem down here an' not enough hands on the poop deck.What do ye say? All ye needs to do is take this here rat catchin' flute and play the melody around the vermin. They'll follow ye to the ends of the world!Just capture five of the little buggers and bring em back here. We needs em alive.Arrrrr...",
+    "name": "Deeprun Rat Roundup",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Deeprun Tram"
+}

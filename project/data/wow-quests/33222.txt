@@ -1,0 +1,8 @@
+{
+    "_id": "33222",
+    "added_in_patch": 5.4,
+    "description": "I've got a battle pet, too! Want to battle? It'll be fun, I promise!",
+    "name": "Little Tommy Newcomer",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

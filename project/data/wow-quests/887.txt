@@ -1,0 +1,8 @@
+{
+    "_id": "887",
+    "description": "Gazlowe promised me a promotion if I can help him with Ratchet's pirate issues. The problem is these new buccaneers that sailed in and took over Fray Island, south of here. They're not just after our goods - they've got grudges to settle! The other night they even went after one of our war galleons.I've got plans in the works to deal with the situation, but Gazlowe wants to see quick results. Head over to Fray Island and start lopping off some heads, will you?",
+    "name": "Southsea Freebooters",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

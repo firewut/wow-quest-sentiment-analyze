@@ -1,0 +1,8 @@
+{
+    "_id": "9466",
+    "description": "By order of the Ranger Captain, a reward is hereby offered for the slaying of the vicious rockflayer matriarch known as Blacktalon the Savage.Blacktalon was last sighted inside a cave in the Great Fissure.  Individuals seeking the reward are to present the creature's claws as proof of the deed.",
+    "name": "Wanted: Blacktalon the Savage",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

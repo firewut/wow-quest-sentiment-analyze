@@ -1,0 +1,8 @@
+{
+    "_id": "14125",
+    "description": "We're close, but we still don't have enough macaroons. But, I've got a plan: we're going to collect on the headquarters insurance policy!Hope you don't mind, but I filled the place with the leftover fireworks from your party. All you have to do is go in there and sabotage things.Might I suggest the faulty generator, the leaky stove, and the flammable bed? Then, come back outside and use the control panel to send in the gasbot.It's a foolproof plan!",
+    "name": "447",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

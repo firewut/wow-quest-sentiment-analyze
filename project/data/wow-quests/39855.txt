@@ -1,0 +1,8 @@
+{
+    "_id": "39855",
+    "added_in_patch": 7,
+    "description": "We have fulfilled Helya's bargain. Now, we see if she will keep to her word.\r\n\r\nWhen you are ready, we should proceed to the throne. If you have any other business here, I would suggest finishing it now.\r\n\r\nI will follow your lead, outsider.",
+    "name": "Paid in Lifeblood",
+    "requires_level": 98,
+    "zone": "Quests"
+}

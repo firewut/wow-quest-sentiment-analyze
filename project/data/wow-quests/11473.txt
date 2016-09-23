@@ -1,0 +1,7 @@
+{
+    "_id": "11473",
+    "description": "Our second in command, Annie Bonn, has been acting rather paranoid as of late.  She seems sure we have an infiltrator in our ranks, can ye believe it?Anyhow, we have a foolproof way of uncovering rats around these parts.  See, good ole' Zeh'gehn over here happens to be an authentic witch doctor.  His family hails all the way from Zul... something or other.Go let him know that we're in need of his divination skills.  I must warn ye, <name>, only one or two of us can understand anything Zeh'gehn says.",
+    "name": "A Traitor Among Us",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

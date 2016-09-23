@@ -1,0 +1,7 @@
+{
+    "_id": "5709",
+    "description": "The time's come again, <name>. You're needed in the Undercity. Aelthalyste has grown... fond of some of the Forsaken's priests, and in the interest of protecting Lady Sylvanas, she wants to ensure that all of us are as well prepared as possible.Find her in the War Quarter and be prepared for whatever task it is she sets for you.",
+    "name": "<NYI> Flirting With Darkness",
+    "requires_level": 35,
+    "zone": "Priest"
+}

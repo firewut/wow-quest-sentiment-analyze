@@ -1,0 +1,8 @@
+{
+    "_id": "106",
+    "description": "Oh, I'm cursed!  My heart belongs to Tommy Joe Stonefield, but our families are bitter enemies.  So I can't see him, even though my eyes ache to gaze upon that handsome face!Please, take this letter and give it to Tommy Joe.  He's usually at the river to the west of the Stonefield Farm, which is due west of here.",
+    "name": "Young Lovers",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Elwynn Forest"
+}

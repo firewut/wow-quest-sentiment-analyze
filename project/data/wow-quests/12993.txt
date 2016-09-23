@@ -1,0 +1,7 @@
+{
+    "_id": "12993",
+    "description": "You've done an excellent job of delaying the work on the iron colossus, but I fear we've only made the stormforged more determined to complete the weapon.Even now, they're bringing in new laborers and the overseers push them to the limit. We may not be able to keep them from bringing the colossus online, after all. Return to Narvir's Cradle, to the south and find the documents detailing the colossus' offensive and defensive abilities. They should be near the tents and forges on the bottom level.",
+    "name": "A Colossal Threat",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

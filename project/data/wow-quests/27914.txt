@@ -1,0 +1,7 @@
+{
+    "_id": "27914",
+    "description": "You have done well, <name>. Jammal'an may have escaped our grasp, but his retreat paves the way for me to enter the temple as I desire.Stay where you are and do not move. I will hasten your return by pulling your spirit to me through the Emerald Dream.This may cause slight drowsiness.",
+    "name": "Blessing of the Green Dragonflight",
+    "requires_level": 52,
+    "zone": "Swamp of Sorrows"
+}

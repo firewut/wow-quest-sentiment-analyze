@@ -1,0 +1,7 @@
+{
+    "_id": "37884",
+    "description": "The final ingredient to create Megacharge's bomb is a sizable quantity of demon's blood. \r\n\r\nUnfortunately, that's not something they're likely to give up easily...",
+    "name": "Dark Grimoire: The Final Ingredient",
+    "requires_level": 100,
+    "zone": "Shadowmoon Valley"
+}

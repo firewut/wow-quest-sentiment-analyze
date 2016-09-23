@@ -1,0 +1,7 @@
+{
+    "_id": "25403",
+    "description": "This is neither a crude ogre trinket, nor an ancient relic made by my kind. Its specific construction is new to me...and this fact disturbs me greatly.The wolf-girl will be sending you to Dire Maul soon, to fight the Gordok elite. They are the leaders of the Gordunni, and would know who is supplying these.Take the orb back, I've cast a few enchantments on it. Hold it up in front of a weakened Gordok ogre, and once you've captured him, bring it back here.",
+    "name": "Ogre Abduction",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

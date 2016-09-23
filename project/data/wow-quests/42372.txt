@@ -1,0 +1,8 @@
+{
+    "_id": "42372",
+    "added_in_patch": 7,
+    "description": "It is my mission to cover the rear guard of Illidari Stand. I have employed this warlock... thing, to assist me.However, the two of us are insufficient for a task that needs doing.To the east is a mass of demons at Felblaze Ingress. These creatures have begun to open portals to summon in countless reinforcements.Meet us at Felblaze Ingress and together we can crush this fel insurgency.",
+    "name": "Felblaze Ingress",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

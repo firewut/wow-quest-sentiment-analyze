@@ -1,0 +1,7 @@
+{
+    "_id": "11170",
+    "description": "We've just received word of reinforcements coming to the aid of the Alliance forces.  Their timing couldn't be better!We're in sore need of test subjects and these North Fleet reservists will do nicely!Take these plague vials with you and speak to Camille, the Bat Handler.  Tell her you need to commandeer a riding bat for a special assignment for us.Once you're at sea, drop the vials on the reinforcement fleet.  I can't wait to see the results!",
+    "name": "Test at Sea",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

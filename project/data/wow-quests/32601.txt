@@ -1,0 +1,8 @@
+{
+    "_id": "32601",
+    "added_in_patch": 5.2,
+    "description": "Dear $p,The foreboding sound of thunder has haunted my people for generations. And as you have discovered in your own research, Lei Shen is at the heart of that fear.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
+    "name": "Rumbles of Thunder",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

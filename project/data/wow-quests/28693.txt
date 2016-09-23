@@ -1,0 +1,8 @@
+{
+    "_id": "28693",
+    "description": "We have been trying to collect useful scraps from the front all week.  Every time we gather a batch to bring back to camp, we get assaulted by the restless soldiers in the area.  Can you head over there and clear them out?",
+    "name": "Finish The Job",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "Tol Barad Peninsula"
+}

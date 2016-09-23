@@ -1,0 +1,7 @@
+{
+    "_id": "26930",
+    "description": "Our victories are quickly piling up, <name>.  The Scarlet Crusade, which has long persecuted the Forsaken, is on its last legs.  While they still hold their monastery here in Tirisfal, they no longer occupy Hearthglen, or Tyr's Hand, far to the east.As recently as last week, there have been reports of Scarlet Crusade activity at a small camp east of Felstone Field, but I have reason to believe that they too have been eliminated.  Travel there, and verify this information for me.",
+    "name": "After the Crusade",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25068",
+    "description": "The creatures wandering these ruins are Earthen, the ancient ancestors of dwarves, made by the Titans to shape the world itself.The original Earthen broke down and went awry thousands of years ago, and these freshly uncovered ones seem no different. We may as well make use of these confused and unstable constructs.Enter the ruins and destroy the Earthen, and collect the jewels embedded in them; their magical energies will be both valuable and worthy of study.",
+    "name": "The Crumbling Past",
+    "requires_level": 46,
+    "zone": "Tanaris"
+}

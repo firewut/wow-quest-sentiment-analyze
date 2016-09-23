@@ -1,0 +1,7 @@
+{
+    "_id": "27856",
+    "description": "Many warriors have met death to bring us victory, <name>. The fate of a true orc.I have seen the way the Alliance loots the bodies of our fallen, clutching at our goods like packrats. They will not defile our fallen heroes on this field.Take these wards with you to the Bloodmire. Place them on the bodies of our fallen warriors. I will be watching, to see how many have fallen, and to honor their sacrifice. Let us hope the spirits give us aid for our respect.",
+    "name": "Marking the Fallen",
+    "requires_level": 52,
+    "zone": "Swamp of Sorrows"
+}

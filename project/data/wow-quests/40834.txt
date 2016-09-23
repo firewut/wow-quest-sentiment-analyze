@@ -1,0 +1,8 @@
+{
+    "_id": "40834",
+    "added_in_patch": 7,
+    "description": "In my previous confrontation with your foe, I was able to see a glimpse into their past. Granted blessed vision by the Cloak of Purity, I saw the Dark Riders for who they once were.\r\n\r\nCome, we must go to Ariden's Camp in Deadwind Pass. I can explain its significance along the way.",
+    "name": "Following the Curse",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

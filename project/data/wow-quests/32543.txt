@@ -1,0 +1,8 @@
+{
+    "_id": "32543",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari are a formidable foe - more so than many foes we've encountered in the past. But you are a formidable foe as well, <name>.\r\n\r\nEnter Za'Tual to and show them the risks associated with opposing the likes of you.",
+    "name": "Dangers of Za'Tual",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26255",
+    "description": "You must get word back to the others at the temple.  Chances are, the fragment is already getting moved to a more secure location.Tell Maruut what you know.  I'm going to do a little investigating about this Twilight Council in the meantime.",
+    "name": "Return to the Temple of Earth",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

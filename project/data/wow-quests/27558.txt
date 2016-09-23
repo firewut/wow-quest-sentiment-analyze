@@ -1,0 +1,7 @@
+{
+    "_id": "27558",
+    "description": "",
+    "name": "Pamela's Doll",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

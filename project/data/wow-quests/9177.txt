@@ -1,0 +1,7 @@
+{
+    "_id": "9177",
+    "description": "This is quite extraordinary! It appears to be a gift to Lady Sylvanas Windrunner from her sister, Alleria!You must take it to her in the Undercity at once! The lady holds court in the Royal Quarter.To get there, use the orb of translocation in the Inner Sanctum of Sunfury Spire in Silvermoon City to cross over to the Undercity.  Once there, take the elevator ride down into the city proper. Use your maps if you need help finding the Royal Quarter.",
+    "name": "Journey to Undercity",
+    "requires_level": 15,
+    "zone": "Undercity"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10764",
+    "description": "It's not working,  lad .  I cannot give it enough heat... the materials will not be properly tempered.You know, the fel reavers used by the Burning Legion are powered by a scalding core of fel fire - it burns much hotter than normal fire.If you could find enough people to take one down, you could heat the mold in the insides of the fallen reaver.  Beware, <class>, those fel reavers pack quite a punch.",
+    "name": "Hotter than Hell",
+    "requires_level": 68,
+    "zone": "Hellfire Peninsula"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35142",
+    "description": "The earth quakes beneath us, Commander. Our scouts are not returning. I can feel an attack creeping up on us, but from where?",
+    "name": "Goren Invasion!",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

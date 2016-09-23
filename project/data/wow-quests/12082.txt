@@ -1,0 +1,7 @@
+{
+    "_id": "12082",
+    "description": "Listen, kid. This is no place for you to be playin' around.I'm about to make a break for it. Stick with me and I'll get you outta here.",
+    "name": "Dun-da-Dun-tah!",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

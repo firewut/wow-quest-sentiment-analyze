@@ -1,0 +1,8 @@
+{
+    "_id": "44116",
+    "added_in_patch": 7,
+    "description": "The Burning Legion invades Azeroth, and SI:7 is wasting valuable resources hunting down and assassinating one of their top agents?Something isn't adding up...We need to find out how deep this goes. Why was Amber Kearnen being hunted by her own organization?The encrypted letter she was carrying may hold the clues... but we need more information.The SI:7 assassins you tailed in Dalaran mentioned Citrine Bay... search Citrine Bay for clues and we'll see about getting this letter decrypted.",
+    "name": "Mystery at Citrine Bay",
+    "requires_level": 103,
+    "zone": "Rogue Campaign"
+}

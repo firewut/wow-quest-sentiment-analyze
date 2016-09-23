@@ -1,0 +1,7 @@
+{
+    "_id": "25673",
+    "description": "Mr. P is sick,  mister. Won't you help him? All you have to do is find his hat and batteries and he'll be all better. I'd go get them myself, but I can't leave Mr. P alone!His hat was stolen by the meanies in the Venture Co. over at the water wheel and his batteries are hidden around Windshear Crag. You'll just have to look real hard for those!Would you kindly bring Mr. P's stuff back so he can teach those baddies in the Horde a lesson?",
+    "name": "Just Ask Alice",
+    "requires_level": 25,
+    "zone": "Stonetalon Mountains"
+}

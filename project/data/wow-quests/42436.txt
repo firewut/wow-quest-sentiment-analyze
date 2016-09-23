@@ -1,0 +1,8 @@
+{
+    "_id": "42436",
+    "added_in_patch": 7,
+    "description": "Our Skyhorn allies could use some assistance. \r\n\r\nTheir ongoing war with the invading harpies has left them low on supplies. \r\n\r\nAnything we can give them will surely help with their efforts to rid those witches from their village.",
+    "name": "Aiding Our Allies",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

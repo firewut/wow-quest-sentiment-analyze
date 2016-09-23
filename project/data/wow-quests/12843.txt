@@ -1,0 +1,7 @@
+{
+    "_id": "12843",
+    "description": "You have to help us!  We were in the middle of an expedition into the mountains to set up a transmission tower when we were attacked.They looked like vrykul, except their skin was blue and layered with frost.... and they were all female!  They took all the men in the expedition and let us women go.  Please, <name>!  We think they're being held in Sifreldar, the village overlooking K3.",
+    "name": "They Took Our Men!",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

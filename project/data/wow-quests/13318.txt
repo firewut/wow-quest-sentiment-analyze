@@ -1,0 +1,7 @@
+{
+    "_id": "13318",
+    "description": "The Cult of the Damned hold the gate of desolation, eh? No surprise there.Time to have a little fun. At the southern end of the gate, you mentioned there were new cultists being trained. They're almost certain to be holding a special item given to all initiates - an Orb of Illusion.These artifacts are used to disguise a cult member, allowing them to gain safe passage, infiltrate, or simply blend in with an enemy.Kill the fools until you find one, <class>, then use it on a subjugator.",
+    "name": "Drag and Drop",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

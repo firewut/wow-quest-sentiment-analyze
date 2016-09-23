@@ -1,0 +1,7 @@
+{
+    "_id": "12954",
+    "description": "I was wondering when you'd show up, <name>! Having a past champion of the Ring of Blood here will be a huge draw! We're gonna be rich, buddy! RICH!Anyway, this dump is Zul'Drak. All the ice trolls seem to use it as a toilet. I dunno, the whole place is off its rocker if you ask me! Who cares, though, right? We're here to make some gold!You know the drill, <name>. When you're ready let me know and we'll get this show on the road!\r\n",
+    "name": "The Amphitheater of Anguish: Yggdras!",
+    "requires_level": 75,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "33125",
+    "added_in_patch": 6,
+    "description": "The ogres outnumbered us, *cough* but we made them pay for their deeds in blood.Even so, I was forced to abandon my fallen brothers and sisters on the battlefield. They deserve better than to have their corpses despoiled by the ogre filth.Here, take this torch *cough* and do what I could not: burn the corpses of my fallen brothers and sisters to the west.",
+    "name": "A Proper Parting",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

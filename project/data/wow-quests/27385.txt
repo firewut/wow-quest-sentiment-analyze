@@ -1,0 +1,7 @@
+{
+    "_id": "27385",
+    "description": "I'm going to play with dolly, but I don't want to play with daddy's sword after all.  You'd better keep it.Even better, can you give it to my uncle Carlin?  I'm not sure where he is, but sometimes I hear him crying.  It sounds like he's nearby, to the north.I hope he's not crying for me!  <name>, will you find my uncle and tell him I'm alright?If you find him say I'm waiting for him, and I want to hear the story he used to tell... the one about the rabbits and the berry jam!  That story's so funny!",
+    "name": "Uncle Carlin",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26933",
+    "description": "The men who till Felstone Field are no farmers.  They're soldiers.Thassarian's forces needed food, so he sent some of the Alliance north from Andorhal, to tend Felstone Field.  The battle for Andorhal may be over, but another battle looms... Forsaken versus human.  Killing those soldiers that work at Felstone will give the Dark Lady's forces a decided advantage.",
+    "name": "Foes Before Hoes",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

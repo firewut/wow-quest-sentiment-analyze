@@ -1,0 +1,7 @@
+{
+    "_id": "24712",
+    "description": "We need to make our way up the main path and through the cave to Tyrannus' rise.There, he will be forced to confront us there lest we make our way into the citadel proper.Go now, <class>. My men and I will be there to stand by you when the confrontation with Tyrannus comes.",
+    "name": "Deliverance from the Pit",
+    "requires_level": 78,
+    "zone": "Quests"
+}

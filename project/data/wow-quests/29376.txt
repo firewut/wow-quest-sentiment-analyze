@@ -1,0 +1,7 @@
+{
+    "_id": "29376",
+    "description": "We burn the effigy of the Wickerman as a symbol of our struggle against those who would oppose us. We wear the ashes of the burnt Wickerman as a symbol of our neverending fight against those who would enslave us.Use the bonfire nearby and ignite the Wickerman.  Then take the ashes that lay nearby and spread them across your face.These gestures will serve as a reminder to our enemies that we shall never yield.",
+    "name": "A Time to Build Up",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

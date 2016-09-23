@@ -1,0 +1,7 @@
+{
+    "_id": "10096",
+    "description": "Ikeyen's been telling me stories about what happened to him down in those caves and I think it's just awful!You know, maybe we should do something to help out those poor sporeloks.  Ikeyen says that they live there in the Funggor Cavern, but that the marsh beasts have recently invaded.Why don't you go down there and see if you can clear some of those marsh beasts out?  It's just to the southwest.",
+    "name": "Saving the Sporeloks",
+    "requires_level": 60,
+    "zone": "Zangarmarsh"
+}

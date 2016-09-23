@@ -1,0 +1,7 @@
+{
+    "_id": "27375",
+    "description": "A beast, <name>! I saw a beast. A great maw, an even greater hungering. They can't possibly know what they unleashed.It is here. Its terrible shapeless body is erupting right into the Highlands.I saw you in my vision, <name>. You struggle with the Earthen Ring to contain the beast. You will face the darkness.Go now, before the beast grows in power. Speak to Earthcaller Torunscar at the Circle of the Elements, northwest of here atop the ridge beyond the ruined Drakgor Encampment. Hurry!",
+    "name": "The Weeping Wound",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

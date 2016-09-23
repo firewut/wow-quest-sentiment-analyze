@@ -1,0 +1,7 @@
+{
+    "_id": "12181",
+    "description": "My, my, how long has it been? How long have we been working on this damned plague? Finally, after an eternity of failure, we are blessed with perfection. This... It doesn't even have a proper name yet! This blight... That's it, BLIGHT! This blight will tear down the very fabric of life!<Harris hands you a vial.>Now, find the bat handler, Tobias, and show him the specimen. He'll get you on your way to Venomspite.\r\n",
+    "name": "Give it a Name",
+    "requires_level": 71,
+    "zone": "Howling Fjord"
+}

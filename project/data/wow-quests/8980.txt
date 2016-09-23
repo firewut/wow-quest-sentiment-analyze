@@ -1,0 +1,7 @@
+{
+    "_id": "8980",
+    "description": "This is unexpected. It looks like Fenstad might be on to something after all. I found traces of substances used in mind control potions.It isn't unheard of for perfumes to have some of this, but a few of the ingredients I detected... This is serious alchemy, along the abilities of a member of the Royal Apothecary Society.",
+    "name": "Zinge's Assessment",
+    "requires_level": 1,
+    "zone": "Quests"
+}

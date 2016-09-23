@@ -1,0 +1,8 @@
+{
+    "_id": "40298",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Fight Night: Sir Galveston",
+    "requires_level": 110,
+    "zone": "Dalaran"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "37572",
+    "added_in_patch": 6,
+    "description": "Now that the scribe's quarters are complete, we can start producing war paints for you. When you have the ingredients, please speak with my assistant to start the first work order.",
+    "name": "Your First Inscription Work Order",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

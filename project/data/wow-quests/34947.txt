@@ -1,0 +1,9 @@
+{
+    "_id": "34947",
+    "added_in_patch": 6,
+    "description": "Hey! I hear there's a curious object nearby. Scouts say it's some kind of shredder manual.\r\n\r\nGo check it out for me, will ya? I wonder if it has to do with this new prototype I've been hearin' about...",
+    "name": "Shredder Manual",
+    "requires_level": 94,
+    "side": "alliance",
+    "zone": "Talador"
+}

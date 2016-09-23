@@ -1,0 +1,8 @@
+{
+    "_id": "40072",
+    "added_in_patch": 7,
+    "description": "The Felskorn may be broken, but the head of the beast yet lives. The God-King will still vie for the Aegis if left unchecked.\r\n\r\nYou, who have completed trials upon trials, must not let this come to pass. You must claim the Aegis over Skovald's broken bones!\r\n\r\nThe Halls of Valor await!",
+    "name": "Securing the Aegis",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

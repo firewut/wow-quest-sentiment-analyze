@@ -1,0 +1,7 @@
+{
+    "_id": "10261",
+    "description": "WANTED:  1 Annihilator Servo to replace the failing one in my Long Neck Spectrum Analyzer.You and your friends might want to check with the blood elves at Manaforge B'naar to the west to see if they have any spares.  They seem to have a few arcane annihilators roaming about.Please deliver the servo in pristine condition to Papa Wheeler at Area 52.",
+    "name": "Wanted: Annihilator Servo!",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32567",
+    "added_in_patch": 5.2,
+    "description": "I do not want to see another Zandalari beast rider breach our defenses!I have dispatched Scout Captain Daelin and some war mages to the Beast Pens northwest of here. Their mission is to infiltrate and harass the Zandalari siege and cavalry units. I want you to join them and lend your expertise.Keep an eye out for the tell tale shimmer of their magical cloaking spell.",
+    "name": "The Beast Pens",
+    "requires_level": 90,
+    "zone": "Quests"
+}

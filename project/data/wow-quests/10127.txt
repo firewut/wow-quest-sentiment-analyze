@@ -1,0 +1,7 @@
+{
+    "_id": "10127",
+    "description": "It would be a dereliction of duty if I did not order you to take out the demons that inhabit the Legion Front, just east of this base.Both sides of the front are set up in the same manner: Fel handlers roam between Legion encampments, which are in turn guarded by wrathguards. A shivan subjugator oversees the entire operation. Kill 'em all and let Kazzak sort 'em out.And watch out for patrolling fel reavers. I know you're tough but those things will make short work of you.",
+    "name": "Mission: Sever the Tie",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

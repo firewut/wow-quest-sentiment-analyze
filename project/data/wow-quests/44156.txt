@@ -1,0 +1,8 @@
+{
+    "_id": "44156",
+    "added_in_patch": 7,
+    "description": "I hope you have a better understanding of what is at stake.\r\n\r\nCome. There is no more for us to do here.\r\n\r\nMeet me in Shal'aran and we will discuss what steps we may take next.",
+    "name": "Another Arcan'dor Closes...",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

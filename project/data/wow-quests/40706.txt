@@ -1,0 +1,8 @@
+{
+    "_id": "40706",
+    "added_in_patch": 7,
+    "description": "To face the trials ahead, you require a weapon that can enhance your considerable abilities. I have learned of a few possibilities that you might consider.You must decide which weapon to pursue first. I have the utmost confidence in your decision.",
+    "name": "A Legend You Can Hold",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

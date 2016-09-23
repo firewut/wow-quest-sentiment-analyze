@@ -1,0 +1,9 @@
+{
+    "_id": "36196",
+    "added_in_patch": 6,
+    "description": "Greetings, and welcome to Ashran. Report to General Ushet Wolfbarger in Warspear for your orders.",
+    "name": "Welcome to Ashran",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Warspear Outpost"
+}

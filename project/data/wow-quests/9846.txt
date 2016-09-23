@@ -1,0 +1,8 @@
+{
+    "_id": "9846",
+    "description": "The most powerful tribe of Lost Ones in the marsh, the Feralfen, are said to possess powerful medicine. There may be no truth to such rumors, but anything that might help me channel the spirits of this world cannot be ignored.Find the Feralfen mystics, hunters and druids, <name>, and capture their totems. Everything I need to know should be apparent from the carvings.",
+    "name": "Spirits of the Feralfen",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

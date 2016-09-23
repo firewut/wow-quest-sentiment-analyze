@@ -1,0 +1,8 @@
+{
+    "_id": "41164",
+    "added_in_patch": 7,
+    "description": "<name>! I just heard that Brann Bronzebeard - that crazy, titan-obsessed dwarf - has decided to go hunting for his precious disc in Suramar.Talk about the last place you'd want to go digging around, given the current events.I'm sure he could use your help.",
+    "name": "One Step Closer",
+    "requires_level": 110,
+    "zone": "Archaeology"
+}

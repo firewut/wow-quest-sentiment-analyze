@@ -1,0 +1,8 @@
+{
+    "_id": "30138",
+    "added_in_patch": 5,
+    "description": "I have examined each egg, <name>. Out of the lot that you brought me, I have chosen the three eggs with the most promise.You may choose only one egg to take with you. Are you ready to make your final selection?",
+    "name": "Choosing the One",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

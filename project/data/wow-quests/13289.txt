@@ -1,0 +1,7 @@
+{
+    "_id": "13289",
+    "description": "You know what to do, <class>.Take this kit and use the guts from their abominations to create one of your own, then command it to attack the enemy forces at the gate.You would do well to refine this tactic for when we make another assault on the gate.",
+    "name": "That's Abominable!",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "938",
+    "description": "The sabercat's fur is a distinctive gray color, blending into the surrounding forest. As she lays there, you observe that she is badly wounded, with deep lacerations across her back and stomach.She raises her head and gazes at you, bright intelligence shining in blue eyes. She seems to wish to follow you.",
+    "name": "Mist",
+    "requires_level": 7,
+    "zone": "Teldrassil"
+}

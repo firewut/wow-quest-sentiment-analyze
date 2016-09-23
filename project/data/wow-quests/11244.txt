@@ -1,0 +1,7 @@
+{
+    "_id": "11244",
+    "description": "We'd been here for a month when those malformed giants appeared out of thin air. We were ill-prepared for any sort of attack and paid dearly for our complacency. An entire archaeology team was lost and several townsfolk were abducted and taken to the ruins. We've been on the defensive ever since.To make matters worse, the scouts we sent to rescue our people have been harpooned by the vrykul and left for dead in the forest directly north of Valgarde. Dislodge those harpoons and free our scouts!\r\n",
+    "name": "Rescuing the Rescuers",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

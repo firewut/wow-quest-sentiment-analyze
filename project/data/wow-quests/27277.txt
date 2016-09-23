@@ -1,0 +1,7 @@
+{
+    "_id": "27277",
+    "description": "I've received an urgent message from Orgrimmar for you, <name>. The renowned mage, Ureda, wants you to meet with her in Orgrimmar. I'm not sure what this is about, but if I was you, I would travel to the capital as fast as possible and seek out Ureda in the Cleft of Shadow.",
+    "name": "An Audience with Ureda",
+    "requires_level": 20,
+    "zone": "Mage"
+}

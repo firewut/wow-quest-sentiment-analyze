@@ -1,0 +1,8 @@
+{
+    "_id": "32378",
+    "added_in_patch": 5.1,
+    "description": "First thing's first. If we're going to take the leader captive, we'll need to thin the numbers of his agents.\r\n\r\nBe careful. These mogu are particularly dangerous - they appear to be manipulating the sha in ways we haven't seen before.",
+    "name": "Clearing a Path",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

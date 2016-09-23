@@ -1,0 +1,8 @@
+{
+    "_id": "42776",
+    "added_in_patch": 7,
+    "description": "As our forces grow, and our reach extends ever outward, you have need of more trusted companions to handle the most important of missions.\r\n\r\nThe time has come for you to elevate two worthies into the ranks of your champions. \r\n\r\nIt's my opinion that you should consider recruiting Belath and Malevolence. They have both proven themselves indispensable.",
+    "name": "Two Worthies",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27298",
+    "description": "Master Pyreanor, a senior Blood Knight and advisor to the warchief, requires your presence in Orgrimmar. He has taken an interest in your training, <name>, and it is imperative that you speak with him immediately.The message I received didn't mention the reason he requested your visit, but you should set out for Orgrimmar right away. Master Pyreanor can be found in the keep in the center of the Valley of Strength.",
+    "name": "Seek Out Master Pyreanor",
+    "requires_level": 20,
+    "side": "horde",
+    "zone": "Paladin"
+}

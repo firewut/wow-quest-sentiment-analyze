@@ -1,0 +1,8 @@
+{
+    "_id": "25213",
+    "description": "Sassy's over at the Slave Pits. She's there with the orcs getting ready to execute the final play on the Trade Prince.<name>, take the footbomb uniform up the road to the southwest and find her. I know she's going to want you to lead the charge!Ack, I'm starting to talk like the coach now!",
+    "name": "The Slave Pits",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

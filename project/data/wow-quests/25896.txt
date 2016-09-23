@@ -1,0 +1,7 @@
+{
+    "_id": "25896",
+    "description": "Ah, Battlemaiden. You carry with you the word and the will of our Lady. I might ask a favor of you...I need Fathom-Caller Azrajar and my Tide Priestesses to return so that we can begin the ritual. Can you carry my will to them as such? You should find them spread upon the temple terrace. Azrajar will be at the stairs to the north.",
+    "name": "Devout Assembly",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

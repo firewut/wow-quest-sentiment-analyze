@@ -1,0 +1,7 @@
+{
+    "_id": "25614",
+    "description": "The skies are swarming with heavily armored orcs on the backs of even more heavily armored wind riders. Our best efforts to bring them down have thus far proven fruitless. Our arrows usually just bounce off of those foul creatures. If we do happen to take one down the orcs deploy their goblin parachutes and safely land on the ground below.I need you to use Gnombus's sniper cannons and blow up the Warsong wind riders and then blow up the parachuting orcs.The only way down is in a body bag.",
+    "name": "The Only Way Down is in a Body Bag",
+    "requires_level": 24,
+    "zone": "Stonetalon Mountains"
+}

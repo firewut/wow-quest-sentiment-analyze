@@ -1,0 +1,9 @@
+{
+    "_id": "35782",
+    "added_in_patch": 6,
+    "description": "Say, while you're here would you mind helping me out with a major problem?The workers keep saying that they're seeing the ghost of the head arakkoa that used to be here.I don't believe it for a second but could you take my Ghostogrifier 12000 to her body and check?If they're not crazy, it'll prove it.",
+    "name": "I See Dead Arakkoa",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43462",
+    "added_in_patch": 7,
+    "description": "The fiendish imps in this region are an incessant pain on our allies defending the camps below.They are the spawn of a wicked imp-mother named Mother Ozram, who has been seen on a hill to the south.Destroy her, and we will end her brood as well.",
+    "name": "Mother Ozram",
+    "requires_level": 103,
+    "zone": "Paladin Campaign"
+}

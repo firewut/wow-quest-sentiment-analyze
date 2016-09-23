@@ -1,0 +1,8 @@
+{
+    "_id": "30248",
+    "added_in_patch": 5,
+    "description": "Scouts reports place the displaced Shao-Tien Imperion at the north end of the wall.Angi Autumnlight spelled out your goal in no uncertain terms: find this leader and kill him.",
+    "name": "The Butcher",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

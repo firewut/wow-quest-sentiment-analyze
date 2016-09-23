@@ -1,0 +1,7 @@
+{
+    "_id": "28488",
+    "description": "Among the other precious gemstones hidden deep out of our reach in the Crumbling Depths, there are enormous ruby crystal clusters. They are infused with terrible energy.It will not be easy to obtain such a thing, for they are well guarded. But you, you are stubborn and brave. I think this is something you can do.Within the Crumbling Depths, look to where the tunnels end abruptly in stone. The clusters are found in those passages when they are to be found at all. Should you find one, return to me.",
+    "name": "Beneath the Surface",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

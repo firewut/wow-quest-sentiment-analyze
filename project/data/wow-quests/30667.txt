@@ -1,0 +1,8 @@
+{
+    "_id": "30667",
+    "added_in_patch": 5,
+    "description": "When the crocs started attacking, they scared a bunch of the lories out of their nests, up in that island to our northwest.I can use those lories' feathers to make some specialized lures, which will come in handy if and when I get to stop defending my brethren from these reptiles.You up for some feather hunting?",
+    "name": "Particular Plumage",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

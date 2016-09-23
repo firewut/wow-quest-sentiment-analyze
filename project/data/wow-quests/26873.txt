@@ -1,0 +1,7 @@
+{
+    "_id": "26873",
+    "description": "There is an herb in these caverns that holds untold power, <name>. Perhaps you wish to help me collect it?It is a rare flower called Serpentbloom. I believe that in greater quantities it has the potential to prevent nightmares like Naralex's from ever occuring.Unfortunately, Serpentbloom can only be found in the darkest recesses of this place.",
+    "name": "Preemptive Methods",
+    "requires_level": 15,
+    "zone": "Wailing Caverns"
+}

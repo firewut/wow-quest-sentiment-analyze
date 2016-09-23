@@ -1,0 +1,7 @@
+{
+    "_id": "26124",
+    "description": "The Alliance has spies in this area?  Tenebrous Cavern is nearby, and inside lies the Horde's new submarine, the Verne!  The Alliance must not be allowed anywhere nearby!Someone in the cavern will want to hear of this incursion... after you finish slaying some more of these scheming Alliance spies.",
+    "name": "Secure Seabrush",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

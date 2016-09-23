@@ -1,0 +1,8 @@
+{
+    "_id": "32155",
+    "added_in_patch": 5.1,
+    "description": "It goes against me nature to break things on purpose, but in this case it's necessary.That rig the goblins are usin' is held together by a wish an' some bubblegum. We need to exploit the situation a little more.We have some saboteurs down there already, but we can use someone of your expertise to hurry the job along.Get down there an' start breakin' and stealin' some valves!",
+    "name": "Necessary Breaks",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

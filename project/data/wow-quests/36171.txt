@@ -1,0 +1,9 @@
+{
+    "_id": "36171",
+    "added_in_patch": 6,
+    "description": "The plants seem different today. Grass blades bend against the wind and catch on my boots. Twice this morning a tree branch struck my helmet as it fell.",
+    "name": "Botani Invasion!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

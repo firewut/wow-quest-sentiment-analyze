@@ -1,0 +1,8 @@
+{
+    "_id": "14004",
+    "description": "Well, that didn't work. The structural integrity of the samophlange is at an all-time low. I could add some more dials to try and fix it, but...that might make things even worse.Look what I discovered when I blocked the release valve and blew the cover off the differential casing, though: the personal stamp of \"Boss Copperplug.\"Take this back to Sputtervalve and tell him to find this Copperplug genius. When you're done here, just talk to me and I'll send you back using Brak's teleporter.",
+    "name": "Return to Samophlanger",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10011",
+    "description": "Gather your courage, <name>. You will need it if you are to face an overseer.Once you are ready, find and kill the overseers at each camp. Take their keys and use them to turn and fire the fel cannons upon the camps. Return to me once the camps are destroyed.",
+    "name": "Forge Camp: Annihilated",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

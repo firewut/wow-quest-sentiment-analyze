@@ -1,0 +1,7 @@
+{
+    "_id": "25637",
+    "description": "Fathom-Lord Zin'jatar has sent word that the Kvaldir leader has shown himself. I would like you to make your way to him at the far end of the terrace above us, on the middle level of the ruins: Nar'shola Terrace.Kill any Kvaldir that stand in your path on that terrace. We want the echoes of this defeat to ring in their minds so that they will dare not return to threaten our purpose here.Your devotion does not go unnoticed, my battlemaiden. Go knowing that you have my blessing.",
+    "name": "To the Fathom-Lord's Call",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28190",
+    "description": "This all started with Winna Hazzard. She was a forsaken apothecary at Bloodvenom Post, researching ways to use the demonic ooze here against the Alliance.We warned her she was going too far, but she didn't listen, and we did not act fast enough. Now her and everyone at Bloodvenom Post are nothing more than mindless slime creatures...The disgusting oozes she used for this still roam near the pools to the east and south. I beg you, <class>, destroy them so that others cannot commit such evil.",
+    "name": "The Tainted Ooze",
+    "requires_level": 45,
+    "zone": "Felwood"
+}

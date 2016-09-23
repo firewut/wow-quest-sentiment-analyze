@@ -1,0 +1,7 @@
+{
+    "_id": "24608",
+    "description": "I no longer care for honor or glory, <class>. All that matters to me is that the quilboar die, by any means, at anyone's hand.Mangletooth, the chief of these filthy Razormane, sits in his lair to the northwest, atop a hill. End his life.I plan to stay here, and pile these bodies until no more vermin run squealing from the Kraul to face me...",
+    "name": "Mangletooth",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44294",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Sekhan",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

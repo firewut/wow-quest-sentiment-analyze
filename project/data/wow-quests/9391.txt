@@ -1,0 +1,8 @@
+{
+    "_id": "9391",
+    "description": "With the rock flayer population thinned, all that's left is to signal the safe path to our pilgrims.  Return to the Great Fissure with this torch and seek the three beacons that mark the path from the east.Light the three beacons and return to me.  Be warned that the beacons will attract any nearby rock flayers when you first light them.",
+    "name": "Marking the Path",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

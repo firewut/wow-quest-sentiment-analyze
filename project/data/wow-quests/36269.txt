@@ -1,0 +1,9 @@
+{
+    "_id": "36269",
+    "added_in_patch": 6,
+    "description": "I shall now impart to you the finer points of creating hexcloth.The process is quite simple. It involves immersing carefully woven fur into the ichor drawn from Gorgrond Flytraps.Normally, you would need to harvest it yourself, but I actually managed to liberate some from the Shadowmoon during their last raid.You are welcome to use it.",
+    "name": "Hexcloth",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

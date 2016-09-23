@@ -1,0 +1,7 @@
+{
+    "_id": "14089",
+    "description": "This pamphlet advertising riding training and mount purchases was sent from Velma Warnam.Velma can be found at Brill in Tirisfal Glades.",
+    "name": "Learn to Ride in Tirisfal Glades",
+    "requires_level": 20,
+    "zone": "Tirisfal Glades"
+}

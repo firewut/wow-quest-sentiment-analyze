@@ -1,0 +1,9 @@
+{
+    "_id": "36457",
+    "added_in_patch": 6,
+    "description": "Oh, my goodness!This is a list of captives, it appears they may be awaiting transfer... or possibly even execution.There is one name on this list that I do recognize: my master!I have been awaiting his return, but now it appears that he may have fallen into enemy hands.This is a disaster! Please, <name>, we must rescue him.According to the notes, he has been taken to Grom'gar, located far east of here.One moment... I think I may have just the thing to help you break in undetected...",
+    "name": "Bypassing Security",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

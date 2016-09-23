@@ -1,0 +1,8 @@
+{
+    "_id": "14080",
+    "description": "The Kvaldir, fearsome vrykul raiders, have disrupted our shipments and murdered the tuskarr inhabitants of an island to the north, renaming it Hrothgar's Landing. If they are allowed to get a foothold there, there is no doubt that we will be their next target.The crusade's forces have their hands full dealing with the Scourge, and we must defend the tournament grounds. Fly north from the grounds until you reach the island and take on the Kvaldir before they can destroy anything else.",
+    "name": "Stop The Aggressors",
+    "requires_level": 77,
+    "side": "alliance",
+    "zone": "Tournament"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42447",
+    "added_in_patch": 7,
+    "description": "<The chieftain beckons for the ravenbears to gather the tribute and gestures toward the ritual circle outside.>\r\n\r\nCaw! Caw ca-caw!\r\n\r\n<It looks like he wants you to follow.>",
+    "name": "Dances With Ravenbears",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

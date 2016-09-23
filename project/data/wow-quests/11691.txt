@@ -1,0 +1,7 @@
+{
+    "_id": "11691",
+    "description": "I and my Shamans have gathered our powers for the coming battle with the Lord of Frost.  <name>, you will be the fist of the Earthmother.Take this magma totem.  Use it against the Ice Stone, to the northeast.  Ahune is channeling his power through this stone; it is our hope that the totem will disrupt him and cut off his link to the elemental planes.If fortune is with us, then, perhaps, we can defeat him.Prepare yourself, <name>.  If Ahune comes to face us, then his fury will be great.",
+    "name": "Summon Ahune",
+    "requires_level": 65,
+    "zone": "Midsummer"
+}

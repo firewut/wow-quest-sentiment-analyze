@@ -1,0 +1,8 @@
+{
+    "_id": "28582",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Jack Rockleg at Thorium Advance.SI:7 reports that the Dark Iron dwarves of the Searing Gorge seem to be preparing to attack. Your duty is to learn all you can about their scheming and put a halt to it.You can reach the Searing Gorge by following the road west from the Badlands.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Searing Gorge!",
+    "requires_level": 47,
+    "side": "alliance",
+    "zone": "Searing Gorge"
+}

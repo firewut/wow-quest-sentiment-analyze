@@ -1,0 +1,8 @@
+{
+    "_id": "33976",
+    "added_in_patch": 6,
+    "description": "I am too injured to fight, <class>. I have failed my city and its people. This battle is yours.Vorpil waits just ahead. He's trying to use Auch'naaru's powers for some sort of dark ritual.You must do what I could not. Cut Vorpil down and retrieve Auch'naaru so the Heart of Auchindoun can be whole once more!",
+    "name": "The Final Piece",
+    "requires_level": 95,
+    "zone": "Talador"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12617",
+    "description": "I am an embodiment of but one aspect of Freya, daughter of the titans.  I am the Lifewarden -- I was left here to protect this land against the threat of the Scourge.I never anticipated the Lich King would send willing living servants to do his work.I could easily crush these cultists myself, but I am all that stands between the undead armies and the rest of the basin.  Go, <name>.  Deliver my wrath to these insolent trespassers.",
+    "name": "Exterminate the Intruders",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40900",
+    "added_in_patch": 7,
+    "description": "Your assistance against the Dark Riders has proven a great service to the Light. Though our beliefs may separate us, I know that we share one goal.\r\n\r\nYou have allowed me to fill my purpose in returning these artifacts to their rightful owners, and for this I am thankful. As for the Scythe of Elune, I can think of no safer place than in your care. \r\n\r\nMay it serve you well against the Legion, <name>.",
+    "name": "The Burden Borne",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

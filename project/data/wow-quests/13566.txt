@@ -1,0 +1,7 @@
+{
+    "_id": "13566",
+    "description": "While we tend to Grimclaw, I would like you to peacefully gather some ritual materials for me from the nearby wildlife.I need whiskers from the moonstalkers to the west- pluck them from the sleeping ones and move away quickly.I need hair from the doe to the east, just avoid the stags.Finally, I need fur from the bears along the water to the northeast. Wait until they catch a fish, then get the sample quickly and get away before they finish eating.Please do not harm any of them.",
+    "name": "Ritual Materials",
+    "requires_level": 10,
+    "zone": "Darkshore"
+}

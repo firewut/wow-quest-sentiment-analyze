@@ -1,0 +1,8 @@
+{
+    "_id": "41787",
+    "added_in_patch": 7,
+    "description": "A confession alone won't be enough to clear my name. As long as those demons run amuck, people will blame their presence on me. \r\n\r\nSomeone needs to clean up the mess that warlock made. I'd do it myself, but I can't be placed at the scene of the crime.\r\n\r\nYou could banish them though. That would do the trick. Use this orb on newly summoned demons to send them right back where they came from - permanently!",
+    "name": "Someone Else's Mess",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

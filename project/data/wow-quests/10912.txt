@@ -1,0 +1,7 @@
+{
+    "_id": "10912",
+    "description": "Baelmon the Hound-Master must die!  He maintains the ritual that keeps the portal functioning.The Death's Door portal is located at the north end of the canyon.  When you find it, you will find Baelmon.You're going to need help on this one, so take this wand.  When you battle the Hound-Master, use it and a couple of my friends will come to your aid.After you have defeated Baelmon, return to Wildlord Antelarion.And, <name>, thank you for all that you've gone through for us here.",
+    "name": "The Hound-Master",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28261",
+    "description": "Now that you've had a lesson in keeping an open mind, perhaps you'd like to learn WHY I killed those druids.The answer is simple: They are not druids at all.Demons still roam the ruins, now hiding in plain sight in the guise of friendly caretakers. See for yourself...this blindfold is soaked in demon blood. Take it north up the hills to Jadefire Run and place it on your eyes. It will show even the most oblivious fool the true nature of any demon.",
+    "name": "Deceivers In Our Midst",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25264",
+    "description": "Since the last great war when the Burning Legion was defeated, I have searched for sources of demonic corruption in orc society.  The collar you brought me confirms my fears.It belongs to the Burning Blade.Your role in this tale is nearly complete, <name>.  Go to Far Watch Post, on the border of the Barrens to the west, and speak with my assistant, Ak'Zeloth.  Pass on to him this information.",
+    "name": "Ak'Zeloth",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

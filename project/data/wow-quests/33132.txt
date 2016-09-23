@@ -1,0 +1,9 @@
+{
+    "_id": "33132",
+    "added_in_patch": 6,
+    "description": "Snowpaw was able to help me to here so that I might strike against their leader, Guttra, but I have lost too much blood. My time is near.Do you have the strength to help me avenge my fallen brothers and sisters and kill Guttra Wolfchew?The monster resides in the tallest tower of Grimfrost.",
+    "name": "Gut Guttra",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

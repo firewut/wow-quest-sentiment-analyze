@@ -1,0 +1,7 @@
+{
+    "_id": "29054",
+    "description": "Greetings, <class>!  I hope Hallow's End is treating you well.  Bah, enough of the small talk... Let's get down to business.  Undercity.  They have employed Hags and foul magic to launch petty attacks on our town.  Some may say, ignore the childish Horde.  I say, let's show them!Speak to my sister, Gertrude, and she will send you on your way to toss some stink bombs in Undercity.",
+    "name": "Stink Bombs Away!",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "1581",
+    "description": "Our herb and alchemy shop is booming, but my husband spends so much time mixing potions that we never have time for each other.Can you help us?If you can bring me a supply of pre-made elixirs, then I would be happy to trade with you.  I have some rare herbs that you might find useful.",
+    "name": "Elixirs for the Bladeleafs",
+    "requires_level": 4,
+    "zone": "Alchemy"
+}

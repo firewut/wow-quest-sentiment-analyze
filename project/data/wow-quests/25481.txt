@@ -1,0 +1,7 @@
+{
+    "_id": "25481",
+    "description": "We are staging a relief effort at New Thalanaar for all of Thousand Needles. Seyala Nightwisp will lend you my hippogryph to safely get you there. Speak with Caryssia Moonhunter when you land.You must go quickly if lives are to be saved!",
+    "name": "To New Thalanaar",
+    "requires_level": 38,
+    "zone": "Feralas"
+}

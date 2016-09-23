@@ -1,0 +1,7 @@
+{
+    "_id": "9157",
+    "description": "Every year we, the denizens of Suncrown Village, would take part in a ritual to keep the different aspects of nature under our control.  Dominion over the element of water was symbolized by the summoning and enslavement of an elemental named Aquantion.  Through a wicked perversion of our magic, the scoundrel broke his bonds and enslaved us instead!We wore medallions shaped like waves during the ritual.  Seek them at the bottom of the lake; we'll need them to free my compatriots' spirits!",
+    "name": "Forgotten Rituals",
+    "requires_level": 9,
+    "zone": "Ghostlands"
+}

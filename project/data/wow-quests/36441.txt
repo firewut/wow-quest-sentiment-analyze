@@ -1,0 +1,9 @@
+{
+    "_id": "36441",
+    "added_in_patch": 6,
+    "description": "You are attracted by a low green glow to the container.  Inside there is a glowing bundle of herbs that was most likely stolen from the overgrowth below.It would be best to collect all of these so the saberon don't continue their dabbling in plant magic and irritating the nearby magnaron.",
+    "name": "Reclaiming Property",
+    "requires_level": 93,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34765",
+    "added_in_patch": 6,
+    "description": "So this gronn infestation ain't gonna solve itself. You're gonna have to show them who's boss, Horde style!With this many gronnlings around there is bound to be a full grown, big mama of a gronn. Find him... it... her... or whatever, and take it out, and the rest of those gronnlings might lose interest in our little operation here.",
+    "name": "The Den of Skog",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

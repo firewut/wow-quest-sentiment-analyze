@@ -1,0 +1,7 @@
+{
+    "_id": "34813",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Horde Workshop Tracking Event",
+    "zone": "Nagrand"
+}

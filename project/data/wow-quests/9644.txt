@@ -1,0 +1,7 @@
+{
+    "_id": "9644",
+    "description": "You fulfilled your end of the deal.  I will now bind your essence to that of the dead blue dragon.There is an urn in the Master's Terrace, should you touch that urn, you'll now release its energy and bring life back to the charred remains of Arcanagos.  Defeat the creature and retrieve its essence immediately!  You will need to take it to Alturus.Should you fail, the stars predict you will have let a great terror loose upon the skies.A terror known as Nightbane!",
+    "name": "Nightbane",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

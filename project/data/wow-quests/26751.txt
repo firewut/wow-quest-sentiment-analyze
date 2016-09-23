@@ -1,0 +1,7 @@
+{
+    "_id": "26751",
+    "description": "I understand you may be headed to Zul'Kunda soon.  While you are there, I have a small task for you.The trolls are outgrowing Stranglethorn.  The Bloodscalp in the West, the Skullsplitters in the East... they pour out of their ruins and into the jungle, disrupting the natural balance of the region.  It is time we restored that balance.Zul'Kunda is the Bloodscalp capital.  Inside you will find the most high-ranking Bloodscalps.  Reduce their numbers, then return to me.",
+    "name": "Population Con-Troll",
+    "requires_level": 25,
+    "zone": "Northern Stranglethorn"
+}

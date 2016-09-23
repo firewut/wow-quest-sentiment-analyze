@@ -1,0 +1,8 @@
+{
+    "_id": "10916",
+    "description": "Anchorite Barada plans to exorcise the corruption from Colonel Jules, and will require an assistant for the task.  Such an assistant must be prepared...I am ashamed to admit that my prayer beads were lost in Honor Hold's courtyard.  I believe the dog Fei Fei stole them and buried them, but I do not know where.  If you speak with his master, Warrant Officer Tracy Proudwell, perhaps she will know where Fei Fei hides his stolen treasures.",
+    "name": "Digging for Prayer Beads",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

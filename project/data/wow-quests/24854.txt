@@ -1,0 +1,7 @@
+{
+    "_id": "24854",
+    "description": "Zen'Aliri been studyin' the ways of the druid, <race>.  Hopefully one day, Zen'Aliri join the Druids of the Talon, and soar over this crater as a storm crow.But for now, my mentor says I stay here and wait.  So Zen'Aliri waits.I know another druid who might be able to use your help.  His name is Garl Stormclaw, and he's somewhere to the east of here, studying reagents.  Maybe you go talk to him?",
+    "name": "Finding Stormclaw",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

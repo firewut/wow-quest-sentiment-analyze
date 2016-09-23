@@ -1,0 +1,7 @@
+{
+    "_id": "28372",
+    "description": "All this happy friends stuff is great, isn't it? People working together, healing the forest. But what's gonna happen to the forest when it's healed? It's just gonna sit there?We need this lumber. The Horde needs it. I've got orders here to send as many loyal Horde soldiers--and I'm sure you're loyal--up north to Irontree Clearing.I've already arranged for the hippogryph master to give you a free ride over there. Talk to Darla Drilldozer when you touch down.",
+    "name": "Back to Business",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

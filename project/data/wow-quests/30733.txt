@@ -1,0 +1,8 @@
+{
+    "_id": "30733",
+    "added_in_patch": 5,
+    "description": "You are making a name for yourself, <name>. I received a challenge from one of our more skilled competitors. He believes you are not as strong as you seem.His name is Tukka-Tuk, the hozen. If you've ever fought against hozen before, you know that their apparent juvenility belies their battle acumen. Good luck.",
+    "name": "Tukka-Tuk",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

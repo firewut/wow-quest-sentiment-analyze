@@ -1,0 +1,7 @@
+{
+    "_id": "28191",
+    "description": "The Obsidian wyrmkin litter the landscape to our south. They're in no position to push back against us, but one can never tell what new threats the ebb of battle may bring.I want you to take the fight to the wyrmkin. Clear them out so that we may proceed with purging this land of the polluting presence of the black dragonflight.",
+    "name": "A Fitting End",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

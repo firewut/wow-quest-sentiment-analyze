@@ -1,0 +1,9 @@
+{
+    "_id": "34996",
+    "added_in_patch": 6,
+    "description": "The botani are infecting the local riverbeasts with some kind of strange flesh-eating plant.I fear this infection could spread to our people.If you see any infested riverbeasts, kill the blooming plants that inhabit their bodies... before they kill you.",
+    "name": "Rotting Riverbeasts",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

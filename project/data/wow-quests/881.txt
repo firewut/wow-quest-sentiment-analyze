@@ -1,0 +1,8 @@
+{
+    "_id": "881",
+    "description": "Whitemist, or 'Echeyakee' in the tauren tongue, is the king of the savannah cats. He hunts with such stealth, they say he's like a thin, white mist on the earth. He kills so fast his prey have no time for fear or pain.The tauren say he is both mercy and death.<name>, I now set you on the path to hunt Echeyakee. His lair is just northwest of here, on the north side of a small mountain, among the bones of giant Kodo.Go. Blow this horn when you reach his lair. Blow the horn, and he will come.",
+    "name": "Echeyakee",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

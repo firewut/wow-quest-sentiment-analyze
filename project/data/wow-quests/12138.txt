@@ -1,0 +1,7 @@
+{
+    "_id": "12138",
+    "description": "You'd think the guys making the power cells would've thought to power them up, but no, they've got to make it difficult for us.Fine, we'll charge those cells the hard way. There's enough power in them to run the golem for a short time, but don't expect it to be any good in combat.You see the lightning sentries that the irons have posted around the perimeter of Dun Argol? Bring the golem with you, take it close to them, and use the golem to absorb the power as the sentries die.",
+    "name": "... Or Maybe We Don't",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

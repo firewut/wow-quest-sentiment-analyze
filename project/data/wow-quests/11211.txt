@@ -1,0 +1,7 @@
+{
+    "_id": "11211",
+    "description": "When that goblin... what's her name... Boxie, Foxy... Moxie, that's it! Anyway, when she came through here on her way to the zeppelin wreck, she said the town of Mudsprocket was having some problems.That crashed zeppelin was bringing them fresh supplies. If you follow the road south from here, past the Stonemaul Ruins, you'll eventually come to Mudsprocket.Why don't you check in with Drazzit Dripvalve down there and see if there's anything you can do to help?",
+    "name": "Help for Mudsprocket",
+    "requires_level": 38,
+    "zone": "Dustwallow Marsh"
+}

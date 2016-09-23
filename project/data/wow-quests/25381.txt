@@ -1,0 +1,7 @@
+{
+    "_id": "25381",
+    "description": "The inferno raging up ahead marks the front line between us and the forces of the Fire Lord. The fire elementals unleashed here are unlike any I've ever encountered.Can you help us stem the tide of destruction? Slay the raging firestorms... before they engulf Aessina's Grove and erase all hope of someday reclaiming this mountain!",
+    "name": "Fighting Fire With ... Anything",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

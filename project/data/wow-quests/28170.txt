@@ -1,0 +1,7 @@
+{
+    "_id": "28170",
+    "description": "Me friend Uchek is in de cave already. We set up three shrines inside. All you gotta do is flush out de bad juju from each one, mon.Go inside de cave here and talk to Uchek. He put you in a trance, put you in de spirit realm. Tread carefully! If you see a ghostly beast, you don't be panicking. Shine de Light of Souls on de beast for a moment or two, and de light will send 'em away for good. De light will keep you safe. Now go cleanse de three shrines!",
+    "name": "Night Terrors",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

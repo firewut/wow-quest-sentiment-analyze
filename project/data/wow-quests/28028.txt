@@ -1,0 +1,7 @@
+{
+    "_id": "28028",
+    "description": "That Overseer Oilfist couldn't'a picked a worse time to ask me to join a fight.  My summit's already under siege!It's nothin' my guards can't handle, but still, it won't be easy for me to just pick up and send some dwarves into that infernal gorge.Tell ya what: you take out their marksmen that're holding our fortress under siege, and I'll consider your offer.  Ye'll find 'em slinkin' around the flats to the east.",
+    "name": "Siege!",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

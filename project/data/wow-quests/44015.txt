@@ -1,0 +1,8 @@
+{
+    "_id": "44015",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Mal'Dreth the Corruptor",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

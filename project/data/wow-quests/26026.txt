@@ -1,0 +1,8 @@
+{
+    "_id": "26026",
+    "description": "Mr. D is sick,  mister. Won't you help him? All you have to do is find his hat and batteries and he'll be all better. I'd go get them myself, but I can't leave Mr. D alone!His hat was stolen by the meanies in the Venture Co. over at the water wheel and his batteries are hidden around Windshear Crag. You'll just have to look real hard for those!Would you kindly bring Mr. D's stuff back so he can teach those baddies in the Alliance a lesson?",
+    "name": "Dream of a Better Tomorrow",
+    "requires_level": 24,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

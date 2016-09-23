@@ -1,0 +1,7 @@
+{
+    "_id": "26826",
+    "description": "Hey - you must be that  fella' that Wulfred was talkin' about!  Welcome to the digsite, <name>.We were actually just starting a project when you arrived.  Would you mind bringing this sample over to Dask?  I need him to help me find out how old it is.",
+    "name": "Dask \"The Flask\" Gobfizzle",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

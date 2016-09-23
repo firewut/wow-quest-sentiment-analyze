@@ -1,0 +1,7 @@
+{
+    "_id": "28704",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Sassy Hardwrench at Hardwrench Hideaway. She requires your help to deal with the pirates and naga who have overrun the jungle.Travel to Hardwrench Hideaway by heading south from Northern Stranglethorn and looking for the town southwest of the Gurubashi Arena.Destiny calls!",
+    "name": "Warchief's Command: The Cape of Stranglethorn!",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

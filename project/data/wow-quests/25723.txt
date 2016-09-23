@@ -1,0 +1,8 @@
+{
+    "_id": "25723",
+    "description": "The local wildlife's all messed up from the flood, it seems. This fen used to be full of crocolisks, but I haven't spotted a single one.What I have spotted are threshadons. Never used to be any here, so the flood must've swept them all right out of Loch Modan.Lucky for us, because they're tastier than crocolisks, and I'm running low on provisions. Bring me back some threshadon meat for the camp, and I'll gladly pay you for it.",
+    "name": "Thresh Out of Luck",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

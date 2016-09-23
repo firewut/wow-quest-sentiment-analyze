@@ -1,0 +1,7 @@
+{
+    "_id": "28456",
+    "description": "While the Blackrock orcs still swarm in their spire, I doubt their plans will take them anywhere near the innocent people of Redridge anytime soon.  You and Ariok saw to that.I'd say we were fairly resourceful here in Burning Steppes - those warlock supplies we collected certainly came in handy, as did the obsidian ash that we used to conceal our dragon.There were, however, some collected items left over.  Please, take your pick before you move on, beyond the steppes.",
+    "name": "The Spoils of War",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

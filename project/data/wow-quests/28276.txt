@@ -1,0 +1,7 @@
+{
+    "_id": "28276",
+    "description": "Listen, <name>.  Before you give up on me, there's something I'd like to show you.You see, I'm not much of a fighter.  I'm not very coordinated.I'm more of a tactical mind.Meet me at the southern end of the ridge and I'll show you.",
+    "name": "Salhet's Secret",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

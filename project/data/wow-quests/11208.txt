@@ -1,0 +1,7 @@
+{
+    "_id": "11208",
+    "description": "Drazzit will expect to hear something from me soon, but I don't think the site is secure enough for me to leave. If you have time, would you be willing to take some of the salvaged cargo down to him at Mudsprocket?If you haven't been there yet, it's a small settlement to the southwest of here, beyond the Stonemaul Ruins. You can take the road there from Tabetha's Farm, too. When you get to Mudsprocket, the guy you're looking for is Drazzit Dripvalve.",
+    "name": "Delivery for Drazzit",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

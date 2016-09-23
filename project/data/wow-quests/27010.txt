@@ -1,0 +1,7 @@
+{
+    "_id": "27010",
+    "description": "The troggs in Deepholm have proven to be every bit as hostile as the ones in Azeroth.  Yet perhaps their presence will prove useful to our efforts.The crates they use for trawling through the mercury will conceal you perfectly if you submerge yourself beneath the marsh.Use it to approach the Twilight's Hammer camp in the eastern end of the Upper Silvermarsh undetected.",
+    "name": "Quicksilver Submersion",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

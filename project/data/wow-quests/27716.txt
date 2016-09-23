@@ -1,0 +1,7 @@
+{
+    "_id": "27716",
+    "description": "<An ancient, slightly cracked slab of stone with an immense number of inscriptions etched on all sides of it. You're unable to decipher the language, but the sheer amount of text and the semi-ornate nature of the stone suggest that this might carry significant value.><Levia Dreamwaker, back with the Nespirah survivors, was looking for something exactly like this.>",
+    "name": "Piece of the Past",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

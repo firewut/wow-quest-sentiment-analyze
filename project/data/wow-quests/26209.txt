@@ -1,0 +1,8 @@
+{
+    "_id": "26209",
+    "description": "Here's the deal, kid, we've got a full-blown murder on our hands. Double homicide... Single horse... icide.Worse yet, we're in Westfall. I could throw a rock behind me and hit a dozen hobos with motive enough to want to wipe these people (and horse) out.Now I don't know who did this and I sure don't appreciate having to come to this dump to investigate the deaths of a couple of squatters, but I'll be damned if I don't find the perp. You want to help? Go talk to some bums. The hobo... knows.",
+    "name": "Murder Was The Case That They Gave Me",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

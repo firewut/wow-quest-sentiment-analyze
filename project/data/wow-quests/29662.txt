@@ -1,0 +1,8 @@
+{
+    "_id": "29662",
+    "added_in_patch": 5,
+    "description": "Gather me reeds from the nearby pools.Do not question why. Do, and then observe the results.",
+    "name": "Stronger Than Reeds",
+    "requires_level": 4,
+    "zone": "The Wandering Isle"
+}

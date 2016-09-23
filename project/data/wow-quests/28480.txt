@@ -1,0 +1,7 @@
+{
+    "_id": "28480",
+    "description": "The armies of Ramkahen are getting obliterated by Neferset's immortal guardians.The only way to defeat them is to slay the Dark Pharaoh of Neferset.Before we make our move, however, we're going to need to take care of his lieutenants.Go behind the battle-lines and slay Scorpion-Lord Namkhare and High Priest Sekhemet.  Only then will we be ready to confront the Dark Pharaoh himself.",
+    "name": "Lieutenants of Darkness",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

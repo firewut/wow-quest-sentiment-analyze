@@ -1,0 +1,8 @@
+{
+    "_id": "39948",
+    "added_in_patch": 7,
+    "description": "<name>, I need you to make a quick delivery for me.Yes, I've learned by now that such trivial tasks are beneath your skills... but I'm rather busy right now and we both know my time is much more important than yours.Deliver these contracts to Raethan, the Guard Captain in Dalaran's Underbelly.",
+    "name": "The Ink Flows",
+    "requires_level": 106,
+    "zone": "Inscription"
+}

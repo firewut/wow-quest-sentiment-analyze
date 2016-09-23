@@ -1,0 +1,7 @@
+{
+    "_id": "26957",
+    "description": "I've been many places in my life, good <class>.  I fought the battle for Ahn'Qiraj, passed through the Dark Portal into Outland, and joined the Argent Crusade to beat down Scourge in coldest Northrend.But before it all, I was a farmer here in Lordaeron.  Now I find myself here in Hearthglen, a scant few miles from home.  It's time I paid my respects.I'm headed to the Menders' Stead before I return home.  I wouldn't mind meeting up with you again once I get there.",
+    "name": "The Long Trip Home",
+    "requires_level": 36,
+    "zone": "Western Plaguelands"
+}

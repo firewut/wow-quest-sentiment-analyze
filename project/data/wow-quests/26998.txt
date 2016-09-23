@@ -1,0 +1,8 @@
+{
+    "_id": "26998",
+    "description": "The concoction is finally ready, but before I can put my seal of approval on this strain, we'll need to run a field test.Speak to Bat Handler Maggotbreath, here at High Command, and requisition a bat. The bat will take you to the Dawning Isles, east of here across Lordamere Lake, right into the heart of depravity itself - the Vile Fin murloc dens!Use the concoction against the murlocs and report the results back to me.Those results being that you killed them all, as commanded!",
+    "name": "Iterating Upon Success",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11358",
+    "description": "If we can locate what's luring the giants northwest, we might be able to stop them before they reach their destination.Although I was able to decipher many of the runes on the samples you brought me, the ones I don't know concern me the most. When I visited Giants' Run, I noticed a large broken tablet jutting from the ground where the northeastern part of the area met the snow at the foot of Frostblade Peak. Take this sample, compare the runes with the tablet, and see what you can learn.",
+    "name": "The Lodestone",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

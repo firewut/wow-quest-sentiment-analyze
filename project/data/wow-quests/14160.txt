@@ -1,0 +1,7 @@
+{
+    "_id": "14160",
+    "description": "This fine parchment lists a great many accomplishments, achieved by <name>, in the tradition of jewelcrafting.Return this writ to Timothy Jones in Dalaran for a proper reward.",
+    "name": "Writ of Merit",
+    "requires_level": 1,
+    "zone": "Jewelcrafting"
+}

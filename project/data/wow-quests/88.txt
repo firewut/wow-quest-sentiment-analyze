@@ -1,0 +1,8 @@
+{
+    "_id": "88",
+    "description": "The Brackwells have a prize-winning pig, Princess. The sow is HUGE, and she got that way from sneaking over here and eating my veggies!It just so happens that she's here now! Princess must die! Bring me her collar as proof of the deed and I'll give you something for your time!You'll find Princess smack dab in the middle of our watermelon patch. Get her!",
+    "name": "Princess Must Die!",
+    "requires_level": 6,
+    "side": "alliance",
+    "zone": "Elwynn Forest"
+}

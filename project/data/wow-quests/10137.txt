@@ -1,0 +1,7 @@
+{
+    "_id": "10137",
+    "description": "The plan succeeds or fails on how well these explosives are made...As much as I'd hate to rely on anything made by an orc, it's my only real chance to get out of here. Take this and throw it against the banner hanging from the tower up there.Once it explodes, Warboss Nekrogg won't be able to resist the chance to make an example of the troublemaker. Kill him, take the key, and then open my cage. Good luck, <name>.",
+    "name": "Provoking the Warboss",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34092",
+    "added_in_patch": 6,
+    "description": "We've identified the location of Teron'gor's compound, but his forces are already far stronger than anything we've ever faced. We need to gain an edge, and quickly.The cursed spirits of the Ango'rosh ogres, our ancient enemies, linger in nearby ruins. Go there and gather the Ango'rosh Spellbook and the Grimoire of Binding.Perform the ritual described within at their altar to lift their curse and seek their aid.It's a long shot, but we don't have any other options.",
+    "name": "Desperate Measures",
+    "requires_level": 95,
+    "zone": "Talador"
+}

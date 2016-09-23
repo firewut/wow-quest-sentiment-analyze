@@ -1,0 +1,8 @@
+{
+    "_id": "44076",
+    "added_in_patch": 7,
+    "description": "My child, I can think of only one place to capture the essence of regrowth.Deep within Darkheart Thicket is Oakheart, a loyal ancient defender of the grove. He has recently fallen to the Nightmare's corruption, but deep within his heart, he still fights.Gather the essence of this great tree, so that his everliving soul may be used to fuel new life.",
+    "name": "Essence of Regrowth",
+    "requires_level": 103,
+    "zone": "Druid Campaign"
+}

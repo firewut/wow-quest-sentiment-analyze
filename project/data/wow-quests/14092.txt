@@ -1,0 +1,8 @@
+{
+    "_id": "14092",
+    "description": "Now that the coliseum is complete, the Argent Crusade has asked us to help look after the creatures that champions will be fighting.The giant jormungar have perhaps the strangest diet; they grow strong by eating the eggs of their own kind and the best eggs come from deep jormungar.Take this drum to the Foot Steppes in central Storm Peaks and play them near the snow mounds you see there. The sound will rouse the deep jormungar. Kill them, collect their egg sacs, and return to the tournament grounds.",
+    "name": "Breakfast Of Champions",
+    "requires_level": 77,
+    "side": "horde",
+    "zone": "Tournament"
+}

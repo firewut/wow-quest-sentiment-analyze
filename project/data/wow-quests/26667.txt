@@ -1,0 +1,8 @@
+{
+    "_id": "26667",
+    "description": "You want to know about Stalvan...You're not the first, you know. We get outsiders coming through asking about him every so often. Always outsiders. Everyone who lives here knows better.You're out of luck, anyway. I'm missing half the archives. Feral worgen broke into the town hall not a few nights ago and tore the place to shreds.The documents you'll want are probably strewn all across Brightwood Grove by now, deep in the woods to the west. Not worth it if you ask me.",
+    "name": "The Stolen Letters",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

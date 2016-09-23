@@ -1,0 +1,8 @@
+{
+    "_id": "33930",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Saberon Stash",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

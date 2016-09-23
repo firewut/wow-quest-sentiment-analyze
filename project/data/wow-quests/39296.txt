@@ -1,0 +1,8 @@
+{
+    "_id": "39296",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Crystal Fissure Treasure",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32137",
+    "added_in_patch": 5.1,
+    "description": "I've never seen this quality of oil! Problem is the oil needed a little extra refinin'.I heard of this system where you use ocean water to speed up the process. I don't have time to waste down here, so I just threw the barrels into the bay.Pretty good idea, I know. Problem is, I'm not sure how to pull it out of the bay...Maybe someone of your expertise could help me out.",
+    "name": "Runnin' On Empty",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

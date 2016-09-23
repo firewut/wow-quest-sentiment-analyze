@@ -1,0 +1,8 @@
+{
+    "_id": "38910",
+    "added_in_patch": 7,
+    "description": "High Crawliac has taught her witches how to curse our beloved eagles into the vile rocs you see assaulting the valley.There is no way to break this curse once it has taken hold.We will take to the skies and do battle with the rocs, but we need your help on the ground.Head north through Darkfeather Valley and release any eagles that you find.Every eagle you save is one less roc we must kill later.",
+    "name": "Rocs vs Eagles",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

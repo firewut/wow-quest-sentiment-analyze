@@ -1,0 +1,8 @@
+{
+    "_id": "35037",
+    "added_in_patch": 6,
+    "description": "Screams and growls echo from the canyon below - even more than usual.I don't dare leave Nisha here alone yet.Will you investigate those noises, <name>?",
+    "name": "Bad at Breaking",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

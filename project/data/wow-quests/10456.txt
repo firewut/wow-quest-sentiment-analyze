@@ -1,0 +1,7 @@
+{
+    "_id": "10456",
+    "description": "The filthy races of the Horde have taken over a settlement to the east.  They've brought with them a large pack of the dire wolves that they prefer to use as mounts and sentries.These sentries have been marauding across the bridge that separates us.  They've been stalking our fey drakes, which are critical to the pollination of the Living Grove.Use the east exit to traverse the bridge over Bloodmaul Ravine that leads to the Jagged Ridge to the east, and bring me their tails as proof!",
+    "name": "Marauding Wolves",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25317",
+    "description": "<Ysera's eyes look distant, as if not fully acknowledging you.>I feel it as well, <class>. Ragnaros has arrived.We must defeat his minions before he can join them and lend them his strength.Seek Malfurion Stormrage at the Tranquil Grove, west of here, and aid his forces in any way you can.I must seek answers from within the Emerald Dream.  You must protect the World Tree until I return.",
+    "name": "Protect the World Tree",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

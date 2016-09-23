@@ -1,0 +1,9 @@
+{
+    "_id": "35005",
+    "added_in_patch": 6,
+    "description": "There's nowhere to hide up here. We need to keep moving, and to do that, we need to pass right through the heart of the Iron Horde.It's time to turn this unarmed group of prisoners into an army.",
+    "name": "Prepare for Battle",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Assault on the Dark Portal"
+}

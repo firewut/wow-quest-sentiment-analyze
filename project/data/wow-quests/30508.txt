@@ -1,0 +1,9 @@
+{
+    "_id": "30508",
+    "added_in_patch": 5,
+    "description": "It would seem that your Admiral Taylor has awakened from his injuries. He and his people are upstairs.He has requested your presence.",
+    "name": "Admiral Taylor has Awakened",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

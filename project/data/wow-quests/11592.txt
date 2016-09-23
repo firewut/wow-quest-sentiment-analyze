@@ -1,0 +1,7 @@
+{
+    "_id": "11592",
+    "description": "One of your orcs named Steeljaw tried to save some time by taking a shortcut through our burial grounds. This had better not be how your Horde normally acts, <race>, or you will find the taunka to be the end of you!But, you look as if you want to help fix this situation. Good!Steeljaw's cursed spirit now haunts this place and disturbs the remains of my ancestors. We must put an end to him!If we live through this, tell your Overlord Bor'gorok at the outpost to the north.Are you with me?",
+    "name": "We Strike!",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

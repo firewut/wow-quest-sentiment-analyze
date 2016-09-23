@@ -1,0 +1,7 @@
+{
+    "_id": "27941",
+    "description": "We have a strict policy among our ranks, one that we take most seriously.Our troops are to dress in official uniform at all times. This helps with organization, friendly fire incidents are reduced, and it keeps the troops looking wonderful!We call it, Fashionism.We've been running low on uniforms lately. I must ask that you recover them from the troopers that have fallen in the line of duty.You should find plenty of the poor fellows east of here, at the Ruins of Ammon.",
+    "name": "Fashionism",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

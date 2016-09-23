@@ -1,0 +1,8 @@
+{
+    "_id": "14403",
+    "description": "The Hayward Fishery can be found far to the south.  The Hayward brothers have been running it for years.They don't make it to town very often, except to trade their fish.  Send word to them that the evacuation is underway.",
+    "name": "The Hayward Brothers",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

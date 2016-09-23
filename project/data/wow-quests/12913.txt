@@ -1,0 +1,7 @@
+{
+    "_id": "12913",
+    "description": "<Brann begins gesticulating wildly and rambling in his native language.>Ruk MogOth red a mogoth ta eft Thros-garE Haldir.Kha gor ruk khaz ta ke ruk hrim eft thros-am-kha ruk kost-um havar go kost.A modoss hine ruk bergum eft thros-am-kha ga eft Haldir ke loch Thon we lo gefrunon ta mitta. Gar Ruk dagUm loch angor-magi ta har ruk!<After a few moments, you realize the conversation is going nowhere. Perhaps the shaman, Moteha Windborn, at the Grom'arsh Crash-Site will know what to do.>",
+    "name": "Speak Orcish, Man!",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

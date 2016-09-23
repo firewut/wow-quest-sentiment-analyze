@@ -1,0 +1,9 @@
+{
+    "_id": "29892",
+    "added_in_patch": 5,
+    "description": "A brew's body is an important and often overlooked factor.To create the perfect consistency, I will need pristine eyes from the Bog Crocolisks to the east.Take care. The creatures are quite vicious.",
+    "name": "Body",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

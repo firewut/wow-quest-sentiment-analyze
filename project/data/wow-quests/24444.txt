@@ -1,0 +1,7 @@
+{
+    "_id": "24444",
+    "description": "The quilboar have not only razed our buildings, but have taken tauren captives. I saw them take Miira Thunderhoof, a young shaman trainer of ours, away in one of their foul cages.  Please, find a key on one of the quilboar's bodies and go save her!\r\n",
+    "name": "The Captured Shaman",
+    "requires_level": 1,
+    "zone": "Mulgore"
+}

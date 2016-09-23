@@ -1,0 +1,9 @@
+{
+    "_id": "36950",
+    "added_in_patch": 6,
+    "description": "The wolves of this land have jaws of steel. It is no wonder that the orcs have taken them as their own.Yet, deep in Nagrand, there are young wolves, ripe for taming. They will present a great challenge to you, as they are more fast and agile than any beast in this land.Here is your final rope, may luck be with you.",
+    "name": "Wrangling a Wolf",
+    "requires_level": 99,
+    "side": "horde",
+    "zone": "Nagrand"
+}

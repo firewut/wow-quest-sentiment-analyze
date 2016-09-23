@@ -1,0 +1,8 @@
+{
+    "_id": "35007",
+    "added_in_patch": 6,
+    "description": "Our dear brother Sekara went to the Ravenskar with some of the flock to enact the great ritual of purification.No one has been sent back to the nest for supplies in the past day; caught up in prayers I suppose.I would go check on him but I need to make sure the scribe didn't mess up her transcription of my latest sermon. Could you do it? I'll be there in... well, who knows...",
+    "name": "Rendezvous with the Ritualists",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

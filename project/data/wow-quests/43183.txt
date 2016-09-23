@@ -1,0 +1,8 @@
+{
+    "_id": "43183",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Warden Tower Assault: Starstalker's Point",
+    "requires_level": 110,
+    "zone": "Val'sharah"
+}

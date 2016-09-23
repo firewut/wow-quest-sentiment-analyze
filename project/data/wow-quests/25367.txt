@@ -1,0 +1,7 @@
+{
+    "_id": "25367",
+    "description": "From what scouting we have managed to muster, we believe that the foe south of the gnolls is an insect-like race.  Frankly, it is irrelevant whether or not they're sentient.  If they are driving the gnolls to frenzy against us, then they are as big of a threat - if not more - than the gnolls.Dive deep into where these Zukk'ash insects dwell; it is known as the Writhing Deep.  Thin their numbers and report back to me what you find, bringing back their carapaces as evidence of your handiwork.",
+    "name": "Zukk'ash Infestation",
+    "requires_level": 36,
+    "zone": "Feralas"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14295",
+    "description": "Two Naga witches have been masterminding the assault on this outpost. They've repelled direct attacks from some of my best grunts, but you can finish the job where others have failed.Seek out and slay Lady Silisthra and Lady Vesthra at the eastern edge of the cliffs, around the ruins of the ancient night elven colossus. You will first need to destroy the powerstones that give them their strength. Do not disappoint me, <class>!",
+    "name": "Sisters of the Sea",
+    "requires_level": 11,
+    "zone": "Azshara"
+}

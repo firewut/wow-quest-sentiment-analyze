@@ -1,0 +1,8 @@
+{
+    "_id": "31919",
+    "added_in_patch": 5,
+    "description": "You've bested the master tamers of Kalimdor and the Eastern Kingdoms, but your next challenge will be far more trying.There are four tamers in Outland that you must now defeat: Nicki Tinytech in Hellfire Peninsula, Ras'an in Zangarmarsh, Narrok in Nagrand, and Morulu the Elder in Shattrath.You must defeat them to proceed on the path to greatness.",
+    "name": "Battle Pet Tamers: Outland",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

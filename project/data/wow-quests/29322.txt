@@ -1,0 +1,8 @@
+{
+    "_id": "29322",
+    "description": "It takes a special sort of fisherman to reap the bounty of Undercity's burbling slime troughs. Think you can handle gathering some of the squirming, sentient slime mold slithering about down there?You can try to fish them up, but they're wily; you might be better off just diving into the ooze and grabbing them.Remember, they're only useful alive and intact... who'd want to eat a dead slime mold?! Disgusting.",
+    "name": "Time for Slime",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Fishing"
+}

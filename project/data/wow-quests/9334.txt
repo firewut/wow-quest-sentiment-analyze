@@ -1,0 +1,7 @@
+{
+    "_id": "9334",
+    "description": "",
+    "name": "Blessed Wizard Oil",
+    "requires_level": 50,
+    "zone": "Quests"
+}

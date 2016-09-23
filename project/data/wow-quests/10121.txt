@@ -1,0 +1,8 @@
+{
+    "_id": "10121",
+    "description": "Though this land is full of strange new enemies, the Burning Legion is still the greatest threat to our Expedition. One of my most trusted warriors, Sergeant Shatterskull, has been studying the Legion's tactics - trying to discern the demons' true purpose in this land. Seek him out at the supply caravan just outside the southern wall.And <name> - be wary of the Legion. Their evil cannot be underestimated.",
+    "name": "Eradicate the Burning Legion",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

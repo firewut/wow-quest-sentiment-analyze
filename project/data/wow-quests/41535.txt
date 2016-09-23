@@ -1,0 +1,8 @@
+{
+    "_id": "41535",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Prickly Fjarnskaggl",
+    "requires_level": 110,
+    "zone": "Herbalism"
+}

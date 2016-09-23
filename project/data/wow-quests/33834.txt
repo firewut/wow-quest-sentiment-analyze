@@ -1,0 +1,9 @@
+{
+    "_id": "33834",
+    "added_in_patch": 6,
+    "description": "Posted by: DyunaA vicious queen swamplighter has made the northern forests of Shadowmoon its home.Unfortunately, this poisonous pest terrorizes the forest between Embaari Village and Shattrath. As local traders put their lives at risk, prices of goods will continue to rise.Anyone who can put an end to the beast should detach its stinger as proof and bring it to Dyuna in Embaari Village. The merchant traders will reward generously.",
+    "name": "Wanted: Kliaa's Stinger",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

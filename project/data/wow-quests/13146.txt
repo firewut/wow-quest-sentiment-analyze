@@ -1,0 +1,7 @@
+{
+    "_id": "13146",
+    "description": "We need to cause some disruption to bring those death knights away from their leaders. If we lay waste to their minions below, I suspect they'll have to devote more attention to keeping a close eye on operations.Abominations are easy prey - slow, predictable, and most importantly, stupid. Take advantage of their trust of the stalkers to drag them near some of the Scourge bombs scattered throughout the construction area. You'll be able to light the bombs far before they figure out what's going on.",
+    "name": "Generosity Abounds",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

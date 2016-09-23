@@ -1,0 +1,7 @@
+{
+    "_id": "11948",
+    "description": "We must act to preserve the balance! Time is against us.Neptulon has long had a base of operations on an island in western Stranglethorn. There, the Twilight Cult has set up ice stones to communicate with the Tidehunter's realm, much like they do in Silithus. Much as I am loath to do this, the spirits will understand - you must summon one of this Ahune's lieutenants and destroy it. Perhaps this forestalling action will be enough...",
+    "name": "Striking Back",
+    "requires_level": 39,
+    "zone": "Midsummer"
+}

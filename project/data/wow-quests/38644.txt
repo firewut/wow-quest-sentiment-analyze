@@ -1,0 +1,8 @@
+{
+    "_id": "38644",
+    "added_in_patch": 7,
+    "description": "Forgive us, stranger. Mayor Heathrow has been under a lot of stress recently.I can't blame him: his own daughter, Penelope, has been missing for two days.In fact, we could use information on several farmsteads to the south: Mayor Heathrow's house, Granny Marl's farm, and the Radcliffes' dock. Can you go check on the situation out there?Help us, and perhaps the mayor's heart will soften.",
+    "name": "The Farmsteads",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

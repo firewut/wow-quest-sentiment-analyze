@@ -1,0 +1,8 @@
+{
+    "_id": "37164",
+    "added_in_patch": 6,
+    "description": "I do not wish to come out of the shadows, but I mean you no harm. My purpose here is my own secret to keep, I simply needed a warm place to bed down for the night.I can see that you are not the type to be easily swayed into leaving. Very well, perhaps you can aid me in my search.I am looking for someone, it is not important who. All you need to know is that I will reward you for any sign of high elven weaponry that you should come across.",
+    "name": "The Huntresses",
+    "requires_level": 100,
+    "zone": "Shadowmoon Burial Grounds"
+}

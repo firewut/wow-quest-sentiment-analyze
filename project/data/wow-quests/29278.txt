@@ -1,0 +1,7 @@
+{
+    "_id": "29278",
+    "description": "Have you seen those fireballs falling out of the sky? I saw one crash in the fields to the north, and the rock that landed was made of pure Living Obsidium!I can use the material to craft ultra-sturdy heat proof armor and weapons for our troops. Can you bring me a lode?Go to the Magma Springs and touch one of the magnetic stones. Just watch where you're standing when the rain of fire hits, and gather up the rocks before they crumble from the impact.",
+    "name": "Living Obsidium",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

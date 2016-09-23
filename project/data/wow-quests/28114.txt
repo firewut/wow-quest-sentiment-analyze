@@ -1,0 +1,7 @@
+{
+    "_id": "28114",
+    "description": "Directly southeast of Southpoint Gate you will find our spider domestication operations. Through the years we have grown a kinship with the spiders of Hillsbrad and have managed to domesticate and breed the adorable little critters. Spiders now serve us as regular household pets and beasts of battle! Such diverse creatures they are!I need you to head into the fields to the southeast and carefully harvest the eggs that we have incubating on the bears. Deliver the harvest to Sarus at the mine.",
+    "name": "Glorious Harvest",
+    "requires_level": 19,
+    "zone": "Hillsbrad Foothills"
+}

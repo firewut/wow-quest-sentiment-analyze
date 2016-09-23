@@ -1,0 +1,7 @@
+{
+    "_id": "11306",
+    "description": "You've done well so far, <name>.  I'd like to teach you some of my more advanced techniques, so that you gain a better understanding of the plague.Take this empty flask and fill it with blood from the cauldron to my left.  Mix it with the plague samples to my right until you obtain a well balanced mix.",
+    "name": "Apply Heat and Stir",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

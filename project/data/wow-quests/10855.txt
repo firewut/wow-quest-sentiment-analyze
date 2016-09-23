@@ -1,0 +1,7 @@
+{
+    "_id": "10855",
+    "description": "Ah, yes - the fel reaver!  Certainly the Legion's most terrible mechanical creation.  There are no less than three of these abominations aimed at the Stormspire.Fortunately for us, they are not active yet.  This affords us the possibility of dealing with them through sabotage instead of brute force.Obtain condensed nether gas from the gan'arg at Forge Base: Oblivion and fill a nearby fel reaver's fuel tank with it.  I've a feeling its engine won't handle it too well.",
+    "name": "Fel Reavers, No Thanks!",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

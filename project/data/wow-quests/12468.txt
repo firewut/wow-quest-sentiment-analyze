@@ -1,0 +1,8 @@
+{
+    "_id": "12468",
+    "description": "The Horde is a magnificent war machine and you are nothing but a cog.I am in charge of securing fuel for this machine.  If I fail, the machine fails.Lumber, ore, water... it's all here and we want it.  And so does the Alliance.Before we can move against the human scum, we need to solidify our control over the western region.Speak to Sergeant Nazgrim about eradicating the vrykul in Voldrune and then maybe - if you turn out to not be a complete failure - we'll send you on further tasks.",
+    "name": "The Conqueror's Task",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

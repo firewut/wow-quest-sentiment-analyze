@@ -1,0 +1,7 @@
+{
+    "_id": "10664",
+    "description": "The ingots that you brought contain most of the metal I'll need to forge the sword's blade, but I'll need a variety of things to create other parts of the weapon.Let's see, among the things I don't have here are an adamantite frame, some heavy knothide leather, and a demon warding totem. Skilled crafters should be able to produce the first two, but the third is only sold by the reagent vendor in Shattrath's Lower City, Fantei. You'll find him with the other tradesmen.",
+    "name": "Additional Materials",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

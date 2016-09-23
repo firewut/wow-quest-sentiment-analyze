@@ -1,0 +1,7 @@
+{
+    "_id": "10345",
+    "description": "You see these corpses, <race>? Arconus is responsible for this slaughter. He's sucked them dry, leaving nothing more than a fleshy husk. But don't let the bodies fool you! Inside those corpses lie flesh beasts, waiting to pounce on the unsuspecting fool that gets too close.I've got my orders. I must remain here until backup arrives. That doesn't mean that you can't take my igniter and destroy the withered corpses that litter the mines. One way or another, the mission must be completed.",
+    "name": "The Flesh Lies...",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

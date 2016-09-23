@@ -1,0 +1,8 @@
+{
+    "_id": "31314",
+    "added_in_patch": 5,
+    "description": "Well high golly! This is turning into a real life treasure hunt!There's gotta be some kind of entrance or opening to the north, where the mountains meet Cattail Lake.I'll meet ya at the entrance! Let's go get that treasure!",
+    "name": "Old Man Thistle's Treasure",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

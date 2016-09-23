@@ -1,0 +1,8 @@
+{
+    "_id": "27082",
+    "description": "Have you seen the huge lumbering ettins roaming the forests? Cursed things came from Gilneas. Now they wander the land searching for their next juicy meal. We've managed to subjugate and utilize some of them to haul our wagons, but the others... well, they must be killed!Unfortunately, we can't spare any soldiers to do the job. That's where you come in, <class>!I have a plan, but it's going to require some materials. Head out into the forests around this base and collect diseased beast organs.",
+    "name": "Playing Dirty",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

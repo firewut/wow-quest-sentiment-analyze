@@ -1,0 +1,8 @@
+{
+    "_id": "30612",
+    "added_in_patch": 5,
+    "description": "The time has come to face the Ook of Dook. We beat him, and the hozen won't have someone telling them to ravage.Here is the plan: Yakshoe will lead Tassle in to arena and scare away Chomp Chomp.Then, you sneak in and fight the Ook of Dook while his hozen are distracted by the yeti rampaging through their home.We'll meet you back at Kota Basecamp with a big reward. Good fortune to you, friend of grummles.",
+    "name": "The Leader Hozen",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

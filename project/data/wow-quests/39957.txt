@@ -1,0 +1,8 @@
+{
+    "_id": "39957",
+    "added_in_patch": 7,
+    "description": "These sigils would make for a fantastic new tarot card. Quite powerful, in fact. We simply require an ink sturdy enough to inscribe them.Fortunately, I have students like you that excel at fetching hard-to-get items.For this project, I require ink mixed from demonic blood. The blood of the demons at Felsoul Hold will serve as a suitable base. You will also need Blood of Sargeras, of course.",
+    "name": "Demon Ink",
+    "requires_level": 110,
+    "zone": "Inscription"
+}

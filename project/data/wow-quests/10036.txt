@@ -1,0 +1,7 @@
+{
+    "_id": "10036",
+    "description": "I want Torgos, king of the bonelashers, dead!Not long ago, while I was out hunting at Veil Rhaze on the western edge of the wastes, he fell upon me.<Mawg taps his eyepatch.>He took my eye, and now I would have his life!  Bring me one of his tail feathers as proof and I'll give you a worthy reward.You'll need his mate Trachela's carcass though to call him down as he's deathly afraid of the old arakkoan scarecrow known as Torgos's Bane.Find her at Carrion Hill in the northern wastes.",
+    "name": "Torgos!",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

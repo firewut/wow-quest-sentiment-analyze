@@ -1,0 +1,8 @@
+{
+    "_id": "41097",
+    "added_in_patch": 7,
+    "description": "According to the wyrmtongue servant, there is a portal that will take you into the Burning Legion command ship. However, the portal is locked to those without the keys.The first key shard is held by an Ered'ruin known as Vorgos. He resides within the Fel Breach, which is at the end of the Arcway.Slay Vorgos and place the key shard into its position next to the portal.",
+    "name": "Shard of Vorgos",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

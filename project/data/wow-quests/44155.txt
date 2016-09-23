@@ -1,0 +1,8 @@
+{
+    "_id": "44155",
+    "added_in_patch": 7,
+    "description": "It be no coincidence that we be in Citrine Bay investigatin' a murder, and we find th' band 'o pirates known as th' Red Blade here as well!Aye, this be no coincidence at all, <name>... but we be needin' proof!Ye go on ahead and look fer clues and I'll find some scallywags to interrogate.Aye <name>, we'll get t' 'th bottom o' this t' be sure!. Thar be no doubt!",
+    "name": "Searching For Clues",
+    "requires_level": 103,
+    "zone": "Rogue Campaign"
+}

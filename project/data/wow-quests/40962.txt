@@ -1,0 +1,8 @@
+{
+    "_id": "40962",
+    "added_in_patch": 6.2,
+    "description": "Come with me to the edge of Elune'ara. Its crystal waters can wash away even the darkest shroud to reveal the truth within.",
+    "name": "Dark Waters",
+    "requires_level": 100,
+    "zone": "Quests"
+}

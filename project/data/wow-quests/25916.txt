@@ -1,0 +1,7 @@
+{
+    "_id": "25916",
+    "description": "A trained shaman has the ability to communicate with the four elements of earth, fire, air and water.  This is known.What is not as widely known, however, is the presence of a fifth element.  This element is not as clearly described as the other four, but it has to do with the shared... commonality between all living creatures.My theory is that the crab, as a creature of the sea, is close enough to Nespirah that, with the elements' coaxing, we can convince it to act as Nespirah's mouthpiece.",
+    "name": "Breaking Through",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

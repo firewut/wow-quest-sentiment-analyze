@@ -1,0 +1,8 @@
+{
+    "_id": "42226",
+    "added_in_patch": 7,
+    "description": "<Tampering with the relic has drawn the attention of some hideous creatures from beneath Falanaar.>",
+    "name": "Moonshade Holdout",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

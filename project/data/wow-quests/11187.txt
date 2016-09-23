@@ -1,0 +1,7 @@
+{
+    "_id": "11187",
+    "description": "THIS IS OUTRAGEOUS! Those proto-drakes are attacking the keep!Beasts such as that should have been scared off when you took care of their clutches and whelps.You did take care of them, right?<name>, this calls for more direct action. Speak with my advisor, Mage-Lieutenant Malister. He'll provide you with the means to get at those infernal creatures.",
+    "name": "Mage-Lieutenant Malister",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

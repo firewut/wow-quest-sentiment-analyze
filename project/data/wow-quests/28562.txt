@@ -1,0 +1,8 @@
+{
+    "_id": "28562",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Lieutenant Horatio Laine at the Jansen Stead.Westfall has been overrun by beggars and transients, leading to a massive increase in criminal activity. Your help is needed to restore order to the populace. You can reach the Jansen Stead in Westfall by traveling west from Elwynn Forest.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Westfall!",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

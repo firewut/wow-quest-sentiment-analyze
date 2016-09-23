@@ -1,0 +1,8 @@
+{
+    "_id": "39338",
+    "added_in_patch": 7,
+    "description": "What was torn has now been mended. I hope you put this Shaldorei silk to good use.Now, run along.",
+    "name": "Return the Filter",
+    "requires_level": 108,
+    "zone": "Alchemy"
+}

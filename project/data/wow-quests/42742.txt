@@ -1,0 +1,8 @@
+{
+    "_id": "42742",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Darkheart Thicket: Rage Rot",
+    "requires_level": 110,
+    "zone": "Darkheart Thicket"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28379",
+    "description": "Glopgut ogres! I'd say they was dumb as a sack of hammers, but I have more respect for me hammers than that.We've fought off their raids for years, but if they're bold enough to steal one of our own, we're gonna have to learn them a lesson.Help us smack around some Glopgut ogres! Kill their pounders, hurlers, or bashers either out here or - better - inside the cave. That'll show 'em. ",
+    "name": "Ogre Bashin'",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

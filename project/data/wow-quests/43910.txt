@@ -1,0 +1,8 @@
+{
+    "_id": "43910",
+    "added_in_patch": 7,
+    "description": "The Nightborne are adept in more than one kind of magic, and we will likely face formidable foes inside the walls of the Nighthold. Their strongest mages and warriors must fall before we can hope to face Gul'dan.",
+    "name": "The Nighthold: High Botanist Tel'arn",
+    "requires_level": 110,
+    "zone": "The Nighthold"
+}

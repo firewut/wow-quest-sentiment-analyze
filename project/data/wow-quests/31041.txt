@@ -1,0 +1,8 @@
+{
+    "_id": "31041",
+    "added_in_patch": 5,
+    "description": "Eggs. Yes, you heard me right. I said eggs, and these aren't for eating.Have you ever seen a cloud serpent egg?These rare eggs look like jewels, and were once worth their weight in solid gold.Shan'ze Dao to the north normally teems with wild cloud serpents, but the mogu and the sprites have their eggs on lock-down.We need to save as many of these precious eggs as we can.I'm counting on YOU, <name>.",
+    "name": "Egg Rescue!",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

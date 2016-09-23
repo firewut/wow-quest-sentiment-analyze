@@ -1,0 +1,7 @@
+{
+    "_id": "27299",
+    "description": "It won't be takin' much convincin' to turn us against da Twilight - dat's already our goal. We've already come to battle here though, so we may be needin' ya help before we can turn towards dere fortress.Da Twilight have already brought Iso'rath up from da ground to the south, I'm sure ya noticed. Its tentacles have been burstin' from da ground all around us. We could use a hand beatin' them down if you be willin'.",
+    "name": "Torn Ground",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

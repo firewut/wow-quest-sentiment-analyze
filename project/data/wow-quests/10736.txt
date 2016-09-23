@@ -1,0 +1,7 @@
+{
+    "_id": "10736",
+    "description": "You've chosen your path, <class>.  Now it is up to you to travel the path to wherever it may lead.You will find that having friends among the Archmages of Dalaran has its advantages.  Serve us well and your deeds will not go unrewarded.",
+    "name": "Down the Violet Path",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

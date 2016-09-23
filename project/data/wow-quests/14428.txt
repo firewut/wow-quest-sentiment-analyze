@@ -1,0 +1,7 @@
+{
+    "_id": "14428",
+    "description": "If my sources are trustworthy, Lorekeeper Amberwind is overseeing the Alliance investigation of the ruins to the east. I have not yet probed the extent of her abilities: I'm hoping you can give me a full report by engaging her in combat and destroying her.With a title like 'Lorekeeper,' I'm guessing Amberwind will have a journal on her that'll tell us exactly what those night elves are up to. Fetch that journal for me. No need to run back; use their own scrying stones to contact me remotely.",
+    "name": "Amberwind's Journal",
+    "requires_level": 16,
+    "zone": "Azshara"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11667",
+    "description": "Figluster's mudfish is a surprisingly quick bottom feeder found in the waters of Nagrand.  They grow their entire lives and are well known as fighters.Years ago, I caught what I'm certain was the world's biggest mudfish... until it snapped my line and escaped.A fisherman of your caliber doesn't need to be told what to do--your destiny awaits in the lakes of Nagrand.",
+    "name": "The One That Got Away",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

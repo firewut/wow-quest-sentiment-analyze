@@ -1,0 +1,9 @@
+{
+    "_id": "29904",
+    "added_in_patch": 5,
+    "description": "I've prepared a team of bright young Pearlfin trainees who need field experience.Take them northeast, into the Bamboo Wilds, and kill any wildlife that you find.Don't bring them back until they're fit for battle.",
+    "name": "Bigger Fish to Fry",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

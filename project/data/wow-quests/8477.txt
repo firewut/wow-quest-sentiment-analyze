@@ -1,0 +1,7 @@
+{
+    "_id": "8477",
+    "description": "The Amani and the sin'dorei have a long history of mutual dislike and open hostility.  That doesn't prevent me from appreciating a fellow craftsman's work, <name>.I've come across pieces of Amani weaponry and I must admit I'm impressed by the quality of their work.  It is rumored that Spearcrafter Otembe wields a magical hammer that is so light and well-balanced it allows him to work with great dexterity and efficiency.If you bring me this tool I'll use it to craft you a weapon.",
+    "name": "The Spearcrafter's Hammer",
+    "requires_level": 7,
+    "zone": "Eversong Woods"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12812",
+    "description": "We have a breakthrough!  Our zombie specimens have given new insight into the nature of the Scourge's plague.  They have born rotten, delicious fruit...Take this box to Orgrimmar.  Inside is a head that is infected with the zombie plague, and something else we have devised -- an anti-plague.  The two plagues battle within the zombie brain, and that brain is the key to a cure, I am certain of it.Bring the box to my assistant, Apothecary Karlov.  He attends Thrall in Orgrimmar.",
+    "name": "Orgrimmar",
+    "requires_level": 65,
+    "zone": "Quests"
+}

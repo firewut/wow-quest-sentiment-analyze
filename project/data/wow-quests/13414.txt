@@ -1,0 +1,7 @@
+{
+    "_id": "13414",
+    "description": "Again we meet, <race>. I confess, your presence is beginning to grow on me.Am I correct in assuming that you've come to hone your aerial combat skills?As always, my pets stand ready to bring fiery destruction to the enemy.Speak, and they shall be at your disposal.",
+    "name": "Aces High!",
+    "requires_level": 80,
+    "zone": "Borean Tundra"
+}

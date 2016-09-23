@@ -1,0 +1,7 @@
+{
+    "_id": "28035",
+    "description": "Alright, alright!  If I knew ye could dance like that, I wouldn't'a asked ye to do all that stuff earlier.Tell Overseer Oilfist that I'll be joinin' ye.  I'll meet ye in the slag pit,  lad!  With the combined forces of Thorium Point and Iron Summit, those gorge-dwarves won't know what hit 'em!",
+    "name": "The Mountain-Lord's Support",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

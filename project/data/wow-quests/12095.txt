@@ -1,0 +1,8 @@
+{
+    "_id": "12095",
+    "description": "East of here, in the heart of the Dragonblight, is a field full of nothing but dragon bones and snow. The Scourge have set up multiple camps in the central tundra and are raising frostwyrms to send against our forces at the Wrathgate. While most of these frostwyrms are easily dealt with by Rokhan and his dragon hunters, one of them is proving to be a bit problematic.Go northeast and seek out Rokhan at Dragon's Fall. Help him and his men put down Sarathstra and you'll be rewarded handsomely!",
+    "name": "To Dragon's Fall",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

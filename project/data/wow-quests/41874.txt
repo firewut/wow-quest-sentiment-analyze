@@ -1,0 +1,8 @@
+{
+    "_id": "41874",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Talked to Tyrande to Start Events",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

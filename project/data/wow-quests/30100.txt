@@ -1,0 +1,7 @@
+{
+    "_id": "30100",
+    "description": "Queen Azshara and her royal guard lie ahead of us. We cannot afford the possibility of any interference with our plan. So we will take the fight to her, before she has a chance to meddle.It is quite unlikely that you will kill Queen Azshara today; very few coherent timelines exist along that branch. Consider it a victory if you are simply able to occupy her attention, however temporarily.",
+    "name": "The Vainglorious",
+    "requires_level": 85,
+    "zone": "Well of Eternity"
+}

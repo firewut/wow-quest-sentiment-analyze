@@ -1,0 +1,7 @@
+{
+    "_id": "11276",
+    "description": "There's no sign of the cipher on Zedd. After carefully searching the area you discover some writing in the dirt:\"Glor and Dae inside catacombs. Have cipher and tablets.\"Perhaps you should head into the catacombs located just north of here and search for Glorenfeld and Daegarn. The bridge crossing the worg pit will lead you right to the tunnel leading down into the catacombs.",
+    "name": "And Then There Were Two...",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

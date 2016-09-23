@@ -1,0 +1,7 @@
+{
+    "_id": "11981",
+    "description": "The Earthen warrior's stone surface is covered with cracks and gouges. Although it is incapable of bleeding, you can sense that the warrior is near death.A low, hoarse voice escapes from the dying warrior's mouth.\"Find... Kurun... you must find... Kurun.\"It looks at you helplessly as you ask for any clues as to who or what Kurun might be.\"Our... leader... he stands on the... hill overlooking Thor Modan... commands us. Please... tell him... we cannot take... the city... \"",
+    "name": "Find Kurun!",
+    "requires_level": 72,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24589",
+    "description": "Archmage Timear has foreseen a horrible event, which is about to transpire. A foolish gnome warlock is about to accidentally summon an Eredar lord of the Burning Legion into the middle of the Trial of the Crusader.You must be there when it happens, <class>. If Lord Jaraxxus escapes, he will open a portal and the Burning Legion will spill forth into our world once more.The Council of Six has decreed that Lord Jaraxxus must die!",
+    "name": "Lord Jaraxxus Must Die!",
+    "requires_level": 80,
+    "zone": "Quests"
+}

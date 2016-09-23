@@ -1,0 +1,8 @@
+{
+    "_id": "25165",
+    "description": "Next, we gonna get some poison from the scorpions that be runnin' around here.  But don't you worry, Bom'bay's not gonna let you get hurt!Bom'bay's got a big totem that you gonna stick in the ground when the scorpion strikes.  The totem gonna suck up all the poison, and you gonna walk away still breathing.  Sound good?",
+    "name": "Never Trust a Big Barb and a Smile",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

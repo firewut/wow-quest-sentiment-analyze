@@ -1,0 +1,7 @@
+{
+    "_id": "30105",
+    "description": "The missive reads as follows:\"The Hour of Twilight is upon us. The world-shaman Thrall approaches Wyrmrest with the Dragon Soul in hand, feebly whimpering one final threat to destroy our glorious master.\"\"Stop Thrall, and we win our war. I will be watching you from nearby.\"   ~ The Twilight Prophet",
+    "name": "The Twilight Prophet",
+    "requires_level": 85,
+    "zone": "Hour of Twilight"
+}

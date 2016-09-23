@@ -1,0 +1,7 @@
+{
+    "_id": "28513",
+    "description": "Ten thousand years ago...The Highborne lived here in prosperity. We considered ourselves above the common ranks of the other night elves. With our every need met by magic and wealth, we led lives of indulgence and amusement. And greed...The spirits you see here are overwhelmed with remorse and regret. Their anguish chains them here. If you wish to learn more of Kel'theril and Zin'malor, free them from their agony.",
+    "name": "Pride of the Highborne",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

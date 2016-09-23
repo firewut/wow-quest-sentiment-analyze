@@ -1,0 +1,8 @@
+{
+    "_id": "26823",
+    "description": "Whatever it is you want to do: I've got a recipe that'll do exactly that.  You want an exploding potion?  BOOM!!  You want a lightning potion?  ZAP!!  You want a shrinking potion?  Smeerp.So Bronwyn says he wants a carbon-dating potion?  Easy.  I could make that in my sleep.  The thing is... if we want it to be accurate, I need you to get some quality ingredients.Start with some humour from a basilisk to the north.  It'll need to be a pretty big basilisk...",
+    "name": "Too Big For His Britches",
+    "requires_level": 29,
+    "side": "alliance",
+    "zone": "The Cape of Stranglethorn"
+}

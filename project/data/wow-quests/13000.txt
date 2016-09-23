@@ -1,0 +1,7 @@
+{
+    "_id": "13000",
+    "description": "The cold in these mountains is brutal.  We have a day or two before we burn up all the wood from the wreckage.We spotted worgs inside a cave directly east of here.  I need you to find the cave and obtain some furs.  It might not sound like much, but it might be the difference between freezing to death and living another day.Worgs don't hunt alone, so I'm giving you a flare.  It should buy you some time if you find yourself outnumbered.",
+    "name": "Emergency Measures",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

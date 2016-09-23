@@ -1,0 +1,8 @@
+{
+    "_id": "38690",
+    "added_in_patch": 7,
+    "description": "Look down there. We are vastly outnumbered.\r\n\r\nWe will need more allies on our side if we are to escape from here intact. Free the other Illidari imprisoned within the cells of this chamber.\r\n\r\nWe will need everyone to escape this place alive.",
+    "name": "Rise of the Illidari",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

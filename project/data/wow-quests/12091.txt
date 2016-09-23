@@ -1,0 +1,8 @@
+{
+    "_id": "12091",
+    "description": "By decree of Overlord Agmar:Target: DreadtalonCrime: Attacks upon the HordeStatus: AliveDreadtalon is wanted for numerous attacks upon Horde caravans traveling to and from Venomspite.Dreadtalon makes his home on a bluff overlooking the Ruby Dragonshrine, east of Agmar's Hammer. He should be approached with extreme caution.All bounties are paid out by Captain Gort at Agmar's Hammer.",
+    "name": "Wanted: Dreadtalon",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

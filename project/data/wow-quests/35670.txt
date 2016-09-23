@@ -1,0 +1,9 @@
+{
+    "_id": "35670",
+    "added_in_patch": 6,
+    "description": "Posted by: KillgaI will greatly reward anyone who brings me Spineslicer's husk.I wish to fashion fine ravager armor, but do not have the skills to take down such a beast.Don't tear too many holes in it.",
+    "name": "Wanted: Spineslicer's Husk",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

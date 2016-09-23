@@ -1,0 +1,8 @@
+{
+    "_id": "29539",
+    "description": "As it turns out, the eggheads back at Honor Hold can't see much into this place. Bunch of lying lazy mages, is what they are.Either way, we don't really know exactly what's going on in here. So, you're going in to find out!",
+    "name": "Heart of Rage",
+    "requires_level": 59,
+    "side": "alliance",
+    "zone": "Quests"
+}

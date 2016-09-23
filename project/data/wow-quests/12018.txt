@@ -1,0 +1,7 @@
+{
+    "_id": "12018",
+    "description": "You there... you look the fighting type.  I want some sweet Revenge on the Scourge that killed my family.  Go get me 2 Stone Hunks O' Gargoyle so that I can throw them on the ground and stomp on them violently until they are mashed into itty bitty pebbly bits. Yes. Go. Kill.",
+    "name": "Sweet Revenge",
+    "requires_level": 70,
+    "zone": "Dragonblight"
+}

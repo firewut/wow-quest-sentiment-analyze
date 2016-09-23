@@ -1,0 +1,7 @@
+{
+    "_id": "11884",
+    "description": "West of here, on the high bluffs above Lake Kum'uya, roams a despicable being known as Nedar. The self proclaimed \"Lord of Rhinos\" hunts the wastes for the injured or young - rhinos unable to defend themselves against his cowardly attacks. To add insult to injury, Nedar has raised a rhino of his own to become his mount and bodyguard.It is a rare thing that D.E.H.T.A. would ever call for the death of an animal, but Nedar's tainted rhino must be disposed of... Kill them both and return to me. ",
+    "name": "Nedar, Lord of Rhinos...",
+    "requires_level": 70,
+    "zone": "Borean Tundra"
+}

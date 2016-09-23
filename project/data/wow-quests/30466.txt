@@ -1,0 +1,9 @@
+{
+    "_id": "30466",
+    "added_in_patch": 5,
+    "description": "Training these savages has been quite a task, <name>.Finding ways to motivate them was easy enough; the problem is keeping them motivated.. and focused... and awake.Now that you're back, you can help me in getting the less disciplined Hozen moving, if you catch my drift. I'll leave the method up to you.",
+    "name": "Sufficient Motivation",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

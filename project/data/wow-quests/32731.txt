@@ -1,0 +1,8 @@
+{
+    "_id": "32731",
+    "added_in_patch": 5.2,
+    "description": "The mogu within the nearby Court of Bones comprise one of the greatest threats to our presence on this island. Narasi Snowdawn has been entrusted with halting their efforts, but I am certain she could use a capable <class> to see this task through.Go to her. Aid in whatever ways that you are able.",
+    "name": "The Court of Bones",
+    "requires_level": 90,
+    "zone": "Quests"
+}

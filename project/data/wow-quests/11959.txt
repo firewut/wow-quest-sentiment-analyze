@@ -1,0 +1,7 @@
+{
+    "_id": "11959",
+    "description": "Already it goes from bad to worse. There is only one course to take... regrettably, Loguhn must die!He's the alpha male of the Snowfall Glade tribe and one mean wolvar. But it's the only way to get a short break from their attacks and stealing forays.You will find the \"Render of Flesh\" in front of his hovel upon the northern rise of the glade. It's larger than the others and hard to miss. Kill him and smear his blood upon yourself, both to show your dominance and respect.",
+    "name": "Slay Loguhn",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

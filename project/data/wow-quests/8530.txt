@@ -1,0 +1,7 @@
+{
+    "_id": "8530",
+    "description": "<Class>, I need your help. In the Molten Core there are these stones, singed Corestones to be precise, that we need to harvest for the Ahn'Qiraj war effort. I'm told that our blacksmiths and engineers can put them to good use, so that's where you come in. I need you to go into the Molten Core and gather up as many of these corestones as you can. Of course, you'll want to talk thirty-nine of your closest friends along with you.",
+    "name": "The Alliance Needs Singed Corestones!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "36475",
+    "added_in_patch": 6,
+    "description": "Commander, you and Raleigh did a great job finding me, but I'm exactly where I need to be.We've been working tirelessly since we got here, trying to crack these Draenic texts.I really thought I was gonna get the scrolls, but they nabbed me at the last possible second!Please, you've gotta help me out... up the hill to the east, you'll find the Master Siegesmith's tent.If you can grab the documents out of his chest, possibly this key too, I'll finally have enough to translate their languages.",
+    "name": "Stealing the Declaration",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

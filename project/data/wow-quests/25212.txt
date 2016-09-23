@@ -1,0 +1,7 @@
+{
+    "_id": "25212",
+    "description": "We thought that we could wait for the radiation to subside around Gnomeregan, but it doesn't appear to be getting better.If we want to take back our city, we need to make sure it's safe for our troops to enter.Take these Radiageigatrons, hop in 'Thunderflash' here,  and toss them at the ventilation shafts outside of Gnomeregan. They'll report the radiation levels directly to me.",
+    "name": "Vent Horizon",
+    "requires_level": 1,
+    "zone": "Dun Morogh"
+}

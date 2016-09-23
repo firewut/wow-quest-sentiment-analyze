@@ -1,0 +1,7 @@
+{
+    "_id": "12988",
+    "description": "In my folly, I'd thought Valduran's project at Narvir's Cradle, a large construction area to the south, no more than a grotesque monument to \"Keeper\" Loken's cruelty.Now we know the truth, that it was meant to be used as a weapon against us and our allies. We must not allow this iron colossus to reach completion, <name>, for it will mean the end of the refuge.Go to Narvir's Cradle, find the lightning forges the stormforged artisans use, and sabotage them.",
+    "name": "Destroy the Forges!",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

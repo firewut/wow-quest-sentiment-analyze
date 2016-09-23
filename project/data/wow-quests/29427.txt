@@ -1,0 +1,7 @@
+{
+    "_id": "29427",
+    "description": "According to Dran, the \"collector\" who wants the crate is none other than the insane Archmage Xylem of Azshara.The archmage's faithful servant is to meet with the man who has the crate in a secluded corner of the courtyard in the Ruins of Lordaeron.Quickly, take the zeppelin to Tirisfal Glade!You must get there in time to intercept the exchange and retrieve the crate before Xylem gets his hands on it. If you can get the crate, meet me at the Wyvern's Tail in the Valley of Honor.",
+    "name": "The Collector's Agent",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

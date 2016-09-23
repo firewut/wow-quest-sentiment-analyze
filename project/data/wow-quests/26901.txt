@@ -1,0 +1,7 @@
+{
+    "_id": "26901",
+    "description": "The bats native to Razorfen Kraul produce a very peculiar natural substance. Their guano's stench seems to send the Quilboar into a murderous frenzy - and this place reeks of it!I need you to find the bat cave, and bring me a suitable sample. If we can reverse the effects and produce an antidote, we may be able to save the Quilboar.",
+    "name": "Going, Going, Guano!",
+    "requires_level": 30,
+    "zone": "Razorfen Kraul"
+}

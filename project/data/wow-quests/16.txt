@@ -1,0 +1,7 @@
+{
+    "_id": "16",
+    "description": "",
+    "name": "Give Gerard a Drink",
+    "requires_level": 1,
+    "zone": "Elwynn Forest"
+}

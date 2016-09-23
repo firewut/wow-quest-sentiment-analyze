@@ -1,0 +1,7 @@
+{
+    "_id": "26628",
+    "description": "This is bad. It seems the Daggerspines are amassing for an attack.Naga are known for their ruthlessness in battle. They will keep attacking until I am dead.I don't value my own life above that of my crew members, but you must help to defend me. The crew will not be able to make it back to Booty Bay without my knowledge of the seas.The naga will be coming from the sea. I need you to remain up here with me to fend off the attack. Man the cannon and drive them back.Are you ready, <name>?",
+    "name": "Death From Below",
+    "requires_level": 26,
+    "zone": "Arathi Highlands"
+}

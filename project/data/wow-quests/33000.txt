@@ -1,0 +1,8 @@
+{
+    "_id": "33000",
+    "added_in_patch": 5.4,
+    "description": "[TEMP TEXT] Any warrior worth mentioning is equal parts strength and leadership: strength to defeat one's foes, and leadership to rally one's allies. The warrior who you are about to meet has no shortage of either of these qualities.High Overlord Saurfang awaits in Razor Hill. A long time ago, he taught me much of what I know. He can assist you with this scroll.I have already sent word. Saurfang awaits your arrival, <name>.",
+    "name": "Saurfang, Warrior",
+    "requires_level": 90,
+    "zone": "Warrior"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30821",
+    "added_in_patch": 5,
+    "description": "Alright, it's time to take Kota Kon out for her \"walk.\"We brewed two fresh pots of kafa just for her and she's all fueled up!",
+    "name": "The Burlap Grind",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

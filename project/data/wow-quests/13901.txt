@@ -1,0 +1,7 @@
+{
+    "_id": "13901",
+    "description": "There is more to this naga problem than meets the eye, <class>.  It appears that the issue will not be resolved by merely thinning their numbers. To humble them, a more severe impression must be made.Travel to the northern end of Zoram Strand and enter Blackfathom Deep. Once there, demonstrate to the naga that their presence in this region will no longer be tolerated!",
+    "name": "Deep Despair",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

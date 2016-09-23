@@ -1,0 +1,7 @@
+{
+    "_id": "12201",
+    "description": "It sounds like this Loken is the mastermind behind the sudden preparations for war on the part of the iron dwarves.Only the highest ranking irons are likely to have access to him, so we'll have to make you into an overseer to find out what's going on in there.I have a plan, for that, but we'll need some supplies.Find one of the iron rune overseers at Dun Argol, to the southeast, kill him, and bring back his uniform. ",
+    "name": "The Overseer's Shadow",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29856",
+    "added_in_patch": 5,
+    "description": "Your mind felt clear.You thought you were focused.Maybe it was the droning of the nearby insects that put you to sleep. That must've been it!Out of the corner of your eye, you see another of the stone formations just north of here.Perhaps it's quieter at that one...",
+    "name": "Cairn of Bone",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

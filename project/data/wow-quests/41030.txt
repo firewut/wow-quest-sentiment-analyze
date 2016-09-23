@@ -1,0 +1,8 @@
+{
+    "_id": "41030",
+    "added_in_patch": 7,
+    "description": "The smooth square sigil weighs a fair amount more than its appearance would suggest. \r\n\r\nHandling it results in an intense tingling sensation in your palm- this is an object of focused, pure power. \r\n\r\nSuch an advantage should not be so easily surrendered to the Nightborne.",
+    "name": "Sigil Reclamation",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

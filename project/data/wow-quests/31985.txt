@@ -1,0 +1,8 @@
+{
+    "_id": "31985",
+    "added_in_patch": 5,
+    "description": "You are now prepared as your trainer instructed. Travel back to Stormwind and have words with Audrey Burnhep. She will guide you further.",
+    "name": "The Triumphant Return",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

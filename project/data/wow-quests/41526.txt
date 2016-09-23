@@ -1,0 +1,8 @@
+{
+    "_id": "41526",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Bushy Foxflower",
+    "requires_level": 110,
+    "zone": "Herbalism"
+}

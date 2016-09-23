@@ -1,0 +1,8 @@
+{
+    "_id": "10294",
+    "description": "We have to improve my warp rift generator.  You must take it to Void Ridge.  Head east of here.  You must avoid the foul fort of Zeth'Gor.  To the east beyond Zeth'Gor is a small pass through the mountains.  Through this pass you will find Void Ridge, a terrible place on the edge of the abyss.You must kill the walkers that you find there, and bring me shards of their souls.  With their power we will improve upon the warp rift generator and open a portal to the beyond that cannot be closed.  ",
+    "name": "Void Ridge",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

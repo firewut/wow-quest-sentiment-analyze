@@ -1,0 +1,7 @@
+{
+    "_id": "1222",
+    "description": "Great, finally something that doesn't want to eat me!I need help handling the critters around here, and you fit the mold, buddy.The cook Morgan Stern is researching a new recipe, and he sent me out here to gather bogbean leaves.  I guess he thinks they're tasty.Anyway, while looking for a bogbean plant... I got myself surrounded!  Can you help me out of here, and watch my back as I look for the bogbean?",
+    "name": "Stinky's Escape",
+    "requires_level": 30,
+    "zone": "Dustwallow Marsh"
+}

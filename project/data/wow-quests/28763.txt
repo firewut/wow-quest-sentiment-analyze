@@ -1,0 +1,7 @@
+{
+    "_id": "28763",
+    "description": "So you're the new recruit from Stormwind, eh? I'm Marshal McBride, commander of this garrison. Glad to have you on board...<McBride looks through some papers.><name>. It is <name>, right?You've arrived just in time. The Blackrock orcs have managed to sneak into Northshire through a break in the mountain. My soldiers are doing the best that they can to push them back, but I fear they will be overwhelmed soon.Head northwest into the forest and kill the attacking Blackrock worgs! Help my soldiers!",
+    "name": "Beating Them Back!",
+    "requires_level": 1,
+    "zone": "Elwynn Forest"
+}

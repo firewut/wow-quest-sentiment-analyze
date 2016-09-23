@@ -1,0 +1,8 @@
+{
+    "_id": "6984",
+    "description": "We at Smokywood Pastures appreciate the recovery of the stolen treats, <name>.  For that, we'd like to offer you a special gift... presented by none other than Great-father Winter himself!Please, speak with Great-father Winter, and he will give you your Feast of Winter Veil gift from us here at Smokywood Pastures.  From our farm to your plate, it's always Smokywood Pastures wholesome goodness... thanks to you, of course!",
+    "name": "A Smokywood Pastures' Thank You!",
+    "requires_level": 30,
+    "side": "horde",
+    "zone": "Quests"
+}

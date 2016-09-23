@@ -1,0 +1,8 @@
+{
+    "_id": "30632",
+    "added_in_patch": 5,
+    "description": "According to Zhi the Harmonious, the mogu are moving into the Vale from the Ruins of Guo-Lai to the west.I sent Anji and Kun to investigate the situation, but they have not yet returned.I need a capable <class> like you to go check on them.",
+    "name": "The Ruins of Guo-Lai",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

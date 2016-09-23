@@ -1,0 +1,7 @@
+{
+    "_id": "27528",
+    "description": "You can't just kill the Scourge.  They will come back.  You must destroy the vile matter that makes up their being... and even then, they may come back as spectres.Few undead use up as much mass as the lumbering abominations.  Kill them, then burn their bodies.  You will find them all over the Plaguewood.Never let your rage dissipate, <race>.  Remember: these abominations are sewn together from the bodies of good people.  Their crime is that they exist.",
+    "name": "Scourged Mass",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

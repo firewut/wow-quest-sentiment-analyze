@@ -1,0 +1,7 @@
+{
+    "_id": "11507",
+    "description": "<Orfus bundles up the clues you brought him.>My people are bitterly entrenched in a war with the Northsea Freebooters. If any tuskarr could help us in our quest to right the wrongs of the pirates, it will be Elder Atuik of Kamagua. You must take these clues to him at once.To get to Kamagua you must take the Ancient Lift, behind me. Take the lift directly to Kamagua and find Elder Atuik.",
+    "name": "Elder Atuik and Kamagua",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

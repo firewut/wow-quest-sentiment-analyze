@@ -1,0 +1,7 @@
+{
+    "_id": "28437",
+    "description": "Kaoshin turned out to be more helpful than I expected, but we're done with him.  It's time you spoke with the General.  I think you're ready.General Thorg'izog is one of the \"Big Three\" that run the Blackrock forces here in Burning Steppes.  He leads from the Blackrock Stronghold to the northwest.  Put on your disguise and go speak with him.  See if you can earn his trust.  I will be in touch, should I need anything further.",
+    "name": "General Thorg'izog",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

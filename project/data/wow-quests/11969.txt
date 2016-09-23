@@ -1,0 +1,7 @@
+{
+    "_id": "11969",
+    "description": "We owe this opportunity in great part to your efforts, <name>.It is only fitting that you initiate the attack on Malygos.Take this spark and use it to light the signal fire northwest of the Nexus. Keristrasza will direct you from there.",
+    "name": "Springing the Trap",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "37140",
+    "description": "When Leorajh became shaman, pridelord gave prayer beads. Beads help Leorajh hear elements.One day bird-men attacked and took prayer beads. Took them to Skettis.Master, you help Leorajh get prayer beads back?",
+    "name": "Leorajh's Prayer Beads",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

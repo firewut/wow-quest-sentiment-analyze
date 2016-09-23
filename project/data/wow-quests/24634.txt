@@ -1,0 +1,7 @@
+{
+    "_id": "24634",
+    "description": "I am convinced the Alliance is using spies to scout the field and pass along information. They knew to strike at Taurajo while the hunters were afield. And they countered every one of Gar'dul's moves like he was an open book.Well <name>, I for one will not be outplayed. Not here. We will win the battle for intelligence.Even now I hear reports of Alliance operatives slinking around in the shadows, especially here, outside these very walls. Kill them and bring me back something of use.",
+    "name": "Intelligence Warfare",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

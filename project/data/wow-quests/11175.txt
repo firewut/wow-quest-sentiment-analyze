@@ -1,0 +1,7 @@
+{
+    "_id": "11175",
+    "description": "Tell me, is it true? Did the explorers that went into Whisper Gulch go mad?My daughter is the overseer of the Explorers' League that went north to some place called Steel Gate. With the horrible events that have befallen us, I fear for her safety.Please, <class>, I am too old to make the journey. Her name is Irena. Will you go make certain that she is alright?",
+    "name": "My Daughter",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

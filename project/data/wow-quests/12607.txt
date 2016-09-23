@@ -1,0 +1,7 @@
+{
+    "_id": "12607",
+    "description": "Before you go off challenging Broodmother Slivina, Dorian thought it might be a good idea for you and Hemet to coordinate your efforts by riding into battle on the back of a mammoth.The area around the camp is full of them. Just take this bridle and slip it over the head of a shattertusk mammoth. Be careful of the bulls, though. They won't tolerate the harness at all. Bring the mammoth back here when you've found a suitable one.",
+    "name": "A Mammoth Undertaking",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

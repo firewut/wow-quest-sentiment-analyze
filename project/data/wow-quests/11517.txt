@@ -1,0 +1,7 @@
+{
+    "_id": "11517",
+    "description": "I am most glad that you are here, <class>! Now that we have taken this sanctum, we must hurry to create a magical portal that will lead to here from Shattrath City in the Outland.My liege lord, Exarch Nasuun, is heading up the Offensive's efforts to do just that. He asked me to send along any promising candidates who have what it takes to help with the portal's creation.Please, travel to Shattrath City and speak with him inside A'dal's chamber on the Terrace of Light.",
+    "name": "Report to Nasuun",
+    "requires_level": 70,
+    "zone": "Shattrath City"
+}

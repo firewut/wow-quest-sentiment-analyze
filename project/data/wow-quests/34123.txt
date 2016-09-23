@@ -1,0 +1,9 @@
+{
+    "_id": "34123",
+    "added_in_patch": 6,
+    "description": "There is no time to mourn our fallen or lick our wounds. Your scouts have already reported sighting a massive Iron Horde army making its way through Thunder Pass.I advise you let your garrison forces secure this area while you and I make for the pass east of here with the rest of the Frostwolves.It is time to show this Iron Horde what a united Frostwolf clan can do.",
+    "name": "To Thunder Pass",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

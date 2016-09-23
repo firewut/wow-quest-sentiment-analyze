@@ -1,0 +1,7 @@
+{
+    "_id": "25699",
+    "description": "Grol... the ogre who tore me apart.<Loramus laughs.>It would seem that Grol's body has changed hands several times since we died together, but it no longer rests with the ogres.  His body, along with his amulet of power, is in a wrecked ship off the Shattershore, to the east.  His amulet is the last... once combined, the three will give us access to Razelikh, and therein lies our chance to stop his madness.",
+    "name": "The Amulet of Grol",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

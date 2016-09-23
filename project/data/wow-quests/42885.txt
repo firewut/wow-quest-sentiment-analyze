@@ -1,0 +1,8 @@
+{
+    "_id": "42885",
+    "added_in_patch": 7,
+    "description": "Tracking down the dreadlord Balnazzar is our highest priority. Let us send defenders of our order to pinpoint his recent movements.",
+    "name": "The Highlord's Command",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

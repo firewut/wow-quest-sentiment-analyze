@@ -1,0 +1,8 @@
+{
+    "_id": "36603",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "Bonus Objective: Brimstone Springs",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

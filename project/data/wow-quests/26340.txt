@@ -1,0 +1,7 @@
+{
+    "_id": "26340",
+    "description": "Of all the places to end up across Azeroth, I'm stuck here in Grom'gol.  With the marauding wildlife, the caravan raids, and the constant threat of troll attacks, I'm surprised I've survived for this long.Could be worse, I suppose.  At least here in Grom'gol we have walls and guards.  There's a group of hunters up north that set up camp right in the middle of the jungle!I see people heading there all the time.  If you're looking for trouble, feel free to head up there.  I'll stick with my Grom'gol.",
+    "name": "The Hunt",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

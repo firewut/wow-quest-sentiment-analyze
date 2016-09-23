@@ -1,0 +1,7 @@
+{
+    "_id": "10602",
+    "description": "In order to churn out infernals as quickly as the Deathforge seems to, they must have an area dedicated to summoning the elementals that form the core of the infernals.The summoning chamber is likely to be found below ground, near a pool of fouled water or lava. Locate the summoning chamber within the Deathforge and find a way to end their summoning ritual. The mo'arg involved in making the infernals may carry a tool that will help disrupt the summoner's magics.",
+    "name": "The Summoning Chamber",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

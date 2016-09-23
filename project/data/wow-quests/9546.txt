@@ -1,0 +1,7 @@
+{
+    "_id": "9546",
+    "description": "The prophecy spoke of one that would rise and deliver us from the oppressive grasp of Bristlelimb -- that the spirits themselves would herald the arrival of this hero.And now, you have come.I humble myself before you, great one. I beg of you, save our younglings. They were taken by the Bristlelimb while our guard was down. You will find them in cages at Bristlelimb Village, to the southwest. The Bristlelimb furbolgs hold the keys to the cages. Strike them down and take their keys. Release my kin.",
+    "name": "Fulfilling a Promise",
+    "requires_level": 7,
+    "zone": "Azuremyst Isle"
+}

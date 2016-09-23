@@ -1,0 +1,8 @@
+{
+    "_id": "39515",
+    "added_in_patch": 7,
+    "description": "This is why the Legion fears us. We have the ability to turn their secrets against them and in so doing become stronger than they ever can be.\r\n\r\nQuickly, <name>, teach us what you have learned.",
+    "name": "Vengeance Will Be Mine!",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

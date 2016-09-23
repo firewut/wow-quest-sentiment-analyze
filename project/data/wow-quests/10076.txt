@@ -1,0 +1,7 @@
+{
+    "_id": "10076",
+    "description": "This base was the primary draenei research facility for the study of naaru crystals.What we have discovered is a veritable goldmine of research notes about the crystals from the \"diamond\" mountain, Oshu'gun. It would seem that everything in this region carries with it some residual powder of the Oshu'gun crystals. If you find any powder while adventuring in this region, return it to me and I shall reward you with a token of my appreciation which you may use to make purchases from the quartermaster.",
+    "name": "Oshu'gun Crystal Powder",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25454",
+    "description": "You have found what may very well be a perfect yeti hide.  You easily note that it is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.Considering that Jangdor Swiftstrider at Stonemaul Hold is in the market for yeti hides, this particular one may be of considerable interest to him.",
+    "name": "Perfect Yeti Hide",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

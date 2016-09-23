@@ -1,0 +1,8 @@
+{
+    "_id": "10136",
+    "description": "Magister Bloodhawk finally deciphered the Legion missive you found earlier. It turned out to be attack plans sent by one of Highlord Kazzak's lieutenants - Arazzius the Cruel. Apparently, Arazzius commands the Legion ground forces in Hellfire. The time has come to terminate his command, <name>. Terminate with extreme prejudice. Head west to the Pools of Aggonar and put an end to this so-called 'Legion lord'. Today, the Horde reclaims Hellfire Peninsula. Let the Legion be damned. ",
+    "name": "Cruel's Intentions",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

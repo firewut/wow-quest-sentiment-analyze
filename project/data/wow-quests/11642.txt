@@ -1,0 +1,8 @@
+{
+    "_id": "11642",
+    "description": "We need to get these tanks back up and runnin'! They ain't gonna fix themselves. Mobu's gonna be the one to handle that stuff. Talk to him and see what he needs. Maybe you can shut him up before he finally drives me into a berserker frenzy and I cleave his little gnome-sized frame in two!I hate gnomes...",
+    "name": "Tank Ain't Gonna Fix Itself",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

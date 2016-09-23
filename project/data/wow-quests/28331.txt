@@ -1,0 +1,7 @@
+{
+    "_id": "28331",
+    "description": "To think, I, a master of necromancy, trained by Kel'Thuzad himself, was reduced to nothing more than a corpse in a grave. Thankfully, my astute apprentice, Thaivand, managed to find a group of heroes to recover this:<Helcular whips out his rod.>It is through the power of the rod that I was reborn. The rod giveth and the rod taketh away!Take it now and use it to empower our dark rangers battling the worgen in the field north of us. Renew their vigor with my rod.",
+    "name": "Helcular's Rod Giveth...",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

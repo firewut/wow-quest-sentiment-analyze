@@ -1,0 +1,8 @@
+{
+    "_id": "26517",
+    "description": "You have to go to the summit now, <name>. Our warriors won't go past the final gates. They say it's still as a tomb; not a sound, not a breath, not a hint of motion.They think it's a trap, but based on what you've brought me, I'm worried it's something even more sinister. Go to the altar, investigate what happened... and bring me back ANY sort of mystical object or dark idol you find! Do you hear me?",
+    "name": "Summit of Fate",
+    "requires_level": 30,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28258",
+    "description": "Ander Germaine sent a message for you. He wants you to join him at his headquarters in the Command Center in Stormwind's Old Town as quickly as you can. It sounded important, <name>.",
+    "name": "Meet with Ander Germaine",
+    "requires_level": 50,
+    "zone": "Stormwind City"
+}

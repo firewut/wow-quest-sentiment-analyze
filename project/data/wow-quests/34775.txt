@@ -1,0 +1,9 @@
+{
+    "_id": "34775",
+    "added_in_patch": 6,
+    "description": "Despite his recent captures, Olin Umberhide seems to be a tauren of some skill in combat. He certainly has learned how to get an enemy's attention.I have a mission available that might prove ideal for his skill sets.When you are ready, simply issue the order via the command table in front of me and we will dispatch him immediately.",
+    "name": "Mission Probable",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

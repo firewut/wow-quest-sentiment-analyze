@@ -1,0 +1,8 @@
+{
+    "_id": "42454",
+    "added_in_patch": 7,
+    "description": "<Now that you have defeated Dargrul the Underking and have the Hammer of Khaz'goroth in hand, it is time to place it in Aegwynn's Gallery in the lower chambers of Dalaran.>",
+    "name": "The Hammer of Khaz'goroth",
+    "requires_level": 98,
+    "zone": "Dalaran"
+}

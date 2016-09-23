@@ -1,0 +1,8 @@
+{
+    "_id": "37524",
+    "added_in_patch": 6,
+    "description": "The ogres at the Gorian Proving Grounds be rousin' champions to turn against our forces in Nagrand.\r\n\r\nA decisive assault on their training grounds should prevent dem from musterin' the forces dey be needin' to stand against us, and will help remind them that we are not an enemy they want to be makin'.",
+    "name": "Assault on the Gorian Proving Grounds",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "31742",
+    "added_in_patch": 5,
+    "description": "The Horde have made our jobs easier for us. Their infighting and segregation have split their camp in two: orcs in the west, and undead in the east.The orcs obey their commander Dalgan, while the undead follow Bellandra Felstorm, a powerful warlock. Hopefully, their internal squabbles will be enough of a distraction that you'll be able to sneak in there and kill both of them. Sully has already infiltrated the ruins; find him inside when you are done.",
+    "name": "Fractured Forces",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

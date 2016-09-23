@@ -1,0 +1,7 @@
+{
+    "_id": "25049",
+    "description": "There's a big problem here! It's great that the ocean came in so far, because now ships can get to Gadgetzan. But now there's a bunch of nasty old sea giants encroaching on the town! I'm sure Mister Noggenfogger would appreciate us taking care of them for him.Don't worry, I won't ask you to do it just out of the goodness of your heart! Take care of them and I'll give you a reward!",
+    "name": "Puddle Stomping",
+    "requires_level": 43,
+    "zone": "Tanaris"
+}

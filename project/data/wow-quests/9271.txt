@@ -1,0 +1,7 @@
+{
+    "_id": "9271",
+    "description": "This final task will be the most difficult of all, <name>. You have faced and defeated both an Old God and the Lich King's General, but now you must face the hand of Sargeras.Take the staff to Stratholme. It is there that you will find a piece of consecrated earth: ground where the greatest knights of Lordaeron were murdered. Place the befouled staff upon the holy ground and prepare for an entity of immense power to break from within... Defeat the demonic being that controls the staff and return to me.",
+    "name": "Atiesh, Greatstaff of the Guardian",
+    "requires_level": 60,
+    "zone": "Legendary"
+}

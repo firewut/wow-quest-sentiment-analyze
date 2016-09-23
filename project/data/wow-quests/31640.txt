@@ -1,0 +1,8 @@
+{
+    "_id": "31640",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Siege of Niuzao Temple Challenge Mode - Silver Addition (Nth)",
+    "requires_level": 90,
+    "zone": "Quests"
+}

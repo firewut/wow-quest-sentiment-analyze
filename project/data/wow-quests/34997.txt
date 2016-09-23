@@ -1,0 +1,9 @@
+{
+    "_id": "34997",
+    "added_in_patch": 6,
+    "description": "Huh?... Oh my, I appear to have fallen asleep again.These slumberblooms are nothing but trouble. One second I'm fighting botani and the next I'm dreaming I'm an elekk dancing with riverbeasts.*Yawn* We really should do something about all these slumberbloo *Yawn* ... ZZZZzzzzzzzz<You gather a small handful of pebbles laying by the sleeping draenei.>",
+    "name": "Slumberbloom",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

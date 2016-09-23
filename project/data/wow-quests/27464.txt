@@ -1,0 +1,7 @@
+{
+    "_id": "27464",
+    "description": "Behind our chapel, you will find a small crypt.  Interred within are the bodies of our fallen heroes; those who gave their lives in the war against the Scourge.Their spirits are at peace, but they return intermittently to test new members of the order.The three of you may test together.  Enter the crypt, then read from this scroll.  Lord Raymond George - my predecessor - will preside over your test.",
+    "name": "Argent Call: The Trial of the Crypt",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

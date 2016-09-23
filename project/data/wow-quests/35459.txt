@@ -1,0 +1,8 @@
+{
+    "_id": "35459",
+    "added_in_patch": 6,
+    "description": "Posted by: Prelate ReenuNoble friends of the Alliance, the draenei of The Draakorium greet you peacefully.The Draakorium is being attacked by enemies from the nearby swamps.An Azerothian caravan passed through recently, and may have ventured into dangerous territory.Any capable adventurer who can assist us with this problem will be rewarded handsomely.",
+    "name": "The Southern Wilds",
+    "requires_level": 90,
+    "zone": "Shadowmoon Valley"
+}

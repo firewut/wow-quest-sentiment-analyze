@@ -1,0 +1,9 @@
+{
+    "_id": "33467",
+    "added_in_patch": 6,
+    "description": "You've managed to survive this long, stranger. All that remains to be done here is to fell the Warlord of the arena.This will be your first true test here. Bult would provide a challenge to even a battle-hardened Frostwolf.Place the heads you've collected on spikes in the Frostfire Arena. They are sure to enrage the warlord and lure him into battle.Come out of the arena victorious and it will show that Durotan's trust in you was not misplaced.",
+    "name": "The Fall of the Warlord",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

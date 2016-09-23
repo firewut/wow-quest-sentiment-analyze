@@ -1,0 +1,7 @@
+{
+    "_id": "27610",
+    "description": "If the Alliance gains control of this peninsula, they will threaten Dragonmaw Port. Not going to happen.South of here you'll see a small hill with a commanding view of the shoreline. Whoever controls that hill will have the upper hand all along the shore!Rush over there and scout the beach head control point. It's marked by that enormous flag. Then return to me.You don't have to capture it, unless you're spoiling for a fight with the Alliance.",
+    "name": "Scouting the Shore",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

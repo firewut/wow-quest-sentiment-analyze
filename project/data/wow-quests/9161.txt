@@ -1,0 +1,7 @@
+{
+    "_id": "9161",
+    "description": "Dar'Khan Drathir is believed to have returned from the dead to rule over the armies of the Scourge in the Ghostlands.  Dar'Khan aligned himself with the Scourge long ago... yet he was once a living, breathing elf.  Much of his time was spent inside Dawnstar Spire, northeast of here.  He hid there for many nights, scheming against his own. Search the tower for more information, <name>.  Perhaps he had a journal or kept notes.  One never knows where useful information might present itself.",
+    "name": "The Traitor's Shadow",
+    "requires_level": 15,
+    "zone": "Ghostlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26578",
+    "description": "The rift to your world has poisoned our home. Corrupted it. Polluted it.This expanse festers and grows. It becomes difficult to even see the purity of the rock beneath this filth.If you are here to lend your aid, then go about cleansing this overgrowth. Look for the brightly glowing mushrooms that are growing faster than the others. They are the worst of the offenders.",
+    "name": "Doomshrooms",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "37780",
+    "added_in_patch": 6.1,
+    "description": "Commander, Gul'dan's favored agent Teron'gor has infiltrated Auchindoun in Talador and has already taken to devouring the countless souls within. We must not let this nefarious warlock gain any further strength.Enter the holy mausoleum of Auchindoun and rout Teron'gor and the rest of the Shadow Council before more damage is done.",
+    "name": "Auchindoun",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Auchindoun"
+}

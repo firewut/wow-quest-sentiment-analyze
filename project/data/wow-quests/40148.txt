@@ -1,0 +1,8 @@
+{
+    "_id": "40148",
+    "added_in_patch": 7,
+    "description": "It came out of nowhere. I was waiting for mother to finish skinning her half of the drake when the biggest storm dragon I'd ever seen came and... and...<Seymour finds his resolve.>I want you to kill as many of them as you can. Skin them, don't skin them, I don't care. Just get revenge for mother!",
+    "name": "Red-Eyed Revenge",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

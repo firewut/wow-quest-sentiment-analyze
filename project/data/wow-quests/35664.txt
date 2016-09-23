@@ -1,0 +1,9 @@
+{
+    "_id": "35664",
+    "added_in_patch": 6,
+    "description": "When these seedbearers are slain their seeds survive. From them spring new seedbearers, not over years, but hours.Leaving their remains here would soon cause the outpost to be overrun.We have learned that burning their remains prevents this from happening.",
+    "name": "Seedbearers of Bad News",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

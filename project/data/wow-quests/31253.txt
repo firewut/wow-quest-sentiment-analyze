@@ -1,0 +1,9 @@
+{
+    "_id": "31253",
+    "added_in_patch": 5,
+    "description": "Well, far as I figure, we've got quite a lot of rebuildin' to do.\r\n\r\nI'm not one for joining any big causes, but my farmhands aren't gonna have much to do 'round here, to be honest. And, since you helped them out, they want to join your \"Horde\". So, who am I to stop 'em?\r\n\r\nBring 'em with you, back to Farmhand Ko. I'll miss 'em, but they're better off with you.",
+    "name": "Back to Eastwind Rest",
+    "requires_level": 87,
+    "side": "horde",
+    "zone": "Kun-Lai Summit"
+}

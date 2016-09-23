@@ -1,0 +1,8 @@
+{
+    "_id": "44181",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Fleet Admiral Tethys",
+    "requires_level": 103,
+    "zone": "Rogue Campaign"
+}

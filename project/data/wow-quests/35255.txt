@@ -1,0 +1,9 @@
+{
+    "_id": "35255",
+    "added_in_patch": 6,
+    "description": "Commander, you now have the Will of the Genesaur along with the genesis water and enough seeds to grow an army. Not to mention the lives of the dwarves you saved.I would call this mission a success.I can help the dwarves mop up their operation here and see what we can salvage. In the meantime, you may want to bring the artifact to Maraad back at the outpost.",
+    "name": "Power of the Genesaur",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

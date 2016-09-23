@@ -1,0 +1,7 @@
+{
+    "_id": "11918",
+    "description": "This is war, mortal, and we are the tip of the spear.Your little spats over land or currency pale in comparison to this conflict. We face the aspect Malygos and his entire blue dragonflight. All you need to know is that if he is victorious, this world shall be no more.We are but few here, and we fly against many. Our deaths are all but a certainty, and our ultimate success lies in merely delaying our enemy.Go now. Busy yourself while I decide what to do with you.",
+    "name": "Basic Training",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

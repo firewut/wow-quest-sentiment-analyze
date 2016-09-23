@@ -1,0 +1,8 @@
+{
+    "_id": "25679",
+    "description": "The next phase of operations takes place deeper within the mine.  Speak with Tak'arili for your next assignment.  Just follow the mine cart rails to the southeast, and follow the curve around.  You'll see him at the entrance to the mine's upper chamber.It's been a pleasure doing business with you, <name>.",
+    "name": "Into the Mountain",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

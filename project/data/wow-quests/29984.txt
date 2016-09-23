@@ -1,0 +1,8 @@
+{
+    "_id": "29984",
+    "added_in_patch": 5,
+    "description": "We will start with a test: The Trial of Bamboo.Your friend Lin failed this test.Follow me, and listen carefully to my instructions.",
+    "name": "Unyielding Fists: Trial of Bamboo",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

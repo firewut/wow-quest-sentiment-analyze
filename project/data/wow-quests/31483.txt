@@ -1,0 +1,8 @@
+{
+    "_id": "31483",
+    "added_in_patch": 5,
+    "description": "The Pandaren campaign is only beginning! We turn our attention now to the ongoing conflict between the Alliance and the Horde.My contacts in Ravenholdt tell me that the Alliance 7th Legion and a considerable Horde invasion force are converging toward Pandaria's southern shores. Like it or not, Pandaria may soon become a battlefield.We are done for now, but I want you to contact me when your fleet arrives. Then... together we will spring into action!",
+    "name": "Incoming...",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

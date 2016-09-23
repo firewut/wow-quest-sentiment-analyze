@@ -1,0 +1,7 @@
+{
+    "_id": "10280",
+    "description": "I am an ethereal of my word, <name>.  You have truly inspired me.I am now going to give you the ata'mal crystal to hand over to the naaru.  As it was your heroics that made this possible, I wish for you to deliver it.You may use my personal teleporter to go directly to Shattrath City.  Simply step through it and you will be transported there.Give the crystal to the naaru known as A'dal on the Terrace of Light.  May the trade winds be at your back.",
+    "name": "Special Delivery to Shattrath City",
+    "requires_level": 67,
+    "zone": "Shattrath City"
+}

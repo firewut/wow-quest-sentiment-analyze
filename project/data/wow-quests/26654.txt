@@ -1,0 +1,8 @@
+{
+    "_id": "26654",
+    "description": "NO!!!!!Take it, take this comb away from me!I'm a monster, and no one will ever think me lovely again!",
+    "name": "Return the Comb",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

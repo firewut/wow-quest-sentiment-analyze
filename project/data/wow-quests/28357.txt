@@ -1,0 +1,7 @@
+{
+    "_id": "28357",
+    "description": "Those mangy curs think they can just snoop around my site and get away with it? I'll show them...And what I mean by that is, of course, that YOU will show them. You and the small army of axe-wielding goblin hires I've sent to Talonbranch Glade.The place will be swarming with worgen by now. Just where we want them. Head to the southeast, join up with the rest of our forces, and let some fur fly.",
+    "name": "Take it to the Tree",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

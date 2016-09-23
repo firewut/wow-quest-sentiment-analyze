@@ -1,0 +1,7 @@
+{
+    "_id": "28283",
+    "description": "Did you see that glowing rattle on the ground outside of Isha's hut?",
+    "name": "What's that Rattle?",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

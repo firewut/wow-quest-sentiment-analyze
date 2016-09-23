@@ -1,0 +1,7 @@
+{
+    "_id": "25739",
+    "description": "<Captain Kosak coughs weakly.>Was traveling up Webwinder Path, coming from Northwatch Expedition Base Camp in the south. Ambushed. Not by Horde. Spiders. Big, ugly, hairy, nasty spiders.Fought off dozens, maybe hundreds. Lost count. Overtaken by their queen. She took a chunk right out of me. Barely made it out alive. Might be dying.More of my men coming. Must provide safe passage. Kill spider queen.<Captain Kosak passes out.>",
+    "name": "If the Horde Don't Get You...",
+    "requires_level": 25,
+    "zone": "Stonetalon Mountains"
+}

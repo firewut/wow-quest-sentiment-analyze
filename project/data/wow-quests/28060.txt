@@ -1,0 +1,7 @@
+{
+    "_id": "28060",
+    "description": "Hansel and I came here on a secret mission: kill Overseer Maltorius.  While our main goal still remains the same - defeating Archduke Calcinder - it can't hurt to take out the infamous overseer of the Slag Pit while we're here.Problem is, Hansel was only prepared to fight one dwarf, but it looks like Maltorius has a visitor... an emissary from the Twilight's Hammer!Speak with Hansel and help him out.  Then proceed down this corridor and along the balcony outside to find Overseer Oilfist.",
+    "name": "Twisted Twilight Ties",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "33104",
+    "added_in_patch": 5.4,
+    "description": "I have learned so much in this timeless place, friend. Between the wisdom of the celestials and the curious power of these timeless artifacts, I know now how to safely augment your cloak with my own considerable power.I need a sacred place to complete my final incantations. Quickly! Meet me in the Vale of Eternal Blossoms, within the Seat of Knowledge above the Mogu'shan Palace.Today, your legend begins!",
+    "name": "A Pandaren Legend",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

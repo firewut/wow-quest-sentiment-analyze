@@ -1,0 +1,8 @@
+{
+    "_id": "42102",
+    "added_in_patch": 7,
+    "description": "If we wish to successfully summon the sisters, we'll need the help of a warlock who is skilled in summoning greater demons.\r\n\r\nWe cannot afford to lose another council member due to inexperience. \r\n\r\nThe Broken Isles are swarming with new blood, all hoping to make a name for themselves in this time of chaos. \r\n\r\nHopefully among them we can find one worthy of this council.",
+    "name": "One Who's Worthy",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

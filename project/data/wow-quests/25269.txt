@@ -1,0 +1,8 @@
+{
+    "_id": "25269",
+    "description": "Have you heard of Lo'Gosh, the wolf ancient? In the Alliance tongue, he is known as \"Goldrinn.\"I don't need to tell you how important the wolf god has been to the Horde - his tenacity under adversity has been an inspiration to all of our disparate races.Southwest of here, down in the valley, lies a shrine to Goldrinn. My friend Takrik Ragehowl was refurbishing the shrine when I stopped hearing from him. I fear the worst.Please find Takrik and make sure the shrine is okay!",
+    "name": "The Voice of Lo'Gosh",
+    "requires_level": 80,
+    "side": "horde",
+    "zone": "Mount Hyjal"
+}

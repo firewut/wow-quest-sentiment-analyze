@@ -1,0 +1,8 @@
+{
+    "_id": "30205",
+    "added_in_patch": 5,
+    "description": "Hello, friend.One of Leven's men brought word to me of a mogu artifact in the eastern ruins, but said he couldn't figure out how to retrieve it. I suspect it's guarded by one of their rune locks.If you go to the artifact, you should find four runes somewhere nearby that when activated will release the lock. If you could bring the artifact back to me, I would be very grateful.",
+    "name": "Runelocked",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

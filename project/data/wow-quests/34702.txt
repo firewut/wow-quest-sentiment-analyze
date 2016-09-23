@@ -1,0 +1,8 @@
+{
+    "_id": "34702",
+    "added_in_patch": 6,
+    "description": "Stonemaul has chieftain, and it has slavemaster. Today, we kill both.First, Slavemaster Ok'mok. Me fight in arenas since me your size. Me know cruelty. Slavemaster Ok'mok is cruelty.Want to be true gladiator? Go to Stonemaul Arena, bang challenge gong in center of arena, and face beasts of slavemaster.Maybe you make Ok'mok so mad he jump down himself to kill you. If he do, kill him instead.",
+    "name": "Krav'ogra",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

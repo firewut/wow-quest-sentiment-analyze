@@ -1,0 +1,7 @@
+{
+    "_id": "10102",
+    "description": "As my energies bled away over the centuries, a void slowly grew in my place - devouring the souls of those nearby. Helplessly, I watched as generations of orc souls were drawn into the vortex. Recently, my enemies harnessed the vortex and used it to draw countless void minions into their Burning Legion.Now, the key to ending this cycle and freeing the orc spirits lies with another naaru - A'dal. I have sensed his essence within the ancient city of Shattrath in the Terokkar Forest.",
+    "name": "A Secret Revealed",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

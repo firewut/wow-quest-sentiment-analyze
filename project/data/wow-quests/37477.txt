@@ -1,0 +1,8 @@
+{
+    "_id": "37477",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Bonus Objective: Brute's Rise",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

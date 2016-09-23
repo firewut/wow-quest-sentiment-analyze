@@ -1,0 +1,8 @@
+{
+    "_id": "38877",
+    "added_in_patch": 6.2,
+    "description": "The Iron Horde continue to bring in reinforcements from all over Draenor to reinforce their position at Hellfire Citadel. If we don't cut off the flow of supplies then we risk losing control of our plans in Tanaan.\r\n\r\nA strategic attack to the supply lines at Ironhold Harbor is just the thing to keep the Iron Horde on the defensive and maintain our momentum.",
+    "name": "Assault on the Fel Forge",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35699",
+    "added_in_patch": 6,
+    "description": "We could really use an ally to trade with, commander.There's an arakkoa outcast living in the middle of a ravager nest northeast of here... do you think he might ally with us? He must have some sort of secret to keeping those ravagers at bay.I have one last crate of my Northshire Port. Maybe that will help convince him that we're friendly.",
+    "name": "Peace Offering",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31541",
+    "added_in_patch": 5,
+    "description": "One of the greatest poets of our time is Master Kwang. He has composed a poem of great beauty, and a merchant in Halfhill would like to have these words inscribed in stone, to display proudly in her home. She has requested a scribe of great skill to take on this job. Will you accept the commission?",
+    "name": "Set in Jade",
+    "requires_level": 85,
+    "zone": "The Arboretum"
+}

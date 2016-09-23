@@ -1,0 +1,7 @@
+{
+    "_id": "28856",
+    "description": "Let's see... oh, here's a good one! Silithus!",
+    "name": "The Sands of Silithus",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

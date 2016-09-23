@@ -1,0 +1,7 @@
+{
+    "_id": "10568",
+    "description": "Years ago, the dreaded warlock known as Gul'dan raised the volcano in the middle of Shadowmoon.  The draenei village of Baa'ri, to the southwest, was buried under the lava along with its inhabitants and artifacts of religious importance.The treacherous tribe of Broken known as the Ashtongue has been ordered by Illidan to excavate the area.  We must use this opportunity to recover the Tablets of Baa'ri, an ancient text rumored to hold the secrets of the Temple of Karabor, now known as the Black Temple.",
+    "name": "Tablets of Baa'ri",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

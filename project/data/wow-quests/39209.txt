@@ -1,0 +1,8 @@
+{
+    "_id": "39209",
+    "added_in_patch": 6.2,
+    "description": "Hemet Nesingwary was last heard from leading an expedition into the jungle depths of Sholazar Basin. His expedition has not been heard from since.Monte Muzzleshot is a pilot who was dispatched to provide them supplies, but he hasn't returned, either.Volunteers are needed to mount an expedition to find the missing expedition. Monte's flying machine was last seen in the Wildgrowth Mangal south of the Suntouched Pillar in Sholazar Basin.",
+    "name": "Sholazar Basin",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

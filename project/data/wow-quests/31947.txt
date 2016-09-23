@@ -1,0 +1,8 @@
+{
+    "_id": "31947",
+    "added_in_patch": 5,
+    "description": "<Farmer Fung is beaming with a radiant smile.>Thanks to you, I got my precious yaks back! Unfortunately, I noticed that their time out in the wild left them rather gaunt.They must be starving, but I don't feed my prize yaks just any regular old grass.No sir, they eat only the leafiest green cabbages you can find here in the Valley.My stores are a bit low. If you bring me some cabbages for my yaks, I will reward you handsomely.",
+    "name": "Farmer Fung's Vote III: Crazy For Cabbage",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

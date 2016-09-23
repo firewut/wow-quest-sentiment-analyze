@@ -1,0 +1,8 @@
+{
+    "_id": "37660",
+    "added_in_patch": 7,
+    "description": "Let's head to the other side of the stand. We will release the demon souls one by one and get the answers that we seek concerning Lord Illidan.\r\n\r\nThe Scythe of Souls will ensure that we do.",
+    "name": "The Scythe of Souls",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

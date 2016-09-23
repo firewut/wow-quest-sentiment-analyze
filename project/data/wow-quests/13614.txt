@@ -1,0 +1,7 @@
+{
+    "_id": "13614",
+    "description": "You really did it, <name>.  Take the sigils to the Archivum Console and see if you can gain access to the Celestial Planetarium.You best hurry,  lad.  Time is of the essence.",
+    "name": "Algalon",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27007",
+    "description": "Excellent work, <name>.  We know exactly where the meeting location is.The Upper Silvermarsh is a mercury swamp to the east of here.  It's normally only inhabited by elementals and occasional stone troggs, but our scouts have seen some Twilight activity in the region.Make your way there and let's find a way to eavesdrop on the Forgemaster's meeting.",
+    "name": "Silvermarsh Rendezvous",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

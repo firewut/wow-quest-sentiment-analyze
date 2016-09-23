@@ -1,0 +1,7 @@
+{
+    "_id": "28749",
+    "description": "We just received a gryphon from the plaguelands, bearing news.  It doesn't sound good.The city of Andorhal is in the middle of a three-way war between the Forsaken, the Alliance, and the Scourge.  King Wrynn has rolled the dice and sent a death knight to lead the charge for his cause, but I'm sure he can use all the help he can get.They specifically asked for an Alliance <class> to participate in some specialized missions.  If you accept the charge, speak to me again and I will prepare a portal.",
+    "name": "The Battle for Andorhal",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

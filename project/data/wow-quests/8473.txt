@@ -1,0 +1,7 @@
+{
+    "_id": "8473",
+    "description": "These are difficult times for us, <name>.  It was a very hard decision to burn the woods bordering the Ghostlands to prevent the Scourge's expansion.The treants, who have been our friends for years, are now trying to foster the regrowth of the forest along the Scorched Grove.This is a painful thing to ask of you, <class>, but we've failed to convince our former allies to cease their endeavors.  I need you to stop them by the only means that remain to us: force.",
+    "name": "A Somber Task",
+    "requires_level": 6,
+    "zone": "Eversong Woods"
+}

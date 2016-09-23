@@ -1,0 +1,8 @@
+{
+    "_id": "43401",
+    "added_in_patch": 7,
+    "description": "The Burning Legion has begun their attack!I will remain here and prepare the temple's defenses. You must meet our allies in Dalaran and let them know that the battle has begun!Make haste, <name>. I do not know how long we will be able to keep Balnazzar at bay.",
+    "name": "A Light in the Darkness",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

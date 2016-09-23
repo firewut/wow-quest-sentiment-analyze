@@ -1,0 +1,8 @@
+{
+    "_id": "14214",
+    "description": "It's time, <name>.  We'll take it from here.Tell King Greymane that my father's arsenal will be at his disposal.  There's more than enough firepower here to blow the worgen from here to the north sea.",
+    "name": "Message to Greymane",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

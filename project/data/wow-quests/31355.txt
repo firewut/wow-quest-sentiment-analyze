@@ -1,0 +1,8 @@
+{
+    "_id": "31355",
+    "added_in_patch": 5,
+    "description": "<Class>, will you aid us?The temple's purity has been jeopardized. Even now the three masters struggle against their doubts.Please, I beg you, head in and help Wise Mari, Liu Flameheart, and Lorewalker Stonestep in their fight against the sha.",
+    "name": "Restoring Jade's Purity",
+    "requires_level": 85,
+    "zone": "Quests"
+}

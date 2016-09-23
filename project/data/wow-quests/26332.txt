@@ -1,0 +1,7 @@
+{
+    "_id": "26332",
+    "description": "<The skull speaks again.>I have my body, thanks to you, your raptor, and Gan'zulah.  Now, if I remember correctly, you and your witch doctor friend will need some mojo to complete this ritual.The Bloodscalps keep mojo in Zul'Kunda, but it is weak.  Your Darkspears' mojo will not work either.  No... you want to take from the Skullsplitter trolls, across the river to the east.Hurry back, <race>.  I will be watching...",
+    "name": "Skullsplitter Mojo",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

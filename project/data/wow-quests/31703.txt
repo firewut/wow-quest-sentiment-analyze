@@ -1,0 +1,8 @@
+{
+    "_id": "31703",
+    "added_in_patch": 5,
+    "description": "There is another task I must ask of you.The leader of the woodland sprites is the Shadowfae Madcap.If there is trouble brewing, he is the mastermind pulling the puppet strings.We do not have time to deal with the sprites' tiresome pranks and insolence. Take out the Shadowfae Madcap, and be quick about it.",
+    "name": "Madcap Mayhem",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

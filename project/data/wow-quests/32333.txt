@@ -1,0 +1,8 @@
+{
+    "_id": "32333",
+    "added_in_patch": 5.1,
+    "description": "You want to stop the Divine Bell? We need the mallet first.You want the mallet? We need to be friends first.You want to be friends? We need a Metal brew first. You want a Metal brew? You need to go to the Shrine of Fellowship first. You want to go to the Shrine of Fellowship? Great! It's in the Jade Forest southeast of the Tian Monastery.Ring the bell and get the Monkey King some brew while there. Oh... you may have to fight for it.",
+    "name": "The Second Riddle: Fellowship",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25187",
+    "description": "The recent cataclysmic events have done more than wash a few boats onto our shore, <class>.  The Southfury River has overflowed, and Durotar's entire western basin is now flooded.There are still people out there.  I've been searching for a while, but haven't been able to find anything.  Would you mind using my telescope and taking a look for yourself?",
+    "name": "Lost in the Floods",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

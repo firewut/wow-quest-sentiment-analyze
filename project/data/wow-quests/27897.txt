@@ -1,0 +1,7 @@
+{
+    "_id": "27897",
+    "description": "With the major black dragons out of the Badlands, it is now safe to move the egg again.  You will find me on a small plateau, north of New Kargath.Come and find me.",
+    "name": "The Hidden Clutch",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

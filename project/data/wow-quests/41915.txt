@@ -1,0 +1,8 @@
+{
+    "_id": "41915",
+    "added_in_patch": 7,
+    "description": "You work for a murderer and a thief.That design he wants? It is called the magistrix cut, and it was perfected by my husband. He was killed by Lespin for his secret.I had him entombed in a small cave north of the city, for we could not make the trip to Tel'anor. Buried with him is a tome that contains the secrets of the design.Retrieve the design and keep it out of his hands!",
+    "name": "The Master's Legacy",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "29941",
+    "added_in_patch": 5,
+    "description": "I recognize all you've managed to do here, <class>. My report to the Warchief will include an account of your deeds.But there's no time to rest!This land must be charted and prepared for Horde settlement. I've already selected an away team to do just that.Find them before they grow comfortable here. Inform them of their mission, and try to convince your new friends to send along one of their own to serve as a guide.You'll be staying here with me. We have preparations to make.",
+    "name": "Beyond the Horizon",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

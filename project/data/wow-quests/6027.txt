@@ -1,0 +1,7 @@
+{
+    "_id": "6027",
+    "description": "<name>, I entrust you with the Gem of the Serpent. Place this gem on the Serpent Statue's hand on Ranazjar Isle, a small island northwest of here. Placing it will summon the one who protects the Book of the Ancients. This book contains the secrets of the naga, secrets that have been kept for centuries.  Bring this book to me, and we will learn much about our scaled foes!",
+    "name": "Book of the Ancients",
+    "requires_level": 30,
+    "zone": "Desolace"
+}

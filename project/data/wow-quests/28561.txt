@@ -1,0 +1,7 @@
+{
+    "_id": "28561",
+    "description": "As soon as we make our move west in order to attack Neferset City, the enemy will strike us from the east, where we'll be weak.Nahom will be the first to fall, and if it does, Ramkahen will soon follow.A small detachment is there already.Get a briefing from them.  I want you to make sure that they hold Nahom until I can send more troops there.",
+    "name": "Nahom Must Hold",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "1205",
+    "description": "Deadmire is an ancient crocolisk in Dustwallow marsh.  And it is his time to die.Old bones grind as he pulls his huge body through the swamp, and although he still moves with the strength and speed of youth, his aging body tortures the great spirit within it, a spirit whose flame will not waver.Yet now he lives in constant, maddening pain.  You must end the life of this noble creature, <name>.  You must lead Deadmire to peace.",
+    "name": "Deadmire",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

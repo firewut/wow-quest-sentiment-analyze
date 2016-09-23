@@ -1,0 +1,8 @@
+{
+    "_id": "38570",
+    "description": "Some orcs have spoken out against Gul'dan, and they've been taken prisoner. One of them is what you'd call an engineering prodigy: Solog Roark, \"The Iron Shipwright.\" This guy's good. Designed all these docks, as well as the big dreadnaughts you fought around Shattrath.If my scouts are right, he's in a prison train as we speak... And I betcha he'd be willing to defect!Gather up some explosives and meet Durotan next to the train to the south.",
+    "name": "Derailment",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

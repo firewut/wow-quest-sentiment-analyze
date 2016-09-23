@@ -1,0 +1,7 @@
+{
+    "_id": "193",
+    "description": "You've almost proven yourself to be a master hunter of panthers.  Yet there is one panther which has eluded your grasp.Songs are sung about a mighty panther by the name of Bhag'thera.  You will see if you can use your skills to kill the great beast.Bringing the Fang of Bhag'thera to Erlgadin should be proof enough that you are a master panther hunter.",
+    "name": "Panther Mastery",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

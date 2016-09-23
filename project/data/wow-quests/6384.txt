@@ -1,0 +1,8 @@
+{
+    "_id": "6384",
+    "description": "For just a few coins I will have a wind rider bring you to Orgrimmar.  When you get there, you can take Grimtak's meats to Gryshka.  Her inn is in the Valley of Strength.Speak with me again when you are ready for the journey.",
+    "name": "Ride to Orgrimmar",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Durotar"
+}

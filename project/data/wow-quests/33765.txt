@@ -1,0 +1,9 @@
+{
+    "_id": "33765",
+    "added_in_patch": 6,
+    "description": "Your arrival should be cause for celebration, hero, but I fear our troubles are just beginning.Warlord Ner'zhul and his Shadowmoon clan have launched a surprise attack on a draenei settlement to the north.Prophet Velen has gone to aid the wounded at Teluuna Observatory, but we need more defenders.I must go to assist the others. If you wish to help us, go to Arbor Glen and kill any Shadowmoon enemies that you see.",
+    "name": "Dark Enemies",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Teluuna Observatory"
+}

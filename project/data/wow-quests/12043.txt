@@ -1,0 +1,7 @@
+{
+    "_id": "12043",
+    "description": "You, <class>!  These undead south of us are being a constant nuisance to our work.  Go clear them out, will ya?",
+    "name": "Nozzlerust Defense",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

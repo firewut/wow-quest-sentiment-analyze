@@ -1,0 +1,7 @@
+{
+    "_id": "9641",
+    "description": "The Exodar's crash scattered pieces of fouled crystals all over Bloodmyst Isle, corrupting the water and the landscape.We've even begun finding pieces of the crystals inside the flesh of animals taken for meat. I've uncovered a way to purify the shard and turn them into functional crystals, so if you bring me enough shards, I'll trade one of my completed crystals for them. So far I've found the shards in the bodies of bears, ravagers, flutterers, and treants inhabiting the corrupted part of the island.",
+    "name": "Irradiated Crystal Shards",
+    "requires_level": 13,
+    "zone": "Bloodmyst Isle"
+}

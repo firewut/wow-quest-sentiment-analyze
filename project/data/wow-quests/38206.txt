@@ -1,0 +1,9 @@
+{
+    "_id": "38206",
+    "added_in_patch": 7,
+    "description": "You must be wondering what all of this is about. Please, walk with me.I have some final preparations to make before we set sail, and I know that your presence will inspire the crew.",
+    "name": "Making the Rounds",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

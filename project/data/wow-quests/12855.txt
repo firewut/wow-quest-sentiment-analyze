@@ -1,0 +1,7 @@
+{
+    "_id": "12855",
+    "description": "The tone of Brann's note suggests he meant to bury something with the note, maybe a pack of some kind. You're sure this was all you found?Okay, I'm going to have you take one of these frosthounds with you. The frostborn use them for tracking. Bring it to the destroyed camp and let it get Brann's scent.It should at least lead you to the location of those missing possessions, and if we're lucky, Brann himself. ",
+    "name": "Sniffing Out the Perpetrator",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

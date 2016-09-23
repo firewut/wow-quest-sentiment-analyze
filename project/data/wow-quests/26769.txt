@@ -1,0 +1,8 @@
+{
+    "_id": "26769",
+    "description": "Enjoy your cut of the loot, <name>!I hate to share, but business is business. And that double-dealer Nozzlepot is guaranteed a 10% cut of this treasure. Can you deliver this to him at his outpost in the north?He's got a little research station upstream, along the river. If you travel just northeast of town here, Horton Hornblower can give you a free ride on one of his riverboats. Tell him I sent ya!",
+    "name": "Raging River Ride",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

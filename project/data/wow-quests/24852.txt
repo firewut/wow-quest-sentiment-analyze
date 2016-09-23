@@ -1,0 +1,8 @@
+{
+    "_id": "24852",
+    "description": "Despite their size, the Bristleback greatly outnumber us. A pack ambush can easily overwhelm even the largest tauren.Many new initiates have taken up arms to defend our home. Some have given their lives, but others have been captured alive.Please, find their cages and free them. The battle should keep the quilboar distracted.",
+    "name": "Our Tribe, Imprisoned",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

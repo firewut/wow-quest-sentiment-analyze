@@ -1,0 +1,7 @@
+{
+    "_id": "12152",
+    "description": "It is good to see you back among the living. Many who travel the path of the dead do not return to speak of it.While you were away, a vision appeared to Kraz revealing what remains to be done.A sacred offering lies somewhere inside the crypt. Take this spirit dust fashioned from the remnants you collected and use it on the offering.The infused offering will bring an end to the corrupted warlord and will release the many tormented souls.May the spirits guide your actions, <name>.",
+    "name": "Jin'arrak's End",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

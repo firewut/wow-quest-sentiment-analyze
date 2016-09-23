@@ -1,0 +1,8 @@
+{
+    "_id": "35899",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Blackrock Depths (Detention Block) Reward Quest",
+    "requires_level": 47,
+    "zone": "Quests"
+}

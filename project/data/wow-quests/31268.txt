@@ -1,0 +1,8 @@
+{
+    "_id": "31268",
+    "added_in_patch": 5,
+    "description": "Far to the south, the swarm breeds weapons of destruction - enormous, nearly unbreakable amber scorpions.Like all other creatures, they are subject to manipulation, but unlike other creatures, they have not yet submitted to my mind control.It appears that further research is necessary before I can dominate them for our own purposes.I must study their brains, and you must retrieve some specimens for me.Take this sonic emitter. I have found it to be quite effective against the beasts.",
+    "name": "A Little Brain Work",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

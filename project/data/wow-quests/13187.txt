@@ -1,0 +1,7 @@
+{
+    "_id": "13187",
+    "description": "In my peoples' struggle against the forces of the undead, they dug deeper as they lost ground.They inadvertently exposed minions of the Old Gods known only as the Faceless.In the end, we could not fight a war on two fronts.With your aid, perhaps the Faceless will finally fall.",
+    "name": "The Faceless Ones",
+    "requires_level": 71,
+    "zone": "Ahn'kahet: The Old Kingdom"
+}

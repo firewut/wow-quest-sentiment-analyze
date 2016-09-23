@@ -1,0 +1,8 @@
+{
+    "_id": "39390",
+    "added_in_patch": 7,
+    "description": "You found a water-logged tome near the bones of a massive creature. Written in an unfamiliar language, the book is adorned with runes and alchemical symbols. Perhaps another alchemist would be able to tell you more.",
+    "name": "A Mysterious Text",
+    "requires_level": 100,
+    "zone": "Alchemy"
+}

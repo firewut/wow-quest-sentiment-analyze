@@ -1,0 +1,8 @@
+{
+    "_id": "14129",
+    "description": "I've been trying to impress our new Horde allies with our legendary goblin efficiency, but in hindsight automating the shredders was a bad idea. Now they're mindless killing machines, rampaging over the countryside. Don't get me wrong - that kind of thing has its place - but for the time being I need a brave <class> to help me get these things under control.It's easy. Automated shredders, like all machines, must first be beaten into submission. Afterwards, seize the controls and I'll radio you instructions.",
+    "name": "Runaway Shredder!",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Azshara"
+}

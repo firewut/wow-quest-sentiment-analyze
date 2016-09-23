@@ -1,0 +1,9 @@
+{
+    "_id": "34948",
+    "added_in_patch": 6,
+    "description": "I've been hearing rumors of this new prototype shredder the Iron Horde's engineers have been working on.\r\n\r\nI think we ought to investigate. A shadow hunter spotted some sort of shredder manual, and it might have something to do with that prototype.",
+    "name": "Shredder Manual",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

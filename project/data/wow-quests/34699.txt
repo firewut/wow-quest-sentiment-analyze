@@ -1,0 +1,8 @@
+{
+    "_id": "34699",
+    "added_in_patch": 6,
+    "description": "When we fled Stonemaul, we had to leave others behind.If we try to rescue them and are recognized, the ogres will know our purpose, and the first thing they will do is kill our friends.The ogres do not know you, which might give you a fighting chance.Enter Stonemaul, find the other gladiators, and release them from their bonds. Do this and you will have our loyalty.",
+    "name": "Getting Gladiators",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

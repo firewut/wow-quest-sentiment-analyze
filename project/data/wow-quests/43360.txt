@@ -1,0 +1,8 @@
+{
+    "_id": "43360",
+    "added_in_patch": 7,
+    "description": "Long have I walked this land and I have seen many forms of corruption.\r\n\r\nThe creatures that wander this hall are twisted by the magics unleashed by the failed arcan'dor. These dryads have lost their way, and cannot be saved.\r\n\r\nYou must destroy them. End their suffering.",
+    "name": "The Shardmaidens",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

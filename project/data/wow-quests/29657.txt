@@ -1,0 +1,7 @@
+{
+    "_id": "29657",
+    "description": "<A voice like the sound of light bells rings in your head.>The Mechanar employs my race's technology to create manacells, objects which provide great amounts of power.I need you to eliminate Mechano-Lord Capacitus so that Kael'thas' forces cannot harvest that power.",
+    "name": "With Great Power, Comes Great Responsibility",
+    "requires_level": 67,
+    "zone": "Quests"
+}

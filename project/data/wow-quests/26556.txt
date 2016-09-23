@@ -1,0 +1,8 @@
+{
+    "_id": "26556",
+    "description": "Ever since those goblins took up refuge in Orgrimmar, they have been dumping all of their waste in our water supply.I have no idea what effect this is having on our local fishing supply, but I don't think it's good.  I have heard reports of a new mutated fish species spawning in that toxic pool near their camp.  A few specimens would really help me figure out what exactly is going on.Can you help me out?",
+    "name": "No Dumping Allowed",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Fishing"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12436",
+    "description": "Hail, <class>.  You'll find that here at Conquest Hold, we buy and sell what Krenna wants us to buy and sell... at the price that Krenna wants us to buy and sell.All this is stifling business.  I'm hoping to make a little bit of coin on the side and feed our grunts at the same time.  Why don't you go hunt down some stag and bring me the venison?They're numerous in the area, so bring me only the best meat.",
+    "name": "Supplemental Income",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

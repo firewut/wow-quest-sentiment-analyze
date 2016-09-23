@@ -1,0 +1,7 @@
+{
+    "_id": "11505",
+    "description": "Auchindoun's spirits have no stake in the conflict between the Alliance and the Horde, but incurring their favor will give our side an edge in the region.Ancient custom directs the living to pay their respects at spirit towers in the Bone Wastes - though only at specific times of the day.  If you can help secure a tower during these times, you will have helped bring the spirits to our side.Should we succeed in gaining the spirits' favor, they will grant us a boon that will aid us in our endeavors.",
+    "name": "Spirits of Auchindoun",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

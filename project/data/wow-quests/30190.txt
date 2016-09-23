@@ -1,0 +1,8 @@
+{
+    "_id": "30190",
+    "added_in_patch": 5,
+    "description": "Sprites again! I hate these things. We need to stop them before they hurt someone or burn down half of the village!If you see any of the pests, please deal with them! ",
+    "name": "Sprite Plight",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

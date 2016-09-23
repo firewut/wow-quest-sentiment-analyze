@@ -1,0 +1,7 @@
+{
+    "_id": "10386",
+    "description": "Overlord Hun Maimfist is always looking for volunteers for his suicide attacks against the Burning Legion.  You definitely have the courage for one of his \"missions.\"  Speak with him if you've got the stomach for more carnage.  He is celebrating just over there by that fallen fel reaver.  He and his guards killed it just a few hours ago, we would all have died here but for his ferocity and skill in battle.",
+    "name": "The Fel Reaver Slayer",
+    "requires_level": 58,
+    "zone": "Quests"
+}

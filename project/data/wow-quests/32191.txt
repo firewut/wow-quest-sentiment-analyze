@@ -1,0 +1,8 @@
+{
+    "_id": "32191",
+    "added_in_patch": 5.1,
+    "description": "Before the mogu overwhelmed our scouting party, we found relics scattered amongst the ruins to the north.I would like to collect some samples, but the mogu's terracotta watchdogs are too much for us to handle.If you could clear the area of their presence, we will be able to resume our work.",
+    "name": "Ancient Guardians",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41760",
+    "added_in_patch": 7,
+    "description": "Kel'danath discovered something incredible - the power to subdue and even control the withered.\r\n\r\nI will pick up where my old friend left off. We shall see to it that he did not die in vain. \r\n\r\nPerhaps in the end we can even find peace for the wretches who have been left to a fate worse than death.\r\n\r\nI will need more subjects. Take Kel'danath's spellstone and use it to subdue more withered.",
+    "name": "Kel'danath's Legacy",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

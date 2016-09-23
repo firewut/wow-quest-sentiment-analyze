@@ -1,0 +1,8 @@
+{
+    "_id": "36695",
+    "added_in_patch": 6,
+    "description": "Botani and the plant monstrosities they conjure have been slowly encroaching on our outposts in the north. For every plant we kill, new ones seem to rise in its place.\r\n\r\nRokhan has put together a plan for striking at the heart of their lands, in Everbloom Wilds. He thinks this will draw them back into the jungles of Gorgrond, giving us more room to maneuver around them.",
+    "name": "Assault on the Everbloom Wilds",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

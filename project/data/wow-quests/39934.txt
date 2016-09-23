@@ -1,0 +1,8 @@
+{
+    "_id": "39934",
+    "added_in_patch": 7,
+    "description": "Have you seen those demon hunters yet? I'm not entirely sold on their allegiance to our cause, but while we have them, we may as well exploit them.Everybody needs glyphs, you know.Go see what you can discover about them. Azsuna is as good a place as any to start.Perhaps my genius has worn off on you and you'll be able to create your own recipes based on what you learn.",
+    "name": "Our New Allies",
+    "requires_level": 102,
+    "zone": "Inscription"
+}

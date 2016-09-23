@@ -1,0 +1,8 @@
+{
+    "_id": "30735",
+    "added_in_patch": 5,
+    "description": "Our highest-ranked trainee is an outsider like you. It is both strange and exciting to live in a time when so many foreigners have embraced the way of the Crane.Your challenger's name is Mindel Sunspeaker, and he awaits you within Angkhal Pavilion.",
+    "name": "Mindel Sunspeaker",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

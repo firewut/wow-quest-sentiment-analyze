@@ -1,0 +1,8 @@
+{
+    "_id": "42490",
+    "added_in_patch": 7,
+    "description": "Deep beneath Suramar is a defunct set of tunnels known as the Arcway. They were abandoned when a disaster disrupted the mana collectors operating there. \r\n\r\nI know not what awaits you down there, but I do know one thing.\r\n\r\nWe are not the only ones interested in this place. Make enough noise and one of the advisors with whom I served under Elisande is sure to appear.\r\n\r\nHis name is Vandros. Slay him, if you can.\r\n\r\nHis death will be our victory, as we deprive Elisande of one more weapon in her arsenal.",
+    "name": "Opening the Arcway",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

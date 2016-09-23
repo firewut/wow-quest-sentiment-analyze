@@ -1,0 +1,8 @@
+{
+    "_id": "9903",
+    "description": "You've dealt with most of the little hydra, but I doubt Mragesh was impressed by your display. He's a cunning, ferocious beast and he's dogged many an angler in his time.I intend to be the last one he'll ever bother. He's bound to be hiding deep in the waters of Serpent Lake, to the northeast. He's a has-been; he just doesn't know it yet.",
+    "name": "The Biggest of Them All",
+    "requires_level": 62,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

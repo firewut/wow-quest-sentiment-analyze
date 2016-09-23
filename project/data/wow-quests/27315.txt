@@ -1,0 +1,7 @@
+{
+    "_id": "27315",
+    "description": "Basic brave philosophy dictates that if you kill the leaders of your enemy's forces, they will soon fall into disarray. We are going to do just that, <class>.Isha Gloomaxe is the closest of the Grimtotem chiefs. We will test her and her axe, and she will be found wanting.",
+    "name": "Grimtotem Chiefs: Isha Gloomaxe",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

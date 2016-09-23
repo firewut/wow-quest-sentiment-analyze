@@ -1,0 +1,8 @@
+{
+    "_id": "13992",
+    "description": "I was sent here to scout out the centaur activity. I've been trackin' their every movement for days! It's time for me ta sneak out, but they've got this oasis surrounded.You look like a dangerous one. Can you make a lot of noise for me? Stir 'em up! Start killin' indiscriminately. While they're looking out for you I'll slip out to get my info to Regthar Deathgate.",
+    "name": "A Little Diversion",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

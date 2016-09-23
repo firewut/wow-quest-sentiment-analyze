@@ -1,0 +1,8 @@
+{
+    "_id": "43392",
+    "added_in_patch": 7,
+    "description": "This is without a doubt Natalie's writing. The entry was scrawled in haste, but the message is clear: The spell within this journal will lead us to Natalie's spirit, but it needs to be incanted at a shadow altar within the catacombs.Odessa and I have a duty to watch over Natalie's body, but with your considerable power, you should be able to perform the spell with ease.",
+    "name": "Into the Void",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

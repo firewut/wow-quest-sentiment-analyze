@@ -1,0 +1,9 @@
+{
+    "_id": "39569",
+    "added_in_patch": 6.2,
+    "description": "Gul'dan's fel poison turns already ferocious orcs into hateful, vicious creatures with no soul. But were he here to guide us, Prophet Velen wouldn't give up on the whole race. If you could find samples of their blood, maybe we can reverse the process?You'll find fel orcs all over Tanaan, but the Iron Front, the Fel Forge, and the Throne of Kil'jaeden are the most densely populated.",
+    "name": "Breaking Their Fel Bonds",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

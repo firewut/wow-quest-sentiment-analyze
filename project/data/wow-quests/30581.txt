@@ -1,0 +1,8 @@
+{
+    "_id": "30581",
+    "added_in_patch": 5,
+    "description": "Sure, I'm willing to help you guys out. But we need to eat, too! I don't even have a pot to cook in! Let alone ingredients to put in it!Here's a list of the things that I need. Now get!",
+    "name": "... and the Pot, Too!",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

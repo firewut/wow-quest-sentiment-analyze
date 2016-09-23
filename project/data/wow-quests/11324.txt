@@ -1,0 +1,7 @@
+{
+    "_id": "11324",
+    "description": "When you've eaten Talonshrike's eyes, you should be able see Garwal and rip out his throat!<Race>-thing, seek out and slay Garwal in the western Rivenwood. After you have killed him, go and tell Mistwalker that I am once more the alpha worg!",
+    "name": "Alpha Worg",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

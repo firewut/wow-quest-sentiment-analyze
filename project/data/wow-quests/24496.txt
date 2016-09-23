@@ -1,0 +1,8 @@
+{
+    "_id": "24496",
+    "description": "<name>, this rune was given to me to pass on to ye. Take some time to read it when ye have a chance. I'm thinkin' it came from the mage trainer Teegli. Take a gander at it and go find her inside Anvilmar.",
+    "name": "Arcane Rune",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Mage"
+}

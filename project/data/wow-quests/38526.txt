@@ -1,0 +1,8 @@
+{
+    "_id": "38526",
+    "added_in_patch": 7,
+    "description": "You lack recipes for boots?What, were you trained by a tauren or something?Hurry up, then. We probably have a few minutes before the demons attack again. Here's a pattern - show me your work.",
+    "name": "Smith Under Fire",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

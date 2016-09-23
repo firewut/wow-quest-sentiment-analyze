@@ -1,0 +1,7 @@
+{
+    "_id": "25987",
+    "description": "Hey, <name>, I've got an idea for a disguise! Take one of these merciless whatchamacallits and put it on your head.What could possibly go wrong?Ready to put it on?",
+    "name": "Put It On",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

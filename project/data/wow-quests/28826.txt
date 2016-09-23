@@ -1,0 +1,8 @@
+{
+    "_id": "28826",
+    "description": "Greetings, hero of Azeroth.We of the Earthen Ring know you by name, <name>.Your exploits and accomplishments are many. Azeroth already stands in your debt, and yet again she is in need of her heroes.I am but a messenger. A powerful presence seeks audience with you.Peer into the Waters of Farseeing and behold the dilemma of our world.",
+    "name": "The Eye of the Storm",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

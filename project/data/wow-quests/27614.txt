@@ -1,0 +1,7 @@
+{
+    "_id": "27614",
+    "description": "This battle was won before it started.  Right now, we're just shooting for style points.Within these barracks, the sniveling Scarlet Crusaders cling to their priceless artifacts, even though some of the objects are too holy for their now-undead hand to touch.  So they keep them in chests, hidden from the world.You will find these artifacts, and bring them back to me.  They belong to the Argent Crusade.  They belong in the hands of the righteous.",
+    "name": "Scarlet Salvage",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

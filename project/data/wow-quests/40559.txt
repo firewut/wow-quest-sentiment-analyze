@@ -1,0 +1,8 @@
+{
+    "_id": "40559",
+    "added_in_patch": 7,
+    "description": "<name>, I've been hearing a lot of talk about Black Rook Hold from our friend here, about a room which contains volumes of texts on just about every type of craft there is.I'm willing to bet there's a book in there on jewelcrafting that could come in handy for us.Go there and bring me back anything you find. I'll share a sweet new design I came up with you when you return.",
+    "name": "The Raven's Wisdom",
+    "requires_level": 110,
+    "zone": "Jewelcrafting"
+}

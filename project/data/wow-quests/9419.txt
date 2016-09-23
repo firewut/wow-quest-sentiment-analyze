@@ -1,0 +1,7 @@
+{
+    "_id": "9419",
+    "description": "We recently found out that the Horde has been scavenging the Silithus desert for resources, but paid them little mind. We thought it could not be worth it to station large numbers in this sweltering desert.However, it was discovered the importance of the resources, and now we are scrambling to catch up.If I have your assistance, you must go into the desert and recover the silithyst and return it here.",
+    "name": "Scouring the Desert",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34665",
+    "added_in_patch": 6,
+    "description": "You've been making a name for yourself in the arena, <name>!Don't get too excited though...fame has its consequences! You've been challenged by an up-and-coming gladiator who is looking to make a name for himself, sound familiar?Your next fight is against Captain Boomspark, a mercenary who came here to fight for the Iron Horde.The Iron Horde ain't exactly throwing piles of gold around, so now he's here!He's got a shredder, so watch out for the blades... and the fire too... especially the fire!",
+    "name": "Ring of Trials: Captain Boomspark",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

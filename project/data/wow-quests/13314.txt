@@ -1,0 +1,7 @@
+{
+    "_id": "13314",
+    "description": "The Horde is up to something and I don't like it. After the stunt they pulled on the Broken Front, they're capable of anything, and it's up to us to stop it.There's been a flurry of activity in the skies over the Icecrown Glacier, to the west of Aldur'thar and the Ironwall Rampart. Horde scouts and messengers streak in and out on dragonhawks, carrying reports and orders. Take this dart gun and use it to kill the Orgrim's Hammer Scouts. It'll probably work best if you're flying, too.",
+    "name": "Get the Message",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

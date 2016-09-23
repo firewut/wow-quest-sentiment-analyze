@@ -1,0 +1,7 @@
+{
+    "_id": "28249",
+    "description": "You've more than proved your intent and your abilities. With Grim Batol cut off and the black dragons routed, the Twilight's Hammer are cornered in their Citadel.Go to your leaders. You should find them west, at Crushblow. Let them know that when the attack on the Twilight Citadel begins, the red flight shall fill the skies above. You may not be able to atone for all of the sins your allies have committed, but in this one battle, we shall be by your side.The Twilight's Hammer will fall.",
+    "name": "Crushblow",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

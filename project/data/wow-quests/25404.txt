@@ -1,0 +1,7 @@
+{
+    "_id": "25404",
+    "description": "South of here you'll find a solitary tower, known as \"Blackhorn's Penance.\" Upon it is bound a demon: Tyrus Blackhorn.You may think me mad for turning to an old foe for help, but Blackhorn was once a mortal, and I can't imagine he wants to watch Twilight's Hammer triumph.Speak with Blackhorn, and see if you can convince him to help us in our fight. He may yet redeem himself....Just don't set him free!",
+    "name": "If You're Not Against Us...",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

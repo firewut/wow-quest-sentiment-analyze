@@ -1,0 +1,7 @@
+{
+    "_id": "11952",
+    "description": "We must act to preserve the balance! Time is against us.Firewatch Ridge in Searing Gorge is an established bastion of Twilight Cult activity. Recently, they have been using ice stones in the cave to communicate with the Tidehunter's realm, much like they do in Silithus. Much as I am loath to do this, the spirits will understand - you must summon one of this Ahune's lieutenants and destroy it. Perhaps this forestalling action will be enough...",
+    "name": "Striking Back",
+    "requires_level": 49,
+    "zone": "Midsummer"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12980",
+    "description": "The presence of that armor plate is disorienting, but we need to find out all we can from it. It could be part of one of Valduran's schemes.He's dedicated an extraordinary amount of effort to mining, refining, smithing, and testing this metal.To the east, along the northern mountain face, is a building called Mimir's Workshop. It hasn't been used in quite some time, but if we're lucky, some of its attendants are still functional. Take your armor plate there and learn what you can from it.",
+    "name": "The Armor's Secrets",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

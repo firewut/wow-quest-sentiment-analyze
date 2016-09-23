@@ -1,0 +1,7 @@
+{
+    "_id": "28319",
+    "description": "Intel tells us that High Warlock Xi'lun - the final member of the Big Three - is within the cave atop Dreadmaul Peak, preparing for his big moment.He is waiting for a delivery: an Orb of Domination, with which he can perform a powerful summoning ritual.  I want you to give him this:<Troteman hands you a glass orb.>This is the clear glass orb that you freed from the Altar of Storms.  It is powerless.  Give it to Xi'lun, and cross your fingers that he doesn't notice.",
+    "name": "A Delivery for Xi'lun",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

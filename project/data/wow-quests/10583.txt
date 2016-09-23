@@ -1,0 +1,7 @@
+{
+    "_id": "10583",
+    "description": "Wing Commander Nuainn originally sent three of us out here to keep watch over the Deathforge and to gather information. Flanis Swiftwing volunteered to try to infiltrate the Deathforge, but we haven't heard anything from him in days.I fear the worst, <name>. Flanis is a skilled scout, but if he's gotten in over his head, we have no way of knowing. Search the Deathforge for him and recover any information or items he might have collected.",
+    "name": "The Fate of Flanis",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

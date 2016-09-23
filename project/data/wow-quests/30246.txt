@@ -1,0 +1,8 @@
+{
+    "_id": "30246",
+    "added_in_patch": 5,
+    "description": "Some of the mantid have made it on top of the wall. There's some risk they'll route the soldiers we have posted there if their numbers are large enough.I need you to get on top of the wall and help clear out any that have broken through.",
+    "name": "Upon the Ramparts",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

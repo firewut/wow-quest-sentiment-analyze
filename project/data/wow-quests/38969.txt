@@ -1,0 +1,8 @@
+{
+    "_id": "38969",
+    "added_in_patch": 7,
+    "description": "While Tytallo is busy exacting withered genocide, it falls on me to take care of the more mundane aspects of training.We're going to need to see how talented you are.Craft an entire set of silkweave armor for me. Leyweaver Mithrogane can provide you with a proper mannequin for displaying it.",
+    "name": "Master of Silkweave",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

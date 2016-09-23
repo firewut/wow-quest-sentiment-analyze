@@ -1,0 +1,8 @@
+{
+    "_id": "31957",
+    "added_in_patch": 5,
+    "description": "You venture into the heart of the wastes to face me again, only to suffer defeat at the hands of a true grand master. Noble, but foolish.",
+    "name": "Grand Master Shu",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

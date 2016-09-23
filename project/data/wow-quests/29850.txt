@@ -1,0 +1,7 @@
+{
+    "_id": "29850",
+    "description": "The iron dwarves are busy at work carving out massive stone constructs that I fear will soon be used as powerful weapons.You must defeat their overseer, Krystallus, and the dark rune giants already walking the halls before it is too late!",
+    "name": "Corrupt Constructs",
+    "requires_level": 75,
+    "zone": "Quests"
+}

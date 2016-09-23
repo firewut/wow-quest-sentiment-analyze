@@ -1,0 +1,7 @@
+{
+    "_id": "10818",
+    "description": "<name>, while you were out being one hell of a <class>, Baron Sablemane sent his pet dragon up here with a message.He's asked for you personally.  From what I understand, he wants you to head up his own fight against the gronn.I guess you're the most qualified person in all of Outland to help him, but if I were you, I'd get in contact with a couple of friends first and ask them to join you at the Circle of Blood.",
+    "name": "Baron Sablemane Has Requested Your Presence",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

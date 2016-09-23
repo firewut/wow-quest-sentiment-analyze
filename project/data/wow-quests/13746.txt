@@ -1,0 +1,7 @@
+{
+    "_id": "13746",
+    "description": "Good, honest, honed steel may not carry the day. The other combatants are using enchanted blades and I find myself at a disadvantage, but all is not lost.There's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, <name>. Otherwise, you'll catch warts.",
+    "name": "A Blade Fit For A Champion",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

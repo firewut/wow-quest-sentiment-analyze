@@ -1,0 +1,9 @@
+{
+    "_id": "34957",
+    "added_in_patch": 6,
+    "description": "The time has come to challenge the Burning Blade masters.Go to the back of the cavern. There you will find the challenge ring and the masters watching over it from above.Pull the blade from the middle of the ring to issue your challenge. My clan values honor above all else and will respect your claim to trial by combat.As reward, you will be allowed to walk away with your life. Or, you will be dead.",
+    "name": "Challenge of the Masters",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

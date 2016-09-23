@@ -1,0 +1,7 @@
+{
+    "_id": "28869",
+    "description": "If you hadn't noticed, there's a very small elemental that has taken a liking to you. If you stay on the ground for even a few moments, I'm sure you'll spot him.You seem to be quite adept at making friends down here. A good talent to have.",
+    "name": "Pebble",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

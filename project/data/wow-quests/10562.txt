@@ -1,0 +1,7 @@
+{
+    "_id": "10562",
+    "description": "Don't let your guard down, <race>. We're under constant assault from the Burning Legion.From their base of Legion Hold to the northwest, the demons rain down a ceaseless stream of infernals. As quickly as we can kill them, the new meteors impact and begin a new wave of attacks.My men are ragged and exhausted. I don't know how much longer they'll hold out. Please, <name>, lend your help to our defenses. Take your place on the line and halt the advance of the infernals!",
+    "name": "Besieged!",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

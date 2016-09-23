@@ -1,0 +1,8 @@
+{
+    "_id": "40218",
+    "added_in_patch": 7,
+    "description": "I have a few urgent matters to take care of, but soon after I will make my way to Dreadscar Rift and aid you with your summoning.\r\n\r\nYou should warn Ritssyn to keep his distance. I'll be there to repay my debt to you, not to speak to the hypocrite who chose the council over his friends.",
+    "name": "Debt Repaid",
+    "requires_level": 103,
+    "zone": "Warlock Campaign"
+}

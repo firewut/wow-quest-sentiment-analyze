@@ -1,0 +1,9 @@
+{
+    "_id": "35705",
+    "added_in_patch": 6,
+    "description": "Commander, two goblin smugglers - Mixxy and Trixxy Weldblast - came through here recently and went off towards the bog to the east.They had drilling equipment but weren't carrying any weapons, sir.I'd bet anything that they'll have materials we'd want, and that they could use some protection in return.Commander, I think seeking them out would be a good idea.",
+    "name": "Best Deals Anywhere",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34850",
+    "added_in_patch": 6,
+    "description": "The blade is not the only important item a blademaster carries.Once he has passed his final tests in the Masters' Caverns, the blademaster is given the honor of wearing the Burning Blade's banner.When my petition to reclaim my rightful place with the clan fell upon deaf and craven ears, I was stripped of that honor.No doubt, my banner has been stored away somewhere in Hallvalor. They'll give it to some other aspiring blademaster if they don't burn it first.",
+    "name": "Not Without My Honor",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "28850",
+    "description": "I don't understand why the king wants to waste time saving his hide, but if you want to risk your life, then be my guest.Crowley and his men are holed up upstairs, probably plotting against the king as we speak!",
+    "name": "The Prison Rooftop",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

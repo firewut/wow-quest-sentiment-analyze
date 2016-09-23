@@ -1,0 +1,7 @@
+{
+    "_id": "10922",
+    "description": "Oy! You look like you can take care of yerself, <race>. Me and the crew here are looking for a bodyguard to watch over us while we hit a dig site to the north. The pay is pretty good and all you gotta do is make sure no nasty creatures kill me or any of my employees.If you successfully make it back without any casualties, Dwarfowitz over there will pay ya.",
+    "name": "Digging Through Bones",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

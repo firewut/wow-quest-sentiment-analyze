@@ -1,0 +1,8 @@
+{
+    "_id": "43806",
+    "added_in_patch": 7,
+    "description": "The third fleet has shipped out ahead of us, <name>. This gryphon will bring you to them.\r\n\r\nGood luck out there. It's clear the Legion isn't going to make this easy, but let's hope King Varian has matters well in hand.",
+    "name": "The Battle for Broken Shore",
+    "requires_level": 98,
+    "zone": "Stormwind City"
+}

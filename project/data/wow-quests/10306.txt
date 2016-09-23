@@ -1,0 +1,7 @@
+{
+    "_id": "10306",
+    "description": "The cloak, undoubtedly of high elven craftsmanship, is richly tailored, even by the standards of the Kirin Tor. The symbols and characters sewn into the cloak's fabric hold no meaning for you, but clearly imbue the garment with magical properties.Perhaps this object binds the spirit of its former owner to this plane of existence. If so, returning it to the dresser in Conjurer Luminrath's quarters might break the spirit's link to this world, allowing it to rest.",
+    "name": "Conjurer Luminrath",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

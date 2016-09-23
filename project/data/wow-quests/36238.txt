@@ -1,0 +1,9 @@
+{
+    "_id": "36238",
+    "added_in_patch": 6,
+    "description": "$p, thank you for avenging my death... but I have just one more favor to ask of you.If you help me see this through, I will forever be in your debt.Take these items and meet me at the forge in Stonefang Outpost.I have imbued them with a portion of my essence, but we still need the aid of another to reforge the hammer.It is time for me to reconcile with Kugra, so that we both may finally find peace....",
+    "name": "Mending A Broken Heart",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

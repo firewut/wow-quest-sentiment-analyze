@@ -1,0 +1,8 @@
+{
+    "_id": "32372",
+    "added_in_patch": 5.1,
+    "description": "The Kor'kron have been trained to be the finest, most loyal soldiers of the Warchief. Their presence here means that Garrosh fears an uprising.Vol'jin and his people are as much a part of the Horde as any orc.We must break this occupation and free the trolls. It pains me to say this, but you must eliminate enough of the Kor'kron so that the trolls can retake their city. Then meet me at Darkspear Hold so we might challenge their officer directly.",
+    "name": "De-Subjugation",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

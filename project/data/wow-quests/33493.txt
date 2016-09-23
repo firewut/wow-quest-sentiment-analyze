@@ -1,0 +1,9 @@
+{
+    "_id": "33493",
+    "added_in_patch": 6,
+    "description": "Part of me agrees with Karg - we COULD challenge the Iron Wolf right now. My fists clench at the mention of his name. My muscles scream for vengeance.But then, in my heart, I feel Asha. Calming me. Guiding me. I do not deserve her wisdom, but it is a gift I will not waste.<Lokra squints at the sky.>Durotan and the others will be gathering at your garrison about now. We should meet them.",
+    "name": "Return to the Pack",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

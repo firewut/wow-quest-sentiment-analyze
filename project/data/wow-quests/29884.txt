@@ -1,0 +1,7 @@
+{
+    "_id": "29884",
+    "added_in_patch": 5,
+    "description": "It's time for Sully and I to leave. We'll keep our eyes out for any sign of the White Pawn and report back shortly.I'm afraid I must leave you in charge while Admiral Taylor is recovering. Learn as much as you can from these jinyu while we are away. I expect a full report when we return.",
+    "name": "Tracking Event: Spies Leave",
+    "zone": "The Jade Forest"
+}

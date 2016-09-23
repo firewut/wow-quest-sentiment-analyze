@@ -1,0 +1,8 @@
+{
+    "_id": "41540",
+    "added_in_patch": 7,
+    "description": "Thas'dorah is a mighty bow indeed! The weapon was carved from a limb of Thas'alah, the mother tree of Eversong, and infused with the magic of the Sunwell. I fought alongside its first wielder, Talanas Windrunner, during an Amani troll incursion.Ah, but such tales can wait for another time.Courier Larkspear was making preparations to depart. You can meet him at Krasus' Landing.",
+    "name": "Rendezvous with the Courier",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

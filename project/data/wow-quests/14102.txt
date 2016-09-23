@@ -1,0 +1,7 @@
+{
+    "_id": "14102",
+    "description": "The Kvaldir have returned to the coasts of Northrend and if left unchecked, they will prevent our supplies and reinforcements from arriving. One of them, known as Mistcaller Yngvar, has taken up residence in a cave on the western side of Hrothgar's Landing. There, he manipulates the mists to conceal the Kvaldir and  the sea beasts they command.Take this charm and travel across the strait north of the tournament grounds, to Hrothgar's Landing. Find the mistcaller's cave and use the charm to reveal him.",
+    "name": "Mistcaller Yngvar",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

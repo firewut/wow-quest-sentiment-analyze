@@ -1,0 +1,8 @@
+{
+    "_id": "26003",
+    "description": "There are great dangers in the woods south of here. They are crawling with Darnassian scouts - assassins sent from Darnassus to kill us. Perhaps we can turn the tables on them, eh?When I was marooned on the Lost Isles a goblin gave me these infrared heat focals. They allow the wearer to see heat signatures of certain creatures. Take the focals and use them while in the woods to the south. They will allow you to easily spot the scouts. Kill as many of them as you can! For the Horde!",
+    "name": "Lessons from the Lost Isles",
+    "requires_level": 24,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

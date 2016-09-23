@@ -1,0 +1,8 @@
+{
+    "_id": "43485",
+    "added_in_patch": 7,
+    "description": "We're going to need a distraction if we are to rescue Mathias Shaw from where he's being held captive in Felsoul Hold.\r\n\r\nA big one.\r\n\r\nExplosives placed in a few key locations should do nicely. Noggenfogger is playing nice and has donated some bombs to the cause. He might be trying to smooth over relations due to his earlier extortion.\r\n\r\nI can have someone go ahead and mark the best locations. You want to do the honors?",
+    "name": "A Burning Distraction",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

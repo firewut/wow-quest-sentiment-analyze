@@ -1,0 +1,7 @@
+{
+    "_id": "26312",
+    "description": "When da attack started, we pushed out to take da field as quickly as we could. Dere forces were deep and endless... we underestimated dem. Now some of our best shaman be stranded out dere, exhausted, far from our defenses.Make your way out and take da pressure off of our stranded brothas. Even a small break in battle be a chance to get much needed room ta breathe.Be swift, <class>.",
+    "name": "Crumbling Defenses",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

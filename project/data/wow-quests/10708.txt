@@ -1,0 +1,7 @@
+{
+    "_id": "10708",
+    "description": "<Akama inserts the crystal into the medallion in his hand.>I am not as strong as I once was, <name>.  Being so close to evil itself all these years - I do not know if I can trust myself with an artifact as powerful as this.Take this as my promise to you that when the time comes and you face Illidan, I will be on your side.  Take it to the one being we know we can trust with its power.  Take the medallion to A'dal in Shattrath City.",
+    "name": "Akama's Promise",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

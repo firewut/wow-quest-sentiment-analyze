@@ -1,0 +1,9 @@
+{
+    "_id": "35693",
+    "added_in_patch": 6,
+    "description": "Welcome to the front lines, commander, where the wastelands and the jungle collide.The battle below rages on, but I believe one side is beginning to overwhelm the other. This cannot be allowed to happen.The gronnlings are gaining an upper hand and must be stopped before they pose a threat to Highpass.I will get closer to the battle while you thin their ranks. Meet me within Affliction Ridge when you are done.",
+    "name": "A Harsh Reminder",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

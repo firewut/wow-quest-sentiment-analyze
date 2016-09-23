@@ -1,0 +1,7 @@
+{
+    "_id": "186",
+    "description": "Young tigers are one thing.  Fully-grown cats are another.  Hunting the grown Stranglethorn tigers will prove an even greater challenge.The adult cats normally spend their days south of Kurzen's Compound, east of the river.",
+    "name": "Tiger Stalking",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

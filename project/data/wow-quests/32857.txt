@@ -1,0 +1,8 @@
+{
+    "_id": "32857",
+    "added_in_patch": 5.3,
+    "description": "The challenge card you have unlocked will allow you to fight Ro-Shambo, an esoteric creature from parts unknown.Watch out. I hear it's got a few tricks up its sleeve.",
+    "name": "Ro-Shambo",
+    "requires_level": 100,
+    "zone": "Brawler's Guild"
+}

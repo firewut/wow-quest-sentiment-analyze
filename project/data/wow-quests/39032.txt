@@ -1,0 +1,8 @@
+{
+    "_id": "39032",
+    "added_in_patch": 7,
+    "description": "Sprites have always been mischievous creatures, but lately their mischief has turned to violence.One of the druids I call friend, Saylanna Riverbreeze, reports that they are assaulting the faerie dragon nesting grounds.The Lunarwing Shallows lie to the south. You will find Saylanna there.",
+    "name": "A Summons from Saylanna",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

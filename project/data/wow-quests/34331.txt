@@ -1,0 +1,8 @@
+{
+    "_id": "34331",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Spirit of the Wolf Selected",
+    "requires_level": 90,
+    "zone": "Talador"
+}

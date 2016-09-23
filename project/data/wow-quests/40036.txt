@@ -1,0 +1,8 @@
+{
+    "_id": "40036",
+    "added_in_patch": 7,
+    "description": "An immaculately carved spade handle lies beside the rose. Apparently the spade was more beautiful than it was durable, as the blade has completely fallen off.Your herbalism trainer may be interested in seeing this.",
+    "name": "Jeweled Spade Handle",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

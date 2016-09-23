@@ -1,0 +1,8 @@
+{
+    "_id": "10395",
+    "description": "The text on the note is written in some dark, indecipherable scrawl. The more you stare at them, the more the symbols seem to twist and burn before your eyes. There is only one at Honor Hold who can decipher such archaic script - the draenei mystic, Kryv. Take the Burning Legion Missive to Warp-Scryer Kryv who resides within the War-Room at Honor Hold.\r\n",
+    "name": "The Dark Missive",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

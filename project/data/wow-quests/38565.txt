@@ -1,0 +1,8 @@
+{
+    "_id": "38565",
+    "description": "This attack surprised our defenders. Forces are marshalling to push them out, but it will take some time for them to arrive.\r\n\r\nAny Sargerei you can slay will make retaking this area much easier commander.",
+    "name": "The Sargerei Menace",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

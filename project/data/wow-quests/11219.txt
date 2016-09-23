@@ -1,0 +1,7 @@
+{
+    "_id": "11219",
+    "description": "The Horde's children need you, <name>.  The Headless Horseman, once a human paladin and now an insane fiend, has set fire to our village!  You must put out those fires!Grab a bucket and throw it onto the blaze, or toss it to an ally who is closer to the flames.  Extinguish all the fires and thwart the Headless Horseman!",
+    "name": "Stop the Fires!",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

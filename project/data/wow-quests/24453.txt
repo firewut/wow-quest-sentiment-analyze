@@ -1,0 +1,8 @@
+{
+    "_id": "24453",
+    "description": "Look... one last favor before you run off.Private Worcester is still back at that tower \"recruiting.\" Go and let him know that we're good to pack it up now. Back to town.Pleasure working with you, recruit.",
+    "name": "Private Chat",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

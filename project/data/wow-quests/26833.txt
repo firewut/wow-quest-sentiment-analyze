@@ -1,0 +1,7 @@
+{
+    "_id": "26833",
+    "description": "You have done as I've asked of you, <race>. I shall honor my word. Gorsik will meet you at the temple with our piece of the World Pillar.Finish your ritual and bind the rift. After you have done such, tell your Earthen Ring to leave this place.You however... you can stay for a time if you want. You've earned at least that.",
+    "name": "Word In Stone",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

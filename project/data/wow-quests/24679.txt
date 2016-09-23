@@ -1,0 +1,8 @@
+{
+    "_id": "24679",
+    "description": "You've done it, <name>.  Even in these times we must honor our dead.Take these offerings and place them at Aderic's tomb.Let's hope that's enough to placate the ghosts of our ancestors.",
+    "name": "Patriarch's Blessing",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "239",
+    "description": "The Garrison on our western border sends word of increasing gnoll and thief activity.  They're requesting we send more Stormwind soldiers... but we just don't have any to spare!If you can help, we could use it.  Go and speak with Deputy Rainer at the Westbrook Garrison and see what he needs done.The Garrison is down the road to the west.  After you cross the bridge over the small brook it will be to the right.",
+    "name": "Westbrook Garrison Needs Help!",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Elwynn Forest"
+}

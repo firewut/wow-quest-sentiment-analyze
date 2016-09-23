@@ -1,0 +1,8 @@
+{
+    "_id": "31090",
+    "added_in_patch": 5,
+    "description": "It is a crime to harvest the young trees, but a much bigger crime to waste the amber.Young amber is not as strong, but the Klaxxi need it to continue the fight. We will bring them more and they will sing my praises!Gather the young amber. We will store it until it is aged and can be consumed.",
+    "name": "Better With Age",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27722",
+    "description": "All able-bodied members of the Horde are hereby ordered to report to Farseer Krogar at the Western Earthshrine in Orgrimmar.The Earthen Ring, lead by our former Warchief, Thrall, requires our aid! They report that the elemental plane of Deepholm threatens to overtake our world!The Western Earthshrine can be found just north of the Valley of Wisdom.Onward,  brother! Destiny calls!",
+    "name": "Warchief's Command: Deepholm!",
+    "requires_level": 82,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

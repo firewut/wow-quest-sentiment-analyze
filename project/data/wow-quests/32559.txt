@@ -1,0 +1,8 @@
+{
+    "_id": "32559",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari worship the loa; animal spirits they often call to their aid. They may be trying to bind these spirits into a huge golem. The outcome would be disastrous.I've sent ahead a scout to gather more information, but I think this task may require your expertise.Stop that ritual at all costs!",
+    "name": "Even Giants Fall",
+    "requires_level": 90,
+    "zone": "Quests"
+}

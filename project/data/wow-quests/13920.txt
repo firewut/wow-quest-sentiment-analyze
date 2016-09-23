@@ -1,0 +1,7 @@
+{
+    "_id": "13920",
+    "description": "We have urgent need for good <class>s at Hellscream's Watch, <name>. But before you're dispatched, there remains something that needs doing here.Most of our perishable goods were lost at sea due mainly to Alliance attacks. We must stock enough food to carry out our Ashenvale campaign.Just east of here, you should find wildlife in abundance. Bring back the best meat you can find for our troops!",
+    "name": "Before You Go...",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31327",
+    "added_in_patch": 5,
+    "description": "With the brewery infested by hozen and... and who knows what else, I'm sure that the brewers are in trouble.Would you mind helping me find out what's going on, my friend?",
+    "name": "Trouble Brewing",
+    "requires_level": 85,
+    "zone": "Quests"
+}

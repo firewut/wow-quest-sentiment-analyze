@@ -1,0 +1,9 @@
+{
+    "_id": "33484",
+    "added_in_patch": 6,
+    "description": "Share word with the others of the Frostwolves you saved this day. They will be glad to know that some made it out of the mines alive.",
+    "name": "The Slavemaster's Demise",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

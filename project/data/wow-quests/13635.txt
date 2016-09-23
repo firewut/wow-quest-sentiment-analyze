@@ -1,0 +1,8 @@
+{
+    "_id": "13635",
+    "description": "We're due for sending a status report over to the mountaineers in the Valley of Kings.I expect you're on your way there next anyhow - would you mind dropping it off for me? Just take the tunnel to the east, and check in at the guard station. Hand it directly to Captain Rugelfuss.",
+    "name": "South Gate Status Report",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

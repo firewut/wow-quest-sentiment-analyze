@@ -1,0 +1,8 @@
+{
+    "_id": "42840",
+    "added_in_patch": 7,
+    "description": "Unless you have something worth risking my life for, I will not budge.\r\n\r\nVanthir must have told you that my services do not come cheap.\r\n\r\nLet's say... enough mana to sustain me for a month.\r\n\r\n<Arluin looks smug, as if you could never agree to this request.>",
+    "name": "If Words Don't Work...",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

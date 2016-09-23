@@ -1,0 +1,8 @@
+{
+    "_id": "30571",
+    "added_in_patch": 5,
+    "description": "Those Ordo yaungol are working my farmhands to death! It just ain't right.Please, <class>, save them before it's too late.",
+    "name": "Farmhand Freedom",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

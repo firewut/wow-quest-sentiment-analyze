@@ -1,0 +1,8 @@
+{
+    "_id": "13810",
+    "description": "The coliseum is perched in the most dangerous part of the world, <name>. The territory we've taken from the Scourge has been paid for in blood and misery, yet the enemy continues to strike back with a seemingly limitless army. To make matters worse, this undead army is supported and assisted by mortal sympathizers, the Cult of the Damned.Go forth into Icecrown and slay any cultists you encounter.",
+    "name": "Taking Battle To The Enemy",
+    "requires_level": 77,
+    "side": "horde",
+    "zone": "Tournament"
+}

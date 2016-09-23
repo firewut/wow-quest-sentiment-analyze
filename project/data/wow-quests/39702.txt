@@ -1,0 +1,8 @@
+{
+    "_id": "39702",
+    "added_in_patch": 7,
+    "description": "<name>, have you heard of Saris Swifthammer?He was a legendary blacksmith amongst the elves of Black Rook Hold. I wonder if any of his research still exists.I want you to travel there and see if you can discover anything about Saris, or see if he left anything we can research here at my shop.",
+    "name": "Legend of Black Rook Hold",
+    "requires_level": 108,
+    "zone": "Blacksmithing"
+}

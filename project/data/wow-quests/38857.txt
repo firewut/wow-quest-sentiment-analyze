@@ -1,0 +1,8 @@
+{
+    "_id": "38857",
+    "added_in_patch": 7,
+    "description": "Throm'ka, <class>. My name is Seska. I represent a... trading company. As you can see, I've fallen victim to these giants and their naga allies.\r\n\r\nThree of my associates were also captured while surveying this cove. I'm certain that my employer, Mr. Shackle, would be most grateful if you could procure their release.",
+    "name": "A Favor for Mr. Shackle",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

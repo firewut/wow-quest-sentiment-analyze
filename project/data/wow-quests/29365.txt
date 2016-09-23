@@ -1,0 +1,8 @@
+{
+    "_id": "29365",
+    "description": "Even the novice cook knows that a great dish begins with great ingredients.I have standing orders with merchants throughout Thunder Bluff, but I'd like to see how well you do at selecting the very best of what they have to offer.Please make the rounds and gather perfect portions of meat, fish, vegetables and herbs from local merchant stalls.",
+    "name": "Perfectly Picked Portions",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Cooking"
+}

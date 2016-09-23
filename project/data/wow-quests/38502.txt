@@ -1,0 +1,8 @@
+{
+    "_id": "38502",
+    "added_in_patch": 7,
+    "description": "I have a theory, <name>.Have you encountered the nightfallen elves of Azsuna? They descend from the Highborne, and the accomplishments of Highborne smiths are legendary.These fallen elves do a bit of arcane tinkering, crafting sentries to patrol their camps.Bring me a memory core from one of their constructs. Who knows what manner of smithlore might lie within!",
+    "name": "The Methods of the Nightfallen",
+    "requires_level": 100,
+    "zone": "Blacksmithing"
+}

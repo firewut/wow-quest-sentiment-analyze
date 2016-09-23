@@ -1,0 +1,8 @@
+{
+    "_id": "25241",
+    "description": "The cliff giants of Feralas are extensions of the earth itself, <name>. When nature thrives, they are benevolent protectors and peaceful guardians.But as the forest is tainted, so too are they.If the corruption has spread to them, they will lash out at the wildlife and their own kind, causing great destruction. You must destroy any corrupted giants you come across.",
+    "name": "The Land, Corrupted",
+    "requires_level": 34,
+    "side": "horde",
+    "zone": "Feralas"
+}

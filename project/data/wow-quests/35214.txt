@@ -1,0 +1,9 @@
+{
+    "_id": "35214",
+    "added_in_patch": 6,
+    "description": "D'kaan did not say it, but there were more rangari taken by the botani than the ones you found.He believes they were slain. I fear worse.You might dare to venture into the Razorbloom. If you do, you may discover what the botani do to their... \"prisoners.\"Give these poor souls a proper release.",
+    "name": "The Infested",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28881",
+    "description": "Say... you haven't been to Southmoon Ruins yet, have you?  Oh you simply MUST.  They have all sorts of fascinating titan artifacts.  Head west, and look for the Explorers' League tents.",
+    "name": "Prospector Gunstan",
+    "requires_level": 46,
+    "zone": "Tanaris"
+}

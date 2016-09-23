@@ -1,0 +1,7 @@
+{
+    "_id": "12669",
+    "description": "Everything you've reported is consistent with what we know. Learning of Drakuru and earning his trust will lay the groundwork for your future missions.Return to him and do as he says. Do whatever you must to appear sincere, <name>. A great deal is riding upon your performance.This time I'm adding an additional assignment: While you're in the field, pour this additive into their blight cauldrons. It should neutralize the scourging agent and render the batch useless.",
+    "name": "So Far, So Bad",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

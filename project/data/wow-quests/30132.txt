@@ -1,0 +1,8 @@
+{
+    "_id": "30132",
+    "added_in_patch": 5,
+    "description": "Leza now walks with the ancestors of this strange land. I must look now to the living.Kor has led a group of our scouts west deeper into the jungle.I sent a scout of my own to investigate the crane temple. Please, $p, seek out my scout, get their report, then meet up with Kor and lend what aid you can to him.We will join you as quickly as we are able.",
+    "name": "Going West",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "31134",
+    "added_in_patch": 5,
+    "description": "This is a very ancient place, traveler.Only recently have I pieced together a method of translating the forgotten language carved into these stones.Oh, the thrill of discovery! This never gets old, I assure you.Here, you are the guest. You do the honors. I insist.Use this key to unlock the secrets the stones contain.",
+    "name": "If These Stones Could Speak",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

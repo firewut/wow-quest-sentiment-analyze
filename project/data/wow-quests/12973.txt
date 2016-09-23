@@ -1,0 +1,7 @@
+{
+    "_id": "12973",
+    "description": "That does it! We finally have the keystone... It's beautiful! I've been around the world more than once, but this thing's got me all jittery with excitement again. I suppose now's not the time to stop and admire though, we need to get the heck out of here.Hop on my flying machine and help keep us covered from those iron dwarves on the way out!",
+    "name": "The Brothers Bronzebeard",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

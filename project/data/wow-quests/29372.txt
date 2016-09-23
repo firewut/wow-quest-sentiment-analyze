@@ -1,0 +1,7 @@
+{
+    "_id": "29372",
+    "description": "Outlaws have kidnapped the sheriff!",
+    "name": "Trouble in Podunk",
+    "requires_level": 1,
+    "zone": "Quests"
+}

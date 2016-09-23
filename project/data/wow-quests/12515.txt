@@ -1,0 +1,7 @@
+{
+    "_id": "12515",
+    "description": "My hat? Yes, it's an unusual style, I know, from far away... few tailors here know how to make them.When I was young and hot-blooded, I wore it as a standing challenge. Many came seeking to defeat me and win it for themselves... but no one ever did.Ah, but those days are long past. I'm an old man, now: I drink, I fish, but I no longer duel.",
+    "name": "Nice Hat...",
+    "requires_level": 66,
+    "zone": "Caverns of Time"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11035",
+    "description": "On the northeast edge of this island exists a dock used for the packaging and transport of Netherwing crystals and relics. Dragonmaw Transporters transport the goods from the dock to Dragonmaw Fortress while Dragonmaw Ascendants guard the ground from any would-be attackers.This leaves one opening for you to make a strike at the Dragonmaw: The Dragonmaw Skyway.Fly to the shattered islands of the Dragonmaw Skyway and ambush the transporters that use the route. Recover our stolen relics!",
+    "name": "The Not-So-Friendly Skies...",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

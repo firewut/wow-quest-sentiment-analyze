@@ -1,0 +1,8 @@
+{
+    "_id": "44406",
+    "added_in_patch": 7,
+    "description": "<class>t, have you met the shaman Aggra? Born of a shattered world, she learned the ways of the elements among the Mag'har orcs of Outland. On the eve of the Cataclysm she took it upon herself to complete Thrall's shamanistic training. Our younger initiates are fortunate to have her among us to guide them.If you wish to seek out a second artifact, Aggra can assist you. She is training new recruits above us on the Storm's Eye Overlook.",
+    "name": "Aggra's Guidance",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

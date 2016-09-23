@@ -1,0 +1,7 @@
+{
+    "_id": "12815",
+    "description": "Now that you got your bone gryphon, I wantcha to take it back down there everyday and make a no fly zone over Onslaught Harbor.I gotta admit, mon, I don't really care if you use the bone gryphon to kill them gryphon riders or not. But I'm guessin' that if you do, you'll find it much easier to get to 'em.Besides, it's got lots of neat tricks you can use.",
+    "name": "No Fly Zone",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

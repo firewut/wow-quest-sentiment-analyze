@@ -1,0 +1,9 @@
+{
+    "_id": "31741",
+    "added_in_patch": 5,
+    "description": "I do not trust this Horde. They wield foul magic, and their intentions are clearly malevolent. We can no longer stand their presence in Twinspire Keep, so close to Paw'don.I beg you, visitor: thin their numbers before they do something awful to this village.",
+    "name": "Twinspire Keep",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

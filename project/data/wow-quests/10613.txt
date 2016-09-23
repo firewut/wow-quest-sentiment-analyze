@@ -1,0 +1,7 @@
+{
+    "_id": "10613",
+    "description": "<Nakansi leafs through the manual.>All the information is here, but be warned. These things weren't built to be controlled remotely.We can modify one for you to use for a short time, but you'll have to work fast, or there's no telling what might happen! I wouldn't be surprised if your little stunt with the fel reaver catches the attention of the Legion scum, either. Try to keep yourself safe, but remember, the mission and the safety of Shadowmoon Village come first!",
+    "name": "The Fel and the Furious",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

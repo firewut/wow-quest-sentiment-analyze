@@ -1,0 +1,7 @@
+{
+    "_id": "13936",
+    "description": "Delays, delays, delays! I'm at wit's end!I was told that this goblin was brilliant - that he'd come up with gadgets sure to shock the enemy into submission. So far he's produced nothing but empty promises. If he comes up empty-handed again, I'm going to toss him off the cliff!You go and speak to him, <class>. Let him know that my fuse is running short!",
+    "name": "Tweedle's Dumb",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

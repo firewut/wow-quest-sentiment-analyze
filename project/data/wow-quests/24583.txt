@@ -1,0 +1,7 @@
+{
+    "_id": "24583",
+    "description": "The so-called \"avatar of war\", Patchwerk is the ultimate abomination. It is also taking a heavy toll upon on our forces in the Dragonblight.I want you to assemble your companions and enter the Construct Quarter of Naxxramas. Disassemble the construct.The Council of Six has decreed that Patchwerk must die!",
+    "name": "Patchwerk Must Die!",
+    "requires_level": 80,
+    "zone": "Naxxramas"
+}

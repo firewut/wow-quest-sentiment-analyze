@@ -1,0 +1,8 @@
+{
+    "_id": "30399",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "A Jade Cat for Chee Chee",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

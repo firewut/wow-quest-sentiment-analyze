@@ -1,0 +1,9 @@
+{
+    "_id": "34585",
+    "added_in_patch": 6,
+    "description": "I'm getting reports of a giant in the forest.A few of the Karabor peacekeepers have followed it to a cave. In all honesty I don't think any of our troops are willing to engage the beast.Maybe you could investigate? I'm sure the peacekeepers would appreciate the help.",
+    "name": "Quakefist",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8526",
+    "description": "Oh, how's it going, <class>? I see that you're interested in maybe gathering up food for the coming war at Ahn'Qiraj? Somehow my dad thought that it would be a good learning experience for me if I were to volunteer to help out here. Big mistake. I don't even like to eat meat.Anyway, if you feel like it, you could bring me back a lot of roast raptor. Apparently that's what all of the soldiers are going to want.",
+    "name": "The Alliance Needs Roast Raptor!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29675",
+    "description": "Two powerful agents of the Burning Legion, Wrath-Scryer Soccothrates and Dalliah the Doomsayer, have begun rallying the demons on board together into a small army.You cannot let their forces grow any larger, or the Arcatraz may soon become yet another Legion stronghold.",
+    "name": "Hey There Dalliah",
+    "requires_level": 67,
+    "zone": "Quests"
+}

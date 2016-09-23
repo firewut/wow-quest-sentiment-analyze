@@ -1,0 +1,8 @@
+{
+    "_id": "13676",
+    "description": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you learn to master mounted combat, do not forget to practice the skills that have served you well all these years. Show us that you can face the Scourge with honor and bravery, and you will earn your right to compete in this tournament.Travel to Icecrown and slay any Scourge you see there, but stay clear of the Bombardment, where you would be overwhelmed.",
+    "name": "Training In The Field",
+    "requires_level": 77,
+    "side": "horde",
+    "zone": "Tournament"
+}

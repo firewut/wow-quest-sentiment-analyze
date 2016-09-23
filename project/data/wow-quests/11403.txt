@@ -1,0 +1,7 @@
+{
+    "_id": "11403",
+    "description": "Rage was my prison, <name>, and you have freed me.  Though I thought I did right, my soul now weeps for the terror and the death I have caused the good people of Azeroth.Thank you for leading me back to the Light.  May I never again lose my way.Take this torn prayer book to an orphan matron, so the children will know that I will haunt them no more.",
+    "name": "Free at Last!",
+    "requires_level": 60,
+    "zone": "Hallow's End"
+}

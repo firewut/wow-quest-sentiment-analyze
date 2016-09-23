@@ -1,0 +1,7 @@
+{
+    "_id": "24943",
+    "description": "That's one way to clear a hill. Those corpses are impaled with knives and forks!The Rageroar clan has breached the walls, but we can still turn this fight around. Go down the hill and help our men hold on to the courtyard below...",
+    "name": "Re-Take the Courtyard",
+    "requires_level": 28,
+    "zone": "Southern Barrens"
+}

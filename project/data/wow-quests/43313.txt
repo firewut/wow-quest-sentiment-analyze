@@ -1,0 +1,8 @@
+{
+    "_id": "43313",
+    "added_in_patch": 7,
+    "description": "Coryn Stelleris and Ruven Duskmere were close friends, but one always overshadowed the other. Now the Stelleris family stands to gain from lord Ruven's death. Handsomely.\r\n\r\nHouse Duskmere will soon learn of their loss. I want you to be the one to redirect their anger and grief.\r\n\r\nA handful of well placed rumors should do the trick.\r\n\r\nI won't be lingering in this part of the city for long, and Ly'leth will want to know of your efforts.\r\n\r\nReturn to her when you are finished.",
+    "name": "Rumor Has It",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

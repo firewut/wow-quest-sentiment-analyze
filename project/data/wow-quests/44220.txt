@@ -1,0 +1,8 @@
+{
+    "_id": "44220",
+    "added_in_patch": 7,
+    "description": "In times of great need, the Order can rally its mightiest forces into one pure, destructive form.  This is such a time.\r\n\r\nOn request, we will channel our power into a Libram, which we will impart to you.  Use it to unleash that power, completing a quest of great value.",
+    "name": "Blessing of the Order",
+    "requires_level": 110,
+    "zone": "Light's Hope Chapel"
+}

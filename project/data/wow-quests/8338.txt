@@ -1,0 +1,8 @@
+{
+    "_id": "8338",
+    "description": "You've found an odd sliver of crystallized mana on the corpse of the tainted arcane wraith.  The sliver is different than others you may have seen in that it is as dark and sinister-looking as the wraith you looted it from.  Just holding it gives you a sense of unnatural foreboding.Arcanist Helion at the gazebo of the Sunspire on Sunstrider Isle just might be someone who would have a use for the sliver.",
+    "name": "Tainted Arcane Sliver",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Sunstrider Isle"
+}

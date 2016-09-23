@@ -1,0 +1,7 @@
+{
+    "_id": "26015",
+    "description": "Oskar's last wish, before he floated up into that great-eel's gullet, was to bring back food for the captain, so that's what we'll do.My brother had a genius plan.  He saw those murlocs luring fish out of the reeds with a phosphorescent antenna, and devised a way to make one of his own.  All ya need is something that glows.Kill the crabs and groupers that roam the canyon's floor.  They aren't edible themselves, but their phosphora is far more valuable than their meat.",
+    "name": "Phosphora Hunting",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

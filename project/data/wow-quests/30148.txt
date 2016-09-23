@@ -1,0 +1,8 @@
+{
+    "_id": "30148",
+    "added_in_patch": 5,
+    "description": "Many of the baby hatchlings at Windward Isle have been injured as a result of all the fighting.I have been told that you may be skilled in the art of first aid.Please go northeast and use some of your best bandages to save the injured hatchlings.",
+    "name": "Just a Flesh Wound",
+    "requires_level": 90,
+    "zone": "The Arboretum"
+}

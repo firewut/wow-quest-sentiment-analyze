@@ -1,0 +1,8 @@
+{
+    "_id": "43517",
+    "added_in_patch": 7,
+    "description": "Once we have the proper implements we can use the Heart to infuse great power into your artifact. We need only a source.Deep within the Darkheart Thicket lies the ancient Oakheart, once a great and mighty protector of Shaladrassil. He has regrettably fallen to the nightmare like so many of his kin.As the darkness within him has taken root, an essence of the corruption has manifested. I ask that you recover the essence so that we may draw from its power, and put noble Oakheart to rest.",
+    "name": "Fallen Power",
+    "requires_level": 110,
+    "zone": "Artifact"
+}

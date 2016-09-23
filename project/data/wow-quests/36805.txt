@@ -1,0 +1,7 @@
+{
+    "_id": "36805",
+    "description": "",
+    "name": "Fat Sleeper Lunker",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

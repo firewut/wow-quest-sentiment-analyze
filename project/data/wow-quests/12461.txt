@@ -1,0 +1,7 @@
+{
+    "_id": "12461",
+    "description": "You are leaving to the Ruby Dragonshrine. This is not a request.The dragons are beset on all sides by the blue flight and the scourge... they're in no better a state than we are. It is not often we are afforded the opportunity to redeem ourselves for the transgressions of our ancestors.I have secured a regiment to aid the red dragonflight against the Scourge at the Ruby Dragonshrine. Join them and crush the Scourge beneath your boots!For the Horde!",
+    "name": "Report to the Ruby Dragonshrine",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

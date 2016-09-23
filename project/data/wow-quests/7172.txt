@@ -1,0 +1,7 @@
+{
+    "_id": "7172",
+    "description": "",
+    "name": "The Eye of Command",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

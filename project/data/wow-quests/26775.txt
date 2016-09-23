@@ -1,0 +1,7 @@
+{
+    "_id": "26775",
+    "description": "Mind Control, very powerful, yes.With luck, you can help Ohgan'aka escape from Zul'Gurub.Then, Ohgan'aka becomes <name>'aka again!Speak to Priestess, yes, and help <name>'aka escape.",
+    "name": "Be Raptor",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

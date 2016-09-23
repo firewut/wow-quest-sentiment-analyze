@@ -1,0 +1,8 @@
+{
+    "_id": "11600",
+    "description": "William's neck has been cut by a sharp object.Further inspection reveals a single clue to bring to Leryssa - an enlistment card bearing the name of William Allerton.",
+    "name": "The Late William Allerton",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

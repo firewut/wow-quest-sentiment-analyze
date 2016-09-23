@@ -1,0 +1,7 @@
+{
+    "_id": "10126",
+    "description": "The orders, signed by 'Warboss Nekrogg,' order the fel orc patrols stationed at this camp to bring their human prisoner south for interrogation.Lieutenant Amadi mentioned that the Southern Rampart is dotted with fel orc camps. Perhaps the next large section of the wall to the south is where they took Private Imarion.Judging by the note's mention of interrogation, it seems the private's fel orc captors see some value in keeping him alive. Pick up the trail before they decide to change their minds.",
+    "name": "Warboss Nekrogg's Orders",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

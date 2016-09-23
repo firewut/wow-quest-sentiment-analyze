@@ -1,0 +1,8 @@
+{
+    "_id": "26192",
+    "description": "The orphans of Stormwind are often forgotten, but not today my friend.  The king has requested a special batch of cookies be baked and sent immediately over to the orphanage.  I was almost finished with the final batch when I ran out of confectioners' sugar.  Can you run out and get some more for me?  You should be able to find it at any of the general stores or inns inside of Stormwind.",
+    "name": "Orphans Like Cookies Too!",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Cooking"
+}

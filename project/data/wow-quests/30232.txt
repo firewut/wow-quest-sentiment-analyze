@@ -1,0 +1,8 @@
+{
+    "_id": "30232",
+    "added_in_patch": 5,
+    "description": "The hawk numbers in the vale are thriving. This is opportune for our fletchers, for we will need a great number of feathers if we are to keep the archers upon the wall stocked with arrows.If you would not mind, could you aid us in gathering these feathers?",
+    "name": "Ruffling Some Feathers",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

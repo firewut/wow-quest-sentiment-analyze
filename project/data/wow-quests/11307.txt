@@ -1,0 +1,7 @@
+{
+    "_id": "11307",
+    "description": "Now that we have a strain of the plague that has adapted to vrykul carriers, we really ought to test it on our specimens in Halgrind.  If all goes according to plan, they will disintegrate immediately as the plague devours their innards!You will find Halgrind north of here.  Our plaguebringers are deploying the previous strain there - shouldn't be hard to spot.",
+    "name": "Field Test",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

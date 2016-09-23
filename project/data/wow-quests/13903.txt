@@ -1,0 +1,7 @@
+{
+    "_id": "13903",
+    "description": "The venomhide hatchling looks at you expectantly, then begins to scrawl a pictogram into the dirt.The hatchling's drawings seem to resemble various types of large insects, perhaps the gorishi silithids. The hatchling finishes his picture, then gestures at it with one short arm, snaps its jaws, and licks its lips.It must want you to go to the Slithering Scar, in the center of the southern part of Un'Goro Crater, and gather silithid meat. When you have the meat, feed it to your hungry hatchling.",
+    "name": "Gorishi Grub",
+    "requires_level": 48,
+    "zone": "Un'Goro Crater"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "36133",
+    "added_in_patch": 6,
+    "description": "The Artifact Fragments seem to come from any creature we've found in the outskirts of Ashran. Go out and kill any you find and bring at least five to Ecilam the Mage near the campfire in Stormshield Stronghold.",
+    "name": "Uncovering the Artifact Fragments",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ashran"
+}

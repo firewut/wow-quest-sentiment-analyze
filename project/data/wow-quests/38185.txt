@@ -1,0 +1,9 @@
+{
+    "_id": "38185",
+    "added_in_patch": 6.1,
+    "description": "Remnants of the Shadowmoon clan continue to operate out of the peaks on the eastern border of Spires of Arak.\r\n\r\nRokhan is concerned at their proximity to key choke points leading into Shadowmoon Valley, and has put out a request that we thin their forces as soon as possible.",
+    "name": "Missive: Assault on Pillars of Fate",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

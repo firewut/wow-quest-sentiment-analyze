@@ -1,0 +1,8 @@
+{
+    "_id": "39923",
+    "added_in_patch": 7,
+    "description": "The ring enchantments you know now are good, but I know of better ones that exist. That is to say, I know of stronger enchantments that would be suitable for rings.According to legend, there are four constructs whose cores were imbued with magical enchantments. These constructs now patrol the streets of Suramar City.If you were to gather some friends and defeat these constructs, you could take their cores for us to study.",
+    "name": "Down to the Core",
+    "requires_level": 110,
+    "zone": "Enchanting"
+}

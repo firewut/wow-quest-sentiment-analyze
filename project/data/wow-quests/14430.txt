@@ -1,0 +1,7 @@
+{
+    "_id": "14430",
+    "description": "Now we will hack their arcane construct and use it to wreak havoc. Have you done this type of magic before, <name>? No? Hah! That makes my plan all the more delicious. Nearby you should see a formidable arcane construct they've summoned. Thanks to the runestones you gathered, we know how to communicate with it. Talk to the construct and say \"Al'teth la c'tolgar.\" Got that? Repeat it? Close enough. Report back to me and let me know what happens! ",
+    "name": "Hacking the Construct",
+    "requires_level": 16,
+    "zone": "Azshara"
+}

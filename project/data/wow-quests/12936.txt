@@ -1,0 +1,7 @@
+{
+    "_id": "12936",
+    "description": "You're not gonna believe this, pal. Your next fight is against Korrak the Bloodrager! Looks like the Drakkari trolls are pulling a power play! And let me tell you, buddy, he's been sippin' the animal god juice. He's good and ready to pound you into the ground.Are you ready?",
+    "name": "The Amphitheater of Anguish: Korrak the Bloodrager!",
+    "requires_level": 75,
+    "zone": "Zul'Drak"
+}

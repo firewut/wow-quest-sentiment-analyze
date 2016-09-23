@@ -1,0 +1,7 @@
+{
+    "_id": "11253",
+    "description": "Now that this rascal's belly's full, maybe he will be more willing to cooperate.  Here's his leash, just come get him from his cage whenever you're ready to take him.I don't know what Anselm expects you to find, but look for clues wherever it is that the dog takes you.",
+    "name": "Sniff Out the Enemy",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

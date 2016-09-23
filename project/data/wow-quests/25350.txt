@@ -1,0 +1,7 @@
+{
+    "_id": "25350",
+    "description": "If you have a moment, <class>...One of the students I was teaching has gone to explore the darkmist ruins to the south by himself. I warned him that it was too dangerous, but he was too excited to listen.  I had spoken with him earlier about an amulet that is concealed within those ruins.  Now, I fear that he may have run off in search of it, because of me...Estulan has forbidden us to pursue him. If you go there, could you please look for him?",
+    "name": "The Lost Apprentice",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

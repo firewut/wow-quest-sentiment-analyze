@@ -1,0 +1,7 @@
+{
+    "_id": "26269",
+    "description": "One page!  I only need one more page!Master Nesingwary's novel ran into a bit of an... accident <Barnil shoots an accusing glance over at Spanks>... and we misplaced some of the pages.I've been asking your fellow adventurers to look for the missing pages, and they've been quite helpful, but one page still eludes me.I'm sure you're awfully busy with other matters, but while you're out in the jungle, would you mind looking for it?",
+    "name": "The Green Hills of Stranglethorn",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10869",
+    "description": "The arakkoa have attacked us again, this time striking in the night and then using their dark magic to escape before we could marshal our soldiers.  Veil Reskk and Veil Shienor lie to the north and northwest.  Find these arakkoa nests and kill as many as you can.  They may not fear us, but at least we can thin their numbers.",
+    "name": "Thin the Flock",
+    "requires_level": 60,
+    "zone": "Terokkar Forest"
+}

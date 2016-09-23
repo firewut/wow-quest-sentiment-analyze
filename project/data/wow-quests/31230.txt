@@ -1,0 +1,8 @@
+{
+    "_id": "31230",
+    "added_in_patch": 5,
+    "description": "Cho's off on another one of his adventures, and this one requires a big order of jade. I'm going to have to call in some favors.How 'bout in the meantime you introduce yourself to some of the locals.Kai Wanderbrew is a good guy to know, as is Master Windfur. Oh, and say hi to Peiji Goldendraft up at the inn.Between the three of them, you should get the feel for life in Dawn's Blossom.",
+    "name": "Welcome to Dawn's Blossom",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

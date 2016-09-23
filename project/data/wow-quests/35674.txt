@@ -1,0 +1,9 @@
+{
+    "_id": "35674",
+    "added_in_patch": 6,
+    "description": "Posted by: Lieutenant WillemKeeho, a monstrous saberon, has taken to raiding Southport at night. We're losing men left and right.I offer a hefty bounty to anyone able to track down Kreeho and bring his severed paw to me.",
+    "name": "Wanted: Keeho's Severed Paw",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

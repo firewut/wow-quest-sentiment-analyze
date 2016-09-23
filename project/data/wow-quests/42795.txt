@@ -1,0 +1,8 @@
+{
+    "_id": "42795",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Sanaar",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

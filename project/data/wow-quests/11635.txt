@@ -1,0 +1,7 @@
+{
+    "_id": "11635",
+    "description": "You must go to Magmoth to the east.You must descend into the depths of their caverns.You must speak with Farseer Grimwalker's spirit!",
+    "name": "Farseer Grimwalker's Spirit",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

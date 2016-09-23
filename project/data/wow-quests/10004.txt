@@ -1,0 +1,7 @@
+{
+    "_id": "10004",
+    "description": "Take the blueprints and travel to Shattrath City in the Terokkar Forest. Once at Shattrath, go to the Lower City and look for a mo'arg by the name Sal'salabim. He'll probably be at the bar, drinking away his sorrows.By the way, you may need to convince him to lend his assistance. Try to approach him with patience and understanding. If that does not work, use your fists.",
+    "name": "Patience and Understanding",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

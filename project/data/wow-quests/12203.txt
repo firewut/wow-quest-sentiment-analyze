@@ -1,0 +1,7 @@
+{
+    "_id": "12203",
+    "description": "I've created everything else you'll need for your overseer disguise kit. Try not to retch when you put it on. I took pains to make it as true to reality as possible.Take the kit with you southeast to Dun Argol, use it to disguise yourself, then go to the easternmost building on the broad middle tier of the city.There, you should see a pedestal where the thane and overseers receive their orders from this Loken. Activate it while disguised and learn all you can from the communication.",
+    "name": "Loken's Orders",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

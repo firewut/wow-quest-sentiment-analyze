@@ -1,0 +1,7 @@
+{
+    "_id": "11710",
+    "description": "There're spare parts strewn all over to the east in the Scalding Pools, the Geyser Fields... heck, probably even up on the pumping station still, too. Bring back a whole bunch. Maybe then I'll be able to get outgoing teleport on this thing working, not to mention getting the incoming transmatter ports aligned.I'd hate to see another accident....",
+    "name": "What's the Matter with the Transmatter?",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29598",
+    "description": "It was Taretha who created the original diversion at Durnholde, allowing Thrall to escape.Now the Infinite have captured Taretha. The diversion will not happen without our involvement. You must use the incendiary devices that I give you and burn down the internment lodges.",
+    "name": "Taretha's Diversion",
+    "requires_level": 64,
+    "zone": "Caverns of Time"
+}

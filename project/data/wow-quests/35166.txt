@@ -1,0 +1,9 @@
+{
+    "_id": "35166",
+    "added_in_patch": 6,
+    "description": "Commander, we are running low on supplies.Maybe we can salvage materials from that ship you arrived on?At the rate folks are coming through the portal we are going to be out of everything by sundown... or moondown?I'm still getting used to this place.",
+    "name": "Ship Salvage",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

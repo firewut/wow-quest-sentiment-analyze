@@ -1,0 +1,8 @@
+{
+    "_id": "39904",
+    "added_in_patch": 7,
+    "description": "For many centuries, even after death, I was capable of weaving enduring enchantments. But since the theft of my enchanting rod by a greedy king, I can barely sustain the little magic I have left.If you can recover my enchanting rod from the god-king's ghost, I will reward you in kind.",
+    "name": "Revenge of the Enchantress",
+    "requires_level": 106,
+    "zone": "Enchanting"
+}

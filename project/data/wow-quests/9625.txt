@@ -1,0 +1,7 @@
+{
+    "_id": "9625",
+    "description": "Is he crazy? Entrusting something like this to some no-named <race> youngling!Just remember this kid: You'll never make it as a Hand of Argus! You don't have the guts!I guess I'll have to humor him this time. Speak with Vorkhan at Kessel's Crossing on Bloodmyst Isle. Just follow the road north from here, and when it forks, just keep on going north.",
+    "name": "Elekks Are Serious Business",
+    "requires_level": 10,
+    "zone": "Bloodmyst Isle"
+}

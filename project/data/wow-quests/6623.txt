@@ -1,0 +1,7 @@
+{
+    "_id": "6623",
+    "description": "Doctor <name>, I presume. It is a pleasure to see you again.I have some wonderful news for you! Doctor Gregory Victor, chief physician of Horde Trauma has made a personal request for you to join him at Hammerfall. This could be the opportunity of a lifetime! I would give anything to be given a chance to study under the great Doctor Gregory Victor! Do not squander this opportunity!",
+    "name": "Horde Trauma",
+    "requires_level": 35,
+    "zone": "First Aid"
+}

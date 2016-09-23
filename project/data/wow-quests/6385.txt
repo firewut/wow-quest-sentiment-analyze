@@ -1,0 +1,8 @@
+{
+    "_id": "6385",
+    "description": "I've written a letter of thanks to Grimtak.  Will you deliver it for me?  If you've already been to the Razor Hill and spoken with their wind rider master, then you can fly a wind rider back there.Take my letter to Doras, the wind rider master of Orgrimmar, and speak with him about transport to Razor Hill.",
+    "name": "Doras the Wind Rider Master",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Durotar"
+}

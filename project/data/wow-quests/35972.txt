@@ -1,0 +1,8 @@
+{
+    "_id": "35972",
+    "added_in_patch": 6,
+    "description": "Those ogres are standing in the way of a full Steamwheedle Preservation excavation.They are brutal, violent, horrible smelling beasts. And if I'm being completely honest with myself, I'm pretty mad they broke my glider.Do me a favor will ya? Wipe 'em off the face of Draenor.It will make everyone's life easier, or at the very least, it will make my life easier.",
+    "name": "Ogre Onslaught",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

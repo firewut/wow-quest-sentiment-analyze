@@ -1,0 +1,7 @@
+{
+    "_id": "12308",
+    "description": "You... you're not one of them?  Quick!  Let me out!We have to get to Amberpine Lodge immediately!  Once Lieutenant Dumont finds out who these people really are, this town will be reduced to rubble!",
+    "name": "Escape from Silverbrook",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44206",
+    "added_in_patch": 7,
+    "description": "These shaman have spent their lives dedicated to the path of Air, Water or Fire.  On your request, we will beseech the elements to Ascend them, becoming a powerful, if short lived, force to deploy in this war against the Legion.\r\n\r\nThe ritual of ascension is not to be requested lightly.",
+    "name": "The Ascended",
+    "requires_level": 110,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38934",
+    "added_in_patch": 6.2,
+    "description": "A great Darkmoon prize do you now seek, but be ye warned, it is not for the meek.\r\n\r\nYour very first clue to send you on this caper, you will find printed on the back of this paper.",
+    "name": "Silas' Secret Stash",
+    "requires_level": 15,
+    "zone": "Quests"
+}

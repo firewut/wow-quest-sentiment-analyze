@@ -1,0 +1,9 @@
+{
+    "_id": "33955",
+    "added_in_patch": 6,
+    "description": "Strange, I wonder where little Shivertail and his pack are? They normally show up for a feeding about now.I hope everything is alright.",
+    "name": "Missing Pack",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12085",
+    "description": "You find a letter secreted in the lining of his robes. It reads:\"Deino,Ta'zinni sorry for disappearing on ya. If you're reading this letter, then I be dead.I been forced to work for Malygos's armies under threat that the family would be killed if I didn't. Ta'zinni wasn't gonna let that happen!Don't worry about me, just keep your kids safe. I have them fooled and I'm sabotaging them from the inside.I love you, sistah!Ta'zinni\"Overlord Agmar is sure to want to see this!",
+    "name": "A Letter for Home",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

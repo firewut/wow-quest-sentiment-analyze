@@ -1,0 +1,7 @@
+{
+    "_id": "8323",
+    "description": "Now that I have the Twilight Lexicon in my possession, there is a small favor I'd like to ask of you.My former organization has a secret encoded bulletin they circulate on a monthly basis.If they make any progress searching for me or if they call off the search, word will be published on the True Believer.Although this information is obviously valuable to me, the publication contains other useful information that I can share.  Bring me any encoded texts you find on Twilight's Hammer members.",
+    "name": "True Believers",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

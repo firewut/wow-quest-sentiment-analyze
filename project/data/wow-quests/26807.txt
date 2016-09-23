@@ -1,0 +1,8 @@
+{
+    "_id": "26807",
+    "description": "Since you've already spoken to Doras, you'll be able to hire a wind rider to take you right back to Orgrimmar. Each time you arrive in a new town, be sure to speak with the town's flight master. After that, you'll be able to use the flight master's services to travel quickly.Speak to me again when you're ready to purchase a return flight to Orgrimmar. Bring those reports to Eitrigg in the Valley of Strength once you've landed.",
+    "name": "Return to Eitrigg",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

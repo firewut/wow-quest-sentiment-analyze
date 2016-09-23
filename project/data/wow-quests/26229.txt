@@ -1,0 +1,8 @@
+{
+    "_id": "26229",
+    "description": "Back before those damned kobolds gave me a permanent limp I used to be William Pestle's number one candle supplier. Hell, I even came up with the line \"I TAKE CANDLE!\" Yea, that was me. Kobold would say \"You no take candle!\" and I'd just respond \"I TAKE CANDLE!\" and then bash their brains in!<Jimb drifts off for a second.>Good times... The best times.Now? Can't even use the bathroom without assistance. You want to help me? Kill me some kobolds. You'll find a good load of 'em in the nearby mine.",
+    "name": "\"I TAKE Candle!\"",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

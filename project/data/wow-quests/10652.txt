@@ -1,0 +1,7 @@
+{
+    "_id": "10652",
+    "description": "All arrangements have been made to take you to where our spies are hiding.  Just come see me when you're ready and we'll get you on your way.",
+    "name": "Behind Enemy Lines",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

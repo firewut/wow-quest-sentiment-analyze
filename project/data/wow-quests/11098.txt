@@ -1,0 +1,7 @@
+{
+    "_id": "11098",
+    "description": "The Barrier Hills are only one of the fronts where we've been deployed.  A less immediate but far more dangerous threat looms from beyond the Skethyl Mountains, from within the arakkoa city of Skettis.A few months ago our scouts detected a huge increase in arakkoa activity there.  Several attacks against Shattrath followed.  We've stationed forces outside of their city since.Take these explosives to Sergeant Doryn at Blackwind Landing, just outside Skettis.  Tell him you're a new recruit.",
+    "name": "To Skettis!",
+    "requires_level": 70,
+    "zone": "Terokkar Forest"
+}

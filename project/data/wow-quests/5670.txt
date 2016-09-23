@@ -1,0 +1,7 @@
+{
+    "_id": "5670",
+    "description": "You just missed a messenger here from Stormwind that was looking for you, <name>. You've done well for yourself it seems. The High Priestess Laurena wants to talk to you. I think the church feels you're ready for the next step of your training.When you're all set and done with your business here, head to Stormwind, the Cathedral of Light, and speak to her. I'm sure she's waitin' for you.",
+    "name": "<NYI> A Blessing of Light",
+    "requires_level": 15,
+    "zone": "Priest"
+}

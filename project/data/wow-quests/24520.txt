@@ -1,0 +1,8 @@
+{
+    "_id": "24520",
+    "description": "I'd celebrate with you, <name>, but it feels like that dragon did a number on ol' Mount Kajaro. I... uh... I think I'm gonna grab my stuff and get on the first ship leaving the island!Anyways, you should probably head back to headquarters and let Sassy know that you won the footbomb title for us. I'm sure she'll also want to know about the dragon and Mount Kajaro.Good luck!",
+    "name": "Give Sassy the News",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

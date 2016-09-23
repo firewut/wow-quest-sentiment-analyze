@@ -1,0 +1,8 @@
+{
+    "_id": "31813",
+    "added_in_patch": 5,
+    "description": "Der be another trainer not far from here that you ought to fight to test your worth.Dagra the Fierce waits on the northern slope of Thorn Hill, east of The Crossroads. If you be beatin' her, you just might have what it takes.",
+    "name": "Dagra the Fierce",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

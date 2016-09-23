@@ -1,0 +1,7 @@
+{
+    "_id": "10337",
+    "description": "Realizing that Bessy is still staring at you, you gesture toward Thadell's location. You find yourself promising to protect the cow on her way home. Upon finishing your sentence, you realize there's no possible way the cow could understand anything you've said.Shrugging your shoulders, you prepare to guard the bovine on her way back to Thadell.",
+    "name": "When the Cows Come Home",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

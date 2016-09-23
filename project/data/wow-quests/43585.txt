@@ -1,0 +1,8 @@
+{
+    "_id": "43585",
+    "added_in_patch": 7,
+    "description": "We would do well to bolster our own forces before calling upon our allies to join us in the final conflict against the Legion.There still remains much to do in the Broken Isles and victories there will give us the momentum we need to crush the enemy.",
+    "name": "Preparing For War",
+    "requires_level": 103,
+    "zone": "Warrior Campaign"
+}

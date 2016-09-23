@@ -1,0 +1,7 @@
+{
+    "_id": "28127",
+    "description": "Magatha's not the only one that the Twilight's Hammer have taken prisoner.While you're up there to the south, you should break as many of them out as you can.",
+    "name": "Break Them Out",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

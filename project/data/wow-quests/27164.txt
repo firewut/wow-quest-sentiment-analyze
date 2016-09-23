@@ -1,0 +1,8 @@
+{
+    "_id": "27164",
+    "description": "With the animus destroyed, the next logical step is to take out Araj himself, and to take a shard of his phylactery.  You've probably already seen him, lurking at the fountain in the center of town.Take my grenades with you.  They won't do anything to Araj, but if he decides to summon any of those skeletons, you can use them to blow them away.  Again.",
+    "name": "Araj the Summoner",
+    "requires_level": 34,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

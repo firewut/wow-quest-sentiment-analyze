@@ -1,0 +1,8 @@
+{
+    "_id": "44122",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "DANGER: Sorallus",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

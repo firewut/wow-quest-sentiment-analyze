@@ -1,0 +1,7 @@
+{
+    "_id": "351",
+    "description": "You have uncovered some sort of strange, egg-shaped device made from metal.  Fiddling with one of its knobs springs the egg to life, as it opens up into some sort of gnomish robotic contraption!  A voice from inside the robotic egg crackles to life.\"The name's Oglethorpe, and my homing robot has gone missing!  I will reward you for its recovery!  Please take this beacon to the robot.  Excellent, I now have computed the coordinates for you!  It crashed near the Gaping Chasm in Tanaris!\"",
+    "name": "Find OOX-17/TN!",
+    "requires_level": 43,
+    "zone": "Tanaris"
+}

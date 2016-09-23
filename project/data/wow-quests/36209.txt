@@ -1,0 +1,9 @@
+{
+    "_id": "36209",
+    "added_in_patch": 6,
+    "description": "It is done.With this enchantment, not only can you roam amongst the goren freely, but you can move as they do.Your travels through the canyon are now made easier. You have safe access to places otherwise impossible to reach.Perhaps these tunnels will lead to more information that could be used against the Iron Horde.",
+    "name": "What's Under There?",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

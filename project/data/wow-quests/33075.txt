@@ -1,0 +1,9 @@
+{
+    "_id": "33075",
+    "added_in_patch": 6,
+    "description": "Prophet Velen has asked me to show you around Shadowmoon Valley.We will go first to Embaari Village, where my sister Samaara is waiting for us. I have not seen her since the Iron Horde took me to Tanaan.The village is just one of many trading villages between the Temple of Karabor and Shattrath.Follow the road east and make your way to Embaari Village. I will accompany you, my friend.",
+    "name": "A Hero's Welcome",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

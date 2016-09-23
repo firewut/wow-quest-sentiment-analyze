@@ -1,0 +1,7 @@
+{
+    "_id": "9025",
+    "description": "Well, I'll be. It looks like Aristan might be on to something after all. I found traces of substances used in love potions and insidious mind-altering draughts.It isn't unheard of for perfumes to have some of them, but a few of the ingredients I detected... Smells funny.",
+    "name": "Morgan's Discovery",
+    "requires_level": 1,
+    "zone": "Quests"
+}

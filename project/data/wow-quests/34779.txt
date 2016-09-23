@@ -1,0 +1,9 @@
+{
+    "_id": "34779",
+    "added_in_patch": 6,
+    "description": "One of our wagons fell behind, and disappeared somewhere in the woods to the northwest. Vindicator Maraad and several of your workers are stranded out there.Find them and bring them back!",
+    "name": "Circle the Wagon",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

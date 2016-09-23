@@ -1,0 +1,7 @@
+{
+    "_id": "13910",
+    "description": "Can we build it? Yes we can! Just west of the dig site I planted a banner on the shore. The sand is firm and it's as good a site as any. Take my tools and the parts you collected and build these ornery pests a different place to live.",
+    "name": "A New Home",
+    "requires_level": 16,
+    "zone": "Darkshore"
+}

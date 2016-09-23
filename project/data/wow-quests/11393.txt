@@ -1,0 +1,7 @@
+{
+    "_id": "11393",
+    "description": "<name>, my betrothed, Jaren, went west with a small group of explorers to check into rumors of artifacts on the Chillmere Coast. But there are murloc down there, and I fear the worst has befallen them.Surely you have time to see if they're alright? There's a way down to the beach just to the southwest, though watch out for the worgs and other things lurking in the woods.",
+    "name": "Where is Explorer Jaren?",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

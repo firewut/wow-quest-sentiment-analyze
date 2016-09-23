@@ -1,0 +1,8 @@
+{
+    "_id": "25093",
+    "description": "These orcs were murdered in cold-blood by the Alliance down on the coast. We did nothing to provoke them.Their deaths should not be in vain, <name>. Will you bring them justice?<Aggra appears as if she can barely contain her rage.>There are three SI:7 leaders down there along the beach. Bring me each of their heads.",
+    "name": "The Heads of the SI:7",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

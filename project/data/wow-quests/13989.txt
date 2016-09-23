@@ -1,0 +1,7 @@
+{
+    "_id": "13989",
+    "description": "I care little for who you are, <race>. What I do care about is the salvation of the furbolg.Take this Bloodtooth tribe banner a short ways northeast into Greenpaw Village and place it upon their totem mound. They will consider this an act of aggression and try to destroy the banner. Hold your ground until their chief, Murgut, appears to save face for the tribe, then kill the traitor!Govern your strength wisely, friend, you're in for a long fight.",
+    "name": "King of the Foulweald",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

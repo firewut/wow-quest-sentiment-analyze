@@ -1,0 +1,7 @@
+{
+    "_id": "26493",
+    "description": "So, while you're already all sweaty from doing all that other stuff, I was thinking I might grab you for one more task.  You don't mind, do you?The latest Science and Explosions journal just came in from Bilgewater Harbor, and there's this article about this hot new reagent.  Prices on the reagent are skyrocketing, and we're in prime position to capitalize!<Sassy leans over and whispers the details into your ear.>You got that?  Good.  You can find the basilisks in a cave, far to the east.",
+    "name": "There's Somebody Out There Who Wants It",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

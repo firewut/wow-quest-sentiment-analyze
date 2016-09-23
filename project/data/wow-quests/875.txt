@@ -1,0 +1,8 @@
+{
+    "_id": "875",
+    "description": "The only way to stop the harpy raiders is to destroy their chain of command. The harpies are led by fearless lieutenants, Witchwing Slayers. If the Slayers fall, the rest will follow.Go to the Dry Hills and cut down the Witchwing Slayers. Make sure they die painfully, <name>. We want those harpy wenches to know the idiocy of picking fights with the Horde.",
+    "name": "Harpy Lieutenants",
+    "requires_level": 12,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

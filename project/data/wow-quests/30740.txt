@@ -1,0 +1,8 @@
+{
+    "_id": "30740",
+    "added_in_patch": 5,
+    "description": "While you will always hold a place of honor among our order, you are still welcome to participate in our duels.One of our current champions awaits you in the Dome Balrissa. I know that they would be honored to duel with you.",
+    "name": "Champion of Chi-Ji",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

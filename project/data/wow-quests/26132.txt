@@ -1,0 +1,7 @@
+{
+    "_id": "26132",
+    "description": "The ogre magi within the Undershell have summoned protectors for themselves: fleshling fiends from the netherworld.We cannot risk these aberrations from being later used against our forces. While you are in there, I want you to destroy as many of those things as you can.",
+    "name": "Fiends from the Netherworld",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

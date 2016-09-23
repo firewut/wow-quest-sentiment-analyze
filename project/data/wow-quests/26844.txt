@@ -1,0 +1,8 @@
+{
+    "_id": "26844",
+    "description": "Now that those little blighters are dealt with, we've got more to take care of.The tunnel rats are swarming all over the Silver Stream Mine, setting up camps and sniffing around further and further every day. Greedy little things are looking for loot, I gather.Surveying and foraging is all fine and dandy when it's not on dwarven land! Take care of those tunnel rats and report back to me.",
+    "name": "Kobold and Kobolder",
+    "requires_level": 11,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

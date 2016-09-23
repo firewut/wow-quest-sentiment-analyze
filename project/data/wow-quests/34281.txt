@@ -1,0 +1,9 @@
+{
+    "_id": "34281",
+    "added_in_patch": 6,
+    "description": "They roughed me up real good an' I have a splitting headache but I'll survive. I need to get out of this bit o' chain here though.Could ye get the key to it for me? A big ogre called Nub has it, he's over on the far side of the terrace.",
+    "name": "Out of the Chains",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

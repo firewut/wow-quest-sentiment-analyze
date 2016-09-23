@@ -1,0 +1,8 @@
+{
+    "_id": "29540",
+    "description": "So they've got this big ol' demon stashed away in this place, is what they're telling me. And there's an orc that's in charge of keeping him under wraps.Killing an orc is killing an orc, am I right? Doesn't matter what he did or what he's doin', orcs are always ripe for the slaughter!",
+    "name": "The Breaker",
+    "requires_level": 59,
+    "side": "alliance",
+    "zone": "Quests"
+}

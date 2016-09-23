@@ -1,0 +1,8 @@
+{
+    "_id": "332",
+    "description": "If you talk to anyone about wine, then you know we Gallinas sell the best wine in Stormwind.  And we're not far, still in the Trade District along the city's lovely canals.Here, take this pamphlet.  Bring it to my sister Suzetta at our shop for a complimentary bottle of the famous Dalaran Noir.  You won't regret it!",
+    "name": "Wine Shop Advert",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

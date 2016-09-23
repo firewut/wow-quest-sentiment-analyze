@@ -1,0 +1,8 @@
+{
+    "_id": "26157",
+    "description": "I need you to pass on a message for me.Kasim Sharim is an old blood mage that knows a great deal about the demons of the Blasted Lands.  Though you wouldn't know from looking at him, he's quite old, and very powerful... if a little eccentric.  As of late, he spends his days in the back of the Serpent's Coil, a cave not far from where you killed those cultists.Please, deliver this message to him.  He will know what it means.",
+    "name": "Kasim Sharim",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

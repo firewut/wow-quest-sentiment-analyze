@@ -1,0 +1,8 @@
+{
+    "_id": "35963",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Warlords Heroic Dungeon Reward Quest",
+    "requires_level": 100,
+    "zone": "Quests"
+}

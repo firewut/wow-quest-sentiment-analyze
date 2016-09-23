@@ -1,0 +1,7 @@
+{
+    "_id": "9730",
+    "description": "A bounty is hereby declared by the Cenarion Expedition on Rajah Haghazed, leader of the Darkcrest naga.  Haghazed was last sighted by Cenarion scouts at the Lagoon, in the central southern region of Zangarmarsh.The Darkcrest have been linked to numerous attacks against the Cenarion Expedition and their leader is considered extremely dangerous.Those seeking to claim the bounty are advised to report to Warden Hamoot.",
+    "name": "Leader of the Darkcrest",
+    "requires_level": 58,
+    "zone": "Zangarmarsh"
+}

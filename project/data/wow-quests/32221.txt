@@ -1,0 +1,8 @@
+{
+    "_id": "32221",
+    "added_in_patch": 5.1,
+    "description": "Our lumber supply is being jeopardized by constant attacks from Lion's Landing.We've been able to keep the attackers at bay, but it's time to really show 'em some muscle!Head down to the coast and start splitting some skulls!",
+    "name": "Storming the Beach",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

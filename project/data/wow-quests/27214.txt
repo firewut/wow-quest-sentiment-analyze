@@ -1,0 +1,7 @@
+{
+    "_id": "27214",
+    "description": "Reports from our scout patrols have recently taken a disturbing turn. They tell of men wearing red Defias bandanas walking the Dreadmurk Shore north of Theramore's walls.Wreckage in the area suggests they may be survivors of a shipwreck, but our information is limited. Captain Wymor at Sentry Point, a guard tower to the north of the city, is looking for help in following up on the reports.",
+    "name": "A Disturbing Development",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

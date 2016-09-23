@@ -1,0 +1,8 @@
+{
+    "_id": "35284",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Trading Post",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

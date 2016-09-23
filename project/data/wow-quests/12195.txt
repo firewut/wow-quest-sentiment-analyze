@@ -1,0 +1,7 @@
+{
+    "_id": "12195",
+    "description": "A recent hunting expedition brought back more than just game.They encountered a wounded dwarf fleeing the iron dwarf stronghold of Dun Argol. He may have information we can use to strike at our ancient enemy, but before he's of any use to us, we must bring down his fever.The horns of the silvercoat stags, who roam the nearby forest, have long been used to make healing poultices. If you can bring enough of the horns to me, we'll see if the poultice can bring our 'guest' around.",
+    "name": "The Unexpected 'Guest'",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

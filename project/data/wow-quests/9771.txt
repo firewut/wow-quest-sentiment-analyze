@@ -1,0 +1,8 @@
+{
+    "_id": "9771",
+    "description": "Now that you're familiar with the terrain, I'd like to ask your help with something else. The Dead Mire, we've taken to calling the area to the northwest, is an eerie place. No one has ever reported seeing anything alive there, but they didn't stay for very long, either.Scout Jyoba volunteered to investigate the area and report on his findings. He left the post three days ago and hasn't returned. It's not like him to be gone that long without sending some kind of report. Will you search for him, <name>?",
+    "name": "Searching for Scout Jyoba",
+    "requires_level": 59,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

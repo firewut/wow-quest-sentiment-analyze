@@ -1,0 +1,7 @@
+{
+    "_id": "12463",
+    "description": "There's been talk of a tunnel dug by Scourge that connects the embalming chambers of the mausoleum with the large crypts, now unearthed by Thel'zan and his minions. I recently sent my best rogue, Plunderbeard, in search of answers, but have yet to hear back from him. If I were a betting man I'd wager that he's a goner.I want you to go down those steps and head straight through the embalming chamber and look for Plunderbeard. Dead or alive, he'll have answers.\r\n",
+    "name": "Plunderbeard Must Be Found!",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

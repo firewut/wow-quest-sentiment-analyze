@@ -1,0 +1,7 @@
+{
+    "_id": "769",
+    "description": "The kodo beasts of Mulgore are strong and sturdy -- traits much respected among us.  If you are skilled in leatherworking and wish the knowledge to make a Kodo Hide Bag, then bring me supplies for my trade.Do this, and I will share my knowledge with you.",
+    "name": "Kodo Hide Bag",
+    "requires_level": 4,
+    "zone": "Thunder Bluff"
+}

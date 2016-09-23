@@ -1,0 +1,7 @@
+{
+    "_id": "26810",
+    "description": "You are to kill Zanzil.  You rode on Hir'eek's wings and saw through Hir'eek's eyes; you know where Zanzil hides within the Ruins of Aboraz.  Travel there and kill him.Oh, and <race>: if we become separated, you should use this fetish.  It only works within Stranglethorn, but it will transport you back here to me should you need to return switfly.Good luck, <race>.  Zanzil is no ordinary opponent.",
+    "name": "Eliminate the Outcast",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

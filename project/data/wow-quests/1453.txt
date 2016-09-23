@@ -1,0 +1,8 @@
+{
+    "_id": "1453",
+    "description": "There's work to be done in Desolace, <name>. It's an atrocious place, befouled by centaur and other nasties. But if you're looking for a good week's honest work, then head there, meet with Kreldig Ungor, and tell him I sentcha.You can find him holed up at Nijel's Point--it's a little cozy camp hidden in the mountains of northern Desolace. Just head east if you enter from the Stonetalon Mountains. It's easy to miss, so be on the lookout.",
+    "name": "Reclaimers' Business in Desolace",
+    "requires_level": 27,
+    "side": "alliance",
+    "zone": "Ironforge"
+}

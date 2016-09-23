@@ -1,0 +1,9 @@
+{
+    "_id": "35293",
+    "added_in_patch": 6,
+    "description": "Admiral Taylor was ordered to establish a garrison inland while we erected yours in Shadowmoon Valley. He settled just a short ways north of here.The two of us could go there and borrow some supplies to tide us over before our next shipment.What do you say, commander? I'm sure the admiral will be thrilled to see you again.",
+    "name": "Old Friends",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

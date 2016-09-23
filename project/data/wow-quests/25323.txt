@@ -1,0 +1,7 @@
+{
+    "_id": "25323",
+    "description": "The large elementals that besiege us are not a singular entity.They are an amalgamation of lesser spirits bound together by the Twilight's Hammer cultists' magic.The rebuilt flameseer's staff will give us enough power to shatter its bonds.Destroy the smaller elementals once you've broken up the more dangerous large ones.",
+    "name": "Flamebreaker",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

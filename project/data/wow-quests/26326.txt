@@ -1,0 +1,7 @@
+{
+    "_id": "26326",
+    "description": "Only one piece of the World Pillar remains, and it is in the hands of the Stonemother herself. Worse, the temple has come under siege by elementals and giants. It's not a terrible leap of logic to assume they're acting by her will.Go out and meet the elementals in battle to the northwest. Work with Torunscar and Norsala to find a way to communicate with their leaders and seek out the World Pillar. We would prefer such be done peacefully, but we will do whatever we must to seal the rift.",
+    "name": "The Very Earth Beneath Our Feet",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

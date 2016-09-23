@@ -1,0 +1,9 @@
+{
+    "_id": "35241",
+    "added_in_patch": 6,
+    "description": "Too many of my people have fallen at the hands of the Bleeding Hollow. Their cruelty cannot be forgiven.<The grieving orc looks up at you.>Make them pay.",
+    "name": "Vengeance for the Fallen",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Assault on the Dark Portal"
+}

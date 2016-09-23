@@ -1,0 +1,7 @@
+{
+    "_id": "27187",
+    "description": "Hyenas, on their best day, are a nuisance.These foul specimens have a particularly nasty disposition, are riddled with all manner of disease, and are simply a blight on the face of dogdom.Do the world a favor and rid the deserts of Uldum of this mangy menace.",
+    "name": "Do the World a Favor",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

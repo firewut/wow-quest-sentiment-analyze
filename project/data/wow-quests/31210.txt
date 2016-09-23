@@ -1,0 +1,8 @@
+{
+    "_id": "31210",
+    "added_in_patch": 5,
+    "description": "The last ingredient is perhaps the deadliest.The dreadshade flower grows all along these hills.It is by eating these poisonous plants that the local wildlife has become so venomous.A single drop of dreadshade nectar can stop a kunchong's heart.Go and bring me some of these flowers. Do not be tempted to taste them.",
+    "name": "A Shade of Dread",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

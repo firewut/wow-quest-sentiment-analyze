@@ -1,0 +1,7 @@
+{
+    "_id": "11931",
+    "description": "I sense a distinct peculiarity in the drakes here but the meaning of the runes that cover their bodies still eludes me.Without a codex, it will take more time than we can afford for me to interpret them.Not far from here is a Kirin Tor traitor, Caleras, who is likely to have a copy of the tome I require. His underlings hold the runes I will need for my translation.Hurry, mortal. Malygos gains strength with every passing moment.",
+    "name": "Cracking the Code",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

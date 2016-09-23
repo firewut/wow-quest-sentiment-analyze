@@ -1,0 +1,7 @@
+{
+    "_id": "25974",
+    "description": "So, you're the <name> everyone's been talking about? It's good to finally meet you.Well, enough talk, right? Let's get down to it. I need you to swim out northwest to the Sira'kess Front and kill those naga real quick.Nothing fancy. They're looking for a fight, and we'll give them one! Well, you will.",
+    "name": "Sira'kess Slaying",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

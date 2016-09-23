@@ -1,0 +1,7 @@
+{
+    "_id": "26053",
+    "description": "No threat here will go overlooked. If we are to secure these lands under the Dark Lady's rule, we will tear from them everything living, inch by inch, piece by piece.To the northeast, not a stone's throw away from this camp is an ogre mound. The Boulderfist ogres that dwell in it must be eradicated, <class>.They are in the way. Show no mercy or hesitation.",
+    "name": "Clearing the Highlands",
+    "requires_level": 25,
+    "zone": "Arathi Highlands"
+}

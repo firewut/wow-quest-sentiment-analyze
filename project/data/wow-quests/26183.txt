@@ -1,0 +1,8 @@
+{
+    "_id": "26183",
+    "description": "I am forever in debt to our King for all that he has done for us.  One thing I can do for him is make his favorite drink!  Lucky for us, the ingredients we need to make this wonderful drink are located right here in Stormwind City.  Apple trees can be found in every district of Stormwind.  These trees are too tall to pick the fruit from, but lucky for us the apples have fallen to the ground and are easy to retrieve.",
+    "name": "The King's Cider",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Cooking"
+}

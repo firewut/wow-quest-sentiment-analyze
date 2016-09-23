@@ -1,0 +1,8 @@
+{
+    "_id": "39527",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Wrath of Azshara Reward Quest",
+    "requires_level": 100,
+    "zone": "Quests"
+}

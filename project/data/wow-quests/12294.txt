@@ -1,0 +1,8 @@
+{
+    "_id": "12294",
+    "description": "Very well, <name>.  Your people kept their end of the bargain.Tell Dumont that we'll honor the deal.",
+    "name": "A Tentative Pact",
+    "requires_level": 73,
+    "side": "alliance",
+    "zone": "Grizzly Hills"
+}

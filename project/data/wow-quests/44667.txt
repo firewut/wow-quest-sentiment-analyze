@@ -1,0 +1,8 @@
+{
+    "_id": "44667",
+    "added_in_patch": 7,
+    "description": "As we prepare to launch an attack on the Legion's own world, it is important to not give reprieve to our enemies in this one.As your armies seek to secure enemy gateways, you would do well to return to the Broken Isles and carry on the battle against those who stand against you.",
+    "name": "Will of the Valarjar",
+    "requires_level": 110,
+    "zone": "Warrior Campaign"
+}

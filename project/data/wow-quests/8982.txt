@@ -1,0 +1,7 @@
+{
+    "_id": "8982",
+    "description": "We must find who the supplier is. I noticed Apothecary Katrina with a bottle of the perfume tucked in her pack. She told me that she purchased it from Norman, the innkeeper.",
+    "name": "Tracing the Source",
+    "requires_level": 1,
+    "zone": "Quests"
+}

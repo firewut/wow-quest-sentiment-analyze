@@ -1,0 +1,8 @@
+{
+    "_id": "41775",
+    "added_in_patch": 7,
+    "description": "In order to unite the four Elemental Lords of Azeroth, you will need to seek out Therazane and convince her to join the cause of Azeroth.However, the Stonemother currently has her hands full battling a Twilight's Hammer resurgence in Deepholm.If we lend Therazane our aid she may agree to unite with the Earthen Ring against the Burning Legion.Journey to Therazane's Throne in the heart of Deepholm. Aid her in defeating the Twilight's Hammer and convince her to join the defense of Azeroth!",
+    "name": "The Great Stonemother",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

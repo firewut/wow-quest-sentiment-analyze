@@ -1,0 +1,7 @@
+{
+    "_id": "29263",
+    "description": "As far as I'm concerned, there's no problem that can't be solved with bombs. And if a bomb doesn't solve your problem on the first try... use a bigger bomb.So there's this big worm that's been eating people near the lava pools up north. Search for breath bubbles to find it. Attack it until it prepares to bite, then place this bomb down in front of it. Then sit back and watch the fireworks.Hmm... there was one other thing I wanted to say... oh yeah! Don't get eaten.",
+    "name": "A Bitter Pill",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

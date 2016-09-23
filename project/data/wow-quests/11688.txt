@@ -1,0 +1,8 @@
+{
+    "_id": "11688",
+    "description": "Just look at 'em! My beautiful kodos are helpless to defend themselves against those filthy swine! I need you to buy me some time, <race>. I think I can cure the kodo of the sickness, but you need to keep the unliving swine off 'em, else there'll be nothin' left to cure!Get out there and send those swine to their graves - permanently!",
+    "name": "Damned Filthy Swine",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

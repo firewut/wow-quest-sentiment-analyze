@@ -1,0 +1,8 @@
+{
+    "_id": "25395",
+    "description": "You've got to help us, lad. We were tasked with escorting a precious cargo to our fellow dwarves...a keg full of the finest ale you can get out here!Unfortunately, bird-brain over here fell asleep on the job! Those blasted orcs took our keg, and hauled it up into Dun Algaz where they're hiding.This can't stand! Now, while I stay here and try to convince this idiot that it was his fault, I'd like you to go in there and get our keg back. For Khaz Modan!",
+    "name": "The Stolen Keg",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

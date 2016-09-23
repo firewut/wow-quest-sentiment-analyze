@@ -1,0 +1,7 @@
+{
+    "_id": "11475",
+    "description": "I've been studying this deactivated construct for days, <name>. I think I can create a reasonable facsimile of the golem that would have room inside to fit one passenger. The idea being that it would fool those iron dwarves and allow us to get inside Baelgun's.Now I'm not gonna be able to make anything with a hammer and poker. I need my tools! Unfortunately I left those behind at Ivald's Ruin when the iron dwarves first attacked. Get me my tools!Ivald's Ruin is located far to the northeast.",
+    "name": "Tools to Get the Job Done",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

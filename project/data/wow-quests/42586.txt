@@ -1,0 +1,8 @@
+{
+    "_id": "42586",
+    "added_in_patch": 7,
+    "description": "We have a new mission that needs our attention, Archdruid. Deep in the forests of Val'sharah, a small druidic outpost known as Shal'doren Grove is under attack by satyrs.Send our champions to deal with this threat at once, <name>. We cannot allow these satyr incursions to grow unchecked!",
+    "name": "A Glade Defense",
+    "requires_level": 101,
+    "zone": "Druid Campaign"
+}

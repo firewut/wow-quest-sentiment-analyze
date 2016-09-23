@@ -1,0 +1,9 @@
+{
+    "_id": "35444",
+    "added_in_patch": 6,
+    "description": "First the Iron Horde, then the Shadowmoon orcs, and now there's trouble brewing to the south!My brother is a feyrider to the south, at the Draakorium.He says that creatures from the swamp are venturing onto our lands. What is this world coming to?Anyway, you look like a seasoned adventurer. If you are heading that way, would you mind checking in over there?",
+    "name": "The Southern Wilds",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

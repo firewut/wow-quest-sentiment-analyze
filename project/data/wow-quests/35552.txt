@@ -1,0 +1,9 @@
+{
+    "_id": "35552",
+    "added_in_patch": 6,
+    "description": "Nothing is the same since I returned. There is always whispering - everywhere, whispering. Maraad cannot see it, but there are even traces of fel energy here in Elodor. We have been infiltrated!I must attend to the Exarch Council, but I need you to investigate. Follow the traces of fel energy that I will illuminate. If there are truly traitors in our midst, they will have to have some sort of hideout. Find it! I will wait for you with the other Exarchs.",
+    "name": "Trust No One",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

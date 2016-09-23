@@ -1,0 +1,9 @@
+{
+    "_id": "38317",
+    "added_in_patch": 7,
+    "description": "<You scan over Knockwhistle's report.>\"My chute caught a piece of shrapnel. Made a rough landing in a ravenbear nest. Luckily, a bunch of eggs broke my fall.Lost sight of Illandris and Shwayder. Both are masters of disguise, and I am confident they can remain undetected.Will continue to monitor the enemy's activity. Just need to clean all the yolk off my cloaking device. Hope the mother's not around...",
+    "name": "Masters of Disguise",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Stormheim"
+}

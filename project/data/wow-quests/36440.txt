@@ -1,0 +1,9 @@
+{
+    "_id": "36440",
+    "added_in_patch": 6,
+    "description": "We are closer to our goals but a host of sharp toothed saberon bar our way.If we are to get anywhere up here, some of the more aggressive ones will need to be put down I think.",
+    "name": "Saberon Population Reduction",
+    "requires_level": 93,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

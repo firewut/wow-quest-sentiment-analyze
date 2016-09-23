@@ -1,0 +1,8 @@
+{
+    "_id": "42833",
+    "added_in_patch": 7,
+    "description": "<Margaux speaks in a hushed tone.>\r\n\r\nWhile we walk through the Vineyard, we may find time to exchange information.\r\n\r\nTry not to look alarmed at what you see, hm?\r\n\r\n<Margaux flashes a vacant, forced smile.>\r\n\r\nShall we press on?",
+    "name": "How It's Made: Arcwine",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

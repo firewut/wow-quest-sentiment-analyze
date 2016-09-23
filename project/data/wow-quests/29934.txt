@@ -1,0 +1,7 @@
+{
+    "_id": "29934",
+    "description": "If the egg is in Ravenholdt Manor, we can't risk torching it in an all-out assault. I'll need someone slippery to get in there and find out for sure.That's you, <name>.Mostrasz will help you infiltrate the compound. Speak to him just outside and fly to Ravenholdt together. Good luck!",
+    "name": "To Ravenholdt",
+    "requires_level": 85,
+    "zone": "Rogue"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12115",
+    "description": "There is one who recently joined our cause that might be able to decipher this tome. An unbound death knight known as Koltira Deathweaver has temporarily taken residence here at Agmar's Hammer. As he was once a death knight of Arthas and member of the Scourge, he might be able to translate the language of the dead.Take the flesh-bound tome to Koltira and ask him to translate the pages.\r\n",
+    "name": "Koltira and the Language of Death",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

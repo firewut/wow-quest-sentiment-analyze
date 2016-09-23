@@ -1,0 +1,7 @@
+{
+    "_id": "25428",
+    "description": "Now you will use our newfound knowledge to pull Thol'embaar into the mortal plane like a babe screaming from the womb. Then you will crush him.The ritual is simple: take this charred branch, tap it on the ground three times, and utter his name aloud.You must call him from within the heart of the Inferno. Destroy him, and bring his black heart back to me.",
+    "name": "Black Heart of Flame",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

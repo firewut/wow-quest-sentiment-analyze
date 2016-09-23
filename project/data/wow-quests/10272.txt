@@ -1,0 +1,7 @@
+{
+    "_id": "10272",
+    "description": "We've come here to investigate rumors of a strange breed of dragons, perhaps even descendents of Deathwing himself. These are clearly not ordinary black dragons, though.We'll know more once we've had a chance to examine their eggs. Their hatred for my flight runs deep, so I can't get close enough to gather the eggs. Will you agree to help?",
+    "name": "A Promising Start",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

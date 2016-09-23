@@ -1,0 +1,7 @@
+{
+    "_id": "11379",
+    "description": "I'm trying to invent something with some real zing.  But to be honest, I'm more of an idea goblin these days.  I've lost my sense of adventure.But you... remind me of my younger days; ready to take on the world with a sword in one hand and a skillet in the other.I want you to take my beloved cooking pot and head out to Blade's Edge.  Throw in some shortribs and crunchy serpent--already cooked for extra flavor--and broil it over an abyssal's corpse, the only thing hot enough to do the trick.",
+    "name": "Super Hot Stew",
+    "requires_level": 70,
+    "zone": "Cooking"
+}

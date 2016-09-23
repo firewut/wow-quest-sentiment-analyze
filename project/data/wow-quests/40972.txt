@@ -1,0 +1,8 @@
+{
+    "_id": "40972",
+    "added_in_patch": 7,
+    "description": "This is all that remains of the Moon Guard.\r\n\r\nTake a good look.\r\n\r\nWe are but a shadow of our former selves, and we have the Nightborne to thank for our demise.\r\n\r\nFor now there is nothing more we can do. If we want to live, we must leave immediately.\r\n\r\nRetribution can wait.",
+    "name": "Last Stand of the Moon Guard",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

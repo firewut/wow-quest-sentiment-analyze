@@ -1,0 +1,8 @@
+{
+    "_id": "30829",
+    "added_in_patch": 5,
+    "description": "Thank you for coming, $p. I am sorry to have been so cryptic, but I could not risk alerting the mogu to my work here.They are seeking something in the valley. Plundering the tombs of their old kings for relics of power.I could not observe them long before having to flee, but I did manage to recover a relic of my own.The Tongue of Ba-Shon will let us communicate securely over long distances, but only after I have bound it to myself.I think I'm ready to begin, if you are.",
+    "name": "The Tongue of Ba-Shon",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

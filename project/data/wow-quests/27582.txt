@@ -1,0 +1,8 @@
+{
+    "_id": "27582",
+    "description": "We're fighting a losing battle right now, I'm afraid. The Dark Irons would be difficult to defeat on their own, but their elemental allies have given them new bleeding edge warriors that we simply can't compete with.I need you to help us infiltrate their domain and kill as many of their vital leaders as possible. Hopefully that will shock their forces and turn the tide in our favor. Report to Razal'blade for further instruction. He's stationed beyond this gate and to the right.",
+    "name": "Infiltrating Shadowforge City",
+    "requires_level": 51,
+    "side": "horde",
+    "zone": "Blackrock Depths"
+}

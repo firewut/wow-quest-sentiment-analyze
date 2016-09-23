@@ -1,0 +1,7 @@
+{
+    "_id": "27359",
+    "description": "The Scourge have some sort of ward in place that's preventing me from opening a portal so that our reinforcements can help us take the city! It's like a neverending screaming inside of my head! Agh!I'm doing all I can to retain my sanity from that noise with this barrier. My best guess is that the banshees are maintaining the defense. If you could bring me some of their essences, I think I can use them to counteract the ward and get our boys in here!",
+    "name": "Argent Reinforcements",
+    "requires_level": 46,
+    "zone": "Stratholme"
+}

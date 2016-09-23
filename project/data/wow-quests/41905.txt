@@ -1,0 +1,8 @@
+{
+    "_id": "41905",
+    "added_in_patch": 7,
+    "description": "We have heard from all our temples on Pandaria, except for one.We dispatched a message by bird to Tian Monastery, but no answer has yet arrived. This silence is quite unusual.Grandmaster, I recommend that we send our champion, Chen Stormstout, to scout the situation at once.",
+    "name": "Report from Tian Monastery",
+    "requires_level": 101,
+    "zone": "Monk Campaign"
+}

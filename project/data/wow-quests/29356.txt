@@ -1,0 +1,8 @@
+{
+    "_id": "29356",
+    "description": "My stocks o' IPA, that's Ironforge Pale Ale for ye novices, are gettin' low. Luckily, the brewery isn't too far away an' they should have a new cask o' Drugan's IPA waitin' fer us. That Drugan's a genius of a brewer, I tell ye.I won't be able to get down to Kharanos meself today, but perhaps ye can dash down there, pick up the new cask an' run it back 'ere? What d'ye say?",
+    "name": "I Need to Cask a Favor",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Cooking"
+}

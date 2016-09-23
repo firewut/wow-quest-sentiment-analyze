@@ -1,0 +1,8 @@
+{
+    "_id": "11791",
+    "description": "We must notify General Arlos at once.  I've known the captain for a long time and, believe me, he is one of the more careful ones.Who knows how many cultists have been smuggled into our settlements in Northrend in other ships?  This could be disastrous.",
+    "name": "Notify Arlos",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

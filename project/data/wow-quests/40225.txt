@@ -1,0 +1,8 @@
+{
+    "_id": "40225",
+    "added_in_patch": 7,
+    "description": "Speak with Nobundo, and take your place around the circle, <name>. The Earthen Ring will rise again, with you as its leader!Within these stones stands the legendary Heart of Azeroth, which we can use as a base of operations. Perhaps the power of your artifact can unseal the hidden chambers...",
+    "name": "A Ring Reforged",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28665",
+    "description": "Have you been down in the D-Block yet, <name>?  Every time we clear that infested cellblock out, the demons seem to return rather quickly.  We learned that they regenerate from the cursed shackles scattered around the area.  That's where you come in to the picture <name>.I need you to retrieve as many of those shackles as you can and bring them back to me.  We will destroy them immediately.",
+    "name": "Cursed Shackles",
+    "requires_level": 85,
+    "zone": "Tol Barad"
+}

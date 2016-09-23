@@ -1,0 +1,7 @@
+{
+    "_id": "29658",
+    "description": "<A gentle wind caresses your face.>One more task yet remains.Pathaleon the Calculator oversees many of his master's operations. He is personally responsible for much of the recent torment that has plagued this world.I ask that you eliminate him.",
+    "name": "The Calculator",
+    "requires_level": 67,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12044",
+    "description": "Hello hello!  The Scourge to the south are digging up some ancient dragon thing.  I could care less why they're doing it, but they're pulling cartloads of composite ore in the process.Go lift me a bunch of that ore.  That stuff should yield a pretty penny for all the weapons the Horde are crafting.\r\n",
+    "name": "Stocking Up",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

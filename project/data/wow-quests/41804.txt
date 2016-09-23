@@ -1,0 +1,8 @@
+{
+    "_id": "41804",
+    "added_in_patch": 7,
+    "description": "A Legion communicator? Hmmmm.<Khadgar pauses to think for a moment.>You know what, I think I have something in my lockbox upstairs that is just the ticket.",
+    "name": "Ask and You Shall Receive",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

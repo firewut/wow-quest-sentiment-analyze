@@ -1,0 +1,8 @@
+{
+    "_id": "24616",
+    "description": "You must have many questions, <name>.  And they will be answered in time.I know why you're here and what you're looking for.I can't lead you there with the enemy tracking you.One of Sylvanas's scouts has been following your tracks.  You can't lead the Forsaken to the place you seek.  Take this talisman and walk along the road just north of here.Let the ranger lure you to her trap and use the power of the talisman to break free and counterattack.",
+    "name": "Losing Your Tail",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

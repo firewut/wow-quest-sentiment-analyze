@@ -1,0 +1,7 @@
+{
+    "_id": "12998",
+    "description": "According to the documents you captured at Narvir's Cradle, the iron colossus is complete except for one key component -- the Heart of the Storm.Without it, the iron colossus' weapons would be much weaker than the design predicts. If we can deny Overseer Narvir the heart, we could defeat the colossus!Notes on the documents you found say that the heart is in Uldis, a titan facility far to the south. Its entrance is on the south side of a tall mountain overlooking the Bor's Breath River.",
+    "name": "The Heart of the Storm",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

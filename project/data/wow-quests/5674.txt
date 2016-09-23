@@ -1,0 +1,7 @@
+{
+    "_id": "5674",
+    "description": "A wonderful day has come, <name>. You've reached the age in which our priests are trained in abilities only Night elves know. But it is not for me to train you. You must return to the Temple of the Moon and speak to Priestess Alathea as soon as your business here is concluded. She will test you to ensure you're prepared, and only then will she teach you Elune's Grace.",
+    "name": "Elune's Grace",
+    "requires_level": 20,
+    "zone": "Priest"
+}

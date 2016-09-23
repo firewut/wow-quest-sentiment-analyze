@@ -1,0 +1,7 @@
+{
+    "_id": "29304",
+    "description": "Our forces are falling beneath an unleashed monstrosity - Charhounds from the molten depths.These dogs fear nothing and will not stop until their lust for blood is satisfied. Our forces are barely holding them back.Go join the defenders in the Ashen Fields or in the Molten Flow. Perhaps you can make a dent in their numbers.",
+    "name": "The Dogs of War",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

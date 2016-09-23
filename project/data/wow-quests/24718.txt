@@ -1,0 +1,7 @@
+{
+    "_id": "24718",
+    "description": "Looking around, you see bits of red fur laying around this part of the cave.  It appears to match the consistency of gorilla fur.Based on your conversations with Gremix, you know that he would almost certainly be interested in a red gorilla hide, if you were to obtain one.",
+    "name": "The Mighty U'cha",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

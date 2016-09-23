@@ -1,0 +1,7 @@
+{
+    "_id": "12254",
+    "description": "These plans indicate something imminent is being planned.But first, there's the matter of this strange protection that the Onslaught forces have. If Venomspite is to deal with them once and for all, we must find out who's behind it and eliminate them.I've noticed that the bishop in the chapel on the far side of New Hearthglen, across from the lumbermill, has stepped up his blessing of the troops. Kill him and steal his prayer book.Maybe it will give us a clue.",
+    "name": "Without a Prayer",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

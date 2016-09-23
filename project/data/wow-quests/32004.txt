@@ -1,0 +1,8 @@
+{
+    "_id": "32004",
+    "added_in_patch": 5,
+    "description": "<name>, I need you to assemble an eagle-eyed group and lead them into the Siege of Niuzao Temple. Activate the Challenger's Orb and ground Wing Leader Ner'onok.Return to me when you've completed this challenge, and I shall reward you handsomely.",
+    "name": "A Worthy Challenge: Wing Leader Ner'onok",
+    "requires_level": 90,
+    "zone": "Quests"
+}

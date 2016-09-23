@@ -1,0 +1,7 @@
+{
+    "_id": "12208",
+    "description": "Good for nothing wretches!They could have had it easy. We extended our hand in peace. All they had to do was give us passage through Drak'Tharon and we'd have let them be.But no, the prideful little ice trolls decided that they wanted it rough. Now they'll be destroyed and we'll pass through their precious keep to Zul'Drak anyway.We've contracted a gang to deliver us captured trolls. Talk to Samir if you want in on the action. You can find him to the northwest of here, due south of Zeb'Halek.",
+    "name": "Good Troll Hunting",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

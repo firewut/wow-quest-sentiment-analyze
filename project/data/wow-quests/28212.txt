@@ -1,0 +1,7 @@
+{
+    "_id": "28212",
+    "description": "I have a plan to quadruple the recommended torque for a standard speargun of this size, but according to my calculations the act of firing the weapon would shatter the casing. And possibly cleave the planet in two.I can weld together a chassis 100-times stronger if I had a good source of pure elemental flame for the smelting.Unbound Emberfiends are roiling around west of here, in the Humboldt Conflagration. Killing them should render them down to pellets of molten fury. Bring me some!",
+    "name": "Hot Stuff",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29074",
+    "description": "Merry met, <class>!Hallow's End is a time for celebration and reflection, though many of us have forgotten why. Indeed some aspects of the festival, like the Wickerman, have been lost to time... until now, with the return of the Gilneans to the Alliance fold.Travel outside the gates of Stormwind and speak to Celestine of the Harvest.  She can tell you more about the Wickerman ceremony.",
+    "name": "A Season for Celebration",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Hallow's End"
+}

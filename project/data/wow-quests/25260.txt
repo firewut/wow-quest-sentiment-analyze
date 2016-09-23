@@ -1,0 +1,8 @@
+{
+    "_id": "25260",
+    "description": "The flood to the southwest wiped out one of the few Burning Blade camps that still pockmark Durotar.  This one was led by a goblin named Fizzle Darkclaw, and believe me, we're better off without him.Darkclaw, however, did possess an orb that the Horde is interested in procuring.  Who knows why... I leave that to the warlocks.  All I know is that I need that orb.",
+    "name": "Fizzled",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Durotar"
+}

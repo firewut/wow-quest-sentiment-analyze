@@ -1,0 +1,7 @@
+{
+    "_id": "12523",
+    "description": "Great, now that we've got an engine, we're going to need an assortment of other parts to get her back in flying condition. Don't worry, I know what I'm doing.A good mechanic can hold his creations together with anything, but we're better off if it doesn't come to that.Anyway, those Venture Company dullards have plenty of spare parts for their mining equipment all over Swindlegrin's Dig on the far side of that yellow crystal pillar to the northeast. Scoop up a few and bring them back here.",
+    "name": "Have a Part, Give a Part",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

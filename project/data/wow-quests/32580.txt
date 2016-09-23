@@ -1,0 +1,8 @@
+{
+    "_id": "32580",
+    "added_in_patch": 5.2,
+    "description": "We've received word of a Zandalari war party up the beach, north of our foothold. We need them hunted down and killed.Are you willing to do this thing for us, <class>?",
+    "name": "Encroaching Force",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25836",
+    "description": "Well, it looks like it's time for us to part ways, at least for a while. To the northwest, the tauren of Freewind Post are in desperate need of your assistance in pushing back the Grimtotem clan!You know, you've been such a great help around here, I bet you're going to be their  hero  in no-time!",
+    "name": "Free Freewind Post",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

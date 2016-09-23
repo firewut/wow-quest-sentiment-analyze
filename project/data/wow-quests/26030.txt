@@ -1,0 +1,7 @@
+{
+    "_id": "26030",
+    "description": "In ancient times, Lord Ignaeus of Strom, named Trollbane, led the first human civilization of Arathor in war against the trolls. His blade was Trol'kalar--troll slayer, in their ancient tongue.I was one of the last of his line, sworn with guarding Trol'kalar...a duty in which I failed. But now, we will obtain it once more, for my new master.The sword is bound by three sigils. The first is held by the Syndicate traitors that lurk the ruins of Stromgarde. Slay them, and return the sigil to me.",
+    "name": "Sigil of Strom",
+    "requires_level": 25,
+    "zone": "Arathi Highlands"
+}

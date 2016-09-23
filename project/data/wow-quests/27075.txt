@@ -1,0 +1,8 @@
+{
+    "_id": "27075",
+    "description": "The Twilight's Hammer started as a clan of the savage Horde. Their leader, Cho'gall, slowly turned his band of ogres into a death cult, welcoming anyone insane enough to wish for the end of all existence. As you can see, there's still plenty of ogres among their ranks; deranged, fanatical, and just as strong as before.These crude monsters have the gall to come here and spread their filth across our land. The more you kill, the better off Loch Modan will be, <name>.",
+    "name": "Servants of Cho'gall",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

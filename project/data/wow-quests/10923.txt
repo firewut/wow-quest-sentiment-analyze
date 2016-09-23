@@ -1,0 +1,7 @@
+{
+    "_id": "10923",
+    "description": "Now you must use the Dread Relic in a foul necromantic ritual if you wish to challenge Teribus the Cursed.  To the northeast, beyond Auchindoun, is the Writhing Mound, a place where necromancers gather.  The auchenai death-speakers and doomsayers carry doom skulls that are laced with powerful necro-enchantments.  If you collect enough skulls you can use their power along with the power of the Dread Relic to command Teribus to face you.",
+    "name": "Evil Draws Near",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

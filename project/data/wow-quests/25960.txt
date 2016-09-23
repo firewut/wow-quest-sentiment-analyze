@@ -1,0 +1,7 @@
+{
+    "_id": "25960",
+    "description": "I overheard your conversation with the Captain. I know what we're doing sounds insane, but we really don't have much choice. There are people back at that cave that are depending on us.I've stationed lookouts on various ledges in the immediate area. They're burning ammo fast on the scattered naga scouts. Bring them more crossbow bolts to buy us some extra time.",
+    "name": "Not Entirely Unprepared",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

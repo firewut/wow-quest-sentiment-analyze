@@ -1,0 +1,8 @@
+{
+    "_id": "25152",
+    "description": "Finally, you are of age, <name>... of age to battle in the name of the Horde. To conquer for the glory of the Warchief.Yes...<Kaltunk looks you over.>You will do nicely.No doubt you wish to find a great dragon or demon and strangle it with your bare hands, but perhaps it would be wise to start on something less... dangerous.<Kaltunk laughs.>Report to Gornek, he should be able to assign a task better suited to a young <class>. You will find him seated at the fire behind me.\r\n",
+    "name": "Your Place In The World",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Valley of Trials"
+}

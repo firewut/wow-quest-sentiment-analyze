@@ -1,0 +1,7 @@
+{
+    "_id": "11943",
+    "description": "You've discovered a fragment of a special prison, <name>.Malygos' minions use similar prisons to hold their captured mages and other arcane entities, but this prison was constructed to hold something... stronger.In hopes that the enemy of our enemy will prove to be a friend, you must search for the prison's remaining fragments.They are likely to be in the possession of Malygos' most trusted underlings.",
+    "name": "The Cell",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

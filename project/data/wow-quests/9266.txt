@@ -1,0 +1,7 @@
+{
+    "_id": "9266",
+    "description": "",
+    "name": "Making Amends",
+    "requires_level": 40,
+    "zone": "Northern Stranglethorn"
+}

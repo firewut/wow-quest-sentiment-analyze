@@ -1,0 +1,7 @@
+{
+    "_id": "9584",
+    "description": "Now that we have the baseline crystal, we're going to need samples from more dangerous areas of the island to complete the set I'll be sending to the Exodar.The next sample must come from the crystals controlled by the blood elves in the Bladewood area to the northwest of Blood Watch. I have heard reports that they alter and harvest the crystals for use in some magical apparatus. See if you can find one that has not yet been incorporated into one of their devices, and mine a sample from it.",
+    "name": "The Second Sample",
+    "requires_level": 10,
+    "zone": "Bloodmyst Isle"
+}

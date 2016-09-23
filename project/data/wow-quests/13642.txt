@@ -1,0 +1,8 @@
+{
+    "_id": "13642",
+    "description": "The concoction is not quite complete; it must be bathed within the Light of Elune before we can even think about giving it to the child.There is a known location just to the west at Lake Falathim where the goddess's moonlight always touches down, day or night. Please, <name>, I implore you for the sake of Relara, take the concoction and bathe it in Elune's radiance.But beware, strange things have befallen the area of the lake, and I fear that it is no longer safe to go there.",
+    "name": "Bathed in Light",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Ashenvale"
+}

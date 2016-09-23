@@ -1,0 +1,8 @@
+{
+    "_id": "32451",
+    "added_in_patch": 5.1,
+    "description": "It's time we show these Horde mongrels the full strength of the Alliance! Today we bring the battle to their door.Report to Admiral Rogers aboard the Skyfire. She will have further instructions.Good luck out there, <class>. Do the Alliance proud!",
+    "name": "Send A Message",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

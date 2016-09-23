@@ -1,0 +1,8 @@
+{
+    "_id": "11942",
+    "description": "The lich has spoken, <name>.  The high priests of En'kilah hold the secret to entering Naxxanar.Go to the Spire of Blood, the Spire of Pain and the Spire of Decay and slay each of the priests.Return once you've obtained the three scrolls.",
+    "name": "Words of Power",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

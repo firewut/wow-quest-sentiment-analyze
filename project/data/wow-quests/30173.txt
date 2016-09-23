@@ -1,0 +1,7 @@
+{
+    "_id": "30173",
+    "description": "",
+    "name": "War Pigs!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

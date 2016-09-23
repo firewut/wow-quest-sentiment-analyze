@@ -1,0 +1,8 @@
+{
+    "_id": "38748",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Ruins of Shala'nir",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

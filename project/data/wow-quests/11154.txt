@@ -1,0 +1,7 @@
+{
+    "_id": "11154",
+    "description": "You, yes you... I need your help!Petrov sent me up here to get bat guano for the cluster bombs he's making back at the keep. He sent me to my doom!The darkclaw bats hang out in the Rivenwood to the north, but I'm not taking a step off of this platform unless it's to go home!But you... you could get it for me! Yes? Pretty please?!!!Here, take these firecrackers. My thinking is that if you drop 'em underneath the bats, the guano will be scared right out of them!",
+    "name": "Scare the Guano Out of Them!",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

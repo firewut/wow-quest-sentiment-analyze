@@ -1,0 +1,7 @@
+{
+    "_id": "13337",
+    "description": "The Ironwall Rampart overlooks the Valley of Fallen Heroes, west of Aldur'thar. The rampart dominates the fields below on all sides. We will not be able to advance if the rampart cannot be taken, but it is held by Grimkor the Wicked and his Cult of the Damned disciples.If you can weaken Grimkor, our forces will know what to expect as we advance. Take this rune of distortion. Unleashing its power near Grimkor's orb at the end of the rampart should be enough to get the necromancer's attention.",
+    "name": "The Ironwall Rampart",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

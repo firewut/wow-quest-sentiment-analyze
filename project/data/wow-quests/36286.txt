@@ -1,0 +1,9 @@
+{
+    "_id": "36286",
+    "added_in_patch": 6,
+    "description": "The back of the transponder is etched in scribbled writing.<URGENT: If found, please return to Goggles near Eledor. It is of the utmost importance!>",
+    "name": "Transponder 047-B",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

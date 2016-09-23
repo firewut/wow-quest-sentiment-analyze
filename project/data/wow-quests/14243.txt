@@ -1,0 +1,8 @@
+{
+    "_id": "14243",
+    "description": "Brothers of Earth and Fire, hear me! Sisters of the Water and Air, heed my call!Azeroth stands on the brink, its existence near an end! Lend me your power as in times past with my ancient ancestors. Allow me to channel your will through this child of Kezan.Let us put an end to those who would keep us from healing the world!",
+    "name": "Warchief's Revenge",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10230",
+    "description": "Perhaps we have taken the wrong approach to the Unyielding? The tome tells me the Expedition Armory was destroyed by orcs and death knights long ago.  The Unyielding remain here as vengeful spirits trapped in an eternal battle against the fel orc clans.  They think only of revenge.  We must arrange for them to defeat their most hated enemies.  Enter the Expedition Armory once again and find Lieutenant Commander Thalvos.  He carries a battle horn that can summon the Unyielding.  Bring it to me.  ",
+    "name": "The Battle Horn",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

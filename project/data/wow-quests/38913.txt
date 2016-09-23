@@ -1,0 +1,8 @@
+{
+    "_id": "38913",
+    "added_in_patch": 7,
+    "description": "The Skyhorn people are some of the greatest pathfinders and hunters this world has ever known.They are a proud people, but should be willing to listen to reason.If the roads feel unsafe, you may ask any flight master in Highmountain to fly you there.Please, $p, go to their leader Lasan and remind him that only together, we are Highmountain.",
+    "name": "The Skyhorn Tribe",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

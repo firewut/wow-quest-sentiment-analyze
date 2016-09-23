@@ -1,0 +1,7 @@
+{
+    "_id": "9894",
+    "description": "In your travels, you might have encountered some of the expedition's watchers. They do the majority of the field work: documenting the unique inhabitants of the marsh, collecting samples, and making contact with sentient species.The safety of the watchers is paramount, <class>. We've had to recall the watchers we sent to explore Funggor Cavern to the south, because of marshbeast attacks. Warden Hamoot believes that killing their leader, Lord Klaq, will bring a swift end to the attacks. ",
+    "name": "Safeguarding the Watchers",
+    "requires_level": 60,
+    "zone": "Zangarmarsh"
+}

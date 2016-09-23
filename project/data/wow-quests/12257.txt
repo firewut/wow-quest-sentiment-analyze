@@ -1,0 +1,8 @@
+{
+    "_id": "12257",
+    "description": "Preparations for war are underway in the vrykul village of Voldrune to the southeast. Voldrune's thane cannot field a large army, but with our forces spread thin, we are still at risk.We cannot risk giving the thane and his men an opportunity to attack, so we must take the battle to them. If you are truly a <class> of the Horde, you will relish the chance to demonstrate our strength.Cut down the huscarls and prove to this Dragonflayer clan that the Horde is not to be trifled with!",
+    "name": "A Show of Strength",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

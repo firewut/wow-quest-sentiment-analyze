@@ -1,0 +1,7 @@
+{
+    "_id": "10297",
+    "description": "Beyond this timeway the Guardian, Medivh, feverishly works to open the Dark Portal.Scattered across the morass, rifts will materialize. Infinite will pour out of the rifts and attempt to destroy Medivh's shields and, ultimately, Medivh.Kill their rift lords and leaders! Do this until Medivh succeeds.",
+    "name": "The Opening of the Dark Portal",
+    "requires_level": 66,
+    "zone": "Caverns of Time"
+}

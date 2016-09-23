@@ -1,0 +1,7 @@
+{
+    "_id": "25162",
+    "description": "Instead of using the tired old method of setting gems into rings and such, I use an innovative new method.  I simply glue on the gems with Vernstrom Elemental Glue!  The doctor needs more elemental goo for another batch, though, and I have a whole bunch of setting to do.  Can you go get me some?",
+    "name": "Elemental Goo",
+    "requires_level": 1,
+    "zone": "Jewelcrafting"
+}

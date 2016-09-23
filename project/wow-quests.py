@@ -216,7 +216,7 @@ f.write(pretty_stat_series)
 f.close()
 
 import operator
-f = open("./project/data/wow-quest-top-10-verbs.txt", 'w')
+f = open("./project/data/wow-quest-verbs.txt", 'w')
 sorted_x = sorted(verbs.items(), key=operator.itemgetter(1))
 pretty_verbs = json.dumps(
     sorted_x,

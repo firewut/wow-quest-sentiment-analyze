@@ -1,0 +1,7 @@
+{
+    "_id": "26451",
+    "description": "The arena is a place of battle unlike any other.  Inside, you have no friends.  Alliances that do form are fleeting, as your allies can turn on you in the blink of an eye.  Horde vs. Alliance, Alliance vs. Alliance, Horde vs. Horde... anything goes.Take this battle standard, <race>, and place it down on the arena floor.  Defeat the summoned combatant, then return to me.Stay on your toes, <race>.  Anything goes inside the Gurubashi Arena.",
+    "name": "Gurubashi Challenge: Free-For-All Arena Combat",
+    "requires_level": 30,
+    "zone": "The Cape of Stranglethorn"
+}

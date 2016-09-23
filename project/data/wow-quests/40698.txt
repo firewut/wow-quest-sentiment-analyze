@@ -1,0 +1,8 @@
+{
+    "_id": "40698",
+    "added_in_patch": 7,
+    "description": "Master, we have discovered a new technique that allows one with great focus to shape Chi within magical objects. This technique should allow you to considerably improve the abilities of your new weapon.This technique requires a great deal of focus so we are limited to only a single upgrade for now, but that will have to do.",
+    "name": "Purity of Form",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32190",
+    "added_in_patch": 5.1,
+    "description": "Throm-ka, <class>. While we were busy defending our foothold here, Regent Lord Lor'themar Theron led a research expedition north into Kun-Lai Summit.Unfortunately, it seems they have encountered trouble.Warchief Garrosh Hellscream has already departed to lend his assistance, but he will require additional reinforcements.Go northward into the mountains of Kun-Lai. Speak to Tak-Tak for transportation.",
+    "name": "To Mogujia",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

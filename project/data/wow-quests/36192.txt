@@ -1,0 +1,9 @@
+{
+    "_id": "36192",
+    "added_in_patch": 6,
+    "description": "Now that you know how to put lumberjacks to work harvesting timber, we're going to create a work order for your mill.But first we're going to need some timber to process!All around Draenor are juicy trees ripe for the chopping. Go out and find suitable timber for the lumber mill. Come back here when you have enough and we'll get started on a work order.And as usual, let the lumberjacks do the hard work. Just keep 'em protected. Draenor's a dangerous place!",
+    "name": "Turning Timber into Profit",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

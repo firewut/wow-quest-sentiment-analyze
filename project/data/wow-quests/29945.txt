@@ -1,0 +1,8 @@
+{
+    "_id": "29945",
+    "added_in_patch": 5,
+    "description": "Uncle Chen says we're going to help this guy out with his virmen problem. Fine by me! I LOVE messing with virmen.Here's the plan: we're going to paint some turnips orange, and then we'll try to convince the virmen that they're carrots.This can only end in comedy.I'll gather turnips. You find something that we can use to make edible orange paint.",
+    "name": "Yellow and Red Make Orange",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

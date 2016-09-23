@@ -1,0 +1,7 @@
+{
+    "_id": "28247",
+    "description": "Obsidia is one of the last mature dragons that can continue the black dragonflight bloodline. She must be killed.If you succeed in killing her, you should inform Lirastrasza immediately of your victory. She's been fighting a long time to see this done.Thank you for being our fang in these battles. You've proven a powerful ally.",
+    "name": "Last of Her Kind",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

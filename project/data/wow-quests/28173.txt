@@ -1,0 +1,7 @@
+{
+    "_id": "28173",
+    "description": "The Twilight Drakehunters used vicious implements to drag our circling drakes from the sky. Hooks that buried into their scales and held the Twilight secure while they brought our kin to the ground.We are past the point of peace. Past hope for their redemption. The only mercy we have left to offer the black flight is the oblivion that they so passionately pursue.Use these hooks to slay the Obsidian Pyrewings to the south. They should allow you much maneuverability in the air if used right.",
+    "name": "Blackout",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

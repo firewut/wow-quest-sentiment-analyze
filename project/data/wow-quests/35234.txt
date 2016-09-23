@@ -1,0 +1,9 @@
+{
+    "_id": "35234",
+    "added_in_patch": 6,
+    "description": "When the goren attacked we threw everything we had at them but they just kept comin'.So some of the lads went and stole a fancy artifact from the botani.Problem was we couldn't get it to work. Now the artifact is sitting at the bottom of the bastion. To get to it you got to go all the way to the back of the tunnels past all them goren and find the wee tunnel that takes you farther underground.If you retrieve it, it is yours.",
+    "name": "Will of the Genesaur",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

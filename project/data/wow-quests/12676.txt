@@ -1,0 +1,7 @@
+{
+    "_id": "12676",
+    "description": "While we're working to discover the purpose of these crystals, we need you back in Voltarus doing Drakuru's bidding.Every task you perform successfully gets you closer to him, and brings us that much nearer to knowing his mind.While you're there, I have another mission for you. Drakuru's Scourgewagons pose a significant threat. We need them destroyed. Make your way to the wagons and activate these charges. Once they're set, get clear! The explosion will expose you if you're too close.",
+    "name": "Sabotage",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

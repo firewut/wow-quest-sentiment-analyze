@@ -1,0 +1,7 @@
+{
+    "_id": "26634",
+    "description": "Gum disease.  It's a real problem, <race>.I know you're new and all, and probably haven't ever needed your gums cut, but the rest of us pirates have to deal with a little thing called SCURVY.  It's why we keep so many limes around here.Well... we used to keep limes around here.  Someone made off with our last shipment, but they can't have gone far - maybe to the nearby islands?  Bring them back, and maybe I'll see what I can do to get you promoted from swabbie.",
+    "name": "The Bane of Many A Pirate",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

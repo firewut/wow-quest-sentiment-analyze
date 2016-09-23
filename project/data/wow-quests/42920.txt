@@ -1,0 +1,8 @@
+{
+    "_id": "42920",
+    "added_in_patch": 7,
+    "description": "Everything is in place. All systems are operational and we have plenty of fuel. The Fel Hammer's jump engines are ready.\r\n\r\nCaria and Varedis know that you are coming for them. Belath's intelligence indicates that they have retreated to the demon prison world of Niskara.\r\n\r\nIt's time to begin the invasion and finish this once and for all.",
+    "name": "The Invasion of Niskara",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

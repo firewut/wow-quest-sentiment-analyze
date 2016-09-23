@@ -1,0 +1,8 @@
+{
+    "_id": "31120",
+    "added_in_patch": 5,
+    "description": "Cheng Bo is the Warbringer of Fire Camp Gai-Cho. While you've made a dent in their operations, you now have an opportunity to strike a major blow. \r\n\r\nSlay the Warbringer!",
+    "name": "Cheng Bo!",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30142",
+    "added_in_patch": 5,
+    "description": "Oh my! This egg is going to hatch at any second!Well, looks like this little guy is eager to meet you.Are you ready?",
+    "name": "It's A...",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

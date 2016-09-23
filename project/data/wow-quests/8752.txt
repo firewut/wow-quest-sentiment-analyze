@@ -1,0 +1,7 @@
+{
+    "_id": "8752",
+    "description": "",
+    "name": "The Path of the Conqueror",
+    "requires_level": 60,
+    "zone": "Tanaris"
+}

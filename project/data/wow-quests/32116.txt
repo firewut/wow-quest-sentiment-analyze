@@ -1,0 +1,8 @@
+{
+    "_id": "32116",
+    "added_in_patch": 5.1,
+    "description": "When I ordered the excavation of the tunnel to the northwest, I thought we'd find something useful. Gold, iron... anything!\r\n\r\nInstead, we found mogu artifacts, and I get a bunch of dwarves from the Explorers' League to baby-sit.\r\n\r\nI hear from the soldiers that there's trouble in the mines. I have orders from Wrynn that I have to support the Explorers' League, but I can't spare any troops. Can you get down there and find out what's going on?",
+    "name": "Priorities, People!",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

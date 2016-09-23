@@ -1,0 +1,9 @@
+{
+    "_id": "34458",
+    "added_in_patch": 6,
+    "description": "What few soulpriests we don't have on the front lines are working fervently to maintain Auchindoun's defenses. They aren't going to be able to keep it up much longer alone.Soulbinder Tuulani went inside the nearby Tomb of Lights to retrieve a backup power pylon and hasn't returned. I need you to find her and get her and the pylon back here safely.",
+    "name": "Powering the Defenses",
+    "requires_level": 95,
+    "side": "alliance",
+    "zone": "Talador"
+}

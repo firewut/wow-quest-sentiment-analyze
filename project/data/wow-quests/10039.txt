@@ -1,0 +1,8 @@
+{
+    "_id": "10039",
+    "description": "I am informed that one of our scouts near Grangol'var Village is currently observing a shadowy band that has recently moved in there.<name>, I want you to speak with Scout Neftis and see how you can assist her in figuring out what this unknown group is up to.Just head south out of here, and then due west, skirting the north of the Bone Wastes.  Her last report puts her position near the southern entrance to the village.",
+    "name": "Speak with Scout Neftis",
+    "requires_level": 62,
+    "side": "horde",
+    "zone": "Terokkar Forest"
+}

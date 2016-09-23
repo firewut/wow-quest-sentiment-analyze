@@ -1,0 +1,9 @@
+{
+    "_id": "35640",
+    "added_in_patch": 6,
+    "description": "I... almost made it out.  Most of us... dead. The others... they are no longer themselves.These lurching spore beasts are the cause, dragging us further into the marsh... stop them.",
+    "name": "Vengeance for the Fallen",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

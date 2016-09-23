@@ -1,0 +1,7 @@
+{
+    "_id": "14255",
+    "description": "We have plenty of enemies in this region without raising the ire of the Cenarion Circle.When we established our post here, we were asked to keep a watch over one of their researchers.Korrah was last seen at the tower to the west. Do be a dear and pay her a visit. It's been some time since we've bothered to check on her.",
+    "name": "Ethel Rethor",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

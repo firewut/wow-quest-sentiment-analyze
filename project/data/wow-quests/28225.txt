@@ -1,0 +1,7 @@
+{
+    "_id": "28225",
+    "description": "Yer welcome to stay in Chiselgrip for a time, but I need to know that yer a friend.  So I've got a task for ye.We of the Thorium Brotherhood're not the only dark irons here in the steppes.  Far from it.  We're pretty badly outnumbered by the dark irons of Blackrock Mountain.  We've got a safe enough foothold here in Chiselgrip, but even so, they still pester us from as close as the Ruins of Thaurissan, to the north.Prove yerself, <race>.  Kill 'em for me.",
+    "name": "Prove Yer Allegiance",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

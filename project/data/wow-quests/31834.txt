@@ -1,0 +1,8 @@
+{
+    "_id": "31834",
+    "added_in_patch": 5,
+    "description": "Greetings, <name>. Welcome to the Peak of Serenity.  It is here that we monks train and hone our skills in the martial arts.  The time has come for you to begin your training.  Speak with Master Cheng in the Training Grounds below us to begin.",
+    "name": "Begin Your Training: Master Cheng",
+    "requires_level": 20,
+    "zone": "Peak of Serenity"
+}

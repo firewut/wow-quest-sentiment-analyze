@@ -1,0 +1,8 @@
+{
+    "_id": "41731",
+    "added_in_patch": 7,
+    "description": "Tian Monastery is in bad shape.Felspreader imps are torching the grounds. Fel spikes radiate foul energy, corrupting the nearby earth. And fel magic has seeped into the monastery's ale barrels, tainting the brew.Use your abilities to snuff the flames, shatter the spikes, and destroy the tainted barrels.Sigh... hundreds of years of the finest ale... ruined.I don't wish to hear any more of it. Just get it done.",
+    "name": "Storm, Earth, and Fire",
+    "requires_level": 103,
+    "zone": "Monk Campaign"
+}

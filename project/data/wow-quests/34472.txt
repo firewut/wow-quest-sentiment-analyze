@@ -1,0 +1,8 @@
+{
+    "_id": "34472",
+    "added_in_patch": 6,
+    "description": "I think I figured out what those mysterious artifacts you collected were for.It would seem someone is attempting to affect a temporal shift by sending items back into this timeline from your own timeline.Technically that shouldn't be possible. But whoever this is found a way.I think I may try a ritual to bring the traveler through.",
+    "name": "Temporal Juxtaposition",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

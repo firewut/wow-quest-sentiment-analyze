@@ -1,0 +1,8 @@
+{
+    "_id": "42394",
+    "added_in_patch": 7,
+    "description": "We will not let the city of Dalaran fall.If the Legion is planning an attack, the Unseen Path will be there to stop it.Our scouts' most recent reports list a few other areas that sound like they could really use our help, whether they realize it or not.As soon as you're able, send your hunters to take care of the threats.",
+    "name": "Unseen Protection",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

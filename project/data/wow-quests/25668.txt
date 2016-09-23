@@ -1,0 +1,8 @@
+{
+    "_id": "25668",
+    "description": "With the Frostmanes making trouble to our east, the wendigos have sensed our weakness and grown bolder in their raids. Only one of the four most recent supply wagons has made it here safely. The wendigos made off with the rest, stashing it in the Grizzled Den, a cave southwest of town. If you're willing to go down there and recover the stolen supplies, you would have the gratitude of all the townspeople and the mountaineers defending Kharanos.",
+    "name": "Pilfered Supplies",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

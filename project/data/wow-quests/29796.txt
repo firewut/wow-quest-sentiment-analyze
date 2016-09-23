@@ -1,0 +1,7 @@
+{
+    "_id": "29796",
+    "added_in_patch": 5,
+    "description": "I'm sure Aysa won't love this plan, but it's the only plan we've got. Would you mind being the bearer of bad news for me, <name>? She needs to know what we're doing so she can get everyone to safety.",
+    "name": "Urgent News",
+    "zone": "The Wandering Isle"
+}

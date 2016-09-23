@@ -1,0 +1,9 @@
+{
+    "_id": "40519",
+    "added_in_patch": 7,
+    "description": "Heroes of the Alliance, I write to you in Azeroth's darkest hour. From the maw of hell, the burning armies of the Legion have returned.\r\n\r\nOur fleets depart for the Broken Isles at once. As a grand lance, we will pierce the Legion's lines and drive them back to the nether that spawned them.\r\n\r\nYour ship awaits in the Stormwind Harbor, make haste.",
+    "name": "The Legion Returns",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

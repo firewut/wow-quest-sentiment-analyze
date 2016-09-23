@@ -1,0 +1,8 @@
+{
+    "_id": "26670",
+    "description": "This isn't all of it...You should let it go, <name>. The only place left to look is Roland's Doom. That's the mine south of town, and the largest lair of worgen in Duskwood. Nobody in Darkshire has ever made it back from that place alive. In fact, some of the records I have here imply that's where the monsters first came from... who knows what evil's lurking in there?Please, <name>, just give it up. Let's just forget about this whole thing, and never speak of it again.",
+    "name": "Roland's Doom",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

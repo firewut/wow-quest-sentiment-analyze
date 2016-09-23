@@ -1,0 +1,7 @@
+{
+    "_id": "11051",
+    "description": "If we know the demons, and we do because we've studied them extensively, they're fast at work repairing any damage that has been done to their precious transporter.So, if you want a chance at another darkrune, take our banishing crystal back out there and eliminate more demons.  Besides, you want to help us to lessen the threat that the demons pose, yes?We said \"chance\" because the process we use yields mixed results.  You might get a darkrune, or you might get something else entirely.",
+    "name": "Banish More Demons",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

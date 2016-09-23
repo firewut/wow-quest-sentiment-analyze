@@ -1,0 +1,8 @@
+{
+    "_id": "25648",
+    "description": "Hmmph... it looks like your services are being requested elsewhere.  Ag'tor Bloodfist is looking for recruits to assist the Horde's ventures in Azshara, north of Orgrimmar.I'm sure you still have work to do here in Durotar, and I understand that they'll shortly be asking for your help in the Barrens.  I wouldn't be going anywhere yet if I were you, but if you're itching for some manifest destiny... Azshara awaits.",
+    "name": "Beyond Durotar",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Durotar"
+}

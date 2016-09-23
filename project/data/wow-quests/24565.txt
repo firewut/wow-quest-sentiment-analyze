@@ -1,0 +1,7 @@
+{
+    "_id": "24565",
+    "description": "The energies unleashed here have surged through the wildlife, twisting them into powerful and unstable forms. If allowed to spread beyond this grove, these deviates will wreak havoc on the existing ecosystem, devouring local prey and driving out the weaker natural creatures.You must go and cull the population of the overgrowth. Return when this task is done.",
+    "name": "Biological Intervention",
+    "requires_level": 29,
+    "zone": "Southern Barrens"
+}

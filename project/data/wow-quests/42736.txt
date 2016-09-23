@@ -1,0 +1,8 @@
+{
+    "_id": "42736",
+    "added_in_patch": 7,
+    "description": "A cage wasn't enough to hold me, so the vrykul ensorcelled these runestones to trap me in here. Each is powered by a different Felskorn rune.\r\n\r\nUnfortunately, they gave the runes to different guardians, who have all scattered to different places around Stormheim.\r\n\r\nSo, if Sira said that you could have your precious keystone back, you're first going to have to get me out of here.\r\n\r\nThen, we'll see.",
+    "name": "Rune Ruination",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25638",
+    "description": "The note in this bottle is soaked through, but still legible.In it, the author claims to have escaped from some sort of undersea naga prison.He is clearly in fear for his life, and you can't help but wonder if it might be one of your recently abducted shipmates.At a loss as to how to locate the escapee, you determine to share the find with Erunak.",
+    "name": "A Desperate Plea",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

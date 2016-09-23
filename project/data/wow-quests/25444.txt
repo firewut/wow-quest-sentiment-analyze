@@ -1,0 +1,7 @@
+{
+    "_id": "25444",
+    "description": "Now, it would be foolish to go in blind 'ere, so I be creatin' some tiny spies to gather information for Vol'jin. He got to know what's goin' on over on de islands.I could use da help, if you be feelin' up to it. I tell ya how it's done. First, ya gotta catch de frogs. Dey like to stay in de shade of da palm trees around Sen'jin.Once ya have de frogs, bring 'em over here to my sentry totem an' attune dem to me sight.",
+    "name": "Da Perfect Spies",
+    "requires_level": 1,
+    "zone": "Durotar"
+}

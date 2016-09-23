@@ -1,0 +1,8 @@
+{
+    "_id": "13999",
+    "description": "Think of the possibilities, <name>! Fast-growing fungal delivery agents for any manner of toxins. My companions in the Undercity will want to hear about this.Here are my notes and some additional samples. If we're fast, we can catch the next ship bound for the Eastern Kingdoms. Take the road east of here and follow it to the goblin town of Ratchet. Look for the Broken Keel tavern toward the south side of town and deliver these to my associate Sashya within.",
+    "name": "Who's Shroomin' Who?",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11026",
+    "description": "You've arrived at the perfect time, friend!  We are in need of assistance.  In return, you will receive something very rare, which will help us both in the end.We're not a violent ogre any longer, but the demons nearby threaten to overrun us and the Skyguard.  The problem with demons is that, once killed, they come right back in new bodies!But, if you use this crystal to summon a banishing portal, when they die near it, their essences will be drawn in and banished back from whence they came!",
+    "name": "Banish the Demons",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

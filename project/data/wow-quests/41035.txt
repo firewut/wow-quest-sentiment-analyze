@@ -1,0 +1,8 @@
+{
+    "_id": "41035",
+    "added_in_patch": 7,
+    "description": "You may not know me, but I need your help, <name>.\r\n\r\nMeet me in the Violet Gate and I'll explain everything. \r\n\r\nMake haste. I fear we have little time.",
+    "name": "Felstorm's Plea",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

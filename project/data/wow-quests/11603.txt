@@ -1,0 +1,8 @@
+{
+    "_id": "11603",
+    "description": "The military was all that old man Colburn had.  After he retired, he still clung to it like a lifeline.He knows the name of every general, unit, brigade, detachment... you name it.  He's the man you need.Problem is, his mind is scarred.  He won't talk to anyone unless he gets his Kul Tiras wine.  Takes him back to the times he was a marine.I haven't received a shipment in months.  The last merchant ship out of Kul Tiras sunk northeast of here.  See if you can salvage a bottle to bring Colburn.",
+    "name": "In Wine, Truth",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

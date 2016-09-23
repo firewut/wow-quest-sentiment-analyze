@@ -1,0 +1,8 @@
+{
+    "_id": "12282",
+    "description": "The memories of the past haunt this land, <name>. I hear the cries of the fallen echo across Northrend - calling to me.Arthas left a terrible imprint on everything he touched. Only wither and decay remains in his wake. It is important, then, for us to study the past so that we may better know our enemy. Perhaps untold truths shall surface that could help in our campaign.First, you must recover my scrying orb from the town hall, <name>. Exit this tower and turn left down the path to reach the town square.",
+    "name": "Imprints on the Past",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

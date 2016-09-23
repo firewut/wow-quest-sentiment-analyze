@@ -1,0 +1,8 @@
+{
+    "_id": "40646",
+    "added_in_patch": 7,
+    "description": "I agree with Keeper Remulos. To confront and defeat the Legion, we will need weapons of legendary power.Among the history of our kind, there have been four weapons of renown.Tell me, which weapon would you pursue first?",
+    "name": "Weapons of Legend",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

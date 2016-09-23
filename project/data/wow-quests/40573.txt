@@ -1,0 +1,8 @@
+{
+    "_id": "40573",
+    "added_in_patch": 7,
+    "description": "You arrived just in time, friend.Kagraxxis was moments away from sacrificing me to his master... I was certain I would perish.I am grateful, but we are not out of danger yet... Xavius has returned.The Nightmare Lord is here in Val'sharah, personally orchestrating the corruption of this land. My captor revealed as much to me before I was to be sacrificed.We must find Thaon Moonclaw and inform him before it is too late!",
+    "name": "The Nightmare Lord",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

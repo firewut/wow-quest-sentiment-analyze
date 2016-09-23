@@ -1,0 +1,8 @@
+{
+    "_id": "31295",
+    "added_in_patch": 5,
+    "description": "Thank you for your help, <class>.I would enjoy your company for longer, but Leven is leading an attack on the mogu within the Ruins of Guo-Lai to the northwest, and awaits your capable hands.May the celestials protect you, young one.",
+    "name": "Mogu within the Ruins of Guo-Lai",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

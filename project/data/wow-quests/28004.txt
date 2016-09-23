@@ -1,0 +1,7 @@
+{
+    "_id": "28004",
+    "description": "The Warchief has requested that any able-bodied adventurer head to the Deadmines, in the distant land of Westfall, immediately!Assistance is required in the initiative to take the Defias Juggernaut for the Horde to use against the Alliance! If you so choose, head to the Deadmines and speak with Kagtha, a rogue of the Shattered Hand, to aid in the ongoing war against the Alliance.",
+    "name": "Adventurers Wanted: The Deadmines",
+    "requires_level": 15,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12021",
+    "description": "This letter appears to be addressed to a resident of Stormwind from one of the late Villagers in the Carrion Fields.  Perhaps one of the surviving residents in the Eastern camp would be interested in forwarding it to its intended recipient.",
+    "name": "A Letter Home",
+    "requires_level": 70,
+    "zone": "Dragonblight"
+}

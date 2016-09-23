@@ -1,0 +1,7 @@
+{
+    "_id": "29641",
+    "description": "They've been torturing me, trying to get me to tell them everything that I know.They fed the others to Hellmaw, and I was to be next. But I told them nothing!They're using special devices to make their summoning more powerful. You must steal these devices!",
+    "name": "The Soul Devices",
+    "requires_level": 67,
+    "zone": "Shadow Labyrinth"
+}

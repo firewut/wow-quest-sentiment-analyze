@@ -1,0 +1,8 @@
+{
+    "_id": "40041",
+    "added_in_patch": 7,
+    "description": "I sent felwort samples to some of my fellow herbalists, but haven't heard back from them yet. Could you please follow up with them and collect their analyses.Ryno Bloomfield is currently working in Un'goro Crater.Dani Earthtouch is researching Freya's influence in Sholazar Basin.Finally, Lohor has been working in the overgrown portion of Gorgrond.",
+    "name": "Felwort Analysis",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26260",
+    "description": "Go to the tower the slave spoke of.  You should find it on the northeastern end of the camp.If we can act fast enough we might be able to eavesdrop on the forgemaster's meeting.",
+    "name": "The Forgemaster's Log",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

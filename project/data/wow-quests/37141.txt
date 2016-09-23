@@ -1,0 +1,7 @@
+{
+    "_id": "37141",
+    "description": "",
+    "name": "Talonpriest Ishaal",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

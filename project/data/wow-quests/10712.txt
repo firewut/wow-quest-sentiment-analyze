@@ -1,0 +1,7 @@
+{
+    "_id": "10712",
+    "description": "Hey, <name>.  I'm glad I caught you!  I have a very important mission!Here is a nether-weather vane.  I need you to take some in flight readings for me and deliver them to my cousin in Ruuan Weald.Speak with Rally and take a Zephyrium Capacitorium flight to Ruuan Weald.  While you're flying, spin the vane!After you land, bring the spinning vane to O'Mally Zabnabber.Good luck, <name>.  And don't delay!",
+    "name": "Test Flight: Ruuan Weald",
+    "requires_level": 62,
+    "zone": "Blade's Edge Mountains"
+}

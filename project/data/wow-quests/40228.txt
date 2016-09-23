@@ -1,0 +1,8 @@
+{
+    "_id": "40228",
+    "added_in_patch": 7,
+    "description": "You've proven that a gnome can shoot a rifle, and that's no easy feat, but a true test of Addie's skill will be to see if she can track down an elusive beast.\r\n\r\nRumor has is that a ravenous roc circles the basin, cursed by harpy magic, but no one's seen the beast up close.\r\n\r\nTake this flare, and shoot it into the sky once you've spotted the roc. When we see the signal, the huntin' party will rush in and help bring down that magnificent bird!",
+    "name": "Scout It Out",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

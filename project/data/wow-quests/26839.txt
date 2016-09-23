@@ -1,0 +1,7 @@
+{
+    "_id": "26839",
+    "description": "Say, <class>, you look tired.  Carrying around that heavy wallet... er, I mean... heavy equipment... must be a strain on your poor <race> back.Sassy Hardwrench has recently established a premier five-star resort on the sparkling coast off the Cape of Stranglethorn.  Balloon tours, rowboating, day trips to Booty Bay... they've got it all.You should really go visit.  I can tell just by looking that you need a break after so many difficult, lucrative adventures.",
+    "name": "Get Away From It All!",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

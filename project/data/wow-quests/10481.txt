@@ -1,0 +1,7 @@
+{
+    "_id": "10481",
+    "description": "Venture southeast, hero. When you see fields of gigantic blue crystals jutting out from the land, you will have reached your destination. It is there, at the Netherwing Fields, that you will find the enraged spirits of air. They roam the cliffs and mountain bases that surround the fields.Destroy their tortured forms and capture their souls with the totem of spirits. Return to me when this is done.",
+    "name": "Enraged Spirits of Air",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

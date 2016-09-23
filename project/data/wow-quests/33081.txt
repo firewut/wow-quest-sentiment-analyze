@@ -1,0 +1,9 @@
+{
+    "_id": "33081",
+    "added_in_patch": 6,
+    "description": "I've failed, <name>...My squadron was caught by a wandering patrol. We fought fiercely, but the alarm had been raised. The rangari forced me into hiding before surrendering themselves to the enemy.They were under MY command, and they gave their lives... for what? I... I'm not sure what to do, <name>.We need to get out of here, but how?",
+    "name": "Escape From Shaz'gul",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

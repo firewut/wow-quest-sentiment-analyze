@@ -1,0 +1,8 @@
+{
+    "_id": "32119",
+    "added_in_patch": 5.1,
+    "description": "There's somethin' down there that was spookin' the workers. Some kind o' anomaly... looks like a ghost, or a magic spell... like nothing I've ever seen.\r\n\r\nI did manage to get a reading on it and put together this device to try to track it down. The display on the device will let you know roughly how close you are. \r\n\r\nOnce you get close enough, you can use it to draw out the anomaly and get rid of it for good!",
+    "name": "It Is A Mystery",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43123",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Wild Gladiator's Felweave Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

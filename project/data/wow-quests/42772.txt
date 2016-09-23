@@ -1,0 +1,8 @@
+{
+    "_id": "42772",
+    "added_in_patch": 7,
+    "description": "We must ensure that those buried here are never again disturbed. Their spirits' very presence only further perturbs the Light.This cannot continue.I must maintain this barrier to ensure none of the wayward souls enter the Lightbringer's resting place. If you can purify the graves themselves, this madness can finally cease.",
+    "name": "Sacred Ground",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

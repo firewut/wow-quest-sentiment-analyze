@@ -1,0 +1,7 @@
+{
+    "_id": "12427",
+    "description": "So you're interested in the fights, eh?  Well, Krenna has outlawed pit-fighting for all enlisted combatants.  But you, my friend, are technically a free agent and are not included in this prohibition.Nice loophole, eh?Anyway, if you're interested I can start you off with something easy, a measly bear.  I'll even let you bring friends along!",
+    "name": "The Conquest Pit: Bear Wrestling!",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

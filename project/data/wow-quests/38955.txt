@@ -1,0 +1,8 @@
+{
+    "_id": "38955",
+    "added_in_patch": 7,
+    "description": "Your tailoring skill really is impressive and, although I don't have my patterns with me, I do have some patterns memorized. One of those patterns is for a simple bag.Follow my lead, <name>.",
+    "name": "Sew Far, Sew Good",
+    "requires_level": 104,
+    "zone": "Tailoring"
+}

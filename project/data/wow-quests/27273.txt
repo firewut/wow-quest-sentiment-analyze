@@ -1,0 +1,8 @@
+{
+    "_id": "27273",
+    "description": "You just missed the messenger from Moonglade, <name>. He said little, except that he carried an urgent message from Loganaar, one of the honored trainers of the Cenarion Circle. Head to Moonglade as quickly as you can, <name>. The matter sounds important.Look for Loganaar in the village of Nighthaven.",
+    "name": "An Invitation from Moonglade",
+    "requires_level": 20,
+    "side": "alliance",
+    "zone": "Druid"
+}

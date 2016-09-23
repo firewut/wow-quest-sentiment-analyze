@@ -1,0 +1,8 @@
+{
+    "_id": "36813",
+    "added_in_patch": 6,
+    "description": "As lord of the Everbloom my charge was the weaponization of nature.You have likely seen the fruits of my labor in your journeys across my world.My discoveries have allowed my kind to control the invasive species of Draenor through subversive infestation. I speak of total systemic control of the invading organism - the mind and the body.Now that you are my master I offer these gifts to you, but first you must retrieve my research and tools from the Everbloom.Do this and great power is yours.",
+    "name": "Subversive Infestation",
+    "requires_level": 100,
+    "zone": "The Everbloom"
+}

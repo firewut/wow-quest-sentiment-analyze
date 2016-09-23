@@ -1,0 +1,8 @@
+{
+    "_id": "30669",
+    "added_in_patch": 5,
+    "description": "Your raft is down in the water below. Take it out to the middle of the lake, where you should find a woman. Her name is Ana  Wu.Whenever I have a question that I can't figure out on my own, I'll ask her. She should be able to tell us why these crocolisks won't stop attacking.",
+    "name": "The Lorewalker on the Lake",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

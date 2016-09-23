@@ -1,0 +1,8 @@
+{
+    "_id": "40261",
+    "added_in_patch": 7,
+    "description": "PLACEHOLDER",
+    "name": "Demon Hunter Choice 3",
+    "requires_level": 110,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26558",
+    "description": "The idol is prepared, <name>. I trust that you are as well?You will go southwest to Shadra'Alor ahead of us with the idol. You'll need to use the idol at each of the three temples.When you do that, Shadra will be summoned to this realm. The Deathstalkers and I will be along shortly to subdue and harvest her body. Speak with the lookout I've sent ahead once you've performed the ritual, and await my arrival.",
+    "name": "Summoning Shadra",
+    "requires_level": 32,
+    "zone": "The Hinterlands"
+}

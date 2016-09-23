@@ -1,0 +1,8 @@
+{
+    "_id": "38505",
+    "added_in_patch": 7,
+    "description": "Unfortunately, I have no idea how to access any information within this core. But I know someone who does.Head over to \"Like Clockwork\", the engineering shop three doors down from here. Timofey Oshenko owes me a favor. He should be able to extract the memory out of the core.",
+    "name": "Engineers: Not COMPLETELY Useless",
+    "requires_level": 102,
+    "zone": "Blacksmithing"
+}

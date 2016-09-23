@@ -1,0 +1,7 @@
+{
+    "_id": "24618",
+    "description": "We have fought the Alliance to a standstill here, even as the land beneath our feet falls apart. To the east you will find the Battlescar, a wide swath of decimated terrain. It is little more than a line in the sand, but it must be OUR line.In the center of the scar you will find a flag marker designating who controls it. Scout out the flag.If it's not already ours, capture it for the Horde - it will swing the battle in our favor. Investigate the scar and kill anyone you find in there!",
+    "name": "Claim the Battle Scar",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

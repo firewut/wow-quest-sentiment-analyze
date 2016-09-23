@@ -1,0 +1,8 @@
+{
+    "_id": "43958",
+    "added_in_patch": 7,
+    "description": "There is an urgent matter that requires your attention, <name>.The body of a woman with a knife in her back has turned up in the sewers.Normally, such a matter would be less than newsworthy... but this isn't your average cutthroat. It's an SI:7 operative!I've got some of our goons guarding the body, but you had better get over there before the word spreads.If SI:7 finds out about this... it will be bad for business.",
+    "name": "A Body of Evidence",
+    "requires_level": 101,
+    "zone": "Rogue Campaign"
+}

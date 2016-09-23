@@ -1,0 +1,8 @@
+{
+    "_id": "32537",
+    "added_in_patch": 5.2,
+    "description": "Saurok consistently test our borders, and our constructs usually fend them off. Some constructs, however, have been defeated and dragged back to Ihgaluk Crag.I want those constructs back. No slithering lizard will steal Silver Covenant property under my watch.",
+    "name": "De-Constructed",
+    "requires_level": 90,
+    "zone": "Quests"
+}

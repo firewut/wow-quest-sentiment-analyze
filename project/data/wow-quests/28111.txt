@@ -1,0 +1,8 @@
+{
+    "_id": "28111",
+    "description": "Productivity from our spider farm at the Azurelode Mine is at a standstill. Captain Keyton has requested that we send help immediately. Keyton claims that the mine spiders refuse command and are running rampant. Furthermore, a group of coastal murlocs are raiding our supplies. I want you to go down there and check things out. Help out Keyton and the spider-handler, <name>.You'll find Azurelode Mine to the southeast, near the coast.",
+    "name": "Trouble at Azurelode",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Hillsbrad Foothills"
+}

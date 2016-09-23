@@ -1,0 +1,8 @@
+{
+    "_id": "30131",
+    "added_in_patch": 5,
+    "description": "My child is coming. I must help as I may.Stay nearby, hero. If my wife and child survive, I would have them look on the face of the one who saved them.",
+    "name": "Life",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

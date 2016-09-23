@@ -1,0 +1,7 @@
+{
+    "_id": "25808",
+    "description": "<The Gnomecorder crackles with energy. You can hear Lieutenant Paulson on the other end.>Stupid gnome junk... Is ANYBODY there? <name>, are you there?Maybe  he'ss; dead.Listen, if you can still hear me, we just got word that a Horde master assassin is in the mines, directing the other assassins. Find her, kill her, report back to me.Paulson, out.",
+    "name": "Is This Thing On?",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

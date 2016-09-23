@@ -1,0 +1,7 @@
+{
+    "_id": "28751",
+    "description": "Even though we beat Warden Stillwater, his zombies still roam the countryside. Look there, another wave is approaching! Help me fight them off, old buddy! Let's go!",
+    "name": "Tending the Garden",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

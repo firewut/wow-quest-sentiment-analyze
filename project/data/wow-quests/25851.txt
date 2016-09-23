@@ -1,0 +1,7 @@
+{
+    "_id": "25851",
+    "description": "Return now to your leader and tell him all that you have done for the Grimtotem. Tell him that the Alliance may pass freely across our borders.",
+    "name": "Dances with Grimtotem",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

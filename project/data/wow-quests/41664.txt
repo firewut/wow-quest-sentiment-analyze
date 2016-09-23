@@ -1,0 +1,8 @@
+{
+    "_id": "41664",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Vantus Rune Work Order: Dragons of Nightmare",
+    "requires_level": 110,
+    "zone": "Inscription"
+}

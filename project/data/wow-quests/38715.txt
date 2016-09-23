@@ -1,0 +1,8 @@
+{
+    "_id": "38715",
+    "added_in_patch": 7,
+    "description": "Black Rook Hold is not the same place I knew. Its walls have crumbled, a ghostly echo of its former glory.If Lord Ravencrest has returned, then surely he will have his former officers at his side.Kester Farseeker, captain of the guard.Trelan Shieldbreaker, peerless master of maces.Starlys Strongbow, who could split arrows while blindfolded.If we stand any chance of entering the tower itself, they must be eliminated.",
+    "name": "The Rook's Guard",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

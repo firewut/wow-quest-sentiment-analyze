@@ -1,0 +1,8 @@
+{
+    "_id": "30476",
+    "added_in_patch": 5,
+    "description": "Old Hillpaw has about a million chickens on his farm... but that's not what he REALLY loves.I saw. He collects blue feathers.I don't realy know where to get a blue feather around here, but I do know where to find some blue pearls!Check the oysters in Cattail Lake to the northwest. I'm sure a blue pearl will look nice with his feather collection!",
+    "name": "A Gift For Old Hillpaw",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

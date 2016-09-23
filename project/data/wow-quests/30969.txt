@@ -1,0 +1,9 @@
+{
+    "_id": "30969",
+    "added_in_patch": 5,
+    "description": "The power of these Dark Shaman has attracted many allies, <name>. Former members of the Horde that now work towards some dark purpose.We need to make an example of them before we have another twilight's hammer on our hands.Kill any cultist you come across and bring me their insignia.",
+    "name": "A New Enemy",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Ragefire Chasm"
+}

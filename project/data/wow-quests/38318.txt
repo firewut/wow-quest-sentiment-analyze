@@ -1,0 +1,9 @@
+{
+    "_id": "38318",
+    "added_in_patch": 7,
+    "description": "Now that you've got the launcher, we should be able to infiltrate the city. It looks like there's a good spot to grapple onto on the wall just past us. There's a vantage point on top of this ridge.\r\n\r\nOnce we're in, I'll try to slip past the guards and get a look at the mountain path. I'd appreciate if you could make some distractions for me. If all goes well, I'll meet up with you in the upper city.\r\n\r\nGood luck!",
+    "name": "No Wings Required",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

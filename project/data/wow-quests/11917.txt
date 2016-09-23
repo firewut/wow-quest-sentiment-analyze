@@ -1,0 +1,7 @@
+{
+    "_id": "11917",
+    "description": "We must act to preserve the balance! Time is against us.Return to the camp on the Zoram Strand with the large ice stones. They use them to communicate with the elementals, as they do in Silithus. Much as I am loath to do this, the spirits will understand - you must summon one of this Ahune's lieutenants and destroy it. Perhaps this forestalling action will be enough...",
+    "name": "Striking Back",
+    "requires_level": 16,
+    "zone": "Midsummer"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26703",
+    "description": "We've nearly won the day, largely thanks to you.  One task remains, however... kill Fleet Master Firallon.It looks like most of Firallon's crew is already dead, but I know that old sea dog well enough to know that he's not done yet.  No, he's cooped up tight in his cabin, ready to go down with his ship.Speak with Kebok again to get a wind rider.  I'll try to hold off the cannonfire while you're on board.",
+    "name": "Bloodsail's End",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

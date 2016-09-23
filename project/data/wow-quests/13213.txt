@@ -1,0 +1,7 @@
+{
+    "_id": "13213",
+    "description": "I see and hear many things, <name>, and something very important has happened since your defeat of Overthane Balargarde: you are wanted for battle in Valhalas!You will find the battle pit to the north. Go now with your friends and speak with Geirrvif the val'kyr. The challengers that she will offer you within Valhalas are sure to require their help.Good luck.",
+    "name": "Battle at Valhalas",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

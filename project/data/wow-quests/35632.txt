@@ -1,0 +1,8 @@
+{
+    "_id": "35632",
+    "added_in_patch": 6,
+    "description": "As an archaeologist, it's important to make great discoveries and contributions to the field. Why? Because that's how you make a name for yourself!Even that hack Harrison Jones has a somewhat reputable name. If he can do it, then you can too!The Highmaul are hiding something big in that cave of theirs and we need to get in there and take it!Take this teleportation beacon and make your way to the back of the cave. Once you find the relic, place the beacon and my team will take care of the rest!",
+    "name": "A Lesson in Archaeology",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

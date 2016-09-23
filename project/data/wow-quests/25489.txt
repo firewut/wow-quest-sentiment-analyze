@@ -1,0 +1,8 @@
+{
+    "_id": "25489",
+    "description": "Are you ready to go, <class>?One of our braves will row you out to the Mirage Raceway. If anyone has survived out there, they'll desperately need your help.May the Earth Mother smile upon you.",
+    "name": "Two If By Boat",
+    "requires_level": 38,
+    "side": "horde",
+    "zone": "Thousand Needles"
+}

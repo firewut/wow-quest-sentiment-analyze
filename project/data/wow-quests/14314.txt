@@ -1,0 +1,7 @@
+{
+    "_id": "14314",
+    "description": "It began with a dream that repeatedly warned me of the danger to come. I saw the demonic legions bearing down upon our kind, overrunning our lands.The dream has become real. The Burning Blade and their demon masters have pushed the Magram out of their lands in the south. In turn, the Magram have defeated my people and taken over our homes.The fight was ferocious. Only a handful of the Kolkar still live. I would ask that you visit what was once my land in the east, and free them from their prison.",
+    "name": "Breakout!",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

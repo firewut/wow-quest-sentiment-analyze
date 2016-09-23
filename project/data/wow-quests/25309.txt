@@ -1,0 +1,7 @@
+{
+    "_id": "25309",
+    "description": "You've made it this far.  Others haven't.Go to Doom's  Vigil, just north of here.  We've rounded up all the... failures.  I want you to help take care of them.  It'll be good for your spiritual growth.If this cold-blooded act gives you trouble, think of it as their second chance.  Should any of them manage to kill you... well, they'll take your spot.",
+    "name": "Spiritual Training: Mercy is for the Weak",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10107",
+    "description": "Kilrath sends news of the Boulderfist leader: He is an orc! An ancient orc that passed through the Dark Portal in the time of our fathers and has since returned to his homeland. I wish for you to track down this orc and try to convince him to pull back the Boulderfist ogres. He resides on an upper platform in the Burning Blade Ruins to the southeast near the border of Terokkar. Good luck, <name>!Be warned, he is a blademaster...",
+    "name": "Diplomatic Measures",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

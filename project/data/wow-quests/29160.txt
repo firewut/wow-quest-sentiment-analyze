@@ -1,0 +1,7 @@
+{
+    "_id": "29160",
+    "description": "We have a real problem on our hands. Not only are the nearby spiders vicious and predatory, their numbers appear to be endless.We need to stop the growth of their army. Cut their heads off in the egg, not on the battlefield.The Cinderweb Spinners' eggs are laid among the stone pillars to the north. Collect 20 eggs and bring them back to me.",
+    "name": "Egg-stinction",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

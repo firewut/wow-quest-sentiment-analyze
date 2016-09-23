@@ -1,0 +1,8 @@
+{
+    "_id": "39025",
+    "added_in_patch": 7,
+    "description": "If we have one good fortune in this it is that Dargrul has no knowledge of how to use the hammer.He keeps thinking of the hammer as a weapon instead of a tool of creation.Even so, he has imprisoned our tribesman in fists of stone summoned from the earth. Our weapons have proven useless against this magic.You might have power enough to break these fists. Can you help?",
+    "name": "Grasp of the Underking",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

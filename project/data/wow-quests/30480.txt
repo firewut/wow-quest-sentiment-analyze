@@ -1,0 +1,8 @@
+{
+    "_id": "30480",
+    "added_in_patch": 5,
+    "description": "From the moment I first rose from the river, I knew I was destined to be Waterspeaker.\r\n\r\nI was taught many rituals, and have performed all of them, save one.\r\n\r\nThere was one, an extremely ancient one, that we were told to call upon if our people ever turned against us. \r\n\r\nThis must have happened in our people's distant past, because we haven't needed to use it in our village's memory.\r\n\r\nI suppose now is the time to do so.",
+    "name": "The Ritual",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

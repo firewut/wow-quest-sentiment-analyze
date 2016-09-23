@@ -1,0 +1,7 @@
+{
+    "_id": "25183",
+    "description": "It's not enough to kill 'em - after Bael'dun, I want to give those goblins a taste of their own.Go into Frazzlecraz's mine and arm a pile of the explosives inside.At the entrance to the mine you should see some sort of switch or plunger. Once the explosives are armed, use the plunger to blow that place sky-high. Put the fear in 'em, <Class>! ",
+    "name": "...And Bury the Rest",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

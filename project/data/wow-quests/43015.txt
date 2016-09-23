@@ -1,0 +1,8 @@
+{
+    "_id": "43015",
+    "added_in_patch": 7,
+    "description": "If anyone can improve the way things run around here, it's Winstone Wolfe. I tell ya, the man is a miracle-worker!\r\n\r\nNow that he's workin' for us, shall we pick his brain an' see what he suggests?",
+    "name": "What Winstone Suggests",
+    "requires_level": 101,
+    "zone": "Rogue Campaign"
+}

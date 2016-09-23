@@ -1,0 +1,8 @@
+{
+    "_id": "43251",
+    "added_in_patch": 7,
+    "description": "The Raven's Eye should be somewhere within the courtyard. This is where Ravencrest's lieutenants used to plan their strategies in life. Hell, it looks like they still might be doing so in death.\r\n\r\nIt has to be around here somewhere. Your skill at lock picking should prove invaluable.",
+    "name": "In Search of the Eye",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

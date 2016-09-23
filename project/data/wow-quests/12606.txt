@@ -1,0 +1,7 @@
+{
+    "_id": "12606",
+    "description": "Now that the tunnels have been sealed, our next concern is recovering those who have fallen to the enemy.With any luck, several of our soldiers are still alive and relatively well inside the nerubian cocoons.Free them, <class>, while you still can!",
+    "name": "Cocooned!",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40994",
+    "added_in_patch": 7,
+    "description": "The blades you wield are among the most powerful in all of Azeroth, but we must always remain two steps ahead of the enemy. Even now their armies grow in strength, and those weapons will make you a prime target for their assassins.Speak with Marin Noggenfogger in the Uncrowned Vault next door. He recently completed a project which you will find most intriguing.",
+    "name": "Right Tools for the Job",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

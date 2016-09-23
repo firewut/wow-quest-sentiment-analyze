@@ -1,0 +1,7 @@
+{
+    "_id": "27190",
+    "description": "The torch is ready. Plant it at the end of the dock and be prepared to face whatever comes forth.I have no idea what the torch's smoke may reveal... if anything emerges at all. I must say, I have my doubts about this kind of folk magic, but we haven't time for anything else. For your sake and Jarl's, I wish you luck.",
+    "name": "Cleansing Witch Hill",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

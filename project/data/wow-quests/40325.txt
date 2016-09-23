@@ -1,0 +1,8 @@
+{
+    "_id": "40325",
+    "added_in_patch": 7,
+    "description": "Theryn is at the mercy of his own mind. Whatever we find in there, it may be difficult to control.\r\n\r\nI will need your help to sort through the visions, so be ready for anything.\r\n\r\nWith any luck, we will discover what makes Theryn special. And... whether there is anything left of who he used to be.",
+    "name": "Scenes from a Memory",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

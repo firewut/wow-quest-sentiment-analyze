@@ -1,0 +1,7 @@
+{
+    "_id": "5702",
+    "description": "Hey there, <race>! I'll teach you whatever it is you want to know, but you should know that Ur'kyo--that's his name, right?--is looking for you. Something was said about you coming back to the Valley of Trials... no, that wasn't it. It was the Valley of Spirits... in Orgrimmar. Yeah, that's it!Yeah, so, Ur'kyo... Valley of Spirits. He wants to talk to you.",
+    "name": "<NYI> The Rites of Old",
+    "requires_level": 25,
+    "zone": "Priest"
+}

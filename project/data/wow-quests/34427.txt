@@ -1,0 +1,9 @@
+{
+    "_id": "34427",
+    "added_in_patch": 6,
+    "description": "One of the captured orcs is receiving some... preferential treatment, if you can call it that. While others are tied down and tortured, this one is tied to a stake and burned for the amusement of his captors.Use this runestone. It should handily deal with the ring of fire that surrounds him.",
+    "name": "A Potential Ally",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Assault on the Dark Portal"
+}

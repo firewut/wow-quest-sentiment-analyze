@@ -1,0 +1,7 @@
+{
+    "_id": "9146",
+    "description": "I need one last favor of you, <class>.  Just in case Ranger Salissa didn't make it back to Farstrider Enclave on the south edge of the lake, I need you to go there and get help.Just check in with Captain Helios and let him know what's happened here.  I'm sure he'll send help back as soon as he can.",
+    "name": "Report to Captain Helios",
+    "requires_level": 9,
+    "zone": "Ghostlands"
+}

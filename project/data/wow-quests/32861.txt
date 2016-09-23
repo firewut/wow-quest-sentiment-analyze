@@ -1,0 +1,8 @@
+{
+    "_id": "32861",
+    "added_in_patch": 5.3,
+    "description": "We have what we need. I can create an item that will harness the power of the celestials and, with a little work, may also be able to contain some of my own.Meet me atop Mason's Folly, east of the Tavern in the Mists in the Veiled Stair, where we've met before. You will be delighted with the results!",
+    "name": "Cloak of Virtue",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

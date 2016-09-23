@@ -1,0 +1,7 @@
+{
+    "_id": "12239",
+    "description": "I have a spy within the ranks of the Scarlet Onslaught. I need you to deliver these daily orders to her so that she can plan the next phase of our assault.She goes by the name of Agent Skully and she's under a magical guise to appear as the Onslaught's cemetery caretaker.Here, take these orders to her, and then do as she asks. You'll find the graveyard on the side of the abbey.",
+    "name": "The Spy in New Hearthglen",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

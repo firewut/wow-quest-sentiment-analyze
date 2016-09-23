@@ -1,0 +1,7 @@
+{
+    "_id": "12299",
+    "description": "It's good to meet you.  Let us celebrate our pact by partaking in some good old fashioned Horde-killing.You'll find marauders from Conquest Hold just outside our town, west of here.  Why don't you head out there and hunt them like the filthy animals they are?Let's see if our new allies can back all their talk with some action.",
+    "name": "Northern Hospitality",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

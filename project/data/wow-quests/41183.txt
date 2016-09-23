@@ -1,0 +1,8 @@
+{
+    "_id": "41183",
+    "added_in_patch": 7,
+    "description": "<name>, good to see you. What do you think of my shop so far? Not too bad for just one person, huh?By the way, High Examiner Tae'thalan has been digging around Azsuna, and asked that I send you to see him.Knowing him, he probably thinks he's found yet another world-shatteringly powerful artifact.",
+    "name": "Academic Exploration",
+    "requires_level": 110,
+    "zone": "Archaeology"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24812",
+    "description": "Da naga have committed great atrocities on our people. Da time ta show dem mercy has long passed.Enter da cave and kill any naga you find dere. Every naga dead dis day is one less naga ta take us unawares later on. I trust ya will be thorough.",
+    "name": "No More Mercy",
+    "requires_level": 1,
+    "zone": "Echo Isles"
+}

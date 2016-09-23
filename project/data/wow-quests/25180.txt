@@ -1,0 +1,7 @@
+{
+    "_id": "25180",
+    "description": "Some time ago, Brann sent King Magni an urgent message from Ulduar. He said he'd found an ancient titan cache with mysterious and important relics. King Wrynn dispatched one of his fastest ships to Northrend to transport the courier. I was to meet him here and examine the tablets, but the courier is nowhere to be seen.Magni is worried, <name>. I haven't heard anything about the courier's arrival. Would you be willing to travel to Stormwind Harbor and see if he's arrived?",
+    "name": "Tablets of the Earth",
+    "requires_level": 5,
+    "zone": "Quests"
+}

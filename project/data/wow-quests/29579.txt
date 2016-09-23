@@ -1,0 +1,8 @@
+{
+    "_id": "29579",
+    "added_in_patch": 5,
+    "description": "The people of this village are simple farmers - not fighters like you and I. Still, they are stubbornly defending their homes as best they can.Search the village for anyone still on their feet and tell them to rally here at Hanae's place.",
+    "name": "Rally the Survivors",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12465",
+    "description": "Whatever was written on the remaining pages of Plunderbeard's journal must be recovered. Search the chambers located on the other side of this tunnel for Plunderbeard's assailants. They must be the ones who tore the journal apart!Should you recover the missing pages, return them to Ambo Cash at the entrance of the Wintergarde Mausoleum.",
+    "name": "Plunderbeard's Journal",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "7865",
+    "description": "",
+    "name": "Sentinel Advanced Care Package",
+    "requires_level": 45,
+    "zone": "Ashenvale"
+}

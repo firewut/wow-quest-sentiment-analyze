@@ -1,0 +1,8 @@
+{
+    "_id": "12177",
+    "description": "Ah, we have a small problem.  Grizzly hides... they be brown, mon!Think... think!I got it, mon!  Is like this: gray is black an' white all mixed up.  You get me some coal an' some flour, I'll grind it all up and dust the hides with it.  No one will know the better!Blacksmiths sell coal for smeltin' an' you can get flour from the provisioner. ",
+    "name": "Jun'ik's Coverup",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

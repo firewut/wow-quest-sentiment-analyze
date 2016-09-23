@@ -1,0 +1,7 @@
+{
+    "_id": "29140",
+    "description": "This is the wrong choice. Accept the quest, \"The Warden's Charge.\" Those quests are more fleshed out.",
+    "name": "Under the Skylord's Gaze",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

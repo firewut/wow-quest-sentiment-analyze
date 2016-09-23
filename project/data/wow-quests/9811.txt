@@ -1,0 +1,7 @@
+{
+    "_id": "9811",
+    "description": "This is the beginning of a new chapter in blood elf history, <name>.  You've helped cement the bond between my race and yours, <race>.Take the traitor's head to Regent Lord Lor'themar Theron in Silvermoon City.  He'll be eager to hear the news.",
+    "name": "Friend of the Sin'dorei",
+    "requires_level": 15,
+    "zone": "Ghostlands"
+}

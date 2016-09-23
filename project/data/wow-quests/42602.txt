@@ -1,0 +1,8 @@
+{
+    "_id": "42602",
+    "added_in_patch": 7,
+    "description": "It's time to send our newly trained imps out into the field. Look at the Dreadscar Battle Plans and send your champions and troops on a routine scouting mission.",
+    "name": "Troops in the Field",
+    "requires_level": 101,
+    "zone": "Warlock Campaign"
+}

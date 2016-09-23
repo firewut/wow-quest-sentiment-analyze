@@ -1,0 +1,8 @@
+{
+    "_id": "26655",
+    "description": "Here is your thread, <name>.  It has a thousand uses, from binding evil spirits to sewing life into inanimate objects.",
+    "name": "Deliver the Thread",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

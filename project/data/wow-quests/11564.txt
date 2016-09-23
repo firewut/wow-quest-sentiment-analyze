@@ -1,0 +1,7 @@
+{
+    "_id": "11564",
+    "description": "Word is, strange <race>, that you might be going after the king of the orcas, Glrggl.That's all fine and good, but if you want to taste the stew that makes life worth living, then you'll bring me back the succulent blubber of the orcas that swim in Glimmer Bay.Hurry... I have quite a bit of cutting to do on this carcass if you want to reap the benefits of your efforts.",
+    "name": "Succulent Orca Stew",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

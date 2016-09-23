@@ -1,0 +1,8 @@
+{
+    "_id": "24646",
+    "description": "Ever since the Forsaken invaded Gilneas, we've tried to keep the location of the Scythe of Elune secret.   We moved it at night to one of many safe locations.  The Dark Rangers got close, but never found it... until now.They were last spotted at the Woods' End Cabin, west of here.  Blow this horn when you find them and Tobias and his trackers will engage the Dark Rangers.Only then will it be safe for you to venture inside the cabin and take back the scythe.  Hurry, <name>.  It must not reach Sylvanas.",
+    "name": "Take Back What's Ours",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

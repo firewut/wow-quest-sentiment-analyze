@@ -1,0 +1,8 @@
+{
+    "_id": "33233",
+    "added_in_patch": 5.4,
+    "description": "",
+    "name": "Short-Supply Reward",
+    "requires_level": 90,
+    "zone": "Quests"
+}

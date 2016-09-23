@@ -1,0 +1,9 @@
+{
+    "_id": "36185",
+    "added_in_patch": 6,
+    "description": "Alright. Here you go.Be sure to deliver them to Garaal quickly. He has a heavy interest in detail and fine craftsmanship. He'll surely appreciate your work.",
+    "name": "Fair Trade",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

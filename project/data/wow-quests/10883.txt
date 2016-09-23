@@ -1,0 +1,7 @@
+{
+    "_id": "10883",
+    "description": "You have proven yourself capable of great feats, <name>. Your discovery of the Cipher of Damnation and Kael'Thas' involvement is most important to our cause. Should Kael use the cipher, what little is left of this world may collapse.A'dal is convinced that Kael must be stopped and now seeks adventurers willing to undergo trials. Those that prove their strength will be granted favor by the naaru.<Khadgar nods.>A'dal awaits...\r\n",
+    "name": "The Tempest Key",
+    "requires_level": 70,
+    "zone": "Shattrath City"
+}

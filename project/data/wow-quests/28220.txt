@@ -1,0 +1,7 @@
+{
+    "_id": "28220",
+    "description": "<The tiny sproutling shuffles around, motioning you towards the south. You can barely hear a faint voice.>Soil...<It looks like it wants fresh soil. Maybe you should guide it to some of the richer-looking patches.>",
+    "name": "Seeking Soil",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

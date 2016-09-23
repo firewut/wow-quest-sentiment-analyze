@@ -1,0 +1,7 @@
+{
+    "_id": "28611",
+    "description": "Ah, I can already see more clearly, <name>.We are right to be wary of the evil Neferset.  I can already sense that they're behind the forces that corrupt the river.Go underwater once more and find the Murkdeep Cavern.  You will find the Neferset are performing a foul ritual of corruption.Stop them so the river is cleansed once again.",
+    "name": "The Defilers' Ritual",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

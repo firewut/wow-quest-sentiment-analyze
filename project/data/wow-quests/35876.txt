@@ -1,0 +1,9 @@
+{
+    "_id": "35876",
+    "added_in_patch": 6,
+    "description": "We is getting reports dat da Iron Horde warships be dockin' on a small island to da south of da Shadowmoon Valley.We be sendin' some scouts, but we haven't heard back yet. We need ta be investigating.Bron Skyhorn has a ryklak waitin' for ya when you be ready, commander.",
+    "name": "Garrison Campaign: Darktide Roost",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

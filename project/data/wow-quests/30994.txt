@@ -1,0 +1,8 @@
+{
+    "_id": "30994",
+    "added_in_patch": 5,
+    "description": "Alright. Thanks to you, we have the wall under control. Good job. \r\n\r\nI'll stay up here for a little while and make sure no more yaungol get up onto the wall.\r\n\r\nYou, though, should go back down and see what Lao-Chin has cooked up. I hate to say it, but maybe he had a good idea after all...",
+    "name": "Lao-Chin's Gambit",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

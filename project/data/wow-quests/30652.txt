@@ -1,0 +1,9 @@
+{
+    "_id": "30652",
+    "added_in_patch": 5,
+    "description": "The yaungol of Fire Camp Ordo are a dire threat. I need you to head northwest and take out their leader.Unfortunately, his four subordinates are maintaining a fire barrier that prevents us from getting to him in the adjoining cave.Take them out and the shield will come down. You'll find them in their tents, channeling.",
+    "name": "In Tents Channeling",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

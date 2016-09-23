@@ -1,0 +1,9 @@
+{
+    "_id": "34240",
+    "added_in_patch": 6,
+    "description": "You've proven yourself more than capable in battle, <name>. As you know, there may be Shadow Council forces anywhere around Auchindoun, including near Telmor.Tuulani's powers as a soulpriest have not yet fully manifested; she isn't capable of protecting the shard alone. I need you to join her at Telmor to make sure the crystal makes it to Auchindoun safely.",
+    "name": "Scheduled Pickup",
+    "requires_level": 95,
+    "side": "alliance",
+    "zone": "Talador"
+}

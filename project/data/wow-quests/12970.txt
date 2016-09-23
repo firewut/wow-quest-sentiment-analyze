@@ -1,0 +1,7 @@
+{
+    "_id": "12970",
+    "description": "Whether you've noticed or not, by defeating your first Hyldnir in hand-to-hand combat, you've entered the Hyldsmeet -- the great competition of Hyldnir against Hyldnir to determine who will rule by Thorim's side.The Hyldsmeet is the reason why I was imprisoned, for I sought to partake in the competition but was far too old and frail to be a match for the Hyldnir.If you're willing to listen, I've a proposal for you.",
+    "name": "The Hyldsmeet",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

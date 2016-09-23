@@ -1,0 +1,7 @@
+{
+    "_id": "13315",
+    "description": "Progress is being made. We have a promising array of tactics that should gain us control of the death gate. There will doubtlessly be many casualties, but in the end,  we should be able to prevail - barring any interference from those Horde you insist on contending with...At any rate, our next focus will be the gate of desolation. Fly down and become familiar with it and with the enemies posted there.When you return, I will have your missions prepared.",
+    "name": "Sneak Preview",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

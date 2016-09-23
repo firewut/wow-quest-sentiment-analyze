@@ -1,0 +1,7 @@
+{
+    "_id": "9442",
+    "description": "It is good that you've offered to aid us, <name>.  Our grunts have fallen sick from drinking contaminated water and I'm missing an ingredient to produce a healing salve.  I'm in need of a rare mushroom called drycap.Our foremost orders are to keep our location secret and not risk being spotted while looking for it, or I would go myself.  The only place in Hellfire Peninsula where drycap grows is a cave at the Great Fissure, south of here.Be extremely careful if you choose to seek it.",
+    "name": "A Debilitating Sickness",
+    "requires_level": 60,
+    "zone": "Hellfire Peninsula"
+}

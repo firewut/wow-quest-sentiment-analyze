@@ -1,0 +1,8 @@
+{
+    "_id": "33434",
+    "added_in_patch": 6,
+    "description": "Run through the arch...Get to the blue marker...Get to the green marker...then return here before the bell tolls 15 times.Good luck!",
+    "name": "Westfall Race 30",
+    "requires_level": 5,
+    "zone": "Northshire"
+}

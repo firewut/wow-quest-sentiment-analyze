@@ -1,0 +1,7 @@
+{
+    "_id": "25364",
+    "description": "Gnolls are unfortunately as resilient as they are brutish and stupid. I have driven back the gnolls time after time from our camp, and it is only our chieftain's mercy that prevents them from being wiped out entirely.Over the years, it has fallen into a dance of strength and dominance. When their numbers surge and they threaten the camp, the alphas, the strongest gnolls, must be slain.This will drive them back into the forest, and leave us is peace until they forget their lessons.",
+    "name": "Alpha Strike",
+    "requires_level": 36,
+    "zone": "Feralas"
+}

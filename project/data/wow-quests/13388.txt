@@ -1,0 +1,7 @@
+{
+    "_id": "13388",
+    "description": "Things are looking good.  Let's do this.The stack of bombs is right near the pit.  I'll start to evacuate the men.",
+    "name": "Set it Off!",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

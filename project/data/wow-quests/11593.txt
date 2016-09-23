@@ -1,0 +1,7 @@
+{
+    "_id": "11593",
+    "description": "Our fallen deserve a hero's funeral, but we cannot bury them here on sacred taunka ground.I'll not ask you to drag their bodies back here, but take this and head further into the cemetary.  When you come across our dead caravan guards and workers, put them to the torch.Honor our dead, <class>!",
+    "name": "The Honored Dead",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

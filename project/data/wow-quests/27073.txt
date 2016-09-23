@@ -1,0 +1,8 @@
+{
+    "_id": "27073",
+    "description": "It's the goblins' fault, <race>!<hic!>You see, we set off for Silverpine from Bilgewater Harbor, over in Azshara. Huge mistake that was! Never has such a den of inequity and sin existed in our great empire. Those damnable goblins fueled our every vice and set us off to sail with barrels full of ale. <hic!>The shame of it all leaves a mark greater than any scar. Honor must be restored! Kill the Bloodfang worgen that ambushed us. They're scavenging the wreckage to the southwest.",
+    "name": "Give 'em Hell!",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

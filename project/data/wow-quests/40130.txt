@@ -1,0 +1,8 @@
+{
+    "_id": "40130",
+    "added_in_patch": 7,
+    "description": "Mighty though the Legion is, theirs is not the strongest power in Azeroth.There is a place where Enchantress Ilanya and I spent many blissful hours together. The love that infuses such a place is more potent than fel magic, <name>.Go to the Nor'Danil Wellspring. Its waters can purify the fel dust you have collected... and perhaps purify me as well.I will meet you there.",
+    "name": "Washed Clean",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

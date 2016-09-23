@@ -1,0 +1,8 @@
+{
+    "_id": "29089",
+    "description": "Whatever is lurking around the Sludge Fen, it doesn't appear to be human. Judging from the remains around its tracks, it's also dangerous.You decide to follow the tracks down to the bottom of the lake and look for the creature's resting place.",
+    "name": "Sludge Beast!",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

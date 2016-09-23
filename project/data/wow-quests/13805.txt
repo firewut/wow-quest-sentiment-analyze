@@ -1,0 +1,8 @@
+{
+    "_id": "13805",
+    "description": "There...The blood of the fallen Kaldorei is turned. It can now be used on the Forest Heart in Dor'Danil Barrow Den. Doing so will utterly corrupt it.The sacred relic of the arrogant elves will be turned against them. How poetic!<Durak laughs cruelly.>The barrow den lies nestled against the hills to the southeast. One of my imps has laid a blood trail from the entrance to the heart.Make haste! Kadrak is not likely to be in a patient mood.Off you go, <class>.",
+    "name": "Pierce Their Heart!",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

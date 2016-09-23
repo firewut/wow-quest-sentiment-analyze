@@ -1,0 +1,7 @@
+{
+    "_id": "26016",
+    "description": "Paltrow, establish a foothold in Windshear Valley. A strong ground assault is vital to our campaign! When we make our assault against Krom'gar, your men will provide the chaos and confusion that the gnome flying machines will need to get close enough to bomb the orc fortress.The flying machines will detonate the Krom'gar bomb while it's sitting in their base, taking out the entire fortress in the process.Burn after reading.-Force Commander ValenNorthwatch Expedition Base Camp",
+    "name": "Orders from Base Camp",
+    "requires_level": 24,
+    "zone": "Stonetalon Mountains"
+}

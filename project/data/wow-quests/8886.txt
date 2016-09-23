@@ -1,0 +1,7 @@
+{
+    "_id": "8886",
+    "description": "Thank goodness for you, <class>! Those slimy Grimscale murlocs have pirated away my cargo! It's bad enough that the Wretched have stolen what little magical goods I had, but the murlocs took the rest! What has this land come to?Could you retrieve my cargo? I can't expect that you'd be able to get all of it back, but I'll be grateful for any of it at this point. It was the Grimscale murlocs in the huts, just to the west and south of the anchorage on the Golden Strand, I'm sure of it!\r\n",
+    "name": "Grimscale Pirates!",
+    "requires_level": 5,
+    "zone": "Eversong Woods"
+}

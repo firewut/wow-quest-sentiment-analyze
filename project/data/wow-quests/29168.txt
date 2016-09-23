@@ -1,0 +1,7 @@
+{
+    "_id": "29168",
+    "description": "The Gurubashi trolls have gathered their most powerful allies to rebuild Zul'Gurub and re-take Stranglethorn Vale.Chief among them are two monstrous trolls: Kaulema the Mover and Mor'Lek the Dismantler, and a powerful soul-stealer called Mortaxx.Though they are not the leaders of Zul'Gurub, defeating these powerful minions will aid us greatly preventing the rise of the Gurubashi.",
+    "name": "Secondary Targets",
+    "requires_level": 85,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25070",
+    "description": "As you lay your hand upon the chest, a faint rumbling can be heard. The sound of grinding movement echoes behind you as the chest begins to shut itself.Something is approaching!",
+    "name": "What Lies Within",
+    "requires_level": 47,
+    "zone": "Tanaris"
+}

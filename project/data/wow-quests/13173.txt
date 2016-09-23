@@ -1,0 +1,7 @@
+{
+    "_id": "13173",
+    "description": "We got our hands on quite a few workers. They should do nicely.I want you to use an eye to bring one of these workers back into the quarry. With the entire camp in disarray, there's no way they'll be able to distinguish you from any of the other workers that were scattered by the assault.Find whoever is in charge of the operation and get to work. With any luck, we'll find out where that Saronite is being shipped off to pretty quickly. I'll watch over your shoulder through the eye.",
+    "name": "Amidst the Confusion",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

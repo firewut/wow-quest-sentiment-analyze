@@ -1,0 +1,7 @@
+{
+    "_id": "10649",
+    "description": "I sympathize with your intentions of stopping Varedis and his followers, but you won't stand a chance against him.  That is, unless you find the artifact that gave him his power.The Book of Fel Names is rumored to be in the possession of Blackheart the Inciter inside the Shadow Labyrinth in Auchindoun.  Obtaining it will be your only hope against Varedis.",
+    "name": "The Book of Fel Names",
+    "requires_level": 68,
+    "zone": "Terokkar Forest"
+}

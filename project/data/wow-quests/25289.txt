@@ -1,0 +1,7 @@
+{
+    "_id": "25289",
+    "description": "With the ejection system working, I think we're ready to test out movement.  This tank has an extra special feature: Automatic Evasive Maneuvers!I want you to check out the servos on the left leg, the right leg and the Automatic Evasive Maneuver system.This is easy stuff, so it shouldn't take too long.",
+    "name": "One Step Forward...",
+    "requires_level": 1,
+    "zone": "Dun Morogh"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28290",
+    "description": "Grezz Ragefist sent an urgent message for you, <name>. He wants you to join him immediately in Orgrimmar's Valley of Heroes. He must have a mission of importance for you.",
+    "name": "Meet with Grezz Ragefist",
+    "requires_level": 50,
+    "zone": "Orgrimmar"
+}

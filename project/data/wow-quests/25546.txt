@@ -1,0 +1,7 @@
+{
+    "_id": "25546",
+    "description": "I'll need your help if I am to get these men ready for battle.Any decent leader knows that his men travel and fight on their stomachs. No food, no victory.These soldiers are weak from their recent ordeal. They'll need sustenance if they're to put up any kind of fight when the need arises.Speaking of traveling on stomachs, I've seen several crabs out there on the sea floor....",
+    "name": "Traveling on Our Stomachs",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

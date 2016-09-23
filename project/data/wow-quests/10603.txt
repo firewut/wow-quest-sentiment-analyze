@@ -1,0 +1,7 @@
+{
+    "_id": "10603",
+    "description": "We've made a lot of progress against the Shadow Council here at the Deathforge, but now it's time to finish the job.I found a key among the items in Kagrosh's pack. At least he accomplished something before they got to him.The key should help you to track down this Warbringer Razuun you observed at Legion Hold.After you've hunted down and dealt with Warbringer Razuun, report directly to Blood Guard Gulmok. We must not keep him waiting.",
+    "name": "Bring Down the Warbringer!",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

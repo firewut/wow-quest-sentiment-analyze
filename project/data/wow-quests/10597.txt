@@ -1,0 +1,7 @@
+{
+    "_id": "10597",
+    "description": "We can't allow the Legion to trample us on their march to Black Temple.Find a way to destroy the infernals they intend to use against us. That's not a request, <name>; it's an order.The Fetid Pool near Legion Hold holds an old fel reaver power core you could use as the basis for a kind of fel bomb. Search the other wreckage near the fel reaver for a section of armor plating. You should be able to make a bomb powerful enough to take out those infernals and give the hold a nice shake!",
+    "name": "Setting Up the Bomb",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

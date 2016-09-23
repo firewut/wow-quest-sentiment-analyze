@@ -1,0 +1,7 @@
+{
+    "_id": "25925",
+    "description": "We must attempt to establish communication with Farwatcher Glen, to the south. Our Darnassian glaive throwers are at your disposal, <name>. Use them to cut a swath through the encroaching Horde forces and clear a path to Farwatcher Glen.I only hope we're not too late to save the Glen. Should Farwatcher Glen be intact, find Hierophant Malyk and inform him of our status.",
+    "name": "Thal'darah's Vengeance",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

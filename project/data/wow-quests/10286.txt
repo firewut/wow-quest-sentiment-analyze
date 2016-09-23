@@ -1,0 +1,8 @@
+{
+    "_id": "10286",
+    "description": "Arelion's journal does not deal with any sort of scholarly studies.  It details his escapades with a young female blood elf!  How could I've been such a fool?Unfortunately, the floozy's identity is not revealed in this journal.  Aledis, a colleague of Arelion's, was his best friend and confidant.  Go question him and find out who he was having this affair with.I saw Aledis leave Falcon Watch for Zangarmarsh.  Follow the road headed north from town; it'll eventually lead west, toward Zangarmarsh.",
+    "name": "Arelion's Secret",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

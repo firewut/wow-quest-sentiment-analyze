@@ -1,0 +1,9 @@
+{
+    "_id": "31121",
+    "added_in_patch": 5,
+    "description": "Rush rush rush - are your people always in such a hurry?Sit and have some tea with me a moment, and we will discuss your plight.<Lorewalker Cho's features settle into a patient smile.>",
+    "name": "Stay a While, and Listen",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

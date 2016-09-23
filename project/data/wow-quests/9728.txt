@@ -1,0 +1,7 @@
+{
+    "_id": "9728",
+    "description": "While the druids from the expedition have made themselves busy studying plants and researching the lakes, I've made it my business to deal with the hostiles in the area.Ever since we set foot in Zangarmarsh, the naga have launched lethal attacks against us without warning.  We've done our best to keep them at bay, but our resources are limited.I want you to go to the various naga strongholds in Zangarmarsh and show them that we're not to be crossed.  Bring me their claws as proof of your victories.",
+    "name": "A Warm Welcome",
+    "requires_level": 61,
+    "zone": "Zangarmarsh"
+}

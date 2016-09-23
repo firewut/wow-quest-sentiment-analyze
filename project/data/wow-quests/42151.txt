@@ -1,0 +1,8 @@
+{
+    "_id": "42151",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Clear the Skies",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

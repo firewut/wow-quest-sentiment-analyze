@@ -1,0 +1,7 @@
+{
+    "_id": "12710",
+    "description": "Ya doin' well, <name>.You be provin' dat I got an eye for talent! Now ya see why da Lich King gave me his blessing....Da time has come for me to reveal my master plan to ya, mon.Now you be seein' how we gunna sweep through da swarms of Drakkari trolls to take our rightful place in da great palace of Gundrak.Take dis scepter, mon. It be a token of my trust in ya. With it, you be able ta access my upper chamber and witness for yourself our secret weapons.",
+    "name": "Disclosure",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

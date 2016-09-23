@@ -1,0 +1,7 @@
+{
+    "_id": "25469",
+    "description": "The mountain giants are our most powerful allies of the forest. They're carved from the land itself.Not many of our enemies are willing to fight off a walking hillside. It only takes a few of these to turn the tide of a battle completely.The mountain giants here have been afflicted by some illness lately, but I've seen a healthy group of them to the southwest.",
+    "name": "Forces of Nature: Mountain Giants",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

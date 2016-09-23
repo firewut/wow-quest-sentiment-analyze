@@ -1,0 +1,8 @@
+{
+    "_id": "42158",
+    "added_in_patch": 7,
+    "description": "My remote observation relay captured an astonishing amount of data from that tomb.If we can download its memory to my core processing systems, I should be able to locate Titanstrike... and that unsavory vrykul who took it.Since you're here, would you mind helping out? Processing that much information might overload a few failsafe mechanisms here and there, and I know you're the capable sort!",
+    "name": "The Creator's Workshop",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

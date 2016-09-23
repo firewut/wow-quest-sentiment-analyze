@@ -1,0 +1,9 @@
+{
+    "_id": "35817",
+    "added_in_patch": 6,
+    "description": "Defeating Roardan has yielded you a trophy worthy of acclaim.Take this to Maraad at Highpass.",
+    "name": "Trophy of Glory: Roardan the Sky Terror",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

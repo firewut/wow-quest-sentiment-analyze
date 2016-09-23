@@ -1,0 +1,7 @@
+{
+    "_id": "12701",
+    "description": "In their haste the Crusade will make one fatal error: forgetting to check the mine cars.You are to return to Havenshire Mine, east of here, and locate the mine car that my minions have planted near the outhouse. Climb inside the mine car and a Scarlet miner will unwittingly see to it that you are placed safely behind enemy lines.Once aboard one of their ships, use the cannons against them! SLAUGHTER THEM ALL!Call the Scourge gryphon from the cannon when you are ready to return.",
+    "name": "Massacre At Light's Point",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

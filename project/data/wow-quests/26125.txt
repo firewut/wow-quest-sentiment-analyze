@@ -1,0 +1,7 @@
+{
+    "_id": "26125",
+    "description": "You saw spies up above?  This is not good... I won't have it.Return to Seabrush and get rid of them before they start trickling into our hideout.",
+    "name": "Secure Seabrush",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

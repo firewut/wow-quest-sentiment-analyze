@@ -1,0 +1,7 @@
+{
+    "_id": "10996",
+    "description": "On the Razor Ridge, above and to the southeast, Maggoc patrols.  His father assigned him as the warden of the eastern mountain range, and he revels in terrorizing any creature that gets in his way.As a son of Gruul, he must be done away with if my clan is to survive.  That's where you come in.Maggoc carries a treasure chest with him at all times.  Prove to me that he has been slain by bringing me his precious chest.  Feel free to keep whatever you find within it.",
+    "name": "Maggoc's Treasure Chest",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

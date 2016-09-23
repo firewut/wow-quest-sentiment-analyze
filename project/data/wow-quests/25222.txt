@@ -1,0 +1,7 @@
+{
+    "_id": "25222",
+    "description": "Most of the other Earthen Ring that escaped the massacre on the boats have taken shelter in a cave a short swim down from the ridge. It's tucked midway up a huge rock formation, west of Nespirah, the gigantic shell on the horizon.  I need you to make sure they're okay. There's no telling how many naga might have attacked them as well.I'm going to hunt down that Fathom-Lord. I'll send word if I find the rock he's hiding under.",
+    "name": "Silver Tide Hollow",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

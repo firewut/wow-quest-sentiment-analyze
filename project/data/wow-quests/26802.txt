@@ -1,0 +1,8 @@
+{
+    "_id": "26802",
+    "description": "First of all, look at your armor.  You're a mess, <class>.If you'd like to stay in one piece--and I've no doubt you do--perhaps I can help.  If you can gather some paws and wings from the wolves and bats nearby, maybe I'll find some armor for you.  You'll find the creatures to the north and to the west of here.",
+    "name": "The Damned",
+    "requires_level": 3,
+    "side": "horde",
+    "zone": "Deathknell"
+}

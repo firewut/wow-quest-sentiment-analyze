@@ -1,0 +1,7 @@
+{
+    "_id": "10262",
+    "description": "There is something else that I want your help with.A group of ethereals, known as the Zaxxis, have cut their relationship with the Consortium and gone into business for themselves.  They've even cut deals with the Sunfury blood elves.  This will not be tolerated!I infiltrated their group at the Heap to the south.  But after I took out their leader, I had to escape here to Area 52.<Class>, go down there and bring back their insignias.  Of course, not all wear them because they're cowards.",
+    "name": "A Heap of Ethereals",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

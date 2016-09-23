@@ -1,0 +1,8 @@
+{
+    "_id": "39197",
+    "added_in_patch": 6.2,
+    "description": "The King has requested you represent him with the Kurunai settlement of Telaar in Nagrand.Seek out Warden Moi'bff Jill upon arrival.",
+    "name": "Hero's Call: Nagrand",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

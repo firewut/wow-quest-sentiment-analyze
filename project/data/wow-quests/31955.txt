@@ -1,0 +1,8 @@
+{
+    "_id": "31955",
+    "added_in_patch": 5,
+    "description": "My pets continue to grow in strength thanks to the fertile land we train on. You don't stand a chance!",
+    "name": "Grand Master Nishi",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

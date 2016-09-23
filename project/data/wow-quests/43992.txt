@@ -1,0 +1,8 @@
+{
+    "_id": "43992",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Gorgroth",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

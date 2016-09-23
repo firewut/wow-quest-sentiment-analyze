@@ -1,0 +1,7 @@
+{
+    "_id": "8227",
+    "description": "Amongst the shattered fishing lures and tackle is a rolled, silken measuring tape.  Attached to the tape is a label that reads:\"Nat Pagle, Dustwallow Marsh.\"",
+    "name": "Nat's Measuring Tape",
+    "requires_level": 58,
+    "zone": "Quests"
+}

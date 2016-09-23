@@ -1,0 +1,7 @@
+{
+    "_id": "13898",
+    "description": "We cannot let the naga get away with this, <name>.  Slaying the keeper of the grove amounts to a declaration of war.You'll find their den inside a cave on the island of Naj'vel, far to the southwest.I want you to send them a clear message.",
+    "name": "The Tides Turn Against Us",
+    "requires_level": 17,
+    "zone": "Darkshore"
+}

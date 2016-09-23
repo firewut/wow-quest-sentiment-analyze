@@ -1,0 +1,7 @@
+{
+    "_id": "26726",
+    "description": "Return to Lakeshire and let Solomon know that the Blackrock invasion has been stopped. Make sure he understands the cost at which our freedom came - that we lost five of our finest heroes to save Redridge and ultimately, Stormwind.You are the last surviving member of Bravo Company, <name>. It is up to you to keep its legacy alive.Dismissed.",
+    "name": "Triumphant Return",
+    "requires_level": 17,
+    "zone": "Redridge Mountains"
+}

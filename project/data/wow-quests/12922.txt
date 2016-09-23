@@ -1,0 +1,7 @@
+{
+    "_id": "12922",
+    "description": "Beneath its porous exterior, this hunk of metal gleams with a mysterious quality.You feel it would only be prudent to burn off the slag at Fjorn's Anvil.As you ponder where in this frozen waste you might find something hot enough for the job, a fire revenant crosses your path...\r\n",
+    "name": "The Refiner's Fire",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

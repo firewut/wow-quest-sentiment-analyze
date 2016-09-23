@@ -1,0 +1,8 @@
+{
+    "_id": "28649",
+    "description": "We got here, tore the place apart, and headed toward the prison house. We weren't expecting what we found in there, <name>. Seems the Crusade's been real busy. That whole thing is full of Argent Dawn prisoners. Most of them were already dead by the time we arrived, but a few were still breathing.I was about to go in there and execute the rest of them, but I think you should have the honors. In particular, there's a real feisty worgen in there that I think you'll take great pleasure in executing.",
+    "name": "A Special Surprise",
+    "requires_level": 55,
+    "side": "alliance",
+    "zone": "Death Knight"
+}

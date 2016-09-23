@@ -1,0 +1,8 @@
+{
+    "_id": "30766",
+    "added_in_patch": 5,
+    "description": "<A relic drops off of the statue. Hmm, these could prove to be valuable to the right person.><There's a collector on the outskirts of the ruins. Perhaps he'd be interested in purchasing them from you?>",
+    "name": "Profiting off of the Past",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

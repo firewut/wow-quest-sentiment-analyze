@@ -1,0 +1,8 @@
+{
+    "_id": "30204",
+    "added_in_patch": 5,
+    "description": "Okay, these spiders are seriously creeping me out. Especially those egg sacs they leave lying around that I keep accidentally stepping on only to be covered in very little but very creepy spiderlings. Ug, makes me shudder just thinking about it.I say you burn them. Burn them all.",
+    "name": "That's Not a Rock!",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

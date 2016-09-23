@@ -1,0 +1,8 @@
+{
+    "_id": "30318",
+    "added_in_patch": 5,
+    "description": "Say, you there! <name>, was it? I've got a problem, and I need someone with better legs than mine to help me solve it.My prize-winning chicken has flown the coop! Now she's out in the open, mingling with the other hens, wild birds, and... <gulp> ill-intentioned roosters.My farm is west of here, south of the Skyrange. Could you find her, and bring her back to me?",
+    "name": "Chasing the Chicken",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

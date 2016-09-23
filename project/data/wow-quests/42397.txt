@@ -1,0 +1,8 @@
+{
+    "_id": "42397",
+    "added_in_patch": 7,
+    "description": "We've received word from Khadgar that he's lost contact with the mages he sent to investigate the Legion's camps. He's requested our assistance in tracking them down.If we have any hope of locating those mages, we'll need to find ourselves a reliable hound capable of following a scent.There is only one such hound that I know of, and he's long since retired. It's worth it to check in with his master, Hunstman Blake, and see if old Baron still has it in him.",
+    "name": "Baron and the Huntsman",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

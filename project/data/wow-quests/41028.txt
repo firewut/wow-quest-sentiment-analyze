@@ -1,0 +1,8 @@
+{
+    "_id": "41028",
+    "added_in_patch": 7,
+    "description": "This station has fallen into disrepair. The circuit is broken, and to mend it we must recharge the seals in the central chamber.Both a high potency current and low potency current are needed for each seal. Direct the currents to point at the same seal, then engage the seal.Me? I shall supervise. You are the help, after all.",
+    "name": "Power Grid",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

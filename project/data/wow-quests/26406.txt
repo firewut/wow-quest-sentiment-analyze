@@ -1,0 +1,7 @@
+{
+    "_id": "26406",
+    "description": "We'll need the Fang of Shadra next.It's kept in the Creeping Ruins to the east, guarded by Shadra's own spawn.  Their venom is strong, <name>... don't get careless.",
+    "name": "The Fang of Shadra",
+    "requires_level": 32,
+    "zone": "The Hinterlands"
+}

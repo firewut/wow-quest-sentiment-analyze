@@ -1,0 +1,7 @@
+{
+    "_id": "27467",
+    "description": "The Noxious Glade is a quagmire, both literally and figuratively.  There's enough Scourge up there to give us trouble for the rest of both of our lifetimes.They can re-animate the weaker ones when they die, <name>.  They will never stop coming if we don't do something.Take these blades and drive them through the corpses of any Scourge troopers you find.  The blade is simple, but its enchantment will prevent the dead bones from being reanimated.  Forever.",
+    "name": "Buried Blades",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

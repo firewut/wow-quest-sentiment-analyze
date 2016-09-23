@@ -1,0 +1,7 @@
+{
+    "_id": "28293",
+    "description": "That pyramid at the Maker's Terrace in Uldum is nothing of the sort. It's a giant machine that can be reconfigured for any number of uses.Deathwing was going to have the Twilight's Hammer turn it into a massive weapon!<name>, you have to take the portal to get this information to Belloc Brightblade at Grommash Hold in Orgrimmar. He'll know what to do.",
+    "name": "That's No Pyramid!",
+    "requires_level": 83,
+    "zone": "Orgrimmar"
+}

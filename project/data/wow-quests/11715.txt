@@ -1,0 +1,7 @@
+{
+    "_id": "11715",
+    "description": "I plan to build a machine that will collapse the tunnels the Scourge is using to deploy their Nerubians, but with the main drilling rig out of order, we'll have to collect the fuel for the device some other way.Out in the Geyser Fields to the southeast, small pools of oil bubble up away from the main rig. If you can collect enough of the oil from those pools, I can make a crude fuel to power the machine.Simply deploy the collector near the rig, and it will pump and store the oil in its tank.",
+    "name": "Fueling the Project",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

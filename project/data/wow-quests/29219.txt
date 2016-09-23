@@ -1,0 +1,8 @@
+{
+    "_id": "29219",
+    "description": "Dese be troublin' times for us Darkspear.  Da Zandalar be reuniting all da troll clans an' plan to take back da lands dey lost.We tryin' to warn all dat we can.  But it might be too late.Another Darkspear gone down to Stranglethorn to warn da people.  But it ain't safe to travel alone in Stranglethorn.Help me find him and make sure da people in Stranglethorn are warned of da rise of da troll tribes.I gonna bind my spirit wit' ya.  When ya get to Stranglethorn, I be able to aid ya.",
+    "name": "Bwemba's Spirit",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "Northern Stranglethorn"
+}

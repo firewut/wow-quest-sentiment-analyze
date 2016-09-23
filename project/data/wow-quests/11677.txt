@@ -1,0 +1,8 @@
+{
+    "_id": "11677",
+    "description": "I'm convinced that the plague is being caused by something in the caves up there.<Class>, I want you to take these seeds. I normally use them as a ward against the Scourge, though perhaps they can be used to disrupt whatever foulness is happening in the dens.Find the source of the plague and throw them into it.",
+    "name": "Stop the Plague",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

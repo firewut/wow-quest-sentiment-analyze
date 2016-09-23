@@ -1,0 +1,7 @@
+{
+    "_id": "27871",
+    "description": "Regardless of whether you assist me within the temple, your people must be told of what is brewing here.Southwest of the temple is the Horde town of Stonard. The orcs there wage war with the new human arrivals to the swamp, a raging conflict that I forsee only worsening.It is not my role to interfere in mortal affairs, <name>. I simply ask you bring warning to your people of what lurks within the temple.",
+    "name": "To Stonard",
+    "requires_level": 51,
+    "zone": "Swamp of Sorrows"
+}

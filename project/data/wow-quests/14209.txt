@@ -1,0 +1,8 @@
+{
+    "_id": "14209",
+    "description": "Those ancient ruins have survived ten thousand years of wind and weather, so I brought out my biggest and bestest bulldozer to flatten 'em. I call her \"Margene.\"But my dozer's been letting me down lately, <name>. The moment I drove her into those haunted woods, her engine seized up with a spine-chilling howl. Now my engineers tell me something's clogging her valves. Go over there and inspect Margene's engine compartment, and bring me back a sample of whatever gunk has her stalled.",
+    "name": "Gunk in the Trunk",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

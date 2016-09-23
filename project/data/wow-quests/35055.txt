@@ -1,0 +1,9 @@
+{
+    "_id": "35055",
+    "added_in_patch": 6,
+    "description": "Few people know the Blackrock clan better than Dark Iron dwarves.So after Tanaan, we sent a bunch of mole machines to Gorgrond to build a listenin' post to keep an eye on them.Me own mole machine got way off course an' I got separated. It didn't take long to figure out all the other mole machines got off course as well.Accordin' to the readin's in me tank, a mole machine surfaced somewhere way to the west of here.Mind scoutin' ahead while we get this tank operational?",
+    "name": "Lost Mole Machines",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25126",
+    "description": "The first order of business will be to put a little strength in your backbone. I could send you out to the Barrens to hunt kodo, but well, in all honesty, you're more useful to us alive than dead.I believe you'll be of more use to us slaughtering the boars you'll find in the farms to the north and northeast of here.",
+    "name": "Cutting Teeth",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Valley of Trials"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "11604",
+    "description": "Unit S... Unit S.... hmmmpph.... don't make any sense... it oughta be named after a town...Darkshire was sent to Dragonblight.  The Goldshire boys were sent to the Fjord.   Where did I hear...Oh, yes... the deserter!  There's a turn-tail in the barracks prison.  Got thrown in not too long ago.  Kept saying that \"S\" stood for suicide.Look for the deserter.  He might have some information for you.",
+    "name": "A Deserter",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

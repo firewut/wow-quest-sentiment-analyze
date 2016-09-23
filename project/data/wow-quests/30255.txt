@@ -1,0 +1,8 @@
+{
+    "_id": "30255",
+    "added_in_patch": 5,
+    "description": "My grandfather used to say \"Yoonie, a cabbage is like a woman: ignore her and she'll turn rotten. Pamper her and she'll grow big and plump and you can put a ribbon on her and take her to market to show her off to your frie-\" look, he was from a different time, okay?The point is, now that our cabbages have sprouted, they need attention! Today they look a little dry, so you should water them.Here's the old watering can grandpa left. It will always be near the field if you need it.",
+    "name": "Learn and Grow III: Tending Crops",
+    "requires_level": 85,
+    "zone": "Valley of the Four Winds"
+}

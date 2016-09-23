@@ -1,0 +1,9 @@
+{
+    "_id": "29939",
+    "added_in_patch": 5,
+    "description": "There. I've plastered your bird guts over my explosives.I call 'em Gut Bombs, patent pending.Since you made friends with these fellas, how about you do the honors?Just light the fuse and throw 'em down by the shoreline!",
+    "name": "Boom Bait",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

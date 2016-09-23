@@ -1,0 +1,9 @@
+{
+    "_id": "35060",
+    "added_in_patch": 6,
+    "description": "Believe it or not, I have good news: we've already taken Lok-rath.<The vindicator beams with pride.>Our soldiers have captured most of the Warsong, including their leader, Uruk Foecleaver.I saved the honor of accepting his surrender for you. They're waiting for you inside, commander.",
+    "name": "Terms of Surrender",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

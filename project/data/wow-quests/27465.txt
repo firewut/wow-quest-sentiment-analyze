@@ -1,0 +1,7 @@
+{
+    "_id": "27465",
+    "description": "Browman's Mill, to the north, is infested with undead.  The Noxious Glade, even farther to the north, is even more heavily infested.  Despite their proximity to our chapel, we have been unable to completely remove them.Vigilance is key.  Travel into the Noxious Vale and slay as many undead as you can find... and the cultists that roam among them.While there, make sure to avoid Garginox, the flesh giant that roams the vale.  I suspect you are not strong enough to defeat him.",
+    "name": "Argent Call: The Noxious Glade",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

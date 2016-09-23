@@ -1,0 +1,8 @@
+{
+    "_id": "13808",
+    "description": "I have a special mission that requires a well equipped, competent <class>. As I have no one else to spare, I suppose I'll have to settle for you...The enemy has assaulted Warsong Lumber Camp and cut it off from the rest of our forces. An important blood elf diplomat en route to Orgrimmar is trapped there.She must be liberated.Take the road northeast and pour this powder into the smoldering brazier to summon our operative there. Do whatever he might require of you.Dismissed!",
+    "name": "Mission Improbable",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

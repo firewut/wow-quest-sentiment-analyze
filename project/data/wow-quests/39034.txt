@@ -1,0 +1,8 @@
+{
+    "_id": "39034",
+    "added_in_patch": 6.2,
+    "description": "When the sign of the emissary shines in the night sky, the stars strengthen existing bonds and forge new ones. Friendship is still not cheaply won, and deeds will prove loyalty, but trust comes more readily during these days. Venture deep into caverns and strongholds to prove your worth.",
+    "name": "Emissary of War",
+    "requires_level": 100,
+    "zone": "Weekend Event"
+}

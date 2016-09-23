@@ -1,0 +1,8 @@
+{
+    "_id": "13963",
+    "description": "I suppose he'll come around with some cold water to the face. What do you think he'll tell us?I'll secure him inside our livestock pen behind me here. I don't think he'll stay conscious long. Find out what you can about why the quilboar are attacking our farms! I'll leave the interrogation methods up to your better judgment.",
+    "name": "By Hook Or By Crook",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

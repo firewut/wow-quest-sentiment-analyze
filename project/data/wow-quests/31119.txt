@@ -1,0 +1,8 @@
+{
+    "_id": "31119",
+    "added_in_patch": 5,
+    "description": "The mantid are our enemies. As are the yaungol at Fire Camp Gai-Cho.\r\n\r\nIt is fortunate, then, that they are also each other's enemies. Mantid from Kri'vess constantly attack the Gai-Cho yaungol, who hold them off at their front gates.\r\n\r\nI want you to wreak havoc. \"Borrow\" some highly explosive oil barrels from camp Gai-Cho, and toss them down onto the battlefield from the air.\r\n\r\nI don't care which ones you kill, just kill a lot of them.",
+    "name": "The Enemy of My Enemy... Is Still My Enemy!",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

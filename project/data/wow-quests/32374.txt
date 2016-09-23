@@ -1,0 +1,8 @@
+{
+    "_id": "32374",
+    "added_in_patch": 5.1,
+    "description": "My goal is an expedient end to this costly war. Prove to me that the Alliance deserves to win. Show me your prowess on the battlefield.You are not fighting some abstract force like the sha: You are facing your enemy head-on, eye-to-eye.Will you triumph?",
+    "name": "The Prince's Pursuit",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

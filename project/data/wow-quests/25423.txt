@@ -1,0 +1,7 @@
+{
+    "_id": "25423",
+    "description": "You must be careful when you venture forth. Other spirits are bound to this place, malevolvent and hateful ones. They've all suffered so much.None of what they used to be remains, only suffering and a will to live. We will need that will to summon the overlord that keeps me bound here. Please, gather the essence of the spirits, and bring it back to me.",
+    "name": "Ancient Suffering",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

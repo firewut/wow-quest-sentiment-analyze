@@ -1,0 +1,8 @@
+{
+    "_id": "12141",
+    "description": "I see that you are very eager to help, <name>.  You didn't come all the way to Northrend to stay holed up in a city!  I've just the task for you... something that'll take you far away from here.We've long sought to gain the favor of the tuskarr native to Northrend.  Recently a young tuskarr came to us seeking help, something we couldn't offer at the time.Now that you're around, maybe you can lend him a hand.  Look for Karuk near the Riplash Strand, southwest of here, and see what you can do to help.  ",
+    "name": "A Diplomatic Mission",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

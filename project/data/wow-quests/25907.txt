@@ -1,0 +1,7 @@
+{
+    "_id": "25907",
+    "description": "It will take me some time to break through this barrier and communicate with Nespirah.  In the meantime, you can save some of those men that the naga have enslaved in the pits below.<Duarn produces a length of rope from within his robes.>This should come in handy.",
+    "name": "Slave Labor",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

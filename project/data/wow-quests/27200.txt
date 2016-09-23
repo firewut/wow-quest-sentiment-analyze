@@ -1,0 +1,7 @@
+{
+    "_id": "27200",
+    "description": "She's still out there... Ophelia, the Siren of the Highlands! Her terrible song will lure you to the depths. I've vowed to stay behind and avenge my fallen crewmates, <class>. If you want to join me, just say the word.We'll lash ourselves to the mast, we will. We'll shut our eyes. We'll stuff our ears with wax. And when her beautiful illusion drops... we'll strike.Are you in?",
+    "name": "Siren's Song",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

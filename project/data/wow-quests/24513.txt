@@ -1,0 +1,8 @@
+{
+    "_id": "24513",
+    "description": "Who goes there? Your footsteps are not the lazy stride of a guard.A <class>, you say? Still brave and free? There's no hope for me, friend. I have lost my eyesight and am no longer fit for battle.I dared speak up while Captain Peake savagely beat one of the prisoners. In return he kicked me in the head. And kept kicking. He kicked me blind, <race>.You'll find Captain Peake at the top of this tower. If you seek justice, bring me his eyes.If he does not part with them willingly... so be it.",
+    "name": "Eye for an Eye",
+    "requires_level": 28,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

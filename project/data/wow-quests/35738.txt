@@ -1,0 +1,9 @@
+{
+    "_id": "35738",
+    "added_in_patch": 6,
+    "description": "So you have a smuggler's den, huh?I'd love to trade with ya, toots, I really would, but my laser cannon isn't even functional right now.I'll tell you what. See all the ancients around here? They got toasted good by the arakkoa's weapon, and they're practically walking piles of charcoal.Bring me some charcoal to power this thing and you've got a deal.",
+    "name": "All Natural",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

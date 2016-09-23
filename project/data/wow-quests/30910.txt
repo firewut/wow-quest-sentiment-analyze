@@ -1,0 +1,8 @@
+{
+    "_id": "30910",
+    "added_in_patch": 5,
+    "description": "Please help!We paid some adventurers to run off all the elemental spirits and now they're back for revenge!",
+    "name": "Greenstone Village",
+    "requires_level": 90,
+    "zone": "Quests"
+}

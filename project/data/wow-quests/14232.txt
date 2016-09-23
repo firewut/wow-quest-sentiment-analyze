@@ -1,0 +1,7 @@
+{
+    "_id": "14232",
+    "description": "Sorrem has made no secret of his disdain for the Burning Blade at Thunder Axe Fortress.Surely, proof of their demise would be of value to him.",
+    "name": "Ears Are Burning",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

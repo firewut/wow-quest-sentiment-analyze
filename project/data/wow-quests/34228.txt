@@ -1,0 +1,9 @@
+{
+    "_id": "34228",
+    "added_in_patch": 6,
+    "description": "While I was scouting, I noticed that most of Frostwind Crag is crawling with an odd species of worm.The worst thing about them is that these things burrow under the ground and then spring on you from out of nowhere.I saw the worms attacking the frost wolves and other wildlife in the wastes. I'm certain the orcs would appreciate you helping out.",
+    "name": "A Clew of Worms",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

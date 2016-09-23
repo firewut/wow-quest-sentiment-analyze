@@ -1,0 +1,7 @@
+{
+    "_id": "11629",
+    "description": "You have done what was asked, and now I give you that which you desire.Deliver this primal to the spirit talker back at your Bor'gorok Outpost. If she is wise, she will know a ritual to gain you the information which you seek.",
+    "name": "Return to the Spirit Talker",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

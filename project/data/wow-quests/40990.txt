@@ -1,0 +1,8 @@
+{
+    "_id": "40990",
+    "added_in_patch": 7,
+    "description": "I've tried adventuring, and it isn't for me. Cooking is my one true passion: the heat of the stove, the sizzle of bacon... nothing beats it.Let me help you, Master <name>. If you can bring me some recipes, I can work on improving them, here in Dalaran.We'll make a great team. What do you say?",
+    "name": "A Good Recipe List",
+    "requires_level": 98,
+    "zone": "Cooking"
+}

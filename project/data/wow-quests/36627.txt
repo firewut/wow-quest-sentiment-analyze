@@ -1,0 +1,9 @@
+{
+    "_id": "36627",
+    "added_in_patch": 6,
+    "description": "One of my finest works, <name>! Momma would be so proud of me right now... if she was still in one piece.We gotta test this bad boy out though before I'm comfortable letting you run around with it all willy-nilly.I heard there were some clefthooves out back causing a ruckus.",
+    "name": "Big Frostfire Gun",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

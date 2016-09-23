@@ -1,0 +1,7 @@
+{
+    "_id": "13537",
+    "description": "Between boat rides and building, I'm exhausted... and hungry. You know what sounds tasty? Fish. Fish sound delicious.Darkshore is known for its grouper. If you fish me up some, I'll make it worth your time.",
+    "name": "A Taste for Grouper",
+    "requires_level": 8,
+    "zone": "Darkshore"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12419",
+    "description": "As you pick up the brooch, its faint glow brightens slightly.Krasus will want to know of Dahlia's fate. Take the brooch to him at Wyrmrest.",
+    "name": "The Fate of the Ruby Dragonshrine",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

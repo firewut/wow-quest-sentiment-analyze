@@ -1,0 +1,9 @@
+{
+    "_id": "34583",
+    "added_in_patch": 6,
+    "description": "We wouldn't have survived Tanaan without your strength, <name>. Many draenei and Alliance alike owe you a great debt.Before we departed for the Dark Portal, King Wrynn personally recommended that I place you in charge of our operations here in Draenor. After seeing you in action, I'm inclined to agree.This is your garrison to found. Plant the banner and we'll begin construction immediately, commander.",
+    "name": "For the Alliance!",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27514",
+    "description": "While you were fighting along the coast, I spotted a gryphon tumble out of the clouds almost due west of here.It wasn't one of ours.Likely it belonged to one of the Wildhammer. I know that Kurdran wanted to establish contact with the lost Wildhammer clans as one of his primary objectives after taking the beach. I can't spare any more of my men to scout it out, but I can spare you. Find that downed Wildhammer!",
+    "name": "Bird Down! Bird Down!",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26250",
+    "description": "It's not too late, <name>.  The cultists are probably still here.Go below decks, find out who's in charge and subdue them.We will obtain answers to our questions, one way or another.",
+    "name": "On Second Thought, Take One Prisoner",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

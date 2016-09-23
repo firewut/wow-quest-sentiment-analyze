@@ -1,0 +1,7 @@
+{
+    "_id": "11419",
+    "description": "If you show this hand stamp to Driz Tumblequick, the Ram Racing Apprentice, he'll allow you to purchase Brewfest riding rams.",
+    "name": "Brewfest Riding Rams",
+    "requires_level": 40,
+    "zone": "Brewfest"
+}

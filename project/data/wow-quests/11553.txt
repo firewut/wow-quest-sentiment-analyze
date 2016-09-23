@@ -1,0 +1,7 @@
+{
+    "_id": "11553",
+    "description": "",
+    "name": "Archonisus, the Final Gate",
+    "requires_level": 70,
+    "zone": "Isle of Quel'Danas"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "36006",
+    "added_in_patch": 6,
+    "description": "The weapon that stabbed the archmage was imbued with fel magic. He's slowly being poisoned!<name>, we don't have any time. Khadgar will be dead in minutes. I need you to track down Garona before she gets away - find that murder weapon and maybe we can find a cure!Follow the traces of fel energy she left behind. Track her down into the Zangarra lowlands and capture her with this Violet Hold Incarceration rune.Hurry!",
+    "name": "Hunter: Hunted",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

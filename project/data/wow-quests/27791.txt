@@ -1,0 +1,8 @@
+{
+    "_id": "27791",
+    "description": "I've got an idea, but it's a bit of a long shot.  Thankfully, long shots happen to be a specialty of mine.North of here, the Explorers' League has uncovered a new set of titan ruins beneath the sands.  If there's anything older and wiser than dragons, it's titans.  Heck, I've heard rumors that the titans CREATED the dragons.Talk to Lead Prospector Durdin at the camp to the north.  He'll have more information than I do about these titans.What did I tell you?  It's a long shot.",
+    "name": "Dustwind Dig",
+    "requires_level": 44,
+    "side": "alliance",
+    "zone": "Badlands"
+}

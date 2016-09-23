@@ -1,0 +1,7 @@
+{
+    "_id": "10223",
+    "description": "I'll never forget the blood elf who led the attack. He wore a tabard with a device I've never seen before, over top of crimson armor.He was ferocious and merciless, leading from the front where most other blood elf officers would never be seen. He was responsible for the deaths of many Kirin Tor mages that day, but he didn't linger long at Sunfury Hold. Kael'thas has ordered him to Manaforge Duro to aid in their attempt to control the area. Find him, <name>, and silence his bow for good.",
+    "name": "Down With Daellis",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

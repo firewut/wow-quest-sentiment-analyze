@@ -1,0 +1,7 @@
+{
+    "_id": "25235",
+    "description": "Hail, <class>. Care to lend a hand for the people of Darkshire?There's a huge ogre mound just down the hill there. The Splinter Fist ogres usually keep to themselves, but they've got a bad habit of attacking travelers. Just the other day I saw one drag off a poor man's horse for food... he was lucky it left him behind!The Night Watch wants to only risk its few members in the defense of more immediate threats, me included. But if you kill some of those ogres for me, I'll pay you for your deed.",
+    "name": "Vulgar Vul'Gol",
+    "requires_level": 20,
+    "zone": "Duskwood"
+}

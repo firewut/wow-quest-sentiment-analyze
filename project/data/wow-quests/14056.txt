@@ -1,0 +1,8 @@
+{
+    "_id": "14056",
+    "description": "What? Leave it to Dizzywig to expect a mutiny on the cheap.No matter, mon, we can make this work. First we need the money. Cap'n Garvey likes to hoard the loot we've been earnin', money I can use to pay off my handpicked mutineers.The treasure pile is just outside the barracks here. You'll need to take care of Cap'n Garvey's \"treasurer\" first. Now, Glomp ain't no pushover. Believe me, I tried pushing him over once. He don't budge for nothin'.",
+    "name": "Glomp is Sitting On It",
+    "requires_level": 14,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

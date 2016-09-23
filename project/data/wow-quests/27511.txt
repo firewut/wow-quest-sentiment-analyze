@@ -1,0 +1,7 @@
+{
+    "_id": "27511",
+    "description": "What a find! And somehow it's all remained untouched by plunderers...Listen, <name>. I need to document this site before we disturb anything. While I do, why don't you have a look around - you know, explore a bit. You've earned it.Keep your eyes open for anything unusual.Oh! And please... don't break anything, ok?",
+    "name": "The Thrill of Discovery",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

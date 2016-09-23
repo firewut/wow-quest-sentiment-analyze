@@ -1,0 +1,8 @@
+{
+    "_id": "39228",
+    "description": "Tyrant Velhari was once a promising vindicator, but has turned to Shadow for reasons known only to her.\r\n\r\nPurge this Eredar of darkness.",
+    "name": "Temple of Tyranny",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

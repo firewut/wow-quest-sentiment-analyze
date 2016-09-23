@@ -1,0 +1,7 @@
+{
+    "_id": "9388",
+    "description": "There are many flames burning throughout the world today, <name>. The trickiest fires to tend are those that burn green; they do not stay lit long without supervision. Make certain the emerald fires still burn on Kalimdor for our Flamekeeper, eh?You will find them near Ratchet in the Barrens, close to the Master's Glaive in Darkshore, in the forest of Ashenvale by the bridge near Silverwing Outpost, and near the road to Windshear Crag along the main road in Stonetalon Mountains.",
+    "name": "Flickering Flames in Kalimdor",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

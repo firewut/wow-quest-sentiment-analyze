@@ -1,0 +1,8 @@
+{
+    "_id": "37689",
+    "added_in_patch": 7,
+    "description": "Detheroc has SI:7's finest snipers on all of the rooftops. We can't mount up and we can't fly. There are grapple points above so that we can move up the cliff. \r\n\r\nWe've also setup hay bales to hide in along the likely routes to SI:7. We just need to stealth in and kill Detheroc.\r\n\r\nOnce we get up there, we'll separate to increase the chances of at least one of us making it through the city.\r\n\r\nGood luck, <name>.",
+    "name": "The Imposter",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

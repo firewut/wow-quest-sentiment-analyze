@@ -1,0 +1,8 @@
+{
+    "_id": "26184",
+    "description": "Not surprisingly, most of our citizens in Surwich did not come to the Blasted Lands for the pleasant atmosphere.  They came following the dream of an idealistic druid: Marl Wormthorn.  Wormthorn believed that the Tainted Scar could be healed, and attempted to grow it back.It looks like he was wrong.  He grew his forest, but the land is still plagued by demons, and his great-tree is twisted and gnarled.I'm still hopeful.  Maybe if we head into the Tainted Forest and clear out some of the taint...",
+    "name": "Wormthorn's Dream",
+    "requires_level": 55,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

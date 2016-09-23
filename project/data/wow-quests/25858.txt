@@ -1,0 +1,7 @@
+{
+    "_id": "25858",
+    "description": "Lady Sira'kess has begun preparations for the ritual of summoning, but the Crucible of Nazsharin has been stolen from us. The Kvaldir have surely taken it with them as they retreated to shallower waters.Speak to the caste leaders to secure a war party, and then lead them in retrieving the artifact from Biel'aran Ridge to the east.I trust you my Battlemaiden, for you have never failed in any task that I have given you. As I am revered to the Queen, so are you revered to me. Go with my blessings.",
+    "name": "By Her Lady's Word",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

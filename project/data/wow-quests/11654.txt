@@ -1,0 +1,7 @@
+{
+    "_id": "11654",
+    "description": "As you inspect the captured blood vial, you realize its contents are still warm. The victim must have just been bled and may still be alive.What use would the Scourge have for blood? They've never shown an interest in live prisoners in the past. Perhaps if you can locate the source of the blood, you'll be able to discover what the Scourge is planning.",
+    "name": "The Spire of Blood",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "36281",
+    "added_in_patch": 6,
+    "description": "Hey Champ,You were out when I stopped by. I've got a sweet gig set up at the Ring of Blood in Nagrand. Lots of ogres looking for the next big fight. Big money. You in?If you think the Stonemaul arena was a thrill, this is way, way bigger than that. It's going to be HUGE, I'm calling it now.I'll meet you at my stash so we can talk a bit in private before your big debut.<A map is included with a dollar sign scrawled on an abandoned ogre tower.>",
+    "name": "Garrison Campaign: The Ring of Blood",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

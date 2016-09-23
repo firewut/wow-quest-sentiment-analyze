@@ -1,0 +1,7 @@
+{
+    "_id": "11520",
+    "description": "Greetings, <race>.I'm afraid I have little to offer here until my reagents are stocked.Of the supplies I require, there is a special reagent, razorthorn root, that is particularly difficult to harvest.Fortunately, I know a secret....Using the glands of the Razorthorn flayers, one can control a ravager there and use it to expose a root.To find the roots, travel to Outlands and fly northeast from Shattrath until you reach Razorthorn Rise.",
+    "name": "Discovering Your Roots",
+    "requires_level": 70,
+    "zone": "Terokkar Forest"
+}

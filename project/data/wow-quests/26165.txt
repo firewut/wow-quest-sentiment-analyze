@@ -1,0 +1,8 @@
+{
+    "_id": "26165",
+    "description": "Sharim wants demon blood.  Speaking personally, the stuff does not even seem like blood to me - more like liquid rot - but that is of no consequence.Luckily for you, the area around the Dark Portal is crawling with demons.  Infernals, felhounds, felguards... they've all got what you need, in copious, pustulent amounts.",
+    "name": "The Vile Blood of Demons",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

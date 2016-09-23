@@ -1,0 +1,8 @@
+{
+    "_id": "25280",
+    "description": "Yes <name>, I am Goldrinn. Your persistence in the face of fear has unbound me from twilight's grasp.My shrine has been purified, and my worshippers have returned to their rightful place at my right paw.Return to Ian and continue your work here in Hyjal. I will have need of you again soon.",
+    "name": "The Shrine Reclaimed",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Mount Hyjal"
+}

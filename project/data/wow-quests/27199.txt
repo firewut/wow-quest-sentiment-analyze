@@ -1,0 +1,8 @@
+{
+    "_id": "27199",
+    "description": "To the east, deep within Forsaken-held Andorhal, you will find their commanders.  They do not fight, but call out orders from horseback.Hunt down and slay these commanders, <name>.  The Forsaken won't stand a chance.",
+    "name": "Ashes to Ashes",
+    "requires_level": 38,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

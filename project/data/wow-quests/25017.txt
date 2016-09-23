@@ -1,0 +1,7 @@
+{
+    "_id": "25017",
+    "description": "For years, this valley has been sealed behind impenetrable gates. Now that the cataclysm has torn them down, the secrets within are ours to discover.There are yet some obstacles in the way. From within the gates, the bygone creations of the titans have awoken. They wander aimlessly across the sand, attacking any who approach.Someone needs to destroy the golems patrolling the valley; are you up to it?",
+    "name": "Ancient Obstacles",
+    "requires_level": 46,
+    "zone": "Tanaris"
+}

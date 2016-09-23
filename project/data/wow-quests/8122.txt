@@ -1,0 +1,7 @@
+{
+    "_id": "8122",
+    "description": "It is difficult to see, so deep we are in the conflict, but our spies report a weakening in the League of Arathor's resolve.  We must use this window and strike a brutal blow against them!  Return to Arathi Basin and throw yourself against our foes.  Curse them and kill them and control all five strategic bases!  Send their soldiers screaming and bleeding from the front lines, with stories of your cruelty on their mewling lips.Do this, and score a great victory for the Defilers.",
+    "name": "Take Five Bases",
+    "requires_level": 60,
+    "zone": "Arathi Basin"
+}

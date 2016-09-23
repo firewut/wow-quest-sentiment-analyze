@@ -1,0 +1,7 @@
+{
+    "_id": "12966",
+    "description": "<Jokkum listens patiently to your request, then ponders it carefully before responding.>So it is you we have to thank for Fjorn's demise?While it's true that you have aided us in our time of need, there is still much that must be done to repair our relations with Thorim.For now, I shall allow Njormeld to reforge the armor we gifted to the Stormlord so many ages ago. Consider it payment for your assistance against Fjorn.Njormeld was sent to recover Fjorn's anvil. You should find him there.",
+    "name": "You Can't Miss Him",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39368",
+    "added_in_patch": 6.2,
+    "description": "This appears to be a blueprint for some sort of naval equipment.  We should take it back to our Shipyard and see if someone can decipher it.",
+    "name": "Equipment Blueprint: Blast Furnace",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

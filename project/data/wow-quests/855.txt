@@ -1,0 +1,8 @@
+{
+    "_id": "855",
+    "description": "The centaur leadership relies on a core of trusted, disciplined warriors to keep the others in line. If we reduce their numbers, the Kolkar will have no might with which to support their rage. And so, I have a bounty task for you.Around the Lushwater Oasis to the south, slay Kolkar Marauders and Stormseers to collect their bracers. Return when you have a heap of these trophies and the Horde will reward you well.",
+    "name": "Centaur Bracers",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

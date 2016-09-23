@@ -1,0 +1,9 @@
+{
+    "_id": "37005",
+    "added_in_patch": 6,
+    "description": "This beast's spent quite a few years out in the wilds of Talador, I'd say we start the training there. It's fairly docile, as well. I don't think it will take quite as long to train as the others.As ye probably know, stalkers can blend into their environments, allowing them to sneak in and steal the eggs of nearby prey. See if you and your riverbeast can't overcome this natural defense mechanism.",
+    "name": "Riverbeast Training: Gezz'ran",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Talador"
+}

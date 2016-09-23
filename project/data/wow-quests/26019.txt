@@ -1,0 +1,7 @@
+{
+    "_id": "26019",
+    "description": "<This appears to be an egg from one of the devious great-eels that float up above the canyon.  You wonder whether or not Humphrey might be interested in something like this.>",
+    "name": "Enormous Eel Egg",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

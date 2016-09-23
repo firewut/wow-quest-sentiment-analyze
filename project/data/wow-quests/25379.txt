@@ -1,0 +1,7 @@
+{
+    "_id": "25379",
+    "description": "Emeriss and Lethon are gone. It's only us left now. I can hide from this no longer. All I did while a part of that brood...all the suffering I've caused...must be repaid today.I am still weak, <name>. I cannot assume my true form even if I dare try. But I will still stand beside you in battle.If you are prepared, I will call Taerar to us. He will be unable to resist the temptation of revisiting corruption upon me.",
+    "name": "Taerar's Fall",
+    "requires_level": 38,
+    "zone": "Feralas"
+}

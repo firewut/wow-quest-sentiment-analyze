@@ -1,0 +1,8 @@
+{
+    "_id": "36014",
+    "added_in_patch": 6.1,
+    "description": "<name>, you've given me a lot to think about. There's a section of the Flamebender's Tome that speaks about a \"sacrifice,\" and a more recent notation referring to \"the chieftain.\" I think it's talking about Warlord Blackhand.Did Blackhand sacrifice someone? Himself? A piece of himself? Is that why his hand is deformed?Before I risk channeling these elements into a spell, I need to know. And there's only one way to find out.Kill Warlord Blackhand. And bring me his severed arm.",
+    "name": "Blackhand's Secret",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

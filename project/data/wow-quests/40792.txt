@@ -1,0 +1,8 @@
+{
+    "_id": "40792",
+    "added_in_patch": 6.2,
+    "description": "The Destroyer's star shines upon the land with its piercing light as even the spirits retreat to the shadows. This star is unlike any other in the skies, laying bare the weaknesses of even the boldest heroes. While its influence holds, new paths may open up, to distant places and even distant times. No sage truly understands the nature of this sign, but fortune favors the daring.",
+    "name": "A Shattered Path Through Time",
+    "requires_level": 100,
+    "zone": "Weekend Event"
+}

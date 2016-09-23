@@ -1,0 +1,9 @@
+{
+    "_id": "34380",
+    "added_in_patch": 6,
+    "description": "My brother, in his haste, has already taken some of my clan with him and has begun an assault on Bladespire Citadel before we were ready.Draka awaits by our war horn. Please let her know that it is time to rally the clan!With the aid of you and your forces, we might actually stand a chance at victory against the ogres.",
+    "name": "Rally the Frostwolves",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42053",
+    "added_in_patch": 7,
+    "description": "To free Malorne, we must win the War of the Ancients. A millennia ago, this battle took the combined efforts of the greatest defenders of our world. To win now, we must do the same.Go upon the battlefield and defeat Legion foes, rescue and revive our allies, and free the innocent who have been caught in the battle. Every enemy defeated and every ally saved will help turn the tide in our favor!",
+    "name": "The War of the Ancients",
+    "requires_level": 110,
+    "zone": "Druid Campaign"
+}

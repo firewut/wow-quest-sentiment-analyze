@@ -1,0 +1,8 @@
+{
+    "_id": "26788",
+    "description": "Our alliance with the Dragonmaw is secured, but this port is far from combat ready. These flimsy wooden walls are an embarrassment to the Warchief.When water elementals carve their way through rock, as they have in the Verrall River, they create a peculiar kind of muck. It spreads easily and dries harder than the hardest stone. It's the perfect mortar for large-scale construction.Go to the river delta northwest of here and collect some Verrall River muck. Even a little will go a long way.",
+    "name": "Cementing Our Victory",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Twilight Highlands"
+}

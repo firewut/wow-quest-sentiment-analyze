@@ -1,0 +1,7 @@
+{
+    "_id": "13214",
+    "description": "If you believe yourself ready to begin then I have just the match for you to cut your teeth on.Another group of outsiders thought themselves prepared for the rigors of Valhalas. They had much hubris, but in the end they fell like all of the others.If you think yourselves so different -- if you think that you have the skill and experience to fight here amongst such storied warriors -- then please accept the challenge.",
+    "name": "Battle at Valhalas: Fallen Heroes",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

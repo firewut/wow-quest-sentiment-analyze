@@ -1,0 +1,8 @@
+{
+    "_id": "25667",
+    "description": "The wendigos in the Grizzled Den to the southwest of town have long been a thorn in our side. They're never quite strong enough to threaten Kharanos directly, yet they prey on travelers, mountaineer patrols, and supply convoys.I'm going to be withdrawing my observers from the Grizzled Den because I need them on the troll front. Would you help my men finish culling the wendigo population? Without strength of numbers, they won't be able to attack us.",
+    "name": "Culling the Wendigos",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

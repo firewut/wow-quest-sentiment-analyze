@@ -1,0 +1,8 @@
+{
+    "_id": "40011",
+    "added_in_patch": 7,
+    "description": "We need to make contact with Chief Telemancer Oculeth, the man who developed Suramar's teleportation network. \r\n\r\nOculeth had a workshop in old Suramar, from the age before the Sundering. He may be taking refuge there.\r\n\r\n<Thalyssra presses a small coin into your palm.>\r\n\r\nIf you find him, show him this. Hopefully you see him before he sees you...",
+    "name": "Oculeth's Workshop",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

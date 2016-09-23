@@ -1,0 +1,8 @@
+{
+    "_id": "38711",
+    "added_in_patch": 7,
+    "description": "The night elf was carrying a signet engraved with the crest of the Wardens.The band, made from a silvery, unbreakable metal, has been worn down by time, as if absently twisted and rubbed against its owner's finger.",
+    "name": "The Warden's Signet",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "309",
+    "description": "We need to get this powder to Ironband, but this cart isn't going anywhere now. It'll be a lot for us to carry, and these parts can get dangerous -- and who knows what else the Dark Irons might have in store for us now that Saean is with them.I'll feel a lot better if you helped me watch over things. Miran can offload the powder kegs at camp while you and I protect the cart.",
+    "name": "Protecting the Shipment",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

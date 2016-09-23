@@ -1,0 +1,9 @@
+{
+    "_id": "29548",
+    "added_in_patch": 5,
+    "description": "Well, you heard the King. Admiral Taylor's last transmission came from somewhere in the southern seas.We will begin our search from the air! Locating the Prince - the White Pawn - is of critical priority.The Skyfire is fueled, supplied, and ready to depart. She and her crew idle in the sky just north of the harbor.Make your last preparations, then meet Admiral Rogers on the deck. We will depart without delay.",
+    "name": "The Mission",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8186",
+    "description": "",
+    "name": "Death's Embrace",
+    "requires_level": 58,
+    "zone": "Quests"
+}

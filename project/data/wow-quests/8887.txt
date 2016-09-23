@@ -1,0 +1,7 @@
+{
+    "_id": "8887",
+    "description": "Interesting... what you have found here is a water-proofed, leather tube containing a number of sheets of parchment. By the markings upon them, the pages are clearly navigation rutters, and each bears the signature of one Captain Kelisendra.You've heard of a small, defended camp just east of the nearby Sunsail Anchorage. Maybe the captain is there?",
+    "name": "Captain Kelisendra's Lost Rutters",
+    "requires_level": 5,
+    "zone": "Eversong Woods"
+}

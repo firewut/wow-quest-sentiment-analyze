@@ -1,0 +1,8 @@
+{
+    "_id": "26037",
+    "description": "All rested?Here's our next step: there're ogres all around the Tower of Arathor in Stromgarde. We're gonna need to ward you against the tower's defenses. To do that, we're gonna need some gems the Boulderfist shaman have taken a liking to. They took 'em from the tower, but they're not gonna stay in their possession for long.Get one of them gems an' bring 'em to Kryten--he knows the spell to enchant it.",
+    "name": "Trelane's Defenses",
+    "requires_level": 24,
+    "side": "alliance",
+    "zone": "Arathi Highlands"
+}

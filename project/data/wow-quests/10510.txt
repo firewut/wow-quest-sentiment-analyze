@@ -1,0 +1,7 @@
+{
+    "_id": "10510",
+    "description": "Well it's good to see someone who's willing to help out around here!Borgrim and I are part of the Explorers' League, and we're here to learn what we can of these mountains.  We've heard all sorts of tales, and I can't wait to get settled in and started.One thing in particular has caught my attention.  The night elves speak of a place down in the ravine to the east known as the Draenethyst Mine.  It's at the south end of Bloodmaul Outpost.  I'd like some of the crystals that grow naturally therein.",
+    "name": "Into the Draenethyst Mine",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43508",
+    "added_in_patch": 7,
+    "description": "We must move swiftly while the distraction is working. Mathias Shaw is being held in the lower levels of the Halls of the Eclipse directly to the south.\r\n\r\nQuickly, <name>, we must go!",
+    "name": "The Captive Spymaster",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

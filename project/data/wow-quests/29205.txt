@@ -1,0 +1,7 @@
+{
+    "_id": "29205",
+    "description": "Captain Saynna Stormrunner is launching an attack against the Forlorn Spire. If you head to the northeast, you'll find her at the bottom of the ramp leading up towards that rise.Go there and escort one of her druids to the tower with any forces that she can spare. You'll have quite a fight ahead of you - make sure the druid lives to see the end of it or they'll not be able to seize the tower.",
+    "name": "The Forlorn Spire",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

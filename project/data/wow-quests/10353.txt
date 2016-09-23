@@ -1,0 +1,7 @@
+{
+    "_id": "10353",
+    "description": "Araxes and I were deployed to Ultris 2 days ago. Our mission: Find and terminate the void lord Arconus. We tracked him to this mine and discovered that he'd been feeding off the energies of the creatures in the area.A fire-fight broke out which resulted in Araxes and I separating. Now I'm stuck here, badly injured. The mission is in shambles!If you can take out Arconus, high command would be grateful. Should you accept this mission, I will assist by providing a reflection of myself as a guardian.",
+    "name": "Arconus the Insatiable",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

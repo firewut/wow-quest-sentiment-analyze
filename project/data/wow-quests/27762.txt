@@ -1,0 +1,7 @@
+{
+    "_id": "27762",
+    "description": "Hey, <race>, listen up.  I got a job opportunity that you aren't gonna want to miss out on.We been sent up here from Fuselight, a new goblin town way down in the Badlands.  Lots of money to be had down there, yes  siram;.  And not nearly so many zombies... or uptight Argent paladin-types.Nope, it's an untamed wilderness down there, and we're looking for someone like you to help us tame it.  Whenever you're ready... we'll be waiting.",
+    "name": "Fuselight, Ho!",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

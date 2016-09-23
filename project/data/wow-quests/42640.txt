@@ -1,0 +1,8 @@
+{
+    "_id": "42640",
+    "added_in_patch": 7,
+    "description": "This crate is filled with relics from the nearby ruins. The pirates have discarded them, likely thinking they're of little value.\r\n\r\nThe Explorer's League would probably appreciate if you retrieved these relics for them to study.",
+    "name": "The Value of Knowledge",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

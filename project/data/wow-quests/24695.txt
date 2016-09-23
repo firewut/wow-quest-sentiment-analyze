@@ -1,0 +1,7 @@
+{
+    "_id": "24695",
+    "description": "When my master Khaz'Goroth shaped the world you call Azeroth, he designed Un'Goro Crater to be an area for experimentation.  You might call it the Titans' petri dish.If you seek further knowledge about the methods in which we observe the world, pull the four levers behind me and complete my tests.",
+    "name": "Ever Watching From Above",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

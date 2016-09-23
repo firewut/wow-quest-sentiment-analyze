@@ -1,0 +1,8 @@
+{
+    "_id": "41946",
+    "added_in_patch": 7,
+    "description": "Our champions acquired the talents of Recruiter Tianji, a famed monk skilled in the school of the ox.She is known for her brewmaster techniques, and is a valuable addition to the temple. She is already beginning to train a new batch of pupils.Speak to her now and train an initiate of the ox.",
+    "name": "Building Our Troops",
+    "requires_level": 101,
+    "zone": "Monk Campaign"
+}

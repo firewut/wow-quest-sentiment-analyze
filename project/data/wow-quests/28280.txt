@@ -1,0 +1,7 @@
+{
+    "_id": "28280",
+    "description": "Egah! They're here, <name>. They're here!I had hoped to equip a whole army with my shoulder-mounted drake-droppers, but all I have is a single, extremely expensive and wholly untested prototype. Here, take it!Shoot the Dragonmaw black drakes that are circling Thundermar, and drop them from the sky!",
+    "name": "Tear Them From the Sky!",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12089",
+    "description": "By decree of Overlord Agmar:Target: Magister KeldonusCrime: TreasonStatus: AliveMagister Keldonus, once mage commander of Agmar's Hammer, is to be killed on sight in the name of the Horde.Keldonus was last seen traveling southwest towards Moonrest Gardens to join the blue dragonflight in their campaign against magic.Approach with caution as Keldonus is a powerful magus.All bounties are paid out by Captain Gort at Agmar's Hammer.",
+    "name": "Wanted: Magister Keldonus",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31373",
+    "added_in_patch": 5,
+    "description": "The Order of the Cloud Serpent is always searching for talented riders.If you wish to follow our way, you should speak to Instructor Skythorn at The Arboretum in the Jade Forest.I wish you luck, <race>.",
+    "name": "The Order of the Cloud Serpent",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

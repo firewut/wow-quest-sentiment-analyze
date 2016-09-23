@@ -1,0 +1,7 @@
+{
+    "_id": "12866",
+    "description": "Damn harpies. We've beat that bunch into submission more times than I can remember... and they stay quiet for a time after each bout. This time, I'd thought that maybe it sunk in.Apparently not.Their memory may be a bit short, but if their numbers are thinned enough, they'll keep to themselves. Head into the valleys in the north and east and clear out a fair chunk of them for me, will ya?",
+    "name": "Stemming the Aggressors",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

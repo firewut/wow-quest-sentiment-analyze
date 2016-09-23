@@ -1,0 +1,8 @@
+{
+    "_id": "27139",
+    "description": "Heya, boss, Hobart Grapplehammer's wants to speak with you. He says it's a matter of some urgency.",
+    "name": "Hobart Needs You",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "38175",
+    "added_in_patch": 6.1,
+    "description": "We've had a breakthrough in melting down the scraps you've been collecting! If you can get me a small pile of 'em, we can get your troops something a bit more useful.",
+    "name": "Scrap Meltdown",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison"
+}

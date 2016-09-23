@@ -1,0 +1,7 @@
+{
+    "_id": "13942",
+    "description": "I'm definitely on to something here!I have enough volatile elements salvaged from our arsenal to make the explosives Goggath wants, but I need to stabilize it and pack it into bombs.What I need is some clay - and not just any clay... moon-kissed clay.It's only found on the northern banks of Astranaar Lake, and it possesses the qualities I need to bring out the full potential of my discovery!",
+    "name": "Set Us Up the Bomb",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

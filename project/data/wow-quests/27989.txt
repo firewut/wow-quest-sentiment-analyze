@@ -1,0 +1,7 @@
+{
+    "_id": "27989",
+    "description": "Ruumbo hungers!The Deadwood jerks have stolen all their honey from the Timbermaw tribe! We saw...er, Ruumbo saw them do it! Now Ruumbo must have that honey!Take this... this stick! Yes, this stick. Take this stick and use it to steal the honey from their beehives in Deadwood Village.Ruumbo must have as much honey as possible. This is vital.",
+    "name": "Ruumbo Demands Honey",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

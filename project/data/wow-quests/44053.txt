@@ -1,0 +1,8 @@
+{
+    "_id": "44053",
+    "added_in_patch": 7,
+    "description": "The Lunastre Attendant, silent as ever, offers you a wax-sealed scroll.It reads:\"Dearest <name>,I asked my attendant to catch you, should things go in my favor.The role of Advisor will keep me away from the estate for some time and I settled on a gift for Thalyssra.I have sent a detachment of attendants to Shal'Aran with some comfort items. Treat them well- they need someone to wait on and I could think of none better!Give the others my thanks, and my love,Advisor Ly'leth Lunastre\"",
+    "name": "Friends With Benefits",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

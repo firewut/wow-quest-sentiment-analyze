@@ -1,0 +1,7 @@
+{
+    "_id": "9689",
+    "description": "Many of the black dragonflight were slain during the attacks. One of them, a lieutenant of Deathwing himself, still haunts this place. If you look to the heavens, you can see his spectral countenance circling the skies. His hatred is so great that he remains even in death.Take the bones that you gathered for me earlier to the top of the mountain on this island and place them in the ever-burning pyre. This act should signal Razormaw to descend. When he does, slay his undead form.",
+    "name": "Razormaw",
+    "requires_level": 19,
+    "zone": "Bloodmyst Isle"
+}

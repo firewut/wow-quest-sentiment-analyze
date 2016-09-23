@@ -1,0 +1,8 @@
+{
+    "_id": "26515",
+    "description": "I've got a plan to pit troll against troll.The Vilebranch have a big ol' dire troll locked up in a pit with some flimsy-lookin' chains. I've seen those things fight, and there's no way those'll hold if that big brute gets swingin' mad!I want you to find the dire troll and fight him, <name>. Don't kill him... just smack him around til' he's seein' red, then let him break free and get out of his way! He'll be a big pain for the Vilebranch.",
+    "name": "Ongo'longo's Revenge",
+    "requires_level": 30,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

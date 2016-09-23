@@ -1,0 +1,8 @@
+{
+    "_id": "40051",
+    "added_in_patch": 7,
+    "description": "The demons made a grave error inscribing their secrets into this book. The fel energy emanating from it is potent.\r\n\r\nBut there's only enough to enact one of the rituals. After that, the book will be consumed.\r\n\r\nIt's up to you to choose which secrets we want to use against the Burning Legion.",
+    "name": "Fel Secrets",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

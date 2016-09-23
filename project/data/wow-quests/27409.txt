@@ -1,0 +1,7 @@
+{
+    "_id": "27409",
+    "description": "To make the totem Brogg will need for his ritual, he must use the essences of the creatures who killed his friends. The hate and anger of Brogg's enemies will fuel the magic of his vengeance.Track down Firemane ash tails, scouts, or scalebanes and use Brogg's totem on their corpses. Only when the dragonkin die will they give up their essences.The creatures you seek swarm over the Den of Flame to the northwest and the Stonemaul Ruins to the north.",
+    "name": "The Essence of Enmity",
+    "requires_level": 36,
+    "zone": "Dustwallow Marsh"
+}

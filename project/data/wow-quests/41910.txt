@@ -1,0 +1,8 @@
+{
+    "_id": "41910",
+    "added_in_patch": 7,
+    "description": "First, we need water from Freya's Spring.Once a year, on the first day of solstice, the sun hits the white-capped summit of the highest peak in Highmountain. The melting snow runs through a ravine and collects in a crystalline pool.Some say these waters grant eternal youth. Silly stories if you ask me, but we will need this rare, purified water for our brew.I suggest sending our champions to collect us a sample, for your skills will be needed elsewhere.",
+    "name": "Freya's Spring",
+    "requires_level": 110,
+    "zone": "Monk Campaign"
+}

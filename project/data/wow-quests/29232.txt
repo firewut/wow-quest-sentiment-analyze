@@ -1,0 +1,7 @@
+{
+    "_id": "29232",
+    "description": "Ah... It's you, <name>.  Mauti... He's dead?  Then my brother has been avenged.  I've only one request from ya... This scamp here, he's been pawing at me bare feet.  No dwarf should go to the earth with bare feet.Please, bury me with me boots.",
+    "name": "Bury Me With Me Boots...",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

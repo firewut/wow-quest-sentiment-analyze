@@ -1,0 +1,8 @@
+{
+    "_id": "41473",
+    "added_in_patch": 7,
+    "description": "While you were busy assisting the Owlcats across the river, Mythandros and Solendra ventured further to the east.\r\n\r\nI believe Mythandros may have found the next creature that may offer us its blessing.\r\n\r\nThere is a secluded glade along the river's bend to the Northeast. There you may find our new ally, an elderly stag named Redhoof.",
+    "name": "Redhoof the Ancient",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41793",
+    "added_in_patch": 7,
+    "description": "What you plan to do is pretty risky, you know? Summoning one sister would be difficult enough, but both of them at once? That's just asking for trouble.\r\n\r\nLuckily, I'm up for the challenge. I'll help you and the rest of the council summon those demons, and hopefully restore pride to the Fizzlebang name.",
+    "name": "Lulubelle on Loan",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

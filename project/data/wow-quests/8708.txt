@@ -1,0 +1,7 @@
+{
+    "_id": "8708",
+    "description": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.Just the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces.  Prove your allegiance to the Circle, <name>, and I will make you a powerful weapon from the finest Qiraji materials.",
+    "name": "Mace of Unending Life",
+    "requires_level": 60,
+    "zone": "Quests"
+}

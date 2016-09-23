@@ -1,0 +1,9 @@
+{
+    "_id": "36261",
+    "added_in_patch": 6.1,
+    "description": "With the Heart of Gorgorek residing inside the garrison walls, we need to stay vigilant. The Burning Blade are known for attacking swiftly, and without warning.I have a number of grunts patrolling the keep. Dul'zak, one of our newer recruits, should have reported back by now.",
+    "name": "Garrison Campaign: Missing Grunt",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "33098",
+    "added_in_patch": 5.4,
+    "description": "There is a currency minted only on this island - \"timeless coins.\" They are immune to the island's temporal distortions... I would like to figure out why.Gather some for me! Venture into the jungles of this forgotten paradise. Destroy the mysterious foes who lurk in this timeless place, discover hidden caches of treasure, and explore forgotten treasure hoards - whatever it takes. I will be waiting!",
+    "name": "Secrets of the Timeless Isle",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

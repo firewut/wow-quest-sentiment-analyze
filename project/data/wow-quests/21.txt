@@ -1,0 +1,7 @@
+{
+    "_id": "21",
+    "description": "Your previous investigations are proof that the Echo Ridge Mine needs purging.  Return to the mine and help clear it of kobolds.Waste no time, <name>.  The longer the kobolds are left unmolested in the mine, the deeper a foothold they gain in Northshire.",
+    "name": "[DEPRECATED] Skirmish at Echo Ridge",
+    "requires_level": 1,
+    "zone": "Northshire Valley"
+}

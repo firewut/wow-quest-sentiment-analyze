@@ -1,0 +1,8 @@
+{
+    "_id": "40941",
+    "added_in_patch": 6.2,
+    "description": "The Blackrock forces based out of the Pit in Gorgrond make up the bulk of the Iron Horde army. If we crush them on their home soil, the rest of the Iron Horde will have little hope of standing against us.\r\n\r\nIf you choose the battle, bring friends. The Blackrock won't be defeated easily.",
+    "name": "Missive: Assault on the Pit",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

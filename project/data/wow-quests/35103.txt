@@ -1,0 +1,9 @@
+{
+    "_id": "35103",
+    "added_in_patch": 6,
+    "description": "I know a little about alchemy from my cousin Kadar. She is the alchemist at Stonefang Outpost. If you wish to learn more, she is the one with whom to speak.I only hope she has survived the attack.",
+    "name": "The Alchemist",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

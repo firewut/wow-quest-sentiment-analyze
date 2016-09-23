@@ -1,0 +1,8 @@
+{
+    "_id": "35010",
+    "added_in_patch": 6,
+    "description": "Yes, I knew you were worthy!The Writ of Faith says that great doubt will come in time of crisis but one must put their trust in the Raven Mother and all will be as it should!Come, come, we must go to the High Ravenspeaker!",
+    "name": "The High Ravenspeaker",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "37964",
+    "added_in_patch": 6.1,
+    "description": "We must act quickly - Garona here tells me that Gul'dan is on the move. He is headed to the Path of Glory to meet with Grommash Hellscream.We have to act while our intelligence is fresh! Hurry and meet us outside of Bladefury's Command in northern Talador. We won't be able to engage Gul'dan and the whole Iron Horde army on our own, but we may just learn something to use against them...",
+    "name": "To Gul'dan!",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

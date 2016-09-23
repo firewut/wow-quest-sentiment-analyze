@@ -1,0 +1,7 @@
+{
+    "_id": "10800",
+    "description": "I've outdone myself again.  I've fashioned a sleeping powder for you to use on Grulloc, the gronn I spoke of who is guarding what I want.Grulloc keeps himself at the Cursed Hollow, an area at the eastern edge of Dragons' End on the other side of the Circle of Blood.If I were you, I wouldn't tarry long once you have his sack.  The effects of the dust won't last long.",
+    "name": "Goodnight, Gronn",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

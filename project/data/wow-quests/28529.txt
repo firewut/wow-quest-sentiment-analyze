@@ -1,0 +1,7 @@
+{
+    "_id": "28529",
+    "description": "The scrolls are vague and appear to be a piece of a much larger puzzle, but if you are not mistaken, they seem to reveal some of the steps on the path to becoming a demon hunter.The dark oaths and rituals necessary for becoming a demon hunter are frowned on by most of the night elves, so this is likely something they would be very interested in keeping quiet.Ranger Glynda Nal'Shea will know what to do with these scrolls.",
+    "name": "Writings of the Void",
+    "requires_level": 10,
+    "zone": "Darkshore"
+}

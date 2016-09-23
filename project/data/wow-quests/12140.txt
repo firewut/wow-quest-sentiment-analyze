@@ -1,0 +1,8 @@
+{
+    "_id": "12140",
+    "description": "Like the tauren, Forsaken, trolls and blood elves, so too do the taunka need a leader born of their own blood. The one you saved from Icemist, Roanauk, will be this leader.<Overlord Agmar hands you a parchment.>I give to you something familiar - the blood oath of the Horde.Take the oath to Roanauk Icemist and initiate him into the Horde as leader of the taunka.Let us not keep him waiting.<Agmar nods.>\r\n",
+    "name": "All Hail Roanauk!",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

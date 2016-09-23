@@ -1,0 +1,7 @@
+{
+    "_id": "6901",
+    "description": "",
+    "name": "Launch the Attack!",
+    "requires_level": 1,
+    "zone": "Alterac Valley"
+}

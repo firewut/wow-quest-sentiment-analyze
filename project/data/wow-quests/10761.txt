@@ -1,0 +1,7 @@
+{
+    "_id": "10761",
+    "description": "There's nothing here that would explain why the spirits of these arakkoa have remained in this world or how they came into thirst for the blood of orcs.I think our best lead is to try to find the deserter mentioned in the journal. If he left his comrades at the camp, there's a chance you might be able to persuade him to help us understand what the dark conclave arakkoa are planning.Start your search for him on the road through the Magma Fields to the southeast.",
+    "name": "Find the Deserter",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

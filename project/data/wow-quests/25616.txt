@@ -1,0 +1,7 @@
+{
+    "_id": "25616",
+    "description": "Enter Stonetalon Mountains through Talondeep Pass and head towards the smoldering trees. Seek out the Krom'gar incinerators that are destroying the forest and slay as many as you can! Be warned, the incinerators are powerful orcs. Attacking them through conventional means will likely result in your death. Destroy the oil canisters on their backs and they will be devoured by flame!Report to Sentinel Heliana at Windshear Mine should you succeed. She will have your new orders.",
+    "name": "Hellscream's Legacy",
+    "requires_level": 24,
+    "zone": "Stonetalon Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25487",
+    "description": "The cowardly Grimtotem have attacked us by surprise when we were least prepared!You will be of most help to Thousand Needles elsewhere, <class>. We have heard rumors that the goblins and gnomes somehow survived in a giant barge out on the salt flats.Motega Firemane is at the base of the summit. He can get you a canoe to take you there.Do you mind helping us fight off the Grimtotem on your way to him?",
+    "name": "The Grimtotem are Coming",
+    "requires_level": 38,
+    "side": "horde",
+    "zone": "Thousand Needles"
+}

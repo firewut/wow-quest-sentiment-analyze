@@ -1,0 +1,7 @@
+{
+    "_id": "28345",
+    "description": "*GURGLE*HELP!*GASP*ORKUS IS DROWNING! HELP ME, QUEST GIVER <name>!*GLUB*Dwarf threw Orkus into the water! Must not die!*GURGLE*The shame would be too great.",
+    "name": "*Gurgle* HELP! *Gurgle*",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

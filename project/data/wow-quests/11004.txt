@@ -1,0 +1,7 @@
+{
+    "_id": "11004",
+    "description": "Sky Commander Adaris was seriously injured during a Skettis incursion.  He's been in and out of consciousness since.I fear he has succumbed to a feverish delirium.  During brief lucid moments he demands that I prepare an elixir made from shadow dust carried by the arakkoa.  He seems to believe it will allow him to see into a \"world of shadows\" where the arakkoa's true leaders dwell.I do not believe this nonsense for a second, but I fear he won't rest until I obtain such an elixir.  Will you help?",
+    "name": "World of Shadows",
+    "requires_level": 70,
+    "zone": "Terokkar Forest"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35141",
+    "added_in_patch": 6,
+    "description": "We're going to get some payback on that little stinker.Put the baby goren into one of those carriers and then make a special delivery to Thaelin.",
+    "name": "Carrier Has Arrived",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28594",
+    "description": "Get down there and make a mess of those Alliance rabble. Any of'm will do. I just want'm scattered while you're in there after the real target.Find us near the eastern tower when you're done.",
+    "name": "Highbank, Crybank",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32653",
+    "added_in_patch": 5.2,
+    "description": "<Yoon's familiar writing scrolls across the tattered paper.>The trainees out at the Cradle of Chi-Ji are in need of striped melons. Apparently, they use them in their training exercises.A representative will be by tomorrow to collect whatever striped melons you can spare.",
+    "name": "Work Order: The August Celestials I",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

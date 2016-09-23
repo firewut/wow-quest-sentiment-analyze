@@ -1,0 +1,8 @@
+{
+    "_id": "11228",
+    "description": "Fordragon's got another thing coming if he thinks the group of green-gilled scrubs he sent to defend this port can hold out much longer.<Macalroy raises an eyebrow as he examines your equipment.>You, however, might fare a bit better.The importance of holding this port cannot be stated enough; and with those monsters flying overhead, the situation around here has gone from bad to worse.Report to Vice Admiral Keller just northwest of here and let him know that you're all out of bubble gum.",
+    "name": "Hell Has Frozen Over...",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Howling Fjord"
+}

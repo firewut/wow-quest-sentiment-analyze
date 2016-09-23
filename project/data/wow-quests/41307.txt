@@ -1,0 +1,8 @@
+{
+    "_id": "41307",
+    "added_in_patch": 7,
+    "description": "Now that the shield is down, the older settlements outside the city have been on my mind.Did you know that I helped create the filigree on the arcane lamps that are used throughout the city? A simple task, one of my first...No matter. Nostalgia is the enemy of progress. The lamps are made of material better used in my new works.Those wretched harpies probably have several decorating their nests. Bring back any you find.",
+    "name": "All That Glitters",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

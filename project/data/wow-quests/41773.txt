@@ -1,0 +1,8 @@
+{
+    "_id": "41773",
+    "added_in_patch": 7,
+    "description": "Greetings, mortal. I am Scaldius, emissary of Lord Smolderon.I have just met with others from your order. They tell me that you will bring an end to those who oppose my master. This pleases Lord Smolderon.Pyroth and his minions defy my master's rule and so an example must be made of them. You will slay Pyroth and his champions!Nothing is more humiliating than death at the hands of a mortal. Do this and Lord Smolderon will grant you audience.",
+    "name": "The Firelord's Command",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

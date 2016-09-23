@@ -1,0 +1,7 @@
+{
+    "_id": "6032",
+    "description": "Although the people of Timbermaw delight in the feel of runecloth, it is not sacred to us.  But mooncloth is sacred.Bring me a small supply of this holy cloth, and I will teach you a secret fashioning technique. ",
+    "name": "Sacred Cloth",
+    "requires_level": 50,
+    "zone": "Winterspring"
+}

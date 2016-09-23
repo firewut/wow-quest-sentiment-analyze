@@ -1,0 +1,7 @@
+{
+    "_id": "27210",
+    "description": "It's good to meet you, <class>. I've come to Theramore to help eliminate the problem of the deserters. Not only have some of the men abandoned their posts, but some have filtered back into the town.These deserter agents are spreading lies and propaganda, hoping to convince others to join their ranks.They're at virtually every guard post throughout the town and the docks. Find them, expose them, and discredit them. At this point, anything more risks inspiring more sympathy for them.",
+    "name": "Traitors Among Us",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

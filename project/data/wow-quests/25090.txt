@@ -1,0 +1,7 @@
+{
+    "_id": "25090",
+    "description": "Scourge have trickled into Tirisfal Glades and have infested this area.I need someone to beat back the rotting dead and ravaged corpses that have taken this small farm.  Scatter their bones and bring back their putrid claws.  The Deathguards will reward you.",
+    "name": "A Putrid Task",
+    "requires_level": 4,
+    "zone": "Tirisfal Glades"
+}

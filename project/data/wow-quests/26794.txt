@@ -1,0 +1,7 @@
+{
+    "_id": "26794",
+    "description": "<He searches through the shelves and comes up with a leatherbound book.>If you would like to know more, you might ask Althea, she's been the one to handle the... trouble... with him of late.",
+    "name": "Morgan Ladimore",
+    "requires_level": 23,
+    "zone": "Duskwood"
+}

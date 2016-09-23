@@ -1,0 +1,7 @@
+{
+    "_id": "27469",
+    "description": "I come with news from Blackrock Spire. We have a new visitor. His name is Acride.He seeks people of strength, people of intelligence, of dexterity. You ought to go to Blackrock Spire and speak with him.",
+    "name": "Friends on The Other Side",
+    "requires_level": 57,
+    "zone": "Blackrock Spire"
+}

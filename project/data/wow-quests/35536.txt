@@ -1,0 +1,9 @@
+{
+    "_id": "35536",
+    "added_in_patch": 6,
+    "description": "The botani must have stuck that big ogron there to protect something fancy. And what was that stumpy looking creature that it killed?The botani are mean, but they have some fun toys. Maybe Kaz might know what it was.Can we go find Kaz now?I saw a compost heap up the south hill. If Kaz came looking for me I bet she would start there.",
+    "name": "Secrets of the Botani",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

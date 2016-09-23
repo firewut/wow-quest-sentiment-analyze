@@ -1,0 +1,7 @@
+{
+    "_id": "27103",
+    "description": "The satyr Alzzin the Wildshaper has exerted his corrupt dominion over this part of Eldre'Thalas.  The Fruit of Fertility, now corrupted as the Felvine, should be close to Alzzin. It may be the key to purify this ancient place.When the great satyr falls, capture whatever essence of the Felvine you can.  Seal it in this Reliquary of Purity, and bring it to me.Good luck, and Cenarius' speed.",
+    "name": "Shards of the Felvine",
+    "requires_level": 36,
+    "zone": "Dire Maul"
+}

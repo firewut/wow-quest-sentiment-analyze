@@ -1,0 +1,8 @@
+{
+    "_id": "32708",
+    "added_in_patch": 5.2,
+    "description": "Take these 3 ritual stones to the location I have marked on your map. There, you will find a Shan'ze ritual object that you can use to beckon one of their powerful allies.You will need capable friends at your side for this trap to work. Do not go alone, for these will be some of the Thunder King's most powerful servants.When your enemy shows itself, show no mercy. ",
+    "name": "Setting the Trap",
+    "requires_level": 90,
+    "zone": "Quests"
+}

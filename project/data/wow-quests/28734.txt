@@ -1,0 +1,8 @@
+{
+    "_id": "28734",
+    "description": "You should speak with Melithar. I believe he had some troubles with the grell already.I expect he can offer you a well needed place to store more of your goods should you aid him.",
+    "name": "A Favor for Melithar",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

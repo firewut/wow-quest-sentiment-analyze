@@ -1,0 +1,7 @@
+{
+    "_id": "9802",
+    "description": "The lakes of Zangarmarsh are slowly being drained of their water.  We don't quite know why, but we do know that many plants species are in danger of becoming extinct.As the expedition's cataloguer, it is my job to track and identify these plants so we can better understand what's happening to them.If you'd like to help, bring me unidentified plant parts.  They can be picked right from the ground if you're an herbalist, and the indigenous creatures of the swamp may also carry plant parts on them.",
+    "name": "Plants of Zangarmarsh",
+    "requires_level": 60,
+    "zone": "Zangarmarsh"
+}

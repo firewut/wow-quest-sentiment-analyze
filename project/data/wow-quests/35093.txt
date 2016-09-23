@@ -1,0 +1,8 @@
+{
+    "_id": "35093",
+    "added_in_patch": 6,
+    "description": "Yrel and I have located Warlord Ner'zhul. He is meeting with Grommash Hellscream atop the highest altar overlooking Anguish Fortress.Meet us there. We must stop him.",
+    "name": "The Dark Side of the Moon",
+    "requires_level": 90,
+    "zone": "Shadowmoon Valley"
+}

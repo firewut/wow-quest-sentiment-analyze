@@ -1,0 +1,8 @@
+{
+    "_id": "28494",
+    "description": "All able-bodied members of the Horde are hereby ordered to report to Kargal Battlescar at Far Watch Post in the Northern Barrens.Your help is needed to secure the Northern Barrens against the encroaching quilboars and centaurs.To reach Far Watch Post, travel west across Durotar's Southfury Watershed and cross the bridge into the Northern Barrens.Destiny calls!",
+    "name": "Warchief's Command: Northern Barrens!",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

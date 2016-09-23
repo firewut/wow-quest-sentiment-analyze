@@ -1,0 +1,8 @@
+{
+    "_id": "38744",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "7.0 Stormheim - Treasure 030 - Statue - ZTO",
+    "requires_level": 100,
+    "zone": "Stormheim"
+}

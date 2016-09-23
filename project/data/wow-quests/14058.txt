@@ -1,0 +1,8 @@
+{
+    "_id": "14058",
+    "description": "Roberta Carter has recruited me to help prepare one of the feast dishes, candied sweet potatoes.  Normally, I'd love to help, but I've promised the hostess that I'd help her watch the tables.I'd really appreciate it if you would help me come up with those candied sweet potatoes. Roberta would never forgive me if I let her down.If you're going to cook the sweet potatoes yourself, you'll have to buy them from the Pilgrim's Bounty merchant in Thunder Bluff. Thanks, <name>.",
+    "name": "She Says Potato",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Pilgrim's Bounty"
+}

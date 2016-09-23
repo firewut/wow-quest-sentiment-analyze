@@ -1,0 +1,7 @@
+{
+    "_id": "25702",
+    "description": "<The murloc struggles to speak your language.>Rockpool... attacked.  Naga turn, take village, villagers.Salt-Flop escape, but others do not.  Go south, talk to Chief Neptool.  Maybe he survive.",
+    "name": "Home... Gone... Naga...",
+    "requires_level": 55,
+    "zone": "Blasted Lands"
+}

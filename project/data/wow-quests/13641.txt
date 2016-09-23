@@ -1,0 +1,7 @@
+{
+    "_id": "13641",
+    "description": "Now that we know there's no truth to the Black Knight's stories, we must find a way to connect him to the murdered knights.I know a way to reveal the truth about how they died, but it requires a rare material. We must gain a seer's crystal, found only among the unbound seers who congregate near night elf ruins in the Forlorn Woods in the central part of Crystalsong Forest. Find one of these seers, <name>, and bring me the crystal it holds.",
+    "name": "The Seer's Crystal",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32419",
+    "added_in_patch": 5.1,
+    "description": "The Sunreaver's Sanctuary is still crawling with those Horde-loving Sunreavers.Jaina will have sent the reasonable ones to the Violet Hold. The rest refuse to leave, raising their weapons against us.Show them the cost of their defiance. They now face the judgment of the Alliance, the Silver Covenant, and the Kirin Tor!",
+    "name": "Nowhere to Hide",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27056",
+    "description": "<Belmont hands you a sealed envelope.>Deliver this report to Lady Sylvanas Windrunner. It is my assessment of the situation in Silverpine based upon your and Yorick's field work.If we do not stamp out the worgen insurgents, they will overrun us. The time to act is now!",
+    "name": "Belmont's Report",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

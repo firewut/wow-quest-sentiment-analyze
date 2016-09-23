@@ -1,0 +1,7 @@
+{
+    "_id": "9335",
+    "description": "",
+    "name": "Consecrated Sharpening Stones",
+    "requires_level": 50,
+    "zone": "Quests"
+}

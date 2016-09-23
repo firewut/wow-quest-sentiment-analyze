@@ -1,0 +1,8 @@
+{
+    "_id": "30786",
+    "added_in_patch": 5,
+    "description": "My fate is sealed. The yaungol put this spear in my side. The wound will kill me.The yaungol hold me in place with their twisted, corrupted magic. The indignity of it hurts worse than my spear-wound.My death, I cannot stop. My imprisonment... you may be able to help me with this.",
+    "name": "A Spear Through My Side, A Chain Through My Soul",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38243",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "A Bit of Ore",
+    "requires_level": 90,
+    "zone": "Engineering"
+}

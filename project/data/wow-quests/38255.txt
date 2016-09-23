@@ -1,0 +1,8 @@
+{
+    "_id": "38255",
+    "description": "These rangari will surround and cover the train car. Hit the detonator to blow open the doors.I will try to talk Roark into joining our cause. He's a genius around a drydock and our best hope for building a shipyard.If it doesn't work, we must be prepared to kill him. The last thing we need is someone rebuilding another Iron Fleet...",
+    "name": "The Train Gang",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

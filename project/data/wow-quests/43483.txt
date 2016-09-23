@@ -1,0 +1,8 @@
+{
+    "_id": "43483",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Fel Annihilation",
+    "requires_level": 98,
+    "zone": "The Exodar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11241",
+    "description": "Thanks for bailing me out of this mess, <name>.  I was not looking forward to what these Alliance scumbags had in store for me.Let's get out of here and see if we can get back at them somehow.  Is that a campfire over there?",
+    "name": "Trail of Fire",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

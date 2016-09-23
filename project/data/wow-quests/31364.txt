@@ -1,0 +1,8 @@
+{
+    "_id": "31364",
+    "added_in_patch": 5,
+    "description": "The mantid have something they call Raigonn. It's a giant bug they're using to bust down the wall's gates!Let's keep that thing from getting into the vale!",
+    "name": "That's a Big Bug!",
+    "requires_level": 88,
+    "zone": "Quests"
+}

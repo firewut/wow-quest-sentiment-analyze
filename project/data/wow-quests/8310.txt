@@ -1,0 +1,7 @@
+{
+    "_id": "8310",
+    "description": "I think I can formulate an elixir that will allow us to more readily decipher the glyphs and language of the silithid and Qiraji! What do I need? Glad you asked! I need brains!Normally I'd need a brain from each silithid type that inhabit the hives. Another brave explorer brought me two of 'em here... and never came back from Hive'Regal.Bring me back a silithid brain from Hive'Regal... and be careful not to end up like him!",
+    "name": "Breaking the Code",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

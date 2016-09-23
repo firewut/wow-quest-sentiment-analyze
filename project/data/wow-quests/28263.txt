@@ -1,0 +1,7 @@
+{
+    "_id": "28263",
+    "description": "I just received a message from Maginor Dumas, the senior mage trainer in Stormwind. He's asking you to join him in the Wizard's Sanctum in Stormwind as soon as you can travel there.",
+    "name": "Meet with Maginor Dumas",
+    "requires_level": 50,
+    "zone": "Stormwind City"
+}

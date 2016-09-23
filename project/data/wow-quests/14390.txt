@@ -1,0 +1,7 @@
+{
+    "_id": "14390",
+    "description": "After a long search with some questionable turns, you've finally found Azuregos.Now it's just a matter of convincing him to meet up with Kalecgos and put an end to the threat of the black dragonflight in Azshara.",
+    "name": "Easy is Boring",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

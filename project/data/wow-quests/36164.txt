@@ -1,0 +1,9 @@
+{
+    "_id": "36164",
+    "added_in_patch": 6,
+    "description": "An Exarch must be a pillar of strength, and no greater strength is there than the courage to face danger.Far to the northwest, among the snowy crags of Frostfire Ridge, lives a primal fury named Everburn.Only when you face one of these creatures eye to eye, will you know the extent of your courage.",
+    "name": "The Trial of Courage",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28637",
+    "description": "Have you ever had the luxury of trying bear meat? I never had the chance to try it in Gilneas, but the bears here are simply exquisite.The shardtooth bears that roam just to the south are well-marbled with fat from the cold here. I've been hunting them myself, and it's quite a lark, but I much prefer eating them!I recommend you try your hand at the hunt. Stick to the white-pelted Shardtooth bears, and the Captain will go to field to bring back any you kill.",
+    "name": "A Taste for Bear",
+    "requires_level": 51,
+    "zone": "Winterspring"
+}

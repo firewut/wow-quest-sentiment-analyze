@@ -1,0 +1,8 @@
+{
+    "_id": "43808",
+    "added_in_patch": 7,
+    "description": "<The telemancy beacon is deactivated, but intact. Some Ancient Mana should get it back up and running.>",
+    "name": "Moon Guard Teleporter Online!",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28084",
+    "description": "",
+    "name": "Might of the Krom'gar",
+    "requires_level": 24,
+    "zone": "Stonetalon Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25024",
+    "description": "The Alliance have caught back up with us at just the wrong moment, my friend. We took care of their ships, but they still have planes that are dropping their vaunted 127th Paratroopers onto the coast below.It's all that the battlesworn and scouts can do to hold the two ramps against their overwhelming numbers. I'm certain that if you were to aid them, the tide would quickly be turned.",
+    "name": "Repel the Paratroopers",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

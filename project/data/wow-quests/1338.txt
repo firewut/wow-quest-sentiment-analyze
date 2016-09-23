@@ -1,0 +1,7 @@
+{
+    "_id": "1338",
+    "description": "There is a dwarven armorsmith whose work I admire greatly.  His name is Furen Longbeard, and his skill is unmatched.  I need a new shield, and I must have one of his!The problem is... Furen is far to the south, in the dwarven district within Stormwind.  In human lands!  I can't imagine why he would live there, so far from Ironforge.  The humans must pay him a king's ransom to keep him there!So, if you want to travel and don't mind making some money, then will you send Furen my request for a shield?",
+    "name": "Stormpike's Order",
+    "requires_level": 9,
+    "zone": "Loch Modan"
+}

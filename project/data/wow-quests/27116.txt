@@ -1,0 +1,8 @@
+{
+    "_id": "27116",
+    "description": "Father finished the Skystrider. It's amazing! Once we get the bugs worked out, I'm going to use it to fight for justice, just like you.I know you've got to move on, and help other people, being a hero and all, but how about a ride? I'm about to take the Skystrider on its first flight, and I'll be honored if you join me. I'll drop you off at Algaz Station.What do you say?",
+    "name": "The Winds of Loch Modan",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

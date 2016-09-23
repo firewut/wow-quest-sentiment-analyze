@@ -1,0 +1,7 @@
+{
+    "_id": "13422",
+    "description": "You've succeeded where others have failed.  Yet you cannot rest on your laurels.You must show others what strength and commitment really mean.The male insubordinates inside the Forlorn Mine need to be disciplined once again.  Show them sister... show them what it means to disobey us.",
+    "name": "Maintaining Discipline",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

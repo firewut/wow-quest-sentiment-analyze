@@ -1,0 +1,7 @@
+{
+    "_id": "26182",
+    "description": "YOU MUST RETURN... TO... THE TENEBROUS CAVERN. ERUNAK STONESPEAKER AWAITS... YOU WITHIN.I DIE NOW....",
+    "name": "Back to the Tenebrous Cavern",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

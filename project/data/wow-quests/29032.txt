@@ -1,0 +1,7 @@
+{
+    "_id": "29032",
+    "description": "I can teach you to ride a Winterspring frostsaber, but it takes time and dedication. For this to work, both saber and rider must be highly trained and both must share a bond of deep trust.The cubs are only receptive to this training if they're introduced to their riders at a young age. Some of the cubs in the dens surrounding Frostsaber Rock are at the proper age to begin their training. If you help me gather the most promising of those cubs, I'll allow you to begin training with your own cub.",
+    "name": "Get Them While They're Young",
+    "requires_level": 50,
+    "zone": "Winterspring"
+}

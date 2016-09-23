@@ -1,0 +1,7 @@
+{
+    "_id": "28310",
+    "description": "Our work here in Chiselgrip is done, mostly thanks to you.  We'll now be moving on to the east, to Morgan's Vigil.Our intel indicates that Morgan's Vigil has been vacated, as most of its inhabitants have moved into Blackrock Mountain to fight their own battle against the Blackrocks.  It should serve as a sufficient base of operations for the final stages of our plan.Of course, Keeshan will be joining you on the road.  As will I.",
+    "name": "Morgan's Vigil",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

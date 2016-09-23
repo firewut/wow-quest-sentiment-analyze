@@ -1,0 +1,7 @@
+{
+    "_id": "13622",
+    "description": "The pieces fit together to form an elegant hammer.  Its construction appears to be at least partially Titan in nature.The console inside the Archivum might have some information regarding this artifact.",
+    "name": "Ancient History",
+    "requires_level": 80,
+    "zone": "Quests"
+}

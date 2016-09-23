@@ -1,0 +1,8 @@
+{
+    "_id": "30251",
+    "added_in_patch": 5,
+    "description": "A giant mantid is terrorizing the inside of the wall. It seems doubtful that the defenders will be able deal with it without you.",
+    "name": "Vyraxxis, the Krik'thik Swarm-Lord",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

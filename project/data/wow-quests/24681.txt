@@ -1,0 +1,8 @@
+{
+    "_id": "24681",
+    "description": "The night elves made good on their promise.  They've brought ships and are ready to offer us sanctuary in their lands.Unfortunately, the Forsaken's allies have arrived as well.The orcs are advancing upon us while the Horde gunship prevents the transport ships from taking our people to safety.The druids are holding the enemy back, but won't last long.  Fortunately, the elven ships were carrying siege weapons.  Take one of the glaive throwers and meet the enemy head on.",
+    "name": "They Have Allies, But So Do We",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

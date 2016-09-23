@@ -1,0 +1,7 @@
+{
+    "_id": "28737",
+    "description": "<Finkle's helm gives you a slight jolt.>What is this place? It looks like they're doing something terrible to that nether dragon. The energy is being siphoned from the creature into that lady! We need to stop this ritual!Kill Corla to get past this hall!",
+    "name": "What Is This Place?",
+    "requires_level": 80,
+    "zone": "Blackrock Caverns"
+}

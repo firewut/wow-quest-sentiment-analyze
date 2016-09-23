@@ -1,0 +1,7 @@
+{
+    "_id": "29264",
+    "description": "Of all Ragnaros' minions, the flamewakers appear to be the most devoted. Most of them dwell within this cave, preparing for another attack. Our foothold may be strong, but we will not tolerate any surprise attacks from these worms.No, we will strike first.Tear them apart, <name>.",
+    "name": "Flamewakers of the Molten Flow",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

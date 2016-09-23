@@ -1,0 +1,7 @@
+{
+    "_id": "14284",
+    "description": "I am Hydronis, a servant of Neptulon the Tidehunter, Lord over all waters.Azshara and her sinister naga have arrayed themselves against my master, and seek a war with him. This is the first battle in what shall surely be a long struggle.I have fought bitterly, <race>, and have grown weary.It seems that my actions here have attracted the attention of their priestess.Alone, I haven't the strength to overcome her. but perhaps together, we may prevail.",
+    "name": "A Revenant's Vengeance",
+    "requires_level": 28,
+    "zone": "Desolace"
+}

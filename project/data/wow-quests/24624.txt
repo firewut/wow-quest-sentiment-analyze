@@ -1,0 +1,7 @@
+{
+    "_id": "24624",
+    "description": "The fiend who stole our raptors has been corruptin' dem with some kind of magic. Now dat dey've grown with dis corruption inside of them, I fear dere's little we can be doin' to save dem outside grantin' them da peace of death. Go ta Zalazane's Fall, northwest of here, an' see da task done.I hope ya can stomach dae work. I don't tink I could bring myself ta do da deed, even knowin' that it be needed.",
+    "name": "Mercy for the Lost",
+    "requires_level": 1,
+    "zone": "Echo Isles"
+}

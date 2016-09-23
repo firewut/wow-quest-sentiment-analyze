@@ -1,0 +1,7 @@
+{
+    "_id": "10237",
+    "description": "<name>, you have to get word back to Area 52 immediately!  Hurry!Tell the rocket-chief that the Burning Legion is after us now!",
+    "name": "Warn Area 52!",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

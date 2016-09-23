@@ -1,0 +1,7 @@
+{
+    "_id": "9351",
+    "description": "Even if I can get the zeppelin's frame repaired, I'll have to find something else to power the engine. I'm all out of fuel and there's no place to fill up around here!To the south of us is an area of broken land called the Warp Fields. It's full of rogue and uncontrolled voidwalkers, but I like to think of them as walking batteries.If you can bring me enough of their essence, I can convert the zeppelin's engine to run on it. Five gold says I'll even get better mileage out of it, too!",
+    "name": "Voidwalkers Gone Wild",
+    "requires_level": 58,
+    "zone": "Hellfire Peninsula"
+}

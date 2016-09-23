@@ -1,0 +1,7 @@
+{
+    "_id": "27557",
+    "description": "",
+    "name": "Tarenar's Talisman",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

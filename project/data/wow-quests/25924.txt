@@ -1,0 +1,8 @@
+{
+    "_id": "25924",
+    "description": "Listen up, <race>!A new landmass has emerged off the coast of Eastern Kingdoms and we are engaged in a critical battle for control of the island!Victory there will leave Stormwind completely defenseless!Now is the time to strike!Report to the docks at once for transport to the battle.Every warship is engaged, so you'll be boarding a mercenary vessel commissioned by the Warchief himself.",
+    "name": "Call of Duty",
+    "requires_level": 80,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

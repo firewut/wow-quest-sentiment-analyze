@@ -1,0 +1,7 @@
+{
+    "_id": "36804",
+    "description": "",
+    "name": "Blind Lake Lunker",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31285",
+    "added_in_patch": 5,
+    "description": "Nobody really travels up the Ancient Passage on foot. That is just asking for a faceful of saurok if you are not careful.Tell you what, Egg Shell and I were just about to set off upriver to Binan Village. Want a lift?",
+    "name": "The Spring Drifter",
+    "requires_level": 87,
+    "zone": "The Veiled Stair"
+}

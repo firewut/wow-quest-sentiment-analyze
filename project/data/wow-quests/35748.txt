@@ -1,0 +1,9 @@
+{
+    "_id": "35748",
+    "added_in_patch": 6,
+    "description": "We have been unable to execute a vast majority of our battleplans. We are definitely being watched.The Iron Horde must have scouts planted throughout the Blasted Lands. Victory is slipping away from us.",
+    "name": "Subversive Scouts",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

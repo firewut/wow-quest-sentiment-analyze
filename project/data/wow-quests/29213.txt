@@ -1,0 +1,7 @@
+{
+    "_id": "29213",
+    "description": "Tings ain't looking good.  Dat panther was under some powerful magic.  We better check on dat hunter an' see how he be doin'.",
+    "name": "How's the Hunter Holding Up?",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

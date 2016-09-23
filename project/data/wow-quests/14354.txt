@@ -1,0 +1,7 @@
+{
+    "_id": "14354",
+    "description": "Simply intolerable!Satyrs of all things, desecrating our sacred lands...Their days are numbered, <race>. I can assure you of that. As soon as we have the numbers, I shall lead a charge that will rid this land of the wicked creatures.For now, though, perhaps you could put my mind at ease?Travel just east of here to Sargeron and scour the ruins. Find the relics of Elune and ensure that they are in good condition.I'll pay you well for this favor.",
+    "name": "Elune's Gifts",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30611",
+    "added_in_patch": 5,
+    "description": "Your yeti ride gave me an idea. The Ook of Dook has a pet yeti he named Chomp Chomp.He uses this yeti to scare other hozen in to making him the leader hozen. We need to get rid of that yeti.Go to Dooker Dome northwest of here and defeat some of the Cagemasters so Chomp Chomp is not tied up as much.Yakshoe and I will meet you there with lots of incense and a dirty yak.",
+    "name": "Unleash The Yeti!",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9639",
+    "description": "Journal, what journal?  You're thinking of Kamsis, surely.Go and ask her about it.  I can't leave my project right now or all my work will be wasted!",
+    "name": "Kamsis",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42512",
+    "added_in_patch": 7,
+    "description": "That will have to do. Dargrul has come and we need every able body on the front line. Go, I will be right behind you.",
+    "name": "Highmountain Stands",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

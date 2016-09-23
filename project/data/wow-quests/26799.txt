@@ -1,0 +1,8 @@
+{
+    "_id": "26799",
+    "description": "The val'kyr raise hundreds of corpses every day.  Agatha raised you just a few moments ago.  Not all are as lucky as you, however.Some maintain their free will, but live in constant fear and confusion.  They usually run off into the woods, cowering at their own reflections.Others lose their minds completely, shambling about aimlessly.  They often turn to violence, and must be destroyed.This is your task, <name>.  Destroy them, our former brothers and sisters though they might be.",
+    "name": "Those That Couldn't Be Saved",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Deathknell"
+}

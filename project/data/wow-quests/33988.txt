@@ -1,0 +1,8 @@
+{
+    "_id": "33988",
+    "added_in_patch": 6,
+    "description": "<The note is scrawled hurriedly across the parchment.>Telmor is lost. The Shadow Council is dragging our fallen into piles and feeding the souls to their leader. There is blood on my hands...Please, if anyone reads this message, burn the bodies of our fallen so our enemy cannot use them.- Restalaan, Captain of the Guard",
+    "name": "Invasion of the Soul Eaters",
+    "requires_level": 95,
+    "zone": "Talador"
+}

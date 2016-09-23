@@ -1,0 +1,8 @@
+{
+    "_id": "28172",
+    "description": "The Blackrock orcs of the steppes serve a dark master -  one who performs twisted experiments on living creatures to create his own menagerie of abominations.  Many of his test subjects are as corrupted as their master, but others are completely innocent.In the whelping downs to the south, they chain baby dragons to the ground, preparing them for such experiments.  I will not stand for this.  Break their fetters and return the hatchlings to me... to safety.",
+    "name": "Done Nothing Wrong",
+    "requires_level": 49,
+    "side": "alliance",
+    "zone": "Burning Steppes"
+}

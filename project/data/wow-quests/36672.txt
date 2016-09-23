@@ -1,0 +1,8 @@
+{
+    "_id": "36672",
+    "added_in_patch": 6,
+    "description": "Alright, alright, how about this. A living, breathing... wait for it.... tree... that wants to murder your face. Genius, right?Look, they don't pay me to come up with witty dialogue about these things, give me a break. They're ogres - they pay for blood. Hence the name.",
+    "name": "The Ring of Blood: Venoxis!",
+    "requires_level": 100,
+    "zone": "Nagrand"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10565",
+    "description": "The arakkoa of Vekh'nir have been a thorn in our sides for many years. Some strange religion guides them, a religion which has the arakkoa in a frenzy of activity. They carry these crystals with them now, which they have turned to some dark purpose.I know something of their rituals. They take the crystals to their spell circles to infuse them. We at the village would like to know more. Waylay a few of the arakkoa until you find a crystal, charge it, then return it to me.",
+    "name": "The Stones of Vekh'nir",
+    "requires_level": 61,
+    "zone": "Blade's Edge Mountains"
+}

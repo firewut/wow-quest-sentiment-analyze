@@ -1,0 +1,7 @@
+{
+    "_id": "28316",
+    "description": "While we are circling around Dreadmaul Rock, there's one more stop that we need to make.You remember the hatchlings that you freed from the Whelping Downs?  Troteman's been hanging onto them, and we're going to deliver them to someone who will take care of them better than we can.  He's staying in Slither Rock, to the northeast of Dreadmaul Rock.His name is Acride, and he might be the key to victory in the upcoming battle.",
+    "name": "A Deal With a Dragon",
+    "requires_level": 49,
+    "zone": "Burning Steppes"
+}

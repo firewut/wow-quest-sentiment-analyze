@@ -1,0 +1,8 @@
+{
+    "_id": "14456",
+    "description": "One of the first lessons you should learn, <name>, is to never underestimate your prey.While we were distracted by the attack on Camp Narache, more of the Bristleback swept in unnoticed and stole a cache of our rifles. You can see them to the south now, filling the air with lead.This is your Rite of Courage: brave the hail of gunfire, hunt the Bristleback gun thieves, and bring back our rifles.",
+    "name": "Rite of Courage",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

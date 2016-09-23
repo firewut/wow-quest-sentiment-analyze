@@ -1,0 +1,8 @@
+{
+    "_id": "30729",
+    "added_in_patch": 5,
+    "description": "We welcome all kinds here within the Cradle, as long as they recognize and subscribe to the ideologies of the Red Crane. One of our new, more exotic trainees comes from the human kingdoms to the northeast. She goes by the rather foreign-sounding name of Julia Bates.She is your next challenger. You will find her on the island's western shore.",
+    "name": "Julia Bates",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

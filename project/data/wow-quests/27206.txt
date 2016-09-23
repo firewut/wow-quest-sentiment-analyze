@@ -1,0 +1,8 @@
+{
+    "_id": "27206",
+    "description": "Head south, to Chillwind Camp.  Tell Commander Ashlam Valorfist everything that happened here.Me?  I'm going west, into Tirisfal.My battle's not over yet.  I've got an appointment with that harpy that calls herself a Banshee Queen... and I'm finding out what she did to Koltira.",
+    "name": "Alas, Andorhal",
+    "requires_level": 38,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

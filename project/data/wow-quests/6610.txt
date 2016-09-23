@@ -1,0 +1,7 @@
+{
+    "_id": "6610",
+    "description": "Ever heard of a clamlette? Of course you haven't! It's my latest and greatest culinary masterpiece. Oh, <name>, just thinking about a clamlette makes my mouth water.Unfortunately, I'm all out of supplies to make any! How about I make you a deal? You gather the supplies I need to make a clamlette and I'll teach you the finer points of exotic cuisine and I'll even throw in a couple of clamlettes to boot! Deal??Here's what I need:",
+    "name": "Clamlette Surprise",
+    "requires_level": 35,
+    "zone": "Cooking"
+}

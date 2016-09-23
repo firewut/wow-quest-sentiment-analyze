@@ -1,0 +1,7 @@
+{
+    "_id": "26122",
+    "description": "Have you ever smelled submarine fuel, <name>?  It's nasty stuff.  Unfortunately, we need to burn huge amounts of it to get the Verne to move, and it's both bad-smelling AND deadly to the local wildlife.  We need to be more environmentally conscious.The sea creatures nearby have particularly oily flesh.  Take this device up to Seabrush - just above this cave - and use it on the corpses of terrapins, remoras, and hammerhead sharks.  Their oil might save the lives of hundreds of other sea creatures.",
+    "name": "Environmental Awareness",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

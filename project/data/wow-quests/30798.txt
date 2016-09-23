@@ -1,0 +1,8 @@
+{
+    "_id": "30798",
+    "added_in_patch": 5,
+    "description": "The Mogu have been scattered and sparse in number for many years. Their purpose in the valley makes sense now.With this many restless spirits they can build themselves an army using the guardians buried in each tomb. Combined with the Zandalari forces this would be devastating!The Tomb of Secrets houses elite warriors called the Emperor's Shield. They must not be resurrected! You'll find the tomb on the highest rise to the southwest. ",
+    "name": "Breaking the Emperor's Shield",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

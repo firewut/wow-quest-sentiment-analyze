@@ -1,0 +1,8 @@
+{
+    "_id": "29360",
+    "description": "It's not always about making food for the orcs, <class>.  This time, it's about making food for what will hopefully be their replacements.We need to start small, we need to catch flies.  Flies love rotting meat, and we love rotting meat... as projectile weapons!Check out the Meat Wagons for any extra bits of meat.  Where you find the meat, you'll find the flies.Bring me 25 bloated flies, and then I can start on the next stage of our cooking plan.",
+    "name": "Would You Like Some Flies With That?",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Cooking"
+}

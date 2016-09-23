@@ -1,0 +1,8 @@
+{
+    "_id": "9820",
+    "description": "Wanted - Dead or Alive: Boss Grog'ak, overseer of the Ango'rosh mushroom-cutting operation.This brute and his axe-wielding cronies are responsible for chopping down the mushrooms to the north of town. Unless he is stopped, he and his band will cut a path to the walls of Zabra'jin. He who presents the head of Boss Grog'ak to Shadow Hunter Denjai shall be well-rewarded.",
+    "name": "WANTED: Boss Grog'ak",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

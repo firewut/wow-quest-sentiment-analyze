@@ -1,0 +1,7 @@
+{
+    "_id": "13147",
+    "description": "The major difference between vargul and lesser undead minions is that vargul still possess enough of their minds to despise being used for labor. Never will a vargul be pleased to be working aside skeletons or ghouls.Lets take advantage of this inevitable animosity and start some fights between the umbral brutes and the other undead in Malykriss. That should serve to slow production and bring the death knights down to babysit.Should be simple - throw rocks at the brutes as they near lesser undead.",
+    "name": "Matchmaker",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29514",
+    "description": "The little purple flowers that grow wild around the grounds aren't just pretty.They play a role in everything from treating wounds to seasoning food.You seem to have some talent for harvesting herbs. Would you like to help me rebuild my stocks of darkblossom?",
+    "name": "Herbs for Healing",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

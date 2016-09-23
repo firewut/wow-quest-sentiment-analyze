@@ -1,0 +1,7 @@
+{
+    "_id": "28592",
+    "description": "I'm sure Patch has some grand scheme in mind, but this wouldn't be an assault if we didn't leave some explosive presents behind.Get down there and plant some of these explosives on the boat, in the keep entrance, and in one of those northern towers. That should be enough to leave them reeling.We're heading down to the ground as well. Meet us at the eastern tower when you're through.",
+    "name": "Parting Packages",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

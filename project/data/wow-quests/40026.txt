@@ -1,0 +1,8 @@
+{
+    "_id": "40026",
+    "added_in_patch": 7,
+    "description": "This is a powerful herb, <name>. Creatures will occasionally snack on some simpler herbs, but usually they avoid plants of such potency.I'm intrigued. What kind of animal would eat foxflower? A moose?You should investigate further. Find out what creature has been snacking on foxflower, and then see if you can wrestle some of the flowers from its mouth, before it escapes.",
+    "name": "Chase the Culprit",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

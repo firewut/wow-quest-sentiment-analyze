@@ -1,0 +1,7 @@
+{
+    "_id": "13873",
+    "description": "I... I cannot believe she's gone. It all happened so fast....I understand that I have you to thank for avenging my mistress. For that, you have my gratitude, and that of Silvermoon.In her wisdom, my lady foresaw this end. She prepared a missive to be delivered in the event that something happened to her.We were to join an Orgrimmar retinue at the crossroads just north of here. Please, <race>, meet them in our stead and see that the message is delivered.",
+    "name": "Sheelah's Last Wish",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

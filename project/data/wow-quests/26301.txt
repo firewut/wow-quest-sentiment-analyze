@@ -1,0 +1,7 @@
+{
+    "_id": "26301",
+    "description": "<The head of Nezzliok speaks.>It is true.  I know where the child of the Darkspears was taken.  You have bested me and bound my spirit, but I will say nothing without appeasement!The Bloodscalps war with the Skullsplitters.  To gain my favor, steal two of their most-prized trophy skulls from the Skullsplitters across the river to the east.  Place them here with us, so that my spirit will have slaves in the Nether.  One skull must be from their trophy pile in Balia'mah, the other from Ziata'jai.",
+    "name": "Speaking with Nezzliok",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

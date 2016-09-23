@@ -1,0 +1,7 @@
+{
+    "_id": "24579",
+    "description": "Sartharion, the Onyx Guardian, watches over the eggs of the Twilight Dragonflight. He rests within the Obsidian Sanctum in the Chamber of the Aspects underneath Wyrmrest Temple.The Council of Six has decreed that Sartharion must die!",
+    "name": "Sartharion Must Die!",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30518",
+    "added_in_patch": 5,
+    "description": "You want my vote for Farmer Yoon? Ha! You're joking, right?Listen, I'm not going to vote for some citypaw with no lick a' knowledge about farming the earth.It would be an embarrassment to farm alongside you or that Yoon shmuck.Now let me deal with my own problems. Some devil let my prize yaks loose, and now they're running wild northwest of Halfhill.If I could just get my yaks back, then maybe I'd be able to sleep at night.",
+    "name": "Farmer Fung's Vote II: On the Loose",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

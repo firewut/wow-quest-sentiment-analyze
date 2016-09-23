@@ -1,0 +1,8 @@
+{
+    "_id": "24772",
+    "description": "As ya fight ya enemies, ya will learn new tricks you use ta be even bettah'. \r\n\r\nThere's one ya should be learnin' soon to let ya see dere weaknesses and set up for devastating combo attacks. After ya've struck a few blows to weaken ya foe, finish dem off with a vicious evisceration attack.\r\n\r\nWhen ya learn it, try it out. Let me know when ya tink you have it down.",
+    "name": "The Arts of a Rogue",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Echo Isles"
+}

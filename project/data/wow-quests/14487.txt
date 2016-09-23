@@ -1,0 +1,7 @@
+{
+    "_id": "14487",
+    "description": "Commander Molotov found a party at the Secret Lab willing to act as buyer for the artifact that you scouted out earlier.Undoubtedly, it's still in the center of the ruins with the High Priestess, where you initially spotted it. Get it back here undamaged, soldier.",
+    "name": "Still Beating Heart",
+    "requires_level": 12,
+    "zone": "Azshara"
+}

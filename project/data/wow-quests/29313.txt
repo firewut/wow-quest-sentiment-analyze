@@ -1,0 +1,7 @@
+{
+    "_id": "29313",
+    "description": "My family has been making the best kimchi in Darnassus since the city was founded, <name>. The secret is something simple, but it makes all the difference.We bury the jars in the ground until it's ready to serve and my latest batch has just reached that point. You can find the jars buried in earthen mounds all over the city. Would you help me gather them while the contents are just right?",
+    "name": "The Secret to Perfect Kimchi",
+    "requires_level": 10,
+    "zone": "Cooking"
+}

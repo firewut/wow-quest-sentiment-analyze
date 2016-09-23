@@ -1,0 +1,7 @@
+{
+    "_id": "27150",
+    "description": "It's likely that the battle for Andorhal will start up again soon.  In the meantime, you could probably stand to practice your skills as a <class>.East of here is a large farm that has been taken over by the Argent Dawn and the Cenarion Circle.  I don't doubt that they'll have some work for you.",
+    "name": "The Menders' Stead",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10379",
+    "description": "",
+    "name": "Touch of Weakness",
+    "requires_level": 10,
+    "zone": "Priest"
+}

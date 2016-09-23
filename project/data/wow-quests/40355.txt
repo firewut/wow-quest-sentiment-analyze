@@ -1,0 +1,8 @@
+{
+    "_id": "40355",
+    "added_in_patch": 7,
+    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in Dalaran's archaeology shop.",
+    "name": "Pristine Moosebone Fish-Hook",
+    "requires_level": 98,
+    "zone": "Archaeology"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42202",
+    "added_in_patch": 7,
+    "description": "My village was razed by a drogbar tribe who worships the very beast you seek. No one was spared.Help me avenge my people and I will aid you in your quest to find Jorhuttam.",
+    "name": "Revenge, Served Cold",
+    "requires_level": 103,
+    "zone": "Warrior Campaign"
+}

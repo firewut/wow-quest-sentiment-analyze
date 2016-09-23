@@ -1,0 +1,8 @@
+{
+    "_id": "41966",
+    "added_in_patch": 7,
+    "description": "I thought Barrem was lost to us after the tragedy at Broken Shore, light knows we lost far too many good soldiers just like him there.I was shocked to see he was still alive when one of our patrols arrived carrying him. They found him floating in the sea with wounds that would kill any lesser Draenei.There is something about those wounds that resists everything we've done to treat them. Please, <class>, as a brother in the light I ask you to do all that you can to help him to recover.",
+    "name": "House Call",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

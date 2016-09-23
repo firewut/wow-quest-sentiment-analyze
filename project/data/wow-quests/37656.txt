@@ -1,0 +1,8 @@
+{
+    "_id": "37656",
+    "added_in_patch": 7,
+    "description": "My force wiped out the demons' forward base here. But, an imp mother and her brood took the rest of my demon hunters hostage, including Cyana Nightglaive.\r\n\r\nWe need to free the Illidari and destroy the Burning Legion.",
+    "name": "Fel Machinations",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

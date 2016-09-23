@@ -1,0 +1,8 @@
+{
+    "_id": "12256",
+    "description": "Even as the Alliance cowards attack our positions, the Dragonflayer vrykul outpost of Voldrune, to the southeast, prepares for war. The vrykul are far from the strongest enemy we face here, but we must eliminate them before they can truly threaten us.Their most powerful warriors are permitted to ride half-trained proto-drakes into battle. To control the beasts, their flamebinders create powerful talismans. You'll need to slay them and take the talismans if our plan is to work.",
+    "name": "The Flamebinders' Secrets",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

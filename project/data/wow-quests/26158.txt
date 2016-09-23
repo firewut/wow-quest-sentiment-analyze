@@ -1,0 +1,8 @@
+{
+    "_id": "26158",
+    "description": "Did you have fun fighting your way to the back of this cave?  I admit, I haven't picked the most... convenient of spots to perform my studies, especially for passing adventurers who wish to enter and leave at will.However, I can allow you to attune yourself to my bloodstone teleporters.  Simply place your hands on the stone in the back corner, and you will be teleported outside of the cave.  Then use the stone outside to teleport back!",
+    "name": "Attune the Bloodstone",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

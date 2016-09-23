@@ -1,0 +1,7 @@
+{
+    "_id": "9314",
+    "description": "<Class>! A couple mutated beasts jumped me and my leg is injured.I was sent on a scouting mission from Azure Watch after we received word from Zhanaa. Please, could you go speak with Caregiver Chellan in my stead? She needs to know how many people to expect in Azure Watch. Just cross the Crystalbrook River here and continue following the road until you get to Azure Watch.Be sure to ask her for a place for yourself to stay in.",
+    "name": "Word from Azure Watch",
+    "requires_level": 1,
+    "zone": "Azuremyst Isle"
+}

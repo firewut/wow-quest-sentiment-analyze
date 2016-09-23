@@ -1,0 +1,7 @@
+{
+    "_id": "27366",
+    "description": "The Horde's Axebite Marines are all up in my precious, precious beach.<The Lieutenant points north, along the shore.>Kill them.",
+    "name": "Landgrab",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

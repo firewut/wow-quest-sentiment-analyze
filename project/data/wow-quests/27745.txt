@@ -1,0 +1,7 @@
+{
+    "_id": "27745",
+    "description": "That's Magmatooth, my estranged fire elemental. <name>, you gotta kill him or he's gonna kill me!It was all just a big misunderstanding. How was I to know he'd be mad about me \"borrowing\" his heart down in Deepholm? He can't die... not permanently anyway!He's got the controller to the portal on him for sure. You gotta get the controller and then use it in the Fire portal to take us back to the entrance.",
+    "name": "A Fiery Reunion",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

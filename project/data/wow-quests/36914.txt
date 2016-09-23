@@ -1,0 +1,9 @@
+{
+    "_id": "36914",
+    "added_in_patch": 6,
+    "description": "This next one will test you to your very limits, commander. The wolf is the most savage beast in all of Draenor.The wolves of Nagrand, mounts of the fabled Warsong clan, can rend a man to bits in seconds. They're also faster and more agile than anything you've seen yet.Here's your lasso. Good luck, and don't get yourself killed!",
+    "name": "Wrangling a Wolf",
+    "requires_level": 99,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13521",
+    "description": "Greetings!I'm helping Tharnariun here try to unravel what's been corrupting the wildlife in the area. I've set up some machines in the field that can analyze animal parts and possible corruption agents. If you can get me some good samples, we can get to the bottom of this affliction quickly.The first machine is Buzzbox 413. I set it up on the beach just east of town. I'll need you to gather some flesh from the nearby corrupted tide crawlers and bring it to the machine so that I can analyze it.",
+    "name": "Buzzbox 413",
+    "requires_level": 8,
+    "zone": "Darkshore"
+}

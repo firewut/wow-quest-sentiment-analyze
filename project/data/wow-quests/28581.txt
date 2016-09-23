@@ -1,0 +1,7 @@
+{
+    "_id": "28581",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Jack Rockleg at Thorium Advance.The Shattered Hand reports that the Dark Iron dwarves of the Searing Gorge seem to be preparing for something. Your duty is to learn all you can about their scheming and put a halt to it.You can reach the Searing Gorge by following the road west from the Badlands.Destiny calls!",
+    "name": "Warchief's Command: Searing Gorge!",
+    "requires_level": 47,
+    "zone": "Searing Gorge"
+}

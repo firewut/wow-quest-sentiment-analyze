@@ -1,0 +1,8 @@
+{
+    "_id": "35161",
+    "added_in_patch": 6,
+    "description": "This quest is a placeholder until Task 67719 is complete.",
+    "name": "Vignette XP reward - Talador",
+    "requires_level": 94,
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26025",
+    "description": "There is no doubt in my mind that a powerful warlock resides within the walls of Stromgarde. From time to time, using an arcane magical relic, this warlock has summoned forth terrible demons in large numbers. We must remove the source of her energy.Find the warlock and kill her. Bring me whatever magical object you find on her person, and I will take steps to destroy it and see that its power is not used to taint this land any longer.",
+    "name": "The Traitor Orc",
+    "requires_level": 25,
+    "zone": "Arathi Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26864",
+    "description": "I need you to take this back to Mountaineer Kadrell. Show it to him and tell him the nasty critters around here might be having some kind of get-together.",
+    "name": "The Bearer of Gnoll-edge",
+    "requires_level": 11,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

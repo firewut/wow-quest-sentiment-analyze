@@ -1,0 +1,9 @@
+{
+    "_id": "38567",
+    "added_in_patch": 6.2,
+    "description": "Your garrison is in an uproar. Warchief Vol'jin himself is visiting your fortress to discuss your invasion plan for Tanaan Jungle.The Warchief is ready for you inside your Town Hall. It would be wise not to keep him waiting...",
+    "name": "Garrison Campaign: War Council",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

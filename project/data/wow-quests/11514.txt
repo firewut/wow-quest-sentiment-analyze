@@ -1,0 +1,7 @@
+{
+    "_id": "11514",
+    "description": "We must maintain the energy to our portal or it will collapse. The mana cells that the ethereals at Bash'ir Landing have hidden will continue to serve our purposes. The landing sits atop the northwestern corner of the Blade's Edge Mountains, far to the north.Remember, acquire a phase device from one of the ethereals and then use it to locate the smuggled goods.Just be cautious of the phase wyrms that they use to guard the mana cells.",
+    "name": "Maintaining the Sunwell Portal",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

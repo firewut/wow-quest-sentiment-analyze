@@ -1,0 +1,7 @@
+{
+    "_id": "29687",
+    "description": "The Legion and Kael'thas' forces are becoming increasingly intertwined. This concerns me very deeply.From what we can gather Selin Fireheart and Priestess Delrissa work closely together to unite the two armies. You need to stop them.",
+    "name": "Twisted Associations",
+    "requires_level": 68,
+    "zone": "Quests"
+}

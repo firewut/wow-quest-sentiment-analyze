@@ -1,0 +1,8 @@
+{
+    "_id": "41121",
+    "added_in_patch": 7,
+    "description": "We need to find out Varedis' location from the eredar inside this prison - the kind warden and his men here are all that stand in our way.We'll take them on together if need be - whatever it takes.",
+    "name": "By Any Means",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

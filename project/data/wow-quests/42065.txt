@@ -1,0 +1,8 @@
+{
+    "_id": "42065",
+    "added_in_patch": 7,
+    "description": "There is only one more thing that remains, Farseer <name>. We must confront the leader of the Twilight's Hammer and put an end to their sinister plot once and for all.Without their so-called master, the remaining cultists will be forced to retreat from Deepholm.Only when The Twilight's Hammer has been crushed and Deepholm has been saved, will we have the support of Therazane against the demons of the Burning Legion.",
+    "name": "The Twilight Master",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

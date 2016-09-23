@@ -1,0 +1,8 @@
+{
+    "_id": "41798",
+    "added_in_patch": 7,
+    "description": "As First of the council, you have acolytes devoted to helping any way they can. Recruiter Jared is in charge of screening candidates, only selecting those that possess the skills we desire.Speak to him now.",
+    "name": "Recruiting More Troops",
+    "requires_level": 103,
+    "zone": "Warlock Campaign"
+}

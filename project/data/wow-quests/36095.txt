@@ -1,0 +1,8 @@
+{
+    "_id": "36095",
+    "added_in_patch": 6,
+    "description": "Agent Springslip is dead. A fire smolders inside a large wound where his heart used to be.Flipping through a report you find on his corpse you are able to piece together some basic information. Azuka has betrayed the ogres, she has killed Ugbright and taken his power for herself.You should report this information to Bodrick at once.",
+    "name": "Azuka Bladefury",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

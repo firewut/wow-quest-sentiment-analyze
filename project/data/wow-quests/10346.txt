@@ -1,0 +1,8 @@
+{
+    "_id": "10346",
+    "description": "<name>, you've proven yourself as a capable gryphon rider, and we could use you on more sorties over the Abyssal Shelf.  What say you, <class>?  Do you want some more flight time?",
+    "name": "Return to the Abyssal Shelf",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43980",
+    "added_in_patch": 7,
+    "description": "You have done well but our foes are powerful and cunning. It would be wise to be prepared for whatever they may unleash upon us. You would be wise to consider obtaining another of the weapons of old to aid in our conflict.Let me know how you'd like to proceed.",
+    "name": "Another Weapon of Old",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

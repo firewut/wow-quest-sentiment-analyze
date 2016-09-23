@@ -1,0 +1,8 @@
+{
+    "_id": "28727",
+    "description": "If these spiders are born with corruption in their veins, then their broodmother must be at the root of this evil.Let us make our way to the far north end of the cave and seek out Githyiss the Vile. The answers we seek lie with her.",
+    "name": "Vile Touch",
+    "requires_level": 3,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25010",
+    "description": "Shortly before you arrived at the Bulwark, I was approached by the most unusual young undead woman.  She swore enmity against the Scarlet Crusade, so I sent her to work on our enemies to the north.  You say you saw some dead crusaders earlier?  Those were probably her work.Go check up on her, and see if she can use any assistance in her vendetta against the Crusade... though I wouldn't be surprised if she's already killed them all.",
+    "name": "A Deadly New Ally",
+    "requires_level": 6,
+    "zone": "Tirisfal Glades"
+}

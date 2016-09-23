@@ -1,0 +1,9 @@
+{
+    "_id": "34319",
+    "added_in_patch": 6,
+    "description": "It is time for Borgal to die.We must travel to a location of power where I have room for the ritual. There is a ruined tower to the northwest that will be perfect for this. Meet us there and place the totems in the areas of power you will find there. Once they are placed I will do the ritual that will summon Borgal to us.Your job will be the difficult one, kill him!",
+    "name": "Soulgrinder Survivor",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

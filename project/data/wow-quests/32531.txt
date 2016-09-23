@@ -1,0 +1,8 @@
+{
+    "_id": "32531",
+    "added_in_patch": 5.2,
+    "description": "In the Court of Bones, the Thunder King's sorcerers perform dark rituals.To bolster their numbers, the Shan'ze soulrippers are imbuing ancient stone statues with stolen spirits from the living.After these stone conquerors are brought to life, they will be formidable opponents on the battlefield.We must stop their ritual before these statues can be revived.",
+    "name": "The Conquest of Stone",
+    "requires_level": 90,
+    "zone": "Quests"
+}

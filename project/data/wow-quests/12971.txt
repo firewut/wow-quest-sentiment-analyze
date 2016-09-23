@@ -1,0 +1,7 @@
+{
+    "_id": "12971",
+    "description": "Let's get you started.  The good news is that by defeating Agnetta, you've earned yourself a spot in the next round of matches.The bad news is that all your opponents will also have defeated someone in the first round.  Do not expect pushovers.",
+    "name": "Taking on All Challengers",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

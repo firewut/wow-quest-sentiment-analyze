@@ -1,0 +1,7 @@
+{
+    "_id": "24590",
+    "description": "Lord Marrowgar is the guardian of the Frozen Throne within the Spire Chamber. Pieced together by the Lich King from the bones of a thousand vanquished adventurers, Marrowgar wields the power of the throne itself.Without the destruction of this bone wraith, there is no hope of taking Icecrown Citadel.The Council of Six has decreed that Lord Marrowgar must die!",
+    "name": "Lord Marrowgar Must Die!",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9322",
+    "description": "The Midsummer Fire Festival is celebrated everywhere in Azeroth, and the diverse land of Kalimdor is no exception. You look fit to travel -- perhaps a journey is in order.Midsummer cannot be truly appreciated unless you've seen the blistering blue fires abroad. The celebrants have lit fires in chilly western Winterspring, northeastern Azshara, near Valor's Rest in the wastes of Silithus, and by the entrance to lush Un'Goro. Return once your journey is complete.",
+    "name": "Wild Fires in Kalimdor",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

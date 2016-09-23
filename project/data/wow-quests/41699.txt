@@ -1,0 +1,8 @@
+{
+    "_id": "41699",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Crabby Crunchies",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

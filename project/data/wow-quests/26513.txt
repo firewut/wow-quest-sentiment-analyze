@@ -1,0 +1,8 @@
+{
+    "_id": "26513",
+    "description": "We were raided last night, or perhaps it was the night before. I'm not really sure when it was as I haven't had a wink of sleep in three days. I'm probably delusional at this point.Listen, gnolls raided our supply stores and took off with everything! Just like a fart in the wind, they were in and they were OUT! My soldiers saw them running back towards the canyons, northwest of here. Recover our supplies, <class>!",
+    "name": "Like a Fart in the Wind",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Redridge Mountains"
+}

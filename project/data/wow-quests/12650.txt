@@ -1,0 +1,7 @@
+{
+    "_id": "12650",
+    "description": "There is another altar nearby where there are artifacts to be saved.It is said that the Drakkari at the Altar of Rhunok to the northwest, beyond the broken tundra of Drak'Mabwa, have already plundered their own holy site.<Class>, I would be appreciative if you could rescue those artifacts from their undeserving hands.",
+    "name": "Plundering Their Own",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

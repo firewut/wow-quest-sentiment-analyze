@@ -1,0 +1,8 @@
+{
+    "_id": "6441",
+    "description": "Heya! I've been traveling through Ashenvale, heading towards Ratchet, and decided to make a stop here at Splintertree. I'm always looking for an opportunity, and it seems that satyr horns are in high demand in Ratchet these days.After asking around here, it seems that the satyrs in Night Run, Satyrnaar, and Xavian all have the type of horns I am looking for. I'm no match for those satyrs... but you look like you might be!Tell you what, you collect the horns for me and I'll make it worth your time.",
+    "name": "Satyr Horns",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

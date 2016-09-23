@@ -1,0 +1,7 @@
+{
+    "_id": "12700",
+    "description": "Only the Scarlet forces at New Avalon and Light's Point challenge us! The time to attack the Scarlet fleet at Light's Point has come.The diversion at the mine has caused chaos amidst their ranks. They are frantically working to clear the area and return to their ships.The time is ripe! Prince Valanar is seizing this opportunity to finish off the Scarlet fleet. Report to him at once!",
+    "name": "An Attack Of Opportunity",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

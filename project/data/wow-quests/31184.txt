@@ -1,0 +1,8 @@
+{
+    "_id": "31184",
+    "added_in_patch": 5,
+    "description": "Look, I ain't got reason to trust you, but there's a task I can't give to my crew.I need you to search the wreck of our old ship, the Mist-Hopper, and bring back the charter. It'd be sealed up in a silver tube, in a footlocker.It's sort of, uh... incriminating. I can't risk any of the crew finding it if they decide to visit the ol' girl. She's resting on the Shelf of Mazu, to the west.I'd suggest riding a rip current out there, if you got the stomach. They're all over the shelf.",
+    "name": "Old Age and Treachery",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

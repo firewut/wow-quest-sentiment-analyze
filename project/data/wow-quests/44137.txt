@@ -1,0 +1,8 @@
+{
+    "_id": "44137",
+    "added_in_patch": 7,
+    "description": "The Burning Legion has beaten us here, but so too have the Illidari. It looks like the demon hunters are holding their own, but just barely.\r\n\r\nCome, let's put that weapon of yours to use. I'll figure out our next move while you crush the Legion.",
+    "name": "Into the Fray",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

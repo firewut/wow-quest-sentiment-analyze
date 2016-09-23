@@ -1,0 +1,8 @@
+{
+    "_id": "41105",
+    "added_in_patch": 7,
+    "description": "The first king of the humans, Thoradin, performed many acts of heroism and valor. While on a personal quest near the end of his reign, he stumbled upon the tomb of my brother Tyr... and the grave-prison of the monstrosity he died fighting. Thoradin unintentionally awoke the beast and gave his life to keep it from escaping.\r\n\r\nIt is Thoradin's sword, Strom'kar, that has kept the monster at bay. Retrieve it and finish what Tyr and Thoradin started. Kill Zakajz the Corrupted.",
+    "name": "The Sword of Kings",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24539",
+    "description": "This camp was built at the edge of this jungle, and already it is overwhelmed by plant growth. Something unnatural is happening here!Earlier I made the mistake of sending some of the healthier refugees out to gather nuts and berries. Those that returned talked about the plant life actually grasping at their legs or even picking them up. I worry about those that haven't come back yet.<Class>, please rescue the refugees trapped in the grasping overgrowth around the camp. ",
+    "name": "When Plants Attack",
+    "requires_level": 29,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

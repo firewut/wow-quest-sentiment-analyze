@@ -1,0 +1,8 @@
+{
+    "_id": "31902",
+    "added_in_patch": 5,
+    "description": "Now that you've had a real chance to hone your skills, you're ready to venture out into the world of pet battles in full.There are five tamers throughout the Eastern Kingdoms that I'd like you to defeat: David Kosse in The Hinterlands, Deiza Plaguehorn in Eastern Plaguelands, Kortas Darkhammer in Searing Gorge, Everessa in Swamp of Sorrows, and Kortas' brother, Durin Darkhammer, in Burning Steppes.If you are able to best them, you will be ready to venture further.",
+    "name": "Battle Pet Tamers: Eastern Kingdoms",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

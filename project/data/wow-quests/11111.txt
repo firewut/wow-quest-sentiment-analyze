@@ -1,0 +1,7 @@
+{
+    "_id": "11111",
+    "description": "",
+    "name": "Onyxien the Onyx Netherwing Drake",
+    "requires_level": 70,
+    "zone": "Shattrath City"
+}

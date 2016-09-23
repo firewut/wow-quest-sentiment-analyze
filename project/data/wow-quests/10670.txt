@@ -1,0 +1,7 @@
+{
+    "_id": "10670",
+    "description": "The sword's enchantments must be contained within a powerful focus, such as a gem. I know of a gem that we can use for this purpose, for there are few that can play host to such powerful magics without shattering.The gem we need is called the tear of the earthmother. It's a powerful artifact in the hands of the ogres who created it, and Warbringer O'mrogg, who currently holds the gem, has many powerful allies in Hellfire Citadel's Shattered Halls. Take care in retrieving the tear, <name>.",
+    "name": "Tear of the Earthmother",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

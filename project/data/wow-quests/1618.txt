@@ -1,0 +1,7 @@
+{
+    "_id": "1618",
+    "description": "We dwarves aren't the only ones fighting.  Our human allies have their hands full too!Redridge is under periodic attack from blackrock orcs, and their supply of equipment is always low.  If you were to help them out, I'm sure their resident blacksmith, Verner Osgood, would teach you a trick or two.",
+    "name": "Gearing Redridge",
+    "requires_level": 1,
+    "zone": "Blacksmithing"
+}

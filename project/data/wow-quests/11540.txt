@@ -1,0 +1,7 @@
+{
+    "_id": "11540",
+    "description": "We've driven the Dawnblade army out of the Sun's Reach Harbor.  Sun's Reach is ours in its entirety.  Yet somehow... I'm not entirely satisfied.I want you to go to Dawnstar Village, west of here, and slay any surviving Dawnblade combatants.  They sealed their fate when they followed Kael to this place.",
+    "name": "Crush the Dawnblade",
+    "requires_level": 70,
+    "zone": "Isle of Quel'Danas"
+}

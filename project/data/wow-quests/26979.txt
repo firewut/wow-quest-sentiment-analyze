@@ -1,0 +1,7 @@
+{
+    "_id": "26979",
+    "description": "Now that Felstone is ours, we can use its acreage - and any dead bodies we find - for our own purposes.  I've received orders from higher up that you are going to be helping out in this process.You may have met Lindsay Ravensun on the battlefield in Andorhal.  I've never met her before, but she seems to have made some friends in high places, because she's taking over operations at Felstone.  You're to meet her at the charred Scarlet camp... the one you scouted out earlier.",
+    "name": "Strange New Faces",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

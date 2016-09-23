@@ -1,0 +1,8 @@
+{
+    "_id": "14241",
+    "description": "The Alliance have stolen something of vital importance to the Horde. It is being held out on their ships.At the other end of the beach is a gyrochoppa. Our battlesworn will cover your approach.Go retrieve the keys to the flying machine from one of their operatives.Fly out to their flagship, the Vengeance Wake, and retrieve our precious cargo!",
+    "name": "Get to the Gyrochoppa!",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

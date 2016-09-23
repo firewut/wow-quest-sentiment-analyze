@@ -1,0 +1,7 @@
+{
+    "_id": "10842",
+    "description": "The Tomb of Lights has become corrupted by the Shadow Council and the draenei dead have become cursed spirits, angry and confused with a burning hatred for the living.Enter the tomb and seek out these tragic victims. Give them the rest that they deserve.",
+    "name": "Vengeful Souls",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

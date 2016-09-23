@@ -1,0 +1,8 @@
+{
+    "_id": "32237",
+    "added_in_patch": 5.1,
+    "description": "What we have here is too much of a good thing, <name>!Our rig just can't handle the amount of oil we're pumping out of the ground. It's literally bursting at the seams! To be more accurate, it's bursting at the valves.I've been working double-time to get the valves repaired, but every time I finish the rounds, they're all broken again.It's as if someone is following me... That's ridiculous though....Maybe you'll have better luck. Try getting as many of those valves tightened as you can.",
+    "name": "Precious Resource",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

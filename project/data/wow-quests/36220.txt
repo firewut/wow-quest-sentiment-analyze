@@ -1,0 +1,8 @@
+{
+    "_id": "36220",
+    "added_in_patch": 6,
+    "description": "Mogor's holding a special match over at the Ring of Blood to crown the new Blood Champion and I think you have what it takes!Now, these ogres respect one thing and one thing only: badass...ness. They have a big fella at the front door making sure only the toughest gladiators enter the proving grounds.If you're in, kill the grizzled gladiator Lug'dol at the tower just up the road and present his head to Kroggol the Wall. That oughta show 'em what you're made of.",
+    "name": "How Tough Are You?",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

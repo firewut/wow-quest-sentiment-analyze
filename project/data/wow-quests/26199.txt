@@ -1,0 +1,8 @@
+{
+    "_id": "26199",
+    "description": "It's a victory for us every time we're able to help another survivor escape from the contaminated halls of Gnomeregan. <Class>s like you will play an important part in the future of Gnomeregan. To that end, our leader, High Tinker Mekkatorque, has assembled a team of trainers to help you learn your arts.\"Doc\" Cogspin will help oversee your training and adjustment to life on the surface. She's waiting for you near the cluster of buildings to the north.",
+    "name": "The Future of Gnomeregan",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41930",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Valor Calls",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

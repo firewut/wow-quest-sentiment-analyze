@@ -1,0 +1,7 @@
+{
+    "_id": "12854",
+    "description": "After the discovery of Brann's journal in Grizzly Hills, we've only had one other communication from Brann. A mysterious note found its way to Explorers' League headquarters in Ironforge, with no indication of where it came from. All it said was that we're to meet Brann at his camp and help him with his search.From what I can tell, the camp should be located northeast of here, across the Bor's Breath River and at the foot of some ruins from the Path of the Titans.",
+    "name": "On Brann's Trail",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

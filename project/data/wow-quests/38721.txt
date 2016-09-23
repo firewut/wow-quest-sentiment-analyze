@@ -1,0 +1,8 @@
+{
+    "_id": "38721",
+    "added_in_patch": 7,
+    "description": "All of your instincts were correct. Gul'dan raised Lord Ravencrest, and his ghostly army, from beyond the grave. Now, they serve the Legion, protecting secrets within the tower.Although Ravencrest commands from above, Lieutenant Desdel Stareye operates the prisons.He tormented me these past few moons, but I did not yield.<Maiev runs a finger along her curved blade.>His life must be ended.",
+    "name": "Lieutenant of the Tower",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

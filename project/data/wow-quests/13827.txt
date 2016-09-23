@@ -1,0 +1,7 @@
+{
+    "_id": "13827",
+    "description": "",
+    "name": "Treasure!",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

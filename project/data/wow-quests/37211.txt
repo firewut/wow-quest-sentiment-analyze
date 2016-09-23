@@ -1,0 +1,8 @@
+{
+    "_id": "37211",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Bergruu's Horn",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

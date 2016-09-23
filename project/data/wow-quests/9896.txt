@@ -1,0 +1,8 @@
+{
+    "_id": "9896",
+    "description": "By Khaz'goroth's flaming navel, it's hot here! I can't blame the first party for leaving, but everyone knows 'twasn't the heat that drove them away. No, it was Blacksting, although they won't admit it.They were camped just to the south of the glowing draenei towers to the west, just north of the Feralfen Village, when the giant wasp appears out of nowhere and attacks! I can't wait to see the looks on their faces when I bring the creature's stinger back to Ironforge and show it to them!",
+    "name": "Blacksting's Bane",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Zangarmarsh"
+}

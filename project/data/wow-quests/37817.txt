@@ -1,0 +1,8 @@
+{
+    "_id": "37817",
+    "description": "Da Gorgrond outpost be havin' troubles with saberon, and we can't afford ta throw troops at the problem any longer. Don't worry, I be havin' an idea.There be an enormous worm beast on the west coast of Gorgrond called Tremor, da devourer of lobstroks. If you killed da beast and brought da pile of lobstrok meat back here, we can cook it 'ere, send it to da outpost, and use it to calm da saberon for good!",
+    "name": "Death to Tremor!",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

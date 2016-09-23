@@ -1,0 +1,8 @@
+{
+    "_id": "26117",
+    "description": "I've seen Kinelory look way worse after a night in the tavern than she does now. You obviously did a good job protecting her.Refuge Pointe will want to know of our success. I'm going to stay here with Kin and let her catch her breath. Go on ahead without us.",
+    "name": "For Southshore",
+    "requires_level": 26,
+    "side": "alliance",
+    "zone": "Arathi Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38907",
+    "added_in_patch": 7,
+    "description": "The Highmountain Tribes had intended to pledge our allegiance to your forces. We know war has come with the Burning Legion.However, we have been betrayed from within and must now ask for your aid.A great relic, the Hammer of Khaz'goroth, was stolen from our people by the vile drogbar.We need your help in recovering it.",
+    "name": "Keepers of the Hammer",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

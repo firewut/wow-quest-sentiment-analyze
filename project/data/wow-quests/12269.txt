@@ -1,0 +1,8 @@
+{
+    "_id": "12269",
+    "description": "That blasted necropolis blindsided us! In the wake of its destruction Wintergarde Mine was lost. Worse yet, Kel'Thuzad's acolytes have raised the slain miners as Scourge and are using them to supply their siegesmiths with materials from our mine!The supply line must be halted and our lost brothers must be put to rest.Travel to Wintergarde Mine, northeast of here in the Carrion Fields, and destroy the risen miners. Return to me with their miner cards so that I may put their passing in our registry.",
+    "name": "Not In Our Mine",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12296",
+    "description": "Oh, the carnage....I've been through many battles, <class>, and this one was more brutal than any I've seen. Our fight with the Horde has become more intense than ever. It's them or us here in Northrend - life or death.If we are to survive here another day we'll need to mend our wounded. There are too many for me to rescue alone.I've prepared special bandages that will enable you to assist me. Take one and tend to those who have not yet succumbed to their wounds.",
+    "name": "Life or Death",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

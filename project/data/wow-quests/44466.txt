@@ -1,0 +1,8 @@
+{
+    "_id": "44466",
+    "added_in_patch": 7,
+    "description": "Much of Illidan's formative years were spent in Val'sharah, alongside his twin brother, Malfurion.As young night elves, the twins vied for the affection of the young priestess, Tyrande, as they underwent the trials of the demi-god, Cenarius.We must travel to the Dreamgrove now, where Illidan's true path would be forged.",
+    "name": "An Unclear Path",
+    "requires_level": 110,
+    "zone": "Order Hall"
+}

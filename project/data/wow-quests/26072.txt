@@ -1,0 +1,7 @@
+{
+    "_id": "26072",
+    "description": "You must take my totem down into the Scalding Chasm. Use it to capture the energies of the faceless as they die. The totem will keep them from returning from whence they came.When the totem is full, bring it back to me and we will use it to lure their leader up from deep down below.",
+    "name": "Into the Totem",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

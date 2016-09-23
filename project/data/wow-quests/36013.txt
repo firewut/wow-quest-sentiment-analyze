@@ -1,0 +1,8 @@
+{
+    "_id": "36013",
+    "added_in_patch": 6,
+    "description": "Somehow, the Blackrock Clan has forged an alliance with the creatures of fire and stone. I must know how!Search the entirety of the Blackrock Foundry. We are looking for stone tablets dating back to the prehistory of Draenor. They will likely be broken apart into fragments that you'll need to assemble by hand. Look for elemental runes carried by high-ranking members of the Iron Horde.Assemble them and bring me those tablets, <name>. I will use their power to augment the powers of your ring!",
+    "name": "Might of the Elemental Lords",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

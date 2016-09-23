@@ -1,0 +1,8 @@
+{
+    "_id": "38443",
+    "added_in_patch": 7,
+    "description": "For now, the Illidari can hold the line against the Legion. We will return later to help them drive the Legion from the upper reaches of Faronaar. You and I must concentrate on the Pillars of Creation if the Tomb of Sargeras is to be resealed.\r\n\r\nYour saving of Stellagosa is fortuitous. Surely if anyone knows where a Pillar of Creation is, it will be her grandfather, Senegos.\r\n\r\nThe Azurewing Repose is to the northeast. I will meet you there, <name>.",
+    "name": "Journey to the Repose",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

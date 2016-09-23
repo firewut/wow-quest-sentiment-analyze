@@ -1,0 +1,8 @@
+{
+    "_id": "39952",
+    "added_in_patch": 7,
+    "description": "<The felwort is reduced to a thick, clotted pigment. While all felwort-begotten pigment is somewhat offensive, this batch practically glows with a malevolent energy.><Professor Pallin would be interested in seeing this.>",
+    "name": "Sallow Essence",
+    "requires_level": 106,
+    "zone": "Inscription"
+}

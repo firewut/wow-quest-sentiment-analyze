@@ -1,0 +1,7 @@
+{
+    "_id": "12912",
+    "description": "You are not like the others, little one. You do not reek of the ancient death. Perhaps you can be trusted.I am Gymer, king of the storm giants. I was lured here by my brother, Thiassi, now an undead servant of the Lich King. By the time I realized that his cry for help was a trap, it was too late. I am now a prisoner of the Scourge and I fear that soon I will suffer the same fate as many of the other storm giants.Find a way to release me from this cage and I will aid you to the best of my ability.",
+    "name": "A Great Storm Approaches",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

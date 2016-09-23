@@ -1,0 +1,7 @@
+{
+    "_id": "34905",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Placeholder Quest",
+    "zone": "Quests"
+}

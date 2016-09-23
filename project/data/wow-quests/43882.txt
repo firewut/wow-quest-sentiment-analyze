@@ -1,0 +1,8 @@
+{
+    "_id": "43882",
+    "added_in_patch": 7,
+    "description": "The Nighthold will be a challenge to infiltrate and conquer. Even the catacombs and vaults are likely to be heavily guarded, but we must make our way in by any route possible.",
+    "name": "The Nighthold: Vaults",
+    "requires_level": 110,
+    "zone": "The Nighthold"
+}

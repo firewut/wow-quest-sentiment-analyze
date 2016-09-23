@@ -1,0 +1,7 @@
+{
+    "_id": "27355",
+    "description": "The king is finally beginning to take note of our power and our value to the Alliance, thanks to your deeds. Perhaps they are beginning to accept our kind.King Wrynn has commissioned the royal enchanter to create a powerful weapon in recognition of your achievements.The materials you will need come from Silverpine Forest's Shadowfang Keep. Travel there and obtain the tenebrous orb held by Lord Godfrey, the Book of Lost Souls, and the essence of the ghosts haunting the castle.",
+    "name": "A Boon for the Powerful",
+    "requires_level": 20,
+    "zone": "Warlock"
+}

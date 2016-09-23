@@ -1,0 +1,8 @@
+{
+    "_id": "41221",
+    "added_in_patch": 7,
+    "description": "The gateway is fully functional, <name>. Ooh, I am positively tingling with excitement!Do let Jace and the others know that we eagerly await your arrival. There's so much to do and ever so little time.You will be joining us aboard, won't you?",
+    "name": "Return to Mardum",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30521",
+    "added_in_patch": 5,
+    "description": "This is going to be tough, <name>.The last vote we need comes from Haohan Mudclaw, the head of the Tillers Union.I know he wasn't too keen on us to start, but we've learned so much about farming, I'm sure he'll have a change of heart!Go speak to him. You can be very convincing, right?",
+    "name": "Haohan's Vote I: Bungalow Break-In",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24694",
+    "description": "<As you look into the orb in front of you, you hear a voice.>The crystal pylons have been activated.  A sufficient number of crystals have been gathered.  The prerequisites have been met.  We are prepared for teleport to The Shaper's Terrace.Speak to me when you are ready, <race>.  We will consult with The Watcher.",
+    "name": "The Shaper's Terrace",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41085",
+    "added_in_patch": 7,
+    "description": "It is decided, then.\r\n\r\nThe foundation of the Tirisgarde's strength lies in the ancient artifacts wielded by its champions. Your first task will be to retrieve one such artifact.\r\n\r\nThe master appendix of this library lists every artifact known to the Council of Tirisfal. There should be a few choices in there worth looking into.\r\n\r\nI will leave it to you to choose which to pursue.",
+    "name": "A Mage's Weapon",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

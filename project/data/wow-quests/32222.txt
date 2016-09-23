@@ -1,0 +1,8 @@
+{
+    "_id": "32222",
+    "added_in_patch": 5.1,
+    "description": "Wanted for crimes against the Bilgewater Operation!Chief Engineer Cogwrench was last seen building what appeared to be a giant spider tank on the edge of Bilgewater Beach.Extreme caution should be used when approaching.A large reward has been posted for Cogwrench's destruction.",
+    "name": "Wanted: Chief Engineer Cogwrench",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

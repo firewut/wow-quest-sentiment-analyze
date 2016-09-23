@@ -1,0 +1,8 @@
+{
+    "_id": "30293",
+    "added_in_patch": 5,
+    "description": "The Shao-Tien Mindbenders have taken over the minds of our defenders down at Whitepetal Lake to the west. Get down there and kill the mogu that are controlling them, but don't kill the defenders! Killing their captors should free them from their mind control.Sooner would be better. Anji might try to go down there to help soon, and her ability to restrain herself when in the heat of things is not one of the qualities I married her for.",
+    "name": "In Enemy Hands",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

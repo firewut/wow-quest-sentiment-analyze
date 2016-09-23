@@ -1,0 +1,8 @@
+{
+    "_id": "30254",
+    "added_in_patch": 5,
+    "description": "Okay, now we've got our seeds, it's time to plant them.First, we have to prepare the soil! You gotta till the soil and break it up to make a nice bed for our little sprouts.Till those two plots of soil over there, then plant the seeds in them.",
+    "name": "Learn and Grow II: Tilling and Planting",
+    "requires_level": 85,
+    "zone": "Valley of the Four Winds"
+}

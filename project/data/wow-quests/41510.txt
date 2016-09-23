@@ -1,0 +1,8 @@
+{
+    "_id": "41510",
+    "added_in_patch": 7,
+    "description": "We shaman under your command will aid your efforts against the Legion. You may direct our actions from here.Seek out Advisor Sevel just to the south and locate the scouting map from which you can direct your followers. We will also indicate on the scouting map various hot-spots around the Broken Isles that require your attention.Azeroth needs you, Farseer! Visit the scouting map and choose our first point of attack.",
+    "name": "Azeroth Needs You",
+    "requires_level": 98,
+    "zone": "Shaman Campaign"
+}

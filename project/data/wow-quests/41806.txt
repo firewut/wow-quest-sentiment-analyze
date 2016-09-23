@@ -1,0 +1,8 @@
+{
+    "_id": "41806",
+    "added_in_patch": 7,
+    "description": "That crystallized soul should power your communicator long enough to reach your allies.I must urge you to be cautious, <name>. If that device is of Legion origin, then you never know who among its creators might overhear your message.I'm sure your allies eagerly await your return.",
+    "name": "Return to Jace",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

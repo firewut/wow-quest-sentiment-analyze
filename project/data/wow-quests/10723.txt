@@ -1,0 +1,7 @@
+{
+    "_id": "10723",
+    "description": "The gronn we seek is Gorgrom the Dragon-Eater. With Sablemane's trap, you will make short work of the gronn. You will find him accepting sacrifices from the ogres of Boulder'mok.Follow the road north from the Circle of Blood, then west at Ruuan Weald. Go northwest through the tunnel.First, kill the ogres for their heads. We will send a message. Set the trap at his altar. When he is dead, plant the grisly totems near him - none can mistake that message.Take the bear.<Misha growls.>",
+    "name": "Gorgrom the Dragon-Eater",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

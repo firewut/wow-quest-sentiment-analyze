@@ -1,0 +1,7 @@
+{
+    "_id": "27003",
+    "description": "Well, hello there!Whatever brought you, I'm so glad that you're here! My friends will never admit to it, but we could really use a hand.The ancient region of Uldum has been exposed! Treasures beyond your wildest dreams, free for the taking!We just need a bit of an escort, what with the bandits and all...You'll accompany us, won't you?You're welcome to all the loot you can haul off!",
+    "name": "Easy Money",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

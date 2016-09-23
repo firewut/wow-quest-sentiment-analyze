@@ -1,0 +1,8 @@
+{
+    "_id": "33873",
+    "added_in_patch": 6,
+    "description": "I need your help in creating an elixir that will allow us passage into the realm of the dead.In order to create it I require a sampling of the local vegetation. You will find Aruunem berries scattered about on the island. Bring me as many as you can carry.Be warned, <name>: do not eat them raw! The poison in the berries would kill you within minutes!",
+    "name": "Cure of Aruunem",
+    "requires_level": 94,
+    "zone": "Talador"
+}

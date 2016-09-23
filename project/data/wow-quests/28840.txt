@@ -1,0 +1,7 @@
+{
+    "_id": "28840",
+    "description": "I don't want our gambit to fail, <name>. Such a failure would only draw attention to our efforts, giving Umbranse an opportunity to hone his defenses. No, we have to do this right the first time.The Frostwhisper Gorge, to the south, provides us access to powerful ice elementals. The water within these elementals' hulls should amplify the power of your dreamcatcher, ensuring our efforts.Obtain this water, <name>. Then return to our small camp.",
+    "name": "Winterwater",
+    "requires_level": 53,
+    "zone": "Winterspring"
+}

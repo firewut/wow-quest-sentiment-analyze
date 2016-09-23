@@ -1,0 +1,7 @@
+{
+    "_id": "9753",
+    "description": "We've learned much of our enemies in recent days. The blood elves are led by a being known as Sironas and plot to destroy us. Ultimately, they seek to enslave O'ros and regain control of the Exodar.Light be praised, we have stopped their supply line by destroying the sun gate. Unfortunately, they continue to use the contaminant of the Vector Coil to poison the land, using the mutagenic properties of the fallout to their advantage.With this knowledge, Admetius has devised a plan. Seek him out.",
+    "name": "What We Know...",
+    "requires_level": 18,
+    "zone": "Bloodmyst Isle"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25209",
+    "description": "Within the High Wilderness to the south lay countless ancient ruins. It's there that the ancestors of the night elves fooled about with arcane magic, and it's there that the Gordunni ogres wander, searching for leftover scraps.You'll notice the forest is completely destroyed in that area; the ogres leave only useless muck in their wake, depriving the Horde of valuable resources.Go and slay the Gordunni there, <name>. Secure the area for the Horde, and only for the Horde!",
+    "name": "The Gordunni Threat",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

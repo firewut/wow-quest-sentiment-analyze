@@ -1,0 +1,8 @@
+{
+    "_id": "31133",
+    "added_in_patch": 5,
+    "description": "I'm no brewer - just looking at all those heaps of ingredients makes my head spin. Just put the brew in front of me when it's finished, thank you.No, I'm here to make sure that the brewers don't get cut in half while they're trying to make that perfect brew. It's not an easy job.The Kor'thik mantid across this basin have been attacking us nightly. If you're already heading over there, why don't you return the favor and attack a few of them?",
+    "name": "Kor'thik Aggression",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

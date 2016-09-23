@@ -1,0 +1,8 @@
+{
+    "_id": "43374",
+    "added_in_patch": 7,
+    "description": "Yalia and I were deliverin' antidotes to da front lines a Faronaar when we were attacked by a herd a murlocs. We dropped our supplies and made a run for it, but Yalia never made it out a da camp. Obviously I didn't fair much better, ma bones still ache from bein' turned to stone.It's possible Yalia's still alive and bein' held captive. Please, ya have to find her!",
+    "name": "Murloc Mind Control",
+    "requires_level": 103,
+    "zone": "Priest Campaign"
+}

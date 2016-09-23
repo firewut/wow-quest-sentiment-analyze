@@ -1,0 +1,9 @@
+{
+    "_id": "32792",
+    "added_in_patch": 6,
+    "description": "The Thunderlord clan has become a thorn in my side I will no longer tolerate.Go east and leave none alive! Burn their supplies! Leave them nothing to cling to.Converge on the Savage Crag to the east when it is done.",
+    "name": "Leave Nothing Behind!",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

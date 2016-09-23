@@ -1,0 +1,7 @@
+{
+    "_id": "11199",
+    "description": "<name>, now that those damnable proto-creatures have been dealt with, I've another task for you.One of my scouts has reported back some suspicious activity by the Forsaken to the south. It looks like they're up to no good at the vrykul village known as Halgrind.I want you to personally take over the investigation down there. Speak with Scout Knowles to find out what he's uncovered and proceed from there.His last reported position is at the Ember Spear Tower, just to the west of Halgrind.",
+    "name": "Report to Scout Knowles",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

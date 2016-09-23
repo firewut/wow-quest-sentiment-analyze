@@ -1,0 +1,7 @@
+{
+    "_id": "27838",
+    "description": "You might have dealt with the symptoms of our problem, <name>.  But I've been studying these foul beasts and the eggs are not laid here by them.The stream from the current carries their eggs to the dam, but whatever is laying them will be found upstream.Go northeast, to the river's main source, and deal with the root of the corruption.",
+    "name": "The Root of the Corruption",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

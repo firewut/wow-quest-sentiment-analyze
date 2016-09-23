@@ -1,0 +1,7 @@
+{
+    "_id": "28199",
+    "description": "Samples... yes... must have samples! These, ah, experiments... I mean, these unfortunate laborers must be studied.Travel southeast to the first farm and kill the risen ghouls. From their decrepit corpses you must recover flesh samples. Bring them to me!<Arnauld wrings his hands together and laughs maniacally for no discernible reason.>Must test!",
+    "name": "For Science!",
+    "requires_level": 19,
+    "zone": "Hillsbrad Foothills"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13924",
+    "description": "Thank you for saving me from a fate worse than death, <name>! For saving both the child and myself!Well, the child is almost saved. All you have to do is take the moonstones back west down the road to Astranaar. Hand them to Pelturas and he will know what to do.Go in peace, my friend. Elune be praised!",
+    "name": "All's Well",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

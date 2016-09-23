@@ -1,0 +1,8 @@
+{
+    "_id": "25618",
+    "description": "Atop the Lightning Ledge, the Twilight's Hammer has erected an enormous flamegate. I do not know where it leads; I know it is not of this realm, and I cannot enter. None of my other followers have returned.I need you to enter this realm and be my fangs within. Step through the flamegate. If he is still alive, meet with Jordan Olafson inside. He will give you a token that will allow you to use my powers in that realm.Be bold, <name>. Find out where that flamegate leads, and destroy whatever lies within.",
+    "name": "Into the Maw!",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Mount Hyjal"
+}

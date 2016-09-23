@@ -1,0 +1,7 @@
+{
+    "_id": "25935",
+    "description": "Ah, a new arrival! Good that you're here  lad! The pups are hungry and we're completely out of food.Thankfully they love dragon meat, which fortuitously exists in abundance within the Charred Vale, south of here.Be a good  boy and fetch me several pounds of black dragon whelp filet.",
+    "name": "Hungry Pups",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

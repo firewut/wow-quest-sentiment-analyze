@@ -1,0 +1,7 @@
+{
+    "_id": "29512",
+    "description": "Working the Darkmoon Faire is a dangerous job, <name>. It's no surprise that many of our workers get injured setting up, taking down, and transporting all of its attractions.Some of the injured workers can be found around here, near the wagons. Others have gone to the healing tent for treatment. Would you take these bandages and see if you can help any of the injured workers?",
+    "name": "Putting the Carnies Back Together Again",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

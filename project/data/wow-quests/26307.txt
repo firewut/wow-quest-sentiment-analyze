@@ -1,0 +1,7 @@
+{
+    "_id": "26307",
+    "description": "We won't give them a chance to react. You must re-enter Jintha'Alor and charge all the way to the upper tiers.The Vilebranch berserkers and shadowcasters are dangerous enemies, <name>. When the others see their bodies thrown across the walls, they'll know we mean business.Don't leave any Vilebranch hearts beating!",
+    "name": "Death to the Vilebranch",
+    "requires_level": 31,
+    "zone": "The Hinterlands"
+}

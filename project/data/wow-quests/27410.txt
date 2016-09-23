@@ -1,0 +1,7 @@
+{
+    "_id": "27410",
+    "description": "Brogg has completed the totem that will put the spirits of his friends to rest. When the dragonkin came, they killed all Stonemaul who did not flee. Brogg fled with Overlord Mok'Morokk, hoping to lead a counterattack with other Stonemaul survivors.The counterattack never came and the spirits of the Stonemaul dead still haunt Brogg and the others. Take this totem north to Stonemaul Ruins and use it near ogre skeletons to draw the spirit to you. Defeat the spirit to give it rest with its bones.",
+    "name": "Spirits of Stonemaul Hold",
+    "requires_level": 36,
+    "zone": "Dustwallow Marsh"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "31512",
+    "added_in_patch": 5,
+    "description": "The celestials are allowing us back into the Vale! This will be a sight to behold.We shouldn't waste any time. Head to the Gate of the August Celestials at the southern edge of Kun-Lai Summit and speak with me there.",
+    "name": "A Witness to History",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

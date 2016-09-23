@@ -1,0 +1,8 @@
+{
+    "_id": "845",
+    "description": "If you wish to serve my beloved horde, you'll have to prove your strength to me, pup. You can cut your teeth by hunting zhevra. They may not be the strongest of beasts in the Barrens, but stay clear of their kick or you'll regret it.Hunt the zhevra to the north and south, and collect their hooves.  Bring them to me and perhaps we'll next send you against something tougher.",
+    "name": "The Zhevra",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

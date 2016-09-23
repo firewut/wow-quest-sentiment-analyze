@@ -1,0 +1,7 @@
+{
+    "_id": "27113",
+    "description": "Some beings here have miraculously managed to remain free of the darkness that runs so rampant. On the second story of the Court of the Highborne rests a Shen'dralar Ancient. Seek it out, it may hold a wealth of wisdom, perhaps even the secret to freeing Eldre'Thalas.",
+    "name": "The Shen'dralar Ancient",
+    "requires_level": 39,
+    "zone": "Dire Maul"
+}

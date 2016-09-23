@@ -1,0 +1,8 @@
+{
+    "_id": "31976",
+    "added_in_patch": 5,
+    "description": "Word of your skill is spreading. I suggest you return to your trainer, Audrey Burnhep, for further guidance.",
+    "name": "The Returning Champion",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

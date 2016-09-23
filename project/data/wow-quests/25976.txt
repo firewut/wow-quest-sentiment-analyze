@@ -1,0 +1,7 @@
+{
+    "_id": "25976",
+    "description": "Blood and thunder! We have our reinforcements, but they still need to be paid. They won't be cheap.Up on Deepfin Ridge to the northwest, the slimy gilblin have stolen all sorts of treasure. It's time to reclaim some of it for the Horde.Hellscream's eyes are upon you, <name>!",
+    "name": "Treasure Reclamation",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

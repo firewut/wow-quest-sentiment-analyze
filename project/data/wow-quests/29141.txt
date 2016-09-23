@@ -1,0 +1,7 @@
+{
+    "_id": "29141",
+    "description": "Molten Behemoths have joined the elementals upon the battlefield. They are crushing our front lines. I need you to halt their momentum.You'll find the beasts slow and clumsy. They can easily be outmaneuvered, but they will pack a devastating punch if they hit you. Be nimble, <class>.",
+    "name": "The Harder They Fall",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

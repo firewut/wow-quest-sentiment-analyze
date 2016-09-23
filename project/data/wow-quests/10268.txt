@@ -1,0 +1,7 @@
+{
+    "_id": "10268",
+    "description": "Nexus-Prince Haramad has conveyed to me that he is interested in the immediate return of this property to him personally.  I would greatly appreciate if you would deliver it in my stead.It is a great honor to gain an audience with the nexus-prince, and I am sure that he would be keenly interested in hearing the tales of your adventures here in the Netherstorm.Seek out his chamber atop the Stormspire to the north.  He is often present as a holographic image, which you may address.",
+    "name": "An Audience with the Prince",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

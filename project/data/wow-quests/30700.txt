@@ -1,0 +1,8 @@
+{
+    "_id": "30700",
+    "added_in_patch": 5,
+    "description": "A giant, poisonous crab is wrecking havoc on our local abalone stores.  I need you to go down into narsong trench and take it out!",
+    "name": "Snapclaw",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

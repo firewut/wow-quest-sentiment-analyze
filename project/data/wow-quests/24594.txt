@@ -1,0 +1,7 @@
+{
+    "_id": "24594",
+    "description": "The Sunwell and the end of Quel'Delar's exile await, <name>.You will find Lor'themar Theron, the regent of Quel'Thalas, and Grand Magister Rommath standing within. Be wary of them and do not allow them to entrap you in their political scheming.Instead, remain focused on your task here. Speak to a Warden of the Sunwell to enter the Sunwell Plateau. Immerse the reformed Quel'Delar in the Sunwell to complete the restoration. Show the blade to Myralion Sunblaze at Quel'Delar's Rest once it is restored.",
+    "name": "The Purification of Quel'Delar",
+    "requires_level": 80,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27188",
+    "description": "I traveled out here to pay Jarl a visit at his new home and it's been a nonstop horror show ever since! There's something seriously wrong here and I can't be the only one who sees it...Have you seen the ghosts and corpses shambling about Witch Hill? I've a feeling that if anyone knows what happened here, it is them. Seek out these risen husks and risen spirits in the surrounding area, grant them rest through combat, and see what you can learn from them before this evil consumes Jarl!",
+    "name": "What's Haunting Witch Hill?",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

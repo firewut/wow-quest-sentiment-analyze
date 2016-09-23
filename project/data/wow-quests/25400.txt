@@ -1,0 +1,7 @@
+{
+    "_id": "25400",
+    "description": "Estulan, the Highborne up in the tower, is reclusive. I haven't been able to speak to him very much. He has, however, told me that the ruins of the High Wilderness to the south are full of Gordunni ogres.The ogres are not only a threat, they're destroying any forest and wildlife nearby. Estulan has also warned me of what might happen if they discover any artifacts of Highborne power among the ruins...Head south, <name>, and slay any Gordunni you find!",
+    "name": "The Gordunni Threat",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

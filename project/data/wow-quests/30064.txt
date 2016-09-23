@@ -1,0 +1,8 @@
+{
+    "_id": "30064",
+    "added_in_patch": 5,
+    "description": "My adepts had to abandon their studies when the sha invasion began.Unfortunately, they left their books scattered around the temple grounds. These priceless works of knowledge must be saved!The sutras can be found near the Training Pit and the Adept's Ring to the northeast.",
+    "name": "Saving the Sutras",
+    "requires_level": 90,
+    "zone": "Jade Temple Grounds"
+}

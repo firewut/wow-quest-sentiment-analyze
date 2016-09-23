@@ -1,0 +1,8 @@
+{
+    "_id": "29716",
+    "added_in_patch": 5,
+    "description": "There is a witch in the woods but no one believes me. She turned my friend Shin into jade!We were all so scared we tried to run back but she sicced her big jade monsters on us. A bunch of my friends tried to get away by climbing trees.Can you help me save my friends?",
+    "name": "The Double Hozen Dare",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10078",
+    "description": "Now that we've gotten our salvage operation off the ground, it's time to begin the second phase of the plan.Across the Path of Glory, the Horde still has their old blade throwers trained on us. Don't let their age fool you, <name>, they're still very dangerous. Much as we're working to reclaim what we can, we can't assume the Horde is going to dismantle their weaponry.Take this torch and burn the remaining siege equipment. I'll take no chances with Honor Hold's safety.",
+    "name": "Laying Waste to the Unwanted",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13305",
+    "description": "You're going to use this machine against the Scourge?  You're not going to win against them like that.You can destroy hundreds... even thousands of them.  But you won't win.  Not out here.When you're done playing with your machine, meet me to the north.  There is an old army encampment.  What I will show you will teach you a little bit about who you're up against.",
+    "name": "Do Your Worst",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

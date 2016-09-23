@@ -1,0 +1,8 @@
+{
+    "_id": "32285",
+    "added_in_patch": 5.2,
+    "description": "The Shan'ze are animating an army from the statues in the center of the isle, an army that batters our defenses day and night. Destroy any of the walking statues you see. Our defenders will greatly appreciate it.",
+    "name": "The Sleepless Legion",
+    "requires_level": 90,
+    "zone": "Quests"
+}

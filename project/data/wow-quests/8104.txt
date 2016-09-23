@@ -1,0 +1,7 @@
+{
+    "_id": "8104",
+    "description": "",
+    "name": "The Jewel of Kajaro",
+    "requires_level": 58,
+    "zone": "Quests"
+}

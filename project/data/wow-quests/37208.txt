@@ -1,0 +1,8 @@
+{
+    "_id": "37208",
+    "added_in_patch": 6,
+    "description": "I strive to teach through non-lethal pet battle.  Are you willing to learn?",
+    "name": "Taralune",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

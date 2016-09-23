@@ -1,0 +1,7 @@
+{
+    "_id": "28244",
+    "description": "I'll be honest, <name>. That thing gives me the willy-willies. But seein' as you went to all the trouble of bringin' it here, I s'pose we ought to put it to use.You first.Peer into the eye and ask it to show you inside Cho'gall's Bastion of Twilight. We'll find out what that fat two-headed bugger is up to, and use it against him. ",
+    "name": "Eye Spy",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

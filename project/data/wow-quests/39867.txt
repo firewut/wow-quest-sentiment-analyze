@@ -1,0 +1,8 @@
+{
+    "_id": "39867",
+    "added_in_patch": 7,
+    "description": "I've hunted many exotic beasts in my day, but I've never seen a lion like the one I encountered while scouting the basin.\r\n\r\nThe beast's amber eyes locked on mine, luring me closer. I was helpless to this predator's enchanting gaze. It was only when the lion pounced did the stupor break.\r\n\r\nI've told Hemet of this magical beast, but he laughs. I'm not lying, <name>! The lion exists.\r\n\r\nIf you find the beast, bring me a trophy of your kill, and I'll reward you handsomely.",
+    "name": "I'm Not Lion!",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11450",
+    "description": "The guards have set up a fire training area outside the town.  We cannot allow the Horseman to destroy what we have worked so hard to rebuild - you should do your duty and train as a fire fighter.Head south through the gate to the crossroads. You'll find the training area there.",
+    "name": "Fire Training",
+    "requires_level": 1,
+    "zone": "Hallow's End"
+}

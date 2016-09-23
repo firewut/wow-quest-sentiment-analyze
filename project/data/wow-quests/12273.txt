@@ -1,0 +1,7 @@
+{
+    "_id": "12273",
+    "description": "It's time for us to utterly demoralize the Onslaught forces!I want you to take the rod and use it on four of their leaders: Commander Jordan upstairs at the barracks, Lead Cannoneer Zierhut down the southeast ramp overlooking the beach, Blacksmith Goodman at the smithy, and Stable Master Mercer at the stables.Place them under the rod's compulsion, concentrate on making them denounce the Onslaught, and then kill them!",
+    "name": "The Denouncement",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

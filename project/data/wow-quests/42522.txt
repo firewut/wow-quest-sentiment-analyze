@@ -1,0 +1,8 @@
+{
+    "_id": "42522",
+    "added_in_patch": 7,
+    "description": "Illidan has officially placed you in charge, <name>. The Illidari are now yours.\r\n\r\nMeet me upstairs. We will let everyone know together.",
+    "name": "Leader of the Illidari",
+    "requires_level": 103,
+    "zone": "Demon Hunter Campaign"
+}

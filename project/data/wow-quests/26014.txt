@@ -1,0 +1,7 @@
+{
+    "_id": "26014",
+    "description": "Private <name>, at attention!  Ve are havink a small problem!Ve have sent Humphrey and Oskar Digsong out to Underlight Canyon, to the northvest, but they are not comink back.  They vere supposed to scout out the area, but ve have lost all contact with them.Your assignment, Private <name>, is to locate our comrades and, if they live, bring them back to me!",
+    "name": "The Brothers Digsong",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

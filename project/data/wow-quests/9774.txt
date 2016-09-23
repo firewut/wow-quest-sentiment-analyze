@@ -1,0 +1,8 @@
+{
+    "_id": "9774",
+    "description": "Reavij was wise to bring leather armor. This swamp will render my mail useless before long.I've been replacing the scales bit by bit as I'm able. The hydra in the marsh have thick, protective scales that stand up well to the dampness of their home.Finding suitable ones is a tedious process, though. All too often, the best scales are torn or worn too thin for use in armor. Bring me any good ones that you might get from the hydra in the larger lakes.",
+    "name": "Thick Hydra Scales",
+    "requires_level": 59,
+    "side": "horde",
+    "zone": "Zangarmarsh"
+}

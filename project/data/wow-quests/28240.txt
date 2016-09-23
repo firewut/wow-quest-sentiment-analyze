@@ -1,0 +1,7 @@
+{
+    "_id": "28240",
+    "description": "Listen, <name>.You know I live to entertain you, and that I strive to keep you pleasantly occupied and whatnot.But it just so happens that I've completely run out of ideas.That was it!Ususally as I'm questing with you I can think of a few things to have you do next, which buys me time to cook up some grand objective, but no more.I'm tapped out. Completely uninspired. Couldn't muster up another idea to save my life.Oh, wait!I know what we can do!Talk to me in a week or two...",
+    "name": "Tapped Out",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

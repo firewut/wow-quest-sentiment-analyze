@@ -1,0 +1,8 @@
+{
+    "_id": "32870",
+    "added_in_patch": 5.3,
+    "description": "Events are in motion, <name>. We have one final task to complete before we are ready to move into the final act of my plan.My agents tell me that King Wrynn has reassembled a naval fleet after his losses at Theramore, and Vol'jin is marching north across Durotar in open rebellion against the warchief.Speak with me again as soon as they are ready to converge on the gates. We will bring this war to a glorious conclusion!",
+    "name": "Preparing to Strike",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

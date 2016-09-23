@@ -1,0 +1,7 @@
+{
+    "_id": "8285",
+    "description": "There are rumors of a Twilight's Hammer member called Ortell having deserted his sect.  Word has it he hid in the mountains south of Southwind Village, where he lives as a hermit.  Perhaps you can enlist his help in deciphering the tablet.Take the restored tablet with you and seek out Ortell.",
+    "name": "The Deserter",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

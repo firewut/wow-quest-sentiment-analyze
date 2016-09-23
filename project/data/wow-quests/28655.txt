@@ -1,0 +1,7 @@
+{
+    "_id": "28655",
+    "description": "We are ready to begin, <name>!But I have it on good authority that the Twilight's Hammer may try to disrupt the ceremony, so as to demoralize and destroy the Wildhammer. Things could get dangerous!For this reason, I will be performing the ceremony myself, so that I can keep the bride and groom close to me. Sound like a plan? Good!Since her father is dead and her brother the best man, Fanny has asked that you walk her down the aisle. What an honor! Talk to me when you're ready to begin.",
+    "name": "Wild, Wild, Wildhammer Wedding",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29107",
+    "description": "I heard that Malfurion Stormrage came back from the Emerald Dream. I don't know where that is, but it sounds like it's really far away.Anyway, he's supposed to be at the top of the Temple of the Moon in Darnassus with the High Priestess. D'you think we could go meet him? He's got to be the most powerful druid in the history of Azeroth!",
+    "name": "Malfurion Has Returned!",
+    "requires_level": 10,
+    "zone": "Children's Week"
+}

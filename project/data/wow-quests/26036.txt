@@ -1,0 +1,8 @@
+{
+    "_id": "26036",
+    "description": "Hey, <name>. Sorry to be so short with ye earlier... and no, that ain't a pun.I figured out where Trelane's first item ended up: Kor'gresh has it in Boulderfist Hall. An' by the way he was throwing down blasts of ice at his kin to keep them in line, he must be close to figurin' out how to use all of its powers.Boulderfist Hall's south of here an' then east of Thandol Span. Find the ogre an' get back that wand.While you're gone, I'll figure out what we're gonna do about Stromgarde.",
+    "name": "Wand over Fist",
+    "requires_level": 24,
+    "side": "alliance",
+    "zone": "Arathi Highlands"
+}

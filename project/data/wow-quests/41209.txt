@@ -1,0 +1,8 @@
+{
+    "_id": "41209",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Brimstone Destroyer",
+    "requires_level": 110,
+    "zone": "Mining"
+}

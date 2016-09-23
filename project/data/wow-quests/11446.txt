@@ -1,0 +1,8 @@
+{
+    "_id": "11446",
+    "description": "Speak to the Brewfest Organizer at the Brewfest Grounds outside of Orgrimmar and receive a free beer.",
+    "name": "Brewfest!",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Brewfest"
+}

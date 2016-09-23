@@ -1,0 +1,8 @@
+{
+    "_id": "30728",
+    "added_in_patch": 5,
+    "description": "You have been matched with a... special trainee. His name is Fat Long-Fat.<Thelonius chooses his words carefully.>Fat Long-Fat... operates outside of the normal rules of combat. He does not fight every day, and when he does, he chooses his competitor. Today, for some reason... he has selected you.You will find him atop Angkhal Pavilion.",
+    "name": "Fat Long-Fat",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

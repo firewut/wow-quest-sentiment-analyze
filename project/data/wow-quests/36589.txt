@@ -1,0 +1,9 @@
+{
+    "_id": "36589",
+    "added_in_patch": 6,
+    "description": "The burned out shell of some sort of weapon of mass destruction. It might be worth asking around your garrison to see if anyone can help get it working again.",
+    "name": "Heavy Arms",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

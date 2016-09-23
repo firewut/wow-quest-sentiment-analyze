@@ -1,0 +1,8 @@
+{
+    "_id": "12101",
+    "description": "Our Forsaken allies have sent their apothecary core here to assist us in destroying the Scourge at the Wrathgate. One among them, Doctor Sintar Malefious, is well versed in the Scourge rot and methods of containing the spread. I had previously worked out a deal with him in regards to devising a vaccine for wildlife. He's since been waiting on the organ.Deliver this rot resistant organ to Dr. Malefious and let him know it's from me. He'll direct you on your next task.",
+    "name": "The Good Doctor...",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

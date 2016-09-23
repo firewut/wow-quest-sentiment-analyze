@@ -1,0 +1,8 @@
+{
+    "_id": "29333",
+    "description": "The orc guards are always grumbling about bland and moldering Undercity fare - as if it's OUR fault they can't get by on a diet of mushrooms and old corpses - so I think it's time they learn just the sort of exotic delights we can cook up when we've a mind to.Gather some of the freshwater snails ambling about beneath Brightwater Lake and I'll show them what a true culinary master can create.",
+    "name": "Escargot A Go-Go",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Cooking"
+}

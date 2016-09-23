@@ -1,0 +1,7 @@
+{
+    "_id": "12969",
+    "description": "I trust that's the green little one you've been looking for.  If I were you I'd step in before that Hyldnir splits him in half.You've arrived in the middle of the Hyldsmeet, so all challenges must be accepted by participants.  There's nothing to stop you from taking your green friend's place.",
+    "name": "Is That Your Goblin?",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

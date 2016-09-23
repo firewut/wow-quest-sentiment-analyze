@@ -1,0 +1,8 @@
+{
+    "_id": "42010",
+    "added_in_patch": 7,
+    "description": "You have the power you need to destroy the Surge Needles. \r\n\r\nAt the location of the breaches where the Surge Needles pierce the ground, there will be a large concentration of void energy. Focus the power of Aluneth into these points. The reaction should cause an overload, destroying the Surge Needle above.\r\n\r\nYou must act quickly. The Ethereum won't sit idly by as you lay waste to their machinations.",
+    "name": "Arcane Unleashed",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

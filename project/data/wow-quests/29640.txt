@@ -1,0 +1,7 @@
+{
+    "_id": "29640",
+    "description": "The Shadow Council has already killed most of our spies, but To'gun was foolish enough to escape only to go back in!You must find him. He may be reckless, but we need to find out what he knows.",
+    "name": "Find Spy To'gun",
+    "requires_level": 67,
+    "zone": "Shadow Labyrinth"
+}

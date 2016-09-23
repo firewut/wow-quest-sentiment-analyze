@@ -1,0 +1,7 @@
+{
+    "_id": "26614",
+    "description": "Avast!  Who goes there?Argh, I am but useless without me special enchanted eye.  Bad enough to have lost me eyes in battle in the first place!  But by some stroke o' luck we docked in Menethil and a traveling wizard enchanted a special glass eye that let me see again.Last night I ended up gettin' jumped by some Bloodsail Buccaneers on me way out.  Took me eye, they did!  Seems those blokes have found their way to Booty Bay.Help an old sea dog out by gettin' me eye back?",
+    "name": "Keep An Eye Out",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

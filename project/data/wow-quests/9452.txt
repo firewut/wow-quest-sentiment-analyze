@@ -1,0 +1,7 @@
+{
+    "_id": "9452",
+    "description": "I've found that these waters are bustling with red snapper, a very tasty fish. With a fishing net, I can catch enough to feed dozens of draenei! Unfortunately, I was recently attacked by a creature known as a murloc while netting in the river and have suffered some injuries that prevent me from doing my job. I need help!Use this fishing net near schools of red snapper, found in the Crystalbrook river to the east, to catch the fish.What do you say? Remember to return the net when you are finished.",
+    "name": "Red Snapper - Very Tasty!",
+    "requires_level": 4,
+    "zone": "Azuremyst Isle"
+}

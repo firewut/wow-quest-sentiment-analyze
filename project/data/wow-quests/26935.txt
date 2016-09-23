@@ -1,0 +1,7 @@
+{
+    "_id": "26935",
+    "description": "We are not the only Argent Crusaders here in the plaguelands.  Our headquarters, Hearthglen, lies to the north.  Even nearer to the north is a small lumber mill which we also control.Nathaniel Dumah is my main contact at the lumber mill.  I encourage you to speak with him, should you find yourself in that part of the woods.",
+    "name": "Northridge Lumber Mill",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25601",
+    "description": "That settles it, \"<name>damus!\"  You are head of your class!You will get a chance to address a crowd of the most fanatical, bloodthirsty and certifiably insane people on this planet.Go report to your instructor for the details, but remember: your goal is to exploit the animosity between the ogres at the Seat of the Chosen and the other, less privileged races.If all goes well, we will smuggle Jarod out of here during the ensuing riot.",
+    "name": "Head of the Class",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

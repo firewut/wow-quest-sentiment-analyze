@@ -1,0 +1,7 @@
+{
+    "_id": "11380",
+    "description": "Wouldn't you know it, I think my foodstuffs are up to date and someone comes along and requests the unusual: Mana Berry Delight.Unfortunately, mana berries are only found in the eco-domes of Netherstorm.  Just don't bother looking around Stormspire--it's picked clean.I could only trust someone trained in the culinary arts to pick the best berries, so don't let me down!",
+    "name": "Manalicious",
+    "requires_level": 70,
+    "zone": "Cooking"
+}

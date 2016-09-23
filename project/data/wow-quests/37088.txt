@@ -1,0 +1,9 @@
+{
+    "_id": "37088",
+    "added_in_patch": 6,
+    "description": "To pass the time, traders have been known to consume beverages of an inspired nature, if you know what I mean.\r\n\r\nSometimes, they drink a bit too much. Your trader might have stumbled beyond the gates and passed out under a tree. It's been known to happen from time to time.\r\n\r\nLuckily, I have a brew that I use to rouse groggy traders. One splash and I find they're more willing to work.",
+    "name": "Tricks of the Trade",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Frostfire Ridge"
+}

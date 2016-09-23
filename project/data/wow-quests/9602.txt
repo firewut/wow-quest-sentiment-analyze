@@ -1,0 +1,7 @@
+{
+    "_id": "9602",
+    "description": "You must get this information to your people, <name>. While your brave acts have certainly slowed down the plans of Kael'thas and his dark master, the attacks will undoubtedly continue.Take the traitor's communication to your leaders. They must see this for themselves. Perhaps they will be able to better understand some of what was written.",
+    "name": "Deliver Them From Evil...",
+    "requires_level": 5,
+    "zone": "Azuremyst Isle"
+}

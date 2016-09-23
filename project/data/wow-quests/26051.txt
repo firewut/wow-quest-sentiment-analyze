@@ -1,0 +1,7 @@
+{
+    "_id": "26051",
+    "description": "The treasure has been on the sea floor so long that the gems have calcified into thick stone. But the power harnessed in these goggles will allow you to locate them easily.A little gnomish ingenuity goes a long way!So borrow the Goggles of Gem Hunting, <name>, and see if you can collect some of the lost treasure for Captain O'Breen.I'd swim down there myself but...um...well, I have important scientific business to tend to up on the safe, dry land....er, yeah.",
+    "name": "Sunken Treasure",
+    "requires_level": 26,
+    "zone": "Arathi Highlands"
+}

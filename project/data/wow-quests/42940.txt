@@ -1,0 +1,8 @@
+{
+    "_id": "42940",
+    "added_in_patch": 7,
+    "description": "The Oculus appears to have fallen to the Burning Legion and is heavily shielded. We will need to figure out a way to get you inside. \r\n\r\nI suspect your champions can help us out quite a bit.",
+    "name": "When There's a Will, There's a Way",
+    "requires_level": 110,
+    "zone": "Mage Campaign"
+}

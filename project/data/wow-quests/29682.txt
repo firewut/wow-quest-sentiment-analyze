@@ -1,0 +1,7 @@
+{
+    "_id": "29682",
+    "description": "We recently sent in an expeditionary force to the Magisters' Terrace to stop the Legion forces there.However, we haven't heard from them since, and I fear the worst.Will you go there and try to find Exarch Larethor? He's in charge of the expedition.",
+    "name": "Magisters' Terrace",
+    "requires_level": 68,
+    "zone": "Quests"
+}

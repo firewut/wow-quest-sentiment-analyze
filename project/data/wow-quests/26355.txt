@@ -1,0 +1,8 @@
+{
+    "_id": "26355",
+    "description": "Searching through the barrel you discover another piece of parchment.  This one reads:  Now from this here barrel, face ye North.  Straight as the crow flies, keep ye walkin' till you see the empty jug next to the lone windmill on the sea bluffs.  If ye poke around that jug, ye just might find what you're lookin' for.",
+    "name": "Captain Sanders' Hidden Treasure",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

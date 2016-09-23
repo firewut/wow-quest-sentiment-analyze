@@ -1,0 +1,9 @@
+{
+    "_id": "31733",
+    "added_in_patch": 5,
+    "description": "Their town is burning and their men are scattered and broken. I need every available man on the ground NOW to finish them off.Grab one of the parachutes on the edge of the ship and get down there!",
+    "name": "Touching Ground",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

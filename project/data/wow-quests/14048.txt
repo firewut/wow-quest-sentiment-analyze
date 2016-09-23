@@ -1,0 +1,7 @@
+{
+    "_id": "14048",
+    "description": "I've been cooking nonstop since before the start of the holiday, and I still can't keep up with the demand. I don't suppose I could persuade you to help with one of the dishes, could I?Turkey is hard to come by here, so if you could supply some slow-roasted turkeys, it would be a big help. If you intend to prepare them yourself, you can hunt fresh wild turkeys anywhere in Elwynn Forest. You should be able to buy everything else you need from any of the Pilgrim's Bounty vendors.",
+    "name": "Can't Get Enough Turkey",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

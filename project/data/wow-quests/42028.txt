@@ -1,0 +1,8 @@
+{
+    "_id": "42028",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Into the Nightmare",
+    "requires_level": 110,
+    "zone": "Val'sharah"
+}

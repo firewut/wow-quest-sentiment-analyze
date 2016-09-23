@@ -1,0 +1,8 @@
+{
+    "_id": "30326",
+    "added_in_patch": 5,
+    "description": "I've heard people talk about the hozen like they're just some tribe of barely-functional idiots... but that's not true! They have brains, too - they just don't all like to use them that much.I've heard that the Kunzen tribe has two chiefs - one in charge of fighting, and one in charge of stories, lore, and history.What I wouldn't give to see what kind of stories they tell...",
+    "name": "The Kunzen Legend-Chief",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

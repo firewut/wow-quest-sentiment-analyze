@@ -1,0 +1,7 @@
+{
+    "_id": "13160",
+    "description": "Gargoyles make effective scouts and can be deadly if left to rain attacks from the air, but they have a very obvious weakness. Most of them have to go through long periods resting as stone to maintain the energy they need to carry their heavy bodies through the air.As I peered through the eye you were using, I noticed dozens of iceskin sentries resting on the eastern and southern walls inside. Use the stalker to leap up to their ledges and devastate them while they sleep.",
+    "name": "Stunning View",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

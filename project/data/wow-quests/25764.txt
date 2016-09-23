@@ -1,0 +1,7 @@
+{
+    "_id": "25764",
+    "description": "Skylord Omnuron wants us to find Aviana's Egg, and I can almost guarantee you it's cloaked by one of Sethria's shadow devices.Search around the camp for shadow cloak generators and shut those things down until you find the egg.Once you've unveiled it, I'll call out to the other druids. Defend that egg until we can carry it off to safety.Go get that egg, <name>!",
+    "name": "Egg Hunt",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10085",
+    "description": "I need for you to journey to the villages of the ancestors, <name>. Seek each one out and see if the ancestors remain.Visit Sunspring Post to the north, visit the Laughing Skull Ruins far to the north against the mountains, visit Garadar to the northeast, and finally, visit the Bleeding Hollow Ruins on the borders of Nagrand and the Terokkar Forest, to the east.Return to me once you have observed the ancestors in their homes.",
+    "name": "A Visit With The Ancestors",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "869",
+    "description": "Animal tracks surround the wreckage, tracks made by enormous curved claws. They appear to be raptor tracks.Your first instinct is that raptor-riders assaulted the caravan, but the impressions aren't deep and there are no non-animal tracks to be seen.The tracks head northeast of here toward the east side of Thorn Hill. The answer to this mystery must lie in its shadow.",
+    "name": "To Track a Thief",
+    "requires_level": 13,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27492",
+    "description": "As with any offensive, you first need to soften them up. We've been having a heck of a time getting in there. But someone like you... well, let's just say I have no doubt in my mind that you can get into the Twilight Gate to the southwest and teach the Bloodeye Clan ogres and ettins a thing or two!",
+    "name": "Ogres & Ettins",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

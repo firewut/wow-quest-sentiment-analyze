@@ -1,0 +1,7 @@
+{
+    "_id": "5712",
+    "description": "Good fortune be with you, young one.Troll messengers arrived in the Undercity not more than a day or so ago. They spoke of young priests returning to the Valley of Spirits to speak to Ur'kyo. I would suggest you investigate the matter on your own in case his business pertains to you. I am sure you remember the way back to Orgrimmar.",
+    "name": "<NYI> The Lost Ways",
+    "requires_level": 35,
+    "zone": "Priest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12541",
+    "description": "Ahh, you must be the promised patrol. Your timing couldn't be better. I have urgent need of an extra pair of hands.We have a Drakkari prisoner who's been sent here to undergo questioning. Before the interrogation begins, I require assistance in the creation of a truth serum.Creating a truth serum is tricky business, demanding keen instincts, perfect timing, and improvisation at every step.Let me know when you're ready, <race>. And remember, timing is everything!\r\n",
+    "name": "Troll Patrol: The Alchemist's Apprentice",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

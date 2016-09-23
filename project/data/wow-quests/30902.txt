@@ -1,0 +1,8 @@
+{
+    "_id": "30902",
+    "added_in_patch": 5,
+    "description": "Well done, challenger. You have reached the final round.Your last opponent is a powerful master of the winds. He has defended his people for many years and stood as champion on more than one occasion.Face this Master Windfur in the main arena when you are ready.And challenger... good luck.",
+    "name": "Round 4: Master Windfur",
+    "requires_level": 90,
+    "zone": "Kun-Lai Summit"
+}

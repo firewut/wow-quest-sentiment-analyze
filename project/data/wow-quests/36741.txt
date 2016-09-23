@@ -1,0 +1,7 @@
+{
+    "_id": "36741",
+    "description": "I hear our heroes in the front line are becoming victim to massive amounts of snares, roots and stuns! Luckily I have just the potion for them. The recipe is a little old, but it'll work. A key ingredient I need can be found here in Ashran, at the beach near that Ogre Tower.",
+    "name": "Vintage Free Action Potion",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

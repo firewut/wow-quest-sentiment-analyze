@@ -1,0 +1,7 @@
+{
+    "_id": "25872",
+    "description": "<Rau dismissively waves a note around with Taur-ahe markings on it.>Those mongrels have captured one of our braves! They're threatening to kill him if we don't pull back!We'll never allow those Grimtotem cowards to keep Freewind Post! Please, rescue him before it's too late, <class>.",
+    "name": "The Brave and the Bold",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26114",
+    "description": "<Quae begins to go through the folder.>Expansion...control of territory... these undead aren't cooking up anything new, but they're planning to roll over all of Arathi. We need to disrupt their plans.I'll keep a lookout from up here. You go with Kin, and get those invasion plans. We're not going to let these walking corpses even know what day it is out here.And keep her safe, you hear me?",
+    "name": "Quae Trusts You",
+    "requires_level": 26,
+    "side": "alliance",
+    "zone": "Arathi Highlands"
+}

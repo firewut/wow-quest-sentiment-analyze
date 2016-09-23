@@ -1,0 +1,7 @@
+{
+    "_id": "10709",
+    "description": "So you come from the world beyond the Portal? And you know of Rexxar. Oh yes, I am quite familiar with him.You see, he is my son.But he made his choice a lifetime ago. He is not one of us, and he is not welcome here. We have enough troubles with the Bloodmaul ogres.Know this: being born a half-breed does not make you Mok'Nathal.",
+    "name": "Reunion",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

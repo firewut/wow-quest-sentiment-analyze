@@ -1,0 +1,7 @@
+{
+    "_id": "12142",
+    "description": "Ugh! One of those little snobold runts trashed our camp while we were busy with that last dragon. They've been plaguing us whenever we turn our backs... I've had enough!To the south you'll find the snobolds hiding under the skirts of some of the local magnataur. Go slaughter them.If the magnataur interfere on behalf of their slaves, kill them as well.",
+    "name": "Pest Control",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

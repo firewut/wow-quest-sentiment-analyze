@@ -1,0 +1,8 @@
+{
+    "_id": "40199",
+    "added_in_patch": 7,
+    "description": "Good news, <name>! Langrom's Leather and Links recently delivered a shipment of mail armor to me.It's of the finest quality and I'd love to show it to ye, but it seems I've lost me crowbar and can't open the crate.If ye could run over to their shop and grab an extra one fer me, we can get this crate opened and go over the construction.",
+    "name": "Leather Legwork",
+    "requires_level": 106,
+    "zone": "Leatherworking"
+}

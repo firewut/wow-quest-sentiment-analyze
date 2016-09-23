@@ -1,0 +1,7 @@
+{
+    "_id": "28873",
+    "description": "<Griff's stomach growls.>Still hungry. It's like ... every day, I'm hungry.I hear there's more food stashed up in the Thundermar Ruins across the river to the north, where all the fighting is. Bring some to my mouth.",
+    "name": "Another Maw to Feed",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

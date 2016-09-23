@@ -1,0 +1,7 @@
+{
+    "_id": "12093",
+    "description": "Even as Kurun attacks Thor Modan, the iron dwarves work their magics against our brothers. Summoning our brothers from the earth, then binding them with runes, the sons of iron force them to war against the children of stone.Along the Eastwind Shore, they use runes of compulsion to send enslaved giants to the battlefields of the north.Find the four runes of compulsion and force their overseers to appear by defeating the rune-weavers who man each rune. Without the overseers, the runes are useless.",
+    "name": "Runes of Compulsion",
+    "requires_level": 72,
+    "zone": "Grizzly Hills"
+}

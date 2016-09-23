@@ -1,0 +1,7 @@
+{
+    "_id": "28188",
+    "description": "We have the island, now we need to put the resources here to work.  We found an abandoned cellblock just southwest of here and we need you to go check it out <name>.Reports have come back that it is overrun with prisoners that have been stuck down there for years.  Do whatever you need to do to clear that place out.  Report back to me when you are done.",
+    "name": "Prison Revolt",
+    "requires_level": 85,
+    "zone": "Tol Barad"
+}

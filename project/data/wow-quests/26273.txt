@@ -1,0 +1,8 @@
+{
+    "_id": "26273",
+    "description": "Alright, mon. We start simple. I need ta know dat you know the basics of the dark arts.Go thrash dose tiki targets. Take it slowly. Natural-like. I'll watch how you form your casts and we'll go from dere.",
+    "name": "The Basics: Hitting Things",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Echo Isles"
+}

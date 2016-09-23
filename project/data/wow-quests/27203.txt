@@ -1,0 +1,7 @@
+{
+    "_id": "27203",
+    "description": "Thank the spirits you're here, <name>.We're not sure how much longer we can maintain the rift in the Maelstrom.Our most powerful members, led by Thrall, are barely preventing the tear.Last I heard, our only hope was to go through the breach and attempt to stabilize it from the other side.I will conjure a portal.  Take it and report to Thrall as soon as you can.",
+    "name": "The Maelstrom",
+    "requires_level": 82,
+    "zone": "Deepholm"
+}

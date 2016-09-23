@@ -1,0 +1,7 @@
+{
+    "_id": "7663",
+    "description": "",
+    "name": "New Kodo - Green",
+    "requires_level": 60,
+    "zone": "Quests"
+}

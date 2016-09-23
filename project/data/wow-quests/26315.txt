@@ -1,0 +1,7 @@
+{
+    "_id": "26315",
+    "description": "Have ya seen the looming giant in the distance to the northeast? Dat is Boden the Imposing, one of Therazane the Stonemother's Stone Lords.We be knowin' little of da Stone Lords, but Boden is not known ta be very level-headed. Sadly, he seems to be da one leadin' dis assault, so he's the one we must be confrontin'.Take dis proclamation to him and read it aloud on behalf of da Earthen Ring. I know it be a bit of a stretch to think words will settle dis, but we have to try. Be cautious.",
+    "name": "Imposing Confrontation",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

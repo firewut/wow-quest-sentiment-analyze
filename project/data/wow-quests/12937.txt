@@ -1,0 +1,7 @@
+{
+    "_id": "12937",
+    "description": "The refuge's defenders fight bravely, but they cannot keep up with the iron onslaught.With the earth you collected, I can make bandages to help heal the wounds of some of the fallen. The more defenders we can patch up, the longer we'll last out there.Take these poultices and use them to heal the wounds of the fallen defenders outside the refuge. Get as many back into the battle as possible, <name>. Every casualty is one too many.",
+    "name": "Relief for the Fallen",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

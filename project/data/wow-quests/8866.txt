@@ -1,0 +1,7 @@
+{
+    "_id": "8866",
+    "description": "",
+    "name": "Bronzebeard the Elder",
+    "requires_level": 1,
+    "zone": "Lunar Festival"
+}

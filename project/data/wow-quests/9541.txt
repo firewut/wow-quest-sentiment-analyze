@@ -1,0 +1,7 @@
+{
+    "_id": "9541",
+    "description": "The symbols on this totem seem to translate much faster. The patterns and imagery all seem to blend into familiar words. You are fairly certain the totem is pointing you south, down the river. Something is at the bottom of the river itself.",
+    "name": "Totem of Yor",
+    "requires_level": 8,
+    "zone": "Azuremyst Isle"
+}

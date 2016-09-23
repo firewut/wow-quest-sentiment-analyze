@@ -1,0 +1,7 @@
+{
+    "_id": "26455",
+    "description": "The area to our west, now called Satyrnaar, was once a prominent shrine built by my people. It housed a priceless relic, the Chalice of Elune, entrusted to the shrine's keepers by the priests of Elune. Pilgrims once traveled to the shrine to experience the healing powers the chalice was rumored to hold.These stories might be nothing but old wives' tales, but if there is any truth to them, the relic may hold the key to rejuvenating the wounded forest. I must know, <name>.",
+    "name": "The Lost Chalice",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

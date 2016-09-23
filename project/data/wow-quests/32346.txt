@@ -1,0 +1,8 @@
+{
+    "_id": "32346",
+    "added_in_patch": 5.1,
+    "description": "Look. We got a nasty problem here, and ol' Troteman back at Lion's Landing's gonna throw us out of here if we don't get things under control.\r\n\r\nGive us a hand, please!",
+    "name": "Oi Ain't Afraid o' No Ghosts!",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

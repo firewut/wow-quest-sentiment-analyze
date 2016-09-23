@@ -1,0 +1,9 @@
+{
+    "_id": "34786",
+    "added_in_patch": 6,
+    "description": "You must be the <class> that so impressed Exarch Hataaru. Can you help?The Elodor Dig just behind me is overrun by strange stone creatures. These so-called goren actually devour minerals, metabolize them, and grow crystalline structures from their arms and back. Like most of the wildlife on this world, they completely baffle us.Please slay as many as you can and gather their crystal scales for me. You'll be protecting our earthworkers and aiding our research at the same time.",
+    "name": "Engorged Goren",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

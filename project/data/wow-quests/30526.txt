@@ -1,0 +1,8 @@
+{
+    "_id": "30526",
+    "added_in_patch": 5,
+    "description": "The starving, mangy dog whines piteously and attempts a brief wag of its tail.It looks like it could use a good meal right about now.",
+    "name": "Lost and Lonely",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

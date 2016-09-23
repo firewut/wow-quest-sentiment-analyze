@@ -1,0 +1,7 @@
+{
+    "_id": "13889",
+    "description": "The venomhide hatchling looks at you expectantly, then begins to scrawl a pictogram into the dirt.The drawings are rough, but you can make out the shapes of diemetradons, stegodons, and pterrordaxes. As the raptor finishes the sketch, it looks up at you, bares its teeth, and makes a biting motion.Your venomhide hatchling must be craving fresh meat from these animals. Find and kill any type of diematradon, stegodon, or pterrordax in Un'Goro Crater and feed its meat to your hungry hatchling.",
+    "name": "Hungry, Hungry Hatchling",
+    "requires_level": 48,
+    "zone": "Un'Goro Crater"
+}

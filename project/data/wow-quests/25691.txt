@@ -1,0 +1,7 @@
+{
+    "_id": "25691",
+    "description": "Loramus wants us - er, YOU - to gather granite chips from these chunks of rock around the Dark Portal.  I don't know what he'd want rocks for, but I have my suspicions, and they're not pleasant ones.Use this pick and look for small outcroppings of rock along the edge of the portal's blast radius.",
+    "name": "The Charred Granite of the Dark Portal",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

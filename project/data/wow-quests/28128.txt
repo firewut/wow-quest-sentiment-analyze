@@ -1,0 +1,7 @@
+{
+    "_id": "28128",
+    "description": "With their outer sentries gone, the greater members of the Shadow Council are next.Deep within the corrupted barrow dens you'll find powerful Jaedenar Warlocks, Hunters, Enforcers, Darkweavers, and Legionnaires.They must be defeated if these lands are to be saved!",
+    "name": "The Inner Circle",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

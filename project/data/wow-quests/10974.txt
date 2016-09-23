@@ -1,0 +1,7 @@
+{
+    "_id": "10974",
+    "description": "The Ethereum have a settlement on the northernmost shelf of Blade's Edge Mountains known as Bash'ir's Landing. According to the key tablet, much larger versions of the prisons are kept at Bash'ir's. It should also be noted that the Ethereum refer to those prisons as stasis chambers.The key tablet grants access to a very specific stasis chamber at the landing known as Stasis Chamber Alpha. Take the key and investigate.My image will be awaiting your return at Bash'ir's Landing. Speak to me there.",
+    "name": "Stasis Chambers of Bash'ir",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

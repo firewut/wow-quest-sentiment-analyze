@@ -1,0 +1,7 @@
+{
+    "_id": "27057",
+    "description": "You carefully close the spigot in the control panel, watching the cauldron's putrid ichors drip into the empty bottle.With the poison in hand, it is time to return to Field Agent Kaartish at the Menders' Stead.",
+    "name": "Return to the Stead",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

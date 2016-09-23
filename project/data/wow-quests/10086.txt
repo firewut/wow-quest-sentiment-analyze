@@ -1,0 +1,8 @@
+{
+    "_id": "10086",
+    "description": "Would you believe it?  These orcs hired me to help them shore up damaged fortifications and build explosives.  What a dream job!  It's too bad we're so short on materials, but a clever goblin like myself learns how to make do!Can you help me?  I need salvaged wood and metal from the ruined battlements along the Path of Glory.  Go down there and salvage, and watch out for those red-skinned orcs!When you're done, come back for big rewards!",
+    "name": "I Work... For the Horde!",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

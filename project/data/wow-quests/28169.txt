@@ -1,0 +1,8 @@
+{
+    "_id": "28169",
+    "description": "Excellent job gathering the other survivors! They - and you - are the reason S.A.F.E. teams keep coming down here. Nevin won't rest until we've found and rescued every possible survivor.I'm sending my men to the Loading Room to prepare for decontamination. Please follow them and meet up with Gaffer Coilspring when you arrive. She'll set you up for decontamination and have you on your way to the surface.",
+    "name": "Withdraw to the Loading Room!",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

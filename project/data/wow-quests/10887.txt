@@ -1,0 +1,7 @@
+{
+    "_id": "10887",
+    "description": "I appreciate your help, <name>.  I was certain I was going to be killed.Let's get out of here with a hurry.  It won't be long before more cultists come after us.",
+    "name": "Escaping the Tomb",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

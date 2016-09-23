@@ -1,0 +1,8 @@
+{
+    "_id": "27069",
+    "description": "We may not have to live down the shame of this defeat, <name>. The Warchief will likely have us all executed instead.I'll be damned if we don't go down without a fight. Although the whole beachhead is overrun by Bloodfang worgen, there may still be hope. I want you to accompany one of our sea pups to the beachhead, directly west of here, and recover our supplies. Return to me when the pup can carry no more.",
+    "name": "Steel Thunder",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Silverpine Forest"
+}

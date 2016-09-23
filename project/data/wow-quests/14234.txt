@@ -1,0 +1,8 @@
+{
+    "_id": "14234",
+    "description": "I hate to ask you to do this, but I guess it's why they pay you the big bucks. Can you deliver that dead orc's field journal to whoever is in charge up at their camp?Based on the writing in the book, they should be located at the top of the island, up the incline past the Kaja'mite cavern to the southeast.Good luck, <name>. I always liked you.",
+    "name": "The Enemy of My Enemy",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

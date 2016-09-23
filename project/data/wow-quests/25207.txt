@@ -1,0 +1,8 @@
+{
+    "_id": "25207",
+    "description": "There is single big, red button on the platform control console. Clearly if ever there were a button to cause massive explosions, that is it!",
+    "name": "Good-bye, Sweet Oil",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

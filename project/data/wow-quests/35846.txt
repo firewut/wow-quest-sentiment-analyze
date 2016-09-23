@@ -1,0 +1,9 @@
+{
+    "_id": "35846",
+    "added_in_patch": 6,
+    "description": "Intelligence be da name a da game, commanda. Da more we know about Hellscream's plans, da easier it be ta mess dem.Da Mok'gol orcs be Hellscream's couriers, carrying mission orders from dis place ta his outposts all over Draenor.Kill dese riders, an' recover any orders dat you ken find.",
+    "name": "Intercepting the Orders",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

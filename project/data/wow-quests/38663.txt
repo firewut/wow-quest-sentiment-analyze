@@ -1,0 +1,8 @@
+{
+    "_id": "38663",
+    "added_in_patch": 7,
+    "description": "Thanks to your efforts the temple is safe, for now.But the Tears of Elune are stolen and Shaladrassil, the world tree that once protected this land, is now an instrument in the hands of our enemy. The Emerald Dream itself is being overrun by Nightmare.The hearts of our people falter, their faith tested like never before. Return to Ysera with my report, <name>, such as it is.I shall plead with Elune with what time I have left here. May we somehow yet prevail.",
+    "name": "The Die is Cast",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

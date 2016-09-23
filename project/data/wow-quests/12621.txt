@@ -1,0 +1,7 @@
+{
+    "_id": "12621",
+    "description": "The cultists have been taken care of, but the Scourge's invasion has not slowed down.  The situation is becoming desperate, <name>.There exists a last resort.  Before I reveal any more, however, I must be sure I have your absolute trust.",
+    "name": "Freya's Pact",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

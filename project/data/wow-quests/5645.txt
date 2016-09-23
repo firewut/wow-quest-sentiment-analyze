@@ -1,0 +1,7 @@
+{
+    "_id": "5645",
+    "description": "<name>, your High Priest Rohan would have an audience with you in Ironforge. Make haste, my strong friend, your next test quickly approaches. Although I wish I could bear witness to your race's own special rites, my place is here. But may the Light go with you in your travels. Rohan should still be in the Mystic Ward once you reach the city. He will be waiting.",
+    "name": "A Lack of Fear",
+    "requires_level": 20,
+    "zone": "Priest"
+}

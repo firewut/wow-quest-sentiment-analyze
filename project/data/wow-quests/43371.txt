@@ -1,0 +1,8 @@
+{
+    "_id": "43371",
+    "added_in_patch": 7,
+    "description": "Many within our order have been on the front lines of battle for too long, aiding those who are attempting to thwart the Legion's invasion.It is time we send in some relief, allowing our allies some much needed rest.",
+    "name": "Relieving the Front Lines",
+    "requires_level": 101,
+    "zone": "Priest Campaign"
+}

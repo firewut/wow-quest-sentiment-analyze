@@ -1,0 +1,7 @@
+{
+    "_id": "38074",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "Unlock \"Unlock Thunder Bluff.\"",
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "9606",
+    "description": "If I remember correctly, Azure Watch's hippogryph master is Zaldaan.  If you've spoken to him before, then you can take one of my hippogryphs to him.That's a good lesson to know: hippogryphs are always trained to fly to their capital city, but they'll only take you to a remote hippogryph master after you've already been there.Since you arrived on one of Zaldaan's hippogryphs, you can also use that route to return to Azure Watch with the caregiver's supplies.",
+    "name": "Return to Caregiver Chellan",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Azuremyst Isle"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41574",
+    "added_in_patch": 7,
+    "description": "Titanstrike is in the tomb of Warlord Volund somewhere on the isle of Shield's Rest. It's a dank, sloppy mess adrift in a sea of gloom.Sounds lovely, eh?I've been workin' with a vrykul guide named Prustaga. She'll help us break the wards keepin' the tomb sealed.I know what you're thinkin'... vrykul are trouble. But she hasn't taken a swing at me just yet.Huey'll take us down to the shore. Prustaga's probably found the tomb by now!",
+    "name": "Stolen Thunder",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

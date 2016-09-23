@@ -1,0 +1,8 @@
+{
+    "_id": "32658",
+    "added_in_patch": 5.2,
+    "description": "<Though Yoon's writing leaves something to be desired, it's nice to still have a little piece of him on the farm.>An order came in this morning from the Klaxxi. Strangely enough they are requesting mogu pumpkins for some kind of research.I find it's best not to ask them too many questions...Best get started on their order. I'd hate to see what a bug of that size could do to your crops if you don't!",
+    "name": "Work Order: The Klaxxi I",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

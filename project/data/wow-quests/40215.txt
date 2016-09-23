@@ -1,0 +1,8 @@
+{
+    "_id": "40215",
+    "added_in_patch": 7,
+    "description": "<name>, I'm glad you're here. I confess: I've been working on a secret project behind your back. Behold: the Stonehide Leather Harness! Now, we simply need to find a mount worthy of such a piece of art.The vrykul sing songs of a snow-white elderhorn with endless stamina. Find it, place the harness on it, and tame it.",
+    "name": "Mounting Made Easy",
+    "requires_level": 110,
+    "zone": "Leatherworking"
+}

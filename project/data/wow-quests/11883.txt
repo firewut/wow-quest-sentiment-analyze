@@ -1,0 +1,7 @@
+{
+    "_id": "11883",
+    "description": "You wish the learn the art of fire dancing?Well, then. Speak to a Master Fire Dancer at any Horde capital. They should be able to help you.\r\n",
+    "name": "Fire Dancing?",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

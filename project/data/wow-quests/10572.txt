@@ -1,0 +1,7 @@
+{
+    "_id": "10572",
+    "description": "We cannot permit the Legion to carry out its plan to destroy Wildhammer Stronghold on their march to the Black Temple.There's only one way to stop them, <name>. You must create an explosive large enough to destroy the Legion's entire stockpile of infernals at the hold.The Fetid Pool near Legion Hold holds an old fel reaver power core you could use as the base of your device. Search the other wreckage near the fel reaver for armor plating we might be able to make a casing from.",
+    "name": "Setting Up the Bomb",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

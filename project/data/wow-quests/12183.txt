@@ -1,0 +1,7 @@
+{
+    "_id": "12183",
+    "description": "If, as Prospector Varana said, only certain irons are permitted to communicate with this Loken, it'll probably be the overseers who have the privilege.We have to get you in there to see what all this is about, but it won't be easy. The first step will be to get a proper uniform for you.Then, we'll worry about doing your makeup.Find one of the overseers at Dun Argol, kill him, and bring back his uniform. If you get blood on it, you'll have only yourself to blame.",
+    "name": "Looking the Part",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "29903",
+    "added_in_patch": 5,
+    "description": "Elder Lusshan and I agree that the best path forward will be to work together.We will share with the Pearlfin our superior military knowledge and weaponry.In return, they will be a powerful ally should we again encounter the Horde.Take this crate of equipment and weapons. I need you to go around the village and equip the jinyu with weapons befitting their skills.",
+    "name": "A Perfect Match",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

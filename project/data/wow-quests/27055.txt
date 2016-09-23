@@ -1,0 +1,7 @@
+{
+    "_id": "27055",
+    "description": "The Cult orders state that the plague from the cauldron at Gahrron's Withering is in fact being used for TWO purposes.  The first is the practice of spreading disease through the animals of the plaguelands, which you already knew about.The remainder of the plague is being shipped to the Weeping Cave, a cavern north of Malicia's Outpost, for use in some dark experiments.  Students of the Scholomance are using this plague to re-animate the dead!Certainly they must be stopped.",
+    "name": "Students of Krastinov",
+    "requires_level": 36,
+    "zone": "Western Plaguelands"
+}

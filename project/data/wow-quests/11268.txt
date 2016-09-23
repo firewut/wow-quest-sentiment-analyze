@@ -1,0 +1,7 @@
+{
+    "_id": "11268",
+    "description": "Your assistance to us has been tremendous, <name>, but there is something that is troubling me: these so-called Scourge.The spirits of the land and air, the waters and the fire below the world, would not abide their presence, but seem to do nothing about them. We will see to it that they are dealt with!Perhaps it is asking too much, but I would have you return west to Gjalerbron and destroy the unnatural Scourge in that vile lair. Be sure to check in the Waking Halls below Gjalerbron as well!",
+    "name": "The Walking Dead",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

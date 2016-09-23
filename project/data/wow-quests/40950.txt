@@ -1,0 +1,8 @@
+{
+    "_id": "40950",
+    "added_in_patch": 7,
+    "description": "All has gone as planned. Your new blades are a testament to that.We will demand a great deal of you in the weeks and months to come, as we must. But we would be remiss if we failed to take a moment to celebrate a job well done.What do you say?",
+    "name": "Honoring Success",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25340",
+    "description": "Edana Hatetalon is the queen of the Northspring harpies that reside in the ruins to the west. She is pure evil; I have heard that her heart is one of crystal. She is void of any emotion aside from the hate she feels towards all others. You must face Edana and bring me back her dark heart.I have heard of a horn that harpies carry -- blowing it by the Hatetalon stones, in the northern part of the ruins, will summon the queen.Imagine her surprise when it is not her kin calling her, but her death.",
+    "name": "Dark Heart",
+    "requires_level": 34,
+    "side": "horde",
+    "zone": "Feralas"
+}

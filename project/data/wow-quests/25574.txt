@@ -1,0 +1,7 @@
+{
+    "_id": "25574",
+    "description": "We've identified the general direction where the infiltrators have been coming from, thanks to your work.Now we just need to shut down their camp and put an end to their operations this side of Nordrassil.Take this horn.  It will signal one of our emerald drakes to swoop down and give these Twilight cultists a taste of the flames they so madly worship.",
+    "name": "Flames from Above",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

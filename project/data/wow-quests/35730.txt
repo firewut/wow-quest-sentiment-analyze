@@ -1,0 +1,8 @@
+{
+    "_id": "35730",
+    "added_in_patch": 6,
+    "description": "You have saved my most precious companion, Nisha. I owe you a great debt.The Iron Horde lured me away to separate us. I shall not make the same mistake again.They have inflicted grievous wounds, and I fear we must cause her even more pain before the healing process can begin.Please use a burning log from the nearby fire to cauterize her wounds.I will hold her down.",
+    "name": "Cauterizing Wounds",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

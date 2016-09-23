@@ -1,0 +1,7 @@
+{
+    "_id": "10168",
+    "description": "For several centuries, the spirits of Auchindoun coalesced into my darkened essence. Many of the catastrophes that befell this crypt were a direct result of my weakened state.Regrettably, there is nothing that can be done to stop this cycle. It is a facet of the naaru condition - without the void, the Light cannot exist.Your only recourse is to destroy the ancient spirits of Nagrand before they transform into creatures of the void. Use the soul mirrors found throughout this crypt to free them...",
+    "name": "What the Soul Sees",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

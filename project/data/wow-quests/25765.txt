@@ -1,0 +1,7 @@
+{
+    "_id": "25765",
+    "description": "Northwatch could really use a powerful <race> like you. We're taking a beating in the Southern Barrens and need your help! Are you interested in lending the Alliance a hand?The bomb? Yea, it's a problem, but Stonetalon isn't exactly prime real estate. This place was a dump before the Horde sunk their claws into it!I'll leave the choice in your hands. If you want to help us out in the Barrens, take my horse, Blue Steel. He's grazing at the crossroads south of here. He'll get you past the orc blockade.",
+    "name": "Tell 'Em Koko Sent You",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

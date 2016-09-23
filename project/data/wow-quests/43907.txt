@@ -1,0 +1,8 @@
+{
+    "_id": "43907",
+    "added_in_patch": 7,
+    "description": "The time has come to tackle the source of the Nightmare, and restore balance to the Emerald Dream. Battle into the heart of the Nightmare, and face the Nightmare Lord Xavius.",
+    "name": "Into the Nightmare: Xavius",
+    "requires_level": 110,
+    "zone": "The Emerald Nightmare"
+}

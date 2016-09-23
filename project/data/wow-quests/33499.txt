@@ -1,0 +1,8 @@
+{
+    "_id": "33499",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Time-Warped Ogre",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

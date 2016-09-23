@@ -1,0 +1,7 @@
+{
+    "_id": "27967",
+    "description": "The first time I heard about Lt. Connor, I was just a young recruit in the Stormwind stockades.  None of us could believe he ended up here on Tol Barad.  Sadly, he still roams these wretched islands, wreaking havoc on our troops morale.I need you to put an end to his misery... and ours.",
+    "name": "First Lieutenant Connor",
+    "requires_level": 85,
+    "zone": "Tol Barad Peninsula"
+}

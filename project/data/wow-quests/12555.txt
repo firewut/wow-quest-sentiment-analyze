@@ -1,0 +1,7 @@
+{
+    "_id": "12555",
+    "description": "There! One tangled skein thrower ready and waiting for you to take those plague sprayers down.You just aim and let loose. The webbing should foul up their hover spells long enough to cause them to crash to the ground just like Kolramas.Kind of poetic. I like that!",
+    "name": "A Tangled Skein",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "36385",
+    "added_in_patch": 6,
+    "description": "Opening the ancient tome you see that it's not actually a tome at all, but a container. Inside are four empty slots.Upon closer inspection each slot has next to it a carving of what appears to be a unique Draenor ancient, some glyphs and a receptacle used to hold a piece of the pictured ancient. There also appear to be directions to where these ancients may be found: medium timber -- Shadowmoon, Gorgrond, the Spires of Arak and Nagrand.These are assassination instructions. From trees to kill trees.",
+    "name": "Legacy of the Ancients",
+    "requires_level": 90,
+    "zone": "Logging"
+}

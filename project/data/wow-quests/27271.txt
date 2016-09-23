@@ -1,0 +1,7 @@
+{
+    "_id": "27271",
+    "description": "I just received a message from Stormwind, <name>. One of Stormwind's most renowned mages, Maginor Dumas, has requested that you visit him in the Mage Quarter inside Stormwind. You will be able to find him inside the Wizard's Sanctum atop the large tower in the heart of the Mage Quarter.I do not know what he has planned, but it sounds like he has been impressed with your rapid progress. ",
+    "name": "Journey to the Wizard's Sanctum",
+    "requires_level": 20,
+    "zone": "Mage"
+}

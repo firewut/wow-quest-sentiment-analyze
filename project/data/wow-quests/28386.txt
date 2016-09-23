@@ -1,0 +1,7 @@
+{
+    "_id": "28386",
+    "description": "The workers in Irontree Cavern below us have been driven out already. Something else has overtaken the cave.This works in our favor. I spotted at least a few of them dropping explosives as they fled... explosives we'll need for the next part of our plan.Enter the cave and salvage any abandoned bombs you can find. When you're finished with that and the pump, we'll begin our final assault.",
+    "name": "Borrowed Bombs",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

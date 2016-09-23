@@ -1,0 +1,8 @@
+{
+    "_id": "37536",
+    "added_in_patch": 7,
+    "description": "Things may look good from where you're standing, but, we're losing. However, do not fret, my little <race> friend. You can help.\r\n\r\nListen closely. Ooka Dooker, Ooker's sister, is back over yonder in the champions' cave making her world famous Fighter Chow. It'll do the trick and boost our team's morale.\r\n\r\nAll you have to do is to convince her to hand it over.",
+    "name": "Morale Booster",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

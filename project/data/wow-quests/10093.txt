@@ -1,0 +1,8 @@
+{
+    "_id": "10093",
+    "description": "Fortunately, the Path of Glory is not the only trace of my people in these lands. To the west, a few of our holy sites survive, although some have been overrun.While Velen prepared for the journey that would lead him to Azeroth, those of us who would remain behind sought to reestablish a presence at our holy places.In the western part of the Hellfire Peninsula, you will find a small group of draenei at the Temple of Telhamat, led by Amaan the Wise. I am certain he'd be interested in meeting you.",
+    "name": "The Temple of Telhamat",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

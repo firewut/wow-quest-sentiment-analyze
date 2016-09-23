@@ -1,0 +1,8 @@
+{
+    "_id": "44480",
+    "added_in_patch": 7,
+    "description": "Most mortals cannot comprehend the truth of the Legion. Those that recognize it, often refuse to accept its meaning. Such knowledge carries a weight that the mortal frame cannot bear. To sacrifice that much of ones self changes the soul.Among your greatest heroes, a rare few understood that type of sacrifice. Let us witness it through Illidan's eyes.We must go to Azshara, on the continent of Kalimdor.",
+    "name": "In My Father's House",
+    "requires_level": 110,
+    "zone": "Order Hall"
+}

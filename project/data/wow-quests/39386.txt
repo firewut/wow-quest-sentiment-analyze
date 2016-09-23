@@ -1,0 +1,8 @@
+{
+    "_id": "39386",
+    "added_in_patch": 7,
+    "description": "If Addie's going to be a more permanent member of the huntin' party, then she'll need some specialty gear for someone her size.\r\n\r\nMy munitions expert should have some ideas about what kind of weapon would best suit a gnome.\r\n\r\nStop by his camp and let him know that I'll be needin' a prototype soon.",
+    "name": "Procuring a Prototype",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

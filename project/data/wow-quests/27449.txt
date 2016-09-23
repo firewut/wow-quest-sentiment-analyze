@@ -1,0 +1,7 @@
+{
+    "_id": "27449",
+    "description": "My name is Vex'tul, and I have watched you fight, <race>.  You are strong.You killed my master, Zaeldarr, but this does not bother me.  I value strength over any loyalty that I held for him.  I value strength over anything else.Prove to me one final time your strength, <race>.  Do so, and I will lend you MY strength for whatever purpose you may desire.",
+    "name": "Honor and Strength",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29249",
+    "description": "The acorn seems to be unharmed.<Avrilla shrugs.>No point in beating around the bush. Let's plant it and see what comes out.Luckily for you, we brought some leftover soil with us to help establish our base.You'll find the soil at the graveyard directly east.",
+    "name": "Planting Season",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

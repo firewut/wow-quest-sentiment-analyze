@@ -1,0 +1,8 @@
+{
+    "_id": "26682",
+    "description": "Dustwallow is Horde territory, <name>. The humans may have their little island and their precious sand bar, but the marsh belongs to us.In time, we will surely win this stalemate with the humans. For now, we must master our own territory. The withervine bog beasts to the north rise from the marsh itself to attack any living thing that approaches. If we own this marsh, we must not let our own land fight back against us!Slay the bog beasts, if you wish to serve the Horde. You will be rewarded.",
+    "name": "A Shambling Threat",
+    "requires_level": 34,
+    "side": "horde",
+    "zone": "Dustwallow Marsh"
+}

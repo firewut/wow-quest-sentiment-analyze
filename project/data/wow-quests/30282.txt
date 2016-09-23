@@ -1,0 +1,8 @@
+{
+    "_id": "30282",
+    "added_in_patch": 5,
+    "description": "The mogu have erected their filthy banners around the lake to the west, claiming it as their own. Take this torch and show them what we think of their banners.",
+    "name": "Burning Away the Filth",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

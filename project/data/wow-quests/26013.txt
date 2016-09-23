@@ -1,0 +1,7 @@
+{
+    "_id": "26013",
+    "description": "<Race>, something terrible has transpired within the Ruby Sanctum beneath the Temple.The entry to the Sanctum is in ruins, and its guardians violently slain. We sent scouts to investigate, but they have not returned. I cannot help but fear the worst.Enter the Ruby Sanctum and discover what has befallen the home of my flight. Once we have more information, we can plan our next steps accordingly.",
+    "name": "Assault on the Sanctum",
+    "requires_level": 80,
+    "zone": "Quests"
+}

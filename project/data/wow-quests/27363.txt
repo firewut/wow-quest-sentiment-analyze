@@ -1,0 +1,7 @@
+{
+    "_id": "27363",
+    "description": "You have shown yourself to be a capable priest and a credit to the people of Gnomeregan. The high tinker and the king of Stormwind wish to honor your contribution to the Alliance.They have commissioned the royal enchanter to create a special staff.The materials for such a weapon can only be found in the cursed Shadowfang Keep in Silverpine Forest. Travel there and find the lost holy symbol of Commander Springvale, a supply of moontouched wood, and ghostly essence from the spirits haunting the keep.",
+    "name": "A Budding Young Surgeon",
+    "requires_level": 20,
+    "zone": "Priest"
+}

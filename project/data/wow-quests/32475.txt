@@ -1,0 +1,8 @@
+{
+    "_id": "32475",
+    "added_in_patch": 5.2,
+    "description": "The Thunder-Laced Egg burns your hand as you hold it. You recall that Yalia Sagewhisper of the Shado-Pan discussing the history of the Thundering Cloud Serpents, perhaps she will know what to do with it.",
+    "name": "A Spark of Life",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29109",
+    "description": "The battle in Ashenvale rages on without relent. Our forces at the Mor'shan Ramparts are in desperate need of reinforcements and supplies.We have a major shipment of medicines and food headed north, and I need a capable <class> like you to guard it.Rocco Whipshank waits for you at the road north out of the Crossroads. Let him know you are ready to accompany the caravan.",
+    "name": "Mor'shan Caravan Pick-Up",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

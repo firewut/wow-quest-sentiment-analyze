@@ -1,0 +1,7 @@
+{
+    "_id": "29701",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Tracking Event: Journal Found",
+    "zone": "Quests"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "33721",
+    "added_in_patch": 6,
+    "description": "I've identified some high value targets down in the forest below.\r\n\r\nWhen you get near one, you can deploy my solution.\r\n\r\nDeploy it and the objectives will be neutralized with great ceremony.",
+    "name": "Gazlowe's Solution",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

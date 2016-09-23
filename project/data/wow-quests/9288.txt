@@ -1,0 +1,7 @@
+{
+    "_id": "9288",
+    "description": "",
+    "name": "Hunter Training",
+    "requires_level": 2,
+    "zone": "Hunter"
+}

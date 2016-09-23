@@ -1,0 +1,7 @@
+{
+    "_id": "24932",
+    "description": "I've spent the last week starin' at this ugly pit trying to think of how to exploit a bunch of dangerous, violent arthropods for profit. Now I'm out of ideas, and starving.These things are a wash, and I say it's time to start clearing them out. Head down into that pit and start killin' bugs.",
+    "name": "Cutting Losses",
+    "requires_level": 45,
+    "zone": "Tanaris"
+}

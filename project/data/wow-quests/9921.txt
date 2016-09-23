@@ -1,0 +1,8 @@
+{
+    "_id": "9921",
+    "description": "These ogre hunting parties are a precursor to invasion. We must strike at them before they have a chance to amass an army big enough to take over our town.You're going to need to get your hands dirty, <race>.The largest collection of Boulderfist in this region can be found at the Burning Blade Ruins, almost directly east of Telaar, near the border of Terokkar. Go there and show the Boulderfist that Telaar will not bend to their will!",
+    "name": "The Ruins of Burning Blade",
+    "requires_level": 64,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

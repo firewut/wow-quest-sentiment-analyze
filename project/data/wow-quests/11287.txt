@@ -1,0 +1,7 @@
+{
+    "_id": "11287",
+    "description": "<Class>, I grow worried that my son, Sage Mistwalker, has been gone for such a long time. The land is cruel and deadly.He spoke of a recurring vision that he had of a wolf, and went west with a small group of longrunners to seek its source. I believe the name of the place he mentioned was Steel Gate.Will you find him? I want to make sure that no ill has befallen him.",
+    "name": "Find Sage Mistwalker",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

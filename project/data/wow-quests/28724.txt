@@ -1,0 +1,8 @@
+{
+    "_id": "28724",
+    "description": "Our friend Iverron has fallen to poison from the nearby webwood spiders. I can tend to him to keep his state from deteriorating, but I need someone to gather an ingredient to prepare him an antidote.All around the ponds you should find Moonpetal Lilies. These flowers have great healing properties, and I can use them with the ingredients I already have to restore Iverron to better health.Would you gather them for me?  There should be many just in sight of here, near the water's edge.",
+    "name": "Iverron's Antidote",
+    "requires_level": 3,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

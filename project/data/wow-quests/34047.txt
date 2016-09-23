@@ -1,0 +1,8 @@
+{
+    "_id": "34047",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Tuurem Explosion Tracker",
+    "requires_level": 90,
+    "zone": "Talador"
+}

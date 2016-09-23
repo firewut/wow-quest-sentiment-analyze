@@ -1,0 +1,7 @@
+{
+    "_id": "30104",
+    "description": "You... <name>, was it? You assisted with our archival in the past. Well, technically it was the future, but I believe you understand. Time is highly relative.I require more information for our archive. While you and Nozdormu don't intend to overwrite this timestrand, as you did in the End Time, we can still benefit from more data.I require information on Captain Varo'then, one of Azshara's pretty little handmaidens, and... hmm... oh, how about that big felguard, just down those stairs?",
+    "name": "Documenting the Timeways",
+    "requires_level": 85,
+    "zone": "Well of Eternity"
+}

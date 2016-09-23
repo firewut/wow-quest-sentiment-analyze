@@ -1,0 +1,8 @@
+{
+    "_id": "26085",
+    "description": "While our engineers work on getting the bombers ready to fly again, our guards and mountaineers continue to fight the invaders.They've been out there since the incursion began, without so much as a chance to catch some sleep or have a meal. Ironforge's defenders are among the best on Azeroth, but even they have limits.Take these banners and plant them in banks of loose snow. Remind the men what they are fighting for and help keep their morale high.",
+    "name": "Rallying the Defenders",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

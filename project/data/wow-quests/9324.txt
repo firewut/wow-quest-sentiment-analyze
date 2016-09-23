@@ -1,0 +1,7 @@
+{
+    "_id": "9324",
+    "description": "This flame, stolen from the heart of Orgrimmar itself, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",
+    "name": "Stealing Orgrimmar's Flame",
+    "requires_level": 1,
+    "zone": "Midsummer"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27152",
+    "description": "Allow me to concentrate for a moment.<You feel Daria's mind vision travel elsewhere, then it returns to you.>Further down the trail, south of Taelan's Tower, the gnolls have carved out a small meeting area to the east of the main road.  Something is happening there... I'm not certain what.  We should investigate.  I will look for anything out of the ordinary... you just protect yourself.",
+    "name": "Unusual Behavior... Even For Gnolls",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

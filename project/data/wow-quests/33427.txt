@@ -1,0 +1,9 @@
+{
+    "_id": "33427",
+    "added_in_patch": 6,
+    "description": "Drek'Thar will be fine, once he adjusts. The vision the elemental has bestowed upon him is powerful, and he is on the path of becoming this world's greatest shaman.You may wish to inform Warmaster Zog in your garrison of what has transpired here.He should be able to deploy some of your troops to the area to further secure the area.",
+    "name": "Ours is the Fury",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32030",
+    "added_in_patch": 5,
+    "description": "The time has come, wakener.The council's power will combine to bring an end to the corrupted empress.This ritual has not been witnessed in one hundred of your kind's lifetimes - and never by an outsider.In exchange for your deeds on our behalf, I invite you to behold this great moment in our history.",
+    "name": "Once in a Hundred Lifetimes",
+    "requires_level": 87,
+    "zone": "Dread Wastes"
+}

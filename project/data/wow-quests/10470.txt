@@ -1,0 +1,7 @@
+{
+    "_id": "10470",
+    "description": "You've carried out the promise you made to us, <name>.  And for that you've gained the recognition you deserve.As you continue to become attuned with past events surrounding mount Hyjal, I can continue to tap into the power contained in your ring.  It won't be long until it has reached its full potential.",
+    "name": "Champion's Oath",
+    "requires_level": 70,
+    "zone": "Caverns of Time"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25869",
+    "description": "The journey ahead must begin with you killing the Grimtotem invaders at Freewind Post. If you can't stop them here, we won't be able to move into their territory.",
+    "name": "Grimtotem in the Post",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

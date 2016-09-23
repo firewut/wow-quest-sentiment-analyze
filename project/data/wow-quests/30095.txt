@@ -1,0 +1,8 @@
+{
+    "_id": "30095",
+    "description": "Nozdormu, the bronze Aspect, has asked for help from the champions of the Alliance. You are on his short list. I can share few other details.It is uncharacteristic of my master to request the assistance of mortals, but I suppose that all things change with time... even the Aspect of Time himself.He awaits you at the End Time, in the distant future. I can help you to travel there, if you so choose.",
+    "name": "The End Time",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "End Time"
+}

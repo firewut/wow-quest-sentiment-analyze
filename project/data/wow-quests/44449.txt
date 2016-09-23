@@ -1,0 +1,8 @@
+{
+    "_id": "44449",
+    "added_in_patch": 7,
+    "description": "Now that we have a frost mage at our disposal, testing this method out should be a cinch.Here are the plans for what I'd like you to make. Get to work and give me the armguards when you're finished.",
+    "name": "Advanced Quenching",
+    "requires_level": 108,
+    "zone": "Blacksmithing"
+}

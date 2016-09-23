@@ -1,0 +1,7 @@
+{
+    "_id": "24574",
+    "description": "If I have truly sown chaos, it is time for reaping.The lumbering outgrowths of plant life shamble through the imbued stream here, <name>. They are a direct manifestation of the unstable forces mutating this area. Slay as many as you can, and we might be able to slow the spread of the overgrowth further.And while you're at it...be on the lookout for parts of them that appear especially corrupted. Bring any such pieces to me.",
+    "name": "To Harvest Chaos",
+    "requires_level": 29,
+    "zone": "Southern Barrens"
+}

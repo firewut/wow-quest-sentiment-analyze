@@ -1,0 +1,8 @@
+{
+    "_id": "26252",
+    "description": "You have found what appears to be the heart of a harvest watcher.From the sound being emitted by the device you can tell that it's still fully functional. Perhaps you should return it to Farmer Saldean.",
+    "name": "Heart of the Watcher",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Westfall"
+}

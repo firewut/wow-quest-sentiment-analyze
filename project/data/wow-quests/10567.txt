@@ -1,0 +1,7 @@
+{
+    "_id": "10567",
+    "description": "The arakkoa of Ruaan Weald elevate from their flock the Harbingers of the Raven, the heralds of their god.They believe that the Harbingers watch over them from the sky, where they receive the teachings of the Raven, and descend to pass this message along.The Harbingers hold a powerful sway over the souls of the arakkoa. They use magical pendants, which we need.Attract one of the Harbingers by slaying its flock and taking their claws. Place the claws upon the altar to get his attention.",
+    "name": "Creating the Pendant",
+    "requires_level": 66,
+    "zone": "Blade's Edge Mountains"
+}

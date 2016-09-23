@@ -1,0 +1,7 @@
+{
+    "_id": "25630",
+    "description": "Do you see it, <name>? From the ridge southwest of here... plumes of black smoke curling into the sky.Mount Hyjal is burning.If the fires have raced this far up the mountain, surely they threaten the Grove of Aessina and all of our forces there. Can you investigate?Speak with Laina Nightsky near the Grove of Aessina. Last I heard, she was fighting off the assault.",
+    "name": "The Fires of Mount Hyjal",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

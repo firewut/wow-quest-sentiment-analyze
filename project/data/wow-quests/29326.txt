@@ -1,0 +1,7 @@
+{
+    "_id": "29326",
+    "description": "Hello, <class>! My brothers and sisters of the Earthen Ring have spoken well of your deeds in the wake of the Cataclysm. But much remains to be done if we are to heal this broken world.Walk with me, friend. Preparations for a ceremony are underway, a ritual that I hope will be a turning point in our battle against the Twilight's Hammer.When all is done, you will be able to spread the word about our triumph here.",
+    "name": "The Nordrassil Summit",
+    "requires_level": 85,
+    "zone": "Quests"
+}

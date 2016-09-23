@@ -1,0 +1,8 @@
+{
+    "_id": "31611",
+    "added_in_patch": 5,
+    "description": "Have you ever seen the Brewmoon Festival?The good folks of Binan Village host quite a party. And tonight's festivities are brew-catered by none other than your's truly here.I am making my famous Kun-Lai Kicker!Think you might come and join us for the festivities? It should be a completely relaxing event with absolutely no danger whatsoever.",
+    "name": "The Kun-Lai Kicker",
+    "requires_level": 90,
+    "zone": "Brewmoon Festival"
+}

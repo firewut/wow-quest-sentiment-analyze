@@ -1,0 +1,7 @@
+{
+    "_id": "9843",
+    "description": "Who did you say you were looking for again?  Keanna?I once met someone with that name.  She was staying up at the guest chambers.  I was supposed to keep that a secret now, wasn't I?Did you say you were with the Violet Eye?  No, I've never heard of them.I need to return to my work now, if you don't mind.<Koren seems to have forgotten about you already.>",
+    "name": "Keanna's Log",
+    "requires_level": 68,
+    "zone": "Karazhan"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42270",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Scourge of the Skies",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

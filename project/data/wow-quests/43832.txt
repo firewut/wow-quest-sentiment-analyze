@@ -1,0 +1,8 @@
+{
+    "_id": "43832",
+    "added_in_patch": 7,
+    "description": "We can never be too prepared for battle. The Legion will strike at any moment, and we must be ready to deal with a multitude of injuries and afflictions.Zabra and Yalia have provided me a list of their most potent potions and battle elixirs than can do everything from restore health to blind the enemy.We have an exhaustive list of ingredients that we'll need in order to craft a respectable supply.",
+    "name": "Elixirs of Aid",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

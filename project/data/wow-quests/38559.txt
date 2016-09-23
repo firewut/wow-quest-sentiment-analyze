@@ -1,0 +1,8 @@
+{
+    "_id": "38559",
+    "added_in_patch": 7,
+    "description": "You have nothing more to prove to me, <name>. Your training is complete.Only a very small herd of smiths have earned the right to the Firmament Stone. You should speak with Muirn Ironhorn, who maintains vigil over our sacred stone. He will tell you what to do next.",
+    "name": "Worthy of the Stone",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

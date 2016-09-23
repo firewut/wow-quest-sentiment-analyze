@@ -1,0 +1,9 @@
+{
+    "_id": "35027",
+    "added_in_patch": 6,
+    "description": "The dead ones were the strong ones it seems. The weak ones wander about killing invaders to this marsh.It feels... wrong... to kill them, but they are worthless and get in our way. Kill these shambling fools so we can move further into the marsh easily.",
+    "name": "Clearing the Way",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

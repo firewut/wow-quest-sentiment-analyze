@@ -1,0 +1,7 @@
+{
+    "_id": "28758",
+    "description": "Alexstrasza and Deathwing have taken into the skies over Grim Batol! Her plan unravels - the Dragon Queen is outside the Circle of Life she prepared earlier. We'll need to support her with everything we've got.Hurry! Climb aboard one of the Vermillion Vanguard behind me.If we find any Twilight Drakes aiding Deathwing, we will need to kill them off. Mount up, quickly!",
+    "name": "Battle of Life and Death",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

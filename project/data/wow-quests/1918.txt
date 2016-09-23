@@ -1,0 +1,8 @@
+{
+    "_id": "1918",
+    "description": "The slain elemental has produced an intensely glowing globe of water.  The contents of the globe are, at best, disgusting.  It would be safe to assume that whatever has befouled the water of Mystral Lake is most likely present in the water of the globe.It's not exactly common knowledge who might be interested in such a find; perhaps Mastok Wrilehiss at Splintertree Post, might have an idea.",
+    "name": "The Befouled Element",
+    "requires_level": 23,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

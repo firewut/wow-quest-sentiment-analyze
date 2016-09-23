@@ -1,0 +1,8 @@
+{
+    "_id": "30606",
+    "added_in_patch": 5,
+    "description": "The Knucklethump hozen have new chief, the Ook of Dook.He sees fear in the west, anger in the south, hatred in the north, and yaungols in the east.And so he sets his hozen to ravage, gathering food and supplies for coming famine.They are many Knucklethumps and dangerous.Please, Luckydo, can you defeat their fighters?",
+    "name": "Thumping Knucklethump",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

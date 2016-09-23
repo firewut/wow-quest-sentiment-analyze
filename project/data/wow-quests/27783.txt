@@ -1,0 +1,7 @@
+{
+    "_id": "27783",
+    "description": "We've had some good times. I'm really sorry to see you go. But, Garona says she needs you.She said it's urgent!So, you want to grab a drink or something after whatever,  buddy ?",
+    "name": "Garona Needs You",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29633",
+    "added_in_patch": 5,
+    "description": "Upon the hills to my right, you will find a hozen named Zhi-Zhi. He, too, won enough sparring matches to move up the ranks. I think he will provide you with more of a challenge.Challenge him, and try to defeat him.",
+    "name": "Zhi-Zhi, the Dextrous",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

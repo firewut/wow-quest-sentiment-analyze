@@ -1,0 +1,7 @@
+{
+    "_id": "25464",
+    "description": "Ragnaros is not the only powerful elemental that has re-emerged into our world.The dreaded Baron Geddon is leading the onslaught and we must put an end to this rampage.The Flameseer's Staff has proven powerful.  Perhaps it is powerful enough to weaken him to the point where our arch druids can bind him where he stands.Go, <name> and be careful.  Baron Geddon is a vengeful and treacherous being.",
+    "name": "The Return of Baron Geddon",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

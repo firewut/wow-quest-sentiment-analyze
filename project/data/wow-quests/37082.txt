@@ -1,0 +1,8 @@
+{
+    "_id": "37082",
+    "added_in_patch": 6,
+    "description": "Your merciless rampage has not gone unnoticed, gladiator. So many of your enemies have fallen before your might. It is because of your unrelenting savagery that Imperator Mar'gok himself has requested your presence at the grand Highmaul Coliseum. It is at Highmaul that a battle of epic proportions awaits.Should you heed the call of the gladiator, present this sigil to my brother, Kharg. He is the arena master residing outside of the Coliseum in Nagrand.",
+    "name": "Call of the Gladiator",
+    "requires_level": 100,
+    "zone": "Nagrand"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "28865",
+    "description": "Our venerable warmatron, Okrilla, has sent me to the far reaches of the world in search of suitable heroes that would join our cause. Are you interested in strengthening the Horde's grasp over the Eastern Kingdoms? Then take this portal to the Blasted Lands and report to Okrilla at Dreadmaul Hold!",
+    "name": "Call of the Warmatron",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

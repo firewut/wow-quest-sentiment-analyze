@@ -1,0 +1,8 @@
+{
+    "_id": "40062",
+    "added_in_patch": 7,
+    "description": "<The flower has folded inward, to protect itself from the nightmare energy trapped within.><Professor Pallin would be interested in seeing this.>",
+    "name": "Bulging Nightmare Pod",
+    "requires_level": 108,
+    "zone": "Inscription"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12048",
+    "description": "I can't make a damned thing out of this ore. It simply will not hold together! Despite my best efforts the Scourge metal will not bend!Perhaps if I had some samples of some forged Scourge armaments I might be able to reverse engineer the process by which the items are created.Icemist Village is crawling with armored Scourge Nerubians. Go there and get me some Scourge armaments! With your help I might actually succeed in creating something from this ore.You'll find Icemist to the west.",
+    "name": "Scourge Armaments",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

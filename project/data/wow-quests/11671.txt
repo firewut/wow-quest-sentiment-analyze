@@ -1,0 +1,7 @@
+{
+    "_id": "11671",
+    "description": "So it's true. They have her.It's clear what must be done, <race>. She WILL be saved.I must remain here and aid in the rescue preparations. I call upon you again; this time to collect the prison key. All we know of this Salrand figure is that she cannot be harmed so long as her shield is intact.We've customized a special explosive that should strip her of this protection, allowing you to perform your duty. Return to me when you've collected the key.Hurry, <name>. Lady Evanor is suffering!",
+    "name": "A Race Against Time",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

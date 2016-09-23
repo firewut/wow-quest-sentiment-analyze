@@ -1,0 +1,7 @@
+{
+    "_id": "28384",
+    "description": "Irontree Clearing must be razed. We can afford no mercy if we want to prevent the goblins from spreading their destruction through the entire forest.Alton Redding, my most trusted protector, has already led much of the pack around the enemy line to strike while they are distracted here. Seek him out to the west, overlooking Irontree Cavern.",
+    "name": "Into the Clearing",
+    "requires_level": 47,
+    "zone": "Felwood"
+}

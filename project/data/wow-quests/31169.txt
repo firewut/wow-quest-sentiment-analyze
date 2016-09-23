@@ -1,0 +1,9 @@
+{
+    "_id": "31169",
+    "added_in_patch": 5,
+    "description": "The true secret to the art of the monk is unlocking the knowledge and power hidden inside yourself.Go, get more experience, and learn a new skill. Then demonstrate it on one of the training dummies.",
+    "name": "The Art of the Monk",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Monk"
+}

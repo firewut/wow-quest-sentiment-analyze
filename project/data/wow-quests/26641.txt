@@ -1,0 +1,7 @@
+{
+    "_id": "26641",
+    "description": "The Vilebranch broodguards to the northeast tend the eggs of Shadra's brood. Even if we kill the Vilebranch, those eggs will still sit there, waiting to hatch and release those horrible creatures further into the wilds.We need to take care of this properly. Tear any eggs you see out of the egg sacks and bring them to me. Don't try to destroy them on your own; you might let the little ones out.When you get them back here, I'll see that they're properly disposed of!",
+    "name": "Can't Make An Omelette Without...",
+    "requires_level": 32,
+    "zone": "The Hinterlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31331",
+    "added_in_patch": 5,
+    "description": "Whee!  You get to make a breadcrumb quest!  Now figure out what to do next.",
+    "name": "Figuring out how to make quests",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

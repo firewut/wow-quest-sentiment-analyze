@@ -1,0 +1,8 @@
+{
+    "_id": "37996",
+    "description": "With the reagents found, you should seek out Grinning Tolg's camp in the nearby cave to brew the elixir. \r\n\r\nOnce the elixir is consumed, you should be able to communicate with the ravagers there. With any luck, they should be able to bring you to Skulltaker.\r\n\r\nHis mask should bring a hefty reward.",
+    "name": "The Silent Skull: Taking from the Taker",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

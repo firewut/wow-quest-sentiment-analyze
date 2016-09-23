@@ -1,0 +1,7 @@
+{
+    "_id": "12470",
+    "description": "A time storm at the Bronze Dragonshrine to the northeast is keeping immortals from entering.The Infinite Dragonflight are in a fight inside with the defenders to wrest control of the dragonshrine. We must take this opportunity to gain information.You are not immortal. You can cross into the dragonshrine and use the Hourglass of Eternity. Protect the hourglass for long enough and the leader of the Infinite Dragonflight should be revealed.Be warned, the Infinite Dragonflight will try to stop you!",
+    "name": "Mystery of the Infinite",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

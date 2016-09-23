@@ -1,0 +1,7 @@
+{
+    "_id": "11362",
+    "description": "There is no accounting for taste. Take my most recent buyer for instance.There is a blood orc within Hellfire Citadel known as Keli'dan the Breaker. He bears a most mundane stave; certainly nothing to take a second glance at. And yet, this is what my customer wishes.Who am I to say no?If you desire my compensation, you will find him and his stave within the Blood Furnace.",
+    "name": "Wanted: Keli'dan's Feathered Stave",
+    "requires_level": 70,
+    "zone": "Hellfire Citadel"
+}

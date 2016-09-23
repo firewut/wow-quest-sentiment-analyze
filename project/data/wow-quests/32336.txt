@@ -1,0 +1,8 @@
+{
+    "_id": "32336",
+    "added_in_patch": 5.1,
+    "description": "There once was a Chief named Ingoo Ingoo,Who beat me in a drink drink boogaloo.He took the mallet's handle for winning,Not knowing you can't beat the King in drinking.Monkey King had to hide the mallet from the bell,But Ingoo's children do not use the handle well.Over the years they have used the handle to do harm,Now we must find the current chief so we can disarm.Go south to Unga Ingoo, Monkey King meet you there.Only wikkets show to a party with hands bare.",
+    "name": "The Handle",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

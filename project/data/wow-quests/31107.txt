@@ -1,0 +1,8 @@
+{
+    "_id": "31107",
+    "added_in_patch": 5,
+    "description": "At Shek'zeer's command, the great kypari tree of Kypari Vor was twisted into a totem of horror.Like those outside of the palace, the clutch nearby is now used to corrupt our swarmborn.Recover the eggs of the Vor'thik before they are tainted. We shall raise them here. They will be the citizens of a new empire, free from the sha.",
+    "name": "Citizens of a New Empire",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

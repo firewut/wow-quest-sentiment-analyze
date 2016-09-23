@@ -1,0 +1,7 @@
+{
+    "_id": "10203",
+    "description": "See the fissure running through Area 52?  We did that!  <grin>It's yielding up all sorts of goodies for the X-52 Nether-Rocket, but we're running short on equipment.We had an operation at the Arklon Ruins to the southeast until the Burning Legion moved in.  I need you to take this Ultra Deconsolodation Zapper to the ruins.  Use it to beam our gear back to Lead Sapper Blastfizzle down in the fissure.Junior Technician 3rd Grade <name>, this is your chance for that promotion.  Don't blow it!",
+    "name": "Invaluable Asset Zapping",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

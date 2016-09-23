@@ -1,0 +1,8 @@
+{
+    "_id": "29586",
+    "added_in_patch": 5,
+    "description": "First... before the war-cries... we heard the trees.Groaning, creaking, and finally crashing down as the mogu cut their way through the woods. They were making the return trip easier...They're dragging our friends back down that path, to the ruins west of the village! Those ruins have been empty for years - our children play there.Why would the mogu come back to them now?",
+    "name": "The Splintered Path",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

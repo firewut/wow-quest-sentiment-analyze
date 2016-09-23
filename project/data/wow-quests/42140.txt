@@ -1,0 +1,8 @@
+{
+    "_id": "42140",
+    "added_in_patch": 7,
+    "description": "Word on the street is that you're lookin' to recruit some more, shall we say, unsavory types?\r\n\r\nI know just the woman! No, not me... though, I could prolly do it. But not as well as Lonika Stillblade.\r\n\r\nYeah, that Lonika. The one who founded the 'School of Roguery' in Shattrath City.\r\n\r\nSo, let's send Vanessa there out to Outland and have her make Lonika an offer she can't refuse. Or, you know, give her a legit job and a nicer location for her rogue academy.",
+    "name": "A More Wretched Hive of Scum and Villainy",
+    "requires_level": 101,
+    "zone": "Rogue Campaign"
+}

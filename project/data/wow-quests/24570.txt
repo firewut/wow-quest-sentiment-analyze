@@ -1,0 +1,7 @@
+{
+    "_id": "24570",
+    "description": "The corruption unleashed here must be studied if we're to find a way of properly fighting it.Luckily, not all the creatures have been as altered as others. The smaller snakes drink little water, and do not eat plants, so their exposure to the energies here has been minimal. They've still absorbed enough to change coloration.Go collect these snakes from the overgrowth and return them to me, so we can see just what is happening to the creatures here.",
+    "name": "Adder Subtraction",
+    "requires_level": 29,
+    "zone": "Southern Barrens"
+}

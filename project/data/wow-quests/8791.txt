@@ -1,0 +1,7 @@
+{
+    "_id": "8791",
+    "description": "A terrible menace has been laid to rest. The cruel Ossirian has been vanquished.The denizens of Kalimdor would be relieved to know of this victory. Take Ossirian's head and present it to Commander Mar'alith of Cenarion Hold.",
+    "name": "The Fall of Ossirian",
+    "requires_level": 60,
+    "zone": "Ruins of Ahn'Qiraj"
+}

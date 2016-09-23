@@ -1,0 +1,7 @@
+{
+    "_id": "27242",
+    "description": "The patch of swamp to the northeast is home to a particularly nasty breed of raptors. We've lost more than one unwary soldier to them, but I think we can turn them against our Grimtotem neighbors.Take this rope and use it to capture Bloodfen raptors or Bloodfen screechers that you've subdued. I wouldn't try to capture one of the beasts until you've weakened them quite a bit in combat. It's going to be quite a struggle.",
+    "name": "Raptor Captor",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

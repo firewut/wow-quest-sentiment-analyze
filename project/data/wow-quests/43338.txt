@@ -1,0 +1,8 @@
+{
+    "_id": "43338",
+    "added_in_patch": 7,
+    "description": "The Thunder King conquered Pandaria using power stolen from the Titan Keeper Ra, known as \"Ra-den\" in the mogu tongue. If you truly seek to wield the relics of the Highkeeper, seek out his ancient edicts among the ruins in the heart of the mogu empire: The Edict of Stone, The Edict of Fire, and the Edict of the Storm.These pieces of the codex are scattered amongst the Guo-Lai Halls in the Vale of Eternal Blossoms, one in each wing.",
+    "name": "The Codex of Ra",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

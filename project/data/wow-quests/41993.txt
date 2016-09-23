@@ -1,0 +1,8 @@
+{
+    "_id": "41993",
+    "added_in_patch": 7,
+    "description": "I was serving aboard the airship that crashed on the way to the Broken Shore. I must have blacked out as the next thing I remember was being jolted awake. I was on a broken land and above me stood a man'ari carrying a staff of darkened crystal. There is no mistaking it, that staff was T'uure!All my life I've heard stories about how T'uure flowed with the healing power of the light. Somehow the crystal has been darkened by Man'ari. We must get it back and restore it to its pure form!",
+    "name": "Salvation From On High",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

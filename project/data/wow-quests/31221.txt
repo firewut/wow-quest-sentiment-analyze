@@ -1,0 +1,8 @@
+{
+    "_id": "31221",
+    "added_in_patch": 5,
+    "description": "So... you've been challenged by the infamous Tenwu of the Red Smoke.\r\n\r\nThat's what he calls himself, at least. He's a good fighter, and a good rogue, but it's a wonder he manages to sneak up on anyone with how loudly he brags about himself.\r\n\r\nAnyways, I think you should answer the challenge. Maybe it'll give him a touch of humility. Maybe not. Either way, if you win, he'll probably be willing to go with you on your missions. \r\n\r\nAnd I get some entertainment.",
+    "name": "The Challenger's Ring: Tenwu of the Red Smoke",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

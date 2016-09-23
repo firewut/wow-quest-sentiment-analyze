@@ -1,0 +1,7 @@
+{
+    "_id": "9250",
+    "description": "With the frame formed, Atiesh is nearly whole. Only the head and base of the staff are now missing. There is also a minor issue regarding the staff being a conduit for Sargeras's evil.Find someone that can assist you in locating the remaining pieces and exorcising the evil from the staff.",
+    "name": "Frame of Atiesh",
+    "requires_level": 60,
+    "zone": "Legendary"
+}

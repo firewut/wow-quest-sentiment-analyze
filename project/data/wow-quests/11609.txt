@@ -1,0 +1,7 @@
+{
+    "_id": "11609",
+    "description": "With the spirits of the murdered craftsmen and shaman at rest, the way is clear for us to complete the ceremonies interrupted by the attack. You must perform a role traditionally reserved for a tuskarr shaman, and you must possess all the necessary ritual items.There is no time to craft new ones, so you will need to scour the quarry for those left by the victims of the attack. Handle these objects with care, <name>, for some are centuries old. You may need to wrest them from the hands of the invaders.",
+    "name": "Picking Up the Pieces",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

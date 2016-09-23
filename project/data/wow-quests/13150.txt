@@ -1,0 +1,6 @@
+{
+    "_id": "13150",
+    "description": "Attached to the bottom of the widget is an invoice that indicates the owner is \"Timothy Jones - Jewelershop Name, District Name\" in Dalaran.   Perhaps if you fixed it and returned it to him, he would have a reward for you.",
+    "name": "ZZOLDLost: Widget",
+    "zone": "Jewelcrafting"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31787",
+    "added_in_patch": 5,
+    "description": "This artifact has been restored to a remarkably excellent condition.  Perhaps you will put it on display at the Seat of Knowledge, so that lorewalkers and archaeologists can study it.",
+    "name": "Pristine Mogu Runestone",
+    "requires_level": 85,
+    "zone": "The Arboretum"
+}

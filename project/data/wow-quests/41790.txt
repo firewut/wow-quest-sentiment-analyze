@@ -1,0 +1,8 @@
+{
+    "_id": "41790",
+    "added_in_patch": 7,
+    "description": "The Legion...<the glow of Ursol's eyes begin to shine intensely>Yes... I remember clearly that day long ago when my brother fell. Countless demons fell beneath his claws until, through the overwhelming numbers of the enemy, he was overtaken. My brother was the true spirit of the bear!You must prove to me that the spirit of the bear resides within you as well.",
+    "name": "The First Trial of Ursol",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

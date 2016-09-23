@@ -1,0 +1,8 @@
+{
+    "_id": "34514",
+    "added_in_patch": 6,
+    "description": "The Saberon...they weren't just after prisoners...<Cough>...they took all the merchandise too.Kidnapping is one thing...but stealing a goblin's merchandise? That's making things personal!<Cough>...Pyxni ain't going to be happy unless you get all of the stolen goods back. Make your way into Sabermaw and steal back all our merch.When you're done, make your way back to Pyxni at the Ring of Trials.She'll make it worth your while...",
+    "name": "They've Got The Goods!",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

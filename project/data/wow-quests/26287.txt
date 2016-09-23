@@ -1,0 +1,8 @@
+{
+    "_id": "26287",
+    "description": "We were once known as the People's Militia. These days, though, we fight under the banner of Stormwind, with the full support of King Anduin Wrynn. Our goals here in Westfall are many: to clean up the mess left behind by the Defias, to expand the reach of the Alliance and to maintain order. So far we are failing on all fronts.Times are worse now than when the Defias ran amok. Now with the indigenous gnolls of the region up in arms, we find ourselves backed into a corner. Help us, <name>!",
+    "name": "The Westfall Brigade",
+    "requires_level": 11,
+    "side": "alliance",
+    "zone": "Westfall"
+}

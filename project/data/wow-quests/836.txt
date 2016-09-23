@@ -1,0 +1,7 @@
+{
+    "_id": "836",
+    "description": "The gnome's voice crackles once again from the robot:\"I need to move OOX-09/HL to an open, safe place so it can begin a lengthy take-off procedure.  It has built-in cloaking, but I need time on my end to make it operational again.  Escort the robot from its current location to, let's say, some big rocks that obscure visibility! That should be a perfect place, and long enough, to get things online!\"\"Escort it safely and then come talk to me in Booty Bay!  Oglethorpe Obnoticus - out!\"",
+    "name": "Rescue OOX-09/HL!",
+    "requires_level": 30,
+    "zone": "The Hinterlands"
+}

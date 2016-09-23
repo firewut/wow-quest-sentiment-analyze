@@ -1,0 +1,7 @@
+{
+    "_id": "13087",
+    "description": "So what are ya doin' if you dinna have any stew for me.   I got me a HUNGER!   At least bring me some chilled meat so I kin cook me own stew!   If ya do, I kin give ya the recipe so you kin make it for yourself.   NOW GO GET ME SOME MEAT!",
+    "name": "Northern Cooking",
+    "requires_level": 65,
+    "zone": "Cooking"
+}

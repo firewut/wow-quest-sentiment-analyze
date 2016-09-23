@@ -1,0 +1,9 @@
+{
+    "_id": "33657",
+    "added_in_patch": 6,
+    "description": "Gorr'thog is now dead. It is time now to secure our hold on Bladespire Citadel. Meet me below and we can begin strengthening our presence.",
+    "name": "Moving In",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

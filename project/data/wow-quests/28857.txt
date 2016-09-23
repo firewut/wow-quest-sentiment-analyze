@@ -1,0 +1,7 @@
+{
+    "_id": "28857",
+    "description": "Now here's an interesting one. It says to report to Quartermaster Lungertz at Nethergarde Keep, in the Blasted Lands. That's just about as far as you can get from here!It says they're having trouble with Horde attacks. Hmph! I didn't know the Horde even had an outpost in the Blasted Lands! They tend to worry more about demons and less about rivalries down there, as I understand it.You'll have to cross the Great Sea, then travel south from the Swamp of Sorrows.You interested?",
+    "name": "Blasted Lands: The Other Side of the World",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

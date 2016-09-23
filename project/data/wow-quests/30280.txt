@@ -1,0 +1,8 @@
+{
+    "_id": "30280",
+    "added_in_patch": 5,
+    "description": "Roars have been echoing out from inside the Guo-Lai Halls. The mogu have awakened some ancient beast, and it will not be long before they attempt to release it upon my men.Find your way to the Hall of the Serpent and slay the beast before it can be unleashed upon us. I would trust no other with such a dangerous and important task.",
+    "name": "The Thunder Below",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

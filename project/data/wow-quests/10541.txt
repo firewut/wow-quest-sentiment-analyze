@@ -1,0 +1,7 @@
+{
+    "_id": "10541",
+    "description": "I thank you, hero. For without you, my spirit would forever remain in this cursed place.<Ar'tor hands you a spectral lockbox.>Take it and deliver it to my father at the farm, far to the northeast, above Coilskar Cistern... Inside are Lohn'goron and the second part of the cipher.He will be sad to hear news of my death. Promise me that you will assure him that I died a free soul. Tell him that I see the hunting grounds and they are glorious. Tell him that I wait for him there...",
+    "name": "The Cipher of Damnation - The Second Fragment Recovered",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

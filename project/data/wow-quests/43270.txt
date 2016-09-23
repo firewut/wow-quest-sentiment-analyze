@@ -1,0 +1,8 @@
+{
+    "_id": "43270",
+    "added_in_patch": 7,
+    "description": "As leader of our order, other priests will look to you for guidance. Many will be willing to pledge themselves to you, doing whatever is necessary to bring down the Burning Legion.After your display of power during the cleansing ritual, there will be many who are eager to serve at your side. Seek out those priests, and let them ease the burden of leadership.",
+    "name": "Rise, Champions",
+    "requires_level": 101,
+    "zone": "Priest Campaign"
+}

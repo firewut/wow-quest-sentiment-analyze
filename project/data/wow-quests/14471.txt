@@ -1,0 +1,8 @@
+{
+    "_id": "14471",
+    "description": "Hey bud! Like explosions? Of course you do. Who doesn't like explosions?!I've got mortars set up on the ridge to the east to hold the naga back. Go forth, recruit. Mortar them... mortar them all! Ahahahah.",
+    "name": "First Degree Mortar",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

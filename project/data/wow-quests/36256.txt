@@ -1,0 +1,9 @@
+{
+    "_id": "36256",
+    "added_in_patch": 6,
+    "description": "The arakkoa said it was going to investigate an anomaly in the Cracking Plains that might be related to another armor piece.",
+    "name": "The Arakkoan Enchanter",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

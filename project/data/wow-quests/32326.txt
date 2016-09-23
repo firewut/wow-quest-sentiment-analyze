@@ -1,0 +1,8 @@
+{
+    "_id": "32326",
+    "added_in_patch": 5.1,
+    "description": "<name>! You'll do perfectly.We know where the Alliance have hidden the Divine Bell. We've already inserted an agent into enemy territory, we just need you to help him execute his mission.Pack up, <name>. You're headed to Darnassus.",
+    "name": "Insertion",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

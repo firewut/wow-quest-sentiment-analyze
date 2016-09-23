@@ -1,0 +1,7 @@
+{
+    "_id": "26609",
+    "description": "You sure seem eager to work, matey.  Not sure why some land-loving <race> <class> is offering help to the Blackwater Raiders, but I'm not going to turn you away.We've made Booty Bay our happy home away from the high seas, but word has it that the Bloodsail have some new plan cooked up.  All me boys are too busy hitting the grog and looking for ladies!  What I need is a scout.Check the cove just north of Booty Bay along the Savage Coast and see what you find.",
+    "name": "The Bloodsail Buccaneers",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

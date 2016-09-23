@@ -1,0 +1,8 @@
+{
+    "_id": "42385",
+    "added_in_patch": 7,
+    "description": "Our scouts reported seeing a village in Val'sharah being attacked by undead hounds.This is the perfect opportunity for the Unseen Path to make good on our promise to help those in need.You should head out to Bradensbrook and see what you can do to help.",
+    "name": "Lending a Hand",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10211",
+    "description": "Do not burden A'dal with petty inquisitions, <class>.  That just might be the most powerful being you ever come face to face with.You do not look familiar.  I suppose you want to learn about the city?You'll have to excuse me if I don't give you a tour myself, but I'm a bit busy discussing strategy with A'dal.  Perhaps you'll find a summoned servant acceptable in my stead?  Excellent!",
+    "name": "City of Light",
+    "requires_level": 60,
+    "zone": "Shattrath City"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "7221",
+    "description": "Ah, <name>, reporting for duty are you?  Great, the Stormpikes can use everyone we can muster!Speak with Prospector Stonehewer in Dun Baldar.  She's recruiting for a vital mission into enemy territory.  You'll find Stonehewer in the bottom of the Dun Baldar garrison.And keep an eye out as you go through Dun Baldar.  There's plenty to do for a hardworking <class> who's not afraid to get his hands dirty.",
+    "name": "Speak with Prospector Stonehewer",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29753",
+    "added_in_patch": 5,
+    "description": "I'm afraid I have another favor to ask, <name>.The bottles you recovered contain neither the spirits of mogu ancestors nor recently slain foes; they contain spirits of beasts. It seems the spiritclaws have resorted to poaching in an effort to fuel their simulacra.This complicates our task, for I cannot take the beasts with me through the bridge.Take the bottles west to Tideview Thicket and smash them to return the spirits to nature. Some may be blind with rage and will need to be subdued.",
+    "name": "Back to Nature",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

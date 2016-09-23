@@ -1,0 +1,7 @@
+{
+    "_id": "5671",
+    "description": "Young priest, your church has sent word for you to return to Stormwind. The High Priestess Laurena would have words with you when you are ready. It seems your superiors feel you are ready for the next step of your training.I believe you can find your High Priestess in the Cathedral of Light. Elune go with you on your journey and peace be with you.",
+    "name": "<NYI> A Blessing of Light",
+    "requires_level": 15,
+    "zone": "Priest"
+}

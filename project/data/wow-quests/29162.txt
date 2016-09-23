@@ -1,0 +1,7 @@
+{
+    "_id": "29162",
+    "description": "<Mylune's voice rings in your head, like the sound of birds chirping.>I love all creatures of the forest, even spiders, despite the fact that they are icky. But the spiders from the Firelands are worse than icky. They're burny, and don't belong here.Find the fire portal in the western Regrowth, and use the gem I gave you earlier to force it open. When a fire spider emerges, step on it! Unless it's big. Then, do something <class>y to it.Oh, and use the gem if spider venom makes you woozy!",
+    "name": "Nature's Blessing",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9826",
+    "description": "These signs do not bode well for us, <name>.  I've never been one for secrecy so I will tell you a bit about my organization, the Violet Eye.We are agents of the Kirin Tor, the Magus Senate of Dalaran.  We were assigned to keep an eye on Karazhan and Medivh, in case things got out of hand.Which they did... very quickly, after Medivh disappeared.This report details my findings.  Take it to Archmage Cedric, also from the Violet Eye; you will find him in the outskirts of Dalaran Crater.",
+    "name": "Contact from Dalaran",
+    "requires_level": 68,
+    "zone": "Alterac Mountains"
+}

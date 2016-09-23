@@ -1,0 +1,8 @@
+{
+    "_id": "40762",
+    "added_in_patch": 7,
+    "description": "Commander Domitille represents the very essence of the Nightborne's corruption. Abhorrent of power not their own, enamoured with their Grand Magistrix to the point of zealotry, and focused utterly on the destruction of the Moon Guard.\r\n\r\nTake her helm to Lothrius as proof of her demise.",
+    "name": "Zealot's Dues",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

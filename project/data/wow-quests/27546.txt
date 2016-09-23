@@ -1,0 +1,6 @@
+{
+    "_id": "27546",
+    "description": "No doubt you've felt the earthquakes.  You may even have seen elementals attacking the lands or towns. We have sent many of our brightest minds to Nagrand to commune with the elements.But there is still much work to be done here.  Stormwind Guards are being overwhelmed with citizens worried about their loved ones.Please, <class>, speak with Captain Anton in Stormwind Keep and see how you might assist him.",
+    "name": "Speak with Captain Anton",
+    "zone": "Quests"
+}

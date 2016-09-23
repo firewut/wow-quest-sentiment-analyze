@@ -1,0 +1,8 @@
+{
+    "_id": "41728",
+    "added_in_patch": 7,
+    "description": "Chen's recent report indicates that Tian Monastery is under attack!<name>, they need your help. Go speak to Tak-Tak west of the main temple. He can get you there quickly.",
+    "name": "The Defense of Tian Monastery",
+    "requires_level": 103,
+    "zone": "Monk Campaign"
+}

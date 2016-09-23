@@ -1,0 +1,8 @@
+{
+    "_id": "44375",
+    "added_in_patch": 7,
+    "description": "As I'm sure you recall, we have retained our final set of plans to obtain a weapon of immense power.No pressure, of course, but if you wish to pursue it just let me know.",
+    "name": "The Final Blade",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

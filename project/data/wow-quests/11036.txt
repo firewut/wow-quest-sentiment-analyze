@@ -1,0 +1,7 @@
+{
+    "_id": "11036",
+    "description": "I'll be the first to admit I'm not quite sure what this order is for, but Rocket-Chief Fuselage's instructions were very specific -- only the very best fruit, preserved to survive a long voyage and sealed against the elements.There were other specifications, zero-gravity this and low pressure that. I don't pretend to understand it, but the price is right, so he'll get his superfood. Bring this crate to him up at Area 52. After crossing into Netherstorm, keep following the road until you see the town.",
+    "name": "Out of This World Produce!",
+    "requires_level": 67,
+    "zone": "Blade's Edge Mountains"
+}

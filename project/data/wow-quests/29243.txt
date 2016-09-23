@@ -1,0 +1,7 @@
+{
+    "_id": "29243",
+    "description": "One of Ragnaros' Lieutenants has shown itself at Ragnaros' Reach.  It is time to strike. Captain Saynna has requested that you be there to help see the fight through.Witherbranch and some others will have joined the battle by the time you arrive.  You should make haste to the northwest and find them.",
+    "name": "Strike at the Heart",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

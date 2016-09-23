@@ -1,0 +1,8 @@
+{
+    "_id": "43309",
+    "added_in_patch": 7,
+    "description": "I have heard whispers from Suramar City.\r\n\r\nRecent unrest in the city has prompted the nobles to seek another advisor to fill Elisande's council. Such positions are rarely offered and hotly contested.\r\n\r\nThis is the perfect opportunity and Ly'leth is the perfect candidate. Fate smiles upon our cause!\r\n\r\nI know she has historically chosen to avoid such politics and maneuvering, but we must now ask her to join the fray.\r\n\r\nSeek her out at the Waning Crescent and ensure her victory.",
+    "name": "The Perfect Opportunity",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

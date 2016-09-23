@@ -1,0 +1,7 @@
+{
+    "_id": "28499",
+    "description": "We, priests of Nahom, are guardians of the Tombs of the Precursors.Ever since the Neferset turned to their new masters, they've turned to great heresies.They rob the sacred tombs of our forefathers, seeking powerful artifacts and destroying invaluable relics in the process.Go to the tombs, east of here and punish the tomb-robbers for their transgressions, lest they join their brethren when the Neferset attack on Nahom begins.",
+    "name": "Punish the Trespassers",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35502",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Utgarde Keep Reward Quest",
+    "requires_level": 68,
+    "zone": "Quests"
+}

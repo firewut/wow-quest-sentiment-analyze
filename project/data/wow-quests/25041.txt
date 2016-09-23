@@ -1,0 +1,7 @@
+{
+    "_id": "25041",
+    "description": "Respect the lion, <name>! A ferocious killer. You gotta admire the elegance of the beast... Muscle and claws... Running down its food... So primal...I'm sorry, my mind wandered. As I was saying, I respect these lions, but they're just murder on our patrols. I mean that literally. The men are afraid to go to the bathroom alone at night. Can you help make our camp a little safer?Barrens lions like to linger under trees.",
+    "name": "Lion's Pride",
+    "requires_level": 30,
+    "zone": "Southern Barrens"
+}

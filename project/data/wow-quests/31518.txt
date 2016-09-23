@@ -1,0 +1,8 @@
+{
+    "_id": "31518",
+    "added_in_patch": 5,
+    "description": "It's been many lifetimes since the gates to the valley were open, <name>.I wouldn't miss this for the world, and neither should you!Meet me at the southen edge of Kun-Lai Summit. I'll wait for you there.",
+    "name": "The Vale of Eternal Blossoms",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

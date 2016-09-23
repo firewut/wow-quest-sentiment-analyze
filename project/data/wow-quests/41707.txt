@@ -1,0 +1,8 @@
+{
+    "_id": "41707",
+    "added_in_patch": 7,
+    "description": "As if Shaladrassil's encroaching roots were not enough to deal with, now the Wormtalon harpies have come to take advantage of our plight. Kill them, <race>. They deserve nothing less for feeding on our misery.",
+    "name": "Wormtalon Wreckage",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11291",
+    "description": "<Vice Admiral Keller rolls up the battle plans.>We've got all the information we need to keep Valgarde protected. You must take these battle plans to Westguard Keep, located on the western fjord cliff wall. Speak with the flight master assistant, Emilune Winterwind. She will put you on the back of a gryphon headed towards Westguard.Once there, find Captain Adams. He's the one in charge. Adams will know what to do with these plans.",
+    "name": "To Westguard Keep!",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

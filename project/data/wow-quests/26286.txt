@@ -1,0 +1,8 @@
+{
+    "_id": "26286",
+    "description": "After my tour of duty was over in Grizzly Hills, I returned to Westfall, only to find the land in worse condition than when I left.The price of our war left thousands of citizens homeless. They now migrate here and squat upon the deserted farmhouses and towns of the region.To make matters worse, we are now under attack by the gnolls. The Westfall Brigade needs your help, <name>. Slay the attacking gnolls and recover their orders. Someone is pulling their strings and we need to find out whom!",
+    "name": "In Defense of Westfall",
+    "requires_level": 11,
+    "side": "alliance",
+    "zone": "Westfall"
+}

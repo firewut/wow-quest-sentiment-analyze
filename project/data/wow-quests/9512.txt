@@ -1,0 +1,7 @@
+{
+    "_id": "9512",
+    "description": "The Admiral be right, ye are a resourceful one. Mayhap ye could help Cookie out?If I serve the crew chicken for dinner again, I'll be sent to the brig fer sure.I noticed that thar be crawlers all along the coastline - lots o' crawlers! Bring me crawler meats and I'll be forever indebted to ya.Help a reformed pirate out?",
+    "name": "Cookie's Jumbo Gumbo",
+    "requires_level": 5,
+    "zone": "Azuremyst Isle"
+}

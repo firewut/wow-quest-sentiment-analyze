@@ -1,0 +1,8 @@
+{
+    "_id": "43851",
+    "added_in_patch": 7,
+    "description": "Word of your leadership has spread rather fast. Priests of all sorts have traveled to the temple to lend their aid.\r\n\r\nWe're lucky enough to have caught the eye of Vicar Eliza. She's quite the leader in her own right, commanding countless devotees that do her bidding without question. \r\n\r\nSpeak to her now.",
+    "name": "Recruiting More Troops",
+    "requires_level": 103,
+    "zone": "Priest Campaign"
+}

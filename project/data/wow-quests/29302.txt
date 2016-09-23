@@ -1,0 +1,7 @@
+{
+    "_id": "29302",
+    "description": "The initials seem to have worn off of this locket, but I can sense a power within it that suggests only one possible owner:Leyara, the Druid of the Flame.Stand back, and we shall see what surprises this locket contains.",
+    "name": "Unlocking the Secrets Within",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

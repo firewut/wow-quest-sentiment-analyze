@@ -1,0 +1,8 @@
+{
+    "_id": "12312",
+    "description": "Scrawled across the flesh-bound chapters of this tome are strange symbols and shapes that seem to have been scraped into the pages with a blade. You have no idea what is written, but you are certain that whatever it is, it must be important.Deliver the tome to Cavalier Durkon standing guard topside at Wintergarde Crypt.",
+    "name": "Secrets of the Scourge",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

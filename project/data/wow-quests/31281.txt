@@ -1,0 +1,8 @@
+{
+    "_id": "31281",
+    "added_in_patch": 5,
+    "description": "You wish to be a chef? If you are dedicated, I can unlock your hidden potential, no matter how inexperienced you are.If you wish to learn, show me you can at least follow basic instructions. Learn how to slice peaches and show me what you've learned.  I have fresh pandaren peaches which I will sell to you at a token price.",
+    "name": "So You Want to Be a Chef...",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

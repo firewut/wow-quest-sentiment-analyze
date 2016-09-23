@@ -1,0 +1,8 @@
+{
+    "_id": "40168",
+    "added_in_patch": 6.2,
+    "description": "As you touch the vial, your mind is flooded with memories, not all of which are your own. The most vivid is a memory of exchanging a similar vial with someone in Shattrath, with A'dal's light shining behind you. Despite your best efforts however, you can't pinpoint when that might have been - maybe it hasn't been, and is yet to be?",
+    "name": "The Swirling Vial",
+    "requires_level": 71,
+    "zone": "Shattrath City"
+}

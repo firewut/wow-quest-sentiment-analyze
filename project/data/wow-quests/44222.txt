@@ -1,0 +1,8 @@
+{
+    "_id": "44222",
+    "added_in_patch": 7,
+    "description": "In times of great need, the Val'kyr can rally its mightiest forces into one pure, destructive form.  This is such a time.\r\n\r\nOn request, these we will channel our power into a Horn, which we will impart to you.  Use it to unleash that power, completing a quest of great value.",
+    "name": "The Might of the Val'kyr",
+    "requires_level": 110,
+    "zone": "Quests"
+}

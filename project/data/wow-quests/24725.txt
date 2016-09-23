@@ -1,0 +1,7 @@
+{
+    "_id": "24725",
+    "description": "",
+    "name": "Crystal Charge",
+    "requires_level": 51,
+    "zone": "Un'Goro Crater"
+}

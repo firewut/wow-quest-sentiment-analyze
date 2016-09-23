@@ -1,0 +1,8 @@
+{
+    "_id": "12319",
+    "description": "What can it be, <name>? That was certainly no ordinary curse that the blasted lich put on you!<Durkon flips through the grisly pages of the tome.>I don't even know if I'm looking at it the right way. We must find out what information is held within this tome!<Durkon hands the book back to you.>The High Commander will know what to do. Take the flesh-bound tome to him and tell him exactly what happened here.",
+    "name": "Mystery of the Tome",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

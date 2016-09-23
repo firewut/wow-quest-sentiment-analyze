@@ -1,0 +1,9 @@
+{
+    "_id": "38189",
+    "added_in_patch": 6.1,
+    "description": "Bloodmaul ogres from Frostfire Ridge have been ambushing trade routes throughout the continent, and are putting captured soldiers to work in their slag mines.\r\n\r\nBodrick Grey has requested the rescue of friendly troops that have been taken prisoner in the main Bloodmaul compound at Stonefury Cliffs.",
+    "name": "Missive: Assault on Stonefury Cliffs",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28200",
+    "description": "You'll notice that we're slightly ill prepared for battle.The tol'vir tribes had never seen any sort of major confrontation for thousands of years.All the combat protocols that the titans programmed into our ancestors are still there, though.  Some are part of our instincts, some get passed on as tradition.But none of this can compensate for lack of supplies.  We need weapons.  We need armor.The best armor is lined with the skin of the riverbed crocolisks nearby.  Help us gather some.",
+    "name": "The Element of Supplies",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

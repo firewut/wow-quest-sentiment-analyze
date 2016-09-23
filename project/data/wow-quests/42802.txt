@@ -1,0 +1,8 @@
+{
+    "_id": "42802",
+    "added_in_patch": 7,
+    "description": "There has been increased demonic activity below on Mardum. There are still demons leftover down there from when we first invaded.\r\n\r\nTo eliminate any threat to the Fel Hammer, it's time that they were destroyed.",
+    "name": "Securing Mardum",
+    "requires_level": 103,
+    "zone": "Demon Hunter Campaign"
+}

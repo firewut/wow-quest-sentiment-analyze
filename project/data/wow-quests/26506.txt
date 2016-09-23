@@ -1,0 +1,8 @@
+{
+    "_id": "26506",
+    "description": "I need your help, <race>! Our rations have run out and the guards are getting hungry. They're clamoring for my world famous franks and beans, but I have no ingredients on hand. Would you be a darling and help me out?I need some goretusk kidneys, condor giblets, and tarantula eyes. You'll find goretusks, condors and tarantulas near this tower. Just look around!",
+    "name": "Franks and Beans",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Redridge Mountains"
+}

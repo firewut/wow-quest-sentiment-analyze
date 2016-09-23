@@ -1,0 +1,7 @@
+{
+    "_id": "13601",
+    "description": "By Elune!  It appears that many of those we feared dead from the attack on old Auberdine have taken refuge in a camp outside the town ruins.The cultists at the Twilight Encampment were planning on making quick work of them.  It's a good thing that you successfully attacked their position.Seek out Priestess Alinya at the Refugee Camp east of old Auberdine and far south of here.",
+    "name": "In Aid of the Refugees",
+    "requires_level": 13,
+    "zone": "Darkshore"
+}

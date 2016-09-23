@@ -1,0 +1,7 @@
+{
+    "_id": "12169",
+    "description": "I have dreamed of Zangus before but without the context that you have discovered, I knew not what it meant. You have brought clarity to the vision that the goddess has bestowed upon me, and now I know that he can be found within the Pit of Narjun to the north.You know your target, <name>. If there's to be an end to the suffering of the land, the high cultist must die!",
+    "name": "The High Cultist",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

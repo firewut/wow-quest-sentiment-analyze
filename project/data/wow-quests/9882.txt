@@ -1,0 +1,7 @@
+{
+    "_id": "9882",
+    "description": "Nexus Prince Haramad has ordered us to not begin work inside of Oshu'gun as it might anger a certain powerful naaru.  Sort of puts a damper on our operation.I think I might've found a loophole, however.You see, we're not the only ethereals drawn to this colossal diamond.  A thief called Gava'xi has led a band of rogue ethereals into Oshu'gun and they've begun to dislodge large fragments from it.Your job, <race>, is to go there and retrieve what is rightfully ours.",
+    "name": "Stealing from Thieves",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

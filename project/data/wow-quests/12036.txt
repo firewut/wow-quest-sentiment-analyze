@@ -1,0 +1,8 @@
+{
+    "_id": "12036",
+    "description": "The undead Nerubians that attacked Icemist Village came from a gigantic sinkhole known as the Pit of Narjun. If left alone, those fiends will no doubt flank our forces at the Wrathgate and end our march to victory.I need eyes on the ground, <name>. You are to head west and investigate the Pit of Narjun. We need to locate their primary exit point and seal it off! Find me that location.\r\n",
+    "name": "From the Depths of Azjol-Nerub",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40167",
+    "added_in_patch": 7,
+    "description": "You work to unite the tribes. That is no small task. It has only been done once before in the history of this mountain.\r\n\r\nHuln Highmountain last united the tribes thousands of years ago to take on the Legion during the War of the Ancients.",
+    "name": "The Story of Huln",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

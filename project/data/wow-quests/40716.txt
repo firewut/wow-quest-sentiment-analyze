@@ -1,0 +1,8 @@
+{
+    "_id": "40716",
+    "added_in_patch": 7,
+    "description": "Greetings, warlock. I speak on behalf of the Council of the Black Harvest.With the Legion invasion upon us, it is painfully clear that our only hope is to grow stronger. The council plans to tap into the Twisting Nether and call forth more powerful demon allies. The ritual is ready, but we are short one number.No doubt you have heard of the fate that befell Kanrethad Ebonlocke.You will be his replacement. Do you accept?",
+    "name": "The Sixth",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

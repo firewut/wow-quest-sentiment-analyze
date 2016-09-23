@@ -1,0 +1,8 @@
+{
+    "_id": "24905",
+    "description": "You know, while you were out doin' your thing, Megs stopped by here. I hadn't seen her in months, but she barely gave me the time of day, just wanted me to tell you she had more business lined up.She said she was headed over to the Dunemaul Compound to set up shop, something about ogres. Since you're done here, might as well head over...I wouldn't keep a goblin like her waiting.",
+    "name": "Returning a Favor",
+    "requires_level": 45,
+    "side": "horde",
+    "zone": "Tanaris"
+}

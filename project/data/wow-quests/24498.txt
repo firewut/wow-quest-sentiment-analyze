@@ -1,0 +1,7 @@
+{
+    "_id": "24498",
+    "description": "They've put our captured soldiers to work in the quarry!Kill their captors and set them free, hero. We will need their aid when we confront Scourgelord Tyrannus.",
+    "name": "The Path to the Citadel",
+    "requires_level": 78,
+    "zone": "Quests"
+}

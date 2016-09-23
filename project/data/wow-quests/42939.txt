@@ -1,0 +1,8 @@
+{
+    "_id": "42939",
+    "added_in_patch": 7,
+    "description": "The logbook contains the latest information on Uthalesh. It appears to have been written by an extremely agitated, excited, or psychotic imp and is barely legible. Take this to Calydus for translation.",
+    "name": "Tracking Down Uthalesh",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

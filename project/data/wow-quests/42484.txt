@@ -1,0 +1,8 @@
+{
+    "_id": "42484",
+    "added_in_patch": 7,
+    "description": "General Nazgrim was one of the finest warriors our world has known, and his loyalty was unsurpassed... even for an orc.He deserves the peace of death, but this world cries out to be saved. The time for rest is over...Come, Deathlord... let us welcome Nazgrim into the arms of the damned.",
+    "name": "The Firstborn Rises",
+    "requires_level": 98,
+    "zone": "Death Knight Campaign"
+}

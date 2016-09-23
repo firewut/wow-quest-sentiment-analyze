@@ -1,0 +1,9 @@
+{
+    "_id": "33785",
+    "added_in_patch": 6,
+    "description": "They took my brothers and sisters.They took my wolf.<Karg lifts his axe and fixes his gaze upon its edge.>Now we take their heads.",
+    "name": "Karg Unchained",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

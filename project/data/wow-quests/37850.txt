@@ -1,0 +1,7 @@
+{
+    "_id": "37850",
+    "description": "The first point has been activated and two more remain. The second location is hinted at in the old outcast writing:\r\n\r\n\"Beneath the third fall of the great Skettis river lay the second key. May the ever-rushing waters sweep away those that might seek it.\"",
+    "name": "Amulet of Rukhmar: The Second Key",
+    "requires_level": 100,
+    "zone": "Spires of Arak"
+}

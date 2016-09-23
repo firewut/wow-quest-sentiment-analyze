@@ -1,0 +1,7 @@
+{
+    "_id": "12639",
+    "description": "We captured these elementals from nearby, and I have plenty of defenders now. But, it takes a great deal of power to make them strong enough to stand up to our enemies.The frozen earth at Drak'Mabwa to the northwest have what I need to maintain our defenses. I'll need more of their essence if I'm to keep this up.",
+    "name": "The Frozen Earth",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

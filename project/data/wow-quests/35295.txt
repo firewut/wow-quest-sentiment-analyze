@@ -1,0 +1,9 @@
+{
+    "_id": "35295",
+    "added_in_patch": 6,
+    "description": "I found somethin' else while I was scoutin', boss.Da Alliance have a garrison just across da way, and der been no movement in or out of da place in a good while.Dis be a golden opportunity to sack da place and bolster your coffers, commander.What do ya say? We do it together.",
+    "name": "What's Theirs is Ours",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

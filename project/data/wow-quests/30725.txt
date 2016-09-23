@@ -1,0 +1,8 @@
+{
+    "_id": "30725",
+    "added_in_patch": 5,
+    "description": "We regularly organize one-on-one duels with trainees that we think are well-suited for one another. We have found one such trainee for you, <name>.Her name is Ellia Ravenmane. This will be her first duel, too. She will be waiting for you at the pavilion just to the south of here.",
+    "name": "Ellia Ravenmane",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

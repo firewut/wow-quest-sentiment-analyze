@@ -1,0 +1,7 @@
+{
+    "_id": "11426",
+    "description": "Don't worry, <name>; this is all going to lead to something big! HUGE! You're just going to have to trust me for now and do as I ask of you.We need to get the mechanism mentioned in the manual for the next step of the plan. I have a strong suspicion that you'll find one on one of those vrykul that operate the harpoon guns in Wyrmskull Village. You'll find them on the east side of the village, on the docks by the longhouses.",
+    "name": "Locating the Mechanism",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

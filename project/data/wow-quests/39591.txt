@@ -1,0 +1,8 @@
+{
+    "_id": "39591",
+    "added_in_patch": 7,
+    "description": "To seek the Aegis of Aggramar, a champion must complete three great trials before riding into glorious battle through the Gates of Valor. Here you will find the knowledge of the trials you must seek out, as well as the first challenge you must face.\r\n\r\nAbove us, adorning the central plateau, you will find the archive for the Trial of Valor. Seek it out, and learn where your path leads.",
+    "name": "A Trial of Valor",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

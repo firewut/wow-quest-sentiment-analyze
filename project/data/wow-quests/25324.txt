@@ -1,0 +1,7 @@
+{
+    "_id": "25324",
+    "description": "The Twilight's Hammer wants to free Fandral Staghelm?Malfurion suspected his corruption ran deep... this just cements it.At any rate we cannot allow our enemies to get their hands on such a powerful arch druid.I've a plan, <name>.  We will move the prisoner through the Emerald Dream.  It will be risky, but with all the cultists present here it might be the only way to guarantee our success.Speak to Saynna Stormrunner inside the Barrow Dens to the northeast.  ",
+    "name": "A Prisoner of Interest",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

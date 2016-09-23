@@ -1,0 +1,8 @@
+{
+    "_id": "25690",
+    "description": "Contrary to popular belief, blood elf bloodmages do NOT drink blood.  We eat normal food like everybody else - something which can be hard to come by in the recesses of an ogre stronghold.The ashmane boars in the central valley of the Blasted Lands are, if nothing else, convenient for eating, as their meat does not require any cooking.  Would you hunt these boars and help us replenish our foodstores?",
+    "name": "A Bloodmage's Gotta Eat Too",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

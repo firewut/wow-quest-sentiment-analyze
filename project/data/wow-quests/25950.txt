@@ -1,0 +1,7 @@
+{
+    "_id": "25950",
+    "description": "You're the <name> everyone's been talking about? Good to meet ya, love. Let's have a butcher's hook.Well, enough rabbit, right? Let's get down to it. I need you to swim out northwest to the Sira'kess Front and read and write them snakes something quick.Nothing fancy. They're looking for a bother, and we'll give 'em a right good one in the ol' boat race.",
+    "name": "Sira'kess Slaying",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

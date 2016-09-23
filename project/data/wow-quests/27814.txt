@@ -1,0 +1,7 @@
+{
+    "_id": "27814",
+    "description": "Stay back and forge more weapons?  Pah!  A Forgehammer has ne'er been afraid of battle!  Who needs the safety of home to make weapons?  Besides - there is oodles of raw material out here.  Those Dragonmaw weapons are worthless, but they can be smelted down to make actual weapons.  Bring me 8 Dragonmaw weapons so me daughter and I can forge real weapons out of them.",
+    "name": "Anything We Can Get",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12241",
+    "description": "The furbolgs' work must be undone, <name>.  The best of intentions do not count for much when the result is tainted by such strong a corruption.The sapling must be destroyed, for it is the source of this dark influence.  Take this torch and use it to set fire to the corrupted sapling and bring me its ashes.Once cleansed, by fire, I will use what power I can to remove the taint from them.  You will need the ashes to purify Ursoc from the evil power that holds sway over him.",
+    "name": "Destroy the Sapling",
+    "requires_level": 72,
+    "zone": "Grizzly Hills"
+}

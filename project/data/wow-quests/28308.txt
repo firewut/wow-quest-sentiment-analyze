@@ -1,0 +1,7 @@
+{
+    "_id": "28308",
+    "description": "Seer Liwatha sends her greetings from the Valley of Wisdom in Orgrimmar, <name>. She asked me to convey an invitation to visit her next time you're in the city. It sounded like she has something of importance to discuss with you.",
+    "name": "Meet with Seer Liwatha",
+    "requires_level": 50,
+    "zone": "Orgrimmar"
+}

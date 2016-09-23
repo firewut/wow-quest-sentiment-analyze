@@ -1,0 +1,8 @@
+{
+    "_id": "32996",
+    "added_in_patch": 5.4,
+    "description": "[TEMP TEXT] I've heard your name, <name>. Many times. You are, and long have been, one of the Horde's more accomplished warriors.Still, you and I are strangers, and I need to know how capable you are before I can help you with your scroll.The xxx have recently uncovered xxx. Prove yourself by bringing back spoils from these dungeons.",
+    "name": "Battle-Hardened Relics",
+    "requires_level": 90,
+    "zone": "Warrior"
+}

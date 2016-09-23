@@ -1,0 +1,9 @@
+{
+    "_id": "35386",
+    "added_in_patch": 6,
+    "description": "<The attack plans are scrawled onto the parchment in thick, black ink and bound in rough leather.>To all outrider stations:The warlord has commanded that all outriders prepare for a full assault upon the Alliance invaders in our land. Plans for the attack have been delivered to several of the remote outrider posts.Blood and glory shall be ours as we trample the Alliance invaders beneath our feet!The warlord commands and the Warsong obey! Lok'tar ogar!",
+    "name": "The Warsong Threat",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

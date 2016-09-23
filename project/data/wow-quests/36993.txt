@@ -1,0 +1,9 @@
+{
+    "_id": "36993",
+    "added_in_patch": 6,
+    "description": "The Warsong Clan of Nagrand are some of the best hunters I've ever had the misfortune of meeting. If anyone can pose a real test for your future mount, it's one of their chief beast-killers.Out in Nagrand, you'll find an orc by the name of Karak. They call him the Great Hunter, and he's taken down more fierce beasts than any other in the clan. Get astride your clefthoof and bring him down. In the name of the poor wee beasts!",
+    "name": "Clefthoof Training: Orc Hunters",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

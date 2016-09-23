@@ -1,0 +1,7 @@
+{
+    "_id": "12860",
+    "description": "That disk you assembled... it's blank! That crafty Mimir must've hidden the information somewhere else. Look around the Inventor's Library; do you see any databanks there?That might be what you need to do with the disk. Try using it near some of those databanks. Perhaps it's set to retrieve and store information from them. After you've tried your hand at that, contact me again and let me know what you've found. Meanwhile, I'll be trying to track down the other half of the archive key.",
+    "name": "Data Mining",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

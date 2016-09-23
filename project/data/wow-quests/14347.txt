@@ -1,0 +1,8 @@
+{
+    "_id": "14347",
+    "description": "<name>!  I'm still not sure if you're alive or dead... human or worgen...I'm not even sure if I'm really awake.  But THIS I am sure of...We're going to kill a great many of these motherless Forsaken.",
+    "name": "Hold the Line",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

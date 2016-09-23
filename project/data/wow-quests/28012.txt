@@ -1,0 +1,7 @@
+{
+    "_id": "28012",
+    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to the Stormwind Stockade, inside his highness' own city, immediately!A mass riot has begun within! If you so choose, head to the Stockade and speak with Rifle Commander Coe, head rifleman of the Stockade guard, to help quell the uprising.",
+    "name": "Adventurers Wanted: Stormwind Stockade",
+    "requires_level": 22,
+    "zone": "Quests"
+}

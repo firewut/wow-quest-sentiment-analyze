@@ -1,0 +1,8 @@
+{
+    "_id": "32045",
+    "added_in_patch": 5,
+    "description": "We are all children of the water here in the Valley of the Four Winds. It nourishes us, it grows our vegetables, it brings us life.Some creatures, however, drink too deeply from the water. They grow too large, and must be eliminated before they cause havoc to those around them.I am but a simple stonecarver. You, on the other hand...",
+    "name": "Children of the Water",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

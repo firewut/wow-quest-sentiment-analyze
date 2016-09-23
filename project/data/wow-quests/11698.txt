@@ -1,0 +1,7 @@
+{
+    "_id": "11698",
+    "description": "If the cultists up in those caves survived the crash, then that fallen necropolis to the west can only be assumed to still be filled with Scourge. There're probably lots of them out in front of it in the pools, too!While you're at Talramas, <class>, do you think you could dispatch all of the Lich King's flunkies that you find there?",
+    "name": "Might As Well Wipe Out the Scourge",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

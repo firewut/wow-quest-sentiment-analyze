@@ -1,0 +1,8 @@
+{
+    "_id": "12100",
+    "description": "With Scourge comes death and disease. We often overlook that the wildlife of a Scourge infested area is ravaged and ultimately destroyed by rot and contagion.For most of the indigenous beasts of the Dragonblight it is too late. The festering disease that the Scourge brings has already infected the beasts and they are now rabid and rotting.You must venture west, towards the Pit of Narjun, and cull the infected wildlife. Check their corpses for a preserved organ as we need one to devise a vaccine.",
+    "name": "Containing the Rot",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

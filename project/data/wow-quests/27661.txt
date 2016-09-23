@@ -1,0 +1,7 @@
+{
+    "_id": "27661",
+    "description": "My arch-nemesis, Lord Cannon, has foolishly decided to throw his allegiance to the Twilight's Hammer.In the past, we've coexisted with a shaky truce, but his change of heart leaves me little choice but to put an end to him. Or, I should say, if you want the information that you seek from the dead dwarf, you're going to kill Lord Cannon for me.Seek him at Cannon's Inferno to the southeast.",
+    "name": "Fire the Cannon",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

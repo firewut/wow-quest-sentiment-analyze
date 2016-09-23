@@ -1,0 +1,8 @@
+{
+    "_id": "37201",
+    "added_in_patch": 6,
+    "description": "I found some interesting artifacts on a recent dig, and I'd love to put them through their paces to see how they would have performed in their native cultures.  Don't suppose you have anything small and furry that can put up a fight?",
+    "name": "Cymre Brightblade",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

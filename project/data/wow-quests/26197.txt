@@ -1,0 +1,8 @@
+{
+    "_id": "26197",
+    "description": "It's a victory for us every time we're able to help another survivor escape from the contaminated halls of Gnomeregan. <Class>s like you will play an important part in the future of Gnomeregan. To that end, our leader, High Tinker Mekkatorque has assembled a team of trainers to help you learn your arts.Bipsi Frostflinger will help oversee your training and adjustment to life on the surface. She's waiting for you outside the tall building to the northeast.",
+    "name": "The Future of Gnomeregan",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

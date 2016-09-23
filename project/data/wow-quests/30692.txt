@@ -1,0 +1,8 @@
+{
+    "_id": "30692",
+    "added_in_patch": 5,
+    "description": "This here's hozen lands. Very dangerous. But grummles must trek through. Supplies must reach the Serpent's Spine.Go, protect the next wave of grummles on their trek to Kota Basecamp.If at least one survives, good fortune will find its way to you.",
+    "name": "The Burlap Trail: To Kota Basecamp",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

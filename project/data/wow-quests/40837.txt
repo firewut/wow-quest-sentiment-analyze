@@ -1,0 +1,8 @@
+{
+    "_id": "40837",
+    "added_in_patch": 7,
+    "description": "The Nightbane! If they are in Deadwind Pass, then they may be seeking the scythe as well.\r\n\r\nLet's split up and try to track them down. We'll see where their trail leads...",
+    "name": "The Deadwind Hunt",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

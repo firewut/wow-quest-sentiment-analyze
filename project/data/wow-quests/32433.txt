@@ -1,0 +1,8 @@
+{
+    "_id": "32433",
+    "added_in_patch": 5.1,
+    "description": "Grezik Oregrind has become a nuisance that must be eliminated.This land responds to all of our actions as I am sure you are aware, <class>. Because of this, we cannot allow the goblins to haphazardly destroy it.Our scouts have reported Sha emerging from Oregrind's Dig. The brains behind the operation is a goblin named Grezik Oregrind.Destroy him and perhaps we will stall the operation just long enough to contain the Sha.",
+    "name": "Undermining the Under Miner",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

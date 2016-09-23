@@ -1,0 +1,7 @@
+{
+    "_id": "27900",
+    "description": "Good timing, <name>.Seems I'm not the only one interested in these obelisks, and these fellas aren't inclined to compare notes...I think I can handle this guy.Maybe you could take care of a few of his friends before they make their way over here?",
+    "name": "I've Got This Guy",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

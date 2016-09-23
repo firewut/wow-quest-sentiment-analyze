@@ -1,0 +1,7 @@
+{
+    "_id": "26779",
+    "description": "The Skullsplitters are an embarrassment to the troll empire.  Their petty squabbles with the Bloodscalps have torn Northern Stranglethorn apart.  Where tribes like the Darkspear and the Zandalari thrive, the Skullsplitters fight over ruins.I have been authorized to issue rewards to mercenaries who are willing to deliver punishment to the Skullsplitters.  I encourage you, and anyone you know, to travel east into Zul'Mamwe and cull their wayward tribe.",
+    "name": "Zul'Mamwe Mambo",
+    "requires_level": 27,
+    "zone": "Northern Stranglethorn"
+}

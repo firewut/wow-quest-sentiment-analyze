@@ -1,0 +1,8 @@
+{
+    "_id": "32470",
+    "added_in_patch": 5.2,
+    "description": "While the Zandalari perform live sacrifices, they will not offend their gods by sacrificing a life without also sacrificing offerings of food, treasure, and other items of value.\r\n\r\nRecover some of the offerings from cairns in the Troll Town to the north so we might delay their sacrifices further.",
+    "name": "Plundering Profferings [PH]",
+    "requires_level": 90,
+    "zone": "Quests"
+}

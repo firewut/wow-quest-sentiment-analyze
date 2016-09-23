@@ -1,0 +1,7 @@
+{
+    "_id": "28210",
+    "description": "High Commander Kamses has a special mission for me?Wait... don't tell me.  It's hyenas again, right?Very well, I shall do my best.Meet with me at the Sunwatcher's Ridge.I won't disappoint you.",
+    "name": "Shaping Up",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

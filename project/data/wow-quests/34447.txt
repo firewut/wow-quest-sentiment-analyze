@@ -1,0 +1,9 @@
+{
+    "_id": "34447",
+    "added_in_patch": 6,
+    "description": "The focusing crystal is complete, <name>. When you are ready I will use the crystal to shatter Kaelynara's shield.However, it is unsafe to confront her within the mine. The moment her shield is down I will teleport us to a safe location outside of the Jorune Mine. She will be much easier to deal with when she is far away from the crystal.Speak with me when you are ready to begin.",
+    "name": "Kaelynara Sunchaser",
+    "requires_level": 95,
+    "side": "horde",
+    "zone": "Talador"
+}

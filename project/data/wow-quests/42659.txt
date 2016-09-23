@@ -1,0 +1,8 @@
+{
+    "_id": "42659",
+    "added_in_patch": 7,
+    "description": "We have everything we need to set the trap for Hakkar.\r\n\r\nArchmage Khadgar will summon a portal to the Violet Hold. Once inside, he will begin to channel his essence into the arcane vessel at your command.\r\n\r\nOur allies will be armed with the weapons you brought them, ready to fight when Hakkar takes the bait.",
+    "name": "In Defense of Dalaran",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

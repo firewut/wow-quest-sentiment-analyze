@@ -1,0 +1,8 @@
+{
+    "_id": "40184",
+    "added_in_patch": 7,
+    "description": "Have you heard of the Highmountain tauren tribes? They're not unlike the tauren we know on Kalimdor.I've heard they have a leatherworking master there who might be able to help us come up with some new patterns.Travel to Highmountain and see if they're willing to teach you how they craft their armor.",
+    "name": "Tauren Tanning",
+    "requires_level": 102,
+    "zone": "Leatherworking"
+}

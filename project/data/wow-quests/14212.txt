@@ -1,0 +1,8 @@
+{
+    "_id": "14212",
+    "description": "You don't have to do this, <name>.  You've done more than enough already.But if you decide to stay... I'd be a fool to turn you away.My men have fortified their position inside the cathedral and are ready for what comes next.I'm about to head there and take as many of these flea-ridden devils with me as I can.  You're welcome to come along for the ride.",
+    "name": "Sacrifices",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

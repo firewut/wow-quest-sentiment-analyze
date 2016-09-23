@@ -1,0 +1,8 @@
+{
+    "_id": "31839",
+    "added_in_patch": 5,
+    "description": "Welcome back <name>, the time has come for the next step of your training.  Speak with Master Hsu in the Training Grounds below us for your next lesson.\r\n",
+    "name": "Continue Your Training: Master Hsu",
+    "requires_level": 80,
+    "zone": "Peak of Serenity"
+}

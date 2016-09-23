@@ -1,0 +1,7 @@
+{
+    "_id": "27977",
+    "description": "We used to have more stuff around here.  I think there was a spyglass somewhere nearby, along with a smithing tuyere.I'm pretty certain that they've been stolen by Dark Iron dwarves.  Yes, I know that I'm a Dark Iron dwarf!  I'm talking about the bad ones that live down in that gorge.You'd best check the steamsmiths that work just south of here.  They'd be most likely to use tools like these.",
+    "name": "Recon Essentials",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

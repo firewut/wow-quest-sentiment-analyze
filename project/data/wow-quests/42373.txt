@@ -1,0 +1,8 @@
+{
+    "_id": "42373",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Vengeance for the Stonedark",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

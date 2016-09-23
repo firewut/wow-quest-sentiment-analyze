@@ -1,0 +1,7 @@
+{
+    "_id": "12996",
+    "description": "You've been very fortunate, sister.  This is a matriarch the likes of which hasn't been seen in years.A good bear won't do you much good without the skill to ride it.I'm going to have you practice some moves on Kirgaraak.  He's the largest yeti we've ever managed to capture so be careful.  Don't be afraid to walk away if he gives you a beating... there's a reason why we keep him chained.",
+    "name": "The Warm-Up",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

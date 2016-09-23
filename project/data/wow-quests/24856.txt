@@ -1,0 +1,8 @@
+{
+    "_id": "24856",
+    "description": "Your work here is done for now, but there's no rest for the wicked, eh?You remember Megs Dreadshredder, our old marketing rep? She's taken some others over the hills to the southeast, just past the Raptor Rise. If you follow the path east out of town and follow it south at the fork, you can't miss her.Apparently there's some trouble or other brewing with the snake-men at the ruins on the shore. Go see if you can't sort it all out, would you?",
+    "name": "Invasion Imminent!",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

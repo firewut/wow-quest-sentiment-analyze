@@ -1,0 +1,7 @@
+{
+    "_id": "29515",
+    "description": "As the popularity of the Darkmoon Faire grows, more and more people seek me out to peer into their futures.Most times, they ask for knowledge best left hidden in the mists of time, but it is not my place to give such advice.My stock of written fortunes is running low and you look to have a steady hand. Take these herbs, make ink from them, and pen a few fortunes for me. You can get the parchment you'll need from any trade goods vendor in Elwynn Forest or Mulgore.",
+    "name": "Writing the Future",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

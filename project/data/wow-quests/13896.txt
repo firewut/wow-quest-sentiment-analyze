@@ -1,0 +1,7 @@
+{
+    "_id": "13896",
+    "description": "Listen, <name>.  We need to learn more about what we're up against.To the southwest, beyond the Master's Glaive, there is a group of dwarven prospectors who were excavating the nearby ruins.Perhaps they have uncovered knowledge that is useful to us in this matter.",
+    "name": "Unearthed Knowledge",
+    "requires_level": 17,
+    "zone": "Darkshore"
+}

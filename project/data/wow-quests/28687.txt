@@ -1,0 +1,8 @@
+{
+    "_id": "28687",
+    "description": "Rustberg Village.  That place is a curse and a blessing for us, <name>.  I have no clue where bandits learned to fish as well as they do but I have no time to worry about that now.I need you to head down there and steal as many of their fish reserves as possible.  We have been living off scraps since we retook the island and this is our best chance at some solid food reserves.Keep an eye out for stealthers up there, reports have told us they are prevalent inside the village walls.",
+    "name": "Teach A Man To Fish.... Or Steal",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "Quests"
+}

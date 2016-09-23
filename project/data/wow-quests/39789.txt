@@ -1,0 +1,8 @@
+{
+    "_id": "39789",
+    "added_in_patch": 7,
+    "description": "Greetings traveler! You are welcome to rest at our camp, but if you plan on sticking around a while, I have a proposition for you.\r\n\r\nAs you can see, the land here has been very good to us, providing a great natural bounty. Lately, however, the worg have become problematic, and are thinning the herds to unacceptable levels.\r\n\r\nI can't take care of them all, so I will offer a bounty for every worg slain in the mesa. Return to me when you have culled their pack a bit.",
+    "name": "Eating Into Our Business",
+    "requires_level": 98,
+    "zone": "Stormheim"
+}

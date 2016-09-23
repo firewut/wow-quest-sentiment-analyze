@@ -1,0 +1,8 @@
+{
+    "_id": "12293",
+    "description": "We have what the trappers want.  Now it's up to us to sign them up with our side.Take the chest to a trapper named Ivan at the Aspen Grove Post, just north of here.If all goes well, we'll have local woodsmen serving as scouts for the king's army in no time.",
+    "name": "Close the Deal",
+    "requires_level": 73,
+    "side": "alliance",
+    "zone": "Grizzly Hills"
+}

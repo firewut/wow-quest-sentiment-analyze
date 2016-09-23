@@ -1,0 +1,9 @@
+{
+    "_id": "37792",
+    "added_in_patch": 6.1,
+    "description": "Ner'zhul wasn't always evil - once he was the wise chieftain and elder shaman o' the Shadowmoon clan. In his desperate bid to join the Iron Horde he's forsaken all he once stood for and twisted his ancestors' spirits to tap into dark, forbidden power... all to please Hellscream.Enter their ancestral burial grounds and put an end to Ner'zhul's madness before he pulls all o' Draenor into the engulfing maw o' the void.",
+    "name": "Shadowmoon Burial Grounds",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Shadowmoon Burial Grounds"
+}

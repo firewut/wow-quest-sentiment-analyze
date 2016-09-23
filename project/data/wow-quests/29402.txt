@@ -1,0 +1,7 @@
+{
+    "_id": "29402",
+    "description": "I'd be wary of anyone identifying himself as the rightful owner of the crate and its contents. He didn't warn you of the danger?Here's a better idea: let's work together to recover the crate and ensure that its contents can't hurt anyone. To protect ourselves, we're going to need a draught made from a few ingredients that can be found around the city.Acquire some strange dust, get vials from an alchemy merchant, and pick some blood nettle from the fields north of the city.",
+    "name": "Taking Precautions",
+    "requires_level": 10,
+    "zone": "Hallow's End"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11670",
+    "description": "With all of those outfits you, er, recovered, I fashioned a Warsong orc disguise. I had the genius idea of combining it with some old stuff that I had left hanging around from last Hallows' End, so it should be foolproof!Here, in this sack is the disguise and the banner you recovered. Head down into the bowels of Magmoth and slay the magnataur chieftain, Magmothregar.If you're going to convince them to turn their attention on the Warsong orcs, you'll need to plant the banner while disguised.",
+    "name": "It Was The Orcs, Honest!",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28132",
+    "description": "This manual describes outlandish theories on how to most efficiently manage large groups of workers as they engage in massive excavation projects.After a quick skim of the material, it becomes clear to you that the author of the book is the figure in charge of the over-aggressive pillagers here.A map on the back cover indicates that the author has a bunker in the southwest region of Uldum.Perhaps an introduction is in order.",
+    "name": "Efficient Excavations",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

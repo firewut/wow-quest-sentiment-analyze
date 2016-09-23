@@ -1,0 +1,7 @@
+{
+    "_id": "27938",
+    "description": "I present you with the key to Stonehearth. With it you may unlock the vault to my home and recover the middle fragment of the World Pillar.Keep the fragment safe, <name>. Make certain to get it to the Temple of Earth in the middle of Deepholm as quickly as possible!Know that you are always welcome here.",
+    "name": "The Middle Fragment",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

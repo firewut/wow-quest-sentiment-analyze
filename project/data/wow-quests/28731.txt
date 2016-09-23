@@ -1,0 +1,8 @@
+{
+    "_id": "28731",
+    "description": "While there is more I could speak to you of the moonwells and of Teldrassil, I must send you along. Corithras Moonrage will be expecting you. I have poured the phial of water you brought to me into this vessel to bring to him.Seek out Corithras. You will find him at the moonwell in Dolanaar. Follow the road south from Aldrassil out of Shadowglen, and continue to follow the cobblestones as the road turns west.Mind you stay on the road though, <name>. There are dangerous beasts in the forests of late.",
+    "name": "Teldrassil: Passing Awareness",
+    "requires_level": 3,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

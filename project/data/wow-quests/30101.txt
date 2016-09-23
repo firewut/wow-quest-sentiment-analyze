@@ -1,0 +1,7 @@
+{
+    "_id": "30101",
+    "description": "I cannot simply fly up and grab the Dragon Soul. The old gods protect it.To make matters worse, their shield is strengthened by the swirling, arcane energies that emanate from the Well of Eternity, and those energies are being focused by the great demon Mannoroth.Distract Mannoroth, and the link between the Dragon Soul and the Well will be broken. Without the Well's power, the old gods' ward will be weakened, and the Dragon Soul will be vulnerable.And then I will take it.",
+    "name": "The Path to the Dragon Soul",
+    "requires_level": 85,
+    "zone": "Well of Eternity"
+}

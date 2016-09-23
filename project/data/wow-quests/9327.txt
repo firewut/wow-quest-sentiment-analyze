@@ -1,0 +1,8 @@
+{
+    "_id": "9327",
+    "description": "I know it seems strange, but these Forsaken are here to help. You should speak with their leader, High Executor Mavren. He's in the tower on the west side of town.And, <class>, when you're done talking with him return to me; I have something dire that needs to be dealt with immediately!",
+    "name": "The Forsaken",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Ghostlands"
+}

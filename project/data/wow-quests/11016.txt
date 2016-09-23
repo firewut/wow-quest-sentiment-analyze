@@ -1,0 +1,7 @@
+{
+    "_id": "11016",
+    "description": "A skinner, eh? Well you'll find plenty to skin here! You gotta search for flayers around crystal formations. Take 'em down and take their hides. Sometimes they'll have a hide worth keepin'. Bring those to me.",
+    "name": "Nethermine Flayer Hide",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

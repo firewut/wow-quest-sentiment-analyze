@@ -1,0 +1,7 @@
+{
+    "_id": "10816",
+    "description": "You did well against the Broken in Baa'ri, <name>.  Let's see how well you do against Illidan's most feared army.The fel orcs of the Shadowmoon Clan occupy the Ata'mal Terrace, once a very holy site where ata'mal crystals were used in spiritual ceremonies.We had reason to believe they were hiding an actual ata'mal crystal in the vicinity, but our scrying has revealed nothing.  Nevertheless, the fel orcs are on draenei holy ground and their presence must be dealt with.",
+    "name": "Reclaiming Holy Grounds",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

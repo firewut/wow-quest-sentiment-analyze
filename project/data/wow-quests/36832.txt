@@ -1,0 +1,7 @@
+{
+    "_id": "36832",
+    "description": "",
+    "name": "Get the Xuk Outta Here!",
+    "requires_level": 90,
+    "zone": "Gorgrond"
+}

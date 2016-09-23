@@ -1,0 +1,7 @@
+{
+    "_id": "28736",
+    "description": "The remnants of Schnottz's organization persist here on the Maker's Ascent, making the region deadly to any who draw near.There's plenty of ammunition, but without a good spotter, I'm just firing blind.Hop in and give me a hand here. Those soldiers won't know what hit them!",
+    "name": "Fire From the Sky",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

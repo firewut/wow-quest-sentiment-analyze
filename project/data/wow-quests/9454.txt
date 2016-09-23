@@ -1,0 +1,7 @@
+{
+    "_id": "9454",
+    "description": "You're starting to make a name for yourself, <name>. How about trying your hand at hunting?Back on Draenor, our greatest hunters would hunt a beast that resembled the moongraze stag of this region known as a talbuk.If you think yourself draenei enough, go out into the wilds and kill enough stags to fill your pack with meat.You will find them grazing south of Azure Watch. Watch out for their horns!",
+    "name": "The Great Moongraze Hunt",
+    "requires_level": 4,
+    "zone": "Azuremyst Isle"
+}

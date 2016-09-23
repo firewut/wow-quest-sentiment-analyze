@@ -1,0 +1,7 @@
+{
+    "_id": "30102",
+    "description": "There's no need to stand around here forever. Have you forgotten? We can CONTROL TIME. Especially since you got rid of that Murozond fellow, back in the future.That Dragon Soul that you just liberated? Thrall already has it, back in your present day. And he's going to need your help.You ready to go?",
+    "name": "The Hour of Twilight",
+    "requires_level": 85,
+    "zone": "Hour of Twilight"
+}

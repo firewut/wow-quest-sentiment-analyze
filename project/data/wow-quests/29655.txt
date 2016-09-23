@@ -1,0 +1,8 @@
+{
+    "_id": "29655",
+    "description": "Warbringer O'mrogg has killed more brave soldiers than any enemy I've ever encountered. He is ruthless, cunning, and extremely powerful.Take him down and bring me his warcloth so that we may fashion it into a banner and show them the fury of the Horde!",
+    "name": "A Very Special Cloth",
+    "requires_level": 66,
+    "side": "horde",
+    "zone": "Quests"
+}

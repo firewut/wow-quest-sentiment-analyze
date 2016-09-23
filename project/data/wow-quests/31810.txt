@@ -1,0 +1,8 @@
+{
+    "_id": "31810",
+    "added_in_patch": 5,
+    "description": "I can no longer call myself your teacher, <name>.You have proven yourself worthy of your cloud serpent.Today, you shall join our ranks. Are you ready?",
+    "name": "Riding the Skies",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28363",
+    "description": "Wow!It sounds like you really got their attention, <name>. We're never getting in there with them on alert like this.There must be a way...It's just a matter of time before Schnottz's men activate the obelisk and I need to research the scrolls you found. I need you to figure this one out without me.Sullah has connections in these parts. Maybe he has a solution for getting us inside.",
+    "name": "Stirred the Hornet's Nest",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

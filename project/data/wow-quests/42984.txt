@@ -1,0 +1,8 @@
+{
+    "_id": "42984",
+    "added_in_patch": 7,
+    "description": "The element of air can be difficult to contain. We will need a way to magically anchor it to the pillar.Air, no matter how capricious, cannot resist a good storm.In the Eye of Azshara, the naga sorceress known as Lady Hatecoil possesses a powerful relic known as the Scepter of Storms.Retrieve the scepter, and we will use it to bind the elements of air to the Maelstrom Pillar.",
+    "name": "The Scepter of Storms",
+    "requires_level": 103,
+    "zone": "Shaman Campaign"
+}

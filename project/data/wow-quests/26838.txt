@@ -1,0 +1,8 @@
+{
+    "_id": "26838",
+    "description": "Several years ago, Stormwind's Captain Kurzen brought a brigade into Stranglethorn Vale on a mission whose details are still murky.  Kurzen swiftly descended into madness, as did his men... except for a few rebels who made it their mission to undo the evils that Kurzen had wrought.As I said, that was years ago.  I'm now hearing rumors that Kurzen is dead, but those rebels still persist at their rebellion.  If you wish to investigate, you'll find them at a camp on Stranglethorn's northern border.",
+    "name": "Rebels Without a Clue",
+    "requires_level": 24,
+    "side": "alliance",
+    "zone": "Northern Stranglethorn"
+}

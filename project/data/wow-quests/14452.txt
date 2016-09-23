@@ -1,0 +1,8 @@
+{
+    "_id": "14452",
+    "description": "Behold, <name>. The very presence of the Bristleback is a blight. Nothing is left in their wake but corpses and barren land. Camp Narache could become what we see here in but a few days, unless we stand and fight.This will be your Rite of Strength; the first ceremony of a tauren brave. Go into the heart of the thornsnarl and kill Bristleback quilboar, then return to me.",
+    "name": "Rite of Strength",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

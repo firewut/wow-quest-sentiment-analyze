@@ -1,0 +1,8 @@
+{
+    "_id": "41781",
+    "added_in_patch": 7,
+    "description": "In case you haven't noticed, things are a bit hectic around here.\r\n\r\nMarl's doing a good job protecting the corn fields, but the commotion gave our goats quite the scare. They dashed out of their pen as soon as the fighting started, and are now running amuck!\r\n\r\nRound them up for me and I'll do my best to figure out how to handle the curse you're dealing with.",
+    "name": "Herding Goats",
+    "requires_level": 110,
+    "zone": "Warlock Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32549",
+    "added_in_patch": 5.2,
+    "description": "Ihgaluk Crag is a dangerous place. Luckily, you have the magic of the Kirin Tor behind you.I can transform you into a saurok.I will perform the first half of the illusion on you now. Afterwards, you should go directly to Ihgaluk Crag and slay one of the Skumblade saurok. Once you have done this, I will contact you and complete the second half of the illusion.",
+    "name": "Skin of the Saurok",
+    "requires_level": 90,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12372",
+    "description": "Emboldened by the overabundance of magic now flowing through the Azure Dragonshrine, the blue dragonflight has dared to attack Wyrmrest Temple itself!I ask that you ride one of our defenders into battle to slay their dragons and drakes, and to attack the eruption of ley line energies at the dragonshrine itself in order to destabilize it.Outside on the east and west terraces are wyrmrest defenders. Speak with one to ride it into battle.Without your help, <name>, we will surely lose.",
+    "name": "Defending Wyrmrest Temple",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

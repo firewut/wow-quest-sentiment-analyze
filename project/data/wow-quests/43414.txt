@@ -1,0 +1,8 @@
+{
+    "_id": "43414",
+    "added_in_patch": 7,
+    "description": "<class>t, our research into the Felblood Altar has proven useful. We've developed a ritual that should unleash the full powers of your artifact weapon!Say the word, and we shall begin the ritual at once!",
+    "name": "A Hero's Weapon",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

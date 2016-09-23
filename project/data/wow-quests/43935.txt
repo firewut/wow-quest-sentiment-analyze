@@ -1,0 +1,8 @@
+{
+    "_id": "43935",
+    "added_in_patch": 7,
+    "description": "Perhaps it's time to consider improving your flexibility when it comes to powerful artifacts. There are still others that I think are worth pursuing if you are interested.\r\n\r\nLet me show you what your options are and you can choose one.",
+    "name": "A Second Legend",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

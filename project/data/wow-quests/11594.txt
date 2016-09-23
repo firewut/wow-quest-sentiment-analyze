@@ -1,0 +1,7 @@
+{
+    "_id": "11594",
+    "description": "Force-Commander Steeljaw's idiocy caused this mess. What was he thinking taking a caravan through a taunka burial mound?Still, what's done is done. Now it is up to us to deal with the consequences.Overlord Bor'gorok asked me to help Longrunner Proudhoof in any way that I can. The longrunner has asked that we lay to rest the spirits of his ancestors.What do you say, <class>? Are you  man  enough to handle such a simple task?",
+    "name": "Put Them to Rest",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12581",
+    "description": "Perhaps the crystals will ward off the undead gradually, but there is one more thing that must be done.We need to find the leader of these undead and kill him to ensure there's no one to push the wretches back upon us. If my suspicions are correct, he will be somewhere inside the fallen pillar... the Sundered Shard.The corpses being dragged there would suggest as much anyway.I'll place the shards and bring the news to Soo-say... I'll leave the rest up to you.",
+    "name": "A Hero's Burden",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

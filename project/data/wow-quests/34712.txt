@@ -1,0 +1,9 @@
+{
+    "_id": "34712",
+    "added_in_patch": 6,
+    "description": "This isn't exactly my idea of the best place to talk.Shall we return to your outpost? It will be a much better place to celebrate.I'll teleport us there.",
+    "name": "Due Cause to Celebrate",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

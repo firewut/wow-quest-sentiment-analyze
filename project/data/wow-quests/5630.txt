@@ -1,0 +1,7 @@
+{
+    "_id": "5630",
+    "description": "Hello there, laddy. Good to see you travelin' far and wide to distant lands. No offense meant, but a lot o' your kind don't take well to these cold climates usually. Glad to see you're made of tougher stuff.Not too long ago one of your priestesses was in here lookin' for you--said somethin' about you finding a Priestess Alathea in the Temple of the Moon back in Darnassus. Said it was important and you should head back there soon.",
+    "name": "Returning Home",
+    "requires_level": 10,
+    "zone": "Priest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "11971",
+    "description": "The festival is a time for fun and laughter, there's no mistake. It's important, however, that you understand the origins of this holiday. Education should be sought out and savored.The Festival Talespinner in the Horde capitals can guide your way. Go now and learn.",
+    "name": "The Spinner of Summer Tales",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Midsummer"
+}

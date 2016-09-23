@@ -1,0 +1,7 @@
+{
+    "_id": "25075",
+    "description": "These bulky dwarven siege engines aren't cut out for the close-quarters fighting of the Battlescar.I've got some new designs I'd like to try out, but first I'm going to need some spare parts. There's plenty of wreckage sitting in the Battlescar. All I need is an enterprising <class> to haul it back for me.That's you, <name>. I'm talking about you.",
+    "name": "Pick-a-Part",
+    "requires_level": 31,
+    "zone": "Southern Barrens"
+}

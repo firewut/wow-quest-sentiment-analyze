@@ -1,0 +1,7 @@
+{
+    "_id": "11631",
+    "description": "Here, <name>, I've attuned the primal to you.Open your soul to it in the presence of my totem of air and concentrate upon the fate of Farseer Grimwalker.The spirit of the wind touches all; with any luck you will be granted a vision.",
+    "name": "Vision of Air",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

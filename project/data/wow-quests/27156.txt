@@ -1,0 +1,7 @@
+{
+    "_id": "27156",
+    "description": "Finally!  You're here!  Get to work!My men have been sparring with these wooden practice dummies for far too long.  Sure, you can learn how to swing a sword by practicing with a dummy, but real combat requires a real combatant.Hmmm... I had asked for them to send me someone imposing, but I suppose a skinny-armed <race> <class> will have to do.Now get in there and teach my men how to fight!",
+    "name": "It's About Time!",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

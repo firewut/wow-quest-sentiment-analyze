@@ -1,0 +1,8 @@
+{
+    "_id": "36793",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Founded Garrison",
+    "requires_level": 90,
+    "zone": "Garrison Support"
+}

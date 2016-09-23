@@ -1,0 +1,7 @@
+{
+    "_id": "8115",
+    "description": "<name>, battling for the resources of Arathi Basin is a bloody undertaking.  Your services to the League of Arathor are as needed as they are appreciated.And we have one more task for you.The League wishes to make one strong push against the Defilers' occupation of Arathi Basin.  We want them driven out of every strategic point on the battlefield!It will not be easy, but if anyone can get it done, it is you.",
+    "name": "Control Five Bases",
+    "requires_level": 60,
+    "zone": "Arathi Basin"
+}

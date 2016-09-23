@@ -1,0 +1,7 @@
+{
+    "_id": "27435",
+    "description": "In the eyes of the Earthmother, you are ready to become a full seer. You have completed your early training with skill and dedication.To mark this occasion, the warchief has commissioned his master enchanter to create a staff for you.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and find the lost holy symbol of Commander Springvale, a supply of moontouched wood, and the essence of the ghosts that haunt the keep.",
+    "name": "A Seer's Staff",
+    "requires_level": 20,
+    "zone": "Priest"
+}

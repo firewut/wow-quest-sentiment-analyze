@@ -1,0 +1,7 @@
+{
+    "_id": "25973",
+    "description": "They'll probably send a skiff over, which may take a bit. I'll stay here to make contact.You need to return to the cave immediately and let them know that rescue is on its way. We can only hope that the naga have not found them yet.Go. Swim fast, <name>. ",
+    "name": "Welcome News",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28077",
+    "description": "The Warchief has requested that any able-bodied adventurer head to Northern Dire Maul, west of Camp Mojache, immediately!King Gordok and his growing army of Gordok ogres pose the largest and most powerful threat in the area to us! If you so choose, head to Northern Dire Maul and speak with the Stonemaul Ogre already sent there as a forward scout.",
+    "name": "Adventurers Wanted: Northern Dire Maul",
+    "requires_level": 44,
+    "zone": "Dire Maul"
+}

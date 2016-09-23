@@ -1,0 +1,8 @@
+{
+    "_id": "42608",
+    "added_in_patch": 7,
+    "description": "Friend is in a powerful, but lonely position. First of a council whose members are missing.Friend does not have to be alone though. Others will be drawn to friend's power, willing to follow if friend leads.Find those who want to help, and accept their pledge of loyalty.",
+    "name": "Rise, Champions",
+    "requires_level": 101,
+    "zone": "Warlock Campaign"
+}

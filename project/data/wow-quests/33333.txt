@@ -1,0 +1,8 @@
+{
+    "_id": "33333",
+    "added_in_patch": 5.4,
+    "description": "The journal indicates that treasures abound across the island, sometimes temptingly out of reach, and other times hidden in dark caves and hollows. What might have been secreted away here, many generations ago?And perhaps more importantly, by whom?Search the island for such treasures, and return to me with your findings. Be warned that all that glitters is not gold, yet the reverse is also true. Sometimes the simple hollowed-out stump is the best hiding place for one's valuables.",
+    "name": "Timeless Treasures",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

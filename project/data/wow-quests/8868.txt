@@ -1,0 +1,7 @@
+{
+    "_id": "8868",
+    "description": "The beast Omen was once a hero of this world.  A wolf of great strength and fortune, Omen fought beside the heroes of the War of the Ancients until he succumbed to demonic magics.  Turning against his allies, he raged across Azeroth and carried death and terror in his wake.Finally defeated here, in Moonglade, Omen now sleeps among the silt of Lake Elune'ara.  But each new year, during the festival, he stirs...Gather cohorts, <name>, and summon and defeat the beast Omen.  Earn the blessing of Elune!",
+    "name": "Elune's Blessing",
+    "requires_level": 40,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10412",
+    "description": "It is no secret that Kael'thas Sunstrider perceives us as a great threat.  Let's face it - not many sin'dorei, fresh from Silvermoon, are willing to join the sort of company that Kael keeps.It's also no secret that this is not just a war of words.  Scryers and the armies that serve Kael'thas attack each other on sight.  The only way to prove you're with us, <name>, is to do your share of fighting.Kael's lower ranking followers wear Firewing signets to indicate their rank.  Bring them to me.",
+    "name": "Firewing Signets",
+    "requires_level": 62,
+    "zone": "Shattrath City"
+}

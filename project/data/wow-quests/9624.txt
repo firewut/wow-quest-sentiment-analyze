@@ -1,0 +1,7 @@
+{
+    "_id": "9624",
+    "description": "I've made a wonderful discovery, <class>. On the uncorrupted part of the island grows a remarkable fruit called the sand pear. They're found near the bottoms of the trees.I've been preparing pies from them, but if I'm not careful, the elekk will start to wander over and steal my fruit. I've taken to gathering enough to share with the animals, but my stores are gone and the craving for pie has returned. Would you be willing to help gather the fruit I need for another batch of pies? I promise I'll share!",
+    "name": "A Favorite Treat",
+    "requires_level": 9,
+    "zone": "Bloodmyst Isle"
+}

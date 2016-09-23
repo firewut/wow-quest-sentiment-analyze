@@ -1,0 +1,7 @@
+{
+    "_id": "25492",
+    "description": "In their efforts to decimate Hyjal, Twilight's Hammer has elementals scouring the earth in the wake of the fire.They're pulverizing the soil, rooting around in the ash, digging up any scrap of plantlife that survived and destroying it. It's like they're paving the way for... I don't even want to imagine.Stop them before Hyjal is devoid of life. Kill the lava surgers!",
+    "name": "Firebreak",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

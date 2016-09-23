@@ -1,0 +1,8 @@
+{
+    "_id": "29585",
+    "added_in_patch": 5,
+    "description": "We've tended these orchards and made cider from their nectar for generations. In that time, we've learned a special trick for putting out fires in a pinch.<Hanae pushes a jug of cider into your hand.>The cider itself - when mixed with crushed gingerleaf and saliva - quickly becomes sticky and viscous. Perfect for smothering flames.Please, while you're out there, try to get the flames under control. I've already mixed in the gingerleaf, just swig and spit.",
+    "name": "Spitfire",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

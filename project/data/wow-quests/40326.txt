@@ -1,0 +1,8 @@
+{
+    "_id": "40326",
+    "added_in_patch": 7,
+    "description": "<As your fingers trace the elegant symbols on the page, a voice dictates the words in your mind.\r\n\r\nIt seems the nightborne have elevated even simple note-taking to a sorcerous art.\r\n\r\nArcanist Kel'danath was definitely working in this area. There must be more of his notes scattered around.>",
+    "name": "Scattered Memories",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

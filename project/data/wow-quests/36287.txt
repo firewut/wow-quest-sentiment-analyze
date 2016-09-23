@@ -1,0 +1,9 @@
+{
+    "_id": "36287",
+    "added_in_patch": 6,
+    "description": "We were able to map all of the data from the transponder you recovered! Now our location analyzer is complete!We're just missing a few final pieces, then the real testing begins.One of my pilots mentioned seeing a beached Iron Horde ship over by the shore. If you can salvage some parts we may just be able to get this thing up and running!",
+    "name": "Snatch 'n' Grab",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

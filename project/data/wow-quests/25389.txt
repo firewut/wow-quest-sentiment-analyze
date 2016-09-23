@@ -1,0 +1,7 @@
+{
+    "_id": "25389",
+    "description": "It could be days before we're ready to make our way to the surface, and to be honest, I'm already beginning to get hungry.I hate to be picky, but when it comes to seafood, I'm afraid there are very few things I can stomach.If you come across any lobster types, I would happily pay you what coin I have with me for their tails.",
+    "name": "A Taste For Tail",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

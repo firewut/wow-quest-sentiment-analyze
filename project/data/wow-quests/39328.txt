@@ -1,0 +1,8 @@
+{
+    "_id": "39328",
+    "added_in_patch": 7,
+    "description": "The tome contains a wealth of ancient vrykul recipes! Why, I could be the first alchemist in untold ages to craft one! How fortunate for you, friend <name>, that you are here to bear witness to my greatness!Awful kind of that Svena person to die and leave her book for us, eh? Silly vrykul...",
+    "name": "Ancient Knowledge",
+    "requires_level": 100,
+    "zone": "Alchemy"
+}

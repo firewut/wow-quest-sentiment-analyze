@@ -1,0 +1,7 @@
+{
+    "_id": "13374",
+    "description": "<name>, only our best pilots are given a mission like this, one deep, deep into enemy territory with only the power of infra-green technology to protect you!Request another bomber from Rizzle, and this time fly it through the Valley of Lost Hope.  You have both air and ground targets on this mission, so keep your eyes open and your shields at full!Good luck!",
+    "name": "Amped for Revolt!",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

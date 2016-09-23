@@ -1,0 +1,8 @@
+{
+    "_id": "43310",
+    "added_in_patch": 7,
+    "description": "Thalyssra asks much of me, but our cause is worth the risks.\r\n\r\nThe title of advisor would grant us enormous influence. Information. Access.\r\n\r\nI could change this rebellion. I could save so many lives.\r\n\r\nI will need strong endorsement to ascend, though. There are many houses who stand with me by virtue of my family's name. Some are more hesitant.\r\n\r\nLady Aurore of House Astravar is the most prominent of these. Seek her out. Offer your aid in my stead. \r\n\r\nEarn her trust and the rest will follow.",
+    "name": "Either With Us",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26317",
+    "description": "Upon dealing the final blow to the lashtail eggs, you look down to see a newborn hatchling looking back up at you.  You can see it studying you, learning your features and following your movements.The lashtail hatchling has formed a bond with you.Your original assignment was to thin out the raptors, but you have fulfilled your egg quota, and this one is an innocent newborn.  Perhaps someone back at Grom'gol Base Camp will know what to do with a raptor hatchling.",
+    "name": "A Lashtail Hatchling",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

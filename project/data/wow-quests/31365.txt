@@ -1,0 +1,8 @@
+{
+    "_id": "31365",
+    "added_in_patch": 5,
+    "description": "I sent a dozen of my best men ahead to infiltrate the mantid siege.None have returned.Since you are taking the fight directly to the mantid, you will be in a position to free any who had the misfortune to be captured.You will do this?",
+    "name": "Somewhere Inside",
+    "requires_level": 88,
+    "zone": "Quests"
+}

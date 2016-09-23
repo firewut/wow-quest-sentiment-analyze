@@ -1,0 +1,7 @@
+{
+    "_id": "26082",
+    "description": "I will allow this old fool time to plead his case. He has assured me that he will bring back proof that the night elves do not harbor a weapon of mass destruction. We shall see.While we await this proof, you will assist our army in the valley. We have prepared a large number of siege tanks for this purpose. Our demolishers are poised for attack.Take the elevator down to the base of the outpost and take control of a Krom'gar demolisher. Use it to lay waste to our enemies in Battlescar Valley.",
+    "name": "To Battlescar!",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29600",
+    "added_in_patch": 5,
+    "description": "These pools are very special: they nurture life like nothing else in Pandaria.Unfortunately this means they draw all kinds of attention from local fauna. Recently, dragon turtles have discovered that toadspawn pools are common on the tier just above us. They're running wild up there, trampling the lotuses and snapping at my workers.They aren't much of a threat on their own, but in groups they can be pretty nasty. Please, if you can spare your strength, help clear them out.",
+    "name": "Snap Judgment",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

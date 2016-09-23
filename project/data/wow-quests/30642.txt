@@ -1,0 +1,8 @@
+{
+    "_id": "30642",
+    "added_in_patch": 5,
+    "description": "The final artifact is the Thunder King's axe.Lei Shen charged into battle with his spear in one hand, and his axe in the other.It is said that he could throw his axe with brutal accuracy, and when it hit its target, it made a sound like crashing thunder.After his death, the axe was placed in a ceremonial chamber to the southwest.Needless to say, we must not let it fall into the mogu's hands.",
+    "name": "Battle Axe of the Thunder King",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

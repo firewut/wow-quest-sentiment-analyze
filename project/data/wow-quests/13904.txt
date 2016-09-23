@@ -1,0 +1,7 @@
+{
+    "_id": "13904",
+    "description": "The venomhide hatchling's stomach growls as it gestures to get your attention. It begins scratching pictures of silithids into the dirt, adding small ovals underneath them. It looks at you hopefully and gestures at the circles.They can only mean silithid eggs. The Noxious Lair, in western Tanaris and near the border with Un'Goro Crater, would probably be a great place to find the eggs your little hatchling wants.",
+    "name": "Poached, Scrambled, Or Raw?",
+    "requires_level": 48,
+    "zone": "Un'Goro Crater"
+}

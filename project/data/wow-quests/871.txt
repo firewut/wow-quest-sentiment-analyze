@@ -1,0 +1,8 @@
+{
+    "_id": "871",
+    "description": "All the quilboars are our enemies, <name>. Some just prove to be more of a nuisance than others.The Razormane tribe has been attacking our supply caravans that roll through here from Orgrimmar. I have scouts seeking the leader of these raids, but until then, any losses you can inflict on the filthy pig men would aid us.Start just south of here, where they've been raiding our camps near the river. Seek them out, and slay them.",
+    "name": "In Defense of Far Watch",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

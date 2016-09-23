@@ -1,0 +1,7 @@
+{
+    "_id": "14079",
+    "description": "This pamphlet advertising riding training and mount purchases was sent from Randal Hunter.Randal can be found at Elwynn Forest's Eastvale Logging Camp, along the road east out of Stormwind.",
+    "name": "Learn to Ride in Elwynn Forest",
+    "requires_level": 20,
+    "zone": "Elwynn Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27912",
+    "description": "As the second defender falls to the ground, a chest appears in the back of the chamber.  Could this be what they were protecting?",
+    "name": "The Titans' Trove",
+    "requires_level": 44,
+    "side": "alliance",
+    "zone": "Badlands"
+}

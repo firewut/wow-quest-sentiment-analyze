@@ -1,0 +1,7 @@
+{
+    "_id": "27771",
+    "description": "Nyxondra is being held against her will.  She is hidden from her brood, right in the middle of their breeding grounds.  She lays eggs, but they will be taken away before she can see them hatch.Cruel?  Perhaps... but not nearly as cruel as the treatment that their dragonflight showed my mistress.Show me that I can trust you, <name>.  Take Nyxondra's eggs, and bring them here.  You will need to beat Nyxondra into submission before you can take them.",
+    "name": "Third Sample: Implanted Eggs",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

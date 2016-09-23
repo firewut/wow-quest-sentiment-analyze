@@ -1,0 +1,7 @@
+{
+    "_id": "14388",
+    "description": "Okay, new plan. We'll SCARE it out of 'em! In my experience most large creatures are terrified of tiny ones - like rats. Hmm. This place is crawling with rats, but how do we coax them over to the giant?Hey! You don't mind having your cellular matrix broken down and reassembled do you? It's only painful while it's happening. I can shrink you down to rat-sized and you can ride one of these brutes over there like a horse. It's so crazy it's got to work! Speak with me when you're ready for shrinkage...",
+    "name": "Azsharite Experiment Number Two",
+    "requires_level": 11,
+    "zone": "Azshara"
+}

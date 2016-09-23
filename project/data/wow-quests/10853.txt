@@ -1,0 +1,7 @@
+{
+    "_id": "10853",
+    "description": "The spirits of the nether drakes in the Singing Ridge are in need of liberation.The nether drakes were not always nether drakes.  They used to be black drakes.But then, with the destruction of this world, a wave of nether energy washed over everything and had the side-effect of changing the drakeling eggs.Now they are all twisted versions of their former selves.  We must help them to find peace.Do this by slaying a drake near to the spirit calling totem, and then take its spirit from it.",
+    "name": "Spirit Calling",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

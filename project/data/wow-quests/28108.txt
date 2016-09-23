@@ -1,0 +1,7 @@
+{
+    "_id": "28108",
+    "description": "The wyrms have already taken the battle to the sky above Grim Batol. It's up to us to move our men in by ground and secure the gates.I want you to know what is at stake here, <class>. Grim Batol is the source of Twilight's Hammer reinforcements to all of the highlands. If we do not cut them off here, we will not win the battles ahead.I'm sending a squad from Highbank with you. Get to the gate to the southeast and get it open. Your lieutenant should have any further instructions you'll need from there.",
+    "name": "If The Key Fits",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

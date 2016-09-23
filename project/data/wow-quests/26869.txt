@@ -1,0 +1,7 @@
+{
+    "_id": "26869",
+    "description": "<The ground trembles slightly, and the low, familiar voice of Diamant speaks as if from the stone itself.>Well done, <race>.Within the tunnels below, you will find the stone which you seek. Painite.The dangers ahead are many...Dangers that the Stone Lords themselves fear.Remain steady.Remain strong.The strength of the rock itself is beneath your feet.",
+    "name": "Depth of the Depths",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

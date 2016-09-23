@@ -1,0 +1,7 @@
+{
+    "_id": "9703",
+    "description": "We have others pursuing leads on the sun portals, <name>. I need you to focus on the task at hand.Boros has received new reports of another crash site. What we've since discovered is that the crash site is actually the Exodar's cryo-core. This is a pod holding area that houses pods exactly like the ones we draenei crawled out of in Ammen Vale.This area also holds medical supplies. Head to the Cryo-Core, directly west of Blood Watch. Search for supplies and search for survivors.\r\n",
+    "name": "The Cryo-Core",
+    "requires_level": 15,
+    "zone": "Bloodmyst Isle"
+}

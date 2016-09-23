@@ -1,0 +1,8 @@
+{
+    "_id": "40015",
+    "added_in_patch": 7,
+    "description": "Finely made strips of clothing, torn, tattered, and dirty: telltale signs of the withered.The feral, degenerate outcasts of nightborne society must also be harvesting the aethril... but why?",
+    "name": "Ragged Strips of Silk",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

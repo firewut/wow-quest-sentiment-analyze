@@ -1,0 +1,7 @@
+{
+    "_id": "9635",
+    "description": "The swamp gas is truly amazing, and can be very useful, mon!  But first, you gotta be able to suck it up, and that, my friend, requires a Zapthrottle Mote Extractor.Now, I could just give you the schematics, but I'll need something in return first.  How about some spare parts?  Last time I checked, there were plenty lying around near the broken steam pump at the Dead Mire, far to the northeast.I heard that the withered giants spread the pieces all over that dried-out lake bed.",
+    "name": "The Zapthrottle Mote Extractor!",
+    "requires_level": 58,
+    "zone": "Engineering"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27523",
+    "description": "I have seen many things in my day, <race>.  The peaks of Mt. Hyjal... the oddities of Outland... a wall of Scourge soldiers, proceeding into war.  But I have never seen a bat as big, or as shockingly white, as Duskwing.How he taunts me from his roost!This albino demon bat circles to the southwest of here, due north of Blackwood Lake.  Track him down and destroy him.  If he flies too high for you to reach, use my flare to get his attention.\r\n",
+    "name": "Duskwing, Oh How I Hate Thee...",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

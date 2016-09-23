@@ -1,0 +1,8 @@
+{
+    "_id": "10099",
+    "description": "Those infernal gan'arg keep scurrying into the mine! For each one you kill, two or three more seem to take its place!There's got to be someone down there in the deepest reaches of the mine directing the incursion. You seemed to do well against them last time, and Light knows you're the only one brave enough to venture back into the mine. Find out who's responsible for this disturbance and make him pay!",
+    "name": "The Mastermind",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

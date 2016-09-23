@@ -1,0 +1,7 @@
+{
+    "_id": "28000",
+    "description": "The satyr hide their corrupted moonwell behind an impenetrable barrier of demonic fire. Their forces must have some way of getting through it.Interrogating the satyr will be useless, but the imps they consort with will be easily swayed. I have a specific one in mind, as well...In the foothills to the east, a lone imp has been seen wandering, far from the other demons. He should prove easy pickings. Weaken him with combat, and then use this enchanted sack to capture him. Then I'll do the talking...",
+    "name": "Do the Imp-Possible",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

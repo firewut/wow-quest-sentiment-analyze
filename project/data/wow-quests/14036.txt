@@ -1,0 +1,8 @@
+{
+    "_id": "14036",
+    "description": "Are you here to celebrate Pilgrim's Bounty with us? It was once a time for reflecting on your journeys and your good fortune while sharing a meal with friends. Many still mark the occasion.You can partake of Pilgrim's Bounty feasts near major towns by sitting at a bountiful table and serving the foods you find there.If you're interested in learning how to cook the traditional Pilgrim's Bounty foods, seek out Miles Standish. You will find him in the courtyard above Undercity.",
+    "name": "Pilgrim's Bounty",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Pilgrim's Bounty"
+}

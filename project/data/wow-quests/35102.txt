@@ -1,0 +1,9 @@
+{
+    "_id": "35102",
+    "added_in_patch": 6,
+    "description": "Thank you... boss.I won't let you down! I didn't even try to sneak one of those low quality blades here that one of your peons placed right next to the cage. Which by the way was a pretty terrible idea and that thing should be moved before you get anyone less honorable in here.Enough talk, lets check this place out!",
+    "name": "Unleashed Steel",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

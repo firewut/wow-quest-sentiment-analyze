@@ -1,0 +1,8 @@
+{
+    "_id": "33511",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Vignette: Sacrifice Pit",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

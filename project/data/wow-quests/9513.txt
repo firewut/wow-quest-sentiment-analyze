@@ -1,0 +1,7 @@
+{
+    "_id": "9513",
+    "description": "While some may look at our current predicament as an unfortunate turn of events, I sense that we are here for a reason. The invisible hand of fate has pushed us in this direction. The reason why will become evident in time.To the west lies an ancient night elf city, now in ruin and overrun with naga. It would be remiss of me to sit idly by as the naga tainted my ancestral lands.You have shown yourself a capable <class>. Honor my people and cleanse the ruins of their unwelcome inhabitants.",
+    "name": "Reclaiming the Ruins",
+    "requires_level": 6,
+    "zone": "Azuremyst Isle"
+}

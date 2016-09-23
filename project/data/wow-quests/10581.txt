@@ -1,0 +1,7 @@
+{
+    "_id": "10581",
+    "description": "VERY WELL, I AM HEREBY WARNING YOU THAT YOU WILL FIND NOTHING UP ON THE RIDGE.DO NOT FOLLOW THE TRAIL OF SPARE PARTS THAT LEAD TO TOSHLEY'S STATION!  YOU WILL NOT FIND TOSHLEY, NOR ANY OTHER GNOME THERE.",
+    "name": "Follow the Breadcrumbs",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

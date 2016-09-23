@@ -1,0 +1,8 @@
+{
+    "_id": "31117",
+    "added_in_patch": 5,
+    "description": "Uruk is the Deadtalker of the Townlong yaungol. Your mission will not be truly complete until you defeat him. Go to it!",
+    "name": "Uruk!",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

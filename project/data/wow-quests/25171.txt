@@ -1,0 +1,8 @@
+{
+    "_id": "25171",
+    "description": "We gotta pass the word on to Razor Hill.  These humans may be defeated today, but tomorrow they'll come again, and when they do, we'll need help from the orcs.Speak with Jhash, outside the gates of Sen'jin.  He'll give you a ride to Razor Hill.  His wolves know the path well.",
+    "name": "Riding On",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

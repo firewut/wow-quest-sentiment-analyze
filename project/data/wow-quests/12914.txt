@@ -1,0 +1,7 @@
+{
+    "_id": "12914",
+    "description": "Now you say that he's locked up in a 100 foot tall cage, eh?If my calculations are correct, we should be able to at least weaken the hinges on the cage, giving the giant enough leeway to break out.If this is going to work I'm going to need some plasticizers and stabilizers.Banshee essence should do nicely for the plasticizer. You can get that from the banshees in the Dead Fields, northeast of us. The stabilizer can be found on the earthragers to the southwest, near Ebon Watch.Get a move on!",
+    "name": "Gymer's Salvation",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

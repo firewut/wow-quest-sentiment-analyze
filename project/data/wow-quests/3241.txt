@@ -1,0 +1,7 @@
+{
+    "_id": "3241",
+    "description": "Collect the totems from Dreadmist Peak, because it's icky there now and no place for shiny clean totems.",
+    "name": "<NYI> <TXT><redux> Dreadmist Peak",
+    "requires_level": 8,
+    "zone": "Quests"
+}

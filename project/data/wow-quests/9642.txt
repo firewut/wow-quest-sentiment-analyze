@@ -1,0 +1,7 @@
+{
+    "_id": "9642",
+    "description": "",
+    "name": "More Irradiated Crystal Shards",
+    "requires_level": 13,
+    "zone": "Bloodmyst Isle"
+}

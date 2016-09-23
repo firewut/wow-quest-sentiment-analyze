@@ -1,0 +1,9 @@
+{
+    "_id": "34469",
+    "added_in_patch": 6,
+    "description": "Not all spirits are destroyed by the Soulgrinder. Some souls manage to survive more or less intact like myself. Others have become twisted and maddened.End their misery, take my soul shard and use it to purify them. Their rage will blind them to the effects of its energy so you must defeat them before you use it.",
+    "name": "Cleansing the Souls",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

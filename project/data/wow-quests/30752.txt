@@ -1,0 +1,8 @@
+{
+    "_id": "30752",
+    "added_in_patch": 5,
+    "description": "I simply refuse to believe the guards will not grant us entry to the monastery should we impress upon them the seriousness of the situation.\r\n\r\nFriend, go east, to the sentinel in front of the Monastery, and demand admittance. I will come with you.",
+    "name": "Unbelievable!",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

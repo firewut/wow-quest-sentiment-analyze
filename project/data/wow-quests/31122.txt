@@ -1,0 +1,8 @@
+{
+    "_id": "31122",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Chose Prot Warrior",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

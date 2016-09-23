@@ -1,0 +1,8 @@
+{
+    "_id": "39944",
+    "added_in_patch": 7,
+    "description": "The woman at the archaeology shop just dropped off some tablets to be deciphered. Any fool can see they're written in ancient vrykul, but I lent my codex to one of my students, so I'm unable to decipher them here.His name is Nicholo Swiftfuse, and he is in Stormheim. Let him know that if he fails to decipher them, his apprenticeship shall be terminated.That is all.",
+    "name": "Mysterious Messages",
+    "requires_level": 104,
+    "zone": "Inscription"
+}

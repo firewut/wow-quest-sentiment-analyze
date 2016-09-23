@@ -1,0 +1,8 @@
+{
+    "_id": "43013",
+    "added_in_patch": 7,
+    "description": "Great! Sounds like she's already settled in. That's good, cuz we already need some fresh meat for the grinder.\r\n\r\nYou should mosey over an' see if she's got any thieves just lying around takin' up space.",
+    "name": "The School of Roguery",
+    "requires_level": 101,
+    "zone": "Rogue Campaign"
+}

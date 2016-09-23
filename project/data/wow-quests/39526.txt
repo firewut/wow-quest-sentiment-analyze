@@ -1,0 +1,9 @@
+{
+    "_id": "39526",
+    "added_in_patch": 6.2,
+    "description": "We got Gul'dan's minions on the run, commander! If you be feelin' it, we should put some pressure on some of his other strongholds as well.",
+    "name": "Pressing the Attack",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Tanaan Jungle"
+}

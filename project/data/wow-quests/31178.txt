@@ -1,0 +1,8 @@
+{
+    "_id": "31178",
+    "added_in_patch": 5,
+    "description": "A warrior is not ready for battle until he tastes the blood of his enemies.I am still too weak to hunt, so you must go in my stead.Only the blood from the fiercest predators will do. I can smell their presence in the waters outside this cave!Bring this to me, and then perhaps you shall see why they call me the Bloodseeker.",
+    "name": "A Bloody Delight",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

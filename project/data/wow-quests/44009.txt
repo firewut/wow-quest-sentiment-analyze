@@ -1,0 +1,8 @@
+{
+    "_id": "44009",
+    "added_in_patch": 7,
+    "description": "<class>t <name>, thank you for coming. I have a matter of some urgency that requires your unique talents.The Order of the Silver Hand have reported that an extraordinarily luminescent object has emerged from the Felstorm and is currently falling towards the coast of Suramar. What I find most curious about this occurrence is that the object was reported as having \"cut a swath\" through the Felstorm itself.Will you investigate? There is a gryphon awaiting your arrival at Krasus' Landing.",
+    "name": "A Falling Star",
+    "requires_level": 98,
+    "zone": "Dalaran"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29636",
+    "added_in_patch": 5,
+    "description": "I have taught you everything that I can, <name>. It is time you spoke with Instructor Myang.The fights that she stages are less traditional than the sparring matches I am used to. Nevertheless, the path of a traveling adventurer like yourself is unpredictable, and a broad knowledge of fighting styles is an admirable trait.Farewell, <name>, and best of luck on the remainder of your training.",
+    "name": "A Test of Endurance",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

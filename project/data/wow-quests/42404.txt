@@ -1,0 +1,8 @@
+{
+    "_id": "42404",
+    "added_in_patch": 7,
+    "description": "Hakkar maintains an army of felhounds that feed off of magic. As long as he remains within Azeroth, no mage will be safe.He and his hounds are immune to most spells, so I must ask for assistance in killing them.You have proven yourself more than capable, but are you willing to help take down this demon?",
+    "name": "Assisting the Archmage",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

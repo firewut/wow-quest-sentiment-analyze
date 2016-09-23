@@ -1,0 +1,8 @@
+{
+    "_id": "14283",
+    "description": "We were driven to the edge of extinction once before, <name>.  But we druids, keepers of the old ways, saved our people from famine.When we cut ourselves off from the outside world and our crops failed, it was our order who called upon the earth's blessings and restored the harvest.Just as our powers restored the crops, your growth in power will develop your connection to our ancient arts.\r\n\r\nGo, develop your powers, and use what you learn against the Bloodfang Worgen.",
+    "name": "Moonfire",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

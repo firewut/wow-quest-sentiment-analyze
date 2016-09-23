@@ -1,0 +1,7 @@
+{
+    "_id": "27380",
+    "description": "Iso'rath's brain is revealed! The shaman you've saved should keep you somewhat safe amidst his defenses.Strike at the brain and destroy Iso'rath!",
+    "name": "Nightmare",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

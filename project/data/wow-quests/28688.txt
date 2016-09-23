@@ -1,0 +1,7 @@
+{
+    "_id": "28688",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Commander Aggro'gosh at Grom'gol Base Camp. The commander requires your aid to keep the supply routes open and free of interference from the local inhabitants and the troublesome Alliance.To reach Grom'gol, you can take the zeppelin Orgrimmar's eastern zeppelin tower or the one near Undercity.Destiny calls!",
+    "name": "Warchief's Command: Northern Stranglethorn Vale!",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12011",
+    "description": "This crab trap appears to have been destroyed by something much larger than the nearby circling sharks.Perhaps Tua'kea, the fisherman at Moa'ki Harbor, should be told about this?",
+    "name": "Signs of Big Watery Trouble",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

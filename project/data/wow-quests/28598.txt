@@ -1,0 +1,8 @@
+{
+    "_id": "28598",
+    "description": "Lookie here, <name>. I found the biggest gun in Highbank! We're gonna try a technique handed down ta me by my pappy, from his pappy, from his pappy, shortly before he got blowed up.It's called the \"<class>-shot.\"You take a <race> <class>, and load him inta a gigantic cannon, and then ya - oh relax. This usually works.Take these explosives, then wait here next ta me. As soon as that blimpy comes around I'll blast you onto tha deck. Plant the explosives in 'er belly and, oh I dunno, make it up as you go.",
+    "name": "Aiming High",
+    "requires_level": 84,
+    "side": "alliance",
+    "zone": "Twilight Highlands"
+}

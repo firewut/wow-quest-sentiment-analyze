@@ -1,0 +1,8 @@
+{
+    "_id": "11899",
+    "description": "The mechagnomes in the pools to the west are a great mystery to us. They appeared not long after the gnomes disappeared from their pumping station and its environs.They are an unnatural danger and must be dealt with.Take this soulcatcher and use it on the remains of the mechagnomes to capture their souls. When you return, we will set them free so that we might find out what happened.",
+    "name": "Souls of the Decursed",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

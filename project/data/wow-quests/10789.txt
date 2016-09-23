@@ -1,0 +1,7 @@
+{
+    "_id": "10789",
+    "description": "Ah, so there you are, <name>.Carendin Halgar has sent out word for you to come see him in the Magic Quarter of Undercity.  He is not known for his patience, so I would not wait long.",
+    "name": "Return to Carendin Halgar",
+    "requires_level": 10,
+    "zone": "Warlock"
+}

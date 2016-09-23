@@ -1,0 +1,7 @@
+{
+    "_id": "27401",
+    "description": "<The F.C.D. buzzes.>Look around the Cathedral Quarter. There should be a telescope nearby that the 7th Legion uses for spying. Find it and use it to scout the harbor. We need to find out how the 7th Legion got past our fleet.Hurry, <name>. We can't hold these beasts back much longer.What does tomorrow bring?",
+    "name": "What Tomorrow Brings",
+    "requires_level": 12,
+    "zone": "Ruins of Gilneas"
+}

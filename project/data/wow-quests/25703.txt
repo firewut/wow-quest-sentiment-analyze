@@ -1,0 +1,7 @@
+{
+    "_id": "25703",
+    "description": "<Though his lips do not move, you can feel the murloc chief speaking to you.>The Bloodwash naga and the Rockpool murloc have lived among one another for as long as we could remember.  We have always had our differences, but never provoked one another.  Why, then, would they turn on us?<Neptool looks over his shoulder at his former villagers.>You see what they do now?  They enslave us, sacrifice us, force us to fight one another.  I will stop them, <race>... and you will be my weapon.",
+    "name": "Atrocities",
+    "requires_level": 54,
+    "zone": "Blasted Lands"
+}

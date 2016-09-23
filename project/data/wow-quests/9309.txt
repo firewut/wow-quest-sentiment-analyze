@@ -1,0 +1,7 @@
+{
+    "_id": "9309",
+    "description": "We now have several separate confirmations of unusual activity up on the Shadow Ridge.This is disturbing; we thought that the scouting missions already undertaken had been thorough. One of my scouts hasn't reported back yet.<Class>, I need you to head southwest to the other side of Silverline Lake and find Tolaan, and see what has delayed him.",
+    "name": "The Missing Scout",
+    "requires_level": 2,
+    "zone": "Ammen Vale"
+}

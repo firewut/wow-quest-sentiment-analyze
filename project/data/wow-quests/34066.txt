@@ -1,0 +1,9 @@
+{
+    "_id": "34066",
+    "added_in_patch": 6,
+    "description": "The Thunderlord are a blight <name>.<Ruk'gan spits in disgust.>My daughter, Grishna, was killed by those monsters. Only their blood will bring me peace now.If you would help me then I need you to cause a distraction so I can sneak to a position closer to their camp.Killing a few of their so called \"Iron Thunderguard\" would be perfect.",
+    "name": "Savage Vengeance",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

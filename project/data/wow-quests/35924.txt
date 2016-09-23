@@ -1,0 +1,9 @@
+{
+    "_id": "35924",
+    "added_in_patch": 6,
+    "description": "Their poison is more powerful than I thought. We need to find the orc responsible for making it.Master assassins always leave their mark somewhere on one of their kills. It's a calling card; a claim to fame in their circles.This was definitely the work of such an assassin.We should split up and see if we can find some sign on one of the outcast corpses that will lead us to their creator. Rendezvous at the bottom of the hill, commander.",
+    "name": "Assassin's Mark",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

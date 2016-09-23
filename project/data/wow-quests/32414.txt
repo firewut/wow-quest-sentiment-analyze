@@ -1,0 +1,8 @@
+{
+    "_id": "32414",
+    "added_in_patch": 5.1,
+    "description": "As you know, our night elven allies moved the Divine Bell you retrieved to Darnassus for safekeeping and study. Moments ago, they portaled some Highbourne mages over here to ask for backup. Details are hazy - some sort of stealth attack on the city?I don't know what to make of it, but Jaina Proudmoore is already on the scene and I suspect they need all the help they can get.Speak to Seamus Goldenkicks over there for a quick portal to Darnassus. Find Jaina!",
+    "name": "Darnassus Attacked?",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10656",
+    "description": "As you might know, the Scryers and the armies of Kael'thas are at war.  Kael sees us as a threat to his influence over other blood elves and has tried to crush us time and again.If you wish to aid us in our battle against Kael'thas, there are plenty of targets for you to go after.  Kael's highest ranking soldiers wear Sunfury signets to mark their ranks.  You will find them all over Netherstorm and Shadowmoon Valley.",
+    "name": "Sunfury Signets",
+    "requires_level": 68,
+    "zone": "Shattrath City"
+}

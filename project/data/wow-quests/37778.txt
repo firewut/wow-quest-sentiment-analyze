@@ -1,0 +1,9 @@
+{
+    "_id": "37778",
+    "added_in_patch": 6.1,
+    "description": "We've got a radical new idea to try using ice ravager carapaces in our tempering process for armor and weapons. It's the sort of trailblazing work we strive for, commander!Only problem is, ravagers apparently aren't keen on our guys and gals taking their carapaces off of them. There's this particular ravager at the Southwind Cliffs in Frostfire Ridge called Hivelord Ik'rix - if you could take him down we wouldn't need more for weeks!",
+    "name": "Death to Hivelord Ik'rix!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

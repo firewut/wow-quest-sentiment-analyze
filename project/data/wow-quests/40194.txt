@@ -1,0 +1,8 @@
+{
+    "_id": "40194",
+    "added_in_patch": 7,
+    "description": "The same ship that my brother was on also carried shipments of exceptional mail armor. Knowing the giants, they probably had no use for them and left them scattered around their caves.If you could recover those shipments and bring them here, I can explain the techniques used to fashion them. That should give you a good idea of how to improve your processes.",
+    "name": "Reclaimed Cargo",
+    "requires_level": 104,
+    "zone": "Leatherworking"
+}

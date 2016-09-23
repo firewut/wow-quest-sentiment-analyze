@@ -1,0 +1,7 @@
+{
+    "_id": "13237",
+    "description": "While your commander has his focus diluted by his loathing of your Alliance rivals, you can depend on me to direct my attention squarely on the real enemy here - the Lich King and his minions.In order to hold any hope of conquering him at the citadel, your people must take and hold each gate.For now, let us focus on the first. Return to the front and prod their defenses. Look for any sign of weakness that we might exploit.I'll await your report, <class>.",
+    "name": "Poke and Prod",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "31768",
+    "added_in_patch": 5,
+    "description": "It's not enough that we destroy their forces. Nothing must be left for them to salvage!Take this flare-gun and fire it into their munitions stockpiles. Leave them nothing!",
+    "name": "Fire Is Always the Answer",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

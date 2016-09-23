@@ -1,0 +1,7 @@
+{
+    "_id": "26555",
+    "description": "Venoxis was the second of the two priests that Zanzil planned to bring back from the dead.  You have already succeeded in destroying the body of High Priestess Jeklik... Venoxis must be the next.",
+    "name": "High Priest Venoxis",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30943",
+    "added_in_patch": 5,
+    "description": "I've seen the numbers these invaders have brought with them, this will not be an easy victory. I do know of one thing that may help us gain an advantage.There is a plant that grows around the village that can be used to make a rather effective explosive liquid. If you can gather enough I can begin brewing the mixture.The plant you are looking for is appropriately named volatile bloom. Handle it with care, <class>.",
+    "name": "Handle With Care",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

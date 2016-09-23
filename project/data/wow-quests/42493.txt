@@ -1,0 +1,8 @@
+{
+    "_id": "42493",
+    "added_in_patch": 7,
+    "description": "Millhouse attracts trouble, so he's sure to find Archmage Vargoth if he's still here. \r\n\r\nOh and if you do find the Nightborne Soulstone, best get it first!",
+    "name": "Impending Dooooooom!",
+    "requires_level": 110,
+    "zone": "Mage Campaign"
+}

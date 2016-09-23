@@ -1,0 +1,7 @@
+{
+    "_id": "8480",
+    "description": "The Wretched grow bolder every day, <name>.  They've achieved enough coordination to launch an attack on Sunsail Anchorage.As if that weren't embarrassing enough, most of our weapons were left behind when they attacked.  Bring me back our armaments so that we may show those ruffians who's boss.",
+    "name": "Lost Armaments",
+    "requires_level": 5,
+    "zone": "Eversong Woods"
+}

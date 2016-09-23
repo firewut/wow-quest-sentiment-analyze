@@ -1,0 +1,8 @@
+{
+    "_id": "38949",
+    "added_in_patch": 7,
+    "description": "Very good, I think we're ready to begin.<Lyndras steals a glance at your powerful weapon. A look of hunger washes over his face before he shakes it off and continues.>Let's prepare our materials and make the robe and bracers that you so rightfully deserve!",
+    "name": "So You Think You Can Sew",
+    "requires_level": 100,
+    "zone": "Tailoring"
+}

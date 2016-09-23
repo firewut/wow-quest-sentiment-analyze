@@ -1,0 +1,7 @@
+{
+    "_id": "28500",
+    "description": "<Salhet spends some time going over the tablets with the priests around him.>It's all right here, <name>.  Atulhet built a potent weapon into this temple and the only way to access it is with the correct cypher.It is reportedly hidden in the Keset Pass.  We must hope the Neferset looters haven't gotten to it yet.  That's where Raider Lord Havat is operating and he's the most ruthless of the lot.But without reinforcements, this might be our only hope for defending Nahom.",
+    "name": "The Cypher of Keset",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

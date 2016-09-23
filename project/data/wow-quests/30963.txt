@@ -1,0 +1,8 @@
+{
+    "_id": "30963",
+    "added_in_patch": 5,
+    "description": "The Shado-Pan fight. As such, their armor often gets cut, scratched, torn, and burned. And it's my job to repair it.I'm no armorer, but I can repair a broken piece of mail as long as the hole's not too big.I prefer to use shell fragments from the tortoises that live in the wild fields to the northeast. Get some for me, and I can keep more Shado-Pan armored and alive.",
+    "name": "The Field Armorer",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

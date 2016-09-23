@@ -1,0 +1,8 @@
+{
+    "_id": "34958",
+    "added_in_patch": 6,
+    "description": "Looks like we'll soon have another obstacle in our way: that ridiculously large tank that they have pointed at the Dark Portal. The Iron Worldbreaker, I think they call it.If I had some documentation on how it might work, then I might be able to figure out how to shut it down. Maybe some o' those machinists and laborers have some documentation on how it works?",
+    "name": "The Shadow of the Worldbreaker",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

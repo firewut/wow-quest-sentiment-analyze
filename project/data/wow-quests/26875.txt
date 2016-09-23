@@ -1,0 +1,7 @@
+{
+    "_id": "26875",
+    "description": "The Twilight Cultists are here! They're trying to stop the ritual! Get to the back chambers and help fight them off!",
+    "name": "Undying Twilight",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

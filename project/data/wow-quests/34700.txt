@@ -1,0 +1,8 @@
+{
+    "_id": "34700",
+    "added_in_patch": 6,
+    "description": "Escaping Stonemaul was the easy part. The ogre filth that rule the pits still have my son.For a while they used him as leverage to ensure I would fight in their arenas. But now that I have escaped they will try to train him to replace me.Please, rescue my son. If they see me they will kill him instantly.",
+    "name": "Nazgrel",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

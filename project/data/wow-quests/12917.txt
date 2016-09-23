@@ -1,0 +1,7 @@
+{
+    "_id": "12917",
+    "description": "I suppose we shouldn't have expected to find Brann so easily, not with our luck. If we can make sense of what Brann is saying, you can persuade him to give up his location.The power of the wind is strong in these mountains, and it may prove a great boon to us. A knowledgeable shaman can hear the sound of all the world's tongues on the wind.To the northwest, on the Snowdrift Plains, you will find beings made of wind, the stormriders. Capture their voices and bring them to me.",
+    "name": "Speaking with the Wind's Voice",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38286",
+    "added_in_patch": 7,
+    "description": "<name>, Warlord Parjesh ran into the magical vortex just ahead. He has returned to an island off the shore to the southeast where Queen Azshara is staging more of her forces.\r\n\r\nThe queen is beyond angry because we opposed her. Even now, she is summoning up a monstrosity known as her Wrath to exact revenge for our defiance and drown the Broken Isles.\r\n\r\nYou must defeat the Wrath of Azshara before the queen let's it loose to destroy us all!",
+    "name": "Wrath of Azshara",
+    "requires_level": 98,
+    "zone": "Eye of Azshara"
+}

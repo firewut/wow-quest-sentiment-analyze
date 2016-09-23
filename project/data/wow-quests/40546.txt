@@ -1,0 +1,8 @@
+{
+    "_id": "40546",
+    "added_in_patch": 7,
+    "description": "Jabrul wants to show you his special crystals. Nobody knows what they do. Very mysterious.If you want to learn how to make one, Jabrul would be happy to show you.High in the mountains live storm drakes. They blast the cliffs with their lightning breath and sometimes blast so hard, they turn the rock to crystal.Get a piece of that crystal and bring it back to Jabrul.",
+    "name": "Mysteries of Nature",
+    "requires_level": 106,
+    "zone": "Jewelcrafting"
+}

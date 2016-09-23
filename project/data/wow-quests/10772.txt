@@ -1,0 +1,7 @@
+{
+    "_id": "10772",
+    "description": "My gryphon riders have come back with a bit of news! The Eclipsion blood elves are planning something big. They've begun forming their armies at the Path of Conquest, located east of here - adjacent to Eclipse Point.I want you to travel to the Path of Conquest and assess the situation. Once you've done so, use this flare gun to signal a gryphon rider. One will swoop down from the sky to meet you. Tell 'em what you've discovered and they'll give you the next set of orders.",
+    "name": "The Path of Conquest",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

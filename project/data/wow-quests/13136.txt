@@ -1,0 +1,7 @@
+{
+    "_id": "13136",
+    "description": "You pulled this jagged, dark brittle shard from the body of a ghoul. The metal blade lacks a smooth edge, suggesting it was forged by an unskilled hand, or was broken from a larger piece.You recall seeing similar shards embedded in the bodies of all the ghouls you've encountered at the Fleshwerks, leading you to wonder why their creators bothered to include the metal at all. Perhaps Crusader Olakin Sainrith would have some insight if you brought him the shards from several ghouls.",
+    "name": "Jagged Shards",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

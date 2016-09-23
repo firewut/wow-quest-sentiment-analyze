@@ -1,0 +1,8 @@
+{
+    "_id": "41017",
+    "added_in_patch": 7,
+    "description": "Since ye're bound an' determined ta crack that thing against every demon on Azeroth, let's see if we can't squeeze what we can out of it. With Saa'ra's power I've reworked this 'ere draenei altar into somethin' ye can use to focus... eh, let's skip that part, shall we?Just stick the thing in there and give it a whirl!",
+    "name": "Empowering Your Artifact",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

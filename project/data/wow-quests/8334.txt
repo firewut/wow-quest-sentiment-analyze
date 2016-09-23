@@ -1,0 +1,8 @@
+{
+    "_id": "8334",
+    "description": "Before sending you to the Academy, I want you on another task that needs to be dealt with immediately.  Once used to aid us in the gardening of Sunstrider Isle, the bestial tenders now have grown out of our control.  Clear them out with due haste, but be warned - their lack of control has made them aggressive.  It is such aggression that forces us to put down these once-gentle servants.It doesn't please me to ask you to do such a task, but survival is survival.  I'll mourn later.",
+    "name": "Aggression",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Sunstrider Isle"
+}

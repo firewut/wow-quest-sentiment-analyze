@@ -1,0 +1,7 @@
+{
+    "_id": "26393",
+    "description": "Although we don't get much aid from Stormwind directly, I do have a contact in the city who helps supply us with armor.  His name is Osric Strang.  His shop, Limited Immunity, is in the Old Town of Stormwind.Our supply of armor dwindles, and I must contact Osric for more.  Can you take him this note?The fastest way to Stormwind is through Bartlett the Brave, our gryphon master.  He's just outside of the smithy; bring him my note, and then take a gryphon to Stormwind.",
+    "name": "A Swift Message",
+    "requires_level": 5,
+    "zone": "Elwynn Forest"
+}

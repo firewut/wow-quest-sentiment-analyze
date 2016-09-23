@@ -1,0 +1,7 @@
+{
+    "_id": "11290",
+    "description": "While we were able to gather very little information as to the whereabouts of Ingvar, we do know that Yanis resides in a cave next to the worg pit inside Wyrmskull Village.Intelligence gathered from the rescued soldiers indicates that Yanis guards Dragonflayer battle plans.I need you to go back to Wyrmskull and recover those plans. Kill any vrykul that get in your way - including Yanis!",
+    "name": "Dragonflayer Battle Plans",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

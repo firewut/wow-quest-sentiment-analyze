@@ -1,0 +1,8 @@
+{
+    "_id": "31100",
+    "added_in_patch": 5,
+    "description": "Dear $p,Your research in to the yaungol has proven most insightful.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
+    "name": "The Song of the Yaungol",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

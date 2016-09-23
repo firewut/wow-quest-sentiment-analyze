@@ -1,0 +1,8 @@
+{
+    "_id": "14130",
+    "description": "My brothers and I are being hunted.Our sire was recently killed and the black dragonflight seeks to rout those of us that still live. I'm here to find Azuregos and take him to safety, if only he would let it be that easy.Azuregos doesn't make many friends, and his taste in them tends to be a bit... unique. The only one I know of here is a murloc named Ergll. You should be able to find him on the coast northeast of here.Do whatever it takes to find Azuregos and send him to me.Please hurry.",
+    "name": "Friends Come In All Colors",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Azshara"
+}

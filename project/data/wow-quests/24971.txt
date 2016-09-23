@@ -1,0 +1,8 @@
+{
+    "_id": "24971",
+    "description": "While you were taking care of matters for Executor Arren, I went off on an assignment of my own.  Shadow Priest Sarvis asked me to peek in on the Rotbrain camp.There's a reason why they're called Rotbrains.Their leader goes by the name of Marshal Redpath, and he's an absolute beast.Look, <name>... the attack is starting.  You're better in combat than I am.  Get in there and help out!When you're done, meet up with Shadow Priest Sarvis in the chapel.  Good luck, <name>.",
+    "name": "Assault on the Rotbrain Encampment",
+    "requires_level": 2,
+    "side": "horde",
+    "zone": "Deathknell"
+}

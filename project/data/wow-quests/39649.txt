@@ -1,0 +1,8 @@
+{
+    "_id": "39649",
+    "added_in_patch": 6.2,
+    "description": "The grumplings are horrid creatures. They're the ones doin' the dirty work for Grumpus.If you're able to remove the threat I'm sure rescuing the children won't be much of a problem.",
+    "name": "Menacing Grumplings",
+    "requires_level": 100,
+    "zone": "Frostfire Ridge"
+}

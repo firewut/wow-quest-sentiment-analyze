@@ -1,0 +1,9 @@
+{
+    "_id": "30512",
+    "added_in_patch": 5,
+    "description": "<Admiral Taylor winces in pain.>\r\n\r\nJade Forest was a disaster. \r\n\r\nAnduin's gone. We lost some good people. We didn't stop the Horde from advancing into the continent. \r\n\r\nBut I think I've found a way to get the locals on our side. You just helped fight off some of these \"yaungol\", no?\r\n\r\nI hear yaungol sacked Westwind Rest, a local village. We've been told that two groups of survivors have camped out along the road west out of town.\r\n\r\nWe help them out, maybe they'll consider siding with the Allliance.",
+    "name": "Westwind Rest",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

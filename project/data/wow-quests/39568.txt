@@ -1,0 +1,9 @@
+{
+    "_id": "39568",
+    "added_in_patch": 6.2,
+    "description": "The shattered remnants of the Iron Horde pour into Tanaan through Ironhold Harbor. If we knew more about their fleet we could dispatch countermeasures from your shipyard in Shadowmoon.Perhaps you could gather some naval intelligence for our cause?",
+    "name": "A Little Wetwork",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39232",
+    "description": "We have heard rumors that one of the strongest of the eredar could soon enter this world through the Black Gate.\r\n\r\nIf these rumors are to be believed, it could even be Archimonde the Defiler. Should he arrive uncontested, Draenor itself is likely to fall.",
+    "name": "The Black Gate",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

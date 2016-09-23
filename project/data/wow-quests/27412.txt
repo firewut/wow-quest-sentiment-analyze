@@ -1,0 +1,7 @@
+{
+    "_id": "27412",
+    "description": "Travelers and Steamwheedle personnel working in the field are advised to avoid the Bloodfen Burrow to the west of town.The area is overrun with raptors lead by the cruel and cunning Goreclaw the Ravenous, who has already killed at least two Steamwheedle engineers.Drazzit Dripvalve has authorized a generous reward to be paid to the individual who rids Mudsprocket of this menace.",
+    "name": "WANTED: Goreclaw the Ravenous",
+    "requires_level": 36,
+    "zone": "Dustwallow Marsh"
+}

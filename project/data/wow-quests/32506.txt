@@ -1,0 +1,8 @@
+{
+    "_id": "32506",
+    "added_in_patch": 5.2,
+    "description": "I've just received a report that another young pterrorwing has been spotted in the Diremoor.We need to recover as many of these as we can find. They may be the key to flying on this island.",
+    "name": "A Wing to Fly On",
+    "requires_level": 90,
+    "zone": "Quests"
+}

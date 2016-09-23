@@ -1,0 +1,8 @@
+{
+    "_id": "14128",
+    "description": "Our blood elven allies have been examining the ruins marked on this map, and can likely understand this mysterious script. Seek out the one called Malynea Skyreaver. She conducts her research from the Orgrimmar Rocketway Exchange just north of here - it's part of the new goblin transit system that snakes across this land. Quickly, now!",
+    "name": "Return of the Highborne?",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Azshara"
+}

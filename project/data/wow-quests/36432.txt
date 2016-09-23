@@ -1,0 +1,9 @@
+{
+    "_id": "36432",
+    "added_in_patch": 6,
+    "description": "We are still trying to locate all of our scouts out in the field. One of these, Altauur, enjoys handling the more dangerous missions.He has not checked in and I feel we should check to make sure he has not taken on more than he can handle.",
+    "name": "Seeking the Scout",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

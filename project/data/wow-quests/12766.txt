@@ -1,0 +1,7 @@
+{
+    "_id": "12766",
+    "description": "<The dragon in elf form takes your letter of introduction, perusing it for a moment and then stashing it away within his sleeve.>Everything seems to be in order. However, if you don't mind, I would ask that you speak with your ambassador here at the temple.She has something of great import for you that needs taking care of before we send you up to the queen.<He pats at the letter under his sleeve.>I'll keep this safe for you until your return.",
+    "name": "Speak with your Ambassador",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

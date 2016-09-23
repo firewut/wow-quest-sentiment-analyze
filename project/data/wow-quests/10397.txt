@@ -1,0 +1,8 @@
+{
+    "_id": "10397",
+    "description": "Well, we've located the Legion's final base on the ridge - Invasion Point: Annihilator. It lies northwest of Forge Camp: Rage - and it houses a warp-portal through which the Legion has been drawing its reinforcements! You've got to close that portal to prevent any more demons from coming through. The Point's overlord, Warbringer Arix'Amal, holds the portal's activation key. Take it from him and shut that blasted gateway down!  \r\n",
+    "name": "Invasion Point: Annihilator",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

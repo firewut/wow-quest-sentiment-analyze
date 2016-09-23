@@ -1,0 +1,9 @@
+{
+    "_id": "33685",
+    "added_in_patch": 6,
+    "description": "I have seen a tough looking \"tree\" in that growth. It cries and moans but does not act hostile.It may know how to get rid of these plants. Go and see if it does.",
+    "name": "Ambassador to the Ancient",
+    "requires_level": 93,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

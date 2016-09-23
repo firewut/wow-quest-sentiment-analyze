@@ -1,0 +1,7 @@
+{
+    "_id": "12787",
+    "description": "The zombie plague was a blessing in disguise.  In our search for a cure, we have learned so much of the Scourge and their contagion.  Our research has given us weapons against them.  Weapons, and tools...Take this -- it is a zombie's head and has been partially cured of its plague by injecting it with a compound derived from our recent discoveries.  Deliver the head to Master Apothecary Faranell; I have a list of experiments I would like him to perform on it.",
+    "name": "The Undercity",
+    "requires_level": 65,
+    "zone": "Quests"
+}

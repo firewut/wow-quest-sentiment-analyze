@@ -1,0 +1,8 @@
+{
+    "_id": "36866",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Lower Blackrock Spires Reward Quest",
+    "requires_level": 55,
+    "zone": "Quests"
+}

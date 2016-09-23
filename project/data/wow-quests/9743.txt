@@ -1,0 +1,7 @@
+{
+    "_id": "9743",
+    "description": "Us sporelings and the bog lords have never gotten along well.  In the past, we've managed to keep them at bay with spears and stones.  Lately they seem to have become more aggressive... or more desperate.  They do not fear us or our weapons.You are much scarier and better armed than us.  If you were to fight the boglords for us, we'd be forever in your debt!  Bring me their tendrils so I know how many you've killed.",
+    "name": "Natural Enemies",
+    "requires_level": 61,
+    "zone": "Zangarmarsh"
+}

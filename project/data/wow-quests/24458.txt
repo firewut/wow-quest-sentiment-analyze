@@ -1,0 +1,7 @@
+{
+    "_id": "24458",
+    "description": "<name>, I've taken the purified sample of Azsharite you rescued from the lab and I've weaponized it. If my calculations are correct, it will detonate with enough force to level a city.If I'm wrong, we may cleave the planet in two.The only way to find out is a test-firing! Deliver the Azsharite core to the giant cannon in Bilgewater and report to Bleenik Fizzlefuse. My pilot-for-hire Friz Groundspin here can give you a ride.I'll follow... from a safe distance.  ",
+    "name": "A Hello to Arms",
+    "requires_level": 13,
+    "zone": "Azshara"
+}

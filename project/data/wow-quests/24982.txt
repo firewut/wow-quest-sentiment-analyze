@@ -1,0 +1,7 @@
+{
+    "_id": "24982",
+    "description": "Speaking frankly, the Forsaken of yesteryear were a sniveling, pathetic group.  We huddled together in decrepit old human buildings, hiding from the Scourge, cowering from the Alliance, and groveling at the foot of the Horde.Look before you now, and see the product of the new Forsaken.  We have made our mark here on Azeroth, and that mark will grow.  Our dominion will soon blanket the world!You want my advice?  Speak with Magistrate Sevren in Brill, down this road.  He runs that town.",
+    "name": "The New Forsaken",
+    "requires_level": 5,
+    "zone": "Tirisfal Glades"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14361",
+    "description": "We are a forward post, charged with monitoring potential adversaries. Once the Alliance launches its Desolace campaign, our work here will ensure that there are no surprises.Recently, one of our scouts was caught and sacrificed by the Burning Blade at their stronghold to the west. Since then, we've been assaulted with threats and taunts from a Burning Blade wretch named Kohor.Their days here are numbered, but I will pay handsomely for that one to be silenced now!",
+    "name": "Peace of Mind",
+    "requires_level": 27,
+    "zone": "Desolace"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "29948",
+    "added_in_patch": 5,
+    "description": "You and that Chen fellow are good people, helpin' out with the virmen like you are. I don't like to ask for favors, but I ain't gonna turn 'em away, either.While you're out there puttin' the hurt to those rabbit-men, you wouldn't mind keepin' an eye out for some bags o' hops, would ya? I'm pretty sure they lifted 'em last night.Probably usin' em for pillows, knowin' how they are.",
+    "name": "Thieves to the Core",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

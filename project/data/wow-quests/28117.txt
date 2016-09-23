@@ -1,0 +1,7 @@
+{
+    "_id": "28117",
+    "description": "You are a sight for sore eyes, <name>.  Now that we have claimed Tol Barad, the battle has just begun.We discovered a cell block just east of here that we need you to clear out.  Turns out that its chock full of ghosts that have been locked up down there for who knows how long.Clear out as much as you can and report back to me when you are done.",
+    "name": "Clearing the Depths",
+    "requires_level": 85,
+    "zone": "Tol Barad"
+}

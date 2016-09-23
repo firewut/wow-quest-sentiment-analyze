@@ -1,0 +1,8 @@
+{
+    "_id": "39247",
+    "added_in_patch": 7,
+    "description": "This hunt is yours to lead, <name> - a select few Illidari will join you to make sure Varedis meets his end.The rest of us must stay behind; a small team will have the best chance of making it to his hold undetected.We will meet you at Krasus' Landing to see you off when you are ready.",
+    "name": "The Hunt",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

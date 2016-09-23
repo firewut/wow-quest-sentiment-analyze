@@ -1,0 +1,8 @@
+{
+    "_id": "43409",
+    "added_in_patch": 7,
+    "description": "<class>t, in our short time together you have done much to aid the Circle.We are inspired by your determination and have developed a new technique that will bind the power of your weapon with the Emerald Dream itself!Everything is prepared. When you are ready we shall begin.",
+    "name": "A Hero's Weapon",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

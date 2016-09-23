@@ -1,0 +1,7 @@
+{
+    "_id": "27954",
+    "description": "Very well then, <race>. You have purchased my services in blood. Take me back to Garona Halforcen.Oh yes, I already know where you're taking me. Garona's relentless quest for vengeance is no secret. It will be a delight to watch it unfold.",
+    "name": "The Eyes Have It",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

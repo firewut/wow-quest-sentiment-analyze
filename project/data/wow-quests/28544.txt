@@ -1,0 +1,7 @@
+{
+    "_id": "28544",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Donova Snowden at Frostfire Hotsprings.She requires your help to overcome the threat of the Winterfall furbolg. To reach Winterspring, you must travel east from northern Felwood and traverse Timbermaw Hold.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Winterspring!",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "37154",
+    "added_in_patch": 6,
+    "description": "Greetings, and my thanks for the warmth of this inn and your hospitality.As you can see, this malady of death continues to plague me. My studies on Azeroth and in Northrend met with little luck, and all of my leads ran dry.I have come to Draenor in the hope of finding something, anything, to go on. My first pilgrimage will be to Auchindoun, a house where souls are put at ease.If you should head there yourself, do let me know if you should happen upon anything of interest.",
+    "name": "The Cure For Death",
+    "requires_level": 100,
+    "zone": "Auchindoun"
+}

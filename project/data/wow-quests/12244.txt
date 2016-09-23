@@ -1,0 +1,7 @@
+{
+    "_id": "12244",
+    "description": "Listen, pal. Why don't ya roll up your sleeves and grab a wrench? There's work to be done! They need these shredders refurbished and sent down to Venture Bay, and they need it done yesterday....No wrench? Well what good are ya then? May as well go down with the rest of the lugheads and play with the Horde!While you're there, see if you can drive some of those broken-down shredders up here for repairs. Be careful! They're in pretty bad shape.",
+    "name": "Shredder Repair",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

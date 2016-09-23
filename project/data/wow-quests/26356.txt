@@ -1,0 +1,8 @@
+{
+    "_id": "26356",
+    "description": "Sure enough, deep within the Old Jug there is another clue to Sanders' treasure.  The ink has run in some places and the paper smells like whiskey but you can make out some of the text:  Now that ye found me ol' whiskey jug, you're almost to the treasure!  Just face West from the bottle and walk down to the shore.  Once ye get to the water, keep going!  Swim straight west till you find the island with me treasure chest!",
+    "name": "Captain Sanders' Hidden Treasure",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

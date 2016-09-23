@@ -1,0 +1,8 @@
+{
+    "_id": "40385",
+    "added_in_patch": 7,
+    "description": "Many years ago, a corrupted nightsaber hunted my people. Our chieftain, Dorro Highmountain, took Talonclaw and pursued the beast, but never returned.I have heard tales of a fearsome nightsaber that now stalks the mists of Stormheim. My brother and I believe this to be our ancient foe.The weapon must be there too! If we kill the beast and reclaim the spear, it will be of great use against the Legion.",
+    "name": "The Spear in the Shadow",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

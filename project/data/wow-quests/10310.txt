@@ -1,0 +1,7 @@
+{
+    "_id": "10310",
+    "description": "With the Burning Legion nearby at the fel reaver scrap field, we must do what we can to stop the flow of demons into the area.They have a warp-gate to the south in an area that they've cleverly named Invasion Point: Destroyer.I need you to go with me to the site and keep me safe while I sabotage it.Afterward, go to the Midrealm Post to the north inside Eco-Dome Midrealm and apprise Gahruj of our success.We're going to need a friend or two of yours along to help with this.",
+    "name": "Sabotage the Warp-Gate!",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

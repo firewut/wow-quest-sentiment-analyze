@@ -1,0 +1,8 @@
+{
+    "_id": "30032",
+    "added_in_patch": 5,
+    "description": "Looking for sweet grain? My father once mentioned a malted cave barley that sounds about right.If you are willing to brave the peril, there is an ancient cave at the base of the Winds' Edge south of here.There is even an old lift my father made when he would travel into the jungle.In the cave is a bush as old as my family. From that bush you can pluck a grain so sweet it will humble your senses.Just watch out for its guardians.",
+    "name": "The Quest for Better Barley",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27488",
+    "description": "Damn that dwarf.  He's always getting me in trouble with Fiona.  Look at her!  She won't even TALK to me!I'm going to stay here and try to mend my friendship with our worgen friend.  Would you mind going out and making sure Gidwin is alright?  I'm sure he's fine; he knows how to take care of himself.  He headed north, and he can't have gone far.",
+    "name": "Impatience",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

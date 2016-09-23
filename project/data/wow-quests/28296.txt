@@ -1,0 +1,7 @@
+{
+    "_id": "28296",
+    "description": "The pyramid inside of the Maker's Terrace in Uldum can be used as some kind of super weapon that will end all life on Azeroth.<Belloc thinks a moment.>You must continue the good research that you've begun. Head south to the desert of Tanaris. There's a caravan there that's about to leave for Uldum.Perhaps you can tag along.",
+    "name": "Meetup with the Caravan",
+    "requires_level": 83,
+    "zone": "Tanaris"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34284",
+    "added_in_patch": 6,
+    "description": "Commander, I have bad news to report.Agent Graddock was out on assignment to keep an eye on the Bloodmaul and he missed his deadline to check back in.Something's not right, <name>.If Owynn was captured they may have locked him away with their slaves.Head over to Stonefury Cliffs and see if you can locate him.",
+    "name": "Garrison Campaign: The Search for Owynn Graddock",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Campaign"
+}

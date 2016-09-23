@@ -1,0 +1,8 @@
+{
+    "_id": "30312",
+    "added_in_patch": 5,
+    "description": "A foolish contingent attempted to mount an offensive on the Golden Stair through the eastern pass, and were bombarded by cannons. Those that made it back are in bad shape, and there are still wounded out in the field.Here are some bandages. Use these, or any other healing skills you possess, and help get our wounded defenders back to safety.Please hurry, there is little time.",
+    "name": "Given a Second Chance",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

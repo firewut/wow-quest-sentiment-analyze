@@ -1,0 +1,7 @@
+{
+    "_id": "26871",
+    "description": "<The ground trembles slightly, and the low, familiar voice of Diamant speaks as if from the stone itself.>You've done as I've asked.Turn back and escape the cave in one piece.Don't forget the gemstone.",
+    "name": "A Rock Amongst Many",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

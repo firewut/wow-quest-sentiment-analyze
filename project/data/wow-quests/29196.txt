@@ -1,0 +1,7 @@
+{
+    "_id": "29196",
+    "description": "We should not worry about this \"Druid of the Flame\" for the time being. We must be concerned with the continuance of our operation.Return to Matoclaw at the Sanctuary of Malorne. If Ragnaros was prepared for our arrival, then I anticipate that his forces will launch a counterattack soon.",
+    "name": "To the Sanctuary!",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

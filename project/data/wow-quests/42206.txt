@@ -1,0 +1,8 @@
+{
+    "_id": "42206",
+    "added_in_patch": 7,
+    "description": "The Empyrean Society is certainly much more dangerous than they appear. It's unimaginable that any mage would study fel magic -- that's for warlocks and the Legion!\r\n\r\nSince our friend, Ravandwyr, appears to be delayed, it looks like we'll have to deal with this ourselves. We should remove this sect so they can't corrupt anyone else.",
+    "name": "The Next Level Has Arrived",
+    "requires_level": 103,
+    "zone": "Mage Campaign"
+}

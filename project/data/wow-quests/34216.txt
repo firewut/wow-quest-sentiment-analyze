@@ -1,0 +1,9 @@
+{
+    "_id": "34216",
+    "added_in_patch": 6,
+    "description": "Being a human and a night elf, the archmage and I aren't likely to be well-received by the orcs of the Frostwolf clan.We need you to make an introduction for us with the Throm'var farseer.There is much to discuss. Shall I bring you up to speed on the way to the village?",
+    "name": "Safe Passage",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

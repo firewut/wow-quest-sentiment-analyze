@@ -1,0 +1,8 @@
+{
+    "_id": "31959",
+    "added_in_patch": 5,
+    "description": "Grand Empress Shek'zeer has finally lost her patience with us. We have learned of an enormous army, massing in the shadows of the Heart of Fear, with orders to crush Klaxxi'vess.We have been fortunate to hold out this long, but we cannot survive a siege of this scale.Wakener, you have been invaluable to our efforts. Come, take your place on the field among we paragons.I will see you on the battlefield!",
+    "name": "The Empress' Gambit",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

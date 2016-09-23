@@ -1,0 +1,8 @@
+{
+    "_id": "8483",
+    "description": "Listen, <name>.  This is a very delicate situation; even though we've identified the spy, we cannot kill him out in the open.  We cannot try to capture him either as the risk of him escaping is too great.I want you to go find Prospector Anvilward at the North Sanctum and kill him.  Do this in a quiet manner, we don't want word to spread that we allowed a spy into our city.Bring me his head as proof.  Ironforge will learn not to meddle with the sin'dorei.",
+    "name": "The Dwarven Spy",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27583",
+    "description": "I have ordered a defensive perimeter set up on our northern coast, at the Slithering Cove. Our scouts reported that the naga were trying to make landfall there.Gralok is in charge of the operation - report to him and secure that beach!",
+    "name": "The Northern Flank",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

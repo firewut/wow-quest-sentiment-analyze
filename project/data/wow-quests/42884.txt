@@ -1,0 +1,8 @@
+{
+    "_id": "42884",
+    "added_in_patch": 7,
+    "description": "When I arrived at my home, the front door was barred by magical roots.\r\n\r\nI was able to remove them, but few of my tribe possess the necessary ability to do so themselves.\r\n\r\nTake my staff. Its powers will easily disentangle the obstructing roots.",
+    "name": "Grassroots Effort",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

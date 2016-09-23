@@ -1,0 +1,8 @@
+{
+    "_id": "26118",
+    "description": "The ambassador's betrayal will long haunt me. You must arrest him before he can do further harm, or worse, before he can escape and start planning the next attack. Ironforge is not safe with Ambassador Slaghammer free inside the city.Take these manacles and go to the Dark Iron embassy. It's just to the north of the High Seat, around the rim of the Great Forge. Arrest Ambassador Slaghammer and return with him.",
+    "name": "Seize the Ambassador",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Ironforge"
+}

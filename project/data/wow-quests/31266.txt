@@ -1,0 +1,8 @@
+{
+    "_id": "31266",
+    "added_in_patch": 5,
+    "description": "We've heard reports of a group of Mogu infiltrating the coast here in Townlong. I have no idea what they are doing. Frankly, I don't care. \r\n\r\nYou've proven yourself, so we've decided to give this mission to you.\r\n\r\nWhat's going to happen is this - you're going to go, find them, and kill them.\r\n\r\nOur scouts reported the first group landed to the north, between here and Deadtalker's Plateau. Go there and wipe them out.",
+    "name": "Mogu Incursions",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

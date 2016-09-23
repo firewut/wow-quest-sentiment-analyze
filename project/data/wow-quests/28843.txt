@@ -1,0 +1,7 @@
+{
+    "_id": "28843",
+    "description": "Naz'jar! She's the one responsible for this mess.She's in here somewhere, <name>. She must be exhausted after that fight with Neptulon.Now is the time to strike! We won't have another opportunity like this.I'll handle anything that tries to aid her from this direction.Find her, <name>, and run her through!",
+    "name": "Sins of the Sea Witch",
+    "requires_level": 80,
+    "zone": "Throne of the Tides"
+}

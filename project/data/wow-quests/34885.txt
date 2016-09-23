@@ -1,0 +1,8 @@
+{
+    "_id": "34885",
+    "added_in_patch": 6,
+    "description": "<Beneath Skizzik's outstretched hand, letters are scrawled into the dirt:t h o r nm o t h e rRavagers brought in by the Shattered Hand have taken over the aviary and are breeding fast. If left alone, they could be swarming the entire area - including Veil Terokk - in a matter of days.>",
+    "name": "Mother of Thorns",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

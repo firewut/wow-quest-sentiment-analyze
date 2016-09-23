@@ -1,0 +1,8 @@
+{
+    "_id": "32897",
+    "added_in_patch": 5.3,
+    "description": "",
+    "name": "Daily Selected Scenario",
+    "requires_level": 90,
+    "zone": "Quests"
+}

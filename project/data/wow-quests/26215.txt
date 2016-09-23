@@ -1,0 +1,8 @@
+{
+    "_id": "26215",
+    "description": "Looks like we got ourselves a real \"whodunit\" here, rookie. Unfortunately, it looks like the locals aren't willing to talk and the clues you got off the gnolls and murlocs are damn near worthless. We're going to have to initiate plan... be on the lookout for Two-Shoed Lou.Two-Shoed Lou is an old confidential informant of mine who, ironically, makes his home at the Furlbrow's old pumpkin farm. Head west to the farm and find out what Lou knows.If he gives you any guff tell him that Horatio sent you.",
+    "name": "Meet Two-Shoed Lou",
+    "requires_level": 9,
+    "side": "alliance",
+    "zone": "Westfall"
+}

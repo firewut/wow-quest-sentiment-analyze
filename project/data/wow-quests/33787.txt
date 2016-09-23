@@ -1,0 +1,9 @@
+{
+    "_id": "33787",
+    "added_in_patch": 6,
+    "description": "Gidwin was attacked by one of those plant creatures.From the looks of it, he is suffering from some kind of paralysis.I can make a cure, but I'll need some local ingredients.",
+    "name": "Fiona's Solution",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

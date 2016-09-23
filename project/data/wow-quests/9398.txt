@@ -1,0 +1,8 @@
+{
+    "_id": "9398",
+    "description": "The Broken that live in Outland have endured endless violence.  It is of little surprise that as soon as the Dark Portal opened they flocked to it in droves with hopes of escaping this land.Unfortunately for our confused brothers and sisters coming from the south, the rock flayers that inhabit the Great Fissure see them as easy prey.  Go there and thin the rock flayer population, so that our kin might have a chance.",
+    "name": "Deadly Predators",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

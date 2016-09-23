@@ -1,0 +1,8 @@
+{
+    "_id": "38148",
+    "added_in_patch": 7,
+    "description": "Now that my clan is assembled, we shall return to the Grove of Cenarius.Speak to Malfurion when you arrive. We will find out the cause of Cenarius' illness.",
+    "name": "Return to the Grove",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14271",
+    "description": "A magical barrier pulses around you, chilling your bones. You feel secure behind this enchanted wall.Torg Twocrush will want to know what you've discovered here!",
+    "name": "Report to Twocrush",
+    "requires_level": 11,
+    "zone": "Azshara"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28625",
+    "description": "I deal in small timber plenty, but full trees? That's a novelty item. Kinda like those boulders.Maybe you can do me another favor. Just west of town there's a grove of trees overlooking Lake Kel'theril. I don't know if it's the spooks there, or all that elf magic junk strewn around the place, but we've been getting treants and lashers wandering around there recently.They're making it a real pain to chop wood over there, so why don't you chop some of them? Bring the wood from the treants back here.",
+    "name": "Chop Chop",
+    "requires_level": 50,
+    "zone": "Winterspring"
+}

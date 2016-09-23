@@ -1,0 +1,9 @@
+{
+    "_id": "34070",
+    "added_in_patch": 6,
+    "description": "With the spears and rope you gathered the Thunderlord Sky Riders will no longer be out of our reach. Even they will feel our wrath!I've tied the rope to the spears you brought me to fashion a harpoon. Hunt the Sky Riders that are flying all over the valley. Take the Harpoon and throw it at them as they circle by. If your aim is true the barbs should allow the spear a firm hold allowing you to yank the rider right towards you!If your aim is bad... well... try not to miss.",
+    "name": "At the End of Your Rope",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

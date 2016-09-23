@@ -1,0 +1,7 @@
+{
+    "_id": "28002",
+    "description": "There is a delicate situation that calls for the... objective discretion of an outsider.You see, an unfortunate incident has upset some of our guests. Rest assured, our top men are sorting out the details.In the meantime, it would be wonderful if you could calm our more squeamish visitors.Handle this well, and the furrier is sure to hear of it!",
+    "name": "Crisis Management",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

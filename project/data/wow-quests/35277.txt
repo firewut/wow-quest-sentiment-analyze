@@ -1,0 +1,9 @@
+{
+    "_id": "35277",
+    "added_in_patch": 6,
+    "description": "Commander, our status report is... regrettable.We'll be out of supplies in a few days' time, and that's assuming we have any troops left by then. There's just enough material left to put up an inn or a trading post.The inn would allow us to station fresh troops here, but the trading post would open up potential supply routes with the outcasts nearby.I've left out Gazlowe's blueprints on the drafting table. We await your will.",
+    "name": "Orders, Commander?",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

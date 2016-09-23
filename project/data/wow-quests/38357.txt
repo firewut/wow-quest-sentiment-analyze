@@ -1,0 +1,9 @@
+{
+    "_id": "38357",
+    "added_in_patch": 7,
+    "description": "Exposure to this particular \"byproduct\" is quite nasty.Rapid cell degeneration quickly reduces the subject to a shambling husk incapable of any reason or thought beyond a violent, throbbing hatred for the warmth of life.As you might imagine, the local fauna have been affected by the spill. Oh, and most of the crew as well...Anyway, good luck!",
+    "name": "Side Effects May Include Mild Undeath",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Stormheim"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26331",
+    "description": "Our old enemy, Thermaplugg, is doing his best to keep us from rebuilding and finishing our reclamation of Gnomeregan. He's sent one of his most loyal henchmen, Razlo Crushcog, and a force of irradiated gnomes to harry us.They've taken over an old arsenal up the road to the north, and Crushcog's technicians are repairing those weapons. We have to stop them before they're able to get those mechano-tanks back online. Go to Crushcog's Arsenal and eliminate as many of the technicians as you can.",
+    "name": "Crushcog's Minions",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

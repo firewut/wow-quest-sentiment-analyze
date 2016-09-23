@@ -1,0 +1,8 @@
+{
+    "_id": "26525",
+    "description": "If the sacrifice has already been made, Shadra's presence is going to start creepin' into this realm. That cave's probably full of her spawn by now.Don't let them escape, <name>. Slay any of those vile spiders you find!",
+    "name": "Venomous Secrets",
+    "requires_level": 30,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

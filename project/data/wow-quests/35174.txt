@@ -1,0 +1,9 @@
+{
+    "_id": "35174",
+    "added_in_patch": 6,
+    "description": "We are getting strange reports of an orc attack on a nearby draenei settlement called Eventide Landing.I'm hearing these particular orcs are unlike any we have encountered before.They seem... sickly, and are pale in color.The locals could use our help, commander. This seems like the perfect opportunity to test our garrison's capabilities.",
+    "name": "Pale Moonlight",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

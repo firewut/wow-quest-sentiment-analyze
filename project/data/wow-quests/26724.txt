@@ -1,0 +1,7 @@
+{
+    "_id": "26724",
+    "description": "The others here share my suspicion. Morbent Fel lives on in undeath...and may be even more powerful than before. A necromancer was struck down, but a lich may have risen in his place. And now he continues to ruin this land.I remember Duskwood before all this, <name>. I remember bright skies and peaceful woods. This can't stand! Morbent Fel must be stopped for good.Speak to Sister Elsington. Her vision might guide you to where Morbent Fel is, and how he can be defeated.",
+    "name": "The Lurking Lich",
+    "requires_level": 22,
+    "zone": "Duskwood"
+}

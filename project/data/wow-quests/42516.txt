@@ -1,0 +1,8 @@
+{
+    "_id": "42516",
+    "added_in_patch": 7,
+    "description": "Archdruid Rensar Greathoof has requested your presence.Our campaign to defend the Broken Isles is getting under way, and we need you at the helm.",
+    "name": "Growing Power",
+    "requires_level": 101,
+    "zone": "Druid Campaign"
+}

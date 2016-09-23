@@ -1,0 +1,8 @@
+{
+    "_id": "12104",
+    "description": "<Doctor Malefious hands you a vial full of murky liquid.>Here you are then, <race>. Take this back to the cow and let him know that all debts have been paid. We are officially \"square.\"Now leave me before I set Jennings upon you.",
+    "name": "Return to Soar",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

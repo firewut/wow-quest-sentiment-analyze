@@ -1,0 +1,8 @@
+{
+    "_id": "42767",
+    "added_in_patch": 7,
+    "description": "My weapon is strong but not for attacking, \r\nProtecting the weak is what it's enacting.\r\n\r\nIn the valley are people who till the land from dawn to night,\r\nThe fruits of their labor, you must show me tonight.\r\n\r\nSacks of grain are what I require,\r\nNot just any will do, only those kissed by a fire.\r\n\r\nBring me what I seek.",
+    "name": "The Riddle of the Land",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

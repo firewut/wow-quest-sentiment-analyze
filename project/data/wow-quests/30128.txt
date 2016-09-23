@@ -1,0 +1,8 @@
+{
+    "_id": "30128",
+    "added_in_patch": 5,
+    "description": "The mogu found the Pools of Youth!Mama Bramblestaff used to tell me old stories about those. During the mogu empire they would use the waters to extend life.Thing is those stories never ended well for some reason. As if the waters were cursed.Either way, we should investigate. There is a good chance those waters might help Leza.It looks like the Pools of Youth are on the northwestern side of the ruins.",
+    "name": "The Pools of Youth",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11470",
+    "description": "You are most definitely ready for the next step in falconry, <name>.Take your trained falcon east of here, to the vrykul hawk roost near the Stonewall Lift. From the roost you will send out your falcon to steal the eggs of the hawks. Their nests will be located in remote areas of the cliff walls surrounding the roost. Locate those nests and use your falcon to scavenge for the eggs!Beware the fjord hawk matriarchs, <name>. Should you come under attack, use your falcon's escape and soar abilities to flee!",
+    "name": "There Exists No Honor Among Birds",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

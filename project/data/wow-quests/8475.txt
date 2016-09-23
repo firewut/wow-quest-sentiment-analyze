@@ -1,0 +1,7 @@
+{
+    "_id": "8475",
+    "description": "The black swath of soil that cuts through Eversong Woods is a permanent reminder of the day Arthas led the Scourge into our beloved city.This blemish is more than an eyesore as even today it brings Scourge from the Ghostlands to Silvermoon.Go, <name>, and give my men a hand in killing the mindless undead that walk down the Dead Scar.",
+    "name": "The Dead Scar",
+    "requires_level": 4,
+    "zone": "Eversong Woods"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43002",
+    "added_in_patch": 7,
+    "description": "So the Earthen Ring wishes to resurrect my master?<Highlord Demitrian laughs maniacally.>I knew this day would come! At last, humanity understands the power of the Windseeker!When Prince Thunderaan was slain at the hands of treacherous mortals, his soul was trapped within the sacred blade Thunderfury.To resurrect my master you will need to find his sword and return it to Skywall. Last I heard, the betrayer who stole my master's sword traveled to the Broken Isles to fight demons.",
+    "name": "Blessed Blade of the Windseeker",
+    "requires_level": 103,
+    "zone": "Shaman Campaign"
+}

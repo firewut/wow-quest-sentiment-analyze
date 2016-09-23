@@ -1,0 +1,8 @@
+{
+    "_id": "27917",
+    "description": "I could smell Godfrey and his companions a mile away from here. They did an exceedingly poor job covering their tracks in flight. It will be the mistake that puts the final nail in their coffins.One of them is very close, and though the scent has changed slightly in undeath, I'm fairly certain it's Ashbury's. Go inside and tear him to pieces, we'll ensure the Forsaken do not intervene with our task.",
+    "name": "Sniffing Them Out",
+    "requires_level": 16,
+    "side": "alliance",
+    "zone": "Quests"
+}

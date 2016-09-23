@@ -1,0 +1,7 @@
+{
+    "_id": "13174",
+    "description": "Shutting down their operation is just half of the plan. The other important goal here is to find out where all that saronite is being sent. We know of a few places it's been ending up, but the amount they're pulling out suggests to me that there's a bigger project in the works.Once you're inside the quarry, get your hands on any of their documents that you can find. If you're assaulting the place with one of the gryphons, you can drop down from it as soon as the wetwork is done.",
+    "name": "Amidst the Confusion",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30281",
+    "added_in_patch": 5,
+    "description": "<He leans over and draws a picture of what can only be a mogu, points towards the lake to the west, drags the blunt side of his dagger across his throat, and looks at you expectantly. It seems he wants you to kill mogu at Whitepetal Lake.>",
+    "name": "The Silent Approach",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

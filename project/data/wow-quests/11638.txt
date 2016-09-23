@@ -1,0 +1,7 @@
+{
+    "_id": "11638",
+    "description": "<name>, now that my spirit has been freed would you do me the honor of returning my remains to Spirit Talker Snarlfang? They lay upon the ground beneath me.I sense that the spirit talker is still at Bor'gorok Outpost to the west where last I saw her.",
+    "name": "Return My Remains",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

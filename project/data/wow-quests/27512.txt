@@ -1,0 +1,7 @@
+{
+    "_id": "27512",
+    "description": "<Sylvanas hands you the signet ring.>Take the ring and make your way to Beren's Peril, southeast of here, located in a cave in the hills. Once there, search the cave for the portal to the pocket dimension that conceals the Ambermill magi.I will communicate with you through your thoughts, <name>. Once you have reached the portal I will give you your marching orders.",
+    "name": "Transdimensional Warfare: Chapter I",
+    "requires_level": 14,
+    "zone": "Silverpine Forest"
+}

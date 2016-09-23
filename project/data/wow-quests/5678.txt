@@ -1,0 +1,7 @@
+{
+    "_id": "5678",
+    "description": "It is time for you to return to Stormwind, young one. Your superiors there have called you back for more training. And although it disturbs me some, your race and mine are allies and I would not betray that.I do not mean to be so coy with you--my distrust of arcane magics, be they divine inspired or not, is still strong within me.You will know of what I speak after you return to your Cathedral of Light. Speak to High Priestess Laurena when you arrive.",
+    "name": "Arcane Feedback",
+    "requires_level": 20,
+    "zone": "Priest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10792",
+    "description": "The Bleeding Hollow clan have betrayed their noble heritage!  We, the orcs who fought and died to save ourselves from the fel taint of Mannoroth, look upon our vile cousins and see only weakness and ignobility... and for that, they must burn!Enter Zeth'Gor, their bastion to the east, and burn their buildings.  Kill peons for their torches, ignite them at their forge, and hurl the burning torches at their hovels, their stable and their barracks.  Burn them all, and then return to me!For the Horde!",
+    "name": "Zeth'Gor Must Burn!",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30327",
+    "added_in_patch": 5,
+    "description": "I, umm... well...Oh, never mind. It was a stupid idea.It's just that, I was thinking that maybe we can stop the Kunzen hozen from attacking us without having to, you know... KILL anything. I noticed a few ropes on the side of the mountain. I think they're using them to climb down to our farms and...No, forget it. It was a silly idea anyways.",
+    "name": "You Have to Burn the Ropes",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

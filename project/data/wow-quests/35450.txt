@@ -1,0 +1,8 @@
+{
+    "_id": "35450",
+    "added_in_patch": 6,
+    "description": "I've heard disturbing news from our friends at The Draakorium, to the south.The town lies near a swamp, and recently, dangerous creatures have been venturing near its borders.You seem like a seasoned adventurer. If you are heading that way, would you mind checking in with our people there?I would feel much better if I knew they were safe.",
+    "name": "The Southern Wilds",
+    "requires_level": 90,
+    "zone": "Shadowmoon Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13294",
+    "description": "While it's going to be crucial to defeat the Scourge on the ground, we mustn't neglect the gate itself.The flesh giants on the ramparts are capable of hurling massive boulders and chunks of ice, inflicting devastating damage to enemy infantry below.Muster a force and defeat these giants. We need to know just what we're up against in terms of their strength.Oh... and bring me their spines. If memory serves, there's a little trick I can share with you.",
+    "name": "Against the Giants",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

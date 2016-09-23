@@ -1,0 +1,8 @@
+{
+    "_id": "43398",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Alonsus Faol",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

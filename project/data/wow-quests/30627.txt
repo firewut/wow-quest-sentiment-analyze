@@ -1,0 +1,8 @@
+{
+    "_id": "30627",
+    "added_in_patch": 5,
+    "description": "That commander speaks hastily. He has the weapon he needs to win this battle. He has YOU.\"But it's too hard,\" you might say.You would be wrong. It is not too hard. NOTHING IS TOO HARD.Go now, <name>. Go, and save Stoneplow!",
+    "name": "The Savior of Stoneplow",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

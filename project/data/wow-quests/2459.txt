@@ -1,0 +1,8 @@
+{
+    "_id": "2459",
+    "description": "The emerald... It is missing! My dreamcatcher has been damaged!There is a band of Gnarlpine mystics located to the north of Starbreeze. I have heard reports that their leader, Ferocitas the Dream Eater, has been wearing a necklace that glows green in the night. Now seeing my dreamcatcher, I am sure that he has stolen my emerald... He would never realize that its power is useless to him.Find this missing jewel, <name>. And, while you're there, clear out some of the corrupted mystics as well.",
+    "name": "Ferocitas the Dream Eater",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

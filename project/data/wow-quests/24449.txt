@@ -1,0 +1,7 @@
+{
+    "_id": "24449",
+    "description": "We're looking pretty good here at this point. It's definitely been a pleasure working with you, soldier.If you're ready to take the artifact back, we've got a Gyrocopter ready to take you back to Bilgewater Harbor so that you can deliver it to Uncle Bedlam personally.",
+    "name": "Shore Leave",
+    "requires_level": 12,
+    "zone": "Azshara"
+}

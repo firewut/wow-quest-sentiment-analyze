@@ -1,0 +1,8 @@
+{
+    "_id": "30269",
+    "added_in_patch": 5,
+    "description": "As we say at the temple: \"Never fight a tiger with a hozen on your back.\"We will deal with the sha, but first we must see to the more immediate... nuisance.<Koro slams the writhing saurok HARD against the stone.>Groups of refugees from the temple are heading for a camp to the north, but they're being ambushed by saurok. Help me see the next group to the camp and we'll figure out our next move from there.",
+    "name": "Unsafe Passage",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

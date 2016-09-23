@@ -1,0 +1,9 @@
+{
+    "_id": "37772",
+    "added_in_patch": 6.1,
+    "description": "Ol' Grommash cannot rule the Iron Horde without his Warlords keeping the clans in line. Let's deal 'em a blow that they can't recover from! Blackhand, Warlord of the Blackrock clan, is a dauntless warrior and ruthless tyrant. He's second only to Grommash within the Iron Horde and oversees operations in the Foundry from atop its Crucible.Travel to the Blackrock Foundry and defeat Blackhand.",
+    "name": "Blackhand's Crucible: Blackhand",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Quests"
+}

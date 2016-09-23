@@ -1,0 +1,8 @@
+{
+    "_id": "10287",
+    "description": "I'm Arelion's friend, but I'm not going to take the beating of my life for him.  His mistress is Viera Sunwhisper.Go tell that harpy of a wife of his.  What's she going to do anyway?",
+    "name": "The Mistress Revealed",
+    "requires_level": 60,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

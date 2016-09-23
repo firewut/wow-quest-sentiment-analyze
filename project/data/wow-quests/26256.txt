@@ -1,0 +1,7 @@
+{
+    "_id": "26256",
+    "description": "The Twilight's Hammer are wielding foul magic here, <name>.  They animate and energize the remains of Deathwing's blood, so that instead of drying out and disappearing it thrives and becomes more abundant.Take out one of the bloodshapers, see if they have any clues as to where we can find this \"forgemaster.\"",
+    "name": "Bleed the Bloodshaper",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

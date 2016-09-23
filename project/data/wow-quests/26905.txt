@@ -1,0 +1,7 @@
+{
+    "_id": "26905",
+    "description": "Listen closely, mortal.The Quilboar are my children. My blood runs deep in these lands.Charlga Razorflank has steered my children into darkness, driven into insanity by the Scourge.Slay her, <name>. Slay her and open my childrens' eyes.Give the Quilboar the chance to return to their noble roots. Let them once more earn my blessing.Bring me her heart!!!",
+    "name": "Agamaggan's Charge",
+    "requires_level": 30,
+    "zone": "Razorfen Kraul"
+}

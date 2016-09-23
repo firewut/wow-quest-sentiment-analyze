@@ -1,0 +1,7 @@
+{
+    "_id": "13405",
+    "description": "The fight in Northrend is not only against the armies of the Lich King, but also against those of the Horde.A powerful titan relic has been found in the Strand of the Ancients.  As you might know, we dwarves have been custodians of such artifacts for years and as such we're their rightful keepers.In this case, the Horde has developed a keen interest in pilfering the relic from the titan ruins.  They're certain to use it as a weapon against us; we must do whatever we can to stop them.",
+    "name": "Call to Arms: Strand of the Ancients",
+    "requires_level": 71,
+    "zone": "Strand of the Ancients"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31015",
+    "added_in_patch": 5,
+    "description": "Pandaria is rich with history, legends, stories, and lore of every sort. While you are traveling throughout the world I would ask that you keep an eye open for artifacts and pieces of information that you feel would be pertinent to our work here.When you accumulate enough knowledge, we will compile it in to a volume for your personal collection here.You can, of course, return whenever you like to review the volumes we are making for you.",
+    "name": "Your Private Collection",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

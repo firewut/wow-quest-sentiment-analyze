@@ -1,0 +1,8 @@
+{
+    "_id": "30739",
+    "added_in_patch": 5,
+    "description": "Ellia Ravenmane, your rival, has returned. She demands that you meet her atop the Pedestal of Hope.You need to understand, <name>... something horrible has happened to her. She has changed. You will see for yourself when you arrive at the pedestal.Good luck, <name>.",
+    "name": "Ellia Ravenmane: Redemption",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

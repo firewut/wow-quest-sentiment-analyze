@@ -1,0 +1,7 @@
+{
+    "_id": "29405",
+    "added_in_patch": 5,
+    "description": "To train, first you must be properly equipped. Retrieve a weapon from one of the weapon racks below, bring it to me, and show me that you know how to hold it properly.",
+    "name": "The Lesson of the Iron Staff",
+    "zone": "The Wandering Isle"
+}

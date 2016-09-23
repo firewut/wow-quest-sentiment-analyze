@@ -1,0 +1,7 @@
+{
+    "_id": "12869",
+    "description": "You were there with Loken, weren't you? The iron dwarves captured Veranus, the brood mother of the proto-drakes. The drakes don't seem even a little bit happy about the situation... they've gotten very aggressive.They've pushed into stormcrest territory and the eagles have taken to an all out fight with them. It's time to return the favor. We're riding to the Foot Steppes and slaughtering them there.King Stormheart left this hammer to me - make good use and see to it that I get it back.",
+    "name": "Pushed Too Far",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25",
+    "description": "You should've seen it, <class>!The elves thought Silverwind to be impenetrable. With its heavy defenses and their army of water elementals, they were almost right.Almost.One of our mages was able to summon a twisted elemental designed to send the others into a chaotic rage.Ahh, the looks on their faces!<Tarkan laughs.>Unfortunately, the mage who summoned it fell in battle. Now I need someone to bring down our creation.",
+    "name": "Simmer Down Now",
+    "requires_level": 23,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

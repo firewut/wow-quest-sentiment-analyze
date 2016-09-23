@@ -1,0 +1,8 @@
+{
+    "_id": "24901",
+    "description": "<name>, you have to defend us!I had the eggheads deploy the town's cannon defenses, but it seems like there's an unlimited supply of these Oomlot warriors!Get your behind into one of those B.C. Eliminators and eliminate the pygmy threat to the town!",
+    "name": "Town-In-A-Box: Under Attack",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

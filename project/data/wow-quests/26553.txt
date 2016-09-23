@@ -1,0 +1,7 @@
+{
+    "_id": "26553",
+    "description": "Ahead of you looms a ramp up to one of the city's many terraces.  The bat-shaped totems ahead of you indicate that this is the domain of High Priestess Jeklik, a follower of Hir'eek.Jeklik was one of the Hakkar-worshipping priests that Zanzil was planning to resurrect.  Perhaps if you hurry, you can stop the resurrection!",
+    "name": "High Priestess Jeklik",
+    "requires_level": 29,
+    "zone": "The Cape of Stranglethorn"
+}

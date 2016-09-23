@@ -1,0 +1,7 @@
+{
+    "_id": "25952",
+    "description": "Our escape from the shell can't have gone unnoticed, but either the naga at these ruins weren't informed or they don't consider us a threat. I don't intend to take the opportunity for granted - we strike now.I need you to slip into the lower level of the ruins to our west and take out as many of their patrols as you can. We cannot risk any of those patrols finding out about our occupation of this cave - make sure none escape.",
+    "name": "Caught Off-Guard",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

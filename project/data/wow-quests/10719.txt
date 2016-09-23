@@ -1,0 +1,7 @@
+{
+    "_id": "10719",
+    "description": "The cultist dropped this note, which apparently was to be delivered to Overseer Nuaar.  It is signed by someone named Kolphis Darkscale.It is likely that Tree Warden Chawn will be interested in looking at this.",
+    "name": "Did You Get The Note?",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

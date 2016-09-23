@@ -1,0 +1,7 @@
+{
+    "_id": "25564",
+    "description": "You've done us a great service, <class>, so I'm going to let you in on a little secret. The men you've saved today aren't your everyday Stormwind troops.We belong to a special detachment of elite soldiers sent here not only to contend with the Horde, but to investigate the massive geological disturbances originating from the nearby sea floor.I tell you this because our top secret equipment lies in the bottom of some of our wrecked ships here.That gear must be retrieved!",
+    "name": "Stormwind Elite Aquatic and Land Forces",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

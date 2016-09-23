@@ -1,0 +1,7 @@
+{
+    "_id": "11702",
+    "description": "Dis is gonna sound weird, <class>, but dere be a murloc askin' for our help!He goes by da name of King Mrgl-Mrgl, leader of da Winterfin murlocs. Him and his people been run outa dere village and wantin' you to come save dem.You find him by headin' west and go down da cliffs. He hangin' out on da south side of da Winterfin Retreat.",
+    "name": "King Mrgl-Mrgl",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

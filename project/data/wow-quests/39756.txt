@@ -1,0 +1,8 @@
+{
+    "_id": "39756",
+    "added_in_patch": 7,
+    "description": "The Legion still believes us crippled from the Broken Shore. They think we are unable to fight back.Let's prove them wrong.We've been hard at work mapping out the Broken Isles, learning everything we can about each region for our imminent assault.Once you've had a chance to peruse the map, you should leave for Dalaran at once and charge into the maw of the beast.We will end this madness for good. Light help us all.",
+    "name": "A Sound Plan",
+    "requires_level": 98,
+    "zone": "Paladin Campaign"
+}

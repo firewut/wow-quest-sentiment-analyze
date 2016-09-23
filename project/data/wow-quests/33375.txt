@@ -1,0 +1,8 @@
+{
+    "_id": "33375",
+    "added_in_patch": 5.4,
+    "description": "I have finished grinding the stones, and have attuned the hourglass to a new series of timeways. Will you return to the Siege of Orgrimmar and turn the hourglass once more?Return quickly, I am most curious.",
+    "name": "Refining The Vision",
+    "requires_level": 90,
+    "zone": "Timeless Isle"
+}

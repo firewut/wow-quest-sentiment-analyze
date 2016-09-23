@@ -1,0 +1,8 @@
+{
+    "_id": "33998",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Blasting Charges - Cave D Cache",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

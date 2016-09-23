@@ -1,0 +1,8 @@
+{
+    "_id": "12053",
+    "description": "The taunka are now our brothers in arms. We must show our solidarity and retake Icemist Village.You will find Icemist Village west of Agmar's Hammer, sitting at the foot of the mountains. Travel there and challenge the Anub'ar Nerubians! Plant our beloved Horde banner at Icemist Village and destroy all that dare come to tear it down!Let the Anub'ar feel the true might of the Horde! Let our battle standard be the last thing that they see before death!",
+    "name": "The Might of the Horde",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

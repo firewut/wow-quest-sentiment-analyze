@@ -1,0 +1,8 @@
+{
+    "_id": "31479",
+    "added_in_patch": 5,
+    "description": "The Pandaren Way of the Brew produces... Well, I'll let the Master of the Brew explain it. Bring him some ginseng and he will show you the way.",
+    "name": "Way of the Brew",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

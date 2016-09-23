@@ -1,0 +1,8 @@
+{
+    "_id": "30616",
+    "added_in_patch": 5,
+    "description": "Yaungols are attacking our Burlap Trail. This is most bad fortune for grummles.We use that trail to carry supplies to the Serpent's Spine. Without supplies, the defenders of the wall are in danger.Grummles are packers and explorers, not fighters. Could you be a luckydo for us and stop the yaungol blockade?",
+    "name": "Traffic Issues",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

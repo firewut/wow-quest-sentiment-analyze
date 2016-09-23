@@ -1,0 +1,9 @@
+{
+    "_id": "36460",
+    "added_in_patch": 6,
+    "description": "So, get this.\r\n\r\nAs I was flyin' in, I took the opportunity to scope out what might be a defensible position.\r\n\r\nJust on the other side o' these boulders is an ideal clearing to hole up in. I even brought a set of blueprints to get us all settled in!\r\n\r\nThat's not too presumptuous, is it?\r\n\r\nAnyway, whenever you're ready just hit this plunger!",
+    "name": "Just Another Stick in the Wall",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

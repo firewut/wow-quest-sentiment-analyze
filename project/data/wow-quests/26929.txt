@@ -1,0 +1,8 @@
+{
+    "_id": "26929",
+    "description": "Now while you're runnin' around doin' whatever the heck it is that you do, would you mind helpin' me out a bit?See, I usually go out huntin' crocolisks down in the loch, but given certain circumstances, I'd rather sit here right now. Mighty polite of you not to give me grief over it, thanks!So seein' as how you're such a gentleman, why don't you bring me back some crocolisk jaws and I'll give you some mostly-clean money in return.",
+    "name": "A Load of Croc",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

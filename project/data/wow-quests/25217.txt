@@ -1,0 +1,7 @@
+{
+    "_id": "25217",
+    "description": "Okay, I'll let you in on the real work, since you're looking at me so desperately.This rock is untapped! It's probably richer than a trade prince during a great war! I need samples. More samples. Samples from everywhere!I've modified my earth totems to drill through the sand and store samples of the rock underneath. Go find a nice spot and plant one.The shaking and rumbling will probably attract all the cute, curious wildlife, so maybe you can make some friends while you're at it.",
+    "name": "Totem Modification",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

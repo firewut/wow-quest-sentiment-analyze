@@ -1,0 +1,7 @@
+{
+    "_id": "28211",
+    "description": "First things first: We're going to need ammunition. Ammunition powerful enough to pierce the armored hide of a black drake. West of Thundermar is a Wildhammer town that's been overrun with unbound fire elementals. Any weapons left behind in that conflagration will have been tempered in elemental flame. Tougher than anything I could whip up at this forge!Find me spears in the Humboldt Conflagration, <name>. The pointier the better.",
+    "name": "Tempered in Elemental Flame",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

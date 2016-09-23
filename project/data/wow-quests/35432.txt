@@ -1,0 +1,9 @@
+{
+    "_id": "35432",
+    "added_in_patch": 6,
+    "description": "Kaz is using us, I am sure of it. She is a Laughing Skull and must NOT be trusted.For now, I am willing to play along until we can learn more. Kaz is going to ask for you to travel to Evermorn Springs. When there, I recommend you slay any botani you encounter.Culling the numbers of these horrific casters will hopefully save future orcs from such a infested fate.I will stay with Kaz and keep a close eye on her.",
+    "name": "Bushwhacker",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

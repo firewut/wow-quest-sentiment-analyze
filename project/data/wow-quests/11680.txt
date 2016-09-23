@@ -1,0 +1,7 @@
+{
+    "_id": "11680",
+    "description": "The key is forged anew.Now heed my counsel, <race>. Succeed in your endeavor or die trying, for if a single scale falls from one of my drakes I shall hold you personally accountable.Now, off with you.",
+    "name": "Taking Wing",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

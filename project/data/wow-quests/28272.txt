@@ -1,0 +1,7 @@
+{
+    "_id": "28272",
+    "description": "There are just a few specific pieces of information that I'm missing.Once those blanks are filled, we'll be ready to activate the final obelisk. Then, it'll be a race to discover the Coffer of Promise before Schnottz and his cronies can.Those fools are excavating this site as fast as they can. They're ruining more than they're looting!Go to the obelisk and rummage through their booty, <name>.See if you can find our missing pieces.",
+    "name": "Missing Pieces",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

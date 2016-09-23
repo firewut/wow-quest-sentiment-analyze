@@ -1,0 +1,7 @@
+{
+    "_id": "14343",
+    "description": "<Maurin carefully seals his concoction into the hollow kodo horns.>Here you are, <class>.Bring these to Karnum. It's up to him how he wants to use them on the naga. I'll be watching to gauge the effectiveness of my formula!",
+    "name": "Maurin's Concoction",
+    "requires_level": 30,
+    "zone": "Desolace"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31856",
+    "added_in_patch": 5,
+    "description": "The time has come for you to venture to the Peak of Serenity to begin training in the ways of the Monk.  Use Zen Pilgrimage to go there and speak with Master Hight when you arrive.",
+    "name": "The Peak of Serenity - Begin Your Training",
+    "requires_level": 20,
+    "zone": "Peak of Serenity"
+}

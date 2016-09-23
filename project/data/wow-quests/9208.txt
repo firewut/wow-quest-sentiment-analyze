@@ -1,0 +1,7 @@
+{
+    "_id": "9208",
+    "description": "Zanza can create many ancient troll enchantments with proper components! Have you heard of the Savage Guard? No, of course you haven't. Your mind is addled with the inferior elven magic.Bring me an arcanum of elven creation so that I may destroy the aberration. Do this and the Savage Guard will be yours.\r\n",
+    "name": "The Savage Guard - Arcanum of Protection",
+    "requires_level": 58,
+    "zone": "Quests"
+}

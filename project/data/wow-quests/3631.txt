@@ -1,0 +1,7 @@
+{
+    "_id": "3631",
+    "description": "Hmph. I say you're not prepared, but that is not my decision. Strahad feels otherwise, and it is his decision to make... this time.He wishes to speak to you, and quickly. You'll find him still above Ratchet in the Barrens, at his little tower there with his acolytes.Do not dawdle long.",
+    "name": "Summon Felsteed",
+    "requires_level": 40,
+    "zone": "Warlock"
+}

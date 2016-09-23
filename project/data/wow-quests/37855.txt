@@ -1,0 +1,8 @@
+{
+    "_id": "37855",
+    "added_in_patch": 7,
+    "description": "We need help.Since the fall of Deathwing, we dragons have lost nearly all of our power. To make matters worse, we can no longer bear eggs.My whelplings are the last of the last.I need you, champion. Help defend my whelplands, and I swear to you, the blues will be at your side when you need them.",
+    "name": "The Last of the Last",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

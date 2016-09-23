@@ -1,0 +1,8 @@
+{
+    "_id": "42655",
+    "added_in_patch": 7,
+    "description": "If we want to bring the fight to Hakkar, my rangers are going to need arrows and ammo that are capable of piercing the thick, magic-resistant hides of his hounds.There's a versatile smith in Dalaran who does incredible work with both bows and blades alike.He uses azure ore in his creations, which can only be found below sea level.Due to its proximity to leystone, the ore is often overlooked, but in an expert smith's hands, it can be smelted into something nearly indestructible.",
+    "name": "Ore Under the Sea",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

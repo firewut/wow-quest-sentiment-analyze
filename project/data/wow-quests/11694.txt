@@ -1,0 +1,7 @@
+{
+    "_id": "11694",
+    "description": "So, while you were out taking care of those plagued beasts, I took a peek inside the caves up there.There are cultists in there plaguing them!They have some sort of noxious concoction brewing in a cauldron. I have a powder that I normally use as an anti-poison, and I mixed it up with some other stuff. I think it'll neutralize their brew!Take it up to one of those caves and see if it works.",
+    "name": "There's Something Going On In Those Caves",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12611",
+    "description": "The agents of the Lich King have foolishly trespassed upon these lands where the power of life rules supreme.  All harm they inflict will be returned to them sevenfold.The monster directly responsible for corrupting the land is known as Thalgran Blightbringer; you will find him just to the north of here.  Take this ward and use it to reflect the power of death upon him.  Show the Scourge that the power of life prevails above all.",
+    "name": "Returned Sevenfold",
+    "requires_level": 77,
+    "zone": "Sholazar Basin"
+}

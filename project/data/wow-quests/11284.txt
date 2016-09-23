@@ -1,0 +1,7 @@
+{
+    "_id": "11284",
+    "description": "Maybe if the sentries won't help me, you will? I'm the foreman of the mine just across the bridge. My men are mining ore for the weapons our expeditionary force will need to carve a path into the Grizzly Hills.A giant yeti has invaded the mine, blocking the tunnel we need to expand! We've tried yelling at him and smoking him out, but nothing's worked.Maybe you could rouse it from its sleep with a meal of meat from the frosthorn rams in the snowy areas around town? Please? We're desperate!",
+    "name": "The Yeti Next Door",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

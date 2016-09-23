@@ -1,0 +1,7 @@
+{
+    "_id": "10815",
+    "description": "This journal documents the recent activities of Illidan's armies. It also explains why Val'zareq was parading around the Path of Conquest. He was personally responsible for the capture of a high general of the Sha'tar.This general is being held at a post known as Crimson Watch, located at the southern end of the Path of Conquest. A mysterious faction, calling itself the Crimson Sigil, is charged with his incarceration. If you choose to investigate, it would be wise to bring allies.",
+    "name": "The Journal of Val'zareq: Portends of War",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10554",
+    "description": "Now that you've decided to side with the Aldor, you'd do well to introduce yourself to their leader.  You will find High Priestess Ishanah inside the Shrine of Unending Light.",
+    "name": "Ishanah",
+    "requires_level": 60,
+    "zone": "Shattrath City"
+}

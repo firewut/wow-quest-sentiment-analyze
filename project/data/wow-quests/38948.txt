@@ -1,0 +1,8 @@
+{
+    "_id": "38948",
+    "added_in_patch": 7,
+    "description": "When I worked at the tailoring guild in Suramar, I would usually work off of a pattern. Something that inspired me.Unfortunately, I've run into streak of bad luck, and I'm ashamed to say that I no longer have my patterns.The naga sorceresses in the lagoon to the west, however, have expertly-sewn wristwraps. And the nightfallen to the north wear robes that we can use... if you can pry one from their greedy clutches.",
+    "name": "Hard Times",
+    "requires_level": 100,
+    "zone": "Tailoring"
+}

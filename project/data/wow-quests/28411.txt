@@ -1,0 +1,7 @@
+{
+    "_id": "28411",
+    "description": "Finally, we're going to need a feast. And none of that \"finger food\" stuff! This crowd wants meat, and lots of it.Gather up venison from Highland elk and does. Highland worg are good eatin' too - bring back some ribs. We'll show you a feast like you've never had in all the Eastern Kingdoms, friend.",
+    "name": "Something Stewed",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26190",
+    "description": "If there is one meal I know the King likes, it's fresh catfish.  Catfish are easy to prepare but hard to catch.  That's where you come in!  We have a good population of Gigantic Catfish here in the waters of Stormwind but the competition to catch them is intense to say the least.  I need you to figure out a way to \"acquire\" some of these fine catfish for our King.  You will find fisherman at the small canal docks around town.  You should be able to figure out the rest of the plan on your own.",
+    "name": "A Fisherman's Feast",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Cooking"
+}

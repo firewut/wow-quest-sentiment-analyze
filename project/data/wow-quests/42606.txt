@@ -1,0 +1,8 @@
+{
+    "_id": "42606",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Finna Bjornsdottir",
+    "requires_level": 101,
+    "zone": "Warrior Campaign"
+}

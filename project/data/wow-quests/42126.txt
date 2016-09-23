@@ -1,0 +1,8 @@
+{
+    "_id": "42126",
+    "added_in_patch": 7,
+    "description": "Beside me is the Scouting Map. From it, you can direct our allies to carry out vital assignments across the Broken Isles.\r\n\r\nThe first task is critical. Archmage Omniara, a renowned summoner, was on her way to the Hall of Guardians when she was attacked.\r\n\r\nSend Archmage Kalecgos to help her. He will be uniquely suited to this task.",
+    "name": "Archmage Omniara",
+    "requires_level": 101,
+    "zone": "Mage Campaign"
+}

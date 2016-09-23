@@ -1,0 +1,8 @@
+{
+    "_id": "26166",
+    "description": "<Grimeo finishes packing the materials up in a neatly-wrapped package.>That's all that the gnome asked of us.  When you see him, make sure you let him know that this task ends my debt.  I will not suffer his requests any longer.",
+    "name": "Enhancing the Stone",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

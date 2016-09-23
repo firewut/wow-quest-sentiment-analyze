@@ -1,0 +1,7 @@
+{
+    "_id": "12687",
+    "description": "The horse you stole has been taken to the Realm of Shadows. It is there that my dark rider will slay the beast and raise it as a deathcharger. Do you think yourself brave enough to enter the Realm of Shadows in pursuit of the deathcharger?If you accept, I will transport you to the shadow world. Once there, seek out a dark rider in the open fields south of us. To emerge victorious you must slay him, overtake his deathcharger and return it to Death's Breach. Issue the Horseman's Call should you succeed.",
+    "name": "Into the Realm of Shadows",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

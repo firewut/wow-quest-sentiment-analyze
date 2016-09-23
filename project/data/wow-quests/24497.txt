@@ -1,0 +1,7 @@
+{
+    "_id": "24497",
+    "description": "We just got word from Valormok that we can't send anymore windriders that way unless we want them shot down by Talrendis snipers. We can't give up Valormok if we want a secure route to Ashenvale, so we're going in another way.The airborne priests have graciously offered to drop some people in for us from above sniper range. Head up to the military area and secure a ride on one of their planes. They'll get you there in one piece, and hopefully once you're there, you can resecure our windrider lines.",
+    "name": "Airborne Again",
+    "requires_level": 18,
+    "zone": "Azshara"
+}

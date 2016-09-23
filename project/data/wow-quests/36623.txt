@@ -1,0 +1,8 @@
+{
+    "_id": "36623",
+    "description": "Commander, our scouts say that ogre bands march through the snow. If they want more battle after the beating we already delivered, then I'm eager to oblige them.",
+    "name": "Ogre Invasion!",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

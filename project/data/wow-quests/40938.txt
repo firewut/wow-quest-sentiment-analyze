@@ -1,0 +1,8 @@
+{
+    "_id": "40938",
+    "added_in_patch": 7,
+    "description": "Alonsus Faol has been a valuable ally, and his instincts about you have proven true. I believe you are uniquely suited to assist in a matter that will bring a great force of good into this world.I must take you somewhere far from Azeroth to finish a task my people began long ago. Will you aid us?",
+    "name": "The Light and the Void",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

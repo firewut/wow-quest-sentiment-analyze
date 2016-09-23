@@ -1,0 +1,7 @@
+{
+    "_id": "25490",
+    "description": "<name>, these fiends from the Twilight's Hammer are attempting to scourge this whole mountain clean of all life. Even now they trail behind this inferno, leaving death and ash in their wake.Arch Druid Hamuul Runetotem is behind the fires, trying to salvage the wilderness before it's blotted permanently from the map. Travel southeast, through The Inferno and down the road beyond. Find and aid the Arch Druid.On your way there, clear the roads by killing any Charbringers that you find.",
+    "name": "Smashing Through Ashes",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

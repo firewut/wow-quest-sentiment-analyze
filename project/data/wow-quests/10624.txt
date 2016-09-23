@@ -1,0 +1,7 @@
+{
+    "_id": "10624",
+    "description": "Have you felt the cold chill? Perhaps what you thought was a hand on your shoulder? That was not your mind playing tricks on you, <race>. The land is haunted. Ghosts litter the landscape, stuck here for all eternity.Would you like to see them? Are you sure about that? These types of things tend to change a person - and not for the better.Very well, I will need you to collect for me the ever-burning ash that is found near any of the fel lava pools of western Shadowmoon. Anywhere near green lava...\r\n",
+    "name": "A Haunted History",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

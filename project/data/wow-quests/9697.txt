@@ -1,0 +1,7 @@
+{
+    "_id": "9697",
+    "description": "There's important research to be conducted into the ecology of the local creatures, especially the sporelings and bog lords of the marsh.  And trust me, once you get out into the field, you'll find the work to be challenging.Seek out Watcher Leesa'oh at the Cenarion Watchpost in the western region of the marsh toward the south.  Follow the path west and you will eventually find her.  She can be a bit -- studious -- but don't let that get to you.Oh, and watch out for her cat.",
+    "name": "Watcher Leesa'oh",
+    "requires_level": 61,
+    "zone": "Zangarmarsh"
+}

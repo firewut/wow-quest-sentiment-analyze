@@ -1,0 +1,7 @@
+{
+    "_id": "28560",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Arcanist Vandril at Tranquillien in the Ghostlands.Your help is needed to turn back the numberless Scourge invaders and secure the help of the Forsaken in fighting our common enemy.To reach Tranquillien, follow the road south from Fairbreeze Square and into the Ghostlands.Destiny calls!",
+    "name": "Warchief's Command: Ghostlands!",
+    "requires_level": 9,
+    "zone": "Ghostlands"
+}

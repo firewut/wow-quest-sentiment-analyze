@@ -1,0 +1,9 @@
+{
+    "_id": "36257",
+    "added_in_patch": 6,
+    "description": "Oru'kai was the first ogre mage to master the art of enchanting. Upon his death, his items were scattered across Draenor. I have tracked his scepter to the field you see before us. \r\n\r\nAs you can see, the scepter's enchantment is making it difficult to retrieve. A would-be apprentice, Torag Stonefury, took one of Oru'kai's rings in to break the enchantment, but he failed and became trapped in ice. \r\n\r\nFree Torag, take the ring, and complete his task, and I will consider a reward.",
+    "name": "Failed Apprentice",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

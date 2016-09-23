@@ -1,0 +1,8 @@
+{
+    "_id": "32476",
+    "added_in_patch": 5.1,
+    "description": "<Without warning Wrathion slices his thumb and presses it against your forehead. His blood burns to the touch, but rapidly disappears into your skin.>There! My eye is upon you, <class>. I am watching.The Pandaren, like the Horde, value the concept of \"Valor.\" There are many ways to prove yourself valorous on this continent, from daily tasks to the defeat of heroic enemies within their lair. I will let you choose your own course.Prove your bravery to me, <name>!",
+    "name": "A Test of Valor",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

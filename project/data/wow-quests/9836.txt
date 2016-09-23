@@ -1,0 +1,7 @@
+{
+    "_id": "9836",
+    "description": "I've put together the very key I used as an apprentice.  It looks completely functional as far as keys go.  In regards to opening Karazhan, however, this might as well be a piece of scrap metal.Without Medivh's consent, the key is worthless.  Yes, of course I know Medivh is dead.  This merely makes things difficult, not impossible.There is a place in Azeroth called the Caverns of Time, guarded by the bronze dragonflight.  Find a way inside, travel back in time and get Medivh to enable the key.",
+    "name": "The Master's Touch",
+    "requires_level": 68,
+    "zone": "Caverns of Time"
+}

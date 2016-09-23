@@ -1,0 +1,8 @@
+{
+    "_id": "9948",
+    "description": "If I know anything about ogres, it's that they like their food fresh. This means that the Mag'har that they captured are more than likely being kept alive until they are ready to serve. It's a sickening thought, I know, but one that we must use to our advantage.Venture to Warmaul Hill and search for Mag'har prisoners. If you find prisoners, then you will find keys to their cages on the nearby Warmaul ogres.Kill ogres for their keys and release the prisoners.",
+    "name": "Finding the Survivors",
+    "requires_level": 65,
+    "side": "horde",
+    "zone": "Nagrand (Outland)"
+}

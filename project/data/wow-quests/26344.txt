@@ -1,0 +1,7 @@
+{
+    "_id": "26344",
+    "description": "Well, I've got the basic shape of the boots worked out, and they're coming along fine, but the skins you brought aren't going to be quite enough for the inner layers.\"What are we going to do, Drizzlik?\" No doubt the question on your lips, and well, isn't it lucky you're talking to Drizzlik, because he's going to tell you what we're going to do!The inner layers will never really be seen, so we'll just get some of the thicker, cheaper skins from the crocs around Lake Nazferiti to fill the boots out.",
+    "name": "Some Assembly Required",
+    "requires_level": 25,
+    "zone": "Northern Stranglethorn"
+}

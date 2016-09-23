@@ -1,0 +1,7 @@
+{
+    "_id": "26090",
+    "description": "<This appears to be an egg from one of the devious great-eels that float up above the canyon.  You wonder whether or not Orako might be interested in something like this.>",
+    "name": "I Brought You This Egg",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

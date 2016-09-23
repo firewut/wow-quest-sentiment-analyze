@@ -1,0 +1,8 @@
+{
+    "_id": "26237",
+    "description": "Times are tough,  brother. With the downtrodden masses of Stormwind migrating into Westfall, resources are stretched as thin as they've ever been. The people are restless and in need of help.Our own farmhouse has been serving as a halfway house for years. Salma does the best that she can to keep our guests alive, but sometimes the watchers get 'em. Watchers are those twisted abominations roaming my fields - a little present left behind by the Defias, before they were driven off. Help us!",
+    "name": "Times are Tough",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Westfall"
+}

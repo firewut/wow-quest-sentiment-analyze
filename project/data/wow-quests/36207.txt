@@ -1,0 +1,9 @@
+{
+    "_id": "36207",
+    "added_in_patch": 6,
+    "description": "Many say my father was a legendary blacksmith, Waruk the Frostforger they called him. They will tell you tales of his mighty weapons, crafted with nothing more than ice and steel. Waruk the Lieforger, I call him.He promised he wouldn't be gone long, \"I must support our troops!\" he said.Why did he have to go? Why did they let him get captured!?I have no more need for broken tools than I do broken promises. His grave is east of here, you can leave this with the rest of his unwanted belongings.",
+    "name": "Waruk the Frostforger",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

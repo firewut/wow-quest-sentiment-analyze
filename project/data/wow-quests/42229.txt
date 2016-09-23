@@ -1,0 +1,8 @@
+{
+    "_id": "42229",
+    "added_in_patch": 7,
+    "description": "The chamber beyond may be the perfect hiding place, now that its guardian has been dealt with.\r\n\r\nCome with me.",
+    "name": "Shal'Aran",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

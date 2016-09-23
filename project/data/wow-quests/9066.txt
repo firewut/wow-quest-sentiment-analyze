@@ -1,0 +1,8 @@
+{
+    "_id": "9066",
+    "description": "I hope you learn a valuable lesson today, <name>.  Never trust someone else to lie for you.Now I want you to go back to my two dimwitted students and discipline them using this wand.  My magic tells me that you'll find them along the road to the west on the other side of the Dead Scar.Come back to me after you've done this.  I'll give you a small reward for your troubles.",
+    "name": "Swift Discipline",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Eversong Woods"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "5693",
+    "description": "Glad to see you're... alive, <name>.Aelthalyste has asked you to return to the Undercity when you've finished your business here in Thunder Bluff. It seems you've grown powerful enough that she thinks you're due new garments... a robe, I believe.She'll be waiting for you in the War Quarter.",
+    "name": "<NYI> In the Dark It was Created",
+    "requires_level": 15,
+    "zone": "Priest"
+}

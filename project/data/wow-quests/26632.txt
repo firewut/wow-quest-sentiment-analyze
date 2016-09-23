@@ -1,0 +1,7 @@
+{
+    "_id": "26632",
+    "description": "Alright, I think I've got it working again. You've got to get the catapult to the stone trogg town, Needlerock Slag, just to the north of the front.The driver will go with you. I'll head back and let Gravel know.There's no doubt that the stone troggs will try to stop you. You just keep them off of the catapult. It packs a big punch.Let me know when you're ready, <name>.",
+    "name": "Close Escort",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

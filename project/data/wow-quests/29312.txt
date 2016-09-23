@@ -1,0 +1,8 @@
+{
+    "_id": "29312",
+    "description": "It is an honor to make your acquaintance, <race>.Your deeds echo in the ears of Azeroth's creatures, mortal and immortal alike.I shall present the heart of Ragnaros to Kalecgos when he arrives. Its power is to be harnessed to further endow your weapon.The ceremony is to begin shortly. I have been appointed to escort you there when you are ready.",
+    "name": "The Stuff of Legends",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11267",
+    "description": "Your instincts were right to bring this to me, but my wind riders cannot fight a dragon. You must venture west to Gjalerbron and slay the frost wyrm and its master, Wyrmcaller Vile!Even now it may be on its way!If I'm reading these plans correctly, blowing the wyrmcaller's horn on his platform, outside in the rear left area of Gjalerbron, will call Glacion back. When the creature lands, destroy it!And <name>, bring me the horn. We wouldn't want it falling back into the wrong hands!",
+    "name": "The Frost Wyrm and its Master",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

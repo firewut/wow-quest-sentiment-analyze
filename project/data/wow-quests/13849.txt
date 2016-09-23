@@ -1,0 +1,7 @@
+{
+    "_id": "13849",
+    "description": "<Class>, Astranaar's burning!Quickly, take this bucket of water and put out the fires before there's nothing left!",
+    "name": "Astranaar's Burning!",
+    "requires_level": 20,
+    "zone": "Ashenvale"
+}

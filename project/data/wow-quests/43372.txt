@@ -1,0 +1,8 @@
+{
+    "_id": "43372",
+    "added_in_patch": 7,
+    "description": "Our priests are resting and recuperating, but one not as well as the others. Gilner Greymoss lingers within the Sanctuary of the Void, laughing to himself.He refuses to leave, but his presence is making the other priests uneasy.Perhaps you should speak to him and see what is wrong?",
+    "name": "Whispers in the Void",
+    "requires_level": 103,
+    "zone": "Priest Campaign"
+}

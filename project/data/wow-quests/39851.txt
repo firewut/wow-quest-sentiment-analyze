@@ -1,0 +1,8 @@
+{
+    "_id": "39851",
+    "added_in_patch": 7,
+    "description": "Our power alone may not be enough to fight the behemoth, Geir. Fortunately, Faljar was kind enough to send our allies into Helheim with us.\r\n\r\nEarlier, I had discovered several of them being tortured by the elemental forces of Helheim. You may think the dead can't drown, but with Helya's power, this is not the case. \r\n\r\nI could not release them then, but now that you possess the waylight, you may be able to.\r\n\r\nSeek them out and free them from an eternity of suffering!",
+    "name": "Allies in Death",
+    "requires_level": 98,
+    "zone": "Quests"
+}

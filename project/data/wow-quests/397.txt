@@ -1,0 +1,7 @@
+{
+    "_id": "397",
+    "description": "I hear Lord Wishock enjoyed his beverage.  You have served us well, <name>.  The Warlocks of Stormwind will be able to practice our ways without disturbance, thanks to you.  For your efforts, I have prepared a special gift for you.  Speak with my servant, Zggi, and claim your reward.",
+    "name": "You Have Served Us Well",
+    "requires_level": 25,
+    "zone": "Stormwind City"
+}

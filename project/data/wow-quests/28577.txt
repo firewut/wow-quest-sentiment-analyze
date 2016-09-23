@@ -1,0 +1,7 @@
+{
+    "_id": "28577",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Fiona on the east bank of the Thondroril River.The Argent Crusade has reinforced its presence in the Plaguelands and it needs your help to consolidate its victories.Cross the Thondroril River at the eastern border of the Western Plaguelands and look for Fiona on the far bank.Destiny calls!",
+    "name": "Warchief's Command: Eastern Plaguelands!",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

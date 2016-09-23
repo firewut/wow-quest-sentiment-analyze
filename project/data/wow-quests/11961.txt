@@ -1,0 +1,7 @@
+{
+    "_id": "11961",
+    "description": "Powerful spirits watch over my tribe -- Kaskala will not be lost.Issliruk will give us courage, Tayutka will make sure our survivors always have food and shelter and Karkut will watch over the fallen so they do not lose their way.Issliruk's guidance is the one we need the most right now.  I asked my nephew, Iruk, to bring me Issliruk's totem, but the Kvaldir's spears struck him down and his body fell into the waters to the north.  Bring me the totem, <name>.  Don't let my nephew's death be in vain.",
+    "name": "Spirits Watch Over Us",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24687",
+    "description": "You're already familiar with the first phase of the Bloodpetals' life cycle: the waterborne seed.  The next phase, however, is not so docile: the pack of juveniles.When Bloodpetals hatch, they quickly form gangs and travel together, offsetting their weakness with overwhelming numbers.  These packs of young lashers normally keep to themselves, but upset one of them and you upset them all.For our safety and the safety of others, dispose of them.  They roam close by, to the west and north.",
+    "name": "Bouquets of Death",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

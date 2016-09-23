@@ -1,0 +1,7 @@
+{
+    "_id": "2751",
+    "description": "Twenty generations of Omosh have held this hammer, <name>. A hundred thousand tons of metal we have molded. Tragically, it all ends at Orokk, failure of the Omosh: Without kin and incapable of producing offspring.I cannot let the secret recipes of Omosh die with me! Someone must continue the legacy, Omosh or not!Prove to Orokk you are capable, <name>. Bring for Orokk the following: Two patterned bronze bracers, two bronze greatswords, and two sharp claws. Bring them for Orokk and we shall continue.",
+    "name": "Barbaric Battlements",
+    "requires_level": 32,
+    "zone": "Blacksmithing"
+}

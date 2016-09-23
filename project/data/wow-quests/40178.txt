@@ -1,0 +1,8 @@
+{
+    "_id": "40178",
+    "added_in_patch": 7,
+    "description": "While the vrykul of Northrend wore strong armor, their craftsmen always had the strongest.Go to Stormheim, search for someone who knows about leather armor, and bring their chest piece back to me.",
+    "name": "Vestment Opportunity",
+    "requires_level": 98,
+    "zone": "Leatherworking"
+}

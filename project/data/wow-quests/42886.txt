@@ -1,0 +1,8 @@
+{
+    "_id": "42886",
+    "added_in_patch": 7,
+    "description": "We are keeping a close eye on Legion movements at Faronaar in Azsuna.Our intel suggests that a high-ranking lieutenant, possibly the dreadlord Balnazzar himself, masterminds the attacks in that region.This may be our chance to strike a blow at the Legion's leadership.Vindicator Boros commands our forces at the front. He would welcome your help, Highlord.",
+    "name": "To Faronaar",
+    "requires_level": 103,
+    "zone": "Paladin Campaign"
+}

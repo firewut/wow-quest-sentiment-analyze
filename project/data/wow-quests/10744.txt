@@ -1,0 +1,7 @@
+{
+    "_id": "10744",
+    "description": "You must bring word of our success to Kurdran Wildhammer immediately! His men, under Wing Commander Nuainn, have fought nonstop to keep Wildhammer Stronghold safe and your return will surely bolster their spirits. With the threat from the Legion out of the way, Kurdran can finally turn his attention to dealing with the forces of Illidan. Our place here is far from secure, but we've won a major victory this day.",
+    "name": "News of Victory",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

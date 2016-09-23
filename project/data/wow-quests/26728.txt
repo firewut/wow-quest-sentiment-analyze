@@ -1,0 +1,7 @@
+{
+    "_id": "26728",
+    "description": "<name>, the citizens of Duskwood are in dire need of your assistance! I have here a letter from Commander Althea Ebonlocke, leader of the Night Watch, pleading for help.To reach Darkshire you should travel across the bridge located in the southwest corner of Redridge. Once you cross the bridge you will be in Duskwood. Then you just follow the road to Darkshire. Beware of the savage beasts that stalk the countryside!",
+    "name": "Hero's Call: Duskwood!",
+    "requires_level": 19,
+    "zone": "Duskwood"
+}

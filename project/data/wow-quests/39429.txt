@@ -1,0 +1,8 @@
+{
+    "_id": "39429",
+    "added_in_patch": 7,
+    "description": "Proceed on foot into the Haglands and slay any harpies you find.Quell their numbers!We will provide air support and force your prey to the ground where you can deal with them.Show these witches the fury of your... well... your \"you.\"",
+    "name": "Assaulting the Haglands",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

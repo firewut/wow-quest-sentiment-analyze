@@ -1,0 +1,9 @@
+{
+    "_id": "39511",
+    "added_in_patch": 6.2,
+    "description": "Orcs that drink Gul'dan's poison turn into fel beasts. Soulless savages.Lady Liadrin an' the Blood Knights think maybe there be a way back. They be wantin' samples of blood from freshly turned orcs. Get their blood, <name>!You be findin' fel orcs all over Tanaan, but the Iron Front, the Fel Forge, and the Throne of Kil'jaeden is where you find the most.",
+    "name": "Blood of Fallen Brothers",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Tanaan Jungle"
+}

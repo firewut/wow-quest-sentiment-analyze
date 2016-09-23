@@ -1,0 +1,9 @@
+{
+    "_id": "33344",
+    "added_in_patch": 6,
+    "description": "Ligra was sent with extra weapons to equip enslaved Frostwolves.Arm the Frostwolf Slaves so they can cut their way from their slavers.",
+    "name": "Armed and Dangerous",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34539",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Draenor Challenge Mode - Bronze Addition (Nth)",
+    "requires_level": 100,
+    "zone": "Quests"
+}

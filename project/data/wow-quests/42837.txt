@@ -1,0 +1,8 @@
+{
+    "_id": "42837",
+    "added_in_patch": 7,
+    "description": "Our tour is just about over. I will let you loose to 'walk the orchard', as is proper at this stage.\r\n\r\nWhile you are there, you will notice a large number of mana wyrms floating about.\r\n\r\nI am certain the vineyard would not miss a handful of them.\r\n\r\nGood luck with your insect problem, friend.\r\n\r\n<Margaux smiles warmly at you.>",
+    "name": "Balance to Spare",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

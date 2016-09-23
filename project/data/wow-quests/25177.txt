@@ -1,0 +1,8 @@
+{
+    "_id": "25177",
+    "description": "Now that those humans are out of our hair for a bit, we can move on to more pressing matters.The cataclysm utterly decimated Durotar's eastern coast.  You saw the wreckage that it made of Tiragarde.  The devastation was even worse on the coast to the east of here.After the first wave, the beach was overtaken by angry elementals that came from the sea.  I sent grunts to take care of it, but the onslaught was too much.  I'm guessing you'll have a little more luck than they did.Beware the tides!",
+    "name": "Storming the Beaches",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

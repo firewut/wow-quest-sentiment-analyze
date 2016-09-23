@@ -1,0 +1,9 @@
+{
+    "_id": "37770",
+    "added_in_patch": 6.1,
+    "description": "Yer garrison scouts report that blackrock miners dug up a magnaron, and that the filthy beast has begun helpin' those brutes churn out their infernal machines. They call it \"Kromog.\"\r\n\r\nTravel to Blackrock Foundry and slay that fiend!",
+    "name": "The Black Forge: Kromog",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Quests"
+}

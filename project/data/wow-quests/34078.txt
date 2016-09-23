@@ -1,0 +1,9 @@
+{
+    "_id": "34078",
+    "added_in_patch": 6,
+    "description": "I'm ready to get outta here, and I ain't hoofin' it back through all those orcs.Fortunately, I kept a few extra rocket chickens to get us back to your garrison in style! Let's get up to the roof and find a decent place to take off.",
+    "name": "Payment Due for Services Rendered",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

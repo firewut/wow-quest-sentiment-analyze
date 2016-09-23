@@ -1,0 +1,9 @@
+{
+    "_id": "32991",
+    "added_in_patch": 6,
+    "description": "The Thunderlords took prisoners into the Boneslag?Well what are we waiting for?! We have to go after them!You look for the missing villagers - Asha and I will track Karg.",
+    "name": "Into the Boneslag",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

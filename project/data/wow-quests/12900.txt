@@ -1,0 +1,7 @@
+{
+    "_id": "12900",
+    "description": "So you want to ride?  Well, if you've made it this far someone must think you've got a shot at the Hyldsmeet.First things first; we'll have to make you a harness.In the cliffs to the south, you'll find scattered groups of yeti.  Their hides are tough and just the right thickness.  Bring me some and we'll get you started on the path of the bear-rider.",
+    "name": "Making a Harness",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

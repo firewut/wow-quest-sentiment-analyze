@@ -1,0 +1,7 @@
+{
+    "_id": "29534",
+    "added_in_patch": 5,
+    "description": "The Quest Wizard demands Stuff Tails! Go now and fetch them.",
+    "name": "Collect Things",
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24438",
+    "description": "We have no choice, <name>.  We must move further inland.I don't like it one bit, but we're vulnerable here.Return to the stables below the manor.  Let's get everybody on carriages and send them eastbound.  I pray it's not too late.",
+    "name": "Exodus",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

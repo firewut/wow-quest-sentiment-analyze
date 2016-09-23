@@ -1,0 +1,7 @@
+{
+    "_id": "10601",
+    "description": "The scouting party originally had three members. Unfortunately, Kagrosh decided he wanted to be a hero.He descended into the Deathforge and we haven't heard from him since.In all likelihood, the fool's gone and gotten himself killed. The Shadow Council members aren't idiots and Kagrosh wasn't exactly strong in the subtlety department, if you know what I mean. Keep an eye out for him in the Deathforge and recover any information or items he might have collected.",
+    "name": "The Fate of Kagrosh",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

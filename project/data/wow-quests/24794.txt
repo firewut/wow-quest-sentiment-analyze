@@ -1,0 +1,7 @@
+{
+    "_id": "24794",
+    "description": "My good friend Spraggle has been fretting about something for some time now.  I'd help her, but as you can see, I'm pretty comfortable right now.Could you check in with her and see what she needs?",
+    "name": "Speak With Spraggle",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

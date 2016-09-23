@@ -1,0 +1,8 @@
+{
+    "_id": "9605",
+    "description": "Here's the box, <name>. That should be enough for Chellan to get the inn up and running. Let her know that she can keep sending in orders as the need arises. Azure Watch urgently needs a place to care for the wounded and put up any travelers they receive.When you're ready to return to Azure Watch, seek out Stephanos near the Seat of the Naaru in the Exodar.",
+    "name": "Hippogryph Master Stephanos",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Azuremyst Isle"
+}

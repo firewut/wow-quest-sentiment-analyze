@@ -1,0 +1,7 @@
+{
+    "_id": "27864",
+    "description": "You're going to love this one! The Dragonmaw heard you were entering the arena and they're determined to make sure you don't leave it.Time for some good ol' <race> on orc action! Let me know when you're ready to do this!",
+    "name": "The Crucible of Carnage: The Deadly Dragonmaw!",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10028",
+    "description": "Amid the ruins of Tuurem are a number of vessels containing raw, magical energy. We are fortunate that the Broken who have overrun the city are ignorant to the resource in their midst, but we cannot assume they will remain so forever.With those vessels and their power in hand, the scattered survivors of my people can resist the lure of demonic magic. Every quel'dorei we can save from our prince's folly is one more that can help us regain our lost glory. Bring me these vessels, <class>.",
+    "name": "Vessels of Power",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

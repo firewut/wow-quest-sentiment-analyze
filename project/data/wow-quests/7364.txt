@@ -1,0 +1,7 @@
+{
+    "_id": "7364",
+    "description": "The High Tinkerer himself has sent me to this field of battle to defend my gnomish brothers and sisters. We have received word that the tauren are singling out and slaying gnomes. Worst of all, they are removing tufts of glorious gnome hair from the corpses of the fallen. These atrocities must be stopped. We must reciprocate!I want them de-hoofed, <class>. Bring me their hooves! Show yourself as an ally of the gnomes.",
+    "name": "Gnomeregan Bounty",
+    "requires_level": 200,
+    "zone": "Alterac Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11348",
+    "description": "Can you feel the power emanating from the runes I've carved on this tablet? They're smaller versions of the runes that the Iron Dwarves are using. We'll use it to shut down their operation.Take it to Giants' Run and use it on a stone giant that the dwarves have not altered.The giant should obey you, but I've tailored the runes to restore it to its natural state after a time. The giant may prove a valuable ally in the battle against Binder Murdis, the leader of the Iron Dwarf forces at Giants' Run.",
+    "name": "The Rune of Command",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14200",
+    "description": "",
+    "name": "Kickoff Mail Marker",
+    "requires_level": 70,
+    "zone": "Tournament"
+}

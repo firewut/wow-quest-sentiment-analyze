@@ -1,0 +1,7 @@
+{
+    "_id": "28733",
+    "description": "HELP! HELP! Crazed undead are attacking my farm! That psycho warden over at the Sludge Fields is probably responsible for this mess. Help me fight off the zombies!",
+    "name": "Basic Botany",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

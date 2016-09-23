@@ -1,0 +1,8 @@
+{
+    "_id": "26163",
+    "description": "Razelikh plans to return to the Blasted Lands and overwhelm Azeroth with his demons.  Even now, he is preparing to summon his legions to eliminate us.  With these three amulets, we have the method to summon him... but no way to destroy him.<The gnome quickly draws a rune in the air, then hands it to you.>Deliver this to Grimeo at the Dark Portal, to the southeast.  He will guide you.  Quickly!  Time is short!  And so am I!",
+    "name": "Time is Short",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9970",
+    "description": "This fight is gonna be painful, <name>. Do you have any friends that are brave enough to help you out? The ogres managed to get a giant from Blade's Edge named Rokdar! Trust me, you're gonna need friends, he seems unbeatable! He's hard as a rock - literally!If you still want to fight him, step into the Ring of Blood and he will come.",
+    "name": "The Ring of Blood: Rokdar the Sundered Lord",
+    "requires_level": 65,
+    "zone": "Nagrand (Outland)"
+}

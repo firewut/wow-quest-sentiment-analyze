@@ -1,0 +1,8 @@
+{
+    "_id": "13797",
+    "description": "What Draaka requires is a magnet of sorts - something that her demonic missiles will be drawn to.<Durak grins slyly.>I happen to know of a method that should suit our purposes.You scour the mines for fist-sized chunks of ore, while I prepare a special... enchantment.",
+    "name": "Dirty Deeds",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

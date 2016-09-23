@@ -1,0 +1,7 @@
+{
+    "_id": "12780",
+    "description": "As much as we find working with death knights distasteful, we cannot afford to be picky about our allies here.We're pinched between the Scourge and the savage Drakkari, who want nothing more than to destroy us so that they can get at one another.Travel west to Ebon Watch. Speak with Stefan and see if you can be of service to him.",
+    "name": "DEPRICATED>>Enemy of Our Enemy",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

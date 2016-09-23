@@ -1,0 +1,7 @@
+{
+    "_id": "11258",
+    "description": "Chieftain Ashtotem ordered me to destroy many buildings here.However, you are in charge, so it falls to your hands, <name>.I suggest that we burn down the two longhouses and the barracks that are in the lower area of Skorn. All we have to do is get inside each and set them ablaze with this torch.",
+    "name": "Burn Skorn, Burn!",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

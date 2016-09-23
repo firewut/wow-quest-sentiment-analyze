@@ -1,0 +1,7 @@
+{
+    "_id": "10714",
+    "description": "If the Mok'Nathal are tormented by the Bloodmaul ogres, then I will stop them and their followers. Ogres are simple creatures, and there is little profit they could gain from harassing the Mok'Nathal.There must be something more to this. <name>, take Spirit, my hawk, and spy upon the conversations of the Bloodmaul's leaders. He may go undetected where we cannot.",
+    "name": "On Spirit's Wings",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13308",
+    "description": "<The creature speaks directly into your mind, its thoughts painful and strange.><Race>-thing, I am in need of your assistance. Like your enslaved friends, I am a victim of the Lich King's ymirjar and their avarice. When I rose from below to investigate the noises coming from this cavern they captured and chained me.Will you please help me? The foreman of these mines holds the key to my chains. Kill him!<You can feel a pushing against your mind as if the creature is trying to coerce you.>",
+    "name": "Mind Tricks",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

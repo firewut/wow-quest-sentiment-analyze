@@ -1,0 +1,7 @@
+{
+    "_id": "10957",
+    "description": "When Illidan obtained the Broken's allegiance, Akama was our wisest.  He knew that openly opposing the Betrayer would lead to the extinction of our race.Instead he has plotted and schemed for this very moment under utmost secrecy.  Failure would be catastrophic... not just for Akama, not just for the Broken, but for all of Outland.  No one this close to Illidan has ever been able to deliver such a terrible blow to him.Help Akama free his soul and he will grant you access to Illidan's sanctum.",
+    "name": "Redemption of the Ashtongue",
+    "requires_level": 70,
+    "zone": "Black Temple"
+}

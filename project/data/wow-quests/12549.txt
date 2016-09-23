@@ -1,0 +1,7 @@
+{
+    "_id": "12549",
+    "description": "If you've hunted with Hemet before, you know that he's tested his skill against many large cats, but the dreadsabers here in Sholazar are different. They're able to bring down larger game than I've ever seen a cat hunt. To overcome and kill such a predator is the mark of a true hunter.If you seek to prove you're up to the challenge, test yourself against the dreadsabers. They live in the wilderness surrounding the camp and south of the river.",
+    "name": "Dreadsaber Mastery: Becoming a Predator",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

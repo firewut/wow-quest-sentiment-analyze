@@ -1,0 +1,8 @@
+{
+    "_id": "38045",
+    "added_in_patch": 6.2,
+    "description": "The Bleeding Hollow provide significant reinforcement to the Iron Horde in Tanaan. From their home in Zeth'Gol they relentlessly pursue our scouts, disrupt our operations, and gather more power for Gul'dan's magic.\r\n\r\nWe should consider a direct raid on Zeth'Gol to make them pull back their forces across the valley. This should give us some breathing room... for a time.",
+    "name": "Bleeding the Bleeding Hollow",
+    "requires_level": 100,
+    "zone": "Tanaan Jungle"
+}

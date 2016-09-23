@@ -1,0 +1,8 @@
+{
+    "_id": "33422",
+    "added_in_patch": 6,
+    "description": "For this challenge: run through the arch, then get to the blue marker, the green marker, and finally return here.You have all the time you need.",
+    "name": "Elwynn Long Distance Practice",
+    "requires_level": 1,
+    "zone": "Elwynn Forest"
+}

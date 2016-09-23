@@ -1,0 +1,9 @@
+{
+    "_id": "39573",
+    "added_in_patch": 6.2,
+    "description": "We have always believed that the primal creatures of Draenor could not be tamed. And yet, the Iron Horde found a way to weaponize the gronn. It would be to our advantage to learn how.Venture to the Iron Front, slay a Wargronn, and retrieve its harness. You may want to find help.",
+    "name": "Harnessing Their Power",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12166",
+    "description": "<Race> will you assist me?The Scourge have moved into Icemist to the north. Wherever they go, they spread their taint, and the creatures of the land suffer.Take this vial, which is filled with the liquid fire of Elune from the moonwell. Please, use the liquid to cleanse the corpses of the blighted wildlife that you find.",
+    "name": "The Liquid Fire of Elune",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

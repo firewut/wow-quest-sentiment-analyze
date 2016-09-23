@@ -1,0 +1,7 @@
+{
+    "_id": "27985",
+    "description": "Will you assist me, mortal?  Will you find the prayer to Elune?As I stated, the prayer was etched onto a golden tablet.  I believe they hold it within one of their vile chests, near the entrance to their cave at the bottom of the ridge.If you do recover my prayer, don't bring it back to me.  Instead, take the time to read through it.Absolution may be asking too much, based on the sins I've committed.  But that won't stop me from holding out hope.",
+    "name": "Prayer to Elune",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

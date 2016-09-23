@@ -1,0 +1,9 @@
+{
+    "_id": "34344",
+    "added_in_patch": 6,
+    "description": "Dis be a dangerous place, boss-mon.Filled with big monsters and savage giants.Well, like my family loa say, 'If ya can't beat it, poison it.'We gonna be needin' some venom from the lurkers out there on the Cracking Plains. Dem lurkers be mighty sneaky, and mighty creepy. Be watchin the ground for rumbles and shakes.I'll be stayin' here to make a cure in case you accidentally get too poisoned.",
+    "name": "Lurkers",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

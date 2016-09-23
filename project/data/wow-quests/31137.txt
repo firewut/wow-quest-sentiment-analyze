@@ -1,0 +1,9 @@
+{
+    "_id": "31137",
+    "added_in_patch": 5,
+    "description": "I don't know if you'll remember Mekkatorque or not. Nevin and the other gnomes have mentioned that memory loss is pretty common for you survivors.Anyways, High Tinker Mekkatorque is the leader of all the gnomes. He has made a habit of meeting with every rescued survivor personally. You should introduce yourself to him. He'll be with his war council beneath the tent in the center of town.",
+    "name": "Meet the High Tinker",
+    "requires_level": 2,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

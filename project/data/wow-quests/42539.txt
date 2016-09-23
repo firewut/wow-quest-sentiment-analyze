@@ -1,0 +1,8 @@
+{
+    "_id": "42539",
+    "added_in_patch": 7,
+    "description": "<The cultists seem to have a base of operations in Darkshire. At least Althea Ebonlocke is a member, but it is likely that the entire Night Watch has been compromised.><The best course of action for now is to retrieve the dark implements for their ritual and make an attempt on Althea's life. Garona will have to wait.>",
+    "name": "Cloak and Dagger",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

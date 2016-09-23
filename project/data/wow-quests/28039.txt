@@ -1,0 +1,7 @@
+{
+    "_id": "28039",
+    "description": "The Warchief has requested that any able-bodied adventurer head to Maraudon, in western Desolace, immediately!Healing Maraudon from its current corruption would great help the entirety of Desolace! If you so choose, head to Maraudon and speak with Zaetar's Spirit, he will guide you.",
+    "name": "Adventurers Wanted: Maraudon",
+    "requires_level": 32,
+    "zone": "Maraudon"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12521",
+    "description": "When I heard that the legendary Hemet Nesingwary was setting sail for the Sholazar Basin, I offered to help fund his expedition. We know little of Sholazar,  but it's said to be a lush paradise in the midst of this frozen continent.Hemet has agreed to send back samples of exotic plants, reagents, and crystals. There hasn't been any word from him. Monte Muzzleshot was supposed to be bringing them supplies, but he hasn't returned, either. If you'll look into it, I'll send you in my flying machine.",
+    "name": "Where in the World is Hemet Nesingwary?",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

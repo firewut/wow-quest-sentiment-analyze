@@ -1,0 +1,8 @@
+{
+    "_id": "34464",
+    "added_in_patch": 6,
+    "description": "Phasing back and forward in time, these flickering ornate boots are adorned with a lavish \"V\" on them.Someone at Khadgar's Tower might have insights to the nature of these strange items.",
+    "name": "Mysterious Boots",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

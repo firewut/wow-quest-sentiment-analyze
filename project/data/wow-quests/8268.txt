@@ -1,0 +1,7 @@
+{
+    "_id": "8268",
+    "description": "",
+    "name": "Ribbons of Sacrifice",
+    "requires_level": 10,
+    "zone": "Warsong Gulch"
+}

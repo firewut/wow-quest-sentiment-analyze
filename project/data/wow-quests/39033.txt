@@ -1,0 +1,8 @@
+{
+    "_id": "39033",
+    "added_in_patch": 6.2,
+    "description": "This configuration of the stars causes an unusual vibration in the crystals strewn across Draenor, relics of the ancient Apexis. Some swear that the crystals will multiply when left unattended beneath the night sky, but none have seen the phenomenon firsthand. Regardless of the true cause, these crystals should be far more plentiful should you seek them out.",
+    "name": "The Time to Strike",
+    "requires_level": 100,
+    "zone": "Weekend Event"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34069",
+    "added_in_patch": 6,
+    "description": "The Thunderlord Spear is extremely light and strong.Scout Ruk'gan might be able to use this and a few more like it.",
+    "name": "Getting the Points",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

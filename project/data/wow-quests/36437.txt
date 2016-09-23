@@ -1,0 +1,9 @@
+{
+    "_id": "36437",
+    "added_in_patch": 6,
+    "description": "It appears that a genesaur was killed here not long ago and this growth has sprung up.  It is stirring up the local monsters and I fear for our outpost.There is a strange ancient that wallows in grief here and is not hostile. Perhaps you could \"harvest\" its story?",
+    "name": "Ambassador to the Ancient",
+    "requires_level": 93,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

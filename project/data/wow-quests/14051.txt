@@ -1,0 +1,7 @@
+{
+    "_id": "14051",
+    "description": "Keeping these tables stocked can be overwhelming! I've got to make the cranberry chutney while keeping my eye on the sweet potatoes, and making sure the pies don't burn.I think I've got everything covered. No, wait, I'm forgetting something. The stuffing! Oh, no. There won't be time to get another batch of stuffing started before everything else is done. Would you be willing to help me out? It shouldn't take long to buy or make some stuffing and you can buy the ingredients right here.",
+    "name": "Don't Forget The Stuffing!",
+    "requires_level": 1,
+    "zone": "Pilgrim's Bounty"
+}

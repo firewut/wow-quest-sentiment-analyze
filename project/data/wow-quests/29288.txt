@@ -1,0 +1,7 @@
+{
+    "_id": "29288",
+    "description": "Our scouts are bringing back reports of fire hawk hatchlings all over the peak... their eggs must have hatched very recently. Better yet, it seems that they're extremely docile.I know it may sound a strange and perhaps unsavory request, but if you were able to bring some of those hatchlings back to me, I might be able to train them to aid us in our war efforts.Are you willing?",
+    "name": "Starting Young",
+    "requires_level": 85,
+    "zone": "Quests"
+}

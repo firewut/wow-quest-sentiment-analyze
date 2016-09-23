@@ -1,0 +1,8 @@
+{
+    "_id": "24428",
+    "description": "You have accomplished the truly impossible. The brood mother of the Black Dragonflight lies dead at your feet. Seize her head and deliver it to Zardeth of the Black Claw.",
+    "name": "A Most Puzzling Circumstance",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

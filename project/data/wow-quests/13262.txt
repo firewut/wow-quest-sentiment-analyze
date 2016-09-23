@@ -1,0 +1,7 @@
+{
+    "_id": "13262",
+    "description": "This is probably as under-control as this situation is going to get.  Let's do this, <name>.I need someone to light the fuse on those bombs and it looks like you're the one to do it.",
+    "name": "Blow it Up!",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

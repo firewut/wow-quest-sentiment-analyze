@@ -1,0 +1,8 @@
+{
+    "_id": "26619",
+    "description": "If what you say is true, <name>, then we have friends within the Dragonmaw Clan. We can support an insurgency from within their ranks and avoid a lot of bloodshed on both sides.I can help, but the most dangerous part is up to you.My Axebite Warriors will launch an offensive on the shores. During the confusion, I need you to slip behind the lines and speak with your revolutionary contact, Zaela.We'll arm the Dragonmaw and overthrow their fel masters! ",
+    "name": "You Say You Want a Revolution",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44101",
+    "added_in_patch": 7,
+    "description": "These supplies for the Earthen Ring have not been processed yet. It looks like someone has been rummaging through them and looting whatever can be carried. You have reasons to suspect the Grimtotem tribe, on account of the fact that one of their champions is nearby, visibly pilfering your stuff.Challenge the Grimtotem to secure your resources!",
+    "name": "Supply Dropped",
+    "requires_level": 98,
+    "zone": "Shaman Campaign"
+}

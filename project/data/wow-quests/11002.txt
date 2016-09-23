@@ -1,0 +1,8 @@
+{
+    "_id": "11002",
+    "description": "The source of Illidan Stormrage's fel orc army has been vanquished. The manufactory halts production of its grim product - at least for now. All that remains are a few trinkets and this severed head - a fitting trophy for a hero of the Alliance.Return Magtheridon's head to Danath Trollbane at Honor Hold.\r\n",
+    "name": "The Fall of Magtheridon",
+    "requires_level": 70,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

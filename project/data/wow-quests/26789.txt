@@ -1,0 +1,7 @@
+{
+    "_id": "26789",
+    "description": "<Name>, we have a problem! I've tracked down the demon-hound Magmadar to this clearing, but when we resting a band of kobolds took our battle axes! I need you to retrieve them, lest Magmadar catch us off guard! Hurry, he could awaken at any moment!",
+    "name": "You no take axe!",
+    "requires_level": 1,
+    "zone": "Stonetalon Mountains"
+}

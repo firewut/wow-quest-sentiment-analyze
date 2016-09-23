@@ -1,0 +1,8 @@
+{
+    "_id": "41732",
+    "added_in_patch": 7,
+    "description": "The demons' leader is up ahead, taking prisoners it is said!This dire storm, we will weather... if we fight her together!",
+    "name": "The Hand of Keletress",
+    "requires_level": 103,
+    "zone": "Monk Campaign"
+}

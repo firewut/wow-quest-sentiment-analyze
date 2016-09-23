@@ -1,0 +1,8 @@
+{
+    "_id": "39214",
+    "added_in_patch": 7,
+    "description": "It is time to begin the war in Azeroth. We have prepared a tool for you to direct your warriors and your own operations from here. It is called the Eye of Odyn. \r\n\r\nIf you will follow me, I will take you to it, and someone that will help you use it.",
+    "name": "The Eye of Odyn",
+    "requires_level": 98,
+    "zone": "Warrior Campaign"
+}

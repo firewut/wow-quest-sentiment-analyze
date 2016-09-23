@@ -1,0 +1,7 @@
+{
+    "_id": "25234",
+    "description": "Prisoners of the Twilight's Hammer are forced to lug around sundries for the war effort, like common pack animals. I want those supplies, and if we can free a few poor souls from the Hammer's shadowy grip, all the better.Kill the slave drivers along the road to our south and nearby slaves should make a break for it.Search the packs they leave behind for anything valuable, and destroy anything you can't carry.",
+    "name": "In the Rear With the Gear",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

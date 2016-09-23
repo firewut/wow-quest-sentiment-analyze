@@ -1,0 +1,8 @@
+{
+    "_id": "44500",
+    "added_in_patch": 7,
+    "description": "We've reviewed the tome recovered from Karazhan. Though we found references to the Pillars of Creation, one piece of crucial information was omitted from the book... where to find the artifacts.Fortunately, we have access to an expert on the subject.The author, Alodi, was the first Guardian of Tirisfal. His spirit is forever bound to the Forge of the Guardian, which has been hidden in our safekeeping. I think the time has come to call him forth.",
+    "name": "Author! Author!",
+    "requires_level": 98,
+    "zone": "Dalaran"
+}

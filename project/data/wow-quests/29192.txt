@@ -1,0 +1,7 @@
+{
+    "_id": "29192",
+    "description": "We must tread carefully, <class>. Fandral's Druids of the Flame practice their fiery magic beyond the pillars to the north.I need you to capture one of those druids alive for questioning. We must seize every opportunity to learn of their plans.One of my wardens will accompany you. Follow her instructions if you wish to survive.",
+    "name": "The Wardens are Watching",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

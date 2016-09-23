@@ -1,0 +1,8 @@
+{
+    "_id": "41747",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Avalanchion",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

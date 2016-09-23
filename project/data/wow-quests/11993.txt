@@ -1,0 +1,7 @@
+{
+    "_id": "11993",
+    "description": "We've no time to lose! Now that we've reassembled the runic keystone -- well, most of it -- we can decipher the contents of those very same runic plates Brann was working on before he fled.We have no way of knowing if he managed to read the contents of all three plates, but we'll have to assume he got enough information to determine his next destination.Stand before each of the plates and use the keystone to determine the contents of each. Brann may be counting on us!",
+    "name": "The Runic Prophecies",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

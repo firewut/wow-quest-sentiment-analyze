@@ -1,0 +1,8 @@
+{
+    "_id": "40560",
+    "added_in_patch": 7,
+    "description": "What I'm about to ask you to do is no easy task, <name>.I need you to die. But, you'll be able to come back of course! There's a ship, the Naglfar, that ferries souls from this world to the next. It's said that an ancient treasure called the Ring of the Fallen rests in the bowels of that ship.You know me, <name>, and nothing catches my interest more than a sweet looking ring.Find a way onto that boat and bring me back that ancient treasure.",
+    "name": "Spiriting Away",
+    "requires_level": 110,
+    "zone": "Jewelcrafting"
+}

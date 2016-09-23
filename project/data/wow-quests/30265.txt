@@ -1,0 +1,8 @@
+{
+    "_id": "30265",
+    "added_in_patch": 5,
+    "description": "I've been staring down into the waters of the lake, pondering life, love, and everything beautiful, and suddenly I realized that the sparkles in the water aren't just a reflection of my radiant personality, there are actually some sort of shining objects down there! Surely valuable.Would you mind taking a drip and relieving the lake's depths of its mysterious sparkles? Pretty please?",
+    "name": "Sparkle in the Eye",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

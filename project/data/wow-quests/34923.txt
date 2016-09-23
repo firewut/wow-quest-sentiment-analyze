@@ -1,0 +1,8 @@
+{
+    "_id": "34923",
+    "added_in_patch": 6,
+    "description": "We had just arrived and begun the service of the headless fowl when the Bloodmane attacked out of nowhere.Clearly, this means that the Raven Mother wishes to test the worthiness of her children. Fear not, we are steadfast and will fervently continue our prayers regardless of what may come!<Sekara leans in and whispers to you.>Although, if you can get rid of the Bloodmane and their leader that would be a blessing as well.",
+    "name": "The Bloodmane",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

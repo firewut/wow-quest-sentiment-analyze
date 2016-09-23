@@ -1,0 +1,7 @@
+{
+    "_id": "8589",
+    "description": "",
+    "name": "The Horde Needs More Heavy Leather!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

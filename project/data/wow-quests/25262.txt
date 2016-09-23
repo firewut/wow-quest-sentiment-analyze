@@ -1,0 +1,8 @@
+{
+    "_id": "25262",
+    "description": "<name>.  The Burning Blade has infested the cave east of Orgrimmar known as Skull Rock.  Inside that cave they perform vile rituals, and burn their own flesh with Searing Collars.By wearing these collars, I believe the cultists attune themselves to demonic power.  But to confirm this, I must have a collection of the collars to study.Go to Skull Rock and gather Searing Collars from the cultists you find there.  Bring them to me, and I will uncover their secrets.",
+    "name": "Skull Rock",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Durotar"
+}

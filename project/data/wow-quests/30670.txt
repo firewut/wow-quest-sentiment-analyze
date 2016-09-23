@@ -1,0 +1,8 @@
+{
+    "_id": "30670",
+    "added_in_patch": 5,
+    "description": "Our true enemies are the sha, not the yaungol.\r\n\r\nThe sha are emotion manifest. Destructive, yes. But undisciplined. Undisciplined force cannot last. The flood, in dispersion, loses its force. The wildfire burns its fuel.\r\n\r\nAnd, discipline and wisdom can turn their destructive energy against themselves.\r\n\r\nBring me the essences of the sha in the village, and I will explain further.",
+    "name": "Turnabout",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

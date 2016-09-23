@@ -1,0 +1,7 @@
+{
+    "_id": "8194",
+    "description": "",
+    "name": "Apprentice Angler",
+    "requires_level": 1,
+    "zone": "Fishing"
+}

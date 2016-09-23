@@ -1,0 +1,8 @@
+{
+    "_id": "25689",
+    "description": "I was hunting a demon named Razelikh, when his ogre lieutenant Grol assaulted me.  I was caught unaware, and I died... but so did Grol.Razelikh plans to return to the Blasted Lands and overwhelm the lands with his demons.  Even now, he is preparing to summon his legions to eliminate us.<The demon hunter quickly draws a rune in the air, then hands it to you.>Deliver this to Wazzik at the Dark Portal, to the southeast.  He will guide you.  Quickly!  We haven't much time!",
+    "name": "Time is Short",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

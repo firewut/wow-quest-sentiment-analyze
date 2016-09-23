@@ -1,0 +1,8 @@
+{
+    "_id": "43388",
+    "added_in_patch": 7,
+    "description": "There are others like me, you know. Others that have removed the veil that the Scarlet Crusade has kept over our eyes for so long. \r\n\r\nThey've been placed in cages, treated like animals, simply because their beliefs no longer line up with what the Onslaught deems is right and holy. \r\n\r\nThey wish to redeem themselves. We should try to free them, if you think their lives are worth saving.",
+    "name": "Apostate Liberation",
+    "requires_level": 110,
+    "zone": "Priest Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12236",
+    "description": "The time has come, <name>.  Now we will learn whether our efforts will accomplish what we need or nothing at all.Take these ashes and seek the furbolg that Kodian told you about, Tur Ragepaw, near Ursoc's Den.  You will find the den to the north of Grizzlemaw.Convince Tur to aid you, for you will need all the help you can get.Once you've defeated the bear god, use these ashes over his body.Even if his worldly form is destroyed, his spirit must be saved.",
+    "name": "Ursoc, the Bear God",
+    "requires_level": 72,
+    "zone": "Grizzly Hills"
+}

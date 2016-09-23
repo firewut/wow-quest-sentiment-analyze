@@ -1,0 +1,8 @@
+{
+    "_id": "10124",
+    "description": "Your battle prowess has been noted by high command, <class>. They want to send you to the front lines to meet up with Maimfist's crew. They're radicals, devoted to the complete extermination of the Burning Legion, so you may fit right in...Head east about 200 paces and veer south at the jutting mass of land. You'll see Reaver's Fall where an old farm used to stand. Once there, you are to report to Forward Commander To'arch.Now move out!",
+    "name": "Forward Base: Reaver's Fall",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

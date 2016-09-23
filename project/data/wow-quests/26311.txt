@@ -1,0 +1,8 @@
+{
+    "_id": "26311",
+    "description": "The Warchief has designs to launch an all-out assault on the Twilight Highlands. Once there we hope to ally with the Dragonmaw orcs.Through my own sources I've discovered that a Dragonmaw orc resides here, in Orgrimmar. He is known as Herezegor Flametusk, and once he commanded legions of their warriors.His insider knowledge is precious to us. Find Flametusk and obtain for us a chart of the Twilight Highlands waterways.Last I hear, Flametusk was washed up at a bar in the Valley of Honor...",
+    "name": "Unfamiliar Waters",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

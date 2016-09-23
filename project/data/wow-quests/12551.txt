@@ -1,0 +1,7 @@
+{
+    "_id": "12551",
+    "description": "I warn you, stranger -- do not make any comments about crashing the ship. I already get enough of it from the rest of the expedition.If you're looking to try your hand at hunting, though, you should test your skills against the wily mangal crocolisks. They live all along the river to the south, and in the Wildgrowth Mangal to the east. Prove you can hold your own against them and we'll talk again, hunter.",
+    "name": "Crocolisk Mastery: The Trial",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

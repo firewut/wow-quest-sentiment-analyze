@@ -1,0 +1,8 @@
+{
+    "_id": "29696",
+    "added_in_patch": 5,
+    "description": "A number of Kiryn's articles have been scattered around the area by wood sprites, but this one stands out as important to you.The bag once hung from her waist, loaded with throwing stars. Without them, her arsenal will be considerably diminished.If you were to retrieve the weapons from the pests that inhabit this region, it could only help your cause.",
+    "name": "My Stars!",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43062",
+    "added_in_patch": 7,
+    "description": "You may be the Grandmaster, but mastery must be maintained through discipline.To achieve perfect harmony, you must continue your training.I would like to see your form in practice, <name>. Go out and use your Crackling Jade Lightning, Roll, and Blackout Kick or Blackout Strike. Through discipline, we find greatness.",
+    "name": "Further Training",
+    "requires_level": 103,
+    "zone": "Monk Campaign"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12185",
+    "description": "Using the images you've captured, I've created everything you need for your overseer disguise kit. You'll make a fine iron dwarf, if I do say so myself.Take the kit with you to Dun Argol, use it to disguise yourself, then go to the easternmost building on the broad middle tier of the city.There, you should see a pedestal where the thane and overseers receive their orders from this Loken. Activate it while disguised and learn all you can from the communication.",
+    "name": "Put on Your Best Face for Loken",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

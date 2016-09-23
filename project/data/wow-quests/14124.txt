@@ -1,0 +1,8 @@
+{
+    "_id": "14124",
+    "description": " Sir am;, we need tons of moolah to pay the Trade Prince and get off Kezan! Well, tons of it is just waiting for the taking down there in the Kaja'mine!These are the last known deposits of kaja'mite anywhere. This is the raw stuff that made us the genius tinkerers and alchemists we are today. If that's not worth a bazillion macaroons, I don't know what is!Take some of my kablooey bombs and blowup the deposits. Then, pick up the chunks.Just watch out for the rebellious trolls!",
+    "name": "Liberate the Kaja'mite",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26699",
+    "description": "The Brashtide are everywhere!  The Baron's Booty Bay Bruisers are no match for their sheer numbers, I'm afraid.While you're down here in the fray, why don't you help me get rid of a few of them?When you're done, don't bother coming back here.  I'll probably be pretty busy.",
+    "name": "Turning the Brashtide",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

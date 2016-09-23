@@ -1,0 +1,7 @@
+{
+    "_id": "26430",
+    "description": "Not all forest trolls are foul nuisances like the Witherbark. North of here in the Hinterlands is Revantusk Village, home to the only forest troll tribe still allied with the Horde.Even they cannot escape the cruelty of their brethren. The Vilebranch tribe wars with them, distracting them from our battle with the Alliance.You have fought well here. Speak with Urda if you wish to fly to Revantusk. Their village will have use of your strength.",
+    "name": "Revantusk Village",
+    "requires_level": 29,
+    "zone": "The Hinterlands"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "32791",
+    "added_in_patch": 6,
+    "description": "I have no time for my brother's whimpering. We hunt for vengeance or death.The Thunderlord chieftain slew my father and left me for dead, so I shall take his three sons, the first of which is this runt in my hand.This filth has revealed the number and positions of the Thunderlords in the ravine beyond.Join us, if you dare, and you will witness how real warriors of the Frostwolf clan fight. Get in my way, and I will end you.",
+    "name": "Let the Hunt Begin!",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

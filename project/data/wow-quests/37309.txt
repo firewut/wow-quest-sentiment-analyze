@@ -1,0 +1,8 @@
+{
+    "_id": "37309",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Garrison Invasion - Reward Tracker - Silver",
+    "requires_level": 1,
+    "zone": "Quests"
+}

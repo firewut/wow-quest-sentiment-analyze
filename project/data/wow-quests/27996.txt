@@ -1,0 +1,8 @@
+{
+    "_id": "27996",
+    "description": "Unsurprisingly, we aren't going to listen to Cromush about the plague. However, his brute strength will come in handy for muscling my men through the many foes ahead on the path to Godfrey, the most powerful being his right hand man, Lord Walden.I'll meet you in Walden's chamber after you finish him off. Then, at long last, we can completely take Shadowfang Keep for the Forsaken!",
+    "name": "Orders Are For the Living",
+    "requires_level": 16,
+    "side": "horde",
+    "zone": "Quests"
+}

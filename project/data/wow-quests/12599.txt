@@ -1,0 +1,7 @@
+{
+    "_id": "12599",
+    "description": "Well, it ain't glamorous, but it needs doin'.My troops have been fightin' their hearts out while knee-deep in stagnant water for days on end. That just can't be good fer ya.What they need is a nice fire to dry 'em out and lighten their spirits.This part of the city's soaked, but the dead roots of these thornwood trees have a way of resistin' the moisture.Round us up some fuel for burnin' and we'll be mighty grateful.",
+    "name": "Creature Comforts",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

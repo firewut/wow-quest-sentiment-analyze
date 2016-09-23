@@ -1,0 +1,7 @@
+{
+    "_id": "29133",
+    "description": "The other Darkspear emissary was here briefly.  He was eager to get to the next location and warn them.   I sent him on a flight to the Explorers' League Digsite in the Cape of Stranglethorn.  I hope he wasn't too late.I will give you use of one of my gryphons, a direct flight there.Talk to me when you are ready to go, <name>.",
+    "name": "To the Digsite",
+    "requires_level": 85,
+    "zone": "Northern Stranglethorn"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43303",
+    "added_in_patch": 7,
+    "description": "Welcome to the Black Rook Rumble!  Many combatants have entered to prove their might in the Black Rook Arena, and now it is your time.",
+    "name": "Time to Rumble!",
+    "requires_level": 110,
+    "zone": "Val'sharah"
+}

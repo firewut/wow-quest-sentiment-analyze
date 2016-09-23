@@ -1,0 +1,8 @@
+{
+    "_id": "30694",
+    "added_in_patch": 5,
+    "description": "My students tell me the surrounding area is littered with deadly traps, no doubt set by the saurok. Stumbling into one gets you a face full of spikes.As the saying goes: \"The Way is rife with danger - tread lightly, and with scrutiny.\"<Koro hands you a long tree branch.>Here, this is scrutiny.It should be long enough to set the traps off at a safe distance.",
+    "name": "Tread Lightly",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25823",
+    "description": "While it is of utmost importance that you secure weapon crates immediately, we need the Unearthed Grounds to the east clear of Horde. If we are to open a supply line for our Grimtotem allies, we're going to need full access to the dig site.Kill all Horde that you come across at the Unearthed Grounds, <name>. For the glory of the Alliance!",
+    "name": "The Unrelenting Horde",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

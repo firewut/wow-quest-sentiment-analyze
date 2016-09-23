@@ -1,0 +1,8 @@
+{
+    "_id": "26161",
+    "description": "We need Loramus Thalipedes, the demon hunter.  He knows Razelikh's true name, and as you know: if you know the name of the demon, you have power over it.  The problem is that Loramus has been killed, and his body torn apart.If you bring me the pieces, we still have a recourse.  All three pieces are in the west... the Dreadmaul ogres hide them in their caves.  Move quickly, for much like Grimeo, Loramus also owes me a debt...",
+    "name": "Not Just Any Body",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

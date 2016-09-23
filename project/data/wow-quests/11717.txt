@@ -1,0 +1,8 @@
+{
+    "_id": "11717",
+    "description": "It's obvious! The bloodspore moths are the entities responsible for pollination on these plains. It must be something that happens within the moth's internal system that acts as a catalyst for this pollen to work. It's all starting to make sense now, <name>. That's why the kobolds don't kill the moths and instead go to great lengths to protect them! Those stupid little rats have it all figured out!Well we'll just have to get our own moth pollen! What do you say? Fetch me some in the name of science?",
+    "name": "Pollen from the Source",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

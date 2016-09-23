@@ -1,0 +1,8 @@
+{
+    "_id": "27974",
+    "description": "Did you think that a handful of worgen vermin could stop me? Hah!Shadowfang Keep was part of the Lordaeron kingdom in life, so it is quite fitting that it should belong to the Forsaken in death. Godfrey and his accomplices are minor obstacles at best, and of course we're all happy to take them out for their treachery against the Dark Lady.Ashbury has positioned himself near the front of the keep, leaving him wide open to attack. Start us out on the right foot, would you?",
+    "name": "This Land is Our Land",
+    "requires_level": 16,
+    "side": "horde",
+    "zone": "Quests"
+}

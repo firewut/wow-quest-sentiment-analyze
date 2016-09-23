@@ -1,0 +1,7 @@
+{
+    "_id": "8580",
+    "description": "Hey, <class>. Ya you, mon! There be a whole mess of firebloom the Horde thinkin' they need for this Ahn'Qiraj war effort. Maybe they put it in nice things that go boom? Maybe they give it to the Alliance as fuel for their steam tanks? Who knows? Not Pele'keiki!Pele'keiki know this though... he know you gonna help him out and bring back lots of the firebloom, right, mon?",
+    "name": "The Horde Needs Firebloom!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

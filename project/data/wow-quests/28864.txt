@@ -1,0 +1,7 @@
+{
+    "_id": "28864",
+    "description": "After my sister's wedding, I developed a taste for that Thunderbrew Lager that Kurdran had imported from Dun Morogh. More is on the way, but our caravan keeps getting jumped by the Dragonmaw!Head on up to the southeast side of Thunderstrike Mountain and catch up with the caravan. Look for a fellow named Hammelhand at the side of the road, and help him get the booze through the pass.Just get it as far as Kirthaven, and we'll take it from there.",
+    "name": "Beer Run",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

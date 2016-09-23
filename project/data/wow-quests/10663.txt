@@ -1,0 +1,7 @@
+{
+    "_id": "10663",
+    "description": "<The orc shakes his head at his failure.>This is beyond my ability, but that's not to say the weapon can't be recreated.It pains me to suggest this, but your only hope may be a human smith by the name of David Wayne. It's true he was once a member of the Alliance's expedition, but that was a long time ago and he has since left the Sons of Lothar. These days, he lives in a small camp on a peninsula east of Firewing Point in Terokkar Forest. Take the ingots to him and see if he can help you.",
+    "name": "The Hermit Smith",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

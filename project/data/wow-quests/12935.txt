@@ -1,0 +1,7 @@
+{
+    "_id": "12935",
+    "description": "This next one's fightin' from a dark place, kid. The kind of dark that can only happen when you've been on the flip-side. He's hungry and willing to do whatever it takes to win. Watch yourself! I've heard he wrestles yetis for exercise!We'll start when you're ready.",
+    "name": "The Amphitheater of Anguish: Tuskarrmageddon!",
+    "requires_level": 75,
+    "zone": "Zul'Drak"
+}

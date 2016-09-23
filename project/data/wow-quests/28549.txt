@@ -1,0 +1,8 @@
+{
+    "_id": "28549",
+    "description": "All able bodied members of the Horde are hereby ordered to report to Nura Pathfinder at the High Road in the Southern Barrens. With the recent Alliance victories in the Barrens, our enemies are threatening to cut our supply lines and leave our warriors stranded. We must act!To reach the High Road, travel east from Stonetalon Mountains.Destiny calls!",
+    "name": "Warchief's Command: Southern Barrens!",
+    "requires_level": 29,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

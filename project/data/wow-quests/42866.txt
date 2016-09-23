@@ -1,0 +1,8 @@
+{
+    "_id": "42866",
+    "added_in_patch": 7,
+    "description": "Greetings, Highlord. I have important news to share with you.During my expedition to the Broken Shore, I saw with my own eyes an extraordinarily luminescent object emerge from the Felstorm. It fell down towards the coast of Suramar, cutting a swath through the tempest itself!From it I felt an incredible surge of power, before it vanished beyond the horizon.We need to bring news of this immediately to Archmage Khadgar.",
+    "name": "A Sign From The Sky",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

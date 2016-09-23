@@ -1,0 +1,8 @@
+{
+    "_id": "30236",
+    "added_in_patch": 5,
+    "description": "It seems Aetha has been levitating the livestock and dropping them into the river again. The mayor has requested that we remind her that these kinds of jokes are not welcomed.Would you be so generous as to travel to the ridge above the village and teach her this lesson? You cannot kill her, you can only send her away for a time, but this should prove a potent reminder.",
+    "name": "Aetha",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

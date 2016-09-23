@@ -1,0 +1,9 @@
+{
+    "_id": "36994",
+    "added_in_patch": 6,
+    "description": "I've got one last challenge for ye, commander, but if it isn't a doozy.They call them the garn. Wolves as black as night, and twice the size of a normal wolf, they can tear a man apart in seconds. Any beast in their right mind would be scared witless at the sight of such a predator.There's a lone garn that's made it from their usual home in Frostfire, all the way over to Nagrand. Take your clefthoof, mount up, and bring it down. If the two of you survive, your clefthoof will truly be ready.",
+    "name": "Clefthoof Training: The Garn",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

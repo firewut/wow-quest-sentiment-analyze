@@ -1,0 +1,8 @@
+{
+    "_id": "43197",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Primal Gladiator's Chain Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

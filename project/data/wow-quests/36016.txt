@@ -1,0 +1,8 @@
+{
+    "_id": "36016",
+    "added_in_patch": 6.1,
+    "description": "Reading these tablets is like stepping back in time to the moment of Draenor's creation. There is a power here greater than any I have dealt with since I was Medivh's apprentice. I believe I can control it, but - can you handle it?If you think you are ready, prepare yourself. Hold your ring close to your heart. I will channel pure elemental energies into it.Speak with me to begin!",
+    "name": "The Unbroken Circle",
+    "requires_level": 100,
+    "zone": "Legendary"
+}

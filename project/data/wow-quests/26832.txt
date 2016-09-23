@@ -1,0 +1,7 @@
+{
+    "_id": "26832",
+    "description": "There are two leaders among the Twilight that need to be killed.One is a human by the name of Boldrich. Small, as you are. But still dangerous, as you also are.The other is a priestess by the name of Lorthuna. She is wily and hard to corner. Strike swiftly and do not let her escape, or I promise you, you will regret it later.",
+    "name": "Therazane's Mercy",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

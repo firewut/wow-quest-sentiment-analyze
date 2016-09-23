@@ -1,0 +1,8 @@
+{
+    "_id": "40561",
+    "added_in_patch": 7,
+    "description": "Queens and kings wear the best rings! And I've heard that a certain king of gods has made his presence available.In the Halls of Valor, the ruler Odyn has treasures unlike anyone in existence. If you happen to go there, try and... obtain, let's say, one of his rings for me.I doubt he'll just hand it over, so you may have the fight of a lifetime in store.",
+    "name": "Jewel of the Heavens",
+    "requires_level": 110,
+    "zone": "Jewelcrafting"
+}

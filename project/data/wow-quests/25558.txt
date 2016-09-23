@@ -1,0 +1,7 @@
+{
+    "_id": "25558",
+    "description": "This is it.This is where we make our stand.We must defend this ship to our last breath, and make these cretins think twice before approaching it again!May our blades strike fear in their hearts!",
+    "name": "All or Nothing",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

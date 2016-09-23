@@ -1,0 +1,7 @@
+{
+    "_id": "27774",
+    "description": "The most immediate threat to Fuselight is, without argument, the colony of ogres to the northwest.Most of our ogre neighbors used to be warrior-types, but it seems that more and more of them are practicing magic.  I won't have an army of ogre-magi at my doorstep.Go take out some of those Dustbelcher ogres.  Hopefully they'll get the picture and avoid messing with the might of Fuselight.",
+    "name": "Easily Swayed",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

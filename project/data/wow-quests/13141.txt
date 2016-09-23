@@ -1,0 +1,7 @@
+{
+    "_id": "13141",
+    "description": "<Highlord Fordring holds a banner of the Argent Crusade.>This banner is like no other, <name>. It carries with it a powerful blessing, able to sanctify large tracts of blighted land.You must take it northwest, through the Breach, to an area the Scourge have mockingly named Crusaders' Pinnacle. Plant the banner atop the skulls of our fallen brethren at Crusaders' Pinnacle and defend it against attack. Once the land is sanctified, return to Father Gustav.Go now, <name>. Hold no fear in your heart.",
+    "name": "The Battle For Crusaders' Pinnacle",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27953",
+    "description": "We have a contingent of the Reliquary in the chamber just to the northeast inside the temple.They've been making increasing noises about something that the Twilight's Hammer is up to.<name>, would you be a dear and see what they need?",
+    "name": "The Reliquary",
+    "requires_level": 83,
+    "side": "horde",
+    "zone": "Deepholm"
+}

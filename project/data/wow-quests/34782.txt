@@ -1,0 +1,9 @@
+{
+    "_id": "34782",
+    "added_in_patch": 6,
+    "description": "Good work at the gates! The Shadowmoon orcs have been seeking prisoners for some reason. Their aggression helps our cause.Come with me. I would like to introduce you to the Exarch Council, \"The Hand of the Prophet.\" I have been trying to convince the Exarchs to support our cause and go on the offensive against the Iron Horde, but they are - as always - too cautious and slow to act.Come with me, I will introduce you to Exarch Othaar up the hill. Perhaps meeting an Alliance hero can sway the council.",
+    "name": "The Exarch Council",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

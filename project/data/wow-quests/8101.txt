@@ -1,0 +1,7 @@
+{
+    "_id": "8101",
+    "description": "",
+    "name": "The Pebble of Kajaro",
+    "requires_level": 58,
+    "zone": "Quests"
+}

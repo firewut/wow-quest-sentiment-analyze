@@ -1,0 +1,8 @@
+{
+    "_id": "28714",
+    "description": "You seem to know what you're doing. Perhaps I can task you with something a little more important.As you may well know, the corruption in Teldrassil was supposedly wiped away. Yet something lingers. The creatures have not calmed and all manner of problems still plague us.I need you to deal with the grellkin that have gathered to the west, and while you're there, I want you to search them for fel moss. This will help me determine from where this continuing corruption stems.",
+    "name": "Fel Moss Corruption",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

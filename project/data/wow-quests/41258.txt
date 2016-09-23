@@ -1,0 +1,8 @@
+{
+    "_id": "41258",
+    "added_in_patch": 7,
+    "description": "Now is the time to strike.Shadowbloom has... potent digestive qualities. Go sprinkle some on Daglir's fruit bowls and watch the show.Meanwhile, I will use the manatrout liquor to cement my position as the premier fruit vendor in the city.",
+    "name": "Fruit of the Doom",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

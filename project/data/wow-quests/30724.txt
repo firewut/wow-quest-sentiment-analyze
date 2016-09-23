@@ -1,0 +1,8 @@
+{
+    "_id": "30724",
+    "added_in_patch": 5,
+    "description": "They are attacking again!\r\n\r\n<Lin looks to the Ox Gate.>\r\n\r\nArchers... on the wall!\r\n\r\nI need you to get up there. My wife Suna went to scout the wall with that fool Lao-Chen. Perhaps if he had spent more time preparing defenses and less building that ridiculous ale lift contraption...\r\n\r\nIt matters not. Get a kite from Len, to the west, and then get up there and find my wife. She'll know what to do next.",
+    "name": "To the Wall!",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

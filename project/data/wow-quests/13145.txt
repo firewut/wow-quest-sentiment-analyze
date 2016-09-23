@@ -1,0 +1,7 @@
+{
+    "_id": "13145",
+    "description": "We need to know what we're up against.Use the eye of dominion to assume control of a lithe stalker and scout out the area. There are a few spots in particular I saw when flying in that I want you to get a closer look at: the overlook in the northeast, the work area in the southeast, the large forge near the center, and the ritual area in the southwest.The stalker can leap far and won't be hurt by large falls - use that to your advantage to get up and down from those ramparts.",
+    "name": "The Vile Hold",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

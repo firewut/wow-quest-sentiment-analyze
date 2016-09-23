@@ -1,0 +1,7 @@
+{
+    "_id": "12885",
+    "description": "The Storm Peaks are an intriguing place, but there's far more here than titan ruins. The peoples who live here face a dire threat in Loken and his minions.He sent his favorite servants, the iron dwarves, on a brutal campaign against all the creatures of stone. He expelled the earthen from Ulduar, forcing them to take shelter at Bouldercrag's Refuge, on the face of a mountain west of the Inventor's Library. Bouldercrag and his brethren are beset by the iron dwarves there. Find and help them, <name>.",
+    "name": "The Exiles of Ulduar",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9787",
+    "description": "From what you've told me about your observations at the Boha'mu Ruins, it seems this tribe of Lost Ones has reverted to the worship of animal spirits. Before we can approach them, we must know more of their beliefs.Return to Feralfen Village and discreetly gather some of their idols so that I may study them. Try to avoid angering them, <name>, as it may hurt our chances of making contact with them.",
+    "name": "Idols of the Feralfen",
+    "requires_level": 60,
+    "zone": "Zangarmarsh"
+}

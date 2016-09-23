@@ -1,0 +1,8 @@
+{
+    "_id": "39845",
+    "added_in_patch": 7,
+    "description": "The components of the forge are assembled and, as I understand it, Archmage Karlain has secured a location for us to begin construction: aboveground, near the blacksmith.Come back and visit sometime, <name>.",
+    "name": "The Obliterum Forge",
+    "requires_level": 110,
+    "zone": "Dalaran"
+}

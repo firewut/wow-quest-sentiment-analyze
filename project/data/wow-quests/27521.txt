@@ -1,0 +1,7 @@
+{
+    "_id": "27521",
+    "description": "<Race>... please, I ask your help.Something's happened to my people.  Our commander, Ranger Lord Hawkspear, came upon an item of magical energy, and my friends, my family... they succumbed to its seductive power.They're corrupted, <race>.  All of them.My Ellaria wouldn't want to live like that, nor would any of my brothers.  Please, put them out of their misery.  Quel'lithien Lodge is not far; it's just up the hill, to the northwest.",
+    "name": "Wretched Hive of Scum and Villainy",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

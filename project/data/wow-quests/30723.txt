@@ -1,0 +1,8 @@
+{
+    "_id": "30723",
+    "added_in_patch": 5,
+    "description": "Hmm... If Shado-Master Chong trusted you, perhaps you can help us.\r\n\r\nThe yaungol are our enemies.\r\n\r\nStill, we must prove we are better than they. We will show them honor in death.\r\n\r\nAs after most battles, the carrion birds have begun gathering. Thin their numbers, so the bodies of our foes will not be desecrated. They've gathered at the battlefield to the west.",
+    "name": "Honor, Even in Death",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

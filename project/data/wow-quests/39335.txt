@@ -1,0 +1,8 @@
+{
+    "_id": "39335",
+    "added_in_patch": 7,
+    "description": "I've heard rumors that the ancient drogbar collected powder from the residue of dragon's breath. If it's true that Neltharion's Lair lies somewhere below us, it seems a likely source.Go there and try to find a replacement for my powder.",
+    "name": "Potent Powder",
+    "requires_level": 106,
+    "zone": "Alchemy"
+}

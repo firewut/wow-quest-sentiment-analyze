@@ -1,0 +1,7 @@
+{
+    "_id": "14431",
+    "description": "The Blackmaw furbolg that live in this area have broken rank with their Timbermaw brethren as we began to aggressively settle Azshara. They've gone wild, <class>, and harass our forces at every turn. Worse, we have seen them engaging the night elves from Talrendis on friendly terms. We cannot allow the two to ally!Just southwest of here you will find a great scar across the earth where my scouts report night elven activity. Slay them and gather any intelligence you find. ",
+    "name": "The Blackmaw Scar",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

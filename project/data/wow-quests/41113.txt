@@ -1,0 +1,8 @@
+{
+    "_id": "41113",
+    "added_in_patch": 7,
+    "description": "Portals? Teleportation? You bet I can help you out with that! I mean, how do you think I pull the rabbit out of...\r\n\r\n...um, you didn't hear that.\r\n\r\nAnyway, I can help you move your mages around, if the price is right. Heck I can even teach those combat mages a thing or two. Ever been on the receiving end of an exploding bunny? It ain't pretty!\r\n\r\nFor starters, let me whip up a portal to take us to this hall you're talking about.",
+    "name": "The Only Way to Travel",
+    "requires_level": 98,
+    "zone": "Quests"
+}

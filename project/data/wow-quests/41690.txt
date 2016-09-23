@@ -1,0 +1,8 @@
+{
+    "_id": "41690",
+    "added_in_patch": 7,
+    "description": "You found Lyessa in the Dream, didn't you, Shan'do <name>? I heard you mutter her name in your slumber.Thank Elune she is well.You must seek her out - I can sense her presence even now at the Circle of Spirits above.If ever there were one who could help us cleanse G'Hanir, it is Lyessa.",
+    "name": "Reconvene",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27179",
+    "description": "This unfortunate pygmy was in the wrong place at the wrong time.As you ponder his bad luck, you take notice of the symbols covering his shield - far too elaborate for pygmy scrawl.Confident that Doctor Jones will find such objects of interest, you set out to find more fragments like this one.",
+    "name": "Field Work",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

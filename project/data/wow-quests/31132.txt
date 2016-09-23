@@ -1,0 +1,9 @@
+{
+    "_id": "31132",
+    "added_in_patch": 5,
+    "description": "Oh, where have my manners gone? Technically, I suppose I am the host here.Allow me to tell you a little bit about myself and my people before asking questions of you.",
+    "name": "A Mile in My Shoes",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10483",
+    "description": "<name>, in our battles with the Bleeding Hollow clan of fel orcs, we have found upon them foreboding trinkets.  These orcs have collected the insignias of fallen Honor Hold soldiers and created cursed talismans from them.  We fear the dark magic of the Bleeding Hollow orcs have transformed our insignias into evil charms with powers against us!Find such a talisman from the Bleeding Hollow orcs of Zeth'Gor, to the east, and bring it to Corporal Ironridge at Expedition Point, northeast of Zeth'Gor.",
+    "name": "Ill Omens",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

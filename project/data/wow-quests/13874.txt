@@ -1,0 +1,7 @@
+{
+    "_id": "13874",
+    "description": "The furbolg covet that which does not belong to them.<Hephaestus turns the charm over in his hand and then discards it.>There's a property to the carving that slowly corrupts those that aren't trolls. As I understand it, the furbolg have done this sort of thing before. Some never learn.No doubt they hoard most of the charms in Thistlefur Hold above their village to the north.",
+    "name": "A Not-So-Charmed Life",
+    "requires_level": 21,
+    "zone": "Ashenvale"
+}

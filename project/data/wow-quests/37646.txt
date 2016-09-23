@@ -1,0 +1,8 @@
+{
+    "_id": "37646",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "See New Brightstone, See Wolfed Out Thorn",
+    "requires_level": 90,
+    "zone": "Garrison Support"
+}

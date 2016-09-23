@@ -1,0 +1,8 @@
+{
+    "_id": "42517",
+    "added_in_patch": 7,
+    "description": "Your research has granted you access to a very powerful ritual, one that will require the aid of a few friends if you wish to successfully summon a demon.\r\n\r\nThe ritual needs to be performed at the summoning platform above. \r\n\r\nKeep in mind, this sort of power always comes at a price. Not all who participate in the summoning will survive, so be prepared.",
+    "name": "Ritual of Doom",
+    "requires_level": 105,
+    "zone": "Dreadscar Rift"
+}

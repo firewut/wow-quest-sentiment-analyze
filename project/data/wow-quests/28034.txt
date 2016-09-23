@@ -1,0 +1,7 @@
+{
+    "_id": "28034",
+    "description": "Lunk not smart, but Lunk notice things.  Today, Lunk notice that Mountain-Dwarf likes to watch people dance.Lunk like to dance!  <name> like to dance!  Probably!Maybe we find some more dwarfs that like to dance.  Then we go talk to Mountain-Dwarf, and he will listen to <name>.",
+    "name": "Lunk's Adventure: Rendan's Weakness",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

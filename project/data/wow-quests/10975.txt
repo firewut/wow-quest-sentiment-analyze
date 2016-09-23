@@ -1,0 +1,7 @@
+{
+    "_id": "10975",
+    "description": "",
+    "name": "Purging the Chambers of Bash'ir",
+    "requires_level": 70,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10538",
+    "description": "That last experiment was not a complete loss -- I did save a small bit of the blood you brought me.  Now boiled down, it should be free of whatever curses the Bleeding Hollow witches placed on their people's blood.I need more for study.  Go gather Bleeding Hollow blood from the orcs in Zeth'Gor.  When you've gathered the blood, bring it to their cursed cauldron and boil it.  Bring me the boiled blood.",
+    "name": "Boiling Blood",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

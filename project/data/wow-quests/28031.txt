@@ -1,0 +1,7 @@
+{
+    "_id": "28031",
+    "description": "I have a new business partner, my best buddy, Brivelthwerp. Even as we speak, he's building up the infrastructure for our new ice cream empire!He took our coolant tug, inventory, and employees southwest to the Sunken Dig Site. Unfortunately, I don't currently have a way to deliver something to him... something extremely important: our super-secret I-Scream Cryocannon!You don't mind taking it to him, do you, <name>?",
+    "name": "Special Delivery for Brivelthwerp",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

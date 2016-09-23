@@ -1,0 +1,8 @@
+{
+    "_id": "30407",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "A Marsh Lily for Sho",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39489",
+    "added_in_patch": 7,
+    "description": "The drogbar and their earthen furies have overrun the cavern. They're perverting the magic within and destroying the elementals that have forever dwelled in this place.\r\n\r\nLet's work together to remove them from this sacred cave.",
+    "name": "Invading Spelunkers",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

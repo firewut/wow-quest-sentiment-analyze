@@ -1,0 +1,8 @@
+{
+    "_id": "35349",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Blackrock Caverns Bonus Reward",
+    "requires_level": 80,
+    "zone": "Quests"
+}

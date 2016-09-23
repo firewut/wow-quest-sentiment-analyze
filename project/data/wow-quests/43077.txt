@@ -1,0 +1,8 @@
+{
+    "_id": "43077",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Primal Combatant's Dragonhide Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

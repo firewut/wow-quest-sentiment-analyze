@@ -1,0 +1,7 @@
+{
+    "_id": "10282",
+    "description": "To the west is the timeway to Hillsbrad of the past - 7 years to be exact.Forces are working against the Horde warchief, Thrall, attempting to prevent him from ever escaping Durnholde Keep.If Thrall never escapes, this world - as you know it - will cease to exist.Gather a group of adventurers and take the timeway to old Hillsbrad. Two of our agents await you inside.Speak with Erozion on the other side.",
+    "name": "Old Hillsbrad",
+    "requires_level": 66,
+    "zone": "Caverns of Time"
+}

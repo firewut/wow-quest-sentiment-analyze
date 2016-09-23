@@ -1,0 +1,8 @@
+{
+    "_id": "14308",
+    "description": "Did you see the explosions on the way in? The Secret Lab is engulfed in flames! Again! If we don't stamp out those flames we're going to hit critical temperatacity and resonate into a meltdown cascade.Here, I'm entrusting you with a canister of experimental hypercooled pressurized liquigel: The most volatile fire retardant known to science! (Keep that canister away from open flame.) Put out the fires and hose down my interns, then contact me via the squawkbox in central control.",
+    "name": "When Science Attacks",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Azshara"
+}

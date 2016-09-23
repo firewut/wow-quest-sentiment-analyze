@@ -1,0 +1,7 @@
+{
+    "_id": "24653",
+    "description": "I think the quilboar are being driven by more than just crude desire. Would you help me look into this further?To the west, scattered among the quilboar's settlements and camps, I've noticed boar skulls. They gleam from a distance, polished smooth...distinct from the remains littered in their waste piles. I think these may be objects of worship.Bring me several of these to examine, <name>.",
+    "name": "Echoes of Agamaggan",
+    "requires_level": 33,
+    "zone": "Southern Barrens"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31002",
+    "added_in_patch": 5,
+    "description": "We're holding, but just barely. Anything you can do to stem the tide of dreadspinners coming up the wall would be a big help.Feel like tearing open spider eggs one at a time by hand?I didn't think so. Take one of our dragon guns and light it up down there. I wanna hear those puppies pop.",
+    "name": "Nope",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

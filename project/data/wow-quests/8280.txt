@@ -1,0 +1,7 @@
+{
+    "_id": "8280",
+    "description": "Cenarion Hold is a location of utmost strategic importance.  I'm convinced that while we hold it our victory over the silithid is guaranteed.  Provided our influx supplies can be maintained, that is.",
+    "name": "Securing the Supply Lines",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

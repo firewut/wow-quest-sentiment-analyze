@@ -1,0 +1,8 @@
+{
+    "_id": "31336",
+    "added_in_patch": 5,
+    "description": "I love rice cakes.  I'll do my best to make good ones!",
+    "name": "Lesson 5: Pounded Rice Cake",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43420",
+    "added_in_patch": 7,
+    "description": "<class>t, in our short time together you have done much to aid the Conclave. Now, with the work upon the Altar of Light and Shadow complete, it is time that we aid you. We have discovered a method to awaken the full power of your weapon!Please, step before the altar and raise your weapon high.",
+    "name": "A Hero's Weapon",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28148",
+    "description": "The sickening corruption of demons pervades this entire forest. The soil, the trees, the animals... all grow thick with fel magics.We of the Emerald Circle have sworn to cleanse this forest, and doing so requires a constant battle. While some life here can still be healed, the bears and wolves that wander nearby have been twisted too far.We must end their suffering, and ensure their bodies do not spread the taint further. Hunt the bears and wolves, and return to me with their hides.",
+    "name": "Culling the Corrupted",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

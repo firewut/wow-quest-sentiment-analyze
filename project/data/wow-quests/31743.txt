@@ -1,0 +1,9 @@
+{
+    "_id": "31743",
+    "added_in_patch": 5,
+    "description": "Sully scouted the Horde establishment to the north, and he reports seeing a large pile of explosives, along with a small force of demolishers. That's not to mention the demons that their warlocks have summoned.Luckily, we came prepared. We've got air support from the Skyfire. We just need to show our pilots where to strike.<Rell hands you a smoke flare, and gives you a knowing nod.>",
+    "name": "Smoke Before Fire",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

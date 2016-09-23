@@ -1,0 +1,8 @@
+{
+    "_id": "43415",
+    "added_in_patch": 7,
+    "description": "<class>t, in our short time together you have done much for our order.Through your words and deeds we've been inspired to redouble our efforts and I'm proud to report that we've discovered a new technique that may be of use to you.If you have a moment, <class>t, I would be pleased to show you the fruit of our research.",
+    "name": "A Hero's Weapon",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

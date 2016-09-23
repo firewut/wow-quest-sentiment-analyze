@@ -1,0 +1,8 @@
+{
+    "_id": "30967",
+    "added_in_patch": 5,
+    "description": "Not all of my fellow villagers from Inkgill are corrupted. Many heeded my warnings and did not drink of the sha-tainted waters.They are in hiding, terrified, and intimidated by the guards.Please, tell them there is hope! Go into the village to the north. Speak with them and send them to me.",
+    "name": "Free the Dissenters",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27165",
+    "description": "The Alliance are victorious, and our forces are still strong.  Military strategy dictates that we attack the Forsaken now, while they are recovering and unaware.  I made a deal, however...We will wait.  We attack Koltira and his troops when the time is right.  In the meantime, speak with Ginny Goodwin and take a flight to the Chillwind Camp, to our south.  Commander Ashlam Valorfist will give you your next assignment.You will hear from me when you are needed again in Andorhal.",
+    "name": "Victory, For Now",
+    "requires_level": 34,
+    "side": "alliance",
+    "zone": "Western Plaguelands"
+}

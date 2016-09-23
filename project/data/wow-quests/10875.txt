@@ -1,0 +1,8 @@
+{
+    "_id": "10875",
+    "description": "<name>, during your foray with the Demoniac Scryer, I sent word of your exploits against the fel orcs.  Nazgrel, our illustrious leader in Thrallmar, wishes to speak with you.  I believe he has a bloody mission in mind...",
+    "name": "Report to Nazgrel",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

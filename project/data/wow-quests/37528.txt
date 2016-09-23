@@ -1,0 +1,8 @@
+{
+    "_id": "37528",
+    "added_in_patch": 7,
+    "description": "We're going to need a diversion to get close to Prince Oceanus. Are you thinking what I'm thinking?\r\n\r\nSee Sleepy Dhow over there? He's guarding all of the weapons the giants take from our shipwrecks. We can use those weapons to arm the rest of the pit fighters that are held in the caves.\r\n\r\nAll you have to do is get past that giant without waking him.",
+    "name": "Let Sleeping Giants Lie",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

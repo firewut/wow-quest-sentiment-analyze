@@ -1,0 +1,8 @@
+{
+    "_id": "31249",
+    "added_in_patch": 5,
+    "description": "Everything I've heard suggests the village has been unaffected by the Shao-Tien offensive at the lake, but I won't take any risks.I'm dispatching you and Che Wildwalker to keep watch at the village, and aid the townsfolk while you're there.",
+    "name": "Mistfall Village",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43428",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Doomlord Kazrok",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

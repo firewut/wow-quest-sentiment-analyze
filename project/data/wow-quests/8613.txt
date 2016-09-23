@@ -1,0 +1,7 @@
+{
+    "_id": "8613",
+    "description": "It be a nice day for fishin', don't'cha think mon? Good thing, cuz I be needin' a lot of fish it lookin' like. The Horde, they askin' me to be in charge of collectin' a ton of the spotted yellowtail for them. They say they needin' it for the war they getting' ready for at Ahn'Qiraj. I say to them I do the best I can. So I be needin' to get some help. You gonna be helpin' me, <class>?",
+    "name": "The Horde Needs Spotted Yellowtail!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

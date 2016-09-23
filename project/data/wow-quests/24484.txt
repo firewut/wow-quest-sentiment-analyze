@@ -1,0 +1,8 @@
+{
+    "_id": "24484",
+    "description": "Well, what do you know, <name>?  All this time and Stormglen's been left mostly intact.It's too bad the Forsaken are still working their way inland, but it'll make a fine place to rest our feet for a night or two.The other half of town is overrun with spiders, so I've asked the villagers to stay away from there.Perhaps you'd like to lend a hand in clearing the spiders out?  I'm certain our injured men and women will sleep more soundly if they know someone's keeping those eight-legged beasts at bay.",
+    "name": "Pest Control",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

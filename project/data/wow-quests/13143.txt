@@ -1,0 +1,7 @@
+{
+    "_id": "13143",
+    "description": "First things first. I saw some Lithe Stalkers on the ramparts just east of us. They used to serve us before we broke with Arthas, and they're about as perfect a scout as you can get... with a little prodding from an eye of dominion.Fly up, find one of the stalkers, beat it down a bit, and then use this Sigil of the Ebon Blade to command its obedience. It will recognize the sigil, guaranteed. Lead it back to the top of the rocks northeast of here and it will find its way to me.",
+    "name": "New Recruit",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11658",
+    "description": "Okay, don't panic! The blaster might not've worked, but we still have options.<Crafty snaps her fingers.>We're going to divert attention away from the airstrip! To make this work, we'll need a few things first.<Wobblesprocket looks you up and down appraisingly.>Steeljaw's caravan, just to the west, stupidly took a shortcut through a taunka graveyard and was destroyed by their risen spirits.Head over there and get some outfits off of the dead orcs. Pick up one of their banners, too!",
+    "name": "Plan B",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

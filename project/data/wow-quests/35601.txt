@@ -1,0 +1,8 @@
+{
+    "_id": "35601",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Gnomeregan Reward Quest",
+    "requires_level": 24,
+    "zone": "Quests"
+}

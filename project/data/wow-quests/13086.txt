@@ -1,0 +1,7 @@
+{
+    "_id": "13086",
+    "description": "I've triggered the base's defenses, <class>! Atop each of the Vanguard's four towers is a retractable Argent Crusade cannon, blessed by Father Gustav himself. You'll need to fly up to one of those towers and man a cannon. Use it to destroy the Scourge onslaught that the Lich King has deployed.Just one warning, the Scourge will undoubtedly send their frost wyrms to lay siege to the towers. Shoot them out of the sky! If they destroy the walls and towers of this base, we're done for!",
+    "name": "The Last Line Of Defense",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

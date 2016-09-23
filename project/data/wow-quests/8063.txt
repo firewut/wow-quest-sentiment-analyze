@@ -1,0 +1,7 @@
+{
+    "_id": "8063",
+    "description": "The madcaps of Zandalar are similar to rogues, but above all else they embrace madness... chaos... the unpredictability of existence.  A terror to behold on the battlefield, they sowed the seeds of confusion and mayhem amongst our enemies in the savage times after the tribes splintered.  We would not be here today without them.Bring to me the Paragons of Power from Zul'Gurub that I seek, and I will grant you the first of the madcap's prized armors.  Embrace the madness!",
+    "name": "Paragons of Power: The Madcap's Bracers",
+    "requires_level": 58,
+    "zone": "Quests"
+}

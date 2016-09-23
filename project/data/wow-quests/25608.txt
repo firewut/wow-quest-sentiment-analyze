@@ -1,0 +1,7 @@
+{
+    "_id": "25608",
+    "description": "Victory is possible, <name>.This portal is not just a means of bringing back Cenarius through the dream.  Think about it, <name>.  Once a gateway through the Emerald Dream is open, our forces can use them to move freely from Moonglade, Nordrassil, and even Wyrmrest, to this strategic location.All Ysera needs is time. It'll be up to you to keep the Twilight's Hammer forces in Darkwhisper Gorge from pulling together and attacking us from the east.Take one of the emerald drakes and hit them hard, <name>.",
+    "name": "Slash and Burn",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

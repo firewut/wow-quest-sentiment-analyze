@@ -1,0 +1,7 @@
+{
+    "_id": "13828",
+    "description": "The heart of tournament competition is mounted melee combat. Take this lance and mount the stabled Quel'dorei steed just outside the pavilion.Once you're mounted, seek out Jeran Lockwood. He's on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Jeran will instruct you on how to use your defenses to keep you safe while attacking a melee target at close range.",
+    "name": "Mastery Of Melee",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

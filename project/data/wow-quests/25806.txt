@@ -1,0 +1,7 @@
+{
+    "_id": "25806",
+    "description": "Ah, the Explorers' League - such a profound group of morons. Not only do we have tauren ghosts up our butts, the Explorers' League has also managed to open up a backdoor to the primary Horde base in Stonetalon, Krom'gar Fortress.Now we've got Krom'gar assassins silently executing everyone in the mine.I need you to head in there and clean house.I almost forgot to give you these goggles. Put them on immediately. They'll make all the stealthed assassins in the mine plainly visible.",
+    "name": "They Put the Assass in... Never Mind",
+    "requires_level": 26,
+    "zone": "Stonetalon Mountains"
+}

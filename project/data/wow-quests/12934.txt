@@ -1,0 +1,7 @@
+{
+    "_id": "12934",
+    "description": "I'm not gonna lie to you, pal. You might be overmatched here. This next one is a being from the elemental planes! I don't even know what's gonna show up in that arena!If you think you're up to it, get in there and give 'em hell!",
+    "name": "The Amphitheater of Anguish: From Beyond!",
+    "requires_level": 75,
+    "zone": "Zul'Drak"
+}

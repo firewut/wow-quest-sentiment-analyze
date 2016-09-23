@@ -1,0 +1,8 @@
+{
+    "_id": "27434",
+    "description": "Your time as an apprentice has come to an end, <name>. You are ready to advance to the rank of adept, to become a full blood knight in service to Silvermoon.To honor your accomplishments, the warchief has commissioned his personal smith to forge a weapon for you.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and recover the holy symbol of Commander Springvale, a supply of moonsteel ingots, and sinew from the ghouls and geists there.",
+    "name": "The Adept's Path",
+    "requires_level": 20,
+    "side": "horde",
+    "zone": "Paladin"
+}

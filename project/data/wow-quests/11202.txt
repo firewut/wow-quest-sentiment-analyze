@@ -1,0 +1,7 @@
+{
+    "_id": "11202",
+    "description": "The Forsaken are up to no good and from what I can tell, those plague tanks of sludge are a big part of it.If I may suggest,  sir am;, we should probably destroy them before they can get any more use out of the things. I took the liberty of preparing a bundle of torches from the Ember Clutch. These things have been burning for days!Here, I'm sure you can put them to better use than I in destroying those tanks.",
+    "name": "Mission: Eternal Flame",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

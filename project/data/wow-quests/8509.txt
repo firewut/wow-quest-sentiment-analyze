@@ -1,0 +1,7 @@
+{
+    "_id": "8509",
+    "description": "I'll keep it simple and to the point, <class>. The Alliance needs to collect a large quantity of Arthas' Tears for the Ahn'Qiraj war effort. Don't ask me what for; I'm just following orders. But I'd like you to gather up as many of the herbs as you can and bring them back to me here. Are you willing to do that?",
+    "name": "The Alliance Needs Arthas' Tears!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42403",
+    "added_in_patch": 7,
+    "description": "I've just received word from our scouts that they've identified some potential recruits.It seems as though the famed Hemet Nesingwary has set up camp not too far from our lodge.While he isn't traditionally the type of hunter we'd invite into our ranks, his experience hunting large game could come in handy.Head on over to his retreat and see if he's willing to aid our cause.",
+    "name": "Highmountain Hunters",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

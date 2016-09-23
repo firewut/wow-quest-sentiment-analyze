@@ -1,0 +1,9 @@
+{
+    "_id": "31778",
+    "added_in_patch": 5,
+    "description": "We originally welcomed the Alliance as friends. Several of our villagers volunteered to help them build an airstrip. Only recently, however, did it become clear to us that they were building a war base, within shouting distance of our village.What's worse - I fear that some villagers are being held against their will. If you find them, <class>, let them know that it is time to come home.",
+    "name": "Unreliable Allies",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

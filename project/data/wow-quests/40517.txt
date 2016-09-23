@@ -1,0 +1,9 @@
+{
+    "_id": "40517",
+    "added_in_patch": 7,
+    "description": "I haven't left the deck of this ship since we got back. The fleet must be made ready for war. Don't know where we will be needed, but when the call comes, we'll be ready.Truth be told... I welcome the distraction. The others are paying their respects to Varian, but I... I cannot bring myself to face that casket. To face his son.Varian gave me a letter he wrote to Anduin. Please, take it to him on my behalf.",
+    "name": "The Fallen Lion",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

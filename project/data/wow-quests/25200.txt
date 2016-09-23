@@ -1,0 +1,8 @@
+{
+    "_id": "25200",
+    "description": "That no-good Trade Prince Gallywix somehow managed to stow the whole Steamwheedle Sharks footbomb team away on the yacht. I didn't even see any of them!Now he has them doing his dirty work here at the lumber yard. <name>, you're the  guy  who won the championship for us back home on Kezan. You've got to get rid of them!",
+    "name": "Shredder Shutdown",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26313",
+    "description": "Elementals are chaotic by nature, but dis kind of organized aggression is out of character. More so down here where dere deaths be a bit more permanent. I suspect dis is Therazane the Stonemother's doin', but I have to be sure.Destroy da Irestone Rumblers and bring me their cores. We'll be settlin' here and now if dis is da Stonemother's hatred brought down on us.",
+    "name": "Core of Our Troubles",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

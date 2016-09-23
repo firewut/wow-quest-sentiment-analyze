@@ -1,0 +1,8 @@
+{
+    "_id": "40579",
+    "added_in_patch": 7,
+    "description": "As the greatest warrior in these halls, you require a great weapon to do both your will and mine. I have looked down on Azeroth and found artifacts worthy of your hands.I leave it to you to choose which artifact you wish to seek out and wield against the Legion.  We will recover the others in time.",
+    "name": "Weapons of Legend",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

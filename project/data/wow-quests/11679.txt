@@ -1,0 +1,7 @@
+{
+    "_id": "11679",
+    "description": "Delays, delays... the one thing we cannot afford right now!As much as I hate to disturb Lord Surristrasz, he's our only hope of saving our beloved Evanor.Bring him the key fragments and hope that his mood is favorable.Hurry, <class>, our assault team is waiting.",
+    "name": "Reforging the Key",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

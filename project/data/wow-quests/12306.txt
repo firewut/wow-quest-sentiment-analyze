@@ -1,0 +1,7 @@
+{
+    "_id": "12306",
+    "description": "There is strength in numbers, <name>.  Being part of the \"Brew of the Month\" club means knowing you and your brethren will always have access to the best brew.Bring your \"Brew of the Month\" club membership form to Ray'ma in Orgrimmar.",
+    "name": "Brew of the Month Club",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

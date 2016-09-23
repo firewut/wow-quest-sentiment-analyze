@@ -1,0 +1,7 @@
+{
+    "_id": "11049",
+    "description": "Should you discover any Netherwing eggs while exploring, bring them to me.Be warned, a Netherwing egg is a rare discovery. Do not become frustrated if you cannot locate one. These Dragonmaw have been very thorough in collecting most of them and shipping them off to parts unknown.Eggs might be found on creatures of the island, near crystal formations, in the mines, or even inside a nethercite node or netherdust bush.Keep a low profile. We don't need Mor'ghor catching wind of your actions.",
+    "name": "The Great Netherwing Egg Hunt",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

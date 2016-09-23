@@ -1,0 +1,8 @@
+{
+    "_id": "31023",
+    "added_in_patch": 5,
+    "description": "This strange-looking carving is covered in a complex written language that might be mantid in origin.You notice more relics strewn carelessly among the camps and inside the lake.Perhaps the Klaxxi would be interested in examining these artifacts.Who knows? Perhaps it will earn you some favor.",
+    "name": "Relics of the Swarm",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

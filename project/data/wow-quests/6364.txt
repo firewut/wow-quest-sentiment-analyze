@@ -1,0 +1,8 @@
+{
+    "_id": "6364",
+    "description": "In order to fly to a town, you must have already been there and spoken with the wind rider master of that town.  You have been to the Bloodhoof Village and spoken to their wind rider master Tak, so for a small fee you can take a wind rider to him from here.Speak with me again when you are ready.  Once at Bloodhoof Village, you can then deliver the leather goods to Varg Whisperwind.",
+    "name": "Return to Varg",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Mulgore"
+}

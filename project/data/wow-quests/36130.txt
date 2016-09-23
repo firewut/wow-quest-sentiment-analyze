@@ -1,0 +1,9 @@
+{
+    "_id": "36130",
+    "added_in_patch": 6,
+    "description": "Front and center, <name>! No time to waste, go speak with these fellows and they'll fill you in.",
+    "name": "Reporting For Duty",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Stormshield Stronghold"
+}

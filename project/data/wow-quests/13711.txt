@@ -1,0 +1,7 @@
+{
+    "_id": "13711",
+    "description": "So, you have become a champion? Then, you have proven yourself a worthy combatant and I would proudly welcome you into Silvermoon's delegation.You will train and rise through the ranks as you have before, but when you are named a champion of Silvermoon, your gruntling will have the option of carrying our banner into battle.",
+    "name": "Valiant Of Silvermoon",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

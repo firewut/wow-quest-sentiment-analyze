@@ -1,0 +1,7 @@
+{
+    "_id": "9747",
+    "description": "The naga are terrible, yes.  But even more terrible are the traitor tribes of Broken and Lost Ones that helped them!The worst of all are the Lost Ones of the Umbrafen tribe; they use dark magic to trap and enslave others. They're especially cruel to escaped slaves and would slit my throat if I left the refuge even for a day.Travel to Umbrafen Village south of here and kill them and their leader, Kataru.  Until then I will fear for my life every single day.",
+    "name": "The Umbrafen Tribe",
+    "requires_level": 60,
+    "zone": "Zangarmarsh"
+}

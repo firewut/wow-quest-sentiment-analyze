@@ -1,0 +1,8 @@
+{
+    "_id": "36587",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Twilight Gate Tracking",
+    "requires_level": 1,
+    "zone": "Deepholm"
+}

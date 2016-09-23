@@ -1,0 +1,8 @@
+{
+    "_id": "43268",
+    "added_in_patch": 7,
+    "description": "Archivist Zubashi has been doing a great deal of research on the necropolis we call Acherus.Through his studies on the necropolis, he has located a number of potential improvements that can greatly increase the power of the Ebon Hold.Speak with Archivist Zubashi now and he will show you what improvements can be made.",
+    "name": "Tech It Up A Notch",
+    "requires_level": 101,
+    "zone": "Death Knight Campaign"
+}

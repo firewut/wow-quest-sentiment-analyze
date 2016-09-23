@@ -1,0 +1,8 @@
+{
+    "_id": "34399",
+    "added_in_patch": 6,
+    "description": "The Jorune Mine is in trouble!We recently unearthed an exceedingly large and powerful arcane crystal; however, something has gone terribly wrong and the energy from the crystal is flooding the mine.The Auchenai have already sent their Vindicators into the mine to assist us.Speak with Vindicator Doruu inside of the mine, he'll know how you can help.",
+    "name": "Trouble In The Mine",
+    "requires_level": 95,
+    "zone": "Talador"
+}

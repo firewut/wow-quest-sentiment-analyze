@@ -1,0 +1,8 @@
+{
+    "_id": "32803",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Thunderlord Cache 01",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

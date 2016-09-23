@@ -1,0 +1,7 @@
+{
+    "_id": "24938",
+    "description": "Captain Fisher signaled us from below. The Horde fleet is landing shore parties? We can't let them flank us from the beach.I've already sent two of my best gunners down there to defend the beach head. Talk to Cannoneer Smythe down on the shore.You'll have to fight your way through the courtyard to get there. See if you can help the others secure the hold on your way down!",
+    "name": "The Guns of Northwatch",
+    "requires_level": 28,
+    "zone": "Southern Barrens"
+}

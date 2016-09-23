@@ -1,0 +1,7 @@
+{
+    "_id": "38092",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "Unlock \"Invincible\"",
+    "zone": "Quests"
+}

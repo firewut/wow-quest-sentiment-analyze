@@ -1,0 +1,7 @@
+{
+    "_id": "4488",
+    "description": "Ah, <name>, you've seen fit to grace us with your presence. How wonderful!I hope you do not expect us to wait on you hand and foot also. You may be growing quickly in power, but you still are a pup when it comes to true knowledge and understanding. If you're not careful, corruption will overwhelm you and your weak will.But I should get to the point: Strahad wishes to speak to you. He is still residing in his tower overlooking Ratchet in the Barrens. I suggest not taking too long.",
+    "name": "Summon Felsteed",
+    "requires_level": 40,
+    "zone": "Warlock"
+}

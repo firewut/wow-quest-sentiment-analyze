@@ -1,0 +1,7 @@
+{
+    "_id": "10666",
+    "description": "Recreating the enchantments on the blade requires several spells to be spoken in demonic.It's not something I was taught during my training as an apprentice, but there's no way around it. There's a book, called the Lexicon Demonica, that will provide most of the words I need, but it's in the hands of a powerful Shadow Council warlock.Deep in the halls of Auchindoun's Shadow Labyrinth, it is held by Grandmaster Vorpil. Do whatever you must to secure the book and bring it to me. ",
+    "name": "The Lexicon Demonica",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

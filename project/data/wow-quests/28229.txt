@@ -1,0 +1,7 @@
+{
+    "_id": "28229",
+    "description": "The ancient protectors of Irontree Woods to the north have been dead for years, their bodies a grim symbol of the damage to these lands.Every season, we take the water from this moonwell, and pour it on the ground before them, hoping it will nurture new life. If you'd like, you can deliver the water yourself.It is an excellent opportunity for reflection. Take this vial and fill it at the moonwell, and pour it on the very top of the small hill between the three ancients.",
+    "name": "Nature and Nurture",
+    "requires_level": 46,
+    "zone": "Felwood"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40143",
+    "added_in_patch": 7,
+    "description": "Tucked between the folds of this animal's hide, you find a scrap of paper. It appears to be a handwritten guide to harvesting stormscales, but too much of the manuscript has been lost to be of use.Perhaps your skinning trainer in Dalaran could help you find its owner.",
+    "name": "Unfinished Treatise on the Properties of Stormscale",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

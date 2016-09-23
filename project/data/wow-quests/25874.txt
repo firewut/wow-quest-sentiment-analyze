@@ -1,0 +1,7 @@
+{
+    "_id": "25874",
+    "description": "Here lies the broken body of the Freewind Post lorekeeper, Montarr. The aged tauren's body is broken, lying in a pool of his own blood.A trail of droplets leads back to the inn....",
+    "name": "Horn of the Traitor",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

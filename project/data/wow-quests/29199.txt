@@ -1,0 +1,7 @@
+{
+    "_id": "29199",
+    "description": "We suffered heavy losses during the backdraft after our invasion attempt. Our second attempt cannot fail.We need reinforcements before we attempt another invasion. Please, <name>, work with Matoclaw to obtain enough resources to afford reinforcements. Then, we take our second and final stab at the Firelands.",
+    "name": "Calling for Reinforcements",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

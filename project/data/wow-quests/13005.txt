@@ -1,0 +1,7 @@
+{
+    "_id": "13005",
+    "description": "For years I neglected my duties, giving into defeat and self-pity.Not the brave earthen, however.  Their oath to protect these grounds with their lives has gone unbroken.Even now, they fight the corruption of iron with selflessness, waiting for the moment in which the tides turn.That moment has arrived.  We must rally what remains of the earthen defenders and lead them into a glorious victory.  Sound the Horn of the Peaks to call them to your side and take back the Terrace of the Makers.",
+    "name": "The Earthen Oath",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

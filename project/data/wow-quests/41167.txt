@@ -1,0 +1,8 @@
+{
+    "_id": "41167",
+    "added_in_patch": 7,
+    "description": "Brann Bronzebeard has requested that I send him more surveying equipment, but I just don't have the time.Would you be a dear and take this crate to him, <name>? I'd truly appreciate it.",
+    "name": "Fel Fragments",
+    "requires_level": 110,
+    "zone": "Archaeology"
+}

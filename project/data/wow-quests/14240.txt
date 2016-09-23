@@ -1,0 +1,8 @@
+{
+    "_id": "14240",
+    "description": "I sent Scout Brax forward along the road to the cliffs overlooking the beach to the west.I am going to put you onto Bastia. Travel down the path and let Brax know that we are going to take a different route.We'll see you at the attack on the Alliance beachhead!",
+    "name": "To the Cliffs",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

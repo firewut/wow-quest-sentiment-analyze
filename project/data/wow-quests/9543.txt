@@ -1,0 +1,8 @@
+{
+    "_id": "9543",
+    "description": "Our history with the orcs is one of constant conflict, <name>.  We were once near driven to extinction due to their bloodlust and have since then avoided them even when not under demonic influence.Yet, this retaliation... it's not what Sedai would've wanted.  Speak with our elder, Amaan the Wise.  He will help shed light on these events.",
+    "name": "Atonement",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

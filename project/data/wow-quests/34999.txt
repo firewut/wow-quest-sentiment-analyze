@@ -1,0 +1,8 @@
+{
+    "_id": "34999",
+    "added_in_patch": 6,
+    "description": "The blood of the dead god, Sethe, lingers in the pools here. And with it, his hatred of Rukhmar and Anzu.So strong was this hate that it animates the blood even now, eons after he was slain by his fellow gods.I need the congealed blood that holds those spiteful creatures together.There is nothing the Adherents fear more than the power of this curse - what if we could brandish it against them?",
+    "name": "Hatred Undying",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

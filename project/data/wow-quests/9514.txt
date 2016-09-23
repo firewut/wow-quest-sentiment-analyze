@@ -1,0 +1,7 @@
+{
+    "_id": "9514",
+    "description": "You cannot make out any of the symbols on the tablet. Perhaps the priestess would be able to decipher the mysterious runes.",
+    "name": "Rune Covered Tablet",
+    "requires_level": 6,
+    "zone": "Azuremyst Isle"
+}

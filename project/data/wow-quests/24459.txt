@@ -1,0 +1,7 @@
+{
+    "_id": "24459",
+    "description": "You may have heard of the Venture Company. They are a goblin \"cartel\", something like a tribe.While one of these cartels has joined us in the Horde, the Venture Company is loyal only to greed. These greedy goblins and their workers have tried to exploit the resources of Mulgore before, to little success.One of our outrunners, Morin Cloudstalker, has gone to check the remains of one of the goblin caravans. If you wish to help him, follow the road out of the village to the east.",
+    "name": "Morin Cloudstalker",
+    "requires_level": 6,
+    "zone": "Mulgore"
+}

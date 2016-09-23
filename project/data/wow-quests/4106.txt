@@ -1,0 +1,7 @@
+{
+    "_id": "4106",
+    "description": "",
+    "name": "Salve via Skinning",
+    "requires_level": 48,
+    "zone": "Felwood"
+}

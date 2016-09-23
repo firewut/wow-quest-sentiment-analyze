@@ -1,0 +1,7 @@
+{
+    "_id": "13821",
+    "description": "Freya's Sigil is going to be one of the tougher ones, I reckon.According to the Archivum, the essence of the Sigil is tied to her three elder servants, Brightleaf, Ironbranch and Stonebark.  Should any of the elders be harmed, the Sigil's integrity will be compromised.Sparing the elders, however, means that Freya will be more powerful when you face her.What can I say, <name>.  We're stuck between a rock and hard place.",
+    "name": "Heroic: Freya's Sigil",
+    "requires_level": 80,
+    "zone": "Quests"
+}

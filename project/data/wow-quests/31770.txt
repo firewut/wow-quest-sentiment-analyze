@@ -1,0 +1,9 @@
+{
+    "_id": "31770",
+    "added_in_patch": 5,
+    "description": "The assistance of the nearby village has now become a necessity, $p.We will need to use the village to regroup and tend to our wounded.Perhaps the villagers will join our cause after seeing the brutality unleashed by the alliance.You will act as envoy for the Horde. Ensure the cooperation of their leader. Do not disappoint me!",
+    "name": "You're Either With Us Or...",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

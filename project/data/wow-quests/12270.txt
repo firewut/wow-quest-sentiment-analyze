@@ -1,0 +1,7 @@
+{
+    "_id": "12270",
+    "description": "Read my lips, <class> - I need those shredders! Just as important - I need to keep them out of the hands of the Alliance!They've been refurbishing the shredders and using them against our brothers in Venture Bay. Now we're going to give them a taste of their own medicine!You see a shredder out there, grab it! You see one of the Alliance scum on one, kill 'em and then grab it! Once you have one, drive it back here to me and we'll get to work on it.Dismissed!",
+    "name": "Shred the",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "33728",
+    "added_in_patch": 6,
+    "description": "Excellent, excellent! I'll make sense of these manual pages and will get the Iron Shredder operational immediately!\r\n\r\nWhile I do that, take a look through my Eye 'n' Ear. That's where you'll be headed soon!",
+    "name": "An Eye for a Spy",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40058",
+    "added_in_patch": 7,
+    "description": "As you know, <name>, we demon hunters must keep our darkness at bay, lest we succumb to it and become demons ourselves.Up to the north, a demon hunter by the name of Baric Stormrunner is preparing to strengthen his markings. He could use your assistance with his ritual.",
+    "name": "Defense Symbology",
+    "requires_level": 102,
+    "zone": "Inscription"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11665",
+    "description": "Hello lad.  I'm glad you've stopped by to talk to this old man--there's trouble back home.A traveling merchant recently sold a batch of baby crocolisks to some gullible children.  Crocolisks are wild beasts, and many have escaped and now lurk in city waterways.Grab your strongest fishing pole and drop a line in Stormwind or Orgrimmar and bring one of the little devils back to me.  I'm anxious to see one.",
+    "name": "Crocolisks in the City",
+    "requires_level": 70,
+    "zone": "Fishing"
+}

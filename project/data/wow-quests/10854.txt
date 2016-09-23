@@ -1,0 +1,7 @@
+{
+    "_id": "10854",
+    "description": "Take this enchanted nethervine crystal and make your way back to Dragonmaw Fortress. Once there, seek out the enslaved drakes and invoke the magic of the nethervine crystal. My own energies will pour forth, causing the drakes to break free from the bond of their captors. When you see that the drake has broken free, help it defeat its captor! It will most assuredly be weak from the imprisonment.Release all that you can find and return to me, <name>.",
+    "name": "The Force of Neltharaku",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

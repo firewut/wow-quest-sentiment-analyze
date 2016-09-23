@@ -1,0 +1,7 @@
+{
+    "_id": "12510",
+    "description": "<The hexxer examines the decanter of mojo.>I have an idea for how to deal with the prophet of Sseratus. But first, we're going to need some things.The Drak'Sotra Fields are directly to the south. Because of the stresses on the land from the Scourge and the deaths of gods, the wall between worlds has weakened and the elementals are flooding in.We need the precious fluids of their lords. If you combine three links from the elementals a tether will be made, and one of their lords can be summoned.",
+    "name": "Precious Elemental Fluids",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

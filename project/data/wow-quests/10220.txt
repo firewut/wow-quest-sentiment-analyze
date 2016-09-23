@@ -1,0 +1,8 @@
+{
+    "_id": "10220",
+    "description": "I was sent here to make contact with the Unyielding spirits.  These once proud Alliance soldiers were defeated long ago, and now their cursed spirits haunt the ruins to the west.  If they would only join us we would gain a powerful ally.  Imagine, a legion of undying warriors to use against our enemies.  But these undead are mad with hatred and will not listen to me.  Perhaps they can be forced to join us.  ",
+    "name": "Make Them Listen",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

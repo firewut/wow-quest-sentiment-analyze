@@ -1,0 +1,7 @@
+{
+    "_id": "29101",
+    "description": "Baby turtles are sweet, even if they can be somewhat bitey.<Mylune holds up a bandaged finger.>But they're so slow with their tiny little legs, they can't escape the fire creatures who are attacking Hyjal!<Mylune claps her hands together.>PLEASE save them, <name>! Pick up the wee turtles and punt them into the water of the Ashen Lake. Don't worry about the kicking, they have hard shells.They also have hard teeth, so don't pick them up by the mouth.",
+    "name": "Punting Season",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

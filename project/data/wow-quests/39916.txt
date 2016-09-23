@@ -1,0 +1,8 @@
+{
+    "_id": "39916",
+    "added_in_patch": 7,
+    "description": "Enchantress Ilanya remembers me?<The satyr pauses to wipe a tear away.>I made a fool's bargain ten millennia ago. I learned of the queen's alliance with the Legion and betrayed my heart to join their side. I was transformed into a monstrosity, only to die in battle against the mortals.Now the Legion returns, but I linger as an impotent spirit. Be my vessel and slay the demons ahead of us. Take their demonic runes and render them to dust.",
+    "name": "Turnabout Betrayal",
+    "requires_level": 108,
+    "zone": "Enchanting"
+}

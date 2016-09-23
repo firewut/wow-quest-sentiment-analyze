@@ -1,0 +1,7 @@
+{
+    "_id": "25954",
+    "description": "Look--<name> is it?--I need your help. I know most everyone in this cave thinks that we're not in a position to be worrying about anything but our own hides right now, but I cannot dismiss my ancestors so readily.This was one of the royal cities of the elves in the days when Azshara was queen. In this city lie the keys to lore long lost and artifacts of unimaginable historical value. All I want from you, while you're out in the city proper, is to keep a watchful eye out for objects of significance.",
+    "name": "An Occupation of Time",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

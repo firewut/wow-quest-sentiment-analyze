@@ -1,0 +1,7 @@
+{
+    "_id": "27647",
+    "description": "Look, buddy. Either you're here to help me find some drink, or you're in the way.Why don't ya go down to the old storehouse and look downstairs. I had a mighty suspicion that ol' bookkeeper up in there was sneaking sips between pages. I bet he has a keg in his basement!If ya find anything, come straight back to me! No dallyin'... this is urgent!",
+    "name": "Anything But Water",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

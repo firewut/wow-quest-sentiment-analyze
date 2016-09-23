@@ -1,0 +1,7 @@
+{
+    "_id": "25544",
+    "description": "You've stirred up the hornets, <name>. The ceiling is coming down on us! And their strongest fighters are taking wing on creatures warped and twisted by this world of flame.Get back out there and take them down! Watch out for flaming boulders.",
+    "name": "Wave Two",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

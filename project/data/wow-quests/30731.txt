@@ -1,0 +1,8 @@
+{
+    "_id": "30731",
+    "added_in_patch": 5,
+    "description": "Most of the duels within the Cradle take place between two trainees. Rarely, when a trainee exhibits a rare amount of skill, they will have an opportunity to duel their trainer.Today, you duel against Kuo-Na. She will be waiting for you at the Pedestal of Hope.",
+    "name": "Kuo-Na Quillpaw",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

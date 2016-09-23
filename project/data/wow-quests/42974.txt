@@ -1,0 +1,8 @@
+{
+    "_id": "42974",
+    "added_in_patch": 7,
+    "description": "It is time, <name>. Go to Azsuna and use the captured gateway to travel to Niskara and find Hodir.The Legion will regret they set foot on Azeroth!",
+    "name": "The Fate of Hodir",
+    "requires_level": 110,
+    "zone": "Warrior Campaign"
+}

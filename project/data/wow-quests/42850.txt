@@ -1,0 +1,8 @@
+{
+    "_id": "42850",
+    "added_in_patch": 7,
+    "description": "Alamande Graythorn is well known among scholars of the Light.He has long since retired from battle, but his mind is sharp as ever. I wouldn't be surprised if he could take a bout or two in a duel, either.Speak to him and see if he has any knowledge to share regarding the improvement of our order hall.",
+    "name": "Tech It Up a Notch",
+    "requires_level": 101,
+    "zone": "Paladin Campaign"
+}

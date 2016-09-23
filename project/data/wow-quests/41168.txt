@@ -1,0 +1,8 @@
+{
+    "_id": "41168",
+    "added_in_patch": 7,
+    "description": "Now that we're re-supplied, we can get back ta work.I found something here that I think ye'll be interested in. It's a page of a book talking about the world of Argus. But before the demons destroyed it.Anyway, it's been me experience that if ye find one of something, there's sure ta be more of it around.Keep lookin' around Val'sharah for more of these pages and bring what ye find back ta me. And take the page I found with ya so ye know what yer lookin' fer.",
+    "name": "The Purple Hills of Mac'Aree",
+    "requires_level": 110,
+    "zone": "Archaeology"
+}

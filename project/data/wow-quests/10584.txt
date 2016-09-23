@@ -1,0 +1,7 @@
+{
+    "_id": "10584",
+    "description": "Those dumb ogres at the Bladespire Outpost to the north have been raiding our power converters!  And you're going to get them back for me, sort of.No doubt, with their big, clumsy hands, the ogres have damaged the converters.  So, what I want you to do is release the energy from them and then use this protovoltaic magneto collector on the resultant electromental to encase it.It'll likely be sore with you, so you'll need to 'kill' it while it's contained in the magneto sphere.",
+    "name": "Picking Up Some Power Converters",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40183",
+    "added_in_patch": 7,
+    "description": "Alright, <name>, I'd like you to assist me with creating a helm.First we'll need to shave the hides, then tan them, and finally cut them into usable pieces.Follow my lead.",
+    "name": "Over Your Head",
+    "requires_level": 98,
+    "zone": "Leatherworking"
+}

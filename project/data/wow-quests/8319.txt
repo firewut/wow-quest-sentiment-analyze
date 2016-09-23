@@ -1,0 +1,7 @@
+{
+    "_id": "8319",
+    "description": "",
+    "name": "Encrypted Twilight Texts",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

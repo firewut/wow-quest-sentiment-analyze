@@ -1,0 +1,7 @@
+{
+    "_id": "28502",
+    "description": "Our law demands that those behind this attack face proper retribution.The band of bandits' ringleader is a man known as Warlord Ihsenn.You will find him in the far west of the desert.  Make sure his transgressions do not go unpunished.",
+    "name": "The Bandit Warlord",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

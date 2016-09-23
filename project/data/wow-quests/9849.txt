@@ -1,0 +1,7 @@
+{
+    "_id": "9849",
+    "description": "<Gordawg breaks off a piece of ebon rock from his back.>You are granted a piece of the fury of the earth. Take the boulder of Gordawg and hurl it at the poison rock. Shatter their shells to discover the truth. Destroy the minions of the usurper and return to Gordawg with the name.You find the shattered elements at the edge of the world. Southwest.",
+    "name": "Shattering the Veil",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

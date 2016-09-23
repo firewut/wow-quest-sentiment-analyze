@@ -1,0 +1,7 @@
+{
+    "_id": "12625",
+    "description": "Behold, Acherus, the grand citadel of death! It has no equal in this world! Not even the mighty Naxxramas could withstand a direct assault from the Ebon Hold.Though your thoughts may still be hazy, we haven't a moment to spare. You must claim dominion over Acherus and your mind! The horns of war surge!Take the stairs on this floor - located north, south, east and west - to the garrison floor above us. Seek out Master Siegesmith Corvus and acquire his status report. It must be delivered to Thalanor.",
+    "name": "Dominion Over Acherus",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

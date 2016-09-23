@@ -1,0 +1,7 @@
+{
+    "_id": "29172",
+    "description": "<Bloodslayer T'ara eyes you for a moment.>After de fall of Hakkar, de city of de Gurubashi fell into disrepair, and de jungle claimed most of Zul'Gurub for its own. Some powerful beasts now be livin' in da cracks an' hollows of de ancient city. We seen de powers dem Gurubashi priests wield - dey turn de very plantlife against us wit' venomous concoctions. You tink you be strong? Dispose of dese beasts, before dey become mindless agents of Jin'do.",
+    "name": "The Beasts Within",
+    "requires_level": 85,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9895",
+    "description": "Have you observed your surroundings closely, <name>? This is an ailing landscape, struggling to keep itself in balance and losing the fight.If you know where to look, you can see the symptoms. Members of some species rapidly outgrow their peers and become more aggressive.A good example of this uncontrolled growth is the marshtrekker Boglash. If you wish to see it for yourself, look no further than the waterways south of the refuge.Be prepared to defend yourself. The creature knows no mercy.",
+    "name": "The Dying Balance",
+    "requires_level": 60,
+    "zone": "Zangarmarsh"
+}

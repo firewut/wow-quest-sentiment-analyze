@@ -1,0 +1,7 @@
+{
+    "_id": "11436",
+    "description": "Navigating the steep bluffs of Howling Fjord can be nerve-racking! I've come up with a solution to ease that burden by utilizing vrykul technology and dwarven ingenuity. With just a few adjustments and some fine tuning I've created Icehammer's harpoon controller! Of course it hasn't been tested, but that's what you're here for!Take the controller to the big gun in Nifflevar and use it to launch yourself into Valgarde. Report your victory to Zorek. Oh yea, you can keep the controller.",
+    "name": "Let's Go Surfing Now",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

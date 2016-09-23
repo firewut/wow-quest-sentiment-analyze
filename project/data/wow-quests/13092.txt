@@ -1,0 +1,7 @@
+{
+    "_id": "13092",
+    "description": "One of the benefits of possessing this creature is that I have access to all of her powers. As a bone witch and rune reader, she has the power to throw the bones and determine one's fate.<The Bone Witch smirks.>Lucky for you and I that I have it within my power to influence those readings.Bring me the bones of the vrykul that you kill here in Jotunheim and I will toss them to allow you to determine your own fate.",
+    "name": "Reading the Bones",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

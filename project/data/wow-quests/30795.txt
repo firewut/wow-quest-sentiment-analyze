@@ -1,0 +1,8 @@
+{
+    "_id": "30795",
+    "added_in_patch": 5,
+    "description": "The Tongue of Ba-Shon should allow us to communicate from long distances, <name>.If the relic works the way I think it will, I should be able to stay here and continue my meditations while you do some scouting in the Valley of Emperors.Mishi will take you to the edge of the valley so that we can test my theory. I would hate for you to be in the tombs with no way to contact me. That would be horrible!",
+    "name": "Staying Connected",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

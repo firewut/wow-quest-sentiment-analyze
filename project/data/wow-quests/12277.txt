@@ -1,0 +1,8 @@
+{
+    "_id": "12277",
+    "description": "If there is good in your heart and your conscience is clear, read on.In this mine, near the foreman's scaffold, rests a hefty cargo of dynamite. Go there and pick up several bundles of the explosive and make your way towards the entrance of the mine. Once there, set the dynamite and blow up the entrance. Remember to do this for the upper and lower entry points of Wintergarde Mine.You must leave nothing to chance. The evil that exists here must never be allowed out. Light guide you.",
+    "name": "Leave Nothing to Chance",
+    "requires_level": 71,
+    "side": "alliance",
+    "zone": "Dragonblight"
+}

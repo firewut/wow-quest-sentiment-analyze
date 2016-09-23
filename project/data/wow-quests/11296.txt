@@ -1,0 +1,7 @@
+{
+    "_id": "11296",
+    "description": "Something, most likely the walking dead known as the Scourge, has agitated the creatures hereabouts.While escorting the sage here, we lost most of our hunting force to the riven widows -- huge and deadly spiders, which inhabit the Rivenwood to the north.I must stay here to protect the small force we have left, but you... you could see if my longrunners are still alive, trapped within the riven widow's cocoons.Would you do this, stranger?",
+    "name": "Rivenwood Captives",
+    "requires_level": 70,
+    "zone": "Howling Fjord"
+}

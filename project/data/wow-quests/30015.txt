@@ -1,0 +1,9 @@
+{
+    "_id": "30015",
+    "added_in_patch": 5,
+    "description": "Blood and Thunder! My axe hungers!We won't return to Orgrimmar until every last Alliance is purged from this land.I will train these natives myself, if I have to. One way or another, this land will be made ready for Horde settlement.In the meantime, their chief gave me this to pass on to you - a map and a message in some fancy script.Do what you must, but be quick about it.War is brewing...",
+    "name": "Dawn's Blossom",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "The Jade Forest"
+}

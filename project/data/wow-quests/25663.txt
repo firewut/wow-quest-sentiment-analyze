@@ -1,0 +1,7 @@
+{
+    "_id": "25663",
+    "description": "Although the guardian of all winged creatures is no longer with us in body, I sometimes hear her voice in the whisper of swaying leaves.<name>, we ask much of you as you set out to preserve this mountain. Before going on, take a moment to reflect.Take this offering of nectar to Aviana's burial circle, a circle of stones just outside the main door of the shrine. Perhaps some time alone with Aviana's memory will help sharpen your focus.",
+    "name": "An Offering for Aviana",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9362",
+    "description": "There isn't much time, <name>!  My scrying spells have revealed a powerful source of magic.  I cannot leave the tower, and would ask you to kill the vile creature in possession of this artifact.The pathetic little cretin is known as Warlord Krellian, hiding behind his guards in the Temple of Zin-Malor.  Burn him to ashes and take the prismatic shell he covets so dearly.",
+    "name": "Warlord Krellian",
+    "requires_level": 60,
+    "zone": "Mage"
+}

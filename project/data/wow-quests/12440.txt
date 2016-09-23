@@ -1,0 +1,7 @@
+{
+    "_id": "12440",
+    "description": "When you are ready I will place you on my fastest gryphon to Stars' Rest. Once you get there, find and speak with Archmage Modera.Good luck, ally!",
+    "name": "To Stars' Rest!",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

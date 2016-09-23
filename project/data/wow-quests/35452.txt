@@ -1,0 +1,8 @@
+{
+    "_id": "35452",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Utgarde Pinnacle - Bonus Objective Reward",
+    "requires_level": 77,
+    "zone": "Quests"
+}

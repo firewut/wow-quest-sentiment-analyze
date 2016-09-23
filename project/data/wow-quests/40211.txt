@@ -1,0 +1,8 @@
+{
+    "_id": "40211",
+    "added_in_patch": 7,
+    "description": "Something we haven't really explored yet, <name>, are the creatures of Suramar. Specifically, the demons.Now I certainly don't praise what they are, but you can't ignore the fact that some of their creatures have especially tough hides.We could take a lesson from the demon hunters and use those hides to our advantage against the demons. I'll be damned though if I know the first thing about working with demon hide.Perhaps there's someone in Suramar who can help...",
+    "name": "Demon Flesh",
+    "requires_level": 110,
+    "zone": "Leatherworking"
+}

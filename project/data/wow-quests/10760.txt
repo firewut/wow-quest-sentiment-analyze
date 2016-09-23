@@ -1,0 +1,7 @@
+{
+    "_id": "10760",
+    "description": "The Sketh'lon Wreckage, just to the east, is an eerie place. The peons are convinced that it's cursed.There are few trees here, so the peons have no choice but to venture into the arakkoa ruins to chop wood. The arakkoa spirits prey on the work groups, draining their life and using it to fuel their foul magics.We must find out what is driving the dark conclave and stop them before their influence expands. Search the Sketh'lon Wreckage for evidence of their plans.",
+    "name": "The Sketh'lon Wreckage",
+    "requires_level": 67,
+    "zone": "Shadowmoon Valley (Outland)"
+}

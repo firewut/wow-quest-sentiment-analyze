@@ -1,0 +1,7 @@
+{
+    "_id": "12808",
+    "description": "Good <name>, the Lich King plagues us --  both Horde and Alliance -- with disease and invasion.  Only by joining our strengths can the two great cultures of Azeroth survive against his assault.In Shattrath, in the Terrace of Light, that alliance has been struck.  To aid our struggle against the Lich King, go to the new Alliance camp in the Terrace of Light and speak with Bishop Lazaril.Light speed, <name>.",
+    "name": "A Desperate",
+    "requires_level": 65,
+    "zone": "Quests"
+}

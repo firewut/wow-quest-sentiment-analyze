@@ -1,0 +1,8 @@
+{
+    "_id": "7383",
+    "description": "You must now visit the moonwell that rests under the boughs of the Oracle Tree, far to the northwest. The first and most powerful of our wells, its waters are said to possess the very essence of Elune's Powers.Retrieve a phial of its water and return to me. I will meet you at the crossroads in front of Darnassus when your task is complete.",
+    "name": "Teldrassil: The Burden of the Kaldorei",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

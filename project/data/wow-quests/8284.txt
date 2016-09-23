@@ -1,0 +1,7 @@
+{
+    "_id": "8284",
+    "description": "A camp of Twilight's Hammer cultists once thrived northwest of here.  If you were to venture there now, you'd find the area swarming with elementals and nothing but scattered pieces of wood and canvas to mark the spot where the camp was.I've recovered a few fragments of a clay tablet from the site, but I have too few of them to piece together anything useful.  See if you can find the remaining tablet fragments so we can shed some light into the Twilight's Hammer presence here in Silithus.",
+    "name": "The Twilight Mystery",
+    "requires_level": 54,
+    "zone": "Silithus"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42964",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "DANGER: Lagertha",
+    "requires_level": 110,
+    "zone": "Stormheim"
+}

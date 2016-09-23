@@ -1,0 +1,9 @@
+{
+    "_id": "34697",
+    "added_in_patch": 6,
+    "description": "If your troops are going to learn to fight people you better get people to fight! And they better be good.Ever hear of Kash'drakor?He's a big famous Frostwolf orc warrior type that tried to kill us Skulls. He would have won too, if the ogres hadn't snatched him.To the north is the Stonemaul Arena where they took him and a bunch of other big bad mean fighter gladiators.If you can find a way to free them, they could be the best trainers you could hope for.",
+    "name": "A Rediscovered Legend",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11526",
+    "description": "We sent one of our operatives to investigate the fel portal in the middle of Dawning Square, south of here.  She never returned.Take this scroll we found on one of the enemy corpses.  We believe it will grant you access through the portal.  Once through, find Magistrix Seyla and aid her in any way you can.",
+    "name": "The Missing Magistrix",
+    "requires_level": 70,
+    "zone": "Isle of Quel'Danas"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35006",
+    "added_in_patch": 6,
+    "description": "There are others from the caravan that have gone missing.My guess is they have been taken into Blademoon Bloom by the botani.You have to rescue them, <name>. You are our only hope.Here, take some of this elixir I just made, chances are you will need it.",
+    "name": "Poison Paralysis",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26440",
+    "description": "<A miniscule elemental seems to have taken a liking to you.>Caris... carstr... crystal? <Pebble looks up at you expectantly.><You did notice a very large crystal formation towards the middle of the Shuddering Spires. Perhaps you should take him there?>",
+    "name": "Clingy",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "37853",
+    "added_in_patch": 7,
+    "description": "I will do what I can to stabilize him, but I will need your help.The small amount of energy he has left is coming from the mana pool he rests in.Follow the whelplings' lead. Dropping ley crystals into the pool gives him a bit of energy - buying him a few more breaths.They seem to be getting the crystals from inside that cave to the north.",
+    "name": "The Death of the Eldest",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31378",
+    "added_in_patch": 5,
+    "description": "The Temple of the Red Crane still reels from the aftermath of the sha's presence, and has only recently gathered to rebuild and retrain its warriors.If you wish to help at the temple, speak to Thelonius at the Cradle of Chi-Ji.",
+    "name": "Challenge At The Temple of the Red Crane",
+    "requires_level": 90,
+    "zone": "Krasarang Wilds"
+}

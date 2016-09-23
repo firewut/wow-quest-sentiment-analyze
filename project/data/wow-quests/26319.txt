@@ -1,0 +1,8 @@
+{
+    "_id": "26319",
+    "description": "There is a shaman here, Thoralius, who might be able to aid us. He is a friend of Gryan's who has recently come to Westfall to study the elemental devastation that has befallen us.Speak to Thoralius and see if there is something that he can do to shed some light on the identity of this shadowy figure.",
+    "name": "Secrets Revealed",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Westfall"
+}

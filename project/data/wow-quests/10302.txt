@@ -1,0 +1,7 @@
+{
+    "_id": "10302",
+    "description": "The irradiated power cores from the Exodar have been wreaking havoc on the environment here. The most obvious effect has been the appearance of the strange creatures that seem to have sprung up near them.There may be something we can do to help them, but now, their sheer numbers are becoming too much for us to handle.I'd like you to go out and cull their numbers somewhat, and perhaps I'll have another idea after giving it some thought.",
+    "name": "Volatile Mutations",
+    "requires_level": 1,
+    "zone": "Ammen Vale"
+}

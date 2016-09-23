@@ -1,0 +1,7 @@
+{
+    "_id": "12219",
+    "description": "My ancestors once planted a tree in the middle of the Grizzly Hills.It was called Vordrassil and it was to become a world tree.For reasons long forgotten, after the tree was fully grown, they decided it needed to be destroyed.  Its giant trunk splintered at three locations in the area to the north.Where the tree touched the ground, foul ooze began to crawl the earth.  Bring me slime samples so I can begin my work and the earth can be healed.",
+    "name": "The Failed World Tree",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

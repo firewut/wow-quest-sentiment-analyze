@@ -1,0 +1,8 @@
+{
+    "_id": "42824",
+    "added_in_patch": 7,
+    "description": "Sometimes the line between hero and villain is nothing more than perception. As High Inquisitor, Sally Whitemane saw herself as a champion of humanity in the war against the scourge. Yet under her leadership the Scarlet Crusade slew the living along with the undead.Death can bring a silent peace to the soul, but not for Sally Whitemane. Her death is one of regret and unrest.We will offer her the chance to atone for her crimes. The price will be high, but I have little doubt she will pay it.",
+    "name": "The Zealot Rises",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "24680",
+    "description": "We might've lost our city, but at least it looks like the dead have forgiven us.Meet with the rest of the survivors in Keel Harbor.I'm sure there's plenty to do before we're in the clear.  Genn hasn't arrived yet, so I suppose Lord Crowley will be in charge there.",
+    "name": "Keel Harbor",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27293",
+    "description": "With the activities of the Grimtotems in Thousand Needles brought to light, many tauren now regard them with suspicion.  We've seen high-ranking Grimtotems engage in murder and kidnapping to advance their interests and I fear we may become their next target.Blackhoof Village, to the northeast, near Bluefen, is a large new Grimtotem settlement. Their leaders, the elders, will all have orders from Thunder Bluff. See if you can capture the orders and piece them together to learn the Grimtotems' plans.",
+    "name": "The Grimtotem Plot",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

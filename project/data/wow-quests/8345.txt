@@ -1,0 +1,7 @@
+{
+    "_id": "8345",
+    "description": "Day after day I stand here, watching, waiting.  I've been accused of dwelling too much on our past, while my eyes look to the horizon.  But it is my firm belief that each visitor to this island should honor those who have sacrificed all so that they may continue to do so.Dath'Remar Sunstrider was our first king.  He led us here from Kalimdor through the Maelstrom.Seek out his shrine to the west and do not return to me until you have read the plaque upon it in his honor.",
+    "name": "The Shrine of Dath'Remar",
+    "requires_level": 2,
+    "zone": "Sunstrider Isle"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35212",
+    "added_in_patch": 6,
+    "description": "Since yer all set up to take on trees and bushes now, I need ta ask for a favor.I came to Gorgrond in search of an expedition of me fellow Dark Irons that were headed this way. Sadly I lost 'em.I am goin' south to look for them. Thing is, south is nothing but botani, podlings, giant trees, and other mean, angry plants.Yer lumber camp resources would be mighty appreciated. If ya help me look for me friends I swear we'll help ya in any way we can.",
+    "name": "Deeproot",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

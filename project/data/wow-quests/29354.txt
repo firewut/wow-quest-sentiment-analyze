@@ -1,0 +1,8 @@
+{
+    "_id": "29354",
+    "description": "One of a fisher's most simple and effective tools is the shiny bauble; affixed to a line, even the most novice angler has a chance at a catch.With all the fishing going on of late, though, Thunder Bluff is in woefully short supply!Might I ask you to collect shiny stones from around the base of the central rise? Bring them to Nahari Cloudchaser so that she might craft more shiny baubles with them.",
+    "name": "Shiny Baubles",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Fishing"
+}

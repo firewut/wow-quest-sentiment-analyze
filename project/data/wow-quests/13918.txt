@@ -1,0 +1,7 @@
+{
+    "_id": "13918",
+    "description": "Now that we have the disc, a lot of our earlier finds are starting to make sense. Shortly after my arrival, Prospector Remtravel unearthed what he presumed to be a prehistoric toaster.It's my belief that this slotted box is some sort of data reader. Unfortunately, it broke apart and washed away with the rest of our base camp when the tidal wave struck!It can't have gone far, <name>. Pieces must be buried in the nearby sand. Here, use my trusty buried artifact detector to comb the beach for them.",
+    "name": "The Titans' Terminal",
+    "requires_level": 16,
+    "zone": "Darkshore"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25757",
+    "description": "If we're going to get those oil drilling rights, we need to know what the Alliance is offering. How can we win if we can't do them one better?!Their negotiator, Kravel Koalbeard, is up there talking with one of their khans right now. Why don't you head up and persuade him to hand over the Alliance's proposal?You don't have to kill him... we're not savages! Just rough him up a bit.",
+    "name": "Get Koalbeard!",
+    "requires_level": 38,
+    "side": "horde",
+    "zone": "Thousand Needles"
+}

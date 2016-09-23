@@ -1,0 +1,8 @@
+{
+    "_id": "40878",
+    "added_in_patch": 7,
+    "description": "Hobart was showing me a copy of a design you found, and it got me to thinking of a new module for Reaves.Unfortunately I didn't have the materials required to test it.Could you make me a couple Failure Detection Pylons?I'll also need a plasmatic laser bolt. You should be able to find one in the Violet Hold.",
+    "name": "Cheating Death",
+    "requires_level": 108,
+    "zone": "Engineering"
+}

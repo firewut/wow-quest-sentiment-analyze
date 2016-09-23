@@ -1,0 +1,7 @@
+{
+    "_id": "12076",
+    "description": "Even at first glance, the sample you brought me shows obvious signs of some kind of corrosive spit. It would be a natural assumption that the same substance these worms use to burrow through the ground has allowed them a formidable weapon against the Ice Giants.Take this scraper and pick a fight with some of the worms. When they spit on you, use the scraper to remove it and bring it back to me.Get me a couple samples - I'm going to have to use it as the base for an elixir.",
+    "name": "Messy Business",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

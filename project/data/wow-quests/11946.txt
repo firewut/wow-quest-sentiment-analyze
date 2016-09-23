@@ -1,0 +1,7 @@
+{
+    "_id": "11946",
+    "description": "I am... free?I was destined to spend an eternity roaming an empty abyss, and now am saved? You cannot fathom my gratitude, mortal.When I refused to bend to his will Malygos bound me to that prison, then shattered it and scattered the pieces. Should I live one hundred of your lifetimes, I shall not forget this kindness.Perhaps, in time, I will find ways to repay you. For now, though, we must focus our attention on Malygos. I am weak, and there is much to be done.I need your help, <name>.",
+    "name": "Keristrasza",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

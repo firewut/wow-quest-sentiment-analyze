@@ -1,0 +1,7 @@
+{
+    "_id": "25495",
+    "description": "Vol'jin be gatherin' his gear and readyin' de warriors. He ask me to tell ya to meet with him an' Vanira on de island to de east.From dere, he and de warriors will launch de attack on Zalazane. May de ancestors go wit' you, <name>. Without ya, dis campaign would only be a shadow of what it become. Speak to Handler Marnlek, just to de south, an' he give you a bat to fly out to de stagin' area.",
+    "name": "Preparin' For Battle",
+    "requires_level": 75,
+    "zone": "Durotar"
+}

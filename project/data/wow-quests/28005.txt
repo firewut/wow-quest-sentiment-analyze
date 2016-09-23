@@ -1,0 +1,7 @@
+{
+    "_id": "28005",
+    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to the Deadmines, in southern Westfall, immediately!Assistance is required in stopping the reborn Defias Brotherhood from terrorizing the area! If you so choose, head to the Deadmines and speak with Lieutenant Horatio Laine, lead investigator on the case, to aid in stopping the Defias once and for all.",
+    "name": "Adventurers Wanted: The Deadmines",
+    "requires_level": 15,
+    "zone": "Quests"
+}

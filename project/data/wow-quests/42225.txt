@@ -1,0 +1,8 @@
+{
+    "_id": "42225",
+    "added_in_patch": 7,
+    "description": "<As you behold the relic, Thalyssra's voice echoes in your mind.>\r\n\r\nYou found it! But it is sealed away tight.\r\n\r\nSearch the room for a way to break those seals.",
+    "name": "Breaking the Seal",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

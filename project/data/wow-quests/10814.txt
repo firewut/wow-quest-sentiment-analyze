@@ -1,0 +1,7 @@
+{
+    "_id": "10814",
+    "description": "I have information that you may find useful. Please listen to what I have to tell you, <race>.",
+    "name": "Neltharaku's Tale",
+    "requires_level": 70,
+    "zone": "Shadowmoon Valley (Outland)"
+}

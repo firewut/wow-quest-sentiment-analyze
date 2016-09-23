@@ -1,0 +1,8 @@
+{
+    "_id": "24551",
+    "description": "Our defense of the Barrens hasn't gone well under Gar'dul's command, <name>. Garrosh has sent Warlord Bloodhilt here to take control of the situation. He's here in camp, and if you want to make a good impression, you'll demonstrate some initiative.Head east into the Fields of Blood and seek out Northwatch recon units. Bringing the new Warlord a stack of their merit badges will help you make a name for yourself!",
+    "name": "Meet the New Boss",
+    "requires_level": 30,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35206",
+    "added_in_patch": 6,
+    "description": "We are continuing the search for Thaelin's people, but these botani, they are a larger threat than we ever realized.To infest their victims... monstrous.Please, commander, if you find yourself in Evermorn Springs to our west, slay as many of those creatures as you can.Stop them from committing such acts of horror. Bring them to justice.",
+    "name": "Bushwhacker",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

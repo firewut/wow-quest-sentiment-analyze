@@ -1,0 +1,7 @@
+{
+    "_id": "10319",
+    "description": "I suppose an explanation is in order. You've met one of the archmage's apprentices, Ravandwyr, but there was also another named Naberius.He was an ardent student, but was drawn to necromancy. When Kael'thas appeared with his forces, Naberius seized the opportunity to betray the archmage, handing over the secrets to the tower's defense.Now, it seems, he has become a lich. If we are to stop him, we must capture his phylactery. Knowing him, he would've buried it somewhere out of sight in his domain.",
+    "name": "Capturing the Phylactery",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

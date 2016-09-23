@@ -1,0 +1,8 @@
+{
+    "_id": "42650",
+    "added_in_patch": 7,
+    "description": "The Bonespeaker mystics used these heirlooms to tie my soul to this world.Under their curse, my soul could not enter the Halls of Valor. Find the soul pyre in Haustvald and throw my belongings into the flames.The fire that bound my soul through their foul magic will be the same fire that undoes this bond!",
+    "name": "Break the Bonds",
+    "requires_level": 101,
+    "zone": "Warrior Campaign"
+}

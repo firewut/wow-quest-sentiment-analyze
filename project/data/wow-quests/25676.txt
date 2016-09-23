@@ -1,0 +1,8 @@
+{
+    "_id": "25676",
+    "description": "We don't have any hope of taking the Nethergarde Mines from the Alliance... at least not yet.  Nethergarde is well-defended, and their supply routes are established and strong.  Our goal, then, is to damage their economy.  We can't take the mine by force, but with surgical strikes we can drastically reduce the mine's efficiency.I have men creating a distraction outside the mines.  Head east, sneak into the mines, and speak with Rofilian Dane for your assignment.",
+    "name": "Heartstrike",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

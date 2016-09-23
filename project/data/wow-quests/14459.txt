@@ -1,0 +1,8 @@
+{
+    "_id": "14459",
+    "description": "There are more threats to be dealt with here.  The Bristleback are taming wild boars to be used against us.These armored battleboars have been abused beyond hope of recovery; they must be put down, for our safety and their peace.  Go to the pens to the south and slay them, <name>. Return to me afterwards.",
+    "name": "The Battleboars",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

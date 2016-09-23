@@ -1,0 +1,7 @@
+{
+    "_id": "29606",
+    "description": "Terokk, hero of the Arakkoa, mysteriously vanished one day, leaving only his mask and spear behind.Darkweaver Syth still holds his mask and Talon King Ikiss guards his spear.It would mean a great deal to my people if these items were returned to us.",
+    "name": "Terokk's Legacy",
+    "requires_level": 65,
+    "zone": "Sethekk Halls"
+}

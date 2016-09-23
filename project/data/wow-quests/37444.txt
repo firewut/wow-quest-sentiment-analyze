@@ -1,0 +1,8 @@
+{
+    "_id": "37444",
+    "added_in_patch": 6,
+    "description": "Zhanaa needs our help to salvage parts from the Exodar.  Taerix prepared an inoculum that can be given to the Nestlewood owlkin that live in the area of a lot of the salvage.Just get close to the unaffected ones and use the crystal on them.  Unfortunately, you'll have to kill the others.  You'll find the owlkin at Nestlewood Thicket and Nestlewood Hills to the southeast.",
+    "name": "Inoculation",
+    "requires_level": 2,
+    "zone": "Ammen Vale"
+}

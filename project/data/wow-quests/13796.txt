@@ -1,0 +1,7 @@
+{
+    "_id": "13796",
+    "description": "You must get the Forest Heart to Gnarl at all costs!Down at the bottom of the Dor'Danil Barrow Den it sits, corrupted by the Horde. Only Gnarl can cleanse it.In order to move it, though, you'll need a Power of Nature. If you collect enough untainted spirits from the Severed druids and keepers, the spirits can be combined into a Power of Nature.Good luck, <name>!",
+    "name": "The Forest Heart",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

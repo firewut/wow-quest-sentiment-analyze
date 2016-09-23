@@ -1,0 +1,8 @@
+{
+    "_id": "34311",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "6.0 Invasion: Opted Out",
+    "requires_level": 90,
+    "zone": "Quests"
+}

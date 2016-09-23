@@ -1,0 +1,8 @@
+{
+    "_id": "28657",
+    "description": "We finally capture this godforsaken rock and then we find out that there is a huge ettin roaming around, taking out our sentry patrols!<name>, I need you to round up a few friends and take that ettin down.  We can't have a beast like that roaming around, wreaking havoc.Stay alert, reports from the front say that he is carrying a huge tree as a weapon, and he is not afraid to use it.",
+    "name": "A Huge Problem",
+    "requires_level": 85,
+    "side": "horde",
+    "zone": "Tol Barad"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13339",
+    "description": "Atop the battlements of Corp'rethar, the Lich King's minions have erected three crystals, the shards of horror, despair, and suffering. Should our men reach the walls of Corp'rethar, he will unleash these weapons on our army.In full effect, the crystals will afflict the minds of our men with paralyzing pain and fear. Then, the Scourge will be able to slaughter them at will.Find these shards, destroy them, and bring me their broken remains. We cannot allow the Lich King to deploy these weapons!",
+    "name": "Shatter the Shards",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

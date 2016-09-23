@@ -1,0 +1,7 @@
+{
+    "_id": "24601",
+    "description": "This confirms it. The overgrowth here is not being caused by a mere overabundance of energy.Do you understand? This is beyond what happened at the Wailing Caverns now. A rift into the Nightmare must have torn open in the middle of the very land we're standing on! And to think it's my fault...I'm done picking at the edges of this wound. Go to the west, to the center of the overgrowth, and meet me again there. We will dive into the heart of this corruption and force it shut!",
+    "name": "The Nightmare Scar",
+    "requires_level": 29,
+    "zone": "Southern Barrens"
+}

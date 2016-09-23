@@ -1,0 +1,8 @@
+{
+    "_id": "29670",
+    "added_in_patch": 5,
+    "description": "Thanks to you, there's a small militia of farmers hiding nearby. Hanae said something about giving them \"liquid courage\" which, I'm pretty sure, means they're sauced and ANGRY.The mogu think they can walk all over us - we'll give them a fight that will open their eyes.Follow the trail through the ruins and down to the beach. Find their leader. When you engage him, we'll be there to back you up.",
+    "name": "Maul Gormal",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

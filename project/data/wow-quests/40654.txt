@@ -1,0 +1,8 @@
+{
+    "_id": "40654",
+    "added_in_patch": 7,
+    "description": "A new ally has joined our ranks. His name is Yaris Darkclaw, a skilled trainer among the Druids of the Claw.Go speak to him now.",
+    "name": "Druids of the Claw",
+    "requires_level": 103,
+    "zone": "Druid Campaign"
+}

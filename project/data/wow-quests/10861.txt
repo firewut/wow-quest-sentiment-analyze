@@ -1,0 +1,7 @@
+{
+    "_id": "10861",
+    "description": "In the wretched colony to the southwest known as Veil Lithic, Terokk's minions are attempting to befoul their avian brethren before they hatch. The dark sorcerers of Lithic encase eggs in a shadowy curse. When the hatchlings emerge, they mindlessly serve Terrok.Travel to Veil Lithic and prematurely break the eggs before the curse has time to seep in. Even if you are too late, you can put down the tainted ones.Remember, the Light shines brightest in the darkness.",
+    "name": "Veil Lithic: Preemptive Strike",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

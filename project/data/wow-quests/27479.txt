@@ -1,0 +1,7 @@
+{
+    "_id": "27479",
+    "description": "The Mossflayers of Zul'Mashar spit in the face of the Light!  They cannibalize, they criminalize, they prioritize the forces of evil over good!  I advise that you remove their eyes, and give rise to the demise and the goodbyes of the unwise!You will travel north, and you will rain down on them with righteous justice and indignation, <name>.  The fury that they have wrought in the eyes of the Light shall be channeled through you.",
+    "name": "Righteous Indignation",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

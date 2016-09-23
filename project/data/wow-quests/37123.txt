@@ -1,0 +1,9 @@
+{
+    "_id": "37123",
+    "added_in_patch": 6,
+    "description": "You've probably seen this enormous, black claw in our pile of supplies. We found it while we were out hunting new beasts to tame. The animals seem to be quite afraid of it, perhaps the beast it belonged to used to hunt them.",
+    "name": "The Black Claw",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10030",
+    "description": "The bones of the dead draenei litter the Bone Wastes from the explosion of Auchindoun.  Their spirits are restless, and cannot move on to the next life.<Class>, you must help me to recover their bones and take them to their final resting place!  Only then will they be at peace; only then will they know comfort.Gather up the restless bones with care and deliver them to Ramdor the Mad at Auchindoun in the center of the Bone Wastes.  Despite his name, he will know how to care for them.",
+    "name": "Recover the Bones",
+    "requires_level": 63,
+    "zone": "Terokkar Forest"
+}

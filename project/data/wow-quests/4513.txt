@@ -1,0 +1,7 @@
+{
+    "_id": "4513",
+    "description": "I'm going to need more samples, <name>. But--and I don't know how to put this--they have to be pure samples. I know, I know. \"What does 'pure' mean, Laris?\" I'm not sure. I do know that these are corrupt... just like Felwood. Which is what makes my realization so important. The oozes seem to adapt... to take on the aspects of the area they're in. I'll need to find samples that haven't been polluted. But where? Where?!Bah! <name>, take these containers just in case you find any on your own.",
+    "name": "A Little Slime Goes a Long Way",
+    "requires_level": 48,
+    "zone": "Ironforge"
+}

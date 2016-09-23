@@ -1,0 +1,7 @@
+{
+    "_id": "12067",
+    "description": "You find a letter secreted in the lining of her robes. It reads:\"Father,I'm sorry for disappearing on you. If you're reading this letter, then I'm dead.I've been forced to work for Malygos's armies under threat that our family would be killed if I didn't. I feel so ashamed.If there's anything that you can do to fight them, don't worry about me. I have them fooled and I'm sabotaging them from the inside.I love you, Daddy!Em\"Commander Saia Azuresteel will want to see this!",
+    "name": "A Letter for Home",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

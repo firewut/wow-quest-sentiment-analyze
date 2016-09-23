@@ -1,0 +1,8 @@
+{
+    "_id": "44077",
+    "added_in_patch": 7,
+    "description": "Within the Eye of Azshara In Azsuna, a powerful being known as the Wrath of Azshara grows in strength. It is a blasphemy of nature - an infusion of stolen arcane power, and cannot be allowed to exist.Slay it. In its aftermath, you may find the essence of balance that you seek.",
+    "name": "Essence of Balance",
+    "requires_level": 103,
+    "zone": "Druid Campaign"
+}

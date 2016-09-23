@@ -1,0 +1,7 @@
+{
+    "_id": "24992",
+    "description": "As far as you know, a worgen rogue roaming in Tirisfal is a new development.  This is something that Executor Zygand would certainly be interested in.",
+    "name": "Escaped From Gilneas",
+    "requires_level": 5,
+    "zone": "Tirisfal Glades"
+}

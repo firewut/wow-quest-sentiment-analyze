@@ -1,0 +1,7 @@
+{
+    "_id": "27910",
+    "description": "If I am reduced to groveling, I may as well ask everything I can. There is one last favor I would ask of you, one more task a shamed orc pleads for.",
+    "name": "Last Regrets",
+    "requires_level": 53,
+    "zone": "Swamp of Sorrows"
+}

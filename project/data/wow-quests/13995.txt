@@ -1,0 +1,8 @@
+{
+    "_id": "13995",
+    "description": "We were sent here to track movements of the Kolkar centaur, but after a week of watching these dirty animals scamper all around this oasis, I'm itching to give my axe a taste of their necks. What do you say, <class>? Want to cause a little havoc with me?Let's see if we can attract the attention of their strongest warrior, Kurak.",
+    "name": "King of Centaur Mountain",
+    "requires_level": 12,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

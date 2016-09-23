@@ -1,0 +1,8 @@
+{
+    "_id": "32145",
+    "added_in_patch": 5.1,
+    "description": "My probes have detected three very dangerous targets in the courtyard of Domination Keep.They have an ogre emissary, a Kor'kron officer, and an insane goblin bomb maker.My siege-o-matics are not ready for one on one combat so it is up to you to eliminate the targets.Good luck! Report back to me on the Skyfire when done.",
+    "name": "Don't Lose Your Head",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

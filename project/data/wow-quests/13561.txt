@@ -1,0 +1,7 @@
+{
+    "_id": "13561",
+    "description": "I have come to Bashal'Aran to grant peace to the troubled spirits of the Highborne, but I find my hand hesitates with each blow. If you would like to aid me, you would have my gratitude.",
+    "name": "Solace for the Highborne",
+    "requires_level": 8,
+    "zone": "Darkshore"
+}

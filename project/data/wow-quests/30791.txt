@@ -1,0 +1,8 @@
+{
+    "_id": "30791",
+    "added_in_patch": 5,
+    "description": "Arconiss fights with unmatched fury, but his extended stay beneath the mists has left him weakened.The rodents of the swamp are plentiful, and their bodies are filled with nourishing blood. Return with blood enough to reignite Arconiss' spirit.",
+    "name": "Arconiss Thirsts",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

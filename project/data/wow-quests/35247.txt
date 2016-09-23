@@ -1,0 +1,9 @@
+{
+    "_id": "35247",
+    "added_in_patch": 6,
+    "description": "The spirits have spoken to me. They believe the magnaron, Gro the Uncreator, will join our fight and lead his underlings against the Iron Horde.This is an honor beyond any bestowed upon a Laughing Skull, at least in my time.I will commune with the magnaron, and together we shall destroy the Iron Horde.",
+    "name": "Zero Xuks Given",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14382",
+    "description": "The Forsaken catapults are kicking the snot out of us, <name>.  And even if we do take care of them, they've two ships with rows of cannons at the ready.I've a plan to kill two birds with one stone.  You're the stone in this plan.Take out the machinists manning the catapults.  After this, use the catapults to launch yourself aboard the Forsaken ships.If your aim isn't terrible, you should be able to land safely.  Once onboard, go below decks and take care of each ship's captain.  Good luck, <class>.",
+    "name": "Two By Sea",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

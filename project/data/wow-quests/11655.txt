@@ -1,0 +1,8 @@
+{
+    "_id": "11655",
+    "description": "Across the mist to the north you will find Garrosh's Landing. To the south are the ruins of my old home, Pal'ea. Both have been ransacked by an ancient force known as the Kvaldir.These fearsome savages slew all of my people without mercy and drove your people inland.All that remains of the tuskarr of Pal'ea are our personal effects, taken as relics by the Kvaldir. While we are not a vengeful race, justice must be served. The tuskarr relics must be returned to me. Enter the mist and find them...",
+    "name": "Into the Mist",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

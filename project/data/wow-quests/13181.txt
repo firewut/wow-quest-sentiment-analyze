@@ -1,0 +1,7 @@
+{
+    "_id": "13181",
+    "description": "Commander Zanneth might be satisfied with a pile of Horde corpses at his feet, but controlling Wintergrasp is of the utmost importance to the Valiance Expedition. Make sure it remains in our control.However, don't think we'll just let you stand around while your allies do your dirty work for you. If you're not at least a second level recruit by the end of the battle, don't come back.",
+    "name": "Victory in Wintergrasp",
+    "requires_level": 85,
+    "zone": "Wintergrasp"
+}

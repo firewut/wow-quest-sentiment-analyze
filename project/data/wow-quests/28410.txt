@@ -1,0 +1,7 @@
+{
+    "_id": "28410",
+    "description": "Everyone's going to want to dress their best for this, and finery is in short supply in the Highlands.I understand that those goblin wretches off the coast use the finest silk for repairing their zeppelin air envelopes. A waste!Find a zeppelin flying back and forth between Dragonmaw Port and the Krazzworks, and liberate some silk from the cargo hold in the lower decks.",
+    "name": "Something Stolen",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "39857",
+    "added_in_patch": 7,
+    "description": "<Helya's voice echoes in the sky above the altar>\r\n\r\nYou say that you do not belong here among the unworthy, outsider, but your spirit fragments so easily. How am I to know you speak the truth? \r\n\r\nI cannot, so you must show me.\r\n\r\nBring yourself to the eternal battlefield and face my champion. If you manage to defeat him, then I may grant you a pardon.",
+    "name": "The Eternal Nemesis",
+    "requires_level": 98,
+    "zone": "Quests"
+}

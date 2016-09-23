@@ -1,0 +1,8 @@
+{
+    "_id": "41474",
+    "added_in_patch": 7,
+    "description": "Like most herbivores, our antlered friends will eat anything green enough to chew. \r\n\r\nHowever I have noticed that they seek these patches of dark grass, given their preference. I believe we can begin to earn their favor if we aid the forest in producing more of this most nutritious of stag food.\r\n\r\nI will provide you with the seeds- all you must do is locate suitable growing soil and plant them. Our magic will do the rest.",
+    "name": "Fertilizing the Future",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

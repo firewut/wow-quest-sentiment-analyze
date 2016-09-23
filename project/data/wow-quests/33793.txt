@@ -1,0 +1,9 @@
+{
+    "_id": "33793",
+    "added_in_patch": 6,
+    "description": "Our scouts have made a horrifying discovery, <name>.The souls of the prisoners are being used to summon creatures from the void.Inside, three beings of darkness already await - the Essence of Shadow, the Essence of Darkness, and the Essence of Anguish.They must be destroyed immediately, before their power can be unleashed.",
+    "name": "Harbingers of the Void",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26717",
+    "description": "My kinsmen at Raven Hill are concerned with curing the feral worgen in these forests. The condition itself cannot be lifted, but sanity can be restored to those not too far gone.While most here have proven beyond help, we keep an eye out for those that retain vestiges of their minds... attachments to their old lives.I've seen a lone worgen lurking the Yorgen Farmstead, digging in a pile of dirt between the buildings...could you check out that pile and see if he's left anything?",
+    "name": "The Yorgen Worgen",
+    "requires_level": 22,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

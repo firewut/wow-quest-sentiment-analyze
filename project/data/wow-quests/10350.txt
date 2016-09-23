@@ -1,0 +1,7 @@
+{
+    "_id": "10350",
+    "description": "While you have learned many hard lessons from me during our time together, it is time that I entrusted you to wiser hands.Behomat, who trained me when I was as green as grass, will be your new teacher. I have told him that you will be seeking him out, and he is expecting you.You will find him at the center of the Warriors' Terrace, at the highest point of the Traders Tier of the Exodar.",
+    "name": "Behomat",
+    "requires_level": 10,
+    "zone": "Warrior"
+}

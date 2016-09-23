@@ -1,0 +1,7 @@
+{
+    "_id": "28768",
+    "description": "Donova Snowden, dwarf woman, is friend of the Timbermaw.We trade firewater.She is at Frostfire Hotsprings, to the east, through our cave.She needs help to beat up the Winterfall furbolg.  Maybe you will help her.",
+    "name": "Winterspring!",
+    "requires_level": 49,
+    "zone": "Winterspring"
+}

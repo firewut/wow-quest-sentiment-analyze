@@ -1,0 +1,7 @@
+{
+    "_id": "12580",
+    "description": "There's some small chance that the Mosswalkers are not all dead yet... and at the very least, they deserve to not be butchered like this.Let's find some revenge for this slaughter and see if there are any to be saved in the process.",
+    "name": "The Mosswalker Savior",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

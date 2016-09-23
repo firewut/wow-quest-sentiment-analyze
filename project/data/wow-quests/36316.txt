@@ -1,0 +1,8 @@
+{
+    "_id": "36316",
+    "added_in_patch": 6,
+    "description": "We have dealt a crippling blow to the Adherents, but our fight is not yet finished.Gather your allies and prepare for the final siege on Skyreach!\"Shadows gather when the raven swallows the day.Burning sky is extinguished as black wings fold gently about the heavens.Rest, my children, rest. For even the sun must sleep.\"This was Rukhmar's lullaby, sung by her to the first arakkoa. My, how we've lost our way.",
+    "name": "Victory is Within Reach",
+    "requires_level": 97,
+    "zone": "Spires of Arak"
+}

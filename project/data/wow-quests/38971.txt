@@ -1,0 +1,8 @@
+{
+    "_id": "38971",
+    "added_in_patch": 7,
+    "description": "I'm risking my life and career to be here, tailor.I've been curious about demonic cloth, and my attempts to obtain some through approved means have been met with resistance.I simply must see this cloth for myself.I don't wish to disrupt Azayna's pact with the demons, but you - you can attack the demons without drawing attention to our guild.I'm particularly interested in a particular demon's set of robes. Bring me a scrap, and I'll teach you what I know.",
+    "name": "Exotic Textiles",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

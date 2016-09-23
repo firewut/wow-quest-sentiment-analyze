@@ -1,0 +1,8 @@
+{
+    "_id": "43088",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Primal Combatant's Plate Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

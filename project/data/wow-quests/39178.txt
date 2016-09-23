@@ -1,0 +1,8 @@
+{
+    "_id": "39178",
+    "added_in_patch": 7,
+    "description": "There's been chatter around the hunters' lodge about a crazed moose that is terrorizing the basin. \r\n\r\nI've never laid eyes on the beast myself, but they say its antlers are illuminated with magic. \r\n\r\nWhere other lesser hunters have tried and failed, you will prevail, and collect me a one-of-a-kind trophy!",
+    "name": "Moose on the Loose",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

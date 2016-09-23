@@ -1,0 +1,7 @@
+{
+    "_id": "12509",
+    "description": "Finally, the patrol arrives!Here's the situation, <race>. We've lost many of our finest soldiers in this campaign and have had to call upon our recruits to fill in the gaps.We've just fought one of our fiercest battles and many of the recruits were simply not prepared to face this enemy. There are more fights ahead, and I need them ready to follow orders.If there's one thing I can't stomach, it's cowardice. Perhaps you can help them find the courage to continue. ",
+    "name": "Troll Patrol: Intestinal Fortitude",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12126",
+    "description": "The power of the unholy is coveted among my kind. It makes up the very fiber of our existence, granting death to those that dare make a mockery of it! Thankfully there is a font from which I may draw from in my time of need.Take this unholy gem and make your way to the Ruby Dragonshrine, east of here. It is there that you will find Duke Vallenhal, death knight of Arthas. Weaken his resolve in battle and unleash the power of the gem upon him. It will finish him off and steal his unholy energy!\r\n",
+    "name": "In Service of the Unholy",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

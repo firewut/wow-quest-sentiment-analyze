@@ -1,0 +1,8 @@
+{
+    "_id": "28827",
+    "description": "The Earthen Ring has identified the watery realm of Vashj'ir as a source of the adversary's destructive energies.It is still uncertain what dangers might be faced there, so any information you could gather would be of great value.The Alliance is sending warships to the region as we speak. To gain passage, travel northwest of Stormwind and speak to Recruiter Burns at Stormwind Harbor.May the spirits guide you, <name>.",
+    "name": "To the Depths",
+    "requires_level": 80,
+    "side": "alliance",
+    "zone": "Stormwind City"
+}

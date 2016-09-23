@@ -1,0 +1,7 @@
+{
+    "_id": "4490",
+    "description": "I would give you a reward for your patience and hard work. But know this, the ability to summon a Felsteed will be much more difficult in the future. You will have to earn it... and it will not be easy.For now, go with the power to summon such a creature and use it as you see fit.",
+    "name": "Summon Felsteed",
+    "requires_level": 40,
+    "zone": "Warlock"
+}

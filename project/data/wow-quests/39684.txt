@@ -1,0 +1,8 @@
+{
+    "_id": "39684",
+    "added_in_patch": 7,
+    "description": "To the east is an intricate prison chamber designed to contain the beholder, Glazer.It began malfunctioning shortly after the breach.You will need to rotate the mirrors in the room to focus an energy beam onto the creature. Otherwise, we cannot break through Glazer's impenetrable shield.\r\n\r\nHurry. Altruis went ahead to assist the others, but we are losing the fight.",
+    "name": "Beam Me Up",
+    "requires_level": 98,
+    "zone": "Demon Hunter"
+}

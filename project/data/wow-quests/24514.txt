@@ -1,0 +1,8 @@
+{
+    "_id": "24514",
+    "description": "We are besieged here, <class>, and between that chasm and the harassment of the Alliance we are short on supplies. But we make do with what's at hand, as we tauren always have.In the absence of a forge, a skilled leatherworker can strengthen and patch up our damaged armor with good quality hides.Down below is the hunting ground of the Terrortooth Raptors. They are not so easy to kill, in part due to the ruggedness of their thick skin. Hunt them, <name>, and bring their hides to me!",
+    "name": "Raptor Scraps",
+    "requires_level": 28,
+    "side": "horde",
+    "zone": "Southern Barrens"
+}

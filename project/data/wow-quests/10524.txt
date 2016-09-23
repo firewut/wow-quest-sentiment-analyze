@@ -1,0 +1,7 @@
+{
+    "_id": "10524",
+    "description": "The artifact bears markings that indicate its origins as being created by the Thunderlord clan orcs.  These orcs used to live at Thunderlord Stronghold before they were changed into fel orcs.For a time the Bladespire ogres inhabited the stronghold until recently when the Horde pushed them out.You've heard of other artifacts that were lost.  A drum, an arrow and a tablet come to mind as objects that you know are being sought after.Find them in Bladespire Hold and return them to Rokgar Bloodgrip.",
+    "name": "Thunderlord Clan Artifacts",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27611",
+    "description": "Our objective in the Twilight Highlands is to storm the Bastion of Twilight, but the Alliance have decided to make war.So we will give them war!Slay their marines until the lesson is learned.",
+    "name": "Blood on the Sand",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

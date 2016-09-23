@@ -1,0 +1,8 @@
+{
+    "_id": "34998",
+    "added_in_patch": 6,
+    "description": "By now you must be wondering about all of this curse business. What could distort a majestic arakkoa into... well, into this?<Reshad drags a crooked hand through the mottled feathers about his face.>A raven is prepped and waiting to fly you to Talon Watch. There shall your eyes be opened to the origin of this curse.Present the Eye of Anzu to Talon Guard Kurekk. He will guide you from there.",
+    "name": "Talon Watch",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

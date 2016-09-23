@@ -1,0 +1,7 @@
+{
+    "_id": "29830",
+    "description": "My forces are in absolute shambles, and Malygos' assailants just keep coming.I fear that the worst has yet to come.You must engage them until their leader, Cyanigosa, comes. Only her death will stop the invasion and save Dalaran.Speak to me again when you are ready.",
+    "name": "Containment",
+    "requires_level": 73,
+    "zone": "Quests"
+}

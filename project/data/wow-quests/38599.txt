@@ -1,0 +1,9 @@
+{
+    "_id": "38599",
+    "added_in_patch": 6.2,
+    "description": " Sir am;, we built a vehicle to take ya up to the Throne of Kil'jaeden but whenever we try a test flight the navigation system goes crazy!In my expert opinion it's 'cause of that crazy demon magic the Iron Horde is playing around with up there.\r\n\r\nIf you could travel up there and place these telemetry beacons we can program the vehicle and give you a stable flight all the way up.\r\n\r\nJust be sure to have some friends with you, the demons up there look especially vicious!",
+    "name": "Infrastructure Improvements",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Tanaan Jungle"
+}

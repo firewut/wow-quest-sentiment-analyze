@@ -1,0 +1,8 @@
+{
+    "_id": "37448",
+    "added_in_patch": 7,
+    "description": "Like many dreadlords, Detheroc cannot help but gloat. He was careless and I overheard many of his plans while I was held captive.\r\n\r\nWith your leave, I would like to underscore the gravity of the situation in Stormwind. The fate of Azeroth hangs in the balance.\r\n\r\nBut for all of that, I have a simple plan: get 'em.",
+    "name": "A Simple Plan",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

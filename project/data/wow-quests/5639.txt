@@ -1,0 +1,7 @@
+{
+    "_id": "5639",
+    "description": "You're needed in Stormwind, <name>. The High Priestess there, Laurena, says it's time for you to prove you're worthy of the next level of your training. Don't waste too much time finding your way there. You can find her in the Cathedral of Light in the center of the city. Give her my regards, and prove how worthy you are of such a calling. The Light be with you, <name>.",
+    "name": "Desperate Prayer",
+    "requires_level": 10,
+    "zone": "Priest"
+}

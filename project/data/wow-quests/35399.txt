@@ -1,0 +1,9 @@
+{
+    "_id": "35399",
+    "added_in_patch": 6,
+    "description": "Your wolf queen will not let me out of her sight.The children of the magnaron may have destroyed my village but it was the children of the genesaur who took my people.The botani and their minions drag our people to the Razorbloom, and if we see them again, it is not as they were in life.You have already helped the Skulls, so I ask your help again.Enter the Razorbloom and search for my people that were recently taken.Perhaps they may even be alive.",
+    "name": "Mossy Fate",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

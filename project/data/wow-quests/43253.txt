@@ -1,0 +1,8 @@
+{
+    "_id": "43253",
+    "added_in_patch": 7,
+    "description": "Our diversionary tactics in Stormheim uncovered intel on something I thought only a myth.\r\n\r\nThere is a legend about a magical jewel the vrykul created long before the time of man. The jewel was said to be able to...\r\n\r\n<Valeera stops herself from continuing while looking around and eyeing you wryly.>\r\n\r\nI do not want to talk about it just yet. Not until we have proof.\r\n\r\nUnfortunately, the only way we are going to get that proof is in the Maw of Souls on the Naglfar... the ship of the dead.",
+    "name": "Ancient Vrykul Legends",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

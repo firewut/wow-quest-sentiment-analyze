@@ -1,0 +1,9 @@
+{
+    "_id": "36653",
+    "added_in_patch": 6,
+    "description": "There's a weight in the air. Reminds me of battles in Stranglethorn Valley. Jungle warfare is good for axe-play.",
+    "name": "Botani Invasion!",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

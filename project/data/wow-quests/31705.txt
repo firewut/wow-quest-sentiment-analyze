@@ -1,0 +1,8 @@
+{
+    "_id": "31705",
+    "added_in_patch": 5,
+    "description": "The Arboretum is our home, a safe haven where we raise young hatchlings and train our students.Unfortunately, there are other, more dangerous creatures who wish to make this their home as well.To the north, beyond the river, we have seen a great wasp feeding on the nectar blossoms.This creature has already stung several of our students.Use this honey to lure the wasp out of hiding. Then, destroy it before it harms anyone else.",
+    "name": "Needle Me Not",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

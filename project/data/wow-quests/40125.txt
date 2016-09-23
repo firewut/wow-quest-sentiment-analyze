@@ -1,0 +1,8 @@
+{
+    "_id": "40125",
+    "added_in_patch": 7,
+    "description": "You have used the spellstone of Kel'danath to soothe countless withered. Yet it contains merely a shade of the arcan'dor's power, drawn from its slumbering seed. \r\n\r\n<Thalyssra holds aloft a gleaming white branch.>\r\n\r\nThis fell from the tree. Though it is severed, it is not dead - invisible threads of magic bind all pieces of the arcan'dor together.\r\n\r\nI have enchanted this branch with a new iteration of Kel'danath's charm spell. With it, you can mend the arcane essence of even more withered. Use it well.",
+    "name": "Branch of the Arcan'dor",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

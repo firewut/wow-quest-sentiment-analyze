@@ -1,0 +1,8 @@
+{
+    "_id": "31127",
+    "added_in_patch": 5,
+    "description": "It looks like you're quite the fighter, $p.\r\n\r\nChao heard about it, and she's been talking about how she'd kick your...\r\n\r\nWell, let's just say I think you should challenge her and try to get her respect.",
+    "name": "The Challenger's Ring: Chao the Voice",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

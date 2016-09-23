@@ -1,0 +1,8 @@
+{
+    "_id": "31538",
+    "added_in_patch": 5,
+    "description": "There's one final person who needs to taste my brew.I've heard that he's traveled far and wide, and tasted drinks from all over the world.He happens to be in town, and I'd like to know what he thinks of my skills.",
+    "name": "A Worthy Brew",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

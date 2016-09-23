@@ -1,0 +1,7 @@
+{
+    "_id": "26639",
+    "description": "Before we do a damned thing we need to get a field kit together. You'll help with that, <name>. There's also a matter of scouting. Thankfully for that we got some help from Stormwind. An old war buddy of mine, Brubaker, was sent here by SI:7 to scout around for us. You're to meet him in the field, just south of here.Meet up with Brubaker and find out what he knows.",
+    "name": "Point of Contact: Brubaker",
+    "requires_level": 16,
+    "zone": "Redridge Mountains"
+}

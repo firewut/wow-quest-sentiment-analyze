@@ -1,0 +1,8 @@
+{
+    "_id": "39389",
+    "added_in_patch": 7,
+    "description": "Bloodstones contain a great deal of power that can only be awakened once they are fed. \r\n\r\nYet this stone does not feast on fish and cakes. It hungers for blood; the more powerful, the better.\r\n\r\nThere's an infestation of demons just east of here. I need you to nourish my stone with their blood, so that I may unlock its power.",
+    "name": "It Hungers for Blood",
+    "requires_level": 103,
+    "zone": "Warlock Campaign"
+}

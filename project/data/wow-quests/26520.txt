@@ -1,0 +1,8 @@
+{
+    "_id": "26520",
+    "description": "<Upon touching the orb you hear a faint click.><You remove the orb from the pedestal.><You now control the orb, therefore you now control the ettins. Maybe you can use an ettin to remove the huge boulder currently crushing Foreman Oslow over at Lakeshire. Find an ettin and use the orb on the ettin. Then head over to Lakeshire.>",
+    "name": "Saving Foreman Oslow",
+    "requires_level": 14,
+    "side": "alliance",
+    "zone": "Redridge Mountains"
+}

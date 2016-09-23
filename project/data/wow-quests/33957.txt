@@ -1,0 +1,8 @@
+{
+    "_id": "33957",
+    "added_in_patch": 6,
+    "description": "I need to pack up this kill.  I promised my daughter Raa'la I would bring her home a gift from the hunt.There are a couple baby Rylaks in the cave nearby. Maybe Raa'la would like one as a pet?Would you mind catching one while I finish up here?",
+    "name": "A Gift for Raa'la",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

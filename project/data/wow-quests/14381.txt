@@ -1,0 +1,7 @@
+{
+    "_id": "14381",
+    "description": "I recognize this foul creation. It's a terrible disease that kills almost instantly, and in a most violent manner. Loathe as I am to employ such devices, I fear we have no choice here.As you of course know, the naga remain a serious threat to the region. The time has come for us to drive them back into the sea!When you are ready, Grimfeather will take you to the crevasse where they are preparing a violent assault.Use the concoction on the naga and their allies to make Desolace safe!",
+    "name": "Cleansing Our Crevasse",
+    "requires_level": 30,
+    "zone": "Desolace"
+}

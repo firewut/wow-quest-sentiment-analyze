@@ -1,0 +1,7 @@
+{
+    "_id": "9838",
+    "description": "A great responsibility has been bestowed upon you, <name>.  If the signs that the Violet Eye has observed are to be trusted, then you must help them.For all my disagreements with Cedric, the work that men like Alturus do is still important.  Beware that they do not use you, however.  Remember it is you who the key is bound to, not them.  But if the danger in Karazhan is real, then it is they who are best prepared to guide you in dealing with it.  Go back to Alturus and help him in any way that you can.",
+    "name": "The Violet Eye",
+    "requires_level": 68,
+    "zone": "Karazhan"
+}

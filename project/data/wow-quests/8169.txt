@@ -1,0 +1,7 @@
+{
+    "_id": "8169",
+    "description": "As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin.  Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there.  We must show them that Arathi will never again be a home for humans!Go to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables.  Pull down the enemies' banners, declaring those territories for the Horde.Go, <name>.  Report back to me when this task is complete.",
+    "name": "The Battle for Arathi Basin!",
+    "requires_level": 40,
+    "zone": "Arathi Basin"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "35009",
+    "added_in_patch": 6,
+    "description": "All is now in its place to begin the ritual of calling that will bring the Raven Mother back to the nest.You have fulfilled all of the tests we have put before you so it is only fitting that you join with us and participate in the ritual.Soon the Raven Mother herself will appear before us! Oh my feathers are tingling in excitement!Speak to me again when you are ready.",
+    "name": "Call of the Raven Mother",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

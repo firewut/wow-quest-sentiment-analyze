@@ -1,0 +1,7 @@
+{
+    "_id": "10370",
+    "description": "",
+    "name": "Nazgrel's Command <TXT>",
+    "requires_level": 70,
+    "zone": "Hellfire Peninsula"
+}

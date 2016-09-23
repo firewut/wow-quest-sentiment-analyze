@@ -1,0 +1,7 @@
+{
+    "_id": "10275",
+    "description": "I've recalibrated the triangulation device with the information that you provided from the first point.  You'll use it in exactly the same manner to discover the second.All that I can tell you is that the second point is somewhere far to the west.Once you've located it, speak with Wind Trader Tuluman; another of the nexus-prince's agents.  He's posing as a weapon merchant at a small trading post next to the bridge, which leads to the island that Manaforge Ara is on.",
+    "name": "Triangulation Point Two",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27269",
+    "description": "I have an urgent message for you from Darnassus. The message is from the High Priestess of Elune, Tyrande Whisperwind, herself! The messenger did not say what the matter concerned, but that you should travel to the Temple of the Moon in Darnassus and meet with the high priestess at once.",
+    "name": "The Temple of the Moon",
+    "requires_level": 20,
+    "zone": "Priest"
+}

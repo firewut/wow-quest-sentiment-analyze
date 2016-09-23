@@ -1,0 +1,8 @@
+{
+    "_id": "36275",
+    "added_in_patch": 6,
+    "description": "My research notes are missing!They must have gone missing during the podling attack on the research station. All of my work will be lost if they are not found!Come to think of it, I'm also missing my expedition supply bag, as well as my anti-fungal boots....How can I do biological research without my equipment?!No... this will not do at all.Please, go and search the Zangar Shore for my missing belongings so that I may continue my fungal research!",
+    "name": "The Search For Research",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

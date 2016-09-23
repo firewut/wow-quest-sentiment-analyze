@@ -1,0 +1,8 @@
+{
+    "_id": "30063",
+    "added_in_patch": 5,
+    "description": "The sha may seem unstoppable, but this is not true.Their masks seem to be the source of their power. When a sha and its mask are separated, the creature's essence is banished back to its own realm.Bring me intact masks, for I wish to study them further. Do be careful. I'm sure the sha will not part with them easily.",
+    "name": "Behind the Masks",
+    "requires_level": 90,
+    "zone": "Jade Temple Grounds"
+}

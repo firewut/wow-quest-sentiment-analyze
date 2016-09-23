@@ -1,0 +1,7 @@
+{
+    "_id": "27754",
+    "description": "The Dragonmaw!<Colin spits.>Monsters, all of them. We've fought them up and down these highlands since the last war. And now they're joining forces with the Horde?If you're going to convince us Wildhammers to unite under the Alliance banner, you'd best prove yourself against the Dragonmaw. Wade into the battle that's raging in the Thundermar ruins to the south and southwest. Kill Dragonmaw marauders and collect the insignias that their greatest warriors wear. Then we'll talk. ",
+    "name": "Dragonmaw Takedown",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

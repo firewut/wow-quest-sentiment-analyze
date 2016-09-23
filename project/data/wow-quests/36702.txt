@@ -1,0 +1,7 @@
+{
+    "_id": "36702",
+    "description": "",
+    "name": "Meatball",
+    "requires_level": 100,
+    "zone": "Brawler's Guild"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34455",
+    "added_in_patch": 6,
+    "description": "This device is what the goblins are using to control the rylaks.There is a button on the controller labeled do not touch.Get within range of a Controlled Rylak and touch the button.",
+    "name": "Free their Minds",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

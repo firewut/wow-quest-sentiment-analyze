@@ -1,0 +1,7 @@
+{
+    "_id": "27577",
+    "description": "While destroying Pyrewood will certainly garner us an advantage over the Alliance upon the field of battle, our true purpose here is to leave them crippled.Southwest of here, near the Greymane Wall, lies the 7th Legion Base Camp. We must search the base camp for battle plans. With the 7th Legion battle plans we will be able to pinpoint all Alliance troop advancement in Silverpine Forest.",
+    "name": "7th Legion Battle Plans",
+    "requires_level": 15,
+    "zone": "Silverpine Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25458",
+    "description": "The leader of these forces must fall! The naga's offensive will be broken with no one to command them.I saw the coward retreat into one of the abandoned buildings here. Cut your way through the others and take his head! Lady Shandris will want to see it for herself.",
+    "name": "General Skessesh",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

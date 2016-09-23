@@ -1,0 +1,8 @@
+{
+    "_id": "11243",
+    "description": "If Valgarde falls, our primary supply line into Northrend will cease to exist. From there it'll only be a matter of time before we're all servants of the Lich King. Now I don't know about you, but I've got a wife and three kids back in Elwynn and I'll be damned if I'll go down without a fight.The situation here is critical and we can use all the manpower you're able to muster. Get to the front gate and help the guards defend the city against the invading monsters!",
+    "name": "If Valgarde Falls...",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Howling Fjord"
+}

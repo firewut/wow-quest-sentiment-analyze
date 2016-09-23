@@ -1,0 +1,7 @@
+{
+    "_id": "11454",
+    "description": "This scrap of paper seems to have been left behind accidentally by the Dark Iron invaders.While the plans are complicated and written in some form of coded Dwarvish, the signature at the end - \"Coren Direbrew\" - is clear enough, as is mention of the Grim Guzzler deep within Blackrock Depths. You should seek out the instigator and put an end to these raids.",
+    "name": "Seek the Saboteurs",
+    "requires_level": 48,
+    "zone": "Brewfest"
+}

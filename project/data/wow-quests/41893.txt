@@ -1,0 +1,9 @@
+{
+    "_id": "41893",
+    "added_in_patch": 7,
+    "description": "A final favor for an old friend, perhaps? My age-old companion, Varethos, has fallen to the nightmare's torment. We once worked in unison to protect this land. His close ties to the land brought him low in this dark hour.As with all who suffer this fate, there is no restoring him.Please, <name>, bring him peace.",
+    "name": "Given to Corruption",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10518",
+    "description": "I want you to steal the Bladespire banner from one of their champions and take it south to Bloodmaul Outpost.  Plant it atop their Northmaul Tower.This will infuriate the Bloodmaul and they will attack you relentlessly.  But it will also keep their hatred focused on Bladespire Hold, and away from Sylvanaar.You will know you have accomplished the deed when you have defeated Gurn Grubnosh and taken his helm.  Return it to Sylvanaar.<name>, this isn't going to be easy.  Take a  friend or two with you.",
+    "name": "Planting the Banner",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

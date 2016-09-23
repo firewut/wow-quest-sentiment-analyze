@@ -1,0 +1,8 @@
+{
+    "_id": "31313",
+    "added_in_patch": 5,
+    "description": "What!?! This don't make any sense! <Fish's face falls.>What's this mumber jumber about a maiden and an ancestor and a buncha stairs?I can't make any reason outta this, can you?Well, there are lotsa folks 'round here who're much older than you and me, <name>.Can you go talk to the folks in Halfhill? I betcha they might know somethin'! ",
+    "name": "Just A Folk Story",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

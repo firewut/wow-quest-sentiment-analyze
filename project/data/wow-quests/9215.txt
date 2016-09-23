@@ -1,0 +1,7 @@
+{
+    "_id": "9215",
+    "description": "WANTED: Bring the head of Kel'gash the Wicked, chieftain of the Shadowpine trolls, to Captain Helios. No questions asked. Kel'gash is known to dwell somewhere to the south in Zeb'Nowa.REWARD: Yes, but no advances!",
+    "name": "Bring Me Kel'gash's Head!",
+    "requires_level": 9,
+    "zone": "Ghostlands"
+}

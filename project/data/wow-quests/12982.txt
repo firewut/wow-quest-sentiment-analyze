@@ -1,0 +1,7 @@
+{
+    "_id": "12982",
+    "description": "Now that I'm back, I'm certain that the baron will want me to recover my men. I can see that we're barely hanging on here. The Lich King's forces are about to break through and we won't be able to hold without my captured death knights.Can you assist me once more, <name>?Go back to Jotunheim and let them out of those cages. Break the damn locks, I don't care what you have to do. The vrykul likely have the keys.Just get my men free!",
+    "name": "Ebon Blade Prisoners",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12870",
+    "description": "Why hello thar!Before you be headin' off to do your grand questin' and adventure, might I beg a wee favor of ya,  lad?These mountains be packed full'a precious relics and baubles... this place be a dream come true for tha league. I'd be much obliged if ya could bring any such treasures you stumble upon back ta me. You can even share in me ale for tha trouble! Trust me  lad, that's a rich deal!",
+    "name": "Ancient Relics",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

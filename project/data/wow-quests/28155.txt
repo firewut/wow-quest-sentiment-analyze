@@ -1,0 +1,7 @@
+{
+    "_id": "28155",
+    "description": "Only one final power remains lurking in the depths of Shadow Hold now: Lord Banehollow.The Shadow Council here serves his whims, and even Fel'dan was a mere instrument for him to prepare this land for another invasion of the Burning Legion.Proceed carefully, <name>. A dreadlord is a terrifying foe. Stand tall and triumph!",
+    "name": "Lord Banehollow",
+    "requires_level": 44,
+    "zone": "Felwood"
+}

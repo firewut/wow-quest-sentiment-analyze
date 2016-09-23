@@ -1,0 +1,8 @@
+{
+    "_id": "25939",
+    "description": "The elementals rampaging across Direforge Hill are setting the very land beneath them ablaze. In a marsh such as this, fire can find many places to smoulder through the deep moss and peat.You must quench the fires before they spread further. Take this flower... blessed by nature's rain, it will let you douse the fires.The blossom may also prove useful against the elementals themselves.",
+    "name": "For Peat's Sake",
+    "requires_level": 22,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

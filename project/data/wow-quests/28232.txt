@@ -1,0 +1,7 @@
+{
+    "_id": "28232",
+    "description": "Supplies are running low here in camp, <name>.  We have recently learned that the cellblock just southwest of here has a number of rations remaining from years of use.  We need you to gather as many of those as you can and bring them back to camp.One more thing, the entire cellblock is overrun with prisoners so be careful.",
+    "name": "Food From Below",
+    "requires_level": 85,
+    "zone": "Tol Barad"
+}

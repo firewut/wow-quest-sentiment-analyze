@@ -1,0 +1,8 @@
+{
+    "_id": "10288",
+    "description": "I want you to speak with Amish Wildhammer and catch the first flight to Honor Hold. When you arrive at Honor Hold, you'll be greeted by Marshal Isildor. I have prepared a report detailing our situation here.  Give him the report, and tell him you're ready for duty.You have your orders, soldier, now move out!  And though your blood must be burning to help us against the fiends below, waste no time here.  Honor Hold needs you even more.",
+    "name": "Arrival in Outland",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

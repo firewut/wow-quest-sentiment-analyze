@@ -1,0 +1,7 @@
+{
+    "_id": "25005",
+    "description": "I have destroyed the remains you've given me, <name>.  That is, all remains except for these...Devlin Agamand was weak and sharp-tongued in life, and was among the first to succumb to the plague.  He existed as a slave of the Scourge for a long time, longer than most.  As such, he may possess knowledge that would be of value to us.Bring his remains to Magistrate Sevren, and tell him what I've told you.  He'll know what to do.",
+    "name": "Speak with Sevren",
+    "requires_level": 6,
+    "zone": "Tirisfal Glades"
+}

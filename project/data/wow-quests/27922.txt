@@ -1,0 +1,7 @@
+{
+    "_id": "27922",
+    "description": "Please, stranger.  You must help me.I came here to investigate the arrival of a powerful ally to the Neferset, only to be betrayed by my closest allies and given up to the enemy.Go to the terrace above us to the east and find the information I failed to uncover.  You'll need to hide from the Neferset.  Perhaps you can hide behind one of the large plants on the platform to conceal your presence.Do this for me and I will help your friends find their way to safety.",
+    "name": "Traitors!",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

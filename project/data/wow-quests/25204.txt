@@ -1,0 +1,8 @@
+{
+    "_id": "25204",
+    "description": "We have to stop Trade Prince Gallywix's oil supply and bring his machines to a grinding halt.We're going to need you to go out to the KTC Oil Platform and release the valves to overload the coolant system. After you do that, head to the platform control panel on the platform and set it to blow.",
+    "name": "Release the Valves",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

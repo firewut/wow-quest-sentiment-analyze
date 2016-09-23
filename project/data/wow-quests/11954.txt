@@ -1,0 +1,7 @@
+{
+    "_id": "11954",
+    "description": "We must act to preserve the balance! Time is against us.In order to ensure Ahune's success, the cult has established a base near the Dark Portal itself in Draenor. They use ice stones to coordinate the frost lord's arrival. Much as I am loath to do this, the spirits will understand - you must summon one of this Ahune's templar protectors and destroy it. Perhaps this forestalling action will be enough...",
+    "name": "Striking Back",
+    "requires_level": 64,
+    "zone": "Midsummer"
+}

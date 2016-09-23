@@ -1,0 +1,7 @@
+{
+    "_id": "6985",
+    "description": "The Stormpike dwarves are using the Irondeep mine as a storage depot.  I want you to raid that mine and bring me its supplies.  This will curtail the Stormpikes' efforts in Alterac Valley, and will provide us with needed equipment!Be wary, <name>.  The Irondeep mine is deep in Alliance territory, and control of the mine is as shifting as the snows of Alterac.",
+    "name": "Irondeep Supplies",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

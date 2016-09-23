@@ -1,0 +1,7 @@
+{
+    "_id": "25641",
+    "description": "I've done all I can for you. Muisek stronger than the hippogryph just isn't within my power to work with yet, so I won't make you deal with the disaster that could bring.But while you've been busy, I've fully readied the hippogryph muisek. Take it to my master, Witch Doctor Uzer'i in Camp Mojache. He can create powerful weapons with it, and hopefully he'll be impressed by what I've done.",
+    "name": "The Flow of Muisek",
+    "requires_level": 35,
+    "zone": "Feralas"
+}

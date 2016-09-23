@@ -1,0 +1,8 @@
+{
+    "_id": "12488",
+    "description": "It's a good thing that I intercepted this request from High Executor Wroth before it got to Overlord Agmar. What is Wroth thinking?<The sergeant rips up the letter that he's holding.><Class>, go see what it is that the high executor wants.Follow the road east and pass through The Dragon Wastes. You'll find a path leading up out of the wastes on the southeast side, and the Forsaken town, Venomspite, will stand before you on the south side of the mountain.",
+    "name": "The High Executor Needs You",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

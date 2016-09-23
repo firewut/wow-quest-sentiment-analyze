@@ -1,0 +1,8 @@
+{
+    "_id": "37125",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "A Rare Find",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

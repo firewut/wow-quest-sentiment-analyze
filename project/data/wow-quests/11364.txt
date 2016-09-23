@@ -1,0 +1,7 @@
+{
+    "_id": "11364",
+    "description": "Do you question your master? Neither does Mah'duun.The blood of the centurions of the Shattered Hand clan is what I seek. You will find them within the Shattered Halls of Hellfire Citadel.If you want the bounty, you will not return until you have slain them all.",
+    "name": "Wanted: Shattered Hand Centurions",
+    "requires_level": 70,
+    "zone": "Hellfire Citadel"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27463",
+    "description": "I've always wanted to join the Crusade.  It's the reason I became a paladin.  Years of practice, honing my craft... I'm finally ready.Tarenar thinks he's ready, too, but I'm not sure.  He's a bit of a showboat, and he never took his lessons seriously.  Still, we promised we'd do this together, and here we are.Shall we head into the chapel now?",
+    "name": "A Boyhood Dream",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

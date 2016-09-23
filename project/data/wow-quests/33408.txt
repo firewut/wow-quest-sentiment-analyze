@@ -1,0 +1,9 @@
+{
+    "_id": "33408",
+    "added_in_patch": 6,
+    "description": "Ga'nar led Ligra and the others to the second level of the fortress. Your friend, Thrall, also went to lend his skills.Follow the ramp on the south end of the ramparts outside to join them.Help them bring victory to the Frostwolf Clan!",
+    "name": "Great Balls of Fire!",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

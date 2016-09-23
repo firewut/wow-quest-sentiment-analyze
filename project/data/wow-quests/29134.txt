@@ -1,0 +1,7 @@
+{
+    "_id": "29134",
+    "description": "Listen carefully, <class>, for though we are only beginning, time already grows short and the consequences of our failure are unfathomable.An event in the recent past has been obscured from my vision by the most powerful of magics. Its impact, however, has not.If action is not taken to change the course of this timeline's future, the outcome is clear.Brace yourself, mortal, and behold the future of Azeroth.",
+    "name": "A Wrinkle in Time",
+    "requires_level": 85,
+    "zone": "Caverns of Time"
+}

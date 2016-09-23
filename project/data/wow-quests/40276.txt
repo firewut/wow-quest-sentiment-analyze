@@ -1,0 +1,8 @@
+{
+    "_id": "40276",
+    "added_in_patch": 7,
+    "description": "Can you feel it, shaman? Here, in the heart of Azeroth, where earth and wind and waves clash together - it is as if one can speak directly with the world.The artifact you wield houses great power but even greater potential. Carry it below and seek out the ancient elemental altar overlooking the fury of the maelstrom. From there, you can commune with Azeroth and imbue your artifact with even greater abilities. Do so, and then share with me what you have learned!",
+    "name": "The Maelstrom Beckons",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

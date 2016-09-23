@@ -1,0 +1,7 @@
+{
+    "_id": "10517",
+    "description": "The leader of Bladespire Hold is known as Gorr'Dim.  Trust me... the name is appropriate.Still, I wouldn't underestimate him.  He's crafty enough to have elevated his clan to be the favorite of Gruul the Dragonkiller and they now dominate these mountains.  And Gorr'Dim keeps an entourage about him at all times, including defenders who are sworn not to drink the Bloodmaul brew.For the safety of Sylvanaar, I'm asking that you go back in there and deal with him.",
+    "name": "Gorr'Dim, Your Time Has Come...",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44287",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "DEADLY: Withered J'im",
+    "requires_level": 110,
+    "zone": "Azsuna"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29802",
+    "description": "Corastrasza, currently stationed at the Vermillion Redoubt in the Twilight Highlands, has intercepted a coded message of grave importance. I'll let her explain the full situation, but we need your expertise to unravel the cipher!Take your decoder ring to an ethereal thaumaturge in your capital city - he should know how to charge it. Acquire the encoded cipher from Corastrasza and use the ring to decode it for her. Hurry! Time is ticking... ",
+    "name": "A Hidden Message",
+    "requires_level": 85,
+    "zone": "Rogue"
+}

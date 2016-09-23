@@ -1,0 +1,8 @@
+{
+    "_id": "483",
+    "description": "Gnarlpine invaders were seen ravaging the Ban'ethil Barrow Den, tucked in the hill to the west.The slumbering druids will be trapped in the Emerald Dream for eternity, unaware of their fate, unless we help. The delicate hibernation ritual cannot be broken without the Relics of Wakening.Journey to the Den and retrieve the Raven Claw Talisman, Black Feather Quill, Sapphire of Sky, and Rune of Nesting. The druids store them in sacred chests.  Return them to me and I will prepare the awakening ritual.",
+    "name": "The Relics of Wakening",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

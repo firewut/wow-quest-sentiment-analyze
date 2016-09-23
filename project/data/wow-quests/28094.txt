@@ -1,0 +1,7 @@
+{
+    "_id": "28094",
+    "description": "My orders are to accompany you south through the Dragonmaw Gates towards the entrance of Grim Batol. We're to clear a path so that the rest of the men can follow us up and secure the entrance.Translation: kill everything that moves, and don't be ashamed if you have a good time doing it.The boys are getting antsy. Let's go.",
+    "name": "Paving the Way",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

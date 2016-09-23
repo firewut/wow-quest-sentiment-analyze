@@ -1,0 +1,9 @@
+{
+    "_id": "33898",
+    "added_in_patch": 6,
+    "description": "These ogres keep takin' my clan and turnin' them into slaves!\r\n\r\nSlay some ogres and I'll hold 'em off if they try to run.",
+    "name": "Slaying Slavers",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

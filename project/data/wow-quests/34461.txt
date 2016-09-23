@@ -1,0 +1,9 @@
+{
+    "_id": "34461",
+    "added_in_patch": 6,
+    "description": "You are going to want to build your barracks, which you're gonna need to properly bash faces.\r\n\r\nThe first step is to go find the blueprints and learn 'em. I think I left some blueprints lying around here somewhere.\r\n\r\nNext ya gotta pick which plot you want us to build it on. Just point it out on my architect table and we'll get started constructing that thing right away.",
+    "name": "Build Your Barracks",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "43724",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Master Mathias Shaw",
+    "requires_level": 110,
+    "zone": "Rogue Campaign"
+}

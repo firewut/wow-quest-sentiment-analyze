@@ -1,0 +1,8 @@
+{
+    "_id": "39124",
+    "added_in_patch": 7,
+    "description": "Highmountain is home to wildlife that can't be hunted anywhere else in the world. Tell me, <name>, have you ever laid eyes on a moose before? \r\n\r\nThe roaming Elderhorn may look like gentle giants, but only a fool would underestimate their strength. \r\n\r\nThey should prove to be a good challenge, even for someone as experienced as you.",
+    "name": "Moose Shootin'",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

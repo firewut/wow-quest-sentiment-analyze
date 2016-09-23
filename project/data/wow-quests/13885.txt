@@ -1,0 +1,7 @@
+{
+    "_id": "13885",
+    "description": "Now that we know our preventative measures work, we should cover as much ground as possible.I've arranged to commandeer one of our hippogryphs, but I can't do this alone. Talk to my friend Orseus, next to the flight master right outside the grove here. Let him know when you're ready and I'll meet you there. We'll canvas Darkshore from the air and protect as many animals as we can!",
+    "name": "In Defense of Darkshore",
+    "requires_level": 16,
+    "zone": "Darkshore"
+}

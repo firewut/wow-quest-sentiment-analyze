@@ -1,0 +1,8 @@
+{
+    "_id": "41629",
+    "added_in_patch": 7,
+    "description": "The energy from Light's Wrath lashes out from within the weakened Nexus Vault.  We may be able to use this raw, chaotic energy to our advantage.\r\n\r\nIf we can harness this energy and feed it into the Surge Needles, it should cause a rather... destructive reaction.",
+    "name": "Harnessing the Holy Fire",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40967",
+    "added_in_patch": 7,
+    "description": "I have not been able to leave the safety of my guardians to search, but there are three tomes of great importance to me and mine. \r\n\r\nThey contain secrets and cantrips that the Nightborne must NOT obtain. \r\n\r\n<Lothrius raises his hand to your forehead, cementing the names of three tomes into your mind> \r\n\r\nIf we cannot best them, we must preserve all we can. Hurry, <name>.",
+    "name": "Precious Little Left",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

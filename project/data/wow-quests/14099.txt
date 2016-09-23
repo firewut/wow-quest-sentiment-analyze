@@ -1,0 +1,8 @@
+{
+    "_id": "14099",
+    "description": "It's time for you to leave, <name>.  Go to the Military District with the other civilians.Check in with Gwen Armstead when you cross the bridge to the southeast... see if everyone's okay.I will stay here with the guards and cover the civilians' retreat.Go now.  That is an order!",
+    "name": "Royal Orders",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Gilneas City"
+}

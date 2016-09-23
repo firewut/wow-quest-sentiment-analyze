@@ -1,0 +1,7 @@
+{
+    "_id": "12931",
+    "description": "The refuge's defenders have done their best to blunt the iron dwarves' attacks, but we keep losing ground inch by inch. My men are hardy, but not tireless. Without reinforcements, it's only a matter of time until we will be overrun.Would you lend your skills to the refuge's defense? It would greatly improve the morale of the defenders and give them -- and me -- hope of mounting a counterattack.Kill any of the stormforged or their creations you encounter outside the refuge.",
+    "name": "Fighting Back",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

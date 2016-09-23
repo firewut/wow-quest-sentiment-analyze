@@ -1,0 +1,8 @@
+{
+    "_id": "26868",
+    "description": "Alright, now just shut yer gob and lemme talk, 'cause here's the plan.Those gnolls and murlocs are liable to be meetin' out there somewhere. So you take this clever plant disguise of mine, and you wear it and look like a plant. Then you sneak up on 'em, and you throw this scent pheromone you gathered on the mosshide standin' with the murlocs.Then the murlocs'll flip their spit, and the mosshides will think twice about trying to work with such crazy lil' buggers!",
+    "name": "Axis of Awful",
+    "requires_level": 12,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

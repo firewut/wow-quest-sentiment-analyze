@@ -1,0 +1,7 @@
+{
+    "_id": "12462",
+    "description": "Just down the steps lies the gateway to damnation: Scourge as far as the eye can see and getting thicker with each passing moment. What little intelligence we've been able to gather indicates that two Scourge necrolords are furiously working at emptying the first two crypts down below. Before we can breach the inner chamber to Thel'zan, we'll need to take care of those two clowns and their Naxxramas cronies.Go down into the mausoleum and take out the necrolords and the Naxxramas dreadguards and shades.",
+    "name": "Breaking Off A Piece",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

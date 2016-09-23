@@ -1,0 +1,8 @@
+{
+    "_id": "27343",
+    "description": "I have been watching your progress, <name>, and I can only conclude that the Light shines brightly upon you. You are becoming an exemplary <class>.To honor your dedication, King Wrynn has commissioned the royal armorer to forge a special weapon.The materials to make your weapon are unique, and only found in the cursed Shadowfang Keep in Silverpine Forest. Travel there and recover the holy symbol of Commander Springvale, a supply of moonsteel ingots, and sinew from the ghouls and geists infesting the keep.",
+    "name": "The Hand of the Light",
+    "requires_level": 20,
+    "side": "alliance",
+    "zone": "Paladin"
+}

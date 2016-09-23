@@ -1,0 +1,7 @@
+{
+    "_id": "12644",
+    "description": "Now that we've got the raw materials, I've had my assistant ready the still. He'll oversee the process, but I want you to help keep everything under control. You might be tempted to think that we just throw everything into the still and let it sit, but you're wrong.Ingredients and heat need to be added at certain times, and the pressure regulated at others. You'll have no more than 10 seconds to react to a situation. Speak with \"Tipsy\" McManus when you're ready to start distilling.",
+    "name": "Still At It",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

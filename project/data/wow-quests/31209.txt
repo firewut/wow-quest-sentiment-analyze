@@ -1,0 +1,8 @@
+{
+    "_id": "31209",
+    "added_in_patch": 5,
+    "description": "I require another ingredient to create my first poison, Wakener.This ingredient you can easily find on the scarabs nearby.Kill them and bring me their wings.",
+    "name": "Dark Wings, Dark Things",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

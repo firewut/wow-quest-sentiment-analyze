@@ -1,0 +1,8 @@
+{
+    "_id": "40987",
+    "added_in_patch": 7,
+    "description": "Our goals have been met, death knight, and it is time we part ways.  I think I will be glad to see the last of you.\r\n\r\nGo on, return to your dark masters. We are done here.",
+    "name": "The Call of Vengeance",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

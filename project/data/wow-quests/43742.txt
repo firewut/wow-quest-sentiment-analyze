@@ -1,0 +1,7 @@
+{
+    "_id": "43742",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Odyn Death Conversation Enabled",
+    "zone": "Quests"
+}

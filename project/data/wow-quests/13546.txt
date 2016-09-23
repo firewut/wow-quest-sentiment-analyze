@@ -1,0 +1,7 @@
+{
+    "_id": "13546",
+    "description": "The Jadefire satyrs of Felwood have found their way into Darkshore, tainting the land, water, and creatures they encounter. You've seen what their corruption has done to my people and their homes. If we do not turn back the satyrs, all of us will share that fate.Within the cave to the east is Sharax the Defiler, the satyr responsible for the ills of the Blackwood. Slay him, <name>, and free us from his influence. Show the satyr that the Blackwood will not lay down and die so easily.",
+    "name": "The Defiler",
+    "requires_level": 17,
+    "zone": "Darkshore"
+}

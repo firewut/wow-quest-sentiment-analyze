@@ -1,0 +1,8 @@
+{
+    "_id": "12226",
+    "description": "We must act quickly, <race>! We can't risk letting those precious seeds become fully digested. They need to come out, NOW.Forage up some blackroot from the riverbank just west of here and I'll make you a purgative that should get things moving.Hurry now! And remember, you brought this upon yourself....",
+    "name": "Just Passing Through",
+    "requires_level": 73,
+    "side": "alliance",
+    "zone": "Grizzly Hills"
+}

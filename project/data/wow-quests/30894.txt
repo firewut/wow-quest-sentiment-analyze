@@ -1,0 +1,8 @@
+{
+    "_id": "30894",
+    "added_in_patch": 5,
+    "description": "I do have another task for you, <name>, though it's a might grim. I really need to get to the bottom of this mantid poison, but to do that, I need more information directly from the source.While you're down on the southern battlefield, could you bring me back some mantid limbs so that I can examine their intact poison glands.",
+    "name": "Rummaging Through the Remains",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "36100",
+    "added_in_patch": 6,
+    "description": "I see that you have acquired the blueprints for a profession building! Use the Architect Table to build in a small plot.",
+    "name": "Building for Professions",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29463",
+    "description": "So you want to whack some gnolls?  Well you've come to the right place.Your goal is simple, score 30 points in a minute.Use the mallet I give you and get ready to whack.  Speak to me when you are ready to start.",
+    "name": "It's Hammer Time",
+    "requires_level": 1,
+    "zone": "Darkmoon Faire"
+}

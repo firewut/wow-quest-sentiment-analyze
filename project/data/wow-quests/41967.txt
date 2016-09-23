@@ -1,0 +1,8 @@
+{
+    "_id": "41967",
+    "added_in_patch": 7,
+    "description": "Alora and I were were able to escape through one of the Legion's portals back to Azeroth but that's about as far as our luck got us.The portal put us on a small isle somewhere to the west of the Broken Shore. They saw us quickly and we made a run for the protection of the water. As I attempted to leap to safety, I was wounded. But Alora... she tripped and I watched them drag her back.Rescue her, please! I'll mark where the camp is on your map, just don't let her go through that ordeal again.",
+    "name": "Out of the Darkness",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

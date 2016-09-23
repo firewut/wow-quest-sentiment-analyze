@@ -1,0 +1,8 @@
+{
+    "_id": "26523",
+    "description": "There's somethin' I've noticed up there... Jintha'Alor's full of spiders. Small ones about as big as yer hand. Not an unusual sight for the Hinterlands, but somethin's amiss.To be honest, I don't trust the trolls to keep pets. They're up to somethin'. I need you to bring me some of those spiders. Keep 'em alive if you can, and we'll see what the spirits tell me...",
+    "name": "All That Skitters",
+    "requires_level": 30,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "37729",
+    "added_in_patch": 7,
+    "description": "Still aching to get into the headmistress' study, eh? I suppose I can let you in... as long as you prove that you've been studying.Proper rune formation is essential when it comes to spellcasting. If you can draw a rune, you can cast a spell.I will provide outlines for you. You can simply use your feet to trace the runes.",
+    "name": "Pop Quiz: Advanced Rune Drawing",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

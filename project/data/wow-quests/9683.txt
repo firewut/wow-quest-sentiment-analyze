@@ -1,0 +1,7 @@
+{
+    "_id": "9683",
+    "description": "To the south you will find Bloodcurse Isle. Atop the island you will find a shrine dedicated to the beloved queen of the naga, Azshara. Destroy the statue - burn it in effigy! This will surely draw the ire of Atoph, the Bloodcursed leader.Slay Atoph and return to me!",
+    "name": "Ending the Bloodcurse",
+    "requires_level": 15,
+    "zone": "Bloodmyst Isle"
+}

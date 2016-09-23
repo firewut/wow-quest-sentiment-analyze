@@ -1,0 +1,8 @@
+{
+    "_id": "39819",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Bloodhunt Highland Treasure",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32277",
+    "added_in_patch": 5.2,
+    "description": "We can use the pterrorwing that you found to strike a decisive blow against the mogu. \r\n\r\nTheir mining operation is vulnerable to attack from the air, and your pterrorwing is the only beast we have capable of flying out there.\r\n\r\nLet me know when you are ready!",
+    "name": "To the Skies!",
+    "requires_level": 90,
+    "zone": "Quests"
+}

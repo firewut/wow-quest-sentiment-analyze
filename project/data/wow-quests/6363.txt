@@ -1,0 +1,8 @@
+{
+    "_id": "6363",
+    "description": "I have prepared leather goods for Varg to sell at the Bloodhoof Village.  Will you bring them to him?If you have already been to Bloodhoof Village and spoken to their wind rider master, then you can fly one of our Thunder Bluff wind riders back to him.Take the leather goods to Tal, our wind rider master in Thunder Bluff, and speak with him to arrange transport to Bloodhoof Village.",
+    "name": "Tal the Wind Rider Master",
+    "requires_level": 5,
+    "side": "horde",
+    "zone": "Mulgore"
+}

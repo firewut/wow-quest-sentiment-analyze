@@ -1,0 +1,7 @@
+{
+    "_id": "25276",
+    "description": "There.  Not my best work, but certainly not my worst.  You will be known as \"<name>damus\" among the cultists.These papers will bump you ahead of the other recruits and allow you to speak directly to the Twilight instructors.Go to the proving grounds and show these to Condenna the Pitiless.  She's separating the wheat from the chaff.Show her what you're made of.",
+    "name": "Your New Identity",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

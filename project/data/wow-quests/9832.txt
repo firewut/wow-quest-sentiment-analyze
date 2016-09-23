@@ -1,0 +1,7 @@
+{
+    "_id": "9832",
+    "description": "I hid the second fragment at the bottom of Serpent Lake, long before it was called that.  The giant drain installed there after the naga took over has likely pulled the container into the depths of Coilfang Reservoir.The third fragment will prove the most trying, as I left it inside Tempest Keep back when it was controlled by the naaru.  Kael'thas now rules it and the chamber where I left it has become a prison.Bring me these remaining fragments, <name>.  Much depends on your success.",
+    "name": "The Second and Third Fragments",
+    "requires_level": 68,
+    "zone": "Shattrath City"
+}

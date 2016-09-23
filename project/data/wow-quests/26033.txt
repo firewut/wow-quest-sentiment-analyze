@@ -1,0 +1,7 @@
+{
+    "_id": "26033",
+    "description": "The last sigil is mine...and with it, the four combine to the Sigil of Trollbane, key to the tomb. We are ready.Trol'kalar lies sealed with its master's remains, within Trollbane's tomb in the catacombs of Stromgarde. It will be defended heavily...but my presence before you is proof enough that the defenders can be overcome.Enter the tomb, retrieve Trol'kalar, and bring it here.",
+    "name": "Trol'kalar",
+    "requires_level": 25,
+    "zone": "Arathi Highlands"
+}

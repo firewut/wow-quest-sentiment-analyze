@@ -1,0 +1,7 @@
+{
+    "_id": "11343",
+    "description": "The spirit world has fallen under the sway of the Lich King. Fearsome creatures made of pure nightmare now stand watch over the realm of the elements. I sense that these val'kyr are guarding a terrible secret.I am too old and weak to survive another journey. You must go in my place, <name>.Take this incense burner to Wyrmskull Village and use it to enter the spirit world. Find the large dwelling in the northeast! Avoid the val'kyr at all costs lest they make you a permanent fixture in their world.",
+    "name": "The Echo of Ymiron",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

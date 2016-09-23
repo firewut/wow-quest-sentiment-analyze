@@ -1,0 +1,7 @@
+{
+    "_id": "13572",
+    "description": "The satyrs of Felwood have started pouring their hate and corruption into our lands. They have sent Sharax the Defiler to subdue parts of the forest that we Blackwood call home.In addition to poisoning the land, animals, and plants, he has set up Jadefire braziers throughout the village to help extend his control over our people. Destroying the braziers alone won't be enough to stop him, but it will help lessen his influence while you work with Elder Brolg to free our brothers.",
+    "name": "Jadefire Braziers",
+    "requires_level": 17,
+    "zone": "Darkshore"
+}

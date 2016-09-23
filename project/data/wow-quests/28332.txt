@@ -1,0 +1,7 @@
+{
+    "_id": "28332",
+    "description": "Our dark rangers search the fields for worgen terrorists. These worgen have been sent out by their dark masters to hunt and kill us. And though a dark ranger is a formidable combatant, the worgen often attack in packs, which can overwhelm even a dark ranger.Search the fields around the ruins of Southshore for Bloodfang forsaken hunters. Kill any that you see! For the Forsaken and for Lordaeron!",
+    "name": "Helcular's Command",
+    "requires_level": 20,
+    "zone": "Hillsbrad Foothills"
+}

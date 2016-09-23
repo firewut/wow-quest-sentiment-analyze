@@ -1,0 +1,7 @@
+{
+    "_id": "28742",
+    "description": "Time for the big kill, pal! Shy-Rotam lurks in the north, the largest frostsaber of them all.You should feel honored. There's no fiercer game for a hunter to match their skills against... and if you saw the cash I'm being offered by gourmands that want a piece of this fellow, your eyes would pop out!Once you've got her, head on back to camp. Don't want to totally exhaust our frostsaber population in one day...",
+    "name": "Shy-Rotam",
+    "requires_level": 51,
+    "zone": "Winterspring"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10258",
+    "description": "Hogarth, the commander of the Armory, is in the eastern tower.  You must report your victory over Urtrak to him.  Perhaps he will be friendly?  Of course he may try to consume your soul.  One can never tell with spirits such as these. The Unyielding are still against us and will no doubt kill you if they can.  Be careful <name>.  ",
+    "name": "Honor the Fallen",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

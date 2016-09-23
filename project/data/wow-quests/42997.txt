@@ -1,0 +1,8 @@
+{
+    "_id": "42997",
+    "added_in_patch": 7,
+    "description": "Elementalist Janai has been hard at work restoring the Maelstrom Pillar. As of late, she has been focusing her research on the element of earth.You should speak with her when you have a chance. I have heard that she is close to a breakthrough.",
+    "name": "The Maelstrom Pillar: Earth",
+    "requires_level": 110,
+    "zone": "Shaman Campaign"
+}

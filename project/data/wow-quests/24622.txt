@@ -1,0 +1,7 @@
+{
+    "_id": "24622",
+    "description": "If ya lookin' for something ta do, we need some more raptors moved over to da pens. If ya head over to da island south of here, you can be meetin' with our caretakers and dey can set ya up.Dey might appreciate a hand too. Got ta be spreadin' da love, ya know?",
+    "name": "A Troll's Truest Companion",
+    "requires_level": 1,
+    "zone": "Echo Isles"
+}

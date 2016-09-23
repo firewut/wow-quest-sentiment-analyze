@@ -1,0 +1,7 @@
+{
+    "_id": "27098",
+    "description": "Ride with me to the Sepulcher, <name>. There are many things I wish to discuss with you. It is imperative that you understand the history of Lordaeron and the plight of the Forsaken.",
+    "name": "Lordaeron",
+    "requires_level": 11,
+    "zone": "Silverpine Forest"
+}

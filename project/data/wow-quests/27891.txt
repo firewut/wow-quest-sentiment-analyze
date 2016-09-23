@@ -1,0 +1,7 @@
+{
+    "_id": "27891",
+    "description": "Before we get too crazy with the dragon-killing, let me tell you a little bit about how I fight.I'm not terribly strong or stalwart like these other two, but I've got a few tricks.  At your command I'll stun your enemies to keep 'em held still.  I also make sure to keep a few potions around for tight spots.Why don't we practice fighting together?  Head out into the field, and you can see what it's like to fight with a real orc.",
+    "name": "Amakkar, Jack of All Trades",
+    "requires_level": 44,
+    "zone": "Badlands"
+}

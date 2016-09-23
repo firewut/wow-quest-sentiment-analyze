@@ -1,0 +1,8 @@
+{
+    "_id": "29535",
+    "description": "The Maker serves the purpose of creating more fel orcs by infusing them with demon blood.My superiors believe that we may be able to reverse the process, but we need samples of their blood and The Maker's infusion rod before we can know for sure.",
+    "name": "Make Them Bleed",
+    "requires_level": 59,
+    "side": "horde",
+    "zone": "Quests"
+}

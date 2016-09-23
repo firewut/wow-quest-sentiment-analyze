@@ -1,0 +1,7 @@
+{
+    "_id": "12267",
+    "description": "With the cult's ranks thinned and some of their power stripped, it's time to strike at the source of the corruption.Rothin the Decaying is resurrecting black dragons as magmawyrms in the back of the cave. Go to the summoning chamber and cleanse the remaining bones in the only way that will ensure that they will never be toyed with again... with flame.Burning the bones will surely gain Rothin's attention, see to it that he is destroyed as well.The magic in this vial should see the task done.",
+    "name": "Neltharion's Flame",
+    "requires_level": 72,
+    "zone": "Dragonblight"
+}

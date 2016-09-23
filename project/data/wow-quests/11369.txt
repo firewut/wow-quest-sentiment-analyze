@@ -1,0 +1,7 @@
+{
+    "_id": "11369",
+    "description": "There is only ever one great mother of the marsh walkers in Zangarmarsh. She is always known as the Black Stalker, and she hatches from one of the eggs left behind when her mother dies.I have a buyer who is interested in one of those eggs. He mentioned something about adding her as a zoo attraction.If you are interested in the reward I am offering, travel to the Underbog and slay the Black Stalker for her egg.",
+    "name": "Wanted: A Black Stalker Egg",
+    "requires_level": 70,
+    "zone": "Zangarmarsh"
+}

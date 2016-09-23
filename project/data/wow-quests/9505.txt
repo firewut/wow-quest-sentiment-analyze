@@ -1,0 +1,8 @@
+{
+    "_id": "9505",
+    "description": "The Prophet spoke of this day: That on this island, in this new world, our allies would find us.\"We will be tested. They will ask that we pay for the sins of our fathers...\"At the time, I did not understand the meaning behind his words, but seeing this creature and her reaction to us, it is now coming into focus. The corruption of our people has been felt even here.Venture south. It is there that we found this being. Find its kin and tell them of our people.",
+    "name": "The Prophecy of Velen",
+    "requires_level": 5,
+    "side": "alliance",
+    "zone": "Azuremyst Isle"
+}

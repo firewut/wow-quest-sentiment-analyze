@@ -1,0 +1,9 @@
+{
+    "_id": "35835",
+    "added_in_patch": 6,
+    "description": "We're ready to set up the laser, but we're going to need more firepower to cut through this stuff.The Ebon Hunter stalks the delta just southeast from here. It has an apparatus on its face that can fire a laser way stronger than what we have hooked up.We need that.You should go get it while we set up the laser.",
+    "name": "The Ebon Hunter",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

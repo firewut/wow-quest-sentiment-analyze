@@ -1,0 +1,8 @@
+{
+    "_id": "861",
+    "description": "You are eager to explore, I can tell.  I too had the lust to wander, once...Wander, and hunt.  For hunting is a tauren's greatest honor.If you truly wish to follow the ways of the hunter, show me your skill and resolve. Bring me the claws of the flatland prowlers of Mulgore.  They are tough and cunning -- fitting prey for a young <class> on the path of the hunt.",
+    "name": "The Hunter's Way",
+    "requires_level": 8,
+    "side": "horde",
+    "zone": "Mulgore"
+}

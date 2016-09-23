@@ -1,0 +1,9 @@
+{
+    "_id": "36378",
+    "added_in_patch": 6,
+    "description": "You wish to understand the secrets of our gems, <race>? In exchange for returning my pendant, I am willing to help.I must warn you, however, that the materials will not be easy to obtain.To the north, you will find magma pools that give birth to living lava creatures. Contained within these, you may find magnificent diamonds.Please return to me with a few of these diamonds...",
+    "name": "No Pressure, No Diamonds",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

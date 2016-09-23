@@ -1,0 +1,7 @@
+{
+    "_id": "11305",
+    "description": "We've been spraying down the vrykul village of Halgrind for weeks now and the vrykul just won't drop dead.Let's face it, <name>, by now our Plague has been exposed to humans, dwarves, dogs, livestock... you name it.  As our strains adapt to their hosts, more impurities get thrown in the mix.  What we need is a strain made custom for the vrykul's biology.Halgrind's chieftain fled the town after we took it over; you'll find him west of here.  As a patriarch of the Dragonflayer clan, his blood is ideal.",
+    "name": "A Tailor-Made Formula",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

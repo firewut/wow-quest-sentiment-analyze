@@ -1,0 +1,7 @@
+{
+    "_id": "25554",
+    "description": "If we are to banish Ragnaros back into the Firelands, we will need to gain access to Sulfuron Spire.Only the most trusted members of the Twilight's Hammer will have been entrusted with such valuable information.Go search the Ascendant's Rise for any written tomes you might find.  Foul as they are, we cannot waste the opportunity to learn about our enemy's weaknesses.",
+    "name": "Secrets of the Flame",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

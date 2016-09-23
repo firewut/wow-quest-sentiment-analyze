@@ -1,0 +1,7 @@
+{
+    "_id": "13520",
+    "description": "It is good to see you. You were key in ensuring that our loved ones made it home, and I hold some hope that you may yet help us further.Like Laird, their wounds will be grave - every one of them battered by the coast and assaulted by the elementals. I am doing what I can, but it seems that those elementals hosted a toxin that is weakening their ability to heal. I believe I can concoct a salve, but I will need secretion from the muscles of the clams that inhabit this coast. Can you help me?",
+    "name": "The Boon of the Seas",
+    "requires_level": 8,
+    "zone": "Darkshore"
+}

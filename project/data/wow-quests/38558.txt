@@ -1,0 +1,9 @@
+{
+    "_id": "38558",
+    "added_in_patch": 7,
+    "description": "Those jawless mooks are actually trying to salvage parts from our ship! They can't possibly appreciate superior gnomish technology... Perhaps its shiny nature is appealing to their simple inclinations.In any case, I need a crystal oscillator for our new transponder. It's the shiniest part of the whole system, they're bound to have it set aside somewhere!",
+    "name": "See Ya Later, Oscillator",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Stormheim"
+}

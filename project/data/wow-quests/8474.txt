@@ -1,0 +1,7 @@
+{
+    "_id": "8474",
+    "description": "The pendant has the initials L.R. etched on to it.  Perhaps these letters will lead to the pendant's maker.",
+    "name": "Old Whitebark's Pendant",
+    "requires_level": 7,
+    "zone": "Eversong Woods"
+}

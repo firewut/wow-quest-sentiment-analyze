@@ -1,0 +1,8 @@
+{
+    "_id": "43949",
+    "added_in_patch": 7,
+    "description": "It is wise to carry more than one weapon to war. Sometimes one will be better suited than another. You should choose another weapon of legend to carry with you, especially against foes so deadly.\r\n\r\nWhat say you?",
+    "name": "More Weapons of Legend",
+    "requires_level": 102,
+    "zone": "Artifact"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "9315",
+    "description": "Come closer, I am ... dying.I was sent here ... to slay these Nerubians, but Vandril didn't ... know that they have a leader.<The dying blood elf coughs up a good amount of blood.>You must find and ... slay Anok'suten.  Get help.  She wanders around ... Suncrown Village.",
+    "name": "Anok'suten",
+    "requires_level": 9,
+    "zone": "Ghostlands"
+}

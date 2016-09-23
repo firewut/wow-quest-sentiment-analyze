@@ -1,0 +1,7 @@
+{
+    "_id": "25729",
+    "description": "<The Gnomecorder comes to life with a loud buzz.>Come in, <name>! Are you zhere? I have noted on ze map that you are near ze Cragpool Lake vater vheel, is that correct?It vould appear that ze Venture Co. has holed up at ze vheel. Have a look around vhile you are up zhere. If you happen to zee a traitorous gnome by ze name of Gerenzo Wrenchwhistle, put your boot firmly up his keester for me and for Gnomeregan! I vill pay handsomely!",
+    "name": "Gerenzo the Traitor",
+    "requires_level": 25,
+    "zone": "Stonetalon Mountains"
+}

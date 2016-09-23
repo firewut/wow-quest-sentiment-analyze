@@ -1,0 +1,8 @@
+{
+    "_id": "41146",
+    "added_in_patch": 7,
+    "description": "Amateur merchants complain about supply and demand. Masters create their own.You have done well retrieving the last two pieces I requested, but they are baubles compared to this.Your target is the Lady Anastae, and she has something very valuable of mine: A design for a masterwork gem cut. Go and get it from her by any means necessary, but take care. She is a master manipulator and will tell you all manner of lies.",
+    "name": "Elegant Design",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26570",
+    "description": "Heading up north, eh? How about you wage your own little war against those Blackrock monsters? What do you say, <name>?Kill any Blackrock orc that you see at Alther's Mill or Render's Camp. Kill until your skin turns red from their blood splatter and then come back to me and I'll pay you handsomely.It might not stop the Blackrock invasion, but it'll be sure to put a kink in their plans.",
+    "name": "Render's Army",
+    "requires_level": 15,
+    "zone": "Redridge Mountains"
+}

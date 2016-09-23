@@ -1,0 +1,8 @@
+{
+    "_id": "30083",
+    "added_in_patch": 5,
+    "description": "With our grip on the province loosening, saurok from the wilds have already moved in to the cave just north of town.Most of our hunters are face-down in their own tears, so the saurok just walk in here like they own the place and grab whatever they want!I want to send a message that Zhu's Watch is not to be crossed.Will you be my messenger?",
+    "name": "Securing the Province",
+    "requires_level": 86,
+    "zone": "Krasarang Wilds"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11381",
+    "description": "Death is in the air.  I've never had so many orders for my famous soup--it lifts your spirits and soothes the soul.And I know a fellow cook when I see one!  Would you like to help me out and get a cut of the profits?Here, take my cooking pot, gather some clefthoof meat and I'll let you in on a little secret.  What makes my soup so good for the soul?  It's not chicken--I cook it at the Ancestral Grounds in Nagrand to soak up all that spiritual stuff there.",
+    "name": "Soup for the Soul",
+    "requires_level": 70,
+    "zone": "Cooking"
+}

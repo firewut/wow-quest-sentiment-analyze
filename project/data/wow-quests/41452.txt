@@ -1,0 +1,8 @@
+{
+    "_id": "41452",
+    "added_in_patch": 7,
+    "description": "Greetings, stranger.\r\n\r\n<Mayruna bows to you.>\r\n\r\nWe arrived from Val'Sharah a short time ago with hopes of settling here. Our journey was not easy and we are weary.\r\n\r\nThese owlcats have made a mess of our camp, as you can surely see. Would you be so kind as to assist us with cleaning up?\r\n\r\nThen perhaps you can help us establish a new moonwell!",
+    "name": "Feline Frantic",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

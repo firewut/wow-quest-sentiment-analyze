@@ -1,0 +1,8 @@
+{
+    "_id": "43541",
+    "added_in_patch": 7,
+    "description": "I am glad you returned safely, Highlord. Delas Moonfang has also arrived with representatives of the Conclave.The priests have come to discuss Netherlight Temple, their seat of power, hidden deep within the Twisting Nether.As you have both discovered, the Legion has been searching for them for quite some time, and now... they have found them.The Silver Hand has agreed to hear their words. Would you join them now, Highlord?",
+    "name": "United As One",
+    "requires_level": 110,
+    "zone": "Paladin Campaign"
+}

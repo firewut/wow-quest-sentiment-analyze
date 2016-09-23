@@ -1,0 +1,8 @@
+{
+    "_id": "31503",
+    "added_in_patch": 5,
+    "description": "There is a champion among the loyalists, Vess-Guard Na'kal, whose strength comes not from experience or development, but from genetic modification. He was meant to be an example of the future of mantid - the sick idea that we can be born strong, without earning it.He's a mockery of my work! Gene augmentation was meant for mature, post-swarm veterans ONLY!End him. Perhaps it will serve as a lesson to Grand Empress Shek'zeer that taking shortcuts leads to ruin.",
+    "name": "Shortcut to Ruin",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

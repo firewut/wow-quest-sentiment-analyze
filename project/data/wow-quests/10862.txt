@@ -1,0 +1,7 @@
+{
+    "_id": "10862",
+    "description": "The cowardly arakkoa attack us daily.  They ambush our hunters and sometimes even raid inside our walls.  We kill them when we can, but their magic is strong and they often escape our warbands.  I have learned that some arakkoa claim to be friendly with the Horde.  They live in Shattrath City to the northwest.  Rilak the Redeemed is their leader.  Search for him in the Lower City, and when you find him, demand his surrender.",
+    "name": "Surrender to the Horde",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

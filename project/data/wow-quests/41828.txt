@@ -1,0 +1,8 @@
+{
+    "_id": "41828",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "WANTED: Bristlemaul",
+    "requires_level": 110,
+    "zone": "Highmountain"
+}

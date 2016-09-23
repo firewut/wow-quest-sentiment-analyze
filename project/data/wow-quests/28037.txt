@@ -1,0 +1,7 @@
+{
+    "_id": "28037",
+    "description": "The Warchief has requested that any able-bodied adventurer head to Zul'farrak, just west of Gadgetzan, immediately!Gadgetzan is being threatened by the Sandfury trolls and their growing army! If you so choose, head to Zul'farrak and speak with Tran'rek to help the goblins out.",
+    "name": "Adventurers Wanted: Zul'farrak",
+    "requires_level": 46,
+    "zone": "Zul'Farrak"
+}

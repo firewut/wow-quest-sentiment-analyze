@@ -1,0 +1,8 @@
+{
+    "_id": "32334",
+    "added_in_patch": 5.1,
+    "description": "The mallet you seek is not a toy for children,It calls trouble like the song of a siren.A test of strength the Monkey King will require,Before you receive this tool of your desire.At the Temple of the White Tiger you will findA challenger to test how well you are resignedStep through the main door and then turn right down the rampChallenge the ook waiting for you there like a champ!",
+    "name": "The Third Riddle: Strength",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

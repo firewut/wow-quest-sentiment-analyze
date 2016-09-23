@@ -1,0 +1,8 @@
+{
+    "_id": "25736",
+    "description": "This is all that's left of the huge elemental that attacked you: a frothing orb of water that continues to fight your grip.Forba might appreciate seeing proof that you helped stop another threat to the camp.",
+    "name": "The Floodsurge Core",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30901",
+    "added_in_patch": 5,
+    "description": "I'm heading westward with Taoshi to gather the strongest I can find to confront the Sha of Hatred.I would like you to come with me.",
+    "name": "Along the Southern Front",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

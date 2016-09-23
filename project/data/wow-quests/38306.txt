@@ -1,0 +1,9 @@
+{
+    "_id": "38306",
+    "added_in_patch": 6.1,
+    "description": "This book has seen better days. Not much can be made out between the waterlogging and the apparent animal bites, but a few poor attempts at poetry center around the \"radiant glow\" of the Undercity and someone named Estelle Gendry.",
+    "name": "Mystery Notebook",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Undercity"
+}

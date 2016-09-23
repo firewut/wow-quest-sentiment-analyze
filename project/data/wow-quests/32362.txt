@@ -1,0 +1,8 @@
+{
+    "_id": "32362",
+    "added_in_patch": 5.1,
+    "description": "Jaina is refusing to hear me out. Father was hoping I would have some pull with her, but I think she still sees me as a child.You, on the other hand, are a hero of the Alliance and I know she respects your deeds.Is there something you can say to her to convince her we need her help?",
+    "name": "The Fate of Dalaran",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

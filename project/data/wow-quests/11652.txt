@@ -1,0 +1,8 @@
+{
+    "_id": "11652",
+    "description": "Once you're ready, jump into one of the tanks and drive it out to the Plains of Nasam, southeast of here.Use the tank's weapon arsenal to take down the Scourge army. If you get in a jam, the \"Meatpounder\" will tear 'em up and the land mines will finish 'em off! If you find any of our soldiers, grab 'em! One last thing, fuel tanks can be found all over the field.Try to get close enough to that structure in the center and see what's going on.If you do all of this and live, go to Hellscream!",
+    "name": "The Plains of Nasam",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

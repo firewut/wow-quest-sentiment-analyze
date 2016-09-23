@@ -1,0 +1,7 @@
+{
+    "_id": "27604",
+    "description": "Jammal'an the Prophet, leader of the Atal'ai and Hakkari trolls, has obtained a small amount of Hakkar the Soulflayer's blood. They are injecting it into the green dragons to use their bodies to produce the massive quantities of blood necessary to summon Hakkar into our world.We cannot allow this to come to pass. Slaughter Jammal'an and his priests before they get any further in their efforts!",
+    "name": "Jammal'an the Prophet",
+    "requires_level": 50,
+    "zone": "Sunken Temple"
+}

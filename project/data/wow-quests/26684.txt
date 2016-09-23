@@ -1,0 +1,8 @@
+{
+    "_id": "26684",
+    "description": "The looking glass was one of my finest treasures until. . .the incident.  After that happened, I discarded it behind the barn.  There was an insane ghoul who used to roam back there.  Perhaps he picked it up.  Rumor has it the devilish beast resides in the Tranquil Gardens Cemetery.",
+    "name": "The Insane Ghoul",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

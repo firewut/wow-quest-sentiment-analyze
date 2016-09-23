@@ -1,0 +1,8 @@
+{
+    "_id": "36843",
+    "added_in_patch": 6,
+    "description": "Please, traveler, I need your help.Aruuna, my home, has been destroyed by the arakkoa. They swooped down from their spires and killed anyone who tried to escape. My family... did not make it out. My brother Barum stayed behind to find his daughter amidst the chaos. I beseech you, please, go to Aruuna and find Barum.He is the only family I have left.",
+    "name": "They Came From Above",
+    "requires_level": 94,
+    "zone": "Talador"
+}

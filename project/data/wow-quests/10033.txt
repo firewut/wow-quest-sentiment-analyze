@@ -1,0 +1,8 @@
+{
+    "_id": "10033",
+    "description": "A bounty is declared on the bonelashers of the Bone Wastes.  As known carriers of the plague, they are to be destroyed forthwith!While they can be found throughout the wastes, they are known to congregate at Carrion Hill in the north.Report to Taela Everstride afterward to collect your reward.",
+    "name": "Wanted: Bonelashers Dead!",
+    "requires_level": 62,
+    "side": "alliance",
+    "zone": "Terokkar Forest"
+}

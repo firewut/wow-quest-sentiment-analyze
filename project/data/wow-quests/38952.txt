@@ -1,0 +1,8 @@
+{
+    "_id": "38952",
+    "added_in_patch": 7,
+    "description": "The needles are sharp, but look at them closely. Some have a curve to them, others have a spur hanging off the side. Look at this one... it's got a ninety-degree crook in it! I have no desire to sew around a corner.Tiffany Cartier in the jewelcrafting shop has a good eye for this sort of thing. Bring these needles to her, and she'll straighten them out.",
+    "name": "Meticulous Precision",
+    "requires_level": 102,
+    "zone": "Tailoring"
+}

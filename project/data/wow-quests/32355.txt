@@ -1,0 +1,8 @@
+{
+    "_id": "32355",
+    "added_in_patch": 5.1,
+    "description": "$p! Prince Anduin has somehow slipped his guards again. His control over the light is greatly increasing.He was last seen heading to Kun-Lai Summit. He gave our mages the slip around the Valley of Emperors.Can you find him? He insists on searching for what he claims is a counter to the Divine Bell. Perhaps you can talk some sense into him before he seizes control of your mind and has you dance your way back here.Talk to Fennie for a ride into the mountains.",
+    "name": "The Harmonic Mallet",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

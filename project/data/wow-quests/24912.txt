@@ -1,0 +1,7 @@
+{
+    "_id": "24912",
+    "description": "",
+    "name": "Empowerment",
+    "requires_level": 80,
+    "zone": "Quests"
+}

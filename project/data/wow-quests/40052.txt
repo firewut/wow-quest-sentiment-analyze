@@ -1,0 +1,8 @@
+{
+    "_id": "40052",
+    "added_in_patch": 7,
+    "description": "Here are those tablets back, along with their deciphered writing. You can take this codex back to Pallin, too. I'll start getting my things ready for when he calls me back to Dalaran.<Nicholo sighs.>Learn from my example, <name>. If I were you, I'd break free from Pallin's \"requests\" as soon as you can.",
+    "name": "Ancient Vrykul Mastered",
+    "requires_level": 104,
+    "zone": "Inscription"
+}

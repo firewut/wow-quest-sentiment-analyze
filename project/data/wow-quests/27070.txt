@@ -1,0 +1,7 @@
+{
+    "_id": "27070",
+    "description": "I heard that a troll in here, Hydromancer Velratha I think she was called, has come into the possession of a very rare, beautiful, and powerful piece of jewelry called the Tiara of the Deep. She uses it to control the powerful demigod Gahz'rilla, whose very scales are said to crackle with energy. Do you know what all of that means, <race>?I need it! Kill Velratha, take the Tiara of the Deep, and kill Gahz'rilla for one of his scales. Bring them all back to me pronto! I'll reward you handsomely.",
+    "name": "A Fool's Errand",
+    "requires_level": 44,
+    "zone": "Zul'Farrak"
+}

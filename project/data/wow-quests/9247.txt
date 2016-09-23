@@ -1,0 +1,7 @@
+{
+    "_id": "9247",
+    "description": "<name>,In times past you have served the interests of the Argent Dawn, always to the best of your abilities. Now, once again, we sound the clarion call in our time of greatest need.<name>, please report to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands if you are willing to aid us once more.",
+    "name": "The Keeper's Call",
+    "requires_level": 1,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "12858",
+    "description": "Thank the Light that someone got my message. Now that I'm safe from the iron dwarves, I need to ask your help with something. I've got a lead on Norgannon's keystone, which guards access to Ulduar's archives, but the Titans divided it into two pieces and secreted them away.One of the pieces, the keystone's shell, is held within the Inventor's Library on the northern coast, south of Ulduar itself. The first thing you'll need to do is retrieve the fragments of an access disk from the library's guardians.",
+    "name": "Pieces to the Puzzle",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

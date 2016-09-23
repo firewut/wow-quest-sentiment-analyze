@@ -1,0 +1,7 @@
+{
+    "_id": "29643",
+    "description": "Two years ago the Shadow Council summoned forth a being that shattered Auchindoun in its wake.Read the Codex of Blood to find out what happened. Be warned, Grandmaster Vorpil guards it with his life.",
+    "name": "The Codex of Blood",
+    "requires_level": 67,
+    "zone": "Shadow Labyrinth"
+}

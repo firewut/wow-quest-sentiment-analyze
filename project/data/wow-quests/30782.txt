@@ -1,0 +1,8 @@
+{
+    "_id": "30782",
+    "added_in_patch": 5,
+    "description": "The spirits of the fallen villagers have risen! I can feel the hatred emanating from the spirits.<name>, if we are to survive here, we must defend ourselves. This is the only way we can put them to rest.",
+    "name": "Spiteful Spirits",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

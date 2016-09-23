@@ -1,0 +1,7 @@
+{
+    "_id": "26907",
+    "description": "In order to maintain the relative safety in the Southern Barrens, we must put a stop to the current leadership of the Razorfen tribe. Although Charlga Razorflank commands her people through powerful mysticism, her true power is in the strength of the elders around her.Slay them. Hunt down Bonetusk, the pack leader. Stop Roogug, the overseer of Geomancers. Crush Ramtusk, the quilboar Warlord.Return to me when the deed is done.",
+    "name": "Take Them Down!",
+    "requires_level": 30,
+    "zone": "Razorfen Kraul"
+}

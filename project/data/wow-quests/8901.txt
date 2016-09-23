@@ -1,0 +1,7 @@
+{
+    "_id": "8901",
+    "description": "Have you ever known love, young one? It was a thing foreign to me until lately, when I met a girl from the Undercity, Elenia. It is rare enough for one of my kind to look outside our own, let alone one of the Forsaken.But now thoughts of her occupy my mind both days and nights.If you can, could you take this letter to her? I want her to come here to Mulgore. I hope that she will say yes.",
+    "name": "Dearest Elenia,",
+    "requires_level": 1,
+    "zone": "Quests"
+}

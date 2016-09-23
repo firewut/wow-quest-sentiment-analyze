@@ -1,0 +1,8 @@
+{
+    "_id": "30567",
+    "added_in_patch": 5,
+    "description": "Can you smell it in the air? A storm is brewing! And so am I!Meet me at the hilltop when the storm hits and together we'll whip up a keg of my most famous brew. Can I count on your help?",
+    "name": "Blanche's Boomer Brew",
+    "requires_level": 90,
+    "zone": "Pandaren Brewmasters"
+}

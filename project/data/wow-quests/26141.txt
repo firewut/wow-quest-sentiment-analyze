@@ -1,0 +1,7 @@
+{
+    "_id": "26141",
+    "description": "ON THE OTHER... SIDE OF... MY CHAMBER THERE... ARE... CANDIDATES FOR ASCENSION.WE WILL NEED... THEIR... RUNESTONES OF BINDING... TO CREATE A... MEANS OF CONTROLLING... A BOUND ELEMENTAL.",
+    "name": "Runestones of Binding",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

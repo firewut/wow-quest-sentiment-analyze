@@ -1,0 +1,9 @@
+{
+    "_id": "36272",
+    "added_in_patch": 6,
+    "description": "We've had a chance to work with these beasts for a while now, and that's allowed us to develop a brand-new trap for you to try out. It should be much sturdier than the last one!Mind giving 'er a run, commander? The Improved Iron Trap will let you capture some of the meatiest wildlife, like the big boars and riverbeasts out in Gorgrond. We'll be able to turn them into some tasty steaks.",
+    "name": "Feeding An Army",
+    "requires_level": 93,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

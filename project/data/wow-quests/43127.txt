@@ -1,0 +1,8 @@
+{
+    "_id": "43127",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Wild Gladiator's Silk Armor",
+    "requires_level": 100,
+    "zone": "Quests"
+}

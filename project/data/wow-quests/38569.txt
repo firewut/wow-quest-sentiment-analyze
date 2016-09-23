@@ -1,0 +1,7 @@
+{
+    "_id": "38569",
+    "description": "We need to get control of this situation. We thought these docks would be all but abandoned. Instead, Gul'dan has ordered the Iron Horde to retreat to Tanaan, and many are using this harbor to make their getaway.We need to clear a path for your salvage team. Lay waste to them! Every foe we slay here is one less convert for Gul'dan's wretched demon-worshipping army.",
+    "name": "Clearing the Docks",
+    "requires_level": 100,
+    "zone": "Garrison Campaign"
+}

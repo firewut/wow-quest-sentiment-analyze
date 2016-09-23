@@ -1,0 +1,7 @@
+{
+    "_id": "12872",
+    "description": "Charging inventor's disk.Disk charging completed.Preparing emergency protocol gamma.Emergency protocol loaded. Please use the charged disk to activate the guardian of Norgannon's shell, Archivist Mechaton. The archivist will release the shell once your identity has been verified.Please have a pleasant millennium.",
+    "name": "Norgannon's Shell",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

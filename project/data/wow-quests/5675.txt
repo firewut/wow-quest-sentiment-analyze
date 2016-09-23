@@ -1,0 +1,7 @@
+{
+    "_id": "5675",
+    "description": "Time's a wastin', lad. It's time for you to return home to Darnassus. Priestess Alathea's sent word here that you're to return there for training. Seems they feel you're ready to be tested much like those who serve the Light. You should head out whenever you can. Alathea's message said that she'd be waitin' for you in the Temple of the Moon. Good luck.",
+    "name": "Elune's Grace",
+    "requires_level": 20,
+    "zone": "Priest"
+}

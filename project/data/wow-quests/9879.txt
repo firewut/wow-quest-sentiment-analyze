@@ -1,0 +1,7 @@
+{
+    "_id": "9879",
+    "description": "I would have been killed had you not come along, stranger. They have already murdered so many Kurenai in their search for a lost relic.What they seek is the totem of Kar'dash. Why they think that we would know anything about this totem, I cannot understand. Is a totem not an orcish implement by nature?This information must be taken back to Arechron. Perhaps he knows why Murkblood are kidnapping Kurenai and torturing them for information regarding an orcish device.Let's go before more come.",
+    "name": "The Totem of Kar'dash",
+    "requires_level": 64,
+    "zone": "Nagrand (Outland)"
+}

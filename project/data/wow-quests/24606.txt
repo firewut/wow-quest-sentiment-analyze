@@ -1,0 +1,7 @@
+{
+    "_id": "24606",
+    "description": "This bright red stone, found clutched in the grasp of a quilboar, has been carefully carved into the likeness of a great boar, with thorny vines sprouting from its back. Its surface is smooth and worn with care.Did the quilboar make this? If you find others, maybe one of the shaman at Firestone Point could tell you more about them.",
+    "name": "Blood of the Barrens",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

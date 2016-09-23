@@ -1,0 +1,8 @@
+{
+    "_id": "11901",
+    "description": "There's Scourge everywhere, <class>.  We've organized the farmers and miners into a militia, but this just won't cut it.The one detachment of troops that Valiance Keep sent is defending the mine.  We haven't heard from them in days!If you really wish to help us, why don't you go to the mine and see what's going on?  Maybe we can get them to send us some reinforcements.",
+    "name": "Military?  What Military?",
+    "requires_level": 68,
+    "side": "alliance",
+    "zone": "Borean Tundra"
+}

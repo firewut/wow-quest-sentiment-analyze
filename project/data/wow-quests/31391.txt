@@ -1,0 +1,8 @@
+{
+    "_id": "31391",
+    "added_in_patch": 5,
+    "description": "The Klaxxi are only rumored to exist, far beyond the wall in the Dread Wastes.Few have ventured into that territory, and none have returned to tell the tale.If you are set on finding these... Klaxxi... there is a small group of Shado-Pan manning the wall to the far southwest who may know more.",
+    "name": "The Klaxxi",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

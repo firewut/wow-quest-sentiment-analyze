@@ -1,0 +1,9 @@
+{
+    "_id": "35659",
+    "added_in_patch": 6,
+    "description": "The pounding in my head is almost unbearable but I must see this through. With all the spore samples I've taken I know where to go and what to do.I will find the source and spread... no! Destroy it! I will do what needs to be done!",
+    "name": "Heart of the Fen",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

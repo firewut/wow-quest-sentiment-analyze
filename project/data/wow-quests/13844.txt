@@ -1,0 +1,7 @@
+{
+    "_id": "13844",
+    "description": "Before you rejoin the battle, <class>, something urgent has come to my attention. My scouts report that the Forsaken are scouring the ruined tower of Althalaxx to our south.Prior to the assault, that bleak tower housed a fanatical arm of the Shadow Council commanded by the fallen highborne Athrikus Narassin. Narassin is long since dead, but if any of his work survives, we can't allow it out of our sight. Retrieve his research and kill the Forsaken commander who's plundering the ruins.",
+    "name": "The Looting of Althalaxx",
+    "requires_level": 10,
+    "zone": "Darkshore"
+}

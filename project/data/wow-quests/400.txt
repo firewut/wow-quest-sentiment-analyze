@@ -1,0 +1,7 @@
+{
+    "_id": "400",
+    "description": "Beldin Steelgrill owns the local mechanic shop, and he's the best siege engine tech there is!  But he's not forgiving to his tools.  I swear he almost breaks more arclight spanners than we can supply him with!We just filled his last order for tools.  If you deliver it to him I'm sure he'll make it worth the effort.His shop, Steelgrill's Depot, is just northeast of Kharanos.  And it's a local haunt for veteran siege engine pilots, so keep your ears open for opportunities while you're there.",
+    "name": "Tools for Steelgrill",
+    "requires_level": 2,
+    "zone": "Dun Morogh"
+}

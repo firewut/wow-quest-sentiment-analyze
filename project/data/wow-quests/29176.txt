@@ -1,0 +1,7 @@
+{
+    "_id": "29176",
+    "description": "Matron Battlewail says that when Cairne Bloodhoof died, the Horde lost a 'voice of wisdom'. I don't know what that means, but I always wanted to meet him. Some of the other orphans even have his hoofprint.Would you take me with you to Mulgore? Our tutor says tauren bring their dead to a place called Red Rocks to honor them. We should go there and see if we can find Cairne.",
+    "name": "The Fallen Chieftain",
+    "requires_level": 10,
+    "zone": "Children's Week"
+}

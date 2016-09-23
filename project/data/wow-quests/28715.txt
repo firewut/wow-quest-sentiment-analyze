@@ -1,0 +1,8 @@
+{
+    "_id": "28715",
+    "description": "Vicious little grell! They've been stealing from our foodstores again.If you wouldn't mind lending a hand, they are sure to have my stolen bags within their camps to the west. I would be glad to reward you if you can bring them back to me.",
+    "name": "Demonic Thieves",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

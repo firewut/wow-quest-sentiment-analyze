@@ -1,0 +1,7 @@
+{
+    "_id": "27328",
+    "description": "The time has come to deal with the leader of the Darkcloud Pinnacle Grimtotem: Arnak Grimtotem.He is the disgraced nephew of Magatha Grimtotem, the Elder Crone and matriarch of the Grimtotem clan. His indiscretions have left him in a state of disfavor with her.None of that matters now. All that matters is that we deal with him. Once and for all.",
+    "name": "Grimtotem Chiefs: The Chief of Chiefs",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

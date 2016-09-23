@@ -1,0 +1,8 @@
+{
+    "_id": "26397",
+    "description": "Much has changed outside of Mulgore, <name>. The world is torn, and our Horde allies have turned down dark paths. We must guide them. Even in the darkest hour, we will bravely hold our heads high, and honor the Earth Mother in all we do.You must go, <name>, and be this example. Go to Orgrimmar. Tell Saurfang how the Grimtotem were driven out. Let him know our pride and discipline, our strength and sorrow.Tal at the Skytower will send you on your way. Go in peace, and never forget your people.",
+    "name": "Walk With The Earth Mother",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

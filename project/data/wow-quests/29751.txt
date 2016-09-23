@@ -1,0 +1,8 @@
+{
+    "_id": "29751",
+    "added_in_patch": 5,
+    "description": "So many spirits held in captivity here... I can feel them everywhere. Even the walls are a cage for the long-dead.<name>, we cannot simply break the sorcery over this place - doing so would release countless agonized souls to wander the earth. They will need a beacon, something to guide them.With your help, I can create a tan-chao: a bridge from this world to the heavens. For this ritual, I'll need a bowl, a candle, and a jade cong. You should be able to find them all within the ruins.",
+    "name": "Ritual Artifacts",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

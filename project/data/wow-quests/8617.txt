@@ -1,0 +1,7 @@
+{
+    "_id": "8617",
+    "description": "The time has come for you to contribute to the Ahn'Qiraj war effort, <class>. Gone are the halcyon days of whiling away your time in leisure. Now it is time to serve me and the Horde, and I assure you that I am not as forgiving as the Warchief.You will gather your forces, a guild if you have one, and invade the Molten Core. Inside you will find that the denizens of the place have singed corestones. Bring these back to me in large quantities.",
+    "name": "The Horde Needs Singed Corestones!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

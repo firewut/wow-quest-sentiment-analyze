@@ -1,0 +1,7 @@
+{
+    "_id": "11171",
+    "description": "Excellent! Everything's nearly ready for my grand entrance into Zul'Aman.You've done a fine job, <name>. I've spoken with my crew and they're warming up to you nicely. I'd say you're very close to becoming a permanent member of the team. Only one thing remains for you to do - dispatch that 'Hex Lord' fellow.Nothing to it, really. You stand up to this wretch and he'll likely just turn and run. Weaker, older trolls just add intimidating titles to their name to make up for their deficiencies, you see?\r\n",
+    "name": "Hex Lord? Hah!",
+    "requires_level": 70,
+    "zone": "Quests"
+}

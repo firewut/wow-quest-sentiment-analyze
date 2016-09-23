@@ -1,0 +1,7 @@
+{
+    "_id": "27011",
+    "description": "Farther to the south, you will find Redpine gnolls... a new arrival to the area.  You probably passed some on your way here.  Nathaniel pretends like they're not a problem, but I know better.I've seen them running away with our lumber at night.  I don't know what they'd do with lumber - they don't seem particularly handy - but that doesn't stop them from stealing it.  Head down to their camps and steal that lumber back.",
+    "name": "Redpine Thievery",
+    "requires_level": 35,
+    "zone": "Western Plaguelands"
+}

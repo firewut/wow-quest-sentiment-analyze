@@ -1,0 +1,8 @@
+{
+    "_id": "26524",
+    "description": "The Vilebranch trolls here were always worshippers of the foul god Hakkar, the loa of blood. He was a sick and twisted entity that nearly broke through to our world, but he was defeated long ago.The Vilebranch are still stirring their dark cauldrons, ones they filled with blood years before. They're either holding onto hope for a long-dead spirit, or they're up to something new and just as sinister.Get me those vessels, <name>. We need to examine them with the spiders and see just what's going on here!",
+    "name": "Dark Vessels",
+    "requires_level": 30,
+    "side": "alliance",
+    "zone": "The Hinterlands"
+}

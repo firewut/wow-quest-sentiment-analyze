@@ -1,0 +1,7 @@
+{
+    "_id": "27755",
+    "description": "The Neferset are not the only threat to our sacred tombs.A gnomish expedition stumbled upon our lands a few weeks ago.They did not heed our warnings and dug too deep within a cursed vault.Their entire expedition is now afflicted by a terrible curse that has robbed them of their sanity and taken control of their minds.They now seek access to the deepest vaults of Uldum and pose a great threat. Go to the Sunstone Terrace and put their wretched souls out of their misery.",
+    "name": "The Curse of the Tombs",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

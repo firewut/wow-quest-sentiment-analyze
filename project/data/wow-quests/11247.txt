@@ -1,0 +1,7 @@
+{
+    "_id": "11247",
+    "description": "Captain Adams gave me strict instructions to make sure that a good deal of infrastructure damage was inflicted on this site.However, since you're in charge out here, that's at your discretion,  sir am;.May I suggest that we burn down the two longhouses and the barracks that are in the lower area of Skorn? All we have to do is get inside each and throw this torch.",
+    "name": "Burn Skorn, Burn!",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "14309",
+    "description": "As you have by now witnessed, the rapid changes to this region can have both positive and negative effects on the native creatures.To the south and east of here, enraged kodo are a constant threat to anyone nearby.It's time to put my theory to the test. I've used the rejuvenated thunder lizard's blood in the making of this concoction. I'm hoping it will soothe the kodo when they eat it.Place it near an enraged kodo and make sure you do it from a safe distance!",
+    "name": "Calming the Kodo",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

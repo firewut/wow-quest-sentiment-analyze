@@ -1,0 +1,8 @@
+{
+    "_id": "42194",
+    "added_in_patch": 7,
+    "description": "Safeguarding the Gjallarhorn was my duty, <race>. I will do what is right, but first I must ask for your aid.My family was disavowed by the mystics of our time and this grave was ransacked.I cannot find peace while my family heirlooms are in the hands of the servants of the false God-King.Return them to me and I will aid you in finding the Gjallarhorn!",
+    "name": "Stolen Honor",
+    "requires_level": 101,
+    "zone": "Warrior Campaign"
+}

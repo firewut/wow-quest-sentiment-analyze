@@ -1,0 +1,9 @@
+{
+    "_id": "36889",
+    "added_in_patch": 6,
+    "description": "Our enemies surround us, and with each passing day their numbers grow. It is time to make a decisive strike against their armies, champion.Around me stand effigies of our most hated adversaries. You will be their downfall, <name>. You will become nemesis and they will run in fear at the sight of you.Now select the target of your rage and burn in effigy that race which you mean to eradicate. Speak to me when you have made your selection.",
+    "name": "Nemesis: Hunter - Hunted",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

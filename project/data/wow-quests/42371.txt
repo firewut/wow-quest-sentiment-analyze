@@ -1,0 +1,8 @@
+{
+    "_id": "42371",
+    "added_in_patch": 7,
+    "description": "What's this? A new, confused student, desperately trying to win the favor of the headmistress, wandering the halls without anything to do?Perfect! I need help with my research.I'm writing a paper on combat. Grab me some books from the shelf over there.",
+    "name": "Study Hall: Combat Research",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

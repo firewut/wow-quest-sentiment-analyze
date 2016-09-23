@@ -1,0 +1,8 @@
+{
+    "_id": "39225",
+    "description": "Falling into the heart of the mausoleum in Auchindoun, Teron'gor gorged upon hundreds of draenei souls, becoming a bloated abomination in the process. \r\n\r\nNo longer recognizable as an orc, Teron'gor gave up his old name and has taken on the mantle of Gorefiend.",
+    "name": "Maw of Souls",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Quests"
+}

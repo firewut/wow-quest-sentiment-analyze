@@ -1,0 +1,8 @@
+{
+    "_id": "35933",
+    "added_in_patch": 6,
+    "description": "Countless times you have battled against impossible odds and unspeakable evil - and returned the victor. Now, once more, you have answered the call of duty, prepared to risk your life to save the world that you love - our world.You are Azeroth's last hope, <name>.While the challenges that stand before us are daunting, there is no other that I would trust to lead this mission.The enemy at the front may have the information we need to win this war. Seek and destroy!Go now, <name>! For Azeroth!",
+    "name": "Azeroth's Last Stand",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13909",
+    "description": "We can figure this out, <name>. We just need some Dwarven ingenuity. Think, Groffy, think!These murlocs are just looking for a home, right? Let's do something constructive. I mean that literally.All sorts of debris was washed ashore during the catastrophe, and some of the decimated murloc hovels may still be salvageable. Run along the shore here and gather up any building materials fit for a murloc. That's an admittedly low standard. ",
+    "name": "Got Some Flotsam?",
+    "requires_level": 16,
+    "zone": "Darkshore"
+}

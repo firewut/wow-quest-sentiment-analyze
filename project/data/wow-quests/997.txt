@@ -1,0 +1,8 @@
+{
+    "_id": "997",
+    "description": "Are you heading to the south?  To Lake Al'Ameth?  If so, then I have a task I might ask of you...My colleague Denalan has a camp along the eastern end of the lake, where he is studying and experimenting on the plant life of Teldrassil.  He requested a package of rare earths from Darnassus and it was late, only recently arriving here in Dolanaar.Can you take the package to him?",
+    "name": "Denalan's Earth",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

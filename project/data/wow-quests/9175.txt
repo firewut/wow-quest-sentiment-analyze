@@ -1,0 +1,7 @@
+{
+    "_id": "9175",
+    "description": "The necklace shimmers, a remarkable piece of jewelry that doesn't seem to succumb to the gloom that permeates the Ghostlands. Given the inscription, and where you found it, it must be the lost property of Lady Sylvanas Windrunner herself!Perhaps it would be best to first take it to High Executor Mavren at Tranquillien? He seems to be the highest ranking Forsaken in the area and is sure to know what to do with it.",
+    "name": "The Lady's Necklace",
+    "requires_level": 15,
+    "zone": "Ghostlands"
+}

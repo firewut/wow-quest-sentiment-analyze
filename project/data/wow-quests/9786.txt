@@ -1,0 +1,8 @@
+{
+    "_id": "9786",
+    "description": "Before my people were decimated by the orcs, Telredor served as a retreat for draenei anchorites and spiritualists. A small order of anchorites and vindicators maintained a number of shrines in this region.During the war, we lost contact with the anchorites assigned to the shrines, particularly the Boha'mu temple to the southwest. I've heard reports that a tribe of Lost Ones has settled in the area and may even be using the ruins. Visit the Boha'mu Ruins and tell me of what you find there.",
+    "name": "The Boha'mu Ruins",
+    "requires_level": 60,
+    "side": "alliance",
+    "zone": "Zangarmarsh"
+}

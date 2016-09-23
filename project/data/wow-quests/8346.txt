@@ -1,0 +1,7 @@
+{
+    "_id": "8346",
+    "description": "If there is only one lesson you deign to remember from your time on Sunstrider Isle, let it be this - control your thirst for magic.  It is a thirst unending, <name> - what you absorb must be controlled and released via Arcane Torrent.  Failure is to become one of the Wretched... hopelessly addicted and insane.Seek out a mana wyrm and unleash your Arcane Torrent upon it.  Learn to master your power. When you have sufficiently released an Arcane Torrent, return to me.",
+    "name": "Thirst Unending",
+    "requires_level": 2,
+    "zone": "Sunstrider Isle"
+}

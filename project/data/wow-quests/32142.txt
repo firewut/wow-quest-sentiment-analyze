@@ -1,0 +1,8 @@
+{
+    "_id": "32142",
+    "added_in_patch": 5.1,
+    "description": "The orcs can NOT be allowed a foothold in this land. They will defile it just as they did Kalimdor.$p, I need boots on the ground and horde in their graves. Get down to the coastline and bring the full force of Alliance wrath down on their heads!Slay any orcs you find. Take the wind out of their sails.For the King!",
+    "name": "We Will Rock You",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

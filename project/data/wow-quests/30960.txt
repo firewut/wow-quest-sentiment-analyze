@@ -1,0 +1,8 @@
+{
+    "_id": "30960",
+    "added_in_patch": 5,
+    "description": "I still have some cleanup to do here in the pass - there are some mantid still making it through. You're a valuable person to have at hand though, and I know Taran wouldn't appreciate me keeping you longer for such basic work.Taran should still be in the main camp with Gao-Ran. Report back in. I'll catch up with you a bit later.",
+    "name": "Returning from the Pass",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

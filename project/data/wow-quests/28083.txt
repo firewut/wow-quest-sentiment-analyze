@@ -1,0 +1,7 @@
+{
+    "_id": "28083",
+    "description": "The Warchief has requested that any able-bodied adventurer head to Scholomance, east of Andorhal, immediately!Recent necromantic activity in the area points to Darkmaster Gandling, and a renewed effort to train powerful sorcerors for the scourge. If you so choose, travel to Scholomance to cleanse this bastion of evil from the Plaguelands.",
+    "name": "Adventurers Wanted: Scholomance",
+    "requires_level": 40,
+    "zone": "Scholomance"
+}

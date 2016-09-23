@@ -1,0 +1,7 @@
+{
+    "_id": "13219",
+    "description": "I'm afraid that your success is going to be your undoing, <name>.<If the val'kyr could turn more white, she would.>Word of your success in Valhalas has reached deep into Icecrown Citadel, stirring one whom you have no desire to meet.Prince Sandoval himself is on his way at this very moment. Gjonner warned you that you should run and I cannot disagree.What will you do? He's on his way. Will you face the blood prince in final battle?",
+    "name": "Battle at Valhalas: Final Challenge",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

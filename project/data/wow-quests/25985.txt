@@ -1,0 +1,7 @@
+{
+    "_id": "25985",
+    "description": "<name>, is it true you're going to try to commune with the ancients?Southwest of here is the Shrine of Aviana, the matron of all flying creatures. It's the home of my favorite instructor, Choluna. I've never encountered one who was so deeply in touch with the spirits of this world. You could learn a lot from her!The recent attacks have isolated the shrine. But it's easily accessible from the air - look for the second biggest tree on Hyjal. Good luck!",
+    "name": "Wings Over Mount Hyjal",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "35554",
+    "added_in_patch": 6,
+    "description": "While you were gone, a rather shady looking human arrived at the outpost asking for you. He said he worked for... Grey was it?... and had some information regarding Spires of Arak that you would be interested in.\r\n\r\nHe was heading back to your garrison and asked that I passed along the message, and so I have.\r\n\r\nAnd before you go, thank you for all you've done for us here, truly. You and your army have turned the tides of a war that you could have just as easily walked away from. We will not forget.",
+    "name": "News from Spires of Arak",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Talador"
+}

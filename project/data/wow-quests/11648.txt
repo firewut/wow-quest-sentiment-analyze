@@ -1,0 +1,7 @@
+{
+    "_id": "11648",
+    "description": "It is fortunate you're here, <race>.You see, the Kirin Tor code of conduct frowns upon our taking certain 'extreme' measures - even in desperate times such as these.You, however, as an outsider, are not bound by such restrictions and could take any steps necessary in the retrieval of information.Do what you must. We need to know where Lady Evanor is being held at once!I'll just busy myself organizing these shelves here. Oh, and here, perhaps you'll find this old thing useful....",
+    "name": "The Art of Persuasion",
+    "requires_level": 69,
+    "zone": "Borean Tundra"
+}

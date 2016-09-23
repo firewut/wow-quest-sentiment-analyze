@@ -1,0 +1,7 @@
+{
+    "_id": "24637",
+    "description": "This operative had orders to secure the roadways between the Alliance command and Fort Triumph. General Hawthorne is on the move.<Bloodhilt crumples the documents in his fist.>It's HIM, <name>! Hawthorne - I spit the name - he is the one who ordered the assault on Taurajo! Now we know when and where to strike him down. Quickly, follow the road north of the Battlescar and meet up with my assassin Karthog. CRUSH Hawthorne and string his body up along the road!",
+    "name": "The Butcher of Taurajo",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

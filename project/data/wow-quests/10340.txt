@@ -1,0 +1,8 @@
+{
+    "_id": "10340",
+    "description": "<name>, you've done a great job here at the front, and you showed a lot of talent with that armored gryphon... I think I have another mission in mind for you.This new mission launches from Shatter Point -- an attack base the Wildhammers set up on a floating piece of land near the Portal.  It's a little unnerving there, but you have tough guts.  You'll be fine.Talk to Wing Commander Dabir'ee and have him send you to Shatter Point.  From there, report to the gryphon master Runetog Wildhammer.",
+    "name": "Shatter Point",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

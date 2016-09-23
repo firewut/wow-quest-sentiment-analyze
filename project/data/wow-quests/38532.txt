@@ -1,0 +1,8 @@
+{
+    "_id": "38532",
+    "added_in_patch": 7,
+    "description": "Your hammer looks weak, and would probably break upon striking the Firmament Stone.The vrykul master blacksmiths of old were known for the strength of their hammers. The only way to get our hands on such a hammer would be to go where vrykul go when they die. To the Maw of Souls.The goddess that resides over that realm is named Helya. She hoards the trinkets they bring for her own desires.Defeat her and you may be able to acquire such a hammer.",
+    "name": "Hammered By The Storm",
+    "requires_level": 110,
+    "zone": "Blacksmithing"
+}

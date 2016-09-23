@@ -1,0 +1,7 @@
+{
+    "_id": "27046",
+    "description": "The gyreworms infest the rock, eating away at it until our home will one day collapse. For every one that is killed, twice as many burst forth to follow, but we must carry on the fight. They must be extinguished.Go to the Crumbling Depths and slaughter any worms that you can find.",
+    "name": "Fear of Boring",
+    "requires_level": 81,
+    "zone": "Deepholm"
+}

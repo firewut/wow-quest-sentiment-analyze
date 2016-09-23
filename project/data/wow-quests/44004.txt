@@ -1,0 +1,8 @@
+{
+    "_id": "44004",
+    "added_in_patch": 7,
+    "description": "Turalyon lives! For ages I had thought that my old friend had perished on some desolate Legion world. But to know that he yet lives and is in danger is too much to bear.We must hurry, <name>. We must uncover the object's sacred purpose.The prophet of whom Turalyon spoke of is undoubtedly the leader of the draenei, Velen. Take the object and journey to the Exodar. It is there that you will find Prophet Velen.I will open a portal for you now. Take my beacon and use it when you are ready to return.",
+    "name": "Bringer of the Light",
+    "requires_level": 98,
+    "zone": "Dalaran"
+}

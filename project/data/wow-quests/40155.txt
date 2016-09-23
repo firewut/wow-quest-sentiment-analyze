@@ -1,0 +1,8 @@
+{
+    "_id": "40155",
+    "added_in_patch": 7,
+    "description": "Now dat I got all dese scales, I tink I know what I need to know.<Ske'rit hands you a few pages of handwritten notes.>Here's my latest findin's on stormscales. Bring 'em to Kondal, an' read through em' togethah.",
+    "name": "Ske'rit's Scale-Skinning Suggestions",
+    "requires_level": 98,
+    "zone": "Skinning"
+}

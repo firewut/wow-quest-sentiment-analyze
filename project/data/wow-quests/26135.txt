@@ -1,0 +1,7 @@
+{
+    "_id": "26135",
+    "description": "What you told me of the naga before has been plaguing my mind. Who are these allies they're summoning? Do they really think they can defeat the Tidehunter?Escaping this cave brings a degree of relief, but our purpose here remains. I'm hoping you will be willing to seek answers from the Battlemaiden one last time.There's only one place that I can think of where they would have taken the artifact - the temple atop the ruins. It's sure to be well guarded. Proceed carefully.",
+    "name": "Visions of the Past: Rise from the Deep",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40012",
+    "added_in_patch": 7,
+    "description": "I was on my way to Ambervale in hopes of finding an old colleague.\r\n\r\nArcanist Kel'danath was fascinated by the withered. He studied them for years hoping to calm their feral nature or even cure them.\r\n\r\nWhen one of his subjects escaped and ran amok in the royal gardens, Kel'danath was ordered to cease his research and kill all withered in his possession. He refused, and was exiled.\r\n\r\nIf Kel'danath lives, he is near withered. And withered are drawn to old settlements like Ambervale.",
+    "name": "An Old Ally",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

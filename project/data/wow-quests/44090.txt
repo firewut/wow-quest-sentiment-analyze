@@ -1,0 +1,8 @@
+{
+    "_id": "44090",
+    "added_in_patch": 7,
+    "description": "The eagle appears to have a message for you:\r\n|cFF660000To: <name>|rI hope this message finds you well.Word of Ohn'ahra's omen has traveled fast. There are many who wish to pledge their loyalty to the Unseen Path's new leader.Return to me at Trueshot Lodge, and we can discuss this further.|cFF660000             |r-Altar Keeper Biehn",
+    "name": "Pledge of Loyalty",
+    "requires_level": 101,
+    "zone": "Hunter Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "1201",
+    "description": "The Horde and Alliance hold an uneasy truce.  Outlying skirmishes and covert actions are taken by one side against the other, and it is our duty to ensure the Horde is on top!Now is the chance to do just that.Alliance infiltrators have taken positions east of Brackenwall Village.  They spy on the village and report our movements to Theramore, which we cannot allow.Hunt down the infiltrators and slay them.  Send a clear message to their superiors that we will not tolerate their spies' presence!",
+    "name": "Theramore Spies",
+    "requires_level": 30,
+    "side": "horde",
+    "zone": "Dustwallow Marsh"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "38197",
+    "added_in_patch": 6.1,
+    "description": "Recent reports suggest a notable rise of activity by Sargerei forces at Socrethar's Rise in southern Shadowmoon Valley.\r\n\r\nSocrathar's disciples pose a threat to draenei and our garrison alike. We need to quell them at our soonest convenience.",
+    "name": "Missive: Assault on Socrethar's Rise",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

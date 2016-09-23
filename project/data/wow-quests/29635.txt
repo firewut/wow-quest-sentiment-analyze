@@ -1,0 +1,8 @@
+{
+    "_id": "29635",
+    "added_in_patch": 5,
+    "description": "You may have already met my best student, Xiao, at the banquet tables. I personally would have graduated him several times over, but Instructor Xann insists that he needs more discipline.If you ask me, discipline means very little if you win every fight you enter. I'm curious to see if Xiao can keep his streak alive against you.",
+    "name": "Xiao, the Eater",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

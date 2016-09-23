@@ -1,0 +1,7 @@
+{
+    "_id": "25472",
+    "description": "A powerful artifact known as the Flameseer's Staff was lost during the initial onslaught by the enemy forces.  It was an ancient bone staff that granted its wielder power over the elements of fire.Its fragments litter the area around us.  Find them and bring them to Malfurion.  Perhaps the artifact's power will still be of use.",
+    "name": "The Flameseer's Staff",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

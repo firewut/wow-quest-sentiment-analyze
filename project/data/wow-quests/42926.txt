@@ -1,0 +1,8 @@
+{
+    "_id": "42926",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Vault of the Wardens: How'd He Get Up There?",
+    "requires_level": 110,
+    "zone": "Vault of the Wardens"
+}

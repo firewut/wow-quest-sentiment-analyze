@@ -1,0 +1,9 @@
+{
+    "_id": "39567",
+    "added_in_patch": 6.2,
+    "description": "The Bleeding Hollow clan is infamous for their blood rituals. The brutes carve sigils into their flesh and create potions from the blood of their strongest warriors.The curved ceremonial blades they use have a power all their own. Gather some of these for me. We will deprive them of these weapons and learn something about our enemy at the same time.",
+    "name": "Bloodied Blades of Zeth'Gol",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

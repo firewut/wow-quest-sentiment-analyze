@@ -1,0 +1,7 @@
+{
+    "_id": "10717",
+    "description": "Pardon me, but I couldn't help but overhear your conversation with Chawn.  I'd like to help.I'm studying the Blackwing Coven, and helping the druids in their dealings with them.I am very interested in acquiring a few of their dragon whelps; it would help us to gauge exactly what we're up against by understanding that which they revere.But first, we're going to need to acquire some nets.  I noticed that the wyrmcult poachers out in the Ruuan Weald have an abundance of them.",
+    "name": "Poaching from Poachers",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

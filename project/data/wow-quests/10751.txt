@@ -1,0 +1,7 @@
+{
+    "_id": "10751",
+    "description": "We're going to need more time, <race>. I'm going to fly further ahead with some of the other wind riders. Hopefully, we can gather some more information. What I need from you now is to clear a path and more importantly, keep their arrows pointed away from us!Call for a wind rider with the Kor'kron flare gun once you have thinned their numbers.",
+    "name": "Breaching the Path",
+    "requires_level": 68,
+    "zone": "Shadowmoon Valley (Outland)"
+}

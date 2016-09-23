@@ -1,0 +1,7 @@
+{
+    "_id": "27697",
+    "description": "<name>, I require your assistance immediately! I am Zaetar, son of Cenarius, and I am trapped here after an unfortunate series of events! Before saving me is an option, you must help me clean out the corruption that runs so rampant through Maraudon.Lord Vyletongue is the satyr ruler of the purple crystal caverns. He is an insidious agent of the Burning Legion and his continued presence can only lead to chaos and death. He can live no longer!",
+    "name": "Corruption in Maraudon",
+    "requires_level": 32,
+    "zone": "Maraudon"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "39586",
+    "added_in_patch": 6.2,
+    "description": "Ever since we humiliated 'em at Blackrock Foundry, the Iron Horde has been on the run. Gul'dan is converting them all into fel orcs, but I ain't scared. A bloodlusting orc is twice as strong but twice as stupid.Hey! Let's wade into the battlefields of Tanaan and lay waste to as many orcs as we can. Orc or fel orc - doesn't matter to me.",
+    "name": "Bringing Down the Iron Horde",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Tanaan Jungle"
+}

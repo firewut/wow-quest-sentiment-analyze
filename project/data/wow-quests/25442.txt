@@ -1,0 +1,7 @@
+{
+    "_id": "25442",
+    "description": "This pearl is unlike anything you've ever seen before. It radiates light, and if you are not mistaken, it radiates powerful magic as well.Earthmender Duarn back in Silver Tide Hollow will surely be interested in this.",
+    "name": "A Pearl of Wisdom",
+    "requires_level": 80,
+    "zone": "Shimmering Expanse"
+}

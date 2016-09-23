@@ -1,0 +1,9 @@
+{
+    "_id": "36641",
+    "added_in_patch": 6,
+    "description": "Now that the alchemy lab is complete, we can start producing alchemical catalysts for you. When you have the ingredients, please speak with my assistant to start the first work order.",
+    "name": "Your First Alchemy Work Order",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

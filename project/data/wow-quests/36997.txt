@@ -1,0 +1,9 @@
+{
+    "_id": "36997",
+    "added_in_patch": 6,
+    "description": "Way down south in the Spires of Arak, the land's being overtaken by the mushrooms that grow underwater. The result? Strange fungal creatures sprouting up all over the place.Taking on a strange creature, like the fungal giant Bulbapore, gives us a great chance to expose your boar to predators it's unfamiliar with.",
+    "name": "Boar Training: Bulbapore",
+    "requires_level": 97,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

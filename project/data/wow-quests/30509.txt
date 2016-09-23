@@ -1,0 +1,8 @@
+{
+    "_id": "30509",
+    "added_in_patch": 5,
+    "description": "It would seem that your General Nazgrim has awakened from his injuries. He and his people are upstairs in the apothecary's house back in Binan Village.He has requested your presence.",
+    "name": "General Nazgrim has Awakened",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

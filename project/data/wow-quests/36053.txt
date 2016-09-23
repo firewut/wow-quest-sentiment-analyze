@@ -1,0 +1,8 @@
+{
+    "_id": "36053",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Unused Wood Pile",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

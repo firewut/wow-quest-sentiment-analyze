@@ -1,0 +1,8 @@
+{
+    "_id": "12057",
+    "description": "The tome is bound in flesh and appears to be bleeding. Upon examination you discover page after page filled with strange symbols that appear to be written in blood.Whatever knowledge is held within the pages of this tome could be important. Return it to Captain Gort at Agmar's Hammer, east of Icemist Village.",
+    "name": "The Flesh-Bound Tome",
+    "requires_level": 71,
+    "side": "horde",
+    "zone": "Dragonblight"
+}

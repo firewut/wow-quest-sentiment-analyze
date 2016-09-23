@@ -1,0 +1,7 @@
+{
+    "_id": "14312",
+    "description": "I have heard of your exploits here in Desolace, <name>. We are in your debt.I'm afraid I must involve you in yet another crisis, one more pressing than the rest.The landscape is not all that has changed here of late. Old conflicts have made way for new, more dire ones. I should allow our guest to explain further....Khan Leh'prah is among the last of the Kolkar tribe that once possessed all of eastern Desolace. We found him near death on our borders. Listen to his words.",
+    "name": "An Introduction Is In Order",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

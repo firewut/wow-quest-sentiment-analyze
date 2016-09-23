@@ -1,0 +1,8 @@
+{
+    "_id": "30885",
+    "added_in_patch": 5,
+    "description": "Your next challenger found his strength on a beach. Particularly in a box labeled \"dynamite.\"He proves however that found strength can be as deadly as personal strength.When you are ready, face this Master Boom Boom in the Western Arena.",
+    "name": "Round 3: Master Boom Boom",
+    "requires_level": 90,
+    "zone": "Kun-Lai Summit"
+}

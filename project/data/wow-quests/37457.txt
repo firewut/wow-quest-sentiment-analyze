@@ -1,0 +1,8 @@
+{
+    "_id": "37457",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Sealing Fate: Tremendous Garrison Resources",
+    "requires_level": 100,
+    "zone": "Ashran"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27505",
+    "description": "Our dragons are returning from battle covered in Twilight corrupted flame and pursued by Twilight drakes.My menders can tend to our dragons' wounds, but they must be defended. Keep the drakes off of my menders. Lend your healing to our dragons as well if you are able.Thank you for your help with this. Our battles for Grim Batol are never-ending. We need to get our strongest dragons back into the battle as soon as possible.",
+    "name": "Draconic Mending",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

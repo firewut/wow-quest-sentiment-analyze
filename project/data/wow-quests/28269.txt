@@ -1,0 +1,7 @@
+{
+    "_id": "28269",
+    "description": "So, listen to this, <name>.I knew that these obelisks were linked to the Coffer of Promise, but there's more to it.There appears to be something very important about the coffer - something pertaining to a place the Makers called the Halls of Origination.Now that we know this Schnottz fellow and his crew are in league with Deathwing, it's all the more urgent that we get to it first.I'll wait for you north of here, at the Oasis of Vir'sarHurry! They have a head start on us!\r\n",
+    "name": "Meet Me In Vir'sar",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

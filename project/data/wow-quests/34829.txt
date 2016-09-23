@@ -1,0 +1,8 @@
+{
+    "_id": "34829",
+    "added_in_patch": 6,
+    "description": "The Shattered Hand clan is made up of orcs who can call no other clan home. They are sadistic warriors who maim their bodies, perhaps in a show of solidarity or perhaps because they simply enjoy the pain.It does not matter. What matters is that they are expanding their territory, butchering anyone in their path.They must be dealt with.",
+    "name": "New Neighbors",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

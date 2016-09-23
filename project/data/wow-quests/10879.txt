@@ -1,0 +1,7 @@
+{
+    "_id": "10879",
+    "description": "Skettis has waged war on us! Have you gathered enough strength to help with Shattrath's defense?Hold off the attackers!",
+    "name": "The Skettis Offensive",
+    "requires_level": 62,
+    "zone": "Terokkar Forest"
+}

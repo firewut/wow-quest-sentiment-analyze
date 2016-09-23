@@ -1,0 +1,8 @@
+{
+    "_id": "41918",
+    "added_in_patch": 7,
+    "description": "Arch Druid Greathoof will be expecting word on the success of our mission, but I'm afraid I must ask you to return alone.I can't rest knowing that Xavius has Lord Ursoc in his clutches. Just the thought of it makes me shake with rage! I'll find where he has been taken if I have to search every corner of Azeroth!Our paths will cross again, <name>. Be sure of it.",
+    "name": "The Dreamer Returns",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

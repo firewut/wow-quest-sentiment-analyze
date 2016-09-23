@@ -1,0 +1,7 @@
+{
+    "_id": "10457",
+    "description": "Though you've done a great deal of good work in defense of our new home here, I still feel that the Living Grove needs more protection.Please, take this small tree bough that I have imbued with the force of nature.  When used upon the seedlings that I have planted out in the grove, it will call down a storm to accelerate the growth of a treant defender.These treants are critical to the defense of the grove, especially if you choose not to make Sylvanaar your home for long.",
+    "name": "Protecting Our Own",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

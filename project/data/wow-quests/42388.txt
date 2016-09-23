@@ -1,0 +1,8 @@
+{
+    "_id": "42388",
+    "added_in_patch": 7,
+    "description": "The eagle appears to have a message for you:\r\n|cFF660000             To: <name>|rOur scouts have returned with reports from all over Azeroth. It seems that things are much worse than they initially seemed.Return to Trueshot Lodge as soon as you can.|cFF660000             |r-Emmarel Shadewarden",
+    "name": "Urgent Summons",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

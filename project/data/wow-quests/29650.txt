@@ -1,0 +1,8 @@
+{
+    "_id": "29650",
+    "description": "Caza'rez is dying a coward's death.Grand Warlock Netherkurse placed a terrible curse upon him. Perhaps if you were to bring me one of the embers from his braziers, we could use it to counteract the magic before it's too late?",
+    "name": "Fel Ember",
+    "requires_level": 66,
+    "side": "horde",
+    "zone": "Quests"
+}

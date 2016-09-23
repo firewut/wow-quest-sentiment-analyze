@@ -1,0 +1,7 @@
+{
+    "_id": "24866",
+    "description": "You find what appears to be a piece of research equipment, left behind when this camp was abandoned.  Chiseled onto the side of the device are the words \"PROPERTY OF MARSHAL EXPADISHUNS\".Perhaps you might find someone who could use this?",
+    "name": "An Abandoned Research Camp",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

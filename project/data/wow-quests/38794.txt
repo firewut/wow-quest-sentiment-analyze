@@ -1,0 +1,8 @@
+{
+    "_id": "38794",
+    "added_in_patch": 7,
+    "description": "Miner... speak with me a moment. I haven't much time in this place.I see you fight for your ore. I believe that is the most noble way to obtain your stone. It gives the land a fighting chance.Still, one mustn't be callous with their own life. Dig too deep, and the land will overcome you. No stone is worth the price I paid.But that is a tale for another day...",
+    "name": "Rethu's Sacrifice",
+    "requires_level": 98,
+    "zone": "Mining"
+}

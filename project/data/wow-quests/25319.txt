@@ -1,0 +1,7 @@
+{
+    "_id": "25319",
+    "description": "Make no mistake about this, <name>.  The outcome of this war will determine the very survival of our world as we know it.The Twilight's Hammer has become more powerful than ever with Deathwing's return.  Should they succeed in taking over the World Tree, they might strike a blow from which we will never recover.It is time we beat back the enemy.  It is time we crushed the Twilight's Hammer.",
+    "name": "War on the Twilight's Hammer",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

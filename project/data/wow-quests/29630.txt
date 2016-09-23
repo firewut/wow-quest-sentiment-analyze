@@ -1,0 +1,8 @@
+{
+    "_id": "29630",
+    "added_in_patch": 5,
+    "description": "The greenwood sprites in the Waxwood Forest to the west pose no direct threat to us, this is true. However, their numbers have increased as of late, as have their wily antics.Part of our duty as wardens of this forest is to maintain the balance. Your duty is to do so by returning these sprites to the earth.",
+    "name": "And a Heavy Fist",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

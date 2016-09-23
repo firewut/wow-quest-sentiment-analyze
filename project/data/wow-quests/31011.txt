@@ -1,0 +1,8 @@
+{
+    "_id": "31011",
+    "added_in_patch": 5,
+    "description": "The Zandalari have begun their attack! You must help defend the village!If we can't push them back, we will never find the Thunder King's remains!",
+    "name": "Enemies At Our Door",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

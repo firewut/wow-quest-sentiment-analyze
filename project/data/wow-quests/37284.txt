@@ -1,0 +1,8 @@
+{
+    "_id": "37284",
+    "added_in_patch": 6,
+    "description": "I know, I know. I be givin' ya these for ya treasures, but now I be wantin' dem back. It be complicated, mon. Do ya want da gold or not?",
+    "name": "Da Big Score",
+    "requires_level": 90,
+    "zone": "Pickpocketing"
+}

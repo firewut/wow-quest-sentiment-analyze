@@ -1,0 +1,8 @@
+{
+    "_id": "40970",
+    "added_in_patch": 7,
+    "description": "Conjurer Thalerian must be stopped.\r\n\r\nHe immediately sought out my father's private study when he arrived and he has not yet emerged. I worry that he may have found a very dangerous item.\r\n\r\nIt is called the Astromancer's Keystone. It is used to manipulate the stronghold's defenses.\r\n\r\nSuch magic was meant to protect the Moon Guard- used for any other purpose and it becomes unspeakably destructive.\r\n\r\nRetrieve the Keystone. Slay Conjurer Thalerian to get it, if you must.",
+    "name": "The Orchestrator of Our Demise",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

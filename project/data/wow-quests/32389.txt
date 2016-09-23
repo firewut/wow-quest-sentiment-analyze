@@ -1,0 +1,8 @@
+{
+    "_id": "32389",
+    "added_in_patch": 5.1,
+    "description": "This is a global war, <name>. It has spilled onto Pandaria, and it has set hot spots across Kalimdor and the Eastern Kingdoms ablaze. How will you fare on an organized battlefront? I would like to see for myself.I look forward to hearing your report from the front lines.",
+    "name": "The Lion Roars",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

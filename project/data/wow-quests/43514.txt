@@ -1,0 +1,8 @@
+{
+    "_id": "43514",
+    "added_in_patch": 7,
+    "description": "The Heart's magic is attuned to Azshara's elite through powerful warding spells. If we tried to tap into its power now we would be met only with our own demise.However, there may be a way we can bypass the wards.Prince Farondis and his court were once a part of Azshara's empire, and still hold on to keepsakes of their sordid past. Among these is sure to be a Vainglorious Draught, said to further bind the queen's followers to her will.See if you can convince the court to part with a bottle.",
+    "name": "A Vainglorious Past",
+    "requires_level": 110,
+    "zone": "Artifact"
+}

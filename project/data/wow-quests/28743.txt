@@ -1,0 +1,7 @@
+{
+    "_id": "28743",
+    "description": "You up for a little hunting, <name>?Hop in! I'll fly, you shoot!",
+    "name": "Tailgunner!",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

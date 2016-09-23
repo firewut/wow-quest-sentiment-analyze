@@ -1,0 +1,8 @@
+{
+    "_id": "43702",
+    "added_in_patch": 7,
+    "description": "The Archdruid's end draws near. His memory will live on in the hearts of all who knew him.Elothir's desperate efforts revealed that Malfurion is being held in Shala'nir, amidst the roots of Shaladrassil.My love. So near, yet so far....Shala'nir is infested with Nightmare creatures. To rush in would be suicide.I subdued one of Xavius' creatures. Use it against him, <name> and clear us a path.",
+    "name": "Softening the Target",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

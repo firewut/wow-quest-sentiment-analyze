@@ -1,0 +1,9 @@
+{
+    "_id": "33814",
+    "added_in_patch": 6,
+    "description": "Greetings, Commander.I am here on behalf of architect Baros Alexston.We have gathered enough resources for the next phase of expansion.He wishes to speak to you at your earliest convenience.",
+    "name": "Fast Expansion",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

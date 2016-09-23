@@ -1,0 +1,9 @@
+{
+    "_id": "37052",
+    "added_in_patch": 6,
+    "description": "In the far south, in the Spires of Arak, the land is being swallowed by the mushrooms that grow underwater, and strange fungal creatures grow uninhibited.Taking on a strange creature, like the fungal giant Bulbapore, will grant you a chance to expose your mount to unfamiliar predators.",
+    "name": "Clefthoof Training: Bulbapore",
+    "requires_level": 97,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "10937",
+    "description": "I'm receiving reports that the Shattered Hand fel orcs, out in front of Hellfire Citadel, are organizing for what looks like an all-out assault.  No doubt, they're not happy about your successes against all of the clans.Get to the base of the citadel, where the Path of Glory ends.  You'll find the fel orcs busy with their preparations, but you're going to catch them with their pants down.Eliminate the one that's in charge of that force.  Kill Drillmaster Zurok!",
+    "name": "Drill the Drillmaster",
+    "requires_level": 58,
+    "side": "alliance",
+    "zone": "Hellfire Peninsula"
+}

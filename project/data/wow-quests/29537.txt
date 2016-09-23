@@ -1,0 +1,8 @@
+{
+    "_id": "29537",
+    "description": "In all of the Blood Furnace, there is one area where our scryers cannot reach despite their efforts.This 'gap', as they've been calling it, is fairly large, and must be where Magtheridon is being held captive..You must find the source of the interference and dispose of it.",
+    "name": "Mind the Gap",
+    "requires_level": 59,
+    "side": "horde",
+    "zone": "Quests"
+}

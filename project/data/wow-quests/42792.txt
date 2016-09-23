@@ -1,0 +1,8 @@
+{
+    "_id": "42792",
+    "added_in_patch": 7,
+    "description": "While you were out, I asked around.\r\n\r\nYou are looking for Overseer Durant. Turns out he lives near the Shimmershade Garden.\r\n\r\nI can help you confront him, but you will need help. There are three individuals with the necessary skills, and they serve our cause.\r\n\r\nTell Cyrille that the owl hoots at dusk.\r\n\r\nInform Lorin that the saber prowls the plaza.\r\n\r\nMention to Sylessa that the cruel caskmaster has breathed his last.\r\n\r\nThey will know what to do. \r\n\r\nSpeak to Vanthir when the deed is done.",
+    "name": "Make Your Mark",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

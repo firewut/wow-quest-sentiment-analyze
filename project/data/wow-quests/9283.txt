@@ -1,0 +1,8 @@
+{
+    "_id": "9283",
+    "description": "The healing crystals are replenished, but that is not the only way we can help the injured. All draenei can tap the gift of the Naaru to heal. You must use this ability to heal one of the crash survivors.You'll find most of the survivors in the areas to the west and northwest, but the crash scattered us all over the vale.The survivors have suffered from exposure to the irradiated power crystals, so you should be able to find them by the red glow that surround them.You must save them, <name>.",
+    "name": "Rescue the Survivors!",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Ammen Vale"
+}

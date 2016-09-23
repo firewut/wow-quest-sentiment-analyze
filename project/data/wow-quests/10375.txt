@@ -1,0 +1,7 @@
+{
+    "_id": "10375",
+    "description": "You've proven yourself to our people, <name>.  Now is time for you to show us that you're willing to stand by us, even in the face of the strongest enemy.The ogres of Outland are ",
+    "name": "Obsidian Warbeads",
+    "requires_level": 65,
+    "zone": "Nagrand (Outland)"
+}

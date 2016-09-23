@@ -1,0 +1,8 @@
+{
+    "_id": "30774",
+    "added_in_patch": 5,
+    "description": "I must ask a most important task of you, <name>.Somewhere among the cages in the Osul camp is my husband, Lin. He is the light of my world.Please find him and return him to me, and save as many of our fellow Shado-Pan as you can as well.You should find keys to those cages on the Osul Marauders.",
+    "name": "Ranger Rescue",
+    "requires_level": 88,
+    "zone": "Townlong Steppes"
+}

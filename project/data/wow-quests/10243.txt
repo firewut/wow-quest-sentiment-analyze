@@ -1,0 +1,7 @@
+{
+    "_id": "10243",
+    "description": "The Scryers obtained a personnel roster for Manaforge B'naar and are now having a field day picking out assassination targets.They've missed one small bit of information, scribbled on the side of the roster.  It appeared to be a password or code like those used to access naaru-made technology like the Exodar or Tempest Keep.Go inside the manaforge and look for a control panel.  Copy its readouts on this scroll as well as you can.  We must confirm our suspicions about the origin of the technology.",
+    "name": "Naaru Technology",
+    "requires_level": 67,
+    "zone": "Netherstorm"
+}

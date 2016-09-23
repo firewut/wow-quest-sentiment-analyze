@@ -1,0 +1,7 @@
+{
+    "_id": "7224",
+    "description": "When you fight the enemy, gather the scraps of their armor and bring them to me.  I'll use those scraps to make armor for our own troops!",
+    "name": "Enemy Booty",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25099",
+    "description": "Head back down to the coast and tell Kilag that I'd like for you to borrow Bastia. The panther knows the way to where your friends are being held captive.Go now. I will see you again before we make our move against the Trade Prince.",
+    "name": "Borrow Bastia",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44286",
+    "added_in_patch": 7,
+    "description": "Ah, Deathlord! What a pleasant surprise! It is not often that you visit my workshop of blood and flesh.Actually, I have something quite special to show you. I have been developing a new type of abomination that mixes the flesh of demons with that of humans.My first prototype, Rottgut, is nearly complete! However I am still missing some of the more difficult-to-find body items.The prisoners in the Vault of the Wardens should make fine donors for the parts I require.",
+    "name": "A Masterpiece of Flesh",
+    "requires_level": 110,
+    "zone": "Death Knight Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "12292",
+    "description": "We've reached a deadlock with the Horde in Grizzly Hills.  Our forces are just about evenly matched and all signs so far have pointed to a stalemate.Until this morning, that is.  The local trappers have requested our help.  Apparently the Horde took something that belongs to them... a relic of some sort.We get this back for them and they'll give us the edge we need.  Head to the Evergreen Trading Post, west of Conquest Hold and look for a cedar chest.",
+    "name": "Local Support",
+    "requires_level": 73,
+    "side": "alliance",
+    "zone": "Grizzly Hills"
+}

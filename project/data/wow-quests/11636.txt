@@ -1,0 +1,8 @@
+{
+    "_id": "11636",
+    "description": "Tanks, mon. I be talkin' bout siege machines! We got heavy tanks stationed at Garrosh's Landing on da west coast. We gonna get you to da tank and you gonna use da tank to lay down some Horde justice on da Scourge!Da only tricky part be getting' you der. No way we be sendin' you on our wind riders. Too risky.You see dat pixie o'er der? Dat blondie elf? Yanni be his name, mon. He can get you to da coast, safely. Once der, talk to Gorge da Corpsegrinder!",
+    "name": "Magic Carpet Ride",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

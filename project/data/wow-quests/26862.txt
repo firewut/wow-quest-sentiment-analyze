@@ -1,0 +1,7 @@
+{
+    "_id": "26862",
+    "description": "The Searing Blade's warlocks have enslaved Ragefire Chasm's elemental spirits, <name>. They aren't a threat to the city while my spell keeps them at bay, but I can't maintain it much longer.Bring me six of the Searing Bindings used to control them and I will release their spirits back into the Chasm.",
+    "name": "Elemental Tampering",
+    "requires_level": 13,
+    "zone": "Ragefire Chasm"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "36916",
+    "added_in_patch": 6,
+    "description": "Way up north in the frozen peaks of Frostfire Ridge, you'll find the wooly clefthoof.They're sturdy, for sure, and fierce when you corner them. Don't expect them to be tamed without a fight.Here's a lasso, see if you can't manage to tame one before it tugs the rope out of your hands.",
+    "name": "Capturing a Clefthoof",
+    "requires_level": 91,
+    "side": "alliance",
+    "zone": "Frostfire Ridge"
+}

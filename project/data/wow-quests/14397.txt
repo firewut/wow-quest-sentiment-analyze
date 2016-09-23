@@ -1,0 +1,8 @@
+{
+    "_id": "14397",
+    "description": "We've escaped death through dumb luck, <name>.  But luck is running out.The coast is becoming flooded even as we speak.  And from the look of it, the landmass beneath us hasn't quite settled yet.I hate to say this, but we have to leave.  Curses, <name>.... I cannot lose my homeland twice in one lifetime.  Yet these earthquakes are not an enemy we can defeat.Tell Gwen Armstead to start the evacuation.",
+    "name": "Evacuation",
+    "requires_level": 4,
+    "side": "alliance",
+    "zone": "Gilneas"
+}

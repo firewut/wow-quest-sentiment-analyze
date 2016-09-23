@@ -1,0 +1,8 @@
+{
+    "_id": "13618",
+    "description": "Gorat is one of the Horde's most adept assassins.The mere mention of his name strikes fear into the hearts of our Alliance foes.He is reliable, fiercely loyal, and - until now - punctual.Something's not right, <class>.Gorat's mission was to find and eliminate the elf in charge of this assault on the ramparts.He should be somewhere in the region of Fallen Sky Lake.Find him!",
+    "name": "Find Gorat!",
+    "requires_level": 19,
+    "side": "horde",
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "13175",
+    "description": "",
+    "name": "Regaining Control",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

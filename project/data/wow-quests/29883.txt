@@ -1,0 +1,9 @@
+{
+    "_id": "29883",
+    "added_in_patch": 5,
+    "description": "I've been thinking.We are cut off from support and a long way from home.Although these Pearlfin jinyu mistrust our presence, they do not appear to be hostile.If we could convince them that we are their friends, an alliance between our races could prove extremely valuable.<name>, you must go speak to the jinyu around the village.Convince their leaders that we are not to be feared, and that we only wish for peace.",
+    "name": "The Pearlfin Situation",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

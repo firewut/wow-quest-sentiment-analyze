@@ -1,0 +1,7 @@
+{
+    "_id": "9151",
+    "description": "You've proven your loyalty to Tranquillien and have helped us defend it against the threat of the Scourge.  Some of our most powerful magisters have come from Silvermoon to help us take the fight to the enemy's doorstep.They've rebuilt the arcane sanctum to the south and have driven the Scourge away from the surrounding area.  They plan to launch an offensive into Deatholme, Dar'Khan's stronghold.  You would do well to join them, <name>.  I'm sure they can make use of a seasoned <class> like yourself.",
+    "name": "The Sanctum of the Sun",
+    "requires_level": 17,
+    "zone": "Ghostlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40213",
+    "added_in_patch": 7,
+    "description": "I'll invite him to tea. That'll show him! He'll see the leather doll and say, \"When did SHE get here?!\"I mean... sorry, <name>. My mind goes to strange places. You want to know about the demons, the ones with durable hides?Before I was exiled I saw such beasts roaming our cities. Fel hounds, they are called. Slay them and bring me their corpses.We can discuss their hides afterwards.",
+    "name": "Hounds Abound",
+    "requires_level": 110,
+    "zone": "Leatherworking"
+}

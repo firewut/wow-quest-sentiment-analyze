@@ -1,0 +1,8 @@
+{
+    "_id": "40331",
+    "added_in_patch": 7,
+    "description": "If I had been by Throndyr's side when he fought the naga, he might still be alive.These serpents will regret the day that they decided to slither from their watery hole!Killing them is not enough. No! I will honor Throndyr with a necklace of naga fangs!",
+    "name": "Bite of the Sashj'tar",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30633",
+    "added_in_patch": 5,
+    "description": "We'd been briefed on mogu sightings in the Vale, but the situation is worse than we had anticipated.Scouts are swarming all over the ruins to the northwest, gathering intel and stealing treasures.Your objective is clear - dispatch of any scouts you see. An army cannot move if we take out its eyes.",
+    "name": "Out with the Scouts",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

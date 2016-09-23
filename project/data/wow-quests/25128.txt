@@ -1,0 +1,8 @@
+{
+    "_id": "25128",
+    "description": "Hey mon, take a knee and hear me out.  We got a problem.A good friend of mine, Hana'zua, has gone out into the valley and he hasn't returned.  Last I seen, he was headin' north, where the scorpids hunt.  Maybe you go take a look for him?  The spirits be tellin' me that he's not well.",
+    "name": "Hana'zua",
+    "requires_level": 3,
+    "side": "horde",
+    "zone": "Valley of Trials"
+}

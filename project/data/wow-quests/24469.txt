@@ -1,0 +1,8 @@
+{
+    "_id": "24469",
+    "description": "Hey, you there!  Ye're a stout-looking <class>.  Lend us a hand?It looks like today's big earthquake shook a bunch o' those barbarous troggs out of the ground, and they're sure steamed about something.  My men are doing what they can to hold them off, but we could use a hand.Do yer part - head just south of here and help dig me mountaineers outta trouble.  We've got to hold the line!",
+    "name": "Hold the Line!",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "24717",
+    "description": "There's plenty of money to be had here in Un'Goro, you just need to know where to look!Apes may be common here in Un'Goro, but they're much rarer up north.  In Everlook, a gorilla hide fetches ten times what you'll get for it down here!I'm not going to send you all the way up to Winterspring - that'd be irresponsible - but I could use your help actually obtaining some hides.You'll find gorillas at Fungal Rock, to the northeast, near a waterfall.  Don't forget to check inside the cave!",
+    "name": "The Apes of Un'Goro",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

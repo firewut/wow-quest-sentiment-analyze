@@ -1,0 +1,8 @@
+{
+    "_id": "32130",
+    "added_in_patch": 5.1,
+    "description": "I've got some customers lined up that wanna collect some good old fashioned ears. But not any old ears. They only want the absolute waxiest ears money can buy! \r\n\r\nGuess they think they're lucky or something'.\r\n\r\nAnyways, I need you to go get 'em for me. I don't want to hurt any animals, so you'll need to get 'em from the Alliance over at Lion's Landing.\r\n\r\nHave fun - and remember, only bring me the waxiest!",
+    "name": "Good Luck, Have Fun",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

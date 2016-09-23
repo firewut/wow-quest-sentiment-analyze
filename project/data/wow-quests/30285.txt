@@ -1,0 +1,8 @@
+{
+    "_id": "30285",
+    "added_in_patch": 5,
+    "description": "There were some scouting reports unaccounted for after the attack. If we're lucky, they're still out in the village, but the mogu may have gotten their hands on some of them as well.If you could bring back any scouting reports you find, it would definitely put my mind at ease. We can't afford to let the mogu in on our positions or any of the artifacts we've found, lest the men be in even more danger than they already are.",
+    "name": "Wu Kao Scouting Reports",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

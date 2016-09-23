@@ -1,0 +1,7 @@
+{
+    "_id": "9542",
+    "description": "You no longer see unrecognizable symbology in the totems. The totem of Yor reads to you just as easily as your native tongue.The markings identify another furbolg den, due west of here. You are able to expertly decipher the language on the totem and know that your destination is Bristlelimb Village. Yor will guide you but if you get lost, you know that you are able to take the ancient elven road in the forest leading west to reach your destination.",
+    "name": "Totem of Vark",
+    "requires_level": 8,
+    "zone": "Azuremyst Isle"
+}

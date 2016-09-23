@@ -1,0 +1,8 @@
+{
+    "_id": "25721",
+    "description": "I'm here because Muradin himself knew that this survey needed someone to keep these buffoons on their toes. They're all too scared of the wildlife to do a thing! If I'm to get them off their duffs, I'm going to need some cleanup done.We've got an elemental problem, first off. The flood did such a number here that the water itself's gone hysterical.I bet you've never slapped the sense into an entire lake before, but I'm askin' it of you now. Whallop those elementals but good for me.",
+    "name": "Fight the Flood",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

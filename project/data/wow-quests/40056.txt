@@ -1,0 +1,8 @@
+{
+    "_id": "40056",
+    "added_in_patch": 7,
+    "description": "Student! Your fellow demon hunters in Azsuna have sent for you.I can certainly appreciate your time being spent fending off the Legion, but it doesn't excuse you from your studies.While you're down there, I'd like you to come up with some new glyphs for your abilities.Surely my genius has worn off on you and you'll be able to create your own recipes based on what you learn.",
+    "name": "Our New Allies",
+    "requires_level": 102,
+    "zone": "Inscription"
+}

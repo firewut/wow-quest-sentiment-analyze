@@ -1,0 +1,7 @@
+{
+    "_id": "27117",
+    "description": "Gandling has brought his lieutenant, the Ravenian, with him.  This lumbering brute is far more dangerous than any of the other Scourge you will find upon the battlefield... even the abominations.You will find the Ravenian within a tower near the southern end of town.  I recommend caution before fighting him, <name>.  He will not be a pushover.",
+    "name": "Brute Strength",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

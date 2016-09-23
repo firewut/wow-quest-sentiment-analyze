@@ -1,0 +1,9 @@
+{
+    "_id": "37015",
+    "added_in_patch": 6,
+    "description": "This beast is surely at home in Nagrand, and I bet ye after all of the years of domestication by Draenei, it's going to be a snap to train.Let's set it loose against the ogres of the region that yer familiar with. That Gorian Beast-Lasher, the one that smells of blood and fear, go on and see how your elekk  reacts to that.",
+    "name": "Elekk Training: Cruel Ogres",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

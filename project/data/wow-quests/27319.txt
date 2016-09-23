@@ -1,0 +1,7 @@
+{
+    "_id": "27319",
+    "description": "Elder Stormhoof is a shaman chief of immense power. He was taught by Magatha Grimtotem, the Elder Crone, leader of the Grimtotem clan.We know that he is here and that he has been training their geomancers. We have to kill him, <class>.",
+    "name": "Grimtotem Chiefs: Elder Stormhoof",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

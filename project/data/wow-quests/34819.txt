@@ -1,0 +1,8 @@
+{
+    "_id": "34819",
+    "added_in_patch": 6,
+    "description": "Oh no! They must be vegetarians.What these elekk need is fruit and lots of it. There are cherries all over the place around here under the trees.You wouldn't mind grabbing me some, would ya?",
+    "name": "Fruitful Ventures",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

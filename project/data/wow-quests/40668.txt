@@ -1,0 +1,8 @@
+{
+    "_id": "40668",
+    "added_in_patch": 7,
+    "description": "The naga in the Eye of Azshara summon terrible storms that ravage the coastline of Azsuna - storms far beyond the abilities of even their best sirens.It can only be the Heart of Zin-Azshari.Prior to the Sundering, Azshara's chosen used the Heart to greatly magnify their power - it is said to have been key in their dominance of the Well of Eternity.If you can journey to their domain and retrieve it, <name>, we will put its power to far better use than those foul creatures.",
+    "name": "The Heart of Zin-Azshari",
+    "requires_level": 110,
+    "zone": "Artifact"
+}

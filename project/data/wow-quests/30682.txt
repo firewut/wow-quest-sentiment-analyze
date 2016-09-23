@@ -1,0 +1,8 @@
+{
+    "_id": "30682",
+    "added_in_patch": 5,
+    "description": "I can't believe you made it here!\r\n\r\nI don't know how much longer I could have stayed hidden in here.I'm sure that there are others. <Class>, we have to rescue them! Then we can go to Shado-Pan Fallback. The master there will know what to do!",
+    "name": "Holed Up",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

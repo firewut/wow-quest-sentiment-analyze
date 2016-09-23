@@ -1,0 +1,8 @@
+{
+    "_id": "433",
+    "description": "As a member of the Senate and the Explorers' League, I've taken it upon myself to investigate conditions at the quarry. The troggs have run wild!They've made a mess of the Gol'Bolar quarry. As we dug deep into the earth, they poured out, destroying our equipment and trapping many of the miners below ground.We have to get them out of there. I've had mages working overtime to enchant these runes of return. If you can get them to the trapped miners, they can return to the surface in safety.",
+    "name": "The Public Servant",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14190",
+    "description": "There's got to be a way to reverse the basilisks' stonification. Those irritating night elf saboteurs who have been lurking around my mine must know something we don't. They seem to be immune to the gaze of the beast!I want you to find out their secret, <name>. Pick off a few of the Talrendis saboteurs skulking about in the rear of the strip mine and get a sample of whatever charm or ding-dong they're wearing to give them immunity. Radio me from the main forge building once you're successful.",
+    "name": "The Perfect Prism",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Azshara"
+}

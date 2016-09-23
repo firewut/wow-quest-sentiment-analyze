@@ -1,0 +1,7 @@
+{
+    "_id": "28161",
+    "description": "For rendering me faithful service, I grant you your life. Take it and be gone from my sight. Let your people know of all that has transpired.And <name>, if ever we cross paths again, you will die.",
+    "name": "Spread the Word",
+    "requires_level": 38,
+    "zone": "Thousand Needles"
+}

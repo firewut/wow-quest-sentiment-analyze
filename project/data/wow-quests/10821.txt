@@ -1,0 +1,7 @@
+{
+    "_id": "10821",
+    "description": "Doomcryer did nothing to stop the revolt? How dare she! She has been trying to undermine my authority for some time. However, this time will be her last. You must summon her and deal with her personally.Her anger guards hold the keys that summon her to Forge Camp: Anger. Retrieve the five keys and activate the five Legion obelisks. The obelisks have a short duration, so make sure they are all activated at the same time. Remember, the anger guards carry more keys.",
+    "name": "You're Fired!",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

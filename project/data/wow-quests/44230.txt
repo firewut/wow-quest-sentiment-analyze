@@ -1,0 +1,8 @@
+{
+    "_id": "44230",
+    "added_in_patch": 7,
+    "description": "We are able to procure a valuable item to help you in our war against the Legion. This Seal can be used at the most opportune moments to grant another chance at destiny.  \r\n\r\nShall we procure one for you?",
+    "name": "The Fates Bless Us",
+    "requires_level": 110,
+    "zone": "Quests"
+}

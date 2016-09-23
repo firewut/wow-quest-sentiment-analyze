@@ -1,0 +1,9 @@
+{
+    "_id": "36915",
+    "added_in_patch": 6,
+    "description": "Well, you're pretty good at this whole taming thing. What's next?We've done big, and we've done pointy. Let's do big AND pointy. I'm talking Elekks.Way out on the fertile plains of Nagrand, you'll find the finest specimens of beast this world has to offer. Grab one of the younger elekks, and we'll see if we can't get it trained like the Draenei used to.",
+    "name": "Entangling an Elekk",
+    "requires_level": 97,
+    "side": "alliance",
+    "zone": "Nagrand (Outland)"
+}

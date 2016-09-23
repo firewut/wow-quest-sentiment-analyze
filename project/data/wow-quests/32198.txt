@@ -1,0 +1,8 @@
+{
+    "_id": "32198",
+    "added_in_patch": 5.1,
+    "description": "Before we enter into a business relationship, I am required by the terms of my rehabilitation program to inform you that I am a recovering potion addict.There, now that THAT's out of the way, let's talk portals!You see, the big portals in the cities - the ones running all day and night - leak tons of magical energy. It crystallizes around the edges and is generally regarded as trash.But I noticed during my, uh... hiatus in the sewers of Dalaran, that these shards still had power.Interested?",
+    "name": "One Magical, Flying Kingdom's Trash...",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31854",
+    "added_in_patch": 5,
+    "description": "I see you have once again found me. I presume you wish to do battle once more? Yes, let's.",
+    "name": "Analynn",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

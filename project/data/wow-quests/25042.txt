@@ -1,0 +1,7 @@
+{
+    "_id": "25042",
+    "description": "It's true what they say: An army marches on its stomach. And we've been marching a long way.I'm thinking if we barbecue up a few of those giant lumbering stormsnouts, we'll have enough meat to feed us for weeks.Stormsnouts are big and slow, so they should be easy to kill. Except... Hey you're not carrying any metal on you are you?",
+    "name": "Marching On Our Stomachs",
+    "requires_level": 30,
+    "zone": "Southern Barrens"
+}

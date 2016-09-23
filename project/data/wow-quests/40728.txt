@@ -1,0 +1,8 @@
+{
+    "_id": "40728",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Wormgut's Quest",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

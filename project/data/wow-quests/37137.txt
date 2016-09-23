@@ -1,0 +1,7 @@
+{
+    "_id": "37137",
+    "description": "There are others that harness the shadows to do their bidding. You know of them, commander... the Shadowmoon orcs.They have begun to master their craft... they call to the shadows beyond this realm...I desire their power. They have one who possesses a staff of particular interest... we should claim it as our own.",
+    "name": "Scrying Hard or Hardly Scrying",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14019",
+    "description": "We've got major problems with the monkeys in the jungle to the east. They've stolen all of our explosives, and now they're going around throwing them.Sometimes at us!I had Fizz Lighter take some of his nitro and put it in these bananas. No monkey can resist a bunch of bananas!All you have to do is go out there and feed them.",
+    "name": "Monkey Business",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

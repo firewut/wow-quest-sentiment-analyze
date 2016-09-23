@@ -1,0 +1,8 @@
+{
+    "_id": "11683",
+    "description": "The fallen necropolis to the west can only be assumed to still be filled with Scourge.While you are at Talramas, <class>, I would ask that you dispatch all of the Lich King's servants that you find within and in the surrounding pools where it fell.",
+    "name": "Fallen Necropolis",
+    "requires_level": 68,
+    "side": "horde",
+    "zone": "Borean Tundra"
+}

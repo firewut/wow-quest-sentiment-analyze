@@ -1,0 +1,8 @@
+{
+    "_id": "42430",
+    "added_in_patch": 7,
+    "description": "I have to admit, Verstok was right. The shrine was too easy of a target for the Burning Legion to attack. Still, he's gone and the Fangs are with him.We're going to have to track him down for you to recover the Fangs. I should come with you but I have to stay with my people should we be attacked again.Here, my companion Ebonfang has a sense of smell like no other. He will be able to guide you to wherever Verstok is hiding. Also take this shell, through it we can communicate.May Elune guide you.",
+    "name": "The Fangs of Ashamane",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

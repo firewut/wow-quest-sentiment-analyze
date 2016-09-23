@@ -1,0 +1,7 @@
+{
+    "_id": "26631",
+    "description": "Ye may be a slayer of Fleet Masters, but rules is rules and orders is orders.  And MY orders say that all new pirates start out as swabbies.  It's the rule.You're to be working for Captain Keelhaul, the commander of the Riptide.  It's the westernmost ship in the fleet, which is parked south of the tip o' the cape.Find him in his captain's chambers, and bring yer papers.",
+    "name": "Your First Day as a Pirate",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

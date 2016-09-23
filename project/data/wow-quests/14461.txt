@@ -1,0 +1,8 @@
+{
+    "_id": "14461",
+    "description": "We must do more than simply hunt boars here. The eyesore that has been left upon the land must be purged.To give them a wild thirst for blood, the battleboars are force-fed raw flesh. Take this torch, and use it to burn the troughs of meat and gore to cinders.",
+    "name": "Feed of Evil",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

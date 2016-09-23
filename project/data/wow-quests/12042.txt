@@ -1,0 +1,7 @@
+{
+    "_id": "12042",
+    "description": "Secrets of da ages, be revealed to me now!<Drakuru peers through the Eye of the Prophets.>Ahh, great be mah destiny, <name>. You be lucky ta know me....There! I be seein' it, mon. The Heart of the Ancients. Dis be too easy!You gunna find da heart lyin' near da corpse of a goblin east of here. He be up in a chamber, near a river of broken trees.Hurry, mon, before someone else be findin' it!",
+    "name": "Heart of the Ancients",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27825",
+    "description": "We're hard-up for supplies, stranger.  With the black dragons raining destruction on what would be our hunting grounds, we have no way to get food.The ogres to our southwest, however, have exactly what we need.  Within their grotto you should find plenty of meat and crafting supplies.They may put up a fight.  Be on your guard.",
+    "name": "Survival of the Fattest",
+    "requires_level": 44,
+    "side": "alliance",
+    "zone": "Badlands"
+}

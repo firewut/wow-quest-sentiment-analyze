@@ -1,0 +1,8 @@
+{
+    "_id": "28673",
+    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Quartermaster Lungertz at Nethergarde Keep.Nethergarde's garrison urgently needs your help to stem the Horde advance into the Blasted Lands! Travel south from the Swamp of Sorrows and follow the road east to reach Nethergarde Keep.For the glory and honor of the Alliance!",
+    "name": "Hero's Call: Blasted Lands!",
+    "requires_level": 54,
+    "side": "alliance",
+    "zone": "Blasted Lands"
+}

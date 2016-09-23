@@ -1,0 +1,8 @@
+{
+    "_id": "33492",
+    "added_in_patch": 6,
+    "description": "Welcome to the Irongnome games! For this challenge: run through the arch...Get to the blue marker...Get to the green marker...then return here.You have all the time you need for this.",
+    "name": "Northshire Sprint Practice",
+    "requires_level": 1,
+    "zone": "Northshire"
+}

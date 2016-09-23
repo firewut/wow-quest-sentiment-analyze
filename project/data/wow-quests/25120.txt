@@ -1,0 +1,7 @@
+{
+    "_id": "25120",
+    "description": "Okay, <name>! Let's take these artifacts to my father and give him our report firsthand.Thanks to your help my flying machine is ready to roll. We can fly there together and share in the glory.Talk to me when you're all set to move out!",
+    "name": "Marley's Final Flight",
+    "requires_level": 32,
+    "zone": "Southern Barrens"
+}

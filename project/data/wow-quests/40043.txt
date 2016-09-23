@@ -1,0 +1,8 @@
+{
+    "_id": "40043",
+    "added_in_patch": 7,
+    "description": "Helya has made a mockery of my order by creating her own \"helarjar\", powerful undead tasked with hunting down heroic warriors and taking their souls before my val'kyr can claim them. Among them is her personal champion, Vigfus Bladewind, who wields stolen blades I forged myself long ago.\r\n\r\nHe has returned to Tideskorn Harbor with a full cargo of stolen souls to take to Helheim. Go there, kill him and his helarjar, and make the swords yours.",
+    "name": "The Hunter of Heroes",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

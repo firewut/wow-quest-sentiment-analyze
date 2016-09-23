@@ -1,0 +1,8 @@
+{
+    "_id": "32579",
+    "added_in_patch": 5.2,
+    "description": "The scouts have spotted a dangerous Zandalari just this side of Za'Tual. We need someone capable to see him dispatched. Are you up to the task?",
+    "name": "Competing Magic",
+    "requires_level": 90,
+    "zone": "Quests"
+}

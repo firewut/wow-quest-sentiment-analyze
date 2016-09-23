@@ -1,0 +1,9 @@
+{
+    "_id": "31739",
+    "added_in_patch": 5,
+    "description": "Those \"orc\" things ransacked the brewery and made off with my family's finest barrels of cider.I know there is a war out there, but I am not a brewer who will stand idly by while his prized vintage is chugged by undeserving lips.The \"Horde\" will likely put up some resistance. Why don't you put that weapon to good use and help me recover my cider?",
+    "name": "Priorities!",
+    "requires_level": 85,
+    "side": "alliance",
+    "zone": "The Jade Forest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "20439",
+    "description": "I've placed an enchantment on the tabard that should allow you to slip past the Sunreaver Sanctuary's defenses for a short period of time. You should have enough time to find your way into The Filthy Animal and meet up with the Sunreaver contact there, one Magister Hathorel.Obtain the copy of Ancient Dragonforged Blades that his men borrowed from Wyrmrest while your disguise holds, and return it to me.",
+    "name": "A Meeting With The Magister",
+    "requires_level": 80,
+    "zone": "Icecrown"
+}

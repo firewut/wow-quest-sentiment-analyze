@@ -1,0 +1,8 @@
+{
+    "_id": "26642",
+    "description": "For years, the Barrens have been the heart of the Horde presence on Kalimdor, a vital link between the orcs of Durotar and the tauren settlements in Mulgore.In the chaos of the cataclysm, floods, earthquakes, and even a quilboar invasion threaten to separate us from this vital grassland.You look ready for a challenge. Report to Kargal Battlescar at Far Watch Post and ensure the route to the Barrens remains clear! Head west from nearby Razor Hill and cross the Southfury River to find him.",
+    "name": "Preserving the Barrens",
+    "requires_level": 9,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

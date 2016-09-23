@@ -1,0 +1,7 @@
+{
+    "_id": "27391",
+    "description": "Daddy told me to give you this key.  He said it opens a chest out back behind the house.He also wanted me to thank you.  Did you do a favor for him?  Did you tell him you found my doll?Well here's the key.  And thank you <name>.  Thank you!  You're a very nice man!",
+    "name": "Hidden Treasures",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

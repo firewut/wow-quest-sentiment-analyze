@@ -1,0 +1,8 @@
+{
+    "_id": "32156",
+    "added_in_patch": 5.1,
+    "description": "This is barbaric warfare, <class>! We've lost so many trying to keep the Bilgewater operation from spreading any further.Those fallen soldiers fought honorably and deserved to be given their last rights. At the very least we need to be able to notify their next of kin.Perhaps you can collect their identification tags so we can honor them in some small way.",
+    "name": "It's Only Right",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "8529",
+    "description": "If you're still willing I'd like to send you back out to bring in another haul of spotted yellowtail, <name>. I'd imagine with the expertise you gained the first time out that this catch should be much faster and easier. Are you game?",
+    "name": "The Alliance Needs More Spotted Yellowtail!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

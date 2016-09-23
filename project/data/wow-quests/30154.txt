@@ -1,0 +1,8 @@
+{
+    "_id": "30154",
+    "added_in_patch": 5,
+    "description": "<The hatchling scowls at you.>Uh-oh, looks like someone is in a bad mood today!Luckily, you know just the thing that will cheer up the little beast.Cloud serpents love the taste of tiger meat, but the tender flanks can be... challenging... to acquire.Luckily, you recall there are some fat, juicy tigers to the northwest, on Windward Isle.Sure, you might suffer some scratches and a little mauling, but it's all worth it for your serpent, right?",
+    "name": "The Easiest Way To A Serpent's Heart",
+    "requires_level": 90,
+    "zone": "The Jade Forest"
+}

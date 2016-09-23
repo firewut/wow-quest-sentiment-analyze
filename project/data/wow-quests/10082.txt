@@ -1,0 +1,7 @@
+{
+    "_id": "10082",
+    "description": "Do you see them walking around us? The Ancestral Grounds are normally quiet and undisturbed.As of late, the ancestral spirits have risen and are extremely agitated. Something is causing a great disturbance to the spirits. We must discover what that something could be, but first, we must put the immediate threat to rest.These ghosts that you see walking about are not truly the ancestors but a representation of their state of being. You must destroy the agitated orc spirits. Do this and return to me.",
+    "name": "The Agitated Ancestors",
+    "requires_level": 66,
+    "zone": "Nagrand (Outland)"
+}

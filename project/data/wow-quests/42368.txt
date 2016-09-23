@@ -1,0 +1,8 @@
+{
+    "_id": "42368",
+    "added_in_patch": 7,
+    "description": "The demons of Felblaze Ingress are amassing at an exponential rate.We must cull these invaders before they have enough demons to flank our forces at Illidari Stand.Will you join us in battle?",
+    "name": "Quantity Over Quality",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "29206",
+    "description": "Skylord Omnuron and his druids are seeking to push through the Furnace to our northwest. They've been able to fly over the dangers, but they really need someone on the ground to help them secure the territory past the fire... someone like you.If you want to aid the Druids of the Talon, wait for one of Omnuron's Windcallers to start pushing through the fire, stay close to him, and keep him safe from any attackers within the flames.",
+    "name": "Into the Fire",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

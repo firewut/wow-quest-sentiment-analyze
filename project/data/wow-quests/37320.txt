@@ -1,0 +1,7 @@
+{
+    "_id": "37320",
+    "description": "We have a request for a fine necklace. The client wants to give it to an old enemy, to end the conflict. She didn't specify a design, but I think I heard her mumbling under her breath about a choker. \r\n\r\nOh, and she asks that the chain be \"extra sturdy\".",
+    "name": "Jewelcrafting Special Order:  A Fine Choker",
+    "requires_level": 90,
+    "zone": "Garrison Support"
+}

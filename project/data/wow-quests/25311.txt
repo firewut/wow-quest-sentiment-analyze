@@ -1,0 +1,7 @@
+{
+    "_id": "25311",
+    "description": "The demons of the Burning Legion think they can just walk up here and take whatever territory they want.  Sure -- the territory was previously theirs, but that's beside the point.We'll teach them not to cross the Twilight's Hammer.Head to the Gates of Sothann and wipe out the contingent of Horrorguards that roam the area.",
+    "name": "Twilight Territory",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "34824",
+    "added_in_patch": 6,
+    "description": "Every fortress needs three things.One: peons! Find Skaggit and have him get our peons back to work.Two: building materials. I had the peons set up a cache for you where they will store resources they create while you are away. You should check it out.And three: raw experienced muscle! Constructing buildings in a garrison can take some time but I think we can speed up your first building by hiring Skaggit's recently promoted Senior Peon II. Find him and tell him I sent ya.",
+    "name": "What We Got",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

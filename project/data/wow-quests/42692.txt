@@ -1,0 +1,8 @@
+{
+    "_id": "42692",
+    "added_in_patch": 7,
+    "description": "Hi! <name>, right? The archmages in Dalaran said we might see you down here.My brother and I are here on a reconnaissance mission. We're looking for our parents.We've lived our entire lives thinking that our family was killed in Azsuna several thousand years ago, but look around! Most of the elves here are ghosts.Olothil's been searching through books for clues as to why, but we could use some help.",
+    "name": "Children of Nar'thalas",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

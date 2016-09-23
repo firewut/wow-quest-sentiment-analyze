@@ -1,0 +1,7 @@
+{
+    "_id": "12477",
+    "description": "\"The Path of Redemption,\" ever heard of it? It is allegedly a journal that holds the prophetic ramblings of High General Abbendis of the Scarlet Onslaught. Within that book can be found the motivations and goals of the Scarlet zealots - not to mention a whole lot of insanity.Venture to Onslaught Base Camp, northeast of Wintergarde Keep, and recover a copy of \"The Path of Redemption\" from one of the Onslaught soldiers.",
+    "name": "The Path of Redemption",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31888",
+    "added_in_patch": 5,
+    "description": "It's time to put your battle skills to a true test.You will find Steven Lisbane wandering the roads in the southern parts of Northern Stranglethorn. Seek him out and see who the superior tamer is!",
+    "name": "Pet Battle Trainers: Kalimdor",
+    "requires_level": 5,
+    "zone": "Battle Pets"
+}

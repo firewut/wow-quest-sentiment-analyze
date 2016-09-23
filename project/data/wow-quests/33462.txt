@@ -1,0 +1,8 @@
+{
+    "_id": "33462",
+    "added_in_patch": 6,
+    "description": "Pieces of a Thunderlord chain lay on the ground. It is of a very simple design, but effective.With enough parts, even the most unskilled person could assemble a chain and grapple as effective as those used by the Thunderlord Grapplers.",
+    "name": "Thunderlord for a Day",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

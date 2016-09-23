@@ -1,0 +1,7 @@
+{
+    "_id": "29257",
+    "description": "We've discovered a new species of flower growing in the Magma Springs to the north. Amazingly, they sustain themselves in pure molten lava!Please go and retrieve some specimens for me. I'm sure that further study of these plants will shed some light on your little friend here.Speaking of which, he seems quite eager to go with you. Let's hope he behaves himself.",
+    "name": "Steal Magmolias",
+    "requires_level": 85,
+    "zone": "Quests"
+}

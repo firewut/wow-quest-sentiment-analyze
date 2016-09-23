@@ -1,0 +1,9 @@
+{
+    "_id": "36414",
+    "added_in_patch": 6,
+    "description": "Scouts say the Shadowmoon clan looms close, ready with their necromancy. If I die and rise again, Commander, finish me quickly. I don't want to be a ghoul.",
+    "name": "Shadowmoon Invasion!",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

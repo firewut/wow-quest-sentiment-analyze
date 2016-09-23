@@ -1,0 +1,7 @@
+{
+    "_id": "27456",
+    "description": "We have problems maintaining our food supplies here in the far east.Around here, the only manner of beast unaffected by the ravages of the plague are the carrion worms. While rather bland in taste, the meat of the worms can easily be preserved to last for months. We will need several hundred more pounds to be fully-stocked.While you can find carrion worms all over the Plaguelands, they can be found in particularly high density to the south of the chapel.  And remember: larger worms mean more meat.",
+    "name": "Gathering Some Grub(s)",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

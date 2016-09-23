@@ -1,0 +1,8 @@
+{
+    "_id": "44084",
+    "added_in_patch": 7,
+    "description": "<Sylverin sputters, pale-faced with rage.>\r\n\r\nHow could they? Margaux did everything they asked of her and more! The arcwine never stopped flowing despite everything they did to us! To her!\r\n\r\nSuch injustice cannot stand. We must take vengeance for Margaux.",
+    "name": "Vengeance for Margaux",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "42400",
+    "added_in_patch": 7,
+    "description": "The Archmage has already made his way to Suramar, where the missing mages were last seen.Baron ran off, too. It seems that hound is eager to work again.Meet them both near the road that leads into the city. With any luck, Baron will be about to pick up on their magical scent and find the missing mages before it's too late.",
+    "name": "Missing Mages",
+    "requires_level": 110,
+    "zone": "Hunter Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34931",
+    "added_in_patch": 6,
+    "description": "",
+    "name": "Treasure: Frostwolf Cache 04",
+    "requires_level": 90,
+    "zone": "Frostfire Ridge"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38717",
+    "added_in_patch": 7,
+    "description": "I did not come this far to lose her in the final moments.Maiev must be in the cells beneath Black Rook Hold.I scouted above, and the entrance to the prison is guarded by a fearsome jailor.I will sneak past and take out the guards inside. Defeat Araxxas, take the keys, and then meet me within.",
+    "name": "Black Rook Prison",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

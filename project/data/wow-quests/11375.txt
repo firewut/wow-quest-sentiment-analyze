@@ -1,0 +1,7 @@
+{
+    "_id": "11375",
+    "description": "When I'm done speaking, you may not want to take this commission.I have an eccentric client who specializes in the study of dead realities. It is rumored that the being known as Murmur destroyed the last world from which he was summoned. The professor is interested in examining his 'whisper' as he called it to understand how it is that Murmur accomplished such a feat.Will you journey to the Shadow Labyrinth within Auchindoun and retrieve it for me?",
+    "name": "Wanted: Murmur's Whisper",
+    "requires_level": 70,
+    "zone": "Terokkar Forest"
+}

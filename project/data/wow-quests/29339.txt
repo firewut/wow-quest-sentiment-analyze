@@ -1,0 +1,7 @@
+{
+    "_id": "29339",
+    "description": "",
+    "name": "Short-Supply Reward",
+    "requires_level": 85,
+    "zone": "Quests"
+}

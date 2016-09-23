@@ -1,0 +1,7 @@
+{
+    "_id": "12420",
+    "description": "Membership has its privileges.  Being part of the \"Brew of the Month\" club means knowing where to get the latest and greatest brew.Bring your \"Brew of the Month\" club membership form to Larkin Thunderbrew in the Stonefire Tavern in Ironforge.",
+    "name": "Brew of the Month Club",
+    "requires_level": 1,
+    "zone": "Brewfest"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27460",
+    "description": "We were only given one hundred men to complete this mission, and we're already down by one.  Our scout was sent into the enemy stronghold to clear out some of the guards that patrol the area, and to send off a flare so we could enter with a coordinated attack.  Our ninety-nine remaining men lie at the ready, waiting for that flare.  I need a talented <class> like you to sneak into Tyr's Hand, take out as many of their guards as possible, and then set off that flare.Are you up to it?",
+    "name": "Soft Landing",
+    "requires_level": 39,
+    "zone": "Eastern Plaguelands"
+}

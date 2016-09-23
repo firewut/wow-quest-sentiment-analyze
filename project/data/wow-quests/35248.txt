@@ -1,0 +1,9 @@
+{
+    "_id": "35248",
+    "added_in_patch": 6,
+    "description": "Welcome to the front lines, outsider, where the wastelands and the jungle collide.When their forces forget about the ferocity of the Laughing Skull, this is where we come to make them remember.By fierce and merciless destruction we survive. This is the way of Gorgrond.Join in! Let us see if you can withstand the brutality of our land.",
+    "name": "A Harsh Reminder",
+    "requires_level": 92,
+    "side": "horde",
+    "zone": "Gorgrond"
+}

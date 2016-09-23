@@ -1,0 +1,7 @@
+{
+    "_id": "13055",
+    "description": "It's good to see a friendly face.  Might be the last one I see.One of those jormungar stung me with some sort of toxin before I managed to get away.  I can feel my whole body getting numb, mon.I'm going to need a toxin gland to make an antidote.  I will also need some of the cave mushrooms that grow here... they'll slow the toxin down.Hurry, please.  I don't have much time.  ",
+    "name": "Cave Medicine",
+    "requires_level": 77,
+    "zone": "The Storm Peaks"
+}

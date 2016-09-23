@@ -1,0 +1,7 @@
+{
+    "_id": "13776",
+    "description": "The tournament is a time for testing your skills against your peers, but we must not forget that the real enemy, the Scourge, will not wait. As you hone your skills against others, so should you maintain your edge in combat against the enemy.Travel to the area southwest of the Valley of Fallen Heroes and north of Corp'rethar. There, the Scourge raises dead heroes and turns them against us. Defeat these minions of the Scourge, do honor to our allies, and keep yourself prepared for combat.",
+    "name": "A Valiant's Field Training",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

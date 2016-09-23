@@ -1,0 +1,8 @@
+{
+    "_id": "25853",
+    "description": "I'm in charge of supplying this dig. It's not that bad, but having to pick up and move out so fast wasn't exactly ideal!Archaeologists need tools, you know. You can't run around pulling up priceless antiquities with your bare hands. If you're going back to the dig site, can you bring back the tools that got left behind?",
+    "name": "Tooling Around",
+    "requires_level": 21,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

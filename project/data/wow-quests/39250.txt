@@ -1,0 +1,9 @@
+{
+    "_id": "39250",
+    "added_in_patch": 6.2,
+    "description": "In the Hellfire Citadel, they're corruptin' a magnaron with fel energy in the Pits o' Mannoroth.\r\n\r\nIf ye delve into the fel pools of that place, be on yer guard.",
+    "name": "Pits of Mannoroth",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Quests"
+}

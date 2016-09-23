@@ -1,0 +1,7 @@
+{
+    "_id": "9716",
+    "description": "We came to Outland expecting to find small pockets of life.  What we discovered in Zangarmarsh was a lush environment with a thriving ecosystem.Our initial assessment of the area was deceiving, however.  The water levels at the lakes and marshes have consistently been going down since we started taking measurements.The impact this could have on the local animal and plant life is disastrous.  Go to Umbrafen Lake, southwest of here, and look for clues related to this water depletion.",
+    "name": "Disturbance at Umbrafen Lake",
+    "requires_level": 61,
+    "zone": "Zangarmarsh"
+}

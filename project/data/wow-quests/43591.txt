@@ -1,0 +1,8 @@
+{
+    "_id": "43591",
+    "added_in_patch": 7,
+    "description": "<This leyline appears to be damaged and needs repair.Several large chunks of the main column are missing and arcane energy is crackling in the gaps.The elementals nearby seem to pick up debris and absorb it into their bodies as they move around. Maybe they have the missing pieces...>",
+    "name": "Leyline Feed: Ley Station Aethenar",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

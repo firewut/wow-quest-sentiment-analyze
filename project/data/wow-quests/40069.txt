@@ -1,0 +1,8 @@
+{
+    "_id": "40069",
+    "added_in_patch": 7,
+    "description": "The drogbar use these caves as a place to train fledgling worms.\r\n\r\nThe rockcrawlers are young and fairly weak, for now, but in time they will grow in size and strength. Without our intervention, the worms will morph into the monstrosities that the drogbar ride into battle.\r\n\r\nTheir guts are also known to be quite useful, and I have need of them. Two worms, one stone.",
+    "name": "Fledgling Worm Guts",
+    "requires_level": 98,
+    "zone": "Quests"
+}

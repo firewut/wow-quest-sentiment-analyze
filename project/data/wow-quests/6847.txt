@@ -1,0 +1,7 @@
+{
+    "_id": "6847",
+    "description": "Your war in the heart of Alterac means nothing to the Syndicate, <class>. We will do as we have always done: Wait until a clear victor rises from the ashes and rubble of this madness and then strike.That, however, is not why we are here now. The All Seeing Eye has been lost - taken by the Winterax trolls of the region.Recover the Eye and our services shall be yours - for whatever time remains for your side.Return to me once you acquire the eye so that I may examine you.<Master Ryson grins.>",
+    "name": "Master Ryson's All Seeing Eye",
+    "requires_level": 51,
+    "zone": "Alterac Valley"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "5536",
+    "description": "The satyr, a disfigured, evil aspect of the night elves, now infect the sacred lands once traveled by Cenarius. I cannot speak for the night elves when it comes to all the atrocities those demonic creatures have committed, but I have sworn an oath to the Earthmother to aid the elves in ridding the land of such a nuisance.I am sure you would prove yourself if you aided me in purging them.Northeast of here, you can find the Haldarr clan. Return to me after you've tested yourself against their power.",
+    "name": "A Land Filled with Hatred",
+    "requires_level": 45,
+    "zone": "Azshara"
+}

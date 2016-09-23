@@ -1,0 +1,7 @@
+{
+    "_id": "40709",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Discipline Chosen",
+    "zone": "Artifact"
+}

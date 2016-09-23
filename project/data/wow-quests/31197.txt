@@ -1,0 +1,8 @@
+{
+    "_id": "31197",
+    "added_in_patch": 5,
+    "description": "Killing the smaller mantid works mostly as a distraction. It forces them to replenish their numbers before they consider any serious offensive.\r\n\r\nThe big ones, though - we kill a few of those, and we really disrupt operations on the island. That buys ourselves a substantial amount of time. With mantid, it's like their size is directly proportional to their importance in the empire.\r\n\r\nSo kill some of the big ones for me, while you're out there.",
+    "name": "The Bigger They Come...",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

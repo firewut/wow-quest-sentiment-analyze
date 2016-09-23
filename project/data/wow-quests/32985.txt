@@ -1,0 +1,9 @@
+{
+    "_id": "32985",
+    "added_in_patch": 6,
+    "description": "The moment I begin the ritual to free Exurotus you can expect Kron to be drawn to us. It would normally take an army of seasoned warriors to defeat a magnaron. We have only the three of us.Look for my fire totem upon the battlefield. I will try to gain what boons I can from Exurotus. Step near the totems and become one with the Fury.With these boons, slay Kron! Lok'tar ogar!",
+    "name": "Fury of Frostfire",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

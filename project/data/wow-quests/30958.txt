@@ -1,0 +1,8 @@
+{
+    "_id": "30958",
+    "added_in_patch": 5,
+    "description": "Niuzao's appearance on the battlefield is a blessing... in more ways than one.With the distraction that he's caused, our stonemasons have seized the opportunity to build up our crumbling walls. They could use your help.Toss any loose bricks you find up their way. And hurry! Niuzao will not rampage forever.",
+    "name": "In Battle's Shadow",
+    "requires_level": 90,
+    "zone": "Townlong Steppes"
+}

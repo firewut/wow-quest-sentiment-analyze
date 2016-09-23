@@ -1,0 +1,7 @@
+{
+    "_id": "11314",
+    "description": "To the southwest was a glade that used to look much like this one. Mysterious forces and alien magics are reshaping the land. The glade has thawed, the sisters living there driven mad by the sudden change.We thought to reach out to them, but they attacked us. I fear many may be beyond saving, but I cannot give up hope.Take my pendant, travel southwest to the Vibrant Glade, and use it to try to free my sisters.",
+    "name": "The Fallen Sisters",
+    "requires_level": 69,
+    "zone": "Howling Fjord"
+}

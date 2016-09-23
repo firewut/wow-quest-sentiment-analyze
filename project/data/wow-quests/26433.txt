@@ -1,0 +1,7 @@
+{
+    "_id": "26433",
+    "description": "Skeezy said you'd be coming.  Let's identify this... thing.To start out, I'm going to need you to obtain The Holy Water of Clarity.  The nagas to our southeast maintain a hallowed shrine that dispenses a water so clean, so fresh, and so mouthwateringly pure, that when the imbiber quaffs but a mouthful of the sacred stuff, their mind is cleansed and their best path made clear.Sounds good, doesn't it?Obtain it from the Nek'mani Wellspring at the peak of the naga camp.  Good luck!",
+    "name": "The Holy Water of Clarity",
+    "requires_level": 26,
+    "zone": "The Cape of Stranglethorn"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "27785",
+    "description": "<Bzzzzzzzzzzzzt.>I can't believe it...they're almost done rebuilding it! We don't have much time, <name>.Admiral Ripsnarl, Vanessa's right hand man, is bound to be on board. We'll never get to her if he's still alive to do anything about it. You're going to need to scale the unfinished Juggernaut, find Ripsnarl, and kill him so we can get to Vanessa's private quarters on the top deck.Be careful, the Admiral bears the worgen curse and would take much pleasure in digging his claws into you!",
+    "name": "The Admiral",
+    "requires_level": 15,
+    "side": "alliance",
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "10553",
+    "description": "Now that you've chosen a side, <name>, you should meet the Scryers' leader.You will find Voren'thal the Seer inside the Seer's Library at the Scryer's Tier.See if you can be of assistance to him.  He will be glad to hear you've decided to lend them a hand.",
+    "name": "Voren'thal the Seer",
+    "requires_level": 60,
+    "zone": "Shattrath City"
+}

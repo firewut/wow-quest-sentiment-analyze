@@ -1,0 +1,8 @@
+{
+    "_id": "30698",
+    "added_in_patch": 5,
+    "description": "YOU!  You're just who I have been looking for!I need more parts for my goblin fishing bombs but I hurt my leg and can't collect them myself.You see those shipwrecks nearby?  I bet they have just what I need if you can get to it and fish it out.  Take my fishing raft and see what you can find!  My buddy has been trying to help me out too so you might find some extra rafts near the wreckage, feel free to use em' too.",
+    "name": "Scavenger Hunt",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

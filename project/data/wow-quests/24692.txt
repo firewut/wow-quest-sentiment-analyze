@@ -1,0 +1,7 @@
+{
+    "_id": "24692",
+    "description": "If you're here to help, then maybe you can help us with a lurking threat.To the south lies the Slithering Scar, a quivering silithid outpost in the middle of the jungle.  You can't miss it.One of my scouts reports that the silithid are harboring a young colossus in their large central underground chamber, and once it is fully grown, they plan to unleash it upon Un'Goro!This must not be allowed to pass, <name>.  Find the colossus and kill it.",
+    "name": "The Fledgling Colossus",
+    "requires_level": 49,
+    "zone": "Un'Goro Crater"
+}

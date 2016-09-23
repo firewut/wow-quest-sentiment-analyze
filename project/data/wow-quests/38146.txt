@@ -1,0 +1,8 @@
+{
+    "_id": "38146",
+    "added_in_patch": 7,
+    "description": "The ceremonial beads, decorated with shells and feathers, are worn by the clan's chieftain.Perhaps Elder Sookh would be interested in seeing these.",
+    "name": "The Chieftain's Beads",
+    "requires_level": 98,
+    "zone": "Val'sharah"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25134",
+    "description": "Cursed peons!  They work hard gathering lumber from the trees of the valley, but they're always taking naps!  I need someone to help keep the peons in line.You look like the right <race> for my task.  Here, you take this blackjack and use it on any lazy peons you find sleeping on the job.  A good smack will get them right back to work!  Return the blackjack when you're done.Look for them underneath the trees in the valley.  Lousy slacking peons...",
+    "name": "Lazy Peons",
+    "requires_level": 3,
+    "zone": "Valley of Trials"
+}

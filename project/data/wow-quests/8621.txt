@@ -1,0 +1,7 @@
+{
+    "_id": "8621",
+    "description": "Qiraji magic is strong and ancient.  The most powerful qiraji wield items of such might, they'd give pause even to a dragon.Bring me the qiraji bindings of dominance and other minor components and I'll create a set of powerful boots for you.You will find them useful in the fight against the enemy.",
+    "name": "Stormcaller's Footguards",
+    "requires_level": 60,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "32638",
+    "added_in_patch": 5.2,
+    "description": "Sometimes, even the smallest creatures can be the biggest threat.The Sunreavers brought mana wyrms with them. Though small in size they have the ability to cripple our casters in combat. Many have learned the hard way not to underestimate them.They must be dealt with and quickly.",
+    "name": "Mana Scavengers",
+    "requires_level": 90,
+    "zone": "Quests"
+}

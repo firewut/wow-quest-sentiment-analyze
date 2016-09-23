@@ -1,0 +1,8 @@
+{
+    "_id": "28652",
+    "description": "I am done with you.  There are, however, others who can use your aid.Caretaker Caice, standing on that stump behind me, can probably give you another assignment.  You should speak with him now.",
+    "name": "Caretaker Caice",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Deathknell"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "27857",
+    "description": "The Alliance are at our walls!",
+    "name": "We're Under Attack!",
+    "requires_level": 52,
+    "zone": "Swamp of Sorrows"
+}

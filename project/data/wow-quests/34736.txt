@@ -1,0 +1,9 @@
+{
+    "_id": "34736",
+    "added_in_patch": 6,
+    "description": "Commander, our forces are not prepared for frost fightin'. I took da liberty and sent some of our shadow hunters north to establish a supply base. Ya might want to be headin' up dere and see what they be up to. Look for a hollow between the Crackling Plains and the Savage Crag.",
+    "name": "We Be Needin' Supplies",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

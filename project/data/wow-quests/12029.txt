@@ -1,0 +1,7 @@
+{
+    "_id": "12029",
+    "description": "<Hic>... gotta burn these corpshes 'fore they shtart walkin' around again.Poppa always said, only thing worshe than havin' to kill a troll is havin' ta kill a troll twice.Say,<hic>... shpeakin' of Scourge, we can't get into tha' troll keep up north 'til we get them trolls thinned out a bit.How 'bout ya take shome o my grog here and put them bashtards outta their misery?",
+    "name": "Seared Scourge",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

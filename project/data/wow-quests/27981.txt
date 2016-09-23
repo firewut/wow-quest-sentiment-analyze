@@ -1,0 +1,7 @@
+{
+    "_id": "27981",
+    "description": "We smith, we smelt, we roast up whatever spider meat we can get.  Bush chicken if we're lucky.  Point is, all o' this work means we need lots and lots of fire.Good thing we're smack dab in the middle of firetown.O' course, the best fire comes from the elementals.  You'll find 'em all over Searing Gorge, but always near lava.  Here, take these flasks and use 'em on the elementals.Oh, did I mention the elementals gotta be alive when you gather your sample?",
+    "name": "Heat That Just Don't Quit",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

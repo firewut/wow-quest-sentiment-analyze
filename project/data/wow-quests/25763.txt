@@ -1,0 +1,7 @@
+{
+    "_id": "25763",
+    "description": "<This elaborate book contains hundreds of vellum pages bound within a slate cover. It's written in many languages, most unfamiliar. Carefully inked illustrations depict sorcerers or even entire buildings vanishing into curtains of shadow.><Many illustrations depict magical artifices like those you see around camp. You suspect the dragon Sethria is trying to keep something hidden. Thisalee will want to hear about this!>  ",
+    "name": "The Codex of Shadows",
+    "requires_level": 80,
+    "zone": "Mount Hyjal"
+}

@@ -1,0 +1,9 @@
+{
+    "_id": "31392",
+    "added_in_patch": 5,
+    "description": "Have you heard the news, traveller? There's been an attack at one of our most sacred places, the Vale of Eternal Blossoms!Even now, there's a human prince within the White Tiger Temple arguing that you and the other races from beyond the mists should be allowed within.The temple is in the northeast of Kun-Lai. Maybe you can convince the White Tiger to allow you inside?I only hope the Vale has not been utterly destroyed...",
+    "name": "Temple of the White Tiger",
+    "requires_level": 87,
+    "side": "alliance",
+    "zone": "Kun-Lai Summit"
+}

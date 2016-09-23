@@ -1,0 +1,8 @@
+{
+    "_id": "31974",
+    "added_in_patch": 5,
+    "description": "The power of twilight flows through me. I am a god! You have no hope of defeating me!",
+    "name": "Goz Banefury",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

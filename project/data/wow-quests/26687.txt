@@ -1,0 +1,7 @@
+{
+    "_id": "26687",
+    "description": "Hawthorne dead... my own son murdered... the situation in the Barrens is out of control, <name>.I'm going to take charge of Fort Triumph and try to lock things down. To do that, I'm going to need reinforcements. Reinforcements that were promised from Theramore weeks ago!Travel to Theramore in Dustwallow Marsh and give Captain Garran Vimes an earful. What good is that blasted road through the swamp if the men and materiel aren't rolling in?",
+    "name": "Reinforcements From Theramore",
+    "requires_level": 32,
+    "zone": "Dustwallow Marsh"
+}

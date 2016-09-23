@@ -1,0 +1,8 @@
+{
+    "_id": "40170",
+    "added_in_patch": 7,
+    "description": "The hunters' lodge has attracted a lot of amateurs who call themselves hunters. They're scarin' away all the prize game with their antics.\r\n\r\nWhile I'm a known expert with my rifle, I've yet to manage the art of negotiation.\r\n\r\nHow about ya do us all a favor and tell those novice hunters to head for the hills?",
+    "name": "Amateur Hour",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

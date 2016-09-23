@@ -1,0 +1,7 @@
+{
+    "_id": "12423",
+    "description": "From what you can gather, this journal was written by a denizen of Silverbrook named Mikhail.It is written in some variant of the common human tongue.  Perhaps you should bring this back to Conqueror Krenna.",
+    "name": "Mikhail's Journal",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

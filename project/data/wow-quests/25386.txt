@@ -1,0 +1,7 @@
+{
+    "_id": "25386",
+    "description": "You must send word of what has happened here, <name>. To the south is Stonemaul Hold. There, our allies have gathered the few ogres of the horde to fight against those despoiling these forests.Speak with Orhan Ogreblade. She leads the Stonemaul clan here, and will need to know of all that has occured. And be wary, lest some of this corruption remain...",
+    "name": "To Stonemaul Hold",
+    "requires_level": 34,
+    "zone": "Feralas"
+}

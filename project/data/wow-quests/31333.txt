@@ -1,0 +1,8 @@
+{
+    "_id": "31333",
+    "added_in_patch": 5,
+    "description": "Instant noodles aren't that hard to cook, right?",
+    "name": "Lesson 2: Instant Noodles",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

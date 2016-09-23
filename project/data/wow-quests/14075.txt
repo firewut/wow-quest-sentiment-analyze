@@ -1,0 +1,8 @@
+{
+    "_id": "14075",
+    "description": "We've got trouble down in the Kaja'mine again, boss. The tunneling worms have returned and they're literally eating away at the Kajaro Trading Company's profits!Kaja'mite mining is down, which is negatively impacting our production of Kaja'Cola!I tried calling the exterminator, but he's fled with the last payment we made to him.Do you think you could head into the three mines and take care of it? I'd help but I still haven't attended the cartel-mandated fighter training seminar.",
+    "name": "Trouble in the Mines",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Kezan"
+}

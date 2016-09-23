@@ -1,0 +1,7 @@
+{
+    "_id": "8862",
+    "description": "",
+    "name": "Elune's Candle",
+    "requires_level": 10,
+    "zone": "Lunar Festival"
+}

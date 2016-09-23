@@ -1,0 +1,7 @@
+{
+    "_id": "11385",
+    "description": "It has been whispered to Mah'duun that the channelers of the military unit known as the Sunseekers must be killed today.They are to be found within the Botanica at Tempest Keep.You want the bounty, you kill the channelers.",
+    "name": "Wanted: Sunseeker Channelers",
+    "requires_level": 70,
+    "zone": "Quests"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31291",
+    "added_in_patch": 5,
+    "description": "Interested in being a Lorewalker? There is lots of digging and reading and digging and more reading.I have entire days where I stare at a broken vase trying to figure out how it goes back together.Should give it a try. Go solve one artifact of Pandaria and we will appreciate you sharing the knowledge of how you did it.",
+    "name": "Uncovering the Past",
+    "requires_level": 90,
+    "zone": "Vale of Eternal Blossoms"
+}

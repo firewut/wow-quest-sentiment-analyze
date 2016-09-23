@@ -1,0 +1,7 @@
+{
+    "_id": "9580",
+    "description": "As I'm sure you've seen in your time on Bloodmyst Isle, very little remains unchanged by our arrival. My training and experience has taught me that even the products of an environment like this one can be put to use.With so few resources, we must rely on our ingenuity to provide for us. I've been supplementing our stores with meat from the bears that wander this island. With the proper preparation, it can safely be eaten. If you're going to be out in the field, why not help replenish our stocks?",
+    "name": "The Bear Necessities",
+    "requires_level": 14,
+    "zone": "Bloodmyst Isle"
+}

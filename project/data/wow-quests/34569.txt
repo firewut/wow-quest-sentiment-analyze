@@ -1,0 +1,9 @@
+{
+    "_id": "34569",
+    "added_in_patch": 6,
+    "description": "Now that our arsenal is built we need a skilled smith to operate it.We recently caught an Iron Horde deserter who claims he used to be one of the Blackrock's best iron workers.Normally I'd ignore the ravings of a captive, but the weapons we took out of his pack had the finest workmanship I've ever seen.Commander, I think we should see if he's as good as he claims.",
+    "name": "The Quarry Quandary",
+    "requires_level": 94,
+    "side": "horde",
+    "zone": "Talador"
+}

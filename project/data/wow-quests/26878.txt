@@ -1,0 +1,8 @@
+{
+    "_id": "26878",
+    "description": "<Class>, the Barrens used to be one of the most beautiful places in all of Kalimdor. It teemed with life and promise.Now, as you can see, that is no longer true. It is a land of great torment and strife.The Disciples of Naralex seek to cleanse the Wailing Caverns and bring them back to their former beauty. Speak with Nalpak just inside the Wailing Caverns to help.",
+    "name": "Disciples of Naralex",
+    "requires_level": 15,
+    "side": "horde",
+    "zone": "Wailing Caverns"
+}

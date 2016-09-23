@@ -1,0 +1,8 @@
+{
+    "_id": "25802",
+    "description": "Not long ago a merchant vessel, the Blind Princess, was raided by murlocs.  Although the ship escaped intact, much of its cargo was dragged overboard by the creatures, including a very valuable statuette of Terenas Menethil.  We want that statuette recovered.Search the coastal murloc hovels for crates, barrels and other evidence of lost cargo.  Find the Menethil statuette and return it to me.",
+    "name": "Reclaiming Goods",
+    "requires_level": 19,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11864",
+    "description": "",
+    "name": "A Mission Statement",
+    "requires_level": 70,
+    "zone": "Borean Tundra"
+}

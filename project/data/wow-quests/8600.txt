@@ -1,0 +1,7 @@
+{
+    "_id": "8600",
+    "description": "I find that the fit of the knife in your palm is more important than the edge on it. Even the dullest blade can be made to cut if pressure is being properly applied through it, wouldn't you agree, <class>? But you and I don't have such problems as we maintain the sharpest of edges, yes? Well, no matter, I have a task for you. In service to the Horde, and to do your part for the Ahn'Qiraj war effort, I want you to return to me with a number of rugged leather skins. This is something that you will do, no?",
+    "name": "The Horde Needs Rugged Leather!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

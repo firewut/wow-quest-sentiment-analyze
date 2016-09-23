@@ -1,0 +1,8 @@
+{
+    "_id": "38978",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "FLAG: Undying Silkweave Epaulets Crafted",
+    "requires_level": 110,
+    "zone": "Tailoring"
+}

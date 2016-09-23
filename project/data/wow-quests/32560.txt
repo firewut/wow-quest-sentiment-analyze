@@ -1,0 +1,8 @@
+{
+    "_id": "32560",
+    "added_in_patch": 5.2,
+    "description": "The Zandalari here are a threat to our campaign, <class>.Their use of magic is an abomination. They mix the power of arcane with the darkness of shadow with little care to consequence.We cannot afford for them to find their full strength here or for the Horde to learn of their twisted magic.Their numbers must be thinned. I will leave this task to you.",
+    "name": "Keep It Secret",
+    "requires_level": 90,
+    "zone": "Quests"
+}

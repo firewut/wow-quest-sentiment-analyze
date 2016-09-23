@@ -1,0 +1,7 @@
+{
+    "_id": "12460",
+    "description": "We need you at the Ruby Dragonshrine.The dragons are beset on all sides by the blue flight and the scourge... they're in no better a state than we are. The situation seems dire, but this affords us a rare opportunity to establish a valuable alliance.I secured a regiment to aid the red dragonflight against the Scourge at the Ruby Dragonshrine. If you have a fight in you, please go find Ceristrasz on the ridge east of the shrine and help him in any way that you can.",
+    "name": "Report to the Ruby Dragonshrine",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

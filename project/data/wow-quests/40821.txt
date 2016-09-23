@@ -1,0 +1,8 @@
+{
+    "_id": "40821",
+    "added_in_patch": 7,
+    "description": "Jagganoth's minions are now yours to command, Overlord, but there is more power to this place than just that!\r\n\r\nHere, at the Seat of the Overlord, you will find a special altar, formed of the pit lord's blood and charged with his power. This power can be transferred to your new weapon.\r\n\r\nApproach the altar, Overlord, and claim Jagganoth's power for your own!",
+    "name": "Power Overwhelming",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

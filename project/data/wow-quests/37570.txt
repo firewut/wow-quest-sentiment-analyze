@@ -1,0 +1,9 @@
+{
+    "_id": "37570",
+    "added_in_patch": 6,
+    "description": "Now that the enchanter's study is complete, we can start producing draenic dust for you. When you have the ingredients, please speak with my assistant to start the first work order.",
+    "name": "Your First Enchanting Work Order",
+    "requires_level": 90,
+    "side": "horde",
+    "zone": "Garrison Support"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "28726",
+    "description": "I'd hoped to never return to Teldrassil for such grim business. I'd hoped that its corruption had been wiped away completely.  Something foul lingers.These spiders suffer much more deeply from the corruption than the other nearby wildlife. They are becoming a danger to your people and a danger to the forest. We must thin their numbers, but more importantly, we need to find the source of the corruption that plagues them.I will come with you and aid you in this. ",
+    "name": "Webwood Corruption",
+    "requires_level": 3,
+    "side": "alliance",
+    "zone": "Shadowglen"
+}

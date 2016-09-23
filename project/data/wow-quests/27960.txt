@@ -1,0 +1,7 @@
+{
+    "_id": "27960",
+    "description": "I'm not much of a fighter... I'm more of a mining dwarf.  Same goes for Jack and Pris.  And Lunk... well, you'd think he'd be a big fighter, but he's the biggest wimp of all of us.What I'm saying is, it's good that you came here when you did.It seems likely that we in the Thorium Brotherhood are going to be fighting the other Dark Iron dwarves soon.  I'm thinking we should pick off some of their finest before the war starts in earnest.  Start with the geologists and watchmen to the south.",
+    "name": "The Fewer, the Better",
+    "requires_level": 46,
+    "zone": "Searing Gorge"
+}

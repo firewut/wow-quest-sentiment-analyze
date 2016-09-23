@@ -1,0 +1,8 @@
+{
+    "_id": "32123",
+    "added_in_patch": 5.1,
+    "description": "The Alliance has made landfall. If we do not defeat them here, any hope of a Horde presence on this continent is lost.Go to the battlefield south of here and slay Alliance you find.Show them how any Horde who still stands on two legs will be the death of ten Alliance!",
+    "name": "Death on Two Legs",
+    "requires_level": 90,
+    "zone": "Landfall"
+}

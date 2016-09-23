@@ -1,0 +1,9 @@
+{
+    "_id": "34041",
+    "added_in_patch": 6,
+    "description": "I gotta admit, establishing a supply chain to a primal world on the wrong side of time is tough, even for me. Gotta make due with, uh... \"locally sourced\" goods.Say what you want about the Iron Horde, but when it comes to raw materials, they got connections!Keep an eye out for some of the more valuable goods in the Iron Siegeworks. I packed a few rocket chickens we can use to send the good stuff back to your garrison.",
+    "name": "Four Finger Discount",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

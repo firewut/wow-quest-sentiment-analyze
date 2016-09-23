@@ -1,0 +1,7 @@
+{
+    "_id": "9667",
+    "description": "Help me, <name>! The Bristlelimb captured me and are planning to sacrifice me to their foul gods!High Chief Bristlelimb holds the key that opens the cage. To force him to appear, you must slaughter the evil Bristlelimb furbolgs that inhabit the enclave, just two camps to the west of this camp. If you kill enough of them, he will surely come for vengeance! When he shows up, kill him and get the key!My father will richly reward you if you can save me!",
+    "name": "Saving Princess Stillpine",
+    "requires_level": 10,
+    "zone": "Bloodmyst Isle"
+}

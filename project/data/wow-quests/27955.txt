@@ -1,0 +1,7 @@
+{
+    "_id": "27955",
+    "description": "This terrible thing makes my hair stand on end. Cho'gall uses these to control his minions - now it's time to use it against him.Let me see... hmm, it's all cloudy. All I can see is you. Why is it showing me you?<Garona sets the eye out in front of her.>Look into the eye and tell me what you see. Peer into Cho'gall's lair! What is he doing? Is he heavily guarded? Tell me!",
+    "name": "Eye Spy",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "38203",
+    "added_in_patch": 7,
+    "description": "Please, outsider, help me.My recipe for Nightrose wine was to be the toast of Queen Azshara herself. But before I could make it, the vile vintners took it from me and locked me away.Please, recover my recipe so that I might bring it to Lady Challiane and earn the queen's favor.",
+    "name": "Challiane Vineyards",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

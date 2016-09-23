@@ -1,0 +1,8 @@
+{
+    "_id": "24486",
+    "description": "The trogg village to the southwest suffered similar damage to ours.  One would assume, logically, that there would be some trogg artifacts sticking out of the ground, too!Unfortunately, it looks like most of the artifacts have already been scooped up by trogg scavengers.  Please, go see if you can find some way to get them back.  Believe it or not, knowledge about troggs may eventually lead to further knowledge about the mighty dwarves!",
+    "name": "Make Hay While the Sun Shines",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Coldridge Valley"
+}

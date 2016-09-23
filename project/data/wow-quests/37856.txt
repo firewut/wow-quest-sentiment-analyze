@@ -1,0 +1,8 @@
+{
+    "_id": "37856",
+    "added_in_patch": 7,
+    "description": "The withered are the worst kind of pest. They capture our whelplings, knock them unconscious, and then drink whatever mana they can from the helpless babes.Normally our drakes and keepers would fend them off. Today, it looks like we may need your help.",
+    "name": "The Withered",
+    "requires_level": 98,
+    "zone": "Azsuna"
+}

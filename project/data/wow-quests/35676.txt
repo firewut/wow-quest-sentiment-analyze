@@ -1,0 +1,9 @@
+{
+    "_id": "35676",
+    "added_in_patch": 6,
+    "description": "Posted by: FalroghVenombarb taunts me every day. Screeching and killing me buzz.Somebody, anybody, kill the beast. I don't want proof, I want peace and quiet.",
+    "name": "Wanted: Venombarb",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

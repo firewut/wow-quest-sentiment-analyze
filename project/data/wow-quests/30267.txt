@@ -1,0 +1,8 @@
+{
+    "_id": "30267",
+    "added_in_patch": 5,
+    "description": "I love fishing. I'd be enjoying myself much more, however, if I had my bait and my lures. They were thrown away in a... a misunderstanding with my wife, Rin.<Gladecaster Lang sighs.>Should I let a whole day of fishing be ruined, just because of a little domestic squabble? No! All I need is bugs and feathers, after all, and this glade is filled with those two things.Care to help a fisherman out?",
+    "name": "Watery Woes",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

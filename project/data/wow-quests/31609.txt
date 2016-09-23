@@ -1,0 +1,8 @@
+{
+    "_id": "31609",
+    "added_in_patch": 5,
+    "description": "The rest of the freed paragons are scattered around the Heart of Fear, fighting off the mantid swarm. They may need your help!",
+    "name": "The Wrath of Shek'zeer",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

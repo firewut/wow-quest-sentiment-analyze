@@ -1,0 +1,8 @@
+{
+    "_id": "36655",
+    "description": "There's smoke on the horizon... The Iron Horde is coming.",
+    "name": "Iron Horde Invasion!",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Garrison Support"
+}

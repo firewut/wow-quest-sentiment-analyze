@@ -1,0 +1,8 @@
+{
+    "_id": "42568",
+    "added_in_patch": 7,
+    "description": "<With Althea's escape there is only one place to go: Stormwind.><If Garona is keeping a similar pace on the cult's trail, she's bound to be making preparations to enter the city herself.><Finding her is paramount before moving into the city.>",
+    "name": "Preparation",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

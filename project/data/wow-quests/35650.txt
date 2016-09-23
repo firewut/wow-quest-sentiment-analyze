@@ -1,0 +1,9 @@
+{
+    "_id": "35650",
+    "added_in_patch": 6,
+    "description": "I have seen a strange ritual performed by ancients. They step into fire, burning the leaves from their branches and charring their bark.\r\n\r\nI call it the Ritual of the Charred. If we want to weaken the ancients, we can get rid of them before they become even stronger.\r\n\r\n- Frenna",
+    "name": "Chapter III: Ritual of the Charred",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

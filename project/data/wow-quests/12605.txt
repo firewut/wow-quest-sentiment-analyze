@@ -1,0 +1,7 @@
+{
+    "_id": "12605",
+    "description": "We're not likely to get Broodmother Slivina's attention waving our arms around like fools, but if we're smart, we can bait her into fighting us. We'll also secure more, uh, fodder for my little project.<Dorian glances over at Zootfizzle.>But don't worry about that for now. Just look for the primordial drake eggs in the area east and northeast of the camp. Burst them open and scoop up the hatchlings that come out. When the broodmother realizes what we've done, she'll have no choice but to face us.",
+    "name": "Securing the Bait",
+    "requires_level": 76,
+    "zone": "Sholazar Basin"
+}

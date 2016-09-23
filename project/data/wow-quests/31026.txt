@@ -1,0 +1,8 @@
+{
+    "_id": "31026",
+    "added_in_patch": 5,
+    "description": "Kypari Zar is dying.A creature of terrible darkness corrupts it from deep beneath its roots.The tree cannot be saved, but at least we can lessen its pain.Look. The vile creature has carved a path to its own lair. We need only follow it down the hill, just behind this tower.",
+    "name": "The Root of the Problem",
+    "requires_level": 89,
+    "zone": "Dread Wastes"
+}

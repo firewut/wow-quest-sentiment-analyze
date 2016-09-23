@@ -1,0 +1,7 @@
+{
+    "_id": "24556",
+    "description": "Getting you inside the Silver Enclave will be tougher than it appears. Only those who possess Silver Covenant tabards are permitted entry to sanctuary. If we can get our hands on one, a simple enchantment will do the rest of the work.On the balcony above Threads of Fate, you'll find Shandy Glossgleam. I've helped him a few times in the past, so he owes me a favor. He handles laundry for a wide variety of people in the city. Maybe he can find a way to 'lend' you a tabard for a while.",
+    "name": "A Suitable Disguise",
+    "requires_level": 80,
+    "zone": "Icecrown"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41032",
+    "added_in_patch": 7,
+    "description": "The Nightborne are here in force. As if that were not worrying enough, they now bring reinforcements.\r\n\r\nI have seen them opening large portals to Suramar.\r\n\r\nThrough these portals they have called in their constructs. They are immune to much of my magic and so represent something of a stumbling block to rejoining the others.\r\n\r\nFind the portals and close as many as you can. That should buy us some time.",
+    "name": "Stop the Spell Seekers",
+    "requires_level": 110,
+    "zone": "Moon Guard Stronghold"
+}

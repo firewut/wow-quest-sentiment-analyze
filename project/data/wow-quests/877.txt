@@ -1,0 +1,8 @@
+{
+    "_id": "877",
+    "description": "Can what's happening to the south happen here? Judging by what you found at the Forgotten Pools, these oases may be the key. Let's perform an experiment.Here, take these seeds I've collected from the summit here. They are dead and infertile, but carry them down to the Stagnant Oasis just below us. If there is a fissure there, then place the seeds within it... and observe. Report your findings back to Tonga at the Crossroads.",
+    "name": "The Stagnant Oasis",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Northern Barrens"
+}

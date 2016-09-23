@@ -1,0 +1,7 @@
+{
+    "_id": "13148",
+    "description": "This damaged necklace has an invoice with it that reads \"Property of Timothy Jones - Cartier and Co Fine Jewelry - Magus Commerce Exhange - Dalaran\".Perhaps you should repair it and return it to him.\r\n",
+    "name": "Necklace Repair",
+    "requires_level": 77,
+    "zone": "Jewelcrafting"
+}

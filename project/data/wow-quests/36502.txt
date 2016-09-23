@@ -1,0 +1,9 @@
+{
+    "_id": "36502",
+    "added_in_patch": 6,
+    "description": "Defeating Biolante has yielded you a trophy worthy of showing off at your outpost. Return this to Maraad to increase your glory!",
+    "name": "Trophy of Glory: Biolante",
+    "requires_level": 92,
+    "side": "alliance",
+    "zone": "Gorgrond"
+}

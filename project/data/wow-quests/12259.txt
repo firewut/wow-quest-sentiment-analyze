@@ -1,0 +1,8 @@
+{
+    "_id": "12259",
+    "description": "With the flame-imbued talismans, we can finally challenge the thane.His favorite mount is a ferocious proto-drake called Flamebringer. It is kept bound in chains in the western part of Voldrune, but with the power of the talismans, you should be able to bend it to your will and use it against the thane.Once you have Flamebringer under your control, search the tops of the towers of Voldrune for the thane and use Flamebringer to destroy him.",
+    "name": "The Thane of Voldrune",
+    "requires_level": 73,
+    "side": "horde",
+    "zone": "Grizzly Hills"
+}

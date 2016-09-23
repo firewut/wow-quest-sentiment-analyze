@@ -1,0 +1,8 @@
+{
+    "_id": "25978",
+    "description": "Khurgorn tells me the cataclysm upset the balance of the elements all over the world. Helm's Bed Lake, to the south, used to be beautiful and tranquil, but it is now overrun with agitated water elementals. When they started to leave the confines of the lake, I sent my troops in to keep them busy, but most have been frozen in blocks of ice.If we can break them free, they have a good chance of recovering. I cannot spare the men for a second expedition out onto the lake. Would you be willing to try?",
+    "name": "Entombed in Ice",
+    "requires_level": 7,
+    "side": "alliance",
+    "zone": "Dun Morogh"
+}

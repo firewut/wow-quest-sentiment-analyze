@@ -1,0 +1,8 @@
+{
+    "_id": "7063",
+    "description": "Here - if you are interested in learning more about the Feast of Winter Veil, read this book.  While I think our recognition of the legend is the appropriate one, I'm enough of a scholar to appreciate the collection of all information into a single source.When you're done, take the book to Muradin Bronzebeard.  I know for a fact he'd be interested in hearing that others have taken an interest in the older legends.  ",
+    "name": "The Feast of Winter Veil",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Quests"
+}

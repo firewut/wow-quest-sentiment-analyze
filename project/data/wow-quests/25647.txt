@@ -1,0 +1,7 @@
+{
+    "_id": "25647",
+    "description": "You've discovered a parchment with an impressive looking Horde seal imprinted upon its page. Unfortunately, the rest of the document is completely illegible as it is in orcish.Take the letter to Boog. He might know what to do with it!",
+    "name": "Illegible Orc Letter",
+    "requires_level": 24,
+    "zone": "Stonetalon Mountains"
+}

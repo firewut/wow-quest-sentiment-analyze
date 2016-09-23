@@ -1,0 +1,7 @@
+{
+    "_id": "27808",
+    "description": "The Doyle riders were last spotted convergin' in the trees to the south, on the border of the Obsidian Forest. They're a stubborn bunch and are likely to take some convincin' if they're going to join up with us.Your best bet with Keeland Doyle is to tell'm Cailin Longfellow's taken up shelter with us back at the town. Keeland's got a good soft spot for her and she just might be enough to convince him to drag all his boys along.",
+    "name": "Stubborn as a Doyle",
+    "requires_level": 84,
+    "zone": "Twilight Highlands"
+}

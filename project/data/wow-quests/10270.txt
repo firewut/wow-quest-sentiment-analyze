@@ -1,0 +1,7 @@
+{
+    "_id": "10270",
+    "description": "From the look on your face, I can tell you're a <race> who appreciates a good profit.I've built a reputation as a dealer in exotic goods, and I'm about to launch a new venture.I need a reliable subcontractor to procure the goods from the Celestial Ridge.First, you'll need to re-energize a teleport pad. There is a spare power pack in Access Shaft Zeon, which is on the south side of Manaforge UItris. The Protectorate is operating in there, so you may be able to follow their tracers to your goal.",
+    "name": "A Not-So-Modest Proposal",
+    "requires_level": 68,
+    "zone": "Netherstorm"
+}

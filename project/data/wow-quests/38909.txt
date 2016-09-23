@@ -1,0 +1,8 @@
+{
+    "_id": "38909",
+    "added_in_patch": 7,
+    "description": "It is no accident that Dargrul attacked the Rivermane in force. It is their farms and their pastures that supply food for the region.Please, get Jale to Thunder Totem. With luck, Mayla will have reinforcements to send to the area.We will rally the survivors here and follow as quickly as we can.",
+    "name": "Get to High Ground",
+    "requires_level": 98,
+    "zone": "Quests"
+}

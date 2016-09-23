@@ -1,0 +1,7 @@
+{
+    "_id": "27474",
+    "description": "While Godfrey and I make preparations for our assault upon Gilneas, I want you to lead our attack upon Ambermill, directly east of here.The former Dalaran magi of Ambermill have erected a magical barrier that somehow cloaks them from vision. They currently reside within some type of pocket dimension, awaiting orders from the Alliance to begin their attack. We must prevent their assault by making a pre-emptive strike. Venture to Ambermill and find information that would grant us access to the mages.",
+    "name": "Breaking the Barrier",
+    "requires_level": 14,
+    "zone": "Silverpine Forest"
+}

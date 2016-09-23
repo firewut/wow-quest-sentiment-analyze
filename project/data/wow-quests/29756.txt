@@ -1,0 +1,8 @@
+{
+    "_id": "29756",
+    "added_in_patch": 5,
+    "description": "I'm almost ready for the ritual, there's just one more thing we need: An offering.Relax, I don't mean a sacrifice. Just a bit of food.There are sure to be mushrooms growing in Tideview Thicket to the northwest that are suitable for this. Please bring some.",
+    "name": "A Humble Offering",
+    "requires_level": 85,
+    "zone": "The Jade Forest"
+}

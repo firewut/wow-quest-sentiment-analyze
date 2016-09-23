@@ -1,0 +1,7 @@
+{
+    "_id": "10632",
+    "description": "It's nice that you've been helping out Toshley and his scientists.  I, however, do not have the luxury of indulging in my 'personal' interests.If you want to make a difference around here, you'll do what I ask of you, and right now, I need weapons.Our guns are effective at range, but when the bugs get in close, we need to have powerful melee weapons as a backup.The teeth of the daggermaw lashtails in the northern part of the Razor Ridge make for great vibro-weapon blades.  Scare me up some.",
+    "name": "Cutting Your Teeth",
+    "requires_level": 65,
+    "zone": "Blade's Edge Mountains"
+}

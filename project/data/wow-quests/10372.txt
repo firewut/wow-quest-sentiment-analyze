@@ -1,0 +1,7 @@
+{
+    "_id": "10372",
+    "description": "Eralan, an associate of mine in Tranquillien, has made an inquiry about securing some help for an urgent job.Now, I don't know what she has in mind because I don't ask questions, but you've proven yourself more than capable. I want you to travel to Tranquillien in the Ghostlands and have a word with Eralan.She may be a bit gruff, but she's trustworthy.",
+    "name": "A Discreet Inquiry",
+    "requires_level": 16,
+    "zone": "Rogue"
+}

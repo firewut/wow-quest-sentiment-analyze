@@ -1,0 +1,8 @@
+{
+    "_id": "10393",
+    "description": "The text on the note is written in some dark, indecipherable scrawl. The more you stare at them, the more the symbols seem to twist and burn before your eyes. There is only one in Thrallmar that can transcribe such vile script - the blood elf Magister Bloodhawk. \r\n\r\n",
+    "name": "Vile Plans",
+    "requires_level": 58,
+    "side": "horde",
+    "zone": "Hellfire Peninsula"
+}

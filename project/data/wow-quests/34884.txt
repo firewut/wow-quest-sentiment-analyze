@@ -1,0 +1,8 @@
+{
+    "_id": "34884",
+    "added_in_patch": 6,
+    "description": "An important contact lives in the nearby Shadowglade. He is meek, but trains kaliri of monstrous size which are quite dangerous.He once claimed they could knock a rylak out of the sky, but I'll believe that when I see it.Skizzik is holding a valuable treasure for me. Seek him out and get him back to Veil Terokk if you can. At the very least, recover the gavel I entrusted to him.",
+    "name": "The Kaliri Whisperer",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

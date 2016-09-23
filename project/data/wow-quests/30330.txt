@@ -1,0 +1,8 @@
+{
+    "_id": "30330",
+    "added_in_patch": 5,
+    "description": "I like to bake with truffles... when I can find them. They only grow up on the Skyrange, and in very, very scarce amounts.They're a fantastic ingredient, but we can't risk over-farming them. That's why we need to replace what we've taken. Bring me a handful of adult truffles, and plant some of these spores in their place.",
+    "name": "The Truffle Shuffle",
+    "requires_level": 90,
+    "zone": "Cooking"
+}

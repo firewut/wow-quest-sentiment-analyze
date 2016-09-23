@@ -1,0 +1,7 @@
+{
+    "_id": "13166",
+    "description": "The Hall of Command has been secured, but the Lich King has left us a little present in the Heart of Acherus. The stitched terror, Patchwerk, and a horde of abominations have taken over the second floor.Use the teleporter to get to the second floor and destroy the Scourge forces that remain. Do not engage Patchwerk alone! You must fight the monstrosity with other death knights of Acherus!Go, <name>. You have my strength to carry you!",
+    "name": "The Battle For The Ebon Hold",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

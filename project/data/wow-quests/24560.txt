@@ -1,0 +1,7 @@
+{
+    "_id": "24560",
+    "description": "At last, the pieces of Quel'Delar are rejoined and the blade is whole, but it cannot see battle until you have tempered it. That jagged saronite edge is brittle and will shatter the moment it strikes anything.Deep in Icecrown Citadel's Forge of Souls is a place where the blade can safely be tempered. Take Quel'Delar with you to the abode of the Devourer of Souls and look for the crucible. Plunge the blade into the crucible to temper it and bring it back to me. I'll be waiting in The Frozen Halls.",
+    "name": "Tempering The Blade",
+    "requires_level": 80,
+    "zone": "Icecrown"
+}

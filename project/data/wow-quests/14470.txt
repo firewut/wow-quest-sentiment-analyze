@@ -1,0 +1,8 @@
+{
+    "_id": "14470",
+    "description": "We've lost contact with Sergeant Dynamo, stationed at the next ridge to the north of the central minefield. They were probably overrun.He had our last SFG. Go over there and get it back. Clear out any naga that have broken through while you're there.",
+    "name": "Military Breakthrough",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

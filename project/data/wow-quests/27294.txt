@@ -1,0 +1,7 @@
+{
+    "_id": "27294",
+    "description": "We've gleaned as much as we can from the ruins of the inn. I'm concerned about where the investigation will lead us from here, but we must know the truth.Between the hoofprints and the shield with Mosarn's mark, I'm led to believe that the Grimtotems may have been involved. They've recently established a settlement in the swamp, Blackhoof Village to the northeast. Travel to Blackhoof Village and search for more arms of Mosarn's manufacture.",
+    "name": "More than Coincidence",
+    "requires_level": 35,
+    "zone": "Dustwallow Marsh"
+}

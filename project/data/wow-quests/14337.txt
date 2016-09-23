@@ -1,0 +1,7 @@
+{
+    "_id": "14337",
+    "description": "Hello again, <class>.I have received news that Shadowprey Village is in need of some assistance. Our hands are more than full here, so I must call upon you to travel there and be of assistance to them.The village lies on the coast to the southwest of here. When you arrive, seek out the one named Mai'Lahii.",
+    "name": "Shadowprey Village",
+    "requires_level": 30,
+    "zone": "Desolace"
+}

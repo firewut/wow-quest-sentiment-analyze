@@ -1,0 +1,7 @@
+{
+    "_id": "29139",
+    "description": "Our warriors are doing everything they can to hold back the elementals, but their numbers are endless. We need to do something to slow down the assault.Find some suitable patches of dirt or ash out on the Ashen Fields to our north and plant these seeds. They will grow deadly vines that may slow down our enemies a bit. It's not much, but every bit helps.",
+    "name": "Aggressive Growth",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

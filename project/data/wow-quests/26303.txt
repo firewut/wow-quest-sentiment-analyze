@@ -1,0 +1,7 @@
+{
+    "_id": "26303",
+    "description": "The Mind's Eye is held by an ogre mage, in the Mosh'Ogg ogre mound just to the south.  His name is Mai'Zoth.  I know him from when the Darkspears dwelt in Stranglethorn - he is vicious, and his magic is strong.And if he has the Mind's Eye, then his magic will be stronger still.You must face Mai'Zoth and wrest from him the Mind's Eye.  It is a perilous task, but it is the only hope we have of saving Yenniku.",
+    "name": "The Mind's Eye",
+    "requires_level": 24,
+    "zone": "Northern Stranglethorn"
+}

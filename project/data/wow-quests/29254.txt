@@ -1,0 +1,7 @@
+{
+    "_id": "29254",
+    "description": "The little red flower wiggles its tendrils happily. It seems to like you!Perhaps Avrilla would like to see what grew out of the acorn.",
+    "name": "Little Lasher",
+    "requires_level": 85,
+    "zone": "Firelands Invasion"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "25982",
+    "description": "<name>, there are demon squids out there that are eating gilblins' heads and then taking them over! They better not come in here!Think you could swim out northwest onto Deepfin Ridge or into the Sira'kess Front and bring me back some of those Merciless things? Preferably dead, I think.",
+    "name": "Those Aren't Masks",
+    "requires_level": 80,
+    "zone": "Abyssal Depths"
+}

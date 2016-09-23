@@ -1,0 +1,9 @@
+{
+    "_id": "32979",
+    "added_in_patch": 6,
+    "description": "Draka and Drek'Thar are travelling to Farseer's Rock. It is a sacred place, not a safe one. But Draka insists that Drek'Thar must rebuild his connection to the elements.I can feel the spirits of this land are becoming restless. Something is about to happen, and I suspect these two will need all the help they can get.Please, $p, go to them and lend what aid you can. I care for these two a great deal.",
+    "name": "Garrison Campaign: Farseer's Rock",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

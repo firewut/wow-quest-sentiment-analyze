@@ -1,0 +1,8 @@
+{
+    "_id": "31482",
+    "added_in_patch": 5,
+    "description": "<Wrathion's piercing red eyes fixate on you.>You are among a rare breed, <name>.You are just what I am looking for - an individual with the potential to shape events on a global scale.Come now, I promised you a reward, and you shall have it! East of this tavern is a series of stone steps leading up to a vista that the locals have named \"Mason's Folly.\" Meet me there.",
+    "name": "Breath of the Black Prince",
+    "requires_level": 90,
+    "zone": "Legendary"
+}

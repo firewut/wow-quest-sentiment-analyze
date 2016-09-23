@@ -1,0 +1,8 @@
+{
+    "_id": "42722",
+    "added_in_patch": 7,
+    "description": "<Korine stomps her foot and refuses to move.>\r\n\r\nThey put my friends in cages!\r\n\r\nMake the bad men stop hurting them! They take them out the garden and they never come back!\r\n\r\n<Korine gestures stubbornly toward the door.>\r\n\r\nI am not going home until they do!",
+    "name": "Friends in Cages",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

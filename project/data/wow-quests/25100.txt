@@ -1,0 +1,8 @@
+{
+    "_id": "25100",
+    "description": "Bastia will make sure that you get to where you need to go, goblin.",
+    "name": "Let's Ride",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "The Lost Isles"
+}

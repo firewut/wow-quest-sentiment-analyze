@@ -1,0 +1,8 @@
+{
+    "_id": "29907",
+    "added_in_patch": 5,
+    "description": "My niece and I are new to Pandaria. Probably like yourself. We're visitors from the Wandering Isle, and, to be honest, we have no idea where we're going.That farm up ahead looks as fine a place as any to take off our shoes and enjoy a brew. What do you say, Li Li?<Race>? Would you like to share the road with us?",
+    "name": "Chen and Li Li",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

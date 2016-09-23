@@ -1,0 +1,7 @@
+{
+    "_id": "29607",
+    "description": "I have a buyer who is interested in the eyes of the Cobalt Serpents that have taken up residence here.If you were to bring me some of these rare gems, I would cut you a portion of the profits.Do we have a deal?",
+    "name": "Eyes of Desire",
+    "requires_level": 65,
+    "zone": "Sethekk Halls"
+}

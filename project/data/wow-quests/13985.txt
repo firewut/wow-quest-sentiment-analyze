@@ -1,0 +1,7 @@
+{
+    "_id": "13985",
+    "description": "An end must be put to the Burning Legion's evil!<name>, you have defeated one of their most powerful, but there are still multitudes of demons infesting the woods to the east in Fire Scar Shrine.As a friend of the forest, will you slay these foul creatures and then warn Big Baobob, the great ancient of war at the Shrine of Aessina to the northeast?",
+    "name": "Clear the Shrine",
+    "requires_level": 23,
+    "zone": "Ashenvale"
+}

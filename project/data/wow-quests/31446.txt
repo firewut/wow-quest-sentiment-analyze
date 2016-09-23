@@ -1,0 +1,8 @@
+{
+    "_id": "31446",
+    "added_in_patch": 5,
+    "description": "You aren't sure how, but you've caught an extraordinary cephalopod.  Nat Pagle at Anglers Wharf would be very interested to see it.\r\n",
+    "name": "Mimic Octopus",
+    "requires_level": 85,
+    "zone": "Fishing"
+}

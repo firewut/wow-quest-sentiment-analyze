@@ -1,0 +1,9 @@
+{
+    "_id": "34039",
+    "added_in_patch": 6,
+    "description": "So, we COULD just leave now. We got what we came for, and I even did a little charity work to help Thaelin escape.But there's also this.<Gazlowe holds up a scrap of paper showing a hand-drawn depiction of an especially mean looking orc.>It's an SI:7 bounty for one Overlord Blackhammer, who just happens to operate out of this very facility. You help me take him out, I pay you. Then I take his head to the Alliance and collect on the bounty. Everyone wins!Well, everyone except for Blackhammer.",
+    "name": "Wanted: Overlord Blackhammer",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Garrison Campaign"
+}

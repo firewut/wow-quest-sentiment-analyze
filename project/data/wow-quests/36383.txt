@@ -1,0 +1,8 @@
+{
+    "_id": "36383",
+    "added_in_patch": 6,
+    "description": "The Iron Horde are stockpiling their weapons and ammunition outside of the Foundry. Their campaign throughout Draenor has left their caches vulnerable. Get in there and cause as much chaos as you can, and while you're at it use some of that ammunition against them if they're just going to leave it lying around!",
+    "name": "Assault on the Pit",
+    "requires_level": 100,
+    "zone": "Garrison Support"
+}

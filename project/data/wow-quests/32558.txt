@@ -1,0 +1,8 @@
+{
+    "_id": "32558",
+    "added_in_patch": 5.2,
+    "description": "Conqueror's Terrace is watched over by two brothers; Spiritbinder Tu'chek and Arcanital Rak'ul. They are powerful magic users and should not be underestimated.Their power seems to stem from the ornate masks they wear; relics passed down from one generation to the next. Each owner imbuing it with their own magic before passing it on.We must deal with the brothers and destroy their masks before they fall into the wrong hands.",
+    "name": "All In the Family",
+    "requires_level": 90,
+    "zone": "Quests"
+}

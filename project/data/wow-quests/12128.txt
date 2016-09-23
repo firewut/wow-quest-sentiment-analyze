@@ -1,0 +1,7 @@
+{
+    "_id": "12128",
+    "description": "With all the excitement about the army trying to move through Thor Modan, I'd almost forgotten about Raegar's crew down at Prospector's Point.I sent Raegar and his assistants, along with a mountaineer friend, down to establish a small post near Dun Argol, at the southern end of the Eastwind Shore.They were to investigate the iron dwarf presence in the southern hills, but I haven't received any reports yet. Could you check up on them if you're going down that way?",
+    "name": "Check Up on Raegar",
+    "requires_level": 73,
+    "zone": "Grizzly Hills"
+}

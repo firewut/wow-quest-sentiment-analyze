@@ -1,0 +1,7 @@
+{
+    "_id": "27428",
+    "description": "I can't spare any men to help search for a second Grimtotem outpost, but I think I know of someone who might be able to help you.Deep in the Quagmire, to the south, there is a small farmstead owned by Tabetha. She may seem little more than an old hermit, but the truth is that she's a mage and scryer of some renown. Follow the road south to her farm and seek her help in finding the culprits responsible for the massacre at the Shady Rest Inn.",
+    "name": "Tabetha's Assistance",
+    "requires_level": 36,
+    "zone": "Dustwallow Marsh"
+}

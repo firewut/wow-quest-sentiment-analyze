@@ -1,0 +1,8 @@
+{
+    "_id": "38803",
+    "added_in_patch": 7,
+    "description": "My sister Nal'ryssa has her claws in you, doesn't she?That weakling doesn't know the first thing about mining. She was always too afraid to take the leap. True knowledge comes only from the Great One, the God of Fel and Flame.You want to truly learn how to mine? Come to Suramar's northwestern corner, and speak my name:Rin'thissa.",
+    "name": "Rin'thissa",
+    "requires_level": 98,
+    "zone": "Mining"
+}

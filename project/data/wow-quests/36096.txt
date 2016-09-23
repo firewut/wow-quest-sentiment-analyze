@@ -1,0 +1,8 @@
+{
+    "_id": "36096",
+    "added_in_patch": 6,
+    "description": "This claw is proof of your strength at slaying ancients and your gladiator friend has born witness!Take the claw back to Jonaa and claim your accolades!",
+    "name": "Proof of Strength: Ravager Claw",
+    "requires_level": 92,
+    "zone": "Gorgrond"
+}

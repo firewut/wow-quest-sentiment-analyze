@@ -1,0 +1,7 @@
+{
+    "_id": "11995",
+    "description": "<Class>, I know these tuskarr will ask you to do many favors for them, but you must get to Stars' Rest with all due haste!The upheaval in the land this morning is sure to have broader repercussions than just inconveniencing the natives.Stars' Rest is westward past the intersection of the road leading north out of the harbor. There is an archmage there named Modera. She will be expecting you.",
+    "name": "Your Presence is Required at Stars' Rest",
+    "requires_level": 71,
+    "zone": "Dragonblight"
+}

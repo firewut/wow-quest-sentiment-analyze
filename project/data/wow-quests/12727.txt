@@ -1,0 +1,7 @@
+{
+    "_id": "12727",
+    "description": "The alarms have been sounded. The High Inquisitor and his acolytes will be here soon. I'm too badly injured to be of much use, but I'll do what little I can to help.Slay the High Inquisitor and his cronies. Tear off his head and return with it to Thassarian. Vengeance will soothe his savage soul.One more thing, <name>. If you do manage to survive and make it back to Thassarian, tell him that they're executing prisoners at the chapel. Perhaps he'll send you there to play the hero once more.",
+    "name": "Bloody Breakout",
+    "requires_level": 55,
+    "zone": "Death Knight"
+}

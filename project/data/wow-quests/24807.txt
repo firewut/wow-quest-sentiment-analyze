@@ -1,0 +1,7 @@
+{
+    "_id": "24807",
+    "description": "While we've accomplished much here, it would be a tragedy if part of this corruption has escaped our notice.  The corridors of the Wailing Cavern stretch throughout the entire Barrens, and if another spot of wild energy has made its way to the surface...You've done enough for me, though. I would simply ask that you let a fellow druid of mine know of what's happened here. You will find Winnoa Pineforest at Vendetta Point, southwest of here.",
+    "name": "Winnoa Pineforest",
+    "requires_level": 29,
+    "zone": "Southern Barrens"
+}

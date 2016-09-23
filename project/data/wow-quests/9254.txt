@@ -1,0 +1,7 @@
+{
+    "_id": "9254",
+    "description": "Thank you for your help, <name>.  While I get things back in order here, I'd like to ask you for a favor.  One of my former apprentices embarked in a very dangerous line of research.  She journeyed to the East Sanctum, in the middle of the Dead Scar.I worry for her well-being.  See if you can find her and convince her to return to her senses.",
+    "name": "The Wayward Apprentice",
+    "requires_level": 7,
+    "zone": "Eversong Woods"
+}

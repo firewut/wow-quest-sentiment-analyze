@@ -1,0 +1,7 @@
+{
+    "_id": "12707",
+    "description": "Ahunae hear about your trip to Mam'toth Crater, mon. The children of Mam'toth are enraged and cry out for justice!Follow the avenue northeast up the steps to the next tier of Zul'Drak. On your right you will find what's left of the Altar of Mam'toth.When you get there, flash this Medallion of Mam'toth in front of the eyes of one of the enraged mammoths. It'll calm down for a little while, letting you hop on its back.Ride it around, trampling all of the Mam'toth disciples that you can find!",
+    "name": "Wooly Justice",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30946",
+    "added_in_patch": 5,
+    "description": "The prisoner is being kept upstairs, <name>. It will be difficult to get information from him, but even the slightest detail about their location will help.The elders have begun questioning him already. With their help we should be able to figure out our next move.Go speak with him and see if he has any useful information.",
+    "name": "Revelations",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

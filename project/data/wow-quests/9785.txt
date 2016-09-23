@@ -1,0 +1,7 @@
+{
+    "_id": "9785",
+    "description": "You've earned the trust of the Cenarion Expedition, <name>.  It is time you spoke to the ancients allied with our cause, Ashyen and Keleth, and asked for their blessing.Carrying the mark of an ancient will fill you with great power.  These boons will become more powerful as your renown among us increases.Go, <name>, and ask the ancients for their blessing. ",
+    "name": "Blessings of the Ancients",
+    "requires_level": 59,
+    "zone": "Zangarmarsh"
+}

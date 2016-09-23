@@ -1,0 +1,8 @@
+{
+    "_id": "34445",
+    "added_in_patch": 6,
+    "description": "The way I see it, there's two ways to keep this tank from going through the portal: break the tank, or USE the dang tank ta' BLOW UP the dang portal.I can get 'er workin', I just need time. Hop in that turret off the starboard bow and keep 'em off my back.",
+    "name": "A Taste of Iron",
+    "requires_level": 90,
+    "zone": "Assault on the Dark Portal"
+}

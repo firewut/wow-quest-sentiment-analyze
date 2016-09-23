@@ -1,0 +1,8 @@
+{
+    "_id": "31536",
+    "added_in_patch": 5,
+    "description": "To preserve maximum freshness, cooking ingredients need to be stored properly. Fortunately, Merchant Cheng over there sells good containers.  I hate to send you on such a menial errand, but would you go purchase an empty tiger meat basket for me? ",
+    "name": "Preserving Freshness",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

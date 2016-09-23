@@ -1,0 +1,8 @@
+{
+    "_id": "41889",
+    "added_in_patch": 7,
+    "description": "Let's begin crafting this mount armor, shall we?",
+    "name": "Dazed of the Past",
+    "requires_level": 104,
+    "zone": "Leatherworking"
+}

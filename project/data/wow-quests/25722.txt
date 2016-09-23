@@ -1,0 +1,8 @@
+{
+    "_id": "25722",
+    "description": "The destruction of the Stonewrought Dam was no small thing, lad. We're here to find out just how bad the damage is. A mighty load of water's rampaged through here, and if it's disturbed the earth too far, we could be in for worse later on.We can tell a lot from studying the sediment of the flooded area. I need as many soil samples as I can get, so if you could head out there and collect some more, I'd much appreciate it.",
+    "name": "Sedimentary, My Dear",
+    "requires_level": 18,
+    "side": "alliance",
+    "zone": "Wetlands"
+}

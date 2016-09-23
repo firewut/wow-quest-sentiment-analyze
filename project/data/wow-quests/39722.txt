@@ -1,0 +1,8 @@
+{
+    "_id": "39722",
+    "added_in_patch": 7,
+    "description": "Even the most nefarious Legion lords fear your presence on the battlefield. Yet they are relentless, fashioning ever more terrible horrors and fiends in hopes of countering your might.Highlord, we must augment your power to maintain our edge over the enemy.The altar before you holds within it the essence of the countless heroes of the Light buried in these sacred halls. Place your weapon upon the altar and imbue it with new strength.",
+    "name": "Forging New Strength",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

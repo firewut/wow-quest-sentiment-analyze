@@ -1,0 +1,8 @@
+{
+    "_id": "30473",
+    "added_in_patch": 5,
+    "description": "That Fish Fellreed is kind of weird. First of all, her name's Fish. That's weird.Once you talk to her, though, she's really a nice lady. Did you know that she's an animal lover?I've got an idea! The Kunzen hozen, in the mountains to the west, make little animal statues and put them in their huts to scare off bad guys. I bet Fish would LOVE something weird like that!",
+    "name": "A Gift For Fish",
+    "requires_level": 90,
+    "zone": "Valley of the Four Winds"
+}

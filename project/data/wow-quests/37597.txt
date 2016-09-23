@@ -1,0 +1,8 @@
+{
+    "_id": "37597",
+    "added_in_patch": 6.1,
+    "description": "",
+    "name": "Talk to Testie",
+    "requires_level": 1,
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "26223",
+    "description": "Many brave trolls have been lost to the harsh wilds of the Hinterlands, <race>. The Silvermane wolves are one of the biggest threats to our hunters. They lay in wait, hiding amongst the bushes and landscape, then strike out when the opportunity presents itself.This type of ferocity will not go unchecked!You must think like the Silvermane. Stalk the stalkers! Slay them all!",
+    "name": "Stalking the Stalkers",
+    "requires_level": 29,
+    "zone": "The Hinterlands"
+}

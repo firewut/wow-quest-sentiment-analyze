@@ -1,0 +1,8 @@
+{
+    "_id": "44694",
+    "added_in_patch": 7,
+    "description": "Before I  became a demon hunter, I practiced the arcane arts. I still retain some of that knowledge, though the fel makes it all but impossible to use.\r\n\r\nOne thing I can still manage is the occasional glimpse into faraway places. You've seen me use the nether crucible to do this. I'm afraid that things don't look too good.\r\n\r\nThe forces that are arrayed against us are not limited to the Burning Legion. You must act quickly to keep the Broken Isles from being overwhelmed.",
+    "name": "One Battle at a Time",
+    "requires_level": 110,
+    "zone": "Demon Hunter Campaign"
+}

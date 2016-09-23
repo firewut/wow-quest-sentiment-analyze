@@ -1,0 +1,7 @@
+{
+    "_id": "11619",
+    "description": "My own father was slain by the leader of this raiding party, Gamel the Cruel.  He has made his abode inside a cave on the beach.You've dealt with his men already.  Finish what you've started, <name>.  Avenge my father and I will share with you what little I still have.",
+    "name": "Gamel the Cruel",
+    "requires_level": 68,
+    "zone": "Borean Tundra"
+}

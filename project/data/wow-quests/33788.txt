@@ -1,0 +1,9 @@
+{
+    "_id": "33788",
+    "added_in_patch": 6,
+    "description": "The base is boiling and ready for those ingredients.Add each of the ingredients, one at a time, and I will handle the mixing and frothing. Speak to me when you are ready.",
+    "name": "Cooking With Unstable Herbs",
+    "requires_level": 90,
+    "side": "alliance",
+    "zone": "Shadowmoon Valley"
+}

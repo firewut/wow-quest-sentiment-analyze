@@ -1,0 +1,7 @@
+{
+    "_id": "11031",
+    "description": "",
+    "name": "Archmage No More",
+    "requires_level": 70,
+    "zone": "Karazhan"
+}

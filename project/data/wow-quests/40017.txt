@@ -1,0 +1,8 @@
+{
+    "_id": "40017",
+    "added_in_patch": 7,
+    "description": "As you harvest the aethril, your hand brushes the flower's pollinating organs against one another, creating a reaction.You may have discovered a new herbalism technique. Your trainer in Dalaran would be a good person to discuss this with.",
+    "name": "A Slip of the Hand",
+    "requires_level": 98,
+    "zone": "Herbalism"
+}

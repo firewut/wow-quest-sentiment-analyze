@@ -1,0 +1,7 @@
+{
+    "_id": "14325",
+    "description": "<Khan Kammah listens as you explain the demonic threat, and Khan Leh'prah's visions.>No one need lecture us about the demons, <race>. It is they who drove our clan from our ancestral lands.It is they who forced us to take over the Kolkar wastelands, where we struggle just to exist.The war against the Kolkar took a heavy toll on my people. What few of us remain are weary and hungry.Bring food for my people and then we shall discuss the demons.",
+    "name": "Will Work For Food",
+    "requires_level": 29,
+    "zone": "Desolace"
+}

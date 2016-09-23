@@ -1,0 +1,9 @@
+{
+    "_id": "35329",
+    "added_in_patch": 6,
+    "description": "Th... they're ghosts! All of them!Bryan was one of my best friends. Something is clouding his mind; we need to snap him out of it and get to the bottom of this!He was always obsessed with his work. Maybe showing him one of his schematics would help. One of the spectral laborers might have one.",
+    "name": "I See Dead People",
+    "requires_level": 96,
+    "side": "alliance",
+    "zone": "Spires of Arak"
+}

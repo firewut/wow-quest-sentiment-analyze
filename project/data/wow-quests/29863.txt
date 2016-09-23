@@ -1,0 +1,7 @@
+{
+    "_id": "29863",
+    "description": "I have sent an emissary to the Halls of Lightning to take the battle to Loken.He undoubtedly needs assistance, given the strength of Loken's armies. Lend him any aid you can so that we may finally stop the traitor.",
+    "name": "Stormherald Eljrrin",
+    "requires_level": 77,
+    "zone": "Quests"
+}

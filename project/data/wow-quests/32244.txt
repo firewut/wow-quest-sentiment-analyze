@@ -1,0 +1,8 @@
+{
+    "_id": "32244",
+    "added_in_patch": 5.1,
+    "description": "These terracotta wardens are fearsome, but not nearly as horrifying as the creature that we found at the top of the ruins.Some of our surviving scouts reported seeing some kind of mogu spellweaver on the highest rise to the north.He practices a type of magic unlike any other we have seen.We must learn whatever we can from this creature. Slay him, and bring me anything you find.",
+    "name": "The Korune",
+    "requires_level": 90,
+    "zone": "Pandaren Campaign"
+}

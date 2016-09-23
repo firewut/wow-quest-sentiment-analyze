@@ -1,0 +1,8 @@
+{
+    "_id": "35265",
+    "description": "The time has come for you to undertake the Ritual of Binding, <name>.This ancient, shamanic rite has been practiced since long before I was born. To be chosen is a great honor.Many shaman see vivid elemental visions during the rite; experiencing this world through the very elemental bonds that hold it together.When you are ready, speak with Kalandrios to begin the rite.",
+    "name": "The Ritual of Binding",
+    "requires_level": 98,
+    "side": "horde",
+    "zone": "Nagrand"
+}

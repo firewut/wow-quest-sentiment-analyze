@@ -1,0 +1,8 @@
+{
+    "_id": "25682",
+    "description": "We be done here, mon.  Only thing left to do is send a report to Okrilla.  You doin' anything right now?",
+    "name": "Mission Complete",
+    "requires_level": 54,
+    "side": "horde",
+    "zone": "Blasted Lands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "31935",
+    "added_in_patch": 5,
+    "description": "The rebel <class> comes once again to test  his might again that of a Grand Master. Your bravery will be your undoing this time!",
+    "name": "Grand Master Payne",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

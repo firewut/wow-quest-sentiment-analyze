@@ -1,0 +1,7 @@
+{
+    "_id": "26931",
+    "description": "These Alliance forces walk around the Plaguelands like they own the place.  Well, they don't!  This land rightfully belongs to the Dark Lady!As the battle for Andorhal drew to a close, the Alliance forces occupying the Plaguelands scattered.  Several of them can be found just east of here, hunting foxes.  Prove to them that this is Forsaken territory.Kill the hunters.  Kill their hunting dogs.  And kill the foxes they hunt, for good measure.",
+    "name": "Foxes and Hounds",
+    "requires_level": 34,
+    "zone": "Western Plaguelands"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "41001",
+    "added_in_patch": 7,
+    "description": "The Sashj'tar forces may have dwindled, but the Tidemistress has surrounded herself with her fiercest naga.This is the time to strike a final crushing blow against the Sashj'tar.If we can defeat them now, we may finally break the back of this menace and save Jandvik.",
+    "name": "Shatter the Sashj'tar",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

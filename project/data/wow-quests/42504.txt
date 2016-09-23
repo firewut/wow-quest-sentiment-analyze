@@ -1,0 +1,8 @@
+{
+    "_id": "42504",
+    "added_in_patch": 7,
+    "description": "We can't let Stormwind fall to the Legion, and I don't trust Shaw or his SI:7 goons to take care of the Hand on their own.The two of us need to handle this while there's still time.The entire city is on edge from murmurs of the cult's activities. They're as likely to turn on you as they are the cultists if you aren't careful.The other Shadows spoke highly of your skills. Are you in?",
+    "name": "The Unseen Blade",
+    "requires_level": 98,
+    "zone": "Artifact"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "40997",
+    "added_in_patch": 7,
+    "description": "Word is you're headin' down to the Broken Isles. That true?Soon as news got out about the place, we combed through every book, tome, and paper we could get our hands on. We put together quite the report! You should take a look.While you're here, this board is where the magic of the Uncrowned happens. You can put a bounty on a king's head, offer a reward for felsilk cloth... just jot down your latest whim and your agents will take care of it.",
+    "name": "Lethal Efficiency",
+    "requires_level": 98,
+    "zone": "Rogue Campaign"
+}

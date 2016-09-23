@@ -1,0 +1,8 @@
+{
+    "_id": "38953",
+    "added_in_patch": 7,
+    "description": "You've already learned the patterns for bracers, belts, epaulets, and of course, robes. Unfortunately, your technique was wasteful... you need a better method.That's where our needles come in.Here, I'll show you how to improve the process of these patterns.",
+    "name": "Advanced Needlework",
+    "requires_level": 102,
+    "zone": "Tailoring"
+}

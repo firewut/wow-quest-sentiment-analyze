@@ -1,0 +1,7 @@
+{
+    "_id": "13295",
+    "description": "<Thassarian takes the pustulant spines and drains their fluid into a flask.>A little-known quality of the flesh giants...Their spinal fluid interacts with the plague in a very interesting way, turning it into a corrosive acid.Poured from the towering ramparts, acid may not be a welcome sight to the troops below, but at least the victims won't rise up and add to the enemy's numbers.Pour the contents of this flask into one of the plague cauldrons in the western chamber of the death gate.",
+    "name": "Basic Chemistry",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

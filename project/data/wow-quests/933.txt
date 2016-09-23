@@ -1,0 +1,8 @@
+{
+    "_id": "933",
+    "description": "There is one last moonwell that I would like you to visit.  It is directly south of here, on the shores of the Pools of Arlithrien. Be wary as you seek out the well, and keep your weapons close at hand. I sense a growing corruption from the boughs of southern Teldrassil.When you have the water, I want you to bring it to a familiar face that you'll see at the pools. She wishes to battle the corruption, and has asked for you personally.",
+    "name": "Teldrassil: The Coming Dawn",
+    "requires_level": 1,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

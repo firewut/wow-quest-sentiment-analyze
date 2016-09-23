@@ -1,0 +1,8 @@
+{
+    "_id": "2561",
+    "description": "After examining this charm, <name>, I see now what must be done. Please take it, and do as I ask.You are to approach the door to the nearby chamber. Inside, you will find my soulless body... Although I regret what I am about to tell you, I see no other way to free myself from the control of the Gnarlpine.In order for me to escape them, you must kill my physical form.  Once that is done, use the voodoo charm on my fallen body. After you have completed this task, please return to me.",
+    "name": "Druid of the Claw",
+    "requires_level": 3,
+    "side": "alliance",
+    "zone": "Teldrassil"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26719",
+    "description": "Master Harris will want to know of this immediately.Here, take this package of corpseweed down the road to the camp at Raven Hill. Tell him what we saw at the Yorgen Stead.",
+    "name": "Delivery to Master Harris",
+    "requires_level": 22,
+    "side": "alliance",
+    "zone": "Duskwood"
+}

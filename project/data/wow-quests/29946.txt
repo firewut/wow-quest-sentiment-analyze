@@ -1,0 +1,8 @@
+{
+    "_id": "29946",
+    "added_in_patch": 5,
+    "description": "We've dealt with the alpha males. Now, the alpha female.Virmen aren't terribly selective when it comes to breeding, but most broods will still have a dominant mother figure. She's usually bigger, meaner, and tougher than anyone else in the brood.You know, I wouldn't mind testing my skills against a warren-mother. Mind if I fight alongside you?",
+    "name": "The Warren-Mother",
+    "requires_level": 86,
+    "zone": "Valley of the Four Winds"
+}

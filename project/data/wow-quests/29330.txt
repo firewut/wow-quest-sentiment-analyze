@@ -1,0 +1,7 @@
+{
+    "_id": "29330",
+    "description": "The totems, <name>! We need to activate them, or Go'el is lost!Kill the elementals next to each of my totems, located around the edges of this plateau. Once all four totems are activated, we should be able to free the last piece of Go'el's soul!",
+    "name": "Elemental Bonds: Fury",
+    "requires_level": 85,
+    "zone": "Quests"
+}

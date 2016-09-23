@@ -1,0 +1,7 @@
+{
+    "_id": "11235",
+    "description": "And now we have a different problem. My scouts that have lived to return have informed me that the vrykul are up to no good at their main fortress to the north.They call the place Gjalerbron, though you'd pronounce the 'Gj' as if it were an 'Sh'. Odd creatures.But that's not important; what is, is that you get up there and put an end to the lives of as many of those creatures as you can while trying to figure out what they're up to.I know that I can count on you, <name>.",
+    "name": "Dealing With Gjalerbron",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

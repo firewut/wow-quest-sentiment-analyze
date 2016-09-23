@@ -1,0 +1,7 @@
+{
+    "_id": "13169",
+    "description": "As is usual practice, the undead at the saronite quarry to the southwest starve plaguehounds to keep them extra aggressive. Use the shade to get up close and feed some of those hounds and I promise you they'll be content to leave you alone, if not side with the hand that fed them.Don't get too close to those things until you've fed them though. Their noses don't fall victim to your shade's elusiveness.",
+    "name": "An Undead's Best Friend",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

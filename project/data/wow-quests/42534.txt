@@ -1,0 +1,8 @@
+{
+    "_id": "42534",
+    "added_in_patch": 7,
+    "description": "I will grant the Ebon Blade access to my father's tomb. First though, I must ask a favor.I have taken up the sword and banner of my father. I have reclaimed Stromgarde with its former citizens as my guard. Yet, one task remains.Witherbark invaders have blockaded themselves in the former mage district of the city. My men have suffered heavy losses at their vile hands.Cut them down to the last! Bring me their heads and I shall give you what you seek.You have my word as the King of Stromgarde.",
+    "name": "Our Oldest Enemies",
+    "requires_level": 103,
+    "zone": "Death Knight Campaign"
+}

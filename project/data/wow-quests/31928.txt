@@ -1,0 +1,8 @@
+{
+    "_id": "31928",
+    "added_in_patch": 5,
+    "description": "In my opinion, my fellow tamers have been far too lenient on your training.True pet taming requires militaristic discipline. I shall honor you with the pleasure of seeing firsthand what that discipline can produce.Come to the Argent Tournament Grounds in Icecrown and see firsthand what you could become!",
+    "name": "Grand Master Payne",
+    "requires_level": 1,
+    "zone": "Battle Pets"
+}

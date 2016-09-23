@@ -1,0 +1,7 @@
+{
+    "_id": "13820",
+    "description": "The highlord has tasked me with getting that coliseum completed as soon as possible. We've put our own masons to work on the project, but we found out very quickly that we were going to need help procuring materials. I've hired a couple of goblins, Bezzle Blastbolt and his brother, Bozzle.They're supervising construction at the southeastern end of the tournament grounds. Speak with Bezzle and see if he and his brother could use any more help getting the building materials we need.",
+    "name": "The Blastbolt Brothers",
+    "requires_level": 77,
+    "zone": "Tournament"
+}

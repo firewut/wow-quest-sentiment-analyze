@@ -1,0 +1,7 @@
+{
+    "_id": "27240",
+    "description": "Although Onyxia has been exposed and removed from the court, the Defias who carried out her plan must be punished. Carry word to King Anduin Wrynn in Stormwind castle that the Defias are the ones who carried out his kidnapping. I have little doubt that the king will mete out swift and terrible justice to those involved.I can use my magic to expedite your trip to Stormwind. Just speak to me when you're prepared to go, <name>.",
+    "name": "Proof of Treachery",
+    "requires_level": 34,
+    "zone": "Dustwallow Marsh"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "28189",
+    "description": "You have come upon a horrific scene. Someone or something has buried all of the humans up to their necks in a manner consistent with planting. The ghouls, which are seemingly tending the field of human seedlings, periodically jump to the nearest human and devour its head!You can end this right here and now. Take this shovel and \"save\" the humans.Do the right thing.",
+    "name": "Do the Right Thing",
+    "requires_level": 19,
+    "zone": "Hillsbrad Foothills"
+}

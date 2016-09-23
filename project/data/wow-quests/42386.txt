@@ -1,0 +1,8 @@
+{
+    "_id": "42386",
+    "added_in_patch": 7,
+    "description": "Our village is swarming with beasts risen from the dead!The abominations never rest! They attack night and day.We're doing our best to keep them at bay, but it's getting to be more than the townsfolk can handle. They're tired and losing their will to fight.Anything you can do to lessen the burden would be greatly appreciated.",
+    "name": "Rising Troubles",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

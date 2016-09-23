@@ -1,0 +1,7 @@
+{
+    "_id": "11254",
+    "description": "Upon closer inspection, the scroll appears to be a heavily-illustrated map of the fjord.  The location of various villages are depicted in what seem to be tribal symbols.The location of Vengeance Landing is marked with a disproportionately large skull.This map will almost certainly be of military value to High Executor Anselm.",
+    "name": "The Dragonskin Map",
+    "requires_level": 68,
+    "zone": "Howling Fjord"
+}

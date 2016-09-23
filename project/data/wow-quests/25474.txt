@@ -1,0 +1,7 @@
+{
+    "_id": "25474",
+    "description": "Eels are among the creepiest of Azeroth's creatures.Sure, there are those who pretend that they don't mind them - and others who actually claim to favor them.They are lying.Truth be told, no one likes eels. Eels don't even like eels.Azeroth would be a better place if no one ever had to envision an eel slithering out from the murky depths and biting them.In the face.",
+    "name": "Once More, With Eeling [DEPRICATED]",
+    "requires_level": 80,
+    "zone": "Kelp'thar Forest"
+}

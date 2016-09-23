@@ -1,0 +1,7 @@
+{
+    "_id": "13624",
+    "description": "I certainly hope that you're here to help, <class>. The situation is as dire as it appears. To put it quite simply, we are losing!My girls and I are the last line of defense against the Horde, but we're not going to get out of this one without taking the fight to them. Up for a challenge?I have a small squad of sentinels that I can loan to you. Get them close and I'm certain that their magic arrows can destroy those wreckers and invaders.Speak to me again if you need replacements.",
+    "name": "A Squad of Your Own",
+    "requires_level": 19,
+    "zone": "Ashenvale"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "26293",
+    "description": "Far to the east the \"Worldbreakers\" lay hidden in the Twilight Highlands. We must end their threat and we will do it with the most powerful army ever!\r\n\r\nOur new allies, the goblins, are making us new machines of war but I hear that there are problems with the quality. We can't fight with broken war machines. Speak to Foreman Glibbs and make sure our machines are ready for battle.",
+    "name": "Machines of War",
+    "requires_level": 84,
+    "side": "horde",
+    "zone": "Orgrimmar"
+}

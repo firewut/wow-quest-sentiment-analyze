@@ -1,0 +1,9 @@
+{
+    "_id": "38926",
+    "added_in_patch": 6.2,
+    "description": "As we feared the Horde are trying to consolidate their position here on the island by looting it, just like we feared. Get out there and show them the Alliance won't put up with their aggression.",
+    "name": "Continue the Domination",
+    "requires_level": 100,
+    "side": "alliance",
+    "zone": "Ashran"
+}

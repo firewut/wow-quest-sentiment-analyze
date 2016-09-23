@@ -1,0 +1,8 @@
+{
+    "_id": "31470",
+    "added_in_patch": 5,
+    "description": "If you wish to make dishes that enhance agility, you should bring some carrots and rice to the Master of the Wok. The virmen around here tend to carry a lot of carrots around. You can also grow your own, if you have a farm.",
+    "name": "Way of the Wok",
+    "requires_level": 85,
+    "zone": "The Halfhill Market"
+}

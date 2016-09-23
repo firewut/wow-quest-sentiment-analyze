@@ -1,0 +1,8 @@
+{
+    "_id": "30763",
+    "added_in_patch": 5,
+    "description": "Certain fish are very difficult to catch.  The wolf piranha falls squarely into this category.Lucky for me that you showed up!  Put those fishing skills to the test and bring me back a few from the krasarang river due northwest of here.",
+    "name": "Piranha!",
+    "requires_level": 90,
+    "zone": "Fishing"
+}

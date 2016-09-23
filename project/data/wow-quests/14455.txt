@@ -1,0 +1,8 @@
+{
+    "_id": "14455",
+    "description": "Knowing the ways of your prey is another aspect of the hunt. In the lands they come from, quilboar live in the shade and protection of huge thorned roots. When they move, their shamans seed and grow new roots for them to live in.These thorns mar the land and choke out other life, turning the earth around them barren.  Go to the south and stop these thorncallers before they have a chance to continue, <name>.",
+    "name": "Stop the Thorncallers",
+    "requires_level": 1,
+    "side": "horde",
+    "zone": "Mulgore"
+}

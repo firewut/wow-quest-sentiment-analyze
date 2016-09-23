@@ -1,0 +1,7 @@
+{
+    "_id": "26610",
+    "description": "The map shows Booty Bay with a red \"X\" drawn precisely at the spot at which you are standing.The scribbled text reads:\"Set up your command post here, and bide your time.  The Fleet Master will send out word when it's time to make your move.\"\"I'm placing Lieutenant Bruce in charge here.  This time will be different.  This time we take Booty Bay once and for all.\"The map is held in place with a dagger, placed right through the location of Booty Bay.",
+    "name": "Bloodsail Treachery",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

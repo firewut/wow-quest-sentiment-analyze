@@ -1,0 +1,8 @@
+{
+    "_id": "28474",
+    "description": "The influence of Twilight's Hammer grows within Blackrock Depths. They have allied with the Dark Iron dwarves and seek to convince them to strike outside the mountain.We must destroy the instruments of the Twilight's Hammer agitation. Their influence over the Dark Irons must be minimized.I want you to go into Domicile portion of Blackrock Depths and use this torch to burn the books that the Twilight's Hammer is distributing there.",
+    "name": "Twilight Scheming",
+    "requires_level": 50,
+    "side": "horde",
+    "zone": "Blackrock Depths"
+}

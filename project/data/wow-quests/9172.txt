@@ -1,0 +1,7 @@
+{
+    "_id": "9172",
+    "description": "The magisters at the Sanctum of the Sun have made great progress in analyzing the Scourge's weaknesses with the aid of the Forsaken.  Magister Kaendris will know what to do with this information.You'll find the Sanctum of the Sun southwest of here.  You must hurry, <name>.  Dar'Khan is a cunning enemy and watches our every move!",
+    "name": "Report to Magister Kaendris",
+    "requires_level": 15,
+    "zone": "Ghostlands"
+}

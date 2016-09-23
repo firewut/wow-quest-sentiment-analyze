@@ -1,0 +1,7 @@
+{
+    "_id": "27706",
+    "description": "The chest below unlocks with a loud click as you insert the two stones into the plaque.Obtain the scepter and bring it back to General Ammantep.",
+    "name": "The Scepter of Orsis",
+    "requires_level": 83,
+    "zone": "Uldum"
+}

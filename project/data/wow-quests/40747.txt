@@ -1,0 +1,8 @@
+{
+    "_id": "40747",
+    "added_in_patch": 7,
+    "description": "I hadn't the time to gather my instruments before fleeing the palace. I came here to salvage some equipment.\r\n\r\nThis old workshop is actually several rooms connected by teleporter pads.\r\n\r\nElisande's goons are already scouring the place looking for me, but from here I can alter the teleporter network and keep them moving in circles.\r\n\r\nYou go in. I'll monitor your position and ensure the teleporters work normally for you.\r\n\r\nFind these two parts and bring them back!",
+    "name": "The Delicate Art of Telemancy",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

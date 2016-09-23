@@ -1,0 +1,8 @@
+{
+    "_id": "26145",
+    "description": "<Class>, you may or may not be aware of the trogg threat looming over dwarven lands.  With the Ironforge Reserve called up to the Alliance Front, we're left with a fraction of the defense forces needed to keep these lands safe.  My regiment is assigned to watch over the town here and we cannot leave our post for fear of invasion.But we need some pressure put on those damned troggs lurking in the hills.  If you're up to the task, wage an assault on the troggs.  Bring me back eight trogg stone teeth as proof.",
+    "name": "The Trogg Threat",
+    "requires_level": 10,
+    "side": "alliance",
+    "zone": "Loch Modan"
+}

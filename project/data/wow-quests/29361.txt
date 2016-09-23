@@ -1,0 +1,8 @@
+{
+    "_id": "29361",
+    "description": "Sometimes fishing means throwing something back, <class>.We've been overfeeding these frogs for just that occasion.  We've fed these frogs bloated spiders, that were fed bloated flies, and now, we are going to feed a real monster.The moat above, in the Ruins of Lordaeron, is home to our very own moat monster.Today is feeding day.  But we must train it as well.  In this bag, you will find a decoy kit and some bloated frogs.  Use the decoy kit, then toss the frogs to the monster when it appears.",
+    "name": "Moat Monster!",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Fishing"
+}

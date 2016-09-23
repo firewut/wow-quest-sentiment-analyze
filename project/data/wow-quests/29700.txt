@@ -1,0 +1,7 @@
+{
+    "_id": "29700",
+    "added_in_patch": 5,
+    "description": "",
+    "name": "Tracking Event: Bodyguard Found",
+    "zone": "Quests"
+}

@@ -1,0 +1,7 @@
+{
+    "_id": "11546",
+    "description": "Welcome, <name>.There are a number of ways I can assist you in your efforts here.For example, I've recently discovered a recipe for a unique elixir.The bloodberry grows wild in many regions of Azeroth and has long been considered nothing more than a nuisance. I've learned though, that when exposed to the Sunwell's power this plant takes on special properties that can be distilled and imbibed to magnify one's abilites.Bring me a sample from the nearby bushes and I'll show you what I mean.",
+    "name": "Open for Business",
+    "requires_level": 70,
+    "zone": "Isle of Quel'Danas"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "30765",
+    "added_in_patch": 5,
+    "description": "<name>, the yaungol warchief, Humongous, killed Shado-Master Zhen. He has his banner.You have to kill Humongous and regain Zhen's honor! If you don't, I will.",
+    "name": "Regaining Honor",
+    "requires_level": 87,
+    "zone": "Kun-Lai Summit"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "25945",
+    "description": "You're in Hellscream's army now, <name>, and in Hellscream's army we kick butt and take names. Gone are the days of our people starving in the streets of Orgrimmar as we sign treaties with elves. We take what we need now. Kalimdor belongs to the Horde!The Alliance attempts to stop our expansion every chance they get. Unsatisfied with owning most of the Eastern Kingdoms, those pig-lickers want it all!Overlord Krom'gar has called for more troops in Stonetalon. Get on the caravan west of here and go!",
+    "name": "We're Here to Do One Thing, Maybe Two...",
+    "requires_level": 24,
+    "side": "horde",
+    "zone": "Stonetalon Mountains"
+}

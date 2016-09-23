@@ -1,0 +1,7 @@
+{
+    "_id": "8860",
+    "description": "Stormwind is holding a celebration for the new year!  All day long today you can get free booze, and at night they'll put on a firework show!  It should be pretty nice... but Booty Bay is also having a party today; I bet it'll be even better!Well anyway, Innkeeper Allison in Stormwind needs a supply of Smokywood Pastures fare to help feed all the party goers.  Can you do me a favor and deliver it?Thanks, <name>!  Innkeeper Allison is in The Gilded Rose, in the Trade District of Stormwind.",
+    "name": "New Year Celebrations!",
+    "requires_level": 1,
+    "zone": "Quests"
+}

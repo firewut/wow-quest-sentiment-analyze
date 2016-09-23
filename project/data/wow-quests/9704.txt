@@ -1,0 +1,8 @@
+{
+    "_id": "9704",
+    "description": "It's hard work being an outrunner between Sunstrider Isle and Falconwing Square.  Tight deadlines, long hours and worst of all... the Wretched!The road south goes through the ruins of Silvermoon... the place is crawling with Wretched ready to kill you for a few mana crystals.  Unfortunately, I think that's what happened to the last outrunner we sent with one of Erona's packages.I see you're eager to prove yourself.  Venture into Dawning Lane and see if you can find any traces of our outrunner.",
+    "name": "Slain by the Wretched",
+    "requires_level": 4,
+    "side": "horde",
+    "zone": "Sunstrider Isle"
+}

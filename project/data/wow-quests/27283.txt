@@ -1,0 +1,8 @@
+{
+    "_id": "27283",
+    "description": "As you have heard, Moonglade is the home of the Cenarion Circle, the brotherhood of druids. All who dwell there do so in the peace of Cenarius. It is in that spirit that the trainer Loganaar has extended an invitation to visit him in Moonglade.You will find him in the village of Nighthaven.",
+    "name": "A Journey to Moonglade",
+    "requires_level": 20,
+    "side": "horde",
+    "zone": "Druid"
+}

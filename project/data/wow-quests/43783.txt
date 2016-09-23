@@ -1,0 +1,8 @@
+{
+    "_id": "43783",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Field Rations",
+    "requires_level": 110,
+    "zone": "Suramar"
+}

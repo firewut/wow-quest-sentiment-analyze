@@ -1,0 +1,7 @@
+{
+    "_id": "14391",
+    "description": "Azuregos and Kalecgos are due to meet up at the Northern Rocketway Terminus. You should meet with them there to make sure that Kalecgos doesn't require any additional help.Should you prefer to not be dead, Anara will likely be able to help.",
+    "name": "Turning the Tables",
+    "requires_level": 15,
+    "zone": "Azshara"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "14267",
+    "description": "The Naga invaders have set up a series of shrines along the cliffs. I don't know their purpose, <name>, but I believe they're strengthening our foes. I need someone to get in there and root out this threat.One nearby shrine is lightly defended: Cross the first bridge east of here and then head north towards the bay. You'll find it on a small outcropping. Investigate that shrine and come back with some info I can use.",
+    "name": "Investigating the Sea Shrine",
+    "requires_level": 11,
+    "side": "horde",
+    "zone": "Azshara"
+}

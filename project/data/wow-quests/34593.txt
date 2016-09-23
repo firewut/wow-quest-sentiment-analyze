@@ -1,0 +1,9 @@
+{
+    "_id": "34593",
+    "added_in_patch": 6,
+    "description": "My sister, Mirana, is scouting the upper bluff while I've checked out the lower area. There are two particular ogre mages that do a lot of bossing around in the lower area.They seem to have some orders or scrolls on them that would help us figure out what's really going on.Collect that information and meet with my sister on the long stairway up there.",
+    "name": "Obtaining Ogre Offensive Orders",
+    "requires_level": 98,
+    "side": "alliance",
+    "zone": "Nagrand"
+}

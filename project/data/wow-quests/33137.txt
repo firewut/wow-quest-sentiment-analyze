@@ -1,0 +1,8 @@
+{
+    "_id": "33137",
+    "added_in_patch": 5.4,
+    "description": "The Timeless Isle is home to a special tournament created to test the leadership of its participants.  Those who prove their worth are granted an opportunity to befriend an embodiment of virtue - the progeny of the celestials themselves.Each time you win the tournament, I will honor you with a single ceremonial coin.  When you have enough coins, speak with me again to further discuss your reward.",
+    "name": "The Celestial Tournament",
+    "requires_level": 90,
+    "zone": "Battle Pets"
+}

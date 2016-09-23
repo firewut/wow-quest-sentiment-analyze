@@ -1,0 +1,7 @@
+{
+    "_id": "13077",
+    "description": "The dragon-queen, Alexstrasza, possesses magics over all life. In the past, she has used great fire to incinerate undead and rebirth fresh new life in their place. Perhaps her powers might be able to save our Bridenbrad as well.Alexstrasza makes her home at Wyrmrest Temple in Dragonblight - please go to her and humbly request her aid on my behalf.",
+    "name": "The Touch of an Aspect",
+    "requires_level": 77,
+    "zone": "Icecrown"
+}

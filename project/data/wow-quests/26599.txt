@@ -1,0 +1,7 @@
+{
+    "_id": "26599",
+    "description": "I used to sail a ship from here all the way to Ratchet, in Kalimdor.  I was a successful captain with a sterling reputation.Until...Those cursed sea giants ruined me!  They smashed my ship, killed my crew, and set me on a lifeboat to Booty Bay.  I will not rest until their corpses pepper the ocean floor!One of the giants, Gorlash, stole my captain's chest.  I hear Gorlash wanders the coast east of here.  Find him and get back my chest!  Do that, and you'll have earned a captain's gratitude.",
+    "name": "The Captain's Chest",
+    "requires_level": 31,
+    "zone": "The Cape of Stranglethorn"
+}

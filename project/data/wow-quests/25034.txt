@@ -1,0 +1,7 @@
+{
+    "_id": "25034",
+    "description": "I'd love to keep you here behind the lines, but it looks like you've been summoned to the front. Ambassador Gaines - remember him? - has relocated to Forward Command and in his latest missive he's requested you, personally, to assist him.You'll find our Forward Command operation south of here, in what's become known as the \"Fields of Blood.\"Be careful, <name>. The Horde has taken to ambushing some of our officers en route.",
+    "name": "To the Front!",
+    "requires_level": 29,
+    "zone": "Southern Barrens"
+}

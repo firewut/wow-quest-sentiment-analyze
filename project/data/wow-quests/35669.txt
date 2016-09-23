@@ -1,0 +1,9 @@
+{
+    "_id": "35669",
+    "added_in_patch": 6,
+    "description": "Posted by: Taskmaster GornekThe saberon known as Keeho poses a serious threat to Axefall.He has taken to slaughtering peons on the night shift and dragging their corpses to his den in the pridelands.Anyone who can bring me his severed paw as proof of his demise will be rewarded greatly.",
+    "name": "Wanted: Keeho's Severed Paw",
+    "requires_level": 96,
+    "side": "horde",
+    "zone": "Spires of Arak"
+}

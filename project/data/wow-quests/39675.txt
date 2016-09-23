@@ -1,0 +1,9 @@
+{
+    "_id": "39675",
+    "added_in_patch": 6.2,
+    "description": "Commander, our fleet is going to require some custom naval equipment if we hope to stand a chance in this war.  Find Kronk Rustspark down at the docks, he should be able to help us out.",
+    "name": "Equipping Our Fleet",
+    "requires_level": 100,
+    "side": "horde",
+    "zone": "Frostfire Ridge"
+}

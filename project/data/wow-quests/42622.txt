@@ -1,0 +1,8 @@
+{
+    "_id": "42622",
+    "added_in_patch": 7,
+    "description": "Those foolish calves!\r\n\r\nThey've made off with our ceremonial drums again, treating them as toys... as... common drums!\r\n\r\nCan you help me find them? They must be scattered to all corners of Thunder Totem by now, discarded as soon as the fun dries up.",
+    "name": "Ceremonial Drums",
+    "requires_level": 98,
+    "zone": "Highmountain"
+}

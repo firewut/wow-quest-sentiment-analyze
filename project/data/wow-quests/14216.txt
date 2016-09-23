@@ -1,0 +1,8 @@
+{
+    "_id": "14216",
+    "description": "Before she died, Kalytha was charged with burying something at the bottom of the lake, a powerful artifact that the archmages of Mennar spent their last moments creating. No doubt Malynea Skyreaver will want to see the artifact, presuming it still exists. You resolve to search the bottom of Lake Mennar for the Sarcen Stone. ",
+    "name": "Mystery of the Sarcen Stone",
+    "requires_level": 10,
+    "side": "horde",
+    "zone": "Azshara"
+}

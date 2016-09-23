@@ -1,0 +1,8 @@
+{
+    "_id": "42393",
+    "added_in_patch": 7,
+    "description": "Cora has calmed enough to make the journey back to Trueshot Lodge.You can let Emmarel know that we are on our way home.",
+    "name": "Homecoming",
+    "requires_level": 103,
+    "zone": "Hunter Campaign"
+}

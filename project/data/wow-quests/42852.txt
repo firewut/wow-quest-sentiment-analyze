@@ -1,0 +1,8 @@
+{
+    "_id": "42852",
+    "added_in_patch": 7,
+    "description": "",
+    "name": "Champion: Justicar Julia Celeste",
+    "requires_level": 103,
+    "zone": "Paladin Campaign"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "44544",
+    "added_in_patch": 7,
+    "description": "At last, I've found you!\r\n\r\nI have a message from Advisor Sevel.\r\n\r\nThe Earthen Ring has need of you, Farseer. Please return to the Heart of Azeroth at your soonest convenience. Advisor Sevel is eagerly awaiting your return.",
+    "name": "Call of the Earthen Ring",
+    "requires_level": 101,
+    "zone": "Shaman Campaign"
+}

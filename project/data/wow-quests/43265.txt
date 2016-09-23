@@ -1,0 +1,8 @@
+{
+    "_id": "43265",
+    "added_in_patch": 7,
+    "description": "Now that you have recruited your champions, you can use the Scouting Map to complete vital missions across the Broken Isles.The first mission is critical to the growth and power of our order. Send Nazgrim and Thassarian to seek out new candidates for the Ebon Blade.Our order must grow in strength if we are to defeat the Burning Legion.",
+    "name": "Spread the Word",
+    "requires_level": 101,
+    "zone": "Death Knight Campaign"
+}

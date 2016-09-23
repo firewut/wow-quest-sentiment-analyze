@@ -1,0 +1,8 @@
+{
+    "_id": "40952",
+    "added_in_patch": 7,
+    "description": "Now that you wield Thas'dorah, it's time to learn more about the night elf who set you on this journeyI suggest returning to the Hunter's Reach shop where you met my courier. Whoever this Emmarel Shadewarden is, it seems she has some part to play in the war against the Legion.",
+    "name": "Hunter to Hunter",
+    "requires_level": 98,
+    "zone": "Hunter"
+}

@@ -1,0 +1,8 @@
+{
+    "_id": "34664",
+    "added_in_patch": 6,
+    "description": "You won your first two fights, but it's only going to get tougher from here!Your next fight is against Hol'yelaa, a former rangari who is as crazy as they come.No, really... Hol'yelaa is bonkers!Years ago, while on a scouting mission, he single handedly saved his entire rangari unit from a pack of Garn. But something inside of him snapped....It wasn't long before Hol'yelaa went completely marbles and turned on his own unit!Alright, the pep talk is over! Get in there and kick some ass!",
+    "name": "Ring of Trials: Hol'yelaa",
+    "requires_level": 98,
+    "zone": "Nagrand"
+}

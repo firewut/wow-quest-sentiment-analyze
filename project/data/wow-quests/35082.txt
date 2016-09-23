@@ -1,0 +1,8 @@
+{
+    "_id": "35082",
+    "added_in_patch": 6,
+    "description": "Oh wow, the debris is all over the mountainside! The survivors won't make it if we don't do something quick. They need healing NOW!Here, take my bandages and go patch them up.",
+    "name": "Getting the Crew Back Together",
+    "requires_level": 96,
+    "zone": "Spires of Arak"
+}

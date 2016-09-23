@@ -1,0 +1,7 @@
+{
+    "_id": "12557",
+    "description": "I assume by your interruption that you wish to be numbered among those I am considering for apprenticeship.A worthy aspiration...Should I someday choose to accept your petition, I must be confident that you can find your way around my laboratory. I have many ingredients here; some plentiful, and others in short supply.Take your time, <class>. Find a muddy mire maggot, a withered batwing, an amberseed, and some chilled serpent mucus.Succeed, and I'll know to take your request seriously.",
+    "name": "Lab Work",
+    "requires_level": 74,
+    "zone": "Zul'Drak"
+}

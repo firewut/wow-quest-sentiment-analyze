@@ -1,0 +1,7 @@
+{
+    "_id": "29325",
+    "description": "Have you ever eaten octopus meat? It takes some getting used to, but it's my favorite! I even know some people who like to eat the whole thing while it's alive!I don't plan on trying that anytime soon, but I am out of fresh octopi at the moment. Will you help me gather some more? They live in the shallow water off the shore near Rut'theran Village.",
+    "name": "A Slippery Snack",
+    "requires_level": 10,
+    "zone": "Fishing"
+}
