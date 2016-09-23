@@ -16,6 +16,9 @@
 </head>
 <body class="ui container">
 
+	<div class="ui" id="top-15-verbs" style="margin-top:1em; margin-left: 1em;">
+	</div>
+
  	<div class="ui center aligned" style="margin-top:1em">
 		<div id="container" style="height: 300px; min-width: 800px"></div>
 	</div>
@@ -27,6 +30,33 @@
 		}
 
 		$(function () {
+			$.getJSON('wow-quest-top-10-verbs.txt', function(data){
+				top_15_verbs = []
+				data.forEach( function(verb_array, index) {
+					verb = verb_array[0]
+					count = verb_array[1]
+
+					top_15_verbs.push(
+						{
+							"verb": verb,
+							"count": count,
+						}
+					)
+				});
+
+				top_15_verbs.reverse().slice(0,15).forEach(function(elem){
+					$("#top-15-verbs").append('\
+						<div class="ui mini statistic"> \
+						  <div class="value">\
+						    '+elem.count+'\
+						  </div>\
+						  <div class="label">\
+						    '+elem.verb+'\
+						  </div>\
+						</div>\
+					')
+				})
+			})
 			$.getJSON('wow-quest-series.txt', function(data) {
 				$('#container').bind('mousemove touchmove touchstart', function (e) {
 			        var chart,
