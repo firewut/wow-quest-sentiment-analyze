@@ -1,9 +1,0 @@
-{
-    "_id": "35069",
-    "added_in_patch": 6,
-    "description": "<The body of a fallen soldier lies here. Blood and gore trail back from the corpse to the entrance of the cave just to the north.><Judging by the howls and the carnage surrounding the den, something truly terrifying must be in there.>",
-    "name": "Terror of Nagrand",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

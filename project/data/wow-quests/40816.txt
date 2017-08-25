@@ -1,8 +1,0 @@
-{
-    "_id": "40816",
-    "added_in_patch": 7,
-    "description": "Illidan and I may have disagreed, but he was unarguably powerful. He was pivotal in vanquishing some of the Legion's most powerful soldiers.However, that may not matter much longer.There are two pairs of blades rumored to be more powerful than even Illidan's that may still be within reach.Regrettably, our numbers are too few to hunt both while maintaining our vigil over the Legion. I fear our window of opportunity is waning quickly.As the ranking Illidari, that decision falls to you.",
-    "name": "The Power to Survive",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

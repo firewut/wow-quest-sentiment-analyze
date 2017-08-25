@@ -1,7 +1,0 @@
-{
-    "_id": "26716",
-    "description": "I greatly wish to speak with you, but I'd prefer a more intimate environment. One where we might have a bit of privacy from prying ears.If you would, meet me in the Temple Garden in just a moment.",
-    "name": "A Bit of Privacy",
-    "requires_level": 9,
-    "zone": "Quests"
-}

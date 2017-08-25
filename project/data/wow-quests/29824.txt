@@ -1,9 +1,0 @@
-{
-    "_id": "29824",
-    "added_in_patch": 5,
-    "description": "With our leader turned to jade, our hozen guide disappeared, and a prisoner of war in tow, there was only one thing that Kiryn and I could do:March into our enemy's territory and deliver some vengeance.Want to know how it went?",
-    "name": "Scouting Report: Like Jinyu in a Barrel",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

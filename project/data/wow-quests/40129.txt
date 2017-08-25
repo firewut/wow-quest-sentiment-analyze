@@ -1,8 +1,0 @@
-{
-    "_id": "40129",
-    "added_in_patch": 7,
-    "description": "<A glint catches your eye in the dirt. A brief excavation yields a mostly intact piece of an arcane construct's power core. The breaks appear to be clean, perhaps you could repair it if you find the other fragments.>",
-    "name": "Repairing the Source",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

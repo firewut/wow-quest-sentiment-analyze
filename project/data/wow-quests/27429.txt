@@ -1,7 +1,0 @@
-{
-    "_id": "27429",
-    "description": "There's no scrying necessary to see the trouble my new \"neighbors\" are creating. And if this is the band that burnt down the Shady Rest Inn, as you claim, there's no reason to tolerate their presence any longer.Take this torch and raze their camp to the ground! You'll find Direhorn just to the north of my farm, near the road. You can't miss it, really, as the Grimtotems have done a splendid job of announcing their presence with those totems they favor.",
-    "name": "Raze Direhorn Post!",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10322",
-    "description": "We've received news from one of the two manaforges that remain operational.  The Sunfury army is losing control of Manaforge Duro.Droves of errant mana creatures have been attracted to it by its increased energy production - the manaforge is in chaos.An explosion at Duro has the potential to cause a chain reaction that would endanger all of Outland.  Overseer Athanel is in possesion of the access crystal you need to safely disable the manaforge.",
-    "name": "Shutting Down Manaforge Duro",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26992",
-    "description": "You have no doubt heard about the incident that transpired at the Wrath Gate in Northrend, yes? Due to those unfortunate events we are strictly forbidden from using the strain of life-shattering blight that we finally perfected. Now we have rules and regulations and other nonsense!They've given us some neutered version of the perfected blight and expect us to weaponize it.If I'm to get this crap functional I'll need several bags full of ferocious doomweed. You'll find it all over Silverpine.",
-    "name": "Agony Abounds",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Silverpine Forest"
-}

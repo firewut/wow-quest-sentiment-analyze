@@ -1,9 +1,0 @@
-{
-    "_id": "37044",
-    "added_in_patch": 6,
-    "description": "We've got a lot goin' on here at the workshop. We're buildin' new inventions all the time, and you can find 'em behind me on the workbench.\r\n\r\nGo ahead and grab today's glorious invention. Use it at your own risk.",
-    "name": "Unconventional Inventions",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

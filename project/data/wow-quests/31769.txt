@@ -1,9 +1,0 @@
-{
-    "_id": "31769",
-    "added_in_patch": 5,
-    "description": "We've learned that their captain has barricaded himself in above us.The coward allowed his forces to die while he hid from our fury! Typical Alliance! No matter. He cannot delay his fate any longer.I will scale the walls with my marines while you lead a frontal assault up the ramps. Use your flare gun on munitions near the barricades to blast your way through.We will meet you up top and destroy this pathetic excuse for a captain together!",
-    "name": "The Final Blow!",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

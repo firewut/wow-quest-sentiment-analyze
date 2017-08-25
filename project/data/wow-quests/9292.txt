@@ -1,7 +1,0 @@
-{
-    "_id": "9292",
-    "description": "On the corpse of the fallen abomination, you discover a cracked crystal, slowly pulsing with necrotic energy.",
-    "name": "Cracked Necrotic Crystal",
-    "requires_level": 1,
-    "zone": "Quests"
-}

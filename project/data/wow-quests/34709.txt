@@ -1,9 +1,0 @@
-{
-    "_id": "34709",
-    "added_in_patch": 6,
-    "description": "The Jorune Mine, west of here, needs your help!My good friend Ageilaa sent me to look for help. Exarch Maladaar sent over what vindicators he could spare, but it isn't enough!Will you go to the mine and help us? We need the crystals from the mine to create more defenses like the crystals you see on the Burning Front.",
-    "name": "Every Bit Counts",
-    "requires_level": 95,
-    "side": "alliance",
-    "zone": "Talador"
-}

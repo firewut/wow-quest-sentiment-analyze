@@ -1,8 +1,0 @@
-{
-    "_id": "30356",
-    "added_in_patch": 5,
-    "description": "The mogu reclaimers are using portals to connect to Kun-Lai Summit, bringing in reinforcements and supplies.What is worse, they are sending their captives through these portals.Go to the Ruins of Korja and destroy as many of these Korjan Reclaimers as you can find.",
-    "name": "Sever Their Supply Line",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

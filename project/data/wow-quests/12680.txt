@@ -1,7 +1,0 @@
-{
-    "_id": "12680",
-    "description": "How fortuitous it is that the Crusade has a stable full of horses a mere stone's throw from this post. Though they guard it tenaciously, an enterprising young death knight could break through their defenses and take what is rightfully  his!Once you acquire a horse from the Havenshire Stables, return it to me and I will see what can be done about transforming it into a proper deathcharger.Remember, <name>, it's only stealing if you're caught. Watch out for that deranged stable master, Kitrik!",
-    "name": "Grand Theft Palomino",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

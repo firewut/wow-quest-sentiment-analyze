@@ -1,8 +1,0 @@
-{
-    "_id": "14313",
-    "description": "So Krennan's potion did not kill you?  Well, I suppose that means the human inside of you is in control then.I guess I won't be shooting you after all.  At least not yet.Go speak to Krennan Aranas and give him the good news.  He's in charge of the house where we keep... your kind.Just remember, <name>.  I've got my eye on you.  You so much as try anything funny and you'll get a bullet between the eyes.",
-    "name": "Among Humans Again",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

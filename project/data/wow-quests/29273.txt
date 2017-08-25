@@ -1,7 +1,0 @@
-{
-    "_id": "29273",
-    "description": "The fire hawks of Fireplume Peak can withstand incredible temperatures. While you'll often find them circling the skies above, they're also known to swim in molten lava.Isn't that right, Anren?We'd like to know just how hot that lava can get. Fireplume Peak has three large lava pools. Use this to measure the temperature of each.",
-    "name": "How Hot",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9473",
-    "description": "The girl is too far gone for mere ointments to be effective. There may be another way...The forest of Azuremyst holds many secrets, one of those being a rare plant known as the azure snapdragon that some claim to be a panacea - a cure all.You can identify the plant by its stark contrast to the other plants of Azuremyst and its need to grow at the base of the azure pine trees. Make haste!And <name>, be wary of the root threshers of the region as they consume snapdragon for sustenance.",
-    "name": "An Alternative Alternative",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Azuremyst Isle"
-}

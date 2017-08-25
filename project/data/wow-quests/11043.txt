@@ -1,7 +1,0 @@
-{
-    "_id": "11043",
-    "description": "I've heard that the Wildhammer dwarves maintain a gryphon roost at their fortress down in southern Shadowmoon Valley. If you're going down there, would you speak to them on my behalf? I have some ideas on how to improve their gryphons!Why stop at armoring them when you could attach an altimeter, a rear view mirror, and rocket? Imagine how fast you could go with one of those babies strapped to your gryphon's back! I'll call it the TurboGryphon 8000!",
-    "name": "Building a Better Gryphon",
-    "requires_level": 67,
-    "zone": "Blade's Edge Mountains"
-}

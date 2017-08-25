@@ -1,8 +1,0 @@
-{
-    "_id": "32536",
-    "added_in_patch": 5.2,
-    "description": "I have three magisters entrenched in Ihgaluk Crag, monitoring the saurok and - where they can - turning them against the mogu. I need you to find them and see if they need any supplies or assistance.They will be concealed from view. Look for shimmering columns of light within the saurok village.",
-    "name": "Manipulating the Saurok",
-    "requires_level": 90,
-    "zone": "Quests"
-}

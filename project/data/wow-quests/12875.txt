@@ -1,7 +1,0 @@
-{
-    "_id": "12875",
-    "description": "I don't know where this core is hiding, but ye knew that. I said I'd help though, and that I shall.There's a hermit by the name of Drom Frostgrip who lives in a cave north of here... down in tha valley. We've strayed away from the titans a bit ourselves being that there are so few about, but Drom's loyal to the old ways... he keeps an eye on their most precious places and speaks te the keeper Creteus often.Yer sure to find him in the back of his cave... tell'm I sent ye and he'll help ye.",
-    "name": "An Experienced Guide",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

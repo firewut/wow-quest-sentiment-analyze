@@ -1,8 +1,0 @@
-{
-    "_id": "29315",
-    "description": "Some chefs complain that our beloved Undercity doesn't boast the ingredients to create truly fine fare.Such mewling little cretins. Delicious delights abound!Gather some of the rank, slimy Sewer Caps growing in Undercity's northwest sewer line and return them to me.",
-    "name": "Fungus Among Us",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

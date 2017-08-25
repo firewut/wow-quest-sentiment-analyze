@@ -1,7 +1,0 @@
-{
-    "_id": "13504",
-    "description": "There are a large number of Shatterspear trolls picking through the ruins to the north and northeast. I suspect that they're looking for magical artifacts, but none of our scouts have reported the discovery of anything of significance turning up from their digs. They may well just be fueling their war.One thing is fairly certain though: less laborers would slow down their offensive, so less laborers is what they're going to get. You in?",
-    "name": "Shatterspear Laborers",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

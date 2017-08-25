@@ -1,7 +1,0 @@
-{
-    "_id": "11110",
-    "description": "",
-    "name": "Malfas the Purple Netherwing Drake",
-    "requires_level": 70,
-    "zone": "Shattrath City"
-}

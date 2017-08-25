@@ -1,7 +1,0 @@
-{
-    "_id": "27342",
-    "description": "The Dark Lady has sent you and Arthura here for a very specific purpose. Before I tell you more, we must make preparations.Head east into the forest of Gilneas and search near the trees and rocks of the region for a special plant known as wolfsbane. Gather as much of the wolfsbane as you can carry and return to me.Our mission here goes far beyond the scope of the battlefield, <name>. In time, all will be revealed.",
-    "name": "In Time, All Will Be Revealed",
-    "requires_level": 12,
-    "zone": "Ruins of Gilneas"
-}

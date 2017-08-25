@@ -1,8 +1,0 @@
-{
-    "_id": "40971",
-    "added_in_patch": 7,
-    "description": "Do you see the Nightborne outside this room?\r\n\r\nThey hold us here, like mice in a cage. It is more convenient for them that we are pinned down while they search the Sanctum for my father's relics.\r\n\r\nMy companions and I can escape to higher ground with some help.\r\n\r\nTake this crystal. While standing on a mana focusing rune, use it to overcharge a Conjurer.\r\n\r\nTheir summons will turn on them and create an opening.\r\n\r\nUse it well, and we will meet you atop the stronghold when the way is clear.",
-    "name": "Overwhelming Distraction",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30953",
-    "added_in_patch": 5,
-    "description": "Our sentinels can fight for days on end, but even they have their limits. Since the mantid swarm began, too many of them have pushed themselves beyond their abilities.Please, aid them in whatever way you can. If you are unable to heal them yourself, you may give them some of this. A mouthful of nutritious yak's milk will give them the strength they need.",
-    "name": "Fallen Sentinels",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

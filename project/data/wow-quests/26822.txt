@@ -1,8 +1,0 @@
-{
-    "_id": "26822",
-    "description": "Ahem!  Hrm, hrm...<The dwarf clears his throat for several seconds.>You're lookin' fer somethin' ta do?  And ya come askin' ME?  Lowly ol' Goris?!Well, ah... this is a first.  Ah, I've got it!The vale ta tha north is filled with a bunch o' useless, belly-scrapin' basilisks.  They don't do nothin' for no one, and I hear they turned a guy ta stone once.If ya kill 'em, I'll give ya some o' my stuff.",
-    "name": "Good-Fer-Nothin' Slither-Dogs",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "The Cape of Stranglethorn"
-}

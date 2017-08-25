@@ -1,7 +1,0 @@
-{
-    "_id": "9612",
-    "description": "You saved my life, <name>! Thank you so much! That beast would have torn me to shreds if it weren't for you.If you see the exarch at Azure Watch, tell him of what you did. I'm sure he'll be pleased to hear such news!",
-    "name": "A Hearty Thanks!",
-    "requires_level": 5,
-    "zone": "Azuremyst Isle"
-}

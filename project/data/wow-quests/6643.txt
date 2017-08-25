@@ -1,7 +1,0 @@
-{
-    "_id": "6643",
-    "description": "",
-    "name": "Favor Amongst the Brotherhood, Fiery Core",
-    "requires_level": 60,
-    "zone": "Molten Core"
-}

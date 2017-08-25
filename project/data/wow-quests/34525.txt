@@ -1,8 +1,0 @@
-{
-    "_id": "34525",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bloodmaul Slag Mines Challenge Mode - Consolation (Nth)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

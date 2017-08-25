@@ -1,8 +1,0 @@
-{
-    "_id": "40335",
-    "added_in_patch": 7,
-    "description": "<This stone tablet appears to be a contract between Tidemistress Sashj'tar and King Forgalash.As far as you can decipher, the naga are recruiting the sea giants on behalf of Queen Azshara.>",
-    "name": "Sashj'tar Accord DISABLED",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31272",
-    "added_in_patch": 5,
-    "description": "The Empress's genemancers play with dangerous toys.To the south, they are injecting local wildlife with pheromone-laden parasites, in an attempt to create monstrous mutations for war.Carelessly, they have allowed their parasitic worms to escape into the local ecosystem.Left unchecked, the infection will spread from one animal to another, until we have an outbreak.I will inject you with a mild toxin. With it, you will be able to identify infected creatures.Kill the carriers at once.",
-    "name": "Infection",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

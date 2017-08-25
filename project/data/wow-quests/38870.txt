@@ -1,8 +1,0 @@
-{
-    "_id": "38870",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Bleeding the Bleeding Hollow",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

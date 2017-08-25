@@ -1,7 +1,0 @@
-{
-    "_id": "9453",
-    "description": "You did a wonderful job, <name>. Our people will be thankful for this bounty. With that said, would you mind taking this haul of red snapper to Acteon at Azure Watch?He shouldn't be hard to find as he is awaiting this catch.",
-    "name": "Find Acteon!",
-    "requires_level": 4,
-    "zone": "Azuremyst Isle"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39440",
-    "added_in_patch": 7,
-    "description": "Do you even lift? If you can carry these weights to the statue of Liftbrul and back, maybe we can talk.",
-    "name": "You Lift, Brul?",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "37645",
-    "description": "You know the drill.  Defeat the pets in the garrison, and I might have something for you.",
-    "name": "Mastering the Menagerie",
-    "side": "horde",
-    "zone": "Battle Pets"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36239",
-    "added_in_patch": 6,
-    "description": "An empty satchel with an old, magical aura.It appears quite dilapidated, with remnants of herbs and mushrooms along the inner lining. Perhaps exploring Umbrafen will offer a clue.",
-    "name": "A Mysterious Satchel",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

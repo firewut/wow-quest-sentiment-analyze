@@ -1,7 +1,0 @@
-{
-    "_id": "13887",
-    "description": "Now that you've built up an immunity to venomhide toxin, you can safely handle the animals and their eggs. Venomhides are vicious and must be trained from the moment they hatch.If you want to ride one, you'll need an unhatched egg. Scattered throughout the Marshlands are a number of ravasaur nests. Look for the eggs with lighter colored shells -- those are the ones that will hatch venomhides.If you bring me several of the eggs, I'll allow you to keep one and raise its hatchling, with my guidance.",
-    "name": "Venomhide Eggs",
-    "requires_level": 48,
-    "zone": "Un'Goro Crater"
-}

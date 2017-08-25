@@ -1,9 +1,0 @@
-{
-    "_id": "33473",
-    "added_in_patch": 6,
-    "description": "Durotan must be told of your vision. Pul Windcarver will offer you a flight back.The fate of the Frostwolf... of Draenor, depends upon you, <name>.",
-    "name": "Back to Bladespire Citadel",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38795",
-    "added_in_patch": 7,
-    "description": "This is one nasty-looking stone.Your trainer in Dalaran should see this.",
-    "name": "Felslate Deposit Sample",
-    "requires_level": 98,
-    "zone": "Mining"
-}

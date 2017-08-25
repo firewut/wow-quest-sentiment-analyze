@@ -1,8 +1,0 @@
-{
-    "_id": "37518",
-    "added_in_patch": 7,
-    "description": "Now, what was it you wanted? You're here to see the Tidestone of Golganneth? Hah! Ho ho ha ha haa!Hooo my.No, only the academy's headmistress has the keys to that chamber, and she hasn't opened the door in... oh, I'd say about ten thousand years.You'd best be off to class, now. Go on, then! Into the west wing with you!",
-    "name": "The Haunted Halls",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

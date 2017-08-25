@@ -1,8 +1,0 @@
-{
-    "_id": "34942",
-    "added_in_patch": 6,
-    "description": "We must begin preparations for the Talon King's return.From within this realm, I can travel quickly to Veil Terokk.You, however, should be returned to the other side. You are powerful, and will attract unwanted attention.",
-    "name": "Back from Beyond",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

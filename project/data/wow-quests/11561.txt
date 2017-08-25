@@ -1,7 +1,0 @@
-{
-    "_id": "11561",
-    "description": "Our brothers and sisters across the water are now our mortal enemies. They have kidnapped our tadpoles, driven us out of our village, and killed more of us than I can count.Prove yourself, <race>! Swim across the rift and slay them!Despite the favor that the new king has shown you, only then will we consider accepting you here. Fail to do so, and you might as well leave now and never return!",
-    "name": "Them!",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "858",
-    "description": "I don't suppose Sputtervalve sent you? I'm in a bind here. I hopped in without realizing that I need a key to unlock the shredder's movement column. One of the other shredder operators asked me if everything was okay, and I panicked! Instead of telling him that I was missing my key, I told him there was some sort of mechanical problem.We need to get out of here on the double! Search the upper level of the derrick, Supervisor Lugwizzle should have a key for this shredder.Help me out here!",
-    "name": "Ignition",
-    "requires_level": 13,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

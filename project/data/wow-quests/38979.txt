@@ -1,8 +1,0 @@
-{
-    "_id": "38979",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "FLAG: Undying Silkweave Slippers Crafted",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

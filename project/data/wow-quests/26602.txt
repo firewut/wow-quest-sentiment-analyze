@@ -1,7 +1,0 @@
-{
-    "_id": "26602",
-    "description": "Take this food, and put it in our old lifeboat, southeast of here along the coast.  When Negolash smells all that food, he'll come running!And when he does, there will be a stouthearted <class> ready to knock his corpse back into the briny deep.",
-    "name": "A Dish Best Served Huge",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

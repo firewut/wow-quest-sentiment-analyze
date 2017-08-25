@@ -1,7 +1,0 @@
-{
-    "_id": "12107",
-    "description": "Within his robes you find two things of interest.One is a talisman, which is clearly a focus controlling device. The other is a set of orders from someone named Sidragos, which were ultimately intended for the leader back at the Moonrest Gardens.The water-soaked parchment informs Goramosh that he is to move all mage hunter forces east to the Azure Dragonshrine.Perhaps you should get what information you can from the focus and head east to observe the dragonshrine from its western ledge.",
-    "name": "The End of the Line",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

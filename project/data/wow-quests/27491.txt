@@ -1,7 +1,0 @@
-{
-    "_id": "27491",
-    "description": "Garona and a detachment of the Kor'kron are here to assist us with operations up top in the Twilight Citadel. I need you to escort them there.I've called upon a local tribe of trolls to give us a lift in with their wind riders. The assassins have some things that they need to do down in the Twilight Gate area first, though.Speak with the troll chief, Jon-Jon Jellyneck and get yourself a detachment of Kor'kron to drop off. You'll fly them in. A big red X marks the spot.",
-    "name": "Kor'kron Drop",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

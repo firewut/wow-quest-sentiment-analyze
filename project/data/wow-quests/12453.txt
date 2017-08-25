@@ -1,7 +1,0 @@
-{
-    "_id": "12453",
-    "description": "I've been asked to lend my support to our efforts against the Alliance.  At the moment our military forces are about evenly matched and we're looking for ways to find an edge.The imperial eagles that fly over the mountains and trees in this area would make excellent scouts for us.  Take this silver feather and use it to bind my sight to that of them.Being able to see our enemy's movements will grant us the strategic advantage we need.  You'll find abundant eagles in the mountains to the east.",
-    "name": "Eyes Above",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

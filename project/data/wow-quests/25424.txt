@@ -1,7 +1,0 @@
-{
-    "_id": "25424",
-    "description": "I thank you for freeing me, <name>.  I will tell our allies of my findings.I suggest that you return to the emerald dragon that sent you.The Twilight's Hammer does not just seek to gain territory with this particular attack.  They're also after a prisoner.Fandral Staghelm is being held in the Barrow Dens.  The attack doubles as a distraction to free him.  To what end, I cannot tell.  Perhaps our dragon ally can shed some light on this.",
-    "name": "Return to Alysra",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

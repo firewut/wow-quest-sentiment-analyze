@@ -1,7 +1,0 @@
-{
-    "_id": "38043",
-    "description": "",
-    "name": "Bleeding the Bleeding Hollow",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

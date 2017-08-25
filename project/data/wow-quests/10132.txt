@@ -1,7 +1,0 @@
-{
-    "_id": "10132",
-    "description": "You see that huge red crystal to the north?  It fell from the sky not long ago, causing a massive earthquake.When we came out here to investigate the disturbance, we found all of these colossi wandering about that weren't previously here.There's definitely something strange about that crystal and the energies that it's emanating, but I don't have time for that.  Those mountain giants are my immediate concern.I want you to head up to Fallen Sky Ridge and deal with them.",
-    "name": "Colossal Menace",
-    "requires_level": 61,
-    "zone": "Hellfire Peninsula"
-}

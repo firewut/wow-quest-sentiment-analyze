@@ -1,8 +1,0 @@
-{
-    "_id": "44636",
-    "added_in_patch": 7,
-    "description": "We must keep our eyes on the future. There will come a time when we will need an army.We've proven that the withered are not completely beyond redemption. They can be taught, and molded.I want you to be their combat trainer, <name>. Come with me. We can use the nearby ruins as an arena to hone their abilities.",
-    "name": "Building an Army",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

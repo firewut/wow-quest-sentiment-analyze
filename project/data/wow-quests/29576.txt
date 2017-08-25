@@ -1,8 +1,0 @@
-{
-    "_id": "29576",
-    "added_in_patch": 5,
-    "description": "My sight has long since faded, but when the wind is right I can still smell the blossoms of Nectarbreeze Orchard as if they were in my own palm.Today, though, their fragrance is muddled with smoke. Please, if you are able, check in on the orchard and see that things are okay. Perhaps my old nose is playing tricks on me.You'll find the orchard to the southwest, beyond the statue of the Jade Serpent.",
-    "name": "An Air of Worry",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

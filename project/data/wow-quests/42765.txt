@@ -1,8 +1,0 @@
-{
-    "_id": "42765",
-    "added_in_patch": 7,
-    "description": "My staff was strong and mighty without peer, but since I not its master, in time it would soon disappear.The staff was a gift from the Jade Serpent, Yu'lon, but for only a single task. With my work finished, to her again it has passed.Yu'lon be the staff's keeper, holding it for those who are blessed. To her we now go now, to announce your request.",
-    "name": "The Trial at the Temple",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

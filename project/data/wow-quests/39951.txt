@@ -1,8 +1,0 @@
-{
-    "_id": "39951",
-    "added_in_patch": 7,
-    "description": "<The pigment milled from this flower is of an exceptionally high quality.><Professor Pallin would be interested in seeing this.>",
-    "name": "Roseate Essence",
-    "requires_level": 108,
-    "zone": "Inscription"
-}

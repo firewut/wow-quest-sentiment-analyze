@@ -1,8 +1,0 @@
-{
-    "_id": "38684",
-    "added_in_patch": 7,
-    "description": "<name>, my friend. You must succeed where I have failed. You must find our dear Malfurion.As the Nightmare consumes my thoughts, I hear the voices of these twisted trees. I must cling to sanity long enough to aid you.Venture into Ash'theran and bring me Corrupted Petals from the fallen denizens there.With them, I might find your Archdruid while my mind is still my own.",
-    "name": "Reading the Leaves",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27775",
-    "description": "I just can't get my invention to work!  Gah!That's it, I've decided.  I'm going to cheat and use magic.What my invention really needs is a solid piston that's thin enough to fit through a narrow copper tube, but strong enough to withstand repeated impact without breaking.  The magical rods carried by those ogre magi to the north should work perfectly.From what I can tell, only the instructors carry the strong staves.",
-    "name": "When the Going Gets Tough, Cheat",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

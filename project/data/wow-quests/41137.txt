@@ -1,8 +1,0 @@
-{
-    "_id": "41137",
-    "added_in_patch": 7,
-    "description": "All that remains is the Sea Giant King.Place our banner upon his beach and draw him out of the sea. Once he has revealed himself, use the trident to wound him.There is a derelict boat that washed up on the shore. Use that to quickly get to the king's island.Gird your loins, <name>. This fight will not be easy.",
-    "name": "Fall of the King",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

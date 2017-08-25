@@ -1,9 +1,0 @@
-{
-    "_id": "39068",
-    "added_in_patch": 6.2,
-    "description": "Our naval domination continues!However, we are going to need even more experience and resources to take this shipyard to the next level.  Once we reach our goals, we can upgrade the capacity of the shipyard to hold even more ships!",
-    "name": "Naval Domination",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

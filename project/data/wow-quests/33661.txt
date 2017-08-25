@@ -1,9 +1,0 @@
-{
-    "_id": "33661",
-    "added_in_patch": 6,
-    "description": "Now we get to the heart of the matter, heh. Saberon have strong hearts, our shaman find many uses for them.I will search for the ancient's magic if you get me those hearts. Do we have a deal?",
-    "name": "Steamscar \"Reagents\"",
-    "requires_level": 93,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

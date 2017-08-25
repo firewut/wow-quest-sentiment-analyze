@@ -1,7 +1,0 @@
-{
-    "_id": "11798",
-    "description": "Gearmaster Mechazod is insane! He says that he offers us immortality by removing this so-called 'Curse of the Flesh', but what he's really making are robotic slaves!<name>, we're pretty certain that he's still at the pumping station out in the middle of the pools to the east.The last we saw of him, he was in the command hut up top. Go up there and research his stuff.You must confront Mechazod if gnomes everywhere,... no, everyone everywhere, are to stay alive!",
-    "name": "The Gearmaster",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

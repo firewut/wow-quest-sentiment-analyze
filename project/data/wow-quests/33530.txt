@@ -1,8 +1,0 @@
-{
-    "_id": "33530",
-    "added_in_patch": 6,
-    "description": "Down there... horrible... bodies everywhere...Dark ritual... please... you must stop it...",
-    "name": "Nightmare in the Tomb",
-    "requires_level": 95,
-    "zone": "Talador"
-}

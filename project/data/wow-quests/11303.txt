@@ -1,7 +1,0 @@
-{
-    "_id": "11303",
-    "description": "The vrykuls in Baleheim is completely defeated, no doubt about it.  But still their leader stays in town and won't give up.Gorth sends Lydell and his assassins to make good ambush to the northwest.  You talk to Lydell and figure out how to get Vrykul chieftain to come out.  Then you kill him.  You kill him real good.",
-    "name": "The Ambush",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

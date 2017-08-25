@@ -1,8 +1,0 @@
-{
-    "_id": "40424",
-    "added_in_patch": 7,
-    "description": "The city's entrances are under heavy guard. He must have another way.Thanks to this wine I am strong enough to make the journey to him. I fear that I will not be able to defend or run if I come under attack.You will accompany me, <race>. You and this Astoril are my only chance at surviving now. I remember when I was leaving the city that there were lamps guiding me here. We should be able to retrace our steps by following them.",
-    "name": "A Desperate Journey",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

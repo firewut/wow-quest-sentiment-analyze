@@ -1,8 +1,0 @@
-{
-    "_id": "11979",
-    "description": "The Scourge have seized control of the capital city of the taunka, Icemist Village! All living taunka that escaped the massacre are being held in protective custody at the Westwind Refugee Camp on the western border of Dragonblight.Lord Hellscream believes that the taunka must join the Horde if they are to survive and has sent a tauren emissary to Westwind to bolster our relationship with the winter tauren. Travel to Westwind Refugee Camp and seek out Emissary Brighthoof. You will assist her.",
-    "name": "The Taunka and the Tauren",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

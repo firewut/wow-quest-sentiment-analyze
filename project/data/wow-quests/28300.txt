@@ -1,7 +1,0 @@
-{
-    "_id": "28300",
-    "description": "I just received a scroll for you from Orgrimmar, <name>. It's from Ureda, one of the mage trainers there. She wants you to meet with her in Orgrimmar's Cleft of Shadow next time you're in the city.",
-    "name": "Meet with Ureda",
-    "requires_level": 50,
-    "zone": "Orgrimmar"
-}

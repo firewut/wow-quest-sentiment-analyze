@@ -1,7 +1,0 @@
-{
-    "_id": "24545",
-    "description": "It is against my judgment that I present you this errand, <race>, as it will likely end in your undoing.Ignore my counsel and embark on the endeavor, and I shall provide you with the knowledge and resources to see it through.You must return to Frostmourne Cavern and recover Light's Vengeance, Arthas' discarded hammer. Reforged with saronite and etched with the acidic blood of the Lich King's abominations, it will provide the foundation for our work.",
-    "name": "The Sacred and the Corrupt",
-    "requires_level": 80,
-    "zone": "Quests"
-}

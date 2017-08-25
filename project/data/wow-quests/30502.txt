@@ -1,8 +1,0 @@
-{
-    "_id": "30502",
-    "added_in_patch": 5,
-    "description": "The more powerful remnants of that horrible manifestation may be too much for you to handle on your own, <name>.I fear I'd be of little help in terms of actual combat, but I can suggest a solution.The great jade statue was soon to become a living serpent - one of our revered celestials. Its construction imbued it with special powers that may sufficiently weaken these adversaries.",
-    "name": "Jaded Heart",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

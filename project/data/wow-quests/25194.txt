@@ -1,8 +1,0 @@
-{
-    "_id": "25194",
-    "description": "Don' worry, Zen'Taji's not in any trouble.  He just been studyin' what happens when the river overflows.Ya see the big tall birds that stand on the riverbank?  Zen'Taji thinks they're in trouble.  The earthquake and the flood pushed the plainstriders over to this side of the water, but they can't fly back, and they're too scared to swim.They'll die if they stay here.  Zen'Taji doesn't like violence, but maybe YOU can attack them and scare them over to the other side.  Yes?",
-    "name": "Unbidden Visitors",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Durotar"
-}

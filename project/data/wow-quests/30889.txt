@@ -1,8 +1,0 @@
-{
-    "_id": "30889",
-    "added_in_patch": 5,
-    "description": "Good to meet you, <class>. We have traps all along the pass to help us catch mantid that might be sneaking through, but their numbers have been so great that most of the traps have already been triggered.Taoshi said you might be able to reset some of them while you're out there. Can you help?",
-    "name": "Trap Setting",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

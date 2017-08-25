@@ -1,7 +1,0 @@
-{
-    "_id": "29820",
-    "description": "I sent Warmage Kaitlyn into the Nexus to investigate the chaos that is Malygos' domain, but she hasn't reported back in days.Would you mind going there and lending her aid? I'm certain she could use help if she hasn't been eaten by dragons.",
-    "name": "Into the Nexus",
-    "requires_level": 69,
-    "zone": "Quests"
-}

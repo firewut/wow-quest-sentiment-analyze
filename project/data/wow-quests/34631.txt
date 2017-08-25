@@ -1,9 +1,0 @@
-{
-    "_id": "34631",
-    "added_in_patch": 6,
-    "description": "I'm pleased to report that your Arcane Sanctum is up and running, commander!Everything is exactly as the blueprint says... except for this note Baros scrawled on the bottom. \"Don't forget to connect the sanctum to the ley line network!\"Commander, I'm a foreman, not a mage. I... have absolutely no idea how to do that.We've found Archmage Khadgar and some other Kirin Tor not far from here. To the east, near the mountains. Perhaps we should ask them for a hand?",
-    "name": "An Audience With The Archmage",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

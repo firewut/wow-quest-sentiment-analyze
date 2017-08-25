@@ -1,8 +1,0 @@
-{
-    "_id": "29087",
-    "description": "Hey <name>, do you see this footprint? We found them all over the camp last night! Nothing's missing, but all our belongings have been...examined. The muddy trails lead back toward the Sludge Fen.Someone's been sniffing around, and I don't like it one bit. Can you go west to the Sludge Fen and investigate? See if you can find any more tracks just like this one!",
-    "name": "Sludge Investigation",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "29928",
-    "added_in_patch": 5,
-    "description": "Our whole jade supply line has fallen apart. The mines are a death trap, morale is historically low, and - as if that weren't bad enough - the mason's quarter has been overrun by wood sprites!Now even the plants are out to ruin me!You need jade so badly, you can follow the road southwest to the mason's quarter and get it from those glorified chopsticks yourself.",
-    "name": "I Have No Jade And I Must Scream",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

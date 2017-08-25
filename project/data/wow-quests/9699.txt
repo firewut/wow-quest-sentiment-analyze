@@ -1,7 +1,0 @@
-{
-    "_id": "9699",
-    "description": "I thank you for the timely delivery, <name>. You are turning out to be one of the Hand's better agents.If only we knew who they reported to in Bloodmyst and more importantly, where this sun portal was... They seem to have it tightly guarded - wherever it may be.Would you be interested in some reconnaissance work?If so, take these orders back to Vindicator Boros. He will give you your next mission.",
-    "name": "Truth or Fiction",
-    "requires_level": 14,
-    "zone": "Bloodmyst Isle"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "37768",
-    "added_in_patch": 6.1,
-    "description": "I never thought much of them ogres, not until I saw a Highmaul legion on the march. Like a wall o' armored muscle, backed by the magics o' the emperor's best sorcerers. Never underestimate an ogre.Imperator Mar'gok is the grand Imperator of Highmaul. Aye, he's a cunning one - allied himself with the Iron Horde, he did. If we're to break up the party, we'd best start at the top.Travel to Highmaul and defeat Imperator Mar'gok!",
-    "name": "Imperator's Rise: Imperator Mar'gok",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Quests"
-}

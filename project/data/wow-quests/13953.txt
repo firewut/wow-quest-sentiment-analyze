@@ -1,7 +1,0 @@
-{
-    "_id": "13953",
-    "description": "The creature appears to have had its skull broken in a fight with Aros.  It looks like what you've heard described as a naga before.It is said that despite their monstrous features, naga are night elves warped by the arcane magic of Queen Azshara.It seems they've decided to stop you from obtaining the horn of the ancients.",
-    "name": "Naga In Our Midst",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "38615",
-    "added_in_patch": 7,
-    "description": "It looks like the elements aren't the only thing you'll need to worry about going up that path. Those harpoon launchers on the wall look pretty nasty, and unless we take them out first, they're likely to make short work of anyone trying to scale that path.\r\n\r\nThey're up on top of the walls, so you'll need to use that grapple launcher to get to them. Just try not to end up drake food!",
-    "name": "Impalement Insurance",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

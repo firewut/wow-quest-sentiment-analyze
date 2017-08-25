@@ -1,7 +1,0 @@
-{
-    "_id": "10564",
-    "description": "The device we've assembled won't win any beauty contests, but it should be capable of destroying the infernals amassed at Legion Hold. Judging from what the fel reaver power core's energy did to the Fetid Pool, it holds a respectable amount of explosive power.If you set the device off in the middle of the green glyph at the hold, it should be in range to hit all of the infernals.",
-    "name": "Blast the Infernals!",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

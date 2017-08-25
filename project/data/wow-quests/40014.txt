@@ -1,8 +1,0 @@
-{
-    "_id": "40014",
-    "added_in_patch": 7,
-    "description": "The stem, leaves, and petals are dazzling, to be certain... but look at the pollination filaments, here, and the reproductive organs in the center of the bloom. They contain more energy than the rest of the plant put together.I suspect that we can more responsibly and efficiently harvest aethril by focusing on these parts.Still, it looks like this bloom has been damaged. I need undamaged parts if I'm to be sure.",
-    "name": "Spayed by the Spade",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

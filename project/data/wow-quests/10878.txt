@@ -1,7 +1,0 @@
-{
-    "_id": "10878",
-    "description": "After our caravan fell prey to an attack by Shadow Council cabal cultists, scouts were sent to Shattrath to call for help.  The guards think we're safe for now, but they underestimate these madmen.I, for one, am not looking forward to having my throat slit by some cabal initiate in the middle of the night.  Do us all a favor and take the fight to them, before they come to us.You will find our attackers south of here, at Auchindoun's northern entrance.",
-    "name": "Before Darkness Falls",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

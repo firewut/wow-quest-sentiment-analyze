@@ -1,8 +1,0 @@
-{
-    "_id": "39832",
-    "added_in_patch": 7,
-    "description": "Your weapon is stronger than ever, but it will need many more souls in order to reach its true potential.Siouxsie has been collecting reports from the scouts, she will direct you to our enemies and their screaming souls will empower your weapon further.",
-    "name": "Plans and Preparations",
-    "requires_level": 98,
-    "zone": "Death Knight Campaign"
-}

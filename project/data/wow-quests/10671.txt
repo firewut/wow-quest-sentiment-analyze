@@ -1,7 +1,0 @@
-{
-    "_id": "10671",
-    "description": "<name>, I've got something else for you to do.  One of the eggheads wants to study the fiendling flesh beasts that can be found at Razaan's Landing, north of the Razor Ridge.More to the point, they want to study the flesh of the flesh beasts that are there.<Dizzy makes a disgusted face.>But, of course, they aren't willing to get their hands dirty, and they only want the ether-energized flesh, which it's not likely that all of them have.I say, beggars can't be choosers, but what can you do?",
-    "name": "More than a Pound of Flesh",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

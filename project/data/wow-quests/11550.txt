@@ -1,7 +1,0 @@
-{
-    "_id": "11550",
-    "description": "Despite our best efforts, Kael'thas's sinister plans have been carried out. The Sunwell has been re-ignited in preparation for the Deceiver's arrival.The object that stands before me and below A'dal is a representation of the current status of the Sunwell's defenses. Mighty barriers have been raised, stymieing our attacks against the inner chambers. If ever there were a time that our world needed assistance, it would be now.Report to Archmage Ne'thul at the Isle of Quel'Danas, north of Quel'Thalas.",
-    "name": "Enter, the Deceiver...",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

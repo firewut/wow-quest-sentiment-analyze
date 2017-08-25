@@ -1,8 +1,0 @@
-{
-    "_id": "32388",
-    "added_in_patch": 5.1,
-    "description": "There's an orc general I've been keeping a close eye on. Warlord Bloodhilt curried a lot of favor with Garrosh Hellscream by beating back an Alliance advance in Southern Barrens. He's now entrenched within the fortress at Domination Point.I doubt the Alliance can take him out. But... you've proven me wrong before.If you wish to finish him off, bring friends. Lots of friends.  ",
-    "name": "A Change of Command",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

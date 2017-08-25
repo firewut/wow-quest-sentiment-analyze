@@ -1,8 +1,0 @@
-{
-    "_id": "30586",
-    "added_in_patch": 5,
-    "description": "Pandaren have been harvesting jagged abalone in this area for generations.  Now it's time for you to learn the ritual.The abalone can be found just northeast of here in narsong trench.  Be careful, we have noticed increased shark activity in that area recently.",
-    "name": "Jagged Abalone",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "8326",
-    "description": "Your effort has made something clear that, honestly, I wish were not true.  The unchecked power of the Burning Crystals has maligned a much larger swath of the isle's natural balance than I thought.  We must now take on more unfortunate measures to reclaim control.The nearby lynxes have succumbed to the influence of the crystals, and they must be put down.  Bring their collars, <name>, as I may yet be able to fashion a magical restraint to turn some back from being uncontrolled.",
-    "name": "Unfortunate Measures",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26768",
-    "description": "Having a dragon guard the fragment was a smart move on the enemy's part.  They can keep moving its location any time we get close to it.Catching Abyssion will be extremely difficult, but I have a plan that might help.The Twilight's Hammer uses magical traps to bind stone drakes to the ground while they drain their energy.If we can get our hands on one of these, we might be able to ground the Twilight Dragon for just long enough.Go east of here, to the Alabaster Shelf, and obtain a trap.",
-    "name": "To Catch a Dragon",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

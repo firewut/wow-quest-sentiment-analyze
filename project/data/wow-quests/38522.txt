@@ -1,8 +1,0 @@
-{
-    "_id": "38522",
-    "added_in_patch": 7,
-    "description": "You know, we aren't just limited to armorsmithing and weaponsmithing. I regularly make chisels for the scribes, crucibles for the alchemists, and even thimbles for the tailors.They should sew in full plate gauntlets if they're really all that worried about their poor little thumbs.Anyhow, I have a recipe I think an adventurer like you might be interested in. Let's try it out.",
-    "name": "Not Just Weapons and Armor",
-    "requires_level": 106,
-    "zone": "Blacksmithing"
-}

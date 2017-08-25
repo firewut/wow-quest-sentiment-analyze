@@ -1,7 +1,0 @@
-{
-    "_id": "25654",
-    "description": "Edana Hatetalon is the queen of the Northspring harpies that reside in the ruins to the west. It is her malicious will that leads the harpies to defend their nests among the ruins of our people.The harpies can call to her with a horn they carry - blowing it by the Hatetalon stones, in the northern part of the ruins, will summon Edana.Show no mercy for these foul creatures. Slay her, and bring her dark heart to me.",
-    "name": "Dark Heart",
-    "requires_level": 34,
-    "zone": "Feralas"
-}

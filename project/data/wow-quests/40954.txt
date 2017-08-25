@@ -1,8 +1,0 @@
-{
-    "_id": "40954",
-    "added_in_patch": 7,
-    "description": "For a thousand years, the Unseen Path has watched and waited. We remained few in number, quietly acting behind the scenes when Azeroth needed us. Only a select few even knew our group existed.But the time for lingering in the shadows is over.Before we begin our work, you should hear more about the Unseen Path.",
-    "name": "The Unseen Path",
-    "requires_level": 98,
-    "zone": "Trueshot Lodge"
-}

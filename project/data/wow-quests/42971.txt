@@ -1,8 +1,0 @@
-{
-    "_id": "42971",
-    "added_in_patch": 7,
-    "description": "Come closer, <race>.Ragnaros in the Firelands, Al'Akir in his Throne of the Four Winds, and Neptulon in Throne of the Tides. They have been thorns in my hide since the world was new.Prove to me your strength over the weaker elements, and I shall teach you how to display your power for all to see.",
-    "name": "Controlling the Elements",
-    "requires_level": 80,
-    "zone": "Enchanting"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27471",
-    "description": "There is an orc inside Blackrock Spire much unlike the others. He speaks with the intelligence and wisdom of one beyond his appeared years, and does not fight against our soldiers like the others do.You must travel northwest to Blackrock Spire and find this orc, known only to us as Acride. Perhaps he is the key to stopping the orcish army. Perhaps we can stop Nefarian before it is too late...",
-    "name": "Blackrock Anomaly",
-    "requires_level": 57,
-    "zone": "Blackrock Spire"
-}

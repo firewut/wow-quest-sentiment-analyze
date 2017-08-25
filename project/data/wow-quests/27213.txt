@@ -1,7 +1,0 @@
-{
-    "_id": "27213",
-    "description": "Now that we've eliminated the deserters from Theramore, it's time to complete this operation. My local contacts have reported that the deserters base their operations in a ship moored on a small island to the southeast of the docks.Arresting their leader, Gavis Greyshield, should cause the others to lose their will to fight. Find him within the ship and convince him to surrender. I wouldn't be surprised if he puts up a bit of a fight for show, but then surrenders when he understands he can't win.",
-    "name": "The End of the Deserters",
-    "requires_level": 34,
-    "zone": "Dustwallow Marsh"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13747",
-    "description": "Of all the times to have such rotten luck!My tournament blade has gone missing. I've heard the bards telling tales of travelers offering winter hyacinths to a lonely maiden in return for gifts. Those hyacinths grow only on the ice flowing from the Ironwall Dam, on Crystalsong Forest's northwestern border with Icecrown. Gather the flowers and take them to the circle of lamps in Drak'Mar Lake in northeastern Dragonblight, near Zul'Drak and Grizzly Hills. Ask the lonely maiden for a worthy blade.",
-    "name": "A Worthy Weapon",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

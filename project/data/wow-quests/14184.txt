@@ -1,8 +1,0 @@
-{
-    "_id": "14184",
-    "description": "<Weakly, Furien beckons you near and struggles to speak.>Careless... I was shot down by Alliance fire...You must... inform my sister.Take my mount, <race>... he'll bring you to her...<Furien expires.>",
-    "name": "My Time Has Passed",
-    "requires_level": 27,
-    "side": "horde",
-    "zone": "Desolace"
-}

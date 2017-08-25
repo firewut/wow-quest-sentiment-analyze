@@ -1,7 +1,0 @@
-{
-    "_id": "10643",
-    "description": "Let it be known that Zorus does have a sense of humor.Enough small talk. Don the Spectrecles so that you are able to see the Shadowmoon orc spirits that wander this stronghold. Do not be frightened as we are truly the invaders here. Alas, they must be destroyed, for their time has long since passed.Destroy the Shadowmoon harbingers infesting Wildhammer Stronghold and return to me.",
-    "name": "Harbingers of Shadowmoon",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

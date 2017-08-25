@@ -1,7 +1,0 @@
-{
-    "_id": "28662",
-    "description": "Now that we finally have a hold on this wretched island, we can start to investigate how it got in this condition.  Some of our troops have discovered journals around the entrance to Cursed Depths cellblock just east of here.These journals are of particular interest to our elder scribes back at base camp.  I need you to recover four of them and bring them back to me as fast as you can.<name>, be careful down there, that place is crawling with undead.",
-    "name": "Learning From The Past",
-    "requires_level": 85,
-    "zone": "Tol Barad"
-}

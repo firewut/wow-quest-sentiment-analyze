@@ -1,8 +1,0 @@
-{
-    "_id": "28651",
-    "description": "Why don't you go speak with my novice, Elreth?  She serves me, and will have some tasks to which you can apply your new abilities.",
-    "name": "Novice Elreth",
-    "requires_level": 2,
-    "side": "horde",
-    "zone": "Deathknell"
-}

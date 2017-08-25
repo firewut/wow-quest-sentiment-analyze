@@ -1,8 +1,0 @@
-{
-    "_id": "13418",
-    "description": "You there!You look like you have some wits about you. We could use some more able bodies in Icecrown.You may have heard rumors of our failure in assaulting the glacier from the ground, but let me set those concerns to rest. We're now mounting our assault from one of the most advanced pieces of engineering known to Azeroth, the Skybreaker. The Horde don't stand a chance, and neither does Arthas.Speak to me when you're ready to depart.",
-    "name": "Preparations for War",
-    "requires_level": 77,
-    "side": "alliance",
-    "zone": "Icecrown"
-}

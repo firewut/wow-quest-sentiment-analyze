@@ -1,8 +1,0 @@
-{
-    "_id": "14274",
-    "description": "It is true then!  You live!I never got a chance to share my greatest discovery with you.  After I began my training, and began to become accomplished, I heard the voice Balcephoth of the felshadows in my head... he taught me the forbidden secrets of...Corruption!Go now, gain some more experience, maybe you'll learn a new spell, too. You can go use it against the Bloodfang Worgen to our west.",
-    "name": "Corruption",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

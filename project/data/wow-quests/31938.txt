@@ -1,8 +1,0 @@
-{
-    "_id": "31938",
-    "added_in_patch": 5,
-    "description": "<The box art depicts a pandaren farmer of impossible physique standing proudly astride a widening rift in the earth, a mighty plow in his grasp. Cubs wrestle playfully on his shoulders and dangle from his muscular arms.At his side, a stoic female - of equally impossible physique - balances a massive, overflowing cornucopia gracefully on her head while kicking a virmen in the face.>\"The Earth-Slasher. Master the land. Master your life.\"",
-    "name": "The \"Earth-Slasher\" Master Plow",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

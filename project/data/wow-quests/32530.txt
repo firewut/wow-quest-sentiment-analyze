@@ -1,8 +1,0 @@
-{
-    "_id": "32530",
-    "added_in_patch": 5.2,
-    "description": "I have heard a disturbing report, <class>.Just beyond our position, in the Court of Bones, the mogu bring captives to a general named Kaida the Bloodletter.He thrives on torturing his victims.This monster must be stopped. If you fall to his blade, I wish you a swift death.",
-    "name": "The Bloodletter",
-    "requires_level": 90,
-    "zone": "Quests"
-}

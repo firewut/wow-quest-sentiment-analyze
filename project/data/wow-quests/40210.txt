@@ -1,8 +1,0 @@
-{
-    "_id": "40210",
-    "added_in_patch": 7,
-    "description": "Unfortunately, <name>, you have learned all that I have to teach. I am pleased we were each able to achieve our goals in this partnership.Go now and share what you've learned with your allies in Dalaran. I'm sure they'd be eager to share in your training.",
-    "name": "Time Well Spent",
-    "requires_level": 108,
-    "zone": "Leatherworking"
-}

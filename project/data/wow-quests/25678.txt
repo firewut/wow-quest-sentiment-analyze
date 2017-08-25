@@ -1,8 +1,0 @@
-{
-    "_id": "25678",
-    "description": "It costs the Alliance approximately fifty gold to train a miner, two hundred to train an engineer, and three hundred to train a foreman.  Every Alliance goon that we kill isn't just a military victory... it's a financial one.Now get down there and destroy their workers!",
-    "name": "Pick Your Fate",
-    "requires_level": 54,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

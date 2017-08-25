@@ -1,7 +1,0 @@
-{
-    "_id": "10420",
-    "description": "This temple is one of the holiest places in all of Outland.  The power of the Light here is so strong, that even items with the strongest fel taint can be cleansed of a worldly item.Should you run into any fel armaments in your confrontations with demonic enemies, bring them to me and I will demonstrate the cleansing power of the Light.",
-    "name": "A Cleansing Light",
-    "requires_level": 64,
-    "zone": "Shattrath City"
-}

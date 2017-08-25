@@ -1,8 +1,0 @@
-{
-    "_id": "315",
-    "description": "I'm on a quest to make the perfect stout.  I know I can do it -- brewing's in my blood.  I just need to find the right recipe...The Frostmane trolls grow a plant, shimmerweed, up on Shimmer Ridge to the northwest.  They use it in their strange, tribal rituals. We haven't found much use for it, but it has a unique taste... and I want to experiment with it in my brews!Obtaining the shimmerweed will be dangerous, but I'll pay well for any you can \"borrow\" from the baskets in the troll village.",
-    "name": "The Perfect Stout",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

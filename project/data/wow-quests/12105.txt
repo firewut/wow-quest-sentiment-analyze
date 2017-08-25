@@ -1,7 +1,0 @@
-{
-    "_id": "12105",
-    "description": "The journal was written by a denizen of Silverbrook named Mikhail.  It details the arrival of a shadow-worshipping group called the \"wolfcult.\"The villagers were reluctant to embrace the cult at first, but sympathizers sprung up gradually among town residents.Unsettled by this, Mikhail sent his daughter Sasha away from Silverbrook while he attempted to reason with the other villagers.Mikhail's last entry mentions a meeting of local town leaders to discuss unspecified events in Hollowstone Mine.",
-    "name": "Descent into Darkness",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

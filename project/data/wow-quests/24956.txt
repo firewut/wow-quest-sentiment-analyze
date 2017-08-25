@@ -1,7 +1,0 @@
-{
-    "_id": "24956",
-    "description": "I have encountered the Rageroar clan before, <name>. They are led not by an orc, but by a monster - a war-gorged fiend without a shred of decency or compassion. He and his lieutenants must be killed, not just to save Northwatch, but for the good of all of Azeroth.Karga Rageroar wears a helm. Execute him, <class>, and bring the helm to me. It is of ... particular importance.Rageroar has made his camp across the chasm, east of here.",
-    "name": "Silencing Rageroar",
-    "requires_level": 28,
-    "zone": "Southern Barrens"
-}

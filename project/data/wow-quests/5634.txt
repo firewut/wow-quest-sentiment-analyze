@@ -1,7 +1,0 @@
-{
-    "_id": "5634",
-    "description": "",
-    "name": "Desperate Prayer",
-    "requires_level": 10,
-    "zone": "Priest"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34316",
-    "added_in_patch": 6,
-    "description": "Lissen mon, a few nights ago dem ogres found a bit o' old and powerful mojo.I was snooping around da cave across de lava flows when dere was a huge scream from da spirit world. I went in and saw Borgal, de ogre chief, he be draining da spirits from de slaves wid some big stone wheel dat I heard dem call de Soulgrinder. I tried ta take 'em out but a single shot from dat thing took all de strength from me.Dat mojo too much of a threat in de hands of dem ogres.",
-    "name": "Seeking the Truth",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

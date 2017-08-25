@@ -1,8 +1,0 @@
-{
-    "_id": "33755",
-    "added_in_patch": 6,
-    "description": "Run through the arch...Get to the blue marker...Get to the green marker...Get to the red markerThen do it all again. That's right - 2 laps!Good luck!",
-    "name": "First Test Race: 2 Laps",
-    "requires_level": 1,
-    "zone": "Quests"
-}

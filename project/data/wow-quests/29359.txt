@@ -1,7 +1,0 @@
-{
-    "_id": "29359",
-    "description": "Herring is one of the most sought-after fish in Darnassus, but not just any herring. The Kaldorei herring is native only to the waters surrounding Teldrassil.I try to keep a good supply of it because it's so versatile! I just finished smoking a batch of it, so I need to rebuild my stocks. Would you mind helping me? You can catch Kaldorei herring by fishing in Rut'theran Village.",
-    "name": "An Old Favorite",
-    "requires_level": 10,
-    "zone": "Fishing"
-}

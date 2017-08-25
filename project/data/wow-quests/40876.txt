@@ -1,8 +1,0 @@
-{
-    "_id": "40876",
-    "added_in_patch": 7,
-    "description": "Well that jes' about wraps up me work 'ere. I'll start packin up an'ead back ta Dalaran.If yeh wouldn't mind, could yeh tell Hobart 'ow things went down 'ere? Maybe leave out tha bits with tha explodin', tha drownin', an' tha gettin captured an' what not.Yer a proper friend, <name>!",
-    "name": "'Locke, Stock and Barrel",
-    "requires_level": 106,
-    "zone": "Engineering"
-}

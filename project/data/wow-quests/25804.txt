@@ -1,8 +1,0 @@
-{
-    "_id": "25804",
-    "description": "This grouping of murloc hovels, after a thorough inspection, reveals nothing....but you're certain that the next clue you find will be fruitful.One of the hovels to the north must have the Menethil statuette!",
-    "name": "Search More Hovels",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

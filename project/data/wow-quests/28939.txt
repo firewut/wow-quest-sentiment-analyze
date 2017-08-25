@@ -1,7 +1,0 @@
-{
-    "_id": "28939",
-    "description": "TBD",
-    "name": "Beware of Strangers",
-    "requires_level": 28,
-    "zone": "Arathi Basin"
-}

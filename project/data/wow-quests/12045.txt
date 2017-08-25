@@ -1,7 +1,0 @@
-{
-    "_id": "12045",
-    "description": "I've never seen you before... are you new to the Vice?  Glad to have you.  I could always use some more hands.You get the materials, I'll finish my machine, then we can sell it to those commander types and all go home rich.I actually have most of the primary components, so I just need some of the materials for the weapon itself.  Narf said that jagged ice shards from those elementals to the north would make perfect shrapnel for my bombs - go nab some, will ya?\r\n",
-    "name": "Shaved Ice",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

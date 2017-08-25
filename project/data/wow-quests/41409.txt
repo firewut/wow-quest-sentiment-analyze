@@ -1,8 +1,0 @@
-{
-    "_id": "41409",
-    "added_in_patch": 7,
-    "description": "Can you feel it, <name>? The waters churn with approaching Sashj'tar.You must strike now...Leave me... Find a way to bombard the naga... with the kegs...Protect... Jandvik...",
-    "name": "Timing Is Everything",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

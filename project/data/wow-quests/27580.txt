@@ -1,7 +1,0 @@
-{
-    "_id": "27580",
-    "description": "The Alliance reinforcements have established a foothold in the southwest region of Silverpine called 7th Legion Base Camp. Our primary goal at the base camp is to sow discord amongst the troops. This is a lightning fast assassination mission to kill their field commander, General Marstone. His death won't stop the Alliance advance, but it will certainly soften their ranks.",
-    "name": "Sowing Discord",
-    "requires_level": 15,
-    "zone": "Silverpine Forest"
-}

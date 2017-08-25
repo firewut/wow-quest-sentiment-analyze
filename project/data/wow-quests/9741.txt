@@ -1,7 +1,0 @@
-{
-    "_id": "9741",
-    "description": "Aesom sent my squad out on a reconnaissance mission to search for the sun gate a few days ago. Needless to say, we found it...<Loryi points at Jorli.>Whatever those fool elves are transporting through that portal is causing void energy to be released. The area is teaming with void critters. We must destroy them before they have a chance to grow into void anomalies. You'll find the source of the creatures southwest of here, near the sun gate. Kill them and report back to Aesom when you're done.",
-    "name": "Critters of the Void",
-    "requires_level": 16,
-    "zone": "Bloodmyst Isle"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36439",
-    "added_in_patch": 6,
-    "description": "The saberon took their treasure up the rise and barricaded themselves in after Birchus attacked. It will be difficult to get in but I hear you have resources to handle this.One of their entrances is covered with tough vegetation. I believe you have a mechanical solution to this problem in the form of a shredder. I think you know what to do...",
-    "name": "Shredder vs. Saberon",
-    "requires_level": 93,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

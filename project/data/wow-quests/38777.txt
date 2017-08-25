@@ -1,8 +1,0 @@
-{
-    "_id": "38777",
-    "added_in_patch": 7,
-    "description": "This ore looks like nothing you've seen before.A mystical sheen moves through the metal in complex, unpredictable patterns. Your trainer in Dalaran would certainly like to see this.",
-    "name": "Leystone Deposit Sample",
-    "requires_level": 98,
-    "zone": "Mining"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25066",
-    "description": "This is ridiculous! Those gnomes just don't know when to stop!Goblin pride is on the line here! <name>, you gotta jump into the Pride of Kezan and show them what's what!Let me know when you're ready!",
-    "name": "The Pride of Kezan",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "39003",
-    "description": "<name>, we've got to destroy these tomes. Many of them have actual tortured souls bound into the pages, so we can't just burn them. Cordana will know what to do.Take these books to my tower in Zangarra and give them to Cordana. Let me know when the deed is done.",
-    "name": "Cooking the Books",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

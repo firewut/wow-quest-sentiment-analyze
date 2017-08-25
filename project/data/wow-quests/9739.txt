@@ -1,7 +1,0 @@
-{
-    "_id": "9739",
-    "description": "You there!  You must help us!The fungal giants are devouring all of our spore sacs!  You must do something, or we'll lose our young!The spore sacs start out large and become smaller as the air inside them is depleted.  Look for the small, mature spore sacs and save as many of them as you can!",
-    "name": "The Sporelings' Plight",
-    "requires_level": 61,
-    "zone": "Zangarmarsh"
-}

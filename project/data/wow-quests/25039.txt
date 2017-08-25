@@ -1,7 +1,0 @@
-{
-    "_id": "25039",
-    "description": "<Race>!  Listen up, I got somethin'... odd to discuss.I was out fishin' by Brightwater Lake when I saw the darnedest thing... some sorta wolf-man, running around Tirisfal.  Ya don't suppose that could be a... worgen, do ya?Anyway, I keep tellin' myself I should tell Executor Zygand about it, but I just get so scared when I talk to that guy.  Maybe you could talk with him?",
-    "name": "Have You Seen Anything Weird Out There?",
-    "requires_level": 5,
-    "zone": "Tirisfal Glades"
-}

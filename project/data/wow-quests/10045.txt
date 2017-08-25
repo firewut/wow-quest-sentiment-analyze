@@ -1,7 +1,0 @@
-{
-    "_id": "10045",
-    "description": "Mother Kashur wishes to speak with you, <name>. Before this becomes possible, you must collect the herbs required to create a potion that will expand your mind, allowing you to commune with the spirits.You must gather Olemba root from Terokkar, marshberries from Zangarmarsh, Telaari fronds from Nagrand and dragonspine from the Blade's Edge mountains. I have written down instructions on this parchment as to the cultivation of these herbs. Return to me when you have gathered the materials.",
-    "name": "Material Components",
-    "requires_level": 66,
-    "zone": "Nagrand (Outland)"
-}

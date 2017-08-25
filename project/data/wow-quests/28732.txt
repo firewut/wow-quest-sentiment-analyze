@@ -1,7 +1,0 @@
-{
-    "_id": "28732",
-    "description": "Raz and I were enlisted by the Guardians of Hyjal to investigate the re-emergence of Ragnaros into our world. Let me go ahead and confirm that he is back and he is angry! We also have evidence that these Twilight's Hammer cultists are moving elementals from here to Blackrock Caverns, over in the Eastern Kingdoms.Raz and I were about to head over there to investigate. We've got room for another in the mole machine if you're interested. Just meet us on the inside and we'll begin our journey.",
-    "name": "This Can Only Mean One Thing...",
-    "requires_level": 80,
-    "zone": "Blackrock Caverns"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44032",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Apothecary Faldren",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

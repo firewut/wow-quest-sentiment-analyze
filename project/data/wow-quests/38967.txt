@@ -1,8 +1,0 @@
-{
-    "_id": "38967",
-    "added_in_patch": 7,
-    "description": "Now that you're able to disguise yourself, you should go to Suramar City and try to find this guild of tailors.Good luck, <name>, and try not to get caught.",
-    "name": "The Nightborne Connection",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

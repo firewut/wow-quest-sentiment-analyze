@@ -1,8 +1,0 @@
-{
-    "_id": "42617",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: King Ymiron",
-    "requires_level": 98,
-    "zone": "Warrior Campaign"
-}

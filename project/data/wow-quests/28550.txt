@@ -1,7 +1,0 @@
-{
-    "_id": "28550",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Commander Walpole at Stonetalon Pass in the Southern Barrens.Our brave soldiers have made tremendous gains in the Barrens, but they have paid a heavy price! Your efforts are needed to consolidate our gains. You can reach the Southern Barrens from the Stonetalon Mountains by traveling southeast through Greatwood Vale.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Southern Barrens!",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

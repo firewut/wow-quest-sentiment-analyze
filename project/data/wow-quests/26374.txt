@@ -1,8 +1,0 @@
-{
-    "_id": "26374",
-    "description": "It was a bad idea to muster the troops in this festering goblin metropolis. Every vice that coin can buy is within arm's reach. Our mighty veterans are running rampant, blowing years of Northrend back-pay in a city-wide debacle.Can you make a sweep through the city and gather up any stragglers that have gone AWOL?My axebite warriors are unmatched on the battlefield, but I won't have them disgrace their uniforms while on shore leave.",
-    "name": "Ready the Ground Troops",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Azshara"
-}

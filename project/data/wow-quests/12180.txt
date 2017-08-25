@@ -1,7 +1,0 @@
-{
-    "_id": "12180",
-    "description": "Raegar sent a team of prospectors into Dun Argol to search for artifacts and information about the history of the settlement. Raegar's team never expected Dun Argol to be this heavily populated.They're being held captive while the iron dwarves prepare for war. We haven't the men to charge in after them, and Raegar's too busy fantasizing about defeating the irons to be of much help.It falls to you, <name>. Any of the irons or their servants could be carrying the keys to the cages holding our men.",
-    "name": "The Captive Prospectors",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

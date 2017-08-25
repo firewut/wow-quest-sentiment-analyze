@@ -1,7 +1,0 @@
-{
-    "_id": "11015",
-    "description": "No good at nothin'? That's fine. Even lunkheads like you can be used around here. Just find creatures on the ledge and kill 'em. Sometimes they'll have nether crystals on their carcasses. Gather those and bring 'em back to me and I'll consider your work order for the day complete.\r\n",
-    "name": "Netherwing Crystals",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

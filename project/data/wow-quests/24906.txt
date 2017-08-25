@@ -1,8 +1,0 @@
-{
-    "_id": "24906",
-    "description": "We've got to get goods moving in this market ASAP if we want to be competitive. I've got an angle for us.Gadgetzan's under blockade by pirates, but plenty of the goods that get blown off the ships survive intact... they just wash away. Most of them wash up in the shallows just south of town.Head down there and start salvaging; there's crates full of pure profit just floating around down there.",
-    "name": "Seaside Salvage",
-    "requires_level": 43,
-    "side": "horde",
-    "zone": "Tanaris"
-}

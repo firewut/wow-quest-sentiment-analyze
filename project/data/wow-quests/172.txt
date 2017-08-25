@@ -1,7 +1,0 @@
-{
-    "_id": "172",
-    "description": "You're willing to help us here at the orphanage?  Bless you, friend; your aid during Children's Week will be invaluable.Take this whistle.  You will only be able to use it for a short amount of time - typically not longer than Children's Week itself.  When you use it, you will be able to talk with the child you've agreed to look after.  Using it again will dismiss the child.By all means <name> - use the whistle and meet your ward!  I'm sure the child will be most eager to meet you.",
-    "name": "Children's Week",
-    "requires_level": 10,
-    "zone": "Children's Week"
-}

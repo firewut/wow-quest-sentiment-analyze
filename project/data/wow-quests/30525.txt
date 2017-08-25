@@ -1,8 +1,0 @@
-{
-    "_id": "30525",
-    "added_in_patch": 5,
-    "description": "All right, <name>. This is our big chance!Mr. Mudclaw's farm is in big trouble. Those mountain hozen are coming down at night, wrecking his crops and eating his hard-earned harvest.We've got to get rid of them for good, and I know just how to do it.Back in the day, my grandpa showed me how to mix a wounding poison to deal with the pests on the farm.The virmen warrens to the north hold the key ingredients for my mixture.Don't look so worried, <name>! I'm pretty sure this is going to work.",
-    "name": "Haohan's Vote III: Pure Poison",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

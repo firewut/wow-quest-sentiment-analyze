@@ -1,9 +1,0 @@
-{
-    "_id": "38459",
-    "added_in_patch": 7,
-    "description": "<As the raven stares into your eyes, an odd voice fills your mind.>\r\n\r\nI know who you are, champion, and I know what you seek.\r\n\r\nCome to me, if you think yourself truly worthy.",
-    "name": "The Ancient Trials",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

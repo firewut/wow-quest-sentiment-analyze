@@ -1,7 +1,0 @@
-{
-    "_id": "13306",
-    "description": "When our forces begin to move beyond Aldur'thar, they will be vulnerable to attack from the Ironwall Rampart and the broad glacier below.We have neither the time nor the materials to build fortifications, but we can put up some barricades to shield our men from fire and break up Scourge charges.Take this barricade kit to the Valley of Fallen Heroes, on the west side of Aldur'thar. Locate the markers I've placed there and use this kit to construct your barricades there.",
-    "name": "Raise the Barricades",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

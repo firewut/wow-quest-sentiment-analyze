@@ -1,7 +1,0 @@
-{
-    "_id": "26575",
-    "description": "I've one more favor to ask, fleshling.There is a basilisk, much larger and much older than the rest. Though we normally fear nothing from their kind, this one has become so potent as to petrify some of my sons. This shall not be abided.Find Gorgonite to the east and slay him. He has lived much longer than necessary.",
-    "name": "Rock Bottom",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

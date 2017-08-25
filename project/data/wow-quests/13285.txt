@@ -1,7 +1,0 @@
-{
-    "_id": "13285",
-    "description": "Aha! Here it is: the Temple of Invention, the seat of Keeper Mimir himself! Of course, that's where one would go to join the two parts of the key.According to the prospector's notes, the Temple of Invention is one of the highest points on the western side of the Terrace of the Makers. That means it should be roughly east of your Grom'arsh Crash Site.I'll meet you at the temple and we'll combine the parts together.",
-    "name": "Forging the Keystone",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

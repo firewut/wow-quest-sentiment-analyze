@@ -1,7 +1,0 @@
-{
-    "_id": "27154",
-    "description": "Magus Bisp is one of Hearthglen's most preeminent arcanists.  To imagine that he would be interacting with gnolls... and dabbling in necromancy?  Unthinkable.You'll find him atop the tower near Hearthglen's main gate.  Hopefully he'll have an explanation for all of this.  If not, well... I wouldn't go to the top of that tower unprepared, <name>.",
-    "name": "Bagging Bisp",
-    "requires_level": 35,
-    "zone": "Western Plaguelands"
-}

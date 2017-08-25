@@ -1,8 +1,0 @@
-{
-    "_id": "12056",
-    "description": "I witnessed his treachery with my own eyes! The traitor led an Anub'ar assault on this stronghold, taking out some of my best soldiers.<Gort shakes his head.>He'd been working with the Scourge the whole time and we didn't have a clue! How many more like Zangus are there? We'll find 'em all and when we do...<Gort makes a cutting motion across his neck.>First on the list is Zangus. Our scouts report that he is hiding in The Pit of Narjun, west of here. Find him, kill him, bring me his head.\r\n",
-    "name": "Marked for Death: High Cultist Zangus",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

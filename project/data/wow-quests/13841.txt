@@ -1,8 +1,0 @@
-{
-    "_id": "13841",
-    "description": "This could be the end of me... Perhaps my actions were not thought out as well as they should have been...The good news is that we pushed back an attack that would have otherwise meant the end of Splintertree. Let us pray that Saurfang sees it that way.I am certain to be summoned to Orgrimmar to explain my actions.Please, <name>, go ahead of me and present this letter to him.Do what you can to soften his heart towards me.",
-    "name": "All Apologies",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

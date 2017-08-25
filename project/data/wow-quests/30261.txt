@@ -1,8 +1,0 @@
-{
-    "_id": "30261",
-    "added_in_patch": 5,
-    "description": "Get to the bottom of the wall in the fastest time possible.Speak to me when you're ready to roll.",
-    "name": "Roll Club: Serpent's Spine",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

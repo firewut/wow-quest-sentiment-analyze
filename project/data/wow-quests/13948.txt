@@ -1,7 +1,0 @@
-{
-    "_id": "13948",
-    "description": "The cultists appear to be digging out the remains of a being known as Soggoth the Slitherer.Perhaps their superiors on the rafters above have more information.",
-    "name": "Stepping Up Surveillance",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

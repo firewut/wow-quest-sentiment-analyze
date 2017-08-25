@@ -1,9 +1,0 @@
-{
-    "_id": "38882",
-    "added_in_patch": 7,
-    "description": "It seems that you are full of surprises, <name>. With the blessing of the Valkyra queen, you have opened a path that will shape the destiny of Azeroth.\r\n\r\nI invite you to bear witness, for today a new day dawns on the Forsaken!",
-    "name": "A New Life for Undeath",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

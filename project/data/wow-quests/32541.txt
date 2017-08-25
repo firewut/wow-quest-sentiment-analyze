@@ -1,8 +1,0 @@
-{
-    "_id": "32541",
-    "added_in_patch": 5.2,
-    "description": "It pains me to think of the torture the poor skyscreamers  must endure as the trolls train them to become implements of war.\r\n\r\nThe hatchlings are quite fearful, and will fly away if you even get close them. Please, frighten some away before the Zandalari corrupt them.",
-    "name": "Preventing a Future Threat",
-    "requires_level": 90,
-    "zone": "Quests"
-}

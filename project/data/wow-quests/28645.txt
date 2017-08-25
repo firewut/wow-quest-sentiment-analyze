@@ -1,7 +1,0 @@
-{
-    "_id": "28645",
-    "description": "According to the guide, Bloodvenom is your next challenge. The fearsome elemental can be found on the lower level of Durnholde Keep, near the western prisons.",
-    "name": "The Durnholde Challenge: Bloodvenom",
-    "requires_level": 23,
-    "zone": "Hillsbrad Foothills"
-}

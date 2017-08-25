@@ -1,7 +1,0 @@
-{
-    "_id": "10679",
-    "description": "The blade is nearly finished!You can almost feel the magic beginning to coalesce inside the steel, but one thing remains to be done.You must take the forged blade to the Scalding Pools near the top of the Hand of Gul'dan in Shadowmoon Valley and plunge it into the lava pools to quench the sword. When you have quenched the sword, return.",
-    "name": "Quenching the Blade",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

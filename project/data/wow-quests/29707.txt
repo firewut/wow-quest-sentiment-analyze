@@ -1,7 +1,0 @@
-{
-    "_id": "29707",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Tracking Event: Opened Shackle 1",
-    "zone": "Quests"
-}

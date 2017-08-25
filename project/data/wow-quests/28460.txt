@@ -1,7 +1,0 @@
-{
-    "_id": "28460",
-    "description": "I came to Winterspring to investigate the Frostfire Hot Springs. I've noticed that the water seems to have... strange qualities. I haven't yet been able to discover the source, and to tell you the truth, I've had some difficulty lately, due to the Winterfall furbolg.They seem to be drawn to the springs, just as I am. They have become extremely protective of the water, and won't let me come near the two larger springs to the north of here.I'd like to continue my studies, so won't you help me?",
-    "name": "Threat of the Winterfall",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

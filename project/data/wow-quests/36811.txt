@@ -1,8 +1,0 @@
-{
-    "_id": "36811",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Retake Faronaar",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

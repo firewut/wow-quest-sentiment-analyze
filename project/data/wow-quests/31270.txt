@@ -1,8 +1,0 @@
-{
-    "_id": "31270",
-    "added_in_patch": 5,
-    "description": "When we discovered the sha influence at Kypari Zar, I had hoped the corruption could still be cleansed.Unfortunately, the Klaxxi Council has confirmed that the sha of fear's corruption is deep-seated, and continues to spread.To the south, I have observed some of the local wildlife consumed by an unnamed terror.The sha can warp and twist its victims into unimaginable horrors.We must stop the corruption before it becomes worse. Seek out the sha-infected Horrorscale Scorpids. Eliminate them.",
-    "name": "The Fight Against Fear",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

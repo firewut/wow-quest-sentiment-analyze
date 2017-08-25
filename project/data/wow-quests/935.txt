@@ -1,8 +1,0 @@
-{
-    "_id": "935",
-    "description": "Our tasks are done here for now. This water proved to be of great importance, but it wasn't originally meant for me. Go ahead and bring it back to Corithras at the crossroads, I'm sure he'd like you to deliver it to its original destination.",
-    "name": "The Waters of Teldrassil",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

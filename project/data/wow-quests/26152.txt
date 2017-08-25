@@ -1,8 +1,0 @@
-{
-    "_id": "26152",
-    "description": "By decree of the Stormwind Army, a bounty has been placed on the head of James Clark.Clark is wanted for robbery, burglary, arson, and murder. He is also a suspect in the kidnapping and disappearance of the Brackwell's prized pig, Princess.James Clark was last seen heading towards Eastvale Logging Camp.Bring James Clark to justice and report to Marshal McCree at Eastvale Logging Camp.",
-    "name": "Wanted: James Clark",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

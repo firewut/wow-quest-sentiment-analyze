@@ -1,8 +1,0 @@
-{
-    "_id": "41783",
-    "added_in_patch": 7,
-    "description": "When the claws were sealed away, magical wards were placed to prevent anyone from reaching their location. Only the power of a demigod can give us passage through the wards, one such as Ursol, the brother of Ursoc.Ursol is a reclusive guardian and requires an offering before he will appear to us.like Ursoc, he was worshipped by the furbolg, but years of war have decimated their tribes and their shaman lay dead.Search the bodies of the fallen for their offerings while I prepare the shrine.",
-    "name": "Fallen Offerings",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

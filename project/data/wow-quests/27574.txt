@@ -1,7 +1,0 @@
-{
-    "_id": "27574",
-    "description": "You have discovered a partially digested head. Lord Godfrey perks up when he sees it. Perhaps you should give it to him.",
-    "name": "I Never Forget a Face",
-    "requires_level": 15,
-    "zone": "Silverpine Forest"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34806",
-    "added_in_patch": 6,
-    "description": "The blood soaked body of Ryan is slumped up against the cave wall. Tiny teeth marks cover his body.The podlings clearly are a threat to you and your garrison.It's time to do a little pruning.",
-    "name": "Prune the Podlings",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

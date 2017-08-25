@@ -1,7 +1,0 @@
-{
-    "_id": "24448",
-    "description": "Commander Molotov sent word directly that you should be dispatched to our forward post. We're preparing to send squads into the ruins to rout the naga and recover the artifact, and he would like you to lead one of them.Get to the northwest corner of the beach and follow the path up to our forward post.",
-    "name": "Field Promotion",
-    "requires_level": 12,
-    "zone": "Azshara"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13228",
-    "description": "What battle?! Those troops were on a recon mission!And what's this talk of Alliance - you're sure he said Alliance?Listen to me, <name>! I need to know what's going on and I need to know NOW!Get yourself down there and get me some answers! Scour the battlefield and look for survivors - clues - anything!",
-    "name": "The Broken Front",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

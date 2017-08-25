@@ -1,7 +1,0 @@
-{
-    "_id": "27231",
-    "description": "Those that survived your assault on Fenris managed to drink the blood of the wolf. They turned into ferocious worgen, hell-bent on vengeance. Now they paddle across Lordamere Lake and assault my sea dogs. Many have already been killed. The worgen monsters must be stopped!Make your way to the Decrepit Fields, east of here, and kill the Hillsbrad worgen that infest the area. Once you've killed them all, make your way to the Horde communication panel, located at the docks. I'll be in touch.",
-    "name": "Reinforcements from Fenris",
-    "requires_level": 11,
-    "zone": "Silverpine Forest"
-}

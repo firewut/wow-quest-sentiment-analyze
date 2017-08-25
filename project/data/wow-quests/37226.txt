@@ -1,8 +1,0 @@
-{
-    "_id": "37226",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Xelganak's Stinger",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

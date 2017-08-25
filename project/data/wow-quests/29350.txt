@@ -1,8 +1,0 @@
-{
-    "_id": "29350",
-    "description": "One o' the gnomish engineerin' trainers gave me a blueprint fer a fancy lure he says'll help me catch fish faster and keep 'em from gettin' away. The whole thing sounds a mite silly if ye ask me, but I'll try anythin' once.Here are the blueprints. Ye're going to need shiny baubles, which ye can buy from my assistant inside the buildin', a hair trigger ye can buy from an engineerin' supplier in Tinker Town, and a few rat traps from the Deeprun Tram.",
-    "name": "The Gnomish Bait-o-Matic",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40230",
-    "added_in_patch": 7,
-    "description": "The leader of the Cavemoss makrura, Clawdayshus, has been ordering raids into the Cavemoss village to steal the young for snacks.\r\n\r\nThis isn't going to do at all. In order to prove their power, Murky and the tadpoles must destroy him as well!\r\n\r\nThis is a job for murlocs.\r\n\r\nMindmeld with Murky in his egg and show him how it's done!",
-    "name": "Oh, the Clawdacity!",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

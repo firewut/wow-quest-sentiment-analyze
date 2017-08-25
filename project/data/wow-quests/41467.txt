@@ -1,8 +1,0 @@
-{
-    "_id": "41467",
-    "added_in_patch": 7,
-    "description": "Take this torch, <name>. \r\n\r\nWe cannot reverse the Nightmare corruption once it has taken hold. All we can hope to do is destroy its manifestations.\r\n\r\nIncinerate the root. Only then can we rest easy in Suramar.",
-    "name": "The Only Choice We Can Make",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

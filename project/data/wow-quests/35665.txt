@@ -1,9 +1,0 @@
-{
-    "_id": "35665",
-    "added_in_patch": 6,
-    "description": "Commander, I've spotted Iron Horde soldiers nearby.It is bold, even for them, to venture into such deadly territory.If we do not deal with their presence, they will surely be a threat to your camp.While I scout deeper into the canyons, may I request your help in investigating the camp?",
-    "name": "We Have Company",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

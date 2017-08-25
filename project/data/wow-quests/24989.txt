@@ -1,7 +1,0 @@
-{
-    "_id": "24989",
-    "description": "You should return to Magistrate Sevren with the information I gave you.  He'll want it as soon as possible, so be swift.",
-    "name": "Return to the Magistrate",
-    "requires_level": 5,
-    "zone": "Tirisfal Glades"
-}

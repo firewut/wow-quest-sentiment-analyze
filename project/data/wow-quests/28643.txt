@@ -1,7 +1,0 @@
-{
-    "_id": "28643",
-    "description": "Durnholde Keep has always been a place of strife. For years the humans used it as an internment camp and prison for the orcs. After that it was taken over by the Syndicate. Now? The Dark Lady captured and placed powerful elementals within its walls. She charged me with administering \"The Durnholde Challenge.\" Any that can defeat all of the elementals will earn a grand prize! Take this guide and face your first challenge: Zephyrus!Durnholde is located just northeast of us.",
-    "name": "The Durnholde Challenge: Zephyrus",
-    "requires_level": 23,
-    "zone": "Hillsbrad Foothills"
-}

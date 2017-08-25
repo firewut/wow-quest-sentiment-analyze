@@ -1,9 +1,0 @@
-{
-    "_id": "34285",
-    "added_in_patch": 6,
-    "description": "When I was captured they took my gear and left me in rags. My mace is being used to crack stones and they're even using me best dagger as a dinner fork! I'd hate to know what happened to me armor but I hope its still usable.I'll need a wee bit to recover from me wounds and without my stuff I'm no help in a fight. Could ye go find my gear for me?Last I saw my armors in a chest next to that big tower south of here, my dagger was to the south west, and my mace over near that lava field to the west.",
-    "name": "Gearing Up",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

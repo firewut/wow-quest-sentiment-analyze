@@ -1,7 +1,0 @@
-{
-    "_id": "25705",
-    "description": "Neptulon the Tidehunter is our god.  He was the god of the Bloodwash, too, but they have turned their back on him, it seems.  They now choose to worship only Azshara, their naga queen.  You will see likenesses of Azshara littered around their settlements, carved out of seastone.<The murloc spirit eyes your weapon.>That weapon will do.  Send it through their Azsh'ir idols.  They need to be reminded that our father Neptulon is the only one who truly rules the seas.",
-    "name": "False Idols",
-    "requires_level": 54,
-    "zone": "Blasted Lands"
-}

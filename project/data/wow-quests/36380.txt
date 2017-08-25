@@ -1,9 +1,0 @@
-{
-    "_id": "36380",
-    "added_in_patch": 6,
-    "description": "Please watch closely <name>. I shall craft this jewel into a fine pendant for you.Hopefully you will learn a bit of true jewelcrafting in the process.",
-    "name": "Diamonds Are Forever",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

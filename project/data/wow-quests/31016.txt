@@ -1,8 +1,0 @@
-{
-    "_id": "31016",
-    "added_in_patch": 5,
-    "description": "Dear $p,We have uncovered something tremendous in the Vale of Eternal Blossoms. A great repository of books, scrolls, and lore that has remained untouched since the days of the mogu empire.Please, join us at your earliest convenience. You can find this Seat of Knowledge by traveling to the infamous Mogu'shan Vaults, and then flying to the landing just above the entrance.I look forward to your arrival!Sincerely,Lorewalker Cho",
-    "name": "The Lorewalkers",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

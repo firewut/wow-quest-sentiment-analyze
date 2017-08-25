@@ -1,9 +1,0 @@
-{
-    "_id": "33826",
-    "added_in_patch": 6,
-    "description": "My frost wolf, Nerok, was captured with me and the others. I do not know where they are keeping him, but I'll bet the so-called \"beastmaster\" who dragged us here does.He is at the beast pens nearby, boasting about his catch to the younger hunters.We'll see how he boasts with my axe in his skull.",
-    "name": "Where's My Wolf?!",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

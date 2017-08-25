@@ -1,8 +1,0 @@
-{
-    "_id": "26289",
-    "description": "SI: 7 has been tracking Helix Gearbreaker since he entered Alliance territory two weeks ago. The letter I received from Mathias Shaw explained that he sent an agent by the name of Kearnen to Westfall to shadow Helix. Find Agent Kearnen and you'll find Helix Gearbreaker.Kearnen came into town for supplies two days ago. She mentioned that she would be near Mortwake's Tower, southeast of here, on the Dust Plains.Get going, <name>.",
-    "name": "Find Agent Kearnen",
-    "requires_level": 11,
-    "side": "alliance",
-    "zone": "Westfall"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27403",
-    "description": "I have watched your training, <name>. Yours is the path of an exemplary Sunwalker, a brave defender of the Horde and a follower of our ways.As a reward for your dedication, the warchief has commissioned his personal smith to forge a special weapon.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and recover the holy symbol of Commander Springvale, a supply of moonsteel ingots, and sinew from the ghouls and geists infesting the keep.",
-    "name": "A True Sunwalker",
-    "requires_level": 20,
-    "side": "horde",
-    "zone": "Paladin"
-}

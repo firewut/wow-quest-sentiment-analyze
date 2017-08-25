@@ -1,7 +1,0 @@
-{
-    "_id": "13478",
-    "description": "We're not fighting isolated battles against the Horde anymore,  lad.Victory in one front means denying the Horde resources they'd use against us in a different battle.  By the same token, abandoning any given battle could give the advantage to our opponent somewhere else around the world.The Alliance is in need of more combatants with this sort of worldly understanding... truly seasoned veterans!  <name>, come back to me after you've served against the Horde at all of our active battlegrounds.",
-    "name": "Concerted Efforts",
-    "requires_level": 71,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41009",
-    "added_in_patch": 7,
-    "description": "Now that Titanstrike is yours, ye should learn more about the night elf who set us on this journey.She might well be back at the Hunter's Reach shop where you met her. Whoever this Emmarel Shadewarden is, I'd bet me beard she has some part to play in the war against the Legion!Thanks again fer the fun, <name>. If ye ever have need of me, just call!",
-    "name": "Hunter to Hunter",
-    "requires_level": 98,
-    "zone": "Hunter"
-}

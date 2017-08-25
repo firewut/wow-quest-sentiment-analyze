@@ -1,8 +1,0 @@
-{
-    "_id": "42810",
-    "added_in_patch": 7,
-    "description": "What was that? Sounds like something's outside.\r\n\r\nSomething big...\r\n\r\nYou'd better get up there, <name>!",
-    "name": "A Final Offer",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

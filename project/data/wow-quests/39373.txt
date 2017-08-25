@@ -1,8 +1,0 @@
-{
-    "_id": "39373",
-    "added_in_patch": 7,
-    "description": "The drogbar you freed me from were unusually aggressive. The tribe in the nearby caves seems to be apart from the rest of them, but that didn't stop the Bloodtotem from going on the offensive just in case, capturing some of their number.\r\n\r\nThat move left the woods exposed to the harpies, however. Your help dealing with these witches would not go unnoticed by Torok. Bring back their feathers as proof of death.",
-    "name": "Hags of a Feather",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

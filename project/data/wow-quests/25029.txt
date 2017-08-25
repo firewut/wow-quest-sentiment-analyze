@@ -1,7 +1,0 @@
-{
-    "_id": "25029",
-    "description": "The Agamand family was the most prosperous family in Tirisfal Glades.  I used to work their mills...before the plague.When the Scourge first came, the Agamands fortified their home and convinced those in their employ to remain and help them defend.  We were fools, but at least we were loyal fools.The Agamands, in their pride, doomed us to undeath.  And now they are minions of the Scourge!Serve the Forsaken by defeating the Agamands who fell to the plague.  Serve me by bringing me their remains.",
-    "name": "Deaths in the Family",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

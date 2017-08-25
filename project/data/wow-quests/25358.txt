@@ -1,7 +1,0 @@
-{
-    "_id": "25358",
-    "description": "How am I feelin', you ask?Well, after bein' yanked from the deck of our ship by a giant sea monster and then left to drown in the sea... not so good!My nerves are gettin' the best of me, to be honest.If you could round up some of the supplies that are sure to be floatin' around the nearby wrecks, I could likely whip up somethin' that'll take the edge off...",
-    "name": "Nerve Tonic",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

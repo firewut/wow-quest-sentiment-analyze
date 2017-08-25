@@ -1,7 +1,0 @@
-{
-    "_id": "10461",
-    "description": "",
-    "name": "Restorer's Pledge",
-    "requires_level": 70,
-    "zone": "Caverns of Time"
-}

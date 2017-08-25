@@ -1,7 +1,0 @@
-{
-    "_id": "26018",
-    "description": "Oh yeah!  I was supposed to put together a report!  I'd almost forgotten!Looks like mostly harmless wildlife around here... 'cept for those blasted eels... and a few murlocs.  Cap'n will be more interested in the murlocs, I think.Go engage a few of 'em in combat and see what kinda moves they got.  From what I've seen, the big ones hunt for fish in the kelp, and the little ones practice some kind o' magic or another... but that's all I know.",
-    "name": "Coldlights Out",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

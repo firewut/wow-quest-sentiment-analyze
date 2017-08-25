@@ -1,8 +1,0 @@
-{
-    "_id": "40881",
-    "added_in_patch": 7,
-    "description": "Didi will be very interested in reading the journal you found as well as examining the circuit design.You should return to her as soon as you can.",
-    "name": "Oil Rags to Riches",
-    "requires_level": 110,
-    "zone": "Engineering"
-}

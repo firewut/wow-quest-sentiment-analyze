@@ -1,8 +1,0 @@
-{
-    "_id": "42520",
-    "added_in_patch": 7,
-    "description": "I would say I am surprised by this terrible turn of events, but nothing surprises me of late. It is dark times when even the most upstanding of us can fall... \r\n\r\nWe had best inform Archmage Khadgar of Vargoth's betrayal.",
-    "name": "A Terrible Loss",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

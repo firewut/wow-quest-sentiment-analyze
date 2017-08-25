@@ -1,7 +1,0 @@
-{
-    "_id": "26057",
-    "description": "One of the Earthen Ring, Wavespeaker Valoren, swam down into the Nightmare Depths to the northeast. We haven't heard from her in awhile.Swim out there and see if you can find her.",
-    "name": "The Wavespeaker",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

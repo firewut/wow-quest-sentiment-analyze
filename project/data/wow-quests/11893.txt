@@ -1,8 +1,0 @@
-{
-    "_id": "11893",
-    "description": "I kept trying to tell that silly goblin his machines are unreliable.But the power of the elements; that is deep and abiding. When my apprenticeship is over, I will wield their full power. What I know now should be sufficient to help out our friend Fezzix, though.Take this windsoul totem and plant it near any of the steam ragers to the west of the village. The totem will gather up the energies of slain elementals. Return the fully charged totem to me and I'll do the rest.",
-    "name": "The Power of the Elements",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

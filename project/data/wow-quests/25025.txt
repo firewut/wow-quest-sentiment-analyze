@@ -1,7 +1,0 @@
-{
-    "_id": "25025",
-    "description": "The blood speaks. I can feel its flow through the sand...drenched in death, a desert of suffering...<Mazoga's eyes roll back in his head.>There! The blood flows to the south, in a valley of bones. Zakkaru! Zakkaru, spawn of Makkari, the dark one who demands sacrifice... his father forced from Zul'Farrak, his ascension interrupted... he will taste blood once more...<Mazora reels.>Go, <class>. Zakkaru has Sang'thraze. Ya not be wanting him to keep it, trust me.",
-    "name": "Sang'thraze the Deflector",
-    "requires_level": 43,
-    "zone": "Tanaris"
-}

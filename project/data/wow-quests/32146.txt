@@ -1,8 +1,0 @@
-{
-    "_id": "32146",
-    "added_in_patch": 5.1,
-    "description": "It looks like the Horde thinks they can hide behind their heavy hitting mooks.The mooks are tough, powerful, and dumber than an ogre with a hangover.Go down there and bring the hammer of the Alliance fury down on them!",
-    "name": "Hammer to Fall",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

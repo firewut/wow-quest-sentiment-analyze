@@ -1,8 +1,0 @@
-{
-    "_id": "35535",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Arcatraz Reward Quest",
-    "requires_level": 68,
-    "zone": "Quests"
-}

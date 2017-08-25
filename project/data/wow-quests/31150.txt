@@ -1,9 +1,0 @@
-{
-    "_id": "31150",
-    "added_in_patch": 5,
-    "description": "<name>, this rune was given to me to pass on to ye. Take some time to read it when ye have a chance. I'm thinkin' it came from our visitor from afar, Lo. Take a gander at it and go find him inside Anvilmar.",
-    "name": "Elegant Rune",
-    "requires_level": 2,
-    "side": "alliance",
-    "zone": "Monk"
-}

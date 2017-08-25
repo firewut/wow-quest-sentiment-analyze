@@ -1,8 +1,0 @@
-{
-    "_id": "34732",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Mulverick's Offer of Service",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

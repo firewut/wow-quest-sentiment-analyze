@@ -1,9 +1,0 @@
-{
-    "_id": "35708",
-    "added_in_patch": 6,
-    "description": "The Rangari have been here for a tick, and they hear tell from the Laughing Skull o' a place called Tangleheart.\r\n\r\nSeems some really bad ancients come from there, and botani use a kind o' sap to grow them quickly.\r\n\r\nI think we could use that for yer outpost. Hey, wood is wood, right?\r\n\r\nI'll meet ya there.",
-    "name": "Tangleheart",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

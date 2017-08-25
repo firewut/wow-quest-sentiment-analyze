@@ -1,7 +1,0 @@
-{
-    "_id": "28586",
-    "description": "This jerk across from me is getting all of our people killed!Brett \"the Bummer\" unpacked the Krazzworks in the wrong place and now it's highly unstable. The explosions from the instability are throwing our laborers off of the platforms and into the water below.You don't mind flying down there and rescuing them with some pool ponies, <name>?",
-    "name": "Pool Pony Rescue",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

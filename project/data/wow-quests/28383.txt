@@ -1,7 +1,0 @@
-{
-    "_id": "28383",
-    "description": "I have toiled long here with the Denmother to spread the teachings of Cenarius and the ways of the wild. She has gained much of my trust, and in return, I have been allowed to introduce the spirits of the forest to her students. The company of wisps is a great honor, as well as a useful blessing.But now the goblins descend on us, and seek to steal the wisps for nefarious use. Please, prevent this blasphemy!Call the wisps back here from the western woods with this blessed branch, and keep them safe.",
-    "name": "Wisps of the Woods",
-    "requires_level": 47,
-    "zone": "Felwood"
-}

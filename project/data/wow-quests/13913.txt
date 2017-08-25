@@ -1,7 +1,0 @@
-{
-    "_id": "13913",
-    "description": "The gnome explosives squad we requested from Tinker Town arrived last week. Just in time to face an assault by the Horde. We lost a lot of soldiers that day. Most of the gnome team was taken as well. Now we're neck deep in Horde, Silverwind Refuge has been lost and we're down a dozen gnomes.I'm begging for your help here, <name>. Travel east to Silverwind Refuge and look for any gnome survivors. They were all carted off by a big, merciless orc named Thundrak. Find him and you'll find our gnomes.",
-    "name": "They Took Our Gnomes",
-    "requires_level": 24,
-    "zone": "Ashenvale"
-}

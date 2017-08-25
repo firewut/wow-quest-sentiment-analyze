@@ -1,8 +1,0 @@
-{
-    "_id": "11978",
-    "description": "Before we can officially bring these taunka into the Horde we must recover our armaments from the Anub'ar Nerubians that infest the nearby woods. The armaments were lost when a caravan from Agmar's Hammer was ambushed by the Scourge late last night.Venture out into the woods to the east of Westwind Refugee Camp and recover those armaments, <race>.",
-    "name": "Into the Fold",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

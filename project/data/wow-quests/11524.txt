@@ -1,7 +1,0 @@
-{
-    "_id": "11524",
-    "description": "We lack the numbers to capture the Sanctum at Sun's Reach, but I've a plan that will tip the scales in our favor.The loose energy from the Sunwell has caused the sentries that patrol this island to malfunction.  The crystal cores that control their behavior are damaged beyond repair.I've crafted new crystals that will bring them under our control; place them inside of the hulls of defeated sentries.  We will need all the help we can get.",
-    "name": "Erratic Behavior",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

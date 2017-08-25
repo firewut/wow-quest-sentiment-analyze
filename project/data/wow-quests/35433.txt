@@ -1,9 +1,0 @@
-{
-    "_id": "35433",
-    "added_in_patch": 6,
-    "description": "They steal children? Children?!Had you not rescued Kaz's child, he would be reduced to mulch just like the others.You should send them a message they will understand. Cut down their great dew casters. Rip them apart.Let them know that it is not okay to take our children.",
-    "name": "Cut Them Down",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

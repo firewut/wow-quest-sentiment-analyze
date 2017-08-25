@@ -1,8 +1,0 @@
-{
-    "_id": "26196",
-    "description": "The dwarves of Dun Modr fight day and night against the Dark Iron that have invaded their old home. While we cannot yet send our sentinels to risk their lives for them, we do send much needed supplies that they may sustain their vigil.If you would, bring this package to Longbraid the Grim, north of here. His men must certainly need its contents.",
-    "name": "Longbraid the Grim",
-    "requires_level": 23,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

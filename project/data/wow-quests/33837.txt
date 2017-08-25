@@ -1,9 +1,0 @@
-{
-    "_id": "33837",
-    "added_in_patch": 6,
-    "description": "It is already beginning, over the hills to the southeast.Ner'zhul has everything he needs to summon the Dark Star. The Iron Horde attack on Karabor is imminent. This is where everything ends.Champion, I must ask you to ride ahead and delay Ner'zhul. I will join you as quickly as I can.",
-    "name": "Darkness Falls",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26657",
-    "description": "Stone Dragons bow only to strength. When we have punished them enough, they will bend back to our will.I have sent many of my strongest giants onto the fields in the west. They will bring the drakes to the ground. You will see to it that they do not take wing again after they fall.",
-    "name": "Hard Falls",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

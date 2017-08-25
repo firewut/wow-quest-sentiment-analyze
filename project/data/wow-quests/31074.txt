@@ -1,8 +1,0 @@
-{
-    "_id": "31074",
-    "added_in_patch": 5,
-    "description": "\"Rending daggers of the great ones shall be bound with WOOD and SHADE.\"  Hmm.I've learned a lot about the Kor'thik mantid in my time here. I know that they maintain shrines within their settlement, Kor'vess.One is a heartroot of the very tree that they inhabit. The other is a dark pillar, connecting them with their queen.These shrines are the wood and shade. If my predictions are right... the daggers should react in their presence.",
-    "name": "Wood and Shade",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

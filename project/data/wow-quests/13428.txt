@@ -1,7 +1,0 @@
-{
-    "_id": "13428",
-    "description": "We've recently come extremely close to driving the Stormpike invaders from Alterac Valley.  As a result we're redirecting all our reinforcements to aid the Frostwolf Clan.A decisive victory there would free up the resources we need to crush the Alliance scum on all the other battlefronts.Go, <name>.  Earn great honor by heeding the call of the brave Frostwolf warriors.",
-    "name": "Call to Arms: Alterac Valley",
-    "requires_level": 61,
-    "zone": "Alterac Valley"
-}

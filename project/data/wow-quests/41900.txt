@@ -1,8 +1,0 @@
-{
-    "_id": "41900",
-    "added_in_patch": 7,
-    "description": "Deepholm thanks you, shaman.The Twilight's Hammer has always sought dominion over my kingdom, but this latest threat was far greater than their previous efforts.For your service to the elements of earth, I will pledge my armies to the Earthen Ring in the defense of Azeroth.I have no love for the mortal races, but this world is not the Burning Legion's to destroy.Tell your Earthen Ring that Therazane the Stonemother stands with them!",
-    "name": "A Promise of Earth",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

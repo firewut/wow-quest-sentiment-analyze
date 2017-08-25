@@ -1,8 +1,0 @@
-{
-    "_id": "43749",
-    "added_in_patch": 7,
-    "description": "Sir, my head would be in a book whether I was supported by the Tirisgarde or not... but my means are limited. Learning more about this weapon of yours is critical to the fight against the Legion, I know it.\r\n\r\nIf you want more researchers on the job to turn out results faster, we'll need to supply the resources to keep them going.\r\n\r\nI promise you it will be worth every minute.",
-    "name": "Hitting the Books",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

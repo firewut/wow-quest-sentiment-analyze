@@ -1,8 +1,0 @@
-{
-    "_id": "35439",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Hour of Twilight Quest Reward",
-    "requires_level": 85,
-    "zone": "Quests"
-}

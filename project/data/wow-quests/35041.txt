@@ -1,9 +1,0 @@
-{
-    "_id": "35041",
-    "added_in_patch": 6,
-    "description": "It is done.With this enchantment, not only can you roam amongst the goren freely, but you can move as they do.Your travels through Gorgrond are now made simple. You have safe access to places otherwise impossible to reach.Xuk's ancestors have made it so.",
-    "name": "Xuk It!",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

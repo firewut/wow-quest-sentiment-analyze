@@ -1,8 +1,0 @@
-{
-    "_id": "30637",
-    "added_in_patch": 5,
-    "description": "As you pass by the great door, you hear sounds from deep inside.Anji mentioned that advance mogu scouts had been sighted in this area. Perhaps they made their way down to the depths below.Your senses tingling, you decide to investigate.",
-    "name": "The Guo-Lai Halls",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30172",
-    "added_in_patch": 5,
-    "description": "No, no, no, don't you worry about pickin' 'em up. I can hold these here barrels.I may not be the handsomest pandaren, or the smartest, or any fun to be around in the slightest, but I'm stronger than a mushan beast.I'mma just need you to lead the way.",
-    "name": "Barreling Along",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

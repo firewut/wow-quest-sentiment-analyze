@@ -1,7 +1,0 @@
-{
-    "_id": "10762",
-    "description": "The symbol on the key's handle... it is hard to make it out inside the mold, but I recognize it at the Shattered Hand's own.There is a good chance this key will allow you to enter the Shattered Halls.Speak to Dumphry.  He is a master of his craft.  If he can't craft this key for you, no one can.",
-    "name": "Grand Master Dumphry",
-    "requires_level": 68,
-    "zone": "Hellfire Peninsula"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25332",
-    "description": "<You reach up to unfasten Kristoff's bonds.>Good! Make a break for the exit, and I'll follow.If we get separated, check back here to make sure I haven't been recaptured.",
-    "name": "Get Me Outta Here!",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

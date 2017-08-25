@@ -1,8 +1,0 @@
-{
-    "_id": "35260",
-    "added_in_patch": 6,
-    "description": "Those who were not incinerated at Veil Akraz are forced to help the Adherents excavate the very weapons aimed at their heads.Anyone trying to escape is vaporized by the overseer's Apexis turret.With these effigies, they won't know anyone has left! Place one near an enslaved worker and observe as it creates a perfect copy. It even cloaks the subject in shadow, so they can slip away safely!",
-    "name": "Hardly Working",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

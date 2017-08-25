@@ -1,7 +1,0 @@
-{
-    "_id": "26259",
-    "description": "When Deathwing escaped to Deepholm, his corruption was extreme, but perhaps not yet absolute.The cultists at Deathwing's Fall harvest and shape the corrupted blood he left behind into living organisms to draw from their power.What if a trace of the Earthwarder's essence remains?  After all, Neltharion was the aspect of earth before he was the aspect of death.Gather samples from the living blood the cultists have created and we'll see if any trace of the Earthwarder remains.",
-    "name": "Blood of the Earthwarder",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

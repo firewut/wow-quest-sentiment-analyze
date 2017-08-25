@@ -1,7 +1,0 @@
-{
-    "_id": "8511",
-    "description": "We Stoneflayers have a long history of being skinners, <class>. That's why the Alliance has asked my family to help out with the collection of light leather for the Ahn'Qiraj war effort. I'm here to see to it that the leather is tanned correctly for whatever they want to put it to use for. But we need your help.Since I have to be here doing that, I need you to go out and collect the skins, returning them to me here. What do you say,  lad , will you give it a go?",
-    "name": "The Alliance Needs Light Leather!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

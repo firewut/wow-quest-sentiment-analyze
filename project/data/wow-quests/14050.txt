@@ -1,8 +1,0 @@
-{
-    "_id": "14050",
-    "description": "Sink me, you were right! There's a map tattooed on the skull.That cursed Baron - he buried my treasure right under my nose. Or, above my head, anyway. The map points to a place on the bluffs over Ratchet, to the south.Follow the road west out of the city, get atop the hill, head south, then run back towards the coast and look for an enormous tree overlooking the bay. Fetch my treasure and I'll split it with you!",
-    "name": "Gazlowe's Fortune",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

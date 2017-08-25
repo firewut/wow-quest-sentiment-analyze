@@ -1,7 +1,0 @@
-{
-    "_id": "28814",
-    "description": "The documents detail the arrival of High Priestess Azil to the depths of the Stonecore.Azil is described as a high-ranking member of the Twilight Council.  Additionally, her entourage of over a hundred devout followers is preparing for an unholy ritual of unforeseen darkness.Sounds like an event you need to put a stop to.",
-    "name": "Followers and Leaders",
-    "requires_level": 82,
-    "zone": "Quests"
-}

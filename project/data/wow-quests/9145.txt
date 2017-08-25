@@ -1,7 +1,0 @@
-{
-    "_id": "9145",
-    "description": "<Class>, I can't just sit here waiting for an audience with the high executor or Dame Auriferous! This cannot wait!We were dealing with the Shadowpine trolls of Zeb'Sora to the northeast across Lake Elrendar. But the lieutenant mishandled the attack and we lost a lot of Farstriders. Then he just fell to pieces afterward.  Ranger Valanna sent me here, and Ranger Salissa to the Farstrider Enclave for help.Please find them, <class>. Valanna was badly injured and the lieutenant's useless.",
-    "name": "Help Ranger Valanna!",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

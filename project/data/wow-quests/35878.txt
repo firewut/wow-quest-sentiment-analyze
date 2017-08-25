@@ -1,9 +1,0 @@
-{
-    "_id": "35878",
-    "added_in_patch": 6,
-    "description": "As it turns out, the resonance frequency of the batteries has really upset the local wildlife. I... I think one of the boars looked and me and licked its lips just a moment ago.I'll make it worth your time if you just... get rid of anything you come across down there. Doesn't matter what it is, just kill it, okay?",
-    "name": "Safety Measures",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

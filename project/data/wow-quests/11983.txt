@@ -1,8 +1,0 @@
-{
-    "_id": "11983",
-    "description": "They are ready, <name>. These taunka will all willingly join the Horde and give all that they have to see the Scourge driven from this world.<Brighthoof hands you a scroll bearing the insignia of the Horde.>Within this scroll you will find the blood oath of the Horde. Tradition dictates that our new taunka brothers and sisters utter the sacred words herein.Take the scroll and swear the taunka into the Horde, commander. Return the scroll to me when you have completed your duty.",
-    "name": "Blood Oath of the Horde",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

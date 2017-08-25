@@ -1,7 +1,0 @@
-{
-    "_id": "25031",
-    "description": "The Agamand Mills, to the west, have been lost to the Scourge.  The Agamand family has been slain, and the entire residence has been claimed by the Scourge.This is probably the largest Scourge outpost in Tirisfal, <name>.  If you think you're enough of a <class>, head up there and speak with Coleman Farthing.  He's been doing his best to take the land back, and he'll need help.  Just follow this road, it'll take you right to him.",
-    "name": "Head for the Mills",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35565",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Blood Furnace Reward Quest",
-    "requires_level": 59,
-    "zone": "Quests"
-}

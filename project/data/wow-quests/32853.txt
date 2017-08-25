@@ -1,8 +1,0 @@
-{
-    "_id": "32853",
-    "added_in_patch": 5.3,
-    "description": "You've earned the right to challenge Mingus Diggs, the archaeologist!Mingus isn't that tough, from what I hear... but the people in charge let him bring some of his excavated treasures with him into the brawling ring. Those are what you want to watch out for.Come buy his card when you're ready!",
-    "name": "Mingus Diggs",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26874",
-    "description": "Now that the Fanglords are dead, speak with Muyoh. He will help you awaken Naralex and end this nightmare.",
-    "name": "Awakening Naralex",
-    "requires_level": 16,
-    "zone": "Wailing Caverns"
-}

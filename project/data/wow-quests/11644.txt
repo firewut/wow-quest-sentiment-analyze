@@ -1,8 +1,0 @@
-{
-    "_id": "11644",
-    "description": "I need metal to patch these tanks up! Super strong metal plates can be found scattered about all across Garrosh's Landing and at the bottom of the bay.Just be careful when you're out there searching for plates. The mist is... um... AGGRESSIVE! The mist is what took out the landing and the adjoining tuskarr town. Poor little tuskarr...",
-    "name": "Super Strong Metal Plates!",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

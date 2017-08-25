@@ -1,9 +1,0 @@
-{
-    "_id": "36607",
-    "added_in_patch": 6.1,
-    "description": "Welcome back, sir.\r\n\r\nOne of our shadow hunters delivered a message about a caravan being dispatched for Nagrand. Rokhan's awaiting your approval on a new outpost.\r\n\r\nI've been hearing whispers around camp about Nagrand. They say it's Warsong territory. They might need your help sir.",
-    "name": "News from Nagrand",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

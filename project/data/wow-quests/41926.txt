@@ -1,8 +1,0 @@
-{
-    "_id": "41926",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Returning Champion",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38240",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Raid Active",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

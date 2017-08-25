@@ -1,7 +1,0 @@
-{
-    "_id": "8050",
-    "description": "",
-    "name": "The Eye of Zuldazar",
-    "requires_level": 58,
-    "zone": "Quests"
-}

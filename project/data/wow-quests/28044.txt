@@ -1,7 +1,0 @@
-{
-    "_id": "28044",
-    "description": "I've added a drop of my very own essence to the ooze. Look for a glowing sigil to the west, at the edge of Shadowlurk Ridge. Stand on it, concentrate, and pour this stuff all over yourself. It should be enough to shift you into the nether and let you see what's REALLY there.You won't be alone... the satyr's treasure is being guarded by the biggest voidstalker they could summon. Defeat him, and the treasure is yours.And come back in one piece, or this crazy broad's gonna fry me!",
-    "name": "Touch the Untouchable",
-    "requires_level": 44,
-    "zone": "Felwood"
-}

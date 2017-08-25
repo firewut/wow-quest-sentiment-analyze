@@ -1,7 +1,0 @@
-{
-    "_id": "29659",
-    "description": "I sense that one of my kind's artifacts has been taken and stashed away in the Cache of the Legion.We cannot give them time to discover its power. If you would kill the Gatewatchers and retrieve it for me, I would be most grateful.",
-    "name": "Lost Treasure",
-    "requires_level": 67,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13921",
-    "description": "<A voice from inside the moonwell flows over your mind, bringing you a perfect sense of peace.>You seek to cure a child, but know that all things come at a cost. To the east lies Raynewood Tower. Standing outside the tower, next to my moonwell, is one who has fallen into corruption.Avrus Illwhisper seeks forgiveness and redemption, <name>. Will you help him to attain that which he desires and in so doing achieve your own goal?",
-    "name": "He Who Would Be Forgiven",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

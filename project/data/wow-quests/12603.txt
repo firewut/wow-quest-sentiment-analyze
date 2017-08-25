@@ -1,7 +1,0 @@
-{
-    "_id": "12603",
-    "description": "The primordial drakes occupy most of the area to the north and east, and I can feel the heat of their breath even at this distance. Before we can challenge the mightiest among the drakes, we must test our skills against the lesser creatures.Still, don't let your guard down; any one of these beasts can devour a man whole. Once you've familiarized yourself with the combat tactics of these drakes, return and I will tell you our next step.",
-    "name": "Sharpening Your Talons",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

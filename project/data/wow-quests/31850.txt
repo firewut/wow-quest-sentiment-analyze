@@ -1,9 +1,0 @@
-{
-    "_id": "31850",
-    "added_in_patch": 5,
-    "description": "Ah, so you've braved the woods again to face me in battle. I accept your brazen challenge to my vicious spawn.",
-    "name": "Eric Davidson",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Battle Pets"
-}

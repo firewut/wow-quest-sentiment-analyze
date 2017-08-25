@@ -1,9 +1,0 @@
-{
-    "_id": "39581",
-    "added_in_patch": 6.2,
-    "description": "Demons! Hate 'em!Gul'dan is spinning up more summoning portals with each passing hour. There's only one way to stem the tide, <name>.<Parvink smashes her gauntleted fist against her open palm.>Smash 'em!The Temple of Sha'naar is a good place to start, or head up to the Throne of Kil'jaeden if you're looking for a real challenge.",
-    "name": "Demonslayer of Tanaan",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Tanaan Jungle"
-}

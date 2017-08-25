@@ -1,7 +1,0 @@
-{
-    "_id": "25830",
-    "description": "You have awakened the ancients, <name>, but the wilderness spirit Aessina remains silent. With her help, we can turn the tide of this attack and undo the damage Twilight's Hammer has done.There may be one who can help us. The oldest of the trees, Nordu, stood in the center of what is now the Flamewake for thousands of years. His wisdom is as old as this mountain. If that old tree still lives, perhaps he can awaken Aessina... seek him out.",
-    "name": "The Last Living Lorekeeper",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

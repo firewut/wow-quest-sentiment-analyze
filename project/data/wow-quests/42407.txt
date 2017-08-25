@@ -1,8 +1,0 @@
-{
-    "_id": "42407",
-    "added_in_patch": 7,
-    "description": "By nature, this demon is immune to magic, but it has also been bred to be resistant to physical attacks. It's covered in scales unlike anything I've ever seen; layered and thick. I doubt that most metals will be able to pierce the demon's armor-like hide.Unless your entire army has weapons like yours, I suggest fighting those beasts with something that will exploit their weakness.",
-    "name": "The Nature of the Beast",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42976",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Mage Ch 3 Tracking Quest",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

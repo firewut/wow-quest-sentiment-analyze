@@ -1,8 +1,0 @@
-{
-    "_id": "43014",
-    "added_in_patch": 7,
-    "description": "You've heard of Winstone Wolfe, right? Of course you have. Who hasn't?\r\n\r\nSo, while you were off gabbin' with the headmistress, Lord Ravenholdt graced me with his presence. In the flesh. I didn't think he ever came out of that chamber.\r\n\r\nAnywhoodles, he more than suggested, in that way of his, that we send Garona, Vanessa, and our new merry gang of bandits off to have a little chat with The Wolf at Ravenholdt Manor.\r\n\r\nJust make sure they're nice and civil, or that's the last we'll see of them.",
-    "name": "The Big Bad Wolfe",
-    "requires_level": 101,
-    "zone": "Rogue Campaign"
-}

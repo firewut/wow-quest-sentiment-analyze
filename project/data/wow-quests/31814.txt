@@ -1,9 +1,0 @@
-{
-    "_id": "31814",
-    "added_in_patch": 5,
-    "description": "Determination is naught without proper challenge.Find Analynn wandering the roads in western Ashenvale. She is a bit...eccentric...but a fine trainer nonetheless! Fighting her will harden your team.",
-    "name": "Analynn",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Battle Pets"
-}

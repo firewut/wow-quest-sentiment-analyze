@@ -1,8 +1,0 @@
-{
-    "_id": "40991",
-    "added_in_patch": 7,
-    "description": "I can cook, but I can't really hunt... or even fish, for that matter.If you bring me ingredients, however, I will use them to research new recipes for you.We can start with the few fish I managed to scrounge up. You'll find them in the barrel in the back of the kitchen.",
-    "name": "Opening the Test Kitchen",
-    "requires_level": 98,
-    "zone": "Cooking"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42694",
-    "added_in_patch": 7,
-    "description": "<Olothil sighs.>My sister tries my patience sometimes.No matter. I've identified a few locations that our parents might be. I shall search in this area with Kallistia. You've already helped us so much... would you help us look to the east?You can use my scrying orb to see the locations that our ritual has uncovered.",
-    "name": "Back from the Dead",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

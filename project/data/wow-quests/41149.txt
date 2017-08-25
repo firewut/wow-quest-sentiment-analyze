@@ -1,8 +1,0 @@
-{
-    "_id": "41149",
-    "added_in_patch": 7,
-    "description": "<This small device of elegant nightborne design crackles gently with arcane power.\r\n\r\nKel'danath's notes mention wards that keep the withered at bay. It seems he found some form of spellcasting that does not tempt their ravenous appetite for magic.\r\n\r\nThese may prove useful in your search for the missing arcanist.>",
-    "name": "A Re-Warding Effort",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

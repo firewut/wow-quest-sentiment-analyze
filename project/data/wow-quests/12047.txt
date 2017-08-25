@@ -1,7 +1,0 @@
-{
-    "_id": "12047",
-    "description": "No no no! Those ice shards didn't work at all! They'll melt before they even do any damage. That's the last time I'll trust Narf's word on materials. This means we need something else entirely for the shrapnel.I know! I'm brilliant. Bone splinters.There are some bones all around here that the jormungar have been gnawing on pretty thoroughly. Go check them out and see if you can find me some splintered bone that I can use.",
-    "name": "Something That Doesn't Melt",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

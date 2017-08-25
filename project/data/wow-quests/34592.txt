@@ -1,9 +1,0 @@
-{
-    "_id": "34592",
-    "added_in_patch": 6,
-    "description": "It's gonna be quite a task to build you a fortress if there's gronnlings rampaging around.\r\n\r\nI don't think anyone else here can handle taking those big beasts out, so you might need to take care of it yourself.",
-    "name": "A Gronnling Problem",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27882",
-    "description": "The Explorers' League may have a yeoman's knowledge of the actual act of digging.  What they lack, however, is the good sense to USE the artifacts that they dig up.  They stow their treasures in stagnant museums instead of using these items of power for their true purpose.The dwarves are fools.  Fortunately, they die easily.You'll find them digging into canyon walls north of here.  Take whatever you can out of their stubby-fingered hands, then return it to me.",
-    "name": "It's Not About History, It's About Power",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

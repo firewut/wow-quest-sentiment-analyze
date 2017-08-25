@@ -1,8 +1,0 @@
-{
-    "_id": "30617",
-    "added_in_patch": 5,
-    "description": "A luckydo remembers to bring incense on a journey in to the mountains. The smellier the luck the better.Can you journey up the road to One Keg and light the incense you find along the way?This will give good fortune to grummles that must travel the road.Brother Lintpocket can give you many rewards. Speak to him when you arrive.",
-    "name": "Roadside Assistance",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

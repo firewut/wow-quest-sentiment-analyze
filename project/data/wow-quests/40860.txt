@@ -1,8 +1,0 @@
-{
-    "_id": "40860",
-    "added_in_patch": 7,
-    "description": "<name>, I need you to make a delivery for me.Flintlocke's sent word from Val'sharah stating that they're out of bullets.I sent him down there with enough ammo to cut the planet in half, but Flintlocke goes through ammunition the way you or I go through... air. Go help him out!",
-    "name": "Resupplying the Line",
-    "requires_level": 102,
-    "zone": "Engineering"
-}

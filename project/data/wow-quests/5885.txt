@@ -1,7 +1,0 @@
-{
-    "_id": "5885",
-    "description": "",
-    "name": "Salve via Skinning",
-    "requires_level": 48,
-    "zone": "Felwood"
-}

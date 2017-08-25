@@ -1,7 +1,0 @@
-{
-    "_id": "13191",
-    "description": "Lok'tar, <name>! While the battle may be over, we must prepare for the Alliance's next assault! Travel to the Cauldron of Flames in south eastern Wintergrasp and retrieve ten eternal embers.The embers are mixed in with coal to fuel the Demolishers and Siege Engines. We've heard reports of Alliance pigs collecting the embers all day. Slay them and take their embers! If they have already abandoned the area, then be prepared to fight the fire elementals there until you find some!",
-    "name": "Fueling the Demolishers",
-    "requires_level": 75,
-    "zone": "Wintergrasp"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26247",
-    "description": "The Earthen Ring is a neutral organization, <name>.  We cannot pick sides in the war between the Horde and the Alliance.Look around you -- our members come from all backgrounds.  Our mission would be compromised should racial tensions be put above our goal.  Let's try to keep this under wraps until we have more information.We must not jump to conclusions just yet.  I'll send you and one of our new members to look for the Alliance gunship.Find out what you can without dragging us into the conflict.",
-    "name": "Diplomacy First",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

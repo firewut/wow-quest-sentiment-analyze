@@ -1,7 +1,0 @@
-{
-    "_id": "9837",
-    "description": "I seem to have memories about future events surrounding you and this key.<Medivh looks at you like he's just seen a ghost.>You have trying times ahead of you, <name>.  Let us hope your strength does not fail you.Regarding the key, I am to hand it to Khadgar when he's sent to me.  I couldn't hope for a better apprentice.I suppose you will need a key of your own.<Medivh reaches into his robe and hands you his own key.>Go on then.  And best of luck, <class>.",
-    "name": "Return to Khadgar",
-    "requires_level": 68,
-    "zone": "Shattrath City"
-}

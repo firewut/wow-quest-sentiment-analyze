@@ -1,8 +1,0 @@
-{
-    "_id": "28496",
-    "description": "All able-bodied members of the Horde are hereby ordered to report to Ag'tor Bloodfist at the Orgrimmar Rear Gate in Azshara.Aid in driving back the encroaching Alliance forces and assist in securing Azshara for the glory of the Horde!Depart Orgrimmar through its northern gate to reach the Orgrimmar Rear Gate in Azshara.Destiny calls!",
-    "name": "Warchief's Command: Azshara!",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Azshara"
-}

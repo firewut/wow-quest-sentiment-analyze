@@ -1,8 +1,0 @@
-{
-    "_id": "43151",
-    "added_in_patch": 7,
-    "description": "Yes I do have Amaranthine Hops, but they took me quite some time to gather. I cannot part with them easily.However, I'd be willing to trade them for Stonehide Leather.If you come upon any, bring it to me and we can make a trade.",
-    "name": "Making A Trade",
-    "requires_level": 110,
-    "zone": "Monk Campaign"
-}

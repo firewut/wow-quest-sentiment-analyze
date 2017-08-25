@@ -1,8 +1,0 @@
-{
-    "_id": "9404",
-    "description": "You may have noticed the walking trees near Elrendar Falls.  As the keepers of nature, they are infused with a primal magic we can reform to our own purposes using the pure water you have already brought to me.Unfortunately, the green keepers are gnarled and twisted creatures, so you may need to kill a few before you find a useable branch.",
-    "name": "Recently Living",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Mage"
-}

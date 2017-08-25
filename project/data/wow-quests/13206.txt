@@ -1,8 +1,0 @@
-{
-    "_id": "13206",
-    "description": "We must discover the secret to these savages' weapons!If you'd have seen how easily they cut through my companions, you'd understand my sense of urgency.Scour the place. Gather all of their arms that you can carry.",
-    "name": "Disarmament",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Quests"
-}

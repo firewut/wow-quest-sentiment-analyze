@@ -1,7 +1,0 @@
-{
-    "_id": "8889",
-    "description": "As you may know, Magister Duskwither sent me back here to shut down the power sources that feed the Spire. There are three of them, each located in a different place inside.Unfortunately, I appear to be too late, and Duskwither Spire has been overrun with strange, magical creatures. While I haven't the expertise to accomplish this task, surely a <class>, such as yourself, could do so easily?",
-    "name": "Deactivating the Spire",
-    "requires_level": 8,
-    "zone": "Eversong Woods"
-}

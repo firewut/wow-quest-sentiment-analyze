@@ -1,7 +1,0 @@
-{
-    "_id": "13599",
-    "description": "With the binding complete, the blessing has taken hold. It will most certainly make your travels in these lands easier.Grimclaw made a full recovery. Before I could do anything to stop him, he bolted off towards Lor'danel. I suppose that means it's time for your departure.It was a great pleasure to have met you. For now, farewell - send my best wishes to Volcor and Grimclaw.",
-    "name": "Grimclaw's Return",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

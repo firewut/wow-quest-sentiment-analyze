@@ -1,7 +1,0 @@
-{
-    "_id": "5887",
-    "description": "",
-    "name": "Salve via Hunting",
-    "requires_level": 48,
-    "zone": "Felwood"
-}

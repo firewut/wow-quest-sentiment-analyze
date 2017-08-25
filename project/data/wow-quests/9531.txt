@@ -1,7 +1,0 @@
-{
-    "_id": "9531",
-    "description": "According to the plans, the traitor and the leader of the goblins, Geezle, are to meet at a cove on the western island. I need you to be at that meeting, <name>.Remember the tree and leaves? You're going to wear them! It's a perfect disguise.Go to the cove and look for a naga flag. If the flag is there, it means a meeting is planned. Use the disguise kit when you see the flag and wait. Eventually the traitor will show up. Let the meeting finish then return to me with the identity of the scoundrel.",
-    "name": "Tree's Company",
-    "requires_level": 5,
-    "zone": "Azuremyst Isle"
-}

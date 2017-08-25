@@ -1,7 +1,0 @@
-{
-    "_id": "29318",
-    "description": "One of my responsibilities is to feed the sentinels of Darnassus while they're on duty. It's a time-consuming task, but one I'm happy to undertake. It's also a great way to practice your skills. Would you mind helping me with today's meal? Simply take these ribs, cook them near a stove or fire, and distribute them to sentinels throughout the city.",
-    "name": "Ribs for the Sentinels",
-    "requires_level": 10,
-    "zone": "Cooking"
-}

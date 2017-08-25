@@ -1,7 +1,0 @@
-{
-    "_id": "12238",
-    "description": "Drak'Tharon soon be cleansed of them foul undead and restored to her noble purpose. In return for your help, the keep's most valuable treasures be yours, mon!Once ya be reachin' its top, ya must summon me, and I'll perform the ritual.Alas, my summonin' will be comin' at a cost. Ya must collect mojo from the survivors.",
-    "name": "Cleansing Drak'Tharon",
-    "requires_level": 72,
-    "zone": "Drak'Tharon Keep"
-}

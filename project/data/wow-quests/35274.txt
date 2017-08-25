@@ -1,9 +1,0 @@
-{
-    "_id": "35274",
-    "added_in_patch": 6,
-    "description": "These wretched creatures captured me while I was scouting the area. Now that you're here, commander, we could really use your help back at base.Oh, and any way you could convince your... friends... to let me go?They, uh... won't let me leave.",
-    "name": "One of Our Own",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

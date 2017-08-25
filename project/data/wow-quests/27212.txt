@@ -1,7 +1,0 @@
-{
-    "_id": "27212",
-    "description": "I've altered the leaflets you captured from the deserters' mercenary friends at the docks. Now, anyone who reads them will get an entirely different view of the deserters and their aims.If we distribute these to enough of the guards, the deserters will be too embarrassed to ever reestablish their presence within our walls.<Calia hands you a stack of the altered leaflets.>Why don't you get started while I plan our next move?",
-    "name": "Discrediting the Deserters",
-    "requires_level": 34,
-    "zone": "Dustwallow Marsh"
-}

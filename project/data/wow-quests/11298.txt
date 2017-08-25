@@ -1,7 +1,0 @@
-{
-    "_id": "11298",
-    "description": "To the southeast is an area called Whisper Gulch. It's overrun with members of the Explorers' League who've gone mad! They attacked our caravan as it passed through the area, and they've harried our foraging parties as well.I must know what's causing this madness! I suspect that whatever they're drinking from the kegs scattered around the gulch contributes to their insanity. I want you to steal the kegs from those dwarves while they're busy mining away.",
-    "name": "What's in That Brew?",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

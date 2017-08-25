@@ -1,8 +1,0 @@
-{
-    "_id": "43324",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Rage of the Owlbeasts",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

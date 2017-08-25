@@ -1,7 +1,0 @@
-{
-    "_id": "11876",
-    "description": "They're majestic beasts, aren't they?<Lathorius points towards the mammoths of the northern tundra.>With each passing day their numbers diminish. Demons that call themselves hunters slay the beasts for sport and riches.<Lathorius' face contorts with anger.>It's the whimpers that drive me to madness, <name>. You can hear them, carried by the wind. The mammoth calves, trapped in the hunters' vile traps, call out to us.Take this hammer and smash those traps. Free the calves!",
-    "name": "Help Those That Cannot Help Themselves",
-    "requires_level": 70,
-    "zone": "Borean Tundra"
-}

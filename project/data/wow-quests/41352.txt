@@ -1,8 +1,0 @@
-{
-    "_id": "41352",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Felslate Basilisks",
-    "requires_level": 110,
-    "zone": "Mining"
-}

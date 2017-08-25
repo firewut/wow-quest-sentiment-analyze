@@ -1,7 +1,0 @@
-{
-    "_id": "10007",
-    "description": "Knowing Thander and Bertelm, they won't tolerate such a large buildup of hostile forces on our doorstep. Asking them to dispatch members of the garrison to participate in an attack on the camp isn't an option either. It would just leave us too vulnerable to attack.It falls to us to do what we can to diminish the threat the fel orc buildup poses. Kill what you can of their forces and I will look for ways to stall any reinforcements.",
-    "name": "Thinning the Ranks",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

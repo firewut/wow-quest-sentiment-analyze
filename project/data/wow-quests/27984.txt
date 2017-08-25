@@ -1,7 +1,0 @@
-{
-    "_id": "27984",
-    "description": "Will you assist me, mortal? Hear my tale.",
-    "name": "Lunthistle's Tale",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

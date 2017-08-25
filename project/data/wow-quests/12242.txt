@@ -1,7 +1,0 @@
-{
-    "_id": "12242",
-    "description": "We must make sure that Vordrassil is never regrown.  The furbolg must have harvested its seed.Go to Grizzlemaw, in central Grizzly Hills, and obtain all the seeds that you can find.  I will make sure they're properly destroyed.",
-    "name": "Vordrassil's Seeds",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

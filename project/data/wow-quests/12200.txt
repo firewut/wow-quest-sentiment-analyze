@@ -1,8 +1,0 @@
-{
-    "_id": "12200",
-    "description": "With an inert specimen of the blight compound complete and the activating agent in hand there only remains a need for a suitable shell to house the components.Southwest of here, on the shores of central Dragonblight, is where you will find the Emerald Dragonshrine. Within the shrine you will find the hardened remnants of a green dragon's tear drop. I don't know the whole story, but apparently they cry a lot right before they die. Go figure.Go to the Emerald Dragonshrine and gather tears.",
-    "name": "Emerald Dragon Tears",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

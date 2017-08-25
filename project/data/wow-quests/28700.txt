@@ -1,7 +1,0 @@
-{
-    "_id": "28700",
-    "description": "There is only one way for us to take Largo's Overlook back.I think you know what we need to do <name>.  Largo is pretty paranoid these days so you should be able to find him on top of the tower, looking for his imaginary navy to finally arrive.",
-    "name": "Taking the Overlook Back",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

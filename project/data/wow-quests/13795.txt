@@ -1,7 +1,0 @@
-{
-    "_id": "13795",
-    "description": "The leader of the Knights of the Ebon Blade delegation has asked to speak you, <class>. Crok Scourgebane is as fearsome a combatant as they come and I have no doubt he'll have much to ask of you.The Knights of the Ebon Blade have made camp on the north side of the tournament grounds, west of the tent housing the Alliance delegations.",
-    "name": "The Scourgebane",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

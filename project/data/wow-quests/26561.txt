@@ -1,7 +1,0 @@
-{
-    "_id": "26561",
-    "description": "Krakauer is up on the chopping block as we speak! The orcs brought in a Gurubashi witch doctor to perform a dark ritual on him. We need to kill that troll to free Krakauer!Let's go! He's just inside the cave here. Hang a right at the first fork.",
-    "name": "Krakauer",
-    "requires_level": 15,
-    "zone": "Redridge Mountains"
-}

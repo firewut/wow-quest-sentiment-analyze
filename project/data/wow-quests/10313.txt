@@ -1,7 +1,0 @@
-{
-    "_id": "10313",
-    "description": "If our instincts are right and these manaforges have been made using technology from Tempest Keep, then all of Outland could be in grave danger.Tempest Keep's energy-recharging mechanisms were never supposed to be used this close to the land.  The warp energies are capable of destroying this very land, even when contained within Kael's pipelines.Take this orb to Manaforge B'naar; it is attuned to measure warp energies.  Use it at the pipelines' ends, where they go into the earth.",
-    "name": "Measuring Warp Energies",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

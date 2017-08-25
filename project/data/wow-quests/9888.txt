@@ -1,8 +1,0 @@
-{
-    "_id": "9888",
-    "description": "I have escaped certain death, surviving a cowardly nighttime attack by Boulderfist ogres upon my village.But I ask you, stranger: For what?<Jorin points to Garrosh.>He has refused to give us assistance. Ogres are rampaging through my town and he sits here, weeping into a fire. What has become of us? What will become of us?I've sent a scout, Kilrath, to the village, now the Bleeding Hollow Ruins. Will you find him and give him your assistance? He hides on the border of Nagrand and Terokkar.",
-    "name": "The Impotent Leader",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Terokkar Forest"
-}

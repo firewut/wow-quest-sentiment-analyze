@@ -1,7 +1,0 @@
-{
-    "_id": "36773",
-    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in your Garrison.",
-    "name": "Pristine Decree Scrolls",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

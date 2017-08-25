@@ -1,8 +1,0 @@
-{
-    "_id": "32009",
-    "added_in_patch": 5,
-    "description": "Lok'tar, <name>. My name is Varzok. I have heard much your accomplishments as a tamer recently, and I would like to introduce you to trainers around Azeroth so that you may further hone your skills.Please speak with me in Orgrimmar so that we may begin.",
-    "name": "Varzok",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

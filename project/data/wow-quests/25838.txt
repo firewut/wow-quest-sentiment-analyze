@@ -1,8 +1,0 @@
-{
-    "_id": "25838",
-    "description": "With your help, we've managed to push toward Frostmane Retreat. Our forces will soon be in position to dwindle down the Frostmane trolls' reserves, leaving their village open to attack.That's where the Gnomeregan covert ops team comes in. Their technicians have figured out a way to deploy operatives behind enemy lines without alerting the Frostmanes to our presence. Head to Steelgrill's Depot, just northeast of town, and speak with Delber Cranktoggle. He'll tell you more about it.",
-    "name": "Help from Steelgrill's Depot",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

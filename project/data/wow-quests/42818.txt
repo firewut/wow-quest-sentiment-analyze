@@ -1,8 +1,0 @@
-{
-    "_id": "42818",
-    "added_in_patch": 7,
-    "description": "The High Inquisitor of the Scarlet Crusade?!You will not find High Inquisitor Whitemane listed in the annals of history alongside the names of fallen heroes.Still... despite her madness and zealotry she held a bond to the Light unmatched by even the greatest paladins.There are few scarlet crusaders left on this world, but Scarlet Monastery is far from abandoned. The monastery now houses the most zealous and crazed crusaders the order has left.Success will require a full blown assault.",
-    "name": "The Scarlet Assault",
-    "requires_level": 110,
-    "zone": "Death Knight Campaign"
-}

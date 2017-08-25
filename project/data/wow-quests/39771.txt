@@ -1,8 +1,0 @@
-{
-    "_id": "39771",
-    "added_in_patch": 7,
-    "description": "The White Tiger has prepared a series of challenges for everyone who wants to possess the weapons of the storm.Now you know of their power - these are the very artifacts that Ra-den himself wielded during the age of the Titans.Come! I have led arena teams to victory across three continents. With me in your corner, you cannot lose!",
-    "name": "The Voice of Thunder",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

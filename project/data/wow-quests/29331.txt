@@ -1,7 +1,0 @@
-{
-    "_id": "29331",
-    "description": "Before he passed through the portal to Mount Hyjal, Thrall asked you to follow him. There is something he would like you to witness.",
-    "name": "Elemental Bonds: The Vow",
-    "requires_level": 85,
-    "zone": "Quests"
-}

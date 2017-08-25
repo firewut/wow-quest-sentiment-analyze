@@ -1,8 +1,0 @@
-{
-    "_id": "37504",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Draenor Challenge Mode - Silver Addition (1st)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

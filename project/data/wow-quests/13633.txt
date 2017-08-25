@@ -1,7 +1,0 @@
-{
-    "_id": "13633",
-    "description": "No doubt you've heard the disturbing rumors about the contestant the others are calling the Black Knight. It's said that any rider who was scheduled to face him in combat has met an untimely end.Of course, we have no definitive proof of anything, but it wouldn't hurt to look into this knight's background.He claims to be descended from the Cooper family of Westfall. Would you visit their residence in the western part of Moonbrook in Westfall? See if you can find any proof of his story.",
-    "name": "The Black Knight of Westfall?",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

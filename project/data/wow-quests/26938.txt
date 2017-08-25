@@ -1,7 +1,0 @@
-{
-    "_id": "26938",
-    "description": "A val'kyr's only purpose is to serve, and this one serves you.  I am now giving you full control over her abilities, <name>.Roaming around the farm's outskirts, you should find several of the Forsaken that you just created.  I want you to use your val'kyr to gather at least five of them.  Once you have done so, take your newly-formed band of soldiers, bring them into Felstone's barn, and kill the beast inside.  Today, they will learn what it means to fight for the Dark Lady.",
-    "name": "Combat Training",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

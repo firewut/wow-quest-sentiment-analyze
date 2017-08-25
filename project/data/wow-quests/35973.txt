@@ -1,8 +1,0 @@
-{
-    "_id": "35973",
-    "added_in_patch": 6,
-    "description": "I'm almost done here, but I can't leave in good conscience.I spotted an ogron named Brokyo that is wearing a priceless ring. Priceless as in crazy expensive.I'm sure Nixxie will give me a promotion if I bring that ring back to her.",
-    "name": "Brokyo Beatdown",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

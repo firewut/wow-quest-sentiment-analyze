@@ -1,7 +1,0 @@
-{
-    "_id": "9277",
-    "description": "Time for something a little more challenging. Zeb'Nowa, to the south, is where the more powerful Shadowpine trolls make their home. In our continuing effort to keep the troll numbers to a minimum I'm dispatching you to go down there and assail them by whatever means you have at your disposal.What do you say, <name>? Ready to deal with some more trolls?",
-    "name": "Assault on Zeb'Nowa",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

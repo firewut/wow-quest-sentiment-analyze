@@ -1,9 +1,0 @@
-{
-    "_id": "34706",
-    "added_in_patch": 6,
-    "description": "Your work is done here, <name>. I will stay here for now and help clean up any remaining demons.You should return to your outpost and let Dranarus know of our success. He can relay that information to Azeroth.",
-    "name": "Come Together",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

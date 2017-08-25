@@ -1,7 +1,0 @@
-{
-    "_id": "26121",
-    "description": "You are seeink spies up above?  This is not good... not good at all, comrade.Return to Korthun's End and destroy them, my friend.",
-    "name": "Claim Korthun's End",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

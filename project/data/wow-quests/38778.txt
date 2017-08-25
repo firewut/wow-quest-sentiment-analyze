@@ -1,8 +1,0 @@
-{
-    "_id": "38778",
-    "added_in_patch": 7,
-    "description": "My roots wither... my branches die...\r\n\r\nThe Bonespeakers, they seek to silence the Runewood.  The runestones are the key...\r\n\r\nTurn the stones... release my bonds...",
-    "name": "Turn the Keys",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

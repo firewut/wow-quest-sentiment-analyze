@@ -1,9 +1,0 @@
-{
-    "_id": "35460",
-    "added_in_patch": 6,
-    "description": "We received reports of the Dark Portal turning red right before the attack. They call themselves the Iron Horde, yet they seem to have no affiliation with the Horde we know.Their army is extremely well equipped, and their numbers appear to be unending.They have already taken Nethergarde Keep. Our troops on the frontlines could use your help, <class>.",
-    "name": "Attack of the Iron Horde",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

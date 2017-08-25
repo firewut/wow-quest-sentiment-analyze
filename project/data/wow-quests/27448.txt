@@ -1,7 +1,0 @@
-{
-    "_id": "27448",
-    "description": "I believe the horses are ready.  Argus Highbeacon, the gentleman who works with the Argent Crusade, spoke with me earlier.  I understand he will be coming with us... that's great!  I'll make room for him.I know that you are busy, so there's no hurry.  Whenever you're ready, hop into the caravan, and we will proceed to the next tower.",
-    "name": "The Trek Continues",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

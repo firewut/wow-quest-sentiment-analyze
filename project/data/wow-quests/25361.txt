@@ -1,7 +1,0 @@
-{
-    "_id": "25361",
-    "description": "Well met, <class>. I've traveled with my companions down to Feralas on a mission for our Orgrimmar masters.My life-mate Korrin finds great pleasure in new clothing, so I aim to make her a new cloak adorned with the gossamer wings of faerie dragons. Would you be able to help me? Sprite darters with the gorgeous wings I want are west of Camp Mojache.",
-    "name": "A New Cloak's Sheen",
-    "requires_level": 36,
-    "zone": "Feralas"
-}

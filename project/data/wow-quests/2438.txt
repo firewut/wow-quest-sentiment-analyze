@@ -1,8 +1,0 @@
-{
-    "_id": "2438",
-    "description": "I was once given an emerald dreamcatcher from Gaerolas Talvethen, the warden of the druids in the Ban'ethil Barrow Den. This powerful amulet is able to siphon energy from the Emerald Dream, bestowing luck upon those who carry it.Sadly, I have not been able to retrieve it from my dresser in Starbreeze Village... Although Starbreeze was once a tranquil place, it has now succumbed to the corruption of the furbolg that reside there.Perhaps you would be willing to recover my dreamcatcher, <class>? ",
-    "name": "The Emerald Dreamcatcher",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

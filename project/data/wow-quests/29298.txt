@@ -1,7 +1,0 @@
-{
-    "_id": "29298",
-    "description": "This locket has a few small leaf-shaped carvings etched into its face, but any other details have been rubbed away with time, or burned away with fire. It appears to be druidic in nature.Most druids pass through Moonglade during their training. If anybody can help you decipher where this locket came from, it would be Rabine Saturna of Nighthaven.",
-    "name": "A Smoke-Stained Locket",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

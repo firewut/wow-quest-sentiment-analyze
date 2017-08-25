@@ -1,7 +1,0 @@
-{
-    "_id": "29293",
-    "description": "Many of our Storm Crows have gone ahead to scout the peak and attempt to retrieve some of the fire hawk eggs, but to very little success I'm afraid. The thermals make it nearly impossible to fly safely, and the fire hawks aren't exactly friendly either.I need you to head over there and rescue any druids that you can. I've got splints, bandages, burn salves, smelling salts... anything you'll need to get them back on their feet, assuming they're still alive. Please hurry and help anyone you can find.",
-    "name": "Singed Wings",
-    "requires_level": 85,
-    "zone": "Quests"
-}

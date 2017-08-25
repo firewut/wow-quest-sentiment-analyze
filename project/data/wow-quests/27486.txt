@@ -1,7 +1,0 @@
-{
-    "_id": "27486",
-    "description": "Good. You're back. Saving the world again I assume.I was dispatched to establish relations with the red dragons in the area, but I'm finding this bunch somewhat less accommodating than the ones at Wyrmrest were. I have, however, been told that you are the type that solves problems.A problem solver as it were.I need you to gain the trust of Lirastrasza at Vermillion Redoubt to the southwest. Our association with the Dragonmaw has complicated things, but I'm hoping you can ease relations.",
-    "name": "Warm Welcome",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

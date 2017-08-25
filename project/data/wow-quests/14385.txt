@@ -1,8 +1,0 @@
-{
-    "_id": "14385",
-    "description": "Well, I can think of one surefire way to send a giant running to the bathroom, but you're not going to like it. What we need is a ... massive ... laxative. Oh hey! Would you believe the gnomes have something of the sort? That can't be a coincidence. I wonder what they're trying to push through over there?Our intelligence reports that the laxative was delivered to Gadgetspring's tower, down on the shoreline south of the Secret Lab. Retrieve that laxative and feed it to Gormungan!",
-    "name": "Azsharite Experiment Number One",
-    "requires_level": 11,
-    "side": "horde",
-    "zone": "Azshara"
-}

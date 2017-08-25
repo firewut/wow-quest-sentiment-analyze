@@ -1,8 +1,0 @@
-{
-    "_id": "9923",
-    "description": "HELP! They're gonna eat me! I just know it!Find the key, I know it has to be on one of these ogres.If you get me out of here, my father will reward you handsomely! He's the leader of Telaar, Arechron.\r\n",
-    "name": "HELP!",
-    "requires_level": 64,
-    "side": "alliance",
-    "zone": "Nagrand (Outland)"
-}

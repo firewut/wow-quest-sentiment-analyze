@@ -1,9 +1,0 @@
-{
-    "_id": "29933",
-    "added_in_patch": 5,
-    "description": "You really hozen friend, wikket? Let's see, hmm?Hozen at Grookin' Hill all outta slicky bait. Tigerflies' legs stay twitchy in water - make best bait!Bo Bo sick from stings. Wikket get bait and take to Grookin.",
-    "name": "The Bees' Knees",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

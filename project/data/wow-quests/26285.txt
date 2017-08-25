@@ -1,8 +1,0 @@
-{
-    "_id": "26285",
-    "description": "It's gonna take a lot of powder ta collapse those caves. I don't know whether th' damnable troggs understood that when they stole me supplies and kidnapped me demolitionists! But th' outcome's th' same.Ain't gonna be able ta blow nothin' up until I've got that powder back.Go south to Frostmane Hold and kill any o' those troggs you find. Any one o' 'em could be carryin' me kegs o' powder.",
-    "name": "Get Me Explosives Back!",
-    "requires_level": 2,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

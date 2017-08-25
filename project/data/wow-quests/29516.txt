@@ -1,7 +1,0 @@
-{
-    "_id": "29516",
-    "description": "The Darkmoon Faire's performers and animals go through more jewelry than I'd ever imagined. Thankfully, the gems are just cut glass, but someone has to craft all of it.If you've some skill as a jewelcrafter, perhaps you'd be willing to help craft some of the sparkling glass gems for our performers.Sometimes you can find odd and amazing bits of glass around the grounds. Those make stunning gems when cut by someone with an eye for this craft.",
-    "name": "Keeping the Faire Sparkling",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12981",
-    "description": "As you stare at the anvil you relive your recent accomplishments, particularly those which brought this artifact to rest here.It suddenly occurs to you that more remains to be done. To the east, smoldering scraps clutter the landscape - shrapnel from the battle fought there.If they could be cooled and gathered somehow, the frost giants would have an abundant supply of metal and the region would be cleared of these remnants of war.",
-    "name": "Hot and Cold",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

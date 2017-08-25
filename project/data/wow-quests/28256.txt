@@ -1,7 +1,0 @@
-{
-    "_id": "28256",
-    "description": "Illidan set out to find the Skull of Gul'dan. He fought through armies of demons to reach it, slaying them with the power that made him a hated outcast.See him in battle, <class>. Witness the one that fought the fiercest against the corruptors of Felwood, and struck at its source.",
-    "name": "The Skull of Gul'dan",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32348",
-    "added_in_patch": 5.1,
-    "description": "The Alliance may think they have a stranglehold on the ruins, given that their base of operations is close.\r\n\r\nWe're going to disabuse them of that notion. Go take out some of their guards.",
-    "name": "Kick 'em While They're Down",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

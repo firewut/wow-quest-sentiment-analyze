@@ -1,8 +1,0 @@
-{
-    "_id": "39733",
-    "added_in_patch": 7,
-    "description": "Our sources tell us that a Highmountain tauren emissary has recently arrived in Dalaran. We don't know his intentions, but his people could be an invaluable contact in the region.Khadgar is greeting the emissary at Krasus' Landing in Dalaran - you should seek him out.The Kirin Tor mages have created a permanent portal for us that can take you to the city quickly.",
-    "name": "The Lone Mountain",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

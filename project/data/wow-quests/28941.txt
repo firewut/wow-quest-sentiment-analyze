@@ -1,7 +1,0 @@
-{
-    "_id": "28941",
-    "description": "tbd",
-    "name": "Transformation",
-    "requires_level": 28,
-    "zone": "Arathi Highlands"
-}

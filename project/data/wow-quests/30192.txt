@@ -1,8 +1,0 @@
-{
-    "_id": "30192",
-    "added_in_patch": 5,
-    "description": "I don't know if you noticed, but my town is burning...The sprites have started kicking the braziers! They're going to set fire to the whole town!Please help us! Stamp out any fires you see!",
-    "name": "My Town, It's on Fire",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

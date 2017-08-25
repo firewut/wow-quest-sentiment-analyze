@@ -1,8 +1,0 @@
-{
-    "_id": "9848",
-    "description": "Bugs, bugs, bugs! The marsh is full of them and my companions here seem obsessed with them.Well, I've had it with the bugs! Something far more intriguing has captured my interest. To the west, there is a village of Lost Ones who call themselves the Daggerfen.The whole tribe consists of highly specialized assassins. I've noticed them mixing and using a particularly potent kind of poison. I'm dying to know more about the poison, but that's going to require a copy of the recipe and a sample vial.",
-    "name": "Secrets of the Daggerfen",
-    "requires_level": 62,
-    "side": "alliance",
-    "zone": "Zangarmarsh"
-}

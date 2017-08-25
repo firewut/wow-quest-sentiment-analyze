@@ -1,8 +1,0 @@
-{
-    "_id": "30971",
-    "added_in_patch": 5,
-    "description": "I was dispatched back to camp to gather pitch-tipped arrows for our archers at the bridge, and this is what I came to. I trained with most of these pandaren... I wasn't prepared for this.Still, the archers at the bridge need our help. If you could help gather arrows from the wreckage, then maybe we can salvage something from this horror.",
-    "name": "Taking Stock",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

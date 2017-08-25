@@ -1,7 +1,0 @@
-{
-    "_id": "28568",
-    "description": "All able-bodied members of the Horde are hereby ordered to report to Grand Executor Mortuus at Forsaken High Command in Silverpine Forest.Now, more than ever, your help is needed in routing the enemy infestation of the region and conquering the port of Gilneas!To reach Forsaken High Command you must travel south through Tirisfal Glades and enter Silverpine Forest. From there, follow the road south until you reach Forsaken High Command. Destiny calls!",
-    "name": "Warchief's Command: Silverpine Forest!",
-    "requires_level": 9,
-    "zone": "Silverpine Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8609",
-    "description": "It appears inevitable that the Horde and Alliance are on a collision course for war at Ahn'Qiraj. Surprisingly, it is not a war with each other, but rather with the silithid, and whatever force controls them. Also surprisingly, both sides are doing their part to gather the resources necessary to wage a successful war.I am collecting runecloth bandages to distribute to the soldiers, but I won't be successful without assistance, hopefully yours. Is this something that you can aid me with, <class>?\r\n",
-    "name": "The Horde Needs Runecloth Bandages!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12466",
-    "description": "You need to get to the 7th Legion Front in northern Dragonblight. Return to Wintergarde Keep and take the north gate out of town. Keep north until you hit a road. Take a left on that road and follow it until you reach the snowline. Once at the snowline keep heading west until you hit the Path of the Titans. Follow that north and it'll lead you right into the 7th Legion Front.Once there, speak with Legion Commander Tyralion. He'll be expecting you.And <name> - it has been a pleasure. Farewell.",
-    "name": "Chasing Icestorm: The 7th Legion Front",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

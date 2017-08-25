@@ -1,8 +1,0 @@
-{
-    "_id": "34440",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "FLAG: Khadgar out of Portal",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28815",
-    "description": "We've tailed one of the Twilight's Hammer operatives here.  He goes by the name of Millhouse Manastorm.We have reason to believe he's carrying important documents.This is as far as we can safely go, however, without neglecting our duty to defend the Temple of Earth's inner perimeter.Track down Manastorm and retrieve the documents from him.",
-    "name": "Twilight Documents",
-    "requires_level": 82,
-    "zone": "Quests"
-}

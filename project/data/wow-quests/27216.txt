@@ -1,7 +1,0 @@
-{
-    "_id": "27216",
-    "description": "The old lighthouse out to the east hasn't worked for some time, but Babs Fizzletorque has gotten it into her head to get it working again.I don't know how she plans to do it by herself, but she claims that it'll make the movement of ships and goods into the docks smoother, so I can't really object. Drawing duty on the docks is really nothing to complain about when you could be on the front lines, you know?",
-    "name": "This Old Lighthouse",
-    "requires_level": 34,
-    "zone": "Dustwallow Marsh"
-}

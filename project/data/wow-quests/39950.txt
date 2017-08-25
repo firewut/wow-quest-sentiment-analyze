@@ -1,8 +1,0 @@
-{
-    "_id": "39950",
-    "added_in_patch": 7,
-    "description": "Wait, <name>, before you leave... did you not notice this?<Raethan peels a small piece of paper from the bottom of the jewel.>This wasn't reported stolen. It appears to be a card of some kind. Must be a scribe thing.Perhaps it may be of some use to you.",
-    "name": "An Odd Trinket",
-    "requires_level": 106,
-    "zone": "Inscription"
-}

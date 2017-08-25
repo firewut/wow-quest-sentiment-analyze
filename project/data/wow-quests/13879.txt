@@ -1,7 +1,0 @@
-{
-    "_id": "13879",
-    "description": "Greetings, <class>.Congratulations on your victorious assault on Astranaar. The elves shall not soon forget the humiliation they have suffered at your hand.But you must know, the elves are not the only obstacle to the Horde's conquering of Ashenvale....To the east, a shaman of the Earthen Ring requires assistance with yet another crisis. You can find him near the base of the volcano, Thunder Peak.",
-    "name": "Thunder Peak",
-    "requires_level": 21,
-    "zone": "Ashenvale"
-}

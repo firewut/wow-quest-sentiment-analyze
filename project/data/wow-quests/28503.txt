@@ -1,7 +1,0 @@
-{
-    "_id": "28503",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Caryssia Moonhunter at New Thalanaar at the border between Feralas and Thousand Needles.The sentinels need your help to turn back the marauding Grimtotem raiders who dominate the area. To reach New Thalaanar, travel to eastern Feralas, near the border with Thousand Needles.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Thousand Needles!",
-    "requires_level": 39,
-    "zone": "Thousand Needles"
-}

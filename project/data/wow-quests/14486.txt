@@ -1,7 +1,0 @@
-{
-    "_id": "14486",
-    "description": "Hey there, buddy. Want to make a quick buck?Bring me back any highborne tablets you find in the ruins.",
-    "name": "Handling the Goods",
-    "requires_level": 12,
-    "zone": "Azshara"
-}

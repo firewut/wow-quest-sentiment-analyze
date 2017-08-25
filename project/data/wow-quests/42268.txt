@@ -1,9 +1,0 @@
-{
-    "_id": "42268",
-    "added_in_patch": 7,
-    "description": "<The gilblin and makrura of Mak'rana have captured the forsaken sailors from the nearby shipwreck.>\r\n\r\n<The sailors are being treated very poorly. It looks like a rescue operation is in order.>",
-    "name": "Shipwrecked Sailors",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Azsuna"
-}

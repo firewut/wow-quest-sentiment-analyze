@@ -1,8 +1,0 @@
-{
-    "_id": "26236",
-    "description": "So what do we know so far? We need to follow the clues.Over at the Jansen Stead you found a water-soaked letter and some scraps of red cloth. Here at the Furlbrow's you overheard a conversation between some shadowy figure and an ogre mage. You also got a confession to the murder from a bunch of thugs - whom you then killed.Something isn't adding up, rookie.There's an old couple, southeast of here, at the Saldean's Farm. Head over there and speak with Farmer Saldean. Find out what he knows.",
-    "name": "Shakedown at the Saldean's",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Westfall"
-}

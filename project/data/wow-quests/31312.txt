@@ -1,8 +1,0 @@
-{
-    "_id": "31312",
-    "added_in_patch": 5,
-    "description": "The old, faded leather is falling apart, but still legible.Scrawled on it is some kind of map, and the following lines:Deep in the valley where four winds blow,The maiden laughs behind her golden fan.At the feet of her ancestors' stair,She whispers secrets into the echoing dark.",
-    "name": "The Old Map",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

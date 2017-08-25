@@ -1,7 +1,0 @@
-{
-    "_id": "14151",
-    "description": "The Cardinal Ruby is said to be the finest gem in all of Northrend.  It sparkles like a crystal rose under the sun.Before I teach you this recipe, I ask that you perform five epic gem transmutes to prepare your mind.  You can do any you like, and even do the same transmute many times.Return to me when you are truly ready.",
-    "name": "Cardinal Ruby",
-    "requires_level": 65,
-    "zone": "Alchemy"
-}

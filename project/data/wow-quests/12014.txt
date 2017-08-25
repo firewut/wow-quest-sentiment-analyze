@@ -1,7 +1,0 @@
-{
-    "_id": "12014",
-    "description": "Orlond's notes indicate that he brought a piece of equipment called a portable seismograph with him, but the device is nowhere to be seen.The survey log shows that Orlond completed all his readings in the Thor Modan tunnel, save one labeled the 'east end of the exposed tunnel.'The last entry in the log indicates Orlond tried to take refuge in the water and was attacked by subterranean threshers. They might've taken his equipment.You'll need to recover it before you can take the last reading.",
-    "name": "Steady as a Rock?",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

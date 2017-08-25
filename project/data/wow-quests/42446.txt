@@ -1,8 +1,0 @@
-{
-    "_id": "42446",
-    "added_in_patch": 7,
-    "description": "Ca-caw! Caw caw!\r\n\r\n<The chieftain flaps his wings and points outside where the storm dragons attack the ravenbears of his tribe. \r\n\r\nIt's plain to see that he's seeking your help to save his flock.>",
-    "name": "Singed Feathers",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "38020",
-    "description": "",
-    "name": "Assault on the Temple of Sha'naar",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

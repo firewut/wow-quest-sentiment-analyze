@@ -1,8 +1,0 @@
-{
-    "_id": "34770",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Honor of a Blademaster",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

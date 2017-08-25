@@ -1,7 +1,0 @@
-{
-    "_id": "5713",
-    "description": "I was traveling to Lor'danel with an important message when I was attacked by the furbolg Marosh and his trackers. During the attack I was poisoned, leaving me barely able to stand. I can make an antidote, but it will take time before it is ready.I would ask that you defend me until I can apply the antidote. I will aid you with my bow as best I can.Should we survive, I will be able to deliver my message to Lor'danel, while you speak with Onaeya at Maestra's Post to inform her of this incident.",
-    "name": "One Shot.  One Kill.",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11229",
-    "description": "We have the Windrunner, the Queen's Reprisal and the Oblivion stationed just east of the Derelict Strand.  Send orders to the fleet's commander, Captain Harker, that they're to destroy the Alliance's cannons.Speak to our bat handler, Camille, and ask for passage to the fleet's location.  Be quick, <name>, every minute we spend fighting the Alliance is a minute we could've spent fighting Arthas.",
-    "name": "The Windrunner Fleet",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

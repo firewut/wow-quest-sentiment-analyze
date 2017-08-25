@@ -1,7 +1,0 @@
-{
-    "_id": "29397",
-    "description": "The less said about last year's stein, the better, <name>.  I'll tell you this, our previous supplier, they were shady.  Turns out they were involved in some cultist activities...We can't work with people who are trying to destroy the world!!So we have a new supplier and a new stein.Take this voucher to Belbi Quikswitch  near the back of the Brewfest camp.  She'll give you your free Brewfest stein.  She'll also handle any and all other Brewfest transactions that come up during the holiday.",
-    "name": "A New Supplier of Souvenirs",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13300",
-    "description": "Our people are being captured and put to work as slaves in the saronite mines of Ymirheim, the vrykul stronghold in the middle of Icecrown. The Lich King has them mining that unholy ore day and night.I made a promise to Highlord Fordring that we would get those wretches out of there alive, and that's exactly what we will do.Unfortunately, I've been ordered to stay on this gunship and serve as an ambassador to the Valiance Expedition. Will you please rescue them in my stead, <name>?",
-    "name": "Slaves to Saronite",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

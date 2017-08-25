@@ -1,7 +1,0 @@
-{
-    "_id": "24734",
-    "description": "You've got to help me, <name>! My friend, Ringo left earlier to explore the volcano to the north of here, and he has been gone way too long. I am really worried about him.Do you think you could find him? Why don't you take my canteen with you -- if you do find Ringo, I'm sure he'll need it!",
-    "name": "Lost!",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

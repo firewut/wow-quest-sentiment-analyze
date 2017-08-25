@@ -1,8 +1,0 @@
-{
-    "_id": "30314",
-    "added_in_patch": 5,
-    "description": "<He looks down at the dead saurok at his feet, looks up at you, then points out down the lake shore. It seems he wants you to find and kill more of these saurok.>",
-    "name": "The Displaced Paleblade",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

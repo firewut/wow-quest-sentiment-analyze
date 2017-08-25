@@ -1,7 +1,0 @@
-{
-    "_id": "30007",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Tracking Event: Completed Arrival Phase",
-    "zone": "Quests"
-}

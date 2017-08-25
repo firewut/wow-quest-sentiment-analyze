@@ -1,8 +1,0 @@
-{
-    "_id": "42766",
-    "added_in_patch": 7,
-    "description": "My weapon is great when in a fight,\r\nIt's even handy when you sit for a bite.\r\n\r\nMy favorite flask I've tied on it, hanging from a cord,\r\nThe brews within are some of the best that I've ever scored.\r\n\r\nIf you truly seek my weapon then bring me something nice to put into my belly,\r\nA powerful brew is what I want, something strong and smelly.",
-    "name": "The Riddle of the Barrel",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

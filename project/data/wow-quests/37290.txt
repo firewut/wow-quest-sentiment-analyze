@@ -1,9 +1,0 @@
-{
-    "_id": "37290",
-    "added_in_patch": 6,
-    "description": "You got some construction guides or assembly notes on ya? Oh man that's good news!I know this guy in Ashran, goes by Torgg Flexington. He's got finished blueprints we need!Go talk to this guy and bring back some good stuff for us to build, ok?",
-    "name": "Upgrades in Ashran",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Warspear Outpost"
-}

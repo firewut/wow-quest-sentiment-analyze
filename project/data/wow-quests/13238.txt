@@ -1,7 +1,0 @@
-{
-    "_id": "13238",
-    "description": "Goblins! Hyper little busy-bodies...Listen, <name>. Copperclaw, our resident engineer, is insisting that he's got something useful to show me.I'm in no mood to endure his squeaky nagging. The last time I acknowledged him, he chirped on for an hour straight. It was all I could do to keep from drop-kicking him into Sindragosa's Fall!You go in my place and humor him. Let me know if indeed he's on to anything.",
-    "name": "Good For Something?",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

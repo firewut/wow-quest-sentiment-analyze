@@ -1,7 +1,0 @@
-{
-    "_id": "10888",
-    "description": "Four trials you must pass before you are deemed worthy by the naaru.Only one obstacle remains, mortal. Gather an army and travel to the lair of Magtheridon, deep inside Hellfire Citadel. Battle your way to the heart of the chamber and destroy the foul corrupter!",
-    "name": "Trial of the Naaru: Magtheridon",
-    "requires_level": 70,
-    "zone": "Magtheridon's Lair"
-}

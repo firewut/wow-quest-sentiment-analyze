@@ -1,7 +1,0 @@
-{
-    "_id": "27520",
-    "description": "Al'Akir has sent his minions to do Deathwing's bidding.The message is clear.  We join them or they destroy us.I do not know much about you, <race>.  But I do know this.  If you prove yourself to be an enemy of Al'Akir's, your aid will not go unnoticed.What do you say, <class>?",
-    "name": "Minions of Al'Akir",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

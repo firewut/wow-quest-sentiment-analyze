@@ -1,8 +1,0 @@
-{
-    "_id": "40814",
-    "added_in_patch": 7,
-    "description": "We have long relied on Lord Illidan to vanquish the Legion's strongest warriors - many have expressed concern over our efforts without him.Thankfully, their concerns may not matter much longer.We know of two pairs of blades rumored to be more powerful than even Lord Illidan's that are not yet out of reach.If we act quickly we should be able to hunt down one without forsaking our watch over the Legion's movements.I must defer judgment on which is most worthy of our time to you, <name>.",
-    "name": "The Power to Survive",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

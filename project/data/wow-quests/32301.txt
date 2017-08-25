@@ -1,8 +1,0 @@
-{
-    "_id": "32301",
-    "added_in_patch": 5.2,
-    "description": "To think, we were once on the same side! The Sunreavers' treachery caught us all off guard. Never again!They have shown their true natures to us. Siding with Garrosh and his madness has marked them all for death.Kill any agent of the Sunreavers that you find. We will show them no mercy here.",
-    "name": "Old Enemies",
-    "requires_level": 90,
-    "zone": "Quests"
-}

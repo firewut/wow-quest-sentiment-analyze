@@ -1,8 +1,0 @@
-{
-    "_id": "38968",
-    "added_in_patch": 7,
-    "description": "<Tytallo listens as you recount what happened with Lyndras.>I see. You sound almost... sympathetic to the wretch.The nightfallen are liars and thieves. ALL of them. Lyndras included.I will not tolerate a student that has any respect or sympathy for those... things. And have you witnessed what they turn into at the depths of their depravity?If you want to get on my good side, do not return until you are covered in the blood of the withered.",
-    "name": "Proof of Loyalty",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

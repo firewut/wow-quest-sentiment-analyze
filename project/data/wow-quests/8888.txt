@@ -1,7 +1,0 @@
-{
-    "_id": "8888",
-    "description": "<Class>, hear my request. For reasons that I cannot go into now, I decided to shut down my nearby school. A few days ago, I sent one of my pupils, Apprentice Loralthalis, there with this very task. I have not heard back from her since.Will you go to Duskwither Spire and check in on her, to make sure that she is well? You'll find it by heading north on the path out of Farstrider Retreat, then go to the right when the road branches.",
-    "name": "The Magister's Apprentice",
-    "requires_level": 8,
-    "zone": "Eversong Woods"
-}

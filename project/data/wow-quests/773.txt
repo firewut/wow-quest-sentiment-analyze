@@ -1,8 +1,0 @@
-{
-    "_id": "773",
-    "description": "To gain acceptance amongst the elders of Thunder Bluff you must next complete the Rite of Wisdom.Now that you have passed the Rite of Vision, the ancestral spirits of Red Rocks will give you the blessing of our ancestors. Only those who have drunk from the Water of Seers can gain the blessing.Travel east of Thunder Bluff, to Red Rocks and seek out the Ancestral Spirit, <name>.",
-    "name": "Rite of Wisdom",
-    "requires_level": 3,
-    "side": "horde",
-    "zone": "Mulgore"
-}

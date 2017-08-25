@@ -1,8 +1,0 @@
-{
-    "_id": "42935",
-    "added_in_patch": 7,
-    "description": "When that demon of yours fell into my realm he must have done something to the troggs. They were never a threat to my beloved stone drakes before.Now they're loose all over the Pale Roost, subduing drakes on the ground. Put a stop to this insult at once, and free those drakes! They may be of use to us later.",
-    "name": "Stone Drake Rescue",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

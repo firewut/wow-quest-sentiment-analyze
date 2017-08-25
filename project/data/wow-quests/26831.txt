@@ -1,7 +1,0 @@
-{
-    "_id": "26831",
-    "description": "Terrath wants you to make your way to the far end of the precipice to fight Zoltrik Drakebane. He is on his way there as well, but he thinks Zoltrik is likely to take to the sky.Quite an impression you seem to have made, little one. Have you ever mused that none of this would have happened if I had just stepped on you during our first meeting? Fate is a strange thing.",
-    "name": "The Twilight Flight",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

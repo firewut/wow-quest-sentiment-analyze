@@ -1,7 +1,0 @@
-{
-    "_id": "26665",
-    "description": "You feel like you've done just about enough damage, and you know the Bloodsail's battle plans.  You've done everything that Baron Revilgaz has asked of you.It's time to hang up the pirate hat and return to Booty Bay.  The battle looms near.",
-    "name": "Call of Booty",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

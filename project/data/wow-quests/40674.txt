@@ -1,8 +1,0 @@
-{
-    "_id": "40674",
-    "added_in_patch": 7,
-    "description": "Last time we met, <race>, I was in a cage. You risked your life once before for my kin. Are you willing to aid me once again?The serpents' attack has left many of us wounded. I require mending waters to perform my healing rituals.I have seen the serpents use this water. Return any that you find to me.",
-    "name": "Jars for Jandvik",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

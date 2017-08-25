@@ -1,7 +1,0 @@
-{
-    "_id": "12075",
-    "description": "Cold out here, isn't it, <race>?Ko'char has refused to meet with me. It seems he has more pressing things on his mind - namely, the jormungar that have been attacking them from the cavern below. Maybe you can help me convince Ko'char that I'm one of the good guys.I saw a giant being eaten by some of the worms at the entrance to the cavern north of here... I'm still puzzled as to how the worms are killing them so easily. Bring me a sample from one of his wounds.",
-    "name": "Slim Pickings",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

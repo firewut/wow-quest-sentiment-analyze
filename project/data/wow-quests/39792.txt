@@ -1,8 +1,0 @@
-{
-    "_id": "39792",
-    "added_in_patch": 7,
-    "description": "So while we're waiting here, maybe you could fetch us up some grub. Them tauren were runnin low on meats, so I'm sure they'd be thankful to have more.\r\n\r\nI hear that musken ribs are the specialty here.  The wild musken here are too lean for any good meat, but across the river there are some nice fat ones. Maybe you should check those out!\r\n\r\nDon't worry, I'm pretty sure there aren't any dragons over there...",
-    "name": "A Stack of Racks",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

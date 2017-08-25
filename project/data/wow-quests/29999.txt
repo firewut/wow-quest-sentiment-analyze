@@ -1,8 +1,0 @@
-{
-    "_id": "29999",
-    "added_in_patch": 5,
-    "description": "Have you seen the young serpents in the training yard?The littles ones tend to be mischievous, and some of them ran off to play before the training session.The Mistress will get angry if she discovers they're missing.Would you go find them and bring them back to me? I don't want them to get into trouble.They like to play out in the open, so look for them in courtyards and around the spires.",
-    "name": "The Rider's Bind",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

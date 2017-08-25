@@ -1,8 +1,0 @@
-{
-    "_id": "43519",
-    "added_in_patch": 7,
-    "description": "We have everything we need, <name>.Once you are ready, raise your artifact and channel its energy upon the Heart of Zin-Azshari to safely absorb the power stored within the nightmare essence.I will use the blood you provided to make sure the ritual stays safely contained.",
-    "name": "Lucid Strength",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

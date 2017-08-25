@@ -1,8 +1,0 @@
-{
-    "_id": "32150",
-    "added_in_patch": 5.1,
-    "description": "The Horde decided to put goblins in charge of their logistics. And where you have goblins, you have carelessly placed explosives.\r\n\r\nScouts have reported that they have their supplies in carts that also contain demolisher ammunition. Look at those crates the wrong way, and they'll blow sky high. \r\n\r\nWith enough Horde resources destroyed, we'll put a time limit on their attack and save lives. So go and take out those carts!",
-    "name": "Supply Block",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

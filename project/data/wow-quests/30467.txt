@@ -1,8 +1,0 @@
-{
-    "_id": "30467",
-    "added_in_patch": 5,
-    "description": "My son - can you find my son?\r\n\r\nWhen the Jinyu attacked, he ran off in the confusion. I don't know if they've done anything with him, or if he's still alive, even.\r\n\r\nNothing else matters if I can't find him. \r\n\r\nI'd ask Mei... but something's wrong with her. She seems too... impulsive since the attack. I just can't trust that she'd bring him back safely.",
-    "name": "My Son...",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

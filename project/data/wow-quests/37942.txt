@@ -1,7 +1,0 @@
-{
-    "_id": "37942",
-    "description": "Grinning Tolg was in the process of brewing an elixir that would allow him to communicate with the ravagers, whom the Skulltaker relies on to remain hidden.\r\n\r\nThe first ingredient, the leaves of the Shadethistle plant, can be found nearby. The journal reads:\r\n\r\n\"It rests in the shadows of the harsh Gorgrond sun. I saw some under standing stones near the black iron walls.\"",
-    "name": "The Silent Skull: The First Reagent",
-    "requires_level": 100,
-    "zone": "Gorgrond"
-}

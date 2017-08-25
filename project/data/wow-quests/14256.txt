@@ -1,7 +1,0 @@
-{
-    "_id": "14256",
-    "description": "I am all that remains of my company, sent to monitor the many changes on this coast of Desolace.I have reported of the dramatic increase of naga here, but to no effect.My peers are focused on other crises, so I must ask you, a stranger, to assist me in my research.First, though, allow me to show you the threat we face.",
-    "name": "The Emerging Threat",
-    "requires_level": 28,
-    "zone": "Desolace"
-}

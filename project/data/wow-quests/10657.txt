@@ -1,7 +1,0 @@
-{
-    "_id": "10657",
-    "description": "We haven't kept the use of the Zephyrium Capacitorium under budget.  But, it occurs to me that the serpents of the Scalewing Shelf to the east have a lightning breath and glands that we can make use of.I've repolarized the magneto collector to absorb lightning strikes and I want you to head up there, activate it on yourself, and get us some cheap fuel from those serpents.",
-    "name": "Ride the Lightning",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

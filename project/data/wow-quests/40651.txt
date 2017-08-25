@@ -1,8 +1,0 @@
-{
-    "_id": "40651",
-    "added_in_patch": 7,
-    "description": "These weapons were crafted with ancient magic. The true power of your artifact lies in its ability to grow in strength. The more you use it, the stronger it will become.Now that you have attuned your weapon to the Seed of Ages you can use its magic to unlock additional attributes in your weapon.Use it now, and unlock your weapon's potential.",
-    "name": "The Seed of Ages",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

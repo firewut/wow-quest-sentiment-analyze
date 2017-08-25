@@ -1,7 +1,0 @@
-{
-    "_id": "11328",
-    "description": "Right, so I think you should get this stuff over to Peppy Wrongnozzle back at the keep. She's something of an amateur alchemist, but she's the only one we've got.One thing about Peppy; she does love her drink. So, you'll likely find her at the tavern 'soaking up the atmosphere'.I'm sure she'll know what to do.",
-    "name": "Mission: Forsaken Intel",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

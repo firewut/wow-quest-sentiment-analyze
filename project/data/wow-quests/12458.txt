@@ -1,7 +1,0 @@
-{
-    "_id": "12458",
-    "description": "We need more weapons in the fight against the Scourge. The natural properties of the Emerald Dragonshrine to the southeast may be the answer.Any unliving creature, save those that Sylvanas has redeemed, that steps foot in the dragonshrine falls to dust.I want to test a theory, and I want you to be my instrument in doing so, young <race>. Go to the Emerald Dragonshrine and take the seeds from the emerald lashers therein.",
-    "name": "Seeds of the Lashers",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

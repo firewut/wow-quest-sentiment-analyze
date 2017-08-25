@@ -1,7 +1,0 @@
-{
-    "_id": "12985",
-    "description": "Greetings, <race>.I have a task that King Jokkum felt you would be suited for, assuming you still strive to gain favor with our people.I have developed plans for another artifact, one that will grant Hodir's blessing of protection to our stronghold. I have nearly all that I require for its construction. All that remains to collect are the very eyes of our fallen enemies.Take this tool, and gather the eyes from the iron giant corpses that litter our fields.",
-    "name": "Forging a Head",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

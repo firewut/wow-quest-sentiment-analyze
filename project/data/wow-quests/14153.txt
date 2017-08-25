@@ -1,8 +1,0 @@
-{
-    "_id": "14153",
-    "description": "Oh wow, baby! Everyone is here! Who cares about some stupid dragon?We setup the party around the pool. Sounds like they're having a great time already. You are going to look so fine!Why don't you head over to the pool and keep everyone entertained? I'll join you in a moment... I just have to grab my stuff.",
-    "name": "Life of the Party",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

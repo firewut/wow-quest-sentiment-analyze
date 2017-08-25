@@ -1,8 +1,0 @@
-{
-    "_id": "32712",
-    "added_in_patch": 5.2,
-    "description": "Electricity hums in the distance, tickling your ears and sending impulses down your spine. Your fingers go numb, and  your heart races as you approach the door ahead.Zao'cho stands arrogantly atop the steps ahead, weaving lightning between his fingers and smirking at you with demented glee.",
-    "name": "Zao'cho the Wicked",
-    "requires_level": 90,
-    "zone": "Quests"
-}

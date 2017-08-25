@@ -1,8 +1,0 @@
-{
-    "_id": "42985",
-    "added_in_patch": 7,
-    "description": "<name>,Those who do not stand with the Horde stand against it. You, champion, have cut down such enemies in droves.I admire your dedication. It is through you that we will rise up, more powerful than ever, and put the Alliance in their place once and for all.Join me in the Undercity at once. Your victories must be met with due reward.- Warchief Sylvanas Windrunner",
-    "name": "A Royal Audience",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

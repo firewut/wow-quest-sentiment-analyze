@@ -1,7 +1,0 @@
-{
-    "_id": "12077",
-    "description": "This elixir should protect against their spit. Offer it to Ko'char for me, will you? Tell him there's plenty more where that came from if he'll return the favor.",
-    "name": "Apply This Twice A Day",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

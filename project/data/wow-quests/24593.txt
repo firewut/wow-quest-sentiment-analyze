@@ -1,8 +1,0 @@
-{
-    "_id": "24593",
-    "description": "It is time, <name>.  This... alchemy that has kept the beast inside you at bay will not last for long.The first cursed worgen were night elf druids like our new allies.  They, however, abandoned the balance that the rest of their kind embraced and allowed the beast to take over their minds.It is only fitting that their brethren be the ones that deliver us from the Curse.  Go, <Class>.  Drink from the waters of Tal'doren and make peace with yourself.",
-    "name": "Neither Human Nor Beast",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

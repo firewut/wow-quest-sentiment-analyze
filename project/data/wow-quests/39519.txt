@@ -1,9 +1,0 @@
-{
-    "_id": "39519",
-    "added_in_patch": 6.2,
-    "description": "Look to the north, <class>. The sky is turning a sickly green. Gul'dan's summoning portals are not yet at full strength, but already the stench of demon is on the wind.Slay them, <name>. Destroy as many beasts as you can before they find a way to Azeroth. The Temple of Sha'naar is infested, as is the Throne of Kil'jaeden, although you may find others wandering about the jungle.",
-    "name": "Demonslayer of Tanaan",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

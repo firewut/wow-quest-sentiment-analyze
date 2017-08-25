@@ -1,9 +1,0 @@
-{
-    "_id": "34704",
-    "added_in_patch": 6,
-    "description": "This Sparring Arena is a good start, but we will need trainers to help mold your forces into worthy fighters.There has been a reported spotting of a draenei to the west who matches the description of Akaani.This is interesting, as we all believed her dead. She was one of the finest warriors the draenei have ever fielded and a master of nearly any weapon forged or found.Commander, you could not ask for a more skilled trainer. I advise seeking her out, if it is really her...",
-    "name": "A Rediscovered Legend",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35644",
-    "added_in_patch": 6,
-    "description": "You can see that the dead were the lucky ones. Those that live wander about attacking anything not infected with these vile spores.I cannot bring myself to slay them, but if you could bring mercy to those poor people I would be very grateful.",
-    "name": "Mercy for the Living",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

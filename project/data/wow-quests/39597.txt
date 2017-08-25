@@ -1,8 +1,0 @@
-{
-    "_id": "39597",
-    "added_in_patch": 7,
-    "description": "As is your due for passing the Trial of Might, I will grant you the blessing of the watchers. \r\n\r\nFurthermore, to aid you in your trials to come, I will bestow upon your artifact the power of the vault's keeper. May it serve you well in your time of need.\r\n\r\nSpeak to me when you are ready to receive this gift.",
-    "name": "The Blessing of the Watchers",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

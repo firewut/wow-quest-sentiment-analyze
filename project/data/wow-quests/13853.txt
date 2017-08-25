@@ -1,7 +1,0 @@
-{
-    "_id": "13853",
-    "description": "The fires are mostly contained, but we have to do something about those wind riders!Quick, <name>, you have to jump into one of our glaive throwers and return fire!",
-    "name": "Return Fire",
-    "requires_level": 20,
-    "zone": "Ashenvale"
-}

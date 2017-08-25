@@ -1,7 +1,0 @@
-{
-    "_id": "29209",
-    "description": "One of our druids moved ahead into the Igneous Depths in pursuit of a Druid of the Flame.Go to her. Help her.",
-    "name": "Into the Fiery Depths",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

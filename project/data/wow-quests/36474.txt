@@ -1,9 +1,0 @@
-{
-    "_id": "36474",
-    "added_in_patch": 6,
-    "description": "The Laughing Skull shaman Kaz ran off while we were coming here.She claimed to be looking for more of her people in the jungles to the south.Draka insisted on following her to safeguard us against betrayal.Commander, if Kaz is telling the truth, then she and Draka are going to need all the help they can get.Will you join them? They could not have gotten far.This could prove to be the perfect test for your new shredder and lumber mill resources.",
-    "name": "The Razorbloom",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31232",
-    "added_in_patch": 5,
-    "description": "My brothers speak of an ancient mogu empire that once dwelled in the ruins to the east.Once, this tribe knew untold secrets of sorcery and subjugation.I have a curious mind, Wakener, and I wish to learn of the empires that ruled after my time.Knowledge of the past will determine our future.Go search the ruins for their ancient tablets. I will study their secrets and make them our own.",
-    "name": "An Ancient Empire",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

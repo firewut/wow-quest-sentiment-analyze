@@ -1,9 +1,0 @@
-{
-    "_id": "34861",
-    "added_in_patch": 6,
-    "description": "So the new warchief decided to send you Warmaster Zog to handle local operations. Zog!I heard that guy was notorious for organizing the Alliance AND the Horde to face off against the silithid at the Gates of Ahn'Qiraj.He was a general back then.Anyway, if you go let him know about the barracks being done I'm sure he'll have some thoughts on how to put it to good use.You can find Zog up at the town hall.",
-    "name": "We Need An Army",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

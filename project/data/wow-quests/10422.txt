@@ -1,7 +1,0 @@
-{
-    "_id": "10422",
-    "description": "Captain Tyralius took a platoon of soldiers south towards the Ethereum Staging Grounds 10 days ago. We haven't heard from him or his crew since.Chances are good that they were ambushed and killed but I'm getting a curious reading from my instruments.I think it's a distress signal but these things have been wrong before. If Tyralius is still alive, they're keeping him in one of their prisons. You'll have to locate the prison and open it with a key, probably found on the warden.",
-    "name": "Captain Tyralius",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

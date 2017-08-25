@@ -1,8 +1,0 @@
-{
-    "_id": "30701",
-    "added_in_patch": 5,
-    "description": "Nothing tastes quite like viseclaw soup.  It's a krasarang specialty!I was just about to start up on a new batch when I realized I am missing a key ingredient, the eyes!I need you to kill the viseclaw fishers on the beach and return with their eyes for the soup!",
-    "name": "Viseclaw Soup",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

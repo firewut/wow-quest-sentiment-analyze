@@ -1,7 +1,0 @@
-{
-    "_id": "14373",
-    "description": "Listen up, now. An' lookie here.<Thargad points off to the east.>Yeh see them big green glowin' balls that be fallin' from the sky?Those be a nasty buncha demons roamin' the lands unchecked. Well, almost unchecked... I've been keepin' 'em on their toes, givin' 'em sumthin' ta think about.How 'bout you get over there an' pick up where I left off?",
-    "name": "Infernal Encroachment",
-    "requires_level": 31,
-    "zone": "Desolace"
-}

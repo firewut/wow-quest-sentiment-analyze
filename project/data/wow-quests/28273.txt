@@ -1,7 +1,0 @@
-{
-    "_id": "28273",
-    "description": "I need to unpack and look around the area a bit. In the meantime, I have an old friend I'd like you to meet.Sullah and I go way back. He's a man who can be trusted, and that's pretty rare these days.Why don't you go on over and introduce yourself.",
-    "name": "Friend of a Friend",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

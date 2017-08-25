@@ -1,7 +1,0 @@
-{
-    "_id": "13526",
-    "description": "The foul satyr of Felwood have started to introduce their poison into Darkshore, into our lands. Their corruption kills the land and twists the creatures who live in it. My people are no exception.Our magic alone is not enough to bring them back to their senses. There is an herb, called bear's paw, that we use to break fevers and fortify the weak. With its help, we may be able to break the influence of the satyr. The herb grows in the wilds around the village.",
-    "name": "The Bear's Paw",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10179",
-    "description": "When it became clear that our expedition was trapped in Outland with no way to return to Azeroth, the Kirin Tor contingent traveled to the Plains of Farahlon and built Kirin'Var village. I left the administration of the town in the hands of Custodian Dieworth, but when Kael'thas and his forces sealed me in the Violet Tower, I lost contact with the custodian.Search for him in Kirin'Var Village and help him in any way you can, <name>. I'm certain he's got his hands full in the aftermath of the attack.",
-    "name": "The Custodian of Kirin'Var",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

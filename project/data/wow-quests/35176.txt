@@ -1,9 +1,0 @@
-{
-    "_id": "35176",
-    "added_in_patch": 6,
-    "description": "So much work to do... I don't even know where to start.Making sure this garrison is operational is not an easy task.Shelly still hasn't reported back to me, my assistant Brightstone and her crew are who knows where, ugh... I'm so caught up I haven't even had time to check our cache for resources.If I were a mage, do you think I could use mirror images to do all of this at once?",
-    "name": "Keeping it Together",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

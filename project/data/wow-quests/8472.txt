@@ -1,7 +1,0 @@
-{
-    "_id": "8472",
-    "description": "The arcane patrollers crafted by our forefathers to protect the city have fallen into a dangerous state of disrepair.  They fail to recognize us as their masters and will attack us on sight!Even though they were created many years ago, the arcane cores that power them are still quite useful and valuable to us.  I want you to gather these cores and bring them to me so I can put them to good use again.  You will find the patrollers in the ruined section of Silvermoon, to the northwest.",
-    "name": "Major Malfunction",
-    "requires_level": 4,
-    "zone": "Eversong Woods"
-}

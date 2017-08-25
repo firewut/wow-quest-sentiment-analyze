@@ -1,9 +1,0 @@
-{
-    "_id": "32795",
-    "added_in_patch": 6,
-    "description": "There is Hatock, last and eldest son of the Iron Wolf. One of the greatest hunters the Thunderlord have ever fielded.He was there when his father murdered my father and left me for dead.When I am done with him he will regret not finishing the job.",
-    "name": "The Eldest",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

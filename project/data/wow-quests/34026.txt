@@ -1,9 +1,0 @@
-{
-    "_id": "34026",
-    "added_in_patch": 6,
-    "description": "One of our junior surveyors has been harassing me about unusual seismic activity. I find it hard to believe that we accidentally built on some kind of fault line - we triple checked!Can you have a word with him?",
-    "name": "Garrison Campaign: Seismic Matters",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

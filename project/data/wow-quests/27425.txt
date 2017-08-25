@@ -1,7 +1,0 @@
-{
-    "_id": "27425",
-    "description": "I've spoken with Inspector Tarem regarding the evidence you gathered from the ruins of the Shady Rest Inn. He seems certain that the hoofprints and the shield you found there point to the Grimtotem clan of tauren.With reports of Grimtotem activity on the rise in the marsh, this has to be more than a mere coincidence. I'm sending you to speak with Captain Darill, who is something of an expert on the Grimtotems. Follow the road north out of town to North Point tower. It's the second outpost on the road.",
-    "name": "A Grim Connection",
-    "requires_level": 35,
-    "zone": "Dustwallow Marsh"
-}

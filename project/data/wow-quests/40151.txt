@@ -1,8 +1,0 @@
-{
-    "_id": "40151",
-    "added_in_patch": 7,
-    "description": "You have been skinning for a long time now, but never have you seen a scale specimen as fine as this.Your trainer in Dalaran would be VERY interested in seeing this.",
-    "name": "Immaculate Stormscale",
-    "requires_level": 98,
-    "zone": "Skinning"
-}

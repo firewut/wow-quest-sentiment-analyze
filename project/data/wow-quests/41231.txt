@@ -1,8 +1,0 @@
-{
-    "_id": "41231",
-    "added_in_patch": 7,
-    "description": "I have good news and bad news, <race>.The bad news is that they somehow managed to capture and train a Devilsaur.The good news is that it doesn't seem to have a collar and is tame. I imagine it must think that one of the Nightborne in there is its master. Find the pack leader and take him out, and we will set quite a beast upon them.",
-    "name": "Apex Predator",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

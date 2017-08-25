@@ -1,8 +1,0 @@
-{
-    "_id": "26623",
-    "description": "I'll let you in on a little secret - Dusky \"Crab\" Cakes are really made from spider meat!  I know it's a bit disgusting, but the cakes have a nice, tangy flavor and make great snacks!If you want to try some still, I'm afraid I'm out of meat. I need some lump meat to whip up a few more cakes.Venom Web Spiders are a good source - they nest to the north, between the foothills and the river.",
-    "name": "Dusky Crab Cakes",
-    "requires_level": 18,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11262",
-    "description": "Of our entire recon party, only I remain.These vrykul are relentless fighters. Given their numbers and their savage tactics, our only hope is to bring down their leader and pray it brings chaos to their ranks.Ingvar is his name. Bring me his head!",
-    "name": "Ingvar Must Die!",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Quests"
-}

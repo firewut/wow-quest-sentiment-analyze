@@ -1,7 +1,0 @@
-{
-    "_id": "12842",
-    "description": "The mark of war is etched indelibly upon your soul, death knight. You have learned the dark art of runeforging and with it you will engrave runes of power upon your weaponry.Preparations for battle must be made. Return to one of the runeforges, here in the Heart of Acherus, and use the power of runeforging to emblazon your weapon with a rune of power!Return to me when your blade glows with dark energy!",
-    "name": "Runeforging: Preparation For Battle",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

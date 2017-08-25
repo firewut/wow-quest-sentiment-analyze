@@ -1,9 +1,0 @@
-{
-    "_id": "38415",
-    "added_in_patch": 6.2,
-    "description": "Your ally, Liadrin, has sent a missive requesting aid near Auchindoun. The Sargerei have made a new assault there and breached something important. It is no coincidence this happened after Gul'dan's ascendancy. We will watch the front here, commander.",
-    "name": "Garrison Campaign: Onslaught at Auchindoun",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

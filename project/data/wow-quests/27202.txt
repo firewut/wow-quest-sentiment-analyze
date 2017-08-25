@@ -1,8 +1,0 @@
-{
-    "_id": "27202",
-    "description": "Our militia has been nearly wiped out.  Only I and these few farmers remain.Those winged creatures... they took the bodies of our men and... and turned them into walking, undead corpses!  With every one of our men they took, they bolstered their own ranks.It pains me to admit it, but you will need to fight them too, along with the deathguards and val'kyr.  As they did in life, they hunt in packs, so take some of my minutemen with you.",
-    "name": "Brother Against Brother",
-    "requires_level": 38,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

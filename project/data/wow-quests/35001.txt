@@ -1,8 +1,0 @@
-{
-    "_id": "35001",
-    "added_in_patch": 6,
-    "description": "The Sethekk are breeding vile wind serpents from Sethe's blood and bones. With these creatures, they will tear apart the sky.The nests are protected by powerful magic, but Anzu's gaze should penetrate them with ease.Let us visit the nests and destroy them!",
-    "name": "Gaze of the Raven God",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

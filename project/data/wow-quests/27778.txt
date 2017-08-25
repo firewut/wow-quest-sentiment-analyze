@@ -1,7 +1,0 @@
-{
-    "_id": "27778",
-    "description": "It is true.  New expedition crews have arrived by sea.My scanners detect that they already have been afflicted by the curse phenomenon.You must hurry and go aboard the M.A.C. Diver.  The access codes will give us control over the fusion core's functions, but there is still a layer of security we must bypass.User <name>, I must ask you to hack a very sophisticated mainframe known as the \"Wibson.\"Do not worry I will provide you with further instructions.",
-    "name": "Hacking the Wibson",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30925",
-    "added_in_patch": 5,
-    "description": "Niuzao owns a statuette which he values greatly: a small icon, in his image, sculpted by one of his long-since fallen sentinels. This statuette was recently stolen by the Sra'thik mantid, and taken to their encampment to our north.Bring back this statuette. Then we will give you - and your Shado-Pan associate - the answers you seek.",
-    "name": "Niuzao's Price",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

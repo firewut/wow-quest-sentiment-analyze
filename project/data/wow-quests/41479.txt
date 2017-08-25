@@ -1,8 +1,0 @@
-{
-    "_id": "41479",
-    "added_in_patch": 7,
-    "description": "I have walked this land in the time since our arrival. Here, basilisks have emerged from the ravines to the east. They encroach upon the home of the Nightsabers.\r\n\r\nTo earn their blessing, I believe we should clear the way for their return.\r\n\r\nSlay the basilisks that have taken more than their fair share of the land, <race>.",
-    "name": "Natural Adversaries",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25928",
-    "description": "I'll escort the children of Tortolla out of here and seal up this accursed portal.I'll leave it to you to inform Tortolla of our victory. Simply step back through the flamegate. The ancient will be pleased!",
-    "name": "Tortolla's Triumph",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

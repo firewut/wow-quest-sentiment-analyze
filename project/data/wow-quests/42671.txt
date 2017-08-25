@@ -1,8 +1,0 @@
-{
-    "_id": "42671",
-    "added_in_patch": 7,
-    "description": "The matron mother, Lady S'theno, and I have been watching you and the rest of the Illidari. We have something of an outsider's perspective on things, which gives us a degree of objectivity. We have come to a unanimous recommendation: in order to keep the Illidari from splintering, you must begin to recruit champions.\r\n\r\nThese exalted few will aid in projecting your power beyond the confines of the Fel Hammer.\r\n\r\nOur unanimous recommendations for the first two are Kayn and Asha.",
-    "name": "Rise, Champions",
-    "requires_level": 101,
-    "zone": "Demon Hunter Campaign"
-}

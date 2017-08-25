@@ -1,7 +1,0 @@
-{
-    "_id": "34473",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Envoy's Log",
-    "zone": "Frostfire Ridge"
-}

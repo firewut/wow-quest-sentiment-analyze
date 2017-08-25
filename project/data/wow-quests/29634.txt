@@ -1,8 +1,0 @@
-{
-    "_id": "29634",
-    "added_in_patch": 5,
-    "description": "The jinyu are long-standing allies of the pandaren, and we welcome any of their kind into our monastery. Husshun, one of their elder shaman, is one of our newest trainees.His skills as a monk are mediocre at best, but he is still a fierce combatant. He should provide you with the challenge that you deserve.",
-    "name": "Husshun, the Wizened",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

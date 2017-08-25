@@ -1,7 +1,0 @@
-{
-    "_id": "12196",
-    "description": "We don't have enough time for me to forge the parts myself, but the foundries over at Dun Argol, to the southeast, are working day and night to churn out golem parts.I think you should go back there and pick up enough of them for me to make a golem from this blueprint.They're probably scattered around any of the buildings where the iron rune-smiths are working.Please hurry, <name>. That Tormak looks like he's just waiting for an excuse to carry out his threat!",
-    "name": "From the Ground Up",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

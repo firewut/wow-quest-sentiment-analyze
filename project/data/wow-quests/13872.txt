@@ -1,7 +1,0 @@
-{
-    "_id": "13872",
-    "description": "The man standing right across from me is known as Hephaestus Pilgrim. He's one of the worgen.He and his sister came to Astranaar not long ago looking for a place to live. From what little I've been able to glean, he's interested in trying to help the Earthen Ring with the Cataclysm. His sister is even more powerful. She's gone east to try and help the shaman deal with the volcano.Perhaps he can help. Take the charm over to him and see what he thinks.",
-    "name": "Worgen Wisdom",
-    "requires_level": 21,
-    "zone": "Ashenvale"
-}

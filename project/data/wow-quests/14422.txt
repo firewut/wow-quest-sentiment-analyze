@@ -1,8 +1,0 @@
-{
-    "_id": "14422",
-    "description": "Shortly after my intellect was augmented, I bred with Subject Four in order to create a unique race of cognitively superior raptors. Subsequently, Subject Four neither called nor wrote: I have determined to disembowel him upon our next encounter.Nonetheless, there are enough raptor children imprisoned in this lab to provide adequate genetic stock for repopulating my race. Please release them from their cages and carry them to the rocket.",
-    "name": "Raptor Raptor Rocket",
-    "requires_level": 12,
-    "side": "horde",
-    "zone": "Azshara"
-}

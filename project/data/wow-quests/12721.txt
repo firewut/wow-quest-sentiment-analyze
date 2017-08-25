@@ -1,7 +1,0 @@
-{
-    "_id": "12721",
-    "description": "<name>, there is no time left. You must take the key and use it to unlock Akali.He is being held in the courtyard in front of Gundrak, the capital of Zul'Drak. Akali's chains are secured by four anchor points. You must unlock each of them to set the rhino god free.Gundrak is teeming with ice trolls. However, I believe that if you're careful, you should be able to slip in without too much danger.Once you're done, please inform the witch doctor.",
-    "name": "Rampage",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

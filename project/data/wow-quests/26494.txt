@@ -1,7 +1,0 @@
-{
-    "_id": "26494",
-    "description": "Mind giving some of this stuff to Jasper, over by the luxury suites?  I'm sure he can find some use for it.Thanks, <name>!",
-    "name": "Mixmaster Jasper",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

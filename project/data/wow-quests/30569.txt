@@ -1,9 +1,0 @@
-{
-    "_id": "30569",
-    "added_in_patch": 5,
-    "description": "I... I escaped from Farmer Chow's, to the southeast of here. It's been taken over by yaungol, but the old man and his wife just won't give it up!\r\n\r\nPlease, go there and help him out. Maybe if you do, he'll be willing to send some folks back here and help you guys farm up some food for the new town?",
-    "name": "Trouble on the Farmstead",
-    "requires_level": 87,
-    "side": "alliance",
-    "zone": "Kun-Lai Summit"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "7363",
-    "description": "Humans are so utterly detestable.<Commander Philips grimaces.>While it is true that I am a soldier of Frostwolf, I remain a servant of Sylvanas.During my tour of duty, I do extra work on the side for the Dark Apothecaries of the Undercity.I have been tasked with collecting human bone chips that are to be used in curing the human condition.I am authorized to pass that task on to my subordinates.Find them. Kill them. Return their bone chips to me.",
-    "name": "The Human Condition",
-    "requires_level": 200,
-    "zone": "Alterac Valley"
-}

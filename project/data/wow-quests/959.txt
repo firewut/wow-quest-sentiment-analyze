@@ -1,7 +1,0 @@
-{
-    "_id": "959",
-    "description": "Oops!Had a little mishap, as you can see! The morning cargo shipment from Booty Bay was huge. Huge I say! Never seen so many crates. Well, I was trying to expedite things so I started unloading a bit more than I could handle. That's when everything came tumbling down.Before I knew what was going on, I saw that menace, Mad Magglish, go running off with a bottle of 99-year-old port. Chased him all the way to Wailing Caverns. No way I was going in there.Maybe you're brave enough to find him?",
-    "name": "Trouble at the Docks",
-    "requires_level": 14,
-    "zone": "Wailing Caverns"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30604",
-    "added_in_patch": 5,
-    "description": "Hozen only ravage when they think their supplies are too few for their number of mouths.Problem is, hozen always have more mouths than food.We have very few grummles these days.It is a hard thing to ask, but can you be a friend to grummles, and destroy some of the Broketooth hozen south of here? It is the only way to prevent them from destroying the landscape.",
-    "name": "Breaking Broketooth",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

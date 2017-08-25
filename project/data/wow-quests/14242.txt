@@ -1,8 +1,0 @@
-{
-    "_id": "14242",
-    "description": "They said that their \"precious cargo\", whatever that is, is being held out on the Alliance ship, the Vengeance Wake.There's only one thing to do... fly this thing out there and retrieve it!",
-    "name": "Precious Cargo",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

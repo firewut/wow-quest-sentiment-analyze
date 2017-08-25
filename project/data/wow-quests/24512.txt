@@ -1,8 +1,0 @@
-{
-    "_id": "24512",
-    "description": "Those that surrendered when Honor's Stand fell are no longer worthy of our Horde, <class>. But I'm not giving up on them yet. The prison tower below us is lightly guarded. Let's give those prisoners one final chance to die with honor.I've set up ropes that will allow you to quickly clamber up and down the mountain. Slip down, acquire the confiscated weapons, and re-arm the prisoners inside the tower.And <name>, stay by the tower! We're not yet equipped for an assault on the base proper.",
-    "name": "Warriors' Redemption",
-    "requires_level": 28,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

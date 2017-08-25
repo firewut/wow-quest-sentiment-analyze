@@ -1,8 +1,0 @@
-{
-    "_id": "26720",
-    "description": "What we do here is not a cure. The transformation cannot be removed once inflicted. But the mind...The mind can be restored, through alchemy,  if enough is left intact. This worgen you've encountered sounds like he's fighting to stay aware, <name>. We've got to find him again.If he's fled the Yorgen Stead, search the Addle Stead to the south; he may be lurking in one of the buildings.Inject him with this ampule to tranquilize him. You'll need to be quite close.",
-    "name": "A Curse We Cannot Lift",
-    "requires_level": 22,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

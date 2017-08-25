@@ -1,7 +1,0 @@
-{
-    "_id": "13480",
-    "description": "Noblegarden, celebration of life and spring! I hope you've been enjoying the egg hunt, friend, because I could use the services of a capable individual like you.I'm not certain what form of magic was used in the creation of the eggs, and the druids aren't keen on explaining it to me. Perhaps you could collect some shell fragments for me during your egg collection. You can keep the contents of the eggs; all I require is a sufficient sample of the eggs themselves.",
-    "name": "The Great Egg Hunt",
-    "requires_level": 1,
-    "zone": "Noblegarden"
-}

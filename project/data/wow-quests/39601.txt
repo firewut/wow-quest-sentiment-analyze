@@ -1,9 +1,0 @@
-{
-    "_id": "39601",
-    "added_in_patch": 6.2,
-    "description": "Commander, we must expand our fleet if we hope to stand a chance against the Iron Horde.\r\n\r\nWe have heard reports from Tanaan that a new Alliance faction can supply us with the plans to build battleships.  Head out there as soon as you can and investigate!",
-    "name": "I Sunk Your Battleship",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

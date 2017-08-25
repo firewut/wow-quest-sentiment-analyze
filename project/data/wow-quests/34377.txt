@@ -1,8 +1,0 @@
-{
-    "_id": "34377",
-    "added_in_patch": 6,
-    "description": "[Ph] Khadgar is willing to open a portal to Azeroth, if only briefly, to get some of those we need to secure our foothold here.",
-    "name": "The Portal Home",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30159",
-    "added_in_patch": 5,
-    "description": "Oh no! We must stop them! <name>, is it? The Order needs your help!Do you know what those horrible Slitherscale saurok are doing?They have the audacity to steal cloud serpent eggs straight from the matriarch's nests!While the cloud serpents become ever rarer, those brutes are... are...<Suchi takes a deep breath.>...they're eat their eggs for dinner! It's horrible!Go to Windward Isle to the northeast and recover any unbroken eggs that you can. As students of the Order, it's our duty!",
-    "name": "Preservation",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

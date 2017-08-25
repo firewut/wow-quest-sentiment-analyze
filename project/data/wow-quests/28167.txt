@@ -1,8 +1,0 @@
-{
-    "_id": "28167",
-    "description": "I'm going to start preparing my men to leave this place. We can't hold out here any longer. I want you to move to a forward position in the middle of the large room ahead.You should find Carvo Blastbolt there. He'll give you further instructions. Good luck, <name>, and I'll see you on the surface.",
-    "name": "Report to Carvo Blastbolt",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

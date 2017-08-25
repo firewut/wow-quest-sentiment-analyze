@@ -1,8 +1,0 @@
-{
-    "_id": "38384",
-    "added_in_patch": 7,
-    "description": "What vile power is this?!A curse with the strength to paralyze a demigod? Unimaginable!Quickly, <name>, you must gather the archdruids of the forest. With their help, we can summon Ysera. She will surely know what horror has overtaken my mentor.I will remain here and lend Cenarius what aid I can.Return to Lorlathil and speak with Aranelle. She will know the archdruids' whereabouts.And please, friend, make haste...",
-    "name": "Nature's Call",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

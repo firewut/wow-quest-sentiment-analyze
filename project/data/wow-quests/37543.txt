@@ -1,8 +1,0 @@
-{
-    "_id": "37543",
-    "added_in_patch": 6.1,
-    "description": "Redeem your Essence of the Iron Protector with Lady Liadrin to select an armament of your choice.",
-    "name": "Essence of the Iron Protector",
-    "requires_level": 100,
-    "zone": "Spire of Light"
-}

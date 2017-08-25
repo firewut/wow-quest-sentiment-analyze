@@ -1,8 +1,0 @@
-{
-    "_id": "8482",
-    "description": "The documents contain detailed maps of different strategic buildings in Eversong Woods.  A diagram of an arcane sanctum is also sketched in good detail.  There seem to be numerous notes in a language you don't recognize.As these were carried by a Darnassian spy, it might be a good idea to bring them to the Captain of the Guard - Aeldon Sunbrand.",
-    "name": "Incriminating Documents",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Eversong Woods"
-}

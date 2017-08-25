@@ -1,8 +1,0 @@
-{
-    "_id": "36673",
-    "added_in_patch": 6,
-    "description": "You're going to love this one, champ.That's right, it's the largest bone worm this side of Draenor. Dreshax lovingly disposes of all of the suckers... I mean... fallen gladiators for us.Think you've got what it takes? Hop on in and wait. Dreshax's lair is just below the arena - he'll come to you.",
-    "name": "The Ring of Blood: Dreshax!",
-    "requires_level": 100,
-    "zone": "Nagrand"
-}

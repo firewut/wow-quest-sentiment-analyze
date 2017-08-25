@@ -1,9 +1,0 @@
-{
-    "_id": "34951",
-    "added_in_patch": 6,
-    "description": "The Burning Blade clan at Hallvalor is supplying the Warsong with weapons and warriors. We cannot let this continue.There's a young blademaster who's been exiled from the Burning Blade for many years. They call him Lantresor of the Blade.My rangari recently saw him return to Hallvalor to challenge the blademaster leadership. Instead, they clapped him in chains.Maybe he's still alive. Maybe he'll help you deal with the Burning Blade.",
-    "name": "They Call Him Lantresor of the Blade",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

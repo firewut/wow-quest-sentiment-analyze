@@ -1,7 +1,0 @@
-{
-    "_id": "25621",
-    "description": "Ze Gnomecorder iz complete! Now ve must test zit!Venture into Stonetalon Mountains to ze southeast and valk down ze Talondeep Pass until you reach a filzy goblin drill machine. I vill activate ze gnomecorder ven you reach your destination!",
-    "name": "Field Test: Gnomecorder",
-    "requires_level": 24,
-    "zone": "Stonetalon Mountains"
-}

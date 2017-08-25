@@ -1,8 +1,0 @@
-{
-    "_id": "43995",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Feed Valtrois",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

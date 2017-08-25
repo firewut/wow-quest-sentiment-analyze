@@ -1,7 +1,0 @@
-{
-    "_id": "26921",
-    "description": "Darkmaster Gandling of the Cult of the Damned leads the Scourge offensive here in Andorhal.  My old counterpart, Thassarian, leads the Alliance forces.  If we're to win Andorhal, we'll have to defeat both, but we will certainly fail if we take on both at once.I know Thassarian well enough to know that he will focus on the Scourge first.  We will do the same.Take out the weaker, desiccated Scourge to reduce their numbers.  The Alliance will have to wait to taste our wrath.",
-    "name": "Scourge First... Alliance Later",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

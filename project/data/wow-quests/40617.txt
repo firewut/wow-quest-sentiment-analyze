@@ -1,8 +1,0 @@
-{
-    "_id": "40617",
-    "added_in_patch": 7,
-    "description": "Stranger, you must help me!Nighteyes, my old friend... he was scouting ahead and I heard him cry out a warning. I tried to run after him, but in my carelessness I stepped in this trap.He's so close, just on the other side of this ridge. Please find him!",
-    "name": "Turn Around, Nighteyes",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

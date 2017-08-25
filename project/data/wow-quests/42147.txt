@@ -1,8 +1,0 @@
-{
-    "_id": "42147",
-    "added_in_patch": 7,
-    "description": "Time to put your new disguise to the test.Your first contact is Vanthir, a merchant from the common district. He is in the Grand Promenade today visiting one of his suppliers.Tell Vanthir to pay me a visit regarding a shipment of dusk lily bulbs. He will understand.Beyond that, we will need time to prepare. You should return to Thalyssra.<Ly'leth hands you a corked bottle of faintly glowing fluid.>Give her this, with my regards. We will call upon you soon.",
-    "name": "First Contact",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

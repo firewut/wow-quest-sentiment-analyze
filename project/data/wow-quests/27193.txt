@@ -1,7 +1,0 @@
-{
-    "_id": "27193",
-    "description": "<The Banshee Queen's voice invades your thoughts once more.>Search the nearby farmhouses for Alliance stragglers. Keep an eye out for any information that could lead us to Crowley and Bloodfang. Seek and destroy all that would stand in your way, <name>!",
-    "name": "Seek and Destroy",
-    "requires_level": 11,
-    "zone": "Silverpine Forest"
-}

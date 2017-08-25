@@ -1,9 +1,0 @@
-{
-    "_id": "37569",
-    "added_in_patch": 6,
-    "description": "Now that the forge is complete, we can start producing truesteel ingots for you. When you have the ingredients, please speak with my assistant to start the first work order.",
-    "name": "Your First Blacksmithing Work Order",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31095",
-    "added_in_patch": 5,
-    "description": "Dear $p,We have always known the mogu to be dark and sinister. Your research however would imply that they are far worse.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
-    "name": "The Dark Heart of the Mogu",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

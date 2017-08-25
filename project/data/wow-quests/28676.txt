@@ -1,7 +1,0 @@
-{
-    "_id": "28676",
-    "description": "The infestation of our barrow den occured nearly overnight. Vicious creatures never before seen in these lands swarmed the tunnels, hatching from unseen eggs.With the few of us here, it was all we could do to keep them from spreading outside the den. We were forced to hire goblins from Everlook that claimed expertise in extermination, but they have not yet been successful.If you wish to assist them, enter the barrow den to the west of this lodge and speak with Rinno Curtainfire.",
-    "name": "Exterminators at Work",
-    "requires_level": 51,
-    "zone": "Winterspring"
-}

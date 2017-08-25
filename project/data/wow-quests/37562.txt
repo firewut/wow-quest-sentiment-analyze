@@ -1,8 +1,0 @@
-{
-    "_id": "37562",
-    "added_in_patch": 6.1,
-    "description": "Redeem your Essence of the Iron Protector with Exarch Maladaar to select an armament of your choice.",
-    "name": "Essence of the Iron Protector",
-    "requires_level": 100,
-    "zone": "Spire of Light"
-}

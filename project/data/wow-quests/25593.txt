@@ -1,7 +1,0 @@
-{
-    "_id": "25593",
-    "description": "A lot of the men haven't made it to the cave yet. It's a safe bet that they're stranded at the vents on the ridge above us.We found some spiralung shells on the way here. They don't produce much air, but it was enough for us to make the cave.I need to stay here to count heads and get them back on their feet as they arrive. Do me a favor - go collect those spiralung shells, get them to any of my men that are still up on the ridge, and give them a swift kick in the arse so that they get moving.",
-    "name": "Shelled Salvation",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

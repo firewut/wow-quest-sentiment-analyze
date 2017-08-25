@@ -1,9 +1,0 @@
-{
-    "_id": "34108",
-    "added_in_patch": 6,
-    "description": "It's that damned bird!Every few hours, this blasted thing flies right past here, and none of these idiots will stop it.\"It's got the crazy in its eyes,\" they tell me. Pah!Commander, this bird will be the end of me. If you see it, could you cut off its stupid head and give it to me?It'd make me feel better.",
-    "name": "Wanted: Kil'uun",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29388",
-    "description": "The Guardians of Hyjal, led by Arch Druid Malfurion Stormrage, seek brave heroes to assist with a full-scale assault on the Firelands.Willing and able-bodied champions of the Horde should report to the Sanctuary of Malorne in Mount Hyjal immediately.",
-    "name": "Guardians of Hyjal: Firelands Invasion!",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39838",
-    "added_in_patch": 7,
-    "description": "You! Adventurer! Give us a hand! The wagon's caught fire!",
-    "name": "Fire!",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

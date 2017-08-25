@@ -1,8 +1,0 @@
-{
-    "_id": "42365",
-    "added_in_patch": 7,
-    "description": "In addition to shards of nightmare, we need Blood of Sargeras to reactivate the portal to the Rift of Aln.This rare reagent can be obtained from around the Broken Isles. Rumor has it that emissaries are in search of hardened adventurers, and may offer these in reward.",
-    "name": "Focusing the Energies",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

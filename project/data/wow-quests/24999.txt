@@ -1,7 +1,0 @@
-{
-    "_id": "24999",
-    "description": "It seems that Jerrod has you hunting the murlocs to the north.  That's good... we can use their parts for our poisons.  I get a little worried sometimes, though...The Vile Fin spawning grounds are not far off Tirisfal's northern coast, so you'll probably notice several tadpoles among the adults on the shore.  If these impressionable young murlocs were to seek revenge against us... that could ruin us.  Go chase them, and show them that the Forsaken and the Horde are not to be trifled with.",
-    "name": "Planting the Seed of Fear",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

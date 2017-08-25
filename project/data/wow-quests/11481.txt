@@ -1,7 +1,0 @@
-{
-    "_id": "11481",
-    "description": "By the naaru, I thank you, <race>, for your efforts.Our work is far from finished, however, and I must request that you undertake a critical mission - one as important as any I've issued.Our forces are spread thinly. To compound the strain, we've had to dispatch a contingent to Azeroth to investigate developments at the Sunwell Plateau.You are needed there, <name>. Report to Larethor. Tell him that I wish we could spare more men.",
-    "name": "Crisis at the Sunwell",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

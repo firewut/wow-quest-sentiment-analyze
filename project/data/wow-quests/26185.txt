@@ -1,7 +1,0 @@
-{
-    "_id": "26185",
-    "description": "I believe that the taint of the Blasted Lands has finally exerted its influence over my friend Wormthorn.  His experiment has failed, and his great-tree now only serves as a focus for the demons to rally around.The tree must come down, and Wormthorn with it.  Speak with the Cenarion Observer on the other side of town; she should have some idea how to proceed.<name>: the act we are about to commit must not be made known to the townspeople of Surwich.  Morale is low enough as-is.",
-    "name": "Advice from the Cenarion Circle",
-    "requires_level": 55,
-    "zone": "Blasted Lands"
-}

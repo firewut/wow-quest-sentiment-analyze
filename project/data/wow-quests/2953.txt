@@ -1,7 +1,0 @@
-{
-    "_id": "2953",
-    "description": "",
-    "name": "More Sparklematic Action",
-    "requires_level": 25,
-    "zone": "New Tinkertown"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11355",
-    "description": "To the east, at Giants' Run, rune-inscribed stone giants have started to migrate north toward Frostblade Peak. What their ultimate destination is, I do not know.The glowing runes inscribed in the stone flesh of the giants guide them on their journey.Use this pick to deactivate the runes on the giants' corpses and return with your findings.",
-    "name": "March of the Giants",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9920",
-    "description": "You must seek out Mo'mor immediately! You will find him in the center of Telaar, by the fountain. Tell him exactly what the ogre told you.",
-    "name": "Mo'mor the Breaker",
-    "requires_level": 64,
-    "side": "alliance",
-    "zone": "Nagrand (Outland)"
-}

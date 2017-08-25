@@ -1,8 +1,0 @@
-{
-    "_id": "28557",
-    "description": "All able-bodied members of the Horde are hereby ordered to report to Adarrah at the Thistleshrub Valley in Tanaris.Ancient texts tell us that Uldum is home to untold riches and treasures beyond compare. Go forth and claim these in the name of the Horde!You can reach Adarrah's caravan by traveling to the southwestern part of Tanaris and looking for her in Thistleshrub Valley.Destiny calls!",
-    "name": "Warchief's Command: Uldum!",
-    "requires_level": 83,
-    "side": "horde",
-    "zone": "Uldum"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9709",
-    "description": "<Class>, I've got an idea.   I want you to head north again, this time into the heart of ogre territory!Northwest of the Hewn Bog there is a place named Ango'rosh Stronghold, which sits on a floating island across a large mushroom bridge.The ogres must be storing the harvested mushrooms there.  I bet you'll find them all over the place, and probably on the ogres themselves, too!Bring me a sufficient number and I will try to do something about providing the bog lords with a new source of nourishment.",
-    "name": "Stealing Back the Mushrooms",
-    "requires_level": 61,
-    "zone": "Zangarmarsh"
-}

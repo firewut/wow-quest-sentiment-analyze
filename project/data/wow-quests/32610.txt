@@ -1,8 +1,0 @@
-{
-    "_id": "32610",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Rare Boss Tracking Quest",
-    "requires_level": 90,
-    "zone": "Quests"
-}

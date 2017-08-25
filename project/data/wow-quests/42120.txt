@@ -1,8 +1,0 @@
-{
-    "_id": "42120",
-    "added_in_patch": 7,
-    "description": "Too many know of its location, the tomb must be closed forever. First, we must reclaim the hammer.\r\n\r\nTyrosus has lent us a force to aid in the recovery of the hammer, and some of my order will meet us there as well, but I fear even that may not be enough. I'm glad we'll have you with us.\r\n\r\nTake the portal to Dalaran Crater, then fly to Tirisfal Glades and meet us. I've marked the location on your map.",
-    "name": "The Silver Hand",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

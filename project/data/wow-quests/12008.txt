@@ -1,8 +1,0 @@
-{
-    "_id": "12008",
-    "description": "Directly east of this refugee camp stands Agmar's Hammer - testament to the Hordes' power in the Dragonblight.While I have no doubt that our Horde brothers and sisters are already seeing the result of your efforts to bring the taunka into the Horde, I want you to deliver news of your success to Overlord Agmar in person.Go now, <name>! Race the winds! East to Agmar's Hammer!\r\n",
-    "name": "Agmar's Hammer",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

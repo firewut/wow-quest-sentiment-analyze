@@ -1,7 +1,0 @@
-{
-    "_id": "29250",
-    "description": "You aren't one of the zombies...A troll?  I did see one, just before the outbreak...  He warned us, told us to be on our guard... But it was too late.Your troll friend headed to Booty Bay to warn them...",
-    "name": "Making Contact",
-    "requires_level": 85,
-    "zone": "Northern Stranglethorn"
-}

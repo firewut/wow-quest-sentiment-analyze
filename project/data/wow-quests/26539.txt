@@ -1,8 +1,0 @@
-{
-    "_id": "26539",
-    "description": "The Warchief's whereabouts are unknown! But we have to keep his plan moving forward. <name>, you look like you can get things done.Our negotiations with the Dragonmaw have stalled. Their Warchief is... not what we expected. I need you to go in there and get negotiations back on track.Meet with Ornak on the shore, he'll fill you in.Talk to Horzog on deck here for quick transportation to the shore.",
-    "name": "Stalled Negotiations",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Twilight Highlands"
-}

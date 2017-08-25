@@ -1,7 +1,0 @@
-{
-    "_id": "24568",
-    "description": "<name>, they're massing at the gates! The Alliance is trying to push their way into Mulgore, using footsoldiers to overwhelm the guards.We have so little with which to defend the walls. We've kept pots of water boiling to repel the attackers until help arrives... Those will have to do.But we need someone to coordinate our defenses. Say the word and I can give you an eagle-eye view of the battlefield.We need you, <name>!",
-    "name": "To the Walls!",
-    "requires_level": 31,
-    "zone": "Southern Barrens"
-}

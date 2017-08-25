@@ -1,8 +1,0 @@
-{
-    "_id": "25473",
-    "description": "Sassy's been riding me to supply some Kaja'cola for the party that's being thrown in your honor later today.Oops, was it supposed to be a surprise? You didn't hear it from me!Anywho, with production down these last few days, this is all that I managed to get made. Would you take it to her?",
-    "name": "Kaja'Cola",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

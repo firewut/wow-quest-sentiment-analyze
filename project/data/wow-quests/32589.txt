@@ -1,8 +1,0 @@
-{
-    "_id": "32589",
-    "added_in_patch": 5.2,
-    "description": "Scouts unearthed this strange construct hidden within the Lightning Vein Mine. A secret weapon of the Thunder King no doubt.Perhaps, there is a chance we can use this discovery to our benefit. If we can re-animate it, we can study it. More importantly, we can discover its weakness.Go to the Throne of Thunder and use this crystal to capture whatever essence animates these constructs.Return to me when the task is complete.",
-    "name": "Life Blood",
-    "requires_level": 90,
-    "zone": "Quests"
-}

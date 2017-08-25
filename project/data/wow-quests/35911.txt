@@ -1,8 +1,0 @@
-{
-    "_id": "35911",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Stonecore Reward Quest",
-    "requires_level": 81,
-    "zone": "Quests"
-}

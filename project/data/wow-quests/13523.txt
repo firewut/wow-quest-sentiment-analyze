@@ -1,7 +1,0 @@
-{
-    "_id": "13523",
-    "description": "Do not worry about me.  My wounds are deep and death will soon come to me.It is all up to you now... you must stop the Twilight's Hammer.The Old Gods they worship have granted them power over the restless water spirits... but that power is tenuous.  Channel Elune's presence through this orb once the elementals have been defeated.Use the power of Elune to banish the spirits permanently.",
-    "name": "Power Over the Tides",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

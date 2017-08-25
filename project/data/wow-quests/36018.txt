@@ -1,8 +1,0 @@
-{
-    "_id": "36018",
-    "added_in_patch": 6.1,
-    "description": "<name>, I'm going to have to hit the books and do more research to figure out how to locate Gul'dan or untangle his mind control of Garona. It's not glamorous, but the life of a mage is often spent in long hours of grueling study.As for you, there's much to do. Ensure that your garrison is fully upgraded, locate the best possible equipment, and continue fighting the Iron Horde.I will summon you when the next step of our journey is ready.",
-    "name": "We're Not Finished...",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

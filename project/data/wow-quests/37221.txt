@@ -1,8 +1,0 @@
-{
-    "_id": "37221",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Dekorhan's Tusk",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

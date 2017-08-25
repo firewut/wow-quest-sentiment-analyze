@@ -1,8 +1,0 @@
-{
-    "_id": "41463",
-    "added_in_patch": 7,
-    "description": "As we retreated from Val'Sharah, our company was briefly separated by a conflict with some satyrs at the border.\r\n\r\nOne of our own did not make it here- Mythandros' brother, Kalendros. I would like you to try and find him if you could.\r\n\r\nSearch the woods just before the bridge back into Val'Sharah.",
-    "name": "Missing Along the Way",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

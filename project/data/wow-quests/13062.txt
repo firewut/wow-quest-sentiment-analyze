@@ -1,7 +1,0 @@
-{
-    "_id": "13062",
-    "description": "You've been a great ally, <name>.  Now comes your true test.  You will need skill, courage and a little luck.<Lok'lira attaches a thin strand of hair to yours.>You cannot fail now sister.  Speak to Gretta the Arbiter.  She'll see you on your way.",
-    "name": "Lok'lira's Parting Gift",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

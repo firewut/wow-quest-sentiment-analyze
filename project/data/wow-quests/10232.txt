@@ -1,7 +1,0 @@
-{
-    "_id": "10232",
-    "description": "The Burning Legion has moved in on our claim at the Scrap Field down the path and across the bridge to the east.This could be a huge problem for us!  With the Legion at the Arklon Ruins, and now there, it's starting to look bad for us - and the rocket project - here at Area 52.<name>, I need you to go out there and deal with those demons!  I'd do it, but I'm a lover, not a fighter.Yep, this is going to be trouble, I can feel it!",
-    "name": "In A Scrap With The Legion",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "10144",
-    "description": "You'll find the Legion front to our northeast, and spaced along it are portals used to gather reinforcements from throughout Outland. We, <name>, are going to destroy those portals!Take this primer.  Designed in Area 52, it uses the demons' own power as an explosive device!  Defeat Legion forces around Portals Grimh and Kaalez to gather demonic rune stones, use the primer to detonate the stones inside the portals... then watch the fireworks!!Go, <name>, and return to me when your mission is complete.",
-    "name": "Disrupt Their Reinforcements",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

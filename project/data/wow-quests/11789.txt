@@ -1,8 +1,0 @@
-{
-    "_id": "11789",
-    "description": "You there!  Please, I need your help.  This soldier will succumb to the cryptfiends' venom unless we act immediately.I've managed to slow down the poison, but without a suitable supply of antidote I cannot counteract it.I was promised a new shipment of anti-venom in the Stormbreaker's most recent trip from the south.  Go inside its hold and search for a chest of first aid supplies.Hurry, <class>!  We can't afford to lose any more men unnecessarily.",
-    "name": "A Soldier in Need",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

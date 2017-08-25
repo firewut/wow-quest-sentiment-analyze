@@ -1,8 +1,0 @@
-{
-    "_id": "42104",
-    "added_in_patch": 7,
-    "description": "Here, I'm too slow to get these laggards to safety. Take my horn and sound the evacuation.We need to get the people out of here before the drogbar arrive. The warbraves can take it from there.For now just send them over to Spiritwalker Ebonhorn. That fool can watch over them until it is safe.",
-    "name": "The Underking Comes",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

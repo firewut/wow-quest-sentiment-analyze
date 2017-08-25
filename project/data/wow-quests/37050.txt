@@ -1,9 +1,0 @@
-{
-    "_id": "37050",
-    "added_in_patch": 6,
-    "description": "Many beasts will cower in fear at the sight of a mighty predator. In the desolate cliffs of Gorgrond lives one of the most fierce. It will prove your next challenge.Take your beast to the nest of the great Riplash, and see if you cannot emerge victorious.",
-    "name": "Clefthoof Training: Riplash",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

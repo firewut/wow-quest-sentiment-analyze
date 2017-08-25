@@ -1,7 +1,0 @@
-{
-    "_id": "13012",
-    "description": "",
-    "name": "Sardis the Elder",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36092",
-    "added_in_patch": 6,
-    "description": "This branch is proof of your strength at slaying ancients and your gladiator friend has born witness!Take the branch back to Jonaa and claim your accolades!",
-    "name": "Proof of Strength: Ancient Branch",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

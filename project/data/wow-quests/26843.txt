@@ -1,8 +1,0 @@
-{
-    "_id": "26843",
-    "description": "We've dealt with kobolds in these lands for years. Not much other than a nuisance. But they've been getting craftier at their stealing.I think one of them's ended up smarter than usual. Won't be that way for long, though!I want you to go to the camp south of here and make sure there's not a \"big shot\" kobold stirrin' up the other ones. Make sure to check the cave; it's a likely spot.And don't be shy about clearing out the other kobolds along the way.",
-    "name": "A Tiny, Clever Commander",
-    "requires_level": 11,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

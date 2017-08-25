@@ -1,8 +1,0 @@
-{
-    "_id": "87",
-    "description": "I was playing near the Fargodeep Mine, and I think I dropped, er...I mean I saw, the old lady's necklace.  Don't ask me how it got there...it wasn't me!Well anyway, I saw this big, gold-toothed kobold pick up the necklace and run back to his den above the mine.  Go find that kobold and you'll find the necklace, I swear!",
-    "name": "Goldtooth",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

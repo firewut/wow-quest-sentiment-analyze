@@ -1,7 +1,0 @@
-{
-    "_id": "24558",
-    "description": "We must get this book to Myralion Sunblade. Would you bring it to him? I cannot rely on anyone else to transport the book and you have proven adept at evading the Silver Covenant's men.Take it with you to Quel'Delar's Rest, south of the Argent Tournament Grounds in Icecrown. Myralion will be waiting for you. If he can identify that blade, we may be able to claim it in the name of Aethas Sunreaver and show Dalaran and the Alliance that we will lead the charge against the Lich King.",
-    "name": "Return To Myralion Sunblaze",
-    "requires_level": 80,
-    "zone": "Icecrown"
-}

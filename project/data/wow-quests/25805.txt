@@ -1,8 +1,0 @@
-{
-    "_id": "25805",
-    "description": "After pulling the barrel free from the muck and opening it, a silvery figurine is found packed in fine straw.  It depicts a young, long-haired paladin with hammer upraised.This must be the Menethil statuette!  You must now return it to Karl Boran in Menethil Harbor.",
-    "name": "Return the Statuette",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11061",
-    "description": "As to that other magical flask, it can only be obtained from one spot: Bash'ir Landing.  It's an ethereal base, and they aren't too friendly with outsiders, so it might be a little dangerous to obtain.Where's Bash'ir Landing, you ask?  Well, if you get on your flying steed and head north by northeast, well past Forge Camp: Wrath, you'll eventually spot it.  The Bash'ir crystalforge itself is at the northeast corner of the landing.Thank you for doing this, <name>.  It'll mean the world to our sons!",
-    "name": "A Father's Duty",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

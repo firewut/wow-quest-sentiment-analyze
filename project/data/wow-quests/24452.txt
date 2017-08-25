@@ -1,8 +1,0 @@
-{
-    "_id": "24452",
-    "description": "Things seem to be quieting down a bit. Gallywix will probably keep forking out cash to keep us posted here, but I have a feeling we might be able to milk a bit more out of the deal.Naga and Sea Giants aren't normally friends, so the naga must be controlling them somehow. Take this stealth field generator, get in those ruins, and let me know if you find something that looks really pricey.",
-    "name": "Profitability Scouting",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Azshara"
-}

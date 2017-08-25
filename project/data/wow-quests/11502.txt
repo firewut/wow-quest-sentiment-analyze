@@ -1,7 +1,0 @@
-{
-    "_id": "11502",
-    "description": "We are not a warlike race, <race>.  However when war comes to our lands, we do not run away from it.The Alliance and the Horde wage war in the city of Halaa, to the northwest. We do not know what the blood elves are scheming, but any victory for the Horde would be disastrous.  The history between our people and the orcs is one of bloodshed and betrayal.Go and slay the enemy in Halaa and you will be rewarded in coin, honor and renown.",
-    "name": "In Defense of Halaa",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "28563",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report Watch Captain Parker at Tower Watch in the Redridge Mountains.Captain Parker's forces have come under attack from marauding gnolls and orcs. The people of Lakewood are in peril and your aid is needed to safeguard them. Travel east from the border of Elwynn Forest and into the Three Corners area of Redridge to reach Tower Watch.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Redridge Mountains!",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Redridge Mountains"
-}

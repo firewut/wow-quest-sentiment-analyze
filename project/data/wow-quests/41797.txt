@@ -1,8 +1,0 @@
-{
-    "_id": "41797",
-    "added_in_patch": 7,
-    "description": "As her name suggests, Imp Mother Dyala is adept at summoning imps.\r\n\r\nWhile the council controls Dreadscar Rift, her services will be ours to use as we see fit.\r\n\r\nSpeak to her if you wish to train a pack of imps.",
-    "name": "Recruiting The Troops",
-    "requires_level": 101,
-    "zone": "Warlock Campaign"
-}

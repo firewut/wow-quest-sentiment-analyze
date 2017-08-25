@@ -1,7 +1,0 @@
-{
-    "_id": "27120",
-    "description": "",
-    "name": "The Gordok Ogre Suit",
-    "requires_level": 42,
-    "zone": "Dire Maul"
-}

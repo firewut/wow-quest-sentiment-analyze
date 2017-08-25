@@ -1,7 +1,0 @@
-{
-    "_id": "24926",
-    "description": "Greetings.  I unit A-Me 01.  You... <race>?A-Me's mission to study the local gorillas was success.  A-Me has gathered data that Karna needs.A-Me 01 not returning, though.  A-Me has new family now.  Here, with the gorillas, A-Me stay.<A-Me 01 detaches a small device from her hand and gives it to you.>You bring data back to Karna.  You tell her what happen.",
-    "name": "Serving A-Me 01",
-    "requires_level": 50,
-    "zone": "Un'Goro Crater"
-}

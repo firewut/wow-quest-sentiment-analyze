@@ -1,7 +1,0 @@
-{
-    "_id": "28224",
-    "description": "Ahhh... thank you, little <race>. I and others have tried so many times to grow in this forest, without success.The Withered Protector that lurks in the north is the only ancient to have grown to maturity since the ruining of the forest, but his body is sick and his mind is mad. Just as we gathered the spirits of the treants, I would save those that dwell in him rather than leave them behind.Defeat him, and let his spirits join me before I set my roots.",
-    "name": "The Last Protector",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

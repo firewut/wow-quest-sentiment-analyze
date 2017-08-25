@@ -1,8 +1,0 @@
-{
-    "_id": "41919",
-    "added_in_patch": 7,
-    "description": "The Fangs of the Devourer are wielded by Akaari Shadowgore, one of Kil'Jaeden's personal assassins. Every attempt on her life ends the same... she's gone before we even arrive.<Valeera scrawls a few lines on a piece of paper, then hands it to you.>But not this time. We've been working with these contacts to find Akaari so we can finally take the Fangs for our own purposes.Go to each contact and tell them \"The shadows reveal.\" See what they know.",
-    "name": "The Shadows Reveal",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

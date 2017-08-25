@@ -1,7 +1,0 @@
-{
-    "_id": "10193",
-    "description": "Based on the roster information, we know that the brains of the manaforge operations are the warp-masters and warp-engineers.  It is they who oversee the retrieval of a so called \"warp-energy\" by the manaforge and its delivery to a remote destination via a system of underground pipes.The only other specialists in the area are geologists.  Everyone else is either part of the military or a magister crony; both easily replaced.Get in there and kill Kael's specialists; that's what'll hurt him the most.",
-    "name": "High Value Targets",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

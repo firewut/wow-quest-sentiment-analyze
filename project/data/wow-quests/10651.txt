@@ -1,7 +1,0 @@
-{
-    "_id": "10651",
-    "description": "We must dispose of this foul artifact, but not before we use it to dispose of Varedis's powers.We need to permanently shut down the Ruins of Karabor training grounds, which will mean killing not only Varedis but also the three night elf masters that assist him: Alandien, Theras and Netharel.Gather a suitable force and return to the Ruins of Karabor.  Follow Altruis's instructions for defeating Varedis.  For all of our sakes, I hope they work.",
-    "name": "Varedis Must Be Stopped",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

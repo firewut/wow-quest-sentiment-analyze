@@ -1,7 +1,0 @@
-{
-    "_id": "25391",
-    "description": "Imbuing the muisek into the weapons is a difficult process. Now that I have all of the required materials and the muisek of the creatures that you captured, I may begin. Please wait; I will return in a moment.",
-    "name": "Weapons of Spirit",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

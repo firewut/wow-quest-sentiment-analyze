@@ -1,8 +1,0 @@
-{
-    "_id": "31623",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Stormstout Brewery Challenge Mode - Gold Addition (Nth)",
-    "requires_level": 90,
-    "zone": "Quests"
-}

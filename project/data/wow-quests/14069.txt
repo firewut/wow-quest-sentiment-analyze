@@ -1,8 +1,0 @@
-{
-    "_id": "14069",
-    "description": "I've failed! I tried to meet our Kaja'Cola quotas, but you know troll slaves these days. Good help is hard to find!I think your personal touch is called for. A shock from the battery on your Goblin All-In-1-Der Belt should do the trick. Adjust their attitudes and the rest will fall in line.Kaja'Cola production must continue or the Trade Prince will have all of our heads!",
-    "name": "Good Help is Hard to Find",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

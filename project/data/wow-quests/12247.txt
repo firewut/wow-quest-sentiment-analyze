@@ -1,7 +1,0 @@
-{
-    "_id": "12247",
-    "description": "The furbolgs of Grizzly Hills carry with them a corruption of some kind, that is for sure.  Tribal war has broken out amongst them after years of peaceful coexistence.What remains to be seen is whether the bears they worship as gods have also been tainted.Ursoc's two children, Orsonn and Kodian, dwell in the Heart's Blood Shrine and the Rage Fang Shrine, south and southeast of Grizzlemaw.See if they will speak to you regarding what has happened here.",
-    "name": "Children of Ursoc",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

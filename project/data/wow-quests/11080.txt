@@ -1,7 +1,0 @@
-{
-    "_id": "11080",
-    "description": "Now that you have felt the enlightening vibrations of the apexis relics, it is time for you to further your understanding of their workings.  We are very eager to benefit from your observations!As you progress in your ability to attune to the relics, you will gain a higher level of knowledge.  This recognition will come in the form of an emanation from the relic.Return to us when you have attained such an emanation.",
-    "name": "The Relic's Emanation",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

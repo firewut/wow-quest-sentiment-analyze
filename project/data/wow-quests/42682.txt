@@ -1,8 +1,0 @@
-{
-    "_id": "42682",
-    "added_in_patch": 7,
-    "description": "I heard a rumor that you are going to attempt to make contact with Illidan's immortal demon soul in the Twisting Nether. You are going to need many magical things.\r\n\r\nI have taken the luxury of putting together a potential list for you. I do so hope that it proves helpful,  handsome.",
-    "name": "Additional Accoutrements",
-    "requires_level": 101,
-    "zone": "Demon Hunter Campaign"
-}

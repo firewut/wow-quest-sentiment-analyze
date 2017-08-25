@@ -1,7 +1,0 @@
-{
-    "_id": "27487",
-    "description": "I know we're supposed to head to Northdale, but that can wait, right?  Besides, this lovely little goblin was just telling me about some Scourge that are even closer by.So apparently there's this nerubian underlord named Ix'lar that has been trying to make a name for himself ever since the Lich King was slain.  He's set up a camp of undead to our north.Sure, Tyrosus wants us to kill banshees in Northdale.  We'll get to that.  But let's kill this nerubian first, while we're close!",
-    "name": "Ix'lar the Underlord",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

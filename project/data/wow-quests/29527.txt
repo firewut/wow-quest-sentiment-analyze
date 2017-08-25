@@ -1,8 +1,0 @@
-{
-    "_id": "29527",
-    "description": "Watchkeeper Gargolmar and Vazruden the Herald are in charge of defending these ramparts.If you take them out, their forces will be in complete disarray.Slay them both and bring me proof so the invasion can begin!",
-    "name": "War on the Ramparts",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Quests"
-}

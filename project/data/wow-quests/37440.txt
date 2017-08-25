@@ -1,9 +1,0 @@
-{
-    "_id": "37440",
-    "added_in_patch": 6,
-    "description": "It's a shame that we've lost control of many of the creatures here on the island.  This was once a tranquil place of study and research.  Now it's all we can do to keep from being attacked by our own creations!I'm going to offer you a chance to receive a magical boon in exchange for some collecting work on your part.  Bring me a stack of arcane slivers that are found on the mana-using creatures of Sunstrider Isle, and I will cast a spell on you that should aid your adventures on the isle.",
-    "name": "A Fistful of Slivers",
-    "requires_level": 2,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

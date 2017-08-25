@@ -1,8 +1,0 @@
-{
-    "_id": "32685",
-    "added_in_patch": 5.2,
-    "description": "You don't even need to equip a fishing pole in Pandaria!The waters are TEEMING with fish. You'll catch one pretty much every time, as long as you are paying attention. Give it a go!",
-    "name": "No Fishing Pole Necessary!",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10638",
-    "description": "Seek your trainer in Silvermoon City.",
-    "name": "NOT A QUEST",
-    "requires_level": 10,
-    "zone": "Priest"
-}

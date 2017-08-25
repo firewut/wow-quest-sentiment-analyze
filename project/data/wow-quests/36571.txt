@@ -1,8 +1,0 @@
-{
-    "_id": "36571",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Bonus Objective: Iyun Weald",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38562",
-    "description": "The Auchenai have been reporting for some time that something was... wrong... with Auchindoun since Teron'gor's original assault. Now suddenly the Sargerei attacked and blew open a hole into one of the underhalls.\r\n\r\nCorruption leaks from that breach. We must investigate!",
-    "name": "Secrets of the Sargerei",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

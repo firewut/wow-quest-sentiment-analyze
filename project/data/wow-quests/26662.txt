@@ -1,7 +1,0 @@
-{
-    "_id": "26662",
-    "description": "The charts mention a group called the Brashtide Crew.  This name is new to you, though you've heard about a few other newcomers to the Buccaneers.Maybe it's time you paid them a visit and found out what they know.",
-    "name": "The Brashtide Crew",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

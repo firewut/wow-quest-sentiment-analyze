@@ -1,7 +1,0 @@
-{
-    "_id": "28432",
-    "description": "Undercover work is all about swagger.  Just act like you're supposed to be there, and you'll be fine.Your contact inside Black Tooth Hovel will be an orc by the name of Quartermaster Kaoshin.  He does NOT know you're a spy, so try and stay cool.  Do whatever he asks of you.<Eitrigg presses a small mechanical object into your palm.>Place this device in your ear.  I will be in touch to give you any special instructions.Good luck out there, soldier.",
-    "name": "Into the Black Tooth Hovel",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38951",
-    "added_in_patch": 7,
-    "description": "This shop has almost everything we need. Unfortunately, the quality of your sewing needles is lacking.I do know where you can get better needles. The sprites of Val'sharah are covered with spines which, fortuitously, are perfect for the type of sewing we need.I hate to be such a prickler stickler, but these needles really will make a difference.",
-    "name": "A Needle Need",
-    "requires_level": 102,
-    "zone": "Tailoring"
-}

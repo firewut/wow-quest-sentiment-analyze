@@ -1,8 +1,0 @@
-{
-    "_id": "32418",
-    "added_in_patch": 5.1,
-    "description": "Most shopkeepers in the Magus Commerce Exchange have sided with the Silver Covenant, but there remain a few holdouts that must be taken care of.<Vereesa shows you a list of names.>They will not go easily.",
-    "name": "Unfair Trade",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

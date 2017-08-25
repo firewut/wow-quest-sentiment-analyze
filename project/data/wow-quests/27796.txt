@@ -1,8 +1,0 @@
-{
-    "_id": "27796",
-    "description": "Once those Reliquary honks got here, we panicked, and we all just started looting indiscriminately.A lot of bad archaeology happened that day.Luckily, Olga happened upon this small jade statue.  We thought it to be a key of some sort, but can't figure out what it opens.  Maybe you'll have some better luck with it.",
-    "name": "The Warden's Pawn",
-    "requires_level": 44,
-    "side": "alliance",
-    "zone": "Badlands"
-}

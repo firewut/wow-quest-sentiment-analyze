@@ -1,8 +1,0 @@
-{
-    "_id": "25927",
-    "description": "Flame has threatened me for far too long... far too long... but it is no longer the little ones, no longer mere gnats...The fields burn! The hills and highlands scream, <race>, they scream. The elementals brought here consume all life in their wake.They cannot stand, they cannot stand. Stop them. STOP THEM! Destroy the bringers of flame...",
-    "name": "The Threat of Flame",
-    "requires_level": 23,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

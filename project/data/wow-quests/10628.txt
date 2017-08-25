@@ -1,7 +1,0 @@
-{
-    "_id": "10628",
-    "description": "You've proven what side you're on.  I will reveal to you our leader's hideout.Follow the halls beyond; there will be an underground passage hidden by stagnant water on your right.I must warn you, <name>.  You are not to speak to anyone of what you see there.",
-    "name": "Akama",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

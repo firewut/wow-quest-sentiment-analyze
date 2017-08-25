@@ -1,7 +1,0 @@
-{
-    "_id": "27272",
-    "description": "It seems that the elders in our ranks have taken notice of your progress and dedication, <name>. Demisette Cloyce, one of the oldest and most respected members of our circle, has sent word that she wishes to speak with you. You should not take such an invitation lightly. Most only speak with her in the course of their lessons, but if she has asked to see you personally, it must be an important matter.Hurry back to Stormwind and look for her beneath the Slaughtered Lamb in the Mage Quarter.",
-    "name": "Demisette Sends Word",
-    "requires_level": 20,
-    "zone": "Warlock"
-}

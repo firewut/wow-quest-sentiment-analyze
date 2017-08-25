@@ -1,7 +1,0 @@
-{
-    "_id": "29563",
-    "description": "You have to help me! We were sent here to investigate the various parts of the reservoir, but my friends haven't come back yet, and it's been a long time.That's why I need you to discover what became of them. Naturalist Bite and Weeder Greenthumb went this way.",
-    "name": "Lost in Action",
-    "requires_level": 62,
-    "zone": "The Slave Pens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41478",
-    "added_in_patch": 7,
-    "description": "My friend Solendra Featherdown went to explore the habitat of the native Nightsabers. \r\n\r\nNow that we have the blessings of the Feathermane and the Sablehorn it is time to seek the blessing of the Nightsabers. She is just on the other side of this glade, to the North.",
-    "name": "The Final Blessing",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

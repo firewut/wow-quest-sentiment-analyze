@@ -1,8 +1,0 @@
-{
-    "_id": "29536",
-    "description": "We know that the fel orcs are growing their forces by infusing orcs with demon blood.I need you to venture deep inside these unholy halls and find out how that's happening. We can't risk sending an army into this place until we know exactly what we're dealing with.",
-    "name": "Heart of Rage",
-    "requires_level": 59,
-    "side": "horde",
-    "zone": "Quests"
-}

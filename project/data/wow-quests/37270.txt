@@ -1,8 +1,0 @@
-{
-    "_id": "37270",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Alchemy Experiment",
-    "requires_level": 1,
-    "zone": "Engineering"
-}

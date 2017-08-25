@@ -1,8 +1,0 @@
-{
-    "_id": "824",
-    "description": "The Earthen Ring is a shamanistic group dedicated to studying and preserving the elements.  They have forgotten more about crazy old gods, ancient legends and lore than most scholars will ever know.Lucky for you, I know someone in the Earthen Ring here in Ashenvale.  Head over to Zoram'gar Outpost on the coast of the Zoram Strand; show Je'neu Sancrea what you found.  If anyone can figure out that globe's significance, it'd be him.",
-    "name": "Je'neu of the Earthen Ring",
-    "requires_level": 23,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

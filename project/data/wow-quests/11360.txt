@@ -1,7 +1,0 @@
-{
-    "_id": "11360",
-    "description": "With the Headless Horseman at large, the heroes of Goldshire are always ready to form a fire brigade.  Do you want to help?North of here, guards set up a small area to practice fighting fires.  Go there and throw buckets onto the blazes.  You can fill a bucket from the water barrel here, or the one near the fires.Good bye, <name>.  When you're done with fire brigade practice, please visit us again!",
-    "name": "Fire Brigade Practice",
-    "requires_level": 1,
-    "zone": "Hallow's End"
-}

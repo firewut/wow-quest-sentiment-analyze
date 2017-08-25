@@ -1,7 +1,0 @@
-{
-    "_id": "3518",
-    "description": "The first tablet goes to a tauren female... one called Magatha. She is among the elders in Thunder Bluff, and is one of the proponents of the alliance between the tauren and the Forsaken. She, more than anyone among the elders, feels the tauren and their ways can help the Forsaken find a path back to being human.Bring her the Tablet of Beth'Amara. The tablet may be the link she needs in finding a way to help the Forsaken... or so she claims.",
-    "name": "Delivery to Magatha",
-    "requires_level": 45,
-    "zone": "Azshara"
-}

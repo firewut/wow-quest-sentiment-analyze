@@ -1,8 +1,0 @@
-{
-    "_id": "41216",
-    "added_in_patch": 7,
-    "description": "The collar you took from the trapper is simple, but effective. Affixing the collar to a target will make them complacent and obedient to their Nightborne masters. Lilryia was able to reverse the spell using the traps you found.The magics in the collar can now be used to cancel out the other collars.How about giving the Nightborne a reminder that nature always finds a way?",
-    "name": "Survival of the Fittest",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

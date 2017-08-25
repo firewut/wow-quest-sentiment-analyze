@@ -1,8 +1,0 @@
-{
-    "_id": "35761",
-    "added_in_patch": 6,
-    "description": "After the Iron Horde took Nethergarde we attacked. While we killed the Iron Horde at Nethergarde they brought more forces through the portal and took Okril'lon Hold. So many souls stripped of their bodies by those savages.We must not forget those that gave their lives at Nethergarde. If you find any mementos of the fallen, bring them back to me.",
-    "name": "Ransacking Nethergarde",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

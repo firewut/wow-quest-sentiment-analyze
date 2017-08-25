@@ -1,8 +1,0 @@
-{
-    "_id": "39354",
-    "added_in_patch": 7,
-    "description": "Wisps are the spirits of our Night elven brethren who have become one with the forest. But their minds and the way they perceive things are very different than in life.You should bond with this little one. See through its eyes as it travels to the hidden pools and grows some trees.",
-    "name": "Wisp in the Willows",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

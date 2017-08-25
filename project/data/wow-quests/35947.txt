@@ -1,9 +1,0 @@
-{
-    "_id": "35947",
-    "added_in_patch": 6,
-    "description": "G.V.? We need a name and a location. Not damned initials.<Velonara pulls out a small vial.>This is my last vial of wracking poison. We use it to extract information from prisoners. It is... potent.Coat your weapon with it and head into the Shattered Hand camp just ahead. Engage them as normal and demand answers - the poison will take care of the rest. I've had enough of these orcs.",
-    "name": "The Power of Poison",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

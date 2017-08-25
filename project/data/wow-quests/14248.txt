@@ -1,8 +1,0 @@
-{
-    "_id": "14248",
-    "description": "Great news! Foreman Dampwick has uncovered a cave full of kaja'mite on the island! What are the odds?Of course, there's a downside. He took some of the survivors with him to help mine the ore, but none of them have made it out.Crazy as it sounds, the foreman said that there are monkeys in the cave... with mining picks! They're mining the kaja'mite! How is that even possible?Can you head southeast to the cavern? The foreman is standing just outside the entrance.",
-    "name": "Help Wanted",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

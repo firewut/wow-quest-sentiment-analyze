@@ -1,8 +1,0 @@
-{
-    "_id": "35258",
-    "added_in_patch": 6,
-    "description": "The Apexis are long gone, but their legacy lies preserved in ancient chambers beneath Arak.Legions of dormant constructs; crystals flush with solar energy; magical techniques lost to the ages - the Apexis left behind caches of immense power, which the Adherents of Rukhmar have begun to unearth.Bring me the cores of the re-activated constructs patrolling the excavation site. Those crystals are the basis of Apexis technology, and the key to our enemy's devastating power.",
-    "name": "Legacy of the Apexis",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

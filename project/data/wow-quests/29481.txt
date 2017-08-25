@@ -1,7 +1,0 @@
-{
-    "_id": "29481",
-    "description": "Elixirs are all about potency!  If you want to become an elixir master, I can teach you.I can't just train anyone, and I require proof that you are devoted before we continue.  Several flasks should be sufficient to show your dedication.Remember <name>, you can only learn ONE specialization, so if you complete your elixir training, then potion and transmutation specialization will no longer be available.",
-    "name": "Elixir Master",
-    "requires_level": 1,
-    "zone": "Alchemy"
-}

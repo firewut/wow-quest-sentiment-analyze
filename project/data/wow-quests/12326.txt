@@ -1,7 +1,0 @@
-{
-    "_id": "12326",
-    "description": "This is a seek and destroy mission. You'll be driving a tank into the Carrion Fields to dismantle Scourge plague wagons. With the tank comes a crew of three 7th Legion soldiers. All must survive if this mission is to succeed!You'll need to get in close to a plague wagon to unleash your engineer. Let them do their deed and move on to the next one. When the field is clear of plague wagons, head to the mausoleum in front of the ruined keep and drop off the rest of your crew. Meet with Ambo Cash inside.",
-    "name": "Steamtank Surprise",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

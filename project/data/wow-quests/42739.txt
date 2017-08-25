@@ -1,8 +1,0 @@
-{
-    "_id": "42739",
-    "added_in_patch": 7,
-    "description": "<This runestone is entrapping Malace Shade. It can only be destroyed by using Runesage Floki's rune upon it.>",
-    "name": "Rune Ruination: Runesage Floki",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

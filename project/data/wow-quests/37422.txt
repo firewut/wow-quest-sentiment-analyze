@@ -1,7 +1,0 @@
-{
-    "_id": "37422",
-    "description": "",
-    "name": "Bonus Objective: Zangarra",
-    "requires_level": 94,
-    "zone": "Talador"
-}

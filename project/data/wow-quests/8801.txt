@@ -1,7 +1,0 @@
-{
-    "_id": "8801",
-    "description": "The walls of Ahn'Qiraj tremble. A force of evil, older than the world itself, has been destroyed.As you look at the remnants of the colossal abomination your heart nearly freezes. Even in death you can feel the legacy of C'Thun's evil around you.You have done what was thought to be impossible.You grab at an eye stalk of the fiend, stowing it safely in your pack.Take the Eye of C'Thun to the dragons in the next chamber. ",
-    "name": "C'Thun's Legacy",
-    "requires_level": 60,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "1455",
-    "description": "You take a few moments to figure out what pried the chest open, and you notice along the sides and top of the chest, long, deep scratches that reveal that something other than a man or giant took interest in it. The marks don't appear as if they were caused by dagger or sword.After going through the chest you find it to be completely empty.Not having another course of action, you close the chest and prepare to leave. Kreldig will be disappointed.",
-    "name": "The Karnitol Shipwreck",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

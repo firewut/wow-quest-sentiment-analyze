@@ -1,8 +1,0 @@
-{
-    "_id": "31064",
-    "added_in_patch": 5,
-    "description": "Hawkmaster Nurong has gone ahead to the northwest of Sik'vess to make sure the last mantid leader cannot escape.Catch up with him and help him kill the mantid leader. Nurong will bring back the final crystal once you've aided him in this.",
-    "name": "Nurong and Rothek",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

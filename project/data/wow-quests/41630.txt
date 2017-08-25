@@ -1,8 +1,0 @@
-{
-    "_id": "41630",
-    "added_in_patch": 7,
-    "description": "You have the power you need to destroy the Surge Needles. \r\n\r\nAt the location of the breaches where the Surge Needles pierce the ground, there will be a large concentration of void energy. Focus the power of Light's Wrath into these points of focused void, and the reaction should cause an overload, destroying the Surge Needle above.\r\n\r\nYou must act quickly. The Ethereum likely won't sit idly by as you lay waste to their machinations.",
-    "name": "Unleashing Judgment",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

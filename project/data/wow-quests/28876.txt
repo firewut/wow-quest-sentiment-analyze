@@ -1,7 +1,0 @@
-{
-    "_id": "28876",
-    "description": "Kadrak at the Mor'shan Rampart to the north is calling for aid.The rampart rests on the border between the Northern Barrens and Ashenvale. It is the front line in the fight against the Alliance.We're driving the night elves out of the forest. We'll claim its resources for the Horde!To get there, take the Gold Road north out of the Crossroads.Destiny calls!",
-    "name": "To the Mor'shan Rampart",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

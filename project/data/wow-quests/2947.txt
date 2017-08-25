@@ -1,7 +1,0 @@
-{
-    "_id": "2947",
-    "description": "Opening the box produced by the Sparklematic 5200 reveals what you had suspected - a shiny ring!  Wearing the ring, you feel magic power surge through you body.Inside the band is a small but nonetheless discernable imprint of the seal of Ironforge.  Next to that, three small initials are engraved: \"TdK\".  This may signify either the initials of the previous owner, or perhaps the initials of the ring's crafter.  Keep the ring... or return it to this person.  Decisions, decisions...",
-    "name": "Return of the Ring",
-    "requires_level": 24,
-    "zone": "New Tinkertown"
-}

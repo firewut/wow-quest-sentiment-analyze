@@ -1,8 +1,0 @@
-{
-    "_id": "43899",
-    "added_in_patch": 7,
-    "description": "Salanar the Horseman has arrived at Ebon Hold from the Realm of Shadows. He alone has the knowledge and power to conjure the steeds of the Four Horsemen.Salanar has given us the first list of necessary components to create the steeds. I have organized a number of missions to obtain these items.Use the mission table to assign your chosen champions to the task.",
-    "name": "Steeds of the Damned",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

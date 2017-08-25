@@ -1,7 +1,0 @@
-{
-    "_id": "25862",
-    "description": "Our revered lady has sent me to aid you in your task. She wants you to retrieve the stolen Crucible of Nazsharin and bring it back here as soon as you can.She grows impatient to start the ritual of summoning so that we might fully begin our preparations for war.",
-    "name": "Stolen Property",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

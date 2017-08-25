@@ -1,8 +1,0 @@
-{
-    "_id": "41924",
-    "added_in_patch": 7,
-    "description": "If you spare me I can use the rune of portals you provided to open a gateway to Akaari's citadel in the Twisting Nether.Of course, killing the Legion's master assassin in her own domain will be no simple feat, but surely the Fangs of the Devourer are worth the risk, no?<Val'zuun smiles.>I will guide you through the citadel once you arrive, but you will have to defeat Akaari on your own.",
-    "name": "Fangs of the Devourer",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

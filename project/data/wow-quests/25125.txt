@@ -1,8 +1,0 @@
-{
-    "_id": "25125",
-    "description": "Okay, we have got to get out of here before she blows for good!Let's head out the other end of the tunnel on the north side of the mine. We should be able to use one of the mine carts for a quick ride down the side of the volcano.",
-    "name": "Light at the End of the Tunnel",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

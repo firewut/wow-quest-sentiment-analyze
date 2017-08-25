@@ -1,8 +1,0 @@
-{
-    "_id": "44073",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Help from Within",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

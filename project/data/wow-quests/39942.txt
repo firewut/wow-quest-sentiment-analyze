@@ -1,8 +1,0 @@
-{
-    "_id": "39942",
-    "added_in_patch": 7,
-    "description": "<Most aethril has a sharp crystalline fiber in the center of the bloom, but this one is particularly well-developed.><Professor Pallin would be interested in seeing this.>",
-    "name": "Aethrem Crystal",
-    "requires_level": 108,
-    "zone": "Inscription"
-}

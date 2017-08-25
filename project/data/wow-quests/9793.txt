@@ -1,8 +1,0 @@
-{
-    "_id": "9793",
-    "description": "Prophet Velen's search for allies has emboldened those draenei remaining in Outland to begin a search of their own. The Legion's war on my people drove us from our cities and temples, but they have not destroyed the traces of our civilization.Tuurem, my former home in the Terokkar Forest, was one of the first cities overrun by the orcs. It's been too long since I've received news of its status. Take this letter to Andarl in the Allerian Stronghold within Terokkar and see what you can find out.",
-    "name": "The Fate of Tuurem",
-    "requires_level": 62,
-    "side": "alliance",
-    "zone": "Zangarmarsh"
-}

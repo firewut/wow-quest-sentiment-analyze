@@ -1,8 +1,0 @@
-{
-    "_id": "39496",
-    "added_in_patch": 7,
-    "description": "We can leave Farmer Maya in charge of the farmland now that the greatest threat has been reduced.\r\n\r\nBut we aren't out of hot water just yet, <name>. The fisheries are just as important as our fields, and they are in even greater danger than the farm if what Angler Creel says is true.",
-    "name": "The Flow of the River",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

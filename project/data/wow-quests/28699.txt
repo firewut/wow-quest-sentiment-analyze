@@ -1,8 +1,0 @@
-{
-    "_id": "28699",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Lieutenant Doren at the Rebel Camp.Years after Colonel Kurzen's treachery against Stormwind, the truth of what happened remains a mystery. Aid the survivors in learning what became of the colonel. Travel south from Duskwood and follow the road west after crossing into the jungle to reach the Rebel Camp.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Northern Stranglethorn Vale!",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

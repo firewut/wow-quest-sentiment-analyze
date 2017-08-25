@@ -1,8 +1,0 @@
-{
-    "_id": "39317",
-    "added_in_patch": 7,
-    "description": "[ph] Defend the bluffs!",
-    "name": "Siege of Crawliac",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

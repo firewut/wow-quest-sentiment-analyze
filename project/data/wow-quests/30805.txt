@@ -1,8 +1,0 @@
-{
-    "_id": "30805",
-    "added_in_patch": 5,
-    "description": "After the mercenaries robbed us, most left.\r\n\r\nBut one of them... after the others took all we had, he ran the rest of us through. For sport!\r\n\r\nGet justice for the fallen. Perhaps news of their death will raise my spirits enough to go on.\r\n\r\nYou'll find them just west of here.",
-    "name": "Justice",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

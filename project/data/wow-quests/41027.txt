@@ -1,8 +1,0 @@
-{
-    "_id": "41027",
-    "added_in_patch": 7,
-    "description": "<The parchment is soaked in seawater. A note is hastily scribbled on it.>To whomever finds this note first,Before I was cast from Suramar, I was a master alchemist. In my time, I have concocted many potions and elixirs for the benefit of the Nightborne.All of this was forgotten when the Legion came.Before I succumb to the hunger, I wanted to create one last draught to celebrate my love of sea.Drink it and explore the vast deep in my honor.",
-    "name": "One Last Breath",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

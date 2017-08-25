@@ -1,9 +1,0 @@
-{
-    "_id": "38308",
-    "added_in_patch": 7,
-    "description": "Alliance personnel from the Skyfire were spotted parachuting into Blackbeak Overlook.I was unable to confirm numbers or positions during my flyover, but I did see parachutes tangled in treetops and a LOT of ravenbears on the ground.If anyone is up there, they must be laying low and keeping an eye on us.I have posted a rider at the top of the overlook to keep watch while I press forward into Stormheim.- Liza Cullen, Dread-Rider - 1st Wing",
-    "name": "Eyes in the Overlook",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

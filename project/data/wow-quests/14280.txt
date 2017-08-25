@@ -1,8 +1,0 @@
-{
-    "_id": "14280",
-    "description": "Most of us made it here alive... but there are worgen on this side of the city as well.We're going to continue heading south once everyone's accounted for.That reminds me, someone was asking about you.  It was that harvest-witch, Celestine; she said the winds spoke your name.You'd best hurry, <name>.  We're going to need you to get back to the worgen-smashing once you're done conversing with nature.",
-    "name": "The Winds Know Your Name... Apparently",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

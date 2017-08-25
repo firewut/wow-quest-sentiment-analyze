@@ -1,8 +1,0 @@
-{
-    "_id": "37241",
-    "added_in_patch": 6,
-    "description": "I have returned! You must have known that a world so rich in history could not keep me away for long!<Lorewalker Cho chuckles, holding his enormous belly.>I have perhaps been taking part in too many celebratory feasts, now that the Vale has been cleansed. There is so much to celebrate in Pandaria!Should you find any future evidence of titanic influence on the native species, I will be here, heartily enjoying the roast clefthoof.",
-    "name": "Lessons of the Past",
-    "requires_level": 100,
-    "zone": "The Everbloom"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12637",
-    "description": "It was either wisdom or luck that prevented you from wearing this choker, <race>.Either way, your acquiring it was no random occurance. You've been targeted by someone, or something....Take your choker to Bloodrose, here. Let her demonstrate the fate that nearly befell you.",
-    "name": "Near Miss",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

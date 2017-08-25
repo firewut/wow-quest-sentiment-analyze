@@ -1,8 +1,0 @@
-{
-    "_id": "42416",
-    "added_in_patch": 7,
-    "description": "Archmage Vargoth's involvement with the Empyrean Society is troubling. However, as he has proven his loyalty to the Kirin Tor many times, we must give him the benefit of the doubt for now. \r\n\r\nStill, I am obligated to share our concerns with the rest of the Council. You had best travel to Dalaran and meet with them in the Violet Citadel. I will remain here to care for our old friend.",
-    "name": "The Council is in Session",
-    "requires_level": 103,
-    "zone": "Mage Campaign"
-}

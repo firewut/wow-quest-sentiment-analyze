@@ -1,8 +1,0 @@
-{
-    "_id": "42508",
-    "added_in_patch": 7,
-    "description": "The Arcway Vaults have been buried and untouched for thousands of years. We have the legion to thank for it being accessible once again, though I would give much for it to remain hidden.\r\n\r\nI think we are not far behind Archmage Vargoth's heels and he may yet be inside the vaults. We should make haste if we hope to intercept him.",
-    "name": "Not A Toothless Dragon",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

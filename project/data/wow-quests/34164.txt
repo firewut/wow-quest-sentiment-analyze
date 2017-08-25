@@ -1,8 +1,0 @@
-{
-    "_id": "34164",
-    "added_in_patch": 6,
-    "description": "Please, <name>... I don't have much time.The Shadow Council have allowed themselves to be turned into demons by Teron'gor and his warlocks!I have reason to believe that the shadowborne dementors are using spells given to them by Gul'dan to empower the demonic orcs. Take their spellbooks and cast them into the fire by me... it will be a pleasant sight to die to.",
-    "name": "Book Burning",
-    "requires_level": 95,
-    "zone": "Talador"
-}

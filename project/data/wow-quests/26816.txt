@@ -1,7 +1,0 @@
-{
-    "_id": "26816",
-    "description": "Did you see that explosion I made?  I must have flown 10 inches off the ground!I've just got to get Zanzil's recipe so I can find out why it did that.  One of Zanzil's flunkies at the Ruins of Aboraz must have it on him.  Head east, to the coast of the Cape, and snatch it for me!",
-    "name": "Recipe for Disaster",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

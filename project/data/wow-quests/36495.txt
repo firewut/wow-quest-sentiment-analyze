@@ -1,9 +1,0 @@
-{
-    "_id": "36495",
-    "added_in_patch": 6,
-    "description": "Bodrick Grey sends word from your garrison that they have spotted a fleet of Iron Horde at the shores of Talador.We must not allow them to destroy Shattrath.",
-    "name": "News from Talador",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

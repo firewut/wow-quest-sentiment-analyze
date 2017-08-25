@@ -1,8 +1,0 @@
-{
-    "_id": "34810",
-    "added_in_patch": 6,
-    "description": "I'm here in Nagrand recruiting for the Steamwheedle Preservation Society. We're the archaeological branch of the Steamwheedle Cartel.We're here to collect all of the artifacts, relics, antiquities and oddities that Nagrand has to offer! Currently, we're hiring surveyors, excavators, adventurers... you name it!If you're interested in getting your hands dirty, talk to Gazmolf Futzwangler over at Stonecrag Gorge. He's the goblin in charge of this expedition!",
-    "name": "Gazmolf Futzwangler and the Highmaul Crusade",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

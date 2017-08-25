@@ -1,8 +1,0 @@
-{
-    "_id": "39686",
-    "added_in_patch": 7,
-    "description": "Kor'vas went ahead to meet up with Kayn and Altruis.\r\n\r\nStep onto the elevator when it arrives, and meet them in the Hall of Judgment above.",
-    "name": "All The Way Up",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

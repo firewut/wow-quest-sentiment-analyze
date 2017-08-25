@@ -1,8 +1,0 @@
-{
-    "_id": "42917",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Archmage Vargoth",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

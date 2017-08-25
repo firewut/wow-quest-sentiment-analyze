@@ -1,7 +1,0 @@
-{
-    "_id": "27305",
-    "description": "Inside the Scarlet Bastion is a painting of great personal value to Highlord Tirion Fordring. Search for a painting of our twin moons. Chip away at the paint until you uncover the master work, 'Of Love and Family.'May the Light guide your actions, and please handle the painting with the utmost care.",
-    "name": "Of Love and Family",
-    "requires_level": 42,
-    "zone": "Stratholme"
-}

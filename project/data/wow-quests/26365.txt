@@ -1,8 +1,0 @@
-{
-    "_id": "26365",
-    "description": "While the situation here is dire, other parts of the region are literally quaking from the great upheaval.I have here a report from Watch Captain Parker of Redridge Mountains, one of our territories east of Elwynn Forest. He is asking for a hero to come to their aid.We are spread so thin here that I don't know how we can afford to send anymore military. Would you check on Parker and see what he needs? You will find Watch Captain Parker atop the tower at Three Corners.",
-    "name": "Hero's Call: Redridge Mountains!",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Redridge Mountains"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "37633",
-    "description": "The Iron Horde has Goblins now? Take them out!",
-    "name": "Assault on Darktide Roost",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

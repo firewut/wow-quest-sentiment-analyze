@@ -1,7 +1,0 @@
-{
-    "_id": "28235",
-    "description": "Magistrate Burnside was once the mayor of this region. In life he was a formidable adversary in the battle over Hillsbrad. In undeath he will surely test us.Burnside channels great arcane magic in the northwest section of the Sludge Fields. Lead us there and together we shall put an end to his rule, once and for all.",
-    "name": "Burnside Must Fall",
-    "requires_level": 19,
-    "zone": "Hillsbrad Foothills"
-}

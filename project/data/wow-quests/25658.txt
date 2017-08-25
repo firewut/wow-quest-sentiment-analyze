@@ -1,7 +1,0 @@
-{
-    "_id": "25658",
-    "description": "My lady, I have a request from the High Priestess that I am to pass along to you. Many of the city's defenses remain from long before it sunk beneath the waves, and some of them are but a trivial task to reactivate, were it not for the countless Kvaldir that stand in our way.We are told you are to be fighting on Nar'shola Terrace above us. You would do my lady a great service if you would but touch some of the devices as you pass. Your noble blood should prove more than sufficient to reactivate them.",
-    "name": "Built to Last",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

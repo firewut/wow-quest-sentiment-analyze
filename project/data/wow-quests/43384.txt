@@ -1,8 +1,0 @@
-{
-    "_id": "43384",
-    "added_in_patch": 7,
-    "description": "I cannot stand by idly and allow the Legion to destroy our home. \r\n\r\nI've been studying their language for some time, deciphering any runes I can get my hands on, but my supply is severely limited. \r\n\r\nIf I had more runes to study, it's possible that I may discover something that will help us in locating Balnazzar.",
-    "name": "Demonic Runes",
-    "requires_level": 103,
-    "zone": "Priest Campaign"
-}

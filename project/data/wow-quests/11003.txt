@@ -1,8 +1,0 @@
-{
-    "_id": "11003",
-    "description": "The source of Illidan Stormrage's fel orc army has been vanquished. The manufactory halts production of its grim product - at least for now. All that remains are a few trinkets and this severed head - a fitting trophy for a hero of the Horde.Return Magtheridon's head to Nazgrel at Thrallmar.\r\n",
-    "name": "The Fall of Magtheridon",
-    "requires_level": 70,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

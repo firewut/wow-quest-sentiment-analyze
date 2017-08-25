@@ -1,8 +1,0 @@
-{
-    "_id": "35762",
-    "added_in_patch": 6,
-    "description": "The stupidity of the Dreadmaul ogres never ceases to amaze me. The Iron Horde is clearly using them to further their own nefarious agenda.Regardless, we must show the ogres what happens when you confront the true Horde. I think it's time we send the Dreadmaul ogres a message.",
-    "name": "Death to the Dreadmaul",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

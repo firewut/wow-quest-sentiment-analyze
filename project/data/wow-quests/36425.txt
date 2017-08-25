@@ -1,8 +1,0 @@
-{
-    "_id": "36425",
-    "added_in_patch": 6,
-    "description": "<A sweaty, pulsing egg - no doubt flush with ravager larvae.A swift kick should take care of these.>",
-    "name": "Egg Punt",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

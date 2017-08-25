@@ -1,7 +1,0 @@
-{
-    "_id": "29103",
-    "description": "Because of the emissary's warning we were able to gather more adventurers to help defend.  But we thought we were going to be fighting trolls.Instead we found ourselves overwhelmed by serpents!They seem to have come from everywhere.  We are barely able to hold on, and I only suspect it's going to get worse.Help us and eliminate the serpents and perhaps your troll friend here can use some magic to cure the poisoned.",
-    "name": "Serpents and Poison",
-    "requires_level": 85,
-    "zone": "Northern Stranglethorn"
-}

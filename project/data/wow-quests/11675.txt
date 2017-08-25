@@ -1,8 +1,0 @@
-{
-    "_id": "11675",
-    "description": "The magnataur at the Dens of Dying have contracted a plague. We must find the cause, but first we must put them out of their misery.<Race>, you must go north onto the slopes in front of us and destroy as many of the poor creatures as you can.",
-    "name": "A Proper Death",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

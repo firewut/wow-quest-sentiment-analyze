@@ -1,9 +1,0 @@
-{
-    "_id": "35737",
-    "added_in_patch": 6,
-    "description": "This is a worn page from Owynn Graddock's journal. It appears to be a sketch of the entrance of the Bloodmaul Slave Mines. Bodrick Grey, in your garrison, would be very interested in this.",
-    "name": "Writing in the Snow",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

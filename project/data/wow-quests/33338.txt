@@ -1,8 +1,0 @@
-{
-    "_id": "33338",
-    "added_in_patch": 5.4,
-    "description": "The hourglass gives us glimpses into the streams of time we once walked as easily as a well-worn path.Gather additional epoch stones, so that we may continue to use the power of the hourglass to delve into the mysteries of the timeways.The future depends on it.",
-    "name": "Empowering the Hourglass",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

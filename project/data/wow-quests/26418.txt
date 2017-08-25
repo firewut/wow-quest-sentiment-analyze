@@ -1,7 +1,0 @@
-{
-    "_id": "26418",
-    "description": "We've one last part to collect, and then we'll have everything we need.The Shell of Shadra is held by the spider god's last living high priestess, Qiaga the Keeper. She stands atop the Altar of Zul, guarded by other fanatical zealots.Simple enough, no? Get up the steps of the altar and send her head rolling back down them. Bring the shell to me and we will have Shadra at last.",
-    "name": "The Shell of Shadra",
-    "requires_level": 32,
-    "zone": "The Hinterlands"
-}

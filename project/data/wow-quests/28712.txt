@@ -1,7 +1,0 @@
-{
-    "_id": "28712",
-    "description": "Hello, <race>. I wish we could meet in more favorable circumstances. The world hangs by a thread, and all that the Titans have wrought may be in jeopardy.It saddens me greatly, but my judgment is final. Deathwing - the horrific creature that was once the Earth Warder and once my friend - must be destroyed.I have prepared a site atop the Highlands, to the west of the Vermillion Redoubt, where I can bring about his end. Seek out the Circle of Life and speak with Lirastrasza within. I will join you there.",
-    "name": "Enter the Dragon Queen",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

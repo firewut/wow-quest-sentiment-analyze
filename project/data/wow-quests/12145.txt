@@ -1,7 +1,0 @@
-{
-    "_id": "12145",
-    "description": "I can't believe dis! Another band of dose vermin just tried ta take off with more of our supplies. Dey're scurrying down da canyon now, get after dem and deal with whoever dey're going to!",
-    "name": "Canyon Chase",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

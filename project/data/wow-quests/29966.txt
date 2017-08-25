@@ -1,9 +1,0 @@
-{
-    "_id": "29966",
-    "added_in_patch": 5,
-    "description": "Look, <name>!These Alliance dogs built a camp up on the ridge.Here, take my grog. Let's make a fire they can see from Stormwind!For the Horde!",
-    "name": "Burning Down the House",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

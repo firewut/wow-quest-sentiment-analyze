@@ -1,7 +1,0 @@
-{
-    "_id": "9207",
-    "description": "I was sent here from the Sanctum of the Sun to collect some ore samples, but the gnolls have overrun the place! It's going to be my head on a platter if I don't get those samples to the magister soon. Maybe you could help, <class>?You can find the ore in the tin and copper veins here, and the gnolls are carrying it around, too. When you have enough, take it to Magister Quallestis at the Sanctum of the Sun directly to the east. Go across the Dead Scar and you'll find the sanctum just south of Sungraze Peak.",
-    "name": "Underlight Ore Samples",
-    "requires_level": 11,
-    "zone": "Ghostlands"
-}

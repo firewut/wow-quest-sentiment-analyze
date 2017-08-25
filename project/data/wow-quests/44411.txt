@@ -1,8 +1,0 @@
-{
-    "_id": "44411",
-    "added_in_patch": 7,
-    "description": "<You place the crystal to your ear and hear the disharmonious din of hundreds of voices speaking at once. Perhaps Khadgar might know more about this strange gem.>",
-    "name": "Strange Humming Crystal",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

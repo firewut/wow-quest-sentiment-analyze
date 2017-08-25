@@ -1,8 +1,0 @@
-{
-    "_id": "42477",
-    "added_in_patch": 7,
-    "description": "That text lists someone named Daio as being instrumental to the demonic ritual. They can't possibly mean Daio the Decrepit!I never knew he was Kirin Tor. I only know him as an elderly warlock who trains young recruits in the infernal arts. This would certainly explain his change of occupation.He most likely holds key information for this to work. Though retired, I believe he is still out in the Tainted Scar in the Blasted Lands. You should seek him out.",
-    "name": "Daio the Decrepit",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

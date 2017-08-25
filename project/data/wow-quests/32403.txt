@@ -1,8 +1,0 @@
-{
-    "_id": "32403",
-    "added_in_patch": 5.1,
-    "description": "Compared to the rest of the city, this part of the sewers is relatively calm. This is good - we can extract more Sunreavers in peace than we can in war.Find as many citizens as you can. Tell them that it is not safe here, that they must leave the city at once.And try to stay clear of the Silver Covenant. We don't want to cause a scene if we can avoid it. Not yet, anyhow.",
-    "name": "It Starts in the Sewers",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

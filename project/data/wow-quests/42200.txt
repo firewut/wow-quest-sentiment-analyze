@@ -1,8 +1,0 @@
-{
-    "_id": "42200",
-    "added_in_patch": 7,
-    "description": "In order for the Earthen Ring to bring the four Elemental Lords together in an alliance against the Burning Legion, we will need to convince Therazane the Stonemother to join forces with us.Therazane has been absent from our negotiations with the elements thus far.There have been whispers of a new threat arising from within Deepholm. If these rumors are true, she may have need of our aid.I have prepared a diplomatic mission to Deepholm to ascertain the situation. It is awaiting your assignment.",
-    "name": "Mission: Investigating Deepholm",
-    "requires_level": 103,
-    "zone": "Shaman Campaign"
-}

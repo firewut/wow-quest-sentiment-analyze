@@ -1,7 +1,0 @@
-{
-    "_id": "14055",
-    "description": "My wife Ellen has enlisted my help in keeping the tables stocked, but she can't make up her mind. First I was making pumpkin pie, but now she's changed her mind and she wants candied sweet potatoes.Well, I've already started on the pie, so maybe you can help me whip up those sweet potatoes. She'll be pleasantly surprised if we can get everything she's asked for.If you're going to cook the sweet potatoes yourself, you'll have to buy them from the Pilgrim's Bounty merchant in Darnassus. Thanks, <name>.",
-    "name": "She Says Potato",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

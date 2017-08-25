@@ -1,8 +1,0 @@
-{
-    "_id": "30592",
-    "added_in_patch": 5,
-    "description": "Bad fortune for grummles today. Hozen have begun to ravage! They attack our supply line to the Serpent's Spine.Can you help? We are not fighters. We are grummles. Good fortune to those who help grummles.Go with a group of grummles to the Burlap Waystation. Keep them safe. Make sure at least one grummle survives.Grummles shall reward. Grummles always reward.",
-    "name": "The Burlap Trail: To Burlap Waystation",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

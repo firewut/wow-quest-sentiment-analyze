@@ -1,8 +1,0 @@
-{
-    "_id": "41934",
-    "added_in_patch": 7,
-    "description": "I require a symbol of my dominion as Firelord. A weapon that will strike fear into the hearts of all who dare to oppose my rule!Deep within the den of the Cinderweb, there is an ancient spear born from within the heart of the Firelands. Emberscar is a living weapon whose wicked power is beyond mortal comprehension.Prove your strength and claim Emberscar in my name! If you survive, perhaps I will aid the feeble races of humanity against the Burning Legion.",
-    "name": "The Brand of Damnation",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

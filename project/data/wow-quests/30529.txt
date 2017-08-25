@@ -1,8 +1,0 @@
-{
-    "_id": "30529",
-    "added_in_patch": 5,
-    "description": "Now that we're officially members of the Tillers Union, Mr. Mudclaw said he'd be happy to help us upturn this big ole' rock in the middle of our field.Once we clear away that stone, I've got something special planned.Run down and give him a holler to let him know that we're ready.",
-    "name": "Growing the Farm III: The Mossy Boulder",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

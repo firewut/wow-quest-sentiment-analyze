@@ -1,8 +1,0 @@
-{
-    "_id": "40064",
-    "added_in_patch": 7,
-    "description": "<Attempting to mill this flower has proven more difficult than usual. Located in the bushy center of the bloom is a densely-packed cluster of seeds.><Professor Pallin would be interested in seeing this.>",
-    "name": "Woody Seed Cluster",
-    "requires_level": 108,
-    "zone": "Inscription"
-}

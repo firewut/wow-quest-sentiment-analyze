@@ -1,7 +1,0 @@
-{
-    "_id": "28159",
-    "description": "At the core of Animus is an artifact known as the Doomstone. One of its properties is an ability to absorb a great deal of energy.This is how the cultists are trying to set off the explosion... by overloading the stone and amplifying the power through the elemental.Bring me the Doomstone. For safe keeping, of course.",
-    "name": "The Doomstone",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

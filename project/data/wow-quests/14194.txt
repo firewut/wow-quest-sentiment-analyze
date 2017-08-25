@@ -1,8 +1,0 @@
-{
-    "_id": "14194",
-    "description": "<The nearby radio calls out to you.>Hey <name>, you got that gun? Good! Don't point it directly at your eye.Aim that baby at my stonified workers and the refracted light should reverse the petrification process. Or it will melt them. Whatever. Return my workers to a state of profitability! And if the refleshification process makes them crazy-go-nuts, they should be killed for insurance purposes. Horzak OUT! ",
-    "name": "Refleshification",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Azshara"
-}

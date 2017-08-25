@@ -1,8 +1,0 @@
-{
-    "_id": "38046",
-    "added_in_patch": 6.2,
-    "description": "General, our troops are currently engaged in a conjoined assault at the Iron Front. The fight has been raging for some time now, and casualties are high.Report to the Iron Front and lend your strength to the war effort. I have no doubt that your presence on the battlefield will inspire the soldiers to victory!",
-    "name": "Battle At The Iron Front",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

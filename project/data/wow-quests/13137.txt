@@ -1,7 +1,0 @@
-{
-    "_id": "13137",
-    "description": "Atop the tallest peak to the southwest overlooking Jotunheim is Battlescar Spire. It is a place of reverence for the vrykul, second only to Valhalas in terms of where they prefer to do honorable combat.We shall visit not-so-honorable combat upon it.Gather your companions and fly to the spire. When you are ready, light the signal fire and I will appear within the body of Iskalder.We will fight, you will win, and Vardmadra is sure to come to witness the battle!",
-    "name": "Not-So-Honorable Combat",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

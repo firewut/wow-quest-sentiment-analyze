@@ -1,8 +1,0 @@
-{
-    "_id": "43962",
-    "added_in_patch": 7,
-    "description": "I'm glad that weapon you've been carrying around has proven useful. Our ally, the Lich King, has offered to provide you with a lead on another weapon should the one you already have somehow be lacking.\r\n\r\nConsider the options carefully and let me know which you would like to seek out.",
-    "name": "Blades of Destiny",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

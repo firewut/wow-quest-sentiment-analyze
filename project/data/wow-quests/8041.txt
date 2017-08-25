@@ -1,7 +1,0 @@
-{
-    "_id": "8041",
-    "description": "",
-    "name": "Strength of Mount Mugamba",
-    "requires_level": 58,
-    "zone": "Quests"
-}

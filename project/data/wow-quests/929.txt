@@ -1,8 +1,0 @@
-{
-    "_id": "929",
-    "description": "Let me tell you more of the task you must complete. The druids in Darnassus use the water of the moonwells of Teldrassil, and their moonwell must be replenished from time to time. Using these specially crafted phials, you can collect the water of the moonwells.Take this vessel to the moonwell outside of Starbreeze Village to the east, and fill it with some of its waters, then return to me. Pay heed to the lessons of the moonwells, lest we find ourselves furthering our shortcomings.",
-    "name": "Teldrassil: The Refusal of the Aspects",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

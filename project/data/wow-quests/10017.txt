@@ -1,7 +1,0 @@
-{
-    "_id": "10017",
-    "description": "More and more refugees come through the gates of Shattrath City each day.  Some have sustained such injuries, it's a real wonder they made it here.I can deal with most of the conventional injuries; my training as an Aldor healer has prepared me for that.  Poison wounds are more problematic as my anti-venom supplies have begun to run low.Bring me venom sacs from the local dreadfang spiders so I can produce more antidotes.  You'll find a pocket of the spiders in the southeastern region of Terokkar.",
-    "name": "Strained Supplies",
-    "requires_level": 62,
-    "zone": "Shattrath City"
-}

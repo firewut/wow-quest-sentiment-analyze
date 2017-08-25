@@ -1,8 +1,0 @@
-{
-    "_id": "39847",
-    "added_in_patch": 7,
-    "description": "Ah, a fellow scribe!You don't look too dim, so how 'bout you and I work together in an effort to discover what we can about the Broken Isles?(That's the big mass of islands we're floating over.)However! I never agree to a partnership without getting all the requisite legalities out of the way. Sign this for me and we're in business.",
-    "name": "Sign This",
-    "requires_level": 98,
-    "zone": "Inscription"
-}

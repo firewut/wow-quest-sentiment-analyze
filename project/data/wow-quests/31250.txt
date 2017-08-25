@@ -1,8 +1,0 @@
-{
-    "_id": "31250",
-    "added_in_patch": 5,
-    "description": "We've taken losses from the mogu forces descending the Golden Stair and their flanking attackers at Whitepetal Lake. Our lines are thin.I'm dispatching Anji and Kun to the Setting Sun Garrison to double our efforts at training new recruits. I'd like you there with them, <name>. Show them what a true <class> is made of.",
-    "name": "Setting Sun Garrison",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39430",
-    "added_in_patch": 7,
-    "description": "You know, this mixing flask didn't suffer terrible damage. I'm positive it can just be repaired.I'm no expert in glass repair, but I've heard of someone who is--a tauren by the name of Barm Stonebreaker. He's a smith by trade, but those who know him say he was born to work glass.Those tauren don't work for free, so you may be in for some work yourself.",
-    "name": "Flasking for a Favor",
-    "requires_level": 104,
-    "zone": "Alchemy"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25461",
-    "description": "Vol'jin has given me his war drums and put  me in charge of trainin' da new recruits here. Only problem is we be short on new recruits.Supposin' I loaned ya dis drum, would ya use it to sound de call to war on Vol'jin's behalf in Razor Hill? If ya could even inspire just a few trolls to join da cause, it would make a difference. Once ya've convinced dem to volunteer, bring dem back to me for trainin'. Go over an' talk to Handler Marnlek to de south. He can lend you a bat for de ride to Razor Hill.",
-    "name": "Trollin' For Volunteers",
-    "requires_level": 1,
-    "zone": "Durotar"
-}

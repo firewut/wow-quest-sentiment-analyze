@@ -1,8 +1,0 @@
-{
-    "_id": "26346",
-    "description": "As the stone goes quiet, you're left with a vague sense of unease. Something isn't right.Perhaps you should tell Skuerto of what you've done so far.",
-    "name": "Myzrael's Tale",
-    "requires_level": 25,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

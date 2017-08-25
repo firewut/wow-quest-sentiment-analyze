@@ -1,9 +1,0 @@
-{
-    "_id": "36801",
-    "added_in_patch": 6,
-    "description": "Commander, Vindicator Maraad set off with Yrel and Thaelin Darkanvil to track the Iron Horde's movements in the nearby forest.They await your arrival on a small rise to the southwest.",
-    "name": "One Step Ahead",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

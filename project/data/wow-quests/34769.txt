@@ -1,9 +1,0 @@
-{
-    "_id": "34769",
-    "added_in_patch": 6,
-    "description": "We're just about ready to go here. All that's needed now is for you to make your choice.Take a look at the blueprints on the drafting table.Are we going to construct a corral or a tankworks?",
-    "name": "A Choice to Make",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

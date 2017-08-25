@@ -1,8 +1,0 @@
-{
-    "_id": "38408",
-    "description": "New items are available from Sergeant Crowler.  I suggest you stop by and take a look at his new goods as soon as you can!",
-    "name": "New Goods",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

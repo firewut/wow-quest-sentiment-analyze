@@ -1,8 +1,0 @@
-{
-    "_id": "36926",
-    "added_in_patch": 6,
-    "description": "<Raza'kul hands you the bloody heart.>The ritual is complete. Your nemesis is marked for death.Now your work to rid this world of the enemy truly begins. Kill all gnomes that stand defiantly against the Horde. Let their deaths serve as a warning to the rest of the Alliance: they will leave Draenor or they will die.Return when you have quenched your rage with the blood of gnome.Conquer our enemy and be known as gnomebane. Fail and be nothing.",
-    "name": "Nemesis: Gnomebane",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

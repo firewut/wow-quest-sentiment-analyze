@@ -1,8 +1,0 @@
-{
-    "_id": "14057",
-    "description": "Now, any good mutiny is going to need serious firepower. Cap'n Garvey claimed all the best firearms for himself: A whole shipment of big, heavy dwarven flintlocks. He keeps them at his side in the other building across the island. Grab me six of those rifles and I'll distribute them to me future officers...",
-    "name": "Guns. We Need Guns.",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27080",
-    "description": "",
-    "name": "Twilight Gate Tracking",
-    "requires_level": 1,
-    "zone": "Deepholm"
-}

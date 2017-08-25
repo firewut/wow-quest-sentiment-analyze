@@ -1,7 +1,0 @@
-{
-    "_id": "29104",
-    "description": "Dere was somethin' not right about dem serpents, <name>.  Dere was a trace of some bad mojo in da poison an' dat don't happen naturally.Da bonfire in da middle of da camp, we can use dat to perform a ritual.Whatever be makin' dese serpents attack, dey probably still watchin' over dem.Da only problem, <name>, is dat I only be here in spirit form.  I need you to be my hands.  I need you to go to da fire an' prepare it for me.  Den I'll handle da rest.",
-    "name": "Spirits Are With Us",
-    "requires_level": 85,
-    "zone": "Quests"
-}

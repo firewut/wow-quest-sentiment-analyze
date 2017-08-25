@@ -1,7 +1,0 @@
-{
-    "_id": "7222",
-    "description": "A <class>?  Good!  We are glad to see you in Alterac, <name>.  Interloping dwarves and their allies invade our valley, and we welcome all in the Horde to join us in righteous slaughter!Speak with Voggah Deathgrip.  He is looking for agents for an important mission into the Alliance's stronghold in Alterac Valley!You will find Voggah in Frostwolf Keep.",
-    "name": "Speak with Voggah Deathgrip",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

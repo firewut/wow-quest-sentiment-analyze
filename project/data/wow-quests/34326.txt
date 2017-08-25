@@ -1,8 +1,0 @@
-{
-    "_id": "34326",
-    "added_in_patch": 6,
-    "description": "It is time to retaliate against this foe. Meet me at Retribution Point and we will take this fight to the Shadow Council.Teron'gor shall not feast on another soul so long as we stand in his way! His reign of terror ends today.",
-    "name": "Changing the Tide",
-    "requires_level": 95,
-    "zone": "Talador"
-}

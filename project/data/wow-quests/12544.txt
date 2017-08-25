@@ -1,7 +1,0 @@
-{
-    "_id": "12544",
-    "description": "Bones of Nozronn, Oracle Soo-rahm sends <name> to you!We have prepared incense for you. Light it and place it near Nozronn's head and you will hear his voice.<Confused, you tell Soo-rahm that you haven't even told him your question.>True, we not know, but mighty Nozronn does. Do not doubt. Nozronn will answer your heart's question.Go. Nozronn not wait long.",
-    "name": "The Bones of Nozronn",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

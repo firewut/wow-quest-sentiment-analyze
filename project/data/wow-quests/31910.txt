@@ -1,8 +1,0 @@
-{
-    "_id": "31910",
-    "added_in_patch": 5,
-    "description": "My research has helped my training regimen greatly. I will defeat you this time.",
-    "name": "David Kosse",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

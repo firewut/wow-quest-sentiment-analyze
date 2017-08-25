@@ -1,7 +1,0 @@
-{
-    "_id": "26092",
-    "description": "<You remind Orako that he was supposed to send a report back to Captain Verne.>Right, a report.  All that I've seen here is fish.  Lots and lots of fish.<Orako looks over at the sack of fish that you brought for him.>Bring this back to the captain.  This is my report.",
-    "name": "Orako's Report",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

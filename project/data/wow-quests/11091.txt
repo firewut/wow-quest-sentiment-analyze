@@ -1,7 +1,0 @@
-{
-    "_id": "11091",
-    "description": "You honor us with your efforts on our behalf.  And now there is someone that we would like for you to meet.Jho'nass is our most trusted quartermaster.  He maintains a stock of goods that we provide for sale to only the most dedicated of friends to Ogri'la.You are one such friend, <name>.When you find the time, go and speak with him.  As we understand it, he has prepared a little something for you as a token of our appreciation.",
-    "name": "A Special Thank You",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

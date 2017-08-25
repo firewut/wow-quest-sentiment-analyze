@@ -1,7 +1,0 @@
-{
-    "_id": "14435",
-    "description": "Andorel here has crafted a little bit of magic for me. Come, stand next to my fire, and steep yourself in the fumes from the tea. Drape the robes around you and you'll take on the appearance of a night elven ambassador to the Blackmaw.Don your disguise and speak to Andorel here in camp. He'll teleport you to the heart of Blackmaw hold, where the negotiations are to take place. Speak with Chieftain Ungarl and sabotage the treaty. Then, kill as many Blackmaw as you can on the way back!",
-    "name": "The Blackmaw Doublecross",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26754",
-    "description": "<The pieces fit, and the holy artifact is restored, gleaming with sacred light. This should let you defeat Morbent Fel's dark magic.><Further down the tunnel, away from the direction you came from, a heinous cackle rings out. It's the clattering laugh of a lich. Morbent Fel is just ahead!>",
-    "name": "Morbent's Bane",
-    "requires_level": 22,
-    "zone": "Duskwood"
-}

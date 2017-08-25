@@ -1,9 +1,0 @@
-{
-    "_id": "32212",
-    "added_in_patch": 5.2,
-    "description": "Our scouting efforts along the coast have given us valuable intelligence about the island, <class>.However, we will accomplish nothing if we do not advance forward onto the mainland.I have assembled a team of our most elite aerial units to begin the attack.I would like you to join the assault. A champion such as yourself could turn the battle in our favor at the critical moment.When you are ready to begin the attack, speak to me.",
-    "name": "The Assault on Zeb'tula",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Quests"
-}

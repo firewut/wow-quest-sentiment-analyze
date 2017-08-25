@@ -1,9 +1,0 @@
-{
-    "_id": "38057",
-    "added_in_patch": 7,
-    "description": "The heroic men and women of the 7th Legion stayed at the front of the ship to fight off storm drakes while the crew evacuated.None of them have returned.Please find them, $p!",
-    "name": "The Lost Legion",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "37797",
-    "description": "The journal points to the location of the pieces of Gutrek's Cleaver. It reads:\r\n\r\n\"The pommel was brought to the Broken Precipice, where it was to be housed in the skull of Gutrek's first kill. It looks like it was some manner of large beast that he fought in the big bone pit.\"",
-    "name": "Gutrek's Cleaver: The First Piece",
-    "requires_level": 100,
-    "zone": "Nagrand"
-}

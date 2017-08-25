@@ -1,9 +1,0 @@
-{
-    "_id": "36292",
-    "added_in_patch": 6,
-    "description": "I'm going to lead a small squad behind enemy lines.Meet me by Dreadmaul, <class>. From there we can decide our next course of action.",
-    "name": "Investigating the Invasion",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

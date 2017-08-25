@@ -1,7 +1,0 @@
-{
-    "_id": "26323",
-    "description": "Your pet raptor seems to have found a new toy: a skull, from a nearby troll skull pile.What sets this skull apart from the rest is beyond you, but for some reason, she won't put it down.Nimboya at Grom'gol Base Camp seems to be somewhat of a skull expert, judging by the skull piles he keeps.  Maybe he'll have some idea what makes this one so special.",
-    "name": "Favored Skull",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10025",
-    "description": "",
-    "name": "More Basilisk Eyes",
-    "requires_level": 62,
-    "zone": "Shattrath City"
-}

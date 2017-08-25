@@ -1,7 +1,0 @@
-{
-    "_id": "8751",
-    "description": "",
-    "name": "The Protector of Kalimdor",
-    "requires_level": 60,
-    "zone": "Tanaris"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13668",
-    "description": "We have invited you here to test your skill and valor against others who have bravely opposed the Scourge. Many have been our divisions, but the time has come for heroes fighting under all banners to test their blades against one another in preparation for facing our mutual enemy.Magister Edien Sunhollow is the Sunreaver representative to the tournament and he'll enter your name into the rolls and begin your training. Seek him out inside the large Horde tent in the southeastern part of the grounds.\r\n",
-    "name": "The Argent Tournament",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

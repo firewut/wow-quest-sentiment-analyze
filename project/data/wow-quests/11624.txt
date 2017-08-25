@@ -1,8 +1,0 @@
-{
-    "_id": "11624",
-    "description": "I must find out what happened to my master, Farseer Grimwalker!Earlier, he was observing the magnataur at nearby Magmoth. But one of his grunts just returned, saying that the group had been crushed, and that the farseer was dragged into the depths of the place.Before I send you on a suicide mission, I wish to consult with the spirits to learn more.There is an air elemental known as Imperean in the ruins of Eldra'nath to the west. She is wise and may give you the information we seek.",
-    "name": "The Sky Will Know",
-    "requires_level": 69,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

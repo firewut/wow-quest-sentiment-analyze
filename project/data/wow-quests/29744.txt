@@ -1,8 +1,0 @@
-{
-    "_id": "29744",
-    "added_in_patch": 5,
-    "description": "Wood sprites are not prone to wandering, so I'm surprised they ventured down as far as the mason's quarter. Something must be forcing them out of their natural habitat.These particular sprites are native to the Woods of the Lost, just north of here. I'd go myself, but I've heard those woods are haunted.So yeah, that's out.I guess we'll never know.<Weng coughs.>Orrrr... A big brave adventurer like YOU could go check it out! What do you say?",
-    "name": "Some \"Pupil of Nature\"",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

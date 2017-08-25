@@ -1,8 +1,0 @@
-{
-    "_id": "42656",
-    "added_in_patch": 7,
-    "description": "Take the materials to Blacksmith Kyriel in Dalaran, and he'll use them to craft whatever weapons he can.\r\n\r\nAs I mentioned before, he's skilled and efficient, so you shouldn't have to wait long.\r\n\r\nWhen his work is complete, speak to Shandris Feathermoon about getting the weapons enchanted.",
-    "name": "Azure Weaponry",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

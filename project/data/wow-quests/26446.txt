@@ -1,7 +1,0 @@
-{
-    "_id": "26446",
-    "description": "Little one, to the southwest is an area of Nightsong Woods that has in recent times come to be called Felfire Hill. It is very sad to see the demons crawling over it, spreading their corruption.Would you do something to help take back the land?I have a number of seeds that I have been saving for such a purpose. Take them to Felfire Hill and plant them in the fertile dirt mounds.",
-    "name": "Reclaiming Felfire Hill",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

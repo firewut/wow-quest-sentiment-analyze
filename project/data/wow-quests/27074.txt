@@ -1,8 +1,0 @@
-{
-    "_id": "27074",
-    "description": "You've done what I thought was impossible! I'm done moping around here. It's time to gnome up.I've got to find my father. But you! Don't bother yourself with me any longer. You've got to keep fighting these cultists.Go talk to Ashlan Stonesmirk to the east. He's trying to stop the Twilight's Hammer, but he has nobody to help him. You're his only hope!Don't give up, <name>. I won't.",
-    "name": "Fight the Hammer",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

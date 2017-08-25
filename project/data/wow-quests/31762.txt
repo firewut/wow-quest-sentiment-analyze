@@ -1,8 +1,0 @@
-{
-    "_id": "31762",
-    "added_in_patch": 5,
-    "description": "The mogu have succeeded in empowering an enormous stone statue with the intent of unleashing it upon us.In response, I would like to unleash you upon it.It approaches from the Golden Stair. Bring it to its knees...",
-    "name": "Crumbling Behemoth",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

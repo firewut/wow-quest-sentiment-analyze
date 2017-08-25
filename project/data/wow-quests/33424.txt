@@ -1,8 +1,0 @@
-{
-    "_id": "33424",
-    "added_in_patch": 6,
-    "description": "For this challenge: run through the arch, then get to the blue marker and return here as fast as you can.Get back before you hear the bell toll 12 times.",
-    "name": "Northshire Dash 12",
-    "requires_level": 1,
-    "zone": "Northshire"
-}

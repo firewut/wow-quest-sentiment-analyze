@@ -1,8 +1,0 @@
-{
-    "_id": "31182",
-    "added_in_patch": 5,
-    "description": "You know what happened to the bait in those pots?Otters. That's what happened.They prefer fresh clams, but they'll pick our crab traps clean if they're hungry enough.The otters in Lonesome Cove are protected by law and we run a legitimate operation here. As much as I'd love to chum those little rats and call it a day, we just make sure they aren't hungry enough to raid the crab pots.Toss 'em a few clams to keep them busy while you're out there.",
-    "name": "You Otter Know",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

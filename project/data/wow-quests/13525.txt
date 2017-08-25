@@ -1,7 +1,0 @@
-{
-    "_id": "13525",
-    "description": "Our ancestors lived alongside the Blackwood furbolgs for generations. But recently, we have lost contact with their settlements deeper in the forest. One of their larger villages, Blackwood Hold, can be found to the south.Travel there and find Elder Brolg. Ask him why his people have withdrawn from us and offer your help, if necessary.",
-    "name": "What's Happening to the Blackwood Furbolg?",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

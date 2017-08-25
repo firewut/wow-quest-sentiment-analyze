@@ -1,8 +1,0 @@
-{
-    "_id": "30944",
-    "added_in_patch": 5,
-    "description": "The villagers have been guarding Zouchin since the first attack. They are exhausted and many are injured.If the Zandalari attack again the last thing we need is for the defenders to fall asleep on the job.Relieve them of their posts so that they might have time to heal and see their families.You'll find them stationed around the village.",
-    "name": "It Takes A Village",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

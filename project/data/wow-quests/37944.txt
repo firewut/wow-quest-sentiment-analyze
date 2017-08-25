@@ -1,7 +1,0 @@
-{
-    "_id": "37944",
-    "description": "The final component of the elixir is a handful of Steamcap mushrooms. The journal reads:\r\n\r\n\"The Crowfeeder said that they grow among the steam vents in the higher parts of the Everbloom. I have seen one such place above the northern hydra pools.\"",
-    "name": "The Silent Skull: The Third Reagent",
-    "requires_level": 100,
-    "zone": "Gorgrond"
-}

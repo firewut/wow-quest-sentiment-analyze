@@ -1,8 +1,0 @@
-{
-    "_id": "26291",
-    "description": "I'll be filling out my report and heading back to Stormwind shortly. SI: 7 must be informed of the happenings in Westfall. I would recommend you do the same and report back to Gryan.",
-    "name": "Big Trouble in Moonbrook",
-    "requires_level": 11,
-    "side": "alliance",
-    "zone": "Westfall"
-}

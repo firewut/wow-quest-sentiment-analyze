@@ -1,7 +1,0 @@
-{
-    "_id": "25846",
-    "description": "The Grimtotem chieftain awaits your arrival, <name>. Take the weapon crates with you and head to Grimtotem Post, south of here.Good luck, <name>. Should anything happen to you I will personally notify your next of kin and let King Wrynn know what you have done for the Alliance.",
-    "name": "Grundig Darkcloud, Chieftain of the Grimtotem",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

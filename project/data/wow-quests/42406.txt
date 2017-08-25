@@ -1,8 +1,0 @@
-{
-    "_id": "42406",
-    "added_in_patch": 7,
-    "description": "Deep in the heart of Faronaar are dens that are overrun with felhounds. If Hakkar is breeding those beasts, that is the place he would do it.The bait I've crafted is potent. Once you apply it, you'll draw the attention of nearby hounds, so only use it when you're close to the dens.Once the demon has taken the bait, get it into a weakened state to make trapping easier.Good luck, <name>. I hope you return in one piece.",
-    "name": "To Tame the Beast",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

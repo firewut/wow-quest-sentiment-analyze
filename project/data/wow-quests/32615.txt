@@ -1,8 +1,0 @@
-{
-    "_id": "32615",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Many More Giant Dinosaur Bones",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

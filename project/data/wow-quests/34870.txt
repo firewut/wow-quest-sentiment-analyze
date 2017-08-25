@@ -1,9 +1,0 @@
-{
-    "_id": "34870",
-    "added_in_patch": 6,
-    "description": "Witch Lord Morkurk is the leader of the Gordunni. He's the one that set up the Iron Horde trade and, even worse, my former boss gave him one of my best maces!We got to get my mace back! I mean... we need to kill him to secure the jovite for your arsenal!Morkurk is an accomplished mage so you better be prepared. Here, take the rocket pack and use it if you need to dodge an attack quickly or something.Also, if you happen to find my mace I'd like to get it back.",
-    "name": "The Lord of the Gordunni",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

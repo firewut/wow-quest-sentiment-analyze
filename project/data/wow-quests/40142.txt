@@ -1,8 +1,0 @@
-{
-    "_id": "40142",
-    "added_in_patch": 7,
-    "description": "Ahh, yes. The elusive stormscale.I have seen similar scales in Northrend, and some in Skywall, but it would appear that such a scale is common here. My colleagues that specialize in mail armor will be happy to learn this.To more efficiently harvest this type of scale, you must first understand its power. Look for broken, unusable scales on your quarry, and remove the sparks within them. Once you have seen the sparks, you will better understand the stormscale.",
-    "name": "The Core of the Stormscale",
-    "requires_level": 98,
-    "zone": "Skinning"
-}

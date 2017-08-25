@@ -1,7 +1,0 @@
-{
-    "_id": "26897",
-    "description": "Although our position is exposed, we are safe compared to our friends inside Blackfathom Deeps! They stand mere feet away from the most deadly Twilight's Hammer forces in the area. Speak with Sentinel Aluwyn and give them the aid they desperately need!",
-    "name": "Blackfathom Deeps",
-    "requires_level": 22,
-    "zone": "Blackfathom Deeps"
-}

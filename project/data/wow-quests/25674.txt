@@ -1,8 +1,0 @@
-{
-    "_id": "25674",
-    "description": "This is actually an old orc city... one of the oldest on Azeroth.  That is, it was until the ogres pushed us out.Today's Horde refuses to be pushed over by ogres.  My troops and I took the town back by force, and the ogres who once lived here now work as my servants.  Now, our real work begins.You look strong enough, but I'd like to see some proof.  Kill one of the ogres that still besiege us, and return to me.",
-    "name": "Futile Pride",
-    "requires_level": 54,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

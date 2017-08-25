@@ -1,9 +1,0 @@
-{
-    "_id": "31773",
-    "added_in_patch": 5,
-    "description": "The animals have all gone crazy!Normally the prowlers steer clear of the village, but now we can't seem to keep them away. I've never seen them act this way before!The mayor has summoned in the Shado-Pan, but they're not all here yet. Can you take care of those prowlers before they maul one of our farmers?",
-    "name": "Prowler Problems",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

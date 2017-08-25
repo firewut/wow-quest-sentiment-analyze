@@ -1,7 +1,0 @@
-{
-    "_id": "14101",
-    "description": "The Kvaldir, seafaring vrykul who raid ships and coastal settlements, have overrun a tuskarr  island across the strait to the north. Their leader is a veteran raider, Drottinn Hrothgar, who seeks to control these seas.With him in power, our shipments and troop transports will never be safe. We will be stranded here at the Lich King's mercy.Take this captured Kvaldir war horn to the circle of tuskarr statues on the northeastern part of Hrothgar's Landing and use it to challenge the Kvaldir leader.",
-    "name": "Drottinn Hrothgar",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

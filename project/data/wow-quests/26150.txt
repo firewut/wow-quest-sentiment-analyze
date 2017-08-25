@@ -1,8 +1,0 @@
-{
-    "_id": "26150",
-    "description": "You seem like the helpful type, <name>. How about doing an old man a favor?The last time I was over at the Maclure Vineyards I overheard Maybell crying in her cottage. Would you be so kind as to go check up on her? I'm a little worried.",
-    "name": "A Visit With Maybell",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

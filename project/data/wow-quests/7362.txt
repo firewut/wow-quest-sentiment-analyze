@@ -1,7 +1,0 @@
-{
-    "_id": "7362",
-    "description": "The Elder Crone has sent me to this warzone to research the other races. More specifically, I am to collect gnome samples. Magatha is primarily interested in their survivability. Aye, the gnomes - while pitifully weak and miniscule - exude great resilience both in and out of combat.Fortunately for you, I am looking for ruffians to do Magatha's bidding. Return to me with tufts of gnome hair and you shall be known to the tauren as an ally.",
-    "name": "Ally of the Tauren",
-    "requires_level": 200,
-    "zone": "Alterac Valley"
-}

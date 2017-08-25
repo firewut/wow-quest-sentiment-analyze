@@ -1,8 +1,0 @@
-{
-    "_id": "43812",
-    "added_in_patch": 7,
-    "description": "<The telemancy beacon is deactivated, but intact. Some Ancient Mana should get it back up and running.>",
-    "name": "[REUSE] Waning Crescent, Waxing Teleporter",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11346",
-    "description": "The vast rocky area to the southeast, Giants' Run, has been overrun by Iron Dwarves. Scouts have reported seeing the dwarves coaxing stone giants from the ground, then carving runes on them.I can't fathom their motives, but I suspect they're somehow trying to turn the giants into weapons. The iron rune stonecallers and binders carry large tomes with them, which must contain the runes they're carving on the giants.Capture the pieces of this book, assemble them, and bring it back to me, <name>.",
-    "name": "The Book of Runes",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

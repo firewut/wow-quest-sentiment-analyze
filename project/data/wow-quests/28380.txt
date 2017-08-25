@@ -1,7 +1,0 @@
-{
-    "_id": "28380",
-    "description": "What the heck is going on here? Foreman Pikwik should've shut the valves off by now.We can cap these leaks all day and if the central valve is off, we're just delaying an enormous explosion.Listen, if you value money, your life, or either combination of the two, you'd better head south to Irontree Cavern and see if you can find Foreman Pikwik.",
-    "name": "Pikwik in Peril",
-    "requires_level": 47,
-    "zone": "Felwood"
-}

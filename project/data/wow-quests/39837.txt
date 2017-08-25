@@ -1,8 +1,0 @@
-{
-    "_id": "39837",
-    "added_in_patch": 7,
-    "description": "This place is Helheim, the realm of the unworthy dead. Here, the spirits of the dishonorable spend eternity in an endless futile battle, always seeking glory but never able to attain it.\r\n\r\nWe should not be here.\r\n\r\nWe must find a way out. I will scout ahead - you should try and release some of these captive spirits here. Perhaps one may have some answers for us.",
-    "name": "An Unworthy Task",
-    "requires_level": 98,
-    "zone": "Quests"
-}

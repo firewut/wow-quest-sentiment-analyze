@@ -1,8 +1,0 @@
-{
-    "_id": "31725",
-    "added_in_patch": 5,
-    "description": "Are you ready to show off what you can do? There's a little girl up in Redridge Mountains that has made a real storm on the battle scene.Find Lindsay at the dock at Camp Everstill. She may be young, but her impressive record is nothing to be scoffed at!",
-    "name": "Lindsay",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

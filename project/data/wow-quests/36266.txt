@@ -1,9 +1,0 @@
-{
-    "_id": "36266",
-    "added_in_patch": 6,
-    "description": "Such kindness you have shown me, perhaps I can ask for one more?In our village, we salvage and reuse old cloth to patch clothes and light armor. Sadly, most of my supply was taken or destroyed in the recent attacks.The Shadowmoon cultists might think twice about stealing from us if you were to relieve them of their own resources.If you can collect some ceremonial Shadowmoon robes for me, I will demonstrate some of my favorite tailoring techniques for you.",
-    "name": "The Clothes on Their Backs",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

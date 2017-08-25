@@ -1,7 +1,0 @@
-{
-    "_id": "10001",
-    "description": "All forge camps have a master planner. The master planner dictates what types of structures are present at a forge camp and how each structure is situated. Moreover, this information is kept on a set of blueprints that the planner carries around on their person.We need the master planner's blueprints. Armed with such exacting information, we could persuade an acquaintance of mine to lend some assistance.Find the mo'arg master planner and take his blueprints. He will be stationed behind the forges.",
-    "name": "The Master Planner",
-    "requires_level": 66,
-    "zone": "Nagrand (Outland)"
-}

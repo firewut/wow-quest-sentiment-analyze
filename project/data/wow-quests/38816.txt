@@ -1,8 +1,0 @@
-{
-    "_id": "38816",
-    "added_in_patch": 7,
-    "description": "The crimes of these ritualists must not go unpunished, but we cannot be their executioners. The rune magic they practice grants them untold power over the dead.\r\n\r\nYou, however, are not dead, and I can sense great power from you. Take the fight to these heretics, and show Ashildir that you are truly worthy of her judgment!",
-    "name": "Breaking the Bonespeakers",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

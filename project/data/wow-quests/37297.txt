@@ -1,8 +1,0 @@
-{
-    "_id": "37297",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Kill Jeron Emberfall",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

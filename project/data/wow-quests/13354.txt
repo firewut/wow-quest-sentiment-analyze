@@ -1,7 +1,0 @@
-{
-    "_id": "13354",
-    "description": "Based on your report, and my knowledge of the Cult, they have an overseer managing the operation of each encampment on the gate.While taking their leaders down will only be a temporary setback, it will at least slow them down and keep them off-balance. And that, <race>, is a worthy enough goal for now.Seek out these overseers and return to me when they have been dispatched.",
-    "name": "Chain of Command",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

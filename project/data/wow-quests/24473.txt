@@ -1,8 +1,0 @@
-{
-    "_id": "24473",
-    "description": "We appreciate yer help out here, but there may be a place where they need ye even more.Due to the trogg attacks - not to mention that massive earthquake we just had - we're putting all civilians on lockdown inside Anvilmar, just up the hill to the northwest.Go an' talk to me wife, Jona, inside Anvilmar.  I'm certain she's in need of an able-bodied  man such as yerself.",
-    "name": "Lockdown in Anvilmar",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Coldridge Valley"
-}

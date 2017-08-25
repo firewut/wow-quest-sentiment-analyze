@@ -1,8 +1,0 @@
-{
-    "_id": "29023",
-    "description": "With the apparatus deactivated, the control panel can be opened up and the samophlange removed from the console. With everything else in place, all that is left is to acquire the key to unlock the console.",
-    "name": "Samophlange",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

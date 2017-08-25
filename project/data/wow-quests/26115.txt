@@ -1,7 +1,0 @@
-{
-    "_id": "26115",
-    "description": "Stand by me, <name>, and watch as our mighty weapon destroys our enemies!Learn what it means to be Horde!",
-    "name": "To Be Horde...",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

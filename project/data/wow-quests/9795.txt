@@ -1,8 +1,0 @@
-{
-    "_id": "9795",
-    "description": "As if the naga and their allies weren't enough, the ogres are extending their reach in the marsh. They've already conquered most of the area to the northwest and there isn't much of a buffer left.For each one we kill, several more take their place. I'm not sure how long we'll be able to hold Zabra'jin once they decide to attack. Make your way north into the mountains, to the orcish stronghold of Thunderlord Stronghold and let Nekthar know of our plight. Any help he can spare would be most welcome.",
-    "name": "The Ogre Threat",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Blade's Edge Mountains"
-}

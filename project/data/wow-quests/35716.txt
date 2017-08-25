@@ -1,9 +1,0 @@
-{
-    "_id": "35716",
-    "added_in_patch": 6,
-    "description": "A squadron of arakkoa spotted us while we were en route to the excavation site and took out our caravan. My brother made it to safety in the chaos.Lucky son of a tinker.I can't leave without the batteries for our drill, but they all fell into the bog and I can't even get them to budge.Any chance you could retrieve them for me?",
-    "name": "Sticky Situation",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

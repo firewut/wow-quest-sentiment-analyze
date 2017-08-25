@@ -1,7 +1,0 @@
-{
-    "_id": "7786",
-    "description": "I have told you all that I know, <name>. It is you who must find elementium. It is you who must destroy the Firelord's corporeal form.Do this and gain the blessing of Thunderaan.",
-    "name": "Thunderaan the Windseeker",
-    "requires_level": 60,
-    "zone": "Legendary"
-}

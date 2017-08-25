@@ -1,7 +1,0 @@
-{
-    "_id": "26603",
-    "description": "Inside the bottle you find a note which reads, in fairly good handwriting:<To any that can aid me-><Please, my need for help is dire. A great beast holds me captive on an island in the South Seas.><The stars at night are foreign to me and obscured by the jungle trees, but on the clearest days I see shoreline to the northwest, and what seem to be large sailing ships to the southwest.><I beg of you, my would-be savior, please help me.>",
-    "name": "Message in a Bottle",
-    "requires_level": 30,
-    "zone": "The Cape of Stranglethorn"
-}

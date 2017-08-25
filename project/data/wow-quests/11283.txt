@@ -1,7 +1,0 @@
-{
-    "_id": "11283",
-    "description": "Them vrykuls just keeps coming and coming out from town west of here.  No end in sight!Gorth has an idea.  You go INSIDE town and kill them Winterskorn there.  THEN they stop coming here!",
-    "name": "Baleheim Bodycount",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

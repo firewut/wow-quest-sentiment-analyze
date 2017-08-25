@@ -1,8 +1,0 @@
-{
-    "_id": "31755",
-    "added_in_patch": 5,
-    "description": "I can hear the screams of the captured soldiers and villagers up on the Golden Stair. They're torturing them!Please, please, you have to save them!",
-    "name": "Acts of Cruelty",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

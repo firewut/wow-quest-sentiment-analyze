@@ -1,8 +1,0 @@
-{
-    "_id": "42848",
-    "added_in_patch": 7,
-    "description": "Commander Ansela is a grizzled war veteran and seasoned teacher. Many of our most valiant knights once trained under her.Go speak to her now, and recruit a squad of Squires.",
-    "name": "Recruiting the Troops",
-    "requires_level": 101,
-    "zone": "Paladin Campaign"
-}

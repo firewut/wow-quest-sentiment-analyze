@@ -1,8 +1,0 @@
-{
-    "_id": "32249",
-    "added_in_patch": 5.1,
-    "description": "It has been two months since the parting of the mists. Horde scouts, seeking a suitable landing site for the fleet, have engaged Alliance forces on a small island off the coast of Krasarang Wilds.Meet with Scout Rokla and help secure the landing site.",
-    "name": "Meet the Scout",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

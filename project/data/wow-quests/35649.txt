@@ -1,8 +1,0 @@
-{
-    "_id": "35649",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: The Writhing Mire",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27337",
-    "description": "From your earliest days, <name>, your trainers identified you as a natural talent. Your rapid progress and dedication have made you an example.In recognition of your service, King Wrynn has commissioned the royal armorer to forge a special weapon.Legend has it that the cursed Shadowfang Keep in Silverpine Forest is home to a variety of materials that you will need. Travel there and find the lost Silverlaine family sword, a supply of moonsteel ingots, and sinew from ghouls and geists infesting the keep.",
-    "name": "A Fitting Weapon",
-    "requires_level": 20,
-    "zone": "Warrior"
-}

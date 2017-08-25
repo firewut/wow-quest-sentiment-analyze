@@ -1,9 +1,0 @@
-{
-    "_id": "35879",
-    "added_in_patch": 6,
-    "description": "The batteries I lost in the bog have really ticked off the wild creatures. It's going to be impossible to remove them without fighting through who knows what.If you're up for it, why don't you 'take care' of any critters you come across? I don't want some giant beast stalking me back to the excavation site.I'll make it worth your while.",
-    "name": "Safety Measures",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

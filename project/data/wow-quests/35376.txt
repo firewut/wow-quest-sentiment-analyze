@@ -1,9 +1,0 @@
-{
-    "_id": "35376",
-    "added_in_patch": 6,
-    "description": "Taz and I are having a spirited debate over who kills more efficiently: shadow hunters or frostwolves.Care to get in on the wager, commander?I've been focusing on talbuk because of their fierce majesty. They truly encapsulate the grandeur of Nagrand as any native of Draenor knows.",
-    "name": "Shooting the Breeze",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

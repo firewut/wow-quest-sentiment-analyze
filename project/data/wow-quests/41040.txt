@@ -1,8 +1,0 @@
-{
-    "_id": "41040",
-    "added_in_patch": 7,
-    "description": "I've made a new breakthrough with Melba's Storm Brew recipe.We need the use of a special cauldron, one owned by Odyn himself.This cauldron is located in none other than the Halls of Valor.There is only one way to enter this exalted place, and that is through the storm god's favor.You must find a way to enter the hall of warriors. You may require allies for this endeavor, <name>.",
-    "name": "The Brewmaster",
-    "requires_level": 110,
-    "zone": "Monk Campaign"
-}

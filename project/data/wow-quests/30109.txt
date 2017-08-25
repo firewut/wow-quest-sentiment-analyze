@@ -1,7 +1,0 @@
-{
-    "_id": "30109",
-    "description": "I've pinpointed Nalice to the Master's Cellar, an extended basement you'll find in the ruins up ahead.Dragon cultists are everywhere, and Nalice has set up some strange arcane storage devices throughout the area. Perhaps you can use those to your advantage?Sneak past the cultists, obliterate Nalice, and grab a vial of her blood for Wrathion.I'll keep my eyes on you and pull you out if you get into any trouble. But I'm NOT coming in there with you!",
-    "name": "Blood of the Betrayer",
-    "requires_level": 85,
-    "zone": "Rogue"
-}

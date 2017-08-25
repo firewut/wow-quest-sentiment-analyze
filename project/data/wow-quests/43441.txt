@@ -1,8 +1,0 @@
-{
-    "_id": "43441",
-    "added_in_patch": 7,
-    "description": "We have strong leads on other ancient weapons that you might choose to pursue, if having one renowned, powerful piece of history in your hands is somehow insufficient.\r\n\r\nI'll lay out the options for you. Let me know how you'd like to proceed.",
-    "name": "A Second Weapon",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

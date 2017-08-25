@@ -1,9 +1,0 @@
-{
-    "_id": "34291",
-    "added_in_patch": 6,
-    "description": "Did you notice the magical barrier protecting the cave's entrance? It's being powered by demon crystals.The Burning Legion has a habit of making demon parts serve as the keys to such devices.Travel west to the Ruins of Ata'gar. Look for a powerful demon therein and bring me its heart.I'll project an image of myself into the ruins. You won't have to come back here until we're done.",
-    "name": "Have a Heart",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

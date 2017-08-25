@@ -1,9 +1,0 @@
-{
-    "_id": "30513",
-    "added_in_patch": 5,
-    "description": "I am injured, but we can't stop here.\r\n\r\nThe hozen were... unreliable. The pandaren would be much better allies.\r\n\r\nYou have seen the refugees in this village, and heard of the yaungol invasion, no?\r\n\r\nWell, we've heard from the locals that Eastwind Rest, a nearby village, was destroyed by the Yaungol.\r\n\r\nApparently some survivors have gathered along the road out of town.\r\n\r\nGo. Take the road west. Gather the survivors. \r\n\r\nWe'll help them rebuild. Then, they will see the advantage of joining the Horde!",
-    "name": "Eastwind Rest",
-    "requires_level": 87,
-    "side": "horde",
-    "zone": "Kun-Lai Summit"
-}

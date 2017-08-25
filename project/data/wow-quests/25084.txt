@@ -1,7 +1,0 @@
-{
-    "_id": "25084",
-    "description": "A moment there, <class>.We've got more problems here than just the end of the world as we know it. Our vigil here's threatened by the quilboar. We've been content to leave them be when they stay in the Kraul, sure, but every day they press further and further out towards our camp.Mahka, bless her green heart, wouldn't ever forgive me if I went out bashing heads in myself, but if you could help drive back those that're wandering near the camp, I'd appreciate it.",
-    "name": "A Growing Threat",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

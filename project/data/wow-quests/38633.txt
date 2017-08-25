@@ -1,8 +1,0 @@
-{
-    "_id": "38633",
-    "added_in_patch": 6.2,
-    "description": "Champion, you would not believe the horrors I have seen. The timeline is twisting and your fate is dire. Causality bends at its very knees, and in this dire future you kneel to the Betrayer himself, Illidan Stormrage. Venture into the past and save yourself, but beware - your powers are as they were then.",
-    "name": "Burning Importance",
-    "requires_level": 100,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11962",
-    "description": "That's it then.  With the last of the ore you salvaged we now have enough to send to Valiance Keep.If Farshire is wiped off the face of Azeroth, then at least let us be remembered as the first ones to defend our land and the last ones to give up.Take this ore to Hilda Stoneforge - she is a good friend of mine.  Tell her to make some good weapons with this ore.  We'll need plenty of them in the days to come.",
-    "name": "One Last Delivery",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

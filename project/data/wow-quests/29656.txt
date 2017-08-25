@@ -1,8 +1,0 @@
-{
-    "_id": "29656",
-    "description": "Stormwind wants to see proof of our successes in the war effort.Rather than showing him body bags, I thought we'd present him the warcloth of O'mrogg, Kargath's fiercest warrior. Think you can handle him?",
-    "name": "O'mrogg's Warcloth",
-    "requires_level": 66,
-    "side": "alliance",
-    "zone": "Quests"
-}

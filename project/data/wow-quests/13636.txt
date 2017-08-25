@@ -1,8 +1,0 @@
-{
-    "_id": "13636",
-    "description": "I need to get some orders up to Mountaineer Stormpike at his post in Algaz Station. If you wouldn't mind taking them, just follow the road all the way up to the northwest and you'll be sure to see the main bunker.If you'd like to lend a hand in accomplishing his tasks, we'd be glad to reward you for that as well.",
-    "name": "Stormpike's Orders",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

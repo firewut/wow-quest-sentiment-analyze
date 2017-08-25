@@ -1,8 +1,0 @@
-{
-    "_id": "35325",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Temple of the Jade Serpent Reward Quest",
-    "requires_level": 85,
-    "zone": "Quests"
-}

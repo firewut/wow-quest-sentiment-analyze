@@ -1,9 +1,0 @@
-{
-    "_id": "35697",
-    "added_in_patch": 6,
-    "description": "We need allies amongst these spires, and quickly. Commander, I believe it would be wise if you sought out aid.There is a lone arakkoa outcast southeast of here living near a ravager nest. The ravagers do not attack him - I suspect he has information on the beasts we may be able to use.I have our last crate of cactus apple surprise ready for you. It is our best shot, sir.",
-    "name": "Peace Offering",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

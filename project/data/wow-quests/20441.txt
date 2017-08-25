@@ -1,8 +1,0 @@
-{
-    "_id": "20441",
-    "description": "Again, be sure you are ready to leave Bloodhoof Village behind, <name>. The next step on your journey will take you far from here.Your path continues to lead onward, across the fields of Mulgore, the eyes of the Earth Mother on you at all times. When you are ready, consume the waters near the tribal fire. Once you have ingested the holy waters, your eyes will be opened, and the spirits will guide you.",
-    "name": "Rite of Vision",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Mulgore"
-}

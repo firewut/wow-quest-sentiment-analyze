@@ -1,8 +1,0 @@
-{
-    "_id": "30468",
-    "added_in_patch": 5,
-    "description": "<The Swordmistress does not look well. There's a darkness to her eyes uncharacteristic of the pandaren.>I don't think I've ever been as... as furious as now. What betrayal!I fought them off when they attacked, killed a few here, but Merchant Shi is too much of a coward to let me go and finish the job!You, do it for me. Kill them. Kill them all.",
-    "name": "Enraged Vengeance",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

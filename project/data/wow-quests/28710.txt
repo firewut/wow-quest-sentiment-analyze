@@ -1,7 +1,0 @@
-{
-    "_id": "28710",
-    "description": "You'd think Rinno could have sent more than a single <race> down here to give us a hand! That freeloader...I'm gonna set this up. Head north from this room through the corridor and look for Sana. She's probably gotten herself lost in the last chamber, so check the side passages once you get there.",
-    "name": "Spray it One More Time",
-    "requires_level": 51,
-    "zone": "Winterspring"
-}

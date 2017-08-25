@@ -1,8 +1,0 @@
-{
-    "_id": "40189",
-    "added_in_patch": 7,
-    "description": "The naga of this region wear little armor, but what they do wear is particularly durable.If you wish to make a strong shoulder piece, I would first study the naga's armor and then create a pattern of similar construct.The city nearby is overrun by naga. Slay them and bring me their armor and I will show you what I mean.",
-    "name": "Naga Know-How",
-    "requires_level": 102,
-    "zone": "Leatherworking"
-}

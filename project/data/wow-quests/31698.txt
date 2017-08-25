@@ -1,8 +1,0 @@
-{
-    "_id": "31698",
-    "added_in_patch": 5,
-    "description": "The past few seasons have been plentiful, and as a result, the wild tiger population on Windward Isle has exploded.The savage creatures have hunted out all the nearby game, and are beginning to encroach upon the cloud serpent nests.As a result, as the tigers thrive, the cloud serpents decline.If we are not careful, the predatory cats could completely wipe them out.We must thin the tigers' numbers, <race>.",
-    "name": "Thinning The Pack",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

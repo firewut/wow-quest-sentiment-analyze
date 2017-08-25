@@ -1,7 +1,0 @@
-{
-    "_id": "28555",
-    "description": "<Not yet implemented.>",
-    "name": "Expel the Envoys",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

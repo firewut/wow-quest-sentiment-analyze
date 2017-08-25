@@ -1,8 +1,0 @@
-{
-    "_id": "42228",
-    "added_in_patch": 7,
-    "description": "Orathiss has underestimated the seed. It is sapping her power - slowing her down.We must catch her and get the seed to safety!",
-    "name": "The Hidden City",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

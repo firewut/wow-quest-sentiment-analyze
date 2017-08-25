@@ -1,8 +1,0 @@
-{
-    "_id": "44210",
-    "added_in_patch": 7,
-    "description": "Yes, now once the crystal has been empowered, collect it here, and use it to unleash the power of our mages on a world quest.",
-    "name": "The Might of Dalaran pt2",
-    "requires_level": 110,
-    "zone": "Quests"
-}

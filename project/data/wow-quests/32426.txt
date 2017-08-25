@@ -1,8 +1,0 @@
-{
-    "_id": "32426",
-    "added_in_patch": 5.1,
-    "description": "Alright, I'll tell you how to find Connelly.Agent Connelly is currently posing as the high roller, Professor Kilt. He spends most of his time in the Boom Room. Rumor has it he's after one of the fighters for some long forgotten betrayal.Unfortunately, the lounge is by invitation only. Lucky for you I just happen to have an invitation.Try not to look too obvious when you walk past the bouncers. If you get caught you didn't get this pass from me.In fact you and I have never met!",
-    "name": "Stirred, Not Shaken",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

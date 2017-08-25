@@ -1,7 +1,0 @@
-{
-    "_id": "9645",
-    "description": "Journal?  What journal?Oh, right.  That journal!  The Violet Eye sent me here for it.  It's all coming back now.<Kamsis points to a page in the journal.>This is the page that Alturus is interested in.  Did you know that while other people's journals serve as a record of their memories, Medivh's is literally just that?Try it.  Go to the Master's Terrace and read the page; you'll see just what I mean.  Might as well report to Alturus while you're at it.  I'm afraid I'll be here for a while.",
-    "name": "The Master's Terrace",
-    "requires_level": 70,
-    "zone": "Karazhan"
-}

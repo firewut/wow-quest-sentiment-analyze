@@ -1,8 +1,0 @@
-{
-    "_id": "30955",
-    "added_in_patch": 5,
-    "description": "Our patron Niuzao is a mountain on wheels... very difficult to move, even more difficult to stop. My point: once we get him moving, the mantid will have their arms full trying to slow him down.The easiest way to get him moving is to put food in front of him. Luckily for us, food in our temple is plentiful... even in wartime.I will send one of my strongarms with you, to shoulder the load.",
-    "name": "Paying Tribute",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

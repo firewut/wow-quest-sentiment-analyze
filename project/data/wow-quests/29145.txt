@@ -1,7 +1,0 @@
-{
-    "_id": "29145",
-    "description": "You're a bit late. Hamuul, Malfurion, and some of our esteemed guests have already traveled to the invasion point, atop that cliff.Our gate to the Firelands is not yet completed, but it will be shortly. The sooner we can break through, the better.Go on! Hamuul will be expecting you.",
-    "name": "Opening the Door",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

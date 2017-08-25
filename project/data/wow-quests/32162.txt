@@ -1,8 +1,0 @@
-{
-    "_id": "32162",
-    "added_in_patch": 5.1,
-    "description": "Along with the trap, you get some advice on tiger hunting:Tigers are gluttonous creatures, and large game is hard to come by in this jungle. If you wish to tempt the most elder cats out of their hiding places, you may do so with a meal.Just on the other side of the Serpent's Spine, you will find a herd of yaks. Slay them, bring their meat to the jungle's edge, set up your trap, and wait.",
-    "name": "Beastmaster's Hunt: The Tiger",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

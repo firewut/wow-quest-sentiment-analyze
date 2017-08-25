@@ -1,9 +1,0 @@
-{
-    "_id": "36918",
-    "added_in_patch": 6,
-    "description": "I wasn't sure about this next beast, but it turns out that they've got a key strategic purpose. The riverbeast is quite at home in the water!You'll find the best ones around in Talador, around about Duskfall Island. Look for the huge, floating lumps out in the water.Try not to get wet!",
-    "name": "Requisition a Riverbeast",
-    "requires_level": 95,
-    "side": "alliance",
-    "zone": "Talador"
-}

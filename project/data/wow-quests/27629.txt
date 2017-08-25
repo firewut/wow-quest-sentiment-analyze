@@ -1,7 +1,0 @@
-{
-    "_id": "27629",
-    "description": "Getting Vizier Tanotep to go against my brother's wishes is going to be extremely difficult.  His very position is based on enforcing the will of Phaoris.I've had little luck making the case for open war against Neferset.Nevertheless you must speak to him.  Perhaps he will listen to an outsider's perspective.You will find the Vizier at the Akhenet Fields on official business.",
-    "name": "The Vizier's Vote",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

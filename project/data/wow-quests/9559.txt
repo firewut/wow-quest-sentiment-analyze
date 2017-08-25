@@ -1,7 +1,0 @@
-{
-    "_id": "9559",
-    "description": "Promised one, you must travel north to the home of my people - Stillpine Hold. It is there that you will face your most daunting challenge.Go now, High Chief Stillpine awaits your arrival.",
-    "name": "Stillpine Hold",
-    "requires_level": 7,
-    "zone": "Azuremyst Isle"
-}

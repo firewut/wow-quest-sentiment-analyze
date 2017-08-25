@@ -1,7 +1,0 @@
-{
-    "_id": "12738",
-    "description": "The cry for vengeance must be heard, <name>. Commander Plaguefist and a company of death knights are on their way to raze the Chapel of the Crimson Flame. If there are any death knights imprisoned at the chapel, Plaguefist will get them out.You can still catch up to them if you hurry. The chapel is due west of here. ",
-    "name": "A Cry For Vengeance!",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

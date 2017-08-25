@@ -1,8 +1,0 @@
-{
-    "_id": "31498",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Jade Serpent Challenge Mode - Consolation (Nth)",
-    "requires_level": 90,
-    "zone": "Quests"
-}

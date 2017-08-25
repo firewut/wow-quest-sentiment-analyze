@@ -1,8 +1,0 @@
-{
-    "_id": "41099",
-    "added_in_patch": 7,
-    "description": "The Tomb of Sargeras is the Legion's primary entrance into our world - it must be destroyed.No easy task, but until we have the means to do so we must do what we can to stop their invasion.The Legion used this citadel to spearhead invasions on other worlds - we can use its navigation systems to plan our own assault against them.You, of course, must take the honor of first breaking ground on their territory, but we will soon follow.",
-    "name": "Direct Our Wrath",
-    "requires_level": 98,
-    "zone": "Demon Hunter Campaign"
-}

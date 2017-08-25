@@ -1,8 +1,0 @@
-{
-    "_id": "24475",
-    "description": "If we're going to be on lockdown for any extended period o' time, we're gonna need some food, and some blankets to keep the wee ones warm.  Would ye mind headin' outside and gatherin' up some supplies?Ye'll find that a few o' the small boars actually have some healthy-sized haunches... good for eatin'.  We'll also need some pelts from the young wolves.Ye'll find animals almost anywhere ye go in Coldridge.",
-    "name": "All the Other Stuff",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Coldridge Valley"
-}

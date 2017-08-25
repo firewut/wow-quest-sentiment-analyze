@@ -1,7 +1,0 @@
-{
-    "_id": "10776",
-    "description": "Gnomus was kind enough to put this concoction together for the final strike. I merely pour it upon this tabard that you have provided for me and the item is imbued with the essence of the Illidari filth.Take the enchanted tabard and travel to the Eclipsion Fields, southwest of Eclipse Point. Once there, use the tabard to transform into an agent of Illidan. While in disguise, slay the crazed colossi that wander the field. They will think it an attack by the Eclipsion and sever all ties!",
-    "name": "Dissension Amongst the Ranks...",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

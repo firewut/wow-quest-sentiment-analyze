@@ -1,8 +1,0 @@
-{
-    "_id": "28576",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Thassarian at Andorhal.On the heels of our early victories in Andorhal, the Forsaken have decided to launch a counterattack. Your help is needed to beat back the Scourge and Horde and reclaim lost Andorhal.To reach Andorhal, travel north through the Hillsbrad Foothills and follow the road beyond Chillwind Camp.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Western Plaguelands!",
-    "requires_level": 34,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35235",
-    "added_in_patch": 6,
-    "description": "Did ya hear that?Sounds like that genesaur wants its 'will' back. I told ya this place is nuthin' but bad luck.I'll git that shot ya gave me loaded properly and see if I can't weaken that thing up. You better get up there and deal with it though...",
-    "name": "Iyu",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

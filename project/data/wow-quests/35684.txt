@@ -1,9 +1,0 @@
-{
-    "_id": "35684",
-    "added_in_patch": 6,
-    "description": "The Shattrath offensive is going well, but Socrethar refuses to show himself.And despite our best efforts, we are unable to break into the inner city, where he resides.However, we think we can lure Socrethar out of hiding. Defeat his lieutenants and warriors, then gather their medallions of service.When we show him proof of their demise, his pride will surely force him to face us.",
-    "name": "Reclaiming the City",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

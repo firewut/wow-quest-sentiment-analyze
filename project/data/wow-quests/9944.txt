@@ -1,8 +1,0 @@
-{
-    "_id": "9944",
-    "description": "Greatmother says that we must press on and serve our people. She says that we must serve as an example for Garrosh - to show that life goes on.I have so many matters to attend to here, especially with Greatmother having taken ill. Would you honor the Mag'har by helping one of their matrons?Several days ago we sent a funeral procession to the Ancestral Grounds and they have yet to return. Will you go search for them? They took the western road out of Garadar. Follow it around and avoid Halaa.",
-    "name": "Missing Mag'hari Procession",
-    "requires_level": 65,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

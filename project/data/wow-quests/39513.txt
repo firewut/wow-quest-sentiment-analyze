@@ -1,9 +1,0 @@
-{
-    "_id": "39513",
-    "added_in_patch": 6.2,
-    "description": "Draenei at the Temple of Sha'naar would mine these mountains for perfect crystals used to channel their magics. Now demons be lootin' the place. We gotta keep those crystals out of demonic hands, commander!Attack the mines behind the temple and grab them crystals.",
-    "name": "Disarming Sha'naar",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

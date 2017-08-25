@@ -1,7 +1,0 @@
-{
-    "_id": "28860",
-    "description": "With your help we've thumped the Dragonmaw pretty hard, but still their daily attacks in the Thundermar outskirts persist. We need to keep up the pressure!Wade back into the battle that's raging in the Thundermar ruins to the south and southwest. Kill Dragonmaw marauders and collect the insignias that their greatest warriors wear.",
-    "name": "Keeping the Dragonmaw at Bay",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9603",
-    "description": "Welcome to Azure Watch, <class>. Please excuse the disorder you see around you. It's easy to take simple things for granted, like a fully furnished and stocked inn, until you're forced to build one from nothing.We've managed to salvage this pod for a building, but without the proper furnishings and first aid supplies, the inn is little more than a glorified tent. Nurguni at the Exodar has offered to put together a package to help with our most immediate needs, but I need someone to deliver this list to him.",
-    "name": "Beds, Bandages, and Beyond",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Azuremyst Isle"
-}

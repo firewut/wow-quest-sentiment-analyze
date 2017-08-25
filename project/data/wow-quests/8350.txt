@@ -1,8 +1,0 @@
-{
-    "_id": "8350",
-    "description": "The death of another outrunner is a true tragedy, but it's a risk we all accept when we take the job.  Magistrix Erona at the Sunspire needs to get this package to the inn at Falconwing Square, and she needs it there as soon as possible.We're short handed and I don't have anyone else available that can cover for us.I'm not going to lie to you; the path to Falconwing Square can be extremely dangerous if you leave the safety of Dawning Lane.  Do you feel up to the task, <name>?",
-    "name": "Completing the Delivery",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

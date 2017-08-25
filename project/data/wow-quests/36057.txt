@@ -1,8 +1,0 @@
-{
-    "_id": "36057",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Sealing Fate: Honor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

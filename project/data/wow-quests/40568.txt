@@ -1,8 +1,0 @@
-{
-    "_id": "40568",
-    "added_in_patch": 7,
-    "description": "The Felskorn who ravage my brood were once Drekirjar - a tribe with whom we shared an ancient pact. Now, under the influence of the God-King, they forsake their oaths and strike at the forebears of their coveted drakes.\r\n\r\nThey should answer for this slight.\r\n\r\nAwaken your fury, <class>, and take the battle to them!",
-    "name": "Fury of the Storm",
-    "requires_level": 98,
-    "zone": "Quests"
-}

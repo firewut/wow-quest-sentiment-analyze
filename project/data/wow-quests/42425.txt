@@ -1,8 +1,0 @@
-{
-    "_id": "42425",
-    "added_in_patch": 7,
-    "description": "Now that we have the necessary worm guts, I was able to fashion them into a special sort of rope.\r\n\r\nIt will allow you to descend from the bridge into the chasm below and recover some of my possessions that were stolen and thrown in by the Deeprock.",
-    "name": "Going Down, Going Up",
-    "requires_level": 98,
-    "zone": "Quests"
-}

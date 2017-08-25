@@ -1,8 +1,0 @@
-{
-    "_id": "41996",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Tangled Nightmare",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

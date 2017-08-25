@@ -1,7 +1,0 @@
-{
-    "_id": "7867",
-    "description": "",
-    "name": "Outrider Standard Care Package",
-    "requires_level": 35,
-    "zone": "Ashenvale"
-}

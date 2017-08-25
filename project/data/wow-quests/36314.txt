@@ -1,9 +1,0 @@
-{
-    "_id": "36314",
-    "added_in_patch": 6,
-    "description": "The crimson gem used in this pendant is unlike any you've seen before, and the filigree wrapped around it is masterfully crafted.There's likely to be much you can learn from the person who made this. Perhaps someone at your garrison will recognize the work.",
-    "name": "The Intricate Pendant",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

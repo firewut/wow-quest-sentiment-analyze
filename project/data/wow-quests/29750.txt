@@ -1,8 +1,0 @@
-{
-    "_id": "29750",
-    "added_in_patch": 5,
-    "description": "The Spiritclaws are a sect of mogu assassin-priests who, at the height of the mogu empire, were the most elite and most feared of the emperor's troops.All have mastered a deathblow which ensnares the spirit of the enemy, trapping it in a jade bottle for delivery to a Spiritbinder.If you encounter any Spiritclaws further ahead in the ruins, take note: their belts hang with a cursed weight.Relieve them of their burden and bring the bottles back to me.",
-    "name": "Vessels of the Spirit",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

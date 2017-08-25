@@ -1,7 +1,0 @@
-{
-    "_id": "14016",
-    "description": "I wanted to remove the Black Knight's remains from the tournament grounds after your victory, but Confessor Paletress insisted that he receive a decent burial. Ever since, a dark presence has lingered in the cemetery and people are afraid to go there to visit the fallen.Would you visit the cemetery just past the eastern end of the tournament grounds and see if you can discover what's happening? ",
-    "name": "The Black Knight's Curse",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

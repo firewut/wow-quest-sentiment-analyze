@@ -1,7 +1,0 @@
-{
-    "_id": "12316",
-    "description": "We cannot permit the Horde to control Venture Bay. The port is essential to our operations in Grizzly Hills and beyond.Captain Stoutmantle has taken the rest of the Westfall Brigade east in search of a passage through the mountains, so we'll have no reinforcements.Go into the field, <name>, and kill the Conquest Hold berserkers the Horde has sent against us. Cut them down until none remain standing. The Alliance must have this port!",
-    "name": "Keep Them at Bay!",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

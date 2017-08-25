@@ -1,8 +1,0 @@
-{
-    "_id": "39405",
-    "added_in_patch": 7,
-    "description": "The writings carried by the priestess appear to be the first part of an epic poem describing the history of Ashildir, the ancient queen of the Valkyra. \r\n\r\nIf Ashildir has a connection to the shieldmaidens here, you may be able to use that to your advantage. \r\n\r\nThe answer to her involvement likely lies within the remaining text.",
-    "name": "Stories of Battle",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

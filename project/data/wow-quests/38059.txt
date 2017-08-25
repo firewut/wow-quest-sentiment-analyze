@@ -1,9 +1,0 @@
-{
-    "_id": "38059",
-    "added_in_patch": 7,
-    "description": "Hngghh!Nope, can't stand yet. It's all pins and needles.Small fries like this are usually no problem for the 7th, but we weren't prepared for their electrical attacks. Before I knew it, I was trapped in some kind of static field. Couldn't move a muscle until you came along.My comrades were carried deeper into the cave. Get 'em out before they become whelp chow!",
-    "name": "Pins and Needles",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

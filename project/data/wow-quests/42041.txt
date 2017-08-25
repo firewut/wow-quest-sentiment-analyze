@@ -1,8 +1,0 @@
-{
-    "_id": "42041",
-    "added_in_patch": 7,
-    "description": "We are under attack here, <name>!Creatures of the Nightmare are spilling into the Dreamway as we speak.Destroy them. They cannot be allowed to linger, or else the Nightmare will take root here, too!",
-    "name": "Enduring the Nightmare",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31707",
-    "added_in_patch": 5,
-    "description": "We have had a disturbing report from the Anglers fishermen of Sri-La Village, <name>.Many of their villagers are missing, taken by the spiders who live in The Widow's Wail, a cave along the coast to the north.The victims are dragged into the dark depths, wrapped in cocoons, and left to become the spiders' next meal.We believe that some of the people may still be alive. There is still time to save them! I need you to go and rescue as many villagers as you can find.",
-    "name": "A Tangled Web",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

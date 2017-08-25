@@ -1,7 +1,0 @@
-{
-    "_id": "26827",
-    "description": "We must be rallyin' da Earthen Ring for dis fight. What we be lackin' in numbers, we make up for in strength.Go to tha temple and gather da restin' shaman from tha rear rooms. Norsala, Lorvarius, and I will be meetin' them at Lorthuna's Gate.",
-    "name": "Rallying the Earthen Ring",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

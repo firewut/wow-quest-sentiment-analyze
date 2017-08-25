@@ -1,8 +1,0 @@
-{
-    "_id": "31727",
-    "added_in_patch": 5,
-    "description": "If this war is to be won we cannot afford to leave anything unchecked, outsider.There is a disturbance along the coast that needs to be investigated. The presence there is not our kind and are of no value to us. However, their supplies could prove very valuable.If there is anything of use there we must get to it before the empress.",
-    "name": "Gambling Problem",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

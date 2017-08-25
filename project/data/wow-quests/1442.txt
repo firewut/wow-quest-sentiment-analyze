@@ -1,7 +1,0 @@
-{
-    "_id": "1442",
-    "description": "Greetings, <name>. What can I do for one who follows a holy path?Ah, yes, Stilwell, the blacksmith... from long ago. I remember him well, though, I have not heard his name in some time.He never struck me as an impudent man, so I can only assume his desire for a Kor gem is noble.If you truly wish for one of the gems, then you must head to the northwest of Ashenvale. You will find Blackfathom Deeps there within some ancient ruins. The naga who still use the gems are down below. Do not go alone, <class>.",
-    "name": "Seeking the Kor Gem",
-    "requires_level": 20,
-    "zone": "Paladin"
-}

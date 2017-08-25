@@ -1,7 +1,0 @@
-{
-    "_id": "10673",
-    "description": "Gnomus knows about the massive diemetradon and plans to eat it! He must have been able to see what I could see through the eyes of his arcano-scorp. Look, there's no time to explain. He's crazy and that craziness is going to cost us the closest thing we've got to a fireproof jumpsuit.Get back to the lava flow near Baa'ri and track down Felspine the Greater. Once you find it, kill it and bring me back its hide.Don't try and reason with me, <name>. I'm well past that point.",
-    "name": "Felspine the Greater",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

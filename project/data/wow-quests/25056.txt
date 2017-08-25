@@ -1,7 +1,0 @@
-{
-    "_id": "25056",
-    "description": "Have you seen the plagued bruins that wander to the west of here?  Those hides... so hideous, so diseased, so... perfect!Fetch me 5 of them.  I've got an idea for an anti-Scourge poison that's guaranteed to succeed!",
-    "name": "Grisly Grizzlies",
-    "requires_level": 7,
-    "zone": "Tirisfal Glades"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8447",
-    "description": "The waters of Lake Elune'ara should dissolve the nightmares engulfing this object. Give me a moment to perform the cleansing, <name>.",
-    "name": "Waking Legends",
-    "requires_level": 60,
-    "zone": "Quests"
-}

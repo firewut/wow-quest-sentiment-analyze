@@ -1,7 +1,0 @@
-{
-    "_id": "27482",
-    "description": "This is the last time you will see me, <name>.  I am leaving the caravan.If you want to continue fighting by my side, hang on to Thresh'jin's body.  I can wait for a while longer.  When you are ready to say goodbye, throw the body into the bonfire atop Zul'Mashar's ziggurat.Thank you for your companionship, <name>.  You were strong.",
-    "name": "Into the Flames",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

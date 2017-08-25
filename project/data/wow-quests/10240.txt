@@ -1,7 +1,0 @@
-{
-    "_id": "10240",
-    "description": "We are prepared to try to construct a perimeter around the village using the energy source taken from the blood elves. I can't guarantee that it will work, but we have to attempt it.Otherwise, the mana creatures will surely continue devouring the spirits of the fallen Kirin Tor.Use this device at the small runes around the perimeter of town to release the energy there. If I've woven the field correctly, we should start noticing a difference once you've used the device at each point.",
-    "name": "Building a Perimeter",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

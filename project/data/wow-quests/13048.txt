@@ -1,7 +1,0 @@
-{
-    "_id": "13048",
-    "description": "The Lorehammer can help us correct the damage to the timeline, but only if we can discover where the history was originally corrupted.From Chieftain Swiftspear and your findings at Frostfloe Deep, we know that the change happened around the time of Stormhoof's death.Now, you must go to the Howling Hollow, north of the camp, and inspect the gravesites the North Wind's minions have already destroyed. The Lorehammer will react to artifacts from Stormhoof's era and attune itself to the proper time.",
-    "name": "Where Time Went Wrong",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

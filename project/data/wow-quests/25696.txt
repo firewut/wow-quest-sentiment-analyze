@@ -1,7 +1,0 @@
-{
-    "_id": "25696",
-    "description": "Oh, right, I received a notification from someone a few days ago.  The Reliquary, was it?  They're looking for someone to... do something...<The Warlord rifles through some papers.>Ah, here it is!  Yes, Rohan Sunveil of The Reliquary is seeking able-bodied adventurers to assist with an archaeological expedition to the south.Here, take this with you.  Why don't you go speak with that elf?",
-    "name": "The Sunveil Excursion",
-    "requires_level": 55,
-    "zone": "Blasted Lands"
-}

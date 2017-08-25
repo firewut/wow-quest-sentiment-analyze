@@ -1,9 +1,0 @@
-{
-    "_id": "33808",
-    "added_in_patch": 6,
-    "description": "It looks like those plant creatures used some kind of poison when they attacked Gidwin.It's a powerful concoction to say the least.If we are going to cure Gidwin we need one more special ingredient. This one might be a bit harder to obtain than the others.You up to the challenge, <name>?",
-    "name": "Swamplighter Queen",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

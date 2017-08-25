@@ -1,7 +1,0 @@
-{
-    "_id": "27815",
-    "description": "Cleaned up the camp and ran errands for Forgehammer?  Not bad for a wee <Class>.  Take these to Iain at Firebeard Cemetery, and he should reward you for a job well done.",
-    "name": "Somethin' for the Boys",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26401",
-    "description": "The soft glow from the pedestal brightens, and you can see a simple chain left behind. Is this what the apprentice was searching for?",
-    "name": "Return to Vestia",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

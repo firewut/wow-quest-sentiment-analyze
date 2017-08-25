@@ -1,9 +1,0 @@
-{
-    "_id": "38581",
-    "added_in_patch": 6.2,
-    "description": "Our base is barely built and already the Iron Horde sets up defenses against us. Still the plan worked and we fight on two fronts.I have received word that Exarch Maladaar has finally breached the western gates as well, but is bogged down in a pitched battle. You should go see the situation for yourself.",
-    "name": "The Battle for the West",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Tanaan Jungle"
-}

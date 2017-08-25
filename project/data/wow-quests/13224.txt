@@ -1,7 +1,0 @@
-{
-    "_id": "13224",
-    "description": "The Argent Crusade pulled my ravaged body from the Broken Front. What a glorious battle, <race>. My axe sang as it cut down Alliance filth and Scourge alike.My time is over. It will be a good death. Carry a message for me, soldier.Our base flies out of reach of Scourge - overhead between Mord'rethar and Aldur'thar. It is called \"Orgrim's Hammer.\"<Hork futilely attempts to salute.>Fly high and avoid the Alliance juggernaut, Skybreaker. Tell Korm... tell him I died... fighting... For the Horde.",
-    "name": "Orgrim's Hammer",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

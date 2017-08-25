@@ -1,7 +1,0 @@
-{
-    "_id": "29214",
-    "description": "The Shadow Wardens are back in the Regrowth. I know that they take the loss of Fandral from their custody very seriously, so it wouldn't take much prodding to bring them to the Firelands to hunt the Druids of the Flame, and perhaps aid us otherwise in the process.Should you come upon enough marks, you should seek out Captain Saynna Stormrunner at the Sanctuary of Malorne and secure her aid.",
-    "name": "The Shadow Wardens",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

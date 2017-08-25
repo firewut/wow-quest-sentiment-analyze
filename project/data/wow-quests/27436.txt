@@ -1,7 +1,0 @@
-{
-    "_id": "27436",
-    "description": "This be a great occasion, <name>. You've learned much and grown in de ways o' power. Your future be a great one for da Darkspear and da Horde.I asked da warchief's master enchanter to be makin' a staff for you to recognize all your achievements.To get what you be needin' you'll have to travel to the cursed Shadowfang Keep inside Silverpine Forest. Find da holy symbol of Commander Springvale, a supply of moontouched wood, and da essence of the spirits that haunt da keep and bring dem to Godan.",
-    "name": "The Shadow-Walker's Task",
-    "requires_level": 20,
-    "zone": "Priest"
-}

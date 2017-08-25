@@ -1,8 +1,0 @@
-{
-    "_id": "43894",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Sealing Fate: Extraneous Order Resources",
-    "requires_level": 110,
-    "zone": "The Violet Hold"
-}

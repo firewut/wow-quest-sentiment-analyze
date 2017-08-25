@@ -1,8 +1,0 @@
-{
-    "_id": "29881",
-    "added_in_patch": 5,
-    "description": "As you have seen, this grove is abundant with beautiful pink petals.  As each petal ages, the tone deepens and fades.If you would be so kind, I am in need of a few petals that have freshly fallen.  Only the ones that have just fallen will have precisely the right color I am after.From it I can forge an ink that will be breathtaking.  Can you help me?",
-    "name": "The Perfect Color",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

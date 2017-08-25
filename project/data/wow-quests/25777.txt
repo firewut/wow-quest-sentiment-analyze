@@ -1,8 +1,0 @@
-{
-    "_id": "25777",
-    "description": "This news needs to get to Menethil as soon as possible. I'll send you along on my fastest ram, <name>.He knows the way, just make sure you're steady in the saddle and hold on tight.Don't dawdle around the camp. We've got to send word quickly!",
-    "name": "Onwards to Menethil",
-    "requires_level": 18,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

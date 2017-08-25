@@ -1,9 +1,0 @@
-{
-    "_id": "36315",
-    "added_in_patch": 6,
-    "description": "If I had known being an enchanter was this dangerous, I would have stayed in Shattrath. \r\n\r\nHere, take this ring. The arakkoa told me to use the ring on the staff to nullify the enchantment.\r\n\r\nBring the scepter back to him and maybe he will teach you what he promised to teach me.",
-    "name": "Oru'kai's Staff",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

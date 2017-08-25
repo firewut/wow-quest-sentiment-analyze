@@ -1,8 +1,0 @@
-{
-    "_id": "30527",
-    "added_in_patch": 5,
-    "description": "All right, now I happen to know that those mountain hozen love a delicious, sweet melon.Mr. Haohan's last harvest of melons got stolen, so we're going to have to grow some of our own.Once we have our harvest, we'll use them to lure the nasty hozen's leader out of its cave!",
-    "name": "Haohan's Vote IV: Melons For Felons",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

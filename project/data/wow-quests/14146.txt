@@ -1,8 +1,0 @@
-{
-    "_id": "14146",
-    "description": "Egah - what's going on?<Screams, shouts, and the roar of combat fills the radio.><name>! Get back here right away. Hurry back to the gates - we're under attack!Help us fend off the invaders. I'm arming your grenade launcher!!",
-    "name": "Defend the Gates!",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Azshara"
-}

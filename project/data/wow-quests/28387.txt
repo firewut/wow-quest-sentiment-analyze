@@ -1,7 +1,0 @@
-{
-    "_id": "28387",
-    "description": "Your pump sabotage has caused pipes to break all over camp. The goblins are in a panic over the geysers, and it's about to get worse.Take the gathered explosives and use them to set the geysers aflame. We're going to do as much damage to the camp as we can, and keep that oil from being used to fuel shredders... or worse, Horde warships.",
-    "name": "Burnout",
-    "requires_level": 47,
-    "zone": "Felwood"
-}

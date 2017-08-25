@@ -1,8 +1,0 @@
-{
-    "_id": "26102",
-    "description": "With you leading the way, we've finally broken the momentum of the Dark Iron attack. General Grimaxe, the Dark Iron leader, is attempting to rally his troops from the center of their lines on the frozen lake to the south.He stands atop one of their new dark iron golems, shouting orders to his men. If he succeeds in rallying them, they may still be able to overpower us. You must prevent that, <name>. Destroy the golem guarding him, then kill General Grimaxe himself. He is the key to our victory.",
-    "name": "Grimaxe's Demise",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "24816",
-    "description": "Fine, fine, perhaps the whole egg thing didn't quite pan out. Who's up for some shark meat?Only one little problem. Well, a big problem, actually. A really BIG problem: The Hammer!Of course, I have a brilliant idea. Swim out into the Dire Strait to the west and get us some shark parts. Give them to my assistant, Greely. I'm too important to get my hands dirty with the small details.",
-    "name": "Who's Top of the Food Chain Now?",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

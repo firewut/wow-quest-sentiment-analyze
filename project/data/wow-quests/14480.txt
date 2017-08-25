@@ -1,7 +1,0 @@
-{
-    "_id": "14480",
-    "description": "We're sending you in there to clean up this naga infestation. Lethal force has been authorized.Gob Squad will be backing you up on this one, so it should be a cakewalk.",
-    "name": "Extermination",
-    "requires_level": 12,
-    "zone": "Azshara"
-}

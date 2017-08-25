@@ -1,8 +1,0 @@
-{
-    "_id": "43252",
-    "added_in_patch": 7,
-    "description": "My ancient ancestors are buried here in the cemetery to the west. Because of whatever is causing the dead to rise, their souls are now at unrest.\r\n\r\nAll blood elves are descended from high elves, who in turn came from these lands before they were sundered.\r\n\r\nI cannot bring myself to do it. Will you put my ancestors to rest?",
-    "name": "Eternal Unrest",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

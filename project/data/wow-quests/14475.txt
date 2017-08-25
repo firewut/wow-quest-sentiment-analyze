@@ -1,7 +1,0 @@
-{
-    "_id": "14475",
-    "description": "Do you see a problem with these wind riders, <name>? They're not riding the wind! Every flight I send aloft gets peppered by night elf snipers.Talrendis sharpshooters are holed up in the southern-most tower, against the mountains. I sent one of these little goblin scrubs to take care of the tower, but I haven't heard a word from him. Go find Bombardier Captain Smooks and beat him with the hurry stick!",
-    "name": "Grounded!",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

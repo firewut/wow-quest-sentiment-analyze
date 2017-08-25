@@ -1,8 +1,0 @@
-{
-    "_id": "30635",
-    "added_in_patch": 5,
-    "description": "We've taken care of the scout problem for now, but there are still advance mogu forces inside the Guo-Lai Halls down the hill.Unfortunately, their vicious guard dogs are protecting their operations deeper in the ruins.Go and dispatch of their beasts. Be on your guard - they can be quite good at blending into their surroundings.",
-    "name": "Killing the Quilen",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

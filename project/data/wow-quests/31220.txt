@@ -1,8 +1,0 @@
-{
-    "_id": "31220",
-    "added_in_patch": 5,
-    "description": "You've really been building up respect with the Shado-Pan, <name>.\r\n\r\nNurong's interested in trying out his skills against you.\r\n\r\nThe good news is, if you win, I'll allow him to go with you on your missions.\r\n\r\nThe bad news is, I really don't think you'll win.",
-    "name": "The Challenger's Ring: Hawkmaster Nurong",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

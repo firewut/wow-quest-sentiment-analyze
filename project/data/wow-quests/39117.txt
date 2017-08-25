@@ -1,8 +1,0 @@
-{
-    "_id": "39117",
-    "added_in_patch": 7,
-    "description": "Papa loved this village. He'd never hear of leaving, even in these dread times.Before he died, he told me what attacked him: a monstrous falcon we call Rotbeak.You're fighting these undead, aren't you? Will you avenge my father? If so, you can find the beast northwest of here, patrolling our western route to the sea.",
-    "name": "Shriek No More",
-    "requires_level": 98,
-    "zone": "Bradensbrook"
-}

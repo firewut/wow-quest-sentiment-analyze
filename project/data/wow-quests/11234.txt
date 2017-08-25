@@ -1,7 +1,0 @@
-{
-    "_id": "11234",
-    "description": "Let's send word back to old Anselm then.  Victory has come later than expected, but better late than never.  Tell him it will take our forces a few hours at most to finish off the stragglers here.Glory to the Banshee Queen!",
-    "name": "Report to Anselm",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

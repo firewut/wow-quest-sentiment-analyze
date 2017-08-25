@@ -1,8 +1,0 @@
-{
-    "_id": "30981",
-    "added_in_patch": 5,
-    "description": "Taoshi is setting up an ambush for one of the mantid leaders on the south side of Sik'vess. She is tasked with retrieving his crystal so that we can use it to open the door.Two are stronger than one. I want you there to make sure it goes smoothly.",
-    "name": "Taoshi and Korvexxis",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

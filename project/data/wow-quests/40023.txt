@@ -1,8 +1,0 @@
-{
-    "_id": "40023",
-    "added_in_patch": 7,
-    "description": "We cannot falter in our crusade against this corruption, <name>.It is our duty as heroes. As herbalists.As hero-balists.Slaying simple satyrs will not do. We must attack their leaders. Bring this fallen herb to Shala'nir, in the northeast. Find Tur'xoran's summoning stone, and place this herb in front of it. Then... rip off his head.Do it for the plants.",
-    "name": "The Last Straw",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

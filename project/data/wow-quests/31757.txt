@@ -1,8 +1,0 @@
-{
-    "_id": "31757",
-    "added_in_patch": 5,
-    "description": "The Shao-Tien have unleashed their captive tortured spirits upon us. They flood down from the Golden Stair, with no end in sight.Kill as many of these unleashed spirits as you can. They are fragile, but if you are not alert, they can easily overrun you.Good luck.",
-    "name": "Unleashed Spirits",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

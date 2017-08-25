@@ -1,7 +1,0 @@
-{
-    "_id": "8510",
-    "description": "Ok, so it looks like I still need more Arthas' Tears. I would imagine that you will be able to find them in the general location that you gathered them up for me last time. The quicker we get these, the faster we can start up the offensive against the forces at Ahn'Qiraj.You gonna help us out again <class>?",
-    "name": "The Alliance Needs More Arthas' Tears!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

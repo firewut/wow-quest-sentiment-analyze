@@ -1,7 +1,0 @@
-{
-    "_id": "26403",
-    "description": "Man, I hate the Venture Company.  They have a string of operations through Stranglethorn which keeps hard-working goblins, like me, from making honest gold!My way? Theft. The Venture Co. geologists near Lake Nazferiti to the northwest are deeply interested in those strange blue crystals they have been finding in the mines.  Bring me samples of the stone from their geologists.  I don't care what you have to do to get them. ",
-    "name": "Venture Company Mining",
-    "requires_level": 26,
-    "zone": "Northern Stranglethorn"
-}

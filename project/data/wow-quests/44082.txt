@@ -1,8 +1,0 @@
-{
-    "_id": "44082",
-    "added_in_patch": 7,
-    "description": "Korgaz Deadaxe has arrived at Acherus to aid us in recruiting additional death knights. He has an eye for potential.I cannot emphasize enough that it is of the utmost importance that we replenish our numbers during the battle with the Burning Legion.The demon armies are nearly endless and we are few.Speak with Korgaz when you are ready to recruit additional death knights.",
-    "name": "Knights of the Ebon Blade",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

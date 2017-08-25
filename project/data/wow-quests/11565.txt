@@ -1,7 +1,0 @@
-{
-    "_id": "11565",
-    "description": "Very well, your king's secret is safe with me as long as he continues to help us against our enemies.Here, take this to him. I cleaned it up nicely, though I have no idea why he needs a second disguise.Maybe he has something in mind for you?",
-    "name": "The Spare Suit",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

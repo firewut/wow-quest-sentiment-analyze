@@ -1,8 +1,0 @@
-{
-    "_id": "43486",
-    "added_in_patch": 7,
-    "description": "I have been studying the Codex of Command that you recovered from Faronaar.It is important to Balnazzar, but WHY? What does it say? I'm sure we could gain valuable knowledge if we could just crack this code.I have a friend who might be able to help us: a priestess named Delas Moonfang. She has been studying Eredun, the language of the demons.Take the sigil to her in Dalaran. Tell her I sent you.",
-    "name": "Cracking the Codex",
-    "requires_level": 103,
-    "zone": "Paladin Campaign"
-}

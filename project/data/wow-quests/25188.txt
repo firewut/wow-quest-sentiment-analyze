@@ -1,8 +1,0 @@
-{
-    "_id": "25188",
-    "description": "My post is here on the tower, <name>, and I cannot leave it.  I need someone to go out there and help the people who are still trapped in the river's overflow.Can I count on you?",
-    "name": "Watershed Patrol",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Durotar"
-}

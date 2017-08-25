@@ -1,8 +1,0 @@
-{
-    "_id": "14022",
-    "description": "Won't you celebrate Pilgrim's Bounty with us, <name>? It's a time for reflecting on your journeys and your good fortune, sharing plentiful food and stories with friends.You can partake of wonderful Pilgrim's Bounty feasts near major towns by sitting at a bountiful table and serving the foods you find there.If you're interested in learning how to cook the traditional Pilgrim's Bounty foods, seek out Gregory Tabor. You will find him just outside Stormwind's gates.",
-    "name": "Pilgrim's Bounty",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Pilgrim's Bounty"
-}

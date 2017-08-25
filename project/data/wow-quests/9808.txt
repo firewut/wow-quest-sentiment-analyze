@@ -1,7 +1,0 @@
-{
-    "_id": "9808",
-    "description": "I've seen your kind use shiny round pieces of metal to trade for things that you need.  We're not so different from you.  We use shiny round mushrooms as our currency.Glowcap mushrooms grow everywhere in the marsh, you just have to know how to pick them from the ground without wrecking them.  I'll teach you how to do it, if you promise to bring us some for our reserves.  What do you say, <name>?",
-    "name": "Glowcap Mushrooms",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

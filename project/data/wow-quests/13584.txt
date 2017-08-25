@@ -1,7 +1,0 @@
-{
-    "_id": "13584",
-    "description": "I would be neglecting my responsibility if I abandoned my post just now, with so many elementals out of control in the ruins.Let us deal with them first, before we see how we can aid Malfurion.  What do you say, small one?",
-    "name": "Calming the Earth",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34244",
-    "added_in_patch": 6,
-    "description": "$p! I have a lead on what happened to my father. There have been reports that he was seen in the presence of Shadow Council orcs in ____.My father was a powerful Anchorite with a vast amount of ancient knowledge. I dread to think what those within the Shadow Council would do to him to get that knowledge. Can you go to ___? Hunt down their officers and see what they know?",
-    "name": "They Took My Father",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

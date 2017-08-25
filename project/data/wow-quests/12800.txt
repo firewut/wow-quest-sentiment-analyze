@@ -1,7 +1,0 @@
-{
-    "_id": "12800",
-    "description": "The Scarlet Enclave is no more. What remains of the Crusade will be dealt with in Northrend.We now turn all of our efforts to Light's Hope Chapel. No longer will this affront to your master be allowed to exist!I have issued my final command. Scourge Commander Thalanor awaits your arrival at the edge of Browman Mill. Go northwest, through the cave, into the Noxious Glade and take the path leading out of the glade to the mill.Do not fail me, <name>.",
-    "name": "The Lich King's Command",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31235",
-    "added_in_patch": 5,
-    "description": "I recovered this weapon on a recent scouting run near the wall. It would seem ideal for helping your Shado-Pan with their infestation problem in Gurthani Terrace.The more they are focused on keeping spiders off the wall, the less time they are killing fear-gripped swarmborn.",
-    "name": "Nope Nope Nope",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

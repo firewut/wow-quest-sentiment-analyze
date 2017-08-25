@@ -1,7 +1,0 @@
-{
-    "_id": "13685",
-    "description": "You've proven yourself worthy of competing under the banner of Ironforge, <name>. Now, you should introduce yourself to Lana Stouthammer, who leads the Ironforge delegation. As Ironforge's grand champion, she will enter you into the tournament on behalf of the city and oversee your training and testing as valiant.It has been an honor working with you, <name>, and I wish you luck in the competition ahead.",
-    "name": "A Valiant Of Ironforge",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

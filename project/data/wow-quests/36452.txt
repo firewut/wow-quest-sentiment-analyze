@@ -1,8 +1,0 @@
-{
-    "_id": "36452",
-    "added_in_patch": 6,
-    "description": "Here's some text.",
-    "name": "Spawn Tracking & Spell Visuals: Do They Work?",
-    "requires_level": 1,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40197",
-    "added_in_patch": 7,
-    "description": "In order to make this barding, we'll need a lot of leather. And I mean a LOT of leather.I'll solidify our plans on fitting the pieces together. You go gather the leather.Once that's done, we can begin crafting.",
-    "name": "The Necessary Materials",
-    "requires_level": 104,
-    "zone": "Leatherworking"
-}

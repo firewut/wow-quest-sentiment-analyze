@@ -1,7 +1,0 @@
-{
-    "_id": "12480",
-    "description": "Welcome to the Wrath of the Lich King Friends and Family Alpha.  Use the portals next to me to begin your journey into Northrend.You can choose to report to the Horde recruiter in Warsong Hold in Borean Tundra or you can go to Vengeance Landing in Howling Fjord.",
-    "name": "Onwards to Northrend!",
-    "requires_level": 68,
-    "zone": "Shattrath City"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44493",
-    "added_in_patch": 7,
-    "description": "Our leyline feed grows stronger.\r\n\r\nThe more powerful our feed becomes, the more I learn about ancient mana itself.\r\n\r\nOf course, as my apprentice, you may reap the benefits of my discoveries. Listen well, and I will teach you how to extract power from your enemies more reliably.",
-    "name": "Leyline Proficiency",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

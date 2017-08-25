@@ -1,7 +1,0 @@
-{
-    "_id": "8243",
-    "description": "",
-    "name": "Zanza's Potent Potables",
-    "requires_level": 58,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9290",
-    "description": "",
-    "name": "Mage Training",
-    "requires_level": 2,
-    "zone": "Mage"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34794",
-    "added_in_patch": 6,
-    "description": "Boss-mon, good to see ya.Durotan recommended dat we be gettin' a foothold in Nagrand, so I taken the liberty of dispatchin' some of da boys.Thrall's already reportin' that the outside be nearly complete. He been askin' me to let ya know they be ready for ya.A windrider be waitin' to catch ya up with the latest caravan shipment whenever you be ready,  siram;.",
-    "name": "Taking the Fight to Nagrand",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

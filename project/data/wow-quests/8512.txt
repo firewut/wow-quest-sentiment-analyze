@@ -1,7 +1,0 @@
-{
-    "_id": "8512",
-    "description": "Good to see you again <name>. It does appear that we need more light leather for the creation of the various war materiel. If you could bring me a stack of ten that would be just perfect.",
-    "name": "The Alliance Needs More Light Leather!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

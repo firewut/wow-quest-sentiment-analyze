@@ -1,8 +1,0 @@
-{
-    "_id": "9406",
-    "description": "This news you bring from beyond the Dark Portal...  you want us to believe the son of Durotan ruled over the lands beyond it... free from any demonic taint?  And that now his people have returned to this world?I hope for your sake that this isn't some manner of joke, <class>.  What this means to my people... cannot be described.  I must send word to Nagrand at once!  Hellscream must hear about this.Take this letter back to your leader in Thrallmar.  Tell him the Mag'har welcome them!",
-    "name": "The Mag'har",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

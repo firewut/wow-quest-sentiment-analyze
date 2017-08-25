@@ -1,8 +1,0 @@
-{
-    "_id": "35897",
-    "added_in_patch": 6,
-    "description": "Terokk's daughter Lithic was a skilled huntress, but found her true passion in goldsmithing.\r\n\r\nShe forged this bangle as a gift for her father, and he wore it for many years. Only after Lithic passed away did he remove the bangle, for her memory was too much for the old king to bear.\r\n\r\nPlace the bangle upon the effigy, and I shall tell you of Terokk's fall.",
-    "name": "The Missing Piece",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9752",
-    "description": "You must help me get out of here!I was gathering herbs nearby when a handful of these little savages abducted me.  I tried to fight them off, but there were too many of them.Help me return to the Cenarion Refuge and away from these cruel wretches and their vile magic!",
-    "name": "Escape from Umbrafen",
-    "requires_level": 60,
-    "zone": "Zangarmarsh"
-}

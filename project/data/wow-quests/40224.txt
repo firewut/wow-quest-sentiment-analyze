@@ -1,8 +1,0 @@
-{
-    "_id": "40224",
-    "added_in_patch": 7,
-    "description": "<Thrall listens intently.>You found it! The Doomhammer fell to the Crumbling Depths... But the Legion remains a step ahead of us. If we hurry, we can follow the demon Geth'xun and retrieve the hammer before any more of this realm is corrupted.Therazane will open a portal directly there. Let's go!",
-    "name": "The Hammer in the Deep",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

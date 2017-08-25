@@ -1,7 +1,0 @@
-{
-    "_id": "12906",
-    "description": "Let's start you off with something straightforward.  The male vrykul that work the mines for us do so against their will... purely out of fear of our blades.Once in a while, one of them will lose their motivation.  Find any uncooperative vrykul and put them in their place.Take this disciplining rod.  You'll want to inflict pain, not death.  Well, most of the time anyway.",
-    "name": "Discipline",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9760",
-    "description": "I would not ask you to single-handedly bear the burden of destroying the Vector Coil and slaying Sironas, <name>; however, I believe that you can be of some help in clearing the way for others that might take on such a dangerous assignment.Take the road going north out of Blood Watch and follow it until you get to the fork. Once there, take the left road and follow it until you see Vindicator's Rest - it will be slightly west of the road itself. Corin will be waiting for you.",
-    "name": "Vindicator's Rest",
-    "requires_level": 18,
-    "zone": "Bloodmyst Isle"
-}

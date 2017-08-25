@@ -1,8 +1,0 @@
-{
-    "_id": "12171",
-    "description": "The list I hold must be delivered to High Commander Halford Wyrmbane. He commands the 7th Legion, stationed at Wintergarde Keep on the eastern borders of Dragonblight.If any of the traitors on this list are stationed at Wintergarde... it could be catastrophic.Hurry, <name>. Show the document to Palena Silvercloud here at Stars' Rest and explain the nature of your mission. She will put you on her fastest hippogryph to Wintergarde!",
-    "name": "Of Traitors and Treason",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

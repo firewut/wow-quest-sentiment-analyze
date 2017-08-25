@@ -1,8 +1,0 @@
-{
-    "_id": "41654",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Queen's Opal Loop",
-    "requires_level": 110,
-    "zone": "Jewelcrafting"
-}

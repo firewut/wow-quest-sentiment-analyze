@@ -1,8 +1,0 @@
-{
-    "_id": "14396",
-    "description": "What in the world was that, <name>?Those were not cannons or catapults, that is for sure.Go outside and see what is going on.",
-    "name": "As the Land Shatters",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

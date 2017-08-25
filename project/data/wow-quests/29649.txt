@@ -1,8 +1,0 @@
-{
-    "_id": "29649",
-    "description": "Gunny is dying from a powerful curse, <name>.Grand Warlock Nethekurse augments his power with a pair of mystical braziers. If you bring me an ember from that brazier, perhaps it can counteract the dark magic?",
-    "name": "How to Save a Life",
-    "requires_level": 66,
-    "side": "alliance",
-    "zone": "Quests"
-}

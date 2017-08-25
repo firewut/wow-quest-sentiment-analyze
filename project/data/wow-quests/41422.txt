@@ -1,8 +1,0 @@
-{
-    "_id": "41422",
-    "added_in_patch": 7,
-    "description": "G'Hanir is... is...<Mylune wipes her eyes, sniffling.>Corrupted! The Nightmare has risen from the depths of the dream. It all happened so fast...I was able to secret the staff here through the dream before it fell fully. It rests for now... but I fear we don't have much time.You must prepare to retrieve G'Hanir from the Dream. Draw water from the sacred moonwell on the northern edge of the grove and obtain an ancient's blessing.Quickly - every moment is precious!",
-    "name": "Necessary Preparations",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

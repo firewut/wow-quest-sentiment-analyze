@@ -1,8 +1,0 @@
-{
-    "_id": "40236",
-    "added_in_patch": 7,
-    "description": "It was a miracle that you were able to survive, <name>. It is with great sorrow that I have to say that Grand Master Hight was not so lucky. His spirit now rests with the ancestors.Now we must look to a new leader for our order, our broken temple. I have spoken with the other masters and we are all of one mind on this.We all agree that new leader should be you, <name>. You have shown strength, wisdom, courage, and kindness beyond measure.Walk with us to the temple and we will announce our decision.",
-    "name": "The Dawning Light",
-    "requires_level": 98,
-    "zone": "Quests"
-}

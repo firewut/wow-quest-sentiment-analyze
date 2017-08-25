@@ -1,7 +1,0 @@
-{
-    "_id": "27786",
-    "description": "While you were in the mine, I was able to figure out where the Hammer of Twilight is being kept. They created it at the Altar of Twilight to the south.More important than that, the cultists have made a critical error: Cho'gall is personally overseeing its final construction.<Garona begins sharpening her blades.>Many Kor'kron died to bring us this information.",
-    "name": "The Hammer of Twilight",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

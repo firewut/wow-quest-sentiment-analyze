@@ -1,8 +1,0 @@
-{
-    "_id": "30930",
-    "added_in_patch": 5,
-    "description": "I can't find a single good yak here. ALL the yaks are bad!Some are too stinky, some too fight-y, others just scared.You look like a lucky <race>. Here, take a lasso. See if you can find a good yak for me.",
-    "name": "Pick a Yak",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

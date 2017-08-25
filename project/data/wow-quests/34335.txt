@@ -1,9 +1,0 @@
-{
-    "_id": "34335",
-    "added_in_patch": 6,
-    "description": "Our druids set up a wide network of scouts to follow up on your intel from Nagrand.We've identified a suspicious Iron Horde excavation near some salt pools on the western coast of Gorgrond.We have reason to believe that these orcs are pursuing a valuable artifact deep in the desert.I'm putting together a small mission for a focused, surgical strike, and we could use a capable <class> like yourself. I'd like you to be part of that team.",
-    "name": "Garrison Campaign: Crows In The Field",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

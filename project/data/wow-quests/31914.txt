@@ -1,8 +1,0 @@
-{
-    "_id": "31914",
-    "added_in_patch": 5,
-    "description": "My time under the Firelord has prepared me fer anything. Nothing you can throw at me will deter me!",
-    "name": "Durin Darkhammer",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

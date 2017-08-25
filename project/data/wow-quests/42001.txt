@@ -1,8 +1,0 @@
-{
-    "_id": "42001",
-    "added_in_patch": 7,
-    "description": "Aluneth... a powerful and dangerous weapon. If tales are to be believed, Aluneth is actually the name of a very old and very powerful arcane entity, somehow bound to a staff through ancient magic.\r\n\r\nWhen Aegwynn relinquished Aluneth many years ago, it was entrusted to Kirin Tor, who, fearing its unbridled power, handed it to the blue dragonflight to secure away in secret. Only they would know exactly where it was taken.\r\n\r\nThe dragon Kalec may be our best chance. He now resides on the Council of Six.",
-    "name": "Aluneth, Greatstaff of the Magna",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

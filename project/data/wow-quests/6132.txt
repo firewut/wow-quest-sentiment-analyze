@@ -1,7 +1,0 @@
-{
-    "_id": "6132",
-    "description": "Get me out of here!I came up to the Valley of Spears to talk to the Maraudines.  I thought I could do a little business with them... but they don't want to talk!  I think they want to eat me!Get me out of here and my brother Hornizz will pay you big!  He's at our camp next to the kodo graveyard, to the east.Let's hurry, <name>.  Not two minutes ago I heard some centaurs talking about getting wood for their cookpot... ",
-    "name": "Get Me Out of Here!",
-    "requires_level": 30,
-    "zone": "Desolace"
-}

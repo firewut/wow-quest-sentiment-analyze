@@ -1,7 +1,0 @@
-{
-    "_id": "26395",
-    "description": "<name>, I gathered into this crate everything Argus asked for.  Can you take it to him?If you've already spoken to Bartlett at Goldshire, then you can take a gryphon back to him.  Dungar Longdrink is our gryphon master, over in the trade district.Speak with Dungar, then get this crate to Argus as fast as you can.  We don't want our fighting men and women in Goldshire to go without fresh equipment!",
-    "name": "Dungar Longdrink",
-    "requires_level": 5,
-    "zone": "Elwynn Forest"
-}

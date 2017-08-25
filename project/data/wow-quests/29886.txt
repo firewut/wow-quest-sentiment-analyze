@@ -1,8 +1,0 @@
-{
-    "_id": "29886",
-    "added_in_patch": 5,
-    "description": "Your friend Taylor is in critical shape. Unfortunately, his wounds are tainted by hozen poison, which is very difficult to cure.Luckily, through many generations of fighting the hozen, my people have developed medicines to treat such injuries.The flowers growing on the surface of Glass Lake are needed to make the antidote.<name>, go quickly and bring back some blooms. Your Admiral's life depends on it.",
-    "name": "Zen Healing",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12556",
-    "description": "Now that we know where to find Farunn, all that remains is the battle against the great beast. Are you ready to take on this rhino, <name>? For all the spirit's blustering, I'm certain it was telling the truth about the beast's strength.When you're ready to face him, head north past the Suntouched Pillar and look for Farunn on the northeast shore of the Bittertide Lake. It may even venture near the Glimmering Pillar. Bring back its horn to commemorate your kill.",
-    "name": "Rhino Mastery: The Kill",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

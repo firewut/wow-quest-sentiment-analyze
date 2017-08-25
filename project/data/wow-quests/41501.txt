@@ -1,8 +1,0 @@
-{
-    "_id": "41501",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Leystone Basilisks",
-    "requires_level": 110,
-    "zone": "Mining"
-}

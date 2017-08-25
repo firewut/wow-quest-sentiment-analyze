@@ -1,8 +1,0 @@
-{
-    "_id": "25818",
-    "description": "To break the curse, there must be a reckoning. Captain Halyndor damned us all to covet a forbidden artifact; the Eye of Paleth. His spirit still covets it, standing guard over the strongbox of his old ship, the Intrepid.Vanquish the soul of the one who cursed us so, <class>. Defeat the Captain, claim his key, and spirit the Eye of Paleth far from this place.",
-    "name": "Lifting the Curse",
-    "requires_level": 20,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

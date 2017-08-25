@@ -1,7 +1,0 @@
-{
-    "_id": "28469",
-    "description": "Very interesting, <name>...When this toxic substance is mixed with the water from the hot springs, it loses its toxicity, only retaining the ability to temporarily affect those that ingest it. This must be why the Winterfall protect the hot springs so fervently -- they need them to purify their firewater.We need to stop this -- cut off contact between the Winterfall and the Deadwood. A group of runners walks the distance between their village and Felwood. Find and defeat them, and steal their shipment.",
-    "name": "Winterfall Runners",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

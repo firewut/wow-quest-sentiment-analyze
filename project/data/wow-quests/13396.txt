@@ -1,7 +1,0 @@
-{
-    "_id": "13396",
-    "description": "Do you see now?  Sending your men against the prince's armies just swells their numbers.I don't expect you to understand... you'll probably just end up like the others.  You'd best return to whoever sent you.  They might be worried.",
-    "name": "Futility",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -7,26 +7,17 @@ from items import QuestItem
 from schemas import *
 
 import re
+import json
+import os
+
 quest_id_regexp = re.compile("http://www.wowdb.com/quests/(\d+)")
 added_in_patch_regexp = re.compile("Added in Patch (\d+(?:\.\d+)?)")
 requires_level_regexp = re.compile("Requires Level (\d+)")
 
-# Deform
-from pydeform import Client
-client = Client(host="deform.io")
-token_client = client.auth(
-    'token',
-    auth_key='-',
-    project_id='wow-quests',
-)
 
-# Must sync schema
-
-for collection in Collections:
-    try:
-        token_client.collection.save(data=collection)
-    except Exception as e:
-        print(str(e))
+# Create dirs if missing
+WOW_QUEST_DIR = 'project/data/wow-quests/'
+os.makedirs(WOW_QUEST_DIR)
 
 
 class WowDBSpider(CrawlSpider):
@@ -100,10 +91,17 @@ class WowDBSpider(CrawlSpider):
                     self.logger.error(e)
 
                 try:
-                    deform_response = token_client.document.save(
-                        collection=QUEST_COLLECTION_ID,
-                        data=dict(item),
+                    text_file_name = "%s/%s.txt" % (
+                        WOW_QUEST_DIR,
+                        item['_id']
                     )
+                    with open(text_file_name, 'w') as quest_file:
+                        json.dump(
+                            dict(item),
+                            quest_file,
+                            indent=4,
+                            separators=(',', ': ')
+                        )
                 except Exception as e:
                     self.logger.error(e)
             except Exception as e:

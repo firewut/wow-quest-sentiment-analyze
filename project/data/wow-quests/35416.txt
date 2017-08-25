@@ -1,9 +1,0 @@
-{
-    "_id": "35416",
-    "added_in_patch": 6,
-    "description": "Commander, you now have the Will of the Genesaur along with the genesis water and enough seeds to grow an army. Not to mention the Laughing Skulls you helped save.I would call this mission a success.I will investigate this fortress further and see if there are more materials we might glean from it.In the meantime, you may want to bring these artifacts you have obtained to Durotan back at the outpost. I will catch up once we have finished here.",
-    "name": "Power of the Genesaur",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

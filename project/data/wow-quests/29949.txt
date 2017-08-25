@@ -1,8 +1,0 @@
-{
-    "_id": "29949",
-    "added_in_patch": 5,
-    "description": "I'd say we've earned our reward. I can't wait to taste what Mudmug's been brewing.",
-    "name": "Legacy",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "31815",
-    "added_in_patch": 5,
-    "description": "<name>, a rare opportunity has arisen that I think you will be interested in.Zonya the Sadist in southern Stonetalon Mountains has returned to the battle scene. I must suggest that you face her to further hone your own abilities as a tamer.",
-    "name": "Zonya the Sadist",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Battle Pets"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27725",
-    "description": "I may appear far from home to you, <class>, but quite a few of my people were led here by Ambassador Rualeth. We have settled with the high elves of the Quel'Danil Lodge, to the northwest, to train in the ways of the Light and enjoy the peaceful beauty of this land.Such peace may be short lived. We have seen the Horde moving further west from here. Could you travel to Quel'Danil and give warning to Anchorite Traska? Her cabin is just north of the main lodge.",
-    "name": "Quel'Danil Lodge",
-    "requires_level": 30,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14265",
-    "description": "Most of us made it here alive... but there are worgen on this side of the city as well.We're going to continue heading south once everyone's accounted for.That reminds me, someone was asking about you.  A fellow by the name of Cleese said you were one of his students and wanted to make sure you were all right.",
-    "name": "Your Instructor",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

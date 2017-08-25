@@ -1,8 +1,0 @@
-{
-    "_id": "34731",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Oath of Shadow Hunter Rala",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

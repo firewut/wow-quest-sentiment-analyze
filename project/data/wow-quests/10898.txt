@@ -1,7 +1,0 @@
-{
-    "_id": "10898",
-    "description": "Skywing flutters around you.You get the feeling he wants you to follow him.",
-    "name": "Skywing",
-    "requires_level": 63,
-    "zone": "Terokkar Forest"
-}

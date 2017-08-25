@@ -1,8 +1,0 @@
-{
-    "_id": "29639",
-    "added_in_patch": 5,
-    "description": "You have passed every test we prepared for you, <name>. It is now time for you to move on to bigger and better things....but not before another banquet. The High Elder will be waiting for you at the banquet grounds to celebrate your graduation from our monastery.",
-    "name": "Flying Colors",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

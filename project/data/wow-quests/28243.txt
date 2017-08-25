@@ -1,7 +1,0 @@
-{
-    "_id": "28243",
-    "description": "Very well then, <race>. You have purchased my services in blood. Take me back to the \"Low Shaman\" of Thundermar.Oh yes, I already know where you're taking me. Blundy's meager, ale-soaked abilities are trivial. But you - you fascinate me, <race>. With my sight and your abilities, imagine the havoc we could unleash into this pathetic world together...",
-    "name": "The Eyes Have It",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

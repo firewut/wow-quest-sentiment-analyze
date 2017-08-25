@@ -1,8 +1,0 @@
-{
-    "_id": "43973",
-    "added_in_patch": 7,
-    "description": "We've searched through our scrolls and have found new leads on a couple of powerful weapons. They may prove beneficial in our efforts.\r\n\r\nHere, let me show you what I've found. If any of these interest you then simply let me know.",
-    "name": "Two Paths, Two Weapons",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

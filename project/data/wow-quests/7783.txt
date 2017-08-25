@@ -1,8 +1,0 @@
-{
-    "_id": "7783",
-    "description": "The old feeling returns. The welcome pangs of victory reverberate throughout your being. Before you lies the monolithic, battle scarred head of Nefarian. Return it to High Overlord Saurfang, champion.",
-    "name": "The Lord of Blackrock",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

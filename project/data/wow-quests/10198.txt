@@ -1,7 +1,0 @@
-{
-    "_id": "10198",
-    "description": "I've prepared a uniform with the pieces you obtained.  It is magically enhanced to complete the illusion.We spotted Commander Dawnforge going in to meet Arcanist Ardonis a few minutes ago.  He had a full retinue of guards with him, so whatever they're discussing is bound to be incredibly important; see if you can catch any of it.Oh, I almost forgot.  You'll want to stay away from the arcane golems patrolling the manaforge.  They will see right through the illusion.",
-    "name": "Information Gathering",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "29875",
-    "added_in_patch": 5,
-    "description": "Kang's pride regularly becomes overconfidence, which often leads him down dangerous paths. His current path is as dangerous as any - he is headed deep into the Krasarang Wilds.I wouldn't normally ask a favor of a stranger, but... would you make sure that he is well? It would give me relief to know that a brave <race> was looking out for him.",
-    "name": "Kang Bramblestaff",
-    "requires_level": 86,
-    "side": "horde",
-    "zone": "Krasarang Wilds"
-}

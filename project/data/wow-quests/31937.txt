@@ -1,8 +1,0 @@
-{
-    "_id": "31937",
-    "added_in_patch": 5,
-    "description": "<An imposing image of a mogu face dominates this box, casting its gaze downward at neatly ordered rows of bold text.>\"DO NOT LET WEAK, DISGUSTING INSECTS INFEST YOUR GLORIOUS CROPS. CONQUER THEM WITH THE MIGHT OF THE THUNDER KING AND PROTECT YOUR LEGACY.\"<The rest of the space is dedicated to cartoon depictions of various insects crying out in lament or fleeing in terror.>",
-    "name": "\"Thunder King\" Pest Repellers",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

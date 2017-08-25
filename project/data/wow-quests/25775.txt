@@ -1,8 +1,0 @@
-{
-    "_id": "25775",
-    "description": "We definitely DO NOT have the kind of gold that the Alliance is offering. <name>, we have to do something or we're not going to be able to get those drilling rights!Wait a minute! There was this report from an underwater survey that we did right after the Cataclysm struck. Something about some gold-looking ore that was pushed up from underground. That's it!Head west to the old stomping grounds of the centaur, Splithoof Crag and Splithoof Hold, and dig some up.",
-    "name": "Fool's Gold",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

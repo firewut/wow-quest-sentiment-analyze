@@ -1,8 +1,0 @@
-{
-    "_id": "29608",
-    "description": "Welcome to Northrend, <name>. I have been asked to arrange travel for you to Dalaran so that you can meet with our allies there.Ride the gryphon to Dalaran and once you land, make your way to our inn there, A Hero's Welcome. Find Isirami Fairwind and speak with her immediately.She can help you bind your hearthstone to the city so you can use the Silver Enclave's portal to travel back to Stormwind quickly.",
-    "name": "Allies in Dalaran",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Dalaran"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26065",
-    "description": "Those tentacle horrors rising from the depths have trapped that poor beast. Please, <name>, can you save it by destroying those things?Will you free Wil'hai?Here, take my totem and plant it near the tentacles. The cold it emanates will cause major shrinkage on those monsters and then you'll be able to destroy them.",
-    "name": "Free Wil'hai",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

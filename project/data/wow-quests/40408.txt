@@ -1,8 +1,0 @@
-{
-    "_id": "40408",
-    "added_in_patch": 7,
-    "description": "Our gathering has identified several weapons of immense power. In the right hands, these holy artifacts give us a fighting chance against the Legion.We cannot pursue all of them at once. We risk too much if we spread ourselves that thin. We must agree on where our efforts are best focused.That is why I asked you here, <name>. As one of our greatest champions, you must be our voice of reason and decide our next move.",
-    "name": "Weapons of Legend",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

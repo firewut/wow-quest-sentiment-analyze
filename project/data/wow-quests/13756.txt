@@ -1,7 +1,0 @@
-{
-    "_id": "13756",
-    "description": "The grand melee is the most important of the tournament's competitions. The people of the Exodar are looking forward to seeing us win the melee. To that end, they've been honing their skills against the valiants representing the other Alliance capitals.I suggest you do the same.Go to the stables outside the pavilion, equip your lance, mount the stabled Azuremyst elekk, and challenge the valiants. They wait in the Alliance Valiants' Ring just outside our tent.",
-    "name": "The Grand Melee",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

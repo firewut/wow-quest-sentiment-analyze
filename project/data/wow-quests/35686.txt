@@ -1,9 +1,0 @@
-{
-    "_id": "35686",
-    "added_in_patch": 6,
-    "description": "An endless war wages between the creatures of the eastern wilds and the beasts of the western wasteland.Should one side overwhelm the other, all of Draenor would fall at the hand of the victor.I sent Rangari Erdanii to the heart of the battle between these two forces. It is likely that she will need your help, commander.",
-    "name": "Rage and Wisdom",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

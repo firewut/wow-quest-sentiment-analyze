@@ -1,7 +1,0 @@
-{
-    "_id": "28361",
-    "description": "The larger animals are often too far corrupted to save, but you'd be surprised how hardy the little ones are.Take the squirrels, for example. After washing in corrupted water, they can spread illness far from the original source, but it's slow to affect the squirrels themselves. In fact, a simple washing will result in a clean squirrel and a safer forest!Here, take this bottle of cleaning mixture. Grab and scrub any squirrel you see in the woods to the south... they'll be thankful for it!",
-    "name": "Squirrely Clean",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

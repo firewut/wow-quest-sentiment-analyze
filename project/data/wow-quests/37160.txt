@@ -1,8 +1,0 @@
-{
-    "_id": "37160",
-    "added_in_patch": 6,
-    "description": "I, Gamon, have come through the dark portal to cleave many orc skulls. Yet my weapon has not kept pace with my rage, and is nicked and dull.Find me a new weapon - one that is good for removing Hellscream limbs.",
-    "name": "Cleaving Time",
-    "requires_level": 100,
-    "zone": "Quests"
-}

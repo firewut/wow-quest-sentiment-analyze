@@ -1,8 +1,0 @@
-{
-    "_id": "27005",
-    "description": "We came here to investigate rumors of a Titan artifact up at the Masters' Gate to the southwest.One of those Twilight's Hammer cultists must have the plans for what they're doing up there. You're going to have to get them for us, <name>.Kill cultists at the Masters' Gate until you find them.",
-    "name": "The Twilight Plot",
-    "requires_level": 83,
-    "side": "horde",
-    "zone": "Deepholm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40016",
-    "added_in_patch": 7,
-    "description": "I believe we may be able to use this clue to our advantage, <name>.The withered are notoriously thirsty for mana, and will stop at nothing to get it. Perhaps we can study how they use the aethril and use the results to improve our own harvesting methods.",
-    "name": "Desperation Breeds Ingenuity",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

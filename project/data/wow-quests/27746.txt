@@ -1,7 +1,0 @@
-{
-    "_id": "27746",
-    "description": "This war has taken its toll on us as a people. We have lost much to secure our place as the rightful rulers of Lordaeron. And though the moment is won, the battle continues to rage in other parts of the Eastern Kingdoms.I must return to the Undercity to recuperate. I want you to go to Hillsbrad Foothills in my stead, <name>. As my most trusted soldier, you will lead our forces to absolute domination against our enemies in Hillsbrad.Report to High Executor Darthalia at Southpoint Blockade, to the east.",
-    "name": "Empire of Dirt",
-    "requires_level": 19,
-    "zone": "Hillsbrad Foothills"
-}

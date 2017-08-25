@@ -1,9 +1,0 @@
-{
-    "_id": "33929",
-    "added_in_patch": 6,
-    "description": "The Frostwolf pup looks at you with his big eyes. He howls and stares into the cave.It's unusual for a wolf this young to be wandering around by itself. Shivertail's parents must be nearby.",
-    "name": "Shivertail's Den",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

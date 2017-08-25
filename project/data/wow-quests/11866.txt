@@ -1,7 +1,0 @@
-{
-    "_id": "11866",
-    "description": "Whether they be treasure seekers or bloodthirsty hunters of the wastes, any being that supports Nesingwary and dares to strike at our beloved wildlife shall be considered an enemy of D.E.H.T.A.Should you slay these filthy Nesingwary sympathizers, bring me proof of their demise and you shall be rewarded with a blessing from the druids of D.E.H.T.A.\r\n",
-    "name": "Ears of Our Enemies",
-    "requires_level": 70,
-    "zone": "Borean Tundra"
-}

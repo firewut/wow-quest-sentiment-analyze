@@ -1,8 +1,0 @@
-{
-    "_id": "26800",
-    "description": "We've been shipping in dead bodies from Silverpine, Hillsbrad... hell, anywhere we can get them from.  We can't, however, afford to ignore the bodies which are sitting right on our front doorstep.The last vestiges of the Scarlet Crusade roam here in Tirisfal Glades.  While we've managed to push them from Deathknell, several of their bodies litter the buildings to the north and the east.Go find them... and bring that Darnell fellow with you.  He looks strong enough to carry a few corpses.",
-    "name": "Recruitment",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Deathknell"
-}

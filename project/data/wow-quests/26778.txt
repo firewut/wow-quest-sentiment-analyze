@@ -1,7 +1,0 @@
-{
-    "_id": "26778",
-    "description": "Can you hear them, <name>? There's so many of them. They wander their graves, shuffling across the cold ground on rotting limbs.The dead cry out in the still air. They suffer in their own flesh, forced from sleep! Every night I venture to the graveyard to put more of them to rest, but it's never enough.Help me, <name>. Put the ghouls that swarm Raven Hill Cemetery out of their misery. Strike down as many as you can.",
-    "name": "The Cries of the Dead",
-    "requires_level": 22,
-    "zone": "Duskwood"
-}

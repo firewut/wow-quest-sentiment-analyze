@@ -1,7 +1,0 @@
-{
-    "_id": "27134",
-    "description": "The most dire, and most organized, threat to us in Feralas are the Gordok ogres in the northern wing of Dire Maul. If we eradicate them and take Dire Maul for the Horde, we will possess a heavily fortified seat of power in this region with numerous artifacts to sweeten the deal. I sent in a small army of Stonemaul Ogres inside earlier - if any have survived, speak with them and finish the job.That's an order, <class>.",
-    "name": "Ogre in the Field",
-    "requires_level": 44,
-    "zone": "Dire Maul"
-}

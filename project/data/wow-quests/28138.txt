@@ -1,8 +1,0 @@
-{
-    "_id": "28138",
-    "description": "This mine was once the heart of Alliance mining operations in Hillsbrad. It now serves as a breeding ground for our loyal spiders, though, the humans still occupy it - in a way.<Keyton grins.>But onto business! Warden Stillwater has called for more workers at the Sludge Fields. I want you to enter the mine with these shackles and capture Hillsbrad humans for labor in the fields.Break them out of their web paralysis and beat them into submission before you use the shackles.",
-    "name": "Human Infestation",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Hillsbrad Foothills"
-}

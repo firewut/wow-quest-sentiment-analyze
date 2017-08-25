@@ -1,8 +1,0 @@
-{
-    "_id": "43629",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Kiranys Duskwhisper",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

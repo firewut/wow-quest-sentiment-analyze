@@ -1,8 +1,0 @@
-{
-    "_id": "40137",
-    "added_in_patch": 7,
-    "description": "This hide certifies that you have learned everything about leather that I can teach you, <name>. My skills have dulled since I set up shop here in town.I have a former protege who skins the creatures of Suramar. His name is Ske'rit. His skills remain as sharp as his blade, and if there is anyone out there who can teach you, it is him.",
-    "name": "Leather for Ske'rit",
-    "requires_level": 98,
-    "zone": "Skinning"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11106",
-    "description": "",
-    "name": "Defender No More",
-    "requires_level": 70,
-    "zone": "Caverns of Time"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35744",
-    "added_in_patch": 6,
-    "description": "We arrived as soon as we could... but we be too late. Da Iron Horde has taken our warriors prisoner.No doubt they be trying ta squeeze info out of da troops.I fear once they are done with da interrogation they gonna execute their prisoners. Time be running out.",
-    "name": "Ending Executions",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

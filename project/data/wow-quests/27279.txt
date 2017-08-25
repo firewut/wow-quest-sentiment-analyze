@@ -1,7 +1,0 @@
-{
-    "_id": "27279",
-    "description": "A messenger just arrived from Orgrimmar bearing a communication for you. Gordul, the senior rogue trainer in Orgrimmar, has sent for you. You must head to Orgrimmar immediately and meet with him in the Cleft of Shadow.When Gordul summons you, the prudent thing to do is obey. Do not keep him waiting, <name>.",
-    "name": "The Shattered Hand",
-    "requires_level": 20,
-    "zone": "Rogue"
-}

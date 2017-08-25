@@ -1,9 +1,0 @@
-{
-    "_id": "39315",
-    "added_in_patch": 6.2,
-    "description": "Hey there, Commander. You know, with all of the fighting concentrated here in Tanaan, we've got plenty of extra supplies just sitting around in our nearby outposts.You just give me the order and I'll make sure some of them get sent our way!",
-    "name": "Bring the Reinforcements",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

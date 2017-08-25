@@ -1,7 +1,0 @@
-{
-    "_id": "27453",
-    "description": "Coagulated rot is potent on its own, but we need something to activate its concealed powers... a catalyst.  You can find just such a catalyst to the south, in Lake Mereldar.If you look down, you'll notice that I slipped a set of flasks into your bags while you weren't looking.  These flasks can be used on the water elementals in the lake.  The living, corrupted water that flows through their bodies will be the perfect catalyst!",
-    "name": "Catalysm",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

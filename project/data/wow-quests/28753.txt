@@ -1,7 +1,0 @@
-{
-    "_id": "28753",
-    "description": "Blast it all!Someone's gone and corrupted the entire system! There be no way fer me ta access the main repository from this console.We're gunna hafta do this the hard way, lad. I hope you an' yer friends here are up to a fight.There be four guardians on the upper level of this place. I won't be able ta utilize these discs 'til they be... uhh, offline, shall we say.",
-    "name": "Doing it the Hard Way",
-    "requires_level": 83,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "24904",
-    "description": "The time has come, <name>.  We've rallied and armed every available Gilnean.It is time to meet the enemy head on.  Time to settle the score with Sylvanas and her Forsaken dogs once and for all.Liam is heading the assault from this gate.  King Greymane and my father are leading the assault on the other districts.You have a crucial role to play in this as well.  Take this rapier.  Use it to inspire our men and women in combat.  Speak to Krennan Aranas to take part in the battle for Gilneas City.",
-    "name": "The Battle for Gilneas City",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

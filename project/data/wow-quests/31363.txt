@@ -1,8 +1,0 @@
-{
-    "_id": "31363",
-    "added_in_patch": 5,
-    "description": "We need reinforcements! Someone has to fight through and light the signal flame.It's all up to you, <class>. No pressure or anything.",
-    "name": "Lighting the Way",
-    "requires_level": 88,
-    "zone": "Quests"
-}

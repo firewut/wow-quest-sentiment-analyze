@@ -1,7 +1,0 @@
-{
-    "_id": "24756",
-    "description": "Your weapon is ready to be endowed with the power of blood.You must face Queen Lana'thel in battle and subject yourself to her Blood Mirror. This will cause Shadow's Edge to drink the blood of the nearest living being. That being would be you, <race>.Once the blade has been thus awakened, allow the Queen's Frenzied Bloodthirst to take hold of you, feed the blade thrice to sate it, and then give the queen an ignominious death.May her screams pierce the ears of the Lich King as he awaits his fate.",
-    "name": "Blood Infusion",
-    "requires_level": 80,
-    "zone": "Quests"
-}

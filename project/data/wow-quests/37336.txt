@@ -1,8 +1,0 @@
-{
-    "_id": "37336",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Daily Normal Random (Nth)(Draenor)",
-    "requires_level": 71,
-    "zone": "Quests"
-}

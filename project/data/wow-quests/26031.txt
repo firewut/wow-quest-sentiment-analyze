@@ -1,7 +1,0 @@
-{
-    "_id": "26031",
-    "description": "In life, I divided the sigil of Thoradin into five pieces to protect it, spreading it among my most loyal men. This too failed, but my successor will have done the same.The defenders of Stromgarde hold the pieces of the sigil yet again. Slay them, and bring the shards to me; I will reassemble them.",
-    "name": "Sigil of Thoradin",
-    "requires_level": 25,
-    "zone": "Arathi Highlands"
-}

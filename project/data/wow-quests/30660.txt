@@ -1,9 +1,0 @@
-{
-    "_id": "30660",
-    "added_in_patch": 5,
-    "description": "<The shield is down. Time to head into the cave and slay the Warbringer of the Ordo yaungol!>",
-    "name": "The Ordo Warbringer",
-    "requires_level": 87,
-    "side": "alliance",
-    "zone": "Kun-Lai Summit"
-}

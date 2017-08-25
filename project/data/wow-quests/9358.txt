@@ -1,7 +1,0 @@
-{
-    "_id": "9358",
-    "description": "Don't take the safety of this village for granted.  We're under siege by the Scourge on the east and the Wretched to the west.Ranger Sareyn keeps our borders safe from the undead that pour in from the Dead Scar.  Follow the road eastwards out of town and see if you can lend her a hand.",
-    "name": "Ranger Sareyn",
-    "requires_level": 8,
-    "zone": "Eversong Woods"
-}

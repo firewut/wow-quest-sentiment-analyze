@@ -1,8 +1,0 @@
-{
-    "_id": "35942",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Pandaren Hide",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

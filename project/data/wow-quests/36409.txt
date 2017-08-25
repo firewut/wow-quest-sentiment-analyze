@@ -1,9 +1,0 @@
-{
-    "_id": "36409",
-    "added_in_patch": 6,
-    "description": "As mentioned, our larger defense crystals have been drained of power, creating gaps in our defenses. The crystal you brought me is only a reminder of the severity of this situation. It's Shadowmoon magic to blame, I'm sure of it.One of our rangari scouts spotted an orc fleeing north, past Palemoon Village, and into the valley beyond. Go, find this orc, and see if you can't retrieve whatever vessel he's storing the power inside of. If we get it back, I'm sure I can restore the crystals.",
-    "name": "Restoration",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

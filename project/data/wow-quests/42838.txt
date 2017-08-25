@@ -1,8 +1,0 @@
-{
-    "_id": "42838",
-    "added_in_patch": 7,
-    "description": "<Sylverin regards you uneasily.>\r\n\r\nI was meant to meet you and Margaux here so I could escort you from the Vineyard. \r\n\r\nMy mistress Margaux is never late. I fear that something terrible may have happened.\r\n\r\nPlease find her and make sure she is well.",
-    "name": "Reversal",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

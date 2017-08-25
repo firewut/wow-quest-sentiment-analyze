@@ -1,8 +1,0 @@
-{
-    "_id": "11797",
-    "description": "Well, well, well.  It's good to see Arlos bring out the big guns.Don't get me wrong - our lads are doing the best they can, but someone of your renown fighting alongside them could really turn the tides for us.  I'm not sure how much longer we can hold out against these undead Nerubians.What do you say you get out there and kill me some creepers?  Show these boys how it's done.",
-    "name": "The Siege",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

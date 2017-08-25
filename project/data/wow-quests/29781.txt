@@ -1,7 +1,0 @@
-{
-    "_id": "29781",
-    "added_in_patch": 5,
-    "description": "The monkeys have been stealing from the village during their attacks. We should be fine without some of the extra food stores, but the idea of monkeys with fireworks... I'm a little bit concerned. Not to mention, who knows when some fireworks will come in handy?Help me recover the stolen fireworks from their village, <name>?",
-    "name": "Monkey Advisory Warning",
-    "zone": "The Wandering Isle"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "31852",
-    "added_in_patch": 5,
-    "description": "You dare to challenge me again? This time, I do believe our battle is going to sway in my favor!",
-    "name": "Steven Lisbane",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Battle Pets"
-}

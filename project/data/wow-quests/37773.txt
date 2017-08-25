@@ -1,8 +1,0 @@
-{
-    "_id": "37773",
-    "description": "Foreman Eksos down in your Talador outpost figures he has the answer for why there's been so much seismic activity recently.See, there's this giant, ah... earth fury, I think they're called, and it's covered in these powerful crystals in a cave up above Kuuro's Claim. The crystals hum real loud and we think it's driving the fury crazy!Problem is, nobody's got the firepower to take the thing down so we can examine a sample. Think you could lend us a hand, commander?",
-    "name": "Death to Amethon!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

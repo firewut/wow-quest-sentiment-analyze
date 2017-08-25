@@ -1,7 +1,0 @@
-{
-    "_id": "27571",
-    "description": "Some say that the Grim Guzzler is the secret to the Dark Iron war effort. Their warriors recharge there and emerge thirsty for another innocent soul. I think we can seriously hinder them by causing a bit of chaos here.I need you to start a fight with three of the bar's infamous patrons. Damage the kegs and Hurley Blackbreath will come running. Steal items off the tables near Plugger Spazzring and he'll fight. As for Ribbly Screwspigot...just talk to the little hothead. Report to Orfus when you're done.",
-    "name": "The Grim Guzzler",
-    "requires_level": 51,
-    "zone": "Blackrock Depths"
-}

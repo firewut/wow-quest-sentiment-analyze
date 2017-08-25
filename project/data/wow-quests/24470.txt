@@ -1,8 +1,0 @@
-{
-    "_id": "24470",
-    "description": "Alright, <name>, listen up.  I know a thing or two about troggs, and one of those things is that the biggest, strongest troggs get the most respect.  The brutes value strength over anything else.Ye see those great big troggs sitting back behind the front lines?  They're the closest they have to what ye'd call a leader.  Go take out a few, and show 'em what it means to mess with the Sons of Ironforge!",
-    "name": "Give 'em What-For",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Coldridge Valley"
-}

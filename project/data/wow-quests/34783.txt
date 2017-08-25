@@ -1,9 +1,0 @@
-{
-    "_id": "34783",
-    "added_in_patch": 6,
-    "description": "I am calling the Exarch Council to order to hear your petition. None of us doubt that this \"Iron Horde\" is a threat, but few can agree on what we should do about it. It is up to you and Vindicator Maraad to gather the Exarchs together.Exarch Naielle is the leader of the Rangari, the \"Eyes of the Prophet.\" They are our scouts who silently stalk the farthest corners of Draenor. Seek her out in the Rangari Enclave northwest of here.",
-    "name": "Naielle, The Rangari",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

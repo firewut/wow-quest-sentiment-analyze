@@ -1,8 +1,0 @@
-{
-    "_id": "30799",
-    "added_in_patch": 5,
-    "description": "Given the artifacts you found on the altar, I would guess they were attempting to perform a Spiritbinding ritual.Most of the texts involving Spiritbinding were locked away in the Tomb of Shadows. Perhaps we will find the answers we seek there.Look for anything that might help us. You'll find the tomb on the first rise closest to the ritual altar.",
-    "name": "The Tomb of Shadows",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

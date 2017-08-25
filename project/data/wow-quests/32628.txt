@@ -1,8 +1,0 @@
-{
-    "_id": "32628",
-    "added_in_patch": 5.2,
-    "description": "Ah, $p, just the <race> I was looking for. I have received another batch of tactical mana bombs that I need planted in key positions across Dawnseeker Promontory to the northwest.Here, take these. It is time to give the Sunreavers a taste of their own medicine.Plant one on the Sunreaver ships, another one on their scrying crystals, and the last on the bridge that connects to their forward base. ",
-    "name": "Tactical Mana Bombs",
-    "requires_level": 90,
-    "zone": "Quests"
-}

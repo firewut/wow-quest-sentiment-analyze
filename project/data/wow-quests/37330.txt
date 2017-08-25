@@ -1,9 +1,0 @@
-{
-    "_id": "37330",
-    "added_in_patch": 6,
-    "description": "I will travel to your people to make arrangements soon.For now, begone. Leave me in peace.",
-    "name": "Not Here, Not Now",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

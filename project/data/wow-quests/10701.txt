@@ -1,7 +1,0 @@
-{
-    "_id": "10701",
-    "description": "To whomever cares about the timely construction of the X-52 Nether-Rocket --The king of the local mountain giants, Netherock, has been terrorizing the Crumbling Wastes.  He's been interfering with operations all along the south ledge of the island!Take your friends and deal with him!  Then, return to me here in Area 52.Rocket-Chief Fuselage",
-    "name": "Breaking Down Netherock",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

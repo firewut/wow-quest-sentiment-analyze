@@ -1,8 +1,0 @@
-{
-    "_id": "31055",
-    "added_in_patch": 5,
-    "description": "Dear $p,We have received your research on the saurok and believe we have pieced together clues about their past.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
-    "name": "Between a Saurok and a Hard Place",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27859",
-    "description": "",
-    "name": "The Egg Lives On",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

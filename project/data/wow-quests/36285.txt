@@ -1,8 +1,0 @@
-{
-    "_id": "36285",
-    "added_in_patch": 6,
-    "description": "In order to fully understand the nature and properties of the Zangarium Draenormycota, I need to examine the strain within a complex fungal structure. The fungal brain of a spore giant would do nicely.Not just any spore giant will serve though, it needs to be big... mean... primordial... the perfect specimen!In a cavern deep below the surface is an ancient spore giant the locals fearfully refer to as Dirgemire. Slay the monster, but be sure to carefully preserve the fungal brain for our research!",
-    "name": "Dirgemire",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

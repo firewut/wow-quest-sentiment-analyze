@@ -1,7 +1,0 @@
-{
-    "_id": "12134",
-    "description": "This thing... this curse... that's affecting Silverbrook and Solstice Village... it makes beasts out of people.My father tried to warn them, but they all listened to the wolfcult instead.They're too far gone now, it's time to put them down... for their own sake.",
-    "name": "Sasha's Hunt",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14303",
-    "description": "Return to the Horde Base Camp and let Aggra know that we still live, <name>.Tell her that I am moving on to the Wild Overlook and that we will all meet up on the northwest side of the island. I expect to see you there.We will track down the Alliance and slay them to the last!",
-    "name": "Back to Aggra",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

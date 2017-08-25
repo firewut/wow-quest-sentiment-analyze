@@ -1,7 +1,0 @@
-{
-    "_id": "12052",
-    "description": "<Class>, did you see that? That's the harpy that's been leading the attack on our shipments to the gate! I've seen her in the back of Coldwind Heights before. Those harpies have slowed our profits long enough! Kill them all.",
-    "name": "Harp on This!",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

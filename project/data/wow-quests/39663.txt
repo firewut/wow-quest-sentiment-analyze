@@ -1,8 +1,0 @@
-{
-    "_id": "39663",
-    "added_in_patch": 7,
-    "description": "It is time. We have dealt the Legion's forces a crippling blow from which they will never recover.\r\n\r\nQuickly, let us mount up and take the fight to Tyranna's command center.",
-    "name": "On Felbat Wings",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

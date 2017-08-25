@@ -1,8 +1,0 @@
-{
-    "_id": "40158",
-    "added_in_patch": 7,
-    "description": "Oh yes, I've seen me fair share of demons while in dese lands. And skinnin' dem ain't no easy task.Their hides are tougher than normal animals, fibrous, see? But if you be wantin' to make da most of thier skins, den ya need to be practicin' more.There be a creature I've heard of in da Darkheart Thicket whose hide's as tough as a demon's. When ya go ta skin him, try cutting with da grain in one even stroke.Bring me his skin to show me you be picking up on what I'm sayin'.",
-    "name": "Demons Be Different",
-    "requires_level": 110,
-    "zone": "Skinning"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10576",
-    "description": "<Borak looks you up and down.>This is going to be tricky, but I think I can make it work.I can disguise you as one of these Illidari blood elves, <name>. What I need first, though, are several pieces of their armor. It is imperative that the armor be clean. No blood stains! We want to avoid suspicion.Bring me the gear and I'll take care of the rest of the disguise.Once the disguise is assembled, you're going to deliver the message to the Grand Commander - in person.",
-    "name": "The Shadowmoon Shuffle",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

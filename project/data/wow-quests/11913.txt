@@ -1,8 +1,0 @@
-{
-    "_id": "11913",
-    "description": "I heard what you told Gerald and I don't like it one bit.  If cultists managed to poison the grain in the mines with their foul plague, they could've easily done the same with the grain outside.We don't have time to sort the good grain from the bad.  We must act quickly and burn it all.Take this torch and set fire to any sacks of grain you find out here.  It would be a tragedy if we survived this attack only to succumb to the plague afterwards.",
-    "name": "Take No Chances",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

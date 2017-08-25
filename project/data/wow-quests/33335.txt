@@ -1,8 +1,0 @@
-{
-    "_id": "33335",
-    "added_in_patch": 5.4,
-    "description": "From what I have gathered, this place used to be a tournament ground of sorts, where warriors from throughout Pandaria would show their prowess by following in the footsteps of their last emperor, Shaohao.I have heard that when Shaohao completed his trials, he became one with the land, and enveloped Pandaria in a thick mist, obscuring it from even our abilities to penetrate the passages of time.That sounds quite interesting, perhaps you should speak with him?",
-    "name": "The Last Emperor",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

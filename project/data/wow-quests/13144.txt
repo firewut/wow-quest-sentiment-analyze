@@ -1,7 +1,0 @@
-{
-    "_id": "13144",
-    "description": "The workers in the Fleshwerks abomination lab have already completed a number of their creations. For now, the creatures are chained to the pillars around the edge of the lab, but if we do not act, they will march with the Lich King's armies.Grasping arms reach out of the bone piles spread throughout the Fleshwerks. These arms belong to skeletons enchanted with the power of fire. Find and free these skeletons, then take them near the completed abominations and watch the show!",
-    "name": "Killing Two Scourge With One Skeleton",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

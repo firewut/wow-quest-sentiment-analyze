@@ -1,9 +1,0 @@
-{
-    "_id": "33331",
-    "added_in_patch": 6,
-    "description": "This poor critter is about to be podling food. It would be pretty easy to set this little guy free.",
-    "name": "Captured Critters",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

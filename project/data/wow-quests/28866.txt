@@ -1,7 +1,0 @@
-{
-    "_id": "28866",
-    "description": "You say that this Millhouse Manastorm and High Priestess Azil were to meet inside the Stonecore?Sounds big.  We'd best get on their trail.  We don't want the Twilight's Hammer pulling off something big right under our noses.Speak to Earthwarden Yrsa inside the Stonecore.  She's been stationed there to make sure the Twilight's Hammer doesn't try to retake the Temple of Earth.",
-    "name": "Into the Stonecore",
-    "requires_level": 82,
-    "zone": "Quests"
-}

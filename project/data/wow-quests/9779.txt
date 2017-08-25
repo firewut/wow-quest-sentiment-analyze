@@ -1,7 +1,0 @@
-{
-    "_id": "9779",
-    "description": "It is good to see you again, <name>. I have a quandary that you might be able to solve.Our agents situated behind Sunhawk lines have reported seeing Sunhawk soldiers parsing an unusual document.Unfortunately, we have been unsuccessful in acquiring a copy of the document for ourselves. I need you to go out in the field and try to recover the document. I am certain that if you apply enough pressure, a Sunhawk agent will turn over the information we seek. I leave the use of force to your discretion.",
-    "name": "Intercepting the Message",
-    "requires_level": 14,
-    "zone": "Bloodmyst Isle"
-}

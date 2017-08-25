@@ -1,7 +1,0 @@
-{
-    "_id": "27459",
-    "description": "The Brotherhood of Light has a history of brash, thoughtless decisions.  They bridged a gap between the Scarlet Crusade and the Argent Dawn.  They were among the first to plunge into Northrend, while many of us lingered behind.However, they also have a history of getting results, which I respect.  They fight on two fronts now: one battle in Stratholme, and another, more immediate battle to the south at Tyr's Hand.I suggest you speak with Angela Dosantos at Tyr's Hand.  You may be of service.",
-    "name": "The Brotherhood of Light",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36594",
-    "added_in_patch": 6,
-    "description": "I've never seen anything like this before! No problem though, boss man. If it can be used to blow things up, I can get it working again.We are definitely going to need some parts--some sort of ammunition wouldn't hurt either.Sounds like those Iron Horde guys over yonder are no stranger to things that go boom.Take these tools with you and let's see if we can't commandeer us some spare parts!",
-    "name": "\"Spare\" Parts",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

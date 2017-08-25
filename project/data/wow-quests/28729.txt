@@ -1,8 +1,0 @@
-{
-    "_id": "28729",
-    "description": "As part of a ritual to complete your training here in Shadowglen, you must learn about our recent history.There is a task you must perform. Go to the moonwell to our northeast and retrieve a phial of its water. While there, you will witness a glimpse of our magics and learn of our past.When you are done there, bring the water back to me, and I will direct you further.",
-    "name": "Teldrassil: Crown of Azeroth",
-    "requires_level": 3,
-    "side": "alliance",
-    "zone": "Shadowglen"
-}

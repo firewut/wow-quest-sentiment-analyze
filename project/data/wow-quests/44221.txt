@@ -1,8 +1,0 @@
-{
-    "_id": "44221",
-    "added_in_patch": 7,
-    "description": "A warrior lives and dies by his weapons and armor.  For a price, we can provide you with a shipment for armaments to equip your Champions with.\r\n\r\nDo we have a deal?",
-    "name": "Champion Armaments",
-    "requires_level": 110,
-    "zone": "Quests"
-}

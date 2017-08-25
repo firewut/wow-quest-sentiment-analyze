@@ -1,7 +1,0 @@
-{
-    "_id": "26507",
-    "description": "Petrified bats.Elementals of that size are picky. You're not likely to find anything better easily.To the east are basilisks. They petrify stone bats that fly too close and snack on them when they grow hungry. You may find bats scattered around their territory.I must warn you... if you show that little elemental too much attention, you're unlikely to be rid of it. It can be very... needy.",
-    "name": "Petrified Delicacies",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

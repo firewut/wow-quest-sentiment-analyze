@@ -1,8 +1,0 @@
-{
-    "_id": "30029",
-    "added_in_patch": 5,
-    "description": "So... we bought some cheap grains in bulk. It turned out the grain was infested with sprites.I HATE sprites. With their wee beady eyes and constant smiling.I would like to resolve this quietly. Can I buy your services to discreetly eliminate some of these grain thieves?",
-    "name": "Wee Little Shenanigans",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

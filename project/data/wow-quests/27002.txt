@@ -1,7 +1,0 @@
-{
-    "_id": "27002",
-    "description": "Oh, before you go, <name>... I have a message for you.  There's someone in Hearthglen who'd like to meet with you.  Said he's \"heard your name pop up\" a few times already.Consider yourself lucky, <name>.  Not everybody gets a personal audience with Highlord Tirion Fordring.Oh, and feel free to use one of my mustangs for the ride up there.  They're the fastest money can buy.",
-    "name": "An Audience with the Highlord",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

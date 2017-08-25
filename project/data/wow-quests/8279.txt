@@ -1,7 +1,0 @@
-{
-    "_id": "8279",
-    "description": "The Twilight's Hammer are not kind to those that leave their ranks.  They hunt me to this day like I'm some sort of beast!  Needless to say, an enemy of theirs is a friend of mine!To decipher this Tablet I'll need the book used by their scribes to encode secret messages: the Twilight Lexicon.  It's such an important tool that they keep its three chapters in different locations!  The officers entrusted with the Lexicon are known as Twilight Keepers.  Look for them at the Twilight's Hammer camps.",
-    "name": "The Twilight Lexicon",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38145",
-    "added_in_patch": 7,
-    "description": "Malfurion Stormrage... A name I have not heard in centuries.He was teacher to many of us. If he seeks my audience, I cannot refuse.I will go to the Grove of Cenarius, but first, we must awaken the rest of my clan. They slumber with no way of waking.A mysterious force of great power is at work against us.I am still too weak from my hibernation. Please, stranger, go and free them from their dreams.",
-    "name": "Out of the Dream",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

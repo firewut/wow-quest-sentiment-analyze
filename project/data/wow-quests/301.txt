@@ -1,7 +1,0 @@
-{
-    "_id": "301",
-    "description": "We'll need approval to get Ironband more blastpowder. You'll have to take his report to the Explorers' League headquarters in Ironforge.Here's the report. Give it to Prospector Stormpike, and don't forget to duck after you deliver it. Stormpike is hotheaded, and he won't be happy to hear of Ironband's slow progress at the site.You'll find Stormpike in the Assembly of Explorers.",
-    "name": "Report to Ironforge",
-    "requires_level": 10,
-    "zone": "Loch Modan"
-}

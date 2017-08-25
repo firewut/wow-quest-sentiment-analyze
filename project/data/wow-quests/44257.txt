@@ -1,8 +1,0 @@
-{
-    "_id": "44257",
-    "added_in_patch": 7,
-    "description": "<Khadgar ponders the information that you brought to him.>You say that it cut a swathe through the Felstorm and was emanating power enough that your scout could feel it coursing through their body?Something that powerful could prove to be a potent weapon against the Burning Legion!I will inform the other order leaders of your discovery while you investigate the matter further! A gryphon awaits your command at Krasus' Landing! Light guide you.",
-    "name": "A Falling Star",
-    "requires_level": 98,
-    "zone": "Dalaran"
-}

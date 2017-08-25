@@ -1,9 +1,0 @@
-{
-    "_id": "37517",
-    "added_in_patch": 6,
-    "description": "Nixxie is probably worried sick about the potential loss of profits from this surveying operation.If you see her can you let her know we will be back soonish?",
-    "name": "News for Nixxie",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11508",
-    "description": "The pirate thieves have set up port at Scalawag Point, far to the south. Unfortunately, they have fortified their camp with many deadly defenses.There is someone that might be able to assist us in infiltrating Scalawag.A pirate mercenary by the name of Grezzix Spindlesnap recently came to our village in search of food and shelter. In exchange he gives us information about our enemies and feeds them misinformation about our attack plans. Seek him out at his ship just off the coast here - southwest.",
-    "name": "Grezzix Spindlesnap",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "28551",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Dockmaster Lewis near Northwatch Hold.Our brave soldiers have made tremendous gains in the Barrens, but they have paid a heavy price! Your efforts are needed to consolidate our gains. You can reach the docks outside Northwatch Hold by taking a boat from Booty Bay to Ratchet and traveling south along the coast.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Southern Barrens!",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "Southern Barrens"
-}

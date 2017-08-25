@@ -1,9 +1,0 @@
-{
-    "_id": "35333",
-    "added_in_patch": 6,
-    "description": "Even now, as we speak, the voice of Kalandrios continues to whisper to my mind.\"The Hero of Azeroth must attune to the elements of the plateau.\"Upon the Elemental Plateau are four great pillars carved of living rock. Lay your hands upon the stone pillars and your soul will be attuned with the elements.I will continue to commune with the great furies and attempt to further understand their will while you journey to the plateau.",
-    "name": "Elemental Attunement",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

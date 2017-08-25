@@ -1,7 +1,0 @@
-{
-    "_id": "24911",
-    "description": "Hey, you look like a discriminating adventurer.  Are you looking for something different?  Something exotic?  Something... profitable?Well shake the sand out of your boots, because I've got a proposition for you.  Williden Marshal is looking for competent sellswords such as yourself.  He's set up camp at Marshal's Stand, just southeast of the volcano in the center of lush Un'Goro Crater.Then again, paradise isn't for everyone, <race>.  It's up to you.  Your tropical oasis awaits.",
-    "name": "Tropical Paradise Beckons",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

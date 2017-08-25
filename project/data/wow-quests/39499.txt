@@ -1,7 +1,0 @@
-{
-    "_id": "39499",
-    "description": "As you defeat Gul'dan's minions, his hold over this fel citadel weakens, allowing me to teleport you and your allies deeper into the dark halls. If I only I had some Soul Remnants - four of them, let's say - none of this would be necessary, and I could harness that power to send you directly into the upper reaches of the Citadel.",
-    "name": "Well of Souls",
-    "requires_level": 100,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40931",
-    "added_in_patch": 7,
-    "description": "Very well. I suppose an introduction is in order. I am Revil Kost, priest of the Light and a seeker of lost artifacts. I've dealt with the Dark Riders before, and have returned to rid this place of them.\r\n\r\nThe Riders are elusive, but I may have a clue to their whereabouts. In our previous confrontation, I was able to see a glimpse into their past. Granted blessed vision by the Cloak of Purity, I saw the Dark Riders for who they were before.\r\n\r\nCome with me to Ariden's camp. I will explain on the way.",
-    "name": "Following the Curse",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

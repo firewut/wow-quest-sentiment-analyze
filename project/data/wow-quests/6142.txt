@@ -1,7 +1,0 @@
-{
-    "_id": "6142",
-    "description": "You have the look of a fisherman, <class>! I love to fish - been fishing all my life. The best bait to use is soft-shelled clam meat; the fish just can't resist, you know what I mean?Up north you will find a wrecked ship off the coast. Soft-shelled clams are littered throughout the area. If you bring me back 10 pieces of soft-shelled clam meat, I will give you something in return.",
-    "name": "Clam Bait",
-    "requires_level": 31,
-    "zone": "Desolace"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12649",
-    "description": "There... I've created a disguise that should make you indistinguishable from the Scourge.You'll be free to walk among them as long as the disguise holds. Only the blightguards will be able to see through my illusion. Watch out for them!Another thing you must know is that the disguise is unstable and may drop unexpectedly, so stay alert.Let's test it out. Use the choker and visit the Scourge vendor just east of here. Return to me with a bottle of bitter plasma.",
-    "name": "Suit Up!",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

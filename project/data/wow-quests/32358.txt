@@ -1,8 +1,0 @@
-{
-    "_id": "32358",
-    "added_in_patch": 5.1,
-    "description": "",
-    "name": "The Soulcore",
-    "requires_level": 90,
-    "zone": "Warlock"
-}

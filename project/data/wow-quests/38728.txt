@@ -1,8 +1,0 @@
-{
-    "_id": "38728",
-    "added_in_patch": 7,
-    "description": "<name>, Brood Queen Tyranna is just ahead in the command chamber. The others already charged in. She has the Sargerite Keystone in her possession.\r\n\r\nFinally, the object of all our sacrifice is at hand.",
-    "name": "The Keystone",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

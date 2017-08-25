@@ -1,8 +1,0 @@
-{
-    "_id": "41211",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Neltharion's Lair: Neltharion's Treasure",
-    "requires_level": 110,
-    "zone": "Neltharion's Lair"
-}

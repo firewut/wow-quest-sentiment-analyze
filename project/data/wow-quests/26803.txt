@@ -1,8 +1,0 @@
-{
-    "_id": "26803",
-    "description": "Saurfang is wise, and his intentions are good. In time, he will grow to see your people as a valuable ally.I am awaiting reports about recent Alliance activity in Durotar, but they haven't arrived yet. Would you be willing to visit Razor Hill and ask him for the reports in person? The easiest way to get there is by wind rider. Doras, Orgrimmar's wind rider master will let you use one of his wind riders for a small fee. Look for him on the rise north of the Valley of Strength.",
-    "name": "Missing Reports",
-    "requires_level": 5,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

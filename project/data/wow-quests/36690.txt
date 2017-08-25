@@ -1,8 +1,0 @@
-{
-    "_id": "36690",
-    "added_in_patch": 6,
-    "description": "Some of our best scouts have gone missing in the vicinity of the lost ruins of Veil Anzu.\r\n\r\nRokhan has requested any available resources be dispatched to identify the threat and see if any of our men yet remain alive within the ruins.",
-    "name": "Assault on Lost Veil Anzu",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29403",
-    "description": "According to Quincy, the \"collector\" who wants the crate is none other than the insane Archmage Xylem of Azshara.The archmage's faithful servant is to meet with the man who has the crate in the catacombs beneath the Cathedral of Light.You must get there in time to intercept the exchange and retrieve the crate before it is lost to Xylem forever. When you have the crate, meet me at the Golden Keg.",
-    "name": "The Collector's Agent",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28443",
-    "description": "I need you to do some more gathering before we can go take out the remainder of the Blackrock army.  If we're going to do this, we're going to do it right, and that means being prepared.I need ash, <name>.  Not just any ash... ash from the greater obsidian elementals that roam the plains to the southeast.  The stuff is deep, deep black, which is what we need for our next disguise.Don't worry, you've already got a disguise.  This one is for someone... well, someTHING... else.",
-    "name": "Blackened Ashes",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

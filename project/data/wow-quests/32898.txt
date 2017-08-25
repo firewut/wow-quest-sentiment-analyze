@@ -1,8 +1,0 @@
-{
-    "_id": "32898",
-    "added_in_patch": 5.3,
-    "description": "",
-    "name": "Daily Scenario Random (1st) (Mists)",
-    "requires_level": 90,
-    "zone": "Quests"
-}

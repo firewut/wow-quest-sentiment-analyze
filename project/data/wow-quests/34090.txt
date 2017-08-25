@@ -1,9 +1,0 @@
-{
-    "_id": "34090",
-    "added_in_patch": 6,
-    "description": "Those orcs sure like to pile things up in one place. That gave me an idea...\r\n\r\nI've built this ingenious device for ya! When you get near a target, it'll let you know, and you can deploy it for a big, satisfying, kerBOOM!",
-    "name": "Thaelin's Quick Fix",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

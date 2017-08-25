@@ -1,7 +1,0 @@
-{
-    "_id": "10795",
-    "description": "Good, I've seen you around and I've been meaning to speak to you about a matter of some importance.There are reports coming in that for some reason the Bloodmaul ogres are planning an offensive against Sylvanaar and Ruuan Weald.  We don't know who or what is pushing them to do this, but I intend to nip their plan in the bud!Bloodmaul Camp is where the attacks are to be staged from.  Head northwest down the ramp out of the Ruuan Weald and you will find it.  I want you to kill their leader, Dorgok!",
-    "name": "A Date with Dorgok",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

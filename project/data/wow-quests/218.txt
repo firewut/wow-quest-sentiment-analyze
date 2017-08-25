@@ -1,8 +1,0 @@
-{
-    "_id": "218",
-    "description": "Soren did well to send you out on recon.  That's some good information you have right there.Trouble is, this just adds more work for us to do.  The trolls, confused as they are right now, still would like to kick the dwarves right out of Coldridge.  And I'm certainly not going to let some fiery demon turn our snowy valley into a mountain lake.The troll leader, his servants, and the fire creature should all be in the cave to the southeast.  Take 'em all out.",
-    "name": "Ice and Fire",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Coldridge Valley"
-}

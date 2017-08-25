@@ -1,9 +1,0 @@
-{
-    "_id": "36141",
-    "added_in_patch": 6,
-    "description": "I will help you, but you are going to need to prove to me that you are not only a worthy fisherman, but also a fearless warrior.The canyon north of us is full of icespine stingers.  Slaughter them and bring their stingers back to me.  They should work well as bait in these local waters.",
-    "name": "Icespine Stingers",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Fishing"
-}

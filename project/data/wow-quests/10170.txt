@@ -1,7 +1,0 @@
-{
-    "_id": "10170",
-    "description": "Return to Greatmother Geyah at Garadar with news of your victory, <name>. This will surely lift the spirits of the Mag'har. Perhaps even the young Hellscream will be lifted from his malaise.",
-    "name": "Return to the Greatmother",
-    "requires_level": 66,
-    "zone": "Nagrand (Outland)"
-}

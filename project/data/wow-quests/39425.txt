@@ -1,8 +1,0 @@
-{
-    "_id": "39425",
-    "added_in_patch": 7,
-    "description": "Without my crystalline focus, my powers are weak. Those who captured me took it, and I know not where it is now.\r\n\r\nI'm sure one of the Feltotem has it. If you find it, please return it to me.",
-    "name": "Stonedark Crystal",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

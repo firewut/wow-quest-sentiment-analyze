@@ -1,7 +1,0 @@
-{
-    "_id": "9666",
-    "description": "Have you seen the serpent men? The ones that call themselves naga?<Kessel spits.>They dared make an advance upon this camp under cover of darkness only three nights ago. Can you believe the audacity of those primitive beasts?I need you to deliver a message to their leadership, <name>. To the northeast is Wrathscale Lair, home to Lord Xiz. Find him, slay him where he stands and drive this banner through his corpse.Let them know fear whenever they should see our standard!",
-    "name": "Declaration of Power",
-    "requires_level": 10,
-    "zone": "Bloodmyst Isle"
-}

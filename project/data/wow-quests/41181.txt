@@ -1,8 +1,0 @@
-{
-    "_id": "41181",
-    "added_in_patch": 7,
-    "description": "I was right about the nightborne here having objects of great power. I found an ancient text referring to such an object called the Orb of Sciallax.From what I recall in studying the War of the Ancients, Sciallax was a demon lord who came to Suramar and offered the elves at the time a powerful artifact in return for their servitude to the Legion.I haven't discovered the exact location yet as to the whereabouts, but perhaps some digging can yield us an answer.",
-    "name": "Narrowing Down",
-    "requires_level": 110,
-    "zone": "Archaeology"
-}

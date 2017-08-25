@@ -1,7 +1,0 @@
-{
-    "_id": "9529",
-    "description": "While I'm certain your imp has proven a useful and sometimes entertaining servant, it is time you mastered a more powerful demon: the voidwalker.Travel down the Dead Scar until it is crossed by the Elrendar River.  Just south of the river, locate one of the blue glowing stones and take it.  Your path will be revealed there.",
-    "name": "The Stone",
-    "requires_level": 10,
-    "zone": "Warlock"
-}

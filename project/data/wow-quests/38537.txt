@@ -1,8 +1,0 @@
-{
-    "_id": "38537",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Demonsteel Pauldrons",
-    "requires_level": 110,
-    "zone": "Blacksmithing"
-}

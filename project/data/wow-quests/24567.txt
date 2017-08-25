@@ -1,8 +1,0 @@
-{
-    "_id": "24567",
-    "description": "<name>, Coach Crosscheck is looking for you. He's the leader of our fearless footbomb team, the Bilgewater Buccaneers.He says that the division title against the Steamwheedle Sharks is on the line and that you're the only one that can bring it home for us!Head west into town. You can't miss Kajaro Field.A footbomb star. This is going to be great for your image!",
-    "name": "Report for Tryouts",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

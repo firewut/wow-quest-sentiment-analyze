@@ -1,7 +1,0 @@
-{
-    "_id": "8249",
-    "description": "",
-    "name": "Junkboxes Needed",
-    "requires_level": 50,
-    "zone": "Rogue"
-}

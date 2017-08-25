@@ -1,8 +1,0 @@
-{
-    "_id": "43376",
-    "added_in_patch": 7,
-    "description": "Forcing a vision isn't easy by any means. Finding the ingredients for the elixir alone will take a considerable amount of time, time we don't have. Too many are suffering on the front lines as we speak, in need of the salve we were meant to deliver.I suppose if we all work together, we can make this work.Zabra and I will find the items needed for Velen's elixir, if you take the salve to Faronaar and cure the demon hunters. Does that sound fair?",
-    "name": "Problem Salver",
-    "requires_level": 103,
-    "zone": "Priest Campaign"
-}

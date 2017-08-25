@@ -1,9 +1,0 @@
-{
-    "_id": "32981",
-    "added_in_patch": 6,
-    "description": "I am Gronnstalker Rokash, and I only serve the winning side.I have heard of some of your deeds, commander, and seen the corpses left in the wake of you and your forces.I have grown tired of my current clan. They are soft, weak, and losing.I offer you this challenge: enter Colossal's Fall to the north and slay Sky-Singer Strag. Claim her totem as a trophy and I will hail you as my new chieftain.",
-    "name": "Only the Winner",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

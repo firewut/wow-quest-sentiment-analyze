@@ -1,7 +1,0 @@
-{
-    "_id": "25629",
-    "description": "Battlemaiden!Find my Honor Guard upon the field of battle and relieve them of their foes. I need them to return to guard the priestesses immediately!I will hold the entrance. Be swift!",
-    "name": "Her Lady's Hand",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

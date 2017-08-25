@@ -1,8 +1,0 @@
-{
-    "_id": "30320",
-    "added_in_patch": 5,
-    "description": "I came upon one of the Shao-Tien Soul-Render's daggers. It radiates a strong magic. I've been told it should allow you to enter their spirit vortexes.The mogu use these to harvest spirits and bind them to their will, but I'm hoping you can use it to free the spirits.Enter any of the spirit vortexes you can find up on the Golden Stair, and free all the captive spirits you find.",
-    "name": "Free Spirits",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

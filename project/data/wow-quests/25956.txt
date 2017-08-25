@@ -1,7 +1,0 @@
-{
-    "_id": "25956",
-    "description": "All around you lie the remnants of a fierce battle. The naga skeletons are no surprise, but the weapons and remains of their apparent opponents are somewhat more unexpected.Amidst the bones, you spot a strangely prominent piece of metal jutting out from one of the skulls. It's difficult to tell what sort of weapon it might have once been part of, but it stands out sufficiently to prompt you to retrieve it as evidence.Surely someone back at the cave would be interested in this revelation.",
-    "name": "Upon the Scene of Battle",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

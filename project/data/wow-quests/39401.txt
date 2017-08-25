@@ -1,9 +1,0 @@
-{
-    "_id": "39401",
-    "added_in_patch": 6.2,
-    "description": "One battle does not win the war, Commander.\r\n\r\nThat Transport isn't gonna hold up long against this Iron Horde navy.  We are going to need another ship.  Lucky for us, a local smuggler has supplied us with the plans we need to build Destroyers.  We should construct one of these ships immediately!",
-    "name": "Destroying the Competition",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

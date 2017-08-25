@@ -1,8 +1,0 @@
-{
-    "_id": "41685",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Ala'washte",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

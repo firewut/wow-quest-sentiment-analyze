@@ -1,8 +1,0 @@
-{
-    "_id": "12225",
-    "description": "Your stomach growls as the pungent smell of hearty nuts draws your attention to the bucket of seeds.Some thoughtful soul has obviously left these complimentary morsels here to rejuvenate weary visitors. Grateful, you take the remaining few and devour them.The seeds do not disappoint. Finding yourself hungry for more, you set out to discover their origins....",
-    "name": "Mmm... Amberseeds!",
-    "requires_level": 73,
-    "side": "alliance",
-    "zone": "Grizzly Hills"
-}

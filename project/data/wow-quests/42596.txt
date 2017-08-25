@@ -1,8 +1,0 @@
-{
-    "_id": "42596",
-    "added_in_patch": 7,
-    "description": "Stranger! You are the one I have heard of?\r\n\r\nWhen the kerfuffle with the drogbar happened, some of the young moose ran off!\r\n\r\nI can't chase them down or the others might wander off as well.\r\n\r\nCould you bring them back here?",
-    "name": "Mountainstrider Round-Up",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

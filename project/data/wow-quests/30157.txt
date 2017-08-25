@@ -1,8 +1,0 @@
-{
-    "_id": "30157",
-    "added_in_patch": 5,
-    "description": "Oh, thank goodness, another cloud serpent trainer!I just received word that the wild hatchlings at Windward Isle to the northeast are in serious trouble!While the adults fight those terrible saurok, who is watching the cute little babies? No one, that's who!WE HAVE TO SAVE THEM!I'm sending every trainer I can find to go and help. If you aren't too busy, can you make sure the hatchlings are safely delivered back to their mothers' nests?",
-    "name": "Emptier Nests",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

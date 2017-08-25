@@ -1,7 +1,0 @@
-{
-    "_id": "9369",
-    "description": "We are the draenei.  Our ship crashed and, since we have many wounded, our immediate concern is the depleted state of our healing crystals.  We must replenish them quickly!Unfortunately, the only way to do this at this point is to extract the blood from the local vale moths.  Their blood will make for a suitable substitute.The moths can be found in many places around the vale, but mostly in the northwest.",
-    "name": "Replenishing the Healing Crystals",
-    "requires_level": 1,
-    "zone": "Ammen Vale"
-}

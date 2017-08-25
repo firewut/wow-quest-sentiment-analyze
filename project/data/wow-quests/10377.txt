@@ -1,7 +1,0 @@
-{
-    "_id": "10377",
-    "description": "",
-    "name": "Nothing to Fear",
-    "requires_level": 20,
-    "zone": "Priest"
-}

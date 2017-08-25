@@ -1,9 +1,0 @@
-{
-    "_id": "35014",
-    "added_in_patch": 6,
-    "description": "We are out of options.I'm going into the bloom to find out what's going on. I'll meet you inside.Goodluck, <class>.",
-    "name": "Blademoon Bloom",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

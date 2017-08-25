@@ -1,8 +1,0 @@
-{
-    "_id": "42276",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Disgusting, but Useful",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35233",
-    "added_in_patch": 6,
-    "description": "When we set up shop the first thing we built was the cannon. Seemed like a good place fer it.We started buildin' the base up around it when them chompin' acid spittin' varmints came crawlin' out of the ground.The upside though is the cannon is built, just not loaded.We have to go down to the bottom floor of this thing anyway so may as well grab some Doomshot if you see any on your way down.Better to load the cannon and not need it than to need it and not have it loaded.",
-    "name": "Just In Case",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

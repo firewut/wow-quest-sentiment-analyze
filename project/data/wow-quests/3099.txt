@@ -1,8 +1,0 @@
-{
-    "_id": "3099",
-    "description": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the warlock trainer Maximillion. I would take some time to read it before heading out again.",
-    "name": "Tainted Scroll",
-    "requires_level": 2,
-    "side": "horde",
-    "zone": "Warlock"
-}

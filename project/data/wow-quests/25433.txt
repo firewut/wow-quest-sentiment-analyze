@@ -1,7 +1,0 @@
-{
-    "_id": "25433",
-    "description": "You may have seen it yourself, but other scouts have discovered an enormous beast being held by the ogres. Reports say it looks like a sasquatch, but if it is, it's the biggest ever seen in Feralas.The ogres are most likely trying to teach it to obey them. While that's almost comical, I'm not going to sit by and let them train that thing to roll over at their command. Return to the hills and slay it.",
-    "name": "Sasquatch Sighting",
-    "requires_level": 37,
-    "zone": "Feralas"
-}

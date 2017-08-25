@@ -1,7 +1,0 @@
-{
-    "_id": "13506",
-    "description": "These appear to be orders dispatched to the overseers at the ruins from a superior in the Shatterspear War Camp. Most of the document contains negligible strategic value, but a couple lines stick out to you.\"We captured another night elf spying on our operation. She has been taken back to the camp to be tortured for more information. Keep an eye out for additional spies - we cannot afford for our operation to be compromised.\"The Lieutenant will surely want this information.",
-    "name": "Reason to Worry",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

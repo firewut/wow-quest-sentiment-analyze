@@ -1,8 +1,0 @@
-{
-    "_id": "42711",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "The Eternal Mages",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

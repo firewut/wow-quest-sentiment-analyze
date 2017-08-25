@@ -1,9 +1,0 @@
-{
-    "_id": "37131",
-    "added_in_patch": 6,
-    "description": "The botani in the Everbloom Wilds kill anything foolish enough to wander too close to their blooms and are raising their corpses as mindless soldiers.This is all too reminiscent of the Scourge... and the Dark Lady has taken notice. She has a special mission for us, commander.There is a particularly large infested creature that was recently raised. We are to destroy it and retrieve its remains.",
-    "name": "The Dark Lady's Concern",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

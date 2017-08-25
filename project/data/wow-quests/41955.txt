@@ -1,8 +1,0 @@
-{
-    "_id": "41955",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Bloodline of Stone",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

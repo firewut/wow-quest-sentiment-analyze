@@ -1,8 +1,0 @@
-{
-    "_id": "33229",
-    "added_in_patch": 5.4,
-    "description": "As you survey the devastation of the vale, a flash of bronze catches your eye. Unless you're mistaken, a tiny gnome is trying to catch your attention from the balcony above Mogu'shan Palace, just outside of the Seat of Knowledge.You should see what she wants.",
-    "name": "A Flash of Bronze...",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

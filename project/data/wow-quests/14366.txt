@@ -1,8 +1,0 @@
-{
-    "_id": "14366",
-    "description": "We can take it from here, <name>.  Check in with Mayor Armstead.These are only a small part of the Forsaken's forces.  If we don't move quickly we're going to have bigger problems on our hands.See what you can do to engage the Forsaken army at their landing location.",
-    "name": "Holding Steady",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

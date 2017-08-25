@@ -1,8 +1,0 @@
-{
-    "_id": "40342",
-    "added_in_patch": 7,
-    "description": "The naga are preoccupied with recruiting the sea giants for Queen Azshara's battles in other lands.Now is the time to strike!",
-    "name": "Surprise the Sashj'tar",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

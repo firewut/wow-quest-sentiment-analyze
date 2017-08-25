@@ -1,8 +1,0 @@
-{
-    "_id": "41106",
-    "added_in_patch": 7,
-    "description": "Beating the Legion requires us to strike quickly and unexpectedly.We have discovered a Dreamway by which we can travel through the Emerald Dream itself. Though only a short walk through the Dream, it will allow us to cross vast distances on Azeroth and even access the ancient home of all druids, Val'sharah.Malfurion is preparing the ritual to open the Dreamway. I need you to summon Zen'tabra and Naralex to his side.Only by combining our efforts can we hope to succeed.",
-    "name": "Call of the Wilds",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

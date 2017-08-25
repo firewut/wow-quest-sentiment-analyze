@@ -1,7 +1,0 @@
-{
-    "_id": "8493",
-    "description": "Back again <class>? Outstanding! We still need more stacks of copper bars if you can procure them for the Ahn'Qiraj war effort.  Will you help us out?",
-    "name": "The Alliance Needs More Copper Bars!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

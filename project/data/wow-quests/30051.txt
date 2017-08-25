@@ -1,8 +1,0 @@
-{
-    "_id": "30051",
-    "added_in_patch": 5,
-    "description": "Look at it, <name>: the Gilded Fan. I heared lots of good things about the water they got here. Lots of bad things, too.No sayin' what kind of water Chen's gonna be needin', so what say we make him a little sampler platter?Come on, let's get movin'. We'll go scoop up some water together.",
-    "name": "The Great Water Hunt",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

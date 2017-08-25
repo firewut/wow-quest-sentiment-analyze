@@ -1,8 +1,0 @@
-{
-    "_id": "26067",
-    "description": "Ah, it is done! Now to test it out.Travel to the main point of conflict within Greatwood Vale and use my voodoo stick on the Krom'gar marauders battling the Grimtotem. My voodoo magic should renew their vigor and allow them to crush our enemies!Go now, <name>!",
-    "name": "Jin'Zil's Blessing",
-    "requires_level": 26,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

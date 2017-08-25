@@ -1,7 +1,0 @@
-{
-    "_id": "28129",
-    "description": "The Jadefire satyr that have overrun so much of Felwood work directly with the Shadow Council.These satyr answer directly to the ancient and powerful Prince Xavalis. Some say he is the son of Xavius, the first satyr, blessed by Sargeras himself.Whatever his nature, he must die if we are to scatter the Jadefire and reclaim our barrow dens. Journey deep into Shadow Hold and slay him. Show him no mercy; he will have none for you.",
-    "name": "The Demon Prince",
-    "requires_level": 44,
-    "zone": "Felwood"
-}

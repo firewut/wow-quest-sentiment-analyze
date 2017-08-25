@@ -1,7 +1,0 @@
-{
-    "_id": "37047",
-    "description": "",
-    "name": "The Light's Gift",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36740",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking: Arena Treasure 19",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

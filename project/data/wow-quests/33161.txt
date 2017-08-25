@@ -1,8 +1,0 @@
-{
-    "_id": "33161",
-    "added_in_patch": 5.4,
-    "description": "You should first familiarize yourself with the island.Explore. Investigate anything that catches your interest. Return when you're done, and I'll reward you for whatever information you've gathered about this strange place.And do be careful! Monstrous beasts and supernatural creatures abound.",
-    "name": "A Timeless Tour",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

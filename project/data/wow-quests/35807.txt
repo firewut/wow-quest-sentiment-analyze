@@ -1,9 +1,0 @@
-{
-    "_id": "35807",
-    "added_in_patch": 6,
-    "description": "Defeating Erosian has yielded you a trophy worthy of acclaim.Take this to Durotan at Beastwatch.",
-    "name": "Trophy of Glory: Erosian",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

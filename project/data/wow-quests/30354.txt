@@ -1,8 +1,0 @@
-{
-    "_id": "30354",
-    "added_in_patch": 5,
-    "description": "We were searching the ruins south of here when the mogu fell upon us out of nowhere.Some of us were able to retreat to this encampment but many others were captured. The mogu have also caught a number of the Horde who happened to be in the area as well.Please, $p, rescue any sentinels that you can.Leave the Dawnchasers to their fate.",
-    "name": "No Sister Left Behind",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

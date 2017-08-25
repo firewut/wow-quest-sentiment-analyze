@@ -1,7 +1,0 @@
-{
-    "_id": "9367",
-    "description": "Midsummer is upon us once again!Each year, as tradition dictates, Flamekeepers are chosen to tend the bonfires within our capitals. While fires are burning throughout Azeroth, it is imperative that ours be the hottest and brightest, to properly pay homage to the season.In fact, I have a task for you, if you don't mind. I've not yet heard if the fires in all capitals are properly burning. Travel there yourself and warm yourself by the fires--make sure they're hot!",
-    "name": "The Festival of Fire",
-    "requires_level": 1,
-    "zone": "Midsummer"
-}

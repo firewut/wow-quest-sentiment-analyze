@@ -1,7 +1,0 @@
-{
-    "_id": "24548",
-    "description": "The Lich King's throne once served as his prison. Kil'jaeden himself crafted the vessel of icy crystals from the twisting nether, its sole purpose to hold Ner'zhul's vengeful spirit.When Arthas struck the crystal with Frostmourne, he released Ner'zhul's soul, allowing it to merge with his own. Splinters from that impact are now scattered throughout the citadel.I shall require those shards, held only by the Lich King's most powerful servants, to seal the power contained in your blade.",
-    "name": "The Splintered Throne",
-    "requires_level": 80,
-    "zone": "Quests"
-}

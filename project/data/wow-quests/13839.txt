@@ -1,7 +1,0 @@
-{
-    "_id": "13839",
-    "description": "Your strongest attack in mounted combat is undoubtedly the charge. Take this lance and mount the stabled Sunreaver hawkstrider just outside the pavilion.Once you're mounted, speak with Rugan Steelbelly. He's on the northern edge of the tournament grounds at the training area east of the Aspirants' Ring. Rugan will tell you how to use this powerful ability and teach you some basic strategies.",
-    "name": "Mastery Of The Charge",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "28832",
-    "description": "Right then, just hop in the seaplane behind me and I'll fly yeh to the Highlands.We're to report to a feller named \"Lieutenant Fawkes.\" I've promised the King we'd get there lickety-fast, so I took the liberty of ditchin' any excess weight. Like seatbelts. Parachutes. Maps. Stabilizers. Landing gear.I never actually \"land\" these things anyways.",
-    "name": "Twilight Shores",
-    "requires_level": 84,
-    "side": "alliance",
-    "zone": "Twilight Highlands"
-}

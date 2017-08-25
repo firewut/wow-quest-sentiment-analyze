@@ -1,8 +1,0 @@
-{
-    "_id": "42651",
-    "added_in_patch": 7,
-    "description": "I thank you for doing this for me. I swore an oath to protect the Gjallarhorn with my life, and so I did.You must tell Hymdall that his Gjallarhorn was devoured by the great worm, Jorhuttam!It devoured an entire army of my men who were swallowed whole trying to fend off the beast. Find Jorhuttam and you will find the horn!",
-    "name": "Svergan's Promise",
-    "requires_level": 101,
-    "zone": "Warrior Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27123",
-    "description": "I knew you'd heed our call, <name>.  When Deathwing was first defeated by the other dragon aspects, he retreated to Deepholm, the realm of earth.Deathwing's return to our world left a rift open between Azeroth and Deepholm.If we don't mend the breach, this land will be torn asunder.We're doing our best to contain the damage on this side of the rift.  Aggra will take you through the rift so you can help repair the damage from the other side.Get on her wyvern when you're ready.",
-    "name": "Deepholm, Realm of Earth",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

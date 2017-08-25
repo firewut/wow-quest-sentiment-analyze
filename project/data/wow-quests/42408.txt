@@ -1,8 +1,0 @@
-{
-    "_id": "42408",
-    "added_in_patch": 7,
-    "description": "The Sentinels know of a trusted and talented enchanter who specializes in enchantments that affect demons.She provides her services for free to the Sentinels, but she does require specific reagents to perform her enchantments.",
-    "name": "Required Reagents",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

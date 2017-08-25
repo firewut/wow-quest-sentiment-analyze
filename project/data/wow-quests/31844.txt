@@ -1,8 +1,0 @@
-{
-    "_id": "31844",
-    "added_in_patch": 5,
-    "description": "Welcome Back, <name>. I see you've returned to hone your skills.  Speak with Master Cheng in the Training Grounds below us for a practice sparring session.",
-    "name": "Practice Makes Perfect: Master Cheng",
-    "requires_level": 60,
-    "zone": "Peak of Serenity"
-}

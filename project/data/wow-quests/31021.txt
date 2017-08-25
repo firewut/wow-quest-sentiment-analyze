@@ -1,8 +1,0 @@
-{
-    "_id": "31021",
-    "added_in_patch": 5,
-    "description": "Liquid amber is most efficient for restoring a newly awakened paragon's strength, and is usually provided at a wakening ceremony.Unfortunately, it seems you did not receive these instructions, so we shall have to improvise.I can sense a vast quantity of fossilized amber in the lake below us. It will serve, but I am too weak to dig it up myself.Do this for me, and I will see to it that you are rewarded.",
-    "name": "Living Amber",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

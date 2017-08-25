@@ -1,7 +1,0 @@
-{
-    "_id": "10998",
-    "description": "There is one more gronn to be slain: Skulloc Soulgrinder. He keeps himself hidden away, but there is a way to coax him forth.He was trained by an ogre warlock known as Vim'gol the Vile, whose grimoire you must retrieve!Vim'gol must be summoned by standing within a fire ring at his circle. Find Vim'gol's Circle in the mountains, to the northeast, near the Broken Wilds.",
-    "name": "Grim(oire) Business",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

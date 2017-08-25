@@ -1,9 +1,0 @@
-{
-    "_id": "34692",
-    "added_in_patch": 6,
-    "description": "There is more work to do on Draenor than we can possibly handle by ourselves. We need to start delegating.A group of night elves need a champion at Starfall Outpost.Qiana is a perfect fit for this mission.",
-    "name": "Delegating on Draenor",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

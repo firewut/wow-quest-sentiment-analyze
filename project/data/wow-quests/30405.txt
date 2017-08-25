@@ -1,8 +1,0 @@
-{
-    "_id": "30405",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Jade Cat for Sho",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

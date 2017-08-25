@@ -1,7 +1,0 @@
-{
-    "_id": "25197",
-    "description": "What? You want to stay here to fight? Typical <class>, wanting to stay and fight off the Horde while there's still a chance to run for it.Look, if you really want to save Northwatch, you should report to Admiral Aubrey in the tower behind me. He's keeping his ships here to fight, instead of ferrying us all away like I begged him to.Now if you'll excuse me, I've got to finish packing!",
-    "name": "The Admiral Won't Back Down",
-    "requires_level": 28,
-    "zone": "Southern Barrens"
-}

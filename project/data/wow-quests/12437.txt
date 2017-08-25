@@ -1,7 +1,0 @@
-{
-    "_id": "12437",
-    "description": "Listen, <name>. This battle is as much over resources as tactical supremacy.I have a mission that could turn the tide in our struggle against the Horde here.There are torpedoes at the end of the dock that we can use to take down the Horde's lumber ship to the northwest.You'll need to get some of the fuel that's stored on the docked goblin ship just north of here, then ride one of the torpedoes into their transport!",
-    "name": "Riding the Red Rocket",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

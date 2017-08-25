@@ -1,7 +1,0 @@
-{
-    "_id": "5421",
-    "description": "I'll reward anyone who makes my life a bit easier... I enjoy doing as little as possible, mon!Below the docks here in Shadowprey Village, I've many shellfish traps.  If you're kind enough to do my work and collect me my shellfish, then I'll reward you with something you want... get my drift mon?",
-    "name": "Fish in a Bucket",
-    "requires_level": 30,
-    "zone": "Desolace"
-}

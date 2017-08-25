@@ -1,8 +1,0 @@
-{
-    "_id": "35187",
-    "added_in_patch": 6,
-    "description": "One of my men has already infiltrated the Sargerei's ranks, but I need you to help him.In order to protect his cover, you will need to disguise yourself as one of the enemy.Kill Sargerei until you collect a cowl, robe, and slippers to create a disguise.After donning the disguise, introduce yourself to Soulbinder Zamaya as a new student, then tell Anchorite Laanda that 'the rain falls on Shadowmoon.'The secret phrase will identify yourself as an ally.",
-    "name": "Infiltrating the Sargerei",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

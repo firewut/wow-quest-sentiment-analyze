@@ -1,8 +1,0 @@
-{
-    "_id": "27674",
-    "description": "Nevin has just sent word that he and his men are making their way to the surface. He'll be waiting for you in the building that S.A.F.E. has established as its headquarters.See Torben Zapblast over there? Talk to him when you're ready to head to the surface and he'll arrange to have you transported up there. It's been a pleasure meeting you, <name>, and I'm honored to have played a small role in helping you escape from Gnomeregan to start your life on the surface.",
-    "name": "To the Surface",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

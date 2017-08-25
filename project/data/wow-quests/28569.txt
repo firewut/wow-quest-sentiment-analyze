@@ -1,8 +1,0 @@
-{
-    "_id": "28569",
-    "description": "I've heard stories about a road to the Swamp of Sorrows.  Mysterious tales of a meandering mountain pathway that completely bypasses Redridge and poops you right out into Bogpaddle!If you run out of things to do, I suppose you'll have to leave.  And we'll all be sad.  When you do leave, talk to Sharon Boomgetter in the southeastern corner of the Steppes.  She'll give you a ride.<Oralius tilts his head, as if listening to something.>Winky?  WINKY!  NO!",
-    "name": "The Bogpaddle Bullet",
-    "requires_level": 51,
-    "side": "alliance",
-    "zone": "Swamp of Sorrows"
-}

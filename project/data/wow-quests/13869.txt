@@ -1,7 +1,0 @@
-{
-    "_id": "13869",
-    "description": "While what the satyrs have done to the trees is horrible, nothing compares to the mass slaughter that the orcs have been engaging in!<The ancient shakes with visible rage, his leaves falling all around you.><Race>, I would have you head across the road here at the lumber camp and recover the remains of those trees, treants, and ancients that the Horde have hewn down in their prime.",
-    "name": "Recover the Remains",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

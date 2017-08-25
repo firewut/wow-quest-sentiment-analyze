@@ -1,7 +1,0 @@
-{
-    "_id": "13538",
-    "description": "The three towers south of the Wintergrasp river are draining power from the Fortress! Destroy Shadowsight Tower, Flamewatch Tower or Winter's Edge Tower, then return to me. Remember, only siege vehicles can damage a tower, so make sure to protect them from the Horde!",
-    "name": "Southern Sabotage",
-    "requires_level": 85,
-    "zone": "Wintergrasp"
-}

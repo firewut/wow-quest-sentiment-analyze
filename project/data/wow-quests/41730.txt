@@ -1,8 +1,0 @@
-{
-    "_id": "41730",
-    "added_in_patch": 7,
-    "description": "Good, your timing couldn't have been better, <name>.These foul Legion creatures have invaded our sanctuary. They have no place here on our world.Kill every demon you see, brother.",
-    "name": "Desperate Strike",
-    "requires_level": 103,
-    "zone": "Monk Campaign"
-}

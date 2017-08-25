@@ -1,8 +1,0 @@
-{
-    "_id": "40176",
-    "added_in_patch": 7,
-    "description": "You've been busy, <name>. And you have some new patterns in your repertoire, I see!How about we add another?",
-    "name": "From Head to Toe",
-    "requires_level": 98,
-    "zone": "Leatherworking"
-}

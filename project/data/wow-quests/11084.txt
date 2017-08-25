@@ -1,7 +1,0 @@
-{
-    "_id": "11084",
-    "description": "Well, well, well... still alive I see. That's good, because Mor'ghor has requested your presence in his tower at once. Get a move on!",
-    "name": "Stand Tall, Captain!",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

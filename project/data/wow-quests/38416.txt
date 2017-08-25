@@ -1,8 +1,0 @@
-{
-    "_id": "38416",
-    "description": "The Auchenai have been reporting for some time that something was... wrong... with Auchindoun. They were never able to find a reason. Suddenly the Sargerei attacked and blew open a hole into a subchamber.\r\n\r\nCorruption leaks from that hole, we need to stop it.",
-    "name": "Secrets of the Sargerei",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

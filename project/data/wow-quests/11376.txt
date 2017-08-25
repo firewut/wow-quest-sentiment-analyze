@@ -1,7 +1,0 @@
-{
-    "_id": "11376",
-    "description": "Mah'duun has heard it said that none are as cruel as the six-armed demonesses inside the Shadow Labyrinth.Go to Auchindoun, seek them out, kill them all.If you cannot accomplish so simple a task, we do not have anything further to say to one another.",
-    "name": "Wanted: Malicious Instructors",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

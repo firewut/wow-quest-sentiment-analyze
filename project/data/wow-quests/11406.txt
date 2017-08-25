@@ -1,7 +1,0 @@
-{
-    "_id": "11406",
-    "description": "When the expeditionary force moves north, Captain Adams expects everything to be ready at Fort Wildervar. The scouts and craftsmen there have been tasked with preparing the gear and rations for our men for the climb into the hills.The captain's famous for his temper, so I want to send someone ahead to check on the preparations. Fort Wildervar is far to the northeast, beyond Skorn, up in the snow-covered areas near the border with Grizzly Hills. Find Gil Grisert there and make sure he is prepared.",
-    "name": "Everything Must Be Ready",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

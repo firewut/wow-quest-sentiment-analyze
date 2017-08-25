@@ -1,7 +1,0 @@
-{
-    "_id": "29605",
-    "description": "The Sethekk departed Skettis when Auchindoun exploded.My brother, Syth, was one of their leaders and told us we had to go into the ruins and face our god.In time, Syth had me cast out of the Halls for doubting them, but he refused to let me take our sister Lakka. Will you help me rescue her?",
-    "name": "Brother Against Brother",
-    "requires_level": 65,
-    "zone": "Sethekk Halls"
-}

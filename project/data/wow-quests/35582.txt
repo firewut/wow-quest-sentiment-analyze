@@ -1,8 +1,0 @@
-{
-    "_id": "35582",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Sunken Temple Reward Quest",
-    "requires_level": 50,
-    "zone": "Quests"
-}

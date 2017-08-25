@@ -1,8 +1,0 @@
-{
-    "_id": "30411",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Jade Cat for Haohan",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

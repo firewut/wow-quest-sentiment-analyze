@@ -1,7 +1,0 @@
-{
-    "_id": "8476",
-    "description": "Ours are not the vast kingdoms of the humans and orcs.  All we have left of our lands in Azeroth lies mostly before your eyes, <name>.Until we can reach Outland, we must defend what little land we have at any cost.Our uncivilized neighbors to the southeast, the Amani trolls, certainly have a different opinion regarding the ownership of these lands.  Their daily raids are something we can't tolerate anymore.  Go to their settlements, Zeb'Watha and Tor'Watha, and teach them a lesson.",
-    "name": "Amani Encroachment",
-    "requires_level": 7,
-    "zone": "Eversong Woods"
-}

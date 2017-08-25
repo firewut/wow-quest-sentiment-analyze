@@ -1,8 +1,0 @@
-{
-    "_id": "30457",
-    "added_in_patch": 5,
-    "description": "Clearly, you are a hero come to aid us.Slay the Bataari Tribe in the Kun-Lai Pass to the northwest until the Bataari Fire-Warrior is angered enough to appear.  Dispatch him.",
-    "name": "Call Out Their Leader",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

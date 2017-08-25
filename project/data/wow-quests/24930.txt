@@ -1,8 +1,0 @@
-{
-    "_id": "24930",
-    "description": "Fine by me if King Greymane wants you to risk your life to rescue a known traitor.Do me a favor and do something useful while you're out there and kill these cursed fleabags.",
-    "name": "While You're At It",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas City"
-}

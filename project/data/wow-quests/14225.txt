@@ -1,7 +1,0 @@
-{
-    "_id": "14225",
-    "description": "With his dying breath, Kohor mentioned the summoning of a demon that could threaten the entire region.He may have been bluffing, but that's not a chance worth taking.This cannot wait for the Horde's invasion of Desolace to take shape. You must scour Thunder Axe Fortress for clues and bring an end to this potential threat.",
-    "name": "You'll Know It When You See It",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27349",
-    "description": "I'm not gonna lie to you, <name>. What I'm about to ask you to do is suicide. Chance of failure is about 95%.All communication from Dreadwatch Outpost has been severed. With the worgen constantly rushing us we have no means by which to get to Dreadwatch to check on our soldiers. I need you to head south to the outpost and check on our soldiers. I'll keep in contact through the Forsaken communication device - F.C.D. - from here on out.KEEP CLEAR OF THE MAIN ROAD.",
-    "name": "Break in Communications: Dreadwatch Outpost",
-    "requires_level": 12,
-    "zone": "Ruins of Gilneas"
-}

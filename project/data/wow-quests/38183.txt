@@ -1,9 +1,0 @@
-{
-    "_id": "38183",
-    "added_in_patch": 6.1,
-    "description": "Recent reports suggest a notable rise of activity by Sargerei forces at Socrethar's Rise in southern Shadowmoon Valley.\r\n\r\nSocrethar's disciples pose a threat all over Draenor. We must not allow them to gain a foothold so far from our reach.",
-    "name": "Missive: Assault on Socrethar's Rise",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

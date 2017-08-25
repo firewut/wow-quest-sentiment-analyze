@@ -1,8 +1,0 @@
-{
-    "_id": "44043",
-    "added_in_patch": 7,
-    "description": "There are still two paths you may walk - two powerful weapons you might yet obtain to aid you in the fight against the Legion.I will help you recall your remaining options, of course.",
-    "name": "Continuing the Legend",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

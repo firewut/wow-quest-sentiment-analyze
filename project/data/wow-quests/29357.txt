@@ -1,7 +1,0 @@
-{
-    "_id": "29357",
-    "description": "Isn't it amazing how something as simple as spice bread is used every day in Darnassus? When I'm not seeing to my other responsibilities, I like to bake spice bread to hone my skills as a cook and practice my technique.Why don't you give it a try? You should be able to get your ingredients here in the shop.No matter how much we make, it never goes to waste. Bring me your loaves when you're done and I'll have someone share them with our friends, the Gilneans.",
-    "name": "Spice Bread Aplenty",
-    "requires_level": 10,
-    "zone": "Cooking"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "10389",
-    "description": "Greetings, <name>. I've deciphered the Legion missive and uncovered the demons' strategic plans for this Peninsula. Apparently, there is a large group of hellish terrorfiends gathering near the Pools of Aggonar in the west. We cannot allow such a force to go unchallenged. You must go there and decimate their cursed numbers. ",
-    "name": "The Agony and the Darkness",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

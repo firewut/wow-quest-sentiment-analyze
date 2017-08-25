@@ -1,8 +1,0 @@
-{
-    "_id": "31507",
-    "added_in_patch": 5,
-    "description": "The venomsting scorpions on Zan'vess are fed sap from a young age, causing a fascinating mutation in which their natural armor plating becomes infused with amber. Effectively, it's organic kyparite, the same substance used in forging most of the empire's weapons and armor.I think I've found a way to chemically break down kyparite, but it needs testing. Use these grenades on the Zan'thik venomstings and observe the results.",
-    "name": "Meltdown",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

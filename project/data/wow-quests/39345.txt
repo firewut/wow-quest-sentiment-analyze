@@ -1,8 +1,0 @@
-{
-    "_id": "39345",
-    "added_in_patch": 7,
-    "description": "It will take the cooperation of several highly skilled sorts to calibrate these burettes for a variety of substances.Chemist Emmara is an old friend from the Undercity who has helped me with similar endeavors.Thunder Bluff smells like a barn to me, but Jana Winterhoof is an alchemist with exacting standards.And while I'd never travel to Booty Bay without a lock on my wallet, Tryks Pourtrue has proven reliable and fair.",
-    "name": "Calibration Experts",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

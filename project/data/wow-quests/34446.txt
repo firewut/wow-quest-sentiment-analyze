@@ -1,9 +1,0 @@
-{
-    "_id": "34446",
-    "added_in_patch": 6,
-    "description": "If they weren't angry before, they sure are now. We won't survive a minute up on top o' this tank!Let's join up with the rest and get out of here!!",
-    "name": "The Home Stretch",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Assault on the Dark Portal"
-}

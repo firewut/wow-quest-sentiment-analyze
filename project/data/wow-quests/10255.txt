@@ -1,7 +1,0 @@
-{
-    "_id": "10255",
-    "description": "I think there's something we can use in the blood as the base of an antidote. Don't look at me like I've lost my mind!It's a common theme in nature. Often, the cure for something can be derived from the toxin itself. That's just what I aim to do.Ridding the boars of their demonic influence would probably eliminate their aggression and give us insight into how to best attempt to help other species.",
-    "name": "Testing the Antidote",
-    "requires_level": 61,
-    "zone": "Hellfire Peninsula"
-}

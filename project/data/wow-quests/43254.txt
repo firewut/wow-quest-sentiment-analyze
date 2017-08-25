@@ -1,8 +1,0 @@
-{
-    "_id": "43254",
-    "added_in_patch": 7,
-    "description": "Time for main event, friend! Gul'dan wants to begin his big ritual, cause end times for this world. Calydus confident getting the Scepter will stop that plan.Take this bat to Tomb of Sargeras, find ritual, steal Scepter. Oh... and get out!Calydus will help when he can! Good luck, friend!",
-    "name": "Ritual Ruination",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

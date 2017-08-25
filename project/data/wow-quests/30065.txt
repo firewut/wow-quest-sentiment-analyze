@@ -1,8 +1,0 @@
-{
-    "_id": "30065",
-    "added_in_patch": 5,
-    "description": "Our war supplies grow low, but especially needed are additional arrows.Our serpent riders are skilled marksmen, but they can do little without ammunition.We need someone to brave the battlefields and retrieve any undamaged arrows to refill our stores.Every arrow you retrieve will be used wisely.",
-    "name": "Arrows of Fortune",
-    "requires_level": 90,
-    "zone": "Jade Temple Grounds"
-}

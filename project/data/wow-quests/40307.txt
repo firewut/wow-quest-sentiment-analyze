@@ -1,8 +1,0 @@
-{
-    "_id": "40307",
-    "added_in_patch": 7,
-    "description": "I came here on a mission to slay the demon eredar, Azoran. During my infiltration, I was shot down from my felbat and captured.I'm not going to mince words, <name>. Azoran plans to use the Burning Legion command ship to destroy Dalaran.To stop him, I will need my warglaives that were lost during my fall from the sky. I would retrieve them myself, but I'm still weakened from my imprisonment.Search for the warglaives on the northern side of the crater, where I was shot down.",
-    "name": "Glaive Circumstances",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

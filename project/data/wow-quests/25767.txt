@@ -1,7 +1,0 @@
-{
-    "_id": "25767",
-    "description": "The great cataclysm has unearthed a forgotten Highborne city within Stonetalon Mountains. You must venture southwest to the Ruins of Eldre'thar. Once you are there, search the area for ancient relics. Return the relics to me so that I may study them, <name>.Go! Lest we keep the arcanist waiting!",
-    "name": "Capturing Memories",
-    "requires_level": 25,
-    "zone": "Stonetalon Mountains"
-}

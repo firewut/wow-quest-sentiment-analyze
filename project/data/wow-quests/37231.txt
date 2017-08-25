@@ -1,8 +1,0 @@
-{
-    "_id": "37231",
-    "added_in_patch": 6,
-    "description": "An old deckhand inspected that device you brought us, and thinks it was quite the forgery. This Iron Horde is trying to copy the mechanism, but they don't quite have the technology.When you get right down to it, we're not sure how these primitive beasts got a hold of this kind of tool. Wouldn't be half as good of a sea tale if we knew, ha!We've still got a pile of treasure with your name on it, if you can find us the real compass.",
-    "name": "The Search Continues",
-    "requires_level": 100,
-    "zone": "Iron Docks"
-}

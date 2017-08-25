@@ -1,9 +1,0 @@
-{
-    "_id": "35276",
-    "added_in_patch": 6,
-    "description": "Southport lies not far from here to the southwest.No time for chit-chat. I will meet you there, commander.",
-    "name": "Inspecting the Troops",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

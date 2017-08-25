@@ -1,8 +1,0 @@
-{
-    "_id": "28542",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Tenell Leafrunner at the Emerald Sanctuary in Felwood. The Cenarion Circle requires your help to wrest Felwood from the control of demons and other corrupt creatures!To reach the Emerald Sanctuary, travel north from Ashenvale and follow the road until you reach the sanctuary.Destiny calls!",
-    "name": "Warchief's Command: Felwood!",
-    "requires_level": 44,
-    "side": "horde",
-    "zone": "Felwood"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36567",
-    "added_in_patch": 6,
-    "description": "Ya know boss, I think I know how we can take this place to the next level. Bigger walls. More buildings. Some space to stretch your arms after a long day of adventuring.\r\n\r\nDon't get me wrong, it's going to take a lot of resources, but what else are these things for?\r\n\r\nWe can plot it out on the drafting table whenever you're ready. It's going to be GLORIOUS.",
-    "name": "Bigger is Better",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

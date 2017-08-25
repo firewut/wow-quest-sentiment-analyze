@@ -1,8 +1,0 @@
-{
-    "_id": "35888",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Maraudon (Everything) Reward Quest",
-    "requires_level": 34,
-    "zone": "Quests"
-}

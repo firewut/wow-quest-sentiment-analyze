@@ -1,8 +1,0 @@
-{
-    "_id": "32442",
-    "added_in_patch": 5.1,
-    "description": "Our scouts have sighted a fel command ship looming on the horizon, Grandmaster. It appears to be headed on a collision course with the Wandering Isle.We should prepare our troops for the worst case situation - an all out attack.In the meantime, let us send our champions ahead to try and divert the Legion ship's attention.",
-    "name": "Impending Danger",
-    "requires_level": 110,
-    "zone": "Monk Campaign"
-}

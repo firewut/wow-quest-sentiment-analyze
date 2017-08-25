@@ -1,7 +1,0 @@
-{
-    "_id": "9910",
-    "description": "If you're venturing into the Burning Blade Ruins, I have a task for you. Take these Mag'har battle standards and place them at three distinct locations in the ogre compound. An area of high visibility is recommended. Look for the gigantic flaming pyres on the upper levels. Place a standard near the first, second, and third Burning Blade pyres.The standard will leave a lasting impression upon any ogres who may have missed the battle.",
-    "name": "Standards and Practices",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

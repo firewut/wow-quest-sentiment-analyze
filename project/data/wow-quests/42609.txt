@@ -1,8 +1,0 @@
-{
-    "_id": "42609",
-    "added_in_patch": 7,
-    "description": "Captain Stahlstrom has arrived. It would be advisable to speak to him and see that the valarjar are armed and ready for battle.We'll need more than your two champions if we're to win a full-fledged war against the Legion.",
-    "name": "Recruiting the Troops",
-    "requires_level": 101,
-    "zone": "Warrior Campaign"
-}

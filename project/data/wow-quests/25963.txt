@@ -1,7 +1,0 @@
-{
-    "_id": "25963",
-    "description": "We have everything we need to begin the attack.If your claims were correct, you would do well to make sure you cling tight to your mount as we make the run. Anyone who gets caught in the open water isn't likely to out-swim a naga.Kill as many as you can as we make the attack run and we'll rendezvous on the broken ledge of the southern terrace above once we've expended our explosives. Hopefully by that point there will be few enough that we can finish them off the old-fashioned way.",
-    "name": "Swift Action",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

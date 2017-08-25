@@ -1,8 +1,0 @@
-{
-    "_id": "38235",
-    "added_in_patch": 7,
-    "description": "Cenarius requires me?I shall depart as soon as I am able, but I mustn't leave while my druids are in danger. A vile harpy coven has emerged and seeks to claim my grove as their own.These vermin inflict a petrifying disease which, given time, will destroy the infected.While I wish for all of my followers to be cured, it is crucial that my elder disciples survive to protect the grove in my absence.If you would assist us, find my disciples and rouse them from this terrible state.",
-    "name": "Solid as a Rock",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

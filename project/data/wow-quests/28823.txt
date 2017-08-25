@@ -1,7 +1,0 @@
-{
-    "_id": "28823",
-    "description": "Excellent work, <name>! The rear is now officially clear. We'll take care of the stragglers. I want you to go back to Marshal McBride, standing in front of Northshire Abbey, south of here, and let him know that the goblin situation is under control.Farewell, <class>.",
-    "name": "The Rear is Clear",
-    "requires_level": 1,
-    "zone": "Elwynn Forest"
-}

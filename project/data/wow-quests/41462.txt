@@ -1,8 +1,0 @@
-{
-    "_id": "41462",
-    "added_in_patch": 7,
-    "description": "The Ettin's hide bears many shallow scratch marks and bite scars. It seems he had been terrorizing the local Owlcats for quite some time.\r\n\r\nMardranel Forestheart would be interested in this.",
-    "name": "Trouble Has Huge Feet",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

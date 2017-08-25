@@ -1,7 +1,0 @@
-{
-    "_id": "13083",
-    "description": "<Crusader Bridenbrad's tabard rests in the bottom of the chest, shifting slightly as the howling wind finds its way in.>Tirion will desire this last remnant of the great crusader.",
-    "name": "Light Within the Darkness",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11107",
-    "description": "I am unworthy to even carry a message directed at you, sir. Please forgive me for this indulgence. Overlord Mor'ghor has requested your presence in his chambers at once!",
-    "name": "Bow to the Highlord",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

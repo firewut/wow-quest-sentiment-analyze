@@ -1,8 +1,0 @@
-{
-    "_id": "41744",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Rehgar Earthfury",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

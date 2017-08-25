@@ -1,8 +1,0 @@
-{
-    "_id": "42036",
-    "added_in_patch": 7,
-    "description": "We were able to wrest a confession out of this one. We know that their leader took the idol into Moonclaw Vale, but he could be hiding anywhere.Surely one of these satyrs will know where it was taken.Get the information out of these satyrs, even if it's the last thing they do.",
-    "name": "Idol of the Wilds",
-    "requires_level": 103,
-    "zone": "Druid Campaign"
-}

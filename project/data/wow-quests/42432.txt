@@ -1,8 +1,0 @@
-{
-    "_id": "42432",
-    "added_in_patch": 7,
-    "description": "The Lord of Nightmare, Xavius, is still out there. Cenarius is still in grave danger, deep within the Rift of Aln.Summon your greatest allies, <name>. If we are to stare into the face of the Nightmare, we had best be ready.Once you are ready, enter the Emerald Nightmare and defeat all the horrors you find there.",
-    "name": "The Emerald Nightmare",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

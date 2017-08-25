@@ -1,8 +1,0 @@
-{
-    "_id": "32539",
-    "added_in_patch": 5.2,
-    "description": "The Zandalari's spiritbinders perform dark sacrifices to appease their gods, killing our people in the process.\r\n\r\nDestroy any Zandalari offerings you can find in Za'Tual to help slow the pace of their dark sacrifices.",
-    "name": "Dark Offerings",
-    "requires_level": 90,
-    "zone": "Quests"
-}

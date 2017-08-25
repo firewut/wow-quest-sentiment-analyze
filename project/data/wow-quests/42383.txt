@@ -1,8 +1,0 @@
-{
-    "_id": "42383",
-    "added_in_patch": 7,
-    "description": "The Earthen Ring is built upon the strength and dedication of its members.If we are to help defend this world against the Burning Legion, we will need to grow our order, and recruit skilled champions to our side.Begin by speaking to Stormcaller Mylra and Duke Hydraxis. Perhaps they would be willing to fight for us.",
-    "name": "Rise, Champions",
-    "requires_level": 101,
-    "zone": "Shaman Campaign"
-}

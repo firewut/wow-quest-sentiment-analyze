@@ -1,8 +1,0 @@
-{
-    "_id": "32590",
-    "added_in_patch": 5.2,
-    "description": "There's someone I'd like you to meet. Stormwind's own crown prince recently paid a visit to this humble inn. I've instructed my guards to defend him from any Horde aggression - I don't want to draw any undue attention to myself.He and I have been discussing world events, such as the battle along the southern shores, his encounter with Garrosh, and the upcoming assault on the Thunder King.Come! Let's talk upstairs...",
-    "name": "Meet Me Upstairs",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

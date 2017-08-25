@@ -1,7 +1,0 @@
-{
-    "_id": "25413",
-    "description": "Alright, kid. Slight change of plans...I think I've figured out a way to finish off that monster and you're going to assist me.The way I see it, you owe me until my work is done here, and I ain't leaving without that artifact.First I need you to search those old wrecks for some good rope and a serviceable harpoon.Then... well, I'll fill you in on the rest later.",
-    "name": "Change of Plans",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "38213",
-    "description": "Aktar mentioned that in the ruins he's seen Sethekk, ogres, even demons, but no sign of Iskar.We're going to have to go in there if we're to find any clues and I'd prefer someone strong like yourself to lead the way.Well, what do you say?",
-    "name": "Get a Clue",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

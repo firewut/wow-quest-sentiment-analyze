@@ -1,7 +1,0 @@
-{
-    "_id": "13943",
-    "description": "Our forces are not ready to assault Astranaar just yet, <class>. They know we're coming, though, and they're not content to sit and wait for us. At the base of this cliff they've created a camp from which they launch bothersome attacks by the light of the moon.Before these skirmishes bolster their confidence any further, I want you to visit them with the wrath of the Horde! Return to me when the elves have been humbled a bit.",
-    "name": "Breathing Room",
-    "requires_level": 21,
-    "zone": "Ashenvale"
-}

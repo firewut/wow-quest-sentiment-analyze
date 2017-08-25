@@ -1,8 +1,0 @@
-{
-    "_id": "31200",
-    "added_in_patch": 5,
-    "description": "Our alchemists have cooked up a set of gas bombs that will discourage mantid from staying anywhere that we set them off. \r\n\r\nIf we plant these in the critical structures of Sra'vess, they'll need to evacuate. That should sow some chaos and delay any action from the mantid there for days.\r\n\r\nGet to it, <name>.",
-    "name": "Fumigation",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

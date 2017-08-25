@@ -1,8 +1,0 @@
-{
-    "_id": "32428",
-    "added_in_patch": 5.1,
-    "description": "Legend tells of legendary pandaren spirits that roam the lands of Pandaria.  Find them and defeat them in a pet battle.",
-    "name": "Pandaren Spirit Tamer",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

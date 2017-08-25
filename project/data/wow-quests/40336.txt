@@ -1,8 +1,0 @@
-{
-    "_id": "40336",
-    "added_in_patch": 7,
-    "description": "The Tidemistress has fallen back to the elven ruins and is licking her wounds.Her guard is undoubtedly protecting her. To best her, you will have to break her defenses.Construct a ballista using the parts that you salvaged and end her once and for all.",
-    "name": "Turning the Tidemistress",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

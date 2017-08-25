@@ -1,8 +1,0 @@
-{
-    "_id": "11908",
-    "description": "I was in charge of the harvest golems - an important job until the Scourge destroyed most of our farmlands.  I've an idea that would make the golems useful again, however.I think I can rewire the harvest collectors so they'll give us a hand fighting the Scourge.I'm not an expert at this just yet, so I'm going to need my manual.  The problem is, I left it at the workshop... which happens to be that burning building next to the mine.  Think you could go salvage it?",
-    "name": "Reference Material",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

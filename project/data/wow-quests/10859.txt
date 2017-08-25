@@ -1,7 +1,0 @@
-{
-    "_id": "10859",
-    "description": "The Razaani ethereals have strange devices that emit small, pink floating light orbs.  They remind me of souls.They are not to be confused with the large yellow balls that break free of the ethereal when they die, these are something else entirely.I'd like for you to head north to Razaan's Landing and drop some totems, which will attract the pink light orbs.Bring them back to me so that I might determine exactly what they are.",
-    "name": "Gather the Orbs",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

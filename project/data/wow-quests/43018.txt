@@ -1,8 +1,0 @@
-{
-    "_id": "43018",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Wild Combatant's Dragonhide Armor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

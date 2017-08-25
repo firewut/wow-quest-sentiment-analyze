@@ -1,8 +1,0 @@
-{
-    "_id": "40877",
-    "added_in_patch": 7,
-    "description": "In order to complete my latest invention, I need a special relic known as the Runestone of Vitality.Odyn, king of the Halls of Valor is known to use it to breathe life into his constructs.What I'm asking is no easy task, but I need to take the runestone from Odyn and bring it back to me.",
-    "name": "Trigger Happy",
-    "requires_level": 108,
-    "zone": "Engineering"
-}

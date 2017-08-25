@@ -1,7 +1,0 @@
-{
-    "_id": "24451",
-    "description": "I've placed an enchantment on the tabard that should allow you to slip past the Silver Enclave's defenses for a short period of time. You should have enough time to find your way up to the top level of the Silver Enclave and meet up with the Silver Covenant's man there, known as Arcanist Tybalin.While disguised, obtain the copy of Ancient Dragonforged Blades that his men borrowed from Wyrmrest, and return the book to me.",
-    "name": "An Audience With The Arcanist",
-    "requires_level": 80,
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26801",
-    "description": "If you're going to be an asset to the Forsaken, you need to learn how to fight.  And there's no better target than the Scourge minions that continue to pester us.The wretched ghouls and Rattlecage skeletons that roam the north and to the east are former troopers of the fallen Scourge.  They should prove to be an even match for a fledgling <class> like you.Do not tarry - when you are done, speak to me again.",
-    "name": "Scourge on our Perimeter",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Deathknell"
-}

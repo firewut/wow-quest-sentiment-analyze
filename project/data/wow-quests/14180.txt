@@ -1,7 +1,0 @@
-{
-    "_id": "14180",
-    "description": "The Silverwing Sentinels fight to protect the forest in Warsong Gulch.  We aid them, not because we're tree-lovers, but because the forest forms a natural protective barrier for Alliance territory.Their need is greater today than it's ever been.  We need to deploy reinforcements right away unless we want to see Ashenvale annexed to the Barrens!",
-    "name": "Call to Arms: Warsong Gulch",
-    "requires_level": 61,
-    "zone": "Warsong Gulch"
-}

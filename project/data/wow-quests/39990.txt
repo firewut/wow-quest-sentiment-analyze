@@ -1,8 +1,0 @@
-{
-    "_id": "39990",
-    "added_in_patch": 7,
-    "description": "Cenarius himself has risked much in coming here, if only briefly, to bestow a blessing upon you. He has seen what you are capable of, and has chosen you as champion in this battle. I would speak with you on this later. It is a rare gift indeed.\r\n\r\nBut now, I ask for your help, Huln Highmountain. I must finish my incantations to allow dryads from beyond the veil to enter this place and lend us their aid.",
-    "name": "Huln's War - Reinforcements",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

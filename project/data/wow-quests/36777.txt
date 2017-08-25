@@ -1,7 +1,0 @@
-{
-    "_id": "36777",
-    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in your Garrison.",
-    "name": "Pristine Outcast Dreamcatcher",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

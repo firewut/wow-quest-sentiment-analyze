@@ -1,8 +1,0 @@
-{
-    "_id": "9427",
-    "description": "I must ask that you finish what we've set in motion.  Now that the demonic influence has weakened you must take this cleansing vial and pour it at the very source of the taint - Aggonar's own corpse.You will find the demon's bones at the northern end of the pools.  Beware, I sense that Aggonar's essence has not quite left this world.",
-    "name": "Cleansing the Waters",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

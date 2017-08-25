@@ -1,7 +1,0 @@
-{
-    "_id": "24829",
-    "description": "",
-    "name": "Path of Destruction",
-    "requires_level": 80,
-    "zone": "Quests"
-}

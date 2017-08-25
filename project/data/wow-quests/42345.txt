@@ -1,8 +1,0 @@
-{
-    "_id": "42345",
-    "added_in_patch": 7,
-    "description": "Dear gods whose names I really can't recall, please answer my prayer and send help.Our party was attacked by satyrs and now we're feverishly sick and could use some aid immediately.I believe writing this note is the correct way of summoning a god...",
-    "name": "Fevered Prayer",
-    "requires_level": 110,
-    "zone": "First Aid"
-}

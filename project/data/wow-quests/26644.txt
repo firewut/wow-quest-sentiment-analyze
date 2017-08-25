@@ -1,7 +1,0 @@
-{
-    "_id": "26644",
-    "description": "Swabbie <name>!  This is a sad day fer ol' Cap'n Keelhaul.  Today I lose m'best swabbie.A letter's come in from Fleet Master Firallon.  Apparently he's heard about the excellent swabbin' y'been doin', and he wants t'take ye aboard the Crimson Veil as his Jack o' Swords and third mate.  She's moored just next t'the Riptide.Piracy career-wise, this's a big step fer ye, Swabbie <name>.  I recommend y'take his offer.Dismissed!",
-    "name": "Attracting Attention",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

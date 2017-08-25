@@ -1,7 +1,0 @@
-{
-    "_id": "13386",
-    "description": "I've got an interesting assignment for you, <name>.  If you're up for a challenge, that is.We've been tipped off about an opening below Icecrown Citadel.  Our engineers have studied the layout and have decided it's a structural weakness.We've sent some men there along with some \"borrowed\" saronite bombs.  They're under Captain Kendall's command.With a little help we could deal a huge blow to the forces of the Scourge.  What do you say, <name>?",
-    "name": "Exploiting an Opening",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

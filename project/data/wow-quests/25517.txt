@@ -1,7 +1,0 @@
-{
-    "_id": "25517",
-    "description": "Those no-good, smelly, green in the gills goblins have got it coming!I want you to go into the Speedbarge Bar, order a bottle of grog, and hit one over the head with it!Show them that we're not going to take any more of their insolence, <name>!",
-    "name": "Bar Fight!",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

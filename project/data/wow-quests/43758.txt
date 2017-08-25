@@ -1,8 +1,0 @@
-{
-    "_id": "43758",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Wherever I May Gloam",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31067",
-    "added_in_patch": 5,
-    "description": "The mantid don't ever make my job easy, but now they've gone too far.We can fend off the occasional attack from Kor'vess, but now... now they're starting to surround us. What's worse, they're draining the amber from our tree.This will not stand! We need that amber! To make beer!They've dug a burrow into the south side of the tree. I'm short-handed here. Could you take care of them for me?",
-    "name": "The Heavens Hum With War",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

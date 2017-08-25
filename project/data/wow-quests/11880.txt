@@ -1,7 +1,0 @@
-{
-    "_id": "11880",
-    "description": "I'm sure that 'gnomish inventor' is a crackpot. He was babbling about some dark distortions that have begun to appear in the Spirit Fields around Oshu'gun in Nagrand.According to him, these, uh, multiphase... um, spectro-goggles will allow the wearer to see the distortions and take readings from them. He insisted that recording this data was fundamental to our campaign at the Sunwell. I think he's nuts, but I'm under orders to investigate anything that might help. Would you mind taking some readings?",
-    "name": "The Multiphase Survey",
-    "requires_level": 70,
-    "zone": "Nagrand (Outland)"
-}

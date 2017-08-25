@@ -1,8 +1,0 @@
-{
-    "_id": "39133",
-    "added_in_patch": 7,
-    "description": "Dargrul has sent his pets to do battle with us.We need to crush these elementals before their rage swarms into Thunder Totem.",
-    "name": "No Time to Talk",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

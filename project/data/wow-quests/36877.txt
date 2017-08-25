@@ -1,8 +1,0 @@
-{
-    "_id": "36877",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking Quest: Tormmok",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

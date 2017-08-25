@@ -1,8 +1,0 @@
-{
-    "_id": "32846",
-    "added_in_patch": 5.3,
-    "description": "You might not have recognized this as a modified chomping apparatus if it didn't have the words \"MODIFIED CHOMPING APPARATUS\" messily painted onto it.Right beneath the sloppy label, you see a smaller message, written much more neatly in bright red ink:RETURN TO BRAWLER'S GUILD",
-    "name": "Modified Chomping Apparatus",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

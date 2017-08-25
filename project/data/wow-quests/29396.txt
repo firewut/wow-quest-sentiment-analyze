@@ -1,7 +1,0 @@
-{
-    "_id": "29396",
-    "description": "<sigh>Don't talk to me about last year's stein...I think our shady stein suppliers were somehow involved with that Twilight Hammer cult non-sense that errupted just before the elementals invaded.And that's why we have a new supplier and a better stein!Here's a voucher for one.Talk to Blix near the back of the Brewfest camp.  He's pretty strange, even more so now that he's always wearing those goggles.  He'll handle the voucher for you, and any other Brewfest transaction.",
-    "name": "A New Supplier of Souvenirs",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29284",
-    "description": "The ancients have seen the value of your wisdom, and have set root at Malfurion's Breach. You should seek out Elderlimb. I am certain he would like to hear from you.",
-    "name": "Aid of the Ancients",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

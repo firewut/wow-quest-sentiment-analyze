@@ -1,8 +1,0 @@
-{
-    "_id": "41453",
-    "added_in_patch": 7,
-    "description": "The first step to establishing a moonwell is to gain the blessings of the local wildlife. \r\n\r\nIt is their good will that enables us to  peacefully coexist, and a moonwell thrives on such energies. Combined with Elune's light, a moonwell can purify its surroundings for years.\r\n\r\nTo begin, we must find creatures willing to give their blessing. We can start with these owl-cat creatures.\r\n\r\nThey ran while you cleaned, but I saw one lingering just before the bridge. \r\n\r\nSee if you can find where it lives!",
-    "name": "Homeward Bounding",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

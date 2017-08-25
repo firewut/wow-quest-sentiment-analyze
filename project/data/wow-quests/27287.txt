@@ -1,7 +1,0 @@
-{
-    "_id": "27287",
-    "description": "It has been a struggle maintaining a presence in the marsh, but through strength of our resolve, we have been able to maintain several defensive watchtowers throughout the area.The latest information and scouting reports I have received indicate that a group of deserters has squatted in our abandoned tower at Lost Point, southeast of the inn.The local lieutenant seems to be Balos Jacken. See if you can get some information out of him.Be warned, <name>. He may be a tough nut to crack.",
-    "name": "The Deserters",
-    "requires_level": 35,
-    "zone": "Dustwallow Marsh"
-}

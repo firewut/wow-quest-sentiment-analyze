@@ -1,7 +1,0 @@
-{
-    "_id": "8295",
-    "description": "The wilds of the Ashenvale forest will succumb to the might of the Horde, <race>. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!Let the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, <name>, and you will be rewarded.",
-    "name": "Quell the Silverwing Usurpers",
-    "requires_level": 10,
-    "zone": "Warsong Gulch"
-}

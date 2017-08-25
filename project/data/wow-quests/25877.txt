@@ -1,7 +1,0 @@
-{
-    "_id": "25877",
-    "description": "RUN! Get out of here, <name>. Get back to Barus and inform him of what you've discovered. He'll arrange for you to get safely across Battlescar Valley to Thal'darah Overlook.It's not too late to save those young druids!",
-    "name": "No Time for Goodbyes!",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

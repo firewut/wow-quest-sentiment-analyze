@@ -1,8 +1,0 @@
-{
-    "_id": "43378",
-    "added_in_patch": 7,
-    "description": "We have what we need to create Velen's elixir, but in order for others to be able to witness his vision, we'll need to find something that can be used to project images from the mind.A lens from the nearby naga should work well, but I don't think they're going to be too eager to give it up.",
-    "name": "Looking Through the Lens",
-    "requires_level": 103,
-    "zone": "Priest Campaign"
-}

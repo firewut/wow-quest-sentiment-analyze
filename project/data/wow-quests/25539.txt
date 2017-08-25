@@ -1,7 +1,0 @@
-{
-    "_id": "25539",
-    "description": "Here to help with the clam diving?Get to it then. There are clams about everywhere just waiting to be dived.",
-    "name": "Clamming Up",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

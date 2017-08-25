@@ -1,8 +1,0 @@
-{
-    "_id": "488",
-    "description": "Eager for work, I see.  Lucky for you a day never goes by that I don't wish I had a fledgling <class> to perform my bidding.You see, <name>, I can make you very happy and provide you with things you never dreamed of having.  But in order for that to happen you must bring me certain items.My business in the forest often requires certain... reagents.  Fetch for me nightsaber fangs, strigid owl feathers and swatches of webwood spider silk.Let's keep this our little secret, <race>.",
-    "name": "Zenn's Bidding",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31323",
-    "added_in_patch": 5,
-    "description": "All right, <name>, in order to continue my vishions, I must now have my own brewery....Just kidding! You should have sheen your own face! Hilarioush... hic!Anyway, I heard of a new drink that is unlike any other, and I would like a tashte.Have you heard of the Mad Brewer'sh Breakfasht? If you can bring me some of thish shtuff, you will be my friend for life.",
-    "name": "Buy A Fish A Brewery?",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

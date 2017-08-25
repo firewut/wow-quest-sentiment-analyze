@@ -1,8 +1,0 @@
-{
-    "_id": "35447",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Oculus Reward Quest",
-    "requires_level": 80,
-    "zone": "Quests"
-}

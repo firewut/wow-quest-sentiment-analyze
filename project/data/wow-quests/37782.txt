@@ -1,9 +1,0 @@
-{
-    "_id": "37782",
-    "added_in_patch": 6.1,
-    "description": "We must move quickly, commander. As we speak the Grimrail is preparing to depart Grimrail Depot to deliver a massive battalion of troops to Shattrath. Rumor has it that they have outfitted the train with a weapon strong enough to shatter the shield protecting the inner city.Skylord Tovra has taken to guarding the train on its journey to Talador. You must stop Tovra and the Grimrail before it reaches Shattrath!",
-    "name": "Grimrail Depot",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Quests"
-}

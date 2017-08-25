@@ -1,7 +1,0 @@
-{
-    "_id": "29262",
-    "description": "",
-    "name": "Zul'Gurub Voodoo",
-    "requires_level": 1,
-    "zone": "Archaeology"
-}

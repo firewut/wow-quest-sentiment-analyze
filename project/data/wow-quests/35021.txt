@@ -1,9 +1,0 @@
-{
-    "_id": "35021",
-    "added_in_patch": 6,
-    "description": "This pod is similar to the ones growing on or near the bodies around here, except this one is pulsating weirdly.  Grulkor might know more about this.",
-    "name": "Mysterious Pod",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

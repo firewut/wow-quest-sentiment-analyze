@@ -1,8 +1,0 @@
-{
-    "_id": "41852",
-    "added_in_patch": 7,
-    "description": "Most of the prisoners are being held in the main camp at the Gates of Valor.Our people have been beaten and tortured, and worse still awaits for them if we don't save them.Find the cages within the main camp and free as many monks as you can find.I'll be right beside you, knocking heads and taking names!",
-    "name": "No Monk Left Behind",
-    "requires_level": 110,
-    "zone": "Monk Campaign"
-}

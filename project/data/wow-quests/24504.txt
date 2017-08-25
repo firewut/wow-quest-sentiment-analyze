@@ -1,8 +1,0 @@
-{
-    "_id": "24504",
-    "description": "This way, <class>! I see you've discovered the high road.The Alliance hopes to sever our ties with Stonetalon, but they forget that we tauren have hunted across these lands for generations. We know every hillside switchback and game trail from here to Thousand Needles.But for these paths to stay open, we must stop the humans from mapping them out.Patrol the trail east and kill any high road scouts you find along the way, then speak to Tunawa Stillwind just up the path.",
-    "name": "Clear the High Road",
-    "requires_level": 28,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

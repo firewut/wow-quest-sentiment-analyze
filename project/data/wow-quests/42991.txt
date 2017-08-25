@@ -1,8 +1,0 @@
-{
-    "_id": "42991",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Runeseer Sigvid",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

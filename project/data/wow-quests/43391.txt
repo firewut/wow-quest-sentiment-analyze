@@ -1,8 +1,0 @@
-{
-    "_id": "43391",
-    "added_in_patch": 7,
-    "description": "Our leader was murdered for her beliefs, or so most would believe.\r\n\r\nNatalie Seline knew her fate, and took steps to protect herself from an inevitable death. \r\n\r\nThe night her attackers came, Natalie sent her spirit to the Void, its location known only to Natalie herself.\r\n\r\nShe penned a spell to retrieve it in one of her many journals, but the tome has since fallen into the hands of those who wished her dead in the first place.\r\n\r\nWithout her journal, we will never be able to recover her spirit.",
-    "name": "Secrets of the Void",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

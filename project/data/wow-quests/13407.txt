@@ -1,7 +1,0 @@
-{
-    "_id": "13407",
-    "description": "Just because we march into Northrend to smash the Scourge, doesn't mean we get to take a break from crushing the Alliance.Those Explorers' League dwarves have found the location of a powerful titan relic and we'll be damned if we let the Alliance take control of it.Go, <name>, and destroy our enemies.  Make them see that no matter where we meet, they remain our sworn enemies.",
-    "name": "Call to Arms: Strand of the Ancients",
-    "requires_level": 71,
-    "zone": "Strand of the Ancients"
-}

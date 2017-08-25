@@ -1,8 +1,0 @@
-{
-    "_id": "42680",
-    "added_in_patch": 7,
-    "description": "We have the Raven's Eye. Use it, <name>. Decipher the SI:7 letter.\r\n\r\nWe must know what secrets it contains!",
-    "name": "Deciphering the Letter",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

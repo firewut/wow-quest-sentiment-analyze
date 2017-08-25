@@ -1,8 +1,0 @@
-{
-    "_id": "6608",
-    "description": "Lumak no can teach <name> no more. You too good! Find Lumak friend, Nat Pagle. Is human but no eat! Is Lumak friend! Nat teach you fish gooder.You find Nat in Dustwallow Marsh, south of Humie town, Thermorosomethinglikedat. Nat probably fishing. Go now!",
-    "name": "You Too Good.",
-    "requires_level": 35,
-    "side": "horde",
-    "zone": "Fishing"
-}

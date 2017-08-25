@@ -1,8 +1,0 @@
-{
-    "_id": "31980",
-    "added_in_patch": 5,
-    "description": "Word of your skill is spreading. I suggest you return to your trainer, Varzok, for further guidance.",
-    "name": "The Returning Champion",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

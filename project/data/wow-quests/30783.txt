@@ -1,8 +1,0 @@
-{
-    "_id": "30783",
-    "added_in_patch": 5,
-    "description": "I should have suspected a sha presence earlier!We are safe as long as we stand inside the Totem of Harmony's protective wards, but many of our people were not so lucky.They were trapped outside the camp when the sha's powers manifested, and now they turn upon each other!Take one of my totems with you. Place the totem near a crazed ally to purify them, but beware.You may have to face the darkness that gripped them.",
-    "name": "Hatred Becomes Us",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27601",
-    "description": "Our armies clash across the battlefield. Crowley and his forces are losing ground and they do not yet know the fate of Lorna Crowley. We will meet with Crowley and his compatriots at mid field and I will present them with terms of their surrender. They will either accept or we will kill them all and leave their cities in dust.As my most trusted soldier, you are to stand by my side during the exchange. Tell me when you are prepared to leave.",
-    "name": "Cities in Dust",
-    "requires_level": 15,
-    "zone": "Silverpine Forest"
-}

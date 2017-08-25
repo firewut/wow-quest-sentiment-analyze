@@ -1,7 +1,0 @@
-{
-    "_id": "12819",
-    "description": "Blast it! Where are my tools? I had them here just a moment ago.Oh! I probably forgot them when I was setting up that minefield in the west. That's mildly inconvenient. I'd be quite appreciative if you could go get them for me. You'll need to watch your step though... you should be able to use the same path that I did to get out.Oh, and don't try to fly in... I had the presence of mind to set up turrets to shoot down anything that might fly, and they aren't very discerning in who they target.",
-    "name": "Just Around the Corner",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

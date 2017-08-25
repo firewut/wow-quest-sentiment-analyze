@@ -1,8 +1,0 @@
-{
-    "_id": "32342",
-    "added_in_patch": 5.1,
-    "description": "Within the ruins we have identified several powerful mogu artifacts. They trapped spirits within, probably to use them in some ritual or conjuration.\r\n\r\nThey are a type of device that we haven't identified and desperately need to study - they may reveal more of the secrets of the mogu's spirit binding techniques. \r\n\r\nGo, find us a few samples so that we may continue a proper study.",
-    "name": "The Spirit Trap",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11090",
-    "description": "<Balthas holds up an alien looking device.>This is a soul cannon. Its effects are devastating when attuned. This one is attuned to my blood. The same blood flowing through the veins of Reth'hedron - my brother. Aye, his misplaced allegiance will be the end of him.Take the cannon and fly to the Twilight Ridge in western Nagrand. Locate Reth'hedron and fire! You must stay on your mount and within range for the effects to take hold. Stand your ground against him and he will have no choice but to flee!",
-    "name": "Subdue the Subduer",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

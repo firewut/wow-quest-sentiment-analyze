@@ -1,8 +1,0 @@
-{
-    "_id": "31695",
-    "added_in_patch": 5,
-    "description": "We received word the Shado-Pan have begun a counter attack in to Townlong Steppes. It sounds like they are going after the root of the yaungol invasion.The pandaren have not traveled in force in to Townlong for thousands of years. The Shado-Pan are strong and brave, but they are also proud and few. They will need help from heroes like yourself. Can you travel through the Gate of Winter's Blossom in the northwest? Find the Shado-Pan leaders and lend your help and experience?",
-    "name": "Beyond the Wall",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

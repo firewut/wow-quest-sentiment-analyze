@@ -1,7 +1,0 @@
-{
-    "_id": "27477",
-    "description": "North of here and west of Northdale, you will find the corpulent maggot beast, Borelgore.I've lost entire regiments to that monster. His size knows no bounds! The more he eats the greater his girth becomes...While I would not suffer any emotional harm should the beast devour you, I would prefer that you were the victor.  Borelgore has been known to devour others who tried to hunt him.",
-    "name": "The Corpulent One",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

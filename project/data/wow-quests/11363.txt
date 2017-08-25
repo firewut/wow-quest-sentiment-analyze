@@ -1,7 +1,0 @@
-{
-    "_id": "11363",
-    "description": "Today I have a very wealthy collector in need of something very unique indeed.Warchief Kargath Bladefist carries upon his person his seal of command, which he uses to sign all official documents. I want you to retrieve it for me.You will find him deep within the Shattered Halls. No doubt you will have to wade through a veritable army to get to him. I have no doubt that you will succeed.",
-    "name": "Wanted: Bladefist's Seal",
-    "requires_level": 70,
-    "zone": "Hellfire Citadel"
-}

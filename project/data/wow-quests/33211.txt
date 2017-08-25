@@ -1,8 +1,0 @@
-{
-    "_id": "33211",
-    "added_in_patch": 5.4,
-    "description": "Destiny. Fate. Karma. Words like these imply that the timeways are unassailable.Would that were the case. To this day, many of Azeroth's inhabitants yearn to change the past. Yet just as our experiences shape us, they also shape the world around us.Consider how those threads have woven the fabric of today's reality. Cut enough threads, and causation inevitably fails, unraveling that fabric. Indeed, cutting even a single thread short can result in disaster, provided it is the right thread.",
-    "name": "A Timeless Question",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

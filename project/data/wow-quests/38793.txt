@@ -1,8 +1,0 @@
-{
-    "_id": "38793",
-    "added_in_patch": 7,
-    "description": "Miner... you... you know who I am?I see. That is good. My tribe continues to honor its roots.If you return to the land of the Ironhorn tribe... let them know that they are looked upon with pride.",
-    "name": "Rethu's Experience",
-    "requires_level": 98,
-    "zone": "Mining"
-}

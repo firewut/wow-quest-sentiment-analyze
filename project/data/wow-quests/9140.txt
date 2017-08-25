@@ -1,7 +1,0 @@
-{
-    "_id": "9140",
-    "description": "<name>, the final battle against the Ghostlands villages is upon you. Windrunner Village to the southwest has been overrun by a large force of the more powerful Scourge shocktroopers; shades and gargoyles. You will be the spearpoint of our offensive by thinning out their numbers.The magisters at the nearby Sanctum of the Sun have made a special request this time; they want the remains from these Scourge to study in hopes of finding creative ways of fighting them.Good hunting!",
-    "name": "Windrunner Village",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

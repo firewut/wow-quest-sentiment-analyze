@@ -1,8 +1,0 @@
-{
-    "_id": "40874",
-    "added_in_patch": 7,
-    "description": "If yer headed over ta tha sea giant caves, do me a favor give those slimy naga a right bludgerin'.They done run oft with me rogue friend an' I figure some revenge is in order.I'd do it meself but ol' Hobart would give me wut-fer if I abandoned his stuff.",
-    "name": "I'd Do It Myself, But...",
-    "requires_level": 106,
-    "zone": "Engineering"
-}

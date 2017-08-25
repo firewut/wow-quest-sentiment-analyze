@@ -1,7 +1,0 @@
-{
-    "_id": "29771",
-    "added_in_patch": 5,
-    "description": "Gather me wood planks from construction near the Ki-Han Brewery.You do not yet know the extent of my strength, so I shall display it to you.",
-    "name": "Stronger Than Wood",
-    "zone": "The Wandering Isle"
-}

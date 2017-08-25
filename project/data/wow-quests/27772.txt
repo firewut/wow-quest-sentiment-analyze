@@ -1,7 +1,0 @@
-{
-    "_id": "27772",
-    "description": "I made a calculated decision in revealing my identity to you, <name>.  I needed you to trust me, but I can no longer stay here in Lethlor Ravine, as my cover has quite clearly been blown.You may be able to slip away unnoticed, however.  Here, take the results of our research, and bring them west.  At Agmond's End, you will find a gnome who knows what to do with these samples.Hurry, <name>!  You mustn't loiter here any longer than necessary!",
-    "name": "The Venerable Doctor Blam",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

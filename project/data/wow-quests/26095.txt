@@ -1,8 +1,0 @@
-{
-    "_id": "26095",
-    "description": "The Syndicate in Stromgarde do battle with our contingent of militia there. In order to urge the rabble to fight our more disciplined troops, the Syndicate leaders have placed a bounty on our soldiers, awarding gold for each Stromgarde Badge gathered off killed militiamen.We want those badges retrieved - we cannot allow the cutthroats to take trophies from our brave fallen!Enter the Syndicate-controlled area of Stromgarde and hunt them for our badges.",
-    "name": "Stromgarde Badges",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

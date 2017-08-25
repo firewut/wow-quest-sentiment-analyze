@@ -1,7 +1,0 @@
-{
-    "_id": "28064",
-    "description": "You should return to Thorium Point.  Overseer Oilfist and the rest of the Thorium Brotherhood will be wondering how you fared in the fight against Calcinder.",
-    "name": "Welcome to the Brotherhood",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

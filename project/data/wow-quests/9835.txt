@@ -1,8 +1,0 @@
-{
-    "_id": "9835",
-    "description": "The small band of Broken you see here is a mission from a larger settlement in Nagrand. The Kurenai, as we call ourselves, are Broken who desire to reunite with our draenei brothers.My group has come here to strengthen Kurenai ties to the draenei of Telredor.If the Ango'rosh ogres have their way, this temple will not stand much longer. They have cleared the Hewn Bog of its towering mushrooms and draw ever closer to our refuge. If you would call yourself our friend, aid us in fighting this enemy.",
-    "name": "Ango'rosh Encroachment",
-    "requires_level": 62,
-    "side": "alliance",
-    "zone": "Zangarmarsh"
-}

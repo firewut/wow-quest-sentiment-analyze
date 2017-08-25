@@ -1,7 +1,0 @@
-{
-    "_id": "29574",
-    "description": "There is a creature not far inside these halls called Pandemonius who is able to twist void energies to sustain and empower itself.A bit further in lies Tavarok, a being that takes those same void energies and converts them into a crystalline structure stronger than any I've ever seen!I absolutely must obtain samples for further study.",
-    "name": "Intriguing Specimens",
-    "requires_level": 64,
-    "zone": "Mana-Tombs"
-}

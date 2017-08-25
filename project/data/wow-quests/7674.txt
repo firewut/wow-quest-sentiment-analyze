@@ -1,7 +1,0 @@
-{
-    "_id": "7674",
-    "description": "",
-    "name": "Black Ram Exchange",
-    "requires_level": 60,
-    "zone": "Quests"
-}

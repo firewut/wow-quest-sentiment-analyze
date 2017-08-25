@@ -1,9 +1,0 @@
-{
-    "_id": "34288",
-    "added_in_patch": 6,
-    "description": "Before Borgal began to use the Soulgrinder, he used totems to bind spirits to his service.If we can get a few of those totems I may be able to use the spiritual connection he's forged with them to force a link. He'll be compelled to appear before us!Go find me a few of those totems and I might be able to pull this off, I think five should do it.",
-    "name": "The Totems That Bind",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

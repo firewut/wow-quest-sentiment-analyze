@@ -1,8 +1,0 @@
-{
-    "_id": "42787",
-    "added_in_patch": 7,
-    "description": "The way I see it, the Wardens owe us for all of those years we were imprisoned. Unfortunately, their new leader, Sira Moonwarden doesn't agree with my assessment.\r\n\r\nEven though your champions have already dealt with several of their escaped bounties, she wants more. In fact, as a sign of good faith, she's asking that you deal with it personally.\r\n\r\nYou'll have to extinguish the flames of the kobold candles to summon forth the Devouring Darkness. The other two should be more straightforward.",
-    "name": "Deal With It Personally",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

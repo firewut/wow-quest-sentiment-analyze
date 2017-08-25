@@ -1,8 +1,0 @@
-{
-    "_id": "31904",
-    "added_in_patch": 5,
-    "description": "I've loaded my pets with new gyrotechnic training modules. You're going down!",
-    "name": "Cassandra Kaboom",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

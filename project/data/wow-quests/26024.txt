@@ -1,8 +1,0 @@
-{
-    "_id": "26024",
-    "description": "A bounty has been placed on the head of Marez Cowl, a high-level advisor and operative of the Syndicate.  She was last seen within the Syndicate controlled territory of Stromgarde.Bounty may be collected from Captain Nials.Be warned: Marez is a skilled and cunning warlock, known for her trafficking with demons.  Extreme caution is advised when hunting her.",
-    "name": "Wanted!  Marez Cowl",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

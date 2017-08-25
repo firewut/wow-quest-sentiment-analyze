@@ -1,7 +1,0 @@
-{
-    "_id": "12058",
-    "description": "Brann's journal also contained a guide to iron dwarf symbols. I've inscribed these on a keystone which will help you to understand the words inscribed on the rune plates.From the journal entries, it seems Brann may be chasing after clues to the origins of his people. Keep your eyes open for any clues as to his destination.Return to Thor Modan, northeast of here, stand before each of the plates, and use the stone to determine the contents of each. We can't allow the Alliance to find him first.",
-    "name": "The Runic Prophecies",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

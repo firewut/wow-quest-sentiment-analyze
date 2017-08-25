@@ -1,8 +1,0 @@
-{
-    "_id": "39844",
-    "added_in_patch": 7,
-    "description": "I am not interested in gold. Your aboveground currencies have little use down here.I am, however interested in Sightless Eyes. I will gladly accept some as payment for my services.",
-    "name": "Cold Hard Coin",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

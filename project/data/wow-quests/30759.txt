@@ -1,8 +1,0 @@
-{
-    "_id": "30759",
-    "added_in_patch": 5,
-    "description": "Push the plunger.PUSH IT!",
-    "name": "Sotelo's Quest",
-    "requires_level": 1,
-    "zone": "Quests"
-}

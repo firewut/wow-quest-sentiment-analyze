@@ -1,7 +1,0 @@
-{
-    "_id": "8306",
-    "description": "I need you to venture into Hive'Regal and find what became of my dearest Natalia, <name>. This will be no easy task for you. Before you dive headlong into the maw of madness, make sure that you speak with those dwarves further. They might be able to give you some tips on dealing with the silithid that inhabit that hive.And <name>, if she truly is as mad as they say... do what you must.",
-    "name": "Into The Maw of Madness",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

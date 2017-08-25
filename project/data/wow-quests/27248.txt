@@ -1,7 +1,0 @@
-{
-    "_id": "27248",
-    "description": "The Steamwheedle Cartel has recently established a new outpost in the southern part of Dustwallow Marsh. It's called Mudsprocket, if I recall, and it's located on the main road south out of Tabetha's Farm and the Stonemaul Ruins.This is an excellent opportunity for us to establish new trade contacts and Lady Jaina wants me to send a representative down there to establish contact. Would you be willing to go?",
-    "name": "Mission to Mudsprocket",
-    "requires_level": 37,
-    "zone": "Dustwallow Marsh"
-}

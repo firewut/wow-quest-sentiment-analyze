@@ -1,8 +1,0 @@
-{
-    "_id": "37431",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking Quest",
-    "requires_level": 1,
-    "zone": "Quests"
-}

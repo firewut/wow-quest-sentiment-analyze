@@ -1,8 +1,0 @@
-{
-    "_id": "37476",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Ashmaul Burial Grounds",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

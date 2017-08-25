@@ -1,7 +1,0 @@
-{
-    "_id": "28017",
-    "description": "The Warchief has requested that any able-bodied adventurer head to the Scarlet Halls, northeast of the Undercity, immediately!Crusader activity has picked up throughout the plaguelands and elsewhere. The Warchief believes a revival is underway, and this will NOT be tolerated.Enter the Scarlet Halls to crush their armory and lay waste to their library before they can mobilize.",
-    "name": "Adventurers Wanted: Scarlet Halls",
-    "requires_level": 31,
-    "zone": "Quests"
-}

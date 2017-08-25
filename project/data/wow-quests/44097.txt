@@ -1,8 +1,0 @@
-{
-    "_id": "44097",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Head 5 Looted",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

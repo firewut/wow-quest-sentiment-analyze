@@ -1,7 +1,0 @@
-{
-    "_id": "14451",
-    "description": "This quest tests random drops with flat rate drop percentage.",
-    "name": "Random Drop Flat Rate",
-    "requires_level": 1,
-    "zone": "Quests"
-}

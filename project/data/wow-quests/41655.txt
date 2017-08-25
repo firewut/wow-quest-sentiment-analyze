@@ -1,8 +1,0 @@
-{
-    "_id": "41655",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Queen's Opal Pendant",
-    "requires_level": 110,
-    "zone": "Jewelcrafting"
-}

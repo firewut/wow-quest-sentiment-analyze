@@ -1,8 +1,0 @@
-{
-    "_id": "44497",
-    "added_in_patch": 7,
-    "description": "Hardly recognizable from the golden eyed child of prophecy, and living as an outcast on the fringes of a shattered world, his motivation remained unchanged. His assaults on the Legion and his attempts to end their march were his only focus.Yet, in a strange twist of fate, it was not the Burning Legion who came for him in the end.We must travel to Outland to experience Illidan's last memory.",
-    "name": "Destiny Unfulfilled",
-    "requires_level": 110,
-    "zone": "Order Hall"
-}

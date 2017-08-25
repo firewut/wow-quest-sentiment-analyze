@@ -1,8 +1,0 @@
-{
-    "_id": "42044",
-    "added_in_patch": 7,
-    "description": "Deep in the heart of the swamp lies an ancient protector of the Dreamway, Witherheart.He was among the first defenders to battle against the Nightmare, but he has fallen to total corruption.It pains me to say it, but we must destroy him.",
-    "name": "A Dying Dream",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

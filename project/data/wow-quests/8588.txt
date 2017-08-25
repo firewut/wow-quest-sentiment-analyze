@@ -1,7 +1,0 @@
-{
-    "_id": "8588",
-    "description": "Since we're preparing for war, it might be best if we get all of the goods we need first, don't you think, mon? One of the staples of the war materiel that we're producing is heavy leather. We'll use it for just about everything, from reinforcement to armor, and good old plain tarps too.But first we need to get our hands on more of it. That's your job, <class>. Sharpen your knife and bring me back a bundle. Then we'll talk further.",
-    "name": "The Horde Needs Heavy Leather!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

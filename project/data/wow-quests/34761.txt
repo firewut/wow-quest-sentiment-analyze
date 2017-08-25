@@ -1,9 +1,0 @@
-{
-    "_id": "34761",
-    "added_in_patch": 6,
-    "description": "Oh, the gnomanity!The Pleasure-Bot 8000 broke before it could bring me a single Draenor truffle. It swam here and shorted its power fluctuator.AGAIN!I have power going to it, but it isn't enough to override the fluctuator.Could you get me the sacs from the electric eels in the lake? I think that would be just the ticket!",
-    "name": "Clear!",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

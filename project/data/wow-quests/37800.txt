@@ -1,7 +1,0 @@
-{
-    "_id": "37800",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Tracking Quest: Start the Garrison Campaign",
-    "zone": "Quests"
-}

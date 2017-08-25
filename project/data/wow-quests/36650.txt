@@ -1,8 +1,0 @@
-{
-    "_id": "36650",
-    "description": "Scouts report that ogre packs march through Shadowmoon Valley. We've left our impression with them, eh Commander?",
-    "name": "Ogre Invasion!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

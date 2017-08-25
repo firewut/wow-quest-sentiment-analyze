@@ -1,7 +1,0 @@
-{
-    "_id": "10008",
-    "description": "If word reaches Thrallmar that they've failed to contain the fel orcs, we're going to be receiving a lot of company down here. Frankly, I'm not sure I want all that attention, so we're going to keep this little problem under wraps, got it?If we can inflict enough casualties on the fel orcs, chances are their presence will never come to the attention of anyone outside Stonebreaker. So, let's end it now.Wade in there, swing your weapon, wave your hands, or whatever it is you do - just kill fel orcs.",
-    "name": "What Happens in Terokkar Stays in Terokkar",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

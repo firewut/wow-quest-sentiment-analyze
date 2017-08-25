@@ -1,8 +1,0 @@
-{
-    "_id": "30134",
-    "added_in_patch": 5,
-    "description": "Welcome to the Order of the Cloud Serpent, <race>. I can see from the spark in your eye that you wish to join the Order.Let me get a good look at you.<Elder Anli gently holds your head and gazes at your face.>Hmm. I see honesty and earnestness in your heart. You have journeyed far to come here, but I am afraid you must go yet further.Your path into the Order begins now.Speak to Instructor Tong at Windward Isle to the northeast to take the first step.",
-    "name": "Wild Things",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

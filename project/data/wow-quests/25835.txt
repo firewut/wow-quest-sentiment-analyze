@@ -1,7 +1,0 @@
-{
-    "_id": "25835",
-    "description": "Alas, it's time for you to leave. How quickly the chicks fall from the nest. Or, something.Anyway, you've done solid work here, my friend, but Quentin and the night elves have been crying that they urgently need your help with the Grimtotem at Freewind Post to the northwest.If you ask me, it's a lost cause, but who knows... maybe with your help they'll actually succeed?",
-    "name": "Free Freewind Post",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

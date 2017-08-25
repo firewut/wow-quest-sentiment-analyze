@@ -1,7 +1,0 @@
-{
-    "_id": "26552",
-    "description": "It looks like Zanzil's portal into Zul'Gurub is still open.  Zul'Gurub is a dangerous place, but Chabal entrusted this task to you.The portal lies in wait in front of you.",
-    "name": "Through the Troll Hole",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12814",
-    "description": "What could be more fitting than to take one of their own gryphons to use against them? Go to Onslaught Harbor and take the reins to one of their gryphons from the dead clutches of its rider.Return with the gryphon, delivering it to Uzo Deathcaller. He will see to its proper transformation and provide you with further instructions.",
-    "name": "You'll Need a Gryphon",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

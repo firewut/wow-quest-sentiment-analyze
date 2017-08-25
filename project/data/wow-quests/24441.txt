@@ -1,8 +1,0 @@
-{
-    "_id": "24441",
-    "description": "There is more work to be done.  We must create a new totem to cleanse the Thunderhorn Well.You must gather the claws of the predators of the Mulgore plains.  Hunt prairie stalkers for their stalker claws and flatland cougars for their cougar claws, then return to me.You will find the prairie stalkers and flatland cougars to the east and west.",
-    "name": "Thunderhorn Totem",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Mulgore"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26761",
-    "description": "There is no doubt that the Defias pose a great threat to the kingdom, but we certainly cannot enter their hideout and hope that everything will work itself out. No, an assault against the Defias is going to take time and planning. I want you to leave the logistics to me. Our kingdom has other threats that must be dealt with immediately!Travel east through Elwynn to Redridge and report to Magistrate Solomon in Lakeshire. I will call for you when we are ready to attack the Defias.",
-    "name": "Threat to the Kingdom",
-    "requires_level": 12,
-    "zone": "Redridge Mountains"
-}

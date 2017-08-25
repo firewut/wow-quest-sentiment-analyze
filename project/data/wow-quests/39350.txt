@@ -1,8 +1,0 @@
-{
-    "_id": "39350",
-    "added_in_patch": 7,
-    "description": "For this last ingredient, well...<Alard begins pondering for a moment, then nods his head.>Yes, that's the only way. For this last one, you'll need to go to the land of the damned, Helheim.Well, not there exactly, but aboard the boat that ferries the dead across the Maw of Souls. Upon that boat may be the final ingredient we need.It's called Dragur Dust. Keep an eye out for it.Also, one needs to be quick when adding this ingredient. I'll need something to heighten my reflexes.",
-    "name": "A Hope in Helheim",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31240",
-    "added_in_patch": 5,
-    "description": "Anji came by and asked for you. Said she was heading to the northeast ruins.Oh, Anji, such a fiery spirit, that girl! Probably better for your long-term health if you not keep her waiting.",
-    "name": "Guo-Lai Infestation",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

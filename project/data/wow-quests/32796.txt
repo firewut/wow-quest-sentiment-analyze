@@ -1,9 +1,0 @@
-{
-    "_id": "32796",
-    "added_in_patch": 6,
-    "description": "My father is avenged. The sons of the Iron Wolf are all slain.Go to the garrison your people are constructing in the south. There, herald my return to my laggard brother.The time has come for the \"chieftain\" to be reminded of what it means to be a Frostwolf.",
-    "name": "To the Garrison",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

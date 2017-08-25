@@ -1,7 +1,0 @@
-{
-    "_id": "13568",
-    "description": "In these woods reside three great spirits, that of the Stag, that of the Thistle Bear, and that of the Moonstalker. These spirits make powerful allies, but you can only align yourself with one of them.If you wish to align yourself with the Great Moonstalker Spirit, take this incense to the land just south of the Ruins of Lornesta. Meditate before the great spirit while burning the incense on the ground between you, and face his trial to earn his blessing. Should you succeed, return to me.",
-    "name": "Spirit of the Moonstalker",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

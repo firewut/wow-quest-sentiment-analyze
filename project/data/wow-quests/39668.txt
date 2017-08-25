@@ -1,8 +1,0 @@
-{
-    "_id": "39668",
-    "added_in_patch": 6.2,
-    "description": "That mean old Grumpus has amassed a collection of odd gifts. He's deliberately trying to crush the spirit of children everywhere by giving out the worst presents imaginable.Take this spirit bomb. Toss it on some of Grumpus's unusual gifts and take them out for good!We're in this together, <name>. Now go and save the spirit of the holiday!",
-    "name": "What Horrible Presents!",
-    "requires_level": 100,
-    "zone": "Frostfire Ridge"
-}

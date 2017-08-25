@@ -1,8 +1,0 @@
-{
-    "_id": "31454",
-    "added_in_patch": 5,
-    "description": "Our world finds itself at a crossroads. The next few months will shape everything to come - presuming we are to have a future at all.Ah! But I am getting ahead of myself. Let me back up. Come, share a drink with me. Let's talk about the future of Azeroth.",
-    "name": "A Legend in the Making",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

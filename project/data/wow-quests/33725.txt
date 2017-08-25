@@ -1,8 +1,0 @@
-{
-    "_id": "33725",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Avoid the Void",
-    "requires_level": 95,
-    "zone": "Talador"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44282",
-    "added_in_patch": 7,
-    "description": "Ah, Deathlord. It is good to see you. I happen to have a fascinating task for you, should you be in the mood for adventure.I recently came across an obscure reference to an ancient amulet that was created by Queen Azshara herself! It is called the Frozen Soul Pendant and it offers tremendous power to those who channel the power of frost.I have reason to believe that it may be found somewhere within the Eye of Azshara.Retrieve the pendant for me, and it will prove most useful in my studies.",
-    "name": "The Frozen Soul",
-    "requires_level": 110,
-    "zone": "Death Knight Campaign"
-}

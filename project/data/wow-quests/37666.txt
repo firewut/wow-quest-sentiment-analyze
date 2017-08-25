@@ -1,8 +1,0 @@
-{
-    "_id": "37666",
-    "added_in_patch": 7,
-    "description": "They're coming, <name>!\r\n\r\nI will get to work unlocking these fel-magic chains from the cage.\r\n\r\nYou keep the Legion at bay.",
-    "name": "Picking a Fight",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

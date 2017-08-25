@@ -1,8 +1,0 @@
-{
-    "_id": "26358",
-    "description": "I gave Hellscream my personal guarantee that I'd have his airfleet ready this week, but our flagship - The Spear of Durotar - still doesn't have its primary engines installed.Fleep promised me a dangerously shiny new engine last week. Go to her junkyard behind the bank and find out what the holdup is.The airfleet is waiting on us, <name>!",
-    "name": "Ready the Air Force",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Azshara"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29247",
-    "description": "We have an ample supply of medical supplies here at the Sanctuary, but we mustn't lose sight of the fact that we are at war. Hamuul isn't the only person who has need of bandages.The fiery behemoths that roam Sethria's Roost wear flame-resistant wrappings that will serve Hamuul as ably as any bandage. Bring me those wrappings, and I will prepare them for use on the Arch Druid.",
-    "name": "Treating the Wounds",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

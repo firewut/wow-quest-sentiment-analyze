@@ -1,8 +1,0 @@
-{
-    "_id": "38499",
-    "added_in_patch": 7,
-    "description": "You smell that, smith? Ahhhh... that there's the smell of opportunity.Dalaran's taken us to some strange new shores, filled with mysterious metals. I'm tethered to my shop here, but you... you've got the freedom to explore and mine at will.Bring me something interesting, and we'll see what we can make with it.",
-    "name": "Strange New Ores",
-    "requires_level": 100,
-    "zone": "Blacksmithing"
-}

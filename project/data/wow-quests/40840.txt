@@ -1,8 +1,0 @@
-{
-    "_id": "40840",
-    "added_in_patch": 7,
-    "description": "For quite some time, we've been looking for someone who can operate outside these halls.<name>, you are the answer to that search. You will be the blade in the dark that vanquishes our foes.In order to do so, you require weapons capable of striking down the Legion's best.Greymane, Tethys, and Valeera each have devised plans to obtain weapons worthy of the tasks to come. I suggest you hear each out before proceeding.",
-    "name": "A Worthy Blade",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

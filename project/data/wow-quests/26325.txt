@@ -1,7 +1,0 @@
-{
-    "_id": "26325",
-    "description": "<The skull speaks to you.>I live?  No, I do not... but I can.That raptor you have is wise to have found my skull among what must have been so many.  In life, I was strong, powerful, a lord among trolls.  With your help, I can be a lord once more.The Bloodscalps at Zuuldaia hoard magical fetishes that can help me return.  They hide these artifacts under the sand.  Use your hatchling to find these artifacts, <name>... then throw them in the pot.",
-    "name": "A Nose for This Sort of Thing",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

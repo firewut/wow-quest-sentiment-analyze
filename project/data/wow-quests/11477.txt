@@ -1,7 +1,0 @@
-{
-    "_id": "11477",
-    "description": "Keep it down, <race>. These iron dwarves are quick on the trigger. Now don't let the activities down in the dig fool you. Those steel-skinned abominations aren't digging anything up! No sir - on the contrary - they're burying the site! For whatever whacked out reason, they don't want anyone finding this place.What kind of dwarf buries ancient relics and dig sites? I'll tell you what kind: the kind you kill with reckless abandon! Get in there and take 'em out!",
-    "name": "Out of My Element?",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

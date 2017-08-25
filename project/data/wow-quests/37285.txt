@@ -1,8 +1,0 @@
-{
-    "_id": "37285",
-    "added_in_patch": 6,
-    "description": "You sure be collectin' a lot of treasures. Dey will be worth more next week, but I can take 'em off your hands.",
-    "name": "If You're Sure",
-    "requires_level": 90,
-    "zone": "Pickpocketing"
-}

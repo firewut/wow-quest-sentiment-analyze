@@ -1,7 +1,0 @@
-{
-    "_id": "9321",
-    "description": "",
-    "name": "Super Healing Potion",
-    "requires_level": 50,
-    "zone": "Quests"
-}

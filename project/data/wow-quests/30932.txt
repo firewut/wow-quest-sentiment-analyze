@@ -1,8 +1,0 @@
-{
-    "_id": "30932",
-    "added_in_patch": 5,
-    "description": "Yes, the boy's father - Sentinel Ku-Yao - has gone missing. He could be any number of places... we have no shortage of enemies these days.You're free to look around, if you wish. You might start by looking for his yak, or by asking Sentinel Yalo what he knows.",
-    "name": "Father's Footsteps",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

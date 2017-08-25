@@ -1,7 +1,0 @@
-{
-    "_id": "11972",
-    "description": "These shards pulse with foreboding.  Do they hold the last essence of the Frost Lord?",
-    "name": "Shards of Ahune",
-    "requires_level": 65,
-    "zone": "Midsummer"
-}

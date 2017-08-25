@@ -1,7 +1,0 @@
-{
-    "_id": "12655",
-    "description": "There is another god of Zul'Drak that is being neglected.Zim'Rhuk's statue lies directly to the north. Known as \"The Wise One\", Zim'Rhuk is also known to be very protective of his domain. He maintains guardians that deal harshly with anyone that does not have the wits to slip past them.Avoid the guardians and give the Drakkari offerings to Zim'Rhuk so that you will benefit from his blessing.",
-    "name": "The Blessing of Zim'Rhuk",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

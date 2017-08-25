@@ -1,8 +1,0 @@
-{
-    "_id": "9993",
-    "description": "The oily seeds from the forest's olemba trees could prove very valuable. I'd like to gather a larger quantity of them, press them for their oil, and then see what I can do with it.Just think, there's a whole forest full of trees out there, producing a lot of seeds that go to waste. I don't care if it turns out to be cooking oil, lamp oil, or weapon oil, I won't let it go to waste!Bring me any of the seeds that you happen to gather from the olemba cones. They're all over the place.",
-    "name": "Olemba Seed Oil",
-    "requires_level": 62,
-    "side": "horde",
-    "zone": "Terokkar Forest"
-}

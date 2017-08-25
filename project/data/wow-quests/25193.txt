@@ -1,8 +1,0 @@
-{
-    "_id": "25193",
-    "description": "Today marks the anniversary of my son Kron's passing.  As long as I refused to admit it, I recognize now: Kron is not returning from his crocolisk hunt.I've been working on a project... something that will memorialize Kron's passion for the hunt.  It's a crocolisk-tooth necklace... rows and rows of teeth, suitable to be worn by only the bravest young orc.  I will place it on his grave.Kron was brave, but he was not strong, like you.  Will you bring me the teeth for my necklace?",
-    "name": "Lost But Not Forgotten",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Durotar"
-}

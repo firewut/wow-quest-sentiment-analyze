@@ -1,7 +1,0 @@
-{
-    "_id": "11607",
-    "description": "In the attack on the quarry, the shaman and craftsmen working here were slain. The violence threw the spirit world into utter chaos and we'll be unable to guide the ancestors home unless we find a way to soothe the spirits of the murdered.The aggressors themselves pay no heed to the spirits, but their companions, the beryl hounds, sense the spirits and hold them in thrall.Kill the beryl hounds, and using the raw energy left behind, break the imprisonment of the spirits of the innocent.",
-    "name": "The Lost Spirits",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

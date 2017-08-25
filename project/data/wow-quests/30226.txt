@@ -1,8 +1,0 @@
-{
-    "_id": "30226",
-    "added_in_patch": 5,
-    "description": "A small group of mogu have been sighted on Ruin's Rise, to the north.Extinguish them.",
-    "name": "Blood on the Rise",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

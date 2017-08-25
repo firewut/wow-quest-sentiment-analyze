@@ -1,7 +1,0 @@
-{
-    "_id": "11541",
-    "description": "The naga have taken the Greengill Coast to the southeast. Their females, the Darkspine sirens, are using magic to enslave the indigenous murlocs.It's my responsibility to see to it that whatever the naga are up to over there is disrupted. That's where you come in.<Class>, I want you to get the controlling orbs from the female naga and throw them near the Greengill slaves, breaking the orb and setting the murlocs free.My guess is that the murlocs will be incensed and turn on their masters.",
-    "name": "Disrupt the Greengill Coast",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

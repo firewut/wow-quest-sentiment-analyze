@@ -1,8 +1,0 @@
-{
-    "_id": "44415",
-    "added_in_patch": 7,
-    "description": "Broxigar the Red is cornered on the bridge. I am not sure he would ever admit that he needs our help, but I feel it only proper to lend him our aid.\r\n\r\nIf you wish to assist our ally, I would be humbled to accompany you in this endeavor.",
-    "name": "The Red Axe",
-    "requires_level": 98,
-    "zone": "Black Rook Hold"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9423",
-    "description": "With Sedai's death confirmed, you're left with the unpleasant task of returning to Obadei with the grim news.",
-    "name": "Return to Obadei",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

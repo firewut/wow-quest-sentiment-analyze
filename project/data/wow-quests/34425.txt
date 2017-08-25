@@ -1,8 +1,0 @@
-{
-    "_id": "34425",
-    "added_in_patch": 6,
-    "description": "The orcs in this area look like members of the Shattered Hand clan. You can tell by looking at their hands.Let's join up with the others. We must find a way out of here.",
-    "name": "The Kargathar Proving Grounds",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

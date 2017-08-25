@@ -1,7 +1,0 @@
-{
-    "_id": "11422",
-    "description": "<From the scratches he makes in the rock, you see several symbols: a trident, a mur'ghoul, the sun, a wrecked ship, and a rough stick-figure of yourself.><Puzzling out what the murloc is conveying takes a while. Obviously he wants you to get a trident from the Chillmere Coast, but the image of the sun is puzzling. That is until you realize he means his son.><His son was changed into a mur'ghoul! He wants you to find him to the south near the wrecked ship and return with his trident.>",
-    "name": "Trident of the Son",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

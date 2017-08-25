@@ -1,8 +1,0 @@
-{
-    "_id": "14326",
-    "description": "I never thought that I would be a prisoner of the Alliance again. I cannot begin to express my gratitude to you... <name>, is it?I will meet you up top and from there we will deal with them.",
-    "name": "Meet Me Up Top",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29201",
-    "description": "There will be time to mourn for Hamuul later. His is the first of many inevitable casualties in this war.... but our attack cannot wait, nor should the momentum we have gained over the last several days be wasted.The portal atop Nordune Ridge is now open. Our reinforcements are prepared, and they await only my order to pass through the portal.We will meet again on the other side of the portal. Once there, we shall ensure that our foothold is secure.",
-    "name": "Through the Gates of Hell",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

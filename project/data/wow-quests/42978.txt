@@ -1,8 +1,0 @@
-{
-    "_id": "42978",
-    "added_in_patch": 7,
-    "description": "<name>,My father lived by the sword, as you do. He taught me that if we truly want peace for our kingdom then we must be willing to fight to preserve it, as you have fought.You have demonstrated valor of the highest order - bravery unsurpassed in the ranks of the Alliance. Valor that must be recognized.Please join me in Stormwind Keep at once so that you can be properly rewarded for your service.- King Anduin Wrynn",
-    "name": "A Royal Audience",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

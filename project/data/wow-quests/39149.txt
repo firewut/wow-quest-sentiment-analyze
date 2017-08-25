@@ -1,8 +1,0 @@
-{
-    "_id": "39149",
-    "added_in_patch": 7,
-    "description": "Another outsider? Some bloke named Jarod just went off to our village down the road claiming he might be able to help us with our problem.If you're here to help as well, then you best speak to the Mayor.Just know this is a bad time, and he's got an itchy trigger finger.",
-    "name": "A Village in Peril",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32584",
-    "added_in_patch": 5.2,
-    "description": "We've spotted a Zandalari war party down on the beach just outside these walls. We need to eliminate them before returning to camp.Are you up for the task?",
-    "name": "Encroaching Force",
-    "requires_level": 90,
-    "zone": "Quests"
-}

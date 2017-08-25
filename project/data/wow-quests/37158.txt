@@ -1,8 +1,0 @@
-{
-    "_id": "37158",
-    "added_in_patch": 6,
-    "description": "I did not come here to fight, I have seen too many die already. I have killed so many with my own hands.I have come to seek the light, and redemption.The arakkoa of this land worship the sun as I do. But they are a violent, isolationist, and decadent race, who seem to derive a different message than my own people. This troubles me.Bring me one of their Sun Crystals. I wish to see this light.",
-    "name": "Gloriously Incandescent",
-    "requires_level": 100,
-    "zone": "Skyreach"
-}

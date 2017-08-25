@@ -1,7 +1,0 @@
-{
-    "_id": "13142",
-    "description": "The time has come, <name>. You and your friends must challenge the lord of Balargarde Fortress, the master of Jotunheim, Overthane Balargarde.Atop the fortress, which is on the southwestern edge of Jotunheim, you will find a horn. Blow into it. Allow your challenge to resound throughout the steadfast.Balargarde will have no choice but to face you. And I... excuse me, Vardmadra will be there to adjudicate the challenge.<The banshee-possessed vrykul lets out a bellowing cackle.>",
-    "name": "Banshee's Revenge",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26669",
-    "description": "If you're that serious about this, I'll help you, <name>. I know where the other documents must be. I'm just too terrified to do anything about it.There's only a few places that those horrible Nightbane beasts gather when they're not prowling the forest. One of them's the Rotting Orchard to the south. They use the buildings there as their dens, so if they haven't just eaten the other documents, you might find one there... but you'll have to search their lairs thoroughly, I wager.",
-    "name": "In A Dark Corner",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

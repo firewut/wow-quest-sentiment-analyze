@@ -1,7 +1,0 @@
-{
-    "_id": "26429",
-    "description": "The Witherbark trolls and Boulderfist ogres of Arathi are working together to rid us from this land, but we shall not meet our fates at their, or anyone else's, hand. We will slay them and show them that we, too, have a home here. The trolls turned their backs to us; the ogres would use us for food and bedding if we allowed them to--these things shall not be.We start our attack on the Witherbark trolls to the south of here. Slay them in droves, and only return when their camps run thick with blood.",
-    "name": "Crush the Witherbark",
-    "requires_level": 28,
-    "zone": "Arathi Highlands"
-}

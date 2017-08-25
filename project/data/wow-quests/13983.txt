@@ -1,7 +1,0 @@
-{
-    "_id": "13983",
-    "description": "Once it's complete, we're going to need to get this bomb down to Saurboz.And by 'we', I mean 'you'.With so many of the enemy prowling about, I'll need to create something special if you're to have any chance of success.I can modify one of these busted shredders, but I'll need a few parts. You should have no trouble finding them in the woods to the west.Round them up while I finish work on the bomb.",
-    "name": "Building Your Own Coffin",
-    "requires_level": 23,
-    "zone": "Ashenvale"
-}

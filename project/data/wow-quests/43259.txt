@@ -1,8 +1,0 @@
-{
-    "_id": "43259",
-    "added_in_patch": 7,
-    "description": "<Race>, you must be warned. There is great evil in Val'Sharah. I've seen it, and I wish I hadn't. If you take my advice, you will stay far away from the crooked tree in Bradensbrook.",
-    "name": "Beware of the Crooked Tree",
-    "requires_level": 98,
-    "zone": "Hallow's End"
-}

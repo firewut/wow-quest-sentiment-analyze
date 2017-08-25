@@ -1,9 +1,0 @@
-{
-    "_id": "35550",
-    "added_in_patch": 6,
-    "description": "Dey may be Alliance, but Admiral Taylor and his men fought with honor on da battlefield.Dey deserve our respect, warchief be praised.If an entire garrison be fallin' to dark magic, our work be cut out for us, eh commander?We should be goin' back to base. It safe there.Safer, anyway.",
-    "name": "Surviving in a Savage Land",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

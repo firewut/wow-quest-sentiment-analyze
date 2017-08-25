@@ -1,8 +1,0 @@
-{
-    "_id": "42395",
-    "added_in_patch": 7,
-    "description": "Long ago, we gave select leaders special flares that were only to be used in times of great need.Upon seeing the flare, the leader of the Unseen Path is supposed to head to the southern watchtower to meet with whomever lit it.I don't know who we'll face once we reach the tower, but we must move quickly.",
-    "name": "Signaling Trouble",
-    "requires_level": 103,
-    "zone": "Hunter Campaign"
-}

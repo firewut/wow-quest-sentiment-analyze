@@ -1,7 +1,0 @@
-{
-    "_id": "12984",
-    "description": "We have no choice, <name>. What you learned in Mimir's Workshop means that we must act before Valduran can complete and unleash his new weapon.Even now, the refuge's defenders fight to buy us time to deal with Valduran the Stormborn.You must go to Nidavelir, across the Snowdrift Plains to the southwest, and then find and face Valduran. But you will not be alone. Bring this war horn with you and sound it as you prepare to face the leader of our enemies. Bruor and I will aid you in this battle.",
-    "name": "Valduran the Stormborn",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

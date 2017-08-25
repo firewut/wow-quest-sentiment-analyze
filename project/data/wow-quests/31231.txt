@@ -1,8 +1,0 @@
-{
-    "_id": "31231",
-    "added_in_patch": 5,
-    "description": "Back in Gurthani Terrace where you found me, dreadspinners continue to occupy the attention of Shado-Pan marksmen who could otherwise be thinning out this wretched swarm.Eradicate those spiders and offer some relief to the archers on that wall.",
-    "name": "Dreadspinner Extermination",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

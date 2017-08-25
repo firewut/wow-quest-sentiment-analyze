@@ -1,9 +1,0 @@
-{
-    "_id": "36311",
-    "added_in_patch": 6,
-    "description": "Please find my boy!Before the looters came we were on the hill just northeast of here.There weren't many of them, but I'm a blacksmith, not a fighter!Have I let my only son down?",
-    "name": "Father and Son",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26491",
-    "description": "Years ago, there used to be a Horde base deep within Skulk Rock. It's been abandoned since then, but it's still prime territory, worth takin' for our allies!Problem is, it's full of dwarf-eating slimes and oozes. Those things are slightly less disgustin' than trolls, but they'll still give us a hassle.With our boys tied up fightin' the Revantusk, I need you to go to Skulk Rock and clear the place out for me.",
-    "name": "Skulk Rock Clean-Up",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25537",
-    "description": "I have an idea. A brilliant idea! Those clown-looking fish have developed a symbiotic defensive relationship with the anemones. Having dismissed anemone disguise plausibilities, I've uncovered the chemical attractor that lures the fish.I have a gyrocoptic thermascrub extractor that I've brought down to take samples. Use it to extract the chemical attractor from several of the anemones, then bring the samples back to me for rapid synthesis and deployment.Go with haste! Brilliance is waiting!",
-    "name": "Art of Attraction",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9917",
-    "description": "Do my eyes deceive me or is there an ogre hunting party over yonder? What could ogres be doing this far from their mound? I don't like this one bit, stranger. First Murkbloods and now ogres. We just don't have the manpower to handle all of these threats to our land.Could you investigate the ogre presence to the east for us? Their forward camp is about 200 paces east of here. You'll know you're at the right place if you see the Boulderfist hunters. Kill them to find the plans!",
-    "name": "Do My Eyes Deceive Me",
-    "requires_level": 64,
-    "side": "alliance",
-    "zone": "Nagrand (Outland)"
-}

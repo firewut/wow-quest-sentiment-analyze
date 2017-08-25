@@ -1,7 +1,0 @@
-{
-    "_id": "12252",
-    "description": "Enough! I want you to put an end to the torture of my people!The Onslaught's torturer, LeCraft, has been bleeding information out of everyone that gets caught by those fiends! I need to know what they know.My sources tell me that he has set up shop in the basement of their barracks, which is right next to the smithy.I'll loan you my personal branding iron to see to it that the job is done right.Find him and get that information.",
-    "name": "Torture the Torturer",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27263",
-    "description": "A glint of light on the ground catches your eye from underneath the rubble. Brushing away debris and ash caked onto the object reveals the insignia of a gold anchor on white enameled on the surface: the sign of Theramore.Underneath the anchor is embossed the name \"Lieutenant Paval Reethe\".",
-    "name": "Lieutenant Paval Reethe",
-    "requires_level": 35,
-    "zone": "Dustwallow Marsh"
-}

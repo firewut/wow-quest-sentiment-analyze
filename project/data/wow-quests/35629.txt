@@ -1,8 +1,0 @@
-{
-    "_id": "35629",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vindicator Onaala",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

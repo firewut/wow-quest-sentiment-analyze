@@ -1,8 +1,0 @@
-{
-    "_id": "26220",
-    "description": "Feeding a hungry orc army is never an easy task.  Luckily for us, we have a good supply of mature swine meat from the pig farms and surrounding areas south of Orgrimmar.  Do me a favor and slaughter some of those pigs for their delicious belly meat.  I will slice it up and make bacon for the troops' breakfast.",
-    "name": "Everything Is Better with Bacon",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

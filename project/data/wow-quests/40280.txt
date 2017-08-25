@@ -1,8 +1,0 @@
-{
-    "_id": "40280",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Training with Bredda",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

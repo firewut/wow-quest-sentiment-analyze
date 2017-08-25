@@ -1,9 +1,0 @@
-{
-    "_id": "35645",
-    "added_in_patch": 6,
-    "description": "I'm beginning to sense a strong... connection... between the fungus and the creatures that inhabit it. There are certain mushrooms that are stronger than others.I believe if I had some samples of these I could use them, track the source of this foul fungus and... deal with it.",
-    "name": "The Secret of the Fungus",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

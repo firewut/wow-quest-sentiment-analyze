@@ -1,8 +1,0 @@
-{
-    "_id": "39384",
-    "added_in_patch": 7,
-    "description": "Xandris has been slain, but there are others that must be dealt with if my grove is to be saved.During the great war, Kagraxxis took great pleasure in corrupting the lands he once called home.Were it not for the foolish mercy of my fellow druids, I would have slain him myself.Find the demon and bring justice upon him.I must entrust this task to you alone, for I sense an even darker presence here... one that requires my personal attention.",
-    "name": "The Corruptor",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

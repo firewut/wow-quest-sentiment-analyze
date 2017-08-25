@@ -1,7 +1,0 @@
-{
-    "_id": "40721",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DEPRECATE - REUSE",
-    "zone": "Artifact"
-}

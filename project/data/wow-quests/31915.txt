@@ -1,8 +1,0 @@
-{
-    "_id": "31915",
-    "added_in_patch": 5,
-    "description": "The master tamers around the Eastern Kingdoms have been talking about you. You think yourself unstoppable? You believe that you are the true grand master?Come, then, <name>. I await you in Deadwind Pass. Come, and know the crushing defeat that's always been yours.",
-    "name": "Grand Master Lydia Accoste",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

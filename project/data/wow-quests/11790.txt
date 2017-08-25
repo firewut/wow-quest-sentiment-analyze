@@ -1,7 +1,0 @@
-{
-    "_id": "11790",
-    "description": "This altar bears all the markings of the Cult of the Damned.  It appears fanatics from the mainland have made it into Northrend.  It might be prudent to notify the captain of the ship.Perhaps he is to be found above deck.",
-    "name": "Cultists Among Us",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

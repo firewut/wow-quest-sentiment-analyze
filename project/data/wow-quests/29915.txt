@@ -1,8 +1,0 @@
-{
-    "_id": "29915",
-    "added_in_patch": 5,
-    "description": "I'm not the only one having trouble with his stock, it seems. One of Francis' sheep has wandered over to my ranch, for the third time this week. I'm beginning to think he needs help tending to his flock.You should check up on him, neighbor. And bring this poor little thing with you.",
-    "name": "A Neighbor's Duty",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

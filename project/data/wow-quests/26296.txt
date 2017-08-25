@@ -1,8 +1,0 @@
-{
-    "_id": "26296",
-    "description": "The material of this bandana is identical to the material found at the Furlbrow murder scene. You should collect more red bandanas as evidence and return what you find to Captain Alpert.",
-    "name": "Evidence Collection",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Westfall"
-}

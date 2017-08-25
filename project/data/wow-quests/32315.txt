@@ -1,8 +1,0 @@
-{
-    "_id": "32315",
-    "added_in_patch": 5.1,
-    "description": "Ah, just the <class> I was looking for. I have received an urgent letter from the young Prince Anduin.He is playing host to his father, King Wrynn, and several other Alliance dignitaries at the Shrine of Seven Stars in the Vale of Eternal Blossoms.According to his most recent correspondence, something bad is happening at the city.Please go at once and speak with him. I must settle some affairs here at Lion's Landing, but I will join you soon.Speak to Fennie if you'd like a ride to the Vale.",
-    "name": "Anduin's Plea",
-    "requires_level": 90,
-    "zone": "Quests"
-}

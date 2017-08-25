@@ -1,8 +1,0 @@
-{
-    "_id": "40636",
-    "added_in_patch": 7,
-    "description": "The Burning Legion took us by surprise at the Peak of Serenity. We will not allow them to do so again!We have trained hard, but we need weapons capable of destroying this great evil if we are to have any chance of success.Our scrolls speak of several weapons that should prove suitable, but we are unable to decide which one to pursue first.The choice, Grand Master, is yours.",
-    "name": "Prepare To Strike",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

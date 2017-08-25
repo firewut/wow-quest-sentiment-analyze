@@ -1,8 +1,0 @@
-{
-    "_id": "30049",
-    "added_in_patch": 5,
-    "description": "Would you mind checking in on Mudmug? He may need some assistance bringing that water back.I'm sure he'll appreciate the help of a big, strong <class> like yourself to help him shoulder the load.",
-    "name": "Doesn't Hold Water",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

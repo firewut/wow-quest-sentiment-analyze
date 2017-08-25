@@ -1,7 +1,0 @@
-{
-    "_id": "10924",
-    "description": "The blood of the warp chasers in this area is a powerful and rare reagent. It's one of my biggest sellers.Normally, I take my imp, Zeppit, out to help me gather it. Warp chaser blood is simply too caustic to be handled safely by you or I, but it doesn't bother Zeppit.Things are getting busier here at the shop, so if I send Zeppit with you, will you help gather the blood? Zeppit's attention tends to wander, so you'll need to be close to the chaser when it dies for Zeppit to do his work.",
-    "name": "Bloody Imp-ossible!",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

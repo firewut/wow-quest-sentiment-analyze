@@ -1,7 +1,0 @@
-{
-    "_id": "9267",
-    "description": "",
-    "name": "Mending Old Wounds",
-    "requires_level": 15,
-    "zone": "Northern Barrens"
-}

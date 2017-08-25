@@ -1,8 +1,0 @@
-{
-    "_id": "30348",
-    "added_in_patch": 5,
-    "description": "Something is... off. The water feels strange.When we arrived here I felt the presence of the Light, strong and vibrant, far to the north.I thought it would be the Pools of Youth. But this... this water is tainted somehow. Stained with mogu magics.I think it best I try only a sip and we see what happens.",
-    "name": "Immortality?",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

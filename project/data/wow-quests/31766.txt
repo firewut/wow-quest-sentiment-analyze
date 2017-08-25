@@ -1,9 +1,0 @@
-{
-    "_id": "31766",
-    "added_in_patch": 5,
-    "description": "Nazgrim has taken command of the ground assault and has requested that you be sent to meet up with him immediately.We have several rappelling ropes setup near the guns. Fastest way down you're going to find, save the one that ends poorly.",
-    "name": "Touching Ground",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

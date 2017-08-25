@@ -1,7 +1,0 @@
-{
-    "_id": "27773",
-    "description": "All that yet stands between me and the temple is Prophet Jammal'an himself. He is the leader of the Atal'ai trolls here, a foul manipulator.Know that you do not face a mere crazed troll, <name>, but an instrument of forces beyond your darkest comprehension. Yet you do not fight alone; my strength and the will of the Green Dragonflight go with you.Proceed to the Den of the Caller, left through the Hall of Ritual, and then down into the Hall of Bones. At the bottom, you will find Jammal'an.",
-    "name": "Step Three: Prophet",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

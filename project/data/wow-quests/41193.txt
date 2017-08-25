@@ -1,8 +1,0 @@
-{
-    "_id": "41193",
-    "added_in_patch": 7,
-    "description": "If I was able to find a bone fragment in what appeared to be a random location, then that means Eche'ro's bones must be scattered around Highmountain.We must find his remains and give him the proper burial he deserved.Oh, I'm sorry, in case you weren't aware, Eche'ro was Huln Highmountain's mount and companion.He deserves to be honored as Huln once was.",
-    "name": "Laying to Rest",
-    "requires_level": 110,
-    "zone": "Archaeology"
-}

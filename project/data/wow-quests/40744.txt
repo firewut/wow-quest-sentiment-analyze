@@ -1,8 +1,0 @@
-{
-    "_id": "40744",
-    "added_in_patch": 7,
-    "description": "Suramar is... was... an intellectual's dream.We studied everything in there, from alchemy and the arts to the very nature of magic itself. How could we be so foolish as to accept them in?Look at me, lost in the clouds again when there is much to be done. My work requires some fairly difficult ingredients, <race>. Perhaps you would help me procure them?I am going to need some harpy talons. Crushed into a powder, they will be a potent reagent.",
-    "name": "An Ancient Recipe",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

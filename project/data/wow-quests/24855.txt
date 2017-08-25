@@ -1,7 +1,0 @@
-{
-    "_id": "24855",
-    "description": "Look how strangely the plant life reacts to the bloodpetals in the Roiling Gardens to the north.  The trees are enveloped with more flowers and vines than usual.  Large, sporous blossoms project themselves from the ground where they once did not.The land is speaking to us, <race>.  The bloodpetals are destroying the balance.As my final task, I ask you to visit the swarming adult Bloodpetals and prune their numbers.",
-    "name": "Aberrant Flora",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

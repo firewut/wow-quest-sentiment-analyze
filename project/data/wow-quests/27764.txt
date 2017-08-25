@@ -1,7 +1,0 @@
-{
-    "_id": "27764",
-    "description": "On to other matters.  I have a package that I need delivered.A young lady came by our town not long ago, looking for compressed blasting powder, a tempered mithril bomb casing, and some safety goggles.  Naturally, we had plenty of blasting powder and bomb casings to sell her, but the safety goggles were a little harder to find.Long story short, I've got the goggles, but she's already returned to her studies down in Lethlor Ravine.  Will you bring these down to her?",
-    "name": "A Strange Request",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

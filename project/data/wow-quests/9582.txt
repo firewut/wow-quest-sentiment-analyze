@@ -1,7 +1,0 @@
-{
-    "_id": "9582",
-    "description": "When the ship crashed, our menagerie was scattered on the northeast beaches of this isle.  I have been handed a key that unlocks the cage holding one of the deadlier specimens, a death ravager.  The creature is little armored but resistant to most magic.  It must be killed by a simple blade.Take this key and release the creature from both its prison and its pain.  We cannot afford to have it escape and cause even more damage to the ecology than we already have.",
-    "name": "Strength of One",
-    "requires_level": 10,
-    "zone": "Warrior"
-}

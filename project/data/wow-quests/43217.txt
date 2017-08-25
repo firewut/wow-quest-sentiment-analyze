@@ -1,8 +1,0 @@
-{
-    "_id": "43217",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Primal Gladiator's Ringmail Armor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

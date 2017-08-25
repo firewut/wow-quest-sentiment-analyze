@@ -1,7 +1,0 @@
-{
-    "_id": "13710",
-    "description": "Welcome, champion. The Forsaken delegation could always use more <class>s like you. Would you join us?You will train and rise through the ranks as you have before, but when you are named a champion of the Undecity, your gruntling will have the option of carrying our banner into battle.",
-    "name": "Valiant Of Undercity",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

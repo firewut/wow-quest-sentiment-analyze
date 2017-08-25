@@ -1,7 +1,0 @@
-{
-    "_id": "29244",
-    "description": "Captain Saynna has requested your presence at Ragnaros' Reach. A Lieutenant of Flame has shown himself and she thinks you are our greatest chance at striking against him.Make your way there as soon as you're able.",
-    "name": "A Lieutenant of Flame",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

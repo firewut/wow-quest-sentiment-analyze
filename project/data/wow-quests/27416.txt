@@ -1,8 +1,0 @@
-{
-    "_id": "27416",
-    "description": "Stonemaul Village was invaded by the brood of Onyxia. But why would the daughter of the black dragonlord, Deathwing, descend upon our lands?This is most troubling. Surely, Onyxia was driven here for a purpose beyond laying siege to a small band of ogres.Notify Mok'Morokk at once! Action must be taken.",
-    "name": "The Brood of Onyxia",
-    "requires_level": 36,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32555",
-    "added_in_patch": 5.2,
-    "description": "Sacrifices are common place in Zandalari society. There is however one oddity among these barbaric rituals; volunteers. They treat it as a great honor!The weak still seek to contribute, even if that means giving their lives to be bound to the sentries you see walking around. Locked away in service to their people.Take this resonating crystal. Once destroyed, drain the sentry of its Zandalari inhabitant. Return the crystal to me when your task is complete.",
-    "name": "Centuries in Sentries",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "31732",
-    "added_in_patch": 5,
-    "description": "I will NOT let the Horde gain a foothold on these shores before we do! If you're looking to jump into the fray, I've got a spare gyrocopter for you at the end of the runway. An attack run is already programmed in, all you have to do is concentrate on shooting.Unleash hell upon these orcs!",
-    "name": "Unleash Hell",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

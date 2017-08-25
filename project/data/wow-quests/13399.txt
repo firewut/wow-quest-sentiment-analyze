@@ -1,7 +1,0 @@
-{
-    "_id": "13399",
-    "description": "You have a lot of questions, <name>.  You're the only one who can see me because you touched something that once belonged to him... don't you remember?You don't know what it is?  Well I can't just tell you... that would make him really mad.  He's not just a prince anymore... he's the king!Meet me at the Court of Bones, north of Icecrown Citadel and you can see for yourself.",
-    "name": "Time for Answers",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

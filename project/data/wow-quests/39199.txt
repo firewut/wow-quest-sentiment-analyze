@@ -1,7 +1,0 @@
-{
-    "_id": "39199",
-    "description": "The Alliance forces of Sylvanaar in the Blade's Edge Mountains require reinforcements.The King has asked for any able bodied members of the Alliance to journey to the mountains along the northern border of Zangarmarsh.",
-    "name": "Hero's Call: Blade's Edge Mountains",
-    "requires_level": 64,
-    "zone": "Blade's Edge Mountains"
-}

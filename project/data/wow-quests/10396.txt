@@ -1,8 +1,0 @@
-{
-    "_id": "10396",
-    "description": "Now we focus on the second target - Forge Camp: Rage. It lies just west of Mageddon. Trouble is, the demons have a number of fel cannons aimed straight at the Horde's outpost of Thrallmar! Though I can scarcely believe it, we actually need the Horde to help us hold the line at the Dark Portal. We can't afford to let Thrallmar fall.  You've got to destroy these cannons before the Legion pulverizes our allies! ",
-    "name": "Enemy of my Enemy...",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

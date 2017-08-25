@@ -1,8 +1,0 @@
-{
-    "_id": "32593",
-    "added_in_patch": 5.2,
-    "description": "Everything is prepared, <name>, and I have selected you to be my champion.Next, we must infiltrate the legendary Thunder Forge of Lei Shen himself! You and your faction will need to advance forward until the Thunder Forge is exposed, if it isn't already.Once you have infiltrated the forge, meet me there. Be ready for a fight!",
-    "name": "The Thunder Forge",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

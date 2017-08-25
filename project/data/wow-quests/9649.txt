@@ -1,7 +1,0 @@
-{
-    "_id": "9649",
-    "description": "Good to see you again, <name>! You were exceptionally efficient in completing the last task that I offered you. Perhaps you would be interested in another?To the northeast lies Wyrmscar Island, home to a rare species of mushroom known as Ysera's tear - named after the green dragonlings that inhabit the island. I only require a small sampling of the mushroom, but I must warn you that the denizens of the island do not welcome visitors. Tread carefully.\r\n",
-    "name": "Ysera's Tears",
-    "requires_level": 15,
-    "zone": "Bloodmyst Isle"
-}

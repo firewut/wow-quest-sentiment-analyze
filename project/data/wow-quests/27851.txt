@@ -1,7 +1,0 @@
-{
-    "_id": "27851",
-    "description": "We may not be flattening Stonard into dust, but I don't want to have to go in there a second time.I want you to gather any supplies you see in the town while you're there. Without food, they won't have any fighters after more than a day.There should be crates scattered all over town.",
-    "name": "Cutting Supply",
-    "requires_level": 52,
-    "zone": "Swamp of Sorrows"
-}

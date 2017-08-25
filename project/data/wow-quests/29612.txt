@@ -1,8 +1,0 @@
-{
-    "_id": "29612",
-    "added_in_patch": 5,
-    "description": "Lok'tar Ogar, old friend. It has been too long since last we spoke.It is good to see that you emerged safely from the depths of Vashj'ir.I am stationed here in Grommash Hold.All in service to the Horde are to swear allegiance to their new Warchief.You would do well not to keep him waiting, <name>.",
-    "name": "The Art of War",
-    "requires_level": 85,
-    "zone": "Orgrimmar"
-}

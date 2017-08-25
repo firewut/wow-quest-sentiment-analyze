@@ -1,9 +1,0 @@
-{
-    "_id": "35834",
-    "added_in_patch": 6,
-    "description": "One moment we see a great metal beast rolling into our camp, the next a genesaur follows it and sends a wave of pure chaotic life at us.The manifestations left behind by the genesaur must be culled so we have time to salvage what we can before leaving.If you are here to help, then start killing as many of the violent plants that are assailing us as possible.",
-    "name": "Wake of the Genesaur",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42585",
-    "added_in_patch": 7,
-    "description": "In our champions' travels, they made contact with Sister Lilith, a fearless leader among the Laughing Sisters.She is revered among the dryads as a seasoned warrior and a demanding teacher. She will serve as an excellent recruiter.Speak to her now, and recruit some Treants.",
-    "name": "Recruiting the Troops",
-    "requires_level": 101,
-    "zone": "Druid Campaign"
-}

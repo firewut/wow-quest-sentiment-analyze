@@ -1,8 +1,0 @@
-{
-    "_id": "38271",
-    "added_in_patch": 6.2,
-    "description": "The ones I kill... they speak of a cave. Sacred to the Bleeding Hollow. Kilrogg could be there - I am going.",
-    "name": "Following the Bloody Path",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

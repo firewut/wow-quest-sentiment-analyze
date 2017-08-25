@@ -1,7 +1,0 @@
-{
-    "_id": "5201",
-    "description": "My presence goes unnoticed by most, <name>. However, there is an annoyance that seems firmly rooted here in Winterspring: the Winterfall furbolg.Although I have never directly attacked the furbolg, they seem crazed, fearful of anything in their path. I have watched them slay countless creatures that had the misfortune to simply be in the wrong place at the wrong time.I am weary of their meddling -- please, help me by fighting back. Slay the furbolg and keep them away from Frostsaber Rock.",
-    "name": "Winterfall Intrusion",
-    "requires_level": 58,
-    "zone": "Winterspring"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38563",
-    "added_in_patch": 7,
-    "description": "Now that we know the foxflower flux is safe to use, we can start stocking it. That being said, I don't particularly feel like picking flowers. Do you feel like picking flowers? Didn't think so.Go talk to the alchemists and herbalists across the way. I'm sure we can set up some sort of work order arrangement.",
-    "name": "Flower-Pickers and Potion-Quaffers",
-    "requires_level": 102,
-    "zone": "Blacksmithing"
-}

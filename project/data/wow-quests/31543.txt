@@ -1,8 +1,0 @@
-{
-    "_id": "31543",
-    "added_in_patch": 5,
-    "description": "Many great pieces of art are results of great love.  A merchant in Halfhill wishes to have a portrait made for his beloved, as a birthday present.  Will you accept this commission?",
-    "name": "Portrait of a Lady",
-    "requires_level": 85,
-    "zone": "The Arboretum"
-}

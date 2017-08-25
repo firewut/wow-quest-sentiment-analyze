@@ -1,8 +1,0 @@
-{
-    "_id": "37973",
-    "added_in_patch": 6.1,
-    "description": "I have heard of a draenei artificer by the name of Maatun that was seeking to restore an old draenei crystal, possibly of naaru origin. He called the crystal the Dream of Argus. \r\n\r\nThe draenei went missing after seeking out help from the Shadowmoon orcs back before they allied themselves with the Iron Horde. One of your scouts recently spotted a draenei matching the description of Maatun near the entrance of the Pillars of Fate. Go there and see what you can dig up.",
-    "name": "Treasure Contract: The Artificer",
-    "requires_level": 100,
-    "zone": "Shadowmoon Valley"
-}

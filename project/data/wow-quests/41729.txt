@@ -1,8 +1,0 @@
-{
-    "_id": "41729",
-    "added_in_patch": 7,
-    "description": "Reinforcements. Just what we needed! Grandmaster, the monastery is under attack.The Legion is using a foul device known as a Fel Spreader to scorch the very earth we walk on with disgusting fel energy.Destroy those machines, and we can slow their efforts.",
-    "name": "Slowing the Spread",
-    "requires_level": 103,
-    "zone": "Monk Campaign"
-}

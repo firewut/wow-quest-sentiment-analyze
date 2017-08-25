@@ -1,8 +1,0 @@
-{
-    "_id": "40871",
-    "added_in_patch": 7,
-    "description": "Flintlocke's been looking for you, <name>. I think he needs your help again.I sent him out to test out a couple of new inventions of mine back down in Azsuna. Look for him on the shoreline west of Oceanus Cove!",
-    "name": "'Locke and Load",
-    "requires_level": 106,
-    "zone": "Engineering"
-}

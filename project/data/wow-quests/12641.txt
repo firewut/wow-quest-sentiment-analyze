@@ -1,7 +1,0 @@
-{
-    "_id": "12641",
-    "description": "Towering above this platform is the eye of Acherus. From it you will call forth a probe that you will then use to analyze Scarlet Crusade fortifications at New Avalon. The eye has a host of powers that should make the acquisition of this data simple.Use the eye's siphon to analyze the forge, town hall, hold, and chapel. The eye's control mechanisms are located on either side of this platform. Waste no more time, <name>.The Scourge will have this place. The Lich King commands it!",
-    "name": "Death Comes From On High",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

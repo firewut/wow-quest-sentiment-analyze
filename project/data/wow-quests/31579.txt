@@ -1,8 +1,0 @@
-{
-    "_id": "31579",
-    "added_in_patch": 5,
-    "description": "Now that you are a pet trainer, it's time to test your skills!Head out into the forest and pick a fight with a battle pet.  Come back to me after you have won and I will continue your training. Good luck!",
-    "name": "Learning the Ropes",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "40760",
-    "added_in_patch": 7,
-    "description": "As if things weren't unsettled enough, guests have arrived... the Illidari.These demon hunters have been imprisoned since their master's fall at the Black Temple. For the Wardens to release them can only mean the peril is dire indeed.Their delegation's leader, Allari \"the Souleater,\" claims Orgimmar faces a hidden threat. I gave them leave to establish a camp within the city... for now.You will speak with her at once. Find out whether this threat is credible.",
-    "name": "Emissary",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Durotar"
-}

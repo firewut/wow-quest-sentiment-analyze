@@ -1,7 +1,0 @@
-{
-    "_id": "5888",
-    "description": "",
-    "name": "Salve via Mining",
-    "requires_level": 48,
-    "zone": "Felwood"
-}

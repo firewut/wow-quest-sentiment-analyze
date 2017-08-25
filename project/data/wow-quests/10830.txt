@@ -1,7 +1,0 @@
-{
-    "_id": "10830",
-    "description": "The Grishna have caused the leafbeards and stonebarks to be inhabited by evil koi-koi spirits.We must save the trees or soon all of the Raven's Wood will be lost forever!Combine the magic of a Grishnath orb, found throughout Grishnath, with a dire pinfeather from a dire raven.Use the resultant exorcism feather to draw out and slay the koi-koi spirit as quickly as possible.  The stonebarks are too powerful for this ritual, but if enough leafbeards are saved, they will be freed as well.",
-    "name": "Exorcising the Trees",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

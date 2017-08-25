@@ -1,9 +1,0 @@
-{
-    "_id": "38332",
-    "added_in_patch": 7,
-    "description": "Good to see you survived the wreck. Nathanos made it as well, though his face is now even uglier than before.He took a group of rangers north to look for Sylvanas - nobody has seen her since the battle.He asked me to send you his way if you ever woke up.",
-    "name": "The Ranger Lord",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

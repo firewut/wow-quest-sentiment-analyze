@@ -1,7 +1,0 @@
-{
-    "_id": "28043",
-    "description": "<You sling the gore-spattered gryphon corpse over your shoulder, its wings dragging to the ground.><Highland Black Drakes roost just southwest of the Crucible of Carnage, along a ring of low mountain peaks.><If you drop the gryphon corpse there, a drake is sure to start feeding. With its guard down, you should be able to attack it until it is weak enough to mount and fly.>",
-    "name": "How to Maim Your Dragon",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

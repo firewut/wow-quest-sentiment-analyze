@@ -1,8 +1,0 @@
-{
-    "_id": "32941",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Oasis Icemother",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

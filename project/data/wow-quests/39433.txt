@@ -1,8 +1,0 @@
-{
-    "_id": "39433",
-    "added_in_patch": 6.2,
-    "description": "The corruption in the Apexis has begun to affect many of my people. We are so accustomed to the power it grants us that more succumb to the whispers every day. You must bring me more samples so I can free my people from yet another curse.",
-    "name": "Unseen Influence",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

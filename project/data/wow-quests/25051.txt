@@ -1,8 +1,0 @@
-{
-    "_id": "25051",
-    "description": "The spiders that occupy Darkmist Cavern to the northwest are another vicious threat to us here. They are nothing the ogres cannot handle, but splitting our attention to them when Theramore's forces lurk nearby is a deadly mistake.I need someone to destroy the eggs inside Darkmist Cavern, to cut off this infestation. You will find the eggs in the deepest part of the webbed mines... along with their guardians.",
-    "name": "Darkmist Extermination",
-    "requires_level": 34,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

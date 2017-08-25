@@ -1,9 +1,0 @@
-{
-    "_id": "37993",
-    "added_in_patch": 6.1,
-    "description": "Now that the keys have been activated, the Apexis device that leads to the amulet should be accessible. \r\n\r\nThe Arakkoa research states that it is likely located in Lost Veil Anzu, within the \"shrine to the raven god.\"",
-    "name": "Amulet of Rukhmar: The Apexis Device",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

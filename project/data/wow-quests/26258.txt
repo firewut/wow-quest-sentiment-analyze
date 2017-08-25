@@ -1,7 +1,0 @@
-{
-    "_id": "26258",
-    "description": "The Twilight's Hammer involvement in the disappearance of the World Pillar fragment makes complete sense.  Let us hope that we can act swiftly enough to recover it.<Maruut places his hand on your shoulder.>I've established a spiritual bond with you.  We should be able to communicate while you remain in Deepholm.Go to Deathwing's Fall to the southeast and investigate the Twilight's Hammer operation there.",
-    "name": "Deathwing's Fall",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

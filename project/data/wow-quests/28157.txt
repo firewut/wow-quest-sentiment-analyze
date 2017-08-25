@@ -1,7 +1,0 @@
-{
-    "_id": "28157",
-    "description": "The Twilight's Hammer have summoned a monstrosity. It's a combination of the four elements infused with the power of their special ore, Elementium.If you want to save your precious Thousand Needles from total destruction, you're going to have to destroy it. But first, you'll need a few things to get through its protective shielding.Go east into the Withering and bring back the four Twilight elements.",
-    "name": "Four Twilight Elements",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40515",
-    "added_in_patch": 7,
-    "description": "The spiritwalker you saved from Riverbend has been insufferable since his arrival. He is insisting on showing you the ways of our people so that you better understand what is to come.He is a strange one, even by spiritwalker standards.Even so, only a fool would discard his insight. Please, go to speak with him when you get a moment.",
-    "name": "A Walk With the Spirits",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

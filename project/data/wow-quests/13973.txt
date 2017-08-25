@@ -1,8 +1,0 @@
-{
-    "_id": "13973",
-    "description": "They came out of nowhere, <class>! Quilboar from horizon to horizon. Spines and snouts and teeth. We fell back to the farm but they kept on coming.Our best defenders have fallen in the field, and we've no sign of Farmer Ralton. I need you to go on the offensive for me! Hold these swine at bay while I defend the wounded until help arrives. ",
-    "name": "The Grol'dom Militia",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

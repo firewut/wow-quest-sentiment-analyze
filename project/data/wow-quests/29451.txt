@@ -1,7 +1,0 @@
-{
-    "_id": "29451",
-    "description": "This tome of strategy is the masterwork of the famous human general, Anduin Lothar. In his own words, the commander describes the proper deployment of forces and strategies needed to win almost any battle.Professor Thaddeus Paleo of the Darkmoon Faire would probably love to have a look at such a rare book.",
-    "name": "The Master Strategist",
-    "requires_level": 15,
-    "zone": "Darkmoon Faire"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9932",
-    "description": "Your rampage through Kil'sorrow Fortress has provided us with a special opportunity. We have enough bodies to make it appear as if a great battle has taken place.Travel to the Laughing Skull Ruins and find the Laughing Skull Courtyard. There should be a blazing pyre in the courtyard. Make sure the area is secure and then use this blanket to send up smoke signals. When my ogres see the smoke, they will sneak in and plant the bodies of slain Kil'sorrow soldiers.That should be the final straw!",
-    "name": "Body of Evidence",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

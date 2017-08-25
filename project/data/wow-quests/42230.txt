@@ -1,8 +1,0 @@
-{
-    "_id": "42230",
-    "added_in_patch": 7,
-    "description": "The seed is awakening. Without power it will quickly wither and die.\r\n\r\nWe must carry the seed out of here and plant it somewhere safe.\r\n\r\nI am not strong enough to bear this burden. But you... you are brimming with power. I can sense it. \r\n\r\nPlease take the seed.",
-    "name": "The Valewalker's Burden",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

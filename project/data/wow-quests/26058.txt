@@ -1,8 +1,0 @@
-{
-    "_id": "26058",
-    "description": "There's no time left. Here they come! Take control of a heavy gun and shoot the gnomes out of the sky! If that bomb takes too many hits it will blow, taking us all with it!Defend the base, <name>! You're our only hope!If we somehow make it out of this in one piece, report to Overlord Krom'gar.",
-    "name": "In Defense of Krom'gar Fortress",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

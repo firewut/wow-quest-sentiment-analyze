@@ -1,7 +1,0 @@
-{
-    "_id": "13121",
-    "description": "We must use the Lich King's tools against him if we are to decide our next step.Over the mountain to the southwest lies Kul'galar Keep. Within it reside the oracles of Jotunheim who receive orders from their master and scry upon others through the Eye of the Lich King.It is the eye that you must fight your way to. While it cannot be used to pierce the veil within Icecrown Citadel, you should be able to use it to discern something of value so that we will know how best to proceed.",
-    "name": "Through the Eye",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

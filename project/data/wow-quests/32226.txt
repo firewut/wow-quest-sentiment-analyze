@@ -1,8 +1,0 @@
-{
-    "_id": "32226",
-    "added_in_patch": 5.2,
-    "description": "The Reliquary is having a field day out here, literally!Every day, the researchers find more relics to study and catalog.Recently, one of our adventurers found this scroll at the Court of Bones.I believe that this incantation can be used to call beyond the grave. And if my Mogu is up to date, I'd say you should use it in the last room in the Hall of the Exalted.Would you be willing to test out my theory?",
-    "name": "Into the Crypts",
-    "requires_level": 90,
-    "zone": "Quests"
-}

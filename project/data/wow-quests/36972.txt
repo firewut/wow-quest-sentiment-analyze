@@ -1,9 +1,0 @@
-{
-    "_id": "36972",
-    "added_in_patch": 6,
-    "description": "Now that your talbuk has got a taste for combat, let's take it out into an environment it may not be familiar with.The icy bluffs of Frostfire Ridge should be a good test. Find yourself a big, mean beast out there and take it down with your talbuk.",
-    "name": "Talbuk Training: Rakkiri",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Frostfire Ridge"
-}

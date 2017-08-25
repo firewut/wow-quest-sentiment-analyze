@@ -1,8 +1,0 @@
-{
-    "_id": "38945",
-    "added_in_patch": 7,
-    "description": "I have plenty of silk patterns that we can put this cloth to work on.Help me to prepare the materials, <name>. We're going to put this cloth to good use and make you a new robe.",
-    "name": "This Should Be Simple... Right?",
-    "requires_level": 100,
-    "zone": "Tailoring"
-}

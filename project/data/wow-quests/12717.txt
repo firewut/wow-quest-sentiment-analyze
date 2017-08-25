@@ -1,7 +1,0 @@
-{
-    "_id": "12717",
-    "description": "The cauldron is ready to begin spewing its foul corruption across the land!Now, death knight, a brief lesson in plague cauldrons. The gas that the cauldron emits is deadly to the living, but empowers Scourge. As with all Scourge creations, it feeds off of death and grows stronger the longer it feeds.Take these Crusader skulls and drop them in the cauldron. You will be quite happy with the results.",
-    "name": "Noth's Special Brew",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

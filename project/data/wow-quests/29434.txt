@@ -1,7 +1,0 @@
-{
-    "_id": "29434",
-    "description": "Welcome to our humble little steam tank battle simulator!For one token, you can demonstrate your tactical mastery by navigating the course and destroying the targets.",
-    "name": "Tonk Commander",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

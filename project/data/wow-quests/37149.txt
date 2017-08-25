@@ -1,8 +1,0 @@
-{
-    "_id": "37149",
-    "added_in_patch": 6,
-    "description": "My 'master' is an idiot, but you look like you've got some smarts in that oddly-shaped head.Listen up, the Twisting Nether is a chaotic abyss, and things work differently there. I've felt some disturbances, and they don't bode well for any of us.Yes, there are things happening here, in Draenor, that are causing ripples in the nether. No, don't try to wrap your head around how that works, you'll only hurt yourself.It's simple: bring me a Void-Gate Key, and maybe I can stop the bad things.",
-    "name": "The Void-Gate",
-    "requires_level": 98,
-    "zone": "Shadowmoon Burial Grounds"
-}

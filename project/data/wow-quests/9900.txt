@@ -1,7 +1,0 @@
-{
-    "_id": "9900",
-    "description": "The presence of rogue ethereals in this area might amuse Gezhe, who sees nothing but opportunity wherever we go, but it's a true threat to the security of our operations.Their leader, Gava'xi, is a dangerous criminal and I've made it my top priority to see to it that he is neutralized.If you're looking to make yourself useful, go and take care of Gava'xi.  I will see to it that you're rewarded properly.",
-    "name": "Gava'xi",
-    "requires_level": 65,
-    "zone": "Nagrand (Outland)"
-}

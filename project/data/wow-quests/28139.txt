@@ -1,7 +1,0 @@
-{
-    "_id": "28139",
-    "description": "<name>, the bonds holding Magatha are specially encoded. She can only be released if we get those codes.There's a device near Codemaster Deethuk in the Bulwark to the southeast. It contains the codes.Please obtain them.",
-    "name": "Codemaster's Code",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

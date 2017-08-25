@@ -1,8 +1,0 @@
-{
-    "_id": "42750",
-    "added_in_patch": 7,
-    "description": "I cannot hold on for much longer...\r\n\r\nI brought a dreamcatcher with me. I was to use it to steal the magic from owlbeast totems.\r\n\r\nIt is the only way to break the barrier where they hold Keeper Remulos.\r\n\r\nPlease help where I have failed.",
-    "name": "Dreamcatcher",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

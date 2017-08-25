@@ -1,7 +1,0 @@
-{
-    "_id": "12499",
-    "description": "With Antiok slain and the scythe in our possession, the frost wyrm assaults upon your forces at Angrathar will halt. The wyrms that remain in the Dragonblight will be hunted and destroyed, their bones returning to the earth.The time to make your final stand is now, <name>. Return to Fordragon Hold and notify Highlord Fordragon.\r\n",
-    "name": "Return To Angrathar",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

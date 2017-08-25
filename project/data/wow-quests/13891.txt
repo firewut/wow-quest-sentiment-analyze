@@ -1,7 +1,0 @@
-{
-    "_id": "13891",
-    "description": "Now that the creatures of Darkshore are safe, let's turn our attention to the artifact you found in the lake. I believe it's the work of a minion of the Old Gods. We'll fight these fiends using the very lifegiving energies of Darkshore itself! Take the Lifebringer Sapling to the shore of the shallow lake to the south of here. Wave it over the waters of the lake and it should disable that ancient artifact.Be careful, <name>. The artifact is likely to be guarded by who-knows-what.",
-    "name": "The Devourer of Darkshore",
-    "requires_level": 16,
-    "zone": "Darkshore"
-}

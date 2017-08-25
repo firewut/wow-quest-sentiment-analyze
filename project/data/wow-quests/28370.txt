@@ -1,7 +1,0 @@
-{
-    "_id": "28370",
-    "description": "Can you believe these worgen here have wisps?  The night elves showed them all that druid junk and now they've got their precious little wisps too, giving them all the building material they want without having to harm any precious trees.If we had those things, we could pull extra wood out of every tree in our site. Free resources, free profit! That's why I've been working on this containment device.Head to Talonbranch Glade and use it to steal some wisps. Just point and press the button.",
-    "name": "Wisp-napping",
-    "requires_level": 47,
-    "zone": "Felwood"
-}

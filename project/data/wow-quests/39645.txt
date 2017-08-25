@@ -1,8 +1,0 @@
-{
-    "_id": "39645",
-    "added_in_patch": 7,
-    "description": "It will take the cooperation of several highly skilled sorts to calibrate these burettes.Myshalla Streambreeze in Feralas has demonstrated admirable attention to detail.I loathe Ironforge, but a resident named Krimple Proxmeasure is known for his precision.And while I'd never travel to Booty Bay without a lock on my wallet, Tryks Pourtrue has proven reliable and fair... mostly.",
-    "name": "Calibration Experts",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

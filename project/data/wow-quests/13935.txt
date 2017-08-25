@@ -1,7 +1,0 @@
-{
-    "_id": "13935",
-    "description": "We have been using the power of the Forest Heart to defend the tree from the Horde, but its power is not without limit. We must use it to take the fight to them!Shadumbra, the great cat of the forest, prowls nearby. It is from her that we shall draw our inspiration. You will become one with the shade of Shadumbra. You will take the essence of the panther into you and lay waste to those who dare attack the might of Ashenvale!",
-    "name": "Defend the Tree!",
-    "requires_level": 21,
-    "zone": "Ashenvale"
-}

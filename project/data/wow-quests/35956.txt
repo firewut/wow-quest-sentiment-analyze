@@ -1,8 +1,0 @@
-{
-    "_id": "35956",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Dire Maul (Everything) Reward Quest",
-    "requires_level": 42,
-    "zone": "Quests"
-}

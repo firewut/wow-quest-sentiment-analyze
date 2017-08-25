@@ -1,8 +1,0 @@
-{
-    "_id": "42820",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Aegir Wavecrusher",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10202",
-    "description": "We've recently been contacted by a Sunfury magister who wishes to join our ranks and swears he has information we're in need of.  We've checked our informants to make sure he's not a double agent and he checks out.He's stationed in Manaforge Ara which makes communication difficult.  Talk to him and see what he knows.  If he's half as useful as he claims to be, we'll be able to put him to good use.",
-    "name": "A Defector",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

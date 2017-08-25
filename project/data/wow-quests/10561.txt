@@ -1,7 +1,0 @@
-{
-    "_id": "10561",
-    "description": "You've proven yourself to us, <race>.  The timeline is not yet safe, however.We're in need of true champions and you may prove to be one.Continue to defend the events of the past from intruders and you'll get the renown you deserve.",
-    "name": "Revered Among the Keepers of Time",
-    "requires_level": 68,
-    "zone": "Caverns of Time"
-}

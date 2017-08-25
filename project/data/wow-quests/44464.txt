@@ -1,8 +1,0 @@
-{
-    "_id": "44464",
-    "added_in_patch": 7,
-    "description": "Light's Heart is to serve as the vessel for Illidan Stormrage's rebirth: my last act of service to the Light.But Illidan is dead and his soul is lost in the Nether. Before we may attempt to recover his soul, we must prepare the vessel for his return.Across two worlds exist echoes of Illidan's past. You must venture out and find the echoes.Start where all life begins, <name>: birth. Find Illidan's birthplace in Val'sharah. Awaken the memory.",
-    "name": "Awakenings",
-    "requires_level": 110,
-    "zone": "Order Hall"
-}

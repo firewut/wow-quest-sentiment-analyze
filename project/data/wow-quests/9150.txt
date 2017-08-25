@@ -1,7 +1,0 @@
-{
-    "_id": "9150",
-    "description": "Can you believe it?  We have an actual functioning arcane sanctum up and running southeast of here: the Sanctum of the Sun.  All manner of important magisters have come to take part in running it.Of course they've all forgotten about the Sanctum of the Moon.  Not much remains of it and its energies have given rise to bizarre creatures.I'm not one to let good resources go to waste, however.  Go to the Sanctum of the Moon and see if you can recover the crystallized essences from the creatures there.",
-    "name": "Salvaging the Past",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34746",
-    "added_in_patch": 6,
-    "description": "Did you hear that? They got the shield up. There'll be no getting into Telaar now.You must get that shield down. The only way to do it is to destroy the Arkonite crystal.Don't worry about me. You're going to kill two birds with one stone; Packleader Kargora is the one who stole your blueprints.",
-    "name": "Shields Down!",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

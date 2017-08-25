@@ -1,9 +1,0 @@
-{
-    "_id": "32993",
-    "added_in_patch": 6,
-    "description": "Asha has passed, but we share a bond that cannot be severed by death. Even now, her spirit urges me onward to Grom'gar.The Iron Wolf claims our attachments make us weak... that love makes us vulnerable.He is wrong.Karg is my strength, and I his. I will free him from his chains, and together we will show the Thunderlord clan the strength of our bonds.",
-    "name": "The Strength of Our Bonds",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

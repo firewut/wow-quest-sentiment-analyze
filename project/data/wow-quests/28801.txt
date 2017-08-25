@@ -1,7 +1,0 @@
-{
-    "_id": "28801",
-    "description": "",
-    "name": "Tol'vir Hieroglyphics",
-    "requires_level": 1,
-    "zone": "Archaeology"
-}

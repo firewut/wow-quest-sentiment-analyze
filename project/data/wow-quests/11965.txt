@@ -1,8 +1,0 @@
-{
-    "_id": "11965",
-    "description": "Farshire has a fighting chance now, <name>.  That's all we could've asked for and you've made it possible.All we need now is a rallying point.  I'll have my men deliver the weapons to our town hall.  Go and ring the town hall bell so any survivors know to rally there.It's time to show the Scourge what we're made of.",
-    "name": "Call to Arms!",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

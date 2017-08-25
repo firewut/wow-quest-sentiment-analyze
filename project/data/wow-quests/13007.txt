@@ -1,7 +1,0 @@
-{
-    "_id": "13007",
-    "description": "We have failed to prevent the completion of the iron colossus, <name>, which means we have no choice but to face it in battle.Bruor has devised a plan to exploit the colossus' only weakness.No matter how tough the colossus' armor is, it is still vulnerable to a jormungar's acid. Take control of one using the orbs along the northern edge of the Snowdrift Plains, then use it to fight the Iron Colossus on the Snowdrift Plains. If you need help controlling the creature, speak to one of the nearby handlers.",
-    "name": "The Iron Colossus",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

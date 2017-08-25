@@ -1,7 +1,0 @@
-{
-    "_id": "24707",
-    "description": "The time we have waited for is upon us, Squire <name>.  Un'Goro's brood mother will perish at my hands.  The gravity of our task weighs heavily on me, but with the power of the Light behind us, we are guaranteed to succeed.Are you ready to depart?",
-    "name": "The Ballad of Maximillian",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

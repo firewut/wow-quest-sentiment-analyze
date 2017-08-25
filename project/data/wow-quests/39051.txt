@@ -1,8 +1,0 @@
-{
-    "_id": "39051",
-    "added_in_patch": 7,
-    "description": "We need to figure out what rock Varedis is hiding under - the only way we're going to do that is by getting inside this prison.Do what you must.",
-    "name": "By Any Means",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

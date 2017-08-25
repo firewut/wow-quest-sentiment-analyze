@@ -1,9 +1,0 @@
-{
-    "_id": "36614",
-    "added_in_patch": 6,
-    "description": "Boss! Guess what?! I finally got that new larger draft paper in that I ordered when we first came here. And ya know what larger draft paper means?\r\n\r\nIt means I can draw a bigger fortress!\r\n\r\nAnd if I can draw it, I can certainly make it! Making's the easy part, as long as you've got a few thousand stones and logs lying around.\r\n\r\nSo whada'ya say, boss? Shall we get building?",
-    "name": "My Very Own Fortress",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

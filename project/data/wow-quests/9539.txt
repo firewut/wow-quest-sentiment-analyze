@@ -1,7 +1,0 @@
-{
-    "_id": "9539",
-    "description": "You begin to read the totem, barely able to pronounce the awkward words and phrases. Slowly, words start to form in your head. You think that the totem is telling you to go up the nearby hill, to the northeast.",
-    "name": "Totem of Coo",
-    "requires_level": 8,
-    "zone": "Azuremyst Isle"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13965",
-    "description": "<name>, if you have a moment to spare, I would enlist your aid in a simple matter.I have not heard from my friends, the Edunes, in some time. I was wondering if you could swing west and check in on them?You have my thanks. Their cottage sits on a small plot of land just to the west of the Shrine of Aessina.",
-    "name": "Check in on the Edunes",
-    "requires_level": 23,
-    "zone": "Ashenvale"
-}

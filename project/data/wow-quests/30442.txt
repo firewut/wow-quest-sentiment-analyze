@@ -1,8 +1,0 @@
-{
-    "_id": "30442",
-    "added_in_patch": 5,
-    "description": "Brew Blanche's Boomer Brew by Protecting the Brewkegs.",
-    "name": "Blanche's Boomer Brew",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

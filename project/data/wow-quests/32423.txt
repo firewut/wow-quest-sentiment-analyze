@@ -1,8 +1,0 @@
-{
-    "_id": "32423",
-    "added_in_patch": 5.1,
-    "description": "Thank you for your aid today, <name>. I will be handling the purge from here on out.Jaina will soon be off to Lion's Landing, to speak with King Varian. She asked for your attendance.",
-    "name": "What Had To Be Done",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

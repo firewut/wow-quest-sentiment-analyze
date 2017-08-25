@@ -1,8 +1,0 @@
-{
-    "_id": "14245",
-    "description": "The trade prince had an entire town-in-a-box in the ship's hold! I managed to recover it while you were out saving all of our skins.Do you want to do the honors? All you have to do is climb to the top of that huge pile of explosives and push the plunger, and whamo kablamo, instant town!",
-    "name": "It's a Town-In-A-Box",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

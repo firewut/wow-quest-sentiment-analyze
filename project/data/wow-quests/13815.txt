@@ -1,8 +1,0 @@
-{
-    "_id": "13815",
-    "description": "As you've been told by now, we are to escort a diplomat from within the besieged lumber camp to safety.As it stands, that's simply impossible. The elves have a thousand arrows trained on the camp's exits.First we must create a diversion - something that will take their eyes off of the camp for a time.My idea is simple. Take this axe and cut down the trees they've been nurturing in the region.When you're through, use the signal powder here to speak with me again.",
-    "name": "Making Stumps",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

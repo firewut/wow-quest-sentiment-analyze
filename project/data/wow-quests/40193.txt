@@ -1,8 +1,0 @@
-{
-    "_id": "40193",
-    "added_in_patch": 7,
-    "description": "Now listen, lad. Everything ye make can always be done better. I just haven't quite worked out the way to do it with these fancy new scales.Perhaps that ghost-like elf friend of yours can help ye. An' if she DOES know somethin', perhaps ye can relay that information back to us.It would certainly go towards making the shop more lucrative.",
-    "name": "Getting the Kinks Out",
-    "requires_level": 104,
-    "zone": "Leatherworking"
-}

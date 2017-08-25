@@ -1,8 +1,0 @@
-{
-    "_id": "28504",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Nyse at Mudsprocket. Join the Horde forces fighting against the renegade Grimtotems who dominate the area.Nyse will provide you with transportation to the front lines. She will be waiting for you at Mudsprocket's inn, tucked away in southern Dustwallow Marsh.Destiny calls!",
-    "name": "Warchief's Command: Thousand Needles!",
-    "requires_level": 39,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

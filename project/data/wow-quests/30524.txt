@@ -1,8 +1,0 @@
-{
-    "_id": "30524",
-    "added_in_patch": 5,
-    "description": "Sure! I know just the wagon that you're talkin' about!I can fix it right up, but I'll need wood.There's a whole lot of it down at the bottom of the lake. If you fish it right out - haha, get it? Fish? Oh I just crack myself up sometimes.Anyway, you bring me here some 'o that wood and then I'll get right to work!",
-    "name": "Growing the Farm II: Knock on Wood",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

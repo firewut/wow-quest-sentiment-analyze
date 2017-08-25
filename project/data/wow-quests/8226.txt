@@ -1,7 +1,0 @@
-{
-    "_id": "8226",
-    "description": "",
-    "name": "Rare Fish - Pale Ghoulfish",
-    "requires_level": 1,
-    "zone": "Fishing"
-}

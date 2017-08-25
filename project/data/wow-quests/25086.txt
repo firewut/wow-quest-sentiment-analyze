@@ -1,7 +1,0 @@
-{
-    "_id": "25086",
-    "description": "Can you do me a huge favor, <name>? My sister-in-law's uncle is in the Earthen Ring, and he's here in the Barrens studying the impact of the Cataclysm, down at Firestone Point. He says their camp is surrounded by quilboar and I worry that they might get overrun.Can you check in on Dorn Redearth for me? I'd hate for anything to happen to him, what with the close family bond and all. ",
-    "name": "Firestone Point",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "13806",
-    "description": "Listen, <class>, I know this assault on Splintertree has everyone worked up, but if we forget about the satyr portals we'll come out of this crisis to face an even larger one.<Locke stares at your expressionless face.>You don't know about the portals?To the northeast, in the regions of Satyrnaar and Xavian, the satyrs are attempting to summon in demons to bolster their numbers.We must be vigilant in closing those portals, no matter what issues we face here!",
-    "name": "Demon Duty",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

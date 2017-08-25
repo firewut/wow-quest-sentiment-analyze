@@ -1,8 +1,0 @@
-{
-    "_id": "36065",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "A TON of Artifact Fragments",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

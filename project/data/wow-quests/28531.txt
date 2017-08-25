@@ -1,8 +1,0 @@
-{
-    "_id": "28531",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Officer Jankie on the road into Desolace at Tethris Aran.The brave soldiers of Nijel's Point are beset by demons and the armies of the Horde, and they need your help. To reach Desolace, travel south on the road from the Charred Vale in the Stonetalon Mountains.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Desolace!",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "Desolace"
-}

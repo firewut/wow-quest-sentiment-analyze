@@ -1,7 +1,0 @@
-{
-    "_id": "27626",
-    "description": "The Highvale have kept detailed records here for years. Deaths, births, seasons... but also vital scouting information and methods of contact with the rest of the Alliance.The documents will be scattered in the chaos. If they fall into the hands of the Forsaken, more lives could be at risk! Please, you must retrieve the documents before they are taken by the Horde...",
-    "name": "The Highvale Documents",
-    "requires_level": 30,
-    "zone": "The Hinterlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39985",
-    "added_in_patch": 7,
-    "description": "Champion! Please come to the Violet Citadel immediately.I have made a discovery that I would like to share with you before the Council of Six.",
-    "name": "Khadgar's Discovery",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

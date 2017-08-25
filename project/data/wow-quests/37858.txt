@@ -1,8 +1,0 @@
-{
-    "_id": "37858",
-    "added_in_patch": 7,
-    "description": "Something is wrong, <name>.I sent Stellagosa to assist you, but I can no longer sense her.Please, go out there and find out what's happened to my granddaughter.",
-    "name": "Stellagosa",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

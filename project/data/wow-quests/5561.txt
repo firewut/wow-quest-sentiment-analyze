@@ -1,7 +1,0 @@
-{
-    "_id": "5561",
-    "description": "Bibbly thinks he is the only goblin in Desolace who knows how to make money.  Well, the only caravan brave enough to travel these parts relies on me.  Ever since I learned how to rejuvenate and control aged kodos with my kodo kombobulator, the caravan owner Cork, Rigger, and I entered a partnership.Take the kombobulator and use it on any ancient or aged kodos; it will jolt the beast into a tamed kodo and force it to follow you.  Once you have a kodo tamed, bring it back to me.",
-    "name": "Kodo Roundup",
-    "requires_level": 30,
-    "zone": "Desolace"
-}

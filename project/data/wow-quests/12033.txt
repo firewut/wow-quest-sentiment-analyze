@@ -1,7 +1,0 @@
-{
-    "_id": "12033",
-    "description": "<Torvus shakes your hand, giving you a letter in the process.><Torvus speaks under his breath.>Just play along, <name>.It is good to see you here, soldier! Lord Hellscream has undoubtedly sent his strongest warriors to Lord Agmar!<Torvus speaks under his breath.>Read it and then destroy it in the fire pot next to me.",
-    "name": "Message from the West",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

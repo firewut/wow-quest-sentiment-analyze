@@ -1,8 +1,0 @@
-{
-    "_id": "43534",
-    "added_in_patch": 7,
-    "description": "We will require a powerful reagent to bind the magic in our weapons and armor. A rare material that will do just the trick is Blood of Sargeras.We will need a plentiful quantity. Bring me whatever you can muster.",
-    "name": "Blood of Sargeras",
-    "requires_level": 110,
-    "zone": "Paladin Campaign"
-}

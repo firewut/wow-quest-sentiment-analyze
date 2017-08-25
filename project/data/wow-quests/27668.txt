@@ -1,7 +1,0 @@
-{
-    "_id": "27668",
-    "description": "Listen, <race>. It's not that I don't appreciate the rescue and all, but this is a dire situation.You have to pay better attention out there!I was watching, and you passed right over a busted alliance crate.There's bound to be something in there that could help me and my boys.How about you get out there and take a look-see, hrm?",
-    "name": "Pay Attention!",
-    "requires_level": 80,
-    "zone": "Vashj'ir"
-}

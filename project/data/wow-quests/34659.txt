@@ -1,8 +1,0 @@
-{
-    "_id": "34659",
-    "added_in_patch": 6,
-    "description": "Do you remember our greeting, $p?\"Shadows gather when the raven swallows the day.\"It is more than an old verse - it is a call to action. Followers of the old ways are gathering, and I must join them. You are needed, too, I should thinkFollow this road down to Crow's Crook. There you will find the home of an old crone. Greet her as you greeted me, and she will guide the way.You will not see me, but I will be close behind.",
-    "name": "The Crone",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

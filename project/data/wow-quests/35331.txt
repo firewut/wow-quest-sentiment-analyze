@@ -1,9 +1,0 @@
-{
-    "_id": "35331",
-    "added_in_patch": 6,
-    "description": "I was far from here in Talador when the voice called out to me.I looked around but found myself alone. Again, I heard the voice as if it were a breeze in my mind.\"You are needed at the throne,\" it whispered.The voice called itself Kalandrios, and it guided me to this place.I had never been here before, nor had I yet beheld these furies with my eyes; yet this feels strangely familiar to me as if it happened long ago in a forgotten dream.We should greet the furies and hear them out.",
-    "name": "Called to the Throne",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

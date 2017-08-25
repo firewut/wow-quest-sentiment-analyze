@@ -1,8 +1,0 @@
-{
-    "_id": "31265",
-    "added_in_patch": 5,
-    "description": "Here to help, are ya? Well, first thing's first.<Arie rummages through her pockets for a moment before producing a small vial of glowing blue fluid.>Here it is! \"Mazu's Breath.\" Cap'n's own formula.What? You thought I'd send you out to sea without a means of breathin'? I need deckhands, not corpses!Down the hatch with it, green. This'll give you a fighting chance out there on the shelf.",
-    "name": "Mazu's Breath",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10053",
-    "description": "It is imperative that we follow up on the momentum created by your defeat of Warboss Nekrogg, <name>. If we're lucky, the leadership at Zeth'Gor won't have heard about Nekrogg.The Bonechewers at Zeth'Gor to the southeast are usually led into battle by Grillok \"Darkeye\". Seek him out in his lair, a cave cut beneath the fel orc settlement, and kill him. Once he is dead, search the cave for the fel orc battle plans. We must not be taken by surprise.",
-    "name": "Dealing with Zeth'Gor",
-    "requires_level": 58,
-    "zone": "Hellfire Peninsula"
-}

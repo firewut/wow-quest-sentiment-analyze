@@ -1,8 +1,0 @@
-{
-    "_id": "27170",
-    "description": "If you truly intend to move forward in this battle for Andorhal... well, perhaps I can help.To the east lies a large crypt.  The bottom level of the crypt was once used for storage of weapons and armor... until the Scourge came.  Now that the undead have left, the weapons are free for the taking.Most of the weapons are probably rusted and rotten by now, but they will serve better than tunics and pitchforks.",
-    "name": "The Abandoned Crypt",
-    "requires_level": 34,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

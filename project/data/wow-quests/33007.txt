@@ -1,8 +1,0 @@
-{
-    "_id": "33007",
-    "added_in_patch": 5.4,
-    "description": "[TEMP TEXT] Gauros may have tested you, but I think you're capable of more, <name>. I know what warriors like you have been through, and a few missions out in the field are really all in a day's work.Your true trial will take place in [PROVING GROUNDS TOWN]. Speak with [PROVING GROUNDS JIM] at [PROVING GROUNDS TOWN], and defeat one of his trials.",
-    "name": "Proving Grounds",
-    "requires_level": 90,
-    "zone": "Warrior"
-}

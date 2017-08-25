@@ -1,7 +1,0 @@
-{
-    "_id": "12240",
-    "description": "I received a few barrels of termites from my sister at the Bulwark back home in the last shipment. I think they're going to come in handy for something I have in mind for you.The lumbermill operations at New Hearthglen are problematic for us, but so far we haven't been able to get anyone in there to take out their foreman.I think that if you were to unleash these termites on his precious woodworks, he'd be sure to come running.Ready to take him out, <class>?",
-    "name": "A Means to an End",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

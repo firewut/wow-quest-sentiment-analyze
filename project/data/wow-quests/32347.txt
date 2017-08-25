@@ -1,8 +1,0 @@
-{
-    "_id": "32347",
-    "added_in_patch": 5.1,
-    "description": "The bloody Reliquary's snuck into the ruins. They've taken the lower section and are conducting all kinds of magical shenanigans down there.\r\n\r\nIt's time we gave 'em an eviction notice, in the form of your boot in their rear!",
-    "name": "Eviction Notice",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

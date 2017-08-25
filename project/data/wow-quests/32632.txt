@@ -1,8 +1,0 @@
-{
-    "_id": "32632",
-    "added_in_patch": 5.2,
-    "description": "Some things are built with multiple purposes in mind. Some things are built with the sole purpose of destruction.A massive construct called the Pyrestar Demolisher sits guarding Dawnseeker Promontory. Its purpose is solely to destroy. It must be dismantled.",
-    "name": "Made for War",
-    "requires_level": 90,
-    "zone": "Quests"
-}

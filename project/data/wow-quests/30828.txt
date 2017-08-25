@@ -1,8 +1,0 @@
-{
-    "_id": "30828",
-    "added_in_patch": 5,
-    "description": "Pools of the same murky substance that came out of Mei emerged in the lake recently.\r\n\r\nI will travel into the Mere with you. Point out the pools of corruption that you are ready for me to cleanse.\r\n\r\nYou will need to deal with whatever comes out and protect me as I complete the ritual.",
-    "name": "Cleansing the Mere",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

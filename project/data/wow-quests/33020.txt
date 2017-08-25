@@ -1,8 +1,0 @@
-{
-    "_id": "33020",
-    "added_in_patch": 5.4,
-    "description": "If you've come here to try my family's famous noodle soup, I'm afraid you're out of luck.My father passed away before he could teach me the secret ingredient. He did mention writing down the recipe for a friend of his that studied at the Temple of the Jade Serpent.Perhaps you can find it there?",
-    "name": "The Lost Secret of the Secret Ingredient",
-    "requires_level": 90,
-    "zone": "Cooking"
-}

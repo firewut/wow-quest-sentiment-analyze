@@ -1,7 +1,0 @@
-{
-    "_id": "10515",
-    "description": "We need to show those flayers what happens when you mess with Oronok's business!I want you to go back to the Shattered Plains and destroy every flayer egg that you see. They'll be deep in flayer territory so keep your guard up.",
-    "name": "A Lesson Learned",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

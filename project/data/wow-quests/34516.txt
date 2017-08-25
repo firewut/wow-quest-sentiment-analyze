@@ -1,8 +1,0 @@
-{
-    "_id": "34516",
-    "added_in_patch": 6,
-    "description": "You've got to help me!I was hiding on the trade wagon that got ambushed just down the road from here. I snuck away before the saberon spotted me...but...but...THEY STOLE MY MOST PRIZED POSSESSION!You've got to help me get it back! I watched them drag it into Sabermaw and up that giant hill!Who knows what those filthy saberon will do to it!Please, I'm just a kid! You've got to help me out, right?",
-    "name": "My Precious!",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

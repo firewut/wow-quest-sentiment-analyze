@@ -1,8 +1,0 @@
-{
-    "_id": "42654",
-    "added_in_patch": 7,
-    "description": "Blacksmith Kyriel is no stranger to the Farstriders. He has forged countless arrows for us in the past, using his knowledge of unique materials to help build better, stronger ammo.He's efficient and gifted, making the most of scarce materials.Using a single branch from a corrupted ancient, he can craft thousands of arrows.",
-    "name": "Nightmare Oak",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

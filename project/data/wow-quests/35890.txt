@@ -1,8 +1,0 @@
-{
-    "_id": "35890",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Dire Maul (Warpwood Quarter) Reward Quest",
-    "requires_level": 36,
-    "zone": "Quests"
-}

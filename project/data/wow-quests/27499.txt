@@ -1,7 +1,0 @@
-{
-    "_id": "27499",
-    "description": "Now that you've lured Skullcrusher the Mountain away from the Twilight Gate, it's time to signal your forces at Crushblow to attack!",
-    "name": "Signal the Attack",
-    "requires_level": 84,
-    "zone": "Quests"
-}

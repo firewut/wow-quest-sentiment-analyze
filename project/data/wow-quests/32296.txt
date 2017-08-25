@@ -1,8 +1,0 @@
-{
-    "_id": "32296",
-    "added_in_patch": 5.2,
-    "description": "My scouts have returned with word that more of the treasures from Lei Shen's tomb are being brought up into the citadel. We have access to a secret sewer entrance, but a door bars us from intercepting the shipment. If we're going to succeed in this raid, we will need a key that only the most trusted of Lei Shen's forces carry.If you get your hands on such a key, bring it to me.You can keep whatever spoils you steal from our raid. I simply want to see that this shipment never makes it to Lei Shen.",
-    "name": "Treasures of the Thunder King",
-    "requires_level": 90,
-    "zone": "Quests"
-}

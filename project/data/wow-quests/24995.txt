@@ -1,7 +1,0 @@
-{
-    "_id": "24995",
-    "description": "While you were collecting samples for me, my experiments led me to realize that more reagents will be required for this new disease to spread properly.  Poisoning some hapless victim is child's play.  Plaguing an entire world proves to be a bit more complicated.I will need several scales from murlocs in the vicinity.  You will find the creatures ambling brainlessly along the coast to the north.",
-    "name": "Off the Scales",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

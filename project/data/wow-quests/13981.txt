@@ -1,7 +1,0 @@
-{
-    "_id": "13981",
-    "description": "This is clearly the biggest explosive that you've ever laid eyes upon. What in the world could the goblins be thinking about bombing with such a monstrosity?To your eye the thing looks like it's almost complete. The goblins appear to have built it well -- it looks as if it's impervious to any damage that you could do to it, and certainly too big for you to carry out of here.You'd better report The Bomb to Huntress Jalin at Stardust Spire to the southwest!",
-    "name": "They Set Them Up The Bomb!",
-    "requires_level": 23,
-    "zone": "Ashenvale"
-}

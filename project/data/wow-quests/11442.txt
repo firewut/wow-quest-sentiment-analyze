@@ -1,7 +1,0 @@
-{
-    "_id": "11442",
-    "description": "[PH] Speak to the Brewfest Organizer at the Brewfest Grounds outside of Ironforge and receive a free beer.",
-    "name": "Welcome to Brewfest!",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

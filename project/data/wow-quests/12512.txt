@@ -1,7 +1,0 @@
-{
-    "_id": "12512",
-    "description": "Ahh, good. They sent someone.Listen, <race>. We need a hand here. Our forces were pushed back and we've lost Drak'Sotra to the Scourge. Where they came from is anyone's guess....The point is, we need every man we can get here, and some of our best have yet to return from battle.I need you to enter the ruins now that the fighting has died down and find our wounded, patch them up, and bring them here to me.Scour Drak'Sotra! They couldn't have gone far.",
-    "name": "Leave No One Behind",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

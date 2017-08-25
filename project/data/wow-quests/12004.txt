@@ -1,8 +1,0 @@
-{
-    "_id": "12004",
-    "description": "We need to kill two birds with one stone here, <class>. You're the stone.Our two birds are Wind Trader Mu'fah and Goramosh. They should be somewhere in the western half of the Moonrest Gardens. Most likely they're in the larger two-story building overlooking the pit.I require proof of their demise, if you would be so kind.",
-    "name": "Prevent the Accord",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

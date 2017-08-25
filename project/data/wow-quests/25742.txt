@@ -1,7 +1,0 @@
-{
-    "_id": "25742",
-    "description": "A deal's a deal.I present you - mysterious <race> stranger - with the one and only Pewter Pounder.You may approach and receive this illustrious gift.There, now, while it may look to be a simple hammer to the untrained eye, there are surely many hidden properties that will only manifest themselves when the appropriate situation arises.Take good care of this treasure, stranger. It has been in my royal possession for... well... days, now!",
-    "name": "What? This Old Thing?",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

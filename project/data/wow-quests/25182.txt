@@ -1,7 +1,0 @@
-{
-    "_id": "25182",
-    "description": "I want to see some dead goblins, <name>! Just west of here you'll find a whole warren of those little insects burrowing into the mountain.Let's see to it that they're digging their grave.Destroy them. Lay waste to their whole grubby operation. They've sown their own demise in Bael'dun, <class>, and it is time to meet the reaper. ",
-    "name": "Kill 'em All!",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

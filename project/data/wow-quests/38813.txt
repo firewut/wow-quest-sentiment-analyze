@@ -1,8 +1,0 @@
-{
-    "_id": "38813",
-    "added_in_patch": 7,
-    "description": "All that is left is to deliver your orders to our Illidari captains. The mightiest of the Legion's forces have arrayed themselves within the volcano. But, they will not remain on the defensive for long.\r\n\r\nWe must strike first and we must strike hard.\r\n\r\nOnce we destroy them, we can fly up to the command ship, defeat Brood Queen Tyranna, and take the keystone for our own. Lord Illidan will be pleased.",
-    "name": "Orders for Your Captains",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

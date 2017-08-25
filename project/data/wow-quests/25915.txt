@@ -1,7 +1,0 @@
-{
-    "_id": "25915",
-    "description": "The dark usurper Nemesis fled here when the fires of Hyjal receded. We are not yet strong enough to defeat Nemesis, <name>, but we may be able to turn his own strength against him.I will send a child of Tortolla with you, one of the children you freed earlier from the Twilight's corruption.Search the depths of this cave for a Nemesis Crystal, and allow the young turtle to examine it.See me if you lose your companion!",
-    "name": "The Strength of Tortolla",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

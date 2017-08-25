@@ -1,7 +1,0 @@
-{
-    "_id": "27423",
-    "description": "<The F.C.D. buzzes.>This is Commander Lorna Crowley of the Gilneas Liberation Front. If you are hearing this message then you know that the Alliance once again controls Gilneas. Lay down your weapons and surrender. Failure to comply will result in your death.Our forces have locked on to your position and will arrive shortly. Resistance is futile.",
-    "name": "Resistance is Futile",
-    "requires_level": 13,
-    "zone": "Ruins of Gilneas"
-}

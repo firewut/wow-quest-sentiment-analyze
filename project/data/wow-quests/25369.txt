@@ -1,7 +1,0 @@
-{
-    "_id": "25369",
-    "description": "In surveying the Writhing Deep, one of our scouts reported seeing a giant insect - much larger than the other insects spotted - wandering about the twisted terrain.  Not only is it larger, it also seems to secrete some sort of aura that the other insects don't.  We've given it a name - Stinglasher.The innards of this beast would be invaluable to study as we figure out the best way to deal with this new threat.  Cut out its secretion glands and bring it back to me immediately!",
-    "name": "Stinglasher",
-    "requires_level": 36,
-    "zone": "Feralas"
-}

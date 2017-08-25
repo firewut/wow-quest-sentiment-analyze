@@ -1,7 +1,0 @@
-{
-    "_id": "12130",
-    "description": "We've got the blueprints, but we can't do anything with them without parts! We don't have access to a foundry, much less materials, but there's a whole load of parts up in Dun Argol.Your job?Give them a new home.They're likely to be scattered around any of the buildings where the iron rune-smiths are working, and I wouldn't blame the irons for being cranky when you try to filch their handiwork. The more parts you can bring, the better we can make this golem.",
-    "name": "Why Fabricate When You Can Appropriate?",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32450",
-    "added_in_patch": 5.1,
-    "description": "Now we take the fight to them, <class>!Report to Shademaster Kiryn in Sparkrocket Outpost. She will have your orders.Now we'll see how they handle the full might of the Horde rushing at their precious keep!",
-    "name": "The Time Is Now!",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

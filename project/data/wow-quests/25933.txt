@@ -1,8 +1,0 @@
-{
-    "_id": "25933",
-    "description": "Thank you again for all your help here, <name>.I have a cousin who used to work in the mines beneath the Gol'Bolar Quarry, but he hasn't been able to work since troggs flooded into the mines and took control. The quarry and its camp are just to the southeast of the ranch. Would you be willing to check in with the foreman there and see if there's anything to be done?",
-    "name": "Help for the Quarry",
-    "requires_level": 6,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

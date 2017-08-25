@@ -1,8 +1,0 @@
-{
-    "_id": "27673",
-    "description": "The Makers built two Ancient Stone Keepers to help protect Uldaman from would-be invaders and to oversee daily operations while Ironaya and Archaedas slumber. One is still fully operational in Temple Hall, but the one in Echomok Cavern has been corrupted by something.I fear that one of the Old Gods is responsible for this, and you're going to help me see if that's the case! Topple both of the guardians and bring me their power cores. They'll tell us all we need to know. ",
-    "name": "It's What's Inside That Counts",
-    "requires_level": 35,
-    "side": "alliance",
-    "zone": "Uldaman"
-}

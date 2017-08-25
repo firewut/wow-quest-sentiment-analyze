@@ -1,9 +1,0 @@
-{
-    "_id": "36630",
-    "added_in_patch": 6,
-    "description": "Before you go there is someone you might want to talk with.He's opinionated, a bit gruff, and very overbearing, but he's the best damn warrior I've met in ages.He belongs on the front lines with you, commander. And trust me, he knows it.",
-    "name": "A Surly Dwarf",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Stormshield"
-}

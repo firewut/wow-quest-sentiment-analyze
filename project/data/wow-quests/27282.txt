@@ -1,7 +1,0 @@
-{
-    "_id": "27282",
-    "description": "<name>, I have received word that you are needed back in Orgrimmar. Kranosh, one of the senior warlock trainers in the Cleft of Shadow, has something important that he wishes to discuss with you. It seems like the kind of thing that cannot wait.Make your way back to Orgrimmar and speak with him as soon as you can.",
-    "name": "Kranosh's Behest",
-    "requires_level": 20,
-    "zone": "Warlock"
-}

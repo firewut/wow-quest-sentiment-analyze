@@ -1,8 +1,0 @@
-{
-    "_id": "38811",
-    "added_in_patch": 7,
-    "description": "You have proven resourceful thus far, stranger. As promised, I will instruct you on the ritual of wakening.\r\n\r\nFirst, you must place the offering directly atop the grave of the ruler you wish to awaken. Burn the incense so that its aroma wafts over the grave. If your offering is adequate, the ruler will rise, and you may ask your judgment.\r\n\r\nTake care, outsider. The dead vrykul kings will not enjoy being awakened from their slumber.",
-    "name": "Judgment Day",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

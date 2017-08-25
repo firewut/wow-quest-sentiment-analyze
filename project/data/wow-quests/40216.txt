@@ -1,8 +1,0 @@
-{
-    "_id": "40216",
-    "added_in_patch": 7,
-    "description": "Addie's one heck of a writer, but I've never seen her hold a rifle. She's keen on learning how to hunt, but who's ever heard of a gnome hunter? \r\n\r\nYou seem to have a knack dealin' with amateurs, so maybe you'd be willin' to let the gnome tag along on a hunt? She could learn a thing or two by shadowing someone with your skill.\r\n\r\nYa best start off with some small game. We don't want the lass to get discouraged.",
-    "name": "A Hunter at Heart",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30046",
-    "added_in_patch": 5,
-    "description": "You know what? I don't have to take this.I'll show that Uncle Gao what it means to be a real brewer. I'll brew the best beer he's ever tasted, with ingredients I've never even used before.I'm Chen Stormstout, and I'm the best brewer alive.",
-    "name": "Chen's Resolution",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

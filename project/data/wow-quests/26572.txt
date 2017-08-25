@@ -1,8 +1,0 @@
-{
-    "_id": "26572",
-    "description": "You heard of the golden stonefish, <name>?  The thing with these fish is that they can't be caught by normal means.  They have jaws so strong that they snap right through any hooks or lures you try to use on 'em.You can find a number of them in Thunder Ridge, south of Orgrimmar.  That ridge used to be full of thunder lizards, but they all drowned in the flood.Take my knife, swim down there and cut off their tails.  You should be able to use the tail to zap any stonefish you find.",
-    "name": "A Golden Opportunity",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Fishing"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31108",
-    "added_in_patch": 5,
-    "description": "Amber is power. It brings life.This... dread amber you brought me has been twisted. It is concentrated fear.The Vor'thik know this well. Their kypari has been completely engulfed by sha, and they use the dread amber to quicken their own swarmborn.Bring me the crystals used by the Vor'thik fear-shapers in their rituals. The Klaxxi will study them and decide on a protocol for disposal.",
-    "name": "Concentrated Fear",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14262",
-    "description": "It tries my patience, defending against creatures who can disappear into the sea at will and emerge where they please. But I will not back down until their like has been wiped from Azshara.Spitelash Naga have slithered up the cliff walls and are besieging this post from the east. Destroy them, <name>. Gut them head to tail, so that they may know the full fury of my Horde.",
-    "name": "To Gut a Fish",
-    "requires_level": 11,
-    "side": "horde",
-    "zone": "Azshara"
-}

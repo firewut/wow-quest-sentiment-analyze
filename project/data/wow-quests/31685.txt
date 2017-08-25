@@ -1,8 +1,0 @@
-{
-    "_id": "31685",
-    "added_in_patch": 5,
-    "description": "Yarr, the Jade Forest be goin through some violent reconstruction, but the Valley of the Four Winds is ripe for explorin.  Talk with me when ye be ready to go and I can give ye a ride ta where ya need to go.  Talk to me cohort on the other side 'ta get some equipment to aid ya on yer journey.",
-    "name": "Valley of the Four Winds",
-    "requires_level": 85,
-    "zone": "Stormwind City"
-}

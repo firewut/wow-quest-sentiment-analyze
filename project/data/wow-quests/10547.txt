@@ -1,7 +1,0 @@
-{
-    "_id": "10547",
-    "description": "I'd have given up had I not noticed... He's a Thistlehead. I couldn't place it at first but the signs are all there...Now if we could get our hands on some bloodthistle, we'd be in business.In my travels, I met a shady Broken in Shattrath named Tobias.Tobias made a business of trading bloodthistle to blood elves for rotten arakkoa eggs.Directly west of here are arakkoa ruins. Search them for an egg and head to the lower city of Shattrath. That's where you'll find Tobias.",
-    "name": "Of Thistleheads and Eggs...",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

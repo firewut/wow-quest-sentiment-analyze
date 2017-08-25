@@ -1,8 +1,0 @@
-{
-    "_id": "26048",
-    "description": "Whew, that was tough. I didn't think we'd make it, <name>. We better get these parts back to Chief Blastgineer Bombgutz. I think I hear the gnome flying machines buzzing outside. We haven't got a minute to lose!",
-    "name": "Spare Parts Up In Here!",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

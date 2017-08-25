@@ -1,8 +1,0 @@
-{
-    "_id": "24928",
-    "description": "I've conducted a thorough appraisal of the real estate here and, unfortunately, its market value is just far too low to be of any use. We're going to have to renovate.Luckily for you, I've learned a few things about arson. Hopefully you have too! You're going to be throwing these perfectly safe bottles of flaming rum at those filthy ramshackle huts over there.Try not to stand downwind.",
-    "name": "To The Ground!",
-    "requires_level": 44,
-    "side": "horde",
-    "zone": "Tanaris"
-}

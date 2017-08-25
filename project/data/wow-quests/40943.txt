@@ -1,8 +1,0 @@
-{
-    "_id": "40943",
-    "added_in_patch": 6.2,
-    "description": "Sargerei forces from deep in Shattrath have grown stronger and bolder by the day. We can no longer risk ignoring the threat that they pose.\r\n\r\nBring allies if you wish to face the Sargerei so deep within the city.",
-    "name": "Missive: Assault on the Heart of Shattrath",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

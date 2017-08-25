@@ -1,8 +1,0 @@
-{
-    "_id": "26297",
-    "description": "It looks like the meeting the shadowy figure spoke of is starting soon. The homeless are starting to mobilize. I need you to attend the rally and gather information, <name>.Go to the center of Moonbrook and listen in on the rally. Return to me with whatever you find out.",
-    "name": "The Dawning of a New Day",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Westfall"
-}

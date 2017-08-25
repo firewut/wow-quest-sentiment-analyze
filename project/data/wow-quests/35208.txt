@@ -1,9 +1,0 @@
-{
-    "_id": "35208",
-    "added_in_patch": 6,
-    "description": "While you were away our rangari here found more clues leadin' to some of me other friends.Burrian Coalpart and Scorchbrow.Problem is, their trail heads right for Evermorn Springs to the west.Please Commander, will ya get in there and save them from mulching?",
-    "name": "Dark Iron Down",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

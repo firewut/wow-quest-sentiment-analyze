@@ -1,9 +1,0 @@
-{
-    "_id": "34914",
-    "added_in_patch": 6,
-    "description": "We've received reports that the draenei enclave at Telaar has fallen to the Warsong.I sent a small group of shadow hunters to check on the situation.Kajassa is their leader. Will you meet her there?",
-    "name": "Target of Opportunity: Telaar",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11239",
-    "description": "Your service has been exemplary, <name>, but there is something that is troubling me: the Scourge.The Light cannot abide their presence, and neither shall we. I hope that it is not asking you too much, but I would have you return north to Gjalerbron and crush the unholy Scourge in that vile lair! Be sure to check for them in the Waking Halls beneath Gjalerbron as well.Purification is the key to salvation, my child. Make us proud!",
-    "name": "In Service to the Light",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

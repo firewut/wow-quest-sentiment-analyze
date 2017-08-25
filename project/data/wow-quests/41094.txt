@@ -1,8 +1,0 @@
-{
-    "_id": "41094",
-    "added_in_patch": 7,
-    "description": "Greetings, hatchling. Do you wish to soar amongst the clouds as my children do?\r\n\r\n<Aviana chuckles - a clicking, crow-like noise.>\r\n\r\nVery well, receive my blessing and we shall see how developed your wings are.",
-    "name": "Hatchlings of the Talon",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

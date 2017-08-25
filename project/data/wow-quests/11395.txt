@@ -1,7 +1,0 @@
-{
-    "_id": "11395",
-    "description": "The Scourge creature you just destroyed had this device held in its clutches. It has a jewel set into it which looks similar to the one that tops the scourging crystals.Surely, Explorer Jaren would like to have a look at this.",
-    "name": "It's a Scourge Device",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

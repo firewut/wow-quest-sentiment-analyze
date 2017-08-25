@@ -1,8 +1,0 @@
-{
-    "_id": "40412",
-    "added_in_patch": 7,
-    "description": "You won't have much time before the Legion is aware of your presence on the ship.When the alarm is raised, countless Burning Legion forces will attempt to board the ship through this portal.I will not let them succeed.I will guard this portal from enemy reinforcements until you return. It is up to you to slay Azoran and lay waste to his ship.We don't have much time... you must attack swiftly and without mercy.",
-    "name": "Azoran Must Die",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

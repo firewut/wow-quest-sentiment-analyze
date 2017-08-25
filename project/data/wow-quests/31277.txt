@@ -1,8 +1,0 @@
-{
-    "_id": "31277",
-    "added_in_patch": 5,
-    "description": "Those damnable Mogu...\r\n\r\nThose scouts were a distraction! While we were hunting their spies, the main force moved on Niuzao Temple. Corrupted serpents, Mogu everywhere... this is a disaster!\r\n\r\nThankfully, Ban was able to make it past their lines with the most elite members of our order. If you can slip past, too, meet up with him. We need to put a stop to this!",
-    "name": "Surprise Attack!",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

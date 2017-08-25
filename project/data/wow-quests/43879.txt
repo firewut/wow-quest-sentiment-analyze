@@ -1,8 +1,0 @@
-{
-    "_id": "43879",
-    "added_in_patch": 7,
-    "description": "You have a weapon both ancient and powerful. And yet, we barely understand it. If we truly want to unlock all of its potential, we need to learn more about it. That's where I come in. It's my specialty.\r\n\r\nStill, it will take time and more eyes than just mine to sift through all this history, translate it, and turn it into something meaningful.\r\n\r\nWe should prioritize some of the order's resources towards this research. I promise you it will be worth every minute.",
-    "name": "Hitting the Books",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

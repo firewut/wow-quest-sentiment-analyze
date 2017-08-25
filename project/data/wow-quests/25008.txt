@@ -1,7 +1,0 @@
-{
-    "_id": "25008",
-    "description": "You probably caught wind of some of them Hecklefang scavengers on the way in - they reek worse than ol' Durty Pete here. Worthless animals! They steal our kills, rummage through our supplies, and worse... they ain't good for eatin'.Go kill some.Then kill some more, if you want to. ",
-    "name": "Filthy Animals",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

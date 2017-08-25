@@ -1,9 +1,0 @@
-{
-    "_id": "38188",
-    "added_in_patch": 6.1,
-    "description": "We've figured out how to make those scraps in to something a bit more useful to your troops. Bring me a pile of them and I'll have our smiths process it for you.",
-    "name": "Scrap Meltdown",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison"
-}

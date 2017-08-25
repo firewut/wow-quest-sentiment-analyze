@@ -1,8 +1,0 @@
-{
-    "_id": "25714",
-    "description": "It's time for you to visit the Watcher.  He's been in a bit of a mood lately, and I'm not quite sure why.Head up to the top of the mage tower and check in with him.  I don't have any work for you here, but I'm certain that he will.",
-    "name": "Watcher Mahar Ba",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43535",
-    "added_in_patch": 7,
-    "description": "<Delas smears fel blood across the lexicon's pages. Alien sigils blaze forth above the paper. She scribbles them down furiously.>My goodness... these are detailed records of the Legion invasion force at Felblaze Ingress. They are planning to open a portal directly to their demon world of Niskara! This is quite serious - we need to alert your allies at once.If you are going back to Light's Hope Chapel, could I accompany you? I would like to offer my services.",
-    "name": "Translation: Danger!",
-    "requires_level": 103,
-    "zone": "Paladin Campaign"
-}

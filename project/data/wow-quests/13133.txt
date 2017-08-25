@@ -1,7 +1,0 @@
-{
-    "_id": "13133",
-    "description": "Quickly, <name>, head southwest to the Halls of the Ancestors!Within you will find slumbering mjordin. Wake them until you find Iskalder. When you do, use this amulet upon him and bring him back to me.Now go. There is no time to waste!",
-    "name": "Find the Ancient Hero",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

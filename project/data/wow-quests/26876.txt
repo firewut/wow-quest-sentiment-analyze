@@ -1,7 +1,0 @@
-{
-    "_id": "26876",
-    "description": "It is time, <name>.  We have spotted Abyssion making his way to the lair.The Twilight's Hammer might've thought the fragment would be safe if a dragon guarded it, but I've met enough dragons to know their one weakness.  Pride.Abyssion's not going to run from a fight with us puny mortals.Place the banner of the Earthen Ring in the middle of his lair.  Once we defeat him, bring the fragment to Maruut.  We need to to repair the World Pillar as soon as possible.",
-    "name": "The World Pillar Fragment",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

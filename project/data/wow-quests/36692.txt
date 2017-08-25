@@ -1,8 +1,0 @@
-{
-    "_id": "36692",
-    "added_in_patch": 6,
-    "description": "There's been a resurgence of rylaks on the battlefield in our skirmishes against the Iron Horde. If we don't stop them at the source, we'll quickly lose control of the roads and be pushed back into our outposts.\r\n\r\nThe most likely source of these additional rylaks is in southeastern Shadowmoon Valley, at Darktide Roost. If we move quickly, we should be able to stop their operation cold.",
-    "name": "Assault on Darktide Roost",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

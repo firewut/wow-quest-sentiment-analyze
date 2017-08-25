@@ -1,7 +1,0 @@
-{
-    "_id": "26710",
-    "description": "Pebble has gotten himself lost again, somewhere deep in the Crumbling Depths.He's fortunate that his size makes him unworthy of the effort for those gyreworms, but it's only a matter of time before he stumbles too close to one and gets eaten. Whatever he's so intent on down there is certainly not worth it.He seems to like you. Please, go and find him and bring him out of those tunnels to safer playing grounds.",
-    "name": "Lost In The Deeps",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

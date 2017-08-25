@@ -1,8 +1,0 @@
-{
-    "_id": "30780",
-    "added_in_patch": 5,
-    "description": "As we entered the village, I couldn't help but notice yaungol totems lying around this camp.I have a suspicion that there are dark forces at work here, and those totems may be the key to drawing them out.Could you bring me some of these totems for further inspection? I would like to study them.",
-    "name": "Totemic Research",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

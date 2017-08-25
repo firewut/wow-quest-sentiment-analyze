@@ -1,8 +1,0 @@
-{
-    "_id": "39432",
-    "added_in_patch": 6.2,
-    "description": "The one they call Gul'dan has ruined his own people, and now seeks to ruin what remains of mine as well. The fallen outcasts at Kra'nak have already pledged themselves to Gul'dan in a false promise of a return to the skies. He has given the most powerful of his minions the power of the Apexis, but twisted in a way that I cannot explain. Bring one of these fragments to me.",
-    "name": "Unknowable Power",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

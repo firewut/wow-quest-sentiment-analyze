@@ -1,8 +1,0 @@
-{
-    "_id": "12412",
-    "description": "If there is one thing I can get through your head, let it be this: the Alliance will be crushed in the Grizzly Hills.There is far too much lumber, ore, game and strategic territory for us to give up on any single battlefront here.So far we've been successful... but there's something that could tip the scales in our enemy's favor.Far to the east  of here, at the Forest Edge's Post, local trappers seek to join the Alliance.  Slaughter them before they have the chance to do so.",
-    "name": "My Enemy's Friend",
-    "requires_level": 73,
-    "side": "horde",
-    "zone": "Grizzly Hills"
-}

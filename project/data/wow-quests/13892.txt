@@ -1,7 +1,0 @@
-{
-    "_id": "13892",
-    "description": "To the southwest lies the corpse of a being somehow related to the Old Gods that the Twilight's Hammer cultists worship.He was defeated before our time -- if not by the Titans themselves, certainly by one of their creations.We've noted an increase in cult activity in that area which can only mean something terrible is amiss.We're going to need to find out what they're planning to do there and why.  Take this figurine, it'll help you avoid being detected while you gather intelligence.",
-    "name": "Leave No Tracks",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

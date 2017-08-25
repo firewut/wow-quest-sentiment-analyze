@@ -1,7 +1,0 @@
-{
-    "_id": "13893",
-    "description": "The Master's Glaive was the site of an ancient battle, <name>.  The titans sent twenty of their stone giants against Soggoth.Of those twenty giants, one survived.The tablets say that Kronn, the largest of the stone giants allowed himself to be entangled by Soggoth's tendrils -- just long enough to be lifted close enough to the creature's skull... within reach of his mighty sword.It's a good thing he's dead... we don't really have twenty stone giants lying around to stop him again.  ",
-    "name": "Soggoth and Kronn",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

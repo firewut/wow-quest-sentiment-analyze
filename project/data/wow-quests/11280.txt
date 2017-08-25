@@ -1,7 +1,0 @@
-{
-    "_id": "11280",
-    "description": "Wait, that gives me an idea! What if it didn't kill the whelps because it was sprayed on the outside of their eggs?<name>, we have to get the plague inside of them!I know! I've got some plagued meat here. Take it to the Ember Clutch and get them to eat it!But no, we're thinking too small. Let's get one of the proto-drakes flying overhead to come down and eat it.Yes!Stay close to the meat and observe what happens. Yes, it might attack you, but such is the price of progress.",
-    "name": "Draconis Gastritis",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

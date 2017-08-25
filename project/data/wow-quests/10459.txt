@@ -1,7 +1,0 @@
-{
-    "_id": "10459",
-    "description": "We've taken notice of your accomplishments, <name>.  What you've done for us goes beyond what we expect from our allies.I've a special request to ask of you, but I must test your dedication first.",
-    "name": "Revered Among the Cenarion Expedition",
-    "requires_level": 68,
-    "zone": "Zangarmarsh"
-}

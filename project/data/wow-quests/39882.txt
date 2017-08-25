@@ -1,8 +1,0 @@
-{
-    "_id": "39882",
-    "added_in_patch": 7,
-    "description": "I once taught the night elves how to enchant their armor to strengthen themselves against the evils of this land. One elf in particular garnered my favor.Arch-Druid Glaidalis is his name. He now resides in the forest known as the Darkheart Thicket, plotting to undo this world with this awful blight.Before his betrayal, I gave him my book of enchantments to study. I would very much like it back.I trust you with this task, enchanter. Bring my book back to me.",
-    "name": "The Glamour Has Faded",
-    "requires_level": 104,
-    "zone": "Enchanting"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27115",
-    "description": "You've done great work here, <name>. While you were out, that young Ando fellow was here looking for you. Said something about a metal bird.You might want to go back to the shores of the Loch and see what he wanted.",
-    "name": "Ando's Call",
-    "requires_level": 15,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

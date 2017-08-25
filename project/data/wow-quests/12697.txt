@@ -1,7 +1,0 @@
-{
-    "_id": "12697",
-    "description": "CHAOS, <name>! The Crusade is in a frenzy. They have diverted all forces outside of New Avalon to set up a blockade at Light's Point, east of here. They are desperately trying to strip the Havenshire Mine of all resources and load the cargo aboard the frigates they have docked on the coast.Let's stir things up a bit, shall we? Gothik the Harvester, grand necromancer of the Lich King, has graced us with his presence. He has a gift he'd like to bestow upon the Scarlet Crusade. Seek him out.",
-    "name": "Gothik the Harvester",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

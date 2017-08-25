@@ -1,8 +1,0 @@
-{
-    "_id": "38646",
-    "added_in_patch": 7,
-    "description": "Do you see those ravenous birds flying above my farm? Vicious creatures are spreading their filth an' eatin' my crops.I'd get rid of them with my trusty gun, but my eyesight's gone downhill.Take this flare gun and mark them for me.Once I get my sights on them, I'll make 'em scatter.",
-    "name": "A Sight For Sore Eyes",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

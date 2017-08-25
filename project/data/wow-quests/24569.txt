@@ -1,8 +1,0 @@
-{
-    "_id": "24569",
-    "description": "<name>, you've proven yourself on the Fields of Blood. But the Alliance still threatens our tauren friends.The siege machinery outside the gates of Mulgore is like a spear aimed at our heart. I want you to go to the gates, south of here, and remove those siege vehicles from play.Here, use these stickybombs. They're courtesy of our new goblin allies. It looks as though they stuffed explosive powder into ... what looks like ... grease-covered socks. But they'll do.",
-    "name": "Siegebreaker",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

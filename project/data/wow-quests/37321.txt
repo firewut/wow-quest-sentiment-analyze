@@ -1,7 +1,0 @@
-{
-    "_id": "37321",
-    "description": "We've been commissioned to make a gold bracelet, set with a taladite crystal \"even brighter than gold\". I can handle the metal work, but the crystal isn't something I can do.",
-    "name": "Jewelcrafting Special Order:  A Yellow Brighter Than Gold",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

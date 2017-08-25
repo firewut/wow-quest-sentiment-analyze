@@ -1,7 +1,0 @@
-{
-    "_id": "10118",
-    "description": "Of all the Lost One tribes in Zangarmarsh, the Daggerfen are the most cunning and most aggressive. They are highly organized and make no secret of the fact that they desire control over the other Lost Ones in the marsh.Their attacks have already taken quite a toll on my scouts and messengers. I cannot afford to lose any more men.If we don't act soon, they'll have complete control over the roads and Zabra'jin will effectively be surrounded.",
-    "name": "Message to the Daggerfen",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

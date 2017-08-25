@@ -1,7 +1,0 @@
-{
-    "_id": "26243",
-    "description": "The pillar in this room holds up more than just the Temple of Earth.This entire plane of existence will soon collapse into our world if we fail to restore it.The time to act will come soon, <name>.  But first you must listen to what I have to tell you.",
-    "name": "The World Pillar",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

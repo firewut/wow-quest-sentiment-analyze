@@ -1,8 +1,0 @@
-{
-    "_id": "31245",
-    "added_in_patch": 5,
-    "description": "Che stopped by on the way to the village and ask if I'd seen you. I told him no.You can go see him if you want. But now you're not obligated to see him! I am so marvelously considerate, am I not?",
-    "name": "Mistfall Village",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

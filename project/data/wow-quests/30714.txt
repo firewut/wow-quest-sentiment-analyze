@@ -1,8 +1,0 @@
-{
-    "_id": "30714",
-    "added_in_patch": 5,
-    "description": "And, now they fear you.\r\n\r\nTheir leaders, a Blademaster and a Mage, lie deeper in the ruins. Kill them.\r\nMake them hurt. For us.",
-    "name": "Destroy the Leaders",
-    "requires_level": 87,
-    "zone": "Quests"
-}

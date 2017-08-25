@@ -1,9 +1,0 @@
-{
-    "_id": "33120",
-    "added_in_patch": 6,
-    "description": "Cordana tells me that the creatures of the woods are cursed by the same fel energies keeping Khadgar from scrying into the orc village.This will not do.If we were on Azeroth, I could find a cure in a reasonable timeframe. However, we are not, nor do we have the luxury of time.Better to put a swift end to their suffering rather than allow these poor creatures to linger with demonic energy.",
-    "name": "A Curse Upon the Woods",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

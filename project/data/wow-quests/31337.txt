@@ -1,8 +1,0 @@
-{
-    "_id": "31337",
-    "added_in_patch": 5,
-    "description": "Thanks for checking to make sure I'm doing well!  I've been able to help out the Ironpaws today, and they said I could give this to you.",
-    "name": "A Token of Appreciation",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38242",
-    "description": "Commander, da miners be findin' somethin' in our mine with strong mojo.  They don' be knowin' what ta do with it, so maybe you gonna go overe dere and check it out?If you find it, bring it here so I can look closer at da magic.",
-    "name": "Unearthed Magic",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

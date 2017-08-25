@@ -1,7 +1,0 @@
-{
-    "_id": "29311",
-    "description": "In her memories, Leyara spoke of Malfurion. The tragedies of her past - at least, in her opinion - are largely due to his actions.Malfurion must remember Leyara from before she became a Druid of the Flame. You resolve to bring the locket to him in the Firelands. Hopefully he can answer any remaining questions.",
-    "name": "The Rest is History",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

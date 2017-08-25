@@ -1,9 +1,0 @@
-{
-    "_id": "29967",
-    "added_in_patch": 5,
-    "description": "It's an emergency!Looks like you stirred up a hornet's nest killin' all them fish-folk.They're conductin' a full-on counterattack on Grookin Hill!I was hopin' to get some R&D time, but we're gunna hafta put my methane-grenade theory to work right away!Meet me on the east side of the fort, and bring yer throwin' arm!",
-    "name": "Boom Goes the Doonamite!",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

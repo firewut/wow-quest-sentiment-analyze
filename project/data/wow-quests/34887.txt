@@ -1,9 +1,0 @@
-{
-    "_id": "34887",
-    "added_in_patch": 6,
-    "description": "Ah, the hubris of ogres.It always backfires.Morkurk has been using enchanted bracelets to empower his minions with arcane strength.We can disenchant these bracelets into reagents that will no doubt be useful to your arcane sanctum. What do you think about collecting some while we're here?",
-    "name": "While We're in the Neighborhood",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

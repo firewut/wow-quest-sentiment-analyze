@@ -1,7 +1,0 @@
-{
-    "_id": "12079",
-    "description": "Greetings little one.  I know not what madness has brought you to the Crystal Vice, but you are welcome in my presence.  These ice worms... these jormungar have taken a taste to eating my brothers.  I doubt you will find my kind friendly by any terms during this time of battle, but if you are here to help with the worms, then you have my ear.If we are to take the cavern back, we must first clear the canyon of these jormungar feeders.  Join us in battle, <race>!",
-    "name": "Stomping Grounds",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

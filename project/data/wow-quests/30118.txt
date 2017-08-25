@@ -1,7 +1,0 @@
-{
-    "_id": "30118",
-    "description": "Your next target has claimed the lives of all of my other assassins. I need you to kill my father himself.You must destroy Deathwing.We are out of time. His madness has already corrupted all the others of my kind, and his darkness will consume the world if he is not stopped.If you by some miracle succeed, and can retrieve for me a piece of him - perhaps a fragment of the armor he uses to disguise his true chaotic nature - the reward I give you will be without equal. ",
-    "name": "Patricide",
-    "requires_level": 85,
-    "zone": "Rogue"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36104",
-    "added_in_patch": 6,
-    "description": "This scale is proof of your strength at slaying basilisks and your gladiator friend has born witness!Take the scale back to Limbflayer and claim your accolades!",
-    "name": "Proof of Strength: Basilisk Scale",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

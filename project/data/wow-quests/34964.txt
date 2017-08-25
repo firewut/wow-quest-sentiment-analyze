@@ -1,9 +1,0 @@
-{
-    "_id": "34964",
-    "added_in_patch": 6,
-    "description": "Your presence has been requested at the Throne of Elements, <name>.Farseer Drek'Thar heard the call of the furies upon the wind and made the journey to commune with the elements.The Farseer has sent word that you are to join him at the Throne of Elements.Go and see what the elements would have of you.",
-    "name": "The Farseer Awaits",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

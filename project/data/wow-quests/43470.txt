@@ -1,8 +1,0 @@
-{
-    "_id": "43470",
-    "added_in_patch": 7,
-    "description": "In a very real sense, the Uncrowned are gardeners. We snip and trim here and there. One clipping of a single branch may seem nonsensical until you step back and look at the garden as a whole.\r\n\r\nOn the greater theater of the Broken Isles, we must act decisively. The forces that arrayed against Azeroth are moving quickly. We need to prune some very ugly flowers to make our garden beautiful again, wouldn't you agree, <name>?",
-    "name": "Pruning the Garden",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

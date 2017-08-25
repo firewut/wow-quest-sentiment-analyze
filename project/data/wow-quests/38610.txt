@@ -1,8 +1,0 @@
-{
-    "_id": "38610",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Arauk Nashal 70:JP3 - Gates of Valhallas -Tracking quest - Titan Vehicle - Bonus Objective",
-    "requires_level": 90,
-    "zone": "Quests"
-}

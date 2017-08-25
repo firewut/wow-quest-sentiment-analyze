@@ -1,9 +1,0 @@
-{
-    "_id": "35231",
-    "added_in_patch": 6,
-    "description": "The spirits of the dead have long been drawn to Oshu'gun.As long as I can remember, the woods have been filled with ancestral spirits making a ghostly pilgrimage to the heart of the mountain.However, I fear that what is transpiring here is not the normal spirit walk I have seen before.Make your way to the Ancestral Grounds and commune with the spirits there for guidance on this matter.",
-    "name": "Spiritual Matters",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

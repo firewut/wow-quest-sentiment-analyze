@@ -1,7 +1,0 @@
-{
-    "_id": "28302",
-    "description": "You should make your way to Orgrimmar as soon as you can, <name>. Sunwalker Atohmo has sent word that he wishes to speak with you about a matter of importance to the Horde. Look for him the Valley of Wisdom.",
-    "name": "Meet with Sunwalker Atohmo",
-    "requires_level": 50,
-    "zone": "Orgrimmar"
-}

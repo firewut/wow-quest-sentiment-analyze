@@ -1,7 +1,0 @@
-{
-    "_id": "11264",
-    "description": "The dead ones are at Gjalerbron and they have necromancers with them?We must eliminate the leader of these necrolords.Do whatever it takes, <name>, but see to it that Necro Overlord Mezhen, and whatever he's attempting to accomplish, is neutralized.We cannot afford to see the vrykul successful in whatever they are doing with these undead creatures!Look for Mezhen on the platform in the rear right section of Gjalerbron.",
-    "name": "Necro Overlord Mezhen",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

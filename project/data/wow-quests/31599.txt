@@ -1,8 +1,0 @@
-{
-    "_id": "31599",
-    "added_in_patch": 5,
-    "description": "<The enormous mandibles of the kunchong matriarch Karanosh should be of value to someone in Klaxxi'vess.>",
-    "name": "The Matriarch's Maw",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

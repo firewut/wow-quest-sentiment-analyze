@@ -1,7 +1,0 @@
-{
-    "_id": "25475",
-    "description": "You have uncovered some sort of strange, egg-shaped device made from metal.  Fiddling with one of its knobs springs the egg to life, as it opens up into some sort of gnomish robotic contraption!  A voice from inside the robotic egg crackles to life.\"My name's Oglethorpe Obnoticus, and my homing robot has crashed!  I will reward you for its recovery; please take this beacon to the robot!\"\"I now have computed the coordinates of the robot for you; it is in a cave near Feral Scar Vale!\"",
-    "name": "Find OOX-22/FE!",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

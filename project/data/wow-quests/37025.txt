@@ -1,9 +1,0 @@
-{
-    "_id": "37025",
-    "added_in_patch": 6,
-    "description": "The elements can sometimes pose a problem for some beasts. Ever seen a ram in a thunderstorm? They'll hide behind anything larger than themselves. I'm not sure if they think the world is ending or what, but it's not great if you're atop one at the time.In Nagrand, off on a windswept cliff high above the shore, is a creature made of pure thunderstorms. Hop atop your wolf and face off against Thundercall, and we'll see if it gets spooked.",
-    "name": "Wolf Training: Thundercall",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43698",
-    "added_in_patch": 7,
-    "description": "To prepare for the battle ahead, we will need armor and weapons.We have learned of lumenstone, a rare metal that can negate magic... even fel magic.It is found in small quantities all over the Broken Isles, and many of the native races use it in their own metalcrafting.We should send our champions to target enemies around the Broken Isles - there should be plenty of lumenstone to be found in their stockpiles.",
-    "name": "Lumenstone",
-    "requires_level": 110,
-    "zone": "Paladin Campaign"
-}

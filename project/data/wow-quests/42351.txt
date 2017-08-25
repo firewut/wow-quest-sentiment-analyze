@@ -1,8 +1,0 @@
-{
-    "_id": "42351",
-    "added_in_patch": 7,
-    "description": "This is my last will and testament. To my husband, I leave the kids, the house, and the enormous wealth I've accumulated... wait, no. To my sister, I leave the kids, the house and my estate.To my husband, I leave my eternal love. Yes, he'll enjoy having that more.Also, if someone finds this and can come find me before I bleed out, I'd appreciate some medical attention.",
-    "name": "Bloody Prayer",
-    "requires_level": 110,
-    "zone": "First Aid"
-}

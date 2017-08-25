@@ -1,9 +1,0 @@
-{
-    "_id": "36290",
-    "added_in_patch": 6,
-    "description": "Congratulations, Blood Champion. You be fightin' like nobody I ever seen.While you were in da ring, one a your bruddas came by and asked for you ta return ta your base. He called himself a shadow hunter.",
-    "name": "Out of the Shadows",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

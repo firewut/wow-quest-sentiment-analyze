@@ -1,8 +1,0 @@
-{
-    "_id": "32581",
-    "added_in_patch": 5.2,
-    "description": "The scryers have spotted a mogu leader at the central tower. He needs to be killed before he can mount an offensive on our position.Can you take care of this for us?",
-    "name": "Imposing Threat",
-    "requires_level": 90,
-    "zone": "Quests"
-}

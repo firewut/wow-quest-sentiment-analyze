@@ -1,8 +1,0 @@
-{
-    "_id": "35894",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Dire Maul (Bonus) Reward Quest",
-    "requires_level": 39,
-    "zone": "Quests"
-}

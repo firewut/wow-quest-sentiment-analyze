@@ -1,7 +1,0 @@
-{
-    "_id": "11429",
-    "description": "I'm not about to put the fate of this mission into the hands of some untested scrub.Now, if you want to prove to me that you've got what it takes to carry out this mission, you'll need to do what I tell you.Take this battle standard and head over to Baleheim, directly north of here. Once you're at Baleheim, find the center of town and drop our flag. Fight off any vrykul dirt bags that attempt to take down our beloved flag and return to me once you've established Alliance dominance!",
-    "name": "Drop It then Rock It!",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27822",
-    "description": "I want victory to be totally assured here. Having more resources isn't enough; we need to make sure the enemy has nothing.Stonard's forces depend on the lumber gathered from the surrounding woods. The orcish peons that chop the lumber may not be warriors, but they still know nothing but hate for humans.Show no mercy. I want those peons killed and the supply of lumber to Stonard cut off completely.",
-    "name": "Lumbering Oafs",
-    "requires_level": 52,
-    "side": "alliance",
-    "zone": "Swamp of Sorrows"
-}

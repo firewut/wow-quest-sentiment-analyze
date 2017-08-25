@@ -1,8 +1,0 @@
-{
-    "_id": "39816",
-    "added_in_patch": 7,
-    "description": "Deathlord, I've found our wayward knight. He wishes to return to the Ebon Blade, in particular he wishes to speak with you himself.<Mograine turns and nods to a nearby guard.>He should be here momentarily.",
-    "name": "Champion: Thassarian",
-    "requires_level": 101,
-    "zone": "Death Knight Campaign"
-}

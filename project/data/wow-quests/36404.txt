@@ -1,9 +1,0 @@
-{
-    "_id": "36404",
-    "added_in_patch": 6,
-    "description": "This clearing is the perfect spot to grow herbs for our Garrison, there is just one little problem.  All these dang raccoons!I need you to clear them out and we can get this garden growing.",
-    "name": "Clearing the Garden",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Herbalism"
-}

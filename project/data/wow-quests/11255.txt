@@ -1,7 +1,0 @@
-{
-    "_id": "11255",
-    "description": "This battle is far from over, <name>. If our people are still alive inside that village, someone has to go and get 'em.<Vice Admiral Keller nods at you.>Head north and enter Wyrmskull Village. Once there, look for our people. If they are imprisoned you'll need to find a way to break them out.Maybe they'll have some more information about what it is that we're actually fighting.",
-    "name": "Prisoners of Wyrmskull",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

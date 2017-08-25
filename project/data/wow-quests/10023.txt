@@ -1,7 +1,0 @@
-{
-    "_id": "10023",
-    "description": "You've done well in gathering the first pelts.The final piece of the vestments requires a pelt unlike any other. There is one particular wolf, an old and cunning one, that has earned his place as the patriarch of the forest wolves. He is known among them as Ironjaw, the mighty hunter.In my visions, I have seen him wandering the northeastern region of the forest. Including his pelt in the vestments will surely light the wolf spirit's path.Do not mourn Ironjaw. He will be well honored.",
-    "name": "Patriarch Ironjaw",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

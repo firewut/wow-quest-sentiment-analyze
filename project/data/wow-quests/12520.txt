@@ -1,7 +1,0 @@
-{
-    "_id": "12520",
-    "description": "No rough landing is going to stop ol' Hemet from mastering the largest game Sholazar has to offer. In the wilds northwest of the camp, the jungles are ruled by the mighty shardhorn rhino. You can prove your worth to the expedition,  lad, by showing me that you're tough enough to face down those powerful beasts.",
-    "name": "Rhino Mastery: The Test",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

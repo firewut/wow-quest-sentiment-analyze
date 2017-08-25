@@ -1,8 +1,0 @@
-{
-    "_id": "24572",
-    "description": "Outstanding work at the gates, <name>! The main body of the Alliance force is in general retreat. But I'm not satisfied.They sacked Taurajo, which was little more than a hunters' camp. This 'Alliance' is unmasked at last for what it really is: A renegade band of butchers.Even now a group of humans linger behind to pick at the bones of smouldering Taurajo.<Bloodhilt hurls an axe into the dirt.>Make them suffer.",
-    "name": "Taking Back Taurajo",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

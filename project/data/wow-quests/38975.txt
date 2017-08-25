@@ -1,8 +1,0 @@
-{
-    "_id": "38975",
-    "added_in_patch": 7,
-    "description": "I am, and always will be, a student of robemaking and dressmaking. You can keep your gloves, belts, and cloaks. Nothing beats a good robe.I'll share my pattern for an imbued silkweave robe with you if you can teach me some of the robe and dress patterns you've learned along your tailoring journey.",
-    "name": "Inspire Me!",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31287",
-    "added_in_patch": 5,
-    "description": "The Spring Road is under the protection of her ladyship, the esteemed Madam Goya.The saurok of Hatescale Burrow northeast of here require \"education\" in this fact. We have warned them before but sadly they seem to have a very short memory.Travel northeast to this burrow and find their shaman leader. Eliminate him and you will have the gratitude of her ladyship. As well as an appropriate bounty.",
-    "name": "Educating Saurok",
-    "requires_level": 87,
-    "zone": "The Veiled Stair"
-}

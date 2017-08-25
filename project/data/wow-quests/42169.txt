@@ -1,8 +1,0 @@
-{
-    "_id": "42169",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Left for Dead",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

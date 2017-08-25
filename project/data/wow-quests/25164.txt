@@ -1,7 +1,0 @@
-{
-    "_id": "25164",
-    "description": "The naga are upon us, <class>. Aid us in fightin' dem off!",
-    "name": "Backed Into a Corner",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

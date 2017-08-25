@@ -1,8 +1,0 @@
-{
-    "_id": "14273",
-    "description": "Most of us made it here alive... but there are worgen on this side of the city as well.We're going to continue heading south once everyone's accounted for.That reminds me, someone was asking about you.  A strange fellow named Vitus... he was really giving me the creeps.He kept talking about some \"forbidden knowledge\" he'd uncovered.",
-    "name": "Shady Associates",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

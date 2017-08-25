@@ -1,7 +1,0 @@
-{
-    "_id": "13634",
-    "description": "No doubt you've heard the disturbing rumors about the contestant the others are calling the Black Knight. It's said that any rider who was scheduled to face him in combat has met an untimely end.Of course, we have no definitive proof of anything, but it wouldn't hurt to look into this knight's background.He claims to hail from Valgan's Field in Silverpine Forest. It's a small farm on the western shore of Lordamere Lake. Would you visit the farm and let me know if there's any truth to his story?",
-    "name": "The Black Knight of Silverpine?",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

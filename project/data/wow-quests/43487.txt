@@ -1,8 +1,0 @@
-{
-    "_id": "43487",
-    "added_in_patch": 7,
-    "description": "I have been studying the language of the demons, but it has been difficult to get my hands on written material.I have heard rumor of a book called the Fel Lexicon, written by an ancient scholar who spoke both eredun and draenei. If I could just get my hands on that book, I could learn so much!I heard that this book might be in the hands of a powerful prisoner inside the Violet Hold.Bring me this book, and my work here will go much faster.",
-    "name": "The Fel Lexicon",
-    "requires_level": 103,
-    "zone": "Paladin Campaign"
-}

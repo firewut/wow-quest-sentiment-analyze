@@ -1,7 +1,0 @@
-{
-    "_id": "25559",
-    "description": "We're not the only ones interested in these ruins, it seem. Of all things, we've got blood elves after our dig sites.I'd expect them to wilt in the heat without all their fancy fountains and cushy pillows, but they're surprisingly scrappy, and they're trying to drive us out of the Southmoon Ruins by force.It's time to crack a few heads. Head over there and teach those elves not to mess with us!",
-    "name": "Laying Claim",
-    "requires_level": 47,
-    "zone": "Tanaris"
-}

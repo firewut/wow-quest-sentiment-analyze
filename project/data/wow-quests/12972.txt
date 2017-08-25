@@ -1,7 +1,0 @@
-{
-    "_id": "12972",
-    "description": "You've succeeded in the first rounds of the Hyldsmeet.  To advance further, you're going to need a warbear of your own.Unfortunately, the Hyldnir don't give them out to just anyone.  You'll have to emerge victorious from true battle, not just gladiatorial combat.The Hyldnir of Brunnhildar are currently involved in a feud against the Sons of Hodir, Thorim's former allies.  Speak to Brijana just outside the village and see how you can help them and prove yourself in the process.",
-    "name": "You'll Need a Bear",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

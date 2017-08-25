@@ -1,7 +1,0 @@
-{
-    "_id": "27744",
-    "description": "Examining the Twilight Rune of Earth, you can almost feel its power extending further into the Elementium Depths.It's probably connected to other runes. Initiate Goldmine thinks that you should destroy all of them.",
-    "name": "Rune Ruination",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

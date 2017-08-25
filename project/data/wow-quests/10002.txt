@@ -1,7 +1,0 @@
-{
-    "_id": "10002",
-    "description": "Over the past couple of days, I've observed a blood elf woman traveling to and from the fel orc stronghold and conversing with the fel orc leader. From her body language, she's clearly issuing orders. But why? Whose orders is she conveying?My curiosity got the better of my judgment and I shadowed her when she left the fel orc encampment. She headed north, to Firewing Point. I stopped before reaching the perimeter of the blood elf outpost.Kill her before she leaves the fel orc camp again.\r\n",
-    "name": "The Firewing Liaison",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

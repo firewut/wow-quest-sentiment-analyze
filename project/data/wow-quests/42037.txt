@@ -1,8 +1,0 @@
-{
-    "_id": "42037",
-    "added_in_patch": 7,
-    "description": "Now that you've recovered the Idol of the Wilds, it's time to put it to use to commune with Malorne. However, the ritual will need the combined power of many druids.Send your champions to gather the druids of our order, and tell them to meet us in Nordrassil. We will need to do this together.",
-    "name": "Gathering the Dreamweavers",
-    "requires_level": 103,
-    "zone": "Druid Campaign"
-}

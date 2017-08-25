@@ -1,8 +1,0 @@
-{
-    "_id": "42982",
-    "added_in_patch": 7,
-    "description": "It takes a true hero to put their life on the line day after day in defense of their home so that others do not have to.You have dutifully safeguarded the people and interests of the Alliance, never faltering in your courage or devotion.As a small token of our appreciation for your valiance, please turn to the gathered heroes before you, raise your weapon high, and be recognized.",
-    "name": "The Victor's Spoils",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

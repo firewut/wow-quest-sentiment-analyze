@@ -1,7 +1,0 @@
-{
-    "_id": "27884",
-    "description": "We found this small red statue on the corpse of one of those Explorers' League archaeologists.  Sadly, it wasn't us who killed him.  The local wildlife had already taken care of that.The statue is well-crafted, but apparently bereft of magical power.  You may use it for whatever means you deem necessary.",
-    "name": "The Sentinel's Pawn",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

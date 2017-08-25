@@ -1,8 +1,0 @@
-{
-    "_id": "870",
-    "description": "Have you felt the tremors, <class>? Something has cleaved this land in two. But we druids can sense other tremors, as well.Life is stirring in lands once dry and lifeless. The oases around the Crossroads are suddenly blooming. I can sense a power leaking its way to the surface, but from where? Is it related to the disaster that shattered the Barrens?We must find the source. Travel to the Forgotten Pools, northwest of the Crossroads. Search its waters for a source of power, then return here.",
-    "name": "The Forgotten Pools",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

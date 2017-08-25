@@ -1,7 +1,0 @@
-{
-    "_id": "9325",
-    "description": "This flame, stolen from the shaman of Thunder Bluff, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",
-    "name": "Stealing Thunder Bluff's Flame",
-    "requires_level": 1,
-    "zone": "Midsummer"
-}

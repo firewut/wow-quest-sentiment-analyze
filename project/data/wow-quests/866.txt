@@ -1,7 +1,0 @@
-{
-    "_id": "866",
-    "description": "The herbs of the Barrens are not quite like herbs in other lands.  Their properties are mostly the same, but the oasis water here alters the plants; they are just slightly different.I want to study those differences... to see if they're exploitable!If you are skilled in herbalism, then gather root samples off the herbs you find in the Barrens.  Bring back these samples so that I may compare them with herbs from other regions.",
-    "name": "Root Samples",
-    "requires_level": 9,
-    "zone": "Herbalism"
-}

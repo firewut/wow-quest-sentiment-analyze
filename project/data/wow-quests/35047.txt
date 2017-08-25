@@ -1,8 +1,0 @@
-{
-    "_id": "35047",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Dropping Bombs Tracking",
-    "requires_level": 1,
-    "zone": "Talador"
-}

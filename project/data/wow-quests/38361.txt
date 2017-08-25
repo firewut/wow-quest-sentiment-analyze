@@ -1,9 +1,0 @@
-{
-    "_id": "38361",
-    "added_in_patch": 7,
-    "description": "The Alliance dogs have bitten off more than they can chew. They have attacked the Banshee Queen, and invoked the wrath of her champion!Like my bow, my axes, and my hounds, you will be an agent of vengeance. Pile the bodies high, <class>, and know that I am doing the same. When next we meet, I expect to see blood upon your hands.",
-    "name": "Wrath of the Blightcaller",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

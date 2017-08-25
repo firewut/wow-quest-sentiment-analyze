@@ -1,8 +1,0 @@
-{
-    "_id": "31838",
-    "added_in_patch": 5,
-    "description": "Welcome back <name>, the time has come for the next step of your training.  Speak with Master Tsang in the Training Grounds below us for your next lesson.\r\n",
-    "name": "Continue Your Training: Master Tsang",
-    "requires_level": 70,
-    "zone": "Peak of Serenity"
-}

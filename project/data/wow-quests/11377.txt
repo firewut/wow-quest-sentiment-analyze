@@ -1,7 +1,0 @@
-{
-    "_id": "11377",
-    "description": "I'm providing the catering for some unusual party guests tonight.  One of these fellows was flying around in Skettis and got knocked to the ground by a monstrous kaliri--his leg was broken badly.They've requested something special for his get well party: Kaliri Stew.I can loan you my cooking pot so you can whip up a batch of stew for me.  The recipe itself is simple, but you'll need to get a giant kaliri wing and some cooked warp burgers.",
-    "name": "Revenge is Tasty",
-    "requires_level": 70,
-    "zone": "Cooking"
-}

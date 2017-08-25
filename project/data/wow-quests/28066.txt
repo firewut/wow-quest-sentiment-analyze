@@ -1,7 +1,0 @@
-{
-    "_id": "28066",
-    "description": "The Warchief has requested that any able-bodied adventurer head to the Sunken Temple, not far from Stonard, immediately!The Atal'ai trolls within are attempting to summon forth Hakkar the Soulflayer! If you so choose, head to the Sunken Temple and speak with the green dragon Lord Itharius, who is prepared to put an end to these dangerous trolls.",
-    "name": "Adventurers Wanted: The Sunken Temple",
-    "requires_level": 52,
-    "zone": "Sunken Temple"
-}

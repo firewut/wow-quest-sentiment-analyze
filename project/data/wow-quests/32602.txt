@@ -1,8 +1,0 @@
-{
-    "_id": "32602",
-    "added_in_patch": 5.2,
-    "description": "Dear $p,Is it true that the mogu are really connected to the titans? I find this very hard to believe. But looking over your research, some of the truth about the mogu begins to take shape.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
-    "name": "Gods and Monsters",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

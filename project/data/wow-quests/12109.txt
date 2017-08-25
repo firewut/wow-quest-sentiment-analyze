@@ -1,7 +1,0 @@
-{
-    "_id": "12109",
-    "description": "The Westfall boys were sent east to look for a path into the northern territories.  Their secondary objective is to secure strategic resource points, so I'm sure they wouldn't mind investigating a mine.Look for the Westfall Brigade encampment far to the northeast and seek out Gryan Stoutmantle.  You might remember him if you ever spent any time in Westfall.  Make sure to tell him I sent you.He'll be more than happy to let you claim a functioning mine for the king.",
-    "name": "Report to Gryan Stoutmantle... Again",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

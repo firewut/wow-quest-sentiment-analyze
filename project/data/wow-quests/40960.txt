@@ -1,8 +1,0 @@
-{
-    "_id": "40960",
-    "added_in_patch": 7,
-    "description": "Balanced upon your fishing hook, you find a pearl unlike any other you've seen before. It shines with a cold, steady light, and its size and weight fluctuate in your hand.This is clearly a magical item, and should be brought to a magical person.",
-    "name": "Luminous Pearl",
-    "requires_level": 98,
-    "zone": "Fishing"
-}

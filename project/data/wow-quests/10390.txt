@@ -1,8 +1,0 @@
-{
-    "_id": "10390",
-    "description": "<name>, we have reason to believe that the easternmost forge camp is not yet complete. The Legion's gan'arg servants are working 'round the clock to get the facility up and running. We can't allow that to happen. Head east to Forge Camp: Mageddon and slay 10 gan'arg. Bring me the head of their master - Razorsaw - and the Legion's fel reaver production will grind to a halt!   \r\n\r\n",
-    "name": "Forge Camp: Mageddon",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

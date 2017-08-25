@@ -1,7 +1,0 @@
-{
-    "_id": "2753",
-    "description": "Only two more lessons Orokk will teach, <name>. Your muscles ache, I know, but continue on for the Omosh!Bring to Orokk four green iron helms, four green iron bracers, and two green iron leggings - for this you learn and your enemies suffer!",
-    "name": "Trampled Under Foot",
-    "requires_level": 32,
-    "zone": "Blacksmithing"
-}

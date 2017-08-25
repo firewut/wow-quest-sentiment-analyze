@@ -1,7 +1,0 @@
-{
-    "_id": "10408",
-    "description": "I have in my possession another disruptor, one capable of destroying the three conduits that surround Salhadaar. Once the conduits are destroyed, Salhadaar's protective force fields will be down. For this act, he will strike at you with a ferocity you have never before witnessed, <name>.If you are willing to rid the world of Salhadaar, I will give you the disruptor.",
-    "name": "Nexus-King Salhadaar",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

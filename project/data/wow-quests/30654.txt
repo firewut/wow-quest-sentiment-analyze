@@ -1,8 +1,0 @@
-{
-    "_id": "30654",
-    "added_in_patch": 5,
-    "description": "The mogu are up to something, I can feel it.They've been sending scouts down into the Guo-Lai Halls.According to the caretakers, the Halls are home to ancient treasures of emperors past. Not only riches, but artifacts of great power.We must prevent the mogu from accessing these treasures! Go down the ramp to the northwest and stop them!",
-    "name": "The Guo-Lai Halls",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

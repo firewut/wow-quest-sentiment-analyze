@@ -1,7 +1,0 @@
-{
-    "_id": "13740",
-    "description": "You have earned my respect and the respect of your peers. You defeated all who challenged you and mastered the ways of tournament combat. I have no doubt that you are ready to face down the champions of other cities for the glory of Silvermoon!Justicar Mariel Trueheart has asked to speak with you, <name>, and to formally enter you in the champions' grand melee.",
-    "name": "A Champion Rises",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

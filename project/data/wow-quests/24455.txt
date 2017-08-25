@@ -1,7 +1,0 @@
-{
-    "_id": "24455",
-    "description": "You will be reporting for active duty immediately. Captain Desoto is overseeing deployment just down the ramp at the rocket launch station.Make us rich, soldier. Dismissed!",
-    "name": "Rapid Deployment",
-    "requires_level": 12,
-    "zone": "Azshara"
-}

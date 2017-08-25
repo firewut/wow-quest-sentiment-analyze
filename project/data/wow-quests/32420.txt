@@ -1,8 +1,0 @@
-{
-    "_id": "32420",
-    "added_in_patch": 5.1,
-    "description": "I just saw one of the Sunreavers - Brasael, I think his name was - running off in the direction of the bank to the north. No doubt he's trying to gather whatever assets he can before he leaves.Head him off and make sure he doesn't steal any resources from our coffers. He relinquished whatever funds he left in the bank when he and his Sunreaver kind betrayed us.",
-    "name": "Cashing Out",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

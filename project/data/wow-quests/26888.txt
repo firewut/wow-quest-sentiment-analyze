@@ -1,7 +1,0 @@
-{
-    "_id": "26888",
-    "description": "In the darkest recesses of Blackfathom, a monster spawned by the Old Gods lurks. We know it only as Aku'mai.The Old Gods and their servants are incredibly dangerous to our world. Long ago, they ruled over Azeroth and I fear that they seek to do so again, or destroy it while trying.<name>, Aku'mai is a creature of untold nightmare. We simply cannot allow his continued existence. Destroy him.",
-    "name": "Nightmare of the Deeps",
-    "requires_level": 20,
-    "zone": "Blackfathom Deeps"
-}

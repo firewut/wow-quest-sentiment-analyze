@@ -1,8 +1,0 @@
-{
-    "_id": "39208",
-    "added_in_patch": 6.2,
-    "description": "Our death knight allies in Zul'Drak are in need of heroes to aid them in securing the troll lands from the scourge.Those willing to aid should travel to the southwestern camp of Ebon Watch and speak with Stefan Vadu there.",
-    "name": "Zul'Drak",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

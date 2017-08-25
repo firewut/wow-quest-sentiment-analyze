@@ -1,9 +1,0 @@
-{
-    "_id": "35549",
-    "added_in_patch": 6,
-    "description": "By the Light...I can't believe this happened to Taylor and his men when they had a full garrison.It's going to take everything we have to keep your outpost safe, commander.We should get out of here. We can honor the fallen when we're safe.",
-    "name": "Honoring a Hero",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

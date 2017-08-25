@@ -1,7 +1,0 @@
-{
-    "_id": "28268",
-    "description": "Lord Grayson Shadowbreaker from the Cathedral of the Light in Stormwind has sent a message for you. He wants to speak with you the next time you're in the city. You should be able to find him in the Cathedral District.",
-    "name": "Meet with Lord Grayson Shadowbreaker",
-    "requires_level": 50,
-    "zone": "Stormwind City"
-}

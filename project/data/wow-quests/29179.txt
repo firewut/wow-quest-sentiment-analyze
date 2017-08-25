@@ -1,7 +1,0 @@
-{
-    "_id": "29179",
-    "description": "The elementals continue to press on us, and I do not expect them to subside any time soon.You'll find them pouring across the Ashen Fields to the north. Thin their ranks.",
-    "name": "Hostile Elements",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "38872",
-    "added_in_patch": 7,
-    "description": "Uh, are these guys friendlies? I guess it's a good sign they haven't tried to eat Duchess... yet.\r\n\r\nAnyway, I have orders. Nathanos caught up with the dark rangers, who were sent forward aboard the Oblivion on a secret mission from Lady Sylvanas herself! Unfortunately the Alliance caught wind of our plan, and now Greymane is attacking the outpost!\r\n\r\nWe could really use you over there, <name>. Duchess can take you there, just give me the word.",
-    "name": "The Dark Lady's Bidding",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

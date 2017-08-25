@@ -1,8 +1,0 @@
-{
-    "_id": "39336",
-    "added_in_patch": 7,
-    "description": "The substance you brought me appears to be precipitating powder, a highly volatile reagent used by the vrykul in their recipes.There are rumors that a vrykul elder named Katterin has built up quite a store of this powder. A substance this dangerous needs to be in our hands, not hers!",
-    "name": "We Need More Powder!",
-    "requires_level": 106,
-    "zone": "Alchemy"
-}

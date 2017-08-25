@@ -1,7 +1,0 @@
-{
-    "_id": "13378",
-    "description": "Speak with Chief Engineer Copperclaw.",
-    "name": "Chief Engineer Copperclaw",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

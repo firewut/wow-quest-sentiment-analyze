@@ -1,8 +1,0 @@
-{
-    "_id": "34857",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking Flag: Orcs Kicked Out of Cave",
-    "requires_level": 90,
-    "zone": "Talador"
-}

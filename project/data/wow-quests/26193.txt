@@ -1,7 +1,0 @@
-{
-    "_id": "26193",
-    "description": "The whispers of the elements are crowding my thoughts, <name>...The Throne of Tides is under siege!I cannot stand idly by while the naga threaten Neptulon's realm. We must find a way to join forces with him.Captain Taylor will escort me to the depths where I can commune directly with Neptulon.I must ask you to take a more violent path. Keep the enemy forces distracted until I arrive safely at entrance to the Throne of Tides.May the spirits see us through, <name>.",
-    "name": "Defending the Rift",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30644",
-    "added_in_patch": 5,
-    "description": "You had better report back to the Golden Pagoda immediately.",
-    "name": "What Comes to Pass",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

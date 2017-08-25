@@ -1,7 +1,0 @@
-{
-    "_id": "25741",
-    "description": "Poisoned travelers are becoming a common occurrence around Windshear Hold. Why just the other day a Northwatch Captain fell prey to the spiders of the Webwinder Hollow. He would have died to the poison had it not been for my anti-venom. Sadly my stock of anti-venom is almost completely depleted.If you're heading south towards Webwinder Hollow, would you kindly recover Deepmoss venom sacs for me? You should be able to acquire them from Deepmoss spiders.",
-    "name": "Preparations for the Future",
-    "requires_level": 25,
-    "zone": "Stonetalon Mountains"
-}

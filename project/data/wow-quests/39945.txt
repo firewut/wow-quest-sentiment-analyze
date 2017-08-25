@@ -1,8 +1,0 @@
-{
-    "_id": "39945",
-    "added_in_patch": 7,
-    "description": "Unfortunately, Pallin's codex isn't complete. There are many symbols here that simply cannot be deciphered with what we've learned.Looks like we'll need to go and collect more tablets down in the area that the vrykul call Haustvald.",
-    "name": "Runes Within the Ruins",
-    "requires_level": 104,
-    "zone": "Inscription"
-}

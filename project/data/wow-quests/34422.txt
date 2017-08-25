@@ -1,8 +1,0 @@
-{
-    "_id": "34422",
-    "added_in_patch": 6,
-    "description": "We can't stay here forever. We NEED to keep moving. But first - we need a distraction.<Khadgar conjures a small gem.>This bead should burn anything flammable that you get close to. With your skill, and a bit of luck, you might be able to take the attention of the Bleeding Hollow orcs off our group.",
-    "name": "Blaze of Glory",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

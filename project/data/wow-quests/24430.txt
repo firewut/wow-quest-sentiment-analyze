@@ -1,7 +1,0 @@
-{
-    "_id": "24430",
-    "description": "<name>! Give us a hand here, will ya? Gorsch here had a bad experience at the all-you-can-eat seafood joint back in town, and now we're short a pilot.My job was to take out those elven glaive throwers before they cut our air units to ribbons. Hop on this wind rider and take to the skies! One of my bombardier buddies will ride with you and bomb the targets at your command.And hey! Chuck a bomb straight at the night elven command center - the large building south of here, beside the bridge. Glorious!",
-    "name": "Blacken the Skies",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

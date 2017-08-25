@@ -1,8 +1,0 @@
-{
-    "_id": "9626",
-    "description": "I haven't lost any love for my homeland or its people, as you know.  I've fought tooth and nail for Silvermoon to be allowed a place beside Undercity and Orgrimmar at the negotiating table.This should silence any opposition. Take this letter to the Saurfang in Orgrimmar.  As leader of the orcs he must have a say in accepting the sin'dorei's pledge.I've added my own seal to the letter as a personal endorsement.  Go northwest of the city and board the zeppelin bound for Durotar at the tower.",
-    "name": "Meeting the Orcs",
-    "requires_level": 15,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

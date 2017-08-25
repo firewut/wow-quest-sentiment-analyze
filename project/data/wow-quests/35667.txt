@@ -1,9 +1,0 @@
-{
-    "_id": "35667",
-    "added_in_patch": 6,
-    "description": "Grulkor and his group are often not seen for weeks, returning only when they can carry no more trophies and supplies. He has been gone too long this time.He mentioned hunting in the Crimson Fen for the first time, see if he still lives.",
-    "name": "Skulltakers in Crimson Fen",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

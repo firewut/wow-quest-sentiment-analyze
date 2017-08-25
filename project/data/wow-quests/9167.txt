@@ -1,7 +1,0 @@
-{
-    "_id": "9167",
-    "description": "Everything we've done in the Ghostlands has been done with the goal of taking back what is rightfully ours.  The Scourge have maintained their chokehold on the region for far too long.The time has come for payback, <name>.  Thanks to your help and the help of our new allies, the Forsaken, vengeance will soon be ours.He who sought to steal the power of the Sunwell must die.  Go to Deatholme, the Scourge stronghold south of the Dead Scar.  Bring me Dar'Khan's head and your deeds will go down in history!",
-    "name": "The Traitor's Destruction",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

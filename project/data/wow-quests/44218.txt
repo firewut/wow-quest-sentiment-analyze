@@ -1,8 +1,0 @@
-{
-    "_id": "44218",
-    "added_in_patch": 7,
-    "description": "This war against the Legion won't be won easily.  We will need armaments and equipment for our Champions.  \r\n\r\nGive the order sir, I'll get the word out and have a shipment brought in.",
-    "name": "Champion Armaments",
-    "requires_level": 110,
-    "zone": "Light's Hope Chapel"
-}

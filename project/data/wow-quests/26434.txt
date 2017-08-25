@@ -1,7 +1,0 @@
-{
-    "_id": "26434",
-    "description": "I see clearly now... the key to identifying this mysterious talisman revolves around obtaining some rare and precious items.  These Primal Reagents of Power, when properly combined, will reveal to us the origin of our treasure.Travel north, to the western side of the Gurubashi Arena, and hunt the cats that roam the jungle.  Their fleecy furs will lead us to the truth!",
-    "name": "Primal Reagents of Power",
-    "requires_level": 26,
-    "zone": "The Cape of Stranglethorn"
-}

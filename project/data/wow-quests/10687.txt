@@ -1,7 +1,0 @@
-{
-    "_id": "10687",
-    "description": "Our scouts have reported a massive influx of Sunfury blood elf recruits heading to the Ruins of Karabor.  Normally this would represent a purely military threat, however we believe something else is amiss.Descriptions of their attire and fighting style are suspiciously close to that of Illidan himself.  I do not want to become alarmed without good reason, so I would like you to go there and bring me back their weapons.  We will then determine whether my fears are unfounded or not.",
-    "name": "Karabor Training Grounds",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

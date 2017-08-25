@@ -1,8 +1,0 @@
-{
-    "_id": "32421",
-    "added_in_patch": 5.1,
-    "description": "Compliant Sunreavers will be sent to the Violet Hold. Defiant ones are put to the sword.NONE are to escape.The Sunreavers keep their dragonhawk mounts on Krasus' Landing. Take this dust, and use it to render them incapable of flying.Or kill them. I don't care.",
-    "name": "Nowhere to Run",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

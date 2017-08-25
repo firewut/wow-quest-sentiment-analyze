@@ -1,8 +1,0 @@
-{
-    "_id": "32457",
-    "added_in_patch": 5.1,
-    "description": "Are you aware of recent events in Kun-Lai Summit? The Zandalari have landed on the northern shores in great numbers and have set about renewing old alliances. To that end, they have resurrected The Thunder King.Even among the mogu, the name of the first emperor commands awe and fear. The Thunder King founded a vast empire of slavery and suffering... but also of power, riches, and splendor.We will take the fight to him soon. Find me when your faction makes its move.",
-    "name": "The Thunder King",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

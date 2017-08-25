@@ -1,8 +1,0 @@
-{
-    "_id": "30726",
-    "added_in_patch": 5,
-    "description": "Your next challenger is another relatively new trainee. His name is Minh Do-Tan, and he has won his last two matches.He will be waiting for you near the crane statue to the south.",
-    "name": "Minh Do-Tan",
-    "requires_level": 90,
-    "zone": "Krasarang Wilds"
-}

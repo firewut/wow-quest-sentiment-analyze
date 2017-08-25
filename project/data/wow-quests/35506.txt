@@ -1,9 +1,0 @@
-{
-    "_id": "35506",
-    "added_in_patch": 6,
-    "description": "I found this dwarf, Thuldren, runnin' out of Tangleheart like his boots were on fire.\r\n\r\nSays his mole machine showed up here and he barely made it out alive. And another called Frenna might still be inside.\r\n\r\nOne useful thing he told me is that the creatures in there have sap that can be used to grow things real fast.\r\n\r\nBy the way, I'm gonna go lookin' for Thuldren's mole machine. Find me in Tangleheart when you're done.",
-    "name": "Growing Wood",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32460",
-    "added_in_patch": 5.1,
-    "description": "We WILL get to the bottom of this.\r\n\r\n<name>, you're coming with me. We'll search every inch of this city if we have to, but we'll find out how they took the bell... and where.\r\n\r\nI'm picking up traces of arcane magic here... we need to follow the trail!",
-    "name": "Tracking the Thieves",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

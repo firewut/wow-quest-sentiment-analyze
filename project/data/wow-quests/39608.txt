@@ -1,7 +1,0 @@
-{
-    "_id": "39608",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Mysterious Brew Consumed",
-    "zone": "Quests"
-}

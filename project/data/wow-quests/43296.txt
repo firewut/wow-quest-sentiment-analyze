@@ -1,8 +1,0 @@
-{
-    "_id": "43296",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Defend",
-    "requires_level": 1,
-    "zone": "Hillsbrad Foothills"
-}

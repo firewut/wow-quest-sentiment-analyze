@@ -1,9 +1,0 @@
-{
-    "_id": "32662",
-    "added_in_patch": 5.2,
-    "description": "It's time for you to learn how to ride!  Seek out Ultham at the Amberstill Ranch in Dun Morogh, along the road east out of Ironforge.  Don't forget to buy your mount while you are there!",
-    "name": "Learn To Ride",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Riding"
-}

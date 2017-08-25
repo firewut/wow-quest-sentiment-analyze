@@ -1,7 +1,0 @@
-{
-    "_id": "28340",
-    "description": "All my workers got driven straight out of the cavern here by those big swamp-lookin' things! Darla's sent me here to pick up the pieces, but have you seen it in there? I ain't goin' in!There's a ton of explosives left behind that we can't just leave layin' around. I'll make you a deal: You run in there and get those explosives gathered up, and I will stay here and not get killed by swamp-things, and if you don't either, I'll pay ya! How's that sound?",
-    "name": "A Bomb Deal",
-    "requires_level": 47,
-    "zone": "Felwood"
-}

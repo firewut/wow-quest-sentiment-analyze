@@ -1,8 +1,0 @@
-{
-    "_id": "31040",
-    "added_in_patch": 5,
-    "description": "The Darkwoods sprites on Shan'ze Dao have fallen to the mogu's domination.The once sly tricksters are now the full servants of the Shan'ze. They grow bolder each day, stealing and killing to satisfy their masters.They must be eliminated, but be careful. They may look harmless, but they are actually quite vicious.",
-    "name": "Spiteful Sprites",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

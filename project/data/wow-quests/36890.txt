@@ -1,8 +1,0 @@
-{
-    "_id": "36890",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Nemesis Flag, Human/Orc",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9778",
-    "description": "Before you leave Cenarion Refuge, make sure you speak with Warden Hamoot.  He's in charge of the expedition's security.He would never forgive me if I didn't send a seasoned adventurer like you his way.",
-    "name": "Warden Hamoot",
-    "requires_level": 61,
-    "zone": "Zangarmarsh"
-}

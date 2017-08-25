@@ -1,8 +1,0 @@
-{
-    "_id": "31948",
-    "added_in_patch": 5,
-    "description": "You caught me at a good time, <name>. I was just hankering to make a fresh batch of Witchberry Julep.Have you ever heard of this wondrous brew?Each sip takes ten years off your face! How do you think I still look so good?Anyway, I need a special ingredient - thousand-year water - which can be collected from the mouth of the waterfall to the north.I'm afraid the journey is too treacherous for an old matron like me, but if you can get your hands on a pitcher, I'll let you share my brew.",
-    "name": "Nana's Vote II: The Sacred Springs",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

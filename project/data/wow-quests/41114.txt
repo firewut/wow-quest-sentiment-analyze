@@ -1,8 +1,0 @@
-{
-    "_id": "41114",
-    "added_in_patch": 7,
-    "description": "I can sense the power of the artifact you hold. It will do well against the Legion as it is, but we have the ability to unlock its power even further. \r\n\r\nYou must return to the Hall of the Guardian. You can use the incantation I taught you before to pass through the runes.",
-    "name": "The Champion's Return",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

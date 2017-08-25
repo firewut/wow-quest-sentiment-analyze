@@ -1,8 +1,0 @@
-{
-    "_id": "30304",
-    "added_in_patch": 5,
-    "description": "Hey! You know what awesome thing happened to me this morning?I was strolling through the ruins with Anji, eyes on the ground so I wouldn't step on anymore of those creepy spider pods, when one of the statues came to life and tried to smash me!Anji ended up doing the smashing. But I'm not satisfied. I think that you should go out there and smash all the statues, whether they're moving or not. It's the only way to be sure.",
-    "name": "Hard as a Rock",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

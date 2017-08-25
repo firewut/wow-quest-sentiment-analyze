@@ -1,7 +1,0 @@
-{
-    "_id": "28756",
-    "description": "In life, my brothers and I fought against all the forces of the Scourge, but none were so reviled as the necromancers. It was not enough for them raise our dead comrades and send them against us; no, they created twisted golems of bone with scythes for hands.These aberrations slew many of my brothers, and yet we could not destroy them all. I ask you, <name>, to carry on the task of the fallen. Venture into the Ossuary of Scholomance and slay the largest and most dangerous of these abominable creatures.",
-    "name": "Aberrations of Bone",
-    "requires_level": 40,
-    "zone": "Scholomance"
-}

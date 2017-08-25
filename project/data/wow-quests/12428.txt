@@ -1,7 +1,0 @@
-{
-    "_id": "12428",
-    "description": "You're not bad.  Not bad at all.Think you can take a furbolg?  What about one of those extra-large crazed Northrend furbolgs?Good, good.  Get your crew together, and head to the ring.  Let's give these folks a show... maybe we can earn some more coin while we're at it.",
-    "name": "The Conquest Pit: Mad Furbolg Fighting",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

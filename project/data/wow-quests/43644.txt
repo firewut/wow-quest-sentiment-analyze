@@ -1,8 +1,0 @@
-{
-    "_id": "43644",
-    "added_in_patch": 7,
-    "description": "I assure you the legends are true: Sharas'dal, the Scepter of Tides, was forged around living waters of the Well of Eternity. It gave Azshara dominion over life itself. I have sent shaman throughout the world looking for it, but the only one to ever find it has gone missing.Wavespeaker Adelee said she had tracked the scepter to the Ruins of Vashj'ir, but we haven't heard from her since.<name>! Come with me to the ocean depths. Let's track down our missing shaman and get that artifact!",
-    "name": "To the Deeps",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

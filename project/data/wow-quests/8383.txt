@@ -1,7 +1,0 @@
-{
-    "_id": "8383",
-    "description": "",
-    "name": "Remember Alterac Valley!",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

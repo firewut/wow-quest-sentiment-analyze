@@ -1,8 +1,0 @@
-{
-    "_id": "42494",
-    "added_in_patch": 7,
-    "description": "Your champions made a good dent in thinning out the enemy's numbers. They also discovered a number of starving prisoners who could use our help. Your Conjured Mana Pudding or Fritters will be useful in getting them up on their feet. \r\n\r\nYou should also dispatch as many of the remaining legion invaders back to the twisting nether as you can!",
-    "name": "More Than Just A Food Vendor",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

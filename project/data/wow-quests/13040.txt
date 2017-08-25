@@ -1,7 +1,0 @@
-{
-    "_id": "13040",
-    "description": "The number of injured soldiers rises with each passing day. They are being stricken by some type of toxin that we have never before seen. Whatever it is that these Nerubians hold within their venom glands is lethal and incurable! So far we've only been able to slow down the poison flowing through the victim's bodies. We must devise a cure!Venture northwest to the valley outside of the Vanguard and slay the Forgotten Depths Nerubians. Recover their venom glands and bring them to me.",
-    "name": "Curing The Incurable",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

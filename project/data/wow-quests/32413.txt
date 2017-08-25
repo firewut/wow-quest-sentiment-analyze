@@ -1,8 +1,0 @@
-{
-    "_id": "32413",
-    "added_in_patch": 5.1,
-    "description": "Wherever your loyalties might lie - with Rommath and I, with Garrosh, or elsewhere - one thing is true: your acts today were truly heroic.I can arrange for your transport back to Krasarang Wilds. Speak with me if you would like passage back to Pandaria, <name>.",
-    "name": "A Return to Krasarang",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

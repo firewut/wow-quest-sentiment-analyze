@@ -1,8 +1,0 @@
-{
-    "_id": "25840",
-    "description": "The Frostmane chieftain died in the initial trogg onslaught, but they've been led by a well-respected warrior ever since. Battok the Berserker was the one who organized the Frostmane retreat, the construction of the new village, and the strikes against Kharanos and the mountaineers.If we remove Battok, the Frostmanes' organization should crumble, leaving the mountaineers free to pick off the survivors. Battok will be in the village, just east of here.",
-    "name": "Eliminate the Resistance",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

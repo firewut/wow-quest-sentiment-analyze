@@ -1,7 +1,0 @@
-{
-    "_id": "5703",
-    "description": "Your spiritual leader Ur'kyo seeks audience with you, <name>. Do not keep him waiting.You will find him in the Valley of Spirits in the great Horde city of Orgrimmar. Do your people proud.",
-    "name": "<NYI> The Rites of Old",
-    "requires_level": 25,
-    "zone": "Priest"
-}

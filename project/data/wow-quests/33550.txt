@@ -1,8 +1,0 @@
-{
-    "_id": "33550",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "[NOTUSED]Vignette: Iron Horde Napmaster",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

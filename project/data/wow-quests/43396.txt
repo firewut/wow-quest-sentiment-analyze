@@ -1,8 +1,0 @@
-{
-    "_id": "43396",
-    "added_in_patch": 7,
-    "description": "The demon jailors spoke of an upcoming invasion. Their army is gathering for something big, and it worries me greatly.Let us find whatever information we can about their plans.",
-    "name": "The Mind of the Enemy",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

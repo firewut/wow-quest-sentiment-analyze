@@ -1,9 +1,0 @@
-{
-    "_id": "35152",
-    "added_in_patch": 6,
-    "description": "We owe you our freedom, and more. I have spoken to the others, we are willing to return with you to your garrison and teach those pitiful creatures you call \"soldiers\" how to properly fight.We will also do our best to impart our knowledge to you, Commander. Should you have need of us when in the wilds of Gorgrond, simply call us.You may wish to warn Limbflayer of our coming.",
-    "name": "The Sparring Arena",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

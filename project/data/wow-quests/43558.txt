@@ -1,8 +1,0 @@
-{
-    "_id": "43558",
-    "added_in_patch": 7,
-    "description": "With Thunderaan risen again as the lord of Skywall, there may indeed be an arrangement you can make in exchange for those wretched implements. But one binding is of no use on its own.\r\n\r\nReturn to me with both bindings, and with powerful enough ore to bind them, and I will arrange your audience with Thunderaan the Windlord.",
-    "name": "Bindings of the Windlord",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

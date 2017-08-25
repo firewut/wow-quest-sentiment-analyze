@@ -1,7 +1,0 @@
-{
-    "_id": "28859",
-    "description": "Cenarion Hold, in Silithus, is one of the biggest druid settlements in Kalimdor. Almost as big as Moonglade, mon.Someday, maybe Zen'Aliri be headin' on over to Cenarion Hold... fightin' some Twilight's Hammer, healin' the land where the silithid tear it... but Zen'Aliri's master tells him to wait.So Zen'Aliri waits.The easiest way to get there is that path up Un'Goro Crater's northwestern cliffs.If you got no master... there's nothing keepin' you from movin' on.",
-    "name": "The Dunes of Silithus",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

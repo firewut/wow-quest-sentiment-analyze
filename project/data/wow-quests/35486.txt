@@ -1,9 +1,0 @@
-{
-    "_id": "35486",
-    "added_in_patch": 6,
-    "description": "It is time we learned more about our new enemy.Our scouts have identified a number of the Iron Horde's lieutenants. Their attack is too organized to be run by tribal knowledge alone. Surely their lieutenants have access to secret battleplans. You are the only soldier I can trust with this mission, <name>.",
-    "name": "Lunatic Lieutenants",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

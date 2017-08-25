@@ -1,7 +1,0 @@
-{
-    "_id": "14035",
-    "description": "Every Pilgrim's Bounty feast requires a magnificent centerpiece, and I'm not talking about a decorative horn of plenty, either. No, the focus of the meal is a magnificent roast turkey.There's a good recipe for it in your bountiful cookbook. Why not hunt some wild turkeys and prepare a few? The turkeys wander all over Elwynn Forest, so you shouldn't have a problem finding one.Once you're done roasting them, will you bring them to Isaac Allerton near the gates of Darnassus?",
-    "name": "Slow-roasted Turkey",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

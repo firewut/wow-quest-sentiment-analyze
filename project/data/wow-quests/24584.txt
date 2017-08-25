@@ -1,7 +1,0 @@
-{
-    "_id": "24584",
-    "description": "Our resources are strained. Malygos, the Spell-Weaver, is draining all of the magic out of the world, consolidating it in the Eye of Eternity. Without magic, we are doomed.<Class>, the Nexus War must be brought to an end. The Council of Six has decreed that Malygos must die!",
-    "name": "Malygos Must Die!",
-    "requires_level": 80,
-    "zone": "Quests"
-}

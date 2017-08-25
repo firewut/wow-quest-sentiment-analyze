@@ -1,8 +1,0 @@
-{
-    "_id": "26740",
-    "description": "I do most of the cooking at the camp.  It used to be a lot of work, until I bought a mechanical cooking pot from a goblin merchant.  The pot is a wonder!  It saved me countless hours...until it broke!Can you take the pot back to the goblin for me so he can fix it?  His name is Krazek.  Last I heard, he was staying with Nesingwary in the hunters' camp just to the south.",
-    "name": "Krazek's Cookery",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "32783",
-    "added_in_patch": 6,
-    "description": "My brother's head is as thick as his axe and he is as stubborn as a gronn.When Ga'nar left he took with him some of the finest warriors in the clan and headed north to the Daggermaw Ravine. If they are still out there, you must find them. Ga'nar will not listen to me.Help him see his vengeance through if you must but please bring him back to us.",
-    "name": "Ga'nar's Vengeance",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

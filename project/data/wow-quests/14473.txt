@@ -1,8 +1,0 @@
-{
-    "_id": "14473",
-    "description": "Looks like those monkeys will steal anything! Those thieving little monsters have driven the teraptor matriarch into a frenzy by stealing her eggs. Worse yet, the eggs have started to hatch! We've got hungry teraptor hatchlings running around all over the place, looking to make a quick meal out of us!We didn't start this, but it's our problem now. You'll have to head into the jungle and kill those hungry teraptor hatchlings before they kill us all.\r\n",
-    "name": "It's Our Problem Now",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

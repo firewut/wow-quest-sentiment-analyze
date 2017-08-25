@@ -1,7 +1,0 @@
-{
-    "_id": "26776",
-    "description": "Priestess is not very good at speaking Common, no.Maybe you go speak with Ghaliri, in front of that tent.Tell him about what you've seen inside Zul'Gurub, yes.",
-    "name": "Ghaliri",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

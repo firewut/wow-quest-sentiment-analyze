@@ -1,8 +1,0 @@
-{
-    "_id": "903",
-    "description": "If you want to really demonstrate your bravery to me, let me send you after something that really bites. The savannah huntresses of the Barrens are as sly as they come. Tough, resourceful, quick... and deadly. They've been hassling our scouts recently around the outskirts of the town, especially to the northeast.Be wary as you hunt them, <name>, or you may find yourself no longer the predator, but instead the prey.",
-    "name": "Hunting the Huntress",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

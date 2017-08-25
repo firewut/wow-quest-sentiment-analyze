@@ -1,7 +1,0 @@
-{
-    "_id": "26224",
-    "description": "Among the more ornery of the wildlife of the Hinterlands are the savage owlbeasts. Many a good Revantusk warrior has been lost to the ferocious claws and beak of the beasts.Kill every savage owlbeast you see, <race>. Return to me when you can stand no more bloodshed. Your contribution will then be weighed, measured, and judged.",
-    "name": "Hunt the Savages",
-    "requires_level": 29,
-    "zone": "The Hinterlands"
-}

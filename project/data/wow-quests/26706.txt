@@ -1,8 +1,0 @@
-{
-    "_id": "26706",
-    "description": "We need to get rid of that flying gunship if our people have any chance of escaping.Here's the plan.  Keel Harbor had its share of rebel sympathizers in the old days.  I've managed to round up a hefty amount of incendiary explosives from one of our storehouses.We're going to hit the enemy with a force small enough to fly undetected.  The night elf hippogryphs should do the trick.Tobias will give you the signal when we're ready to go.",
-    "name": "Endgame",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36448",
-    "added_in_patch": 6,
-    "description": "I was a fool to trust him after the fiasco over the Barov family fortune! What I should have done is killed him the first chance I had.And now he thinks he's going to plumb this land for all that it's worth and cut me out?!No, dear brother, not this time! There can only be one CEO of Barov Industries and it will be me.My peasant friend, you must do me this service. Find my brother, Alexi, and serve him a notice of termination!You will likely find him out in the wilds, near small timber.",
-    "name": "Reduction in Force",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Logging"
-}

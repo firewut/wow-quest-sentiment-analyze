@@ -1,8 +1,0 @@
-{
-    "_id": "26686",
-    "description": "There's even fouler undead left to deal with, <name>.Tranquil Gardens Cemetery, further south of town, is a place you don't want to be caught in at night. The bones that rise from the ground there are cunning enough to remember how to swing an axe or cast a spell.I shouldn't need to explain how dangerous that makes them. Proceed with caution, but remember the people of Darkshire that will suffer if you falter.",
-    "name": "Bones That Walk",
-    "requires_level": 18,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13962",
-    "description": "The triage kits will help us keep up the fight, but we are at a stalemate.The dryads die easy enough, but their leader is resurrecting them soon after they fall. We face an endless stream of the vermin!Keeper Ordanus hides in that mutated tree. Our efforts to fight our way to him have been in vain. Perhaps you could work your way to him while we contend with his dryads...Surely, this is child's play for someone who has conquered Astranaar. No?",
-    "name": "Stalemate",
-    "requires_level": 22,
-    "zone": "Ashenvale"
-}

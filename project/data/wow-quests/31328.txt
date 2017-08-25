@@ -1,8 +1,0 @@
-{
-    "_id": "31328",
-    "added_in_patch": 5,
-    "description": "You unhook the earring off the furry creature's ear. It looks like he was having some fun wearing the dangly hoop. TOO much fun.Perhaps the owner of this dainty bauble would like to see it returned. You don't have to tell her where you found it... or who was wearing it.",
-    "name": "An Exquisite Earring",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10406",
-    "description": "I'm sending one of my demolitionists out to place the disruption device. Just make sure no harm comes to him as he's placing the disruptor.Keep him protected! He will not fight back if enemies attack him as he is only a holographic image but the image can be destroyed!Return to me once the job is done.\r\n",
-    "name": "Delivering the Message",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

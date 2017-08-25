@@ -1,7 +1,0 @@
-{
-    "_id": "11411",
-    "description": "In my travels as a courier, I've seen a number of strange denizens of the Howling Fjord, but one group stands out. From a distance, they look like tauren, but upon closer inspection, they're quite different -- sturdier and shaggier.I found one of their settlements far to the north, beyond Halgrind, Skorn, and the northern forests. Camp Winterhoof, it's called, and it sits in the foothills of Gjalerhorn near the border with Grizzly Hills. Make contact with them, and see if they might be of use to us.",
-    "name": "Camp Winterhoof",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41899",
-    "added_in_patch": 7,
-    "description": "There are prisoners here, Farseer <name>, that are enslaved by the Twilight's Hammer.The cultists work them to death in the depths of the mine.I cannot abide such cruel mistreatment! Let us clear a path through the mine and rescue any Twilight's Hammer prisoners we find, so that they may return to their homes and families.The Twilight's Hammer will pay for their crimes!",
-    "name": "Held Captive!",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

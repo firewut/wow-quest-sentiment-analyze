@@ -1,7 +1,0 @@
-{
-    "_id": "37081",
-    "description": "",
-    "name": "Burning Rage",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

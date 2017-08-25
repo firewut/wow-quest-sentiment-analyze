@@ -1,8 +1,0 @@
-{
-    "_id": "24577",
-    "description": "Thanks to you, the immediate threat is over. But my work here in the Barrens is only beginning.Honor's Stand was captured and Taurajo was sacked while Warlord Gar'dul was in charge of the region. The Warchief has sent me here to clean up his mess.I would like you to ride into Desolation Hold to the south in advance of me and let Gar'dul know that it is time for a reckoning.Talk to me when you are ready to leave and I will assemble my vanguard to accompany you.",
-    "name": "Desolation Hold Inspection",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

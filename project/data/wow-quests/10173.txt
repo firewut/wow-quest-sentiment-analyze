@@ -1,7 +1,0 @@
-{
-    "_id": "10173",
-    "description": "Allow me to introduce myself, <class>.I am Ravandwyr, apprentice to the Archmage Vargoth.My master is... indisposed, shall we say. I am here on a matter of great importance.The Arklon Ruins southeast of the city are a hotbed of Burning Legion activity. Their purpose in the ruins concerns neither me nor my master, but their leader, Ekkorash, possesses the archmage's staff.This conjuring powder will allow you to draw the demon out of hiding. Sprinkle it on the brazier at the center of the ruins.",
-    "name": "The Archmage's Staff",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

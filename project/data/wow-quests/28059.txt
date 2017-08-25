@@ -1,7 +1,0 @@
-{
-    "_id": "28059",
-    "description": "Have you seen the keep on the north side of the island, <name>?  That is where Keep Lord Farson runs his operation from.Farson has a small group of dedicated followers and they have been giving us trouble since we got here.  We sent a small group to investigate and they reported back on his exact position within the keep.Can you finish him off for us?",
-    "name": "Claiming The Keep",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

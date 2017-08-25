@@ -1,8 +1,0 @@
-{
-    "_id": "14407",
-    "description": "Hey! I'm glad I caught you.I come on behalf of my master, Kalec. He requires your aid. Find him under the bridge in the slums as soon as you can!",
-    "name": "Azshara Blues",
-    "requires_level": 15,
-    "side": "horde",
-    "zone": "Azshara"
-}

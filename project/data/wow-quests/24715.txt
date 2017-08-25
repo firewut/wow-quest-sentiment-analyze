@@ -1,7 +1,0 @@
-{
-    "_id": "24715",
-    "description": "<Suddenly, the robotic gorilla's eyes light up, and it begins to speak.>\"...operational capacity... less than 5%... accidentally... punctured oil reservoir...\"\"...use coconut milk... rock... save A-Me 01...\"<A-Me closes her eyes.>",
-    "name": "Repairing A-Me 01",
-    "requires_level": 50,
-    "zone": "Un'Goro Crater"
-}

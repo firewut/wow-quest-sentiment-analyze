@@ -1,7 +1,0 @@
-{
-    "_id": "12197",
-    "description": "Well, we've got the shell of a golem, but that's not good enough for Tormak. He doesn't realize that these things don't just come together and miraculously start working! We're going to need power cells to animate it.When I was in Dun Argol, I noticed that Rune-Smith Durar and Rune-Smith Kathorn were the ones who manufactured the cells. We'll need one from each to power our golem.You should be able to find each rune-smith in his workshop on the central level of Dun Argol.",
-    "name": "We Have the Power",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

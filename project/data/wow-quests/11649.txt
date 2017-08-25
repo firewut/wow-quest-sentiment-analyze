@@ -1,8 +1,0 @@
-{
-    "_id": "11649",
-    "description": "Now that their little squabble is dealt with, there is still the matter of helping you and your spirit talker.As you can see, my vassals have been enraged by the ongoing war between fire and water. This will not change anytime soon, but it will serve to your advantage.In order to assist you, what we need are their motes. Head further into the ruins and retrieve them from the tempests.",
-    "name": "Motes of the Enraged",
-    "requires_level": 69,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

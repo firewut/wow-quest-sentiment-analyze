@@ -1,7 +1,0 @@
-{
-    "_id": "27522",
-    "description": "We paladins are normally taught to exercise judgment and control when dealing with foes, but this is an emergency, and I never paid too much attention to my trainers anyhow.I'm going to head into the Plaguewood and find out what I can about Giddy.  You deal with the Scourge just to our northeast, on the other side of this tower.  The undead don't fear death, but if you beat them enough, their tongues might slip, and we may get some clues to Gidwin's location.",
-    "name": "Beat it Out of Them",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

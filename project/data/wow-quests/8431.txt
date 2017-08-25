@@ -1,7 +1,0 @@
-{
-    "_id": "8431",
-    "description": "",
-    "name": "Battle of Warsong Gulch",
-    "requires_level": 20,
-    "zone": "Warsong Gulch"
-}

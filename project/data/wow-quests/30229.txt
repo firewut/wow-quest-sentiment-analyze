@@ -1,8 +1,0 @@
-{
-    "_id": "30229",
-    "added_in_patch": 5,
-    "description": "I apologize for my harsh words earlier. Dezco might have been right to wait and move west with a unified strength.The mogu hit us hard when we were searching the ruins west of here. They ambushed us using summoning portals and some dark magics. I haven't seen such evil sorcery used since Outland. We need a respite. Head west, kill their summoners, cut their supply line.",
-    "name": "The Greater Danger",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

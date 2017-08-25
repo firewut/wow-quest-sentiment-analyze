@@ -1,8 +1,0 @@
-{
-    "_id": "25937",
-    "description": "Mining wasn't the only thing going on in the quarry, you know. I led a team of Explorers' League excavators recovering priceless ancient artifacts.I managed to escape, but my colleagues were much deeper in the mine and didn't survive the initial trogg attack.They took great pride in their work and they risked their lives to learn more of our history. If you're going into the mines, take this pick with you and see if you can find anything in the digs the prospectors started.",
-    "name": "Priceless Treasures",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

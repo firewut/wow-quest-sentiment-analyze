@@ -1,9 +1,0 @@
-{
-    "_id": "31256",
-    "added_in_patch": 5,
-    "description": "Lok'tar, <class>.\r\n\r\nWe've made progress, but we're going to need mobility if we want to maintain our foothold here in Kun-Lai.\r\n\r\nI don't see many worgs, kodo, or the like around here. What I do see are yaks. Our pandaren allies have said they make good mounts, so they'll have to do.\r\n\r\nGo round some up and return them here, so we can get our people riding them!",
-    "name": "Round 'Em Up",
-    "requires_level": 87,
-    "side": "horde",
-    "zone": "Kun-Lai Summit"
-}

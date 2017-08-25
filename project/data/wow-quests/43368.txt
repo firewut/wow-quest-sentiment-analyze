@@ -1,8 +1,0 @@
-{
-    "_id": "43368",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Brightwing",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

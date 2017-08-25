@@ -1,8 +1,0 @@
-{
-    "_id": "40570",
-    "added_in_patch": 7,
-    "description": "This stone is saturated with elemental power, possibly the remnant of the magic used against Irmaat!If you went outside and held the stone aloft, it should unleash the stone's essence as a mighty whirlwind. So potent a windstorm could carry you and your companion all the way to Skywall!If the hand blades of Irmaat, the Fists of the Heavens, are as powerful as the old tales say, they would certainly be found there.",
-    "name": "Into The Heavens",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "28239",
-    "description": "This isn't really the most... convincing disguise I've seen, but it'll work.  Undercover work is all about swagger, anyhow.  Just act like you're supposed to be there, and you'll be fine.Your contact inside Black Tooth Hovel will be an orc by the name of Quartermaster Kaoshin.  He does NOT know you're a spy, so try and stay cool.Do whatever Kaoshin asks you.  Colonel Troteman will be in touch via gnomecorder to give you any special instructions.Good luck out there, soldier.",
-    "name": "Into the Black Tooth Hovel",
-    "requires_level": 49,
-    "side": "alliance",
-    "zone": "Burning Steppes"
-}

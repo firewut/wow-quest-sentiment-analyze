@@ -1,7 +1,0 @@
-{
-    "_id": "11484",
-    "description": "While the infrastructure for a piece of machinery like this is important, we can't underestimate the appearance of the construct. If we're to fool the iron dwarves the clone must be exact!I can make this happen.Bring me a pristine shoveltusk hide from the shoveltusk of this region and steel ribbing from vrykul in Nifflevar or Baleheim to the northwest.",
-    "name": "We Have the Technology",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

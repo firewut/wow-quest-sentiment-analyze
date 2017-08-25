@@ -1,9 +1,0 @@
-{
-    "_id": "34674",
-    "added_in_patch": 6,
-    "description": "**Eyes Only -- Commander <name>**\r\n\r\nWith the fall of the rangari base at Telaar, Vindicator Yrel, recommended we establish a new foothold in Nagrand.\r\n\r\nI've taken the liberty of dispatching some of our men and supplies. Rangari D'kaan's already reporting that a new outpost is nearly complete. He has indicated that they are ready to receive you.\r\n\r\nA gryphon is waiting to catch you up with the latest caravan shipment whenever you're ready,  siram;.\r\n\r\n-- Bodrick Grey, SI:7",
-    "name": "Taking the Fight to Nagrand",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

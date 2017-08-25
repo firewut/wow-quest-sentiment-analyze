@@ -1,8 +1,0 @@
-{
-    "_id": "31505",
-    "added_in_patch": 5,
-    "description": "Vess-Guard Vik'az co-ordinates the defense forces at Zan'vess. He is worth ten mantid in battle, and his presence inspires the Zan'thik who fight alongside him.Needless to say, we need him dead.He patrols the housing area at the center of the island.",
-    "name": "Vess-Guard Duty",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

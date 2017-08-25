@@ -1,7 +1,0 @@
-{
-    "_id": "28436",
-    "description": "<name>, it's Eitrigg.  I want you to hold onto that horn.  I'm sure we can improvise and find a way to work it into the plan.I'm more than a little concerned about what Kaoshin said about attacking Redridge.  We knew an attack was imminent, but not this soon!Return to me, with the horn.  We will talk again here, in Chiselgrip.  And try not to ruin that disguise.  You're not done with your undercover work yet.",
-    "name": "Taking the Horn For Ourselves",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

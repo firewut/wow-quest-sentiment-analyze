@@ -1,8 +1,0 @@
-{
-    "_id": "40379",
-    "added_in_patch": 7,
-    "description": "The next gateway's down on the Molten Shore. Our Coilskar forces are waiting at the Black Temple on the other side.\r\n\r\nPersonally, I wouldn't have chosen to bring our naga allies. But, their leader did swear fealty to Lord Illidan. I suppose we'll see.\r\n\r\nWe'll have to find a way to power the gateway's activator. Like this last gateway, it runs on souls.\r\n\r\n<Allari the Souleater grins as Sevis says this.>",
-    "name": "Enter the Illidari: Coilskar",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

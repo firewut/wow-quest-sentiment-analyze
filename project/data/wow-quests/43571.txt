@@ -1,8 +1,0 @@
-{
-    "_id": "43571",
-    "added_in_patch": 7,
-    "description": "Greetings, Deathlord. Years have passed since we first met, but for me it has been mere days.The unholy bond between Horseman and steed must not be taken lightly. Power begets power, Deathlord. Never forget this fact!I can forge an inseparable bond between rider and steed, but components of great power are required.The first item I require is the Braid of the Underking, a dark shamanic adornment passed down for generations.Currently, it is possessed by Dargrul the Underking.",
-    "name": "Braid of the Underking",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

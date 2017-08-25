@@ -1,8 +1,0 @@
-{
-    "_id": "13812",
-    "description": "The Argent Crusade has doubled the guard since your exposure of the Cult of the Damned's infiltrator. They know the cultists won't stop until they've destroyed this area and thwarted the tournament.The Argent Crusade's scouts have reported sighting a frost wyrm named Chillmaw leading a cult raiding party.You must intercept and destroy them before they attack. The scouts reporting seeing Chillmaw to the southwest, flying over the area between the Ironwall Rampart and Aldur'thar.",
-    "name": "Threat From Above",
-    "requires_level": 77,
-    "side": "horde",
-    "zone": "Tournament"
-}

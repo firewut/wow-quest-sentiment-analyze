@@ -1,8 +1,0 @@
-{
-    "_id": "39427",
-    "added_in_patch": 7,
-    "description": "The spear is linked to a spirit called Ohn'ahra. It has been tradition for us to speak with her and receive her blessing before going after the spear. She may also impart some knowledge.\r\n\r\nIf you would accompany me to Spiritwatch Point, I will summon the Eagle Spirit and ask for its blessing in the coming fight.",
-    "name": "The Eagle Spirit's Blessing",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43241",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Flow of the Nightmare",
-    "requires_level": 98,
-    "zone": "Quests"
-}

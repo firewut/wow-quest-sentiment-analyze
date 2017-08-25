@@ -1,7 +1,0 @@
-{
-    "_id": "13833",
-    "description": "The bloodtooth is a feisty little fish used in a recipe to cure infected wounds.  We could use some of them, if you're up to it.As the name suggests, they've a hunger for blood.  The only way I know how to catch the little devils is by creating a blood pool and fishing in it.Get yourself covered in blood - just slaughter a beast in the Borean Tundra - and then jump in the water.  It'll wash right off and create the perfect fishing spot.",
-    "name": "Blood Is Thicker",
-    "requires_level": 70,
-    "zone": "Fishing"
-}

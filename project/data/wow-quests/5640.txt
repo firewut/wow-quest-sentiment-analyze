@@ -1,7 +1,0 @@
-{
-    "_id": "5640",
-    "description": "Praise be to Elune, and to your Light, <name>.About this time, many of our order learn abilities reflecting their faith in Elune. If knowledge serves me, I believe the same holds true for your order also.When your business in Darnassus is complete, I would seek out one of your High Priestesses for further training.",
-    "name": "Desperate Prayer",
-    "requires_level": 10,
-    "zone": "Priest"
-}

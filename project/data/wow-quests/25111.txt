@@ -1,7 +1,0 @@
-{
-    "_id": "25111",
-    "description": "Now that I know you're not squeamish, I've got another job for you. Have you seen the red-feathered birds swarming around the bones out there? Those are fire rocs. They'll light you up good if you're not careful.They're also pretty darn valuable thanks to their unique anatomy. Most of the hunters loafing around here aren't up to the task of killing fire-spitting buzzards for money... think you can handle it?",
-    "name": "Scavengers Scavenged",
-    "requires_level": 43,
-    "zone": "Tanaris"
-}

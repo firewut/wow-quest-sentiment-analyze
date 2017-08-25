@@ -1,8 +1,0 @@
-{
-    "_id": "11616",
-    "description": "<Barthus tears out the last page and rolls it up.>Take this to Hellscream at once! In the meantime, I'm going to send a team to scout out the farms.Be sure to tell Hellscream that we're going to need reinforcements. ",
-    "name": "Message to Hellscream",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

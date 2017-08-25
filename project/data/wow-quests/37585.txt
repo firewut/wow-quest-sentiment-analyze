@@ -1,7 +1,0 @@
-{
-    "_id": "37585",
-    "description": "",
-    "name": "Assault on the Iron Siegeworks",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

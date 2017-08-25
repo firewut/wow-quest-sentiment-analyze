@@ -1,7 +1,0 @@
-{
-    "_id": "12094",
-    "description": "While the runes of compulsion are dormant, there is a chance we can release the runed giants.I will give you a piece of stone that has been part of me since my creation. If properly imbued, it can be used to free the bound giants.Two ancient stone markers sit atop places of power between the Path of Iron and the forest's edge -- locations your people would call the intersections of ley lines. The other is on an island at the southern end of these ruins. Charge the shard at each stone and return.",
-    "name": "Latent Power",
-    "requires_level": 72,
-    "zone": "Grizzly Hills"
-}

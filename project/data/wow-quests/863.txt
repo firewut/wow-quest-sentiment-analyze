@@ -1,8 +1,0 @@
-{
-    "_id": "863",
-    "description": "I suppose I'll learn as we go... Couldn't be too hard. Just some buttons here, and a lever or two... Well, are you ready to go?",
-    "name": "The Escape",
-    "requires_level": 13,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

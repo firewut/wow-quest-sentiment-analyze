@@ -1,8 +1,0 @@
-{
-    "_id": "44182",
-    "added_in_patch": 7,
-    "description": "<Khadgar's voice erupts from the elemental once again.>Obtaining information on the Pillars of Creation before the Legion could stop us was a considerable victory. It won't bring back those we lost on the Broken Shore, but I believe it will help us avenge them.Dalaran has become a focal point of the Legion's assault. Your presence here is crucial. If the demons are putting this much effort into attacking the city, it means Dalaran will play a pivotal role in the struggle to save Azeroth.",
-    "name": "City Under Siege",
-    "requires_level": 98,
-    "zone": "Dalaran"
-}

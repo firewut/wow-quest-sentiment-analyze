@@ -1,8 +1,0 @@
-{
-    "_id": "40401",
-    "added_in_patch": 7,
-    "description": "I must get back into Suramar.I was exiled unfairly! I cannot live out here like this. I need the Nightwell's energies...I saw a message carved into a wall a few days ago. There is someone in the Water Gardens who can smuggle people into the city.It said \"We shall drink of the Well again.\"I cannot survive a confrontation with the guards again. Will you go in my stead? Once I am back in the city I can repay you.",
-    "name": "A Way Back In",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42803",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Invasion: Dun Morogh",
-    "requires_level": 1,
-    "zone": "Dun Morogh"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25636",
-    "description": "Mack is fading in and out of consciousness.If he's going to make it, he's going to need all the help we can muster.I know a good recipe for turtle soup that's sure to warm him up.Bring me some turtle meat and I'll handle the rest.",
-    "name": "Starve a Fever, Feed a Cold",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

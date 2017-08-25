@@ -1,8 +1,0 @@
-{
-    "_id": "41897",
-    "added_in_patch": 7,
-    "description": "The purpose of the Twilight's Hammer has always been the same. They seek to bring about the end of the world. Their schemes may change, but their wicked purpose remains constant.Defeating the Twilight's Hammer is not simply a matter of defeating them in battle. If we are to be successful, we will need to uncover their scheme and put an end to whatever terrible plans they have created.Let us start by searching the encampment for clues as to their true purpose here.",
-    "name": "The Master's Plan",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

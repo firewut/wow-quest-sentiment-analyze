@@ -1,7 +1,0 @@
-{
-    "_id": "11263",
-    "description": "My longrunners that have lived to return have informed me that the vrykul have awakened at their main fortress to the west.It is a forbidden place known as Gjalerbron. The longrunners tell me that the vrykul are performing strange rituals.We cannot allow this to continue.Are you willing to continue to assist us? Will you kill the vrykul at Gjalerbron before they finish whatever they are doing and attack us here?",
-    "name": "Dealing With Gjalerbron",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

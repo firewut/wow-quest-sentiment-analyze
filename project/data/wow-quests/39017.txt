@@ -1,8 +1,0 @@
-{
-    "_id": "39017",
-    "added_in_patch": 7,
-    "description": "The Lich King made a wise choice in giving you that weapon, <name>.You've proven your strength and cunning on countless occasions and it is time that you have a position fitting for your accomplishments.",
-    "name": "Rise to the Occasion",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

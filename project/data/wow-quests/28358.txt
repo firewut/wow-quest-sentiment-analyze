@@ -1,7 +1,0 @@
-{
-    "_id": "28358",
-    "description": "The first demons to set foot in this forest were infernals. Long ago, these powerful beings of stone and demonic fire fell from the sky to take this land for the Burning Legion.The charred craters of Shatter Scar Vale to the south are where these infernals landed, and many still wander there. They are fierce foes, and killing them is both a worthy challenge and a noble cause.I offer reward for those who join the hunt. Return here afterwards.",
-    "name": "Hunting the Damned",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

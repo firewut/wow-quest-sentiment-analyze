@@ -1,8 +1,0 @@
-{
-    "_id": "26043",
-    "description": "By order of Overlord Krom'gar, Cragpool Lake is OFF LIMITS!The ferocious beast known as Cragjaw has made the lake a death trap. Should you dispatch of Cragjaw, take his huge tooth as a trophy and return it to Spy-Mistress Anara for a reward.",
-    "name": "BEWARE OF CRAGJAW!",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

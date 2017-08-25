@@ -1,8 +1,0 @@
-{
-    "_id": "30332",
-    "added_in_patch": 5,
-    "description": "You know what? I think I want to grill up some goatsteak today.No, not from the puny little shaghorns they keep around here. They don't have nearly enough fat on them.<The chef pats his voluminous belly.>You think I got to this size eating no-fat-havin' goats?Now, the shaghorns up on the Skyrange, to the west... those'll do just fine.",
-    "name": "Fatty Goatsteak",
-    "requires_level": 90,
-    "zone": "Cooking"
-}

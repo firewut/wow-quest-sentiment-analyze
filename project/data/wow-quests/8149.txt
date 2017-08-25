@@ -1,7 +1,0 @@
-{
-    "_id": "8149",
-    "description": "During the Harvest Festival of Azeroth, we give thanks to heroes for the sacrifices - in some cases ultimate sacrifices - they have given on our behalf.  The Alliance acknowledges many heroes, but none weave a more tragic tale than that of Uther Lightbringer.Help us honor Uther by taking this offering to his tomb in the Western Plaguelands.  Place it at his statue, and then return to me.  I'll only be here through the end of the festival, so waste no time in giving Uther his tribute.",
-    "name": "Honoring a Hero",
-    "requires_level": 30,
-    "zone": "Quests"
-}

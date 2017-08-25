@@ -1,9 +1,0 @@
-{
-    "_id": "34033",
-    "added_in_patch": 6,
-    "description": "I think we've kept Hansel waiting long enough. Can you take me to him? Then we can all hitch a ride out of here on the mole machine.",
-    "name": "And The Mole You Rode In On",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

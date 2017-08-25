@@ -1,8 +1,0 @@
-{
-    "_id": "32275",
-    "added_in_patch": 5.2,
-    "description": "The Zandalari train skyscreamers to become ferocious beasts in the skies. The spiritbinders require endless sacrifices - of our people - to be brought to them. And, the jaguar warriors venture ever closer toward the heart of our camp.\r\n\r\nFind them in Za'Tual and remove the threat.",
-    "name": "Surgical Death",
-    "requires_level": 90,
-    "zone": "Quests"
-}

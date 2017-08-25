@@ -1,7 +1,0 @@
-{
-    "_id": "29148",
-    "description": "<Matoclaw's voice continues to echo within your head.>Millagazor is a creature of flame, but in many ways, he is not unlike the birds of this land. As such, Aviana's artifacts may still have the power to summon him.The fiery portal to the west is where you will find him. Use the quill near the portal's entrance, then prepare for a fierce battle.",
-    "name": "Wings Aflame",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

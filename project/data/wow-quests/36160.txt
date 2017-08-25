@@ -1,9 +1,0 @@
-{
-    "_id": "36160",
-    "added_in_patch": 6.1,
-    "description": "These feelings are too strong. I can no longer hide my love away.I need to tell Thorn the truth. I need to tell Thorn, I love her.She mentioned her favorite flower is a rose.  I've been so heads down with my work... I don't even know where I could find a rose on Draenor.",
-    "name": "Garrison Campaign: Every Rose Has Its Thorn",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

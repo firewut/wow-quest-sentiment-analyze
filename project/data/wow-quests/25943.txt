@@ -1,8 +1,0 @@
-{
-    "_id": "25943",
-    "description": "I'll need your help if I am to get these orcs ready for battle.Any worthy leader knows that his warriors travel and fight on their stomachs. No food, no victory.These warriors are weary from their struggle out there. They need food before they're ready to overcome a naga attack.Speaking of traveling on stomachs, I saw plenty of crabs out on the sea floor...",
-    "name": "Traveling on Our Stomachs",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

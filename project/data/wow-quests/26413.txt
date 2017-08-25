@@ -1,7 +1,0 @@
-{
-    "_id": "26413",
-    "description": "He still looks a little loopy to me. His head must still be ringing.Best get him inside the temple and see what the Earthcaller wants to do with him.I think I'm going to stay out here a little while longer and \"observe\" these rock flayers.",
-    "name": "Take Him to the Earthcaller",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

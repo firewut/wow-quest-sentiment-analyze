@@ -1,8 +1,0 @@
-{
-    "_id": "37965",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "A Tainted Vintage",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

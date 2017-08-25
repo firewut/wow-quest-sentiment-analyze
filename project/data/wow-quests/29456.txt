@@ -1,7 +1,0 @@
-{
-    "_id": "29456",
-    "description": "This tattered banner bears a faded guild crest. This old banner must've seen more than its share of battles.Professor Thaddeus Paleo of the Darkmoon Faire collects banners and other relics of combat and he might be interested in acquiring this one. Show the banner to him next time you visit the Darkmoon Faire.",
-    "name": "A Captured Banner",
-    "requires_level": 15,
-    "zone": "Darkmoon Faire"
-}

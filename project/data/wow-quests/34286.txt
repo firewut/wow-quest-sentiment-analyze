@@ -1,9 +1,0 @@
-{
-    "_id": "34286",
-    "added_in_patch": 6,
-    "description": "Okay, now down to business.The Bloodmaul have unearthed some monstrous artifact I've heard them call the Soulgrinder. It's a nasty bit o' sorcery that their chief uses to give himself incredible magical power, but it comes at the cost of needing to feed upon souls to maintain it. Every day, more and more corpses pile up from the slaves killed to maintain it.We need to go find Borgal and get rid of this Soulgrinder!",
-    "name": "Seeking the Truth",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26571",
-    "description": "What I'm about to ask of you isn't going to be easy to accomplish, <name>. Keeshan left everything back there in that orc prison, and I'm not just talking about his soul or his will to live.If we're going to get Johnny ready for war, we need to recover his prized possessions. The orcs now hold Keeshan's bow and his survival knife.Head to Alther's Mill, east of here and look for two orc lieutenants, Murdunk and Homurk. They've got Keeshan's gear. Get it back.I'll be in touch via gnomecorder.",
-    "name": "Weapons of War",
-    "requires_level": 15,
-    "side": "alliance",
-    "zone": "Redridge Mountains"
-}

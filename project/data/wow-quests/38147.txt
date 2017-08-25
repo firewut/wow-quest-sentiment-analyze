@@ -1,8 +1,0 @@
-{
-    "_id": "38147",
-    "added_in_patch": 7,
-    "description": "I sense powerful magic emanating from deep within the barrow.Whatever is down there weaves a powerful spell, entangling us within our dreams.I am still too weak, but your skills are quite impressive, hero. I can see why Malfurion puts his trust in you.Go and eliminate the source of this magic.",
-    "name": "Entangled Dreams",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

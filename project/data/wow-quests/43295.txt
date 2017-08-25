@@ -1,8 +1,0 @@
-{
-    "_id": "43295",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Slaughter the Fel Armies",
-    "requires_level": 98,
-    "zone": "Quests"
-}

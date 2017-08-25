@@ -1,8 +1,0 @@
-{
-    "_id": "43459",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Thondrax",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

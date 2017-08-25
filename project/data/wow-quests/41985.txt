@@ -1,8 +1,0 @@
-{
-    "_id": "41985",
-    "added_in_patch": 7,
-    "description": "I must be hallucinating because I swear I can see a giant statue talking to me right now.It's a good thing I'm writing this down. And this. And that. Help?",
-    "name": "Fevered Request",
-    "requires_level": 98,
-    "zone": "First Aid"
-}

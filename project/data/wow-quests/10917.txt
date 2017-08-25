@@ -1,7 +1,0 @@
-{
-    "_id": "10917",
-    "description": "As an outcast, I am marked for death by arakkoa loyal to the city of Skettis.  I cannot leave these walls for fear of my life, but that doesn't mean I cannot strike at them in retaliation.I have a small cache of treasure that I'm willing to part with, should you help me strike back at my would-be assassins.  Bring me feathers from the denizens of the various Veils of Terokkar as proof of their demise.",
-    "name": "The Outcast's Plight",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

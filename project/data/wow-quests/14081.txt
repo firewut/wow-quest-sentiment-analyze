@@ -1,7 +1,0 @@
-{
-    "_id": "14081",
-    "description": "This pamphlet advertising riding training and mount purchases was sent from Perascamin.Perascamin can be found at Thuron's Livery, southeast of the Shepherd's Gate leaving Silvermoon City.",
-    "name": "Learn to Ride in the Eversong Woods",
-    "requires_level": 20,
-    "zone": "Eversong Woods"
-}

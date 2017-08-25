@@ -1,8 +1,0 @@
-{
-    "_id": "38647",
-    "added_in_patch": 7,
-    "description": "I've got a full summer's corn harvest just sittin' out in the field. I need some muscle to bring it in before the night elf raiders can destroy it.Get out there and bring me those crops, and I'll reward you handsomely.The folks back in town need this food, and I sure as heck ain't eating rats for another winter.",
-    "name": "For the Corn!",
-    "requires_level": 98,
-    "zone": "Quests"
-}

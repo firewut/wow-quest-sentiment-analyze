@@ -1,7 +1,0 @@
-{
-    "_id": "31371",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Tracking Event: Player Has Completed One Anglers Daily",
-    "zone": "Quests"
-}

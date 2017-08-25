@@ -1,7 +1,0 @@
-{
-    "_id": "9569",
-    "description": "Now that we have made our presence known to the satyr, we must send a message that we will not tolerate the Burning Legion's hounds in these lands.Too long have the draenei fled in the wake of the Legion and its minions, <name>. Wherever they have found us, they have shown no mercy.We must not permit the satyr to exploit the Exodar's crash and use the corrupted crystals as weapons. Go north to where their leader resides in Axxarien, destroy him, and recover the corrupted crystals he has been gathering!",
-    "name": "Containing the Threat",
-    "requires_level": 13,
-    "zone": "Bloodmyst Isle"
-}

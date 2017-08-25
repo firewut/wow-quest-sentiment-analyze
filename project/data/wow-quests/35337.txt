@@ -1,9 +1,0 @@
-{
-    "_id": "35337",
-    "added_in_patch": 6,
-    "description": "Commander. The rangari and I were just discussing the merits of various 'hunting' approaches.I assured her that the SI:7 are well-equipped to deal with any situation, even ones out in the wild.She seems to think that we don't know what we're doing when it comes to bringing down game in 'her land.'We're not going to let her get away with saying that, right? Let's take down some clefthoof.",
-    "name": "That Pounding Sound",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

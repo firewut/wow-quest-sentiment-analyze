@@ -1,8 +1,0 @@
-{
-    "_id": "31319",
-    "added_in_patch": 5,
-    "description": "Your companions have made themselves at home in our land, and brought with them a dangerous conflict.The full extent of their destruction here we cannot yet know. Already it is... unspeakable.Nevertheless, to forsake your friends out of spite would be against our way. Any that yet live are doubtlessly wounded and in desperate need of care.These fireworks were to celebrate the statue's completion. Use them near your companions to signal Mishi, and she will bear them off to safety.",
-    "name": "Emergency Response",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

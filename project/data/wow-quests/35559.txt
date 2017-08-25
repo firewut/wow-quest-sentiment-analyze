@@ -1,8 +1,0 @@
-{
-    "_id": "35559",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Underbog Reward Quest",
-    "requires_level": 61,
-    "zone": "Quests"
-}

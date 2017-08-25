@@ -1,8 +1,0 @@
-{
-    "_id": "41826",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Crawshuk the Hungry",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32192",
-    "added_in_patch": 5.1,
-    "description": "We managed to fend off the mogu wardens and their dogs, but many of the blood elves from the scouting party were not as lucky.Many of my people are trapped inside the ruins to the north. We are devising a solution to break them out, but I believe there may be a more straightforward approach.Go to the ruins and kill the wardens guarding each prisoner. If my intuition is correct, this will free our comrades.",
-    "name": "Bloodlines",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

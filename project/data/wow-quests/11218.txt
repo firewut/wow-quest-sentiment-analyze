@@ -1,7 +1,0 @@
-{
-    "_id": "11218",
-    "description": "<name>, the captain's tasked me with a mission. I'd like you to help.A bunch of my fellow Explorers' League people went nuts digging up stuff in the Whisper Gulch just to the north. They're attacking anyone trying to get in!The captain is only concerned with the ore for the keep. Lucky for us, I have just the thing to do the trick.Get in there, blow up the ore, and bring it back along with any gems you find. Running this place isn't cheap you know!I gotta warn you though, that ore is strange!",
-    "name": "Danger! Explosives!",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

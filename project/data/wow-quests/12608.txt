@@ -1,7 +1,0 @@
-{
-    "_id": "12608",
-    "description": "<It appears the Avatar of Freya was right.  The undead were not able to enter Sholazar Basin before the Lifeblood Pillar was brought down -- they used their living agents from the Cult of the Damned instead.><You'd best warn her about the Lich King's living agents within Sholazar Basin.>",
-    "name": "Cultist Incursion",
-    "requires_level": 77,
-    "zone": "Sholazar Basin"
-}

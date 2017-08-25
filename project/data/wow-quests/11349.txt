@@ -1,7 +1,0 @@
-{
-    "_id": "11349",
-    "description": "I've got a set of picks, hammers, and chisels with me, but they won't work for carving these runes. The tools used by the Iron Dwarves are imbued with magic during their forging.When they're used to carve runes, the symbols form much more than mere words. These runes have the power to bind, compel, and twist.I believe I know how it works, but without a set of those tools, I can't be certain. Look for kits resembling mine near the Iron Dwarf pavilions at Giants' Run and bring them to me.",
-    "name": "Mastering the Runes",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

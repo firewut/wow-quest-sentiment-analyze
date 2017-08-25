@@ -1,8 +1,0 @@
-{
-    "_id": "31010",
-    "added_in_patch": 5,
-    "description": "The crystal sings to the Klaxxi. They sense a paragon in the clutch, east of the tower.Clutch-keepers are trying to pollute this one. The Klaxxi will not permit this.Go and find the paragon. Place your hands on his chamber, and the Klaxxi will channel their whispers through you to break him free. Protect him if you can.",
-    "name": "In Her Clutch",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

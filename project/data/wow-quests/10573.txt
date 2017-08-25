@@ -1,7 +1,0 @@
-{
-    "_id": "10573",
-    "description": "From your findings at Legion Hold, we know that the Legion's Shadow Council allies are producing infernals in the Deathforge. I've dispatched a small scouting party to keep watch over the area, but they're not able to accomplish everything we need.If the Deathforge is left alone to operate, they'll rebuild the infernal stockpile that you destroyed at Legion Hold.I want you to meet up with Stormer Ewan Wildwing, at the Deathforge Tower, to the northwest, overlooking the Deathforge itself.",
-    "name": "The Deathforge",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

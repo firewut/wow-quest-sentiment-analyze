@@ -1,9 +1,0 @@
-{
-    "_id": "29727",
-    "added_in_patch": 5,
-    "description": "The final leg of our journey took us west, to a large hozen village. We set up a small camp in the mountains, outside of their line of sight...",
-    "name": "SI:7 Report: Take No Prisoners",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

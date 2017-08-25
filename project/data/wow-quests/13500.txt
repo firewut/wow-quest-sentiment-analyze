@@ -1,7 +1,0 @@
-{
-    "_id": "13500",
-    "description": "",
-    "name": "Honor the Flame",
-    "requires_level": 1,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30299",
-    "added_in_patch": 5,
-    "description": "The mogu have forced spirits into their old statues to bring them to life, control them, and turn them against us.The only way to free the bound spirits is to destroy their vessels.",
-    "name": "No Stone Unturned",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

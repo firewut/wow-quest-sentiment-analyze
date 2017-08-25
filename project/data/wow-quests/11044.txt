@@ -1,7 +1,0 @@
-{
-    "_id": "11044",
-    "description": "A vision of cataclysm often disturbs my rest -- a rain of green fire falling to the earth, felling the valiant defenders of a mighty fortress. It has haunted me for weeks now, although I have only recently come to understand its meaning.To the far east, in Shadowmoon Valley, the Wildhammer dwarves endure constant attacks from the Burning Legion and numerous other foes. They fight bravely, but without relief, their enemies will triumph. Go to their side, <name>. Help them in their fight.",
-    "name": "Visions of Destruction",
-    "requires_level": 67,
-    "zone": "Nagrand (Outland)"
-}

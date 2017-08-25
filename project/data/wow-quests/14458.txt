@@ -1,8 +1,0 @@
-{
-    "_id": "14458",
-    "description": "We've struck a great blow against the quilboar here. I will stay here, and hold the line, but you need to move on.Seek Adana Thunderhorn; she has taken a few braves to the southwest to root out the rest of the Bristleback.",
-    "name": "Go to Adana",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Mulgore"
-}

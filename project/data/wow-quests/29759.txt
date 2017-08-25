@@ -1,9 +1,0 @@
-{
-    "_id": "29759",
-    "added_in_patch": 5,
-    "description": "I hope you are capable of this next task, for our lives depend on it.There is only one key that will unlock our chains. Unfortunately, the key hangs around the neck of the hozen's pet tiger, Kung Din.They keep the tiger in the great pit to the north. The only way to retrieve the key will be to kill the beast.",
-    "name": "Kung Din",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

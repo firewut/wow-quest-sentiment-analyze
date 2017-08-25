@@ -1,7 +1,0 @@
-{
-    "_id": "11245",
-    "description": " Sir am;, as we move through Skorn, we have to bring down those towers!If you have a look at them, you'll notice that their tops are lined with casters. Getting too close to them would mean certain doom for us!However, we do have it within our means to call in cannon volleys from Westguard Keep. To do so, we need to get close enough so that you can lob a smoke flare atop of them.Just don't get too close!",
-    "name": "Towers of Certain Doom",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

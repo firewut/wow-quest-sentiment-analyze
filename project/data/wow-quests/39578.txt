@@ -1,8 +1,0 @@
-{
-    "_id": "39578",
-    "added_in_patch": 7,
-    "description": "The tale of Huln did not end with him acquiring the Hammer of Khaz'goroth.No. For that part, we must venture deeper into this cavern. A final brazier awaits us ahead.Come, let us see what happened next.",
-    "name": "Titanic Showdown",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28375",
-    "description": "The time of vengeance has come, <name>. Kasha can once more fly, thanks to you. She will take us to Purgation Isle so that we may confront the Stormpike dwarf general, Vanndar Stormpike, and his captain, Balinda Stonehearth. BOTH will pay for what they have done.Are you ready? Orkus cannot do this alone.",
-    "name": "The Road to Purgation",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

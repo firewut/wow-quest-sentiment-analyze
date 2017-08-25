@@ -1,7 +1,0 @@
-{
-    "_id": "10128",
-    "description": "The tracks lead south from Imarion's equipment, appearing to follow the Southern Rampart. The roughness of the shallow ruts suggests that Imarion's captors were in a hurry to move him to his next destination, but why?Was someone waiting there for him, perhaps the Warboss Nekrogg, the leader named in the orders you found further north?The shield and the tracks raise more questions than they solve, but it seems certain that where you find Private Imarion, you're likely to find Warboss Nekrogg too.",
-    "name": "Saving Private Imarion",
-    "requires_level": 58,
-    "zone": "Hellfire Peninsula"
-}

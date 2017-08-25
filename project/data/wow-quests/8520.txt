@@ -1,7 +1,0 @@
-{
-    "_id": "8520",
-    "description": "With the Ahn'Qiraj War looming we need to do everything that we can to see to it that our soldiers have everything that they need. We're doing just that right here. For my part I've been placed in charge of seeing to it that we collect enough silk bandages.Do you think you can help me out, <class>?",
-    "name": "The Alliance Needs Silk Bandages!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

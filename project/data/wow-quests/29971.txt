@@ -1,9 +1,0 @@
-{
-    "_id": "29971",
-    "added_in_patch": 5,
-    "description": "Hey, while you were out our scouts came back. And get this, they found some Alliance kid.You should probably go debrief them.",
-    "name": "The Scouts Return",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

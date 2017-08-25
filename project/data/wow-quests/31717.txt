@@ -1,8 +1,0 @@
-{
-    "_id": "31717",
-    "added_in_patch": 5,
-    "description": "You are rising up the ranks of our students, <name>.Just as a sword must be forged through fire, so must our students test themselves against one another.Today, you will spar against one of our brightest disciples, Ace Longpaw. In order to defeat him, you will need to make use of your defensive capabilities.Speak to him in the training ring to begin the challenge. Good luck.",
-    "name": "The Trainer's Challenge: Ace Longpaw",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

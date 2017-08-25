@@ -1,8 +1,0 @@
-{
-    "_id": "39718",
-    "added_in_patch": 7,
-    "description": "Archmage Khadgar was planning an expedition to Azsuna - you should seek him out at Krasus' Landing in Dalaran immediately.",
-    "name": "Paradise Lost",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

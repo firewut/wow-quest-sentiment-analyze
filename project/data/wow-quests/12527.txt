@@ -1,7 +1,0 @@
-{
-    "_id": "12527",
-    "description": "My master, Finklestein, is in the shrine at Heb'Valok to the northwest preparing a truth serum, and he needs basilisk crystals. Heb'Valok is on the west side of the road leading north before the Altar of Sseratus.There are basilisks to the east at Drak'Agal.If you grab the Zul'Drak rats and throw them at the basilisk, they will become gorged and docile after eating five. Then you'll be able to take their crystals.Killing the basilisk won't do you any good. That'd just break its crystals!",
-    "name": "Gluttonous Lurkers",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

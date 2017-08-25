@@ -1,8 +1,0 @@
-{
-    "_id": "29951",
-    "added_in_patch": 5,
-    "description": "While you're just hangin' around, I might as well get you involved in my whole beer-makin' \"process\". Ain't much of a process, really... I just mix all the stuff together and wait.You probably heard - I like to use the muddy water from the riverbanks, to the south. Would you mind fillin' up this flask with that water and bringin' it back? I'll start gettin' the hops and barley all ready.",
-    "name": "Muddy Water",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

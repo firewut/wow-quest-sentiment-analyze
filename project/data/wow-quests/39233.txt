@@ -1,9 +1,0 @@
-{
-    "_id": "39233",
-    "added_in_patch": 6.2,
-    "description": "At last <name>, you've arrived and not a moment too soon. Quick, go down into the mine and take a look at what we've discovered. You may run into some Alliance down there. It is a minor inconvenience that is easily remedied.",
-    "name": "Don't Hate, Excavate!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Ashran"
-}

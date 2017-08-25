@@ -1,7 +1,0 @@
-{
-    "_id": "13638",
-    "description": "You've proven yourself more than capable enough in a fight. I have something a bit more pressing to ask of you now.One of my men, Mountaineer Gravelgaw, was captured by the troggs that we've been fighting in the southern mountains. Well, not so much captured as willingly gave himself up, but similar end result. I think he was hoping to identify their leader from the inside.I need you to go get him out. They'll probably be holding him near one of their upper caves deep in the mountains.",
-    "name": "The Captured Mountaineer",
-    "requires_level": 9,
-    "zone": "Loch Modan"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "38081",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Unlock \"Tinkertown\"",
-    "zone": "Quests"
-}

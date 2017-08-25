@@ -1,8 +1,0 @@
-{
-    "_id": "42439",
-    "added_in_patch": 7,
-    "description": "Turn your eyes above and you will see the cause of our misfortune. Ever since that ship appeared the attacks have been relentless. Many of the Ashen have been captured and even now I can hear their screams of torture.Please, go out there and rescue as many of my followers as you can. They do not deserve the fate that awaits them if left in the Legion's grip.",
-    "name": "Aid for the Ashen",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

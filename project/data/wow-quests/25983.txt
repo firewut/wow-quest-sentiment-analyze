@@ -1,7 +1,0 @@
-{
-    "_id": "25983",
-    "description": "We need to get this information up to Captain Taylor on Promontory Point! He's out there to the northwest with Erunak Stonespeaker and the Earthen Ring.",
-    "name": "Promontory Point",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

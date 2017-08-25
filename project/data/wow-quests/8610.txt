@@ -1,7 +1,0 @@
-{
-    "_id": "8610",
-    "description": "",
-    "name": "The Horde Needs More Runecloth Bandages!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

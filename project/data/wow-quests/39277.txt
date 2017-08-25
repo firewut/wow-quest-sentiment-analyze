@@ -1,8 +1,0 @@
-{
-    "_id": "39277",
-    "added_in_patch": 7,
-    "description": "The Bug Sprayer you recovered from Ormgul the Pestilent seems like it could give us an advantage against the drogbar and their insects.\r\n\r\nSpray the Drogbar with their own alchemy and watch their insects turn against them.",
-    "name": "Spray and Prey",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

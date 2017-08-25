@@ -1,8 +1,0 @@
-{
-    "_id": "40729",
-    "added_in_patch": 7,
-    "description": "It is time to begin the ritual, warlock. Be prepared, for the summoning we perform today will be more challenging than any you have known or seen before.Are you ready?",
-    "name": "The New Blood",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

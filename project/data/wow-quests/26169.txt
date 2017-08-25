@@ -1,8 +1,0 @@
-{
-    "_id": "26169",
-    "description": "Grol... the ogre.<Kasim laughs.>It would seem that Grol's body no longer rests with the ogres.  His body, along with his amulet of power, is in a wrecked ship off the Shattershore, to the east.  His amulet is the last... once combined, the three will give us access to Razelikh, and therein lies our chance to stop his madness.",
-    "name": "The Amulet of Grol",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

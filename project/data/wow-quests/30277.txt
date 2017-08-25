@@ -1,8 +1,0 @@
-{
-    "_id": "30277",
-    "added_in_patch": 5,
-    "description": "An ancient mogu artifact has been uncovered in the Guo-Lai Vault, beyond the Hall of Statues. We've made repeated attempts to retrieve it, but none have been successful.We cannot let this artifact fall into the hands of the Shao-Tien. I need someone capable to retrieve it, and quickly.Are you in?",
-    "name": "The Crumbling Hall",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

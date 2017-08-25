@@ -1,9 +1,0 @@
-{
-    "_id": "33450",
-    "added_in_patch": 6,
-    "description": "I don't know what you are accustomed to, traveler, but these lands devour the weak. Perhaps Durotan wishes to rid himself of you. We shall see.You must kill the Warlord of the Circle of Blood. Do this and the ogres here will be defeated. But first, you must find him.I have located his bodyguards nearby. Slay them and bring me their heads. With them, we shall lure the Warlord into the open.",
-    "name": "The Warlord's Guard",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

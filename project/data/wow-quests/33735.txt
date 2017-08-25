@@ -1,9 +1,0 @@
-{
-    "_id": "33735",
-    "added_in_patch": 6,
-    "description": "The enemy has explosive devices stored on the beach below. We must recover them so they are not used against us.\r\n\r\nReports indicate that crates of explosives are scattered along the shoreline.\r\n\r\nWhile you search, Durotan and I will carve deeper into Iron Horde territory.",
-    "name": "In Short Supply",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

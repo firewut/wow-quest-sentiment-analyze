@@ -1,7 +1,0 @@
-{
-    "_id": "11085",
-    "description": "Hail, <name>.  I thank you for coming to my aid.The arakkoa's monstrous birds knocked me from my nether ray while on a scouting mission.Let's get out of here, while we can.",
-    "name": "Escape from Skettis",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

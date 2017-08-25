@@ -1,9 +1,0 @@
-{
-    "_id": "34295",
-    "added_in_patch": 6,
-    "description": "Gul'dan is in the cave further into the Gloomspire.We know that he's about to leave for Talador and Shadowmoon Valley. You must capture him by any means necessary, <name>.I'll see you back at Throm'var. Good luck.",
-    "name": "To Capture Gul'dan",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

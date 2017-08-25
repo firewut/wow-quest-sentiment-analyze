@@ -1,8 +1,0 @@
-{
-    "_id": "10482",
-    "description": "Scavengers, orcs of the Bonechewer clan, skulk about the ruined battlements overlooking the Path of Glory.  We must assume that these fel orcs are gathering war machine parts for their masters within Hellfire Citadel -- they must be stopped!Find Bonechewer orcs to the north, <name>.  Find them and slay them!  But use caution, for although these orcs are the lesser of the fel orc clans, their strength is the match of any green-skinned orc we've faced thus far...",
-    "name": "Fel Orc Scavengers",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

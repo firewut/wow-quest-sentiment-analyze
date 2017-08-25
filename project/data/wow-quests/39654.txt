@@ -1,8 +1,0 @@
-{
-    "_id": "39654",
-    "added_in_patch": 7,
-    "description": "Fear not, mortal, you are not dead. I was directed to collect you before your demise by Odyn himself.\r\n\r\nI will take you to Odyn now, follow me.",
-    "name": "Odyn and the Valarjar",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "6362",
-    "description": "For a small fee, I will give you a wind rider to Thunder Bluff.  There's no faster way to the city!If that is acceptable, speak to me again when you are ready to go.If you're taking those hides to Ahanu, then I think he's at Hewa's Armory, at the base of the wind rider tower in Thunder Bluff.  And that's right where you'll land!",
-    "name": "Ride to Thunder Bluff",
-    "requires_level": 5,
-    "side": "horde",
-    "zone": "Mulgore"
-}

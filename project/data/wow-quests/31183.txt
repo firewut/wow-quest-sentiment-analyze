@@ -1,8 +1,0 @@
-{
-    "_id": "31183",
-    "added_in_patch": 5,
-    "description": "Alright, $p, I got another job for ya.You see that lion seal in the pen over there? Name's Dog. He's been Soggy's pet for years.Dog's acting up lately - I think he's getting restless in that pen. Why don't you go talk to Soggy and let him know.I'd say it's about time you meet the cap'n anyway.",
-    "name": "Meet the Cap'n",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

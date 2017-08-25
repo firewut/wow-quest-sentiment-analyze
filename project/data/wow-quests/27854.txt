@@ -1,7 +1,0 @@
-{
-    "_id": "27854",
-    "description": "We have suffered many losses, <name>. Dreadmaul Hold has sent ogres from the Blasted Lands as reinforcements, but they can only send so many; the Alliance attacks them as well, even as we speak.The Alliance has countered our ogres with mounted knights, a strategy that served them well in the Second War. We will need our strongest warriors to turn the tide of battle!Return to the Bloodmire, <name>, and bring down those knights!",
-    "name": "Tides of Darkness",
-    "requires_level": 52,
-    "zone": "Swamp of Sorrows"
-}

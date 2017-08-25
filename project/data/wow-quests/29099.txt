@@ -1,7 +1,0 @@
-{
-    "_id": "29099",
-    "description": "TBD",
-    "name": "Mor'shan Caravan Delivery",
-    "requires_level": 15,
-    "zone": "Northern Barrens"
-}

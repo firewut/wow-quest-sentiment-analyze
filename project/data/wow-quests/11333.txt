@@ -1,7 +1,0 @@
-{
-    "_id": "11333",
-    "description": "While the Explorers' League may discern bits and pieces of the past through their archaeological findings and the Vice Admiral might extract some knowledge of the present through brute force, the truth lies with the spirits.With the proper reagents I am able to see into the spirit world. It is there that the past, present and future of Northrend resides.If you wish to learn more, I will require my reagent pouch. It was lost in a ship that is now at the bottom of Daggercap Bay, just east of here.",
-    "name": "Into the World of Spirits",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

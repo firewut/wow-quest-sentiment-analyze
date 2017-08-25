@@ -1,8 +1,0 @@
-{
-    "_id": "32648",
-    "added_in_patch": 5.2,
-    "description": "Well, hopefully these crops will be suitable!Once your white turnips are ready to be picked, you'll need only to package them for pick-up.",
-    "name": "Work Order: Golden Lotus II",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

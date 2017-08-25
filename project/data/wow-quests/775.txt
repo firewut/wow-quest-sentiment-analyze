@@ -1,7 +1,0 @@
-{
-    "_id": "775",
-    "description": "You will now be revered within our great city. Any <race> worthy of completing the Rites of the Earthmother earns that honor.For your final quest, seek out our noble leader, Cairne Bloodhoof, who dwells atop the highest mesa in Thunder Bluff.",
-    "name": "Journey into Thunder Bluff",
-    "requires_level": 3,
-    "zone": "Mulgore"
-}

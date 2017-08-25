@@ -1,8 +1,0 @@
-{
-    "_id": "31471",
-    "added_in_patch": 5,
-    "description": "To cook with the wok, you need to be nimble. Your first lesson is sauteed carrots.\r\n",
-    "name": "Agile as a Tiger",
-    "requires_level": 85,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11010",
-    "description": "You have a flying mount... so what!  You think you have what it takes to use it properly?Forge Camp: Wrath and Forge Camp: Terror, to the north and south, are a major pain in my backside, as well as being a threat to peaceful Ogri'la.  With all of those fel cannons shooting down the Skyguard left and right, we can't get through there to take care of business.You want to prove yourself?  Take these bombs and knock out their ammo stacks.  Just don't let them shoot you down, too!",
-    "name": "Bombing Run",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

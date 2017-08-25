@@ -1,8 +1,0 @@
-{
-    "_id": "123",
-    "description": "This note is a schedule with a list of days and times when a person -- described only as \"The Collector\" -- will receive a shipment of gold from the mines in Elwynn Forest.From the schedule, it looks as if the Collector resides near the Brackwell Pumpkin Patch in eastern Elwynn.This sounds important.  You should report it to Marshal McCree at Eastvale Logging Camp.",
-    "name": "The Collector",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

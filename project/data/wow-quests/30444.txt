@@ -1,8 +1,0 @@
-{
-    "_id": "30444",
-    "added_in_patch": 5,
-    "description": "We've been granted a brief respite from the mogu attacks as they attempt to recoup near the Five Sisters to our north. I would like you to see to it that they not be granted a similar reprieve.Show no mercy.",
-    "name": "No Reprieve",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

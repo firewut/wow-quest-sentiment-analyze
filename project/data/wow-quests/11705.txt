@@ -1,8 +1,0 @@
-{
-    "_id": "11705",
-    "description": "This is madness. How do they expect us to take on a Scourge necrolord and an unknown number of his minions?<Getry sighs.>If Ickoris sent you he must think that you are capable of great feats. Perhaps you will call down a miracle today, eh?When you're ready we will descend and face Varidus.If we make it out of this mess in one piece, report back to Hellscream in Warsong Hold.",
-    "name": "Foolish Endeavors",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

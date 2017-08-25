@@ -1,7 +1,0 @@
-{
-    "_id": "35192",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "See Reinforcements Teleport",
-    "zone": "Talador"
-}

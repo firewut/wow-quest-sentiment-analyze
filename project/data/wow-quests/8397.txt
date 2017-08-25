@@ -1,7 +1,0 @@
-{
-    "_id": "8397",
-    "description": "",
-    "name": "Claiming Arathi Basin",
-    "requires_level": 50,
-    "zone": "Arathi Basin"
-}

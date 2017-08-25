@@ -1,7 +1,0 @@
-{
-    "_id": "13336",
-    "description": "Those vrykul that have gained the favor of the Lich King call themselves the Ymirjar. They inhabit a city in the center of Icecrown. We have a lot of preparations to make before we assault Icecrown Citadel, and the one that stands before us now is routing these so-called \"Chosen\" of the Lich King.Go to their city, Ymirheim, and slaughter them in their home. Let there be no questions as to who the stronger combatants are here.",
-    "name": "Blood of the Chosen",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

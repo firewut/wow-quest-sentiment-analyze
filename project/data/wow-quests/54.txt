@@ -1,7 +1,0 @@
-{
-    "_id": "54",
-    "description": "<name>, you are a <class> with proven interest in the security of Northshire.  You are now tasked with the protection of the surrounding Elwynn Forest.If you accept this duty, then I have prepared papers that must be delivered to Marshal Dughan in Goldshire.  Goldshire lies along the southern road, past the border gates.",
-    "name": "Report to Goldshire",
-    "requires_level": 1,
-    "zone": "Elwynn Forest"
-}

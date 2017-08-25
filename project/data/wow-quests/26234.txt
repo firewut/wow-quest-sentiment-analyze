@@ -1,8 +1,0 @@
-{
-    "_id": "26234",
-    "description": "As you know, <name>, Garrosh has relegated the goblins of Orgrimmar to the western outskirts of the city.  Fortunately, that means that we have easy access to their supplies.  I am working on a large batch of jambalaya for the infantry and I need as much rice as possible.  Lucky for us, the goblins keep it stored in barrels near their structures.  Retrieve these barrels of Kezan rice for me and I should be able to finish up. ",
-    "name": "Stealing From Our Own",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

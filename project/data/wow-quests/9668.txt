@@ -1,7 +1,0 @@
-{
-    "_id": "9668",
-    "description": "A Hand of Argus soldier is many things: Obedient, brave, intelligent, and above all, honorable. You may yet exhibit some of these traits, <class>.Report to Exarch Admetius at Blood Watch if you are still interested in joining the Hand. He and his subordinates will further train you in the ways of the draenei soldier.And remember this, <name>: Honorable people do not always perform honorably. Sometimes they cannot.You will find Blood Watch just up this road, to the north.",
-    "name": "Report to Exarch Admetius",
-    "requires_level": 10,
-    "zone": "Bloodmyst Isle"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13425",
-    "description": "It is not enough to demonstrate your prowess among your peers.  You must also fight our enemies, dear sister.The Valkyrion traitors continue to mock our noble drake-riding traditions by rearing plagued proto-drakes.Seize the frost oil they wield and use it to freeze their abominable plagued eggs.",
-    "name": "The Aberrations Must Die",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

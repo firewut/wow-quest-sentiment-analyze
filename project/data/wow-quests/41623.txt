@@ -1,8 +1,0 @@
-{
-    "_id": "41623",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champions of Highmountain",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

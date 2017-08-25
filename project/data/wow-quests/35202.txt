@@ -1,9 +1,0 @@
-{
-    "_id": "35202",
-    "added_in_patch": 6,
-    "description": "The magics Xuk is weaving will let you perform great acts, but preparations must be made before the spirits will bless us with their power.Xuk needs many shells from the pesky goren. To gather them, Xuk will share a secret.Approach their tunnel craters and the goren will pour out. This way, you kill many at once.",
-    "name": "Xuk Me, Right?",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

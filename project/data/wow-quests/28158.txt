@@ -1,7 +1,0 @@
-{
-    "_id": "28158",
-    "description": "There are two very powerful elementals that the Twilight's Hammer have bound. They are using the bound Fury and Vortex to infuse Animus with a great deal of power.When Animus has absorbed enough of their power, he will explode. The rest of Thousand Needles and much of the surrounding lands, will be obliterated.",
-    "name": "Unbound",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

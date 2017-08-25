@@ -1,7 +1,0 @@
-{
-    "_id": "37752",
-    "description": "",
-    "name": "Pet Battles Active",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

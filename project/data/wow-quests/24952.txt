@@ -1,8 +1,0 @@
-{
-    "_id": "24952",
-    "description": "You need to get those boots down into the caldera to Hobart Grapplehammer.Now that they're infused with the leftover rockin' powder, they should have enough thrust to get you all the way there on one shot.When you're ready, activate the boots. Don't worry, they're automatically set to land you safely.I think.",
-    "name": "Rocket Boot Boost",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

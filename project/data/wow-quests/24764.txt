@@ -1,8 +1,0 @@
-{
-    "_id": "24764",
-    "description": "Tha Darkspear tribe have long been victims. Outcasts. We found ourselves fleein' our homes time 'n time again... but dis time, it's not fleein' dat drives us here.Vol'jin has offered us leadership through wisdom, and it has kept us alive dis long. Now dat same wisdom offers portents of a chaotic future for tha Horde unda Garrosh Hellscream.No, dis time we not fleein'. Dis time, we are fightin' for a home dat will last.It's time to begin ya trainin', <name>. Speak with Zen'Tabra to the east.",
-    "name": "The Rise of the Darkspear",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Echo Isles"
-}

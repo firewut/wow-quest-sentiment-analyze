@@ -1,8 +1,0 @@
-{
-    "_id": "37459",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Sealing Fate: Monumental Honor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

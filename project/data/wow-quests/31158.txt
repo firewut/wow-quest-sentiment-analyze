@@ -1,8 +1,0 @@
-{
-    "_id": "31158",
-    "added_in_patch": 5,
-    "description": "Alright, mon. We start with da basics. I need ta know dat you know how ta swing dat weapon you're totin' around.Go thrash dose tiki targets. Take it slowly. Natural-like. I'll watch ya fighting form and we'll go from dere.",
-    "name": "The Basics: Hitting Things",
-    "requires_level": 1,
-    "zone": "Echo Isles"
-}

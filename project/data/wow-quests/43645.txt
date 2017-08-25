@@ -1,8 +1,0 @@
-{
-    "_id": "43645",
-    "added_in_patch": 7,
-    "description": "The shaman we seek is Wavespeaker Adelee. Her research brought her down to these ancient ruins, where she reported naga armies amassing prior to the Legion invasion.The last I had heard, she had located Sharas'dal, the Scepter of Tides - and then she went silent.<name>, Search for clues to her whereabouts among the lower level of the ruins. Beware the naga patrols!",
-    "name": "Wavespeaker's Trail",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

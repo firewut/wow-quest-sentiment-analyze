@@ -1,8 +1,0 @@
-{
-    "_id": "43841",
-    "added_in_patch": 7,
-    "description": "Avast ye! Th' time be long overdue that we get some more pirate blood into our ranks.\r\n\r\n<Crackers gives a sudden squawk in agreement.>\r\n\r\nAnd I know just th' man t' do it.\r\n\r\nI'm talkin' about good old Yancey Grillsen, o' course. He's an old salt down Stranglethorn way.\r\n\r\nSend some o' your land lovin' scallywags off t' round him up.",
-    "name": "Convincin' Old Yancey",
-    "requires_level": 103,
-    "zone": "Rogue Campaign"
-}

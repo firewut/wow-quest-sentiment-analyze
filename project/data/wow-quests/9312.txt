@@ -1,7 +1,0 @@
-{
-    "_id": "9312",
-    "description": "<name>, while you were out investigating the Shadow Ridge, Zhanaa here has been going on about the holographic emitter.  You might want to speak with her.",
-    "name": "The Emitter",
-    "requires_level": 3,
-    "zone": "Ammen Vale"
-}

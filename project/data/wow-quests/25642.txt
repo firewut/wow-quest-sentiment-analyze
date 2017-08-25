@@ -1,7 +1,0 @@
-{
-    "_id": "25642",
-    "description": "Keep your head down, <name>. No need to draw unwanted attention.Looks like the orcs are piling that balloon up with some type of ore from the mine. Get in there and take the ore from the orcs. Bring me back whatever you manage to grab and I'll ship it off to the professor for examination.Before you go, a word of advice: you can avoid the Krom'gar pretty easily in there as (1) they're dumb as dirt and (2) they can't see anything if they're carrying ore. Of course, you need to kill them to get their ore.",
-    "name": "Don't Look Them in the Eyes",
-    "requires_level": 24,
-    "zone": "Stonetalon Mountains"
-}

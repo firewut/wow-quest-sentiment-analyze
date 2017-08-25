@@ -1,7 +1,0 @@
-{
-    "_id": "25826",
-    "description": "Alright, <name>, I need you to get this oil back to Pozzik on the Speedbarge, and let him know the good news!",
-    "name": "Deliver the Goods",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25169",
-    "description": "These humans in the west, they don't just wanna camp out in Durotar, mon.  They got bigger plans, and those plans involve takin' our home and leavin' our skulls on pikes.Well I'm not havin' it.  Nope!  Not Lar!  I've got family here in Sen'jin, and I'll be damned if I let one of those brutes put my Tai'tasi's head on a stick!They've got their plans written down in there, mon.  Big scrolls, real important-lookin'.  We gonna burn those scrolls before they burn us.",
-    "name": "The War of Northwatch Aggression",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Durotar"
-}

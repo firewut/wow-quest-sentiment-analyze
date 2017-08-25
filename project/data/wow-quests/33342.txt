@@ -1,8 +1,0 @@
-{
-    "_id": "33342",
-    "added_in_patch": 5.4,
-    "description": "The pandaren once existed in harmony with the Ordon yaungol. When the island suddenly disappeared, the Ordon faced certain death. In their desperation, the chief shaman called out for aid to the Fire Lords, and was answered.Ordos was his name. Now, he is a creature of anger and violence. Though his people were saved, he burns endlessly in molten agony.There is harmony no longer. The Ordon seek to take the Celestial Court, and sacrifice us all to Ordos. Drive them back, and restore balance.",
-    "name": "Drive Back The Flame",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

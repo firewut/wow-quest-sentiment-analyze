@@ -1,8 +1,0 @@
-{
-    "_id": "41989",
-    "added_in_patch": 7,
-    "description": "As my darling brother has demonstrated, Elisande's decision to bring down the shield has sown unrest among the nightborne.Loyalists and demons march together in the streets. Fear and distrust grip our hearts. Family turns against family.I will help Thalyssra stir a new rebellion, but first we must deal with Anarys.I do not wish to spill the blood of my blood - only to help him see reason.Anarys is likely brooding over our father's memorial. Bring him to me alive.",
-    "name": "Blood of My Blood",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

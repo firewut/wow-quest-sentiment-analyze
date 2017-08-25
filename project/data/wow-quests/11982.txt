@@ -1,7 +1,0 @@
-{
-    "_id": "11982",
-    "description": "Beneath us is iron's ancient bastion, Thor Modan. Thousands of years ago, the stone giants tore the land asunder, collapsing part of the city and exposing much of the rest.Even now, the iron dwarves attempt to reclaim their old capital, but we will not permit it. My giants fill the trench with boulders and debris, hoping to seal it off and kill the servants of iron as they work. Take up the boulders you see near the trench to the northeast, and help us put an end to their efforts.",
-    "name": "Raining Down Destruction",
-    "requires_level": 72,
-    "zone": "Grizzly Hills"
-}

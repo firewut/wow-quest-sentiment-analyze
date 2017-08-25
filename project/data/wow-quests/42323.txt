@@ -1,8 +1,0 @@
-{
-    "_id": "42323",
-    "added_in_patch": 7,
-    "description": "I'm stuck up on this wretched mountain, freezing to death and to boot I most definitely have the flu.It's nice to be in such a cold climate with a fever, but if it doesn't break I'm afraid I may be done for.To whomever is reading this, please bring medical supplies.",
-    "name": "Fevered Letter",
-    "requires_level": 98,
-    "zone": "First Aid"
-}

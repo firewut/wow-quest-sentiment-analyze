@@ -1,8 +1,0 @@
-{
-    "_id": "30310",
-    "added_in_patch": 5,
-    "description": "The mogu have bent the will of sky serpents and turned them against us.The defenders won't fare well against them, but you would. Head northwest towards the Golden Stair and remove them from the sky.",
-    "name": "Thundering Skies",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

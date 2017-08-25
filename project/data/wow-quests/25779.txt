@@ -1,8 +1,0 @@
-{
-    "_id": "25779",
-    "description": "Now that the \"gold\" is ready, I want you to take it up to Khan Blizh. He'll be so overwhelmed, I bet he'll offer to help us setup the drilling rigs. We could use the horsepower.Haha, get it? Horsepower?",
-    "name": "Fake Gold for Black Gold",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14336",
-    "description": "The reefs have always protected us from a coastal attack.  The earthquakes must've opened a passage for the Forsaken ships.Quick, <name>.  Slow down the attackers while I get the rest of the militia ready.I think I can hear the Prince and some of our men engaging the Forsaken even as we speak.  Speak to Liam and see how you can be of use.Oh... and make sure he doesn't get himself killed.  I'm afraid he might be a little reckless in his current state.",
-    "name": "Kill or Be Killed",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

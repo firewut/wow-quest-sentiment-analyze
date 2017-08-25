@@ -1,8 +1,0 @@
-{
-    "_id": "29993",
-    "added_in_patch": 5,
-    "description": "Have you seen my son, Lo? He was here a moment ago and I told him we were leaving today.I'm sure he's off trying to woo that young Syra Goldendraft. That is the very reason we need to leave!No son of mine is going to run off with a Goldendraft!I'm going to search around here for them.I do keep catching those two sneaking off to the Arboretum. Any chance you could head out there and look for them?",
-    "name": "Find the Boy",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25864",
-    "description": "We've been getting more and more reports of raptor attacks in the area. I'm seeing to it that this place is safe enough for more settlement to start occuring, so I've put a bounty on the buggers.A lot have been cleared out already, but the Highland raptors to the north have been growing in number. That won't be true for long, now will it?Clear out a good deal of Highland raptors, and I'll have a nice reward for you.",
-    "name": "Dinosaur Crisis",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

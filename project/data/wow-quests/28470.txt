@@ -1,7 +1,0 @@
-{
-    "_id": "28470",
-    "description": "The Winterfall furbolg are not a normally aggressive tribe, and this change in their behavior leads me to think that they must be under orders from their chief. We most likely can't undo the damage that has already been done, but if their leader is slain, they may not get any worse.Head east again, past where you found that cauldron. High Chief Winterfall is here, at the easternmost part of Timbermaw Post.",
-    "name": "High Chief Winterfall",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

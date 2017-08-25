@@ -1,8 +1,0 @@
-{
-    "_id": "12227",
-    "description": "Alright, <race>. Here's the juice.It works immediately, so don't use it until you're safely inside the outhouse.Now go get me those seeds!",
-    "name": "Doing Your Duty",
-    "requires_level": 73,
-    "side": "alliance",
-    "zone": "Grizzly Hills"
-}

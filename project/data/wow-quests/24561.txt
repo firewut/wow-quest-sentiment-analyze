@@ -1,7 +1,0 @@
-{
-    "_id": "24561",
-    "description": "You have re-forged and tempered the sword, yet it sits quietly in its sheath, little different from a mundane blade. You say the sword pulls you, as though it possesses a will?Dare you bring it where it wishes to go? It is not right that the sword should be this silent and this insistent, yet I fear that if you do not take the sword to its destination, we will never learn why. Bear it with you to Icecrown Citadel's Halls of Reflection, but be on your guard. I will wait for you in The Frozen Halls.",
-    "name": "The Halls Of Reflection",
-    "requires_level": 80,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32655",
-    "added_in_patch": 5.2,
-    "description": "Zandalari warships plunder the seas around this island. They ferry in soldiers and war beasts from Zandalar to bolster Lei Shen's army.If we can capture the palace shipyard, the Thunder King's supply line will be cut off, and your foothold here will be secure.I have a plan to do just that, and it won't take an entire army.",
-    "name": "A Bold Idea",
-    "requires_level": 90,
-    "zone": "Quests"
-}

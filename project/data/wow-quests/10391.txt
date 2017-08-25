@@ -1,8 +1,0 @@
-{
-    "_id": "10391",
-    "description": "There is a second production facility, Forge Camp: Rage, that lies to the immediate northeast of Thrallmar. The demons have positioned a number of their fel cannons along the ridge - and they're aimed straight at us! You must enter the camp and destroy these fel cannons. <name>, you must be sure to detonate them all - or nothing will stop the Legion from raining fiery hell down upon our heads!  \r\n",
-    "name": "Cannons of Rage",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

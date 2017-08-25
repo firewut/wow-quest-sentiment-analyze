@@ -1,7 +1,0 @@
-{
-    "_id": "25315",
-    "description": "You're finally ready, <name>damus.I am so proud of you and all you've accomplished.Today you will deliver a speech in front of your peers and inspire them to crush our enemies until Hyjal is nothing but a pile of ash.Remember, <name>damus.  It'll be important to read your audience's emotions and use words that best address those emotions.",
-    "name": "Graduation Speech",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

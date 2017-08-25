@@ -1,8 +1,0 @@
-{
-    "_id": "30587",
-    "added_in_patch": 5,
-    "description": "For now, the yaungol invaders seem content to steal yaks. Surveying the area, however, you notice they could easily move on the Yak Wash at any moment.Thinning their numbers may help show the yaungol that this area is protected.",
-    "name": "Yakity Yak",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

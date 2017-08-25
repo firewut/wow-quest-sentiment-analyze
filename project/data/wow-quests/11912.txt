@@ -1,7 +1,0 @@
-{
-    "_id": "11912",
-    "description": "Oh! What a relief it is to see a fresh face. I was beginning to feel we had been forsaken.Our supply lines were cut off days ago, and things have been looking - well, bleak. To be honest, this was a suicide mission to begin with if you ask me.Maybe I'm simply not cut out for all of this violence - to say nothing of the bitter cold! I'd much rather be back in Dalaran studying ancient texts.To the point, our food supply is nearly spent. Please, gather what you can and bring it to me.",
-    "name": "Nuts for Berries",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

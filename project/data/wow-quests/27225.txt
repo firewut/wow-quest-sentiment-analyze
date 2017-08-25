@@ -1,7 +1,0 @@
-{
-    "_id": "27225",
-    "description": "Ander Germaine has sent word that he wishes to honor you for your mastery of arms and your dedication to the Alliance. Make your way to Stormwind, leave the Old Town district through the south exit, and speak with him in his Command Center. I do not know what he has planned, but it sounds like he has been impressed with your rapid progress. ",
-    "name": "A Summons from Ander Germaine",
-    "requires_level": 20,
-    "zone": "Warrior"
-}

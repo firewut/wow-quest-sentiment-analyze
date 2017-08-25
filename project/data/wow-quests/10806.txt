@@ -1,7 +1,0 @@
-{
-    "_id": "10806",
-    "description": "The time has come for us to face Goc, the master of the Bladespire ogres. It is also time that I take a hand in events, to see the last of the gronn's life.Take my signet ring. When you come to the Altar of Goc, use it, and I will come to join you.Together we will destroy Goc.",
-    "name": "Showdown",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

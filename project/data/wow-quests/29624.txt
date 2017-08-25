@@ -1,8 +1,0 @@
-{
-    "_id": "29624",
-    "added_in_patch": 5,
-    "description": "Your next test also involves concentration and attention. I want you to practice your abilities on the training bags in the pit below.The bags are hung in groups of two. When I call out \"Left\", attack the bag on the left. When I call out \"Right\", attack the bag on the right.If you fail to follow my simple directions, this task will become much harder.Now beat on those practice bags until they burst, <name>.",
-    "name": "Attention",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

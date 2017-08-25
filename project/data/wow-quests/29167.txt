@@ -1,7 +1,0 @@
-{
-    "_id": "29167",
-    "description": "Lady Sylvanas, leader of the Forsaken, is s'posed to be one of the best warriors in the Horde, maybe even as good as the warchief himself!I've always wanted to meet her, <name>. Maybe an adventurer like you could get an audience with her! Would you take me to the Royal Quarter of the Undercity to meet Lady Sylvanas? It's a long way away and I bet the guards would never let me in by myself!",
-    "name": "The Banshee Queen",
-    "requires_level": 10,
-    "zone": "Children's Week"
-}

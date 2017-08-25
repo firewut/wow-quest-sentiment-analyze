@@ -1,7 +1,0 @@
-{
-    "_id": "403",
-    "description": "",
-    "name": "Guarded Thunderbrew Barrel",
-    "requires_level": 1,
-    "zone": "Dun Morogh"
-}

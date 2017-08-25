@@ -1,8 +1,0 @@
-{
-    "_id": "31354",
-    "added_in_patch": 5,
-    "description": "That was some amazing work you and the captain did out there, $p! It's an honor to have you on the crew.Oh! And Ju Lien survived! He swam ashore just after you started letting the harpoons fly. He was raving about some kind of gigantic egg or something that washed in with Jiao.Go check up on him, will you? He's probably hauled it out of the water by now.",
-    "name": "Mazu's Bounty",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29204",
-    "description": "Captain Saynna Stormrunner is launching an attack against the Forlorn Spire. If you head to the northeast, you'll find her at the bottom of the ramp leading up towards that rise.I've assigned her a large number of our men, but her chances of success would be greatly increased if you join her cause. It's your decision, <name>.",
-    "name": "The Warden's Charge",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

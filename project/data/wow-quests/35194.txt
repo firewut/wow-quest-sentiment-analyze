@@ -1,8 +1,0 @@
-{
-    "_id": "35194",
-    "added_in_patch": 6,
-    "description": "Time is running out, <name>. The Sargerei have opened a summoning portal on the hill to the west.I believe they are going to use this portal to bring an army of demons here, to Shadowmoon Valley.We must stop them before this happens, no matter what the cost. Use this arcane bomb to destroy the portal.We may blow our cover, but stopping the portal is more important right now.",
-    "name": "Facing Demons",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

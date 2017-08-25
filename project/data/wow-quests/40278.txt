@@ -1,8 +1,0 @@
-{
-    "_id": "40278",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "My Beasts's Bidding",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

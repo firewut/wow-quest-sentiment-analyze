@@ -1,8 +1,0 @@
-{
-    "_id": "31833",
-    "added_in_patch": 5,
-    "description": "Welcome back <name>, the time has come for the next step of your training.  Speak with Master Woo in the Training Grounds below us for your next lesson.",
-    "name": "Continue Your Training: Master Woo",
-    "requires_level": 30,
-    "zone": "Peak of Serenity"
-}

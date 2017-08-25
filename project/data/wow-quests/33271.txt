@@ -1,9 +1,0 @@
-{
-    "_id": "33271",
-    "added_in_patch": 6,
-    "description": "<Jarrod is clearly injured. He winces in pain as he begins to talk.>My lead forest operator, Shelly... she is being held not far from here...",
-    "name": "Game of Thorns",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

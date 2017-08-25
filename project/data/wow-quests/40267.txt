@@ -1,8 +1,0 @@
-{
-    "_id": "40267",
-    "added_in_patch": 7,
-    "description": "Ah, Felo'melorn. I am familiar with this weapon. \r\n\r\nFor ages the Council of Tirisfal attempted to recover the blade. Its control over the primal forces of fire would be devastating in the wrong hands. \r\n\r\nAs luck would have it, an assoicate of mine, Archmage Modera has recently uncovered some information on this artifact. This crystal contains a message from her.\r\n\r\nI suggest you start your search there. The portal over there will bring you back to the city.",
-    "name": "An Unexpected Message",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "30998",
-    "added_in_patch": 5,
-    "description": "The horde is using dark magic to control beasts and corrupt their brethren down here, <name>.I intend to put a stop to it, but first I need to know what it is we're fighting against. That's where you come in.Fight through the caverns and collect the insignia that the cultists carry. With them, I can study what type of magic is at work here.",
-    "name": "A New Enemy",
-    "requires_level": 15,
-    "side": "alliance",
-    "zone": "Ragefire Chasm"
-}

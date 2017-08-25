@@ -1,8 +1,0 @@
-{
-    "_id": "29647",
-    "added_in_patch": 5,
-    "description": "The Rumpus was your final test. You have mastered the disciplines taught at this monastery.Just as your training began with a banquet, so shall it end. High Elder Cloudfall should be waiting at the banquet grounds. I'll be right behind you.",
-    "name": "Flying Colors",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

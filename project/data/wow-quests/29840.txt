@@ -1,7 +1,0 @@
-{
-    "_id": "29840",
-    "description": "Gundrak looks doomed. You know dis to be true.If you be havin' the courage, search for history tablets to see what brought the Drakkari Empire to such an end.Perhaps one day we be bringin' dem back to der former glory.",
-    "name": "For Posterity",
-    "requires_level": 74,
-    "zone": "Quests"
-}

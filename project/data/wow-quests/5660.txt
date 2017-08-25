@@ -1,7 +1,0 @@
-{
-    "_id": "5660",
-    "description": "You be far from home, <class>. You be needed there, back in your city under the ground. Your mistress, the one you be callin' Aelthalyste be needin' you back there. Like my tribe, there things you must learn only from her. Don't be stayin' here too long. You should be headin' to the War Quarter as fast as a zeppelin can carry you.",
-    "name": "Touch of Weakness",
-    "requires_level": 10,
-    "zone": "Priest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13284",
-    "description": "Greetings <class>.Our troops have been attempting to storm Ymirheim for some time, but these vrykul are far more vicious than any we've faced before. They've been ambushing us repeatedly as we try to make it up the pass, and we've lost a lot of men.If you want to lend yourself to the battle and help get my squad to the gates of Ymirheim safely, we will gladly reward you for your efforts. Once at the gates, we'll dig in and wait for reinforcements to catch up to us.",
-    "name": "Assault by Ground",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

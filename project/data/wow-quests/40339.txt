@@ -1,8 +1,0 @@
-{
-    "_id": "40339",
-    "added_in_patch": 7,
-    "description": "You no come in yet! Give orders to other kobold on Throne of Ordering Around if you want in, then maybe we talk.",
-    "name": "Candle of Command",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

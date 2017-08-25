@@ -1,8 +1,0 @@
-{
-    "_id": "38944",
-    "added_in_patch": 7,
-    "description": "Every time Dalaran takes us to a new shore, I get anxious over what types of fabric and cloth we might find below.Threads imbued with magic? Something demonically-tinged?Ugh, I hope it's not FURS again.You're an adventurer... and tailor to boot. Head on down there and see what you can scrounge up!",
-    "name": "Sew It Begins",
-    "requires_level": 100,
-    "zone": "Tailoring"
-}

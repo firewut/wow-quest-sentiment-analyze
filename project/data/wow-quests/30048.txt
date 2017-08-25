@@ -1,8 +1,0 @@
-{
-    "_id": "30048",
-    "added_in_patch": 5,
-    "description": "I'll let you in on my brewing plan, <name>: I'm planning on making an Emperor Stout. Done right, it should be dark, roasty, and high in alcohol.<A frown appears on Chen's face.>I just realized... I never told my plans to Li Li. She'll have no idea what type of grain to bring back!Could you speak with her? I need her to bring back the sweetest malted grains she can find.",
-    "name": "Li Li and the Grain",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

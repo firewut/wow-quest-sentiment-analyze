@@ -1,8 +1,0 @@
-{
-    "_id": "34808",
-    "description": "We have a rare opportunity to strike at the heart of the Warsong. But, we need your wisdom and leadership.The most important decision will be your choice between building a corral or a tankworks. This choice will setup our approach to the fight against the Warsong.Thazz'ril will head up our building efforts. Will you give him a hand?It looks like he's having trouble motivating his peons to work.",
-    "name": "More Lazy Peons",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

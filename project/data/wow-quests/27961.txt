@@ -1,7 +1,0 @@
-{
-    "_id": "27961",
-    "description": "The gorge is an unforgiving place.  We don't get a whole lot of fuzzy wildlife wandering around here.We tried bringing in some wild game, but they haven't fared well at all.  There's just no food for them to eat.  Now the nearby spiders - which were already dangerous - are getting big and fat on chicken meat.We'll never get rid of all the spiders, but we can salvage what few chickens remain.  Not only will you be feeding the Brotherhood, you'll be saving them a painful death by spider bite.",
-    "name": "Out of Place",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

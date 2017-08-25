@@ -1,8 +1,0 @@
-{
-    "_id": "27727",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Naraat the Earthspeaker at the Eastern Earthshrine in Stormwind City.The Earthen Ring requires our aid! They report that the elemental plane of Deepholm threatens to overtake our world and destroy all life on Azeroth!The Eastern Earthshrine can be found directly northwest of Stormwind Keep.For the glory and honor of the Alliance! Fight on,  brother!",
-    "name": "Hero's Call: Deepholm!",
-    "requires_level": 82,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

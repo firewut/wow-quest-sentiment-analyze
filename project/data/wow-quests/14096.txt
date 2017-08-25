@@ -1,8 +1,0 @@
-{
-    "_id": "14096",
-    "description": "Crusader Kul has gone and gotten himself into trouble again, only this time he's not alone. When he saw the cultists making camp at Deathspeaker's Watch, west of the tournament grounds, Kul gathered the aspirants for an assault.Without reinforcements, Kul and his followers were easily captured. I have no doubt that the cult will sacrifice the prisoners unless we can mount a rescue. Any of those cultists could carry keys to the black cages. Find the keys and free Kul and the captive aspirants.",
-    "name": "You've Really Done It This Time, Kul",
-    "requires_level": 77,
-    "side": "alliance",
-    "zone": "Tournament"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35080",
-    "added_in_patch": 6,
-    "description": "Hey we got ourselves a crisis here! Our zeppelin \"The Mother Lode\" crashed onto the south mountain range.It was supposed to only be on an observation mission, what could have happened?We got to get down there quick and I'm going to need your help on this.Are you with me?",
-    "name": "The Mother Lode",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

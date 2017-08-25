@@ -1,8 +1,0 @@
-{
-    "_id": "42847",
-    "added_in_patch": 7,
-    "description": "Greetings, Highlord.Beside me is the Scouting Map. From it, you can direct our allies to carry out vital assignments across the Broken Isles.The first task is critical - the storms above the Tomb of Sargeras are intensifying. We should send our champions to keep an eye on that region, and scour the area for possible survivors.",
-    "name": "Dark Storms",
-    "requires_level": 101,
-    "zone": "Paladin Campaign"
-}

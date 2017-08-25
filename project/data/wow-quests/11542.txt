@@ -1,7 +1,0 @@
-{
-    "_id": "11542",
-    "description": "We're making a push to solidify our control of Sun's Reach by capturing the harbor next.  Unfortunately a fleet of Dawnblade reservists is on its way to reinforce Kael's forces there.Take this oil and secure a dragonhawk from Ayren Cloudbreaker.    You should be able to fly within reach of the ships' sails; once you're close enough, set them on fire.Land in one of the ships and attack the reservists.  With their ship sails on fire they won't be able to mount much of a defense.",
-    "name": "Intercept the Reinforcements",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

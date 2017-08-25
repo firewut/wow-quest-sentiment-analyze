@@ -1,8 +1,0 @@
-{
-    "_id": "41309",
-    "added_in_patch": 7,
-    "description": "The demonic beast that stands before ye, must be the one that devoured ol' Brambley...Just look at it, lying there with a full belly! I canna abide it any longer, <name>! We must slay the foul creature and avenge Brambley!We've come this far already, <class>.Are ye with me?!",
-    "name": "Mangelrath",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

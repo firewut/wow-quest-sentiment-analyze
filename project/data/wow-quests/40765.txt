@@ -1,8 +1,0 @@
-{
-    "_id": "40765",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Syrana Tracker",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

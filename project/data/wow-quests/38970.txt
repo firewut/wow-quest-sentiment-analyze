@@ -1,8 +1,0 @@
-{
-    "_id": "38970",
-    "added_in_patch": 7,
-    "description": "Great power comes only with sacrifice. Even the most masterful tailor can only do so much with silkweave. To improve your patterns any further, bargains must be made.You are prepared, <name>, to learn about working with Imbued Silkweave.Use the teleportation crystal behind me, and speak with Azayna, the leader of our order.",
-    "name": "The Queen's Grace Loom",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

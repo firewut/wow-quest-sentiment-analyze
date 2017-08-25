@@ -1,9 +1,0 @@
-{
-    "_id": "36443",
-    "added_in_patch": 6,
-    "description": "You have given me a tremendous gift with this bloom. I can finally send Dionor back to the Overgrowth for good and end this nightmare. All that remains is the ritual... stay and behold something you will never see again in your lifetime...",
-    "name": "Laying Dionor to Rest",
-    "requires_level": 93,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

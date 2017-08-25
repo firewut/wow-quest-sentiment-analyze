@@ -1,8 +1,0 @@
-{
-    "_id": "44117",
-    "added_in_patch": 7,
-    "description": "Thar be few pirates ye want to cross swords wit' less than th' Red Blade! They be salty dogs, indeed!That being said... they does have a way wit' rum! I'll level wit' ye, <name>... thar be few rums as jolly as that 'o th' Red Blade.Seein' as ye be headin' off in search 'o clues, ye might as well brin' back a few bottles while ye be at it!Brin' me back as many bottles as ye can find, and I'll reward ye handsomely! Pirates honor, <name>!",
-    "name": "Time Flies When Yer Havin' Rum!",
-    "requires_level": 103,
-    "zone": "Rogue Campaign"
-}

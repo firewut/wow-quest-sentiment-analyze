@@ -1,8 +1,0 @@
-{
-    "_id": "24947",
-    "description": "We can't just rest on our laurels here, babe. We've got to keep this momentum going! People are talking about us.Unfortunately, they're also talking about this air-headed gnome, Kelsey, who's apparently been running jobs right alongside us. If we're going to drive her out of what's rightfully a goblin town, we need to seal the deal here.We're going to take care of Gadgetzan's pirate problem for them, for good. Head south to Lost Rigger Cove, I'll meet you there.",
-    "name": "Momentum",
-    "requires_level": 44,
-    "side": "horde",
-    "zone": "Tanaris"
-}

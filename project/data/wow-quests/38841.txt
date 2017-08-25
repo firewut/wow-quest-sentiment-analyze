@@ -1,8 +1,0 @@
-{
-    "_id": "38841",
-    "added_in_patch": 7,
-    "description": "Makrura are massing down by the shore, and far too many of them seem to practice water magic. I think they're planning to summon a massive wave.Also, I've come a long way, and I'm out of supplies. I'm so hungry, I could eat almost anything. Even the makrura you kill. Just cut the heads off first.",
-    "name": "Die, Fish-People",
-    "requires_level": 98,
-    "zone": "Wetlands"
-}

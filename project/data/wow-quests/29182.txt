@@ -1,7 +1,0 @@
-{
-    "_id": "29182",
-    "description": "Many of the Druids of the Talon have made their way to the Molten Front, at your beckoning. You should go to Skylord Omnuron at Malfurion's Breach and see how their wings are faring in those burning skies.",
-    "name": "Flight of the Storm Crows",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

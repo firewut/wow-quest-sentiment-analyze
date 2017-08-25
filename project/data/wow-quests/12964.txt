@@ -1,7 +1,0 @@
-{
-    "_id": "12964",
-    "description": "At the Frozen Mine in the western part of the Snowdrift Plains, the stormforged iron dwarves have constructed a mine manned by slaves.It's well behind the lines, so we haven't been able to find out much about what's going on there, but my scouts have reported seeing them remove cartloads of dark, sickly looking ore.",
-    "name": "The Dark Ore",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

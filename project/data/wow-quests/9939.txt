@@ -1,8 +1,0 @@
-{
-    "_id": "9939",
-    "description": "Wanted: Dead or AliveZorbo the Advisor, wanted for numerous planned attacks on Garadar. Along with his reavers and shaman, Zorbo has slain countless orcs. Consider Zorbo as armed, dangerous, and merciless.Zorbo makes his home in the Laughing Skull Ruins in the northern mountains of Nagrand.Reward for Zorbo the Advisor's death or capture to be dispensed by Warden Bullrok at Garadar. ",
-    "name": "Wanted: Zorbo the Advisor",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

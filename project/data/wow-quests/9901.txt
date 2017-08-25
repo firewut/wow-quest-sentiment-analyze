@@ -1,8 +1,0 @@
-{
-    "_id": "9901",
-    "description": "The first expedition the league sent reported encountering a gigantic spore bat they'd taken to calling Sporewing. They had to leave in a hurry, so they didn't have the chance to kill him while they were here, so I figured I'd finish the job for them.What's left of their report suggests that the creature can be found in the southwestern parts of the Dead Mire. I think Vindicator Idaar mentioned that it's to the northeast of Telredor.",
-    "name": "Unfinished Business",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Zangarmarsh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38911",
-    "added_in_patch": 7,
-    "description": "What has happened here requires more time than I have to explain. In short, our tribes have scattered in the wake of the attack that left the Hammer of Khaz'goroth in the hands of the barbaric drogbar.\r\n\r\nEven now the drogbar are raiding the Rivermane tribe, and I have too few braves left to send to their aid. \r\n\r\nWe need a hero. Please, go to Earthmother's Bounty and lend what aid you can.",
-    "name": "The Rivermane Tribe",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

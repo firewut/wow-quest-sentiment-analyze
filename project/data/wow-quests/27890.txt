@@ -1,7 +1,0 @@
-{
-    "_id": "27890",
-    "description": "In my haste to escape from Lethlor Ravine, I forgot to tie up one loose end: Nyxondra.  She's free, and she's sounded the alarm among the black dragonflight.  Half the flight is here in the western Badlands, combing for this egg.I'll take care of hiding the egg.  You're going to take care of some of the more troublesome dragons.  And you'll have help.I've paid off a couple of mercenaries to help you.  You'll find them inside this inn.",
-    "name": "The Bad Dogs",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

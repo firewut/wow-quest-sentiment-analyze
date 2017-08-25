@@ -1,8 +1,0 @@
-{
-    "_id": "30734",
-    "added_in_patch": 5,
-    "description": "Usually our trainees are adventurers like yourself, or monks from Tian Monastery, or occasionally retired Shado-Pan. Very rarely, though, we will greet trainees that have no fighting experience whatsoever.Huck Wheelbarrow is one such trainee. He has requested a duel with you. Look for him on the island's western shore.",
-    "name": "Huck Wheelbarrow",
-    "requires_level": 90,
-    "zone": "Krasarang Wilds"
-}

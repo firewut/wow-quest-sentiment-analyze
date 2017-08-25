@@ -1,8 +1,0 @@
-{
-    "_id": "42707",
-    "added_in_patch": 7,
-    "description": "Archmage Vargoth's betrayal is an unimaginable loss to our cause, <name>. We will have to deal with him, but first Meryl's condition has become dire. \r\n\r\nUnfortunately it is not an illness at all, but a magical attack of fel origin. It may be his old nemesis Kathra'natir is behind it. We need to buy him time.\r\n\r\nThe Eye of Azshara contains a vast store of arcane energy from Queen Azshara herself. If we could obtain a vial of water from the Wrath of Azshara's body, that will sustain him for a while.",
-    "name": "A Magical Affliction",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

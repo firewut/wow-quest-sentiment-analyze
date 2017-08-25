@@ -1,8 +1,0 @@
-{
-    "_id": "39883",
-    "added_in_patch": 7,
-    "description": "You have seen the ways of the tauren of Thunder Totem... speaking with the spirits, gathering from the land, and letting nothing go to waste. These are potent forces crucial to your quest to aid the Broken Isles.Here, take this journal back to your enchanter friend. It contains the lessons I have imparted unto you.Perhaps it will serve to help the greater cause of defeating the Legion.",
-    "name": "Cloaked in Tradition",
-    "requires_level": 102,
-    "zone": "Enchanting"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8453",
-    "description": "",
-    "name": "<TXT> Mystery Reward",
-    "requires_level": 1,
-    "zone": "Quests"
-}

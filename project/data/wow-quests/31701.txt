@@ -1,8 +1,0 @@
-{
-    "_id": "31701",
-    "added_in_patch": 5,
-    "description": "I have learned that a vicious beast, a Windward Huntress, terrorizes the wood on the northwest side of the island.She has already slain several serpents, and injured more than one serpent rider sent to subdue her.She must be removed before she can pose a danger to anyone else. Can you perform this task?",
-    "name": "Dark Huntress",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

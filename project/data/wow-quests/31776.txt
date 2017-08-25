@@ -1,9 +1,0 @@
-{
-    "_id": "31776",
-    "added_in_patch": 5,
-    "description": "Scouting reports from the Strongarm Airstrip are in, and I've underlined a few high-priority targets for you.Two gnomish mechanics have been keeping Alliance gyrocopters in the air. Take out the mechanics, and the gyrocopters' numbers will dwindle.A dwarven death knight wanders their perimeter. He's an adventurer like yourself - loosely allied and highly dangerous.Finally, a name I recognize: Corporal Jackson Silver. He's a hero of the Alliance and a deadshot with a crossbow.Good luck, <name>.",
-    "name": "Strongarm Tactics",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

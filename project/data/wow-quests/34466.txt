@@ -1,8 +1,0 @@
-{
-    "_id": "34466",
-    "added_in_patch": 6,
-    "description": "Fluctuations in reality surround this staff so much that it is hard to identify any recognizable markings aside from a large, lavish \"V\" on its apex.This might require help to identify by someone from Khadgar's Tower.",
-    "name": "Mysterious Staff",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

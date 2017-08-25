@@ -1,7 +1,0 @@
-{
-    "_id": "28065",
-    "description": "We have sent at least 3 different recon groups to investigate Farson Hold in the last few weeks.  Sadly, not one of them has returned back with any info.At this point, all we can hope is that they are being held alive as prisoners.  I need you to infiltrate the keep and help get our soldiers back.  This won't be easy <name>, but if anyone can help us, it's you.",
-    "name": "Walk A Mile In Their Shoes",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

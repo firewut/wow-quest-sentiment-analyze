@@ -1,7 +1,0 @@
-{
-    "_id": "317",
-    "description": "I'm preparing to start a mission for the Siege Brigade.  It's a long one, and I need to stock Jetsteam with a month's worth of supplies.  So while Steelgrill is working on my tank, can you do some hunting for me?I'll need some fur for bedding, and boar meat for food.  You can get meat from boars and fur from the bears... you can find them both in the snow fields south of the Grizzled Den.",
-    "name": "Stocking Jetsteam",
-    "requires_level": 2,
-    "zone": "Dun Morogh"
-}

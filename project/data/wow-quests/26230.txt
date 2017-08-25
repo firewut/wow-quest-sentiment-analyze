@@ -1,8 +1,0 @@
-{
-    "_id": "26230",
-    "description": "Life in Westfall's hard,  sonny! Every day is a struggle. We can sometimes go weeks without a decent meal. That's why it's important that we all help each other out. Maybe you can lend a hand, eh? I'm making dirt pies and need some ingredients.Get me some fresh dirt from the pumpkin patch out front and a bundle of coyote tails. You'll find coyotes wandering around in the wilds of Westfall.Get moving! We got mouths to feed.",
-    "name": "Feast or Famine",
-    "requires_level": 9,
-    "side": "alliance",
-    "zone": "Westfall"
-}

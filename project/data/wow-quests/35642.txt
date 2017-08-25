@@ -1,9 +1,0 @@
-{
-    "_id": "35642",
-    "added_in_patch": 6,
-    "description": "This pod is similar to the ones growing on or near the bodies around here, except this one is pulsating weirdly.This is something Khaano would be interested in.",
-    "name": "Mysterious Pod",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

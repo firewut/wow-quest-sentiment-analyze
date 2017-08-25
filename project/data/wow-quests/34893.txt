@@ -1,8 +1,0 @@
-{
-    "_id": "34893",
-    "added_in_patch": 6,
-    "description": "The Elemental Plateau is sanctuary to the elemental spirits of Nagrand.The greatest among the elementals on the plateau are the guardians; mighty elemental spirits that stand watch over their domain.The guardians are pure and mighty spirits but a disturbance in the natural balance has caused them to grow unstable, corrupting the lesser elementals around them.In order to restore balance to the plateau, the guardians must be destroyed. Only then will the cycle of rebirth begin.",
-    "name": "Guardians of the Plateau",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

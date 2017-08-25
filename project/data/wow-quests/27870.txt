@@ -1,7 +1,0 @@
-{
-    "_id": "27870",
-    "description": "Regardless of whether you assist me within the temple, your people must be told of what is brewing here.North of the temple, humans of your mortal Alliance have built what they call Marshtide Watch. They war with the Horde across the swamp, a raging conflict that I forsee only worsening.It is not my role to interfere in mortal affairs, <name>. I simply ask you bring warning to your people of what lurks within the temple.",
-    "name": "To Marshtide Watch",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

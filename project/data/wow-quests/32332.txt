@@ -1,8 +1,0 @@
-{
-    "_id": "32332",
-    "added_in_patch": 5.1,
-    "description": "So, you wake up the Monkey King for a mallet hmmm? Answer first, these riddles three, and then the mallet you shall see.First riddle!  \"Softly singing a song of pain    There is a creature tortured and lame.    Way down south and beyond the wall,    It hides from its wikket masters' call.    Seek out the creature sad and somber,    And free it from its untamed amber.\"Bring me the untamed amber.",
-    "name": "The First Riddle: Mercy",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

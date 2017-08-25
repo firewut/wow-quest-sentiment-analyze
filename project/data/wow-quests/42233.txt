@@ -1,8 +1,0 @@
-{
-    "_id": "42233",
-    "added_in_patch": 7,
-    "description": "Assist the Tauren of Highmountain by completing 4 world quests.",
-    "name": "Highmountain Tribes",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

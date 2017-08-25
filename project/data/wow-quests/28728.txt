@@ -1,8 +1,0 @@
-{
-    "_id": "28728",
-    "description": "I will pursue the trail of the Gnarlpine and track this corruption to its source. If you ever encounter Athridas Bearmantle in Dolanaar, he knows intimately of the problems that plague this forest, and he can direct you on how to help further.I'm sure we will meet again with time. Perhaps you can aid me in dealing with the source of this corruption once I locate it. For now, I will take you back to Dentaria so that you may finish your training. Thank you for all that you have done, <name>.",
-    "name": "Signs of Things to Come",
-    "requires_level": 3,
-    "side": "alliance",
-    "zone": "Shadowglen"
-}

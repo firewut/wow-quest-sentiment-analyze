@@ -1,7 +1,0 @@
-{
-    "_id": "27369",
-    "description": "Sorry about that.  I was pretty sure you were one of those spider-beasts, doing a bad <race> impression.How do you do?  Gidwin Goldbraids, at your service.  I'm in a bit of a hurry back to my caravan, but I was wondering if you might do me one last favor?  My pal Fiona runs a small shop, and she could probably use some of these herbs that grow along the river shore.I'm thinking if we give her some nice herbs, she'll be MUCH less likely to murder me.  That's the plan, anyway.",
-    "name": "Greasing the Wheel",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

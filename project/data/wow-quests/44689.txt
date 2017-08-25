@@ -1,8 +1,0 @@
-{
-    "_id": "44689",
-    "added_in_patch": 7,
-    "description": "The Tirisgarde has received requests from across the Broken Isles for aid in fighting the Burning Legion. While we will continue pursuing Archmage Vargoth, we cannot forget that our primary mission is to repel the demons and protect Azeroth.",
-    "name": "The Might of the Tirisgarde",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

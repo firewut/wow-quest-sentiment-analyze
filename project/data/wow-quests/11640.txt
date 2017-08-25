@@ -1,7 +1,0 @@
-{
-    "_id": "11640",
-    "description": "Within the spires you described dwell the main lieutenants of the Scourge leader, the high priests. Not only do they command the Scourge forces, but they hold the key to the necropolis above, and their master.An endless stream of Scourge minions will overrun us if we can't find and defeat their leader. I cannot leave my people defenseless, however much Durm might want to bring the fight to the enemy. It falls to you, <name>, to slay the high priests and take the scrolls they hold.",
-    "name": "Words of Power",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

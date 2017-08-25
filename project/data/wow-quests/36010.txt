@@ -1,8 +1,0 @@
-{
-    "_id": "36010",
-    "added_in_patch": 6,
-    "description": "The Iron Horde, and the Burning Blade clan in particular, have forged a unique relationship with Draenor's ancient elementals. They can work with iron and flame in ways that even I don't fully understand.Yet.<name>, slay the Burning Blade's highest-ranking artisan: Flamebender Ka'graz. She is down in the very heart of the Black Forge of the Blackrock Foundry, an area known as the Burning Font. If we're lucky, her secrets are codified in a Flamebender's Tome.",
-    "name": "Flamebender's Tome",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

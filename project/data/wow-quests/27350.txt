@@ -1,7 +1,0 @@
-{
-    "_id": "27350",
-    "description": "<The F.C.D. hums.>Our next outpost is Rutsak's Guard, located due east of Dreadwatch. Make your way to Rutsak's while avoiding the worgen rushers, <name>. You don't want to deal with those monsters by yourself.If you make it there in one piece, look for Captain Rutsak.Just be prepared for the worst.",
-    "name": "Break in Communications: Rutsak's Guard",
-    "requires_level": 12,
-    "zone": "Ruins of Gilneas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30434",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Ruby Shard for Jogu",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

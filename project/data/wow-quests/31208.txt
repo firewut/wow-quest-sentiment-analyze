@@ -1,8 +1,0 @@
-{
-    "_id": "31208",
-    "added_in_patch": 5,
-    "description": "If we are to strike against the Empress, we must arm ourselves with weapons. My own choice of weapon is of a particularly toxic design.The scorpions wandering the ledge produce a deadly venom that they store in their tails.Bring me their stingers, and I will show you how I earned the title of paragon.",
-    "name": "Venomous Intent",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

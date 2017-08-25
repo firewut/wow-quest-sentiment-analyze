@@ -1,8 +1,0 @@
-{
-    "_id": "1202",
-    "description": "<name>, two of our spies were sent to steal documents from a ship at the Theramore docks.  They gained the papers but were discovered, and were forced to throw the documents into the sea.One spy later escaped, but was unable to recover the prize.  He reported his failure to me, and I now charge the task to you.The documents are in a footlocker, in the waters somewhere beneath the Theramore docks.  Find those documents, <name>, and bring them to me.",
-    "name": "The Theramore Docks",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

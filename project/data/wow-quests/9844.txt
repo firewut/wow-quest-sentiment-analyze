@@ -1,7 +1,0 @@
-{
-    "_id": "9844",
-    "description": "Keanna's last few entries confirm our suspicions of a demonic presence inside Karazhan.She detected the arrival of a Burning Legion agent whose location she describes as coming from the top of the tower.Her entries stop there.Karazhan is a very important place, <class>.  It is a portal into the nether, a beacon shining into other worlds.  The possible repercussions of it falling into the wrong hands are unthinkable.  This demonic intrusion must be stopped.  And you, <name>, are the only one with a key.",
-    "name": "A Demonic Presence",
-    "requires_level": 68,
-    "zone": "Karazhan"
-}

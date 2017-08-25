@@ -1,8 +1,0 @@
-{
-    "_id": "14386",
-    "description": "Excellent work so far, <name>.  Our scouts have identified the leader of the Forsaken ground assault.One of Sylvanas' handpicked dark rangers is overseeing the battlefront from the Walden house near the shore.  Take this whistle and use it when you're close to her.I'll have my men let loose our attack mastiffs to take her down.  Be careful, <name>.  You don't want to engage her alone.",
-    "name": "Leader of the Pack",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43331",
-    "added_in_patch": 7,
-    "description": "Hey there, pal. My sources around here say you had a run-in with the Sixtrigger brothers. I'd imagine you're not very happy with them?\r\n\r\nLet's just say we're not exactly friends either.\r\n\r\nSo I'll tell you what. How about I let you in on some intel about their current location? Maybe they might have an unfortunate accident, you follow?\r\n\r\nOh, and bring some friends. They're not exactly the easiest of targets.",
-    "name": "Time to Collect",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

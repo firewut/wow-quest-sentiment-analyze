@@ -1,7 +1,0 @@
-{
-    "_id": "27265",
-    "description": "Lord Grayson Shadowbreaker, one of the foremost paladins in the realm, has asked to speak with you personally. I do not know what he has planned, but it sounds like he has been impressed with your rapid progress.You should make your way to Stormwind immediately and meet him inside the city's Cathedral of Light.",
-    "name": "Lord Grayson Shadowbreaker",
-    "requires_level": 20,
-    "zone": "Paladin"
-}

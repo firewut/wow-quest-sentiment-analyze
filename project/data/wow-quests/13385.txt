@@ -1,7 +1,0 @@
-{
-    "_id": "13385",
-    "description": "Now that you have access to the focusing iris it's time to put that key to use.As much as I would like to see Malygos brought back into the fold, that's just not going to happen at this point. With everything that's at stake, it is the judgment of the other Dragon Aspects that the Spell-Weaver needs to be put down.<Krasus says this last with a great deal of trepidation.><name>, travel to the Eye of Eternity, confront Malygos and return with the Heart of Magic.",
-    "name": "Heroic Judgment at the Eye of Eternity",
-    "requires_level": 80,
-    "zone": "Quests"
-}

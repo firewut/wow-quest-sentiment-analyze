@@ -1,7 +1,0 @@
-{
-    "_id": "36800",
-    "description": "",
-    "name": "Fire Ammonite Lunker",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

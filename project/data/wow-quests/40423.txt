@@ -1,8 +1,0 @@
-{
-    "_id": "40423",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Unethical Adventurers",
-    "requires_level": 100,
-    "zone": "Highmountain"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "41763",
-    "added_in_patch": 7,
-    "description": "He is near, <race>, I can feel it.We must search Shala'nir for Malfurion. If we do not find him soon, I fear he will be lost to me forever.I was unsure of your worth when first we met. I know now that you will not fail me.I am... grateful.",
-    "name": "Close Enough to Touch",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Val'sharah"
-}

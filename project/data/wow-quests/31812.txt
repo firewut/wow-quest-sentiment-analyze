@@ -1,9 +1,0 @@
-{
-    "_id": "31812",
-    "added_in_patch": 5,
-    "description": "I can tell you have been honing your pet battle skills, <name>.  I think it's time for you to take on a real challenge.Zunta can be found near the Tor'kren Farm south of Orgrimmar.  He is an up and coming wild pet tamer and I think it's time you faced him in battle!",
-    "name": "Zunta, The Pet Tamer",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Battle Pets"
-}

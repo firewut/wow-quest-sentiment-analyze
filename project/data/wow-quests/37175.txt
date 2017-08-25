@@ -1,8 +1,0 @@
-{
-    "_id": "37175",
-    "added_in_patch": 7,
-    "description": "An honorable person gives me cloth",
-    "name": "Craig's Test Quest Again!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

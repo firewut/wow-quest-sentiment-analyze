@@ -1,8 +1,0 @@
-{
-    "_id": "44180",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Marin Noggenfogger",
-    "requires_level": 103,
-    "zone": "Rogue Campaign"
-}

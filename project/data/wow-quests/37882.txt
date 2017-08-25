@@ -1,8 +1,0 @@
-{
-    "_id": "37882",
-    "added_in_patch": 6.1,
-    "description": "You will need three ingredients to make Megacharge's special \"Arcane Bunker Buster,\" which should be able to take down the barrier. The first ingredient, some precision blasting powder, should be available nearby. The book reads:\r\n\r\n\"To make one, you'll first need to acquire some high grade, precision blasting powder. Here in Blackfuse Company, it's pretty easy to come by, since they use it for all of the cannons.\"",
-    "name": "Dark Grimoire: The First Ingredient",
-    "requires_level": 100,
-    "zone": "Shadowmoon Valley"
-}

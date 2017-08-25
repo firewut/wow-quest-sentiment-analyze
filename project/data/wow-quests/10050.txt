@@ -1,8 +1,0 @@
-{
-    "_id": "10050",
-    "description": "Near the end of our invasion, the Armory to the south fell under attack by the Horde's insidious Death Knights. Those vile shades cursed the Armory's defenders - and trapped their souls between the realms of the living and the dead.Those noble souls must be set free! I beg you, <name>, end my comrades' torment, for I have not the heart to slay them myself.",
-    "name": "Unyielding Souls",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

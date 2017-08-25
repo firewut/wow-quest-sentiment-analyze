@@ -1,8 +1,0 @@
-{
-    "_id": "29353",
-    "description": "The haggis must flow. Aye, it's a figure o' speech, for haggis'll ne'er flow! Ye dinnae want to know what'll happen if the people o' Ironforge don't get their haggis.I'm working on the next batch, but I'm still missing a couple of ingredients.Sognar Cliffbeard is the meat vendor in the Military Ward, an' he'll sell you the big bag o' sheep innards I need. Ye can buy mild spices from any cooking supplier and ye can find sacks o' oatmeal in any inn or among the supplies  in the city.",
-    "name": "Keepin' the Haggis Flowin'",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Cooking"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25065",
-    "description": "It's time to conclude this matter efficiently. From what we've determined, this mysterious object is in the possession of the \"smart\" brute described in the journal. We don't know exactly what's happened to this creature, obviously, so you should take caution.This... \"Meatface\" is hiding in the hills, near where these goblins bury their dead. Look for the graveyard and he should be just past it.",
-    "name": "You Too, Brute?",
-    "requires_level": 46,
-    "zone": "Tanaris"
-}

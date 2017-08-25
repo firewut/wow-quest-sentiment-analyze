@@ -1,7 +1,0 @@
-{
-    "_id": "10180",
-    "description": "I tried to persuade Isfar to remain here, in the safety of Shattrath, but he would have none of it. Instead, he's decided to venture out to Auchindoun again on his own.He was lucky enough to escape the Sethekk Halls once, but if they discover him, there won't be a second time.I admire his desire to free his sister, but he's not going to be able to do it without help.Find Isfar and have a word with him, <name>. If you can't persuade him to come back, perhaps you could help him rescue Lakka?",
-    "name": "Can't Stay Away",
-    "requires_level": 65,
-    "zone": "Sethekk Halls"
-}

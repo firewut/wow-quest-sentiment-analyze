@@ -1,8 +1,0 @@
-{
-    "_id": "35621",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Tarenar Sunstrike",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13564",
-    "description": "Please help... I can barely sit up.My friend, a bear named Grimclaw, he's not here. I sent him ahead to let the Sentinels know we were coming before we left Auberdine, but he never arrived. I sensed something might be amiss as we were leaving, but with the evacuation, I never had a chance to act on it.If he's injured, there's only one place that he would go - the Withering Thicket, north of Auberdine, down the road to the south from here. Bring him back to me safely... he's my only family.",
-    "name": "A Lost Companion",
-    "requires_level": 8,
-    "zone": "Darkshore"
-}

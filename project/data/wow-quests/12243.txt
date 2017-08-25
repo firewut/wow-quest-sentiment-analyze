@@ -1,7 +1,0 @@
-{
-    "_id": "12243",
-    "description": "I have another mission for you.I was able to repurpose some of the blight to concoct my world-famous burning water. I want you to take it and set the sails of the Sinner's Folly ablaze!Use it from the dock. Once the sails are on fire, the deckhands will be busy putting them out, and you'll slip belowdecks to 'retrieve' the captain's rutters.You'll find the ship on Crusader's Landing, below and south of New Hearthglen. Look for the captain's quarters on the first lower deck, behind the stairs.",
-    "name": "Fire Upon the Waters",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

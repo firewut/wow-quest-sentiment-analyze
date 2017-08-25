@@ -1,7 +1,0 @@
-{
-    "_id": "28130",
-    "description": "Have you been up to Rustberg Village yet <name>?  I would suggest you bring a sharpened blade if you are heading that direction.The folks in that town look alright but something suspicious is going on in there.  Reports have been coming in that they are picking off our soldiers left and right.  We have had just about enough of that, so I need you to head down there and do a little cleaning house for us.Take down as many as you can and report back when you are done.",
-    "name": "Not The Friendliest Town",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

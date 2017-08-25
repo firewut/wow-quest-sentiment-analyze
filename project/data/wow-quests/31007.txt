@@ -1,8 +1,0 @@
-{
-    "_id": "31007",
-    "added_in_patch": 5,
-    "description": "The imperial clutches have become an abomination! Clutch-Keepers rush the development of new swarmborn, saturating them in this vile \"sha\" energy before sending them away to the wall.The Klaxxi wish to stem the tide of swarmborn production in these dread clutches. Put the keepers to death!",
-    "name": "The Dread Clutches",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

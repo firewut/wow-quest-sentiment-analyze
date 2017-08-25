@@ -1,7 +1,0 @@
-{
-    "_id": "9727",
-    "description": "Reports have come in that the naga of the Bloodscale Enclave to the northeast continue to kill our people.  We thought that you had dealt with this, <class>!I suggest that you to teach them a lesson as proof of our continued friendship.",
-    "name": "Now That We're Still Friends...",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26292",
-    "description": "We have had a camp near Moonbrook for quite some time now, <name>. One of my best soldiers works the area along with a company of Sentinel Hill troopers. Report to Captain Alpert now and find out if he has any news about the happenings in Moonbrook.Another ally of mine is also at the Moonbrook camp. His name is Thoralius. I met Thoralius in Northrend during my time in Valgarde. He is a wise and powerful shaman. Perhaps his abilities could help us solve this mystery.",
-    "name": "To Moonbrook!",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Westfall"
-}

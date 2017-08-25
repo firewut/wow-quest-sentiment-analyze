@@ -1,8 +1,0 @@
-{
-    "_id": "42034",
-    "added_in_patch": 7,
-    "description": "Most of the druids were able to escape, but the shrine is still swarming with enemies.The shrine's leader, Sylendra  Gladesong, stayed behind to recover Malorne's Idol. We must go back and help her.",
-    "name": "Grip of Nightmare",
-    "requires_level": 103,
-    "zone": "Druid Campaign"
-}

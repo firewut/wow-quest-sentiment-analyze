@@ -1,9 +1,0 @@
-{
-    "_id": "38405",
-    "added_in_patch": 7,
-    "description": "I've been doing some nosing around, and it looks like these vrykul are making regular trips up the mountain themselves. They've got some specialized gear for it, so while we're here we should take some.\r\n\r\nI'd recommend finding some climbing treads to keep your grip on the slopes, as well as an oiled cloak to keep the rain out. Also, it looks like they carry enchanted lodestones, which seem to keep the lightning at bay. You should probably grab one of those, too.",
-    "name": "To Weather the Storm",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12999",
-    "description": "You remember Lady Nightswood, don't you? She certainly remembers you. She's the forlorn and very angry banshee that you 'saved' when you also broke Vile and myself out from under the Lich King's dominion.The lady has gone into Jotunheim and possessed their bone witch. She intends to wreak havoc upon the vrykul from within.She has asked that you seek her out. You'll find her in the cave on the south side of Njorndar Village to the southwest within Jotunheim.",
-    "name": "The Bone Witch",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38806",
-    "added_in_patch": 7,
-    "description": "This ore. Smells. Horrible. It combines the odor of sulfur with all the worst parts of a rotting corpse.Someone will probably want it for something.Maybe your mining trainer in Dalaran will take it off of your hands.",
-    "name": "Infernal Brimstone Sample",
-    "requires_level": 110,
-    "zone": "Mining"
-}

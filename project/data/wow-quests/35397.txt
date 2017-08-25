@@ -1,9 +1,0 @@
-{
-    "_id": "35397",
-    "added_in_patch": 6,
-    "description": "If we are to succeed in stopping Cho'gall from destroying the naaru, we will need to fight our way through the Underpale; a dark, winding cavern infested with the Pale.The Pale are fallen orcs that despise all that is good and holy. The longer they are left to their devices beneath the ground, the further their dark plots progress.Make your way into the Underpale, slay the vile creatures within and take out their leader, Greyseer.",
-    "name": "The Pale Threat",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

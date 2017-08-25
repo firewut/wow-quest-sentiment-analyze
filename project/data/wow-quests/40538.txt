@@ -1,8 +1,0 @@
-{
-    "_id": "40538",
-    "added_in_patch": 7,
-    "description": "It's good to see you again, <name>.It seems we've both been busy since last we spoke. I have something that you may be interested in.A recent shipment of rare jewels called maelstrom sapphires have finally arrived here at the shop.I came up with a beautiful design for them and would like to show you how to cut them into something useful.",
-    "name": "Lapidary Lessons",
-    "requires_level": 104,
-    "zone": "Jewelcrafting"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25102",
-    "description": "Twinbraid's patrols always throw us right into the thick of danger. If it's not Horde ambushes, it's a quilboar hit-and-run.The problem is them lousy landquaker kodos. Big walkin' walls of fur, shakin' the ground... We can't see or hear an ambush creepin' up on our backside.Go scare 'em off from our patrol, here. Killing a few should drive the herd south and out of what's left of me hair.",
-    "name": "No Bull",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

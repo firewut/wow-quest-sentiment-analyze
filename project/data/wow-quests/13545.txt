@@ -1,7 +1,0 @@
-{
-    "_id": "13545",
-    "description": "With the sacred herbs and the bear's blessing, you must use this herb bundle to cleanse my brothers. The corruption spilling over from Felwood has driven them mad and they will attack any who come near. Expect the afflicted Blackwood to be angry with you until you have slain the spirits of corruption that haunt them.When you have freed my brothers from their madness, return to me.",
-    "name": "Cleansing the Afflicted",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

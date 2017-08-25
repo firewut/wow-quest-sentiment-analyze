@@ -1,8 +1,0 @@
-{
-    "_id": "31504",
-    "added_in_patch": 5,
-    "description": "If the Grand Empress's agents are still operating under security standards from my time, they would have hidden powerful pheromone mines all around the clutches.With mere whisper she could detonate them all simultaneously, engulfing the palace and rendering entire siege armies powerless.If we hope to have any success in a large scale standoff, we need to disable those mines. My... \"gift\" to you when we met will allow you to see the mines. Disturb them and get to a safe distance.",
-    "name": "Ordnance Disposal",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

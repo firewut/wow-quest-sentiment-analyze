@@ -1,8 +1,0 @@
-{
-    "_id": "41424",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Suramar Noble District Heroic Reward Quest",
-    "requires_level": 100,
-    "zone": "Quests"
-}

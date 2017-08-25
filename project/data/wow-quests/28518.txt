@@ -1,7 +1,0 @@
-{
-    "_id": "28518",
-    "description": "One hundred years ago...I and a small group of other High Elves traveled here from our homeland, Quel'thalas. We sought the ancient mysteries of Kel'thoril... to find why it was destroyed.We found fragments in the ice, shards of the crystal. The Archmage we accompanied did not take long to fall under their sway. In our foolishness, we noticed too late.His spirit wanders in the southeast, among those he drove to madness, still clutching the memory of the precious shard...",
-    "name": "Legacy of the High Elves",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

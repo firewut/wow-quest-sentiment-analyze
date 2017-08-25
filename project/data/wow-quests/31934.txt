@@ -1,8 +1,0 @@
-{
-    "_id": "31934",
-    "added_in_patch": 5,
-    "description": "Me like fighting you. You not so easy like the others. We fight again?",
-    "name": "Gutretch",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

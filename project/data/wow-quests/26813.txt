@@ -1,7 +1,0 @@
-{
-    "_id": "26813",
-    "description": "Zanzil the Outcast has once again escaped through one of his portals.  Follow him!",
-    "name": "Plunging Into Zul'Gurub",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

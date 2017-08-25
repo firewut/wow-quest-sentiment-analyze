@@ -1,8 +1,0 @@
-{
-    "_id": "12064",
-    "description": "They have my father bound by magical chains in the middle of Icemist Village. From what I have been able to gather, the prison is controlled by three powerful Anub'ar magi - each holding a piece of the key.Scour Icemist and locate the magi. Kill them and take their key fragments. With all three pieces we might be able to free my father. Once he is free...Retribution will come swiftly.",
-    "name": "Chains of the Anub'ar",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

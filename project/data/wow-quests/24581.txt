@@ -1,7 +1,0 @@
-{
-    "_id": "24581",
-    "description": "Noth the Plaguebringer, traitor and coward! Second only to the Lich King himself for the number of souls that have been Scourged!Make haste to Naxxramas. You will find him within the Plague Quarter hiding behind his undead minions.Destroy him! The Council of Six has decreed that Noth must die!",
-    "name": "Noth the Plaguebringer Must Die!",
-    "requires_level": 80,
-    "zone": "Naxxramas"
-}

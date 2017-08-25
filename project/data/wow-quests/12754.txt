@@ -1,7 +1,0 @@
-{
-    "_id": "12754",
-    "description": "While you were out burning churches and murdering vermin, I've been busy formulating a plan.The Scarlet courier is scheduled to pass by the Scarlet Overlook within the hour. The roads by the overlook are wide open and swarming with Crusaders. Use this makeshift cover to hide at the overlook and wait for the Scarlet Courier to pass. When he's close enough, strike with all your fury! Cut him down and take his belongings - including his clothes!The overlook is 200 paces east of here.",
-    "name": "Ambush At The Overlook",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

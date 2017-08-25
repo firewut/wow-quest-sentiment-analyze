@@ -1,7 +1,0 @@
-{
-    "_id": "27223",
-    "description": "Where Market Row meets Festival Lane, you will encounter The Unforgiven. If you slay the entirety of Crusaders' Square, you will coax out Timmy the Cruel. Both of these former champions committed heinous acts against innocents here in the name of gaining unholy power.You must destroy both of them and rid Stratholme of their foul presence. Take caution, for they were powerful fighters in life, and their new dark powers will only have made them even more deadly. ",
-    "name": "Retribution",
-    "requires_level": 42,
-    "zone": "Stratholme"
-}

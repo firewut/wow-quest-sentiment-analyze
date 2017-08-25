@@ -1,7 +1,0 @@
-{
-    "_id": "12505",
-    "description": "<Class>, you're here to help, right? I've got new orders for our forces that are currently deployed at the Drakkari altar to the north.You can't miss it. Just head straight up the avenue. Sergeant Stackhammer shouldn't be hard to find.",
-    "name": "New Orders for Sergeant Stackhammer",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

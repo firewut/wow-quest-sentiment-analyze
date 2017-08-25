@@ -1,7 +1,0 @@
-{
-    "_id": "9152",
-    "description": "How am I supposed to supply the war effort when I cannot even safely get my supplies here? I was promised an escort that never came. And then, I had to leave one of my carts behind to the west when I was attacked by a band of ghouls!Want to help out, and get me open for business in the process? Go down the western road out of town and past the graveyard. On the other side of the Dead Scar is a fork in the road. The hill that my cart had to be left on lies just beyond.",
-    "name": "Tomber's Supplies",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33633",
-    "added_in_patch": 6,
-    "description": "The stray boar is digging through garbage left behind by the iron horde. He stops chewing and stares at you-then he burps.He smells terrible.It looks like he's chewing on a chunk of rotten meat. Maybe you can find something a bit healthier for him to snack on?",
-    "name": "Rooter the Ravenous",
-    "requires_level": 100,
-    "zone": "Gorgrond"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9147",
-    "description": "What are you standing around for?  Can't you see this boy needs immediate attention?  By the looks of it, the plague is beginning to take over his body.  Within minutes not even a master apothecary like me will be able to save him.The animals south of the river all carry the plague in their blood.  Go across the bridge and hunt the plagued beasts there.  Bring me enough plagued blood samples and I'll distill a serum capable of saving this blood elf.  Hurry!",
-    "name": "The Fallen Courier",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

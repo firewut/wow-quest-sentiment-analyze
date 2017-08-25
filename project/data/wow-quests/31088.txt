@@ -1,8 +1,0 @@
-{
-    "_id": "31088",
-    "added_in_patch": 5,
-    "description": "The Stinging Trail nurtures young Kypari trees. The empress drains the saplings too early, outsider. They must grow before the amber can be taken.The Klaxxi'va demand punishment for this crime! It will please them if you rain death on the Ik'thik harvesters.",
-    "name": "Crime and Punishment",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

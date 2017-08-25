@@ -1,8 +1,0 @@
-{
-    "_id": "14003",
-    "description": "Well that didn't go as expected. I think I busted it.No need to panic, though. Do me a favor and walk this across the way to Brak here in the camp. He'll bang this sucker back into shape real quick!",
-    "name": "Samophlange Repair",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

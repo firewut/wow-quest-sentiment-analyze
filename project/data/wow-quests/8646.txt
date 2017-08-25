@@ -1,7 +1,0 @@
-{
-    "_id": "8646",
-    "description": "",
-    "name": "Hammershout the Elder",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

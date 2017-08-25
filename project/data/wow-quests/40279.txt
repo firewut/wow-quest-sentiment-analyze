@@ -1,8 +1,0 @@
-{
-    "_id": "40279",
-    "added_in_patch": 7,
-    "description": "Show me that you truly have gained the trust of your companions.",
-    "name": "Training with Durian",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

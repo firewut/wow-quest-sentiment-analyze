@@ -1,7 +1,0 @@
-{
-    "_id": "12137",
-    "description": "It be as the prophecies said, mon. A <race> <class> be comin' to set our spirits to rest. We been waitin' for a long time now!The Drakkari have become a lost people, fierce and savage.But here we suffer by no fault of our own, mon. This place need cleansin' and only the living can do it.Speak to me when ya be ready to rejoin your body. Then take the snow from the chest near me here and put my bruddas to sleep.Take their remnants to your spirit guide. He be knowin' what to do next.",
-    "name": "Chill Out, Mon",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

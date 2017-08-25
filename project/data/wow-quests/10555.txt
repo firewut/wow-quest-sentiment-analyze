@@ -1,7 +1,0 @@
-{
-    "_id": "10555",
-    "description": "The magic practiced by the Lashh'an arakkoa is unnatural. They rip out handfuls-clawfuls?-of their own feathers as reagents!That doesn't sound like good magic to me. I've come here to learn more about their spells. Unfortunately getting close is too much for me.You could succeed: cast one of their spells on yourself, then return to me. You'll have to find one of their spellbooks, high up in the trees of Veil Lashh.And unless you've grown feathers I can't see, you'll need to get some of those.\r\n",
-    "name": "Malaise",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

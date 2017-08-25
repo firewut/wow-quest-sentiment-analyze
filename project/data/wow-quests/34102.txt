@@ -1,9 +1,0 @@
-{
-    "_id": "34102",
-    "added_in_patch": 6,
-    "description": "As you look upon the Frostwolf banner you remember struggles that have led you and the Frostwolves to this point.Ruk'gan has suffered in his battles with the Thunderlord and would appreciate an extra show of defiance. As the banner rustles in the wind you're inspired to mark the foes of the Frostwolf with its standard.",
-    "name": "The Mark of Defiance",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

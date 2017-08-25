@@ -1,7 +1,0 @@
-{
-    "_id": "11870",
-    "description": "We have just gotten word from Liandra that mercenaries hired by Nesingwary are moving goods off the beach and onto the main Nesingwary shipping vessel. No doubt they plan on making a fortune from their murderous trade!She has asked that we send assistance to the Abandoned Reach, directly south of here on the beachfront of the Borean Tundra.Make haste, Liandra awaits you there!\r\n",
-    "name": "The Abandoned Reach",
-    "requires_level": 70,
-    "zone": "Borean Tundra"
-}

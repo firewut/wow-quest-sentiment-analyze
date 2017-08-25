@@ -1,8 +1,0 @@
-{
-    "_id": "40783",
-    "added_in_patch": 7,
-    "description": "I have received word that Tyrande herself has authorized the release of a great artifact, the Scythe of Elune, to aid our cause. Valorn Stillbough has agreed to give up the weapon, which he has kept as part of an investigation into the cursed worgen of Duskwood.\r\n\r\nI believe that you, champion, will be our best hope at wielding its power without succumbing to the animal rage that ebbs within. You must go to Duskwood, and take up the scythe against our foes!",
-    "name": "The Scythe of Elune",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

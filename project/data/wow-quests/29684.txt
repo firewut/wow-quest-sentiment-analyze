@@ -1,7 +1,0 @@
-{
-    "_id": "29684",
-    "description": "We've had a contact embedded in Magisters' Terrace gathering intelligence for us for some time now, but we've lost contact with him.The information he was collecting is vital to our mission.",
-    "name": "Severed Communications",
-    "requires_level": 68,
-    "zone": "Quests"
-}

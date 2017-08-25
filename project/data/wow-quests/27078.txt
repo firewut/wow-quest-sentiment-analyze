@@ -1,8 +1,0 @@
-{
-    "_id": "27078",
-    "description": "The ogre left to watch over these crude fools goes by the name of Gor'kresh. He's big enough to boss even these brutes around, and cunning to boot. Never assume an ogre's stupid, that's when they'll get you.If you take him out, we'll show the Twilight's Hammer that Loch Modan isn't a stepping stone for them. Stand strong against Gor'kresh and drive these fools back into the highlands!",
-    "name": "Gor'kresh",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

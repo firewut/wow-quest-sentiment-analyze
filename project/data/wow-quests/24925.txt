@@ -1,8 +1,0 @@
-{
-    "_id": "24925",
-    "description": "They've got a bunch of our people in there. I know that they're doing strange rituals to them. It looks like they're sucking the life force right out of them!You have to go into the village and free the captives before it's too late!",
-    "name": "Free the Captives",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

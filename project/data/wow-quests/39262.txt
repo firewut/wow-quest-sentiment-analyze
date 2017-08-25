@@ -1,8 +1,0 @@
-{
-    "_id": "39262",
-    "added_in_patch": 7,
-    "description": "Jace Darkweaver swears that for a split second he sensed a demonic presence up and behind us. He took some of our forces up to the cave just to the southeast to investigate.\r\n\r\nThey found nothing in the cave, but he is certain that something is amiss.\r\n\r\nWould you lend him your guidance, and more importantly, your spectral sight?",
-    "name": "Give Me Sight Beyond Sight",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

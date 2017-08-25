@@ -1,8 +1,0 @@
-{
-    "_id": "39880",
-    "added_in_patch": 7,
-    "description": "While fighting the ambershards for their crystals, you may come across enchanted armor from our fallen braves. The ambershards care not for such things, but our tribe does not believe in letting anything go to waste.I'd like you to retrieve our braves' armor and disenchant them into the components from which they were imbued.Bring me back the reagents so my tribe may use them to enchant new armor.",
-    "name": "Waste Not",
-    "requires_level": 102,
-    "zone": "Enchanting"
-}

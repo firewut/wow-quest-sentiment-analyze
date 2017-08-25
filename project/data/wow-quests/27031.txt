@@ -1,8 +1,0 @@
-{
-    "_id": "27031",
-    "description": "I'm through with gyrocopters. Sure, they work, but when has that ever been good enough for a real gnome? I want real flight, with WINGS!I've been studying birds for years now, trying to unlock the final secret to building a machine that flies just like them. That elegant soaring and swooping, the rush of wind over the wings, ahh.You! You can help me. I need the finest flight feathers you can find. The golden eagles circling near the lodge would be a fine choice...",
-    "name": "Wing Nut",
-    "requires_level": 15,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28010",
-    "description": "The Warchief has requested that any able-bodied adventurer head to Blackfathom Deeps, north of Zoram'gar Outpost, immediately!The Twilight's Hammer threatens the world with its actions there! If you so choose, head to Blackfathom Deeps and speak with Je'neu Sancrea, a member of the Earthen Ring, to help stop the Twilight threat.",
-    "name": "Adventurers Wanted: Blackfathom Deeps",
-    "requires_level": 22,
-    "zone": "Blackfathom Deeps"
-}

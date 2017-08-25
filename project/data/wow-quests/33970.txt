@@ -1,9 +1,0 @@
-{
-    "_id": "33970",
-    "added_in_patch": 6,
-    "description": "I've learned that the Shadow Council is using the nearby deathweb spiders' venom to spread fel corruption and augment their forces after their defeat at the Burning Front.One of my soulbinders saw a dreadlord headed into the eastern mines with Sha'tari, one of the remaining pieces of the Heart of Auchindoun.I need you to wrest Sha'tari from the dreadlord's quivering corpse and bring it to me, champion.",
-    "name": "Into the Hollow",
-    "requires_level": 95,
-    "side": "horde",
-    "zone": "Talador"
-}

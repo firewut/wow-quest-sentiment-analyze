@@ -1,7 +1,0 @@
-{
-    "_id": "24463",
-    "description": "Even as the Darnassian scum pull back from Azshara, I've been getting mixed reports from my riders stationed in Ashenvale, to the west. The night elves may be making an assault on our territory in the Barrens.<Class>, I need you to slip across the border and speak to one of my scouts. Look for Kulg Gorespatter just across the bridge at the southwest edge of Talrendis Point. Find out what's happening in those woods!",
-    "name": "Probing into Ashenvale",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

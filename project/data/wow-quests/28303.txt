@@ -1,7 +1,0 @@
-{
-    "_id": "28303",
-    "description": "Master Pyreanor sent an urgent message for you, <name>. He asks you to join him at Grommash Hold in Orgrimmar's Valley of Strength the next time you're in the city. It sounds as though he must have an important assignment for you.",
-    "name": "Meet with Master Pyreanor",
-    "requires_level": 50,
-    "zone": "Orgrimmar"
-}

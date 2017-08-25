@@ -1,8 +1,0 @@
-{
-    "_id": "41834",
-    "added_in_patch": 7,
-    "description": "Many nightborne had pinned their hopes on Thalyssra deposing the Grand Magistrix. Since she disappeared, dissenting voices have grown silent.\r\n\r\nWe must spread the word, discreetly, among the populace. Ly'leth Lunastre will be a perfect ally in this. She is a socialite with many connections, and she is no friend of the Legion.\r\n\r\nLy'leth hosts a masquerade party at her estate where rumors are traded like coin - and brandished like daggers.\r\n\r\nLet us invite ourselves in.",
-    "name": "The Masks We Wear",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

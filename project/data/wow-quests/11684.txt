@@ -1,8 +1,0 @@
-{
-    "_id": "11684",
-    "description": "Can you feel the tremors in the earth?The Scourge's nerubians are on the move deep beneath the ground. They've emerged to the southwest in the Geyser Fields, and are harassing the patrols Chieftain Wintergale sent out.<The taunka elder offers you a worn map.>Perhaps a single person can succeed where the patrols have failed. Take this with you to the Geyser Fields and map out the locations of the Nerubian sinkholes.",
-    "name": "Scouting the Sinkholes",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

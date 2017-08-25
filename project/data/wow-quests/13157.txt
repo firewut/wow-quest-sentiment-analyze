@@ -1,7 +1,0 @@
-{
-    "_id": "13157",
-    "description": "Stand proud in knowing that it was you who helped establish the Argent Crusade inside the walls of Icecrown, <name>. The Crusaders' Pinnacle now stands in direct defiance of the Lich King and his twisted minions.Highlord Fordring and the crusaders who survived await your arrival at Crusaders' Pinnacle. Travel once more through the Breach and seek out the highlord!",
-    "name": "The Crusaders' Pinnacle",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

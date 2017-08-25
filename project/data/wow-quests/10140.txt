@@ -1,8 +1,0 @@
-{
-    "_id": "10140",
-    "description": "When you're ready, I'll arrange a flight straight to Honor Hold.From there, speak with Marshal Isildor and give him Duron's report.  He'll be happy to see another recruit from the homelands, and I'm sure the information in that report is important stuff!",
-    "name": "Journey to Honor Hold",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

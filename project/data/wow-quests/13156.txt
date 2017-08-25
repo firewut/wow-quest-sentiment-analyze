@@ -1,7 +1,0 @@
-{
-    "_id": "13156",
-    "description": "My, it its quite chilly up here! Reminds me of the stormy peaks of Kaarinos on Argus. However, with all of this snow and ice, our soldiers can easily catch cold.Head to the Steppe of Life in southwestern Wintergrasp, and bring me back 10 of the Horde herb pouches you find. I will grind them into a medicine to help protect against the cold.The Horde have been seen collecting them from the plant life in the area. Do not hesitate to slay them and retrieve the herbs!",
-    "name": "A Rare Herb",
-    "requires_level": 75,
-    "zone": "Wintergrasp"
-}

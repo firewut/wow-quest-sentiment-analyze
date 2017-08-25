@@ -1,8 +1,0 @@
-{
-    "_id": "32133",
-    "added_in_patch": 5.1,
-    "description": "We've spotted heavy air support over their base, in the form of way too many dwarves on way too many griffons. Means we can't get any vision of the area from above.\r\n\r\nA troll... friend of mine gave us a set of Sentry Wards, which we can use to spy on their base and get a vantage point on what's going on in there.\r\n\r\nBad news, friend - you're going to be the one going in there.",
-    "name": "Sentry Wards",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

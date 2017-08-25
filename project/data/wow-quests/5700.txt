@@ -1,7 +1,0 @@
-{
-    "_id": "5700",
-    "description": "Your temple wishes you to return to them once again, <name>. High Priestess Laurena in Stormwind specifically. There is much activity in the Cathedral of Light these days, but that does not surprise me at all; so much going on between the Scourge, the Horde and our own problems internally.Go to the Cathedral when you're ready.",
-    "name": "<NYI> A Small Amount of Hope",
-    "requires_level": 35,
-    "zone": "Priest"
-}

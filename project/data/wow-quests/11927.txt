@@ -1,8 +1,0 @@
-{
-    "_id": "11927",
-    "description": "Hey, <name>.  There's a girl in the inn that's asking about you.  Her name's Leryssa.I don't think she knows you, but she said she needed your help.  She sounded really desperate.",
-    "name": "Word on the Street",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

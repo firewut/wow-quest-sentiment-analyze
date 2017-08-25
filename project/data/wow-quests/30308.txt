@@ -1,8 +1,0 @@
-{
-    "_id": "30308",
-    "added_in_patch": 5,
-    "description": "Leven always says the only good quilen is a dead quilen, and I'm inclined to agree. You here to aid the cause?",
-    "name": "Stone Hard Quilen",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

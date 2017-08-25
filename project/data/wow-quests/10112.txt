@@ -1,7 +1,0 @@
-{
-    "_id": "10112",
-    "description": "Hmmm?  A box you say?  Or was it several?  Do you know what material the box was constructed from?And what was the name of this merchant?  Empoor?  Are you certain that he's one of the Broken?  I don't do much business with their kind.Perhaps my memory would be jogged if you were to do me a favor?The Skithian arakkoa - primitive casters that they are - recently stole a huge shipment of my more exotic goods.  I want it all back!You can find Veil Skith just to the south of Shattrath City.",
-    "name": "A Personal Favor",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39057",
-    "added_in_patch": 6.2,
-    "description": "Gul'dan wasted no time integrating his Shadow Council minions into every rank of the Iron Horde. The naval fleet that once owed loyalty only to Grommash is now his to command. If we want to fight back, we're going to need more than just a couple of transport ships. We must build an arsenal.We need your expertise, commander. Upgrade your dockyards and create a fleet capable of dominating the seas!",
-    "name": "Command of the Seas",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

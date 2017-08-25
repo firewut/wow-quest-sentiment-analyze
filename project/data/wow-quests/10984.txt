@@ -1,7 +1,0 @@
-{
-    "_id": "10984",
-    "description": "<V'eru's voice fills your mind with crystalline tone and clarity.>There is an ogre down in the Lower City, pleading for the assistance of passersby.  They have all turned a deaf ear upon his plight.Do you think you might aid him?His name is Grok, and he is sitting near the merchants to the southeast.Thank you, <name>.",
-    "name": "Speak with the Ogre",
-    "requires_level": 70,
-    "zone": "Shattrath City"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25533",
-    "description": "Oh no, <name>, the cannonballs are hitting the Speedbarge. I'd say the Southsea pirates are getting more accurate... the ship is on fire!You've got a river boat now. Please, go speak with Griznak.Extinguish those fires!",
-    "name": "Pirate Accuracy Increasing",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36968",
-    "added_in_patch": 6,
-    "description": "<Kuros hands you the bloody heart.>The ritual is complete. Your nemesis is marked for death.Now your work to rid this world of the enemy truly begins. Kill all pandaren that stand defiantly against the Alliance. Let their deaths serve as a warning to the rest of the Horde: they will leave Draenor or they will die.Return when you have quenched your rage with the blood of pandaren.Conquer our enemy and be known as Huojin's fall. Fail and be nothing.",
-    "name": "Nemesis: Huojin's Fall",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

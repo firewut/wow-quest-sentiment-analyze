@@ -1,7 +1,0 @@
-{
-    "_id": "10667",
-    "description": "The frame that you brought me earlier will not be sufficient to hold molten metal without reinforcement. A rare kind of earth can be used to cool and imbue the frame, giving the adamantite an unnatural strength.Underwold loam, as the earth is known, is accorded great value among the naga. Few enough of them possess it, and in Outland, I know of only one naga who uses it -- Hydromancer Thespia, who resides in the Steamvault of Coilfang Reservoir.",
-    "name": "Underworld Loam",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

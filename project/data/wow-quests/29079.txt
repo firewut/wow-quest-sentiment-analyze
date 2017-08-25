@@ -1,7 +1,0 @@
-{
-    "_id": "29079",
-    "description": "The invading orcs aren't fools. They are sizing us up, making sure that when they attack it will be to their advantage.In the forest, to the northwest, are Blackrock spies. They peer at us through spyglasses, watching our every move - waiting. I want you take the fight to them!Kill the Blackrock spies! We must show them that we know they are watching us and that we are prepared!",
-    "name": "Lions for Lambs",
-    "requires_level": 1,
-    "zone": "Elwynn Forest"
-}

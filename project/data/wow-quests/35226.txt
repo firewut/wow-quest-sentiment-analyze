@@ -1,9 +1,0 @@
-{
-    "_id": "35226",
-    "added_in_patch": 6,
-    "description": "I cannot believe Orgrim would continue to do Blackhand's bidding after all the destruction he has wrought.\r\n\r\nWe must confront him. Join me at the village along Orunai Coast and we will confront my oldest friend.",
-    "name": "Old Friends, New Enemies",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

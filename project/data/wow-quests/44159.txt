@@ -1,8 +1,0 @@
-{
-    "_id": "44159",
-    "added_in_patch": 7,
-    "description": "This Vault Ticket should be delivered to Marin Noggenfogger.",
-    "name": "A Ticket for Marin",
-    "requires_level": 100,
-    "zone": "Artifact"
-}

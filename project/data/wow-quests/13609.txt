@@ -1,7 +1,0 @@
-{
-    "_id": "13609",
-    "description": "Hodir's Sigil won't be easy to obtain.  Not only are ye going to have to defeat Hodir himself, but yer going to have to do it before he destroys the chest that contains it!Check the Archivum console if you need more information.  That thing contains more knowledge than all of the world's libraries put together!",
-    "name": "Hodir's Sigil",
-    "requires_level": 80,
-    "zone": "Quests"
-}

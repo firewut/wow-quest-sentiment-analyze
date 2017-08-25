@@ -1,8 +1,0 @@
-{
-    "_id": "40694",
-    "added_in_patch": 7,
-    "description": "It is time to embrace the future.I have mastered every magic known to our kind. I will master this one.By applying the principles of arcane magic it is fairly trivial to control the primitive fel energies within the material you have given me. I need to move to live prey next.Let us start with a small summoning. Defeat the creature for me and watch how a true scholar works!",
-    "name": "One Small Step for Magic",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

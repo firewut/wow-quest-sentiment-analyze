@@ -1,8 +1,0 @@
-{
-    "_id": "9992",
-    "description": "Aren't the trees in the forest beautiful? I've often wondered if they would survive on Azeroth.I'm hesitant to send back seedlings, though. It's a rough trip and they're much harder to transport than something like a sack of seeds. The seeds are stored in tough cones that fall from the tree's branches once they've reached maturity.If you come upon some of those cones in your travels, would you mind bringing some of the seeds back to me?",
-    "name": "Olemba Seeds",
-    "requires_level": 62,
-    "side": "alliance",
-    "zone": "Terokkar Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39456",
-    "added_in_patch": 7,
-    "description": "You have gained my trust. Not all drogbar are as violent as the savages led by Dargrul the Underking, nor are all tauren as bloodthirsty as the Bloodtotem.\r\n\r\nYou may tell Mayla Highmountain that she has our support. The cavern we call home is yours to explore freely as well, <name>.",
-    "name": "Unexpected Allies",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

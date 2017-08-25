@@ -1,7 +1,0 @@
-{
-    "_id": "11886",
-    "description": "While celebration has its place, <class>, some of us must look to graver matters.When the festival began, we received reports from Zoram Strand about a sharp increase in Twilight Cult activity. The origins of this holiday are steeped in the very powers those madmen revere; this cannot be coincidence. Go to the camp just south of the Blackfathom Deeps entrance, in the ruins, and see if the cultists will part with information - forcefully if need be. Use this beacon to summon a guide when you find it.",
-    "name": "Unusual Activity",
-    "requires_level": 16,
-    "zone": "Midsummer"
-}

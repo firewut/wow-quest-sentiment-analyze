@@ -1,7 +1,0 @@
-{
-    "_id": "7848",
-    "description": "Rifts stir, tear, and collapse all around us, <race>. Not two paces from where I stand is a tear leading through the depths of Blackrock Mountain, into the maw of the Firelord.Surprised? Pity... The mortal races cannot comprehend that which they cannot see, touch, or feel.I assure you, the portal is there and access is possible.I've piqued your interest? Attunement is simple. Venture into Blackrock Depths and retrieve a core fragment. Return it to me and I shall attune your essence with the portal.",
-    "name": "Attunement to the Core",
-    "requires_level": 55,
-    "zone": "Molten Core"
-}

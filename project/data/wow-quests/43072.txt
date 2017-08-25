@@ -1,8 +1,0 @@
-{
-    "_id": "43072",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: The Whisperer",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

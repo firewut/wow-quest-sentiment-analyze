@@ -1,7 +1,0 @@
-{
-    "_id": "9742",
-    "description": "",
-    "name": "More Spore Sacs",
-    "requires_level": 61,
-    "zone": "Zangarmarsh"
-}

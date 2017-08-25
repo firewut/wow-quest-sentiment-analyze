@@ -1,8 +1,0 @@
-{
-    "_id": "31339",
-    "added_in_patch": 5,
-    "description": "That stupid sheep! He wandered off again!Can you find him for me again?",
-    "name": "Lost Sheepie... Again",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

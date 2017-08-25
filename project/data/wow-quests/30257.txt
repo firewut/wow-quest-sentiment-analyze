@@ -1,8 +1,0 @@
-{
-    "_id": "30257",
-    "added_in_patch": 5,
-    "description": "All right friend, all of that farming was just for practice!Are you ready to try the real thing?There's a lady by the name of Gina Mudclaw who runs the Halfhill Market, which is across the street to the south.I heard she's looking to buy some vegetables. Since it's your first time meeting her, you shouldn't go empty-handed.Why don't you look around the ranch and see if there are any items hiding around?Might be that we'll find a good gift to take to our new neighbor!",
-    "name": "Learn and Grow V: Halfhill Market",
-    "requires_level": 85,
-    "zone": "Valley of the Four Winds"
-}

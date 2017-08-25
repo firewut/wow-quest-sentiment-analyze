@@ -1,7 +1,0 @@
-{
-    "_id": "12318",
-    "description": "<name>, our spies have discovered a fiendish plot!  The Dark Iron dwarves want our beloved Brewfest destroyed!Coren Direbrew, head of a renegade family of brewers, has marshaled the dwarves of Blackrock Depths.  Their vile mole machines attack us constantly.Our spy is in the Grim Guzzler, a tavern in the bowels of Blackrock Depths.  He'll know more of Direbrew's plot.Find our spy.  Save Brewfest!",
-    "name": "Save Brewfest!",
-    "requires_level": 75,
-    "zone": "Brewfest"
-}

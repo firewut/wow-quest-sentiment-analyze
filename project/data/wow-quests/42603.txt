@@ -1,8 +1,0 @@
-{
-    "_id": "42603",
-    "added_in_patch": 7,
-    "description": "Now that you've found other warlocks that are willing to aid your cause, we can use the Dreadscar Battle Plans to complete vital assignments across the Broken Isles.If we wish to rebuild the council, we must start by locating its missing members.Let us send Ritssyn and Calydus to interrogate the Burning Legion's minions. They might have information that will help us locate the missing council members.",
-    "name": "Information at Any Cost",
-    "requires_level": 101,
-    "zone": "Warlock Campaign"
-}

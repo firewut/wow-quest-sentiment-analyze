@@ -1,7 +1,0 @@
-{
-    "_id": "26824",
-    "description": "I did all I could, <name>.  I had the right potions... I had the right recipes... but the source of this sample eludes me.  It's tens of thousands of years old, but we've shown that it's not of titan origin.  And it's not saronite, I can tell you just by looking at it.  So... what in Brann's name is it?Tell Bronwyn that I tried my best.  Sorry.",
-    "name": "Results: Inconclusive",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

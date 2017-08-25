@@ -1,8 +1,0 @@
-{
-    "_id": "39572",
-    "added_in_patch": 7,
-    "description": "<Moozy is floating down the river and must be reunited with his mother.>",
-    "name": "Moozy's Adventure",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

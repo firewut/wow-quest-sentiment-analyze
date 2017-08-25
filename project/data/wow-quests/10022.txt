@@ -1,7 +1,0 @@
-{
-    "_id": "10022",
-    "description": "Now that I have the fur I'll need for the trim, I've been thinking that the pelt of a particular wolf would make a good hood for my cloak. Imagine seeing your enemy clad in the pelt of the most cunning predator in the forest!I've tried trapping old Ironjaw without success. I've tried cornering him, outsmarting him, and baiting him. None of it has worked.He stalks the northeastern reaches of the forest, and I'd gladly reward you if you could succeed where I have failed.",
-    "name": "The Elusive Ironjaw",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

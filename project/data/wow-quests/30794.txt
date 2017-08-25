@@ -1,8 +1,0 @@
-{
-    "_id": "30794",
-    "added_in_patch": 5,
-    "description": "I... am alive... but barely. They killed the rest. My friends... and family...\r\n\r\nI must return to the village... But, I do not have long, and cannot move on my own... are you a healer? I... have a healing potion in my hut... search my belongings. You can use your magic, if you have it.",
-    "name": "Emergency Care",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

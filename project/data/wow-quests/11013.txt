@@ -1,7 +1,0 @@
-{
-    "_id": "11013",
-    "description": "Netherwing Ledge... What was once a bastion of sanctuary for the Netherwing is now home to the Dragonmaw. While the orcs may have control of our territory, our magic there is still strong. Strong enough to cloak your true identity and allow you to infiltrate the ranks of Dragonmaw.I have prepared this letter for you to present to their leader, Overlord Mor'ghor. Fly headlong into the maw of our enemy and seek out Dragonmaw Base Camp to start your new life as a fel orc of Illidan Stormrage.",
-    "name": "In Service of the Illidari",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

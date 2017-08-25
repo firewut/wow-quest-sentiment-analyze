@@ -1,7 +1,0 @@
-{
-    "_id": "27218",
-    "description": "You know, it's amazing what you can find in that old lighthouse. After I lit the lamp, I noticed this book in one of the old trunks up there.<Babs holds up the book and reads the title dramatically.>\"Dastardly Denizens of the Deep!\"Why, I think I might swoon if I ever saw one of these! I'm sure it's good for a laugh or two, but I simply don't have time for reading right now.You know who might enjoy it, though... that fishmonger on the docks, \"Dirty\" Michael Crowe. He collects old books.",
-    "name": "Dastardly Denizens of the Deep",
-    "requires_level": 34,
-    "zone": "Dustwallow Marsh"
-}

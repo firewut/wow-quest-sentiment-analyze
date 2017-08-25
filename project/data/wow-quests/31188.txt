@@ -1,8 +1,0 @@
-{
-    "_id": "31188",
-    "added_in_patch": 5,
-    "description": "Crabbing is our big money-maker, but we send all kinds of goods back around the wall. Oils, plants, even rare minerals - the sea's bounty is rich out here!Right now the big craze in the markets back home is thresher teeth. Apparently they make great necklaces?Threshers are all over the Shelf of Mazu to the west. Bring me lots of teeth!",
-    "name": "Shark Week",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11037",
-    "description": "I've had a most unusual vision, <name>, and I don't know quite what to make of it. I've seen an arrow, an immense arrow, riding into the sky on a trail of fire. Such a feat is trivial for a skilled mage, but somehow I know the arrow I saw is not the product of magic.It will be unlike anything the people of Azeroth have ever achieved. You must seek out the people working on this, <name>. Lend them your help, for without it, their efforts may yet fail.",
-    "name": "A Strange Vision",
-    "requires_level": 67,
-    "zone": "Nagrand (Outland)"
-}

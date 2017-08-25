@@ -1,7 +1,0 @@
-{
-    "_id": "37883",
-    "description": "With the blasting powder acquired, you now must find a suitable detonator. A note attached to the entry in the cookbook hints to where one might be found:\r\n\r\n\"Reminder: Order more high-voltage detonators. The last shipment was lost off of the Shadowmoon coast near the demon-inhabited cliffs. Maybe we should send a diving team to salvage.\"",
-    "name": "Dark Grimoire: The Second Ingredient",
-    "requires_level": 100,
-    "zone": "Shadowmoon Valley"
-}

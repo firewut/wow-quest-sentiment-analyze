@@ -1,8 +1,0 @@
-{
-    "_id": "10936",
-    "description": "While we were busy, a messenger was waiting out in the hall.  I suppose he grew tired, or perhaps he simply ran away at the sight of Jules floating around the room.Either way, Force Commander Danath is looking for you.  I suggest that you seek an audience with him inside the barracks as quickly as possible!",
-    "name": "Trollbane is Looking for You",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

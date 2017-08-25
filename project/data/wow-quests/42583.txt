@@ -1,8 +1,0 @@
-{
-    "_id": "42583",
-    "added_in_patch": 7,
-    "description": "The Legion's defeat cannot be accomplished alone.To win this war, we must work together, just as we did in ancient times.To begin, we must recruit more druids to our aid. Speak to the troll Zen'tabra and the night elf Naralex.Both of them are accomplished druids. They will gladly defend the Dreamgrove.",
-    "name": "Rise, Champions",
-    "requires_level": 101,
-    "zone": "Druid Campaign"
-}

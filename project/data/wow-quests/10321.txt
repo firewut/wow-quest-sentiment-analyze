@@ -1,7 +1,0 @@
-{
-    "_id": "10321",
-    "description": "Your success at B'naar has given us a great deal of hope, <name>.We've shared our discoveries with the Scryers and in return they've given us more information on the remaining manaforges.Three other manaforges still stand, in full control of the Sunfury army.You will find Manaforge Coruu to the east.  Overseer Seylanna holds the access crystal there.  Obtain it and use it on the manaforge's control console to begin the emergency shutdown.We're all counting on you, <name>.",
-    "name": "Shutting Down Manaforge Coruu",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

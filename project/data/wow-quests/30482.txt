@@ -1,8 +1,0 @@
-{
-    "_id": "30482",
-    "added_in_patch": 5,
-    "description": "A single large mogu performing a ritual on the lake caught your attention while you were killing the other mogu in the area. It seems unwise to let his ritual complete.",
-    "name": "The Soul-Gatherer",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

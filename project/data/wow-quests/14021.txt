@@ -1,8 +1,0 @@
-{
-    "_id": "14021",
-    "description": "Smart mining monkeys!They're all over the inside of the cavern, mining... with picks! It's just not natural and I'm sure it's because of the kaja'mite!None of my miners have come back out. I don't have many left! You can see my predicament, <name>.<The foreman lowers his voice.>These guys are nowhere near as good as my old group of jungle trolls. Ah, those were the days.Maybe you can escort my last miner here through the cavern and keep those monkeys off of him? We need that kaja'mite!",
-    "name": "Miner Troubles",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

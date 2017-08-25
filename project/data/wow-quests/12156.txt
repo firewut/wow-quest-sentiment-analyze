@@ -1,7 +1,0 @@
-{
-    "_id": "12156",
-    "description": "I was meant to set off for Silverbrook, northwest of here, about an hour ago.  My military escort appears to be running late.I'll be damned if this diplomatic mission gets sidetracked because some new recruit overslept.We're negotiating a deal with the locals and timeliness is essential.  What do you say?  If you come with me, you'll be well compensated for your troubles.",
-    "name": "DEPRECAED",
-    "requires_level": 72,
-    "zone": "Borean Tundra"
-}

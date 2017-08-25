@@ -1,7 +1,0 @@
-{
-    "_id": "27990",
-    "description": "It vould appear zhat anozher opportunity has arisen for you to redeem yourself, <race>.Zhis little emergency has set me back a few tank gunnahs.You zhink you have vhat it takes to fill in for vone of zhem?My tanks are just vest of zhe camp. Get out zhere and put an end to zhis silliness!",
-    "name": "Battlezone",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

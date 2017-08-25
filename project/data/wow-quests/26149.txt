@@ -1,7 +1,0 @@
-{
-    "_id": "26149",
-    "description": "The Twilight cultist dropped this key. Use it to free the Horde prisoners in the cages inside of L'ghorek.Hurry before the prisoners become sacrifices to whatever lurks below!",
-    "name": "Prisoners",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

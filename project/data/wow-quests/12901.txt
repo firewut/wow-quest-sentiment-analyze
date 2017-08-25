@@ -1,7 +1,0 @@
-{
-    "_id": "12901",
-    "description": "Prince Navarius must be stopped. We can't let the Scourge continue to use this area as a zombie factory. If we can get the tank operational we might stand a chance. What I need right now are spare parts.Northwest of here is an area called Thrym's End. The Scourge armies are using the area as a base of sorts. Spread out across the base is the wreckage from their arrival. Bits and pieces of Scourge scrap metal litter the landscape. Get that stuff to me and I'll try and put it to good use.",
-    "name": "Making Something Out Of Nothing",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42986",
-    "added_in_patch": 7,
-    "description": "Windlord Thunderaan has retaken the Vortex Pinnacle, but not all of his subjects have taken to his leadership kindly.In his kingdom there is still unrest, and it appears there are four viziers who have risen up against him: Mistius, Zeph, Alacris, and Tulmos.We will let Thunderaan focus on the war against the Burning Legion while we send our champions to aid Skywall against its enemies.",
-    "name": "Enemies of Air",
-    "requires_level": 103,
-    "zone": "Shaman Campaign"
-}

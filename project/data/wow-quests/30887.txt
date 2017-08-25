@@ -1,8 +1,0 @@
-{
-    "_id": "30887",
-    "added_in_patch": 5,
-    "description": "Those are mantid scouts down there. Gao-Ran's Battlefront is meant to keep them out of eastern Townlong Steppes. If we allow them north of the barricade, we may lose our foothold here.Let's clear them out. I'll be with you.",
-    "name": "Unwelcome Intruders",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

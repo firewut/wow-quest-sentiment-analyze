@@ -1,8 +1,0 @@
-{
-    "_id": "43101",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Witchdoctor Grgl-Brgl",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

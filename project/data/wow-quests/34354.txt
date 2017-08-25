@@ -1,7 +1,0 @@
-{
-    "_id": "34354",
-    "description": "These fools have no honor.They seem to enjoy torturing these poor beasts. The only humane thing we can do at this point is find injured rylaks and put them out of their misery.Take this axe and aim for their vitals, <name>.  These rylaks deserve a good death.",
-    "name": "A Good Death",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

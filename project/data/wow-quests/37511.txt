@@ -1,8 +1,0 @@
-{
-    "_id": "37511",
-    "added_in_patch": 6,
-    "description": "I'm in a pretty good spot as far as artifacts go.We have a couple other society members out in the field. I'd go look for them, but it seems like a bad idea from a health perspective.You don't seem to have a problem with pain, think you could find Dizzy?",
-    "name": "Dizzy Sparkshift",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

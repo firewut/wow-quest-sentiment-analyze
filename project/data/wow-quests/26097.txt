@@ -1,7 +1,0 @@
-{
-    "_id": "26097",
-    "description": "At the heart of Battlescar Valley stands an ancient tree - a tree that has withstood the force of ages and has served as a place of peace and learning for generations. My kin have studied druidism at the grove, alongside the night elves, for as long as I can recall. Now I am to believe that the tree holds within it an Alliance weapon of mass destruction?Krom'gar is wrong and I will prove it!I have sent my son, Orthus, to Thal'darah Grove in search of this weapon. Go there now and meet him.",
-    "name": "Proof of Lies",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

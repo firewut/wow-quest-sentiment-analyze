@@ -1,8 +1,0 @@
-{
-    "_id": "29926",
-    "added_in_patch": 5,
-    "description": "You ever seen a shale spider, <class>? Usually harmless, just creepin' around eatin' rocks, but they got a taste for jade like cubs on candy. The boys call 'em \"nibblers.\"A few days back, we tunneled into a huge nest of these critters. They spilled out into the mines and went crazy, chewed up damn near everything in sight - including some of the boys.You get in there and clear 'em out, and we got plenty of jade to spare. The quarry is directly west of here.",
-    "name": "Calamity Jade",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

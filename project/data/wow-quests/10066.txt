@@ -1,7 +1,0 @@
-{
-    "_id": "10066",
-    "description": "We don't dare abandon our post, or wander too far from Vindicator's Rest, <race>. The mutated creatures closest to the Vector Coil have been changed profoundly by energy leaking from the crystals.The mutated tanglers appear to have gained a certain degree of sentience. They've learned to create, set, and conceal vicious traps that can ensnare even the most careful warrior.We'll never be able to move against the Sunhawks if we're constantly forced to look underfoot. Attack the problem at its source, <name>.",
-    "name": "Oh, the Tangled Webs They Weave",
-    "requires_level": 16,
-    "zone": "Bloodmyst Isle"
-}

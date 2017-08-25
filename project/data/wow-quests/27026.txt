@@ -1,8 +1,0 @@
-{
-    "_id": "27026",
-    "description": "Stop everything! It's come to my attention that there's been bobcat sightings near the lodge. Bobcats!Now mind you, I've never seen a bobcat, but they're surely dangerous. They're like mountain lions or something. I don't want anyone leaving until the area is secure!Anyone but you, that is. I'll pay you to help secure the area, <class>. But don't get your face ripped off.",
-    "name": "Defcon: Bobcat",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33498",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Bladespire Chef",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

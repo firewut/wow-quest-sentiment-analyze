@@ -1,8 +1,0 @@
-{
-    "_id": "30290",
-    "added_in_patch": 5,
-    "description": "Mogu stone dog creatures chasing villagers and hurting them. Rook try to smash some, but they too fast.You help smash some too?",
-    "name": "Stonebound Killers",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

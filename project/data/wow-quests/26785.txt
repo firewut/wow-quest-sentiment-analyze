@@ -1,7 +1,0 @@
-{
-    "_id": "26785",
-    "description": "I've been trying to keep my true self hidden away from the people of Darkshire... they seem to react poorly to worgen. There are more of us here, though, beyond the city.The companions I first traveled here with search the woods for wild worgen. They believe some of them, ones with telltale signs, can still be returned to sanity.I'm not quite ready to rejoin them. Please send word to Apprentice Fess at the crossroads west of town that I'll be staying in Darkshire a while longer.",
-    "name": "Part of the Pack",
-    "requires_level": 21,
-    "zone": "Duskwood"
-}

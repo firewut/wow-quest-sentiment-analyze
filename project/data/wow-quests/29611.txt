@@ -1,9 +1,0 @@
-{
-    "_id": "29611",
-    "added_in_patch": 5,
-    "description": "Lok'tar ogar, <race>. I am Nazgrim.You are hereby ordered to present yourself at Grommash Hold immediately.All in service to the Horde are to swear an oath of allegiance to their new Warchief.Do not keep him waiting, <race>.",
-    "name": "The Art of War",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39316",
-    "added_in_patch": 7,
-    "description": "The drogbar just rounded up those of us that they could and led them to a cave near here.\r\n\r\nIf you act quickly, I think they can still be saved. I know not what purpose they have for capturing our people.\r\n\r\nI shudder to think of it... in the deep places, the darkness rules.",
-    "name": "Trapped Tauren",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

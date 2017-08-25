@@ -1,8 +1,0 @@
-{
-    "_id": "25543",
-    "description": "The fires are dealt with, but there are still Southsea pirates getting ready to board the Speedbarge.Time to switch to the other side cannon and sink them before it's too late!",
-    "name": "Circle the Wagons... er, Boats",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

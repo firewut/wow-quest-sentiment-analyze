@@ -1,8 +1,0 @@
-{
-    "_id": "41536",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Pungent Fjarnskaggl",
-    "requires_level": 110,
-    "zone": "Herbalism"
-}

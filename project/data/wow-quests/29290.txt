@@ -1,7 +1,0 @@
-{
-    "_id": "29290",
-    "description": "Look at that! It's incredible! Born less than two days ago and already full grown. Sadly, I suspect their life cycle is similarly short, so we'll have to take advantage of any time we have.His training went remarkably well. I want you to be the one to take him out and unleash him on the bulk of the enemy forces gathered near Ragnaros' keep.Show no mercy, <race>.",
-    "name": "Fire in the Skies",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

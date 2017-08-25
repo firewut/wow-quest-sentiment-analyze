@@ -1,8 +1,0 @@
-{
-    "_id": "42145",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Out of the Woodwork",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

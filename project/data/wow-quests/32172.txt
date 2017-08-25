@@ -1,8 +1,0 @@
-{
-    "_id": "32172",
-    "added_in_patch": 5.1,
-    "description": "The crab has fallen.",
-    "name": "A Colossal Victory",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

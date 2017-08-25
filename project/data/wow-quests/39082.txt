@@ -1,9 +1,0 @@
-{
-    "_id": "39082",
-    "added_in_patch": 6.2,
-    "description": "Now that the shipyard is complete, we need to get busy making ships!  Solog ran off to the dry docks, why don't you meet him down there?  He said he had a plan.",
-    "name": "Let's Get To Work",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

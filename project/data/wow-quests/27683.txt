@@ -1,7 +1,0 @@
-{
-    "_id": "27683",
-    "description": "I saw the strangest commotion coming through town the other day.  A horse-drawn cart, loaded with crates and chests, a worgen woman at the reins, a blood elf by her side, and a dwarven paladin running behind, yelling some of the most creative obscenities I've heard in quite some time.They looked like they were headed to Eastern Plaguelands, though I'd imagine they can't be far past the Thondroril River by now.  I wonder what they were up to?",
-    "name": "Into the Woods",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

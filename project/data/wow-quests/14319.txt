@@ -1,7 +1,0 @@
-{
-    "_id": "14319",
-    "description": "Listen, <name>.  I'm not going to beat around the bush.There's a good chance the potion Krennan made for you wasn't a complete success.  Or perhaps you need more of it.Either way, he's probably better equipped to advise you than I am.  Go see him.",
-    "name": "Further Treatment",
-    "requires_level": 5,
-    "zone": "Gilneas"
-}

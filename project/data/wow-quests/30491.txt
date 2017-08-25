@@ -1,8 +1,0 @@
-{
-    "_id": "30491",
-    "added_in_patch": 5,
-    "description": "Look, my father is crazy. I love him, but he's crazy.These yaungol managed to completely obliterate our ranch and scattered our yaks every which way.If I know my father though, he's going to try to go head to head with the yaungol to get the yaks back.Can you help us round up some of the yaks so my father doesn't do anything stupid?Just ride them over to the Yak Wash so we can clean them up and sell them to the grummles.",
-    "name": "At the Yak Wash",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36056",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Sealing Fate: Garrison Resources",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

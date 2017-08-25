@@ -1,7 +1,0 @@
-{
-    "_id": "13274",
-    "description": "Prospector Soren's notes say that Norgannon's Core is in the keeping of a sentinel named Athan, one of Mimir's creations.Soren says the vault where Athan resides is called \"Loken's Bargain\" these days.Loken, eh? The earthen have mentioned him.The vault is said to be southwest of the ruined Explorers' League camp, with a round entrance on a mountainside overlooking the Valley of Ancient Winters.Find this Athan and get the core from him, but I wouldn't be surprised if you were in for a fight.",
-    "name": "The Core's Keeper",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

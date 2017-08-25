@@ -1,8 +1,0 @@
-{
-    "_id": "39670",
-    "added_in_patch": 7,
-    "description": "The howlers in these hills travel in packs. Three against one isn't a fight I want to pick.\r\n\r\nLuckily those wolves are no match for my engineering skills! I just put the finishing touches on the prototype of a device that will help scatter the pack. All I need now is some ammo...\r\n\r\nSnatch me some rabbits from the meadow south of here, and I'll let you be the first to try out the hand cannon.",
-    "name": "Critter Scatter Shot",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

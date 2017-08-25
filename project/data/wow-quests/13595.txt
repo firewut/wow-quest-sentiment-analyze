@@ -1,7 +1,0 @@
-{
-    "_id": "13595",
-    "description": "These creatures... these so-called Horde... they have cut me down in my prime and they are harvesting my hair for their evil plans.Will you help me to put an end to it, little <race>?I have overheard their herbalists speaking of something called wildfire upon their table across the way. If you were to take the bottle of this unnatural stuff and throw it at my corpse to the northeast, it would burn and no more of my hair will grow here.I am already dead and it is a small price to pay to stop them.",
-    "name": "Of Their Own Design",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

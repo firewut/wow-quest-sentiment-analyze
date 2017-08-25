@@ -1,7 +1,0 @@
-{
-    "_id": "25525",
-    "description": "Here they come, <name>! The Twilight Knight Riders, astride black buzzards birthed in the scorching sulfurous breeding pools of the Firelands. The only way to defeat them is from the sky!Take wing once more, <class>, and slay them.Run into enemy riders with your lance to destroy them.Go forth. Fly, fool. Fly!",
-    "name": "Wave One",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

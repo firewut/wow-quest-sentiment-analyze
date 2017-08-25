@@ -1,8 +1,0 @@
-{
-    "_id": "31046",
-    "added_in_patch": 5,
-    "description": "I have seen the cruel experiments that the Shan'ze are performing on their island to the northwest.The Shan'ze raise baby serpents from the egg. They keep the young in tiny cages, surrounded by squalor and filth.The cruelest gaolers starve and torture them.We must save as many hatchlings as we can. You have my full permission to punish any mogu that gets in your way!",
-    "name": "Little Hatchlings",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

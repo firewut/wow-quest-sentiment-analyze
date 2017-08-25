@@ -1,7 +1,0 @@
-{
-    "_id": "8314",
-    "description": "We're on the verge of a breakthrough, <name>! The rubbings you recovered have allowed us to recreate the glyphs on this crystalline prism. They are apparently a means for the Qiraji and other unknown entities to communicate various messages to the silithid.Unfortunately, that is all we could get out of the glyphs. We need to find a way to unlock the messages hidden within the crystals.Take the glyphed crystal prism to Geologist Larksbane at Cenarion Hold.  She might be able to help.",
-    "name": "Unraveling the Mystery",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

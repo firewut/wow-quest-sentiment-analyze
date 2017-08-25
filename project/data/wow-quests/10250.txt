@@ -1,8 +1,0 @@
-{
-    "_id": "10250",
-    "description": "East of here is an old destroyed Alliance siege tower.  Now scavengers loot it for old nails and bits of scrap.  Long ago, many Alliance warriors lost their lives at this tower and their banner was captured by Urtrak, a foul orc commander.Blow the Unyielding battle horn near the Alliance banner.  This will get the attention of Urtrak.  It may also summon forth warriors who fell in battle long ago.",
-    "name": "Bloody Vengeance",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

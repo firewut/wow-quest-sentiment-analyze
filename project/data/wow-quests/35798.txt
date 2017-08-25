@@ -1,8 +1,0 @@
-{
-    "_id": "35798",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Glowing Cave Blossom",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

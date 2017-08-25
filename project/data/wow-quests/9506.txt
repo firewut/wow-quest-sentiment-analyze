@@ -1,7 +1,0 @@
-{
-    "_id": "9506",
-    "description": "I am Admiral Odesyus of Alliance Naval Command. Our ship was forced to port on your island due to an infestation of sorts. It's embarrassing to even talk about, but goblins somehow managed to stow away in the holds of both of my ships.Last night, while most of the ship's crew was asleep below deck, they struck!Stranger still, they took our navigation gear and jumped ship!They disappeared into the thicket, east of here. Will you go in search of our gear? It will make for a strong gesture.",
-    "name": "A Small Start",
-    "requires_level": 5,
-    "zone": "Azuremyst Isle"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36155",
-    "added_in_patch": 6,
-    "description": "[PH] FIND TIMBER",
-    "name": "[PH] Lumber Mill Rank 03",
-    "requires_level": 90,
-    "zone": "Quests"
-}

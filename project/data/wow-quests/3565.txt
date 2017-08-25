@@ -1,7 +1,0 @@
-{
-    "_id": "3565",
-    "description": "What is it? Oh yes, your payment. Of course.Take this and be off with you. I'm sure Jediga is awaiting oh so patiently for your return.",
-    "name": "Xylem's Payment to Jediga",
-    "requires_level": 45,
-    "zone": "Azshara"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27519",
-    "description": "No... it cannot be.Orsis is all but buried beneath the desert sands.The enemy will pay for this.But first we must aid my people.  Quick, <name>.  We do not have much time before the last of my brethren are buried alive!",
-    "name": "Under the Choking Sands",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

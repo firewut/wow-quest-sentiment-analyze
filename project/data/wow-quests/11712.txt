@@ -1,8 +1,0 @@
-{
-    "_id": "11712",
-    "description": "If you listened to the old man, then you know that we have gnomes out there that were changed. Gearmaster Mechazod infected them with something that reversed the \"Curse of the Flesh\", and now they're robots!We think we have a way to re-curse them back to normal. We want you to take this re-cursive transmatter injection and use it on the corpses of any mechagnomes you come across.We're hoping that this stuff will cure them and allow us to lock onto them to port 'em out of there.Whaddya say, <name>?",
-    "name": "Re-Cursive",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

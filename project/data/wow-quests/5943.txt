@@ -1,7 +1,0 @@
-{
-    "_id": "5943",
-    "description": "You look like a capable <race>. Perhaps you're looking to make some money? Cork and I started this caravan to make a bundle of money; little did we know the dangers of turning a buck!Up ahead is Mannoroc Coven... normally the demons ignore us but something has the kodos spooked this time. I'll pay you to protect the caravan past Mannoroc Coven. Once we are safely past you can receive your reward from our business associate Smeed at Scrabblescrew's Camp.",
-    "name": "Gizelton Caravan",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

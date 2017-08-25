@@ -1,7 +1,0 @@
-{
-    "_id": "29276",
-    "description": "The Widow's Clutch, to the northeast, is named after Beth'tilac, the enormous queen of the flame spiders. Her webs and her poison are a nagging threat to our main offensive force.We believe that if we study the flame spiders here on the Molten Front, we can use that information to find success against Beth'tilac. Use whatever methods you can to gather their venom and their web fluid, then return to my trusted friend Anren.",
-    "name": "The Flame Spider Queen",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "41724",
-    "added_in_patch": 7,
-    "description": "I know only that my husband is somewhere deeper in this twisted forest. He is still alive, but it remains to be seen if he is whole.\r\n\r\n<Tyrande's expression hardens into a scowl.>\r\n\r\nElune herself cannot protect Xavius if he is not.",
-    "name": "Heart of the Nightmare",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Val'sharah"
-}

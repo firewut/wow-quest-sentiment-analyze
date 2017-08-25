@@ -1,8 +1,0 @@
-{
-    "_id": "33252",
-    "added_in_patch": 5.4,
-    "description": "",
-    "name": "A Winter Veil Gift",
-    "requires_level": 10,
-    "zone": "Quests"
-}

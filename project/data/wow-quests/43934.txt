@@ -1,8 +1,0 @@
-{
-    "_id": "43934",
-    "added_in_patch": 7,
-    "description": "Highlord <name>, if I could have a moment of your time?Long have I followed the path of the Light, and for many years I studied under the Priestesses of the Moon. Yet, I have always felt my education incomplete, and a yearning to know more.When I walked into these halls, I finally felt a spark of what was missing. I believe that a new path lies before me.I wish to become a paladin of the Silver Hand. Will you allow me to join you?",
-    "name": "A New Path",
-    "requires_level": 110,
-    "zone": "Paladin Campaign"
-}

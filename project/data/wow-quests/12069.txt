@@ -1,8 +1,0 @@
-{
-    "_id": "12069",
-    "description": "<Banthok hands you the prison key.>You must hurry, <name>. Take the key and use it to unchain my father from the Anub'ar prison. Once he is freed, assist him in destroying the Anub'ar leader, Under-king Anub'et'kan. When the Under-king is defeated, take from his chitinous carapace a fragment as a trophy to present to the Horde at Agmar's Hammer. Let Agmar see the might of the High Chief!",
-    "name": "Return of the High Chief",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

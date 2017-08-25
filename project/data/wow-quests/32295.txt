@@ -1,8 +1,0 @@
-{
-    "_id": "32295",
-    "added_in_patch": 5.1,
-    "description": "The tome appears to be written in an ornate, sprawling script that seems to rise off the pages. It vaguely resembles Demonic, but the symbols are far more elaborate than any you've ever seen.Perhaps one of your demonic companions can tell you more.",
-    "name": "An Unusual Tome",
-    "requires_level": 90,
-    "zone": "Warlock"
-}

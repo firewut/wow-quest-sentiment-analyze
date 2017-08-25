@@ -1,8 +1,0 @@
-{
-    "_id": "35381",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Shadowmoon Treasure 05",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33429",
-    "added_in_patch": 6,
-    "description": "For this challenge: run through the arch, then get to the blue marker, the green marker, and finally return here before the bell tolls 25 times.",
-    "name": "Elwynn Long Distance Trial: 25",
-    "requires_level": 1,
-    "zone": "Elwynn Forest"
-}

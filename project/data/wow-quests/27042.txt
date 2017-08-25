@@ -1,7 +1,0 @@
-{
-    "_id": "27042",
-    "description": "Did ye hear the blatherin' idiot while ye were up there? That's none other than Haethen Kaul, their leader.The man's gone daft with power. He's pullin' it straight from them bound elementals, makin' him nigh invincible.The only thing I can think of to get ye into proper shape fer a fight with him is fer ye to first kill all o' them elementals, gettin' their wards. That should protect ye from Haethen's spells.Well, most o' them anyway.",
-    "name": "Fight Fire and Water and Air with...",
-    "requires_level": 83,
-    "zone": "Deepholm"
-}

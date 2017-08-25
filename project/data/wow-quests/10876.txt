@@ -1,8 +1,0 @@
-{
-    "_id": "10876",
-    "description": "Force-Commander Gorax is training Shattered Hand captains at the base of Hellfire Citadel, honing them to a bloody razor's edge.  You must kill him, <name>, for his loss would be a mighty blow to the fel orcs.However, that is not all you must do.Take this banner.  Place it atop Gorax's corpse.  Gorax's commander, the Hand of Kargath, must answer your challenge if he has even a drop of true orc blood within him!His head, the head of the hand of Kargath, is what I seek.",
-    "name": "The Foot of the Citadel",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

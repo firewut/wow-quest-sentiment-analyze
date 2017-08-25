@@ -1,8 +1,0 @@
-{
-    "_id": "30787",
-    "added_in_patch": 5,
-    "description": "Until recently, the yaungol shaman would come here to work alongside us. Now, they bend my people to their will.If we refuse, they kill us. Even if we oblige... they kill us.The yaungol mist-shaman's magic flows through his torch. Take his torch away, and he has nothing.",
-    "name": "The Torches",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

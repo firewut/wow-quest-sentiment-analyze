@@ -1,8 +1,0 @@
-{
-    "_id": "11270",
-    "description": "We're slowly finishing off the remnants of Stormwind's North Fleet stationed on this coast.  The bodies to the west are a testament to how brutal this confrontation has been.This does not happen to bother my refined aesthetics, but it does present a danger to our lives.In the lands of the Lich King, the dead are a weapon that can rise against us at any point in time.  Take this torch - you're going to make sure that doesn't happen.",
-    "name": "War is Hell",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Howling Fjord"
-}

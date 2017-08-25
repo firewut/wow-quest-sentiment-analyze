@@ -1,9 +1,0 @@
-{
-    "_id": "35843",
-    "added_in_patch": 6,
-    "description": "Ya timin' be good, commanda.I sent one a ma shadow huntas deep inta da land 'a da enemy.He reports dat da warlords be plannin' ta meet in secret at Mok'gol Watchpost.Dis be our chance ta learn what Hellscream be up to.Go now, and meet wit Zasta. He will tell ya what to do next.",
-    "name": "Garrison Campaign: Deep Recon",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

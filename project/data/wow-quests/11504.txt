@@ -1,7 +1,0 @@
-{
-    "_id": "11504",
-    "description": "The path east of us is a primary hunting trail of the tuskarr. At least that's what it used to be...More recently our hunters have been returning to Kamagua claiming that the dead have risen and are out for blood! That is what has brought my son and me here. Elder Atuik asks that we find resolution in the bluffs.Will you assist us in our time of need? I seek heroes willing to brave the perils of Shield Hill, southeast of here. Search the desecrated graves for clues and return your findings to me.",
-    "name": "The Dead Rise!",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

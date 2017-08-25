@@ -1,8 +1,0 @@
-{
-    "_id": "40657",
-    "added_in_patch": 7,
-    "description": "An early step to understanding how magic works is to understand and study materials made using that magic. That was how I made my breakthrough on warlock soul crystals, after all. The wyrmtongue minions in this pit hammer plates into their structures for support and maintenance. Those will be a good starting point. Fetch me some, my faithful assistant!",
-    "name": "The Road to Fel",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

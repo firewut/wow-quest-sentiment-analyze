@@ -1,8 +1,0 @@
-{
-    "_id": "14091",
-    "description": "The lieutenant appears to have died from severe wounds.  The prince might want to hear this news.You hear the sound of fighting coming from the market.",
-    "name": "Something's Amiss",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas City"
-}

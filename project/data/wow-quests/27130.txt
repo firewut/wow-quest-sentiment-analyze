@@ -1,7 +1,0 @@
-{
-    "_id": "27130",
-    "description": "Just inside the eastern wing of Dire Maul one of the warpwood ancients, Furgus Warpwood, still lives uncorrupted. You must travel there and help him drive out the terrible creatures that have taken it as their own before they set their sights on Camp Mojache. Perhaps we can even enlist his aid afterward to ensure we maintain our presence in Feralas with enemies on so many sides.",
-    "name": "Saving Warpwood",
-    "requires_level": 38,
-    "zone": "Dire Maul"
-}

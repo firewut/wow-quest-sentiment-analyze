@@ -1,7 +1,0 @@
-{
-    "_id": "13831",
-    "description": "A crude, hastily-assembled apothecary's workbench stands here, heaped with scrawled notes and noxious brews. It looks as though the Forsaken have also been studying Foulhoof's handiwork. You grab the most important-looking notes and prepare to smash the laboratory before notifying Treetender of your discovery.",
-    "name": "A Troubling Prescription",
-    "requires_level": 8,
-    "zone": "Darkshore"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11357",
-    "description": "For Hallow's End, orc orphans were taken on a trip to many Horde villages.  The orphan matrons thought it would be good for them to see real heroes adventuring in the field.Why don't you visit them?  A brave <class> like yourself could strengthen their spirits with tales of your valor!  Go to either Razor Hill in Durotar, Brill in Tirisfal Glades or Falconwing Square in Eversong Woods.  Speak with the masked orphan matron and she'll introduce you to the children.",
-    "name": "Masked Orphan Matron",
-    "requires_level": 1,
-    "zone": "Hallow's End"
-}

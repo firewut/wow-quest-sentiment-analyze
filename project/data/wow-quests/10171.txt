@@ -1,7 +1,0 @@
-{
-    "_id": "10171",
-    "description": "You have done so much for the Mag'har, <name>. Your accomplishments are known to all, including Garrosh. Go to him now and tell him of your latest victory. Tell him that you do what you do for him and his people. Surely he will be lifted by your words.",
-    "name": "The Inconsolable Chieftain",
-    "requires_level": 66,
-    "zone": "Nagrand (Outland)"
-}

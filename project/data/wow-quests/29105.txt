@@ -1,7 +1,0 @@
-{
-    "_id": "29105",
-    "description": "Great, just what we need, the Gurubashi on the rampage using serpents to lead the charge.  Well at least we know that much.It's probably a safe bet that the hunters at Nesingwary's Expedition have some insight into this.  If they don't they at least know how to fight the serpents.Head there and let them know what you saw here.  Let them know that the trolls are using serpents as their weapon.",
-    "name": "Nesingwary Will Know",
-    "requires_level": 85,
-    "zone": "Northern Stranglethorn"
-}

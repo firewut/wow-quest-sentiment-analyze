@@ -1,8 +1,0 @@
-{
-    "_id": "9781",
-    "description": "On my last hunting trip, I caught sight of a new outpost being built by a group of trolls. No doubt they've begun hunting these lands, too.If they establish a permanent presence out here, the competition for food will be fierce. We cannot take direct action against them without provocation, but we can remove some of the natural competition for food.For each mire hydra you kill, that's three fewer mouths to feed!",
-    "name": "Too Many Mouths to Feed",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Zangarmarsh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11615",
-    "description": "You skim through the pages of the book, looking for anything of importance. On the last page you discover what appears to be frantic scribbling:Necrolords. At least a dozen by my count.Farms to west being used as some sort of horrible spawning glade for Scourge.Row upon row of victims.I think they're on to me. Made a dash for the hold. I won't be captured alive.Dreadvenom hemotoxin. If they decide to bite into me, they'll be in for a surprise.Take this information back to Barthus.",
-    "name": "Nerub'ar Secrets",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

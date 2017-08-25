@@ -1,8 +1,0 @@
-{
-    "_id": "42491",
-    "added_in_patch": 7,
-    "description": "Beneath Suramar City is an ancient network of tunnels known as the Arcway.\r\n\r\nThey were abandoned some time ago as part of the cavern became unstable. Since then, who knows?\r\n\r\nRegardless of what is currently down there, I believe you will find something essential to our continued success.\r\n\r\nLong ago my people took a thorough survey of the ley lines in and around Suramar. This they would have stored in the library in the Arcway. \r\n\r\nFind this map for me.",
-    "name": "Long Buried Knowledge",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

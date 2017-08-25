@@ -1,9 +1,0 @@
-{
-    "_id": "35985",
-    "added_in_patch": 6,
-    "description": "Hey there! You're the commander of this keep, right? I represent the Steamwheedle Preservation Society.We've been trying to get a very important excavation up and running in Nagrand. Unfortunately, we've had trouble with ogres in the area.In fact, one of our best preservationists recently went missing while surveying the area. He's the third society member we've lost up there this week!We aren't really equipped for a rescue mission... so whad'ya say? We could really use the help.",
-    "name": "Garrison Campaign: The Broken Precipice",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

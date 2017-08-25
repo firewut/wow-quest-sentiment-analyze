@@ -1,7 +1,0 @@
-{
-    "_id": "13217",
-    "description": "You've been successful up to this point, <name>, but what you must face to continue to battle within Valhalas is a gigantic horror beyond imagining.I must warn you to turn away now. Carnage is a mountain of flesh constructed by the Lich King's most fiendish minds.I do not see how you and your friends will defeat it. However, the choice is yours.",
-    "name": "Battle at Valhalas: Carnage!",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

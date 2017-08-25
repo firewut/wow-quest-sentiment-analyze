@@ -1,9 +1,0 @@
-{
-    "_id": "36917",
-    "added_in_patch": 6,
-    "description": "The next beast is one of the fastest in Draenor, but will test your skills at infiltrating into enemy territory.The young talbuk can be found on the flowery hills of Shadowmoon Valley. Take this talbuk lasso and head out.When you encounter one, mount up and throw this rope, then follow it until it is tamed. Good hunting!",
-    "name": "Taming a Talbuk",
-    "requires_level": 91,
-    "side": "horde",
-    "zone": "Shadowmoon Valley"
-}

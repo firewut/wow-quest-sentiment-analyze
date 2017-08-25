@@ -1,9 +1,0 @@
-{
-    "_id": "37094",
-    "added_in_patch": 6,
-    "description": "We shall start training the talbuk here, on the icy plains of Frostfire Ridge. We must train it rigorously, or else it may become afraid at the sight of combat, and run.Find the great blood-sucker, Rakkiri, out on the frozen plains, and bring him down astride your talbuk. That will give it a taste for combat.",
-    "name": "Talbuk Training: Rakkiri",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

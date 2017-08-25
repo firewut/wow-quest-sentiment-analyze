@@ -1,8 +1,0 @@
-{
-    "_id": "31629",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Scarlet Monastery Challenge Mode - Consolation (Nth)",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43250",
-    "added_in_patch": 7,
-    "description": "The Ravencourt of Black Rook Hold is where we begin our search. It is the ancestral home of Lord Kur'talos Ravencrest, night elven hero of the War of the Ancients. Some of my own ancient ancestors are interred in its cemetery.\r\n\r\nMeet me there and make sure that you are not followed. SI:7 is very good at what they do. We have to be better.",
-    "name": "Off to Court",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25669",
-    "description": "Prepare yourself, <name>! The Warlord comes! Kill him and take his key. Use the key to release me.Should we make it out of here, report the following to Lord Fallowmere at Windshear Hold:The Horde has aborted their plans to destroy Windshear Hold due to the efforts of one of our heroes. They now plan to move the bomb to Battlescar Valley and drop it on our armies battling the Horde at that location.They must be stopped!",
-    "name": "Rumble in the Lumber... Mill",
-    "requires_level": 25,
-    "zone": "Stonetalon Mountains"
-}

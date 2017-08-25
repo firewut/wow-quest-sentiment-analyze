@@ -1,8 +1,0 @@
-{
-    "_id": "38672",
-    "added_in_patch": 7,
-    "description": "We cannot fight our way out of the Vault alone.\r\n\r\nTwo of your allies, Kayn Sunfury and Altruis the Sufferer, are imprisoned within this room. \r\n\r\nFree them with haste. Their strength will be of great use to us.",
-    "name": "Breaking Out",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

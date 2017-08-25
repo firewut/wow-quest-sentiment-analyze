@@ -1,8 +1,0 @@
-{
-    "_id": "10868",
-    "description": "The arakkoa have attacked us again, this time striking in the night and then using their dark magic to escape before we could charge out to meet them in numbers.  They use their summoning circles to rescue their warriors from certain death but they cannot run from us if we attack their homes.  Veil Reskk and Veil Shienor lie to the north and northeast.  Find these arakkoa nests and kill as many as you can.",
-    "name": "Arakkoa War Path",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Terokkar Forest"
-}

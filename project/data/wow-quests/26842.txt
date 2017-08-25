@@ -1,8 +1,0 @@
-{
-    "_id": "26842",
-    "description": "Well met, <class>. We've got a problem, and I'd ask you to lend a hand.It's gnolls. There's a mess of the things west of town, roaming the hills. Not usually any cause for alarm, but we've not usually had gnolls here in Loch Modan.I'm curious where they came from, but not curious enough to bother asking the mangy things. Clear 'em out, I say. Bring back proof of your kills and I'll pay a solid bounty.",
-    "name": "Out of Gnoll-where",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

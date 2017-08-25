@@ -1,7 +1,0 @@
-{
-    "_id": "7425",
-    "description": "",
-    "name": "Staghelm's Mojo Jamboree",
-    "requires_level": 200,
-    "zone": "Alterac Valley"
-}

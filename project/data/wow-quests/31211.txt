@@ -1,8 +1,0 @@
-{
-    "_id": "31211",
-    "added_in_patch": 5,
-    "description": "Before we return to Klaxxi'vess, I wish to look upon the empire.The Klaxxi Council told me that the enemy gathers outside the Empress's palace.My poisons are ready. What better way to announce my return than with death and destruction?Just be careful not to mix the two serums... at least not while you're holding the vessels.Speak to me when you are ready to fly.",
-    "name": "The Poisoned Mind",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

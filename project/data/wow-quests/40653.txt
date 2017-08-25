@@ -1,8 +1,0 @@
-{
-    "_id": "40653",
-    "added_in_patch": 7,
-    "description": "The Burning Legion threatens the life of Azeroth, but the nightmare threatens its very soul. We must remove both threats if our world is to survive.This map will allow us to track the developments all across the Broken Isles and respond to threats as they arise. Our forces are limited for now, so we should focus our efforts where they will be the most effective.Once you've taken a look, you should choose where we shall begin.",
-    "name": "Making Trails",
-    "requires_level": 98,
-    "zone": "Druid Campaign"
-}

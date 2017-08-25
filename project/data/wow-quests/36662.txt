@@ -1,9 +1,0 @@
-{
-    "_id": "36662",
-    "added_in_patch": 6,
-    "description": "Ever since we built da menagerie, a lot o' \"visitors\" been showin' up.  I know da look, and they be lookin' for a fight.  Brudda, you show 'em you da real master 'round here.",
-    "name": "Scrappin'",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Battle Pets"
-}

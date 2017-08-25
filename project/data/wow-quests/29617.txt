@@ -1,8 +1,0 @@
-{
-    "_id": "29617",
-    "added_in_patch": 5,
-    "description": "People come from all over Pandaria to train at the Tian Monastery, just to the north of here. Probably because they never turn anybody down. They'll accept jinyu, hozen... or even a foreign <race> like you!My childhood friend, Lin, just joined the monastery's order a few weeks ago. If you're interested in learning how our monks train, maybe you should go talk with her!",
-    "name": "Tian Monastery",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

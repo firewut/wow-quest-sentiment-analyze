@@ -1,7 +1,0 @@
-{
-    "_id": "28605",
-    "description": "<Melisara's thoughts intermingle with your thoughts.>The last task will be an assault against the siege technicians of Gavin's Naze, located west of the Headland. Venture to the final finger and lay waste to the dwarf and gnome engineers that build and fortify the Stormpike machines of war. Be sure to plant Cromush's final pocket-nuke as well.",
-    "name": "Domination",
-    "requires_level": 21,
-    "zone": "Hillsbrad Foothills"
-}

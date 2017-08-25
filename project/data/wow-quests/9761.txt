@@ -1,7 +1,0 @@
-{
-    "_id": "9761",
-    "description": "Only the most battle hardened, noble and positively fearless will submit to Legoso's mission. The exarch will not order any agent of the Hand to take on the task of destroying the Vector Coil and dispatching Sironas. He refuses to send any draenei to their death - which is what the mission is: suicide...<Corin sighs.>My job is to soften up the Sunhawk defenses. You are to slay Sunhawks near the Vector Coil and keep the path clear for our champion - whoever that may be.",
-    "name": "Clearing the Way",
-    "requires_level": 18,
-    "zone": "Bloodmyst Isle"
-}

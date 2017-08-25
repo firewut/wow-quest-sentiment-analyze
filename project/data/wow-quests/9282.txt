@@ -1,7 +1,0 @@
-{
-    "_id": "9282",
-    "description": "Magisters and Farstriders may not see eye to eye all the time, <name>.  When it comes to Dar'Khan, however, we're all in agreement that a way must be found to defeat him and his legions.Ranger Vynna, at the Farstrider Enclave northeast of here, has come across important information regarding our enemy.  Speak to her and see if you can be of assistance.  ",
-    "name": "The Farstrider Enclave",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

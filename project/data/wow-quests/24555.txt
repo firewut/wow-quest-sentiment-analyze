@@ -1,7 +1,0 @@
-{
-    "_id": "24555",
-    "description": "There's no mistaking it - this hilt comes from a powerful, ancient weapon, but which one? I do not recognize these particular markings, but we haven't hit a dead end yet.Korialstrasz, better known as Krasus, has long been a friend to the quel'dorei and the Kirin Tor. With his vast knowledge and resources, he's certain to know something. Travel to the top of Wyrmrest Temple and seek his counsel, then report to Magister Hathorel inside Sunreaver's Sanctuary in Dalaran.",
-    "name": "What The Dragons Know",
-    "requires_level": 80,
-    "zone": "Icecrown"
-}

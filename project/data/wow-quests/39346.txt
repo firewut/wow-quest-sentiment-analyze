@@ -1,8 +1,0 @@
-{
-    "_id": "39346",
-    "added_in_patch": 7,
-    "description": "Now that you have the burettes calibrated, it's time to test it out! The only way to be sure is by crafting a sufficient quality of a variety of potions.Glamorous work? No, but the most important reagent in alchemy is a bit of elbow grease!",
-    "name": "Testing the Calibration",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

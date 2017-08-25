@@ -1,7 +1,0 @@
-{
-    "_id": "29615",
-    "description": "The Steamvault is the heart of the naga's efforts to pump the water out of Zangarmarsh, and Hydromancer Thespia personally oversees those efforts.Taking her out would seriously hinder their operation.",
-    "name": "Windcaller Claw and the Water Thief",
-    "requires_level": 67,
-    "zone": "The Steamvault"
-}

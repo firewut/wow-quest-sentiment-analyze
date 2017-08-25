@@ -1,8 +1,0 @@
-{
-    "_id": "13946",
-    "description": "I'm glad you were willing to atone for your mistake - it speaks a great deal about your character.I have another task for you. I have gathered some ireroot seeds. They are somewhat like fel cones, but quite a bit more potent. Nature often responds very negatively to demons, and these ireroot seeds prompt a very concentrated form of that reprisal.To our north, in Fel Rock, there are grellkin that are far beyond redemption. Use the ireroot seeds to route them before they become a more serious threat.",
-    "name": "Nature's Reprisal",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

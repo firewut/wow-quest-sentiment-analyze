@@ -1,7 +1,0 @@
-{
-    "_id": "9687",
-    "description": "Not long ago, the once tranquil owlkin of the region appeared on the shores of this island. One by one they would come to steal the bones of the fallen dragons. I do not know what would cause these creatures such distress or why they would want the bones of the deceased, but the spirits of the brood have grown restless due to this sacrilege.To the west, across the Crimson Reach, you will find Ragefeather Ridge. Venture to the owlkin encampments and recover the pilfered dragon bones.",
-    "name": "Restoring Sanctity",
-    "requires_level": 15,
-    "zone": "Bloodmyst Isle"
-}

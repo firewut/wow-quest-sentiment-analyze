@@ -1,8 +1,0 @@
-{
-    "_id": "38595",
-    "added_in_patch": 7,
-    "description": "The loss of Cenarius to the nightmare is a devastating blow to us all.Though Malfurion's rage is justified, his hatred of Xavius has burned for centuries and I fear that his blind rage will be used as a weapon against him.May Elune guide us in our search for him, lest we have yet another friend to mourn today.",
-    "name": "Malfurion's Fury",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

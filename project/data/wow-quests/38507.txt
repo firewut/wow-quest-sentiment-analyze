@@ -1,8 +1,0 @@
-{
-    "_id": "38507",
-    "added_in_patch": 7,
-    "description": "I could spend hours poring over the details of this fascinating manuscript!...is what I would say if this weren't the simplest of tasks for someone of my skill level. It's about something called \"Leysmithing\". Here.<The gnome scribbles down a translation on the back of the scroll.>There it is, word-for-word. Bring me something interesting next time.",
-    "name": "Secrets of Leysmithing",
-    "requires_level": 102,
-    "zone": "Blacksmithing"
-}

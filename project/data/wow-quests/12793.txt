@@ -1,7 +1,0 @@
-{
-    "_id": "12793",
-    "description": "You hear that, <race>?The clamor of battle far to the west reaches us here, even over the din of our own struggle.The Scourge are threatening to break through the lines of those calling themselves the Argent Crusade. Preventing this is as urgent as anything in the region.Travel to Light's Breach and join in their struggle. Speak to Maaka and he will provide you safe passage.",
-    "name": "Smoke on the Horizon",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

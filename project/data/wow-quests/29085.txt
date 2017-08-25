@@ -1,7 +1,0 @@
-{
-    "_id": "29085",
-    "description": "",
-    "name": "Classic Random 35-39 (Nth)",
-    "requires_level": 35,
-    "zone": "Quests"
-}

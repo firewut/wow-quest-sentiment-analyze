@@ -1,8 +1,0 @@
-{
-    "_id": "11522",
-    "added_in_patch": 5.2,
-    "description": "[PH]For whatever reason, (TBD), you are to collect 5 Razorthorn Roots.These can only be found in a remote location Northeast of Shattrath, just as you crest the rise to Hellfire Penninsula.",
-    "name": "",
-    "requires_level": 70,
-    "zone": "Quests"
-}

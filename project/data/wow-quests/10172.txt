@@ -1,7 +1,0 @@
-{
-    "_id": "10172",
-    "description": "You are an honorable <race>, <name>. You have done much for the Mag'har. No one could ever deny your service to my people. Alas, the time of the Mag'har is at an end. You have shown me, more than anything, that I am unfit to lead these people. My cursed blood runs too deep. I will not... I cannot become the second Hellscream to damn the orcs.Please, <name>, return to the Greatmother and tell her what I have told you. I am too ashamed to see her... to look into her eyes.",
-    "name": "There Is No Hope",
-    "requires_level": 66,
-    "zone": "Nagrand (Outland)"
-}

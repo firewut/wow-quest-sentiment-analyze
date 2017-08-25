@@ -17,46 +17,6 @@ out_hdlr.setLevel(logging.INFO)
 log.addHandler(out_hdlr)
 log.setLevel(logging.INFO)
 
-
-# Deform
-from pydeform import Client
-client = Client(host="deform.io")
-token_client = client.auth(
-    'token',
-    auth_key='----',
-    project_id='wow-quests',
-)
-
-
-def dump_from_deform():
-    page = 1
-    pages_pending_pending = True
-    while pages_pending:
-        try:
-            documents = token_client.documents.find(
-                collection="quests",
-                page=page,
-                per_page=100,
-            )
-            if int(documents["pages"]) == page:
-                pages_pending = False
-            for document in documents["items"]:
-                f = open("./project/data/wow-quests/%s.txt" %
-                         document["_id"], 'w')
-
-                pretty_document = json.dumps(
-                    document,
-                    sort_keys=True,
-                    indent=4,
-                )
-                f.write(pretty_document)
-                f.close()
-            page += 1
-        except Exception as e:
-            print(">>>", e)
-            break
-
-
 def analyze_text(text, exclude_neutral):
     blob = TextBlob(text)
 
@@ -71,7 +31,6 @@ def analyze_text(text, exclude_neutral):
     return noun, polarities
 
 
-# dump_from_deform()
 quests = []
 
 # Load all quests from files
@@ -84,7 +43,7 @@ for file in glob.glob('./project/data/wow-quests/*.txt'):
     f.close()
 
 MIN_LEVEL = 1
-MAX_LEVEL = 111
+MAX_LEVEL = 110 # Increase if needed
 LEVELS = list(range(MIN_LEVEL, MAX_LEVEL))
 
 SIDES = ['alliance', 'horde']

@@ -1,8 +1,0 @@
-{
-    "_id": "41692",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Shipwreck Scavengers",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43493",
-    "added_in_patch": 7,
-    "description": "Highlord, news has reached us of a Legion presence at Black Rook Hold.It is rumored that the night elf commander, Kur'talos Ravencrest, amasses an enormous army behind the fortress walls.Take a group of your most powerful allies, Highlord, and investigate these stories. Lord Ravencrest was a formidable general during Azshara's reign, and if the reports are true, then we must know more.",
-    "name": "Lord Ravencrest",
-    "requires_level": 110,
-    "zone": "Paladin Campaign"
-}

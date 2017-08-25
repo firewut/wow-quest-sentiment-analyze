@@ -1,8 +1,0 @@
-{
-    "_id": "26128",
-    "description": "I've defended the Thandol Span from being destroyed before, against the Dark Iron themselves. And so did my father, and his father before him...The only Dark Iron that managed to give me the slip ran straight for the bridge. Something's amiss, and I'm betting when we get there we'll be waltzing right into an ugly trap.I could use your help, <name>, for Ironforge. Are you with me?",
-    "name": "The Battle of Thandol Span",
-    "requires_level": 23,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

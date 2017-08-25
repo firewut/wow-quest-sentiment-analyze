@@ -1,8 +1,0 @@
-{
-    "_id": "35085",
-    "added_in_patch": 6,
-    "description": "The rituals have been disrupted, yet the nether beacons still glow with power....This can only mean that the beacons are powered from within the Twisting Nether itself!The connection to the void must be severed! There is but one way to accomplish this; you must slay the void creature that maintains the connection with our world.Lay your hands upon a beacon and travel into the Twisting Nether. When you have arrived on the other side, locate a Shamanstone and use it to contact me.",
-    "name": "Through the Nether",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11009",
-    "description": "Now that you have delivered us from bondage, we can begin the process of reunifying the clans.  This will take some time; old grudges are difficult to overcome.But more pressing, you must go to Ogri'la in the heavens above to the west.  You must defend it, and us, from those forces above that the gronn used to protect us from: ethereals, demons, and worst of all, the black dragonflight.When you find ogre heaven, seek out the wisdom of Chu'a'lor on how best to proceed.",
-    "name": "Ogre Heaven",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

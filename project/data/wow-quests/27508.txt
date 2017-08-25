@@ -1,7 +1,0 @@
-{
-    "_id": "27508",
-    "description": "Look... I know you have no reason to be fond of me, just as I'm not terribly fond of you, but I need any help I can get.Our eggs are being stolen by these Twilight invaders. I have no doubt that they want to take them back to Grim Batol to experiment on and pervert. I will NOT let that happen.If you truly do want to help us, stop them! Recover the eggs. Bring them back to me.",
-    "name": "Far from the Nest",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

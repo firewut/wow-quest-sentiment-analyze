@@ -1,7 +1,0 @@
-{
-    "_id": "25050",
-    "description": "When the water came in, Steamwheedle Port to the east was flooded, and a lot of poor goblins are still stuck there! Now those mean pirates are shooting at any boat that leaves the docks here.But they won't expect us to fly! There's a hot air balloon by the docks. We can use that, fly over to rescue the goblins, and take care of the pirates, too. Mr. Noggenfogger will be so pleased!Go to the docks and hop in the balloon and I'll be right behind you, okay? I've got to get some rockets...",
-    "name": "Rocket Rescue",
-    "requires_level": 43,
-    "zone": "Tanaris"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34756",
-    "added_in_patch": 6,
-    "description": "Reshad is more than he appears; a mottled old crow with his beak in a book, certainly, but we need him.Shadows gather beneath the lonely spire, in Veil Terokk. Reshad must make it there safely.Along the path you'll find charms primed with illusion spells. You need only touch them to take on Reshad's image.Adherent assassins are on the prowl for an old outcast with scrolls on his back. They will fall upon you.Oh, but won't they be surprised when the illusion fades?! Kee-hee-hee!",
-    "name": "A Charming Deception",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

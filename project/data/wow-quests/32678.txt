@@ -1,8 +1,0 @@
-{
-    "_id": "32678",
-    "added_in_patch": 5.2,
-    "description": "The time to attack the Thunder King has come!A small group of Sunreavers awaits you near the Shado-Pan Garrison in Townlong Steppes.Report to Scout Captain Elsia for further instructions.",
-    "name": "Thunder Calls",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44486",
-    "added_in_patch": 7,
-    "description": "Much of the elven writing in the tome has been singed by fel fire.The head of the curators in Dalaran is renowned for his restoration skills.  Perhaps he can treat the tome to bring it back to legibility.",
-    "name": "Fel-Ravaged Tome",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

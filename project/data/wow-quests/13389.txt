@@ -1,7 +1,0 @@
-{
-    "_id": "13389",
-    "description": "As you light the fuse, you notice that it is consumed by fire far quicker than you would expect.The bombs are about to go off and your best chance at surviving is to lean towards the pit and hope the fall doesn't kill you.",
-    "name": "A Short Fuse",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13587",
-    "description": "Malfurion's words are true, small one.  The rift that threatens to split Darkshore in half also threatens the separation between this world and yours.Let me aid you in any way that I can, lest further rifts between our worlds amplify the destruction taking place in both places.First you must undo the shackles cast upon me by retrieving the emerald scroll from the nightmare guardian that roams the halls below.",
-    "name": "The Waking Nightmare",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25476",
-    "description": "The gnome's voice crackles once again from the robot:\"I need to move OOX-22/FE to an open, safe place so it can begin a lengthy take-off procedure.  It has built-in cloaking, but I need time on my end to make it operational again.  Escort the robot from its current location to, let's say, the main road!  That should be a perfect place, and long enough, to get things online!\"\"Escort it safely and then come talk to me in Booty Bay!  Oglethorpe Obnoticus - out!\"",
-    "name": "Rescue OOX-22/FE!",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

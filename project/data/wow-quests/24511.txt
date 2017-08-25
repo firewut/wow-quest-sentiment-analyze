@@ -1,8 +1,0 @@
-{
-    "_id": "24511",
-    "description": "Delving into the citadel with so few is risky at best, but opportunities like this are too rare to pass up.Clear the way to the far side and secure the passage to the Pit of Saron. We will need to hold it to move our men further into the Citadel.",
-    "name": "Echoes of Tortured Souls",
-    "requires_level": 78,
-    "side": "horde",
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44006",
-    "added_in_patch": 7,
-    "description": "I see that you walk many paths, as a true shaman should.Two mighty artifacts are already in your possession. To seek a third would not be greed: it would be the fulfillment of your destiny, the completion of a circle.Speak with me, and together we will unlock your fullest potential.",
-    "name": "Your Fullest Potential",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

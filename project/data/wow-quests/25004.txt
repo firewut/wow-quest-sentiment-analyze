@@ -1,7 +1,0 @@
-{
-    "_id": "25004",
-    "description": "The Scourge are trying to form a base here at the Agamand Mills.  If they do, then they can stage further attacks within Tirisfal.The orders have been given.  The Scourge in the Mills must be destroyed.Collect Notched Ribs from Rattlecage and Cracked Skull Soldiers, and Blackened Skulls from Darkeye Bonecasters.",
-    "name": "The Mills Overrun",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

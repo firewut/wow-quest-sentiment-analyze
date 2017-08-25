@@ -1,7 +1,0 @@
-{
-    "_id": "27451",
-    "description": "Greetings, stranger!  You've entered the heart of the Plaguelands.  I hope you brought your undead-killing gear with you.The plague spreads more slowly these days, so the Cult of the Damned has stepped up production in order to keep the land brown and dead, as they like it.  I've got a plan to stop them.  Take my mortar and pestle, and use it on living rot from the undead creatures in Corin's Crossing to the southeast.  We're going to make a little present for the cultists!",
-    "name": "To Kill With Purpose",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

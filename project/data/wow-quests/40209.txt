@@ -1,8 +1,0 @@
-{
-    "_id": "40209",
-    "added_in_patch": 7,
-    "description": "While leather armor is strong on its own, integrating scales into the design is what truly sets it apart.The type of scales you use will determine how many you'll need to fully protect the wearer. And one of the strongest type of scales are basilisk scales.A fully matured basilisk has the strongest of course. Near the village of Llothien is a basilisk den. Kill the matriarch and return her scales to me.",
-    "name": "Scales of the Earth",
-    "requires_level": 108,
-    "zone": "Leatherworking"
-}

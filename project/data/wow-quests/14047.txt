@@ -1,7 +1,0 @@
-{
-    "_id": "14047",
-    "description": "Every Pilgrim's Bounty feast requires a centerpiece, and for us, that's a slow-roasted wild turkey. I can't think of anything better to bring the meal together.There's a good recipe for it in your bountiful cookbook. Why not hunt some wild turkeys and prepare a few? The turkeys wander all over Tirisfal Glades, so you shouldn't have a problem finding any.Once you're done roasting them, will you bring them to Francis Eaton outside Orgrimmar?",
-    "name": "Slow-roasted Turkey",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

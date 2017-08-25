@@ -1,8 +1,0 @@
-{
-    "_id": "30230",
-    "added_in_patch": 5,
-    "description": "Mogu are thugs. They have always been thugs.Only when they ruled their empires in the old stories did they ever know any kind of magic.But these mogu are using arcane portals and spells. We need to stop them!$p, look for any artifacts the mogu are using to cast their magics with. I saw a number of their collectors and reclaimers to the west and north that were gathering these items.",
-    "name": "Re-Reclaim",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

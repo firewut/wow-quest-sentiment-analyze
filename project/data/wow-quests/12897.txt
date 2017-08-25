@@ -1,8 +1,0 @@
-{
-    "_id": "12897",
-    "description": "Death knights, such as General Lightsbane, are held on too tight of a leash to be able to be turned from the Lich King's will except under the most extraordinary circumstances.The general keeps himself within the vault overseeing the creation of new weapons. Disturb one of his weapon racks at the northern forge and I assure you, he will come. I'll send Vile, Lady Nightswood, and The Leaper in to help you.If we are to finally own The Shadow Vault, General Lightsbane must fall!",
-    "name": "If He Cannot Be Turned",
-    "requires_level": 77,
-    "side": "horde",
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "29088",
-    "description": "Hey <name>, we've got a real problem here. There's an overpopulation of hyenas just west of the Sludge Fen, and they're starting to become a menace.If I have to listen to them caterwauling one more night, I just might go crazy! Vernon over there says the hyenas might even have made off with one of his stabled pigs. We can't have that happening.Can you go thin out the hyena numbers? You'll find them parading in broad daylight to the west.",
-    "name": "Hyena Extermination",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

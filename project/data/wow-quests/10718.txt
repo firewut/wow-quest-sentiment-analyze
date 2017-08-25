@@ -1,7 +1,0 @@
-{
-    "_id": "10718",
-    "description": "<name>, now that you can see me, there is something you must tell Rexxar. I know that he seeks his people, and I know where they are.The Mok'Nathal, as they are known, have a village to the east beyond the Razor Ridge.Go, give Rexxar this news. His people are in danger, and I know that he will want to come to their aid.",
-    "name": "The Spirits Have Voices",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

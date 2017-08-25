@@ -1,8 +1,0 @@
-{
-    "_id": "30602",
-    "added_in_patch": 5,
-    "description": "The Broketooth hozen stole our Rabbitsfoot! He was the grummle with the biggest luckydo.This is very bad fortune indeed. Please, <race>, we need our Rabbitsfoot back. We need his good fortune back.Can you search the Broketooth Outpost for him?",
-    "name": "The Rabbitsfoot",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

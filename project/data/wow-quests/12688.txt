@@ -1,7 +1,0 @@
-{
-    "_id": "12688",
-    "description": "These goblin goons and their minions have decided that they own this pillar and its crystals. I came here to explore the crystals and take samples, but they overpowered me and won't let me return to the camp.If you'll help me fight our way out of here, we can teach these thugs a lesson they'll never forget!",
-    "name": "Engineering a Disaster",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

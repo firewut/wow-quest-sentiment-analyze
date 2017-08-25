@@ -1,7 +1,0 @@
-{
-    "_id": "27642",
-    "description": "The Twilight's Hammer were damn thorough when they sacked our town.  Me and me brothers may well be the only ones that held'm back. I gotta be sure though.As you're siftin' through the ruins, keep an eye out for the bodies of me kinsmen. I wanna know if dere were any survivors... or if it seems like some might have gotten away.",
-    "name": "Sifting Through The Wreckage",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27461",
-    "description": "The Scarlet Crusade maintains a well-fortified abbey in the lower western tier of Tyr's Hand.  The abbey will need to be secured before proceeding any further into the stronghold.",
-    "name": "To Take the Abbey",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

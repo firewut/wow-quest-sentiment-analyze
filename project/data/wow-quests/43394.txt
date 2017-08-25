@@ -1,8 +1,0 @@
-{
-    "_id": "43394",
-    "added_in_patch": 7,
-    "description": "I've received word from the Highlord that a group of paladins and priests were captured after a battle broke out at Felblaze Ingress. Your priestess, Delas Moonfang, was among those captured.They've been taken through the demon portal and into the Legion stronghold of Niskara.We will need the assistance of the Conclave if we have any hope of recovering them.",
-    "name": "Crossing Legion Lines",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

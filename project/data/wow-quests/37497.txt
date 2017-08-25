@@ -1,8 +1,0 @@
-{
-    "_id": "37497",
-    "added_in_patch": 7,
-    "description": "Your quest for the Tidestone... it intrigues me. More than that, it suits my needs quite well. I have been in need of a champion for a very, very long time.It is decided, then. I shall join you.We will have to head east, through Nar'thalas.Shall we depart?",
-    "name": "Trailing the Tidestone",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

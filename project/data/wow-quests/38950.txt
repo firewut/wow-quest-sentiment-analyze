@@ -1,8 +1,0 @@
-{
-    "_id": "38950",
-    "added_in_patch": 7,
-    "description": "Might I ask a favor, <name>?As I am recently without a home, shop, family, or friends, I was wondering if you might show me your floating city? I must admit, I am VERY curious about the place. I've also heard good things about their tailoring shop.I have no way of getting there myself, but certainly such a magical city has SOMEONE who can summon me.<Lyndras looks at you with hopeful apprehension.>",
-    "name": "The Wayward Tailor",
-    "requires_level": 100,
-    "zone": "Tailoring"
-}

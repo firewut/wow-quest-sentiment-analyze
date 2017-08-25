@@ -1,8 +1,0 @@
-{
-    "_id": "30666",
-    "added_in_patch": 5,
-    "description": "Normally, my day consists of catching fish, and then eating the fish I caught, followed by sleeping. Note that I did not include \"fight with a crocolisk\" in that list of activities.You look like a handy <class>. Can you go get rid of some of these crocolisks, so I can get back to my regular routine? The crocolisks normally keep to themselves up at Kea Krak, to the northwest.",
-    "name": "Sudden, Unexpected Crocolisk Aggression",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

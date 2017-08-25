@@ -1,7 +1,0 @@
-{
-    "_id": "10692",
-    "description": "Of course we must destroy this book, but not before we use it to destroy Varedis.If we're to shut down this academy of Illidan imitators, we'll have to deal not just with Varedis but also the three night elf masters that assist him: Alandien, Theras and Netharel.Gather a suitable force and return to the Ruins of Karabor.  Follow Altruis's instructions for defeating Varedis.  Hopefully his plan will work - otherwise... it'll have been a pleasure working with you.",
-    "name": "Varedis Must Be Stopped",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

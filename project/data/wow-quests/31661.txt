@@ -1,8 +1,0 @@
-{
-    "_id": "31661",
-    "added_in_patch": 5,
-    "description": "<The clutch-keepers seem to be using these blinding white crystals as magical foci. Peering inside, you see thick tendrils of black smoke swirling in the center. One of the workers at Klaxxi'vess may know more about this material and why it is so abundant in the wastes.>",
-    "name": "A Source of Terrifying Power",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

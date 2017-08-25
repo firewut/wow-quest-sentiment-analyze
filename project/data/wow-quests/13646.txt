@@ -1,7 +1,0 @@
-{
-    "_id": "13646",
-    "description": "You have been of great assistance to us, <name>. Without you, we would have been wiped out by now.It would be my pleasure to offer you one of my nightsabers anytime to ride to Astranaar up and to the southeast. I'm sure that you have very important business to attend to there.I would consider it a great kindness if you would speak with my sister, Sentinel Luara, when you arrive to tell her that I am well.Just speak to me again when you are ready to go, and anytime that you need a ride it is yours.",
-    "name": "Astranaar Bound",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

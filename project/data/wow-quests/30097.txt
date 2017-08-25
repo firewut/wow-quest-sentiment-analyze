@@ -1,7 +1,0 @@
-{
-    "_id": "30097",
-    "description": "From what I understand, you intend to avoid this future. If this is true, then we must archive data from this timestrand before it is lost to us.We believe that the most interesting and valuable elements of this future are the powerful \"echoes\" that roam the dragonshrines.Take this vessel with you as you silence these echoes. A portion of their energies will be archived within the bronze dragonflight's depository.",
-    "name": "Archival Purposes",
-    "requires_level": 85,
-    "zone": "End Time"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13363",
-    "description": "There were rumors about the events you speak of among the death knights.  I always expected the story to be more... symbolic.We must warn others, but we must be discreet.  As soon as the Lich King knows we're making our move, he'll move the location of the heart -- we'll never get a chance like this again.The Horde and the Alliance have been infiltrated by the Cult of the Damned before.  The Ebon Blade operates too close to the Scourge.We have to speak to Tirion Fordring and his Argent Crusade.",
-    "name": "Argent Aid",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30715",
-    "added_in_patch": 5,
-    "description": "When we regrouped after their initial attack, we numbered three less. You can fight, and we must plan our defense should these cursed yaungol attack again. \r\n\r\nIf you would help us, grant our fallen comrades their last rites, and recover their armor. You will find their bodies to the west, near the gate.\r\n\r\nAnd try to keep the birds off them.",
-    "name": "A Line Unbroken",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

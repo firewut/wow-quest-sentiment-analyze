@@ -1,7 +1,0 @@
-{
-    "_id": "29828",
-    "description": "One of the fleeing Drakkari trolls told me of a great raptor king, Dred, that was immune to the plague.If you could find King Dred and bring me one of his teeth, perhaps I could fashion it into a weapon.",
-    "name": "What the Scourge Dred",
-    "requires_level": 72,
-    "zone": "Drak'Tharon Keep"
-}

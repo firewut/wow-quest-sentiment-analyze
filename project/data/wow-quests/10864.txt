@@ -1,8 +1,0 @@
-{
-    "_id": "10864",
-    "description": "I have a device, the Demoniac Scryer, that can analyze fel magic.  I would have you use the Scryer, but first... you must appease it.  The Scryer, you see, has trapped within it a creature of vast intelligence and its needs are, shall we say, quite eccentric.To appease the Scryer, you must kill orcs.  Specifically, they must be Shattered Hand orcs -- the Scryer demands their souls.Return to me when the souls are reaped.  You will find the orcs north, and south, and surrounding... Hellfire Citadel.",
-    "name": "A Burden of Souls",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

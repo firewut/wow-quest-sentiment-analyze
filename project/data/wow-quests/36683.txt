@@ -1,8 +1,0 @@
-{
-    "_id": "36683",
-    "added_in_patch": 6,
-    "description": "We've been receiving regular reports of birdmen from the south ambushing and burning caravans along the main roads.\r\n\r\nGuards from our outposts are requesting that we launch a counter attack against the main presence of Adherents of Rukhmar at Skettis in Spires of Arak.",
-    "name": "Assault on Skettis",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

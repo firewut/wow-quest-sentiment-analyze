@@ -1,8 +1,0 @@
-{
-    "_id": "41851",
-    "added_in_patch": 7,
-    "description": "<Sylara looks at you with determined eyes.>Our friends are in danger. We will save them. Kill any Legion in the way.",
-    "name": "Quelling the Tide",
-    "requires_level": 110,
-    "zone": "Monk Campaign"
-}

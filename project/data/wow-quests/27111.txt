@@ -1,7 +1,0 @@
-{
-    "_id": "27111",
-    "description": "In the library, Athenaeum, you will find an ancient chest hidden beneath the stairway. Take from it that which you desire.",
-    "name": "The Treasure of the Shen'dralar",
-    "requires_level": 39,
-    "zone": "Dire Maul"
-}

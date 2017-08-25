@@ -1,7 +1,0 @@
-{
-    "_id": "12078",
-    "description": "So be it. If the giants will not come to our aid, perhaps we can make use of these worms. There are sure to be some spawn with their brood mother in the cavern below. Take this box and capture 3 of their spawn and bring them to me.Where diplomacy fails, enslaving is a perfectly viable alternative.",
-    "name": "Worm Wrangler",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

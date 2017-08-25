@@ -1,7 +1,0 @@
-{
-    "_id": "24975",
-    "description": "What have we here?  You look like a fledgling <class>.  If you hope to prove yourself to the Dark Lady, you need to learn the ways of the Forsaken.To the west you'll find a farm.  Humans infest the land like mold on a rotting corpse.  And worse yet, the Scarlet Crusade patrols nearby from their tower.  Teach those scum a lesson and steal 10 of their precious pumpkins.Once you have 10, bring them back to me.",
-    "name": "Fields of Grief",
-    "requires_level": 5,
-    "zone": "Tirisfal Glades"
-}

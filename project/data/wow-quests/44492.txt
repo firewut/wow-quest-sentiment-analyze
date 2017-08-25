@@ -1,8 +1,0 @@
-{
-    "_id": "44492",
-    "added_in_patch": 7,
-    "description": "Good work finding those additional leyline feeds.\r\n\r\nYou seem rather competent - for an outlander.\r\n\r\nAllow me to share with you a few secrets about the power of the leylines. This should help you in scavenging more ancient mana from the creatures around Suramar. A grisly task, I know - which is why I leave it to you!",
-    "name": "Leyline Apprentice",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

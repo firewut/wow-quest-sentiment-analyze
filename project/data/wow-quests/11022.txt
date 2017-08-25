@@ -1,7 +1,0 @@
-{
-    "_id": "11022",
-    "description": " King  <name>!  You speak with Mog'dorg the Wizened before you leave and go to Ogri'la!",
-    "name": "Speak with Mog'dorg",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

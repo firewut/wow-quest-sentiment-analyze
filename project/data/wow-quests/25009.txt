@@ -1,7 +1,0 @@
-{
-    "_id": "25009",
-    "description": "Though the strength of the Scarlet Crusade wanes, we are still at war.  The report Executor Arren sent me indicates Scarlet Crusaders have been raiding from the ruined tower in southeastern Tirisfal near the Balnir Farmstead under the command of Captain Vachon.Kill 3 of his zealots and 4 of his friars. It should prove to be a devastating blow to the Crusade!",
-    "name": "At War With The Scarlet Crusade",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11293",
-    "description": "We need to get the word out about the Barleybrews at Brewfest.  You need to shout at the flags outside the bank, in the Military Ward, in the Hall of Explorers and in the Mystic Ward.  I'll make things easy though, I'll lend you a racing ram for 4 minutes.  Use the reins to let him go, but try not to tire him out.",
-    "name": "Bark for the Barleybrews!",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

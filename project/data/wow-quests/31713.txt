@@ -1,8 +1,0 @@
-{
-    "_id": "31713",
-    "added_in_patch": 5,
-    "description": "It's a disaster, <name>!When I went to visit the Dancing Serpent Inn yesterday, they were all out of brew. They said the shipment from Sri-La Village had been stolen. STOLEN!Turns out those Oona hozen have been making all kinds of trouble down at the docks, including taking all the brew to their cave at Oona Kagu along the coast.I can't handle a dry spell. A life without brew is not a life worth living!Someone needs to go and save the brew!",
-    "name": "The Big Brew-haha",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

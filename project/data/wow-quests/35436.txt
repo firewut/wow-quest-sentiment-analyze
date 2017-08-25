@@ -1,8 +1,0 @@
-{
-    "_id": "35436",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Forge of Souls Reward Quest",
-    "requires_level": 78,
-    "zone": "Quests"
-}

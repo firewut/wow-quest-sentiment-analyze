@@ -1,7 +1,0 @@
-{
-    "_id": "24814",
-    "description": "Da Sea Witch is here, on top of dis very isle. We've been waitin' a long time for dis chance at revenge and ya will be havin' da privilege of seein' it through.Meet with Vol'jin, up da ramp to da northeast. Let him know when you are ready ta join da battle.",
-    "name": "An Ancient Enemy",
-    "requires_level": 1,
-    "zone": "Echo Isles"
-}

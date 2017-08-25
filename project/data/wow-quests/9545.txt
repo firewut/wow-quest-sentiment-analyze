@@ -1,8 +1,0 @@
-{
-    "_id": "9545",
-    "description": "The stubborn close their mind and convince themselves of one truth.  The wise keep an open mind to the different possibilities leading to and stemming from the present.Take this relic with you to where you found Sedai.  See not with your eyes, <name>, but with your mind.",
-    "name": "The Seer's Relic",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

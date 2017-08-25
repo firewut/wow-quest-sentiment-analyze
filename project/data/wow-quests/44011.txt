@@ -1,8 +1,0 @@
-{
-    "_id": "44011",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Lost Wisp",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

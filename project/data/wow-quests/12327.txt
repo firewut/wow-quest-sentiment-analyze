@@ -1,7 +1,0 @@
-{
-    "_id": "12327",
-    "description": "Ah, you seek a vision of the past.  You're a wise <race>.Every time someone drops by for a reading, they seem to always ask about the future.  When you get to be my age, you learn that scrying the past, more often than not, is more useful.Drink this potion and peer into my crystal ball.  Let us see what knowledge we can obtain.",
-    "name": "Out of Body Experience",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

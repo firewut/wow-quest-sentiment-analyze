@@ -1,7 +1,0 @@
-{
-    "_id": "13155",
-    "description": "I've already heard some rumors regarding Malykriss and Arthas's new death knight order, but I assumed it nothing more than filling the void. These numbers suggest he's trying to take it up a notch though.We dispatched one of our best to Malykriss not long ago - Vereth the Cunning. You should be able to find him on the Rise of Suffering, just west of Malykriss, and inside the Court of Bones.Try not to draw too much attention on your way in.",
-    "name": "Vereth the Cunning",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

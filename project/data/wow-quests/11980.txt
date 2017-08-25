@@ -1,8 +1,0 @@
-{
-    "_id": "11980",
-    "description": "I was one of the guards chosen to escort the caravan carrying the armament shipment to this camp. The attack came fast and without warning. We fought and killed dozens of the beasts, but in the end there were simply too many. Tor'zin and I barely made it out alive...If not for our injuries we would be out in the woods hunting down those fiends ourselves. Will you help us regain our lost pride? Search the woods east of here for Anub'ar Nerubians and kill them! For the Horde!",
-    "name": "Pride of the Horde",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

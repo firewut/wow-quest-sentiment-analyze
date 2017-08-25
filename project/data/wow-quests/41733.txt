@@ -1,8 +1,0 @@
-{
-    "_id": "41733",
-    "added_in_patch": 7,
-    "description": "On behalf of all the students and teachers here at Tian Monastery, thank you, Grandmaster <name>.You have a difficult task ahead of you to rebuild our order, but we stand with you.Let us head back to the Wandering Isle.",
-    "name": "Rebuilding the Order",
-    "requires_level": 103,
-    "zone": "Monk Campaign"
-}

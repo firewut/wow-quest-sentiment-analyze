@@ -1,8 +1,0 @@
-{
-    "_id": "41475",
-    "added_in_patch": 7,
-    "description": "Now, <name>, do not mistake me- I am a druid. I understand that nature has a balance.\r\n\r\nPredators must feed, and others will be hunted. I also understand that tampering with such balance has consequences.\r\n\r\nThat is why I have taken upon myself to walk this land and perform some... ah... calculations.\r\n\r\nSlay only a small number of the wolves you find, and one alpha. That should reduce their number enough to allow the Sablehorn to thrive without disrupting the flow of things here.",
-    "name": "Prongs and Fangs",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

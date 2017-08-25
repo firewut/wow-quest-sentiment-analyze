@@ -1,8 +1,0 @@
-{
-    "_id": "29986",
-    "added_in_patch": 5,
-    "description": "Trainee.Several wards surround us, hidden in the woods near my home. They are quite effective at dispersing the mist, but they require constant upkeep.You will find one to the north, one to the west, and one to the south. Find these wards and light them.",
-    "name": "Fog Wards",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

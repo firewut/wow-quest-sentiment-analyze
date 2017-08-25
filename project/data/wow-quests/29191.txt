@@ -1,7 +1,0 @@
-{
-    "_id": "29191",
-    "description": "There's a brand new ice cream shop in Orgrimmar, and it's not just any old ice cream either. This ice cream is made by a crazy goblin mage! You don't think it's going to disappear if I don't finish it in fifteen minutes, do you?I bet it tastes really good. Let's go try it!I heard some of the other kids talking about it, and they were saying the store is called the Cone of Cold and it's in the southern part of the Goblin Slums.",
-    "name": "You Scream, I Scream...",
-    "requires_level": 10,
-    "zone": "Children's Week"
-}

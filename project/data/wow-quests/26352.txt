@@ -1,7 +1,0 @@
-{
-    "_id": "26352",
-    "description": "I may be of Darkspear birth, but I spent my childhood here, in Stranglethorn Vale.  I've seen everything there is to see here in Stranglethorn, but the most offensive is the devastation that the Venture Company has done to the riverbed.To make things worse, Foreman Cozzle and his crew have been increasing their activity, and I suspect they have some new plan.  Succeed where I failed, <name>: Kill Cozzle, obtain his key, and steal the blueprints from his apartment.",
-    "name": "Cozzle's Plan",
-    "requires_level": 26,
-    "zone": "Northern Stranglethorn"
-}

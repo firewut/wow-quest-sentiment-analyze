@@ -1,7 +1,0 @@
-{
-    "_id": "10205",
-    "description": "Warp-Raider Nesaad must be dealt with!  I have no idea how he survived my attack, but he cannot be allowed to continue his operation out there.Go back and take out Nesaad.  He keeps a small ethereal camp near the southwestern corner of the Heap.Don't fail like I did, <class>.",
-    "name": "Warp-Raider Nesaad",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

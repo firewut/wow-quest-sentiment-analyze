@@ -1,8 +1,0 @@
-{
-    "_id": "31078",
-    "added_in_patch": 5,
-    "description": "There will be time for mourning later. For now, there are other Stormstouts to be found.They say that Han Stormstout was last seen exploring Kor'vess. I suspect he headed into that mantid burrow, just across the way.You should meet me down there, <name>. I don't doubt that I can handle a few mantid by myself... but I'd feel better with you by my side.",
-    "name": "Han Stormstout",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

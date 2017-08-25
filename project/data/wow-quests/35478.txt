@@ -1,8 +1,0 @@
-{
-    "_id": "35478",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Violet Hold Reward Quest",
-    "requires_level": 73,
-    "zone": "Quests"
-}

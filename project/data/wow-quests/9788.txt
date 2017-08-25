@@ -1,7 +1,0 @@
-{
-    "_id": "9788",
-    "description": "Soon after I escaped the Umbrafen tribe, I holed up in a cave south of their village.  Little did I know that the cave was being fought over by marsh beasts and spore men!I had to leave in a hurry and left behind a box containing my only worldly possessions.After managing to sneak out of Umbrafen with my belongings it was terrible irony that I would lose them so soon after.  If you're willing to bring them back to me I'll give you one of my very own personal items.  What do you say, <name>?",
-    "name": "A Damp, Dark Place",
-    "requires_level": 60,
-    "zone": "Zangarmarsh"
-}

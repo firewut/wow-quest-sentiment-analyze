@@ -1,7 +1,0 @@
-{
-    "_id": "12895",
-    "description": "Before we left, I received the file Scout Vor'takh compiled on this Brann Bronzebeard. There can be no doubt that Brann was headed for the Storm Peaks from his journal entries and findings in Grizzly Hills. Before we crashed, I caught sight of a campsite south of here, across the Foot Steppes, and overlooking the frozen Bor's Breath River.If Brann isn't there, search the camp and its environs for any clues as to where that blasted dwarf might've gone. Bring back anything you find.",
-    "name": "The Missing Bronzebeard",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

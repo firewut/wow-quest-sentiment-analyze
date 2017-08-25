@@ -1,7 +1,0 @@
-{
-    "_id": "29519",
-    "description": "The Darkmoon Faire always needs more leather for tents, boots, and just about anything you can imagine! I've trapped some creatures and staked the skins out for the next part of their treatment.You seem to have some knowledge of skinning. I'll reward you if you help me with the job of scraping some of those new skins.",
-    "name": "Tan My Hide",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

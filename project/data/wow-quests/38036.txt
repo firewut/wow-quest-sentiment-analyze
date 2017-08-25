@@ -1,9 +1,0 @@
-{
-    "_id": "38036",
-    "added_in_patch": 7,
-    "description": "Are you feeling alright? Say 'ah.'<Mishka attempts to depress your tongue with a damp twig.>Sorry... we are in desperate need of medical supplies here. The infirmary on the Skyfire was well-stocked, but it's all scattered to the winds now.Anything you can salvage from the wreck will save lives!",
-    "name": "Supplies From the Skies",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

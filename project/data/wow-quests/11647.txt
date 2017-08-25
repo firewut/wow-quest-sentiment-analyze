@@ -1,7 +1,0 @@
-{
-    "_id": "11647",
-    "description": "The presence of plague cauldrons within the Temple City of En'kilah worries me greatly, <name>. It's clear that Chieftain Wintergale trusts your judgment and your knowledge of our enemy. Would you help me deal with the cauldrons as you help the chieftain carry out his plans in the Temple City?I've prepared a totem which will attack and neutralize the contents of the cauldrons. All you must do is locate the cauldrons and use the totem near each. Each Scourge weapon we destroy brings us closer to victory.",
-    "name": "Neutralizing the Cauldrons",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

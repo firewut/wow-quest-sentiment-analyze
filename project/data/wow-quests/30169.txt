@@ -1,8 +1,0 @@
-{
-    "_id": "30169",
-    "added_in_patch": 5,
-    "description": "The raiders are led by a particularly violent saurok known as Slovan. The Crane Temple usually comes to our aid when he attacks but now we find ourselves outmatched and outmaneuvered.Please, <class>, aid us by destroying this raid leader.You can find him in his den behind the Krasari Falls.",
-    "name": "Raid Leader Slovan",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11716",
-    "description": "We are witnessing something amazing here, <race>. A whole undiscovered ecology lives and breathes not more than a few paces from us! I surmise it is the bloodspore plant that sets this environment abuzz.I have collected some pollen from the nearby male species of bloodspore plant but still lack female receptors for pollination. Fetch me a bushel of the bloodspore carpels. You'll find them near the larger plants surrounding us.Be wary of their guardians! The kobolds won't give them up easily!",
-    "name": "The Wondrous Bloodspore",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

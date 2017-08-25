@@ -1,7 +1,0 @@
-{
-    "_id": "27688",
-    "description": "There are three candidates for Ascendancy that we need to eliminate: Dame Alys Finnsson, Master Klem, and Mia the Rose.I'd like for you to serve as my distraction. When the time is right, I'll step in and finish them off from behind.Whatever you do, <name>, do not underestimate them. Each got to where they are by being ruthless and very good at what they do.",
-    "name": "Distract Them for Me",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

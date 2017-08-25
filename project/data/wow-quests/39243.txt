@@ -1,9 +1,0 @@
-{
-    "_id": "39243",
-    "added_in_patch": 6.2,
-    "description": "You're a natural at this, <name>. You've got the salt in your veins. Now it's time to run our first naval mission and control the seas of Draenor!You will want a high vantage point to plan out these seafaring missions.  I know a good spot just up the path behind us. Meet me near the shipyard entrance and we can get started on our first mission.",
-    "name": "Naval Commander",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26006",
-    "description": "Legionnaire Nazgrim and many of the other survivors have already made their way to the surface. I'm sure some are just looking to rid themselves of this place for good, but we still have work to do if we're going to stop the naga from invading the plane of water.First, we need to set eyes on the tentacled fiend that destroyed our ships when we first arrived - we don't want a repeat of that nightmare.Fiasco left these behind for you. They should speed your trip up a bit.",
-    "name": "A Breath of Fresh Air",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

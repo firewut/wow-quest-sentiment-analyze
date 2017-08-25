@@ -1,7 +1,0 @@
-{
-    "_id": "28142",
-    "description": "According to Magatha, she'll meet you just outside of the Twilight Withering to the east.",
-    "name": "To the Withering",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

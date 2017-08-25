@@ -1,7 +1,0 @@
-{
-    "_id": "13344",
-    "description": "The cultists have discovered the last messenger you summoned, <race>.While it was quite informative, it's important that we continue to monitor their every move.Use this rod to siphon the dark matter from the corpses of enslaved minions at Aldur'thar. Then use their summoning crystal to bring another dark messenger into being.Until it is discovered, the messenger will serve as our eyes and ears, discreetly observing the actions of our enemy.",
-    "name": "Not a Bug",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

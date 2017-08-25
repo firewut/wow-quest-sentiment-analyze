@@ -1,8 +1,0 @@
-{
-    "_id": "39371",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Witches of the Sky",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

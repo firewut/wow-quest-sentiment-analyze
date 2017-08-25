@@ -1,7 +1,0 @@
-{
-    "_id": "11535",
-    "description": "Supplies are inbound, or so I'm told.Regardless, we can ill afford to wait around hoping that help arrives before our offensive stalls. We must make the best of what we have.As for me, I need ore to fashion an anvil so I can begin to upgrade our armor and weapons.There are a group of naga on the coast to the east of here collecting ore and placing it in chests for shipment to the Legion.Relieving them of their ore will help our efforts in more ways than one....",
-    "name": "Making Ready",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

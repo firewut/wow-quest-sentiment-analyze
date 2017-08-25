@@ -1,7 +1,0 @@
-{
-    "_id": "11984",
-    "description": "'Ol Budd's seen better days.Ever since our stay in Ghostlands he's been useless to us. We've had to find ways to make it on our own, and today that means sellin' trolls to the highest bidder.Fortunately, we've recently found a use for Budd. Something about his condition allows him to mingle with the local trolls, so we taught him a little game that's turned us a tidy profit.See for yourself. Talk to Budd, take him southwest to Drak'Zin Ruins and use this cage as soon as he tags a troll.",
-    "name": "Filling the Cages",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

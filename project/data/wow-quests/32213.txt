@@ -1,8 +1,0 @@
-{
-    "_id": "32213",
-    "added_in_patch": 5.2,
-    "description": "So Jaina and the Kirin Tor think they can push us out again? I will not stand by and allow them to repeat the events of Dalaran!This time we fight back! This time we do the pushing...Go to Violet Rise and slay any Kirin Tor agent you find.",
-    "name": "Old Enemies",
-    "requires_level": 90,
-    "zone": "Quests"
-}

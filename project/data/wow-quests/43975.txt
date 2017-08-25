@@ -1,8 +1,0 @@
-{
-    "_id": "43975",
-    "added_in_patch": 7,
-    "description": "The powerful val'kyr Savyn Valorborn has arrived to aid us in bolstering our numbers. She ushers some of the most valorous vrykul shieldmaidens into the Halls of Valor.Speak to her and recruit powerful troops to add to our roster.",
-    "name": "Recruiting Shieldmaidens",
-    "requires_level": 103,
-    "zone": "Warrior Campaign"
-}

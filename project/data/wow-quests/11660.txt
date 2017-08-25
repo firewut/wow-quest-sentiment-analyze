@@ -1,8 +1,0 @@
-{
-    "_id": "11660",
-    "description": "A Kvaldir lieutenant known as Orabus directed the initial incursion against my people at Pal'ea, He oversaw the destruction of both villages and then disappeared into the mist.In those early days there was talk of a horn that Orabus gifted to the Kvaldir mistweavers. This horn could be used to summon him should the need arise.We need to get that horn from the Kvaldir mistweavers and call forth Orabus. If he is destroyed, these savages might retreat.Seek out mistweavers at Pal'ea, to the south.",
-    "name": "Horn of the Ancient Mariner",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

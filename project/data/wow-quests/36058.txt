@@ -1,8 +1,0 @@
-{
-    "_id": "36058",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Seal of Tempered Fate: Armory",
-    "requires_level": 100,
-    "zone": "Quests"
-}

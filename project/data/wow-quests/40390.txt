@@ -1,8 +1,0 @@
-{
-    "_id": "40390",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "[REUSE]Tidying Tel'anor",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

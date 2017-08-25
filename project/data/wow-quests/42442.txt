@@ -1,8 +1,0 @@
-{
-    "_id": "42442",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Fight Night: Amalia",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

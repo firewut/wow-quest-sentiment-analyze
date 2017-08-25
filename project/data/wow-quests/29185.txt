@@ -1,7 +1,0 @@
-{
-    "_id": "29185",
-    "description": "",
-    "name": "Daily Tier 2 Heroic (1st)",
-    "requires_level": 85,
-    "zone": "Quests"
-}

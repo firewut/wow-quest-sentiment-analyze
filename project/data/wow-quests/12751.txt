@@ -1,7 +1,0 @@
-{
-    "_id": "12751",
-    "description": "Return to Thassarian at the Scarlet Tavern and let him know that Koltira's cry for vengeance has been answered. The Chapel of the Crimson Flame will be a pile of ashes in a matter of hours.You're one cold-blooded monster, <name>. I salute you,  brother.",
-    "name": "A Sort Of Homecoming",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

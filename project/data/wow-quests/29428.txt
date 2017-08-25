@@ -1,7 +1,0 @@
-{
-    "_id": "29428",
-    "description": "You've finally found the crate that Edgar Goodwin sent you to retrieve. However, it appears the Reliquary representative's warnings about the nature of the crate's contents were correct.There's no doubt that your employer lied to you about the dangers involved in the job. Do you really want to hand the crate over to him, or would you rather give it to Delian Sunshade, who believes it better to keep the crate's contents locked away?",
-    "name": "What Now?",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

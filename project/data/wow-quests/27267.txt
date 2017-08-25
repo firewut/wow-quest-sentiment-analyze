@@ -1,7 +1,0 @@
-{
-    "_id": "27267",
-    "description": "It seems that the leaders of SI:7 have taken an interest in your progress and your service to the Alliance. Osborne the Night Man, a high ranking member of SI:7, has asked to speak with you. Look for him in the southern part of Stormwind's Old Town.I'm not sure what Osborne wants with you, but it seemed important.",
-    "name": "Make Contact with SI:7",
-    "requires_level": 20,
-    "zone": "Rogue"
-}

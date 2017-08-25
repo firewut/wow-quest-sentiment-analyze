@@ -1,8 +1,0 @@
-{
-    "_id": "38946",
-    "added_in_patch": 7,
-    "description": "Whoever wove this fabric CAN'T have intended it only for belts and shoulderpads. There must be some way to sew thread into this material.Head on down to Azsuna and try to find a tailor. We need to sew if we're going to do any real tailoring.",
-    "name": "Consult the Locals",
-    "requires_level": 100,
-    "zone": "Tailoring"
-}

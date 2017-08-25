@@ -1,7 +1,0 @@
-{
-    "_id": "25239",
-    "description": "",
-    "name": "Path of Might",
-    "requires_level": 80,
-    "zone": "Quests"
-}

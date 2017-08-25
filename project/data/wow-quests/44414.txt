@@ -1,8 +1,0 @@
-{
-    "_id": "44414",
-    "added_in_patch": 7,
-    "description": "These Felspawns are endless! I can't cut them down quickly enough to get to the dreadlord within the mausoleum.\r\n\r\nMaster Illidan, will you come with me so we can take down Lothros together?",
-    "name": "Felspawns of Lothros",
-    "requires_level": 98,
-    "zone": "Black Rook Hold"
-}

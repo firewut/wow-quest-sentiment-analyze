@@ -1,7 +1,0 @@
-{
-    "_id": "27476",
-    "description": "Take the codex and travel north to the Sepulcher. Once there, find Dalar Dawnweaver. Dalar is a former archmage of the Kirin Tor. Surely he will be able to bring down the protective wards surrounding this codex and pry its secrets loose.Hurry, <name>.",
-    "name": "Dalar Dawnweaver",
-    "requires_level": 14,
-    "zone": "Silverpine Forest"
-}

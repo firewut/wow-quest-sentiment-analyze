@@ -1,7 +1,0 @@
-{
-    "_id": "14247",
-    "description": "By authority of the Cenarion Circle, I am charged with turning these harsh lands into lush prairie.The lands south of here welcomed the growth, but something here is fighting back - resisting the replenishment.Perhaps your eyes can succeed where mine have failed.Please, <race>. Scour these lands and discover the source of the desert's stubbornness. ",
-    "name": "Stubborn Lands",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

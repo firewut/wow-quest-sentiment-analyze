@@ -1,7 +1,0 @@
-{
-    "_id": "36504",
-    "description": "",
-    "name": "Bonus Objective: Evermorn Springs",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30884",
-    "added_in_patch": 5,
-    "description": "This battlefront has been undermanned and unsupplied for too long during my absence in Kun-Lai. We need to get things back in order here before we can pick up the trail of the Sha of Hatred.Taoshi is my best. I've sent her north to investigate rumors of mantid that have somehow made it through the battlefront. I need someone I can trust to get out there and work with her to plug any holes in our defenses.If my reports on you are correct, I can trust you with this, right <class>?",
-    "name": "Behind the Battlefront",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

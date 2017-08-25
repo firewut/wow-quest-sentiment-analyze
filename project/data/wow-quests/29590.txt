@@ -1,7 +1,0 @@
-{
-    "_id": "29590",
-    "description": "A terrifying otherworldly being haunts both the spirit and physical worlds. We call it Shirrak.It can only be harmed in your realm. Please help rid us of this nightmare.",
-    "name": "The Dead Watcher",
-    "requires_level": 64,
-    "zone": "Auchenai Crypts"
-}

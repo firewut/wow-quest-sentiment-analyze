@@ -1,8 +1,0 @@
-{
-    "_id": "39340",
-    "added_in_patch": 7,
-    "description": "The first step in making this crucible useful is to restore the lining of its interior. That's going to require supplies you'll either gather yourself or obtain through trade with fellow adventurers.Felwort and yseralline seeds are familiar to herbalists.Felhide is obtained through skinning.Blood of Sargeras can be found all over the Broken Isles.",
-    "name": "Lining the Crucible",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

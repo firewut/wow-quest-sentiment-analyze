@@ -1,7 +1,0 @@
-{
-    "_id": "14044",
-    "description": "Thanks for bringing the candied sweet potatoes. There's so much cooking to do, I can hardly keep up. And then, Miles sends me a note saying he's on the verge of running out of stuffing and cranberry chutney. I don't suppose you'd be willing to step in and whip up some more of each? The vendor should have all the ingredients you need.You should be able to find Miles Standish near the feasting tables in the courtyard in the ruins above Undercity.",
-    "name": "Undersupplied in the Undercity",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

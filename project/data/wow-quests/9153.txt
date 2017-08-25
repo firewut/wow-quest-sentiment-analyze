@@ -1,7 +1,0 @@
-{
-    "_id": "9153",
-    "description": "The floating necropolises of the Scourge plague the lands of Horde and Alliance alike. Tanaris, the Blasted Lands, Winterspring and the Burning Steppes are blanketed in the shadows of the flying fortresses.Only through our combined efforts will they be repelled.Each necropolis is supported by nearby magical circles, and among each circle swarms a host of undead creartures. We have determined that destroying these mindless hordes will destroy the circle's defenses.",
-    "name": "Under the Shadow",
-    "requires_level": 50,
-    "zone": "Quests"
-}

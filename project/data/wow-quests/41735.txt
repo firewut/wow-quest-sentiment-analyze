@@ -1,8 +1,0 @@
-{
-    "_id": "41735",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: The Monkey King",
-    "requires_level": 103,
-    "zone": "Monk Campaign"
-}

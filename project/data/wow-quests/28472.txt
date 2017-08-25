@@ -1,7 +1,0 @@
-{
-    "_id": "28472",
-    "description": "The Winterfall are no longer a threat to me, but if you still want to find out what was driving the furbolg to create and consume this strange firewater, I think you should seek out Kelek Skykeeper.He's a druid that once worked to help cleanse Felwood with the Emerald Circle, and has since come here to study the nearby ruins.You might be able to find him to the east at Lake Kel'theril, where he spends his time recently.",
-    "name": "Words of the High Chief",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

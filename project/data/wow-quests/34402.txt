@@ -1,9 +1,0 @@
-{
-    "_id": "34402",
-    "added_in_patch": 6,
-    "description": "The return of many of my people is a boon to us, and I thank you for your part in their survival.\r\n\r\nCome, ride with me. We have much to discuss.",
-    "name": "Of Wolves and Warriors",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

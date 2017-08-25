@@ -1,8 +1,0 @@
-{
-    "_id": "32269",
-    "added_in_patch": 5.2,
-    "description": "We need to keep a close watch on the Kirin Tor and their day-to-day activities. Normally this would be easy. We would sneak in a spy and have them report back to us.However, we've run into a slight problem I believe you can help us with.The Kirin Tor perimeter wards have increased in power. It's next to impossible to get someone past their lines. If they were disabled we might be able to sneak in before they can be repaired.",
-    "name": "Breaking Down the Defenses",
-    "requires_level": 90,
-    "zone": "Quests"
-}

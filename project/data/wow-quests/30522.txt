@@ -1,8 +1,0 @@
-{
-    "_id": "30522",
-    "added_in_patch": 5,
-    "description": "What are YOU doing here, citypaw?Look, I've got my hands full with a break-in at my shed to the west. Some rascals came in the middle of the night and ransacked the place.I've got missing seeds, broken tools, and eaten inventory to deal with.I'll just add it to my list of other troubles: a whole wagon of melons stolen, a broken water pump, animals ruining my harvest...I wish that I could just get to the bottom of all this already!",
-    "name": "Haohan's Vote II: The Real Culprits",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

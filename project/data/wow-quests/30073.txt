@@ -1,8 +1,0 @@
-{
-    "_id": "30073",
-    "added_in_patch": 5,
-    "description": "We have everything we need. It's time to start brewing.Pay attention, <name>... you might learn a thing or two.",
-    "name": "The Emperor",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

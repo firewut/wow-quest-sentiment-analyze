@@ -1,8 +1,0 @@
-{
-    "_id": "14321",
-    "description": "<A long knife with a skull ornament on its hilt sticks out of the militiaman's ribs.  As you look around for clues, you spot a pair of savage-looking warships at the shore.><Gilneas is being invaded.  Bring word back to Duskhaven's Mayor, Gwen Armstead.>",
-    "name": "Invasion",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

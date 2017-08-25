@@ -1,7 +1,0 @@
-{
-    "_id": "25012",
-    "description": "If you're headed back to Brill, you'll want to stop by Executor Zygand on your way out.  I hear there's some excitement going on in Silverpine Forest, to the south.  He'll know more than I do.Speak with me again when you're ready to head out.",
-    "name": "Take to the Skies",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

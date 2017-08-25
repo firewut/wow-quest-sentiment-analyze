@@ -1,9 +1,0 @@
-{
-    "_id": "38257",
-    "added_in_patch": 6.2,
-    "description": "The Iron Horde - or whatever Gul'dan is turning them into - has fallen back and fortified the entrance to Tanaan. A direct assault will take a heavy toll.However, the sea lanes are open. If we attack by both land and sea, Gul'dan's Horde will have no quarter. <name>, it's time to build a shipyard!We'll need to source local resources. Travel to the Iron Docks, where a small Alliance reclamation force is already waiting. Gather what equipment you can, and find us a shipwright capable of building a fleet!",
-    "name": "We Need a Shipwright",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

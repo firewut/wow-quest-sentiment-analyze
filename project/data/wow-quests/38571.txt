@@ -1,8 +1,0 @@
-{
-    "_id": "38571",
-    "description": "My warriors will surround and cover the train car. Hit the detonator to blow open the doors.I will speak to Roark and convince him to defect to our cause. He built all of this - he's our best hope for building a shipyard of our own.If this doesn't work, execute him on the spot. The last thing we need is someone rebuilding the Iron Fleet.",
-    "name": "The Train Gang",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

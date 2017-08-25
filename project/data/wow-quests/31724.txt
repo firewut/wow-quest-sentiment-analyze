@@ -1,8 +1,0 @@
-{
-    "_id": "31724",
-    "added_in_patch": 5,
-    "description": "You're tough for just starting out!Old MacDonald taught me everything I know about battling. I think fighting him would be a great learning experience for you!He can be found just across the bridge leading to Westfall. Don't let his age fool you, he's already beaten quite a few up-and-coming trainers like yourself.",
-    "name": "Old MacDonald",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

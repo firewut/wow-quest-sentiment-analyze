@@ -1,9 +1,0 @@
-{
-    "_id": "36629",
-    "added_in_patch": 6,
-    "description": "I hope you will find our facilities to be up to your high standards.This inn is run by Jaesia Rosecheer, in my opinion this is the best place to hearth in Draenor.We have new recruits coming through the portal daily. In fact our latest recruit, Knewbie McGreen just came through the portal today.If you are looking to trade for weapons or armor, Vindicator Nuurem will be happy to help.",
-    "name": "Inspiring Ashran",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Stormshield"
-}

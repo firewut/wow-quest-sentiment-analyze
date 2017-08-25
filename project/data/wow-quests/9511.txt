@@ -1,7 +1,0 @@
-{
-    "_id": "9511",
-    "description": "<TXT>The documents you found on Kargath's body detail plans on what appears to be a massive invasion on Honor Hold.",
-    "name": "Kargath's Battle Plans",
-    "requires_level": 67,
-    "zone": "Hellfire Peninsula"
-}

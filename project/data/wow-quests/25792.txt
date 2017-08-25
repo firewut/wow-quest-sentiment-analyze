@@ -1,8 +1,0 @@
-{
-    "_id": "25792",
-    "description": "Most of the mountaineers and steam tanks in Dun Morogh are battling along the Frostmane Front, which is approaching us from the southeast. We can barely hold the trolls back, let alone advance into their village and take on their leader.They've blocked our path of approach with mysterious totems that choke mountaineers who come in range, leaving the victims helpless against their enemies. This stone is inscribed with a rune of fire; it should be able to destroy the totems and free our mountaineers.",
-    "name": "Pushing Forward",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

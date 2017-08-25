@@ -1,8 +1,0 @@
-{
-    "_id": "44034",
-    "added_in_patch": 7,
-    "description": "We still have plans prepared to obtain other weapons of incredible power - tools that you may find useful to have on hand as you continue your work.\r\n\r\nI would be happy to go over the remaining options with you so that you may make an informed decision.",
-    "name": "Another Worthy Blade",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

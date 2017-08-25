@@ -1,7 +1,0 @@
-{
-    "_id": "24988",
-    "description": "It's so cold, now.  The Plague of Undeath crawls through my veins like an icy serpent.  The mindless state will be upon me soon.  But no doomed destiny will prevent me from serving our Dark Lady.  When the call arose I sewed body bags for the fallen soldiers of Sylvanas's mighty army.Now my hands shake from the chill.  If you would bring me five duskbat pelts, I could sew myself a blanket.  Help me, <name>, so that I can continue to serve the cause.",
-    "name": "The Chill of Death",
-    "requires_level": 5,
-    "zone": "Tirisfal Glades"
-}

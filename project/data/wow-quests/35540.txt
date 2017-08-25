@@ -1,8 +1,0 @@
-{
-    "_id": "35540",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Sethekk Halls Reward Quest",
-    "requires_level": 70,
-    "zone": "Quests"
-}

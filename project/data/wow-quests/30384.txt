@@ -1,8 +1,0 @@
-{
-    "_id": "30384",
-    "added_in_patch": 5,
-    "description": "Horde sunwalkers! We saw one of their scouts patrolling by the oubliette not long before you arrived.I don't know how he got here but I can guarantee you he isn't alone. They never are.Kill the sunwalker scout before he reports our position.",
-    "name": "Blind Them!",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

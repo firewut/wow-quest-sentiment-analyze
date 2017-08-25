@@ -1,8 +1,0 @@
-{
-    "_id": "30820",
-    "added_in_patch": 5,
-    "description": "As I said, I will gather the town - we will be at the funeral. \r\n\r\nAs the one who has done so much to honor our friends, we feel it is only right that you will be the one to light the Incense of Life and usher their spirits to the life beyond.",
-    "name": "A Funeral",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

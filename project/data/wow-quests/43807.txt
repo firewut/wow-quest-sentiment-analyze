@@ -1,8 +1,0 @@
-{
-    "_id": "43807",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Withered Wrangling: Meredil and Ambervale",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

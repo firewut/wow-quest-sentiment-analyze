@@ -1,8 +1,0 @@
-{
-    "_id": "40705",
-    "added_in_patch": 7,
-    "description": "Master <name>, I come at the behest of one who seeks to organize a stronger resistance to the Legion threat.If you would meet him at Faol's Rest in Tirisfal Glades, he will guarantee both your safety and an opportunity to play a pivotal role in the conflict.",
-    "name": "Priestly Matters",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

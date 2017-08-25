@@ -1,8 +1,0 @@
-{
-    "_id": "44401",
-    "added_in_patch": 7,
-    "description": "Our ally, the Lich King, has offered to provide you with a lead on a final weapon should you desire to maximize our offensive options.\r\n\r\nLet me know how you would like to proceed.",
-    "name": "A Weapon For Every Occasion",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

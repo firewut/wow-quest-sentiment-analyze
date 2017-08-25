@@ -1,7 +1,0 @@
-{
-    "_id": "10551",
-    "description": "",
-    "name": "Allegiance to the Aldor",
-    "requires_level": 60,
-    "zone": "Shattrath City"
-}

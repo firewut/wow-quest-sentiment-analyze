@@ -1,7 +1,0 @@
-{
-    "_id": "29811",
-    "description": "Krik'thir, guardian of the gates to Azjol-Nerub, was not a traitor.He fell in the War of the Spider defending our home from the Scourge.As per his station, he was in possession of the key to the hidden empire. I'd like you to retrieve it so it may be returned to its people.",
-    "name": "The Gatewatcher's Talisman",
-    "requires_level": 70,
-    "zone": "Azjol-Nerub"
-}

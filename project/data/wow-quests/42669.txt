@@ -1,8 +1,0 @@
-{
-    "_id": "42669",
-    "added_in_patch": 7,
-    "description": "We have the Sargerite Keystone. We have most of the forces we will need. We even have a plan.\r\n\r\nNow we need to locate the Felsouls and prepare for an invasion of whatever demon world they're hiding out on.\r\n\r\nPlease leave it to me. If you will grant me the use of your champions, I and the Scythe of Souls will extract the information by any means necessary from the demons that we question.",
-    "name": "Preparations for Invasion",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

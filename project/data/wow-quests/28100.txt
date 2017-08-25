@@ -1,7 +1,0 @@
-{
-    "_id": "28100",
-    "description": "The furbolg village to the south is the home of the Deadwood tribe, sworn enemies of the Timbermaw. They are corrupted and foul like so many others, driven mad by the taint of these woods.Something unusual has occured near the village though. Travelers coming here have said that the totem next to the road has spoken to them.I have heard nothing every time I approach it. Perhaps it will speak to you, <name>? Maybe you can find out what's going on for me.",
-    "name": "A Talking Totem",
-    "requires_level": 44,
-    "zone": "Felwood"
-}

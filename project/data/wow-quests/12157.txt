@@ -1,7 +1,0 @@
-{
-    "_id": "12157",
-    "description": "We're lucky we made it this far, <name>.  We were ambushed by Scourge as soon as we landed.One of our men turned out to be a spy for the Cult of the Damned.  Thassarian appears to have more evidence of cultist infiltration.  Apparently it goes all the way to the top.I've sent one of my best couriers to our outpost in western Dragonblight, but he has not yet returned. I fear he may have fallen to the Scourge. Will you go to Dragonblight and search for him? Courier Lanson is his name.\r\n",
-    "name": "The Lost Courier",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25087",
-    "description": "The Alliance owes a debt to the dwarves of Bael Modan, who built some of our earliest fortifications in the Barrens.Their commander, General Twinbraid, is a real stalwart. One of our best. He's on patrol south of here, keeping the Horde on their toes.I definitely want to keep him appraised of the situation here so we can coordinate our next move. Can you deliver this frontline report to him in the field? ",
-    "name": "Report to Twinbraid",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13239",
-    "description": "Where to begin... well, you must know that as chief engineer of this vessel I have access to all of the intelligence reports - yes, yes, it's true, and I've recently taken a particular interest in the frostwyrms you reported seeing to the south, and I do believe I've developed a plan that just might work against them... now it'll take a little legwork on your part, but essentially, you build a dummy out of armor and coat it with a splash of this solution, then run for cover!...You still here, <race>?",
-    "name": "Volatility",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

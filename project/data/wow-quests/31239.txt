@@ -1,9 +1,0 @@
-{
-    "_id": "31239",
-    "added_in_patch": 5,
-    "description": "So, you wanna be a hozen. Huh, wikket?Hozen defend their lands from enemies, like jinyu.Kah Kah fought many jinyu fights, and won them all.Hozen only give name name to good grookers. Go grook jinyu and maybe they call you <name> <name>.Jinyu creepin' down by the river. Ook 'em in the dooker!",
-    "name": "What's in a Name Name?",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42657",
-    "added_in_patch": 7,
-    "description": "Lyana Stardust still lingers in a vale that has been overrun by demons. Despite its current start of upheaval, she refuses to abandon her home.The strength and stubbornness she exhibits in the face of an enemy are also traits that shine through in her enchantments.We want our weapons to be as strong and stubborn as she is.Meet her in Moonclaw Vale, and see if she can work her magic with the weapons that Kyriel has crafted for us.",
-    "name": "Meeting in Moonclaw Vale",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

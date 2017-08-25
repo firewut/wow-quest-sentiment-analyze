@@ -1,8 +1,0 @@
-{
-    "_id": "24910",
-    "description": "Alright, <name>. We've done enough small jobs around here; it's time to seal the deal.The ruins of Steamwheedle Port are still full of hapless Steamwheedle goblins, waiting to be rescued. Every single one of them is a potential future customer. They're firing on every boat that leaves port...so I say we take to the skies!There's a hot air balloon just outside of town near the docks, we can use that. Go ahead and hop in, I'll catch up with you.",
-    "name": "Rocket Rescue",
-    "requires_level": 43,
-    "side": "horde",
-    "zone": "Tanaris"
-}

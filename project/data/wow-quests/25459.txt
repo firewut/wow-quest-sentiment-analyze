@@ -1,7 +1,0 @@
-{
-    "_id": "25459",
-    "description": "If there's one thing I can't stand, it's snakes. Any kind of snake - doesn't matter.While I was out searching for salvage, I saw a nest of sea serpents surrounding the nearby wreckage.I simply can't relax knowing that those awful creatures could slither up in here at any moment.Please, <class>! Do something about them!",
-    "name": "Ophidophobia",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

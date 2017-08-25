@@ -1,8 +1,0 @@
-{
-    "_id": "26324",
-    "description": "The Highlands are the home of the Dragonmaw orcs. If we show them our might they would ally with us against the Twilight's Hammer. I am certain!\r\n\r\nThe fleet is gathering at Bilgewater Port in Azshara but there are reports of delays.\r\nYou did good getting the goblins to work, I need your skills here too.\r\nFind Warlord Krogg in Azshara and see what is taking so long.",
-    "name": "Where Is My Warfleet?",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

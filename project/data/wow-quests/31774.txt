@@ -1,9 +1,0 @@
-{
-    "_id": "31774",
-    "added_in_patch": 5,
-    "description": "Rivett claims to have seen Zin'jun abandon ship with the rest of the survivors. That means he's still out there somewhere.We can't leave him behind. He could be injured or worse yet, captured!Go track down Zin'jun and bring him back.",
-    "name": "Seeking Zin'jun",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

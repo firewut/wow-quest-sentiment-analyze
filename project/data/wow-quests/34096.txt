@@ -1,9 +1,0 @@
-{
-    "_id": "34096",
-    "added_in_patch": 6,
-    "description": "I'll get the prototype shredder working right now!\r\n\r\nTake a look through my Observicopter. You'll see what you're about to head into...",
-    "name": "An Eye for a Spy",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

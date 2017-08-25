@@ -1,7 +1,0 @@
-{
-    "_id": "13643",
-    "description": "The crystal will reveal the truth about how three of the tournament's combatants died. Take it with you to the graveyard east of the Tournament Grounds and use it before the graves of Sir Wendell Balfour, Lorien Sunblaze, and Conall Irongrip.If indeed these men were murdered, then we must find a way to tie it to the Black Knight before he strikes again. Look closely at what the crystal tells you, <name>, for we must be certain these deaths were not accidental.",
-    "name": "The Stories Dead Men Tell",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

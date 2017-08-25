@@ -1,8 +1,0 @@
-{
-    "_id": "40368",
-    "added_in_patch": 7,
-    "description": "In order to locate and purify the source of the corruption I am going to need an elemental focus.The turtles around here have developed scales that can focus and amplify their innate magics. Bring back some snapper scales and we will have these waters purified in no time!",
-    "name": "Turtle Powered",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25320",
-    "description": "I've heard about you, <name>, and the news you brought from the south.  The battle has reached a stalemate.One that I fear is about to be broken by the Firelord's reawakening.That is unless we tip the scales in our favor in some way.There is a scout that was captured by the Twilight's Hammer.  I believe she was in possession of valuable intelligence. Find her in the Twilight camp to the west.",
-    "name": "The Captured Scout",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

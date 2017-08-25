@@ -1,8 +1,0 @@
-{
-    "_id": "38817",
-    "added_in_patch": 7,
-    "description": "So you seek the judgment of the queen of the Valkyra? This must be your fault!\r\n\r\nThe Bonespeakers of Haustvald have committed an atrocity and stolen Ashildir's bones. They must have done this to keep an outsider from completing the trials. You must not let this stand!\r\n\r\nEnter Haustvald and retrieve her remains. I hope, for your sake, that Ashildir is in a forgiving mood.",
-    "name": "Regal Remains",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

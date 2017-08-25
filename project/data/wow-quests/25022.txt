@@ -1,7 +1,0 @@
-{
-    "_id": "25022",
-    "description": "I told him he was a fool, but Ambassador Gaines insisted he could negotiate an alliance with the quilboar against the Horde. Even if he succeeded, I for one wouldn't want to fight with those ... pig-men at my side.Well, Gaines hasn't returned, and General Hawthorne will hold me accountable if I lose one of our best negotiators to these squealing savages.Locate the Ambassador in this steaming mess of a jungle and rescue him if he's still alive.",
-    "name": "A Failure to Communicate",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

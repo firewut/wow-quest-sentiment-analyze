@@ -1,7 +1,0 @@
-{
-    "_id": "28054",
-    "description": "Much like Overseer Maltorius, I'm a rich dwarf.  However, I earned my riches through hard work and wise decisions, not through slavery.OK fine, very little slavery.  Hardly any.Anyhow, the first thing that I see inside these caverns are slavedrivers and taskmasters.  I won't stand for this!  As you progress through the cavern, kill as many as you can.  Report your results to Evonice Sootsmoker, deeper within the Slag Pit.",
-    "name": "Slavery is Bad",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

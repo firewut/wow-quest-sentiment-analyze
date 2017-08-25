@@ -1,8 +1,0 @@
-{
-    "_id": "29919",
-    "added_in_patch": 5,
-    "description": "Hello again, <name>. What is this, the fourth time we've run into one another already?Say... my keg is quickly becoming quite empty. I've heard mention of a brewery to the southwest, and that's where we're headed. Care to join us?",
-    "name": "Great Minds Drink Alike",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

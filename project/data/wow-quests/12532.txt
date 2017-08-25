@@ -1,7 +1,0 @@
-{
-    "_id": "12532",
-    "description": "Dumb Goregek stumble into chicken house and let all the chickens go!They all around hill - go get chickens back!<Elder Harkek shoos you away.>",
-    "name": "Flown the Coop!",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "24457",
-    "description": "I cannot thank you enough for cleansing my tribe's well, <name>, and for fighting the savage Grimtotem to do it. But there is more to be done, and it is time for your journey to lead you beyond Bloodhoof Village.Zarlman Two-Moons stands by the fire in the north end of the village.  Go speak with him and learn of the next ritual you must undertake.",
-    "name": "Rite of Vision",
-    "requires_level": 3,
-    "side": "horde",
-    "zone": "Mulgore"
-}

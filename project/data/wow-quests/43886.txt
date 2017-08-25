@@ -1,8 +1,0 @@
-{
-    "_id": "43886",
-    "added_in_patch": 7,
-    "description": "You have a weapon both ancient and powerful. We know stories of it, but little about its origins.\r\n\r\nIf we truly want to unlock all of its potential, we need to learn more about it. The winds can help us with this, but we need to know what to ask.\r\n\r\nIt will take more shaman than just myself to learn everything there is to know about this artifact of yours. We should prioritize some of the order's resources towards this research. It will be worth every minute.",
-    "name": "Speaking to the Wind",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

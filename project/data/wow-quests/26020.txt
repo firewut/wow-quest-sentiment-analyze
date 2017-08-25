@@ -1,8 +1,0 @@
-{
-    "_id": "26020",
-    "description": "We must prepare for the impending attack. I will have our soldiers prepare the bomb for transport. I want you to report to Chief Blastgineer Bombgutz. She has been working to fix our anti-air cannons, but has thus far failed. Make sure that she is properly motivated to repair our guns, <name>.",
-    "name": "Report to Bombgutz",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

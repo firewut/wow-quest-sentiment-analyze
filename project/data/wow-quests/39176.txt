@@ -1,7 +1,0 @@
-{
-    "_id": "39176",
-    "description": "You - you are a gemcutter, no? You have the look of it in the twitch of your knuckles, in the focus of your eyes.I've been looking for something specific out here in Tanaan. We did not find it in our excavations in Arak... but the Apexis did not only dwell in Arak.What I am looking for is a storied Apexis construct that specialized in cutting gems. Be on the lookout, jewelcrafter. Such a marvel could benefit the both of us.",
-    "name": "Mastery Of Taladite",
-    "requires_level": 100,
-    "zone": "Jewelcrafting"
-}

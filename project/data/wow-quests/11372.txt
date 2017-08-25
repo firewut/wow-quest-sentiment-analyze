@@ -1,7 +1,0 @@
-{
-    "_id": "11372",
-    "description": "I've recently been approached by a tauren whose husband is about to be elevated to chieftain. She wishes to make a special addition to his headdress.Specifically, she wants to obtain the headfeathers from the dastardly Talon King Ikiss.If you are interested in collecting my reward, travel to Auchindoun's Sethekk Halls and find him.",
-    "name": "Wanted: The Headfeathers of Ikiss",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

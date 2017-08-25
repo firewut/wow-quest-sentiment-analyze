@@ -1,8 +1,0 @@
-{
-    "_id": "30957",
-    "added_in_patch": 5,
-    "description": "I command the sentinels of Niuzao. Every defender out there can hold his own against the mantid swarm.The kunchong, however, are something different.They are massive, violent, and without a question the biggest threat to my sentinels' lives. Only Niuzao stands a chance against them. Niuzao... and perhaps you.",
-    "name": "The Overwhelming Swarm",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

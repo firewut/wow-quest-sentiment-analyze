@@ -1,9 +1,0 @@
-{
-    "_id": "32642",
-    "added_in_patch": 5.2,
-    "description": "<Yoon's writing decorates the page though his feelings seem conflicted.>I normally try to stay out of conflict, but an order is an order. Since you are of the Horde I decided to pass this order your way.The Dominance Offensive has requested an order of red blossom leeks.The troops down there just can't seem to get enough of them!",
-    "name": "Work Order: Dominance Offensive I",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Valley of the Four Winds"
-}

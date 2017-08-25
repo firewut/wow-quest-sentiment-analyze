@@ -1,8 +1,0 @@
-{
-    "_id": "40530",
-    "added_in_patch": 7,
-    "description": "<name>, if there's one thing I despise, it's slander. A rumor is spreading that one of my recent commissions is a fake.We need to quell these rumors as quickly as possible.I need you to visit the customers I recently worked for and examine their gems. If your claim of being a jewelcrafter is true, then you will be able to spot a fake gem from a mile away.Here's the list of my patrons. Return immediately if you find any truth to these rumors.",
-    "name": "An Eye for Detail",
-    "requires_level": 98,
-    "zone": "Jewelcrafting"
-}

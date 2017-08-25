@@ -1,8 +1,0 @@
-{
-    "_id": "31326",
-    "added_in_patch": 5,
-    "description": "It's a dazzling diamond tiara. Who in the valley would be wealthy enough to own such a piece of jewelry?Whoever it is, they might be willing to give a nice reward.",
-    "name": "Tina's Tasteful Tiara",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

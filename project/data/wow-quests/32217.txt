@@ -1,8 +1,0 @@
-{
-    "_id": "32217",
-    "added_in_patch": 5.2,
-    "description": "The spirtibinders of the Zandalari perform sacrificial rites to appease the loa and their vile gods. These dark rituals involve the sacrifice of our people.\r\n\r\nDestroy any offerings you can find among their tents in Za'Tual and perhaps we can stall the sacrifices.",
-    "name": "Dark Offerings",
-    "requires_level": 90,
-    "zone": "Quests"
-}

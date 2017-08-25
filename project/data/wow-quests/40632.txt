@@ -1,8 +1,0 @@
-{
-    "_id": "40632",
-    "added_in_patch": 7,
-    "description": "I have good news and bad news, <race>.The good news is that our preparations are complete and we can now embark. The bad news is that the tunnel I have been using is compromised. The Nightborne have sent enforcers into the tunnel and we cannot outmaneuver them here.Slaying them is the only way we will get through undetected. We will follow behind once the path is clear.",
-    "name": "Clearing the Path",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

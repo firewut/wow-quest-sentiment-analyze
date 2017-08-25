@@ -1,7 +1,0 @@
-{
-    "_id": "28671",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Okrilla at Dreadmaul Hold.Okrilla, commander of the Horde forces at Dreadmaul Hold, requires your help to secure the outpost against rebellious ogres and the forces of the Alliance.Travel to Dreadmaul Hold by taking the road south from the Swamp of Sorrows.Destiny calls!",
-    "name": "Warchief's Command: Blasted Lands!",
-    "requires_level": 54,
-    "zone": "Blasted Lands"
-}

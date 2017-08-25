@@ -1,9 +1,0 @@
-{
-    "_id": "36023",
-    "added_in_patch": 6,
-    "description": "The Shattered Hand are nae strangers tae pain. They each cut off their own hand as a sign o' their allegiance to Kargath.If you're going tae get the information we need, it might take more than my poison.Slaughter them all. We'll see how far they're willing tae go fer their beloved warlord.",
-    "name": "Extrinsic Motivation",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36248",
-    "added_in_patch": 6.1,
-    "description": "This invasion is clearly an attempt to seize the Heart of Gorgorek.We need to fortify our guard before it's too late!",
-    "name": "A Stolen Heart",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

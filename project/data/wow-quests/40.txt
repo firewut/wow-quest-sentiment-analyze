@@ -1,8 +1,0 @@
-{
-    "_id": "40",
-    "description": "<name>, there's a new threat in Elwynn Forest!  Murlocs are swimming up the streams of eastern Elwynn, scaring away fish and attacking gentle folk!I warned Marshal Dughan, but he's more worried about the gnolls and the bandits.  He's not convinced that the murlocs are a danger.Please, <name>, speak to Dughan and persuade him to send more troops to the east!",
-    "name": "A Fishy Peril",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

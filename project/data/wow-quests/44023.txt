@@ -1,8 +1,0 @@
-{
-    "_id": "44023",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Siegemaster Aedrin",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

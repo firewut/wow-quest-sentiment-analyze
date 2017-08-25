@@ -1,8 +1,0 @@
-{
-    "_id": "10278",
-    "description": "Long have I wandered through Outland, searching for the truth of the void.  Now I am old and weak.  Perhaps you will help me? I must learn the secrets of the voidwalkers.  You must find the Warp Fields to the west.  West of the Expedition Armory there is a dark place on the edge of the abyss where time and space are weak.  Use my unstable warp rift generator in the Warp Fields to create a warp rift.  You must gather warp nether from the creatures that come through.  ",
-    "name": "The Warp Rifts",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

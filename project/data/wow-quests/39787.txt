@@ -1,8 +1,0 @@
-{
-    "_id": "39787",
-    "added_in_patch": 7,
-    "description": "Care to help settle a bet, chum?\r\n\r\nThose tauren are Skyhorn, and they fancy themselves big-time hunters. I bet them a pretty penny that they wouldn't be able to take out some of the biggest beasts in Stormheim.\r\n\r\nIf you take em out before they do, I'll split the wager. Deal?\r\n\r\nThe first is a big eagle nesting in the foothills. They call him Spitefeather. You can bait him with some meat, but he's up pretty high, so you'll need a grapple gun to get there. I think there's one of them layin around here...",
-    "name": "Rigging the Wager",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34375",
-    "added_in_patch": 6,
-    "description": "Alright, boss. We're gonna need some lumber if we're gonna get this garrison started off right.\r\n\r\nIf you mark some trees to be cut down, your peons will do the rest.",
-    "name": "Back to Work",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

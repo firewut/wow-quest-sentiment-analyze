@@ -1,7 +1,0 @@
-{
-    "_id": "14410",
-    "description": "You are truly brave to help us protect these lands, hero. If you wish to do more for the wilds, there are others in need of your aid.The verdant forests of Feralas lie to the south. There, in the shade of the mighty Twin Colossals, you must seek out Telaron Windflight. At Dreamer's Rest, he and his fellow druids of the talon have found signs of a disturbing illness.They will need your help, <class>. Go in peace.",
-    "name": "The Wilds of Feralas",
-    "requires_level": 31,
-    "zone": "Feralas"
-}

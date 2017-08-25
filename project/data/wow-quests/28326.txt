@@ -1,7 +1,0 @@
-{
-    "_id": "28326",
-    "description": "<name>.  It sounds like you and Keeshan have finished with your tasks.  I've also finished mine.Return to Morgan's Vigil.  I've prepared a few packages to deliver to the Big Three: Thorg'izog, Neeralak, and Xi'lun.  You've already met General Thorg'izog.  This will be your chance to meet the other two.That is, before we kill them.",
-    "name": "Placing the Pawns",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

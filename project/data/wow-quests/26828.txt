@@ -1,7 +1,0 @@
-{
-    "_id": "26828",
-    "description": "Sadly, I must stay and hold the rift, so you will have to battle without me. Go now to Therazane and join the battle, as promised. You should find her at the Halcyon Egress, north of Lorthuna's Gate and east of the Scoured Reach.When our part of the bargain is fulfilled, bring the last piece of the World Pillar here as quickly as possible. ",
-    "name": "Our Part of the Bargain",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

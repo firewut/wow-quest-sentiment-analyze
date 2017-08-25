@@ -1,9 +1,0 @@
-{
-    "_id": "32645",
-    "added_in_patch": 5.2,
-    "description": "<Yoon's writing decorates the page though his feelings seem conflicted.>I normally try to stay out of conflict, but an order is an order. Since you are of the Alliance I decided to pass this order your way.Operation: Shieldwall has requested a whole heap of witchberries.I can't be sure, but I think they have an idea to use them in some sort of weapon.",
-    "name": "Work Order: Operation: Shieldwall I",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Valley of the Four Winds"
-}

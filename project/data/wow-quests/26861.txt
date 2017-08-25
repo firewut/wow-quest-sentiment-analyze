@@ -1,7 +1,0 @@
-{
-    "_id": "26861",
-    "description": "If we're to have a shot against Abyssion, we must make sure he receives no aid from reinforcements.You will find two gateways in his lair to the east.  Use this stormstone to disrupt their operation.If everything goes as planned, we'll be able to tackle Abyssion without him being able to receive much assistance.",
-    "name": "Block the Gates",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

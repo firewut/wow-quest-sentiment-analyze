@@ -1,7 +1,0 @@
-{
-    "_id": "29591",
-    "description": "The Auchenai have turned their backs on everything we used to stand for. They've taken to raising the dead as unholy minions!This cannot stand. Put the spirits back to rest, and massacre those responsible for raising them into undeath. ",
-    "name": "Raging Spirits",
-    "requires_level": 64,
-    "zone": "Auchenai Crypts"
-}

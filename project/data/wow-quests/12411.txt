@@ -1,7 +1,0 @@
-{
-    "_id": "12411",
-    "description": "Please, <name>.  I know it is Arugal you're after.  I swear on my father's memory I will help you take him down.But I must beg you... Anya is completely innocent, we cannot leave her with these savages.Help me rescue my sister and you'll have me at your side when you face Arugal.I know the den Anatoly spoke of.  We'll find it on the other side of this hill.  Let's go, my sister's in danger.",
-    "name": "A Sister's Pledge",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

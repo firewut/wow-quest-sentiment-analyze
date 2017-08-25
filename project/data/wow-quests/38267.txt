@@ -1,8 +1,0 @@
-{
-    "_id": "38267",
-    "description": "Iskar disappeared and now the Shadow Council is at our throats. These can't be unrelated events. We need to go to the last place he was seen, the ruins of Kra'nak.I've asked a friend to set up a camp nearby. I say we head there to continue our search.",
-    "name": "Friends Above",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

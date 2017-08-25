@@ -1,8 +1,0 @@
-{
-    "_id": "30671",
-    "added_in_patch": 5,
-    "description": "<Ana listens to your story, and nods.>Crocolisks attacking? I know a story about that. And I will share it with you, but first... I grow hungry.Shark meat should do the trick. You should find enough sharks in the water beneath us.",
-    "name": "Wisdom Has A Price",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34711",
-    "added_in_patch": 6,
-    "description": "Shall we return to your outpost? It would be a much better - and safer - place to celebrate.I'll teleport us there.",
-    "name": "Due Cause to Celebrate",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

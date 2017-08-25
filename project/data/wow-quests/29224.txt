@@ -1,7 +1,0 @@
-{
-    "_id": "29224",
-    "description": "Here we are, mortal.The rift emits intense energy that will shield the magic of your artifact.When you are ready, I will activate the Eye. Doing so will require all of my focus. You must witness the vision on your own.Hurry now, <class>. It is unsafe for us to tarry here.",
-    "name": "[DEPRICATED] NO LONGER USED",
-    "requires_level": 85,
-    "zone": "Quests"
-}

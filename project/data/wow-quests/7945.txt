@@ -1,7 +1,0 @@
-{
-    "_id": "7945",
-    "description": "\"Your fortune awaits you outside Palemane Rock.\"The fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Palemane Rock of Mulgore.  Focusing closer in on the image, you see a tree stump that sits close to the cave entrance.\r\n",
-    "name": "Your Fortune Awaits You...",
-    "requires_level": 10,
-    "zone": "Darkmoon Faire"
-}

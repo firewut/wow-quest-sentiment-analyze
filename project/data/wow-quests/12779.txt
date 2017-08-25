@@ -1,7 +1,0 @@
-{
-    "_id": "12779",
-    "description": "You have slaughtered legions beyond number and still your dark heart craves more. Your hunger knows no end, <name>.<The Lich King pauses.>There must come an end to all things, death knight. The Scarlet armies make their final stand against us. For them, there is no escape... no choice. And for this reason they will fight with a ferocity that you have yet to witness.Use this horn to call forth one of my wyrms. Climb upon its back and command it into battle. With it you will end the Scarlet Crusade.",
-    "name": "An End To All Things...",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

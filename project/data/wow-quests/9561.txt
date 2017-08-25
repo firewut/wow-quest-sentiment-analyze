@@ -1,7 +1,0 @@
-{
-    "_id": "9561",
-    "description": "The translation is ready now, <name>.<Anchorite Paetheus points out a block of text at the end of his translation.>'The enemy is nearly upon us. We've gathered up all the survivors and retreated to the temple to the east. It's the last ground we truly hold on the island, and there is a sense among the survivors that we will make our last stand here. I've taken care to bury my last few possessions on the grounds of the temple, with the hope that someone will find them and know what happened here.'",
-    "name": "Nolkai's Words",
-    "requires_level": 13,
-    "zone": "Bloodmyst Isle"
-}

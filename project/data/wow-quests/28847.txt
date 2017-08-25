@@ -1,7 +1,0 @@
-{
-    "_id": "28847",
-    "description": "We have isolated Umbranse's position here in Winterspring. It is as I suspected.Umbranse is at Mazthoril, the cavern that once belonged to the blue dragonflight, in the southwest. My mother, Haleh, will greet you there. She is stationed outside of the cave in a small camp with a few other survivors.Look for her campfire.",
-    "name": "The Pursuit of Umbranse",
-    "requires_level": 51,
-    "zone": "Winterspring"
-}

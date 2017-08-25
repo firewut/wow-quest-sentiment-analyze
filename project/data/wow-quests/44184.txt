@@ -1,8 +1,0 @@
-{
-    "_id": "44184",
-    "added_in_patch": 7,
-    "description": "The Broken Isles is our destination, <name>.The spell that will blink Dalaran to its new location is not a simple one. It will take this Council's full energy and attention.As Jaina is... absent, Kalecgos of the blue dragonflight has offered us his aid.The Legion will make every attempt to stop us, but we will not falter. It is time to begin!",
-    "name": "In the Blink of an Eye",
-    "requires_level": 98,
-    "zone": "Dalaran"
-}

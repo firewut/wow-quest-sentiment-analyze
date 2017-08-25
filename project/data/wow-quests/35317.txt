@@ -1,9 +1,0 @@
-{
-    "_id": "35317",
-    "added_in_patch": 6,
-    "description": "We are not far from the inner chamber, <name>. The truth behind the evil here awaits us.I can project my spirit into the chamber to guide you, but it will be up to you to defeat the evil that lays within.May the wind of Kalandrios guide your arm, the wisdom of Aborius enlighten your faculties, and the flame of Incineratus burn your enemies.May the memory of Gordawg be your shield.",
-    "name": "The Dark Heart of Oshu'gun",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

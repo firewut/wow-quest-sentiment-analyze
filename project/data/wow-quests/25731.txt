@@ -1,7 +1,0 @@
-{
-    "_id": "25731",
-    "description": "It's time to get to the bottom of this. We need to interrogate the matron of these beasts, Marion Wormwing. We'll capture her alive. Here's the plan:The harpies communicate across the ridge using a series of signal fires. If we extinguish one, Marion is sure to come investigate.You fight her as a distraction while I sneak up behind and grab her. I'll leave the questioning to you. Let's get her, <name>! ",
-    "name": "A Bird in Hand",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

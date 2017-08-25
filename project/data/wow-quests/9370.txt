@@ -1,8 +1,0 @@
-{
-    "_id": "9370",
-    "description": "Our scouts captured a draenei paladin at the Pools of Aggonar.  He was to take part in a cleansing ritual to purify the pools.  We must stop the draenei from succeeding or we will lose our supply of felblood!He was carrying this signaling gem, looking to mark a spot where a priest - or \"anchorite\" as they call themselves - could perform their rituals in safety.  Place the gem near the Altar of Aggonar and be ready to ambush any approaching draenei.I suggest that you take a friend or two along.",
-    "name": "The Cleansing Must Be Stopped",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

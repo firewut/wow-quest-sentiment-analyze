@@ -1,8 +1,0 @@
-{
-    "_id": "31114",
-    "added_in_patch": 5,
-    "description": "We have always left the Deadtalkers alone. For so long, they were just responsible for maintaining the sacred burial grounds of the yaungol tribes.\r\n\r\nNow, though, they are practicing dark magic, defiling the corpses of their former clanmates... \r\n\r\nI know not where they learned those dark magics, or why they no longer treat their dead with respect, but we do not have time to find out. \r\n\r\nWe need to stop them.",
-    "name": "Assault Deadtalker's Plateau",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

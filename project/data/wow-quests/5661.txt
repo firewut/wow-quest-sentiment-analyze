@@ -1,7 +1,0 @@
-{
-    "_id": "5661",
-    "description": "You be far from home out here in the Bloodhoof Village, <name>. I be sent here to find priests of my own tribe to send back to speak to our leaders, but that not mean I cannot help you too.I hear word that your head priestess spirit want all Forsaken to come to her--there are things you must learn.Go to meet Aelthalyste in the War Quarter in that city of yours.",
-    "name": "Touch of Weakness",
-    "requires_level": 10,
-    "zone": "Priest"
-}

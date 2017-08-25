@@ -1,7 +1,0 @@
-{
-    "_id": "27518",
-    "description": "<Sylvanas speaks directly through you.>You must find the being responsible for keeping this dimensional pocket active. Likely that fool, Ataeric... Search the compound for him. Should you find him, do what you must to stop him from channeling his magic. He is undoubtedly protected by a powerful arcane shield, and will send minions of arcane energy after you.  Defeat the minions while they are near him to unleash their energies.  No mage can handle that much power!",
-    "name": "Transdimensional Warfare: Chapter III",
-    "requires_level": 14,
-    "zone": "Silverpine Forest"
-}

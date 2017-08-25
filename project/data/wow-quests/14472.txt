@@ -1,8 +1,0 @@
-{
-    "_id": "14472",
-    "description": "The naga are using those giants to stamp paths through our minefields. Time to put that SFG to use!Head over to the entrance to the southern minefield - I think you can figure out the rest.",
-    "name": "In The Face!",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Azshara"
-}

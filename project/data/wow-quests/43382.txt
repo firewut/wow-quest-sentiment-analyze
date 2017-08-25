@@ -1,8 +1,0 @@
-{
-    "_id": "43382",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Natalie Seline",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

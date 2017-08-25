@@ -1,7 +1,0 @@
-{
-    "_id": "12926",
-    "description": "We've seen the iron dwarves and their constructs making war on the creatures of stone that Brann calls the earthen, along with their giant allies. Contact him and aid him in any way you can, and remember that anything we can learn from his search may aid us in fighting against the iron dwarves and their master.",
-    "name": "Pieces of the Puzzle",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

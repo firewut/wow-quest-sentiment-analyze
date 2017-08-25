@@ -1,7 +1,0 @@
-{
-    "_id": "13218",
-    "description": "Your skills have not gone unnoticed by the vrykul of Jotunheim, <name>. Thane Banahogg has taken a personal interest in you and has insisted that he be your next match.If you thought Carnage was bad, then you might want to go home now. Thane Banahogg's nickname is The Deathblow. I think you can guess how he earned it.Do you accept the thane's challenge?",
-    "name": "Battle at Valhalas: Thane Deathblow",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

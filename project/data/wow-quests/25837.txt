@@ -1,7 +1,0 @@
-{
-    "_id": "25837",
-    "description": "To make the perfect peace offerin', I be needing the following ingredients:Kalimdor eagle eggs, obtained from Kalimdor eagle nests. They be scattered about the forest to the west.Ram haunches! You'll find ram haunches on Stonetalon rams.The last ingredient be a little tougher to come by, but we be needin' it to make the ramlette. Head southwest to Boulderslide Canyon and find the kobold caves. Kill the kobolds and take their special cheese.Bring it all back and I'll cook up a masterpiece!",
-    "name": "A Proper Peace Offerin'",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

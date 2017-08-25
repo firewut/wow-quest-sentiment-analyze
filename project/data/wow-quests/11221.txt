@@ -1,7 +1,0 @@
-{
-    "_id": "11221",
-    "description": "Our mission in Northrend is to destroy Arthas.  The Alliance are but an obstacle that we'll crush wherever we find them.We've managed to destroy their easternmost fleet; but the survivors have barricaded themselves on the Derelict Strand, south of here.Our forces should've overwhelmed their make-shift defenses long ago, but we underestimated their will to live.  Seek my officers in the field, Dark Ranger Lyana and Deathstalker Razael and get them to report on the situation.",
-    "name": "Reports from the Field",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

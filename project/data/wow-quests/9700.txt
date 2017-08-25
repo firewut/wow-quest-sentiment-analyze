@@ -1,7 +1,0 @@
-{
-    "_id": "9700",
-    "description": "Velen states that if the blood elves have been opening rifts between this island and the Outland, there will be residue or anomalies left in the areas where the portals have been opened. You must search the island for locations that exhibit or display these anomalies.Be warned, <name>; some of these anomalies will be creatures from the void itself. Should you find void anomalies, slay them! Report back to me with any new information that you may find. Begin your search to the north, near the Warp Piston.\r\n",
-    "name": "I Shoot Magic Into the Darkness",
-    "requires_level": 14,
-    "zone": "Bloodmyst Isle"
-}

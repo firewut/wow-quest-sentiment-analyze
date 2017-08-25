@@ -1,7 +1,0 @@
-{
-    "_id": "931",
-    "description": "The fronds on this plant shimmer in the forest light, giving it a twisting, pulsing aura.You believe that Denalan would want a specimen of this.",
-    "name": "The Shimmering Frond",
-    "requires_level": 4,
-    "zone": "Teldrassil"
-}

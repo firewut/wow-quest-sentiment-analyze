@@ -1,8 +1,0 @@
-{
-    "_id": "32639",
-    "added_in_patch": 5.2,
-    "description": "Scouts are reporting a large number of constructs patrolling outside of Dawnseeker Promontory.If left unchecked they will pose a considerable threat should the Sunreavers mount an attack.The only answer is a preemptive strike. We'll destroy them before they can attack us!",
-    "name": "Deconstruction",
-    "requires_level": 90,
-    "zone": "Quests"
-}

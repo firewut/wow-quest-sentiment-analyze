@@ -1,7 +1,0 @@
-{
-    "_id": "10976",
-    "description": "What I must now know is what the Ethereum have held inside the Mana-Tombs of Auchindoun.In your battles against the beasts of the stasis chambers of Bash'ir you may run across an item known as the Mark of the Nexus-King. Should you find such an item, return it to me immediately! It is the final piece in crafting a key that will allow access to the stasis chamber inside the Mana-Tombs.",
-    "name": "The Mark of the Nexus-King",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

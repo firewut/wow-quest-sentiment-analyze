@@ -1,7 +1,0 @@
-{
-    "_id": "13846",
-    "description": "The bestest of the champions come to the chapel to hear the argent confessor speak every day.You should see how much she inspires them, <name>. Not only do they fight for the Argent Crusade, but they put a lot of money into the collection basket when I take it around.Maybe you'd like to contribute too?",
-    "name": "Contributin' To The Cause",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

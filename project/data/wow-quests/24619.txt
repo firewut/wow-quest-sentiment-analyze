@@ -1,8 +1,0 @@
-{
-    "_id": "24619",
-    "description": "I've always wanted to try making an abomination. It looks simple enough, but you know how it is when you learn things from a book. There's no substitute for doing!First, I'm going to need parts. Lots of parts. And you're going to get them for me.No need to be picky: human, orc... it doesn't matter. Parts is parts.Just be sure the corpses you harvest come from the Battlescar, so I know they're fresh.<Calder presses a rusted, gore-covered bonesaw into your hands and smiles disarmingly.> ",
-    "name": "Parts-is-Parts",
-    "requires_level": 32,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

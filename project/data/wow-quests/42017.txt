@@ -1,8 +1,0 @@
-{
-    "_id": "42017",
-    "added_in_patch": 7,
-    "description": "We'll be flying straight to the island. My friend said that the warrior who came here before us never entered the shrine itself, since they were after one of the tombs.If a vrykul hero couldn't enter the shrine, I bet it's still protected by Tyr's power. I'm thinkin' we have a good shot at this.My pal Cato will meet us there. We might be needin' the talents of a good healer!",
-    "name": "Shrine of the Truthguard",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

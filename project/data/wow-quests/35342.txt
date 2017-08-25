@@ -1,9 +1,0 @@
-{
-    "_id": "35342",
-    "added_in_patch": 6,
-    "description": "The liquid swirling around inside the flask clearly has strong alchemical properties, but its nature is beyond your training.You have heard that one of the Eventide villagers at your garrison has some knowledge of the alchemy of Draenor. Perhaps he could tell you more?",
-    "name": "The Mysterious Flask",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

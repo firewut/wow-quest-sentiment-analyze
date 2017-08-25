@@ -1,9 +1,0 @@
-{
-    "_id": "35345",
-    "added_in_patch": 6,
-    "description": "It's been a struggle to support the family since my wife died, and I got too ambitious when I got a contract for shockscales.Alas, there is no way I will hunt enough eels to fulfill it in time now.",
-    "name": "Shocking Assistance",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

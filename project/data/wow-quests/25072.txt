@@ -1,7 +1,0 @@
-{
-    "_id": "25072",
-    "description": "We haven't just been camped here singin' songs with gnomes and playing with dangerous machinery, you know. My men have been trying to clear this hive out for a week now! Problem is, we've taken so many losses by now that the bugs have the advantage.Lucky for us, the bugs either don't like to eat goblins, or they like us so much they save us as treats, because nearly all my men are still cocooned up out there. I need you to go save 'em.",
-    "name": "A Few Good Goblins",
-    "requires_level": 45,
-    "zone": "Tanaris"
-}

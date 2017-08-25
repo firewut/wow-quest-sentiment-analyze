@@ -1,8 +1,0 @@
-{
-    "_id": "24578",
-    "description": "It took a while, but I think I've put together what happened here.  At least partially.There were survivors of the Curse in this town.  They joined others in the mountains, in Tempest's Reach.Everyone left, except the man who kept the journal, old man Bradshaw.  He noticed that the worgen attacks had stopped all of a sudden and decided to venture into the Blackwald.There is an abandoned mill just northeast of town, it was where Bradshaw lived.  See if you can find any clues there.",
-    "name": "The Blackwald",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42937",
-    "added_in_patch": 7,
-    "description": "The troggs saw where your hammer fell, and I expect those cowards told the Legion where to find it. Hmph!The leader of the stone troggs since the Cataclysm has been \"Borlock,\" a thick-headed little dirt-grubber who's about to get what's coming to him. Find him at Needlerock Spire and beat the information out of him.Take Aeosera with you. Her and her brood have their own score to settle with those belligerent little beasts.",
-    "name": "Needlerock Beatdown",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

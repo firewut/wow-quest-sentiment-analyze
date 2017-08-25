@@ -1,9 +1,0 @@
-{
-    "_id": "34616",
-    "added_in_patch": 6,
-    "description": "Do you see that? There is a gigantic raven just past the tree line.I'm not getting anywhere near that. In fact, I'm not sure any of the men are sufficiently equipped to deal with a threat like that. Do you want to handle this one yourself, commander?Once those ravens are gone we can start sending more troops into the woods. So we will be killing two birds with one stone... or should I say kill five birds with...<Confused by his own analogy, Baros scratches his head.>You get the point.",
-    "name": "Ravenous Ravens",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

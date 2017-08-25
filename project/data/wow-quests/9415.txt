@@ -1,7 +1,0 @@
-{
-    "_id": "9415",
-    "description": "Are you Marshal Bluewall's new recruits? Of course you are.What are you waiting for? Good soldiers are dying in the desert. Aren't you excited to join them?Now, get going and don't dry out on the way.",
-    "name": "Report to Marshal Bluewall",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

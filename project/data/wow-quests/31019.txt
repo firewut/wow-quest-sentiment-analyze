@@ -1,8 +1,0 @@
-{
-    "_id": "31019",
-    "added_in_patch": 5,
-    "description": "In order for our efforts against the mantid empire to continue, we require more amber.There is a great deposit of amber underneath the lake to the south, but the area is inhabited by a savage saurok tribe.I cannot spare anyone else. You must go to the lake and test the tribe's strength. Thin their numbers and eliminate their leader, who is probably hiding in his underground cavern.Surely this is not too great a task for you?",
-    "name": "Amber Is Life",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

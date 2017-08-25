@@ -1,7 +1,0 @@
-{
-    "_id": "29251",
-    "description": "Look, <name>.  You've helped out plenty so far, but that's not going to be enough.  I need these crazy trolls stopped, or at least stopped from getting into Booty Bay.I'm going to send a man in to oversee the action, but I want you to go into Zul'Gurub and make something happen.At the very least, I want you to find me something that will help keep these trolls out of Booty Bay.You do that and we'll treat you right.",
-    "name": "Booty Bay's Interests",
-    "requires_level": 85,
-    "zone": "Quests"
-}

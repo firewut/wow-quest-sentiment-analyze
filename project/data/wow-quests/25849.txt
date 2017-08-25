@@ -1,8 +1,0 @@
-{
-    "_id": "25849",
-    "description": "Listen, lad, any good archaeologists know the risks that come with the job. If you don't unearth an ancient evil or get cursed by wicked spirits at least once in your career, you're not digging up anything worthwhile!No, the real archaeologists know that a little thing like fossilized bones reanimating into skeletal creatures is no reason to stop working.I still need those fossil bones. Collect 'em from the fossil monsters roaming around and bring them back to me, and I'll reward you.",
-    "name": "When Archaeology Attacks",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

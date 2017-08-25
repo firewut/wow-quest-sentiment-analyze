@@ -1,7 +1,0 @@
-{
-    "_id": "12452",
-    "description": "",
-    "name": "zzOLD The Fate of the Ruby Dragonshrine",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

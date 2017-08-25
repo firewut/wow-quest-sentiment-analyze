@@ -1,8 +1,0 @@
-{
-    "_id": "25711",
-    "description": "The Horde are a nuisance that we will deal with, but they are proving more difficult than previously expected.  You are to put a stop to this.To the west of Nethergarde, the Okril'lon main forces press on our defenses.  They currently hold the Nethergarde Mines, and they mean to move into the supply camps and, eventually, the Keep.  Thin their numbers and delay their advance, <name>.",
-    "name": "Eliminate the Okril'lon",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

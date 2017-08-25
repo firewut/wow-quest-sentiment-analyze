@@ -1,9 +1,0 @@
-{
-    "_id": "35207",
-    "added_in_patch": 6,
-    "description": "I'm so full I can't swing an axe even if I had one.Tell ya what, we got a mutual interest here. I need yer help to get a little vengeance on the big botani at the back of this bloom. In return, I'll point ya in the right direction fer gettin' a secret weapon the botani keep.",
-    "name": "Coalpart's Revenge",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

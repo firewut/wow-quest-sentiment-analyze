@@ -1,8 +1,0 @@
-{
-    "_id": "35404",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Grim Batol Reward Quest",
-    "requires_level": 84,
-    "zone": "Quests"
-}

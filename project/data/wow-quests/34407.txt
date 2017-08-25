@@ -1,9 +1,0 @@
-{
-    "_id": "34407",
-    "added_in_patch": 6,
-    "description": "It is good to see you again, champion.Demons are assaulting Auchindoun and we are barely standing our ground against them.We need to push our front lines forward lest our losses reach critical mass.If your blade is with us, shove it into these foul creatures' throats.",
-    "name": "Holding the Line",
-    "requires_level": 95,
-    "side": "alliance",
-    "zone": "Talador"
-}

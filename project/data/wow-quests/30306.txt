@@ -1,8 +1,0 @@
-{
-    "_id": "30306",
-    "added_in_patch": 5,
-    "description": "We have some fresh trainees that are far from being a danger to you, but in numbers, they may prove enough of a challenge. And if not, they could use the lesson in humility.Step into the battle ring when you're ready. Don't go easy on them.",
-    "name": "The Battle Ring",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "5711",
-    "description": "I wonder how many times I've seen your kind around here, but never really spoken to you. I've trained a few, given some directions, but I don't think anyone's ever waited around long enough to chat.Oh well, now's a bad time anyway--I'm supposed to tell you that Ur'kyo wants to speak to you in Orgrimmar. He's in the Valley of Spirits waiting for you.",
-    "name": "<NYI> The Lost Ways",
-    "requires_level": 35,
-    "zone": "Priest"
-}

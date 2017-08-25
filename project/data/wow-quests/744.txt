@@ -1,7 +1,0 @@
-{
-    "_id": "744",
-    "description": "<name>, my brother soon stands before Chief Bloodhoof, and it is my honor to make his headdress for him.I want to ask a favor of you while I finish tanning these leather straps. There is not time for me to find enough feathers, and I was wondering, would you gather more for me?You can find feathers of the correct size from the harpies residing far to the north and northwest of Thunder Bluff. I need only 6 azure and 6 bronze feathers to complete the design.",
-    "name": "Preparation for Ceremony",
-    "requires_level": 8,
-    "zone": "Mulgore"
-}

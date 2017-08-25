@@ -1,8 +1,0 @@
-{
-    "_id": "31991",
-    "added_in_patch": 5,
-    "description": "I knew you would return to face me once more. Let us see who is truly wiser in the ways of battle.",
-    "name": "Grand Master Zusshi",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

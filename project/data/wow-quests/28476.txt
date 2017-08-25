@@ -1,7 +1,0 @@
-{
-    "_id": "28476",
-    "description": "In Blackrock Depths, Twilight's Hammer has started to persuade the Dark Irons to strengthen their alliance and wage a campaign of conquest.We have to act before the cultists can whip up the bloodlust in the Dark Irons and their leadership. Perhaps the best way to deal with this is to destroy the material the cultists are distributing to the dwarves.I want you to go into Domicile portion of Blackrock Depths and use this torch to burn the books that the Twilight's Hammer is distributing there.",
-    "name": "Twilight Scheming",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

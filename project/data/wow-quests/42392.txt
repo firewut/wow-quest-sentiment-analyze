@@ -1,8 +1,0 @@
-{
-    "_id": "42392",
-    "added_in_patch": 7,
-    "description": "Now it's time to put your skills to the test.Your order seems to be a lot of watching and waiting without a lot of action.Prove me wrong. Show me that I might have something in common with the Unseen Path.If you survive a night in the wild, then I will consider joining your order.",
-    "name": "Survive the Night",
-    "requires_level": 103,
-    "zone": "Hunter Campaign"
-}

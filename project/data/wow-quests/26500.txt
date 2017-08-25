@@ -1,7 +1,0 @@
-{
-    "_id": "26500",
-    "description": "Our war has been waged for longer than your kind counts time. Let us see if you can make a difference, <race>.The stone troggs are a mistake of the titans. On your world they have succumbed to the Curse of Flesh. But here, in Deepholm, you see them in their true form.We're surrounded. Maybe you could go out there and break a few troggs down for us. See what they're really made of?",
-    "name": "We're Surrounded",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

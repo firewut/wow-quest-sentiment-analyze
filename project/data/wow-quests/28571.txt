@@ -1,7 +1,0 @@
-{
-    "_id": "28571",
-    "description": "All able bodied members of the Horde are hereby ordered to report to High Executor Darthalia at Southpoint Gate in Hillsbrad Foothills. The Forsaken war machine marches ever onward, securing Lordaeron for the Horde!To reach Southpoint Gate you must follow the road south through Silverpine Forest and take the east fork leading into Hillsbrad Foothills.Onward,  brother! Destiny calls!",
-    "name": "Warchief's Command: Hillsbrad Foothills!",
-    "requires_level": 19,
-    "zone": "Hillsbrad Foothills"
-}

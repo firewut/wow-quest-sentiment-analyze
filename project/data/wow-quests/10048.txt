@@ -1,7 +1,0 @@
-{
-    "_id": "10048",
-    "description": "I'm going to need dust, but not just any dust.The royal teromoths that inhabit the forest nearby have a magical dust upon their wings, which they use to pacify those that hunt them.  I can make use of that property of the dust to assuage the resistance that I am feeling from the arakkoa eyes you retrieved.  This, in turn, will allow me to use them to find Deirom.I won't need much, perhaps half a dozen handfuls, or so.",
-    "name": "A Handful of Magic Dust",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

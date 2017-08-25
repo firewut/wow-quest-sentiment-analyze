@@ -1,8 +1,0 @@
-{
-    "_id": "25867",
-    "description": "I know we were just attacking the gnolls ourselves, but I'm not about to let the Dark Iron capture them as slaves. For one, we found the thieves and took back what was missing, so justice is served; for another, whatever work the Dark Iron will be putting them to isn't something I want to allow.Either way, the gnolls need to be freed. The trappers should have keys on them, so use those to open the cages.",
-    "name": "Gnoll Escape",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

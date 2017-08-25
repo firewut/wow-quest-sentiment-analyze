@@ -1,7 +1,0 @@
-{
-    "_id": "10474",
-    "description": "Your accomplishments have gone beyond my greatest expectations, <name>.You step in and out of time as comfortably as any bronze dragon I've known.  You are destined for great power and I am more than pleased to help you on your way there.Continue to serve the Scale of the Sands and I will unleash your gift's full potential.",
-    "name": "Champion's Covenant",
-    "requires_level": 70,
-    "zone": "Caverns of Time"
-}

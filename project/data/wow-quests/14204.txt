@@ -1,8 +1,0 @@
-{
-    "_id": "14204",
-    "description": "He turned into one of them... didn't he?  How do we even begin to fight an enemy that can do this to us?My father's arsenal's certainly a good start, I suppose.Worgen are hiding in the alleys ahead.  Take one of my mastiffs to find them more easily.We're going to need to clear the way ahead if we're going to move these cannons above ground.",
-    "name": "From the Shadows",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

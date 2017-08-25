@@ -1,7 +1,0 @@
-{
-    "_id": "10326",
-    "description": "",
-    "name": "More Marks of Kil'jaeden",
-    "requires_level": 62,
-    "zone": "Shattrath City"
-}

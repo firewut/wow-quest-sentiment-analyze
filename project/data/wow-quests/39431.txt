@@ -1,8 +1,0 @@
-{
-    "_id": "39431",
-    "added_in_patch": 7,
-    "description": "Bringing back the cloth in such a manner would not be beneficial to Deucus.Perhaps there's a tailor here in Val'sharah who'd be willing to mend it for you.The priestess who helped you earlier may know of such a person.",
-    "name": "Mending the Filter",
-    "requires_level": 108,
-    "zone": "Alchemy"
-}

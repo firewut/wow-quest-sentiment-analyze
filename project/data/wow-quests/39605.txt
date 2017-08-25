@@ -1,8 +1,0 @@
-{
-    "_id": "39605",
-    "added_in_patch": 7,
-    "description": "Flitz mentioned a manhole near Violet Hold, perhaps that would be the best place to pick up Lyndras' trail.",
-    "name": "Where's Lyndras: Downward Spiral",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

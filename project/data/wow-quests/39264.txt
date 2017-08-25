@@ -1,8 +1,0 @@
-{
-    "_id": "39264",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Bonus Objective: Ashran Excavation",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

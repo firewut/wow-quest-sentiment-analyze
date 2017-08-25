@@ -1,7 +1,0 @@
-{
-    "_id": "9984",
-    "description": "Although you cannot read the strange script on the scroll, the ornate seal at the bottom of the document implies that it was drafted by an arakkoa of high standing. Luanga may have masterminded the capture and interrogation of Deirom, but it seems he was taking orders from someone else.You remember Thander mentioning that Andarl has studied the arakkoa. Perhaps he can decipher the scroll's contents.",
-    "name": "Host of the Hidden City",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35685",
-    "added_in_patch": 6,
-    "description": "Meet me down by the entrance to the Shattrath dome.There, we will issue our challenge to the Sargerei leader. If he accepts our challenge, it is there that he shall meet his end.The creature that calls himself Socrethar was once my brethren. I can only hope that there is still some Light left within him.",
-    "name": "Socrethar's Demise",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26787",
-    "description": "I'm afraid that... well, I'm just plain afraid, but I'm also sorry to have to ask for another favor.Master Harris needs brains. Bear brains. They're part of the serum apparently, or at least a proper substitute.There's plenty of black bears in the woods to the west, and along the riverbank, but... I can't do it! I'm too terrified to go out there and face those huge things, even with a rifle. Please, let me pay you to bring back some!",
-    "name": "Bear In Mind",
-    "requires_level": 22,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

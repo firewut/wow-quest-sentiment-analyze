@@ -1,8 +1,0 @@
-{
-    "_id": "32856",
-    "added_in_patch": 5.3,
-    "description": "It's a strange combination of items. The paper envelops the rock completely, dwarfing it like a smothering blanket of wood pulp. Compared to the paper, the rock is barely a pebble.When held up to the light, the paper reveals a distinct watermark, along with the text:RETURN TO BRAWLER'S GUILD",
-    "name": "Paper-Covered Rock",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

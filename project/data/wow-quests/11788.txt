@@ -1,7 +1,0 @@
-{
-    "_id": "11788",
-    "description": "Okay, I think we're ready for the penultimate assault... before you can bring down Mechazod, you're going to have to dismantle his lieutenants first!You'll find Twonky, ED-210, Max Blasto, and The Grinder at the West Point, North Point, Mid Point and South Point stations, respectively.To get them to show up, just turn the valves at the stations to mess up whatever they're trying to do out there. You can't miss the places, they all have spinning lights.",
-    "name": "Lefty Loosey, Righty Tighty",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

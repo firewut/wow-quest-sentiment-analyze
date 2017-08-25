@@ -1,8 +1,0 @@
-{
-    "_id": "31332",
-    "added_in_patch": 5,
-    "description": "I'm excited to start my training. We start with sliced peaches, right?",
-    "name": "Lesson 1: Sliced Peaches",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

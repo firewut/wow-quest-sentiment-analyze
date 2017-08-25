@@ -1,7 +1,0 @@
-{
-    "_id": "28588",
-    "description": "While these two idiots argue about who royally messed up here, we've got a full-scale invasion of the Krazzworks taking place!Those no-good Wildhammer are all over the place. Get out there and clear the Krazzworks of those smelly ale-guzzling pests.",
-    "name": "Wildhammer Infestation",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "33593",
-    "added_in_patch": 6,
-    "description": "I received a strange object with a note attached. Here, it seems to be written in your tongue, commander.\r\n\r\n<Dear Mister Durotan,\r\n\r\nI'm Penny... you know, from Azeroth? We met briefly back at $p's garrison. \r\n\r\nAnyway, like I told you, I have a fifth degree black hammer in engineering and I'm eager to serve. The more danger the better!\r\n\r\nYou just fire this old flare whenever you're in trouble and I'll be there, quick as a quark!\r\n\r\nHopefully,\r\n\r\nPenny>",
-    "name": "A Flare for the Dramatic",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

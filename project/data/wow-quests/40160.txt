@@ -1,8 +1,0 @@
-{
-    "_id": "40160",
-    "added_in_patch": 7,
-    "description": "<The clam resonates with a arcane energy.>What are murlocs doing with arcane clams?Perhaps your Nightfallen allies could make use of them.",
-    "name": "Magic Clams",
-    "requires_level": 98,
-    "zone": "Suramar"
-}

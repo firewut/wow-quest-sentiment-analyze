@@ -1,8 +1,0 @@
-{
-    "_id": "38347",
-    "added_in_patch": 7,
-    "description": "There! The disguise be complete!\r\n\r\nDon't mind the smell, there. It's probably better that we smell like the kvaldir, as well. Though I have a feeling I'll be needin a priest to get this stench out once we're gone.",
-    "name": "Stealth by Seaweed",
-    "requires_level": 98,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10948",
-    "description": "You might wonder why I go to such lengths to hide my intentions.  Why not throw my lot in openly with the naaru?My very essence - my soul - is held prisoner inside the Black Temple.  Illidan could destroy me any moment... until now!  This phylactery will allow me to regain control of my soul.The time has come, <name>.  I'll lead Maiev and my Deathsworn to Illidan's doorstep.Speak to A'dal and and tell him of our plan.  If we strike together we'll break through Illidan's defenses.",
-    "name": "The Hostage Soul",
-    "requires_level": 70,
-    "zone": "Shattrath City"
-}

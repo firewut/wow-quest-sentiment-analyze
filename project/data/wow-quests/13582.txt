@@ -1,7 +1,0 @@
-{
-    "_id": "13582",
-    "description": "We need special flame for ritual.  We need Elune's fire.Horoo's spirit wanders east of here.  Horoo carries torch of Elune.  Bring here so spirits rest.Aroom thanks you.",
-    "name": "Elune's Fire",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

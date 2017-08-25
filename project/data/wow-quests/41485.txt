@@ -1,8 +1,0 @@
-{
-    "_id": "41485",
-    "added_in_patch": 7,
-    "description": "As a druid I understand that predation happens. Creatures that eat meat must acquire meat.\r\n\r\nBut this...\r\n\r\n<Solendra gestures angrily toward a nearby petrified nightsaber.>\r\n\r\nThis is just sad. Free them, <race>. Take my blessing and free them from this needless torment.",
-    "name": "Moonwhisper Rescue",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

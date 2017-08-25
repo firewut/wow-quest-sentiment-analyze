@@ -1,7 +1,0 @@
-{
-    "_id": "13081",
-    "description": "I appreciate everything that you have done for us, <name>. I have one last errand for you... one last gleaming hope for a paladin who deserves any salvation that we can extend.Go now to Shattrath and speak to the naaru, A'dal. He has long been a beacon of light and powerful ally to devout paladins. Impart Bridenbrad's story and seek any aid that he might have to offer.I cannot impress how important it is that you move quickly - I fear our crusader does not have much more time in this world.",
-    "name": "The Will of the Naaru",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

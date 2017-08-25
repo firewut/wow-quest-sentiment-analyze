@@ -1,8 +1,0 @@
-{
-    "_id": "38627",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Worgen Stalkers (Horde Only)",
-    "requires_level": 100,
-    "zone": "Stormheim"
-}

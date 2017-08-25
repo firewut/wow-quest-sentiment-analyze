@@ -1,8 +1,0 @@
-{
-    "_id": "43705",
-    "added_in_patch": 7,
-    "description": "The Exodar shook from the force of the Legion's arrival. Before we could react, demons were running rampant through the halls, slaughtering everything in their path. If it were not for the Prophet, we would have all perished in the initial assault.I was charged with evacuating the Crystal Hall, which is when my Broken and I were separated from the main force.We fell back into the collapsed hall to make our last stand.With your aid, we may survive this invasion.",
-    "name": "Nobundo's Last Stand",
-    "requires_level": 98,
-    "zone": "The Exodar"
-}

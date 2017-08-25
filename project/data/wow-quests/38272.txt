@@ -1,8 +1,0 @@
-{
-    "_id": "38272",
-    "added_in_patch": 6.2,
-    "description": "The cave pulls me. It keeps angry spirits near. Kilrogg has done magic here. You help me understand...",
-    "name": "The Bleeding Hollow",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

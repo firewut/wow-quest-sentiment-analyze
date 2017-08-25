@@ -1,8 +1,0 @@
-{
-    "_id": "30976",
-    "added_in_patch": 5,
-    "description": "We are one stronger. Your help is invaluable.Let's move on westward to Rensai's Watchpost to find the last member for our party.",
-    "name": "Joining the Hunt",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

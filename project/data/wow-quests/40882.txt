@@ -1,8 +1,0 @@
-{
-    "_id": "40882",
-    "added_in_patch": 7,
-    "description": "<name>, you'll be very excited to hear that I've been working on a newer, better version of those goggles that Flintlocke rigged up.The ones I've designed have double the power, but unfortunately they also have double the recoil. I'm afraid if you use them, they'll break your neck.But I found a solution. Deep inside Suramar City lies a magical mechanism that will reduce the recoil to practically nothing.Recover that mechanism for me and we're in business!",
-    "name": "Revamping the Recoil",
-    "requires_level": 110,
-    "zone": "Engineering"
-}

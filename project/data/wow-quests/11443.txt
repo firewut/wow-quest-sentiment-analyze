@@ -1,7 +1,0 @@
-{
-    "_id": "11443",
-    "description": "Hey... Uh... What's up? What are you doing down here?Me? Oh... Well, you see... I'm... Um... I'm trying to clean this place up! Orders from Keller himself! He says to me, \"Harry, I want you to put on a divin' bell and search the shipwrecks of Daggercap for OUR stuff...\"Say, maybe you could lend me a hand while you're down here. Throughout the bay here are all kinds of goodies, err, I mean supplies. Go out and bring me back whatever you find. Use this diving helm so you don't run out of air and die.",
-    "name": "Daggercap Divin'",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

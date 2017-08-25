@@ -1,8 +1,0 @@
-{
-    "_id": "11890",
-    "description": "The gnomes have run into some trouble in the pools to the west. It serves them right as they have been fouling up the land with their so-called inventions.I want you to go out to their pumping station and observe what has befallen them. Return to me after.",
-    "name": "What Are They Up To?",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

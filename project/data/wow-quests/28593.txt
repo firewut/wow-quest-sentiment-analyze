@@ -1,7 +1,0 @@
-{
-    "_id": "28593",
-    "description": "When Garrosh's zeppelin went down, so did the induction samophlange that you recovered for us in Azshara. The Alliance have it somewhere in that keep, and Krazz wants it back.The basement of the keep would be my best guess, so start there. When you get your hands on it, bring it back to me near the eastern tower.",
-    "name": "Of Utmost Importance",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

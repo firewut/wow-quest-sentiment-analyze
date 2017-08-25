@@ -1,8 +1,0 @@
-{
-    "_id": "12096",
-    "description": "The ancients of the Lothalor Woods to the south are being corrupted by arcane wyrms... wyrms which have risen out of the ground!Those that are already corrupted are deadly and of no use to us, but most can still be saved. Luckily, the treants of the woods seem to be immune to everything happening up there.Ask the treants for their bark and when you get some, feed it to the ancients. This should strengthen them.Now leave me to my business! I have to keep an eye on these apothecaries.",
-    "name": "Strengthen the Ancients",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

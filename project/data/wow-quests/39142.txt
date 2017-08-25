@@ -1,8 +1,0 @@
-{
-    "_id": "39142",
-    "added_in_patch": 7,
-    "description": "Now that the Bloodstone has fed, I hope to use its power to bend the will of demons that would otherwise not be so easily controlled.\r\n\r\nOf course, this is all theory. I have never witnessed the direct effect of the Bloodstone's power on a demon. This is where you come in.\r\n\r\nI have procured a few imps that should make suitable test subjects. Use the Bloodstone on them and report back to me with your findings.",
-    "name": "Testing a Theory",
-    "requires_level": 103,
-    "zone": "Warlock Campaign"
-}

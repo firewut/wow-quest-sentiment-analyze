@@ -1,8 +1,0 @@
-{
-    "_id": "40973",
-    "added_in_patch": 7,
-    "description": "Thanks in large part to your substantial efforts, we have discovered the whereabouts of a powerful piece of our history. It should enable us to survive whatever else the Nightborne have to throw at us, and hopefully more.\r\n\r\nHowever, recovering it will require a great deal of our energy and focus. We will bolster the Starweaver's scrying efforts, but the slightest disruption will ruin this delicate spellwork. See that we are not disturbed.\r\n\r\nSpeak to Syrana Starweaver when you are ready to begin.",
-    "name": "Creating Time",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

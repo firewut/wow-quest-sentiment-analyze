@@ -1,8 +1,0 @@
-{
-    "_id": "40033",
-    "added_in_patch": 7,
-    "description": "There! It seems that there was a vrykul herbalist, Torgus, who brought a gift of fjarnskaggl to a seaside cairn - presumably in Stormheim - and by doing so received a blessing from his ancestors.<Kuhuine shrugs.>It's worth a shot, though without knowing what you're getting into, you may want to bring friends with you.",
-    "name": "Fjarnskaggl",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

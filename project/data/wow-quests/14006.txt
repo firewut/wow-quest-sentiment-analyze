@@ -1,8 +1,0 @@
-{
-    "_id": "14006",
-    "description": "Back when I was in the Tinker's Union, Boss Copperplug was the best engineer we had. He defected to the Venture Company shortly before I left, and took his greatest techniques with him. He hoarded his secrets, doling out bits and pieces of knowledge to his trusted inner circle.If he built the samophlange, then he's probably got the manual. Last I heard, he was operating right here, out of Boulder Lode mine to the northeast. Get the manual from him, and collect the pages from his followers.",
-    "name": "Read the Manual",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

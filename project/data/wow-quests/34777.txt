@@ -1,9 +1,0 @@
-{
-    "_id": "34777",
-    "added_in_patch": 6,
-    "description": "Auchindoun is under attack, stranger, and I intend to help defend it.The only problem is the only armor I could find was my grandfather's old set, and it isn't nearly enough to defeat the spirits blocking the path toward Auchindoun.Would you defeat them and let me through the gate with you? I will find a way to repay you!",
-    "name": "Gatekeepers of Auchindoun",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

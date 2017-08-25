@@ -1,8 +1,0 @@
-{
-    "_id": "42737",
-    "added_in_patch": 7,
-    "description": "<Collect the rune from Runeskeld Rollo to deactivate this runestone.>",
-    "name": "Rune Ruination: Runeskeld Rollo",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

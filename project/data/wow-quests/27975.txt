@@ -1,7 +1,0 @@
-{
-    "_id": "27975",
-    "description": "Foreman Wellson has been a pain in our side since we got here.  His shipyard holds a large amount of supplies that would be extremely useful to us... if we could get to them.He keeps a close watch over his minions and makes it very difficult for us to get a foothold on the shipyard.  I need you to take out Wellson for good this time.  Be careful <name>, we have been receiving reports of filthy Horde all around the area.",
-    "name": "WANTED: Foreman Wellson",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

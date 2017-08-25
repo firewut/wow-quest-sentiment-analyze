@@ -1,7 +1,0 @@
-{
-    "_id": "11000",
-    "description": "The grimoire is the key to Skulloc's downfall.Read aloud from the book at Soulgrinder's Barrow to initiate the ritual.  An object known as the Soulgrinder will appear, as well as Skulloc's ghostly victims, who will try to destroy it.  You must keep them from doing so long enough to force Skulloc fully into the world.Find the barrow by heading north through the Daggermaw Canyon on the other side of the Circle of Blood.  It is on the right side before Gruul's Lair.Bring back Skulloc's soul.",
-    "name": "Into the Soulgrinder",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

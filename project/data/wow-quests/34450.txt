@@ -1,8 +1,0 @@
-{
-    "_id": "34450",
-    "added_in_patch": 6,
-    "description": "I managed to squeeze even more information out of our little friend here.The Darktide Matriarch is at the top of the hill.One of their lead engineers is attempting to tame the matriarch with his technology. We must stop him, <name>.",
-    "name": "Rylak Rescue",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

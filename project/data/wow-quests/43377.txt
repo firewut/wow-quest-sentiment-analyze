@@ -1,8 +1,0 @@
-{
-    "_id": "43377",
-    "added_in_patch": 7,
-    "description": "We cannot ignore the Prophet's vision, <name>. To do so would mean that everything we know and hold dear will be lost to the Legion.We must focus on what we know, and that is that the Light must walk among us.Within the Halls of Valor you will find an ascending val'kyr by the name of Hyrja. Recover a spark of her Light and release it within our temple.",
-    "name": "The Light Within",
-    "requires_level": 103,
-    "zone": "Priest Campaign"
-}

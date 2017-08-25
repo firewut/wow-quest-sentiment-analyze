@@ -1,7 +1,0 @@
-{
-    "_id": "8240",
-    "description": "The destruction of the various Hakkari Bijous is of grave importance to us, so much so that we welcome outsiders of the tribe to do so for themselves!Take any one of the bijous that you find in Zul'Gurub to the Altar of Zanza and destroy it.  For this one time alone, I will give you an additional Honor Token from our tribe; this is above and beyond what you would normally receive.Witness for yourself the blessings of Zanza!",
-    "name": "A Bijou for Zanza",
-    "requires_level": 58,
-    "zone": "Quests"
-}

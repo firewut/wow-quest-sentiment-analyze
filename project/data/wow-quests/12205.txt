@@ -1,8 +1,0 @@
-{
-    "_id": "12205",
-    "description": "By order of High Executor Wroth all members of the illegal organization known as the Scarlet Onslaught are to be put to death immediately.No quarter is to be offered, and those proceeding to action upon this decree should be aware that any who are captured by the humans will be left to die, or worse!In the High Executor's words, \"Paint the snow red with their blood!\"",
-    "name": "Wanted: The Scarlet Onslaught",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

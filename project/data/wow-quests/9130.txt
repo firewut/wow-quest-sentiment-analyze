@@ -1,8 +1,0 @@
-{
-    "_id": "9130",
-    "description": "Welcome volunteer!  We're running low on supplies here, but Silvermoon has promised us materiel assistance.  That's where you come in.Take this list over to Skymaster Brightdawn. He'll have further instructions for you on how best to get up to Silvermoon City.",
-    "name": "Goods from Silvermoon City",
-    "requires_level": 5,
-    "side": "horde",
-    "zone": "Eversong Woods"
-}

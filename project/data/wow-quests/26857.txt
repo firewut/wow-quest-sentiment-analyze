@@ -1,7 +1,0 @@
-{
-    "_id": "26857",
-    "description": "If it's the dragon that's got the fragment, we're going to need to draw his attention back to his den.Go to Abyssion's Lair just east of here and defeat his underlings.  That should get him to show up with the World Pillar fragment sooner or later.",
-    "name": "Abyssion's Minions",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

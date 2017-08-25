@@ -1,8 +1,0 @@
-{
-    "_id": "34939",
-    "added_in_patch": 6,
-    "description": "It is written in the Scroll of Sermons to \"Bite the claw that strikes you.\"Take the path south from here that leads over the mountain to the Bloodmane valley in the west. There you will find those of their tribe who can use a primitive form of magic. Slay them and remove their paws.Once you have obtained a few bring them back to me in the nest so that they may be offered to the Raven Mother!",
-    "name": "Declawing The Bloodmane",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

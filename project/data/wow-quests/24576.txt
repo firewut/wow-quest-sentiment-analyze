@@ -1,7 +1,0 @@
-{
-    "_id": "24576",
-    "description": "<Roka listens with disgust as you tell her why you're trying to track down Snivel.>You mean I've been under the spell of an alchemist all this time? I can't believe I fell for that fraud! If I ever get my hands on that conniving little goblin, I'll tear him apart!If he's finished his errands, he's on his way down to the zeppelin tower in the middle of Orgrimmar! Whatever you do, <name>, you can't let him board that zeppelin and get away with all this!Hurry to the zeppelin tower before you miss him!",
-    "name": "A Friendly Chat...",
-    "requires_level": 1,
-    "zone": "Love is in the Air"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9299",
-    "description": "You found this letter on one of the many Scourge minions you've slain. From its appearance and smell, it has been with the undead for some time. Perhaps someone at Light's Hope Chapel would be interested in examining it further...",
-    "name": "Note from the Front",
-    "requires_level": 45,
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "29899",
-    "added_in_patch": 5,
-    "description": "The spirits... the cavedwellers... they howl in agony... Trapped... in this world... cannot move... to the next.I... will go mad... listening... to their cries... Please...go...put them to rest.",
-    "name": "Rest in Peace",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30896",
-    "added_in_patch": 5,
-    "description": "I can't catch the little buggers for the life of me.Kill any you can get your hands on. And keep a close eye on your valuables, they like to steal anything that isn't tied down.",
-    "name": "Thieves and Troublemakers",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

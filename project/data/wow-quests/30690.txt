@@ -1,8 +1,0 @@
-{
-    "_id": "30690",
-    "added_in_patch": 5,
-    "description": "Simply killing Kobai will accomplish nothing, as he is possessed by a particularly powerful and destructive Sha - Malevolent Fury.\r\n\r\nYou will use the trap I have fashioned from the Blinding Rage Essences you brought. Lure him into the trap, and then steal his mask. Once you put it on, Malevolent Fury will appear and attempt to take control of you.\r\n\r\nDefeat him, and we will have made a victory of this tragic situation. You can find him to the north of the retreat, where he taunts us in insane rage.",
-    "name": "Unmasking the Yaungol",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

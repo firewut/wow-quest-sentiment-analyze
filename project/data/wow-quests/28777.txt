@@ -1,7 +1,0 @@
-{
-    "_id": "28777",
-    "description": "This badly broken figurine was discarded by its last owner.  However, with the right materials and your skill in jewelcrafting, it could be completely restored.\r\n",
-    "name": "Broken Owl Figurine",
-    "requires_level": 1,
-    "zone": "Jewelcrafting"
-}

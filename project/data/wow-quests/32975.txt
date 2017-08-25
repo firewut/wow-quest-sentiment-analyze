@@ -1,8 +1,0 @@
-{
-    "_id": "32975",
-    "added_in_patch": 5.4,
-    "description": "<Another dirty scrap of parchment is buried beneath the soil.>Somewhere hope stands, wings held forth\r\nFrom its feet turn to the north\r\nPass beyond an ancient gate\r\nBehind a stone pair, I await.",
-    "name": "Rolo's Riddle",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

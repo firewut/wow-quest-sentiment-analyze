@@ -1,8 +1,0 @@
-{
-    "_id": "32230",
-    "added_in_patch": 5.2,
-    "description": "The trolls have dispatched one of their immense constructs on the southern road, blocking our passage around the island. See to it that the road is cleared, <class>.",
-    "name": "The Zandalari Colossus",
-    "requires_level": 90,
-    "zone": "Quests"
-}

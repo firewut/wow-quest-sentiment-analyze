@@ -1,8 +1,0 @@
-{
-    "_id": "35578",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Building an Ancient of War",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

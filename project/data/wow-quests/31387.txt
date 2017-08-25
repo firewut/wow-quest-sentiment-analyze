@@ -1,8 +1,0 @@
-{
-    "_id": "31387",
-    "added_in_patch": 5,
-    "description": "The Shado-Pan rank among Pandaria's oldest defenders.For years we train in our snow-capped monastery high in the Kun-Lai Summit, perfecting the martial secrets passed down by our ancestors.Our numbers may seem few, but a single Shado-Pan can be deadlier than a hundred trained soldiers.To join the Shado-Pan order is a long journey full of hardship. If this is the path you seek, then you must first prove your worth.There is urgent work to be done here. Help the Golden Lotus defend the Vale.",
-    "name": "Understanding The Shado-Pan",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

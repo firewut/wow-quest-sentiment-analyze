@@ -1,7 +1,0 @@
-{
-    "_id": "39353",
-    "added_in_patch": 7,
-    "description": "Test",
-    "name": "Test - New",
-    "zone": "Quests"
-}

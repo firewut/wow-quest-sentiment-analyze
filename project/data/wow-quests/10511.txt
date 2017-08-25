@@ -1,7 +1,0 @@
-{
-    "_id": "10511",
-    "description": "If I'm going to start this vacation out right, then I'm going to need more brew.  Unfortunately, the elves know nothing of the fine art of fermentation.I overheard that the Bloodmaul ogres down in the ravine have plenty.  I'm willing to give it a try.Do me a favor?  Head south through the Living Grove and then down the ramp to the east into Bloodmaul Outpost and procure me some?  I hear they have big barrels of it laying around and that their brewmasters carry it around to all the other ogres.",
-    "name": "Strange Brew",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

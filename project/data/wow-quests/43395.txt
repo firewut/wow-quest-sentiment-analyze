@@ -1,8 +1,0 @@
-{
-    "_id": "43395",
-    "added_in_patch": 7,
-    "description": "Both Arator and Delas are still somewhere on this forsaken rock, as well as many of our other allies.We cannot leave them, <name>.",
-    "name": "Allies of the Light",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

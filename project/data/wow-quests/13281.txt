@@ -1,7 +1,0 @@
-{
-    "_id": "13281",
-    "description": "You no longer need my assistance in neutralizing the enemy's plague cauldrons, <race>.Hunt down the flesh giants at the death gate and use the fluid from their spines to render batches of the plague ineffective.You are striking at the heart of the enemy's strategy. This is an important mission - vital to our cause, and should be carried out whenever time permits.Remember, the giants and the plague cauldrons can be found on Mord'rethar.",
-    "name": "Neutralizing the Plague",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

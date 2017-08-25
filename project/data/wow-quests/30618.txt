@@ -1,8 +1,0 @@
-{
-    "_id": "30618",
-    "added_in_patch": 5,
-    "description": "If you're looking for the best supplies in Kun-Lai you've come to the right place! Oh sure, it looks a bit empty. Don't let appearances deceive you..Oh, who am I kidding?! Between the hozen attacks, and the sprites pillaging what few supplies we do get, my stock has dwindled to a dangerous level.If you could help me recover some of my supplies I should have enough to contribute to your journey.",
-    "name": "Resupplying One Keg",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

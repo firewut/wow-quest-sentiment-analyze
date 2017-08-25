@@ -1,8 +1,0 @@
-{
-    "_id": "26380",
-    "description": "I was supposed to be bringing these casks of ale to the inn in Kharanos. They contain a mysterious new ale produced by an upstart brewery based in Brewnall Village. As I was leaving town, I was attacked by a Frostmane troll raiding party. It's going to take me days to repair the wagon!I don't suppose you'd be willing to do me a favor, will you? These big kegs aren't going anywhere, but I have some smaller sample casks. Would you bring them to Kharanos for me? Just follow the road to the southeast.",
-    "name": "Bound for Kharanos",
-    "requires_level": 2,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

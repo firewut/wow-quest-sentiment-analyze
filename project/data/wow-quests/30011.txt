@@ -1,8 +1,0 @@
-{
-    "_id": "30011",
-    "added_in_patch": 5,
-    "description": "Please tell the Elder Sage Rain-Zhu that I will begin my work at once.",
-    "name": "A New Vision",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24913",
-    "description": "Magtoor grows weaker by the second, <name>. My remedy is prepared... it must work. It must!",
-    "name": "Remember the Light",
-    "requires_level": 53,
-    "zone": "Swamp of Sorrows"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9365",
-    "description": "This flame, stolen from the heart of Stormwind itself, floods you with warmth. This raw power is foreign to you, but the (NAME) might know more...",
-    "name": "A Thief's Reward",
-    "requires_level": 1,
-    "zone": "Midsummer"
-}

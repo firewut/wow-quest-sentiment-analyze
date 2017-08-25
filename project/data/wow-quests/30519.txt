@@ -1,8 +1,0 @@
-{
-    "_id": "30519",
-    "added_in_patch": 5,
-    "description": "The next vote we'll need is from Nana Mudclaw. She's Haohan's grandmother, and she's been a Tiller longer than you and I have been alive!She's still working at the Tillers building in Halfhill. Why don't you pay her a visit?",
-    "name": "Nana's Vote I: Nana's Secret Recipe",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

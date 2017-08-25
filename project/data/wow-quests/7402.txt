@@ -1,7 +1,0 @@
-{
-    "_id": "7402",
-    "description": "By order of Corporal Noreg Stormpike, all able bodied soldiers of Stormpike are required to slay any opposing orcs that they meet upon the field of battle.Soldiers are required to remove a tusk or tooth from the maw of the enemy and present said tooth as proof of their accomplishment.Wear protective gloves.",
-    "name": "Wanted: ORCS!",
-    "requires_level": 200,
-    "zone": "Alterac Valley"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28836",
-    "description": "That vile worm has earned a thousand deaths!It won't be easy. She and her minions are firmly entrenched in this place, but she's bound to be exhausted from her fight with Neptulon.Now is the time to strike! We won't have another opportunity like this.Run her through, <name>!",
-    "name": "Sins of the Sea Witch",
-    "requires_level": 80,
-    "zone": "Throne of the Tides"
-}

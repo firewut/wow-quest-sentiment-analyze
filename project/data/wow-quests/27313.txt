@@ -1,7 +1,0 @@
-{
-    "_id": "27313",
-    "description": "There is no alternative: if you intend to win a battle, you must spill the enemy's blood. In this case, unfortunately, a lot of it.You know what we have to do.",
-    "name": "Darkcloud Grimtotem",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

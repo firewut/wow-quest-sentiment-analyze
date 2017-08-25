@@ -1,8 +1,0 @@
-{
-    "_id": "40534",
-    "added_in_patch": 7,
-    "description": "Seeing as how you've been quite a reliable resource, I'm willing to teach you how to cut a Masterful Queen's Opal.We'll be using my cutting tool to do this, so whenever you're ready, go ahead and sit yourself in front of it.",
-    "name": "Making the Cut",
-    "requires_level": 98,
-    "zone": "Jewelcrafting"
-}

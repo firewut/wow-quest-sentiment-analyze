@@ -1,7 +1,0 @@
-{
-    "_id": "36636",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Blueprint Read",
-    "zone": "Talador"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27911",
-    "description": "He stirs...Do not leave, <name>. Please, honor Helgrum with me. You have done so much for him.",
-    "name": "With Dying Breath",
-    "requires_level": 53,
-    "zone": "Swamp of Sorrows"
-}

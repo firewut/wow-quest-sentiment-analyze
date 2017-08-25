@@ -1,9 +1,0 @@
-{
-    "_id": "36482",
-    "added_in_patch": 6,
-    "description": "Kaz always told me green ogron are bad.The botani here have a green ogron and it is mean.It was strong enough to take out my dad's entire hunting party.Are you strong enough to kill it?",
-    "name": "A Green Ogron?",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

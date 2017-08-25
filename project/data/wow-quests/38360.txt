@@ -1,9 +1,0 @@
-{
-    "_id": "38360",
-    "added_in_patch": 7,
-    "description": "Finding Sylvanas is our only priority!We will cover more ground if we split up. I will lead a team into the hills above the enemy's camp while you search the wreckage itself for any signs of the crew.Once we've cleared the high ground, I will meet you at the far end of the beach.",
-    "name": "The Windrunner's Fate",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

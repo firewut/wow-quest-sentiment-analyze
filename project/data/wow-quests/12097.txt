@@ -1,8 +1,0 @@
-{
-    "_id": "12097",
-    "description": "Me hunters be dead or frozen, <name>. You still want to do dis? Just say da word and me call for da dragon once more.If ya kill it, take da beast's frozen heart back to Agmar's Hammer and present it to Gort. He sure to reward you good, mon.",
-    "name": "Sarathstra, Scourge of the North",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

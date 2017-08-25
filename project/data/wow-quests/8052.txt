@@ -1,7 +1,0 @@
-{
-    "_id": "8052",
-    "description": "",
-    "name": "The All-Seeing Eye of Zuldazar",
-    "requires_level": 58,
-    "zone": "Quests"
-}

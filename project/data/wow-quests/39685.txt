@@ -1,8 +1,0 @@
-{
-    "_id": "39685",
-    "added_in_patch": 7,
-    "description": "The Wardens kept all kinds of dangerous monsters locked up within this Vault. Now that Gul'dan's forces have breached the walls, it's proving rather... inconvenient.\r\n\r\nMany of our forces are occupied with containing a fearsome magma destroyer in the southern chamber. With us freshly awoken from stasis, we don't have the means to take it down. However, we might be able to reactivate the room's containment field.\r\n\r\nGo join up with Kayn. Do whatever it takes to seal that chamber!",
-    "name": "Frozen in Time",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

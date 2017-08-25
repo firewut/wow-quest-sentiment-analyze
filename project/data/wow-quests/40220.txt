@@ -1,8 +1,0 @@
-{
-    "_id": "40220",
-    "added_in_patch": 7,
-    "description": "The Thistleleaf sprites have gone completely mad.I suspect they are being manipulated by some very mischievous Thorndancers.Please, friend of the forest, seek out these seductive troublemakers and bring peace to the shallows.",
-    "name": "Thorny Dancing",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

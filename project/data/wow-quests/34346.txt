@@ -1,9 +1,0 @@
-{
-    "_id": "34346",
-    "added_in_patch": 6,
-    "description": "The furies of Draenor are different than the elementals of Azeroth. But don't be fooled. Some be wicked, boss-mon. Wicked.The trap we are making be needing some proper frostshards. You can get them, if ya willing, from the ice furies.Dey be wandering the Cracking Plains, freezin' all dat dey touch, an' bein' wicked.Bring us some o' these frostshards,  boss-mon, an' we gonna whip ya up one deadly trap.",
-    "name": "Frosted Fury",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

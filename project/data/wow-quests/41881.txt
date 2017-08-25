@@ -1,8 +1,0 @@
-{
-    "_id": "41881",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Fight Night: Heliosus",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

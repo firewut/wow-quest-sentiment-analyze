@@ -1,9 +1,0 @@
-{
-    "_id": "33905",
-    "added_in_patch": 6,
-    "description": "The Shadowmoon orcs are using portals to bring in reinforcements and smuggle away draenei captives.If we are to have any hope of retaking the village, we must destroy the portals at once.The only way to do this is to kill the portalmasters who keep the rifts open.",
-    "name": "Closing the Door",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

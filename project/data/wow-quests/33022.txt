@@ -1,8 +1,0 @@
-{
-    "_id": "33022",
-    "added_in_patch": 5.4,
-    "description": "Oh my! Grandpa used to tell me stories of the famous Lin family noodle shop.It is sad that the scroll has been warped, but I think we can work together to solve the riddle!To start, we're going to need lots of grain to make noodles.Head down to the granary and catch some grain with this sack. After you've caught some, drop it off at the wagon I've placed at the granary.",
-    "name": "Catch and Carry",
-    "requires_level": 90,
-    "zone": "Cooking"
-}

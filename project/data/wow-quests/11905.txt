@@ -1,7 +1,0 @@
-{
-    "_id": "11905",
-    "description": "Azeroth's ley lines are being redirected to the Nexus.The influx of arcane energies is tearing a rift between dimensions.I cannot stop it, but I've discovered a way to slow it down.Take this and activate it near the forming rift.",
-    "name": "Postponing the Inevitable",
-    "requires_level": 69,
-    "zone": "Quests"
-}

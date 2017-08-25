@@ -1,8 +1,0 @@
-{
-    "_id": "40634",
-    "added_in_patch": 7,
-    "description": "I know the tale of Irmaat well. It is said that his home was the ancient city of Ahmtul, long buried under the desert sands.Recently a strange storm has appeared over the ruins. What's more, I am told that an elemental called Nader has attacked my people in nearby lands.These events must be related.Find this Nader and put an end to him. Make sure to search his body for clues as to what is behind this.",
-    "name": "Thunder on the Sands",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

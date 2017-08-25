@@ -1,7 +1,0 @@
-{
-    "_id": "24798",
-    "description": "At last, Quel'Delar is restored for the glory of the Sunreavers and the sin'dorei!All of Silvermoon will celebrate you as a hero, <name>.As a <class>, the sword seems to know you lack the training to wield it and hasn't bonded to you. Where, then, will its next master come from? No worthy sin'dorei has come forward. Let us seek the Argent Crusade's counsel. Go north to the Argent Tournament Grounds and present the sword to Justicar Mariel Trueheart on behalf of the Sunreavers.",
-    "name": "A Victory For The Sunreavers",
-    "requires_level": 80,
-    "zone": "Icecrown"
-}

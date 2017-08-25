@@ -1,7 +1,0 @@
-{
-    "_id": "1036",
-    "description": "<name>... yeah, I've heard of you.  I've heard that you're no friend of Booty Bay - just like us Bloodsail Buccaneers.  Fleet Master Firallon is looking for hale and hearty  men  just like you for a special mission.",
-    "name": "Avast Ye, Scallywag",
-    "requires_level": 55,
-    "zone": "Northern Stranglethorn"
-}

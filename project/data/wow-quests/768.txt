@@ -1,7 +1,0 @@
-{
-    "_id": "768",
-    "description": "Greetings, young one.  You have a gleam in your eye; I can tell you are eager to venture back to the plains for the hunt.  May you bring honor to your clan!I work with the skins of beasts, fashioning them into clothes and armor for the people of Thunder Bluff.If you hunt beasts and bring me their skins, then I will fashion something for you.",
-    "name": "Gathering Leather",
-    "requires_level": 4,
-    "zone": "Thunder Bluff"
-}

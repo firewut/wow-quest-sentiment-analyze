@@ -1,8 +1,0 @@
-{
-    "_id": "31118",
-    "added_in_patch": 5,
-    "description": "We need to understand what went wrong with the Deadtalkers. \r\n\r\nFor so many years, the Deadtalkers were simply responsible for maintaining the burial grounds and holding funerals for fallen warriors.\r\n\r\nFrom a recent raid, we've recovered a tablet from the grounds that is clearly written using a cipher, but it isn't one we've encountered before. If you can gather a ciphered scroll from one of the Deadtalkers, we can begin to put together the cypher and understand what's happened.",
-    "name": "The Deadtalker Cipher",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13110",
-    "description": "Not all of our soldiers made it out of Scourgeholme. Many were slain and turned into twisted reflections of their former selves. Such is the way of the Scourge. For those damned souls, there is no eternal peace. We must provide their souls rest.Travel through the Breach into Scourgeholme and slay the skeletal reanimated crusaders. Sprinkle this holy water on their bones so that their spirits may be freed.",
-    "name": "The Restless Dead",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

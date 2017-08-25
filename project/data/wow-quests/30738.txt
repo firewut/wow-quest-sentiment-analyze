@@ -1,8 +1,0 @@
-{
-    "_id": "30738",
-    "added_in_patch": 5,
-    "description": "When we last spoke, I promised to tell you the secret of Fat Long-Fat. I still plan to tell you that secret... after I determine your worth.I will meet you on the western shore, and we will duel.",
-    "name": "Thelonius",
-    "requires_level": 90,
-    "zone": "Krasarang Wilds"
-}

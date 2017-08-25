@@ -1,7 +1,0 @@
-{
-    "_id": "10195",
-    "description": "Ever since you brought that first batch of feathers and I completed Bertelm's hat, all the other mercenaries have been clamoring for their own, including Thander. It told them I'd get right on it, but I'm going to need a steady supply of arakkoa feathers for the project.I'll gladly accept any you happen to gather in your adventures in the forest.",
-    "name": "Mercenary See, Mercenary Do",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

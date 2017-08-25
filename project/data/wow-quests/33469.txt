@@ -1,9 +1,0 @@
-{
-    "_id": "33469",
-    "added_in_patch": 6,
-    "description": "The Thunderlord warleader... <name>, you have to stop him.He went to attack Drek'Thar at the Pool of Visions to the northwest!",
-    "name": "The Farseer",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

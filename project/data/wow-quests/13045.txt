@@ -1,7 +1,0 @@
-{
-    "_id": "13045",
-    "description": "We will do all that we can to assist you, <name>. The proto-brood have volunteered to fly you across the Breach and into Scourgeholme. Rescue any captured Argent Crusaders that you find. Return them immediately to the Vanguard Infirmary, located at the center of this base.Choose one of the Argent Skytalons in the pen behind me and go!Scourgeholme is located northwest, across the Valley of Echoes, through the great Breach.",
-    "name": "Into The Wild Green Yonder",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

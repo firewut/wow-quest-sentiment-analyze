@@ -1,9 +1,0 @@
-{
-    "_id": "31912",
-    "added_in_patch": 5,
-    "description": "I hear that you fought my fool of a brother. He lost, eh?Looks like this is my time to shine!",
-    "name": "Kortas Darkhammer",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Battle Pets"
-}

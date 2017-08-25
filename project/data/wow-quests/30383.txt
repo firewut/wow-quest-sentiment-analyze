@@ -1,8 +1,0 @@
-{
-    "_id": "30383",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Marsh Lily for Ella",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

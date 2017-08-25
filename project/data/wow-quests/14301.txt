@@ -1,7 +1,0 @@
-{
-    "_id": "14301",
-    "description": "It is done! Together we were able to bring down a dangerous adversary.Neptulon himself shall hear of your exploits here, <class>. Allow me to extend you his thanks...You should leave now. This place will not remain safe for long. Soon, the naga will seek vengeance for their priestess.",
-    "name": "Return and Report",
-    "requires_level": 28,
-    "zone": "Desolace"
-}

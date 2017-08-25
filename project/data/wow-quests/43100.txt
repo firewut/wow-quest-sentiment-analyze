@@ -1,8 +1,0 @@
-{
-    "_id": "43100",
-    "added_in_patch": 7,
-    "description": "Very powerful, but difficult to acquire. Scepter is in the hands of Gul'dan. We must find out his plans, get close.Calydus know Gul'dan planning major operation. He has sent out a call to arms to all Shadow Council to help with big ritual. One such group at Caer Darrow, talking to the necromancers there.You should go, find out about plan.",
-    "name": "Finding the Scepter",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10253",
-    "description": "Go now, <name>. You will find Levixus on the uppermost ruins of Auchindoun. Enter there from the southern reaches of the Bone Wastes. He stands amidst a storm of souls...Destroy him and take the book of the dead. Once you have the cursed book in your possession, destroy it! Destroy it so that such an atrocity can never again be made possible.",
-    "name": "Levixus the Soul Caller",
-    "requires_level": 64,
-    "zone": "Terokkar Forest"
-}

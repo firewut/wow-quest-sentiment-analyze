@@ -1,8 +1,0 @@
-{
-    "_id": "40947",
-    "added_in_patch": 7,
-    "description": "Verene's child has gone missing. I can guess what happened, but I need to be sure.\r\n\r\nMost guardsmen use couriers to relay delicate information. In this, magic is strictly the province of high ranking officials.\r\n\r\nTake this blade. Do not touch the cutting edge. Use it to silently waylay the couriers and collect any correspondence they carry.\r\n\r\nWith any luck, the missives will tell us exactly where to find the girl.\r\n\r\nWe guards know everything, after all.\r\n\r\n<Silgryn offers you a winning smile.>",
-    "name": "Special Delivery",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

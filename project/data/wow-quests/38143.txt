@@ -1,8 +1,0 @@
-{
-    "_id": "38143",
-    "added_in_patch": 7,
-    "description": "Now, we must focus our efforts on waking Archdruid Steelclaw.She and our druid brethren slumber in the barrow dens to the south.With the furbolgs quelled, we can pass safely to the entrance.Go and awaken the Archdruid. I pray to Elune that we are not too late.",
-    "name": "Awakening the Archdruid",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

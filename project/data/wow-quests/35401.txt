@@ -1,8 +1,0 @@
-{
-    "_id": "35401",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Vortex Pinnacle Reward Quest",
-    "requires_level": 81,
-    "zone": "Quests"
-}

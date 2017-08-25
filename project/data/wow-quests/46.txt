@@ -1,8 +1,0 @@
-{
-    "_id": "46",
-    "description": "The Stormwind Army has placed a bounty on murloc lurkers and foragers in Elwynn.  Slaughter them and bring Guard Thomas their torn murloc fins, and the Stormwind Army will reward you well.The murlocs have built a village at Stone Cairn Lake north of here, and another to the south where the stream forks.",
-    "name": "Bounty on Murlocs",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

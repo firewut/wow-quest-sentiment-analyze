@@ -1,8 +1,0 @@
-{
-    "_id": "60",
-    "description": "Hello, good sir!  Do you have a moment?My brother and I run an apothecary in Stormwind, and I'm here to gather large candles for their wax.  Can you help me?You can get large candles from kobolds, and I hear rumors that kobolds are infesting the Elwynn mines... the Fargodeep Mine to the south and Jasperlode Mine to the east.  I suggest looking for candles in one of those places.",
-    "name": "Kobold Candles",
-    "requires_level": 3,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

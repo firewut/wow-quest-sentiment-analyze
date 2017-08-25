@@ -1,7 +1,0 @@
-{
-    "_id": "27883",
-    "description": "One of the few items of worth that we managed to loot from these ruins is this small jade statue.We believe it to be a key of some sort, but we're unable to determine what it opens.  As such, it is useless to me.Perhaps you'll have some better luck with it.",
-    "name": "The Warden's Pawn",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

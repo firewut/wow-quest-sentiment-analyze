@@ -1,8 +1,0 @@
-{
-    "_id": "32843",
-    "added_in_patch": 5.3,
-    "description": "The challenge card you've earned today belongs to one of the most deadly creatures in the South Seas: Razorgrin. One bite from those teeth of his, and you're nothing but an unrecognizable pile of skin, blood, and entrails.Have fun!",
-    "name": "Razorgrin",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

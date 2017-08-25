@@ -1,8 +1,0 @@
-{
-    "_id": "28517",
-    "description": "So this is it... our new home. I'm not sure if I'll ever feel like I truly have a home again.We mustn't be unappreciative of what the night elves have offered us though. Their race is not one to throw out idle welcomes to just anyone. It is a true testament to faith and generosity that they've taken us in.Gwen and Greymane are in the city proper, at the Howling Oak. You should stop by. Take the portal beneath the tree north of us, then seek out the Howling Oak in the northern portion of the city.",
-    "name": "The Howling Oak",
-    "requires_level": 8,
-    "side": "alliance",
-    "zone": "Darnassus"
-}

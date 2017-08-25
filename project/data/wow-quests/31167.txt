@@ -1,9 +1,0 @@
-{
-    "_id": "31167",
-    "added_in_patch": 5,
-    "description": "So there you have it, traveler, or as much of it as would make for a proper introduction, hmm?What of you, then? Are your people so much different than mine?Surely, there must be things we share in common. Let us see...",
-    "name": "Family Tree",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

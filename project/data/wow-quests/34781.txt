@@ -1,9 +1,0 @@
-{
-    "_id": "34781",
-    "added_in_patch": 6,
-    "description": "No sooner does power rush to the crystal outside than you hear distant war cries and shouts of alarm. Elodor is being attacked!If you want your laborers to come home in one piece, you'd best help with the defense of the town. Defeat the invasion and then return to the control console to reset the defenses.",
-    "name": "Defenstrations",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

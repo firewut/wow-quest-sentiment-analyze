@@ -1,9 +1,0 @@
-{
-    "_id": "29762",
-    "added_in_patch": 5,
-    "description": "We recently lost a fierce battle against the hozen at Moonwater Retreat.We evacuated as many of our people as we could, but still, there were many we could not save.We have no tokens of our lost over which to send our prayers.If someone could go and retrieve heirlooms from the dead bodies, we could properly lay them to rest, and move on.It would mean so much to us if you could do this, <name>.",
-    "name": "Family Heirlooms",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12681",
-    "description": "That Archmage Pentarus, back in Dalaran, will be expecting us to return with all kinds of reagents and talismans. It seems the locals are fond of animal parts. Twisted claws from the goretalon rocs are among their favorite.It's not my place to say whether the rumors are true or not, but I've a feeling there's something here.The rocs live in the Bonefields off to the northeast, where they feed on the corpses of old mammoths. Will you help me gather talons for the archmage's research?",
-    "name": "Reagent Agent",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

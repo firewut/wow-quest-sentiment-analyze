@@ -1,8 +1,0 @@
-{
-    "_id": "37653",
-    "added_in_patch": 7,
-    "description": "I need to extract information about the Burning Legion from these foul creatures. But living, the demons are almost impossible to break.\r\n\r\nHowever, like you, I wield a powerful artifact -- the Scythe of Souls.\r\n\r\nTake one of my soul gems. If you place it next to a demon's corpse, it will rip the 'soul' out. Then, we will see if the scythe can get them to talk.",
-    "name": "Demon Souls",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39987",
-    "added_in_patch": 7,
-    "description": "The nightborne could prove powerful allies against the Legion. We must aid this Thalyssra if we can.\r\n\r\nWe should be able to find her by tracking her magical echoes, the same way I found her distress call.\r\n\r\nI can teleport you near the location where she recorded that message. From there, you must search for ripples in the very fabric of the arcane itself.\r\n\r\nMy wand should do the trick. Follow the sparks it creates - they should lead you to places where Thalyssra used her magic.",
-    "name": "Trail of Echoes",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

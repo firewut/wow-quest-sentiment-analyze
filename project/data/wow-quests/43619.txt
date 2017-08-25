@@ -1,8 +1,0 @@
-{
-    "_id": "43619",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Shara Felbreath",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

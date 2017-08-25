@@ -1,8 +1,0 @@
-{
-    "_id": "29319",
-    "description": "Some of our apothecaries took to dumping their more volatile waste chemicals into Stillwater Pond and... well, let's just say that no one wants to know how big mutant flesh-eating toads can grow.Would you consider fishing up some giant flesh-eating tadpoles before it gets to that? Just don't try to handle them with your bare hands.",
-    "name": "Tadpole Terror",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Fishing"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43184",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Allari the Souleater",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25817",
-    "description": "The sailors of the Third Fleet are damned, forever cursed to wander these shores in agony. Fitzsimmons' anguish is tied to us; so long as we suffer, there can be no rest for him, either.You must end the suffering of my crewmates' spirits. Purge their ghosts from this plane, and return to me.",
-    "name": "The Cursed Crew",
-    "requires_level": 20,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

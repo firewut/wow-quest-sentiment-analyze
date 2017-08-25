@@ -1,8 +1,0 @@
-{
-    "_id": "42146",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Dazed and Confused and Adorable",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

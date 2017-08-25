@@ -1,7 +1,0 @@
-{
-    "_id": "27817",
-    "description": "Thanks to you and Iain, we've got enough riders together that we can take the fight back to the Twilight.We're trained to fight while ridin', but a second rider to handle the Stormhammer tends to be more efficient. I thought you might enjoy the honor.Pick your gryphon and join the fight. Best be quick about it though - we're aimin' to clear every last one of those Twilight off of those floatin' rocks before the hour's out.",
-    "name": "Dropping the Hammer",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

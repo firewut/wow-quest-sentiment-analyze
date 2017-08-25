@@ -1,7 +1,0 @@
-{
-    "_id": "12609",
-    "description": "Listen, <class>. I realize that it's a lot to ask....Fresh spider ichor is somewhat hard to come by, even in these heavily infested regions. But Finklestein said he'd settle for no less than a vat of it, and that he needs it soon.I'll keep my men out in the field collecting reagents, but if the alchemist's order is going to be filled in time, they'll require some assistance.As you roam the fields of Zul'Drak, keep your eyes peeled for trapdoor crawlers and bring me all of the ichor you can find.",
-    "name": "Stocking the Shelves",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

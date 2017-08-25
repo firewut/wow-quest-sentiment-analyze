@@ -1,7 +1,0 @@
-{
-    "_id": "28533",
-    "description": "The High Council is ready to decide on the war with the Neferset tribe.",
-    "name": "The High Council's Decision",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

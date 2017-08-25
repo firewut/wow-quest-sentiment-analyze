@@ -1,8 +1,0 @@
-{
-    "_id": "11724",
-    "description": "This egg was obviously important to somebody, as the corpse nearby can attest. As you look the egg over you notice that it has already been tagged for shipment to the Bloodspore Plains, care of Bloodmage Laurith. That's just east of here!Collect the egg and take it to the expectant Bloodmage.",
-    "name": "Massive Moth Omelet?",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

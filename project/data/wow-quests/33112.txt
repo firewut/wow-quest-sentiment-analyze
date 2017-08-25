@@ -1,9 +1,0 @@
-{
-    "_id": "33112",
-    "added_in_patch": 6,
-    "description": "Now that Priestess Moonfang has created the blessed water, it is time to deal with the demon.Take the water and the scripture of Elune.Through the power of each, you will compel the demon to show us what the orcs are up to at Gul'var.",
-    "name": "Ominous Portents",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26763",
-    "description": "If I'm going to repair this pot, I'm going to need reagents.  And to get them, you're going to have to do an eensy little bit of killing.  I hope you don't mind.Those dastardly Venture Company geologists have been collecting some tumbled crystals that will suffice for what I need.  You'll find them around their Base Camp, on the other side of Lake Nazferiti, to the east.I don't care what you have to do to get them. ",
-    "name": "Venture Company Mining",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

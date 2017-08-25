@@ -1,8 +1,0 @@
-{
-    "_id": "25268",
-    "description": "Southwest of here lies the shrine of Goldrinn, a memorial erected in honor of the ancient wolf spirit and his contribution during the War of the Ancients.Our new worgen allies have been drawn to the memory of the wolf god - go figure! - and were in the process of cleaning up the shrine.I haven't heard anything from my contact, Ian Duran, in days. Can you fly down there and find him? I've got a bad feeling that Goldrinn's shrine is in trouble...",
-    "name": "The Voice of Goldrinn",
-    "requires_level": 80,
-    "side": "alliance",
-    "zone": "Mount Hyjal"
-}

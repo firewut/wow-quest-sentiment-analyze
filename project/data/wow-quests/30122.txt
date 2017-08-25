@@ -1,8 +1,0 @@
-{
-    "_id": "30122",
-    "added_in_patch": 5,
-    "description": "You have found a beautiful silver flask decorated with ornate filigree.  With the right materials and your skill in alchemy, it could become quite magical.\r\n",
-    "name": "Silver Filigree Flask",
-    "requires_level": 1,
-    "zone": "Alchemy"
-}

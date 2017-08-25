@@ -1,8 +1,0 @@
-{
-    "_id": "43451",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Urgev the Flayer",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

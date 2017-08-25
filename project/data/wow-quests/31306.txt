@@ -1,8 +1,0 @@
-{
-    "_id": "31306",
-    "added_in_patch": 5,
-    "description": "I'm sure your pandaren friend has some ideas about what the mogu are after.He headed up the mountain a few days ago without a guide, and asked that only you be sent up after him. He was very specific:\"The <class> must endure the trek alone, with only his thoughts. He will honor each shrine before meeting me at the top.\"The path is just northwest of the camp, marked by flags. Please be careful! Seeker's Folly is a dangerous trek even on a lucky day.",
-    "name": "Seeker's Folly",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32194",
-    "added_in_patch": 5.1,
-    "description": "The Explorer's League is here to excavate the ruins, and it's my job to protect them.When we arrived, we found this place crawling with blood elves. Apparently,the Horde are just as interested in the mogu as we are.This gives quite an opportunity to thin our enemies' numbers, and steal their findings, too.Slay any blood elves you find in the ruins, and bring back whatever they are digging up.",
-    "name": "Bad Blood",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

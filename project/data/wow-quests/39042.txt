@@ -1,8 +1,0 @@
-{
-    "_id": "39042",
-    "added_in_patch": 6.2,
-    "description": "This alignment of the stars is truly a strange one, causing the tiniest of creatures to gain unnatural aptitude. None of our sages can explain the phenomenon, but cunning tamers have much to gain, especially by testing their skills against those of their peers.",
-    "name": "The Very Best",
-    "requires_level": 90,
-    "zone": "Weekend Event"
-}

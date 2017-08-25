@@ -1,8 +1,0 @@
-{
-    "_id": "36012",
-    "added_in_patch": 6,
-    "description": "<name>, during the attack on Karabor Iron Horde dreadnaughts looted or sank most of the draenei eastern fleet. A priceless artifact was captured: A genuine Draenic Thaumaturgical Orb.I must have it! Those orcs don't know what they've got!My sources indicate that the orb was aboard a ship that's being retrofitted down in the Dread Grotto beneath the Blackrock Foundry. Search the ship and the area nearby for the Sha'tari Vault that contained the orb. We've got to get it back!",
-    "name": "Reverse Piracy",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

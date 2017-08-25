@@ -1,7 +1,0 @@
-{
-    "_id": "12507",
-    "description": "This bottle of strange mojo may be the key to what is truly going on here.The Zandalari troll Hexxer Ubungo, back at The Argent Stand, may want to take a look at it.",
-    "name": "Strange Mojo",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

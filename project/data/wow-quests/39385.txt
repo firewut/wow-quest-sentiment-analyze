@@ -1,9 +1,0 @@
-{
-    "_id": "39385",
-    "added_in_patch": 7,
-    "description": "It looks like the Gilnean infiltrators brought some heavy ordnance to the fight. It's likely they intend to use them on the walls of Dreadwake's Landing.\r\n\r\nIf these could be rigged to Greymane's ship, it could make for a decisive end to his assault on the outpost.",
-    "name": "A Gift for Greymane",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39921",
-    "added_in_patch": 7,
-    "description": "Before we can begin though, there is a small favor I need to ask of you. I'm rather ashamed about this matter, to be honest, but it must be done in order for us to work together.When I was summoned to this land, I hadn't been given a chance to collect my things. Most importantly, I left behind my enchanting rod.Instead of retrieving it I believe it would be much simpler to reconstruct it.Here's what we'll need...",
-    "name": "Rod of Azure",
-    "requires_level": 110,
-    "zone": "Enchanting"
-}

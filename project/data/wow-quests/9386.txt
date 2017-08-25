@@ -1,7 +1,0 @@
-{
-    "_id": "9386",
-    "description": "An eager one, aren't you? If you're willing to enter the depths once more, I'll gladly reward you.Seek out the bonfires burning within Stratholme, Scholomance, Dire Maul, and the halls of Blackrock Spire itself; I look forward to your return, <name>.",
-    "name": "A Light in Dark Places",
-    "requires_level": 50,
-    "zone": "Midsummer"
-}

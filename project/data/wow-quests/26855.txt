@@ -1,8 +1,0 @@
-{
-    "_id": "26855",
-    "description": "Hildelve wrote in his journal that he was attacked by Mangeclaw, a \"huge Ice Claw Bear.\"  He drove off the beast, but not before it mauled him savagely.Judging from the state of Hildelve's body, Mangeclaw must have later returned and killed him.However, Hildelve wrote in his journal his one, final wish:Revenge against Mangeclaw.",
-    "name": "A Pilot's Revenge",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

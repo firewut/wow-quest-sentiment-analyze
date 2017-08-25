@@ -1,7 +1,0 @@
-{
-    "_id": "7673",
-    "description": "",
-    "name": "Frost Ram Exchange",
-    "requires_level": 60,
-    "zone": "Quests"
-}

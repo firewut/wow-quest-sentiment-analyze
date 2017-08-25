@@ -1,8 +1,0 @@
-{
-    "_id": "40319",
-    "added_in_patch": 7,
-    "description": "The potion is complete, <name>. Soon our journey will be over. There is one last thing I would have you do for me, then you shall have your reward.My wife's bow was kept here, but I have not been able to find it after searching everywhere. There is potent magic in it.I fear one of the restless spirits may have taken it, but it would take a powerful force to pick up an item such as this. Be careful.",
-    "name": "The Final Ingredient",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

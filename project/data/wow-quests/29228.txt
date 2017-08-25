@@ -1,7 +1,0 @@
-{
-    "_id": "29228",
-    "description": "Well, that explains why Mauti seemed smaller...  The real Mauti has run off with Grent Direhammer, but being the wise hunter that he is, he has fired flares off so you can track him.  Find Direhammer before it's too late!",
-    "name": "Follow That Cat",
-    "requires_level": 85,
-    "zone": "Northern Stranglethorn"
-}

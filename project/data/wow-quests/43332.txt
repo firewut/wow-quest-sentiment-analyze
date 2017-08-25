@@ -1,8 +1,0 @@
-{
-    "_id": "43332",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Grell in a Handbasket",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26732",
-    "description": "I have a feeling that Kurzen's Medicine Men are distributing more than just medicine.  Kurzen needs some way to quelch insubordination, and an elixir under the guise of \"medicine\" would be the perfect way to do that.We need those remedies for research.  Search the Kurzen Compound to the southeast - his medicine men and jungle fighters should carry the remedies on their bodies.",
-    "name": "Bad Medicine",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

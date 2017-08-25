@@ -1,7 +1,0 @@
-{
-    "_id": "27997",
-    "description": "The cleansing of this forest has been a grueling process. For every success we have achieved, a new challenge has arisen.The Jadefire satyr have been a constant nuisance. They seek to corrupt the forest just as we seek to cleanse it. Now, we have taken steps to begin eradicating them from Felwood entirely.Travel to Jadefire Glen to the west and rid the forest of their presence. You'll find the entrance just north of the walls of Deadwood Village; look for their vile banners.",
-    "name": "The Corruption of the Jadefire",
-    "requires_level": 44,
-    "zone": "Felwood"
-}

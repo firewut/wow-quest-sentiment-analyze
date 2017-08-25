@@ -1,8 +1,0 @@
-{
-    "_id": "26337",
-    "description": "<It's not hard to see why the Foebreaker is behind schedule. Every other day, a foreman comes in and changes the blueprints.><Most troubling are the recent alterations. The workers have been ordered to remove rivets to save on costs!><You'd better track down one of the Bilgewater foremen responsible for this and make an example out of him, before any Horde lives are lost in a faulty ship.>",
-    "name": "Beating the Market",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Azshara"
-}

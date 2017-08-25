@@ -1,7 +1,0 @@
-{
-    "_id": "11482",
-    "description": "Hear me, <race>.Duty requires that you return to Azeroth. Every able person is to report to the Sunwell Plateau immediately.I'm afraid I have no more information to share, except this:You'll be joining forces with the Aldor for this mission. Speak with a draenei by the name of Larethor when you arrive.Apparently, the situation calls for us to set our differences aside and join forces.Prepare yourself, friend. This sounds serious.",
-    "name": "Duty Calls",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

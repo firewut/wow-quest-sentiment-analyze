@@ -1,8 +1,0 @@
-{
-    "_id": "40906",
-    "added_in_patch": 7,
-    "description": "Hail, <class>.My village of Jandvik has fallen under siege by a group of naga called the Sashj'tar.Normally I would not seek out the help of an outsider, but we are facing an enemy that we are incapable of defeating.Many powerful elven relics can be found in the ruins around Jandvik. In exchange for your help, you will have your just rewards.Do we have an accord?",
-    "name": "Serpents from the Deep",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

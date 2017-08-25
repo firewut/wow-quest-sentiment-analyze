@@ -1,8 +1,0 @@
-{
-    "_id": "34724",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: The Forgotten Caves",
-    "requires_level": 92,
-    "zone": "The Forgotten Caves"
-}

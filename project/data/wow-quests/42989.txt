@@ -1,8 +1,0 @@
-{
-    "_id": "42989",
-    "added_in_patch": 7,
-    "description": "In order to imbue the Maelstrom Pillar with the essence of earth, we will need one of the rarest fossils found on Azeroth - an egg.The Egg of Gaiath is no ordinary egg; it contains the remnants of an unborn earthen primal, perfectly preserved in stone. There may be a means by which to revive it, but more on that later.First, we must find that egg!The Earthen Ring has heard of an ancient being who possesses such an item, but he will require payment in blood!",
-    "name": "Ma'haat the Indomitable",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

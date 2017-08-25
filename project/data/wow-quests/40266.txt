@@ -1,8 +1,0 @@
-{
-    "_id": "40266",
-    "added_in_patch": 7,
-    "description": "You may as well assist me while you are here. I require a potion to be made, one that will set things right.I must conserve my energy until my task is finished, lest I become like these miserable wretches scrabbling at the cobblestones. There is coin in it for you, since I will not be needing it soon.The harpies around here cannot resist cliffthorn. It is what drew them to Tel'anor in the first place. You should find plenty just outside this building.",
-    "name": "The Lost Advisor",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44306",
-    "added_in_patch": 7,
-    "description": "Though it takes time and resources, we are able to, of course, Bless your champions.  With this Blessing, their success on their adventures will be greatly improved.",
-    "name": "Blessings of the Order",
-    "requires_level": 110,
-    "zone": "Quests"
-}

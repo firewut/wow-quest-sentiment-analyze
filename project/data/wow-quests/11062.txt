@@ -1,7 +1,0 @@
-{
-    "_id": "11062",
-    "description": "<name>, we were wondering if you might be willing to visit our friends just to the north at the Skyguard Outpost?Sky Commander Keller and his Skyguard are here running missions for our mutual protection, and he's asked us to send along anyone that we feel would excel at helping out.That would be you!Head up there as soon as you can, and please, give him our regards.",
-    "name": "The Skyguard Outpost",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

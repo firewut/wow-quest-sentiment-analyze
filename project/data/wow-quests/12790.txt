@@ -1,7 +1,0 @@
-{
-    "_id": "12790",
-    "description": "Just in case you don't already know, you can use the crystal on the platform behind me to teleport to the Violet Stand in Crystalsong Forest beneath Dalaran.Correspondingly, you can use the crystal at the stand below to return to the chamber above me.I would like for you to do this now.",
-    "name": "Learning to Leave and Return: the Magical Way",
-    "requires_level": 68,
-    "zone": "Dalaran"
-}

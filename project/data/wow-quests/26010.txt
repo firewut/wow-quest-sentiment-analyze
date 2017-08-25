@@ -1,8 +1,0 @@
-{
-    "_id": "26010",
-    "description": "The Alliance have grown bold. Just west of here, in Windshear Valley, Northwatch troops have set up camp. No doubt they are preparing for the assault you warned us of, <name>. They will never get the chance!Take this flame thrower. It is the same flame thrower my incinerators use to burn our enemies out of hiding in the forests. Use it to destroy the Northwatch tents. Leave only ashes in your wake!",
-    "name": "Ashes to Ashes",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

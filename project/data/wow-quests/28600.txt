@@ -1,7 +1,0 @@
-{
-    "_id": "28600",
-    "description": "I have no authority over such matters. You must speak to our leader, Drek'Thar. I have already sent word of your arrival to Frostwolf Keep. Drek'Thar will be out to speak with you personally.",
-    "name": "Matters of Loyalty",
-    "requires_level": 21,
-    "zone": "Hillsbrad Foothills"
-}

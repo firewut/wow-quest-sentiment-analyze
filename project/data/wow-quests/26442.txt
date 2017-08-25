@@ -1,8 +1,0 @@
-{
-    "_id": "26442",
-    "description": "If I could choose my last meal, it would definitely be fresh lobster tail.  Something about that tasty crustacean is just irresistible!  We recently started trapping lobsters here in Stormwind.  Would you mind heading out and checking the traps for me?One more thing, watch out for the sharks.  They can be vicious down there.",
-    "name": "Rock Lobster",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

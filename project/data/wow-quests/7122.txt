@@ -1,7 +1,0 @@
-{
-    "_id": "7122",
-    "description": "The mines in Alterac Valley hold more than just minerals.  Both the Frostwolf and Stormpike have cached excess supplies in the Irondeep and Coldtooth mines... that's not a bad idea, if we could only maintain control of them!Capture a mine, then return to me.  To capture a mine, enter one that we do not control and kill its leader.  When you do that, the mine will be ours, and we'll send troops to protect it!",
-    "name": "Capture a Mine",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

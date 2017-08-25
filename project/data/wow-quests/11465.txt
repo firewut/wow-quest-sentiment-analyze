@@ -1,7 +1,0 @@
-{
-    "_id": "11465",
-    "description": "I was leading a caravan here from Valgarde that was attacked by Dragonflayers. I was the only survivor of that ambush. Unfortunately, I couldn't make it back here with the cargo of fjord turkeys. This is the perfect opportunity for you to get your feet wet with your rock falcon.<Hidalgo hands you a cage.>Take this falcon cage and head west down the road leading out of this camp. Use the falcon to capture the loose turkeys and return here when you've gathered enough.Remember to feed the falcon!",
-    "name": "The Ransacked Caravan",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

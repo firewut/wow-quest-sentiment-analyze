@@ -1,7 +1,0 @@
-{
-    "_id": "25592",
-    "description": "I've been able to help some of the survivors make it to the cave, but it's starting to get hairy out there. If we didn't have enough problems, some glowing murlocs started creeping up from the nearby crevice to attack the stranded survivors.The men up there are warriors--they won't go down without a fight--but they're much worse for the wear after that damned shell.If you have any breath left in your lungs, get up there and take out some of those murlocs. Hellscream's eyes are upon you.",
-    "name": "Deep Attraction",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

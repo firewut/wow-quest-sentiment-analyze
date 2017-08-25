@@ -1,7 +1,0 @@
-{
-    "_id": "10552",
-    "description": "",
-    "name": "Allegiance to the Scryers",
-    "requires_level": 60,
-    "zone": "Shattrath City"
-}

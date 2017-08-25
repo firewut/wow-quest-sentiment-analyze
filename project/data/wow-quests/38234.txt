@@ -1,7 +1,0 @@
-{
-    "_id": "38234",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Tracking Event: Inscribed Ruin Found",
-    "zone": "Quests"
-}

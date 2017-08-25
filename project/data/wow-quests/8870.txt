@@ -1,7 +1,0 @@
-{
-    "_id": "8870",
-    "description": "It's that time of the year, <name>!  The Cenarion Circle invites all denizens of Azeroth to partake in our celebration of the Lunar Festival.  You will find the Lunar Festival Harbinger in this very city at a location marked by a blessed circle of moonlight.  She can tell you more about the holiday.",
-    "name": "The Lunar Festival",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

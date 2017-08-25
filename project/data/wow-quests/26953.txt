@@ -1,7 +1,0 @@
-{
-    "_id": "26953",
-    "description": "I am Adrine Towhide, a druid of the Cenarion Circle.  You can thank us for healing this land, where once there was only death.We accept all who choose to follow the druidic path, regardless of race, faction, or talent.  Occasionally that means we enlist a druid who needs more help than others.I'd like you to meet Zen'Kiki.  He's pretty new, and he's still learning his craft.  Would you mind taking him out with you for a while?  You can practice combat on the plagued animals that roam nearby.",
-    "name": "Zen'Kiki, the Druid",
-    "requires_level": 35,
-    "zone": "Western Plaguelands"
-}

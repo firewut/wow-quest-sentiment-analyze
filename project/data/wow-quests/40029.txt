@@ -1,8 +1,0 @@
-{
-    "_id": "40029",
-    "added_in_patch": 7,
-    "description": "To one not trained in herbalism, this brambly bush might appear to be entirely useless. Your training, however, reveals this to be a very special plant indeed.Your herbalism trainer in Dalaran will want to see some more samples of this.",
-    "name": "Fjarnskaggl Sample",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

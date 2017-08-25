@@ -1,8 +1,0 @@
-{
-    "_id": "31764",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "[PUT OUT THE FIRES]",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

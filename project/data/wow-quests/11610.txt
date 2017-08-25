@@ -1,7 +1,0 @@
-{
-    "_id": "11610",
-    "description": "With your help, the ancestor spirits can now be guided to their rightful homes, the statues lovingly prepared by Kaskala's craftsmen and shaman.The ceremonies for these ancestors were interrupted during the attack on the quarry, and you will need to complete them. Take with you the objects that you recovered from the quarry, stand in front of the statues with the name markers, and recite this chant.<Words in a strange language flood your head, but you have no difficulty recalling them.>",
-    "name": "Leading the Ancestors Home",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

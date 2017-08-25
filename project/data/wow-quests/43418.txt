@@ -1,8 +1,0 @@
-{
-    "_id": "43418",
-    "added_in_patch": 7,
-    "description": "Farseer, since you have joined us you have done much to aid the Earthen Ring.Your efforts have not gone unnoticed. The spirits have watched all that you have done and are pleased. They also have shown me a technique that will unleash the true power of your weapon!The ritual is ready. When you are prepared we can begin.",
-    "name": "A Hero's Weapon",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

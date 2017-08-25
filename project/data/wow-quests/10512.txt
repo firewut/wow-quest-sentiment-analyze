@@ -1,7 +1,0 @@
-{
-    "_id": "10512",
-    "description": "I'll not take another sip of that ill-smelling muck!  But it does give me an idea.<Borgrim gets a twinkle in his eye.>So here's the plan.  We know that the Bloodmaul practically live off of this swill.  But I wonder what their enemies, the Bladespire ogres, think of it?<name>, I want you to take the rest of this rubbish and see if you can get the Bladespire ogres tanked.  You can find them by heading north from Bloodmaul Outpost through the ravine.",
-    "name": "Getting the Bladespire Tanked",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

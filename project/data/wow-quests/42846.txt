@@ -1,8 +1,0 @@
-{
-    "_id": "42846",
-    "added_in_patch": 7,
-    "description": "I am but the first of many; you must find the holiest of paladins to champion our order.There is one other I believe deserves such an honor - Lady Liadrin, Matriarch of the Blood Knights.Go speak to her now.",
-    "name": "The Blood Matriarch",
-    "requires_level": 101,
-    "zone": "Paladin Campaign"
-}

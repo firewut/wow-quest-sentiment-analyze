@@ -1,8 +1,0 @@
-{
-    "_id": "29998",
-    "added_in_patch": 5,
-    "description": "Lorewalker Stonestep is in charge of the entire temple library. Lately, something has been troubling him and his work.With thousands of ancient tomes to be transcribed, I can't afford to have him distracted.Would you follow the path south to the library and see what ails him?",
-    "name": "The Librarian's Quandary",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

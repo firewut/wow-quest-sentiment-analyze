@@ -1,7 +1,0 @@
-{
-    "_id": "24645",
-    "description": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.Here's an entry I want you to check out: it's just outside Ambermill in Silverpine Forest. That can't be good. Get out there and rough 'em up.Oh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
-    "name": "Crushing the Crown",
-    "requires_level": 14,
-    "zone": "Love is in the Air"
-}

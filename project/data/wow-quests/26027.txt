@@ -1,7 +1,0 @@
-{
-    "_id": "26027",
-    "description": "Our next strike against the ogres will bring you further east to Stromgarde. The living consider these gutted ruins worth clinging to. Their sentimentality is disgusting!All that Stromgarde holds for us is a foul den of more ogres, waiting to be struck down. Travel there and slay their shamans and lords, and ensure what passes for leadership among the ogres is snuffed out.",
-    "name": "Call to Arms",
-    "requires_level": 25,
-    "zone": "Arathi Highlands"
-}

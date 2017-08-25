@@ -1,7 +1,0 @@
-{
-    "_id": "12191",
-    "description": "Those pesky Dark Irons are back! We need to make sure that you can defend yourself if needed. More importantly, we need to know that you can defend our property!S.T.O.U.T. here is ready for action, are you? Drink from the Alcohol-Free Brewfest Samplers then throw the mug at S.T.O.U.T.! Hit the target 5 times then talk to me.",
-    "name": "Chug and Chuck!",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

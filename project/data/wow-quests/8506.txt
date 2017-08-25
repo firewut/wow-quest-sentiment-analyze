@@ -1,7 +1,0 @@
-{
-    "_id": "8506",
-    "description": "Welcome back <class>. Our collection grows, but even now we have a need for additional purple lotus. If it is still within your power to gather more of the herb, I entreat you to do so and return them to me here.",
-    "name": "The Alliance Needs More Purple Lotus!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

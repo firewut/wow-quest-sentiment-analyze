@@ -1,8 +1,0 @@
-{
-    "_id": "30174",
-    "added_in_patch": 5,
-    "description": "Kor should have caught up by now. He said he was going to secure the Ruins of Korja east of here and meet us to help with the mantid threat.He may need help against Groundbreaker Brojai. Could you assist him? Kang and I will follow shortly.",
-    "name": "For Family",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

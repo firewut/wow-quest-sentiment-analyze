@@ -1,9 +1,0 @@
-{
-    "_id": "36708",
-    "added_in_patch": 6,
-    "description": "I hope you will find our facilities to be up to your high standards.This inn is run by Narnin Dawnglow, in my opinion this is the best place to hearth in Draenor.We have new recruits coming through the portal daily. In fact one of out latest recruits, Zarjhin, just came through the portal today.If you are looking for weapons or armor Beska Redtusk will be happy to help.",
-    "name": "Inspiring Ashran",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Warspear"
-}

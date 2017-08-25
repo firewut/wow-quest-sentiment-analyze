@@ -1,8 +1,0 @@
-{
-    "_id": "30129",
-    "added_in_patch": 5,
-    "description": "Mogu don't often gather in numbers like this. We should find out what they are up to.I thought I heard someone shouting orders near the center of the ruins.We should probably see if he has information.",
-    "name": "The Mogu Agenda",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

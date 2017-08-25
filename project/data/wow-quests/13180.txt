@@ -1,7 +1,0 @@
-{
-    "_id": "13180",
-    "description": "Welcome to Wintergrasp, <name>. Warlord Garrosh demands one thing: Slay them all!Return to me when ten of the strongest members of the Alliance are dead.",
-    "name": "Slay them all!",
-    "requires_level": 85,
-    "zone": "Wintergrasp"
-}

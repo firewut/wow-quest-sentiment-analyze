@@ -1,7 +1,0 @@
-{
-    "_id": "13177",
-    "description": "Welcome to the Wintergrasp Fortress, <name>. Your mission is simple. Defeat ten of the Horde's finest. Now, go! Bring victory to the Alliance!",
-    "name": "No Mercy for the Merciless",
-    "requires_level": 85,
-    "zone": "Wintergrasp"
-}

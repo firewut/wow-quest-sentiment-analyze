@@ -1,8 +1,0 @@
-{
-    "_id": "39344",
-    "added_in_patch": 7,
-    "description": "We're so close to replacing all my equipment, <name>. In order to make flasks again, we need to be able to precisely measure each ingredient.For that, we need to replace my burette assembly. Unfortunately, burettes aren't easy to come by. We may be able to procure some though through other means by...<Deucus looks around and beckons you closer.>Going underground, so to say. As in, the Black Market.Go see Ms. Xiulan. Mum's the word.",
-    "name": "Going Underground",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

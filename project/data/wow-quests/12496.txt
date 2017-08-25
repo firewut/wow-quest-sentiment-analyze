@@ -1,7 +1,0 @@
-{
-    "_id": "12496",
-    "description": "Though I know you hunger to destroy the Scourge that stand before us at the Wrath Gate, we must first deal with the threat that looms overhead. Until the strafing assaults of the frost wyrms are halted, we cannot move forward.But before we assault the dying grounds of dragons, we must first be granted permission. Venture now to the hallowed halls of dragonkind: Wyrmrest Temple. Once there, seek out Queen Alexstrasza.Ride now, <name>! Southeast, to Wyrmrest!",
-    "name": "Audience With The Dragon Queen",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

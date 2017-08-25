@@ -1,8 +1,0 @@
-{
-    "_id": "9385",
-    "description": "So Honor Hold sends us to deal with the arakkoa and we set up camp here thinking hey isn't this a great spot.  Little did we know how close we were to the quillfang ravagers.They are relentless predators and have made any sort of work on our part impossible.  There's a bit of coin in it for you if you can deal with them for us.  Do you feel up to it?",
-    "name": "Rampaging Ravagers",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

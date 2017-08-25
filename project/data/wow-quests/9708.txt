@@ -1,7 +1,0 @@
-{
-    "_id": "9708",
-    "description": "Yes, that's it, I knew I had seen this particular phylum of mushroom elsewhere in the marsh!To the north is a place known as the Hewn Bog.  Odd name for the place if you ask me, but I've never been there.  I'll need samples of those mushrooms to confirm my hypothesis.Just be careful, <class>.  I'd heard that ogres have moved in to the area, so you'll have to get the samples from them.  Could that be why the bog lords are no longer going there for their food?",
-    "name": "Familiar Fungi",
-    "requires_level": 61,
-    "zone": "Zangarmarsh"
-}

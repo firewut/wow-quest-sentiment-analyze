@@ -1,8 +1,0 @@
-{
-    "_id": "40208",
-    "added_in_patch": 7,
-    "description": "When we first met, I spoke of the naga, and the armor they're able to craft. No grander armor is worn, however, than by their top warlords.One in particular resides within the Eye of Azshara itself. His name is Warlord Parjesh, and the hauberk he wears is one of legend.Repel his forces, and obtain his armor. Do this, and I will teach you more of the Azsunian way of leatherworking.",
-    "name": "Scales of the Sea",
-    "requires_level": 108,
-    "zone": "Leatherworking"
-}

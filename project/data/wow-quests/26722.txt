@@ -1,7 +1,0 @@
-{
-    "_id": "26722",
-    "description": "<You attach the arch to the rod, and the artifact is nearly complete. A large gap still sits at the center of the holy symbol's head.><Once again you feel it tug your arm, urging you towards the hole in the wall and the winding tunnel ahead. The last piece must be through there.>",
-    "name": "Buried Below",
-    "requires_level": 22,
-    "zone": "Duskwood"
-}

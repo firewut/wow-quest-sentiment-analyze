@@ -1,7 +1,0 @@
-{
-    "_id": "11486",
-    "description": "I know a bright lad like ya wants to stop the hostilities on the surface, eh? Ya want yer nice and merry Brewfest to go off without a hitch. I'll make ya a deal.Take this keg of our finest brew to the Brewfest Organizer outside Ironforge, so that we Dark Iron dwarves can be rightly represented! The best brew in all of Azeroth comes from right here in this mountain, and don't ya ferget it!",
-    "name": "The Best of Brews",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12158",
-    "description": "I've been meaning to send some of our lads to check out Hollowstone Mine.  Haven't had a chance to yet -- we've had our hands full between the Horde on the west and the iron dwarves to the east.If Dumont sent you, though, the least I can do is point you in the right direction.You'll find the mine entrance to the northwest, not far from here.  See if you think operations there can be salvaged.  We sure could use the additional resources until our mine in Farshire is operational again. ",
-    "name": "Hollowstone Mine",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

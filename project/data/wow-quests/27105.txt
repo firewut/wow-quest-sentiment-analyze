@@ -1,7 +1,0 @@
-{
-    "_id": "27105",
-    "description": "You will find that Dire Maul is filled with many nature and arcane elementals. Somehow, a water elemental has found its way into this area. Please gather its essence and take it to me. I am curious as to how one of their kind got here, and what sort of agenda it may have against the natural elements of Eldre'Thalas.",
-    "name": "An Unwelcome Guest",
-    "requires_level": 36,
-    "zone": "Dire Maul"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38789",
-    "added_in_patch": 7,
-    "description": "Tucked in between a few pieces of rubble, a scrap of paper catches your eye.Mining carefully, you uncover the tattered remains of an old scroll. The tauren handwriting is archaic, but one word catches your eye:\"Rethu\".",
-    "name": "Rethu's Journal",
-    "requires_level": 98,
-    "zone": "Mining"
-}

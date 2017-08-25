@@ -1,8 +1,0 @@
-{
-    "_id": "29724",
-    "added_in_patch": 5,
-    "description": "These savages are... ruthless.They've dragged off our dying soldiers to be tormented in their camps. This is no way for our valiant brothers to die.I shall join them soon enough, <class>. Please, put my mind at ease and their bodies to rest.Find their remains at the camps surrounding the wreckage. Put them out of the reach of these creatures.",
-    "name": "Burial at Sea",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

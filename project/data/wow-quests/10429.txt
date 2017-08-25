@@ -1,7 +1,0 @@
-{
-    "_id": "10429",
-    "description": "The dome technology possesses such power! Certainly, there are bounds beyond which we dare not go, <name>.Creatures allowed to grow too large or too fast could be just as bad as a barren landscape.I have heard rumors of just such a creature in the pool to the east. I've heard the ethereal merchants conspiring to catch the overgrown hydra for sport, but I have another purpose in mind for the giant. Bring me the creature's heart so I may study it.",
-    "name": "When Nature Goes Too Far",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

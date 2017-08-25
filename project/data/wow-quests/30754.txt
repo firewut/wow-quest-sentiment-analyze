@@ -1,8 +1,0 @@
-{
-    "_id": "30754",
-    "added_in_patch": 5,
-    "description": "Certain fish are only attracted to bright lights.  The forest north of here is home to a local pandaren firefly called a suncrawler.You should be able to find them on the base of the tree trunks all around that area.  Bring me back a handful of them and I can use them for bait!",
-    "name": "Bright Bait",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

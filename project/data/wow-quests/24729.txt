@@ -1,7 +1,0 @@
-{
-    "_id": "24729",
-    "description": "",
-    "name": "Crystal Yield",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

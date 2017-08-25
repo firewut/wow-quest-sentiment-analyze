@@ -1,7 +1,0 @@
-{
-    "_id": "24566",
-    "description": "Based on what you've brought me, I think we may have a solution. I've imbued the lashvine seeds with healing energies.Simple contact with these should imbue the creatures here with enough energy to force out the corrupted influence.Go and attempt to heal the mutated raptors and plainstriders by sprinkling the seeds on them, and report the results back to me.",
-    "name": "Sowing a Solution",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

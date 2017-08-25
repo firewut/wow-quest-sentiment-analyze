@@ -1,7 +1,0 @@
-{
-    "_id": "8261",
-    "description": "",
-    "name": "Arathor Standard Care Package",
-    "requires_level": 35,
-    "zone": "Arathi Basin"
-}

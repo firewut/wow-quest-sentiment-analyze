@@ -1,9 +1,0 @@
-{
-    "_id": "39056",
-    "added_in_patch": 6.2,
-    "description": "We have come a long way in a short time on this shipyard, <name>.  Now it's time to run our first naval mission and control the seas of Draenor!I will need to setup shop from a high vantage point to plan out these seafaring missions.  Meet me near the shipyard entrance and we can get started.",
-    "name": "Naval Commander",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

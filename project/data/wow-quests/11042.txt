@@ -1,7 +1,0 @@
-{
-    "_id": "11042",
-    "description": "A strange vision haunts me, <name>. I see a continuous cloud of smoke ascending toward the sky, left in the wake of a giant fire moving ever faster away. It is not a natural phenomenon, nor a creation of evil; that much I know.I have no knowledge of what it looks like, save that it is the product of the labor of many. Yet, without more hands, it may never come to be.Travel to Netherstorm, <class>. Locate those responsible for this creation and offer them your aid.",
-    "name": "A Mystifying Vision",
-    "requires_level": 67,
-    "zone": "Nagrand (Outland)"
-}

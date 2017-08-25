@@ -1,8 +1,0 @@
-{
-    "_id": "32604",
-    "added_in_patch": 5.2,
-    "description": "The stories of Ka'wi the Gorger, Nitun, Kafi, and Dos-Ryga will exist in this land, always. Do you wish to meet them in battle once more?",
-    "name": "Beasts of Fable Book I",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

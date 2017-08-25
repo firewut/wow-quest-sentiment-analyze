@@ -1,7 +1,0 @@
-{
-    "_id": "24719",
-    "description": "Stop, <race>.  I could use the help of a <class> like you.Right outside this camp, there are raptors with deadly claws.  I've been using the claws for druid rituals, but it doesn't seem to be working.  However, I did notice that some of those raptors sometimes have white claws, when most have deathly black ones.The earth works in strange ways.  Maybe you could fetch me some of the white claws, and I'll try one last time?",
-    "name": "Claws of White",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

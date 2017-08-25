@@ -1,8 +1,0 @@
-{
-    "_id": "38500",
-    "added_in_patch": 7,
-    "description": "Well, now that we have the flux we can put it to work and see how it goes. Why don't you take a crack at it this time and make some gauntlets for me. I'll observe your work... from a distance.",
-    "name": "Leysmithing Mastery",
-    "requires_level": 102,
-    "zone": "Blacksmithing"
-}

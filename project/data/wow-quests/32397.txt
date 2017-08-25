@@ -1,8 +1,0 @@
-{
-    "_id": "32397",
-    "added_in_patch": 5.1,
-    "description": "I've noticed Garrosh and that Reliquary blood elf carrying around some sort of journal.The journal is never more than a stone's throw away. It must be important!If you can cause enough of a distraction, you may be able to swipe the journal off the table.These yaks might just do the trick. Give one of 'em a tap and they'll do the rest.Just be ready to move fast!",
-    "name": "He Won't Even Miss It",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

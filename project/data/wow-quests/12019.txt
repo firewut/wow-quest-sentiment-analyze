@@ -1,8 +1,0 @@
-{
-    "_id": "12019",
-    "description": "I served Arthas in death, because I had no choice.  He had control over my will and my body.  The Cult of the Damned serves Arthas in life... willingly.Now that we know the words of power to enter Naxxanar we can put an end to the cultist blight.  Go to En'kilah and look for the teleportation orb beneath the floating citadel.Work your way up and meet me at the top.  Arm yourself with what courage you can, we might not make it out of this alive.",
-    "name": "Last Rites",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

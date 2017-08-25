@@ -1,8 +1,0 @@
-{
-    "_id": "27844",
-    "description": "The goblins you'll find working with the Defias are officially traitors to the Bilgewater Cartel, the Shattered Hand, and the Horde itself!I haven't yet been initiated into the Shattered Hand, so my loyalties lie strongly with my people. Helix Gearbreaker apparently has no time for such associations, and works on building a mast for the Defias Juggernaut. On behalf of Miss Mayhem and myself, would you kindly 'dispose' of Helix?",
-    "name": "Traitors!!!",
-    "requires_level": 15,
-    "side": "horde",
-    "zone": "Quests"
-}

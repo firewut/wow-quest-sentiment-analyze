@@ -1,7 +1,0 @@
-{
-    "_id": "29761",
-    "description": "",
-    "name": "Master Pit Fighter",
-    "requires_level": 85,
-    "zone": "Darkmoon Faire"
-}

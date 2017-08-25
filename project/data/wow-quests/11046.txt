@@ -1,7 +1,0 @@
-{
-    "_id": "11046",
-    "description": "The history of Shadowmoon Valley is a long and troubled one. Few study it for fear of breathing new life into the unspeakable atrocities that took place there.Not all are so timid, though. Chief Apothecary Hildagard's research delves into the ghosts of Shadowmoon's past. It is a staggering undertaking, one with which she would welcome help, I'm sure.If your travels bring you there, seek Hildagard at Shadowmoon Village, in the northwestern reaches of the valley.",
-    "name": "Chief Apothecary Hildagard",
-    "requires_level": 67,
-    "zone": "Shattrath City"
-}

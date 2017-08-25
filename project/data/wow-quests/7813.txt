@@ -1,7 +1,0 @@
-{
-    "_id": "7813",
-    "description": "",
-    "name": "A Donation of Wool",
-    "requires_level": 12,
-    "zone": "Undercity"
-}

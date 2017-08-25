@@ -1,8 +1,0 @@
-{
-    "_id": "43551",
-    "added_in_patch": 7,
-    "description": "Beneath the boughs of Shaladrassil, Xavius extends his power to twist and torment the once-pure druid grove. \r\n\r\nNot only this, but Xavius has taken a prize from among the druids, and his revenge will be slow and painful. We should go to Darkheart Thicket and stop his wicked plans.",
-    "name": "Darkheart Thicket",
-    "requires_level": 110,
-    "zone": "Darkheart Thicket"
-}

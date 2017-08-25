@@ -1,8 +1,0 @@
-{
-    "_id": "41634",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Leystone Armguards",
-    "requires_level": 110,
-    "zone": "Blacksmithing"
-}

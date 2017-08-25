@@ -1,8 +1,0 @@
-{
-    "_id": "43572",
-    "added_in_patch": 7,
-    "description": "The dark steeds of the apocalypse are indomitable creatures of anguish and cruelty. They can never be tamed... only subjugated.The next component of power we require is one born of hatred, fashioned within the Emerald Nightmare. It is known as the Nightmare Lash.The Nightmare Lash has the power to suffocate all hope... all light... from within a living soul.The Shade of Xavius himself carries the lash. Defeat him and bring the lash to me!I will use it to dominate the steeds of the damned!",
-    "name": "The Nightmare Lash",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

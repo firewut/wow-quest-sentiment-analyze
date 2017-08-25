@@ -1,7 +1,0 @@
-{
-    "_id": "10660",
-    "description": "I am interested in learning more about the strange reptiles that mill about the lava flows of Shadowmoon Valley. Never have I seen beasts able to withstand the searing heat of molten lava!Outside of Shadowmoon Village, where the ground has ruptured and lava flows through the cracks, you will find felfire diemetradons. Slay them and bring me their spleens. From their spleens I will be able to begin preliminary analysis of their resistance to heat.Begin your search to the southeast.\r\n",
-    "name": "What Strange Creatures...",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

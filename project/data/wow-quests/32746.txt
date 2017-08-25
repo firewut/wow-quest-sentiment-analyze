@@ -1,8 +1,0 @@
-{
-    "_id": "32746",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Zandalari Council Dead",
-    "requires_level": 90,
-    "zone": "Quests"
-}

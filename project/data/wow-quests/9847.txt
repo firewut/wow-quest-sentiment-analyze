@@ -1,8 +1,0 @@
-{
-    "_id": "9847",
-    "description": "We must find out how much power this Feralfen snake spirit possesses and whether it can be bent to our will. Imagine what I could do with the powers of an Outland spirit at my command!Take this totem with you and make your way to the foot of the stairs leading to the Boha'mu Ruins. Plant the totem in the ground and it should do the rest. The spirit should not be able to tell who has used the totem until it has manifested.",
-    "name": "A Spirit Ally?",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Zangarmarsh"
-}

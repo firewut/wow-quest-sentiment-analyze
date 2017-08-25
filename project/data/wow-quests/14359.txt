@@ -1,7 +1,0 @@
-{
-    "_id": "14359",
-    "description": "You feel a deep connection to the distant past having partaken of the ancient blessing granted by this relic.You determine to make as much as you can of this divine gift.",
-    "name": "Blessings From Above",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

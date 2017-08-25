@@ -1,8 +1,0 @@
-{
-    "_id": "32118",
-    "added_in_patch": 5.1,
-    "description": "The fools in the Explorers' League have excavated an ancient mogu ruin to the northeast. And - of course - in their bumbling, they've disturbed the mogu spirits within.\r\n\r\nWe are going to take advantage of their ineptitude. Take this portal and meet with Kaelis Sunsoar, my contact within the ruins.",
-    "name": "Taking Advantage",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

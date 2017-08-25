@@ -1,7 +1,0 @@
-{
-    "_id": "13280",
-    "description": "You've just got to get my jumpbot to the tippy top of the mountain to the northwest here at Ymirheim pronto, <name>!That dastardly, no-good Blast Thunderbomb is working on his own bot, and I'm afraid he almost has it completed. We're in a race to see who's gonna be king of the mountain!Once you jump up there, plant our battle standard in the pile of bones and show everyone that the Alliance, and my engineering skills, are the best!",
-    "name": "King of the Mountain",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

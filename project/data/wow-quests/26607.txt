@@ -1,7 +1,0 @@
-{
-    "_id": "26607",
-    "description": "Take this bundle of Keeshan's possessions and head back to the Lakeshire inn basement. Bravo Company is already there, talking to Keeshan. Remind him of who drew first blood, <name>. Lakeshire needs Keeshan. The Alliance needs Keeshan.Dismissed, soldier!",
-    "name": "They Drew First Blood",
-    "requires_level": 16,
-    "zone": "Redridge Mountains"
-}

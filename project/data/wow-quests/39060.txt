@@ -1,9 +1,0 @@
-{
-    "_id": "39060",
-    "added_in_patch": 7,
-    "description": "It is true that we may have a lead on Sylvanas. Though I want nothing more than to get my hands on the Banshee Queen, the situation here at Greywatch requires immediate attention.\r\n\r\nYesterday, a regiment of guards returned with word of Forsaken forces in the woods. Several of them bore signs of a blight, similar to the one we endured in Gilneas. It would appear these Forsaken seek to unleash this blight upon Greywatch.\r\n\r\nSeek out their caches and destroy them, before the blight overtakes us!",
-    "name": "Combustible Contagion",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

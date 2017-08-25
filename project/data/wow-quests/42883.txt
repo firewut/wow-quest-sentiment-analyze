@@ -1,8 +1,0 @@
-{
-    "_id": "42883",
-    "added_in_patch": 7,
-    "description": "The grell are in a frenzy, attacking my brethren and destroying our village!\r\n\r\nPlease, stranger, help us send these wicked miscreants to the soil.",
-    "name": "All Grell Broke Loose",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

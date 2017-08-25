@@ -1,8 +1,0 @@
-{
-    "_id": "30490",
-    "added_in_patch": 5,
-    "description": "Yaungols! They come through here taking what they want and destroying whatever's left.I can't have these thugs destroy the last pieces of the Yak Wash here. It's all my boy and I have left.Head over to our old ranch and dish out some pain on them yaungols. I bet if you kill enough of them they'll think twice before attacking anything in this area.",
-    "name": "Yakity Yak",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

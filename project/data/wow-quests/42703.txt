@@ -1,8 +1,0 @@
-{
-    "_id": "42703",
-    "added_in_patch": 7,
-    "description": "Now that you have your first two champions, there is an abundance of work they can do to help us.\r\n\r\nArchmage Melis has been hard at work getting our command room up and running. Head downstairs and ask her to show you what needs to be done.",
-    "name": "Technical Wizardry",
-    "requires_level": 101,
-    "zone": "Mage Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11224",
-    "description": "I've heard rumors of bad happenings in the Whisper Gulch to the north. Most of the Explorers' League went down into that place, and some say they went mad with what they discovered.That doesn't change the fact that they took most of our mules and equipment with them, though. I won't lose those mules!If you find yourself in there, and happen across any of my mules, just get up close on them and threaten them with a raised hand. They'll spook and come home for sure.",
-    "name": "Send Them Packing",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

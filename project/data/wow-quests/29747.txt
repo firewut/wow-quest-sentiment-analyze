@@ -1,8 +1,0 @@
-{
-    "_id": "29747",
-    "added_in_patch": 5,
-    "description": "<Mogu conjurers call forth hapless spirits from beyond, forcing them into statues.It seems that destroying the statues alone will not be enough to break the cycle.>",
-    "name": "Break the Cycle",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

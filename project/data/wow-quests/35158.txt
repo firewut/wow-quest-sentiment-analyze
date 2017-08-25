@@ -1,9 +1,0 @@
-{
-    "_id": "35158",
-    "added_in_patch": 6,
-    "description": "Okay so these orders say Reglakk is in charge of something called Breaker research, which makes super powerful ogres. I don't know about you but that sounds bad.I'm pretty hurt, do you think you can go up there alone and make Reglakk rethink his research?",
-    "name": "Reglakk's Research",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

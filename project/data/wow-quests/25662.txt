@@ -1,7 +1,0 @@
-{
-    "_id": "25662",
-    "description": "Yesterday morning I dispatched a squadron of huntresses on a mission into Windshear Crag to obtain information about Horde operations in Stonetalon. Field intelligence reports that they have all been captured, including their squad leader, Huntress Illiona.Head east into Windshear Crag and slay the Krom'gar infantry that occupy the crag and take from them their keys to unlock the Horde cages holding our sisters.Do your best to locate Illiona once you've freed the huntresses.",
-    "name": "Free Our Sisters",
-    "requires_level": 25,
-    "zone": "Stonetalon Mountains"
-}

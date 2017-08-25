@@ -1,8 +1,0 @@
-{
-    "_id": "43402",
-    "added_in_patch": 7,
-    "description": "You have fulfilled the prophecy, but more than that, you have united the priests of Azeroth.\r\n\r\nWe should take a moment to recognize all that you have accomplished.",
-    "name": "High Priest of Netherlight",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

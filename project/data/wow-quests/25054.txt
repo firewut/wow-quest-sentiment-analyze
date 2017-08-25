@@ -1,7 +1,0 @@
-{
-    "_id": "25054",
-    "description": "It's just really so wasteful that all these pirates have golden treasures lying around. Some of this stuff could be used for practical things! Like melting into wire, or intrinsic shielding matrices, or selling to other stupid races that buy gold just to keep it around.And speaking of other stupid races, I bet those greedy goblins are going to be taking all of it. We can't let that happen! Go collect that treasure for Gnomeregan!",
-    "name": "Lootin' Plunder",
-    "requires_level": 44,
-    "zone": "Tanaris"
-}

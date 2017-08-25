@@ -1,9 +1,0 @@
-{
-    "_id": "36595",
-    "added_in_patch": 6,
-    "description": "What you saw was the wake of the genesaur, Iyu. It was chasing this mechanical monstrosity and the person who drove it.I believe the pilot of this vessel is still alive and trapped within the ruins of the camp.If you wish them to be recovered, I recommend doing so now.",
-    "name": "He Drew Aggro...culture",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

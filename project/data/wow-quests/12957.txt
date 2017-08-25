@@ -1,7 +1,0 @@
-{
-    "_id": "12957",
-    "description": "To the southwest, on the western side of the Snowdrift Plains, the iron dwarves have dug a mine into the hillside. There, they use captive mechagnomes, servants of Keeper Mimir, to mine ore.I don't know where these mechagnomes came from, nor what they would do with their freedom, but perhaps we can win their help.Go to the Frozen Mine, <name>, and set these creatures free from their bondage. Ask if they would fight alongside us against iron dwarf tyranny.",
-    "name": "Slaves of the Stormforged",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

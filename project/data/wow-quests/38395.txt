@@ -1,8 +1,0 @@
-{
-    "_id": "38395",
-    "description": "This is intolerable! The coins you brought me do not match the rest of the coins I already have! You aren't counterfeiting these are you? No? Hrumph. In that case I'm sorry we fought, dearie.\r\n\r\nThere's only one thing to do, buttercup: we need to complete the new set you've discovered. Bring me more misprinted coins!",
-    "name": "Completionism",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Undercity"
-}

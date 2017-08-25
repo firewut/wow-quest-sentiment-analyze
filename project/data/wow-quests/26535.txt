@@ -1,7 +1,0 @@
-{
-    "_id": "26535",
-    "description": "I need Zanzil's recipe, now more than ever.  One of Zanzil's flunkies at the Ruins of Aboraz must have it on him.  Head east, to the other coast of the Cape, and snatch it for me!",
-    "name": "Recipe for Disaster",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

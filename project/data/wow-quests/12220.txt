@@ -1,7 +1,0 @@
-{
-    "_id": "12220",
-    "description": "When the tree Vordrassil fell, its hollow remains grew roots deep into the ground.I want you to go north of here to the three locations where the trunk shattered and go as far beneath the ground as you can.  You'll find them west of Grizzlemaw.Use this orb once you get there to get an imprint of the energy surrounding the area.  If we're to heal the land, we must first find out what caused Vordrassil to fail as a world tree all those years ago.",
-    "name": "A Dark Influence",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

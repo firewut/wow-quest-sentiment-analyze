@@ -1,7 +1,0 @@
-{
-    "_id": "10378",
-    "description": "",
-    "name": "Consume Magic",
-    "requires_level": 20,
-    "zone": "Priest"
-}

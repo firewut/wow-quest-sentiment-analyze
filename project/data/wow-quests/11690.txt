@@ -1,8 +1,0 @@
-{
-    "_id": "11690",
-    "description": "Take this riding snaffle, <name>. You'll notice that I've placed a tiny medicine dispenser in the mouthpiece. That thing will cure the infection as soon as a kodo bites down. Once you've cured the sick out of 'em, you'll need to ride 'em home. They'll be weak so you'll need to gently direct 'em here.Bring my babies back, <name>!One last thing, you've got ten minutes! That's how long the antidote will remain effective inside that snaffle.",
-    "name": "Bring 'Em Back Alive",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

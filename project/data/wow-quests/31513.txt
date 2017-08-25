@@ -1,8 +1,0 @@
-{
-    "_id": "31513",
-    "added_in_patch": 5,
-    "description": "The problem with the Scarlet Crusade is that they keep coming back, even after death.Behind those resurrections is High Inquisitor Whitemane. With her death, so goes the Crusade.To give her the final rest, we need two swords of legend, each with a lost but storied history.Luckily for me... er, us, these two blades of the anointed are at rest here within the monastery.Find them and once you've killed Whitemane, plunge the blades into her corpse to make the death permanent.",
-    "name": "Blades of the Anointed",
-    "requires_level": 28,
-    "zone": "Scarlet Monastery"
-}

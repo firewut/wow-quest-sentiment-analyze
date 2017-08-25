@@ -1,8 +1,0 @@
-{
-    "_id": "44698",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Ritual Bit",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

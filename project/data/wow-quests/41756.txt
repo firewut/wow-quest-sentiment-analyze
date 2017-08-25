@@ -1,8 +1,0 @@
-{
-    "_id": "41756",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Eredar Twins",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10644",
-    "description": "Stories abound about the life of Teron Gorefiend, but most are just that - stories. We do not know what happened to Gorefiend after he returned to Draenor.The only thing we are certain of is that he has already died once.I have heard the scouts here speaking of an ancient orc spirit that resides at the Altar of Shadows, far to the east, across the Netherwing Fields and through Netherwing Pass. Take the Spectrecles and track this orc down. He will surely have more information on Gorefiend.",
-    "name": "Teron Gorefiend - Lore and Legend",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

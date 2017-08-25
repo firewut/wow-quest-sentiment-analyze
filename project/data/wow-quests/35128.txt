@@ -1,8 +1,0 @@
-{
-    "_id": "35128",
-    "added_in_patch": 6,
-    "description": "The ogron here are far from brilliant, but they are more intelligent than the gronn. They're large, and even stronger than they look.Their leader, Borogahn, is especially formidable. Despite several fights, I have not yet managed to kill him.Heed my words, friend. Take caution as you explore their lair.Nisha is ready to move. Ask her to take you to the mouth of the cave, and I'm sure she would be happy to.",
-    "name": "Fair Warning",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

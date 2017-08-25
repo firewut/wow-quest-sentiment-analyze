@@ -1,8 +1,0 @@
-{
-    "_id": "40010",
-    "added_in_patch": 7,
-    "description": "The arcways were built to tap into the magical leylines beneath Suramar. As we learned to subsist on the Nightwell, the old facilities fell out of use.This chamber is clearly receiving power from elsewhere.There is only a trickle now, but if you can direct more leyline energy here it will help to sustain us.The closest source is to the north, near Anora Hollow.",
-    "name": "Tapping the Leylines",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

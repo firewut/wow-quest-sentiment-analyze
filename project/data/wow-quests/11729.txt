@@ -1,7 +1,0 @@
-{
-    "_id": "11729",
-    "description": "The unit you just dismantled had this inside of its mechanical innards.It looks pretty complicated... certainly someone back at the airstrip would want to take a look at it. Maybe Crafty Wobblesprocket?",
-    "name": "The Ultrasonic Screwdriver",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

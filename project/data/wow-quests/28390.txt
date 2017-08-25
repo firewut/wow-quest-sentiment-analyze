@@ -1,7 +1,0 @@
-{
-    "_id": "28390",
-    "description": "Glop had a son. In his grave hubris, he named it Glop. And so the line of fungalmancers continues.I require you to slay this new fungalmancer. Your shaman ally has already returned, and awaits you at his cave in the southwest of Verlok Stand.",
-    "name": "Glop, Son of Glop",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

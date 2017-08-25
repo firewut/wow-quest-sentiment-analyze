@@ -1,8 +1,0 @@
-{
-    "_id": "14279",
-    "description": "You have much to learn, <name>.  And I've much to teach you.These are perilous times, however, and I fear that you may need to learn much on your ownHave no fear,  brother.  The Light will guide us through this.\r\n\r\nGo, get more experience, and learn a new skill. Use it against the bloodfang worgen nearby.",
-    "name": "Learning the Word",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

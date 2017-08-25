@@ -1,7 +1,0 @@
-{
-    "_id": "28135",
-    "description": "Listen, <name>.  What struck Orsis was no natural sandstorm.  It was the minions of Al'Akir.The elemental lord of air is firmly allied with Deathwing and it was only a matter of time before he set his subjects upon my people.Orsis has been attacked as a warning to us.  We must move quickly to offer our brethren what aid we can.Meet with Nadun at the Arsad Trade Post outside of Mar'at.  I will begin preparations to take care of the displaced and wounded.",
-    "name": "Al'Akir's Vengeance",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

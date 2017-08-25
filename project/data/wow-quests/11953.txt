@@ -1,7 +1,0 @@
-{
-    "_id": "11953",
-    "description": "We must act to preserve the balance! Time is against us.Silithus is the Azerothian base of the Twilight Cult. In the north, they have been using new ice stones to communicate with the Tidehunter's realm. Much as I am loath to do this, the spirits will understand - you must summon one of this Ahune's lieutenants and destroy it. Perhaps this forestalling action will be enough...",
-    "name": "Striking Back",
-    "requires_level": 56,
-    "zone": "Midsummer"
-}

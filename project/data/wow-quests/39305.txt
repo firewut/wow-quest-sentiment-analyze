@@ -1,8 +1,0 @@
-{
-    "_id": "39305",
-    "added_in_patch": 7,
-    "description": "I've taken an inventory of the eggs you recovered. Some among the bunch may still have a chance to hatch.\r\n\r\nThey will need to be returned to an empty nest, and with any luck, an eagle will claim the eggs as her own and watch over them once again.\r\n\r\nThere is a nest just outside the entrance, on a rocky ledge above the cave.\r\n\r\nBe careful, <name>. The eggs are very delicate.",
-    "name": "Empty Nest",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

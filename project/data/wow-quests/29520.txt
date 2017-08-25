@@ -1,7 +1,0 @@
-{
-    "_id": "29520",
-    "description": "Isn't it wonderful to see Darkmoon banners everywhere? It's my favorite part of setting up, but we have so many old and tattered ones that need to be replaced.If you've some skill with a needle and thread, would you mind making a banner from this kit and putting it up in some loose stones scattered around the grounds of the faire?It's missing a few pieces, but you should be able to get what you need from any trade goods vendor in Elwynn Forest or Mulgore.",
-    "name": "Banners, Banners Everywhere!",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

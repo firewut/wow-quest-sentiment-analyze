@@ -1,8 +1,0 @@
-{
-    "_id": "31563",
-    "added_in_patch": 5,
-    "description": "The Pandaria Treasure Society is interested in purchasing finely crafted goods from skilled jewelcrafters such as yourself.  The items will be catalogued, and the most exceptional cuts stored in a secret vault, while the rest are sold to refresh our funds.Our goal is to eventually create a unique collection for a special event.",
-    "name": "The Finer Things",
-    "requires_level": 1,
-    "zone": "Jewelcrafting"
-}

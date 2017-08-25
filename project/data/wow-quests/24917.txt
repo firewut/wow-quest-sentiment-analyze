@@ -1,7 +1,0 @@
-{
-    "_id": "24917",
-    "description": "",
-    "name": "Muradin's Lament",
-    "requires_level": 80,
-    "zone": "Quests"
-}

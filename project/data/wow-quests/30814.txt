@@ -1,8 +1,0 @@
-{
-    "_id": "30814",
-    "added_in_patch": 5,
-    "description": "<Lord Taran immediately pins you down with his steely gaze.><Class>, you bear the marks of many a past battle.Good! We need more seasoned people like you to hold back the front.We've managed to secure a foothold here, but the yaungol are desperate to remove our presence.If you wish to prove your worth, go down the hill and show the yaungol that we will not back down.",
-    "name": "A Foot in the Door",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26080",
-    "description": "<name>, I'm gonna need ya to bring this back to Captain Glovaal.  With my condition, it'll take me a week to get back to Darkbreak Cove, and we don't have any time to waste.",
-    "name": "One Last Favor",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

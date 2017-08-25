@@ -1,7 +1,0 @@
-{
-    "_id": "454",
-    "description": "We'd been hauling the barrels of powder back and forth in trips before this... business. Now we have to split up the work, Miran's taking the barrels and I'm watching over the other ones.I don't feel safe letting Miran haul the rest of the shipment by himself. When he's ready to go, maybe you could escort him on his next trip?",
-    "name": "After the Ambush",
-    "requires_level": 10,
-    "zone": "Loch Modan"
-}

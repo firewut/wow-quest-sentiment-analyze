@@ -1,7 +1,0 @@
-{
-    "_id": "12081",
-    "description": "Without your help, we wouldn't have been able to turn the tide of the battle for Thor Modan. This ancient city has long been a battlefield between the forces of earth and stone. I can only hope we have silenced it for the last time.The iron dwarves can still use their magic to capture and enslave my brothers. Gavrock is searching for a way to free the runed giants. Look for him on a small cluster of islands, called the Ruins of Tethys, off the central part of the Eastwind Shore to the south.",
-    "name": "Gavrock",
-    "requires_level": 72,
-    "zone": "Grizzly Hills"
-}

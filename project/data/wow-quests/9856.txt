@@ -1,7 +1,0 @@
-{
-    "_id": "9856",
-    "description": "You are ready, <class>.  Ready to face the mother of all windrocs, Gutripper!  Honor demands that after hunting so many of her children that you give her the chance to defeat you!  Seek her out amongst the greater windroc far to the west.Should you survive, bring her eye to me.",
-    "name": "Windroc Mastery",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

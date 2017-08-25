@@ -1,7 +1,0 @@
-{
-    "_id": "14457",
-    "description": "One of my contacts in the Underbelly caught sight of a Sunreaver agent buying reagents from a dealer in the Black Market area. The Sunreavers normally aren't known for their interest in what goes on down in the sewers, so that's a big indication that they're planning something.Head into the Underbelly, find this Sunreaver agent, and take care of him. Search the body for any information that might give us a lead on the location of that tome from Wyrmrest. We can't let them get it back to Icecrown first.",
-    "name": "The Sunreaver Plan",
-    "requires_level": 80,
-    "zone": "Dalaran"
-}

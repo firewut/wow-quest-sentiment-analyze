@@ -1,8 +1,0 @@
-{
-    "_id": "31382",
-    "added_in_patch": 5,
-    "description": "Niuzao Temple, far to the west, is under attack by the mantid.The great Celestial holds them back for now, but he cannot stand alone forever.Go and help the defenders, <class>. The Temple must not fall!",
-    "name": "Defense At Niuzao Temple",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

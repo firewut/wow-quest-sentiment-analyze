@@ -1,7 +1,0 @@
-{
-    "_id": "28416",
-    "description": "<name>... is that you?  I thought you were dead, with the rest of them!No, you were always strong, even back then, even in Redridge.Our fight's not over, <name>.  They already attacked our homeland once.  I'm here to make sure it doesn't happen again.If you can still fight like you did back in the day, then join me.  You can start by heading south, to the Whelping Downs, and slaying their whelpers and their hatchling black dragons.It'll be like old times.",
-    "name": "Burning Vengeance",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

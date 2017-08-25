@@ -1,8 +1,0 @@
-{
-    "_id": "39796",
-    "added_in_patch": 7,
-    "description": "Your next steps are clear, your feet know the way. Follow them to Haustvald and meet your fate!\r\n\r\nIt is the tree you seek, the heart of the mystic Runewood. He will offer guidance, and probably leaves.",
-    "name": "To Haustvald",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

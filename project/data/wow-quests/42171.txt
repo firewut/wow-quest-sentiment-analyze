@@ -1,8 +1,0 @@
-{
-    "_id": "42171",
-    "added_in_patch": 7,
-    "description": "We've certainly reduced the Empyrean Society's numbers. I don't think they'll be luring any more members to their cause for a while. \r\n\r\nThere's only one place we haven't investigated, and I suspect that rune we found is attuned to the door. Let's see what's inside the building.",
-    "name": "Final Exit",
-    "requires_level": 103,
-    "zone": "Mage Campaign"
-}

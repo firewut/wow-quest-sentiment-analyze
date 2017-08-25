@@ -1,8 +1,0 @@
-{
-    "_id": "42445",
-    "added_in_patch": 7,
-    "description": "It looks like the ravenbears have started gathering materials for some sort of tribute, but the storm drakes are keeping them from finishing what they started.  \r\n\r\nFrom the looks of it, they're gathering fully intact stag horns and long tail feathers from the greatstags and eagles nearby. \r\n\r\nIt shouldn't take too long to gather the rest of what they need.",
-    "name": "Nithogg's Tribute",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

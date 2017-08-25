@@ -1,8 +1,0 @@
-{
-    "_id": "26214",
-    "description": "As pointless as I think that this is going to be, we need to investigate all of our leads.I need you to head out to the Longshore, west of here, on the coast, and shake up some murlocs. Try to find a clue or some info that can help shed some light on the murders.Return to me if you get lucky, rookie.",
-    "name": "Hot On the Trail: Murlocs",
-    "requires_level": 9,
-    "side": "alliance",
-    "zone": "Westfall"
-}

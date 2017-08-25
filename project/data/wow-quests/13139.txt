@@ -1,7 +1,0 @@
-{
-    "_id": "13139",
-    "description": "Silas and Spitzpatrick have signed off on the materials and fuel needed to begin construction of Justice Keep. Thanks to you and the Ebon Blade the Scourge presence within Scourgeholme has been decimated and their lieutenants have been defeated.I have chosen the site at which we will break ground, but first you must deliver my report to Highlord Tirion Fordring. We will begin our march into Icecrown on his command.\r\n",
-    "name": "Into The Frozen Heart Of Northrend",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

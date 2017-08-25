@@ -1,8 +1,0 @@
-{
-    "_id": "37485",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "REUSE",
-    "requires_level": 1,
-    "zone": "Quests"
-}

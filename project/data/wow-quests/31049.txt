@@ -1,8 +1,0 @@
-{
-    "_id": "31049",
-    "added_in_patch": 5,
-    "description": "The sprites of Shan'ze Dao have always been capricious tricksters, but now they have fallen under the mogu's influence.Even as we speak, they gather under a new leader.We cannot allow this to happen.Their mischievous pranks were one thing, but united, their dark magic is too powerful and too dangerous to comprehend.Take out their leader before it is too late.",
-    "name": "In Sprite Of Everything",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

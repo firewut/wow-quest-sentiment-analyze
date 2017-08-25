@@ -1,8 +1,0 @@
-{
-    "_id": "37848",
-    "added_in_patch": 6.1,
-    "description": "It seems the Adherents of Rukhmar have stumbled upon some information leading to an ancient amulet, said to possess the power of their god and bestow it upon the wearer. We should make sure they don't find it.\r\n\r\nHead to Skettis and find what they have learned. Hopefully we can find it before they get to it.",
-    "name": "Treasure Contract: Amulet of Rukhmar",
-    "requires_level": 100,
-    "zone": "Spires of Arak"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13596",
-    "description": "We're not fully aware of the intentions of the Twilight's Hammer cultists to the southwest.  We fear an attack on Lor'danel, however their motives might go well beyond that.I need you to go to the Twilight Encampment and get your hands on their plans.  Hurry, <name>.  We might not have much time.",
-    "name": "Twilight Plans",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

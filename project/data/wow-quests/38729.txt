@@ -1,8 +1,0 @@
-{
-    "_id": "38729",
-    "added_in_patch": 7,
-    "description": "Quickly, <name>, use the Sargerite Keystone.\r\n\r\nWe must get back to the Black Temple before it is too late!",
-    "name": "Return to the Black Temple",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

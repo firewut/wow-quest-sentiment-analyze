@@ -1,7 +1,0 @@
-{
-    "_id": "11400",
-    "description": "If you show this hand stamp to Pol Amberstill, the Ram Racing Apprentice, he'll allow you to purchase Brewfest riding rams.",
-    "name": "Brewfest Riding Rams",
-    "requires_level": 40,
-    "zone": "Brewfest"
-}

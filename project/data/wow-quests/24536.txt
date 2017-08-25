@@ -1,8 +1,0 @@
-{
-    "_id": "24536",
-    "description": "Get a load of these guys, would ya? Steamwheedle's been handling the business of holidays for years, and all of a sudden, these guys bust into the market. They're not Steamwheedle; the cartel hired me to get to the bottom of this. Something stinks here and it ain't just perfume.\r\n\r\nTake this device I brought and go analyze the perfume clouds around the guards. I want to know what they're putting in that stuff. Things ain't natural.",
-    "name": "Something Stinks",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Love is in the Air"
-}

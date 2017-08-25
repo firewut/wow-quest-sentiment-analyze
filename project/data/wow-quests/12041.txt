@@ -1,8 +1,0 @@
-{
-    "_id": "12041",
-    "description": "You have proven that you are willing to assist the Azjol Empire in its time of need and as such the Azjol Empire will assist the Horde.Take this scroll back to your leader. It documents the strengths and weaknesses of the Nerubians attacking Icemist Village. Consider it a gesture of good faith - a willingness to help your people. Use the knowledge on those pages to crush the Anub'ar and you will have done a service for us all.Farewell, <race>.\r\n",
-    "name": "The Lost Empire",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

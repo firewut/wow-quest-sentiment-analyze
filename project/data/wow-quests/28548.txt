@@ -1,8 +1,0 @@
-{
-    "_id": "28548",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Furien at Tethris Aran in Desolace. The brave Horde warriors of Desolace need your help to beat back the armies of the Alliance and ancient demons.To reach Tethris Aran, travel south from the Charred Vale in the Stonetalon Mountains.Destiny calls!",
-    "name": "Warchief's Command: Desolace!",
-    "requires_level": 29,
-    "side": "horde",
-    "zone": "Desolace"
-}

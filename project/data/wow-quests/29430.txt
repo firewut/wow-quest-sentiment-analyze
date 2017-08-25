@@ -1,7 +1,0 @@
-{
-    "_id": "29430",
-    "description": "You know, I haven't seen Anson out here yet.Lately, he's been spending all his time drinking himself into a stupor at the Gilded Rose.Something must really be bothering him! Would you mind checking in on him?",
-    "name": "A Friend in Need",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

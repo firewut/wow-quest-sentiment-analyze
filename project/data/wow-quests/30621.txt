@@ -1,8 +1,0 @@
-{
-    "_id": "30621",
-    "added_in_patch": 5,
-    "description": "My journeys through Kun-Lai have taught me two things. First, never sneak up on a sleeping yak. Second, having luck on your side is both necessary and hard to come by.The grummles believe in carrying a lucky trinket at all times. In my mind, if one trinket can sometimes bring luck, then many trinkets would guarantee it!After arriving in One Keg my lucky trinkets were stolen by those little menace sprites. I'd be truly grateful if you could retrieve them for me.",
-    "name": "They Stole My Luck!",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

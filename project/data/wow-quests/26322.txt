@@ -1,7 +1,0 @@
-{
-    "_id": "26322",
-    "description": "I had no idea that VanCleef had a daughter, <name>. If there was one thing that man was exceptionally skilled at, it was keeping secrets.How tragic. Poor thing witnessed a horrible act. Had I only known.What was that? Did you hear something? It seems as if the gnolls are pulling back... where are my guards?ON GUARD, <name>!",
-    "name": "Rise of the Brotherhood",
-    "requires_level": 12,
-    "zone": "Westfall"
-}

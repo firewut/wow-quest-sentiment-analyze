@@ -1,8 +1,0 @@
-{
-    "_id": "37244",
-    "added_in_patch": 6,
-    "description": "Ol' Winky still hasn't come back! Now I'm gettin' worried.Do me a favor and get another one of those flameflies from Upper Blackrock Spire. If we get enough of em,' Winky's sure to see the glimmer and come heading on back.An then we'll have him right where we want him!",
-    "name": "Flamefly Trap",
-    "requires_level": 98,
-    "zone": "Upper Blackrock Spire"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40961",
-    "added_in_patch": 7,
-    "description": "You fished this up, did you? I'm... not quite sure what you want ME to do about that. Here.<Khadgar pats you on the head.>\"Good job.\"With regard to the pearl... it does seem to be magical, but I couldn't tell you much more than that. Perhaps it might look nice in the Dalaran fountain?",
-    "name": "The Dalaran Fountain",
-    "requires_level": 98,
-    "zone": "Fishing"
-}

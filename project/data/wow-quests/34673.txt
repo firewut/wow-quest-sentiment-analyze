@@ -1,9 +1,0 @@
-{
-    "_id": "34673",
-    "added_in_patch": 6,
-    "description": "We barely escaped de Twilight's Hammer sacrificial altar, but others be needin' help deeper in. If de blood ritual be complete, they be unleashin' Aku'mai da Devourer. Don let this be happenin', mon.",
-    "name": "The Rise of Aku'mai",
-    "requires_level": 20,
-    "side": "horde",
-    "zone": "Blackfathom Deeps"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29071",
-    "description": "",
-    "name": "Make Haste to Stormwind!",
-    "requires_level": 80,
-    "zone": "Stormwind City"
-}

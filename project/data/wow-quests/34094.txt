@@ -1,9 +1,0 @@
-{
-    "_id": "34094",
-    "added_in_patch": 6,
-    "description": "That shredder had a manual jammed in the cockpit, but it's missing a lot o' pages. If we can find those manual pages, I'd bet my third toe I can get the prototype shredder working again.\r\n\r\nI coulda swore I saw a few of those pages floatin' about in  Archenon Siegeyard. Maybe the orcs there carry them.",
-    "name": "Vol. X Pages ?",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

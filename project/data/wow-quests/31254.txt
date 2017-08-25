@@ -1,9 +1,0 @@
-{
-    "_id": "31254",
-    "added_in_patch": 5,
-    "description": "Ah! Greetings friend of Lorewalker Cho. I have a message for you.<The strange little creature hands you a battered scroll case.>The Lorewalker waits for you in Kun-Lai. Very dangerous to travel there, yes, very dangerous.Look for guides along the road to help you find your way.",
-    "name": "The Road to Kun-Lai",
-    "requires_level": 87,
-    "side": "alliance",
-    "zone": "The Veiled Stair"
-}

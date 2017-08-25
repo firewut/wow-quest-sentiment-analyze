@@ -1,7 +1,0 @@
-{
-    "_id": "13003",
-    "description": "Hodir's Spear is an icon of great prowess in battle.Its mere presence instills a deep hunger for glory in all who enter Dun Niffelem. In fact, simply being near it has compelled you to test your own abilities.Scanning the horizon, your vision locks on a wild wyrm as it flies nearby.It is decided. Of you and he, only one shall see the next sunrise....",
-    "name": "Thrusting Hodir's Spear",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

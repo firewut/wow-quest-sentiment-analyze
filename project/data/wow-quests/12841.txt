@@ -1,7 +1,0 @@
-{
-    "_id": "12841",
-    "description": "Yes, it must be the green-skinned prisoner you're after...  We might be able to help each other.You're not going to get the goblin out of here by force.  Not alive, anyway.Among my people I am known as a Yrkvinn, a practitioner of illusions.  As you can see, the Hyldnir have made me their prisoner.If I had my runes, I could make you go unnoticed among them.  Further inside, patrolling the mines, you'll find an overseer named Syra.  She has my runes.  Retrieve them and we'll talk some more.",
-    "name": "The Crone's Bargain",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

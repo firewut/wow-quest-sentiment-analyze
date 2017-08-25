@@ -1,7 +1,0 @@
-{
-    "_id": "10579",
-    "description": "Take this box to my father. He still resides at Oronok's Farm, far to the north, above Coilskar Cistern. When all three fragments are pieced together, the ancient words will be known once more.Good luck, <name>. Tell my father that I will be home soon.",
-    "name": "The Cipher of Damnation - The Third Fragment Recovered",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

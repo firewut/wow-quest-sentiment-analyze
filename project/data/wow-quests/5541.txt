@@ -1,7 +1,0 @@
-{
-    "_id": "5541",
-    "description": "Hegnar Rumbleshot sells guns off the road to Anvilmar.  Riflemen and mortar teams spend a lot of time practicing out near his shop, and he's always needing fresh ammunition.But... the last crate of ammo I sent him got lost along the way.  My courier said he was camped near the Grizzled Den when wendigo chased him away... and the fool left Rumbleshot's ammo behind!<name>, can you get that ammo and take it to Rumbleshot?  He's been waiting on it and I'm sure he's running low.",
-    "name": "Ammo for Rumbleshot",
-    "requires_level": 5,
-    "zone": "Dun Morogh"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "37421",
-    "description": "",
-    "name": "Bonus Objective: Kuuro's Claim",
-    "requires_level": 94,
-    "zone": "Talador"
-}

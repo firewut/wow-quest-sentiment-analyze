@@ -1,7 +1,0 @@
-{
-    "_id": "25345",
-    "description": "<name>, next I must have you capture a creature that in appearance, may look quite fragile, yet its powerful spirit is what we are truly after. The faerie dragons that I speak of have served the night elves as their allies. We must capture one so that the horde may benefit from this strength of spirit as well.Here is the muisek, <name>. Kill 8 sprite darters or sprite dragons, and capture their muisek. They may be found to the west of here.",
-    "name": "Faerie Dragon Muisek",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

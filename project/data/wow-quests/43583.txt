@@ -1,8 +1,0 @@
-{
-    "_id": "43583",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Life Finds a Way",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

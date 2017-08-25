@@ -1,8 +1,0 @@
-{
-    "_id": "35517",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Shattered Halls Reward Quest",
-    "requires_level": 67,
-    "zone": "Quests"
-}

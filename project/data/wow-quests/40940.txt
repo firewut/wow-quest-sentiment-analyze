@@ -1,7 +1,0 @@
-{
-    "_id": "40940",
-    "added_in_patch": 7,
-    "description": "[PH]",
-    "name": "Test Quest Two",
-    "zone": "Quests"
-}

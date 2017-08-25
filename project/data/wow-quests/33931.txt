@@ -1,8 +1,0 @@
-{
-    "_id": "33931",
-    "added_in_patch": 6,
-    "description": "We need help! But not from you...",
-    "name": "This Is Not a Quest",
-    "requires_level": 90,
-    "zone": "Talador"
-}

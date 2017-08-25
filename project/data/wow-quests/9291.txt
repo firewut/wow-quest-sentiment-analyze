@@ -1,7 +1,0 @@
-{
-    "_id": "9291",
-    "description": "",
-    "name": "Priest Training",
-    "requires_level": 2,
-    "zone": "Priest"
-}

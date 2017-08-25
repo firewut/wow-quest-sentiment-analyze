@@ -1,8 +1,0 @@
-{
-    "_id": "31288",
-    "added_in_patch": 5,
-    "description": "Ah, an explorer. Just what I could use. I am on the verge of discovering the dark secrets of the mogu.Not all of the secrets, mind you. They kept a lot of dark secrets. But I am on the verge of discovering \"a\" secret at least.If, in your travels, you come across some fragments of the mogu past, bring them to me and I will happily reimburse you for them.",
-    "name": "Research Project: The Mogu Dynasties",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14384",
-    "description": "Halt!On behalf of the Nijel's Point Guard, I am under orders to send all able-bodied allies to report directly to Corporal Melkins.I am not authorized to offer any other information.What I can offer is transportation. You are free to use my mount. It will deliver you directly.Dismissed.",
-    "name": "Rerouted!",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24796",
-    "description": "In spite of Queen Lana'thel's boasting, you have restored Quel'Delar, <name>. Long have we dreamt of reclaiming Quel'Delar.The Silver Covenant, and indeed all quel'dorei owe you a debt of gratitude.Vereesa Windrunner, the leader of the Silver Covenant, asked to see you after you returned from the Sunwell. Take Quel'Delar with you and go to Dalaran's Violet Citadel where she waits, <name>.",
-    "name": "A Victory For The Silver Covenant",
-    "requires_level": 80,
-    "zone": "Icecrown"
-}

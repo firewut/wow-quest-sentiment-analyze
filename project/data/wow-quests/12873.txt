@@ -1,7 +1,0 @@
-{
-    "_id": "12873",
-    "description": "Definitely... I can see exactly what the core must look like. If any of the frostborn have seen it, they'll be sure to recognize the description.There's no time to waste, let's get straight to business. Go talk to King Stormheart and request his aid... he's sure to know someone who can help us find the core. And be nice about it will you - he's very respected around here.",
-    "name": "The Frostborn King",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

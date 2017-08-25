@@ -1,8 +1,0 @@
-{
-    "_id": "44255",
-    "added_in_patch": 7,
-    "description": "<name>, your strength and leadership inspires awe in all of us!\r\n\r\nThe Valarjar are prepared to furnish you with a full set of armor to aid in the fight against the Burning Legion. Continue expanding your influence across the Broken Isles, and we may yet achieve victory.",
-    "name": "Axe and You Shall Receive",
-    "requires_level": 110,
-    "zone": "Warrior Campaign"
-}

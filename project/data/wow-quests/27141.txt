@@ -1,7 +1,0 @@
-{
-    "_id": "27141",
-    "description": "What a find!Right here... exactly where my notes predicted it would be.With any luck, inside this chamber will lie clues to the location of the legendary Coffer of the Promise.That's right, <name>. It's not just a myth. I believe it truly exists.I'll explain more later. For now, just give me a hand with these explosives.",
-    "name": "Premature Explosionation",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

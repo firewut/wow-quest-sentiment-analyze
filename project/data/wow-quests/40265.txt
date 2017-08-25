@@ -1,8 +1,0 @@
-{
-    "_id": "40265",
-    "added_in_patch": 7,
-    "description": "I always took great pride in my home... and my enchantments. Now it seems both have fallen into ruin.I can sense the power of a potent enchanter in you, <name>. If you would but sprinkle a bit of magic dust on my once-enchanted belongings, I'm sure you can bring them to life again.",
-    "name": "A Touch of Magic",
-    "requires_level": 106,
-    "zone": "Enchanting"
-}

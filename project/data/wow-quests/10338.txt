@@ -1,7 +1,0 @@
-{
-    "_id": "10338",
-    "description": "So Manaforge Duro is under attack and Sunfury forces have lost control?  What a dilemma!  If Duro goes down, then Tempest Keep goes down.  Only drawback is... if Tempest Keep is destroyed, the explosion will probably take what little remains of this forsaken land with it.Dead Kael'thas is good.  Dead everyone else is... not that great, I suppose.  It pains me to ask this of you, but go to Manaforge Duro and shut it down before it goes up in flames.  The access crystal is held by Overseer Athanel.",
-    "name": "Shutting Down Manaforge Duro",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

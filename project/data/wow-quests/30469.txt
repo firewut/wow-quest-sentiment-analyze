@@ -1,8 +1,0 @@
-{
-    "_id": "30469",
-    "added_in_patch": 5,
-    "description": "Of course, the first priority is finding my son. But, if we save ourselves only to starve, then what have we accomplished, in the end?\r\n\r\nPlease, I need you to recover some of the supplies that the Jinyu took from our caravan.",
-    "name": "Repossession",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

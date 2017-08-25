@@ -1,7 +1,0 @@
-{
-    "_id": "27397",
-    "description": "The elements and spirits speak to you with clear voices, <name>. You have become a powerful shaman and an example to others wishing to serve the Horde.Word has even reached the warchief, and he has commissioned his personal smith to forge a special weapon for you.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and obtain Lord Walden's talisman, the Book of Lost Souls, and essence from the ghosts haunting the keep.",
-    "name": "Terga's Task",
-    "requires_level": 20,
-    "zone": "Shaman"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "24954",
-    "description": "Volcanoth is the turtle god in the cave that these primitives worship.It's not really a god.<Hobart rolls his eyes.>But it is tough enough that I'm going to have to devise a new weapon for you from the one functioning boot we have left.I think that the age-old motto of \"fight fire with fire\" applies here. Plus, I like fire!Let's get some fire glands from Volcanoth's children. That should give me time to modify the rocket boot into something more fitting.",
-    "name": "Children of a Turtle God",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

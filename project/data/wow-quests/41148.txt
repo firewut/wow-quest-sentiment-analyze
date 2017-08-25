@@ -1,8 +1,0 @@
-{
-    "_id": "41148",
-    "added_in_patch": 7,
-    "description": "There is much you need to learn about our city.\r\n\r\nFirst and foremost, Arcwine. It is the vehicle by which we imbibe the Nightwell's energies. Without it, we wither and die.\r\n\r\nPalace lackeys have seen fit to ration it, thinking this will control us. Keep us quiet, complacent.\r\n\r\nI would like you to look for those in need near the tavern. You will find many, but those most desperately afflicted by this rationing will be obvious.\r\n\r\nTake this flask. Revive them. Tend to their suffering.",
-    "name": "Dispensing Compassion",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

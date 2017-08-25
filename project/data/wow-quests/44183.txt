@@ -1,8 +1,0 @@
-{
-    "_id": "44183",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Lord Jorach Ravenholdt",
-    "requires_level": 103,
-    "zone": "Rogue Campaign"
-}

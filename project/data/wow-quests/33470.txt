@@ -1,9 +1,0 @@
-{
-    "_id": "33470",
-    "added_in_patch": 6,
-    "description": "A terrible storm gathers on the horizon, <class>.I have prepared a ritual. You must consult the pool to see what destiny holds for us all.",
-    "name": "Pool of Visions",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

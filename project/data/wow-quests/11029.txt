@@ -1,7 +1,0 @@
-{
-    "_id": "11029",
-    "description": "Open the package, <name>.  It is a disguise.  It doesn't look very convincing, does it?I craft them for ethereal smugglers in search of rare books.  There is an arakkoa scribe who dwells in the central island in Skettis, Terokk's Rest; his name is Sahaak.  He is old and nearly blind.Use the disguise to speak with him and obtain the book known as the Adversarial Bloodlines.  Be careful, <name>.  The disguise won't fool the other arakkoa.",
-    "name": "A Shabby Disguise",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

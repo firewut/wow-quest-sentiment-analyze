@@ -1,8 +1,0 @@
-{
-    "_id": "31981",
-    "added_in_patch": 5,
-    "description": "Run off to your trainer, Audrey Burnhep, in Stormwind. Perhaps she can find you more...worthwhile...challenges.",
-    "name": "Exceeding Expectations",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

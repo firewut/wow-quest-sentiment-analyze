@@ -1,8 +1,0 @@
-{
-    "_id": "32586",
-    "added_in_patch": 5.2,
-    "description": "The mines north of here are critical to the mogu supply line. They are using giant lightning enchanted drills to extract the ore.\r\n\r\nIf you can disrupt the drills, they'll be destroyed, greatly slowing their ability to make weapons.\r\n\r\nOh, also, kill whoever is in charge, will you?",
-    "name": "Maximum Capacitor",
-    "requires_level": 90,
-    "zone": "Quests"
-}

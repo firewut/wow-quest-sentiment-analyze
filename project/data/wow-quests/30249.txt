@@ -1,8 +1,0 @@
-{
-    "_id": "30249",
-    "added_in_patch": 5,
-    "description": "A giant beast has burrowed under the gate into the courtyard. The defenders need your help!",
-    "name": "Under the Setting Sun",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

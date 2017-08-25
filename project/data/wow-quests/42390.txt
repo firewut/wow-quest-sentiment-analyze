@@ -1,8 +1,0 @@
-{
-    "_id": "42390",
-    "added_in_patch": 7,
-    "description": "To do the most good, we need the best hunters at our side.Having you leading the order is a great start, but we'll need others who share your skill and expertise if we plan on making an impact.Rexxar has a reputation of being one of the greatest hunters of his time, yet he's never been eager to aid the Unseen Path.He has a camp just south of here, where he and Misha live off the land. Maybe you can convince him to join our ranks.",
-    "name": "Recruiting Rexxar",
-    "requires_level": 103,
-    "zone": "Hunter Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36277",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Warlords Max Level Dungeon Bonus Reward Quest",
-    "requires_level": 100,
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "38612",
-    "added_in_patch": 7,
-    "description": "So some old magic vrykul is helping us out? I guess that's good, but this trial of yours might be tricky. You see, the only way up that mountain, is through those big walls.\r\n\r\nYou know, the ones with the mean-looking drakes on them.\r\n\r\nI scouted a bit, but couldn't get too far without those drakes trying to make lunch out of poor Duchess. The vrykul have them trained, which can't be good.\r\n\r\nI say we sneak in. I managed to snag a few grapple launchers earlier. Grab one and meet me outside the city walls.",
-    "name": "A Grapple a Day",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

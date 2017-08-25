@@ -1,7 +1,0 @@
-{
-    "_id": "14365",
-    "description": "We have recently received a plea for help from a researcher of the Cenarion Circle.We have no one we can spare to send, so I ask that you pay her a visit on our behalf.Korrah is posted near the ruined tower of Ethel Rethor, on the coast to the west.",
-    "name": "Ethel Rethor",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

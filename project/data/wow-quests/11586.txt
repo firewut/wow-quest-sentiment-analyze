@@ -1,7 +1,0 @@
-{
-    "_id": "11586",
-    "description": "Throm-Ka, <race>! Welcome to Warsong Hold. My heart swells with pride to see that such a distinguished hero of the Horde has answered the call of duty!This impregnable fortress is a testament to the tenacity of the Horde. Through much we have battled to establish this foothold in Northrend. It is from here that our journey to Icecrown begins and it is through the leadership of the son of Hellscream that we will succeed!Garrosh awaits your arrival below.Lok'tar ogar!",
-    "name": "Hellscream's Vigil",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

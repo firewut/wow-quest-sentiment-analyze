@@ -1,7 +1,0 @@
-{
-    "_id": "7665",
-    "description": "",
-    "name": "Red Raptor Replacement",
-    "requires_level": 60,
-    "zone": "Quests"
-}

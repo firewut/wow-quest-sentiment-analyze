@@ -1,9 +1,0 @@
-{
-    "_id": "36208",
-    "added_in_patch": 6,
-    "description": "I'm glad you arrived when you did.The Laughing Skull orcs practice some strange spirit magic, but one of their traditions could be quite useful in our situation.While I make preparations, can you gather the reagents?First, we'll need crystals from the husks of goren corpses. You can find their bodies in the canyon.",
-    "name": "The Crystal Shard",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

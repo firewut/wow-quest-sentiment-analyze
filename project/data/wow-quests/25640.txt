@@ -1,7 +1,0 @@
-{
-    "_id": "25640",
-    "description": "Ve have discovered ze vhereabouts of ze gigantic goblin bomb zat you discovered at Silvervind Refuge.You remember Boog? Ze gnome you rescued from ze orcish vagon of agony? Vell, he and Minx have tracked ze bomb down to Windshear Mine. Go zhere immediately, <name>! Zey'll be expecting you.",
-    "name": "Bombs Away: Windshear Mine!",
-    "requires_level": 24,
-    "zone": "Stonetalon Mountains"
-}

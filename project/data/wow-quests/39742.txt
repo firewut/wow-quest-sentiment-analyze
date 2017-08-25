@@ -1,8 +1,0 @@
-{
-    "_id": "39742",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Vault of the Wardens",
-    "requires_level": 98,
-    "zone": "Quests"
-}

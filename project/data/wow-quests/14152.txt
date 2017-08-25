@@ -1,7 +1,0 @@
-{
-    "_id": "14152",
-    "description": "Champion, Captain Wavecrest and her ship were sent north to disrupt the Kvaldir in Hrothgar's Landing when they were intercepted by a Kvaldir raiding party headed to the Tournament Grounds. Unfortunately, the Kvaldir far outnumber the crew on board and are slowly taking over the ship.We need you to go north to The Wavecrest in The Sea Reaver's Run, between the Tournament Grounds and Hrothgar's Landing and help the crew fend off the attack.  You should see the ship on the east side of the pass.",
-    "name": "Rescue at Sea",
-    "requires_level": 78,
-    "zone": "Tournament"
-}

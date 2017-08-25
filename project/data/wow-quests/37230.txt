@@ -1,8 +1,0 @@
-{
-    "_id": "37230",
-    "added_in_patch": 6,
-    "description": "Welcome back, commander. The commander is obviously in a great hurry, and certainly the thought of removing their coat or boots or not dripping all over the floor are much too far beyond consideration.The commander remembers the acidic solution, yes? Quite effective it was, though one barrel was not enough to remove ALL of the blood stains from the portraits, or the tapestries, or the ceiling.Surely this must have been the most heroic and viscous battle in recent history.",
-    "name": "Bloody Expensive",
-    "requires_level": 100,
-    "zone": "Iron Docks"
-}

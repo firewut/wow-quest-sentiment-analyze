@@ -1,8 +1,0 @@
-{
-    "_id": "31297",
-    "added_in_patch": 5,
-    "description": "The mogu will not be able to maintain this attack much longer. We should be able to handle it here, thanks to your kind aid.Might you be willing to find Anji at the Setting Sun Training Camp to the west? She's been tasked with preparing fresh-faced pandaren to aid the cause. You could show them a thing or two as well, I imagine.",
-    "name": "Setting Sun Garrison",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

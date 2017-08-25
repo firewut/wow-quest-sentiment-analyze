@@ -1,7 +1,0 @@
-{
-    "_id": "28140",
-    "description": "You have the code. Now all you have to do is head to the eastern section of the Bulwark and free the Elder Crone.Good luck, <name>. Thank you for all you've done.",
-    "name": "The Elder Crone",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

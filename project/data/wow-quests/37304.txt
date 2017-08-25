@@ -1,8 +1,0 @@
-{
-    "_id": "37304",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Armory",
-    "requires_level": 94,
-    "zone": "Talador"
-}

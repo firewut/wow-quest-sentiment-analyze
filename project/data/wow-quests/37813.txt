@@ -1,9 +1,0 @@
-{
-    "_id": "37813",
-    "added_in_patch": 6.1,
-    "description": "Foreman Grobash in da Talador outpost figures he knows why der's been so much seismic activity recently.Der be an earth fury called Amethon that be covered in powerful crystals in a cave up above Kuuro's Claim. Da crystals' hummin' be drivin' da fury crazy!We want a sample to see if we can figure out why da crystals are so powerful. I wouldn't be askin' ya if I thought anybody else could do it, commander.",
-    "name": "Death to Amethon!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

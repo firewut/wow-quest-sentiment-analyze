@@ -1,8 +1,0 @@
-{
-    "_id": "26806",
-    "description": "Eitrigg will have to be happy with the part of the report that I've finished. Tell him to expect more in the future.<Gar'Thok hands you a stack of roughly folded papers.>This should cover the most important details of the increase in Alliance forces working out of Northwatch. Please apologize to Eitrigg for me and let him know that we've had our hands full here, trying to keep Razor Hill secure and supplied. When you're ready to return to Orgrimmar, simply speak to Burok and hire a wind rider.",
-    "name": "Reports to Orgrimmar",
-    "requires_level": 5,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

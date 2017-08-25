@@ -1,8 +1,0 @@
-{
-    "_id": "40490",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Thunder Totem Treasure",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25338",
-    "description": "The wandering forest walkers that can be found meandering through the forest are our next target, <name>. Night elves have enlisted treants as allies to fight against the horde. Their movement may be slow, but their role as protectors is undeniable.Soon we will be able to use this power for our own benefit.Find three wandering forest walkers; kill them, and use the muisek vessel to shrink and capture them.",
-    "name": "Treant Muisek",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

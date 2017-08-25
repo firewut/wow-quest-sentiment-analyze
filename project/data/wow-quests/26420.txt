@@ -1,8 +1,0 @@
-{
-    "_id": "26420",
-    "description": "Hey there, Angler!  Arnold here tells me that you have been looking for a new fishing spot and I think I know just the place.  North of Stormwind there is a great little spot called Olivia's Pond.The pond is stocked with crystal bass every year but they are hard to catch.  They only bite on a very specific type of bait... overgrown earthworms.  If you search the shore around the pond, you should find plenty of worms to use as bait.",
-    "name": "Diggin' For Worms",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

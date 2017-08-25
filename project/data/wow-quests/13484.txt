@@ -1,7 +1,0 @@
-{
-    "_id": "13484",
-    "description": "If you're looking for something to do, I hear there are mages in the settlements near capital cities - Goldshire, Kharanos, Dolanaar, and Azure Watch - who have been recruiting egg hunters for help with some research they're doing. I'm not sure of the particulars, but I'm sure they'd tell you.",
-    "name": "Spring Collectors",
-    "requires_level": 1,
-    "zone": "Noblegarden"
-}

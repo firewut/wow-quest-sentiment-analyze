@@ -1,8 +1,0 @@
-{
-    "_id": "29094",
-    "description": "Looks like your work here is done, <class>. You'd better head back to the Crossroads.Luckily for you, my Silver Bullet X-831 prototype is finished, and she's ready for a test drive. Whaddaya say you do me one last favor and take her for a little spin?One of my assistants will accompany you. Your sweet, sweet ride is waiting on the platform behind me. Just hop on when you're ready.",
-    "name": "The Short Way Home",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

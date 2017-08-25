@@ -1,7 +1,0 @@
-{
-    "_id": "10104",
-    "description": "The rumors from Tuurem are unsettling. Some say the town's ruins are overrun with crazed Broken and Lost Ones, while opportunistic artifact hunters steal draenei relics.It's hard to know which are true and which aren't, but we have a responsibility to safeguard the ruins as best we can. Find Andarl at the Allerian Stronghold in Terokkar Forest. He is something of a student of magical relics. More than anyone else, he's likely to know what's going on there.",
-    "name": "Concerns About Tuurem",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

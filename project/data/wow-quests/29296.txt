@@ -1,7 +1,0 @@
-{
-    "_id": "29296",
-    "description": "The fire hawks are upset by our continued presence. They're getting extremely hostile, and not just in the usual territorial ways. I worry that if we leave them unchecked, they will soon be joining the assault on our tree, and I'm not sure we're capable of handling that.Go across the way to Fireplume Peak and do what you have to to keep them in check. I'm far more concerned with our safety right now than theirs, so be decisive about it.",
-    "name": "Territorial Birds",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

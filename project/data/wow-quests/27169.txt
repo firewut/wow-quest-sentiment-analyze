@@ -1,8 +1,0 @@
-{
-    "_id": "27169",
-    "description": "These farmers from the south wish to take these farms, but I can't let them enter the plaguelands unprepared.  Even with the Scourge gone, danger still looms in the form of the Forsaken.  No, we must be ready to fight... and that includes our new visitors.Before doing anything else, however, I would recommend that you travel to Uther's Tomb, to the east, and place this tribute before his statue to ask for his blessing.  Speak with the priest that tends to the tomb when you are finished.",
-    "name": "Uther's Blessing",
-    "requires_level": 34,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

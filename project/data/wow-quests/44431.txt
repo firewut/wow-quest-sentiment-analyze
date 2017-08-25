@@ -1,8 +1,0 @@
-{
-    "_id": "44431",
-    "added_in_patch": 7,
-    "description": "You've had great success against our foes, but you should be ready for any challenge they send your way.You would be wise to consider obtaining yet another of the weapons of old to aid in our conflict.Let me know how you'd like to proceed.",
-    "name": "More Weapons of Old",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

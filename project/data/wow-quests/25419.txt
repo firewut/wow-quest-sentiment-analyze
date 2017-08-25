@@ -1,7 +1,0 @@
-{
-    "_id": "25419",
-    "description": "Dozens of crude gold links make up this heavy chain.Dangling from the center link is an opalescent fragment of what must have once been a large shell-shaped medallion.You wonder if the other fragments might be nearby, and if the medallion might be reassembled into its original state.",
-    "name": "Lady La-La's Medallion",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12886",
-    "description": "This is it.  You've passed all the tests of the Hyldsmeet... all but one.  You've risen among our sisters' best and fiercest.The final test is at hand.  The Drakkensryd - the true test of a Hyldnir's worth and warrior spirit.  It'll be you, your riding drake, a chained harpoon and a score of your sisters vying for dominance.Show no quarter.  None will be expected.",
-    "name": "The Drakkensryd",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

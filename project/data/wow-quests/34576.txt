@@ -1,9 +1,0 @@
-{
-    "_id": "34576",
-    "added_in_patch": 6,
-    "description": "My goods used to be for the very best, now the Iron Horde make copies out of poor metal and give them to everyone.I'm going to show them what a real smith can do in your arsenal, but first I'm going to need a powerful flux to make the metal as pure as it can get.The dust from crushed iridium geodes would work in a pinch but we need to find some first. They tend to congregate underground, so check out the mine in Kuuro's Claim nearby.",
-    "name": "Iridium Recovery",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

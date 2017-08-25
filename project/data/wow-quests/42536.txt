@@ -1,8 +1,0 @@
-{
-    "_id": "42536",
-    "added_in_patch": 7,
-    "description": "Galen Trollbane is a fool if he thinks that he can betray the Ebon Blade.I have had enough of his games. The fallen prince wastes our time playing the king of a ruined throne, while heroes sacrifice their lives to save this world.If Galen Trollbane will not open the tomb of his father, then we must take the sword and do it ourselves.If he chooses to resist, so be it.",
-    "name": "Regicide",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

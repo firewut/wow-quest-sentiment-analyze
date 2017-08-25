@@ -1,8 +1,0 @@
-{
-    "_id": "42590",
-    "added_in_patch": 7,
-    "description": "You will never know how thankful we are to you, <race>. Because of you, Moozy and my husband are safe. I won't let either of them out of my sight!\r\n\r\nI am sorry to ask one last favor of you, but do you think you could find my mother and bring her here so she can see that her grandchild is safe?\r\n\r\nHer name is Ethel, and her home is on the northern bluff of Thunder Totem.",
-    "name": "Moozy's Reunion",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11021",
-    "description": "This mysterious tome was on Talonpriest Ishaal's body.  It contains arcane symbols and charts of celestial bodies beyond your comprehension.All writing is in a language you don't understand; likely an ancient version of the arakkoa written tongue.  Perhaps you should bring this to Sky Commander Adaris.",
-    "name": "Ishaal's Almanac",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

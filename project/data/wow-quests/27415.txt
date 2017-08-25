@@ -1,7 +1,0 @@
-{
-    "_id": "27415",
-    "description": "Onyxia's brood has been scattered across the Dragonmurk. It is imperative that no more whelps be permitted to hatch.Make haste to Wyrmbog in the south of Dustwallow Marsh. Surely, she has made her lair there. Track down the evil dragon's eggs and destroy them.We will never reclaim Stonemaul Village if the surrounding area remains a breeding ground.As for Mok'Morokk... I have other plans for the sod.",
-    "name": "The Brood of Onyxia",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

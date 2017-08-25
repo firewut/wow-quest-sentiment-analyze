@@ -1,8 +1,0 @@
-{
-    "_id": "41110",
-    "added_in_patch": 7,
-    "description": "The Hippogryph eyes you curiously, searching your hands.",
-    "name": "Waiting for Revenge",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

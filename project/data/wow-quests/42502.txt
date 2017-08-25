@@ -1,8 +1,0 @@
-{
-    "_id": "42502",
-    "added_in_patch": 7,
-    "description": "We have one other lead that may prove useful. Goes by Felcaller Whitley, another of the cult's elite. He's eluded our agents at every turn.Our latest reconnaissance report puts him somewhere in the village of Raven Hill in Duskwood. He's sure to have information vital to your search.You know what to do.",
-    "name": "No Sanctuary",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

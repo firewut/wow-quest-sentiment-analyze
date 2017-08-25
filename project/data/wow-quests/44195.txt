@@ -1,8 +1,0 @@
-{
-    "_id": "44195",
-    "added_in_patch": 7,
-    "description": "I can get you the best deals on some slightly... used... equipment.",
-    "name": "Workorders for Armaments",
-    "requires_level": 100,
-    "zone": "Quests"
-}

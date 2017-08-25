@@ -1,8 +1,0 @@
-{
-    "_id": "34828",
-    "added_in_patch": 6,
-    "description": "The Adherents came for me, but I was already hiding. I watched from the shadows as they ransacked my hut.Then I watched the Shattered Hand orcs arrive and butcher them like dinner fowl. Seems everyone is after us these days.One of those orc thugs made off with my scrying orb. I will be needing it back if I am to be of any use to Iskar.",
-    "name": "Ishaal's Orb",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

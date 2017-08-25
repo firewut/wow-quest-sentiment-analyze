@@ -1,8 +1,0 @@
-{
-    "_id": "42524",
-    "added_in_patch": 7,
-    "description": "Our champions acquired the talents of Recruiter Lenara, an extraordinary archer.She can hit the smallest of targets at extended ranges. Her arrows never miss.Speak to her now and train a squad of archers.",
-    "name": "Recruiting The Troops",
-    "requires_level": 101,
-    "zone": "Hunter Campaign"
-}

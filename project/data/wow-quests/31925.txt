@@ -1,8 +1,0 @@
-{
-    "_id": "31925",
-    "added_in_patch": 5,
-    "description": "I have learned much since our last encounter. Do you wish to test your skills once more?",
-    "name": "Morulu The Elder",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

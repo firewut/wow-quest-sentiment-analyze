@@ -1,7 +1,0 @@
-{
-    "_id": "10843",
-    "description": "Since time forgotten we have fought with the Bladespire ogres.We have managed to push them back so that now they only hold a tenuous grip at Bladespire Outpost.  It's back the way that you came, on the southwestern edge of the Razor Ridge.Prove your worth to me by killing their leader, Gnosh Brognat.Let us see what stuff you are made of when fighting the ogres.",
-    "name": "Since Time Forgotten...",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

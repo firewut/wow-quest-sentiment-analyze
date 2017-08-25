@@ -1,8 +1,0 @@
-{
-    "_id": "39040",
-    "added_in_patch": 6.2,
-    "description": "The favorite star of warlords and generals dominates the sky, offering good fortune to tacticians everywhere. Some say that the battle star hones the instincts of commanders to the point of near-prophecy. If ever you were going to test yourself on the field of battle, now is the time.",
-    "name": "A Call to Battle",
-    "requires_level": 100,
-    "zone": "Weekend Event"
-}

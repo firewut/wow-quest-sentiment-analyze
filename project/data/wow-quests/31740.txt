@@ -1,9 +1,0 @@
-{
-    "_id": "31740",
-    "added_in_patch": 5,
-    "description": "We have more than just our cellars to worry about.Koukou, our beloved mushan, has gone crazy! Just look at him!I've tried cajoling and pleading and yelling and soothing, but nothing has worked.I'm afraid he is no longer of his own mind. There is only one way to save him, and our brewery.Strike swift and sure. He will not feel a thing.",
-    "name": "Koukou's Rampage",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

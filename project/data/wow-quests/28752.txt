@@ -1,7 +1,0 @@
-{
-    "_id": "28752",
-    "description": "See how long you can last! Hold off at least 10 waves and I'll give you some coin.",
-    "name": "Unstoppable Onslaught",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

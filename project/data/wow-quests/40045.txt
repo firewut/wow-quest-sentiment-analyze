@@ -1,8 +1,0 @@
-{
-    "_id": "40045",
-    "added_in_patch": 7,
-    "description": "I appreciate murloc-kind far too much to tell you to go kill all the adults.\r\n\r\nWhat we should be doing is setting up the next generation to be more peaceful; Murky is the best representative for this. \r\n\r\nBring him to talk to the murloc tadpoles. He'll get them on our side.",
-    "name": "Nature vs. Nurture",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44487",
-    "added_in_patch": 7,
-    "description": "In spite of its magical nature, the  book has been damaged by water.The head of the curators in Dalaran is renowned for his abilities.  Perhaps he can restore it.",
-    "name": "Waterlogged Tome",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

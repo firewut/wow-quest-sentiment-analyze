@@ -1,7 +1,0 @@
-{
-    "_id": "11657",
-    "description": "Now that you can throw a torch, let's see if you can catch one!Take this stack of unlit torches.  Go to the bonfire and throw a torch high into the air.  Catch it before it hits the ground... then throw it back up!  Catch four in a row, then come back to me.Careful! They're dangerous if they hit the ground!  And don't miss any catches!  If you do then you'll have to go back to the bonfire and start over.  Good luck!",
-    "name": "Torch Catching",
-    "requires_level": 1,
-    "zone": "Midsummer"
-}

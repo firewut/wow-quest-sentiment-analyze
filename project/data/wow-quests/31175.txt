@@ -1,8 +1,0 @@
-{
-    "_id": "31175",
-    "added_in_patch": 5,
-    "description": "Our efforts to secure the shallows before Zan'vess have paid off.We have spotted another paragon buried in amber, hidden in the waters to the southwest.Adding another paragon to our numbers is vital. Another champion from ages past could turn the tide in our favor.I would go immediately, but unfortunately, I am needed here.Since you are already a Wakener, you can carry out this task in my stead.",
-    "name": "Skeer the Bloodseeker",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

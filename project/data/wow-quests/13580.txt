@@ -1,7 +1,0 @@
-{
-    "_id": "13580",
-    "description": "Their fiery spirits are contained in the totem now.  Take it to the top of the Jagged Reef near the Blazing Strand and set it on the ground.The totem's soothing energies will slowly wash over the elementals until their fury simmers down to calm.You must protect the totem, for fire does not react favorably to the ritual of soothing.",
-    "name": "Soothing the Elements",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

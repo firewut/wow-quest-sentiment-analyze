@@ -1,8 +1,0 @@
-{
-    "_id": "26830",
-    "description": "The Twilight's Hammer agents still lurk within the confines of Orgrimmar. I need someone I trust to collect the final evidence of treachery.\r\n\r\n<Saurfang pulls you aside.>\r\n\r\nI suspect that Sauranok the Mystic is involved. I need you to uncover the truth, <name>.  The Twilight's Hammer has placed their agents within the ranks of the workers at the airship docks to spread their lies across th land. Speak with them. If you find evidence of Sauranok's guilt then show him what happens to traitors of the Horde.",
-    "name": "Traitor's Bait",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

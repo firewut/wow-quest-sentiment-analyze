@@ -1,8 +1,0 @@
-{
-    "_id": "33431",
-    "added_in_patch": 6,
-    "description": "For this challenge: run through the arch, then get to the red marker, the purple marker, and finally return here before the bell tolls 30 times.",
-    "name": "Elwynn South Distance Trial: 30",
-    "requires_level": 1,
-    "zone": "Elwynn Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "311",
-    "description": "Having inserted a barrel of Marleth's Scalder in the Kharanos Distillery's cellar, you grab a barrel of Thunder Ale as proof of the deed...",
-    "name": "Return to Marleth",
-    "requires_level": 2,
-    "zone": "Dun Morogh"
-}

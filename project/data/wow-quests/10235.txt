@@ -1,7 +1,0 @@
-{
-    "_id": "10235",
-    "description": "You know what might just discourage them?  Take out their leader!It seems to work everywhere else from what I've heard.  And when they see a  grizzled  <class>, such as yourself take out their leader... why, I bet they'll tuck tail and run for the hills!Get back in there and take out the big one they call Doomclaw.  I hear he keeps himself in the eastern part of the Scrap Field underneath the pipe.Bring me his claw, too!  Maybe we can make use of it.",
-    "name": "Declawing Doomclaw",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

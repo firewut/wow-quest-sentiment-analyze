@@ -1,8 +1,0 @@
-{
-    "_id": "31465",
-    "added_in_patch": 5,
-    "description": "Kypari Ik is just one of many locations that houses some of Empress Shek'zeer's offspring. In their juvenile state the young are reckless and difficult to control. They are also deadly.Swarmborn are hatched with a highly toxic venom that diminishes in potency with age. The venom can incapacitate even the strongest and most skilled fighter if it hits flesh.I would like you to bring me some of this venom.",
-    "name": "Extracting Answers",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

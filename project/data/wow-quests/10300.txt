@@ -1,7 +1,0 @@
-{
-    "_id": "10300",
-    "description": "<Ravandwyr inspects the staff, noting that part of the headpiece seems to be missing.>Simply barbaric! Ekkorash must've taken the staff's crystalline headpiece for use in some other trinket, not realizing that it works in concert with the rest of the staff.As long as it remains broken, the staff's power is greatly diminished. With a suitable draenei crystal, I should be able to repair it. I've heard the goblins remarking about the crystals carried by the ghosts at the Enkaat Ruins to the north.",
-    "name": "Rebuilding the Staff",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

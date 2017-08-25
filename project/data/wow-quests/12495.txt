@@ -1,7 +1,0 @@
-{
-    "_id": "12495",
-    "description": "Our assault against Angrathar has staggered the Scourge, but they remain unrelenting. From overhead they send their frost wyrms to strafe the field of battle, making an advance upon the gate itself impossible. The frost wyrm attacks must be stopped, but before we defile the bones of ancient dragons, we must gain permission from their queen.Travel southeast to Wyrmrest Temple and seek out Queen Alexstrasza. Tell her what we must do and ask her for guidance.Go now, <name>!",
-    "name": "Audience With The Dragon Queen",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

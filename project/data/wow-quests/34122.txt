@@ -1,9 +1,0 @@
-{
-    "_id": "34122",
-    "added_in_patch": 6,
-    "description": "They may be spirits, but the Ango'rosh are still ogres. Even with their books in hand, they won't respect you until you prove yourself, and there's only one way to earn that.By killing them.You should take out as many of the Ango'rosh spirits and their pets as you can while in the ruins.",
-    "name": "Ogre Diplomacy",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

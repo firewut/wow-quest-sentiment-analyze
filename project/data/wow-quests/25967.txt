@@ -1,7 +1,0 @@
-{
-    "_id": "25967",
-    "description": "You'll have to catch me up more later. Right now, we need to get out of here before more naga push in. Make your way back to the forward post on the level below us.Take my sea horse. We will meet you back there shortly.",
-    "name": "Losing Ground",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

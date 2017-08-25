@@ -1,7 +1,0 @@
-{
-    "_id": "10358",
-    "description": "",
-    "name": "Additional Runecloth",
-    "requires_level": 50,
-    "zone": "The Exodar"
-}

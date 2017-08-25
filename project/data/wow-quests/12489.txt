@@ -1,7 +1,0 @@
-{
-    "_id": "12489",
-    "description": "So, where did you come from? I don't suppose that fool of an archmage sent you, too?You're lucky to be in one piece,  laddie! They nearly blew you up!The jungle here's a darned dangerous place, 'specially with the Venture Company about. Git you! Go see the boss... he'll sort you out. The camp's at the end of that path to the northwest.Now, git!",
-    "name": "Welcome to Sholazar Basin",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

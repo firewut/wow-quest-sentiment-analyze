@@ -1,7 +1,0 @@
-{
-    "_id": "14324",
-    "description": "Ergll indicated that you should be able to use the Engorged Azshara Sea Sponge to summon a \"jumbo\" elemental near the Tower of Eldara to the northeast.",
-    "name": "Full of Hot Water",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

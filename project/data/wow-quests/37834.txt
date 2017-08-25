@@ -1,8 +1,0 @@
-{
-    "_id": "37834",
-    "added_in_patch": 6.1,
-    "description": "Gul'dan and his Shadow Council have their hooks embedded deep into Garona's soul. We've tried traditional magical methods and they haven't helped her. It's time to get unorthodox.<Khadgar cracks his knuckles, his eyes flashing with a disturbing eagerness.>I've just learned of a Shadow Council holdout hidden beneath the Draenei city of Elodor. They are using an Orb of Dominion to brainwash spies. Quickly! Assault the cave and recover the orb for me. We will turn this dark magic to our advantage.",
-    "name": "Orb of Dominion",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

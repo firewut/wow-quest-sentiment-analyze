@@ -1,8 +1,0 @@
-{
-    "_id": "32524",
-    "added_in_patch": 5.2,
-    "description": "Do you hear that, <class>? The beating of war drums in the distance. The Zandalari are preparing for us.Let's not give them the luxury of time to organize their defenses. We need to push the attack now!Report to Scout Captain Elsia within Conqueror's Terrace. She will have further orders for you.",
-    "name": "The Beating of Troll Drums",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27602",
-    "description": "We... are... bound by oath... to protect the scepter of Orsis.Listen, <class>, I don't have much time... left.Find the sacred receptacle... in the southern end of the city.Do not... let it... fall into their... hands...",
-    "name": "The Prophet's Dying Words",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12562",
-    "description": "Intelligence reports that ever since those water elementals appeared in the Drak'Sotra Fields, a number of Drakkari shaman have come down from the upper tiers of Zul'Drak to take control of them.I cannot stress enough,  sir am;, how dangerous that could prove. We do not want them to have water elementals at their disposal.The commander has ordered that these Drakkari water binders are to be put to the sword. Head south when you're ready.",
-    "name": "The Drakkari Do Not Need Water Elementals!",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

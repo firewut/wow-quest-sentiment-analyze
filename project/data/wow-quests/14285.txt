@@ -1,8 +1,0 @@
-{
-    "_id": "14285",
-    "description": "There's only so much I can teach right now with all these worgen trying to dismember us.We really should think about heading south with the other survivors.  We've been told that King Greymane is there.If we stick together our chances of survival will increase... especially if you choose someone nutritious-looking to stand next to.",
-    "name": "Safety in Numbers",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

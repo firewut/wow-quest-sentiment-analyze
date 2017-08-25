@@ -1,7 +1,0 @@
-{
-    "_id": "9928",
-    "description": "You will need to steal Kil'sorrow armaments from Kil'sorrow Fortress if my plan is to work.Search the fortress for crates of Kil'sorrow armaments. Bring whatever you can find to me.Kil'sorrow Fortress is located directly south and a little to the west of the Burning Blade Ruins.",
-    "name": "Armaments for Deception",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

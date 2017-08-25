@@ -1,8 +1,0 @@
-{
-    "_id": "30357",
-    "added_in_patch": 5,
-    "description": "Help me, $p. These poor pandaren are in need of healing, and my powers are weakened.I did find an old tome in my collection that allowed me to convert the herbs you collected earlier into a healing poultice.Use this on the injured pandaren and it should get them back on their feet.",
-    "name": "The Stoneplow Convoy",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

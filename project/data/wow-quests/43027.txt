@@ -1,8 +1,0 @@
-{
-    "_id": "43027",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Mortiferous",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

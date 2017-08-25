@@ -1,8 +1,0 @@
-{
-    "_id": "848",
-    "description": "The oases of the Barrens hide a mystery. Life energy flows from their waters, invigorating the plants and beasts that drink it.Invigorating, and altering.There is a mushroom that grows near the Forgotten Pools to the northwest. Its spores hold properties that we, the apothecaries of Lordaeron, find useful.Bring me these spores and you will earn our gratitude.",
-    "name": "Fungal Spores",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

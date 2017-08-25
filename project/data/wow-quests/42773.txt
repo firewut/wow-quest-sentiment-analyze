@@ -1,8 +1,0 @@
-{
-    "_id": "42773",
-    "added_in_patch": 7,
-    "description": "We seek aid not from a living friend, but one who passed long ago.Uther the Lightbringer was more attuned to the subtleties of the Light than any paladin I've ever known. If we reach out to him, he may be able to help us find the Ashbringer.The ceremony has been prepared. Approach the tomb when you are ready.",
-    "name": "The Light Reveals",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

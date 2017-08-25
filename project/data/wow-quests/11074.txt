@@ -1,7 +1,0 @@
-{
-    "_id": "11074",
-    "description": "The descendants held prisoner by the Skettis talonpriests are listed in this book.  Gezzarak the Huntress, Garokk the Crystal Giant, the heretic known as Darkscreecher Akkarai and Vekkaz the Windrager.  They will all need to be slain before Terokk returns to this world.You will need the scrolls carried by the time-lost arakkoa and burn them at the summoning circles all over Skettis.  Bring me a token from each one.  These are powerful beings you will be facing; you would do well to bring friends.",
-    "name": "Tokens of the Descendants",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

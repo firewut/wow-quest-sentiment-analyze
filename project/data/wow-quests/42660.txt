@@ -1,8 +1,0 @@
-{
-    "_id": "42660",
-    "added_in_patch": 7,
-    "description": "I have made considerable progress with the Bloodstone, thanks in part to your extensive testing.\r\n\r\nThe stone feeds on blood to grow in power, but its ability to control a demon comes from consuming a corrupted heart; the more powerful, the better.\r\n\r\nWithin the Vault of the Wardens you'll find someone with such a heart.",
-    "name": "Matters of the Heart",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

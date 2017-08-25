@@ -1,8 +1,0 @@
-{
-    "_id": "24868",
-    "description": "<name>, you and Ace need to march those naga hatchlings down there and use them as leverage to convince the leader of the naga to surrender to us.Ace knows where to go on the south side of the ruins... just follow him.",
-    "name": "Surrender or Else!",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36564",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Tangleheart",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

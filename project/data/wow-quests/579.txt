@@ -1,7 +1,0 @@
-{
-    "_id": "579",
-    "description": "",
-    "name": "Stormwind Library",
-    "requires_level": 1,
-    "zone": "Stormwind City"
-}

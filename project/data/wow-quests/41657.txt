@@ -1,8 +1,0 @@
-{
-    "_id": "41657",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Draughts of Raw Magic",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

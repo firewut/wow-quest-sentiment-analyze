@@ -1,7 +1,0 @@
-{
-    "_id": "13082",
-    "description": "I am pleased that you have come to me, <name>. I know of Crusader Bridenbrad, and of your travels in hope of saving him. Bridenbrad's valor has sparked remarkable selflessness in you, and this is a miracle unto itself.The Light will take care of its own. I will extend my blessing to Bridenbrad and he shall not endure the corruption of undeath. I shall return you to Dalaran, and you shall return to him. Know that I remain with you.",
-    "name": "The Boon of A'dal",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

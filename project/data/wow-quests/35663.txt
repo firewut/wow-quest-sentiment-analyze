@@ -1,8 +1,0 @@
-{
-    "_id": "35663",
-    "added_in_patch": 6,
-    "description": "One of the most important skills an archaeology team needs is good teamwork. The key to teamwork is knowing when to give and when to take.The Highmaul ogres have been excavating mysterious artifacts from the gorge. I want you to team up with the Highmaul ogres in the name of good archaeology!Remember what I said about giving and taking? The ogres have given us their hard work to excavate the artifacts. Now I want you to take those artifacts from them and bring them here!It's teamwork!",
-    "name": "A Lesson in Teamwork",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

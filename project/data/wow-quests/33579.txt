@@ -1,8 +1,0 @@
-{
-    "_id": "33579",
-    "added_in_patch": 6,
-    "description": "They came here for an artifact? The miners must have found something in our crystal mine to the north.By the Light, can you imagine how powerful that thing must be, to attract them all the way here from their spires?I suppose it is in their hands now... You'd have to be crazy to go looking for it...",
-    "name": "What the Draenei Found",
-    "requires_level": 94,
-    "zone": "Talador"
-}

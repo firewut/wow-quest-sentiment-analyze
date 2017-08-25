@@ -1,7 +1,0 @@
-{
-    "_id": "10191",
-    "description": "Greetings, <race>.  I am charged up and fully functional.There are fragile draenei machines in these ruins, which I must retrieve.  I am equipped with delicate servos in my wrist actuators, and the latest in combustion-pneumatic bump soakers.  Handling them with care will not be an issue.However, the ghosts that haunt these ruins will likely attack, so I will need you and your friends along for protection.",
-    "name": "Mark V is Alive!",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

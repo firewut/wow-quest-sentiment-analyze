@@ -1,9 +1,0 @@
-{
-    "_id": "36442",
-    "added_in_patch": 6,
-    "description": "Your work has born fruit. Inside the nearby cave a powerful saberon shaman is learning to channel the genesaur magic using the Death Bloom we seek. The solution is before us: kill the shaman, take the Death Bloom, return it to Birchus. That should improve the safety of our outpost.",
-    "name": "Taking the Death Bloom",
-    "requires_level": 93,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10318",
-    "description": "I used to be the foreman here.  But now that I've been demoted, I've come to realize our pilgrimage from Quel'Thalas to Outland was all a lie.A lie perpetrated by Kael'thas to strengthen his forces here in the Netherstorm.I've tried to convince my brethren that we should leave, especially with the Burning Legion here, but they are all too stubborn.Do me a favor?  Kill Overmaster Grindgarr.  Then return to your ethereal and tell him that I am no longer his enemy.",
-    "name": "Dealing with the Overmaster",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

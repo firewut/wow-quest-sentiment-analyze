@@ -1,8 +1,0 @@
-{
-    "_id": "30240",
-    "added_in_patch": 5,
-    "description": "This is one of the challenges I put upon my warriors to keep them strong and fast. Let's see how you fare.Survive the ring for 60 seconds without getting pushed out or killed. Stay on your toes.",
-    "name": "Survival Ring: Flame",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

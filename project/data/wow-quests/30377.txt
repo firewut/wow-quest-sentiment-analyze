@@ -1,8 +1,0 @@
-{
-    "_id": "30377",
-    "added_in_patch": 5,
-    "description": "As soon as you and your companions are clear, we're delivering our payload and reducing Theramore Isle to rubble.Return to the Sea Wolf and Captain Drok as soon as possible.",
-    "name": "Minimum Safe Distance",
-    "requires_level": 85,
-    "zone": "Quests"
-}

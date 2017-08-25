@@ -1,7 +1,0 @@
-{
-    "_id": "27633",
-    "description": "Hakkar... The mere mention of The Soulflayer's name will send many running. In the Sanctum of the Fallen God the Atal'ai have recovered a significant portion of his skeleton and seek to restore him to life. Already his children have begun to show up in the area.Place this egg in that sanctum, and it will force his summoning prematurely. <name>, do not hesitate. Strike once his avatar appears!",
-    "name": "The Blood God Hakkar",
-    "requires_level": 50,
-    "zone": "Sunken Temple"
-}

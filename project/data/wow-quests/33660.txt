@@ -1,9 +1,0 @@
-{
-    "_id": "33660",
-    "added_in_patch": 6,
-    "description": "The stash mostly contains bits of old animal parts and other junk. Upon closer inspection there are remains of a bundle of herbs and plants.Rakthoth might be more willing to help if some of these herb bundles were found and gathered for her...",
-    "name": "The Sacking of the Saberon",
-    "requires_level": 93,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

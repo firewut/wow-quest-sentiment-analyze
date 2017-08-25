@@ -1,8 +1,0 @@
-{
-    "_id": "35139",
-    "added_in_patch": 6,
-    "description": "The notes you recovered tell of a device capable of subjugating even a magnaron.Ancient legends speak of such artifacts, crafted by the worldbuilders to keep these creatures in check. I had discounted them as silly stories, but if they are true...<name>, Draenor is doomed.No army will be able to stop them if they harness this power. We must stop them or die trying.Here, I shall bind our sight to Nisha and hope she can locate this artifact.",
-    "name": "Eye in the Sky",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

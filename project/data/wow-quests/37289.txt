@@ -1,9 +1,0 @@
-{
-    "_id": "37289",
-    "added_in_patch": 6,
-    "description": "Your arrival couldn't be more timely, commander.Shadowmoon raiders have been spotted closing in on the garrison.You repelled their advances at Teluuna Observatory, and created chaos at Shaz'gul.Now, they surely seek retribution. They will throw everything they have at us.I have the entire garrison on high alert. Are you ready to face them?",
-    "name": "Shadowmoon Invasion!",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

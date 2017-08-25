@@ -1,8 +1,0 @@
-{
-    "_id": "33332",
-    "added_in_patch": 5.4,
-    "description": "There is much to learn of this place, yet it does not yield its secrets willingly.Something you mentioned the last time that we spoke intrigues me. This Mistweaver Ai, she carries a time-worn journal, if I recall? This may be the answer to many of our questions, or it may simply raise more. I suppose that it all depends on the diligence of the explorer that put pen to paper in this preposterous place.Obtain a time-worn journal and return to me with it. We shall delve into its mysteries together.",
-    "name": "Hints From The Past",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

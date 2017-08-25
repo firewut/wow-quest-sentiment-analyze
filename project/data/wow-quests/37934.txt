@@ -1,9 +1,0 @@
-{
-    "_id": "37934",
-    "added_in_patch": 6.2,
-    "description": "A few of us snuck through before we was spotted, den de cannons started up. De small ones are no trouble, but de big one... we gonna need to take it out if we wanna get anyting through.",
-    "name": "In, Through, and Beyond!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

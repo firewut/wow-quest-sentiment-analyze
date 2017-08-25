@@ -1,7 +1,0 @@
-{
-    "_id": "13338",
-    "description": "Corp'rethar, called the Horror Gate. It is the last barrier between us and the Icecrown Citadel. It waits to the south of the Ironwall Rampart, beyond the glacier and the Conflagration. By the time our troops reach it, they will be exhausted and worse.We must weaken its defenses, or our army's strength will break upon its walls.Its battlements are manned by some of the Lich King's fiercest and most zealous servants. Do all you can to destroy these guardians and hope it is enough.",
-    "name": "The Guardians of Corp'rethar",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

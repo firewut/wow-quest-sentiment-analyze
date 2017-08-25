@@ -1,8 +1,0 @@
-{
-    "_id": "13971",
-    "description": "The great beast rises slowly to its feet, the loose Barrens soil spilling from its revitalized limbs. Instinctively it trudges back toward its home at Grol'dom Farm.You'll want to check in with Kranal Fiss to make sure the kodo made it. ",
-    "name": "The Kodo's Return",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

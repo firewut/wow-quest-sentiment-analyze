@@ -1,7 +1,0 @@
-{
-    "_id": "10440",
-    "description": "The test was a resounding success! We can certainly use this device to start repairing the domes.Carry word of the test results to the Stormspire and let Ghabar know that I've also found a pattern in the damage to the shield generators. Key pieces of generator units have gone missing from a number of sites. This is no accident, <name>, no technological failure. We're being stolen from. ",
-    "name": "Success!",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

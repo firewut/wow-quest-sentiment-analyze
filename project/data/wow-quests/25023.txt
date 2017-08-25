@@ -1,8 +1,0 @@
-{
-    "_id": "25023",
-    "description": "Alright then, grab onto the ladder. We gotta get outa here!We'll make a flyby of the town, and then I'm gonna get you to some old friends!",
-    "name": "Old Friends",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

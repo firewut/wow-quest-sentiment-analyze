@@ -1,8 +1,0 @@
-{
-    "_id": "27159",
-    "description": "Darkmaster Gandling of the Cult of the Damned leads the Scourge offensive here in Andorhal.  My old counterpart, Koltira, leads the Forsaken forces.  If we're to win Andorhal, we'll have to defeat both, but we will certainly fail if we take on both at once.I know Koltira well enough to know that he will focus on the Scourge first.  We will do the same.Take out the weaker, desiccated Scourge to reduce their numbers.  The Forsaken will have to wait to taste our wrath.",
-    "name": "Scourge First... Horde Later",
-    "requires_level": 34,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

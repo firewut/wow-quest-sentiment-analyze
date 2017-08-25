@@ -1,8 +1,0 @@
-{
-    "_id": "41647",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Silkweave Robe",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

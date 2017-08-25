@@ -1,8 +1,0 @@
-{
-    "_id": "14221",
-    "description": "We had enough ammunition to carry on the civil war for another month.  Yet the worgen's numbers are such that we're nearly spent.We don't want to be caught out here in the open when that happens.  Fall back inside the cathedral and report to the boss.  I'm sure old Crowley will know what to do next.",
-    "name": "Never Surrender, Sometimes Retreat",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas City"
-}

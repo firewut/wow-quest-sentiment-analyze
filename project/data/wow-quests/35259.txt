@@ -1,8 +1,0 @@
-{
-    "_id": "35259",
-    "added_in_patch": 6,
-    "description": "When I was still a guard in Skyreach, I was tasked with protecting the sisters Veoryx and Krashyx.They were prodigies. At an age when most sun acolytes could barely read, the sisters conjured familiars of pure sunlight to illuminate their textbooks in the small hours.Now they unravel the secrets of Apexis technology, and their excavation has just breached two ancient chambers.Enter those chambers and cut down the sisters before they reap the terrible rewards of their discovery.",
-    "name": "Sol Sisters",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

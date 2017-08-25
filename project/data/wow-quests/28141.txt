@@ -1,7 +1,0 @@
-{
-    "_id": "28141",
-    "description": "The Seal of the Sun King serves as a defense mechanism for Ramkahen.When the barrier around Uldum fell, we began to see Wastewander outriders from Tanaris filter into our borders.They attacked this holy site on their way west and robbed it of the relics which once provided its power.Recover the relics for us.  Without them we are powerless to defend against attacks from the desert.",
-    "name": "Relics of the Sun King",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

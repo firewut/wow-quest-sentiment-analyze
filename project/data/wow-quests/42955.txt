@@ -1,8 +1,0 @@
-{
-    "_id": "42955",
-    "added_in_patch": 7,
-    "description": "Archmage Khadgar is my friend. That he trusts you means much. \r\n\r\nI know of the book in which you seek, but it does not want to be found. It is old and angry and thirsts for power. We will have to convince it to emerge from hiding in the proper way. Perhaps if you bring it a gift of nightwell energy from the nightborne elves in Suramar City it will be mollified.",
-    "name": "The Proper Way of Things",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

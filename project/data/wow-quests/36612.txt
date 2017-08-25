@@ -1,9 +1,0 @@
-{
-    "_id": "36612",
-    "added_in_patch": 6,
-    "description": "Now that you are experienced enough with Draenor fishing, we might have a shot at convincing Nat Pagle to join us out here.\r\n\r\nIf we want Nat to actually come all the way out here, we are going to have to show him real proof of the incredible catches on Draenor.  Head out to the lava lakes here in Frostfire and see what you can do.  All that time you spend honing your skill here in Draenor should pay off now.",
-    "name": "Luring Nat",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Fishing"
-}

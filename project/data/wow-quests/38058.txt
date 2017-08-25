@@ -1,9 +1,0 @@
-{
-    "_id": "38058",
-    "added_in_patch": 7,
-    "description": "<Overspark's tiny hands move like lightning, affixing coils and tubes to the device before cramming it into a parachute pack.>Put this on.Just up the hill you'll find the front half of the Skyfire - and the big nest of storm drakes it crashed into! We can use the energy from those drakes to charge the transponder.You'll have to incite them, of course, but the device should draw most of the power.The probability of you being electrocuted is well within acceptable parameters!",
-    "name": "Lightning Rod",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

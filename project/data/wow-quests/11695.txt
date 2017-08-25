@@ -1,8 +1,0 @@
-{
-    "_id": "11695",
-    "description": "I can fashion the likeness of an elemental from these pieces of inanimate stone, but breathing life into it is different. For that, we'll need help and a bit of luck.Legend tells of an ancient artifact called the Horn of Elemental Fury, sought after by a great hero. I'll lend you a scroll with a copy of the tale. I don't know if the legend is true, but it's our best bet. If the legend is right, the parts of the horn may be in the Flood Plains surrounding the village to the north and southwest.",
-    "name": "The Horn of Elemental Fury",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

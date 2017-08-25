@@ -1,8 +1,0 @@
-{
-    "_id": "31487",
-    "added_in_patch": 5,
-    "description": "Relying on sonic whispers to manipulate the kunchong was only the most primitive stage of my research, and yet the Empire seems to have adopted the practice wholly. The manipulators of the Shek'zeer are too impatient to form a proper bond with their kunchong.Their laziness will cost them dearly.Strike this tuning fork near the dread kunchong in the clutches - watch as they reel in confusion and lash out at their masters. Use this to your advantage and put them down.",
-    "name": "Sonic Disruption",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

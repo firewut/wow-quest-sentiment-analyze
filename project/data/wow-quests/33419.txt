@@ -1,9 +1,0 @@
-{
-    "_id": "33419",
-    "added_in_patch": 6,
-    "description": "Stranger, please help me!My companions and I ventured here to seek the bounty on a monstrous wasp queen.After we set up camp down the hill, we fell asleep. We were attacked in the middle of the night by these horrid, pale... things!I don't know where my friends have gone, but I heard screams from further down the cavern.Please, find my companions. I can't leave here without them!",
-    "name": "A Matter of Life and Death",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

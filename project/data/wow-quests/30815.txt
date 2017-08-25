@@ -1,8 +1,0 @@
-{
-    "_id": "30815",
-    "added_in_patch": 5,
-    "description": "I have resolved to remove this spear from my side.For this, I require your assistance. Your grasping hands are stronger than mine.",
-    "name": "The Death of Me",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

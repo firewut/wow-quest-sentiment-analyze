@@ -1,8 +1,0 @@
-{
-    "_id": "42851",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Vindicator Boros",
-    "requires_level": 103,
-    "zone": "Paladin Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31493",
-    "added_in_patch": 5,
-    "description": "There is a book of great value to me here in the halls.Unfortunately, it's in the possession of Flameweaver Koegler. I've tried to get close to him before, but it's never quite worked out.You might have better luck. Just watch out -- I hear that he's gone well and truly insane. The Flameweaver plans to burn every tome they have in the library.He'll probably burn the Scarlet Halls down in the process.",
-    "name": "Just for Safekeeping, Of Course",
-    "requires_level": 26,
-    "zone": "Scarlet Halls"
-}

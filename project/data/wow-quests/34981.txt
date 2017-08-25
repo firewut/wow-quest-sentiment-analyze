@@ -1,9 +1,0 @@
-{
-    "_id": "34981",
-    "added_in_patch": 6,
-    "description": "Call me cautious but I kept a few flares just in case we needed to quickly escape.I'm glad that wasn't needed but we could still use the ride back to the artillery tower.Are you ready  siram;?",
-    "name": "The Only Way to Travel",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39333",
-    "added_in_patch": 7,
-    "description": "Here are your burettes. Should you ever be in the need of anything else, don't hesitate to ask.<Ms. Xiulan holds up the hair and continues to chuckle to herself.>",
-    "name": "An Imprecise Burette",
-    "requires_level": 104,
-    "zone": "Alchemy"
-}

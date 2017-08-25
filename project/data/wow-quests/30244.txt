@@ -1,8 +1,0 @@
-{
-    "_id": "30244",
-    "added_in_patch": 5,
-    "description": "There are mantid on top of the wall. The defenders on the ramparts are calling for help!",
-    "name": "Along the Serpent's Spine",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

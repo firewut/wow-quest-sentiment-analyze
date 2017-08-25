@@ -1,8 +1,0 @@
-{
-    "_id": "25586",
-    "description": "Now it's time to do something about those darn cannons up on the bluffs to the east!If you'd be so kind, hop into your boat and cruise on over to the Southsea Holdfast. Up top you'll see a bunch of cannons firing down on us.Those pirates don't know squat about engineering. It shouldn't be too difficult for you to clog 'em up and make them explode.",
-    "name": "Quiet the Cannons",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

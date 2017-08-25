@@ -1,9 +1,0 @@
-{
-    "_id": "34890",
-    "added_in_patch": 6,
-    "description": "It's time to fight fire with fire.We have Morkurk cornered. His protections gone. Use the scroll once you engage Morkurk......and enjoy the fireworks.",
-    "name": "The Final Step",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

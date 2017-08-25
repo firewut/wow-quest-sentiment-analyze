@@ -1,9 +1,0 @@
-{
-    "_id": "36911",
-    "added_in_patch": 6,
-    "description": "If we're going to start sending out patrols in this wilderness, we'll need swift mounts for our troops. We can capture young beasts and bring them back here for training, eventually turning them into formidable beasts of war.The talbuk is one of Draenor's fastest creatures, and that makes them just that much more difficult to capture. Take this talbuk lasso and head out to Shadowmoon Valley. Mount up and rope one of the young talbuk, and follow it until it's tamed. Don't let it get too far from you!",
-    "name": "Taming a Talbuk",
-    "requires_level": 91,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

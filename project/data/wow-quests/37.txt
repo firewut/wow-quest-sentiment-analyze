@@ -1,8 +1,0 @@
-{
-    "_id": "37",
-    "description": "A few days ago we sent two Guards, Rolf and Malakai, to investigate along the river, and they have not yet returned.  To complete my report, I must know what happened to those men.Travel north along the river and find the guards... or their remains.",
-    "name": "Find the Lost Guards",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

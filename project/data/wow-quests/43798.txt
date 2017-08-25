@@ -1,8 +1,0 @@
-{
-    "_id": "43798",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Kosumoth the Hungering",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

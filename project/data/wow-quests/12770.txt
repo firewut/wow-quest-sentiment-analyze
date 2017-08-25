@@ -1,7 +1,0 @@
-{
-    "_id": "12770",
-    "description": "Listen up, <class>!Your days here are numbered. As much as we need capable <class>s in our ranks, there's trouble up north that makes our problems look like a mid-summer Stormwind parade.Turns out the Scourge are concentrating their efforts - making a big push to take over Zul'Drak. If that happens, we may as well pack it in.You're free to finish any business here, but then it's off to Light's Breach with you. Speak to Samuel if you need transportation.Dismissed.",
-    "name": "Reallocating Resources",
-    "requires_level": 74,
-    "zone": "Grizzly Hills"
-}

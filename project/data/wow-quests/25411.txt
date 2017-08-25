@@ -1,7 +1,0 @@
-{
-    "_id": "25411",
-    "description": "The potion you created is vile enough to wake the dead. Which is its intended purpose.Slay a Twilight Inferno Lord and force the brew down his throat. He will revive, if only briefly, and be completely under your dominance.Speak with him and learn the true name of the fire elemental he is channeling into the world to burn down your precious forest.",
-    "name": "A New Master",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "28493",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Kadrak at the Mor'shan Rampart on the border between the Northern Barrens and Ashenvale. Aid in driving the night elves from the forest, so that we may claim its resources for our people!To reach the Mor'shan Rampart, you must take the Gold Road north from Crossroads in the Northern Barrens.Destiny calls!",
-    "name": "Warchief's Command: Ashenvale!",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

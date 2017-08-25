@@ -1,8 +1,0 @@
-{
-    "_id": "11889",
-    "description": "We're doing a good job of holding the front lines against these bugs.  Some of these cheeky fiends, however, can fly over the aforementioned front lines and are really beating down on our inner defenses.I've requisitioned reinforced fishing nets from our civilian ships.  If you've got a good enough throwing arm, they'll help you knock the enemy out of the sky.  Thin their numbers so that our defenses can hold the keep.",
-    "name": "Death From Above",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "37767",
-    "added_in_patch": 6.1,
-    "description": "Ye know the name \"Ko'ragh?\" One of them Highmaul ogres. They dug up a relic some time ago that killed everyone it touched but for Ko'ragh... givin' him a near-complete immunity to all magic.Ogres ain't meant to have that kind of power! Travel to Highmaul and defeat Ko'ragh, before they learn to use him against us.",
-    "name": "Arcane Sanctum: Ko'ragh",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Quests"
-}

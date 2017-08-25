@@ -1,8 +1,0 @@
-{
-    "_id": "39954",
-    "added_in_patch": 7,
-    "description": "A number of my previous students have been vocal in their displeasure regarding milling. They find the process \"repetitive\", \"mindless\", and even \"painful\". Have they no respect for the time-honored traditions of inscription?I suppose you count yourself among their number. Am I right? Very well. You've been a fine student so far, so I suppose there's no harm.I have a book about mass milling somewhere around the shop here. Find it, and it's yours.",
-    "name": "Mass Milling Techniques",
-    "requires_level": 108,
-    "zone": "Inscription"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "24429",
-    "description": "You have accomplished the truly impossible. The brood mother of the Black Dragonflight lies dead at your feet. Seize her head and deliver it to Arnak Fireblade.",
-    "name": "A Most Puzzling Circumstance",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

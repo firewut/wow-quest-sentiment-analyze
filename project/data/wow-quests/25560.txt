@@ -1,7 +1,0 @@
-{
-    "_id": "25560",
-    "description": "Without any defenders, the Firelands eggs are vulnerable.Take wing once more and smash those eggs! Simply rush over them to crush them. Search all the nooks, crannies, and side-caves. Hurry! ",
-    "name": "Egg Wave",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

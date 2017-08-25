@@ -1,7 +1,0 @@
-{
-    "_id": "29348",
-    "description": "Thunder Bluff's fishing pond is being overrun with voracious Azshara snakeheads; there are hardly any smallfish or mud snappers left.We already have fishers trying to kill as many snakeheads as they can, but can you assist us in our restocking efforts?If you could gather some fish from Stonebull Lake and bring them here to Thunder Bluff, I would be very grateful.",
-    "name": "The Race to Restock",
-    "requires_level": 10,
-    "zone": "Fishing"
-}

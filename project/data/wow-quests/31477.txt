@@ -1,8 +1,0 @@
-{
-    "_id": "31477",
-    "added_in_patch": 5,
-    "description": "They say that the crane appointed sentry by its flock stands guard with a stone in its beak, so that, should it fall asleep, the stone drops and it awakens. To be skilled with the oven, you need to have endurance and patience. Learn the recipe for wildfowl roast and show me that you understand.",
-    "name": "Endurance",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

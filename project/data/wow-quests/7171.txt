@@ -1,7 +1,0 @@
-{
-    "_id": "7171",
-    "description": "",
-    "name": "Legendary Heroes",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

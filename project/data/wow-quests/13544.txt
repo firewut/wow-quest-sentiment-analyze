@@ -1,7 +1,0 @@
-{
-    "_id": "13544",
-    "description": "Before the bear's paw can be used to cleanse the afflicted, it must be completed and blessed. To the north of the village roams a tallstrider named Fleetfoot. You'll need its tailfeathers to complete the herb bundle.Bring the tailfeathers and the bear's paw bundle to the ancient bear statue in the ruins around the Grove of the Ancient, further north of where you'll find Fleetfoot.While at the shrine, combine the tailfeathers with the bear's paw and receive the bear spirit's blessing.",
-    "name": "The Bear's Blessing",
-    "requires_level": 17,
-    "zone": "Darkshore"
-}

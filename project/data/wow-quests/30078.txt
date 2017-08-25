@@ -1,8 +1,0 @@
-{
-    "_id": "30078",
-    "added_in_patch": 5,
-    "description": "That's it, <name>. I've had enough of this.If somebody doesn't do SOMETHING to take care of this brewery, we'll lose it forever. And there's far too much family history - and beer - in there to risk wasting.So... we're going to break in through the back door. You, Li Li, Mudmug, and me.It's gonna be a brawl in there.Let me know when you're ready.",
-    "name": "Cleaning House",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

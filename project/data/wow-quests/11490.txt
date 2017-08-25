@@ -1,7 +1,0 @@
-{
-    "_id": "11490",
-    "description": "Go to the terrace... use the orb.<Tyrith gasps for breath.>Hurry... they must be stopped... before they can....<Tyrith dies.>",
-    "name": "The Scryer's Scryer",
-    "requires_level": 68,
-    "zone": "Quests"
-}

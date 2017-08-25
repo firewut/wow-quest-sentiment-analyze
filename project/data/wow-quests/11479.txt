@@ -1,7 +1,0 @@
-{
-    "_id": "11479",
-    "description": "Croaker's spoken, matey. \"Crowleg\" Dan's on da ship yonder.Best go trace that blaggard, mon.  Show'im dis set's not fe be crossed.  Gaan back fe Terry when ye keelhaul 'is behind.",
-    "name": "\"Crowleg\" Dan",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

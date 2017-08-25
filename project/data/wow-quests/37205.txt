@@ -1,8 +1,0 @@
-{
-    "_id": "37205",
-    "added_in_patch": 6,
-    "description": "Do you wish to offer challenge?  My wolves must train to become strong.",
-    "name": "Gargra",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

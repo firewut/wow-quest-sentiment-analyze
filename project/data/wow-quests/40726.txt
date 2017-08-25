@@ -1,8 +1,0 @@
-{
-    "_id": "40726",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Test Reward Quest",
-    "requires_level": 1,
-    "zone": "Quests"
-}

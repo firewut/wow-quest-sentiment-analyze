@@ -1,8 +1,0 @@
-{
-    "_id": "41803",
-    "added_in_patch": 7,
-    "description": "Caria Felsoul was a bright student... and a Legion traitor.In her treason she was bestowed the Aldrachi Warblades, the soul-rending blades of the Aldrachi's greatest champion - they say he only finally fell to Sargeras himself.We sent a small force to find Caria, but we have not heard word since. Jace has a Legion communicator he believes we can use to reach them- we just need a power source.Perhaps you could see if Khadgar has anything we could use? I'm afraid our allies are few.",
-    "name": "Asking a Favor",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

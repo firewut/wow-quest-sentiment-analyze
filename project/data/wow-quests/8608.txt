@@ -1,7 +1,0 @@
-{
-    "_id": "8608",
-    "description": "",
-    "name": "The Horde Needs More Mageweave Bandages!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

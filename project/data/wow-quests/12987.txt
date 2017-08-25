@@ -1,7 +1,0 @@
-{
-    "_id": "12987",
-    "description": "The helm is forged.Your efforts have not gone unnoticed, small one. Though there remains much to do, we sons of Hodir are grateful for your accomplishments.In return, I offer you the opportunity to present Hodir's helm to our king and our brethren.Fly to the sparkling tip of the small ice spike in front of me and read to our people from this tablet.Enjoy the privilege, <class>. Never before has an outsider been given such an honor!",
-    "name": "Mounting Hodir's Helm",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31927",
-    "added_in_patch": 5,
-    "description": "Outland's finest have fallen to your skill, but Northrend now awaits you!There are four tamers that you must now defeat: Beegle Blastfuse in Howling Fjord, Nearly Headless Jacob in Crystalsong Forest, Okrut Dragonwaste in Dragonblight, and Gutretch in Zul'drak.If you are able to best all of them, then Northrend's Grand Master will surely challenge you!",
-    "name": "Battle Pet Tamers: Northrend",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

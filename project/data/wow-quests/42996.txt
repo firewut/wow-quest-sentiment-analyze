@@ -1,8 +1,0 @@
-{
-    "_id": "42996",
-    "added_in_patch": 7,
-    "description": "Elementalist Janai was looking for you earlier, Farseer. It appears that her study of the Maelstrom Pillar has been most enlightening.If you have a moment, you should go and meet with her to discuss her progress.",
-    "name": "The Maelstrom Pillar: Air",
-    "requires_level": 103,
-    "zone": "Shaman Campaign"
-}

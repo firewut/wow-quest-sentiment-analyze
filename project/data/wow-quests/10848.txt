@@ -1,7 +1,0 @@
-{
-    "_id": "10848",
-    "description": "Veil Rhaze was a particularly wicked colony of Skettis.Despite the village's eradication by the Auchindoun disaster, Terokk's influence remained in the maligned spirits there. Travel west to Veil Rhaze and slay those murderous wretches. You'll find them to the west of the Shadow Tomb, on the border of Bone Wastes and Terokkar Forest.This will be our first blow against Terokk and the guardians of Skettis.",
-    "name": "Veil Rhaze: Unliving Evil",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39980",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Highlord Darion Mograine Slotted",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

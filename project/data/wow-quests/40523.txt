@@ -1,8 +1,0 @@
-{
-    "_id": "40523",
-    "added_in_patch": 7,
-    "description": "Excuse me, sir. Are you sure you're in the correct shop? We only deal in the finest of jewels here.Ahh, I see... you're a fellow lapidary. Then perhaps we can work together.Introduce yourself to my associates, so they're aware of who you are and what you may have to offer.",
-    "name": "Facet-nating Friends",
-    "requires_level": 98,
-    "zone": "Jewelcrafting"
-}

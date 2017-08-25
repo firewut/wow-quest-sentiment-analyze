@@ -1,8 +1,0 @@
-{
-    "_id": "41416",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Retake the Skyhorn",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

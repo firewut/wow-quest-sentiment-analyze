@@ -1,9 +1,0 @@
-{
-    "_id": "37563",
-    "added_in_patch": 6,
-    "description": "Though we have lost much this day, the Frostwolves stand ready to uphold our pact with your people.To honor this agreement, some of my clan have asked to join your ranks and fight alongside your forces.Our numbers are strained so I ask that you chose only one.Speak with me when you have made your decision.",
-    "name": "The Frostwolves Stand Ready",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

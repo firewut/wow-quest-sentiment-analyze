@@ -1,8 +1,0 @@
-{
-    "_id": "38787",
-    "added_in_patch": 7,
-    "description": "A long, long time ago, a tauren by the name of Rethu entered this land. His exploits paved the road that all miners walk.If you wish to learn more about mining, you must first learn about Rethu.",
-    "name": "The Legend of Rethu Ironhorn",
-    "requires_level": 98,
-    "zone": "Mining"
-}

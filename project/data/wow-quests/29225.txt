@@ -1,7 +1,0 @@
-{
-    "_id": "29225",
-    "description": "<Tarecgosa listens intently as you describe your vision.>Impossible!Not even Arygos would dare to go to such lengths.I do not question your integrity, <class>, but you must understand - your mortal mind can easily be deceived.Regardless, Kalecgos must be informed of these events. You must travel to Nordrassil at once to seek him out.I shall remain here to conceal the evidence of our activities. Speak of this to no one else!",
-    "name": "Actionable Intelligence",
-    "requires_level": 85,
-    "zone": "Quests"
-}

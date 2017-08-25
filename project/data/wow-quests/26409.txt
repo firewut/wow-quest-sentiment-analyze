@@ -1,7 +1,0 @@
-{
-    "_id": "26409",
-    "description": "My goblin initiate has been gone for quite some time. His name is Goldmine.I sent him out to observe the local rock flayers southwest at the Quartzite Basin. Perhaps you would be willing to find him? When you do, please ask him to come back to the temple.",
-    "name": "Where's Goldmine?",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

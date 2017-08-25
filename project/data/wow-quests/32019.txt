@@ -1,8 +1,0 @@
-{
-    "_id": "32019",
-    "added_in_patch": 5,
-    "description": "Things were not always like this, <race>. Oh no, they were much, much worse. Not three weeks ago, we were under siege by saurok bandits. They stole our jade, befouled our food stores, and terrorized our cubs.We needed a hero, and a hero arrived.He drove back their forces, defeated their leader, and returned our stolen jade. All he asked in return was a serpent ride for his niece.I was never able to thank him. If you are headed to the Valley of the Four Winds, would you relay our thanks?",
-    "name": "They Call Him... Stormstout",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

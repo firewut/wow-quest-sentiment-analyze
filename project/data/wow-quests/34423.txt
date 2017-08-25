@@ -1,8 +1,0 @@
-{
-    "_id": "34423",
-    "added_in_patch": 6,
-    "description": "You see that altar down there? There's a magical eye settled at its peak, and I fear our group will not survive if it sees us.Distract the eye, <name>. Cause a commotion, kill some ritualists, whatever you have to do - just occupy that thing long enough for me to guide the rest of our group past its gaze.<Khadgar looks over his shoulder.>Bring that strapping orc with you. The one that's not Thrall.",
-    "name": "Altar Altercation",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25926",
-    "description": "The mirebeasts to the west are not my brethren... they are symptoms of the earth's disturbance, a foulness of rot given form.You would not understand... they take the shape of my kind, infested within with decaying spores, forcing out flourished life in the swamp. They take all and leave only rot. Nothing left, nothing left!Soothe my mind, <race>. Slay the mirebeasts, cleanse the land, and perhaps my mind will settle.",
-    "name": "Mired in Hatred",
-    "requires_level": 23,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

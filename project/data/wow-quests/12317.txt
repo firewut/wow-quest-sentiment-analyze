@@ -1,7 +1,0 @@
-{
-    "_id": "12317",
-    "description": "This wretched Westfall Brigade is proving a tougher opponent than we'd thought. Though few in number, they fight well and bravely, but we cannot afford to wait them out.Conqueror Krenna's orders were to capture the port quickly. You must break the stalemate, <name>. Find the enemy's marines and slaughter them until the resistance ceases. Only then will we be able to claim ownership of the port.Go quickly. We don't want to keep Conqueror Krenna waiting.",
-    "name": "Keep Them at Bay",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

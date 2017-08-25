@@ -1,7 +1,0 @@
-{
-    "_id": "28746",
-    "description": "Here we go, <name>!Just beyond that door lies the control room.I'll just run in, disable the reorigination mechanism, and then we all go home. Nice an' easy.Ye see, lad, it's this level of preparation that separates yer true archaeologist from yer average treasure hunter.No sense in stirring up the beasties if ye don't have to. Just makes a mess a' things...",
-    "name": "Penetrating Their Defenses",
-    "requires_level": 83,
-    "zone": "Quests"
-}

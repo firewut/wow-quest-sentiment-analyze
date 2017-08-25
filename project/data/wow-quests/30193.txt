@@ -1,8 +1,0 @@
-{
-    "_id": "30193",
-    "added_in_patch": 5,
-    "description": "Hard workers deserve hearty meals, but I'm all out of good meat!Can you head out into the forest and get me some fresh gazelle meat?",
-    "name": "Meating Expectations",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

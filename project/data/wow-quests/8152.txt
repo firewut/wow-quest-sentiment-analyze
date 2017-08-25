@@ -1,7 +1,0 @@
-{
-    "_id": "8152",
-    "description": "<name>, when you feel you are ready, there is a wisened furbolg hunter by the name of Ogtinc who resides in Azshara.  He may be able to enhance your teaching, and provide you with guidance.Ogtinc is atop the cliffs northeast the Ruins of Eldarath in Azshara.",
-    "name": "REUSE",
-    "requires_level": 50,
-    "zone": "Quests"
-}

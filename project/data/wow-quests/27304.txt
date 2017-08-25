@@ -1,7 +1,0 @@
-{
-    "_id": "27304",
-    "description": "Sunwalker Atohmo sends word from Orgrimmar -- he wishes to speak with you when you're in the city. I needn't remind you that Atohmo is an honored member of our order and his requests should not be ignored.Next time you are in Orgrimmar, travel to the Valley of Wisdom and speak with him.",
-    "name": "Follow the Sun",
-    "requires_level": 20,
-    "zone": "Paladin"
-}

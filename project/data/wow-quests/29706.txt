@@ -1,8 +1,0 @@
-{
-    "_id": "29706",
-    "added_in_patch": 5,
-    "description": "Oh no <class>!  In what can only be described as a contrived act of contention, the nearby spirit walkers have become enraged.Please do something about them before they eat our faces!",
-    "name": "Kegplosion",
-    "requires_level": 4,
-    "zone": "The Wandering Isle"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43829",
-    "added_in_patch": 7,
-    "description": "SI:7 is the espionage and intel branch of the Alliance. They are based out of Stormwind City and headed up by Master Mathias Shaw. As of late, they have been acting, shall we say, peculiar.\r\n\r\nI would like for you to send some of our people out to assess the situation. It might be nothing, but I am not fond of situations that I do not fully understand.\r\n\r\nIf we are going to win this war against the Burning Legion, the last thing we need is for something wholly unexpected to occur.",
-    "name": "Spy vs. Spy",
-    "requires_level": 101,
-    "zone": "Rogue Campaign"
-}

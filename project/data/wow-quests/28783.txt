@@ -1,7 +1,0 @@
-{
-    "_id": "28783",
-    "description": "We managed to do extensive scouting before our crew was ambushed.We discovered that Deathwing's envoy, Siamat, is giving the Neferset their newfound power.They claim it has restored them to the greatness of old, but something else has happened.  Their very souls have been corrupted.As one of the four winds, Siamat is incredibly powerful.  But that power has been drained considerably by this process.Strike now, while it is possible for you to slay him and bring an end to this madness.",
-    "name": "The Source of Their Power",
-    "requires_level": 83,
-    "zone": "Quests"
-}

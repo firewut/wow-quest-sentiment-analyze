@@ -1,8 +1,0 @@
-{
-    "_id": "27161",
-    "description": "Araj the Summoner is bolstering the Scourge defenses with simple skeletons... an army of weaklings that will overwhelm you before it overpowers you.  He has assembled animi within Andorhal's northern towers that spew these skeletons out at an alarming rate.  But I've got the solution!<Lang passes you a handful of grenades.>Their function is simple.  Throwing these grenades at a bone animus... or, for that matter, a mob of skeletons... will reduce them to splinters.",
-    "name": "The Endless Flow",
-    "requires_level": 34,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

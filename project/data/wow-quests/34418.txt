@@ -1,9 +1,0 @@
-{
-    "_id": "34418",
-    "added_in_patch": 6,
-    "description": "Auchindoun is under attack!The Auchenai are valiant warriors in their own right, but they cannot hold against these endless demon hordes alone. We came here to stop the Legion from engulfing Draenor... working together is our best shot.I need you to thin out the demons' numbers so we can regroup our forces safely and push forward into the Burning Front.We will stop their march here and now!",
-    "name": "Holding the Line",
-    "requires_level": 95,
-    "side": "horde",
-    "zone": "Talador"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31032",
-    "added_in_patch": 5,
-    "description": "Nurong wants me to pass out torches for burning the bodies.The flying mantid are fragile, and won't last long in the hot smoke.",
-    "name": "Choking the Skies",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

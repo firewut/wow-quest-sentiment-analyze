@@ -1,8 +1,0 @@
-{
-    "_id": "30237",
-    "added_in_patch": 5,
-    "description": "In the Tu Shen Burial Ground to the east, the spirits of ancient mogu are locked in battle with the spirits of our pandaren ancestors that rose up against them. The spirits have seen no rest since the return of the mogu to the valley.If you would be willing to go to the graveyard and force the mogu to relive their defeat again, we might offer some lasting peace to the spirits of our ancestors.",
-    "name": "The Pandaren Uprising Relived",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

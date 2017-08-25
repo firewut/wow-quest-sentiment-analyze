@@ -1,7 +1,0 @@
-{
-    "_id": "10556",
-    "description": "The pictograms indicate using feathers to cast the spell at one of the circles of power in Veil Lashh.Confusing iconography seems to show an arakkoa being suffused with the spirit of a kaliri.",
-    "name": "Scratches",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

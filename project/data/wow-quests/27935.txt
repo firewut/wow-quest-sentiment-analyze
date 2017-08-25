@@ -1,7 +1,0 @@
-{
-    "_id": "27935",
-    "description": "Avalanchion stands before you. Slay him to keep Therazane's forces from attacking Stonehearth.",
-    "name": "Bring Down the Avalanche",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

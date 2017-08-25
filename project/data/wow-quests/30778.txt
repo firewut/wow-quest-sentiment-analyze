@@ -1,8 +1,0 @@
-{
-    "_id": "30778",
-    "added_in_patch": 5,
-    "description": "If we are to make camp here, we cannot leave all of these yaungol bodies lying to rot.Take this torch and set fire to the villagers' corpses.The incense from the torch should purify the earth and air around them as well.Even our enemies deserve to be laid to rest.",
-    "name": "Dust to Dust",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

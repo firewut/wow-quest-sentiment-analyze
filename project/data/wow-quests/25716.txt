@@ -1,8 +1,0 @@
-{
-    "_id": "25716",
-    "description": "You may have already run into some of the Shadowsworn cultists that dwell in the caves just to the southwest of Nethergarde.  They do not impress an immediate danger upon our fortress, but I fear that they are planning something more dreadful than you can imagine.The low-ranking members carry spell foci that might hold an answer.  Bring some back to me intact, if you can wrench them from the cultists' hands.",
-    "name": "Cultists at our Doorstep",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

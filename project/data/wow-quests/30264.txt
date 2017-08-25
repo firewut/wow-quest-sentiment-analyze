@@ -1,8 +1,0 @@
-{
-    "_id": "30264",
-    "added_in_patch": 5,
-    "description": "The mantid forces are pouring against the wall. I've arranged for some flying serpents to cut away at their forces from the air.Would you be willing to take the reigns on one of them?",
-    "name": "Enemy at the Gates",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

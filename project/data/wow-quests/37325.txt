@@ -1,7 +1,0 @@
-{
-    "_id": "37325",
-    "description": "It seems our little boutique is gaining a reputation.  We use true iron in all our designs, and guess what: we're out!",
-    "name": "Out of Stock: True Iron Ore",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

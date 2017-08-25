@@ -1,8 +1,0 @@
-{
-    "_id": "36476",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: South Gronn Canyon",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

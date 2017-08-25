@@ -1,7 +1,0 @@
-{
-    "_id": "28520",
-    "description": "We are ready to strike now, <name>.If we take down Dark Pharaoh Tekahn, the immortal colossi will fall and our armies will be able to march into Neferset City.Seek him out and engage him without fear.  I will make sure you're not alone when it's time to bring him down.",
-    "name": "The Fall of Neferset City",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

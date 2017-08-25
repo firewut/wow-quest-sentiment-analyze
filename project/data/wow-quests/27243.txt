@@ -1,7 +1,0 @@
-{
-    "_id": "27243",
-    "description": "Now that we've got our raptors, our next move is to \"encourage\" them to attack the Grimtotems at Blackhoof Village to the northwest.I've got a leftover haunch of... well, it doesn't really matter what it is. It'll be your bait. Set it down on the ground in Blackhoof Village near the windmill in the center of the settlement. The raptors should take care of the rest, if their training took.",
-    "name": "Unleash the Raptors",
-    "requires_level": 35,
-    "zone": "Dustwallow Marsh"
-}

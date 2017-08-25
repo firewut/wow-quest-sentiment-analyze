@@ -1,8 +1,0 @@
-{
-    "_id": "11894",
-    "description": "Remember all that gnomish duct tape you brought me?Well, I've found a use for it. The body of this flying machine is so banged up in places, that I'm going to need to reinforce it if I ever hope to fly.Dorain over there has been telling me that the taunka use steam cured caribou leather for making watertight containers. Marsh caribou live all around the village and in the Flood Plains to the south. Get the best hides you can find and cure them over the steam vents in the Geyser Fields.",
-    "name": "Patching Up",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

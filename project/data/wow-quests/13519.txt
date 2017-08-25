@@ -1,7 +1,0 @@
-{
-    "_id": "13519",
-    "description": "A group of Twilight's Hammer cultists has set up camp southwest of here.  They're preparing an army of water elementals to use against Lor'danel.Their leader, High Cultist Azerynn, has pacts with the dark Old Gods that grant his sect power over the elements.  Go and deal with them before it's too late, <name>.The cataclysm has left the elemental spirits in disarray... it's only a matter of time until they have enough elementals to overcome our defenses.",
-    "name": "The Twilight's Hammer",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

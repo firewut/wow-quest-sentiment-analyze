@@ -1,8 +1,0 @@
-{
-    "_id": "13969",
-    "description": "Friend, if you are traveling south to Thorn Hill, I was wondering if you could locate one of our missing kodos? Not every caravan has made it up the pass from Far Watch Post. Those Razormane brutes hijacked a pack animal yesterday morning. It may not still be alive, but if it is, we cannot afford to lose more of our livestock.",
-    "name": "Grol'dom's Missing Kodo",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

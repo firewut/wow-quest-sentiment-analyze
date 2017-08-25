@@ -1,8 +1,0 @@
-{
-    "_id": "31689",
-    "added_in_patch": 5,
-    "description": "The Klaxxi see far and hear much. They have shared their insight with me.The Vor'thik embrace the sha, using its power to fuel their march in this false swarm. Their warriors consume tainted amber and call themselves dreadsworn.There is no future for them. They are waste which needs disposing.And YOU will begin that process for us when you reach Kypari Vor.",
-    "name": "The Dreadsworn",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

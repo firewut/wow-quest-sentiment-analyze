@@ -1,8 +1,0 @@
-{
-    "_id": "42730",
-    "added_in_patch": 7,
-    "description": "Oh, the gall of that little green-skinned twerp! Marin Noggenfogger is blackmailing us. He says that if we do not meet his \"very reasonable requisition request\", he is going to close off access to the crucible.\r\n\r\nMarin's asking for a hefty amount of Aethril. He said something about you recently holding a blade to his throat and that he's simply returning the favor.\r\n\r\nOf course, if you would rather, I can eliminate him.",
-    "name": "Noggenfogger's Reasonable Request",
-    "requires_level": 103,
-    "zone": "Rogue Campaign"
-}

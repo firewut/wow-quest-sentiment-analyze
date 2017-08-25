@@ -1,7 +1,0 @@
-{
-    "_id": "14306",
-    "description": "With such an abrupt change to the ecology, it is to be expected that some of the flora and fauna don't react as well as we'd hope.The uprooted lashers are a troublesome example of this. Roaming the fields to the east and south they are a detriment to the region and must be disposed of.While you're about, please deal with any of these pests that you find.",
-    "name": "Pulling Weeds",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

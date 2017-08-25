@@ -1,9 +1,0 @@
-{
-    "_id": "39067",
-    "added_in_patch": 6.2,
-    "description": "You have been doing a great job out there commander.  However, we are going to need more experience and resources to upgrade this shipyard.  Once we reach our goals, we can upgrade the capacity of the shipyard to hold more ships!",
-    "name": "Upgrading The Fleet",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

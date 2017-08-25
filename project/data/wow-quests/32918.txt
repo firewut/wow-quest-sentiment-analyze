@@ -1,8 +1,0 @@
-{
-    "_id": "32918",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Giant-Slayer Kul",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

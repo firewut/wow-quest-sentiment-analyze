@@ -1,9 +1,0 @@
-{
-    "_id": "41002",
-    "added_in_patch": 7,
-    "description": "It would seem I underestimated your initial value.We will have need of your kind in the coming war. I plan to hunt these demons to the ends of Azeroth, and your kind will be the arrow I shall loose upon them.Tell your Illidari within Orgrimmar to make ready to serve the Horde.But make no mistake, your kind once served the Betrayer. Betray me, and there is no world you can run to that will save you from my vengeance.",
-    "name": "A Weapon of the Horde",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

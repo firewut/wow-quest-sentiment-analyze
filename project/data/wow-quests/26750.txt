@@ -1,7 +1,0 @@
-{
-    "_id": "26750",
-    "description": "It is time. The Stonemother will speak with you. You can find her throne in northern Deepholm, above the Scoured Reach.",
-    "name": "At the Stonemother's Call",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

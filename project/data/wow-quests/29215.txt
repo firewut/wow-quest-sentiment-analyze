@@ -1,7 +1,0 @@
-{
-    "_id": "29215",
-    "description": "The Shadow Wardens have joined the fight at the Molten Front, on your request. You should find Captain Saynna Stormrunner and see to it that they've found a way to best apply their skills.",
-    "name": "The Hunt Begins",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "28909",
-    "description": "I see you haven't yet spoken to my advisor, Sauranok the Mystic. He has been at my side since our campaign together in Northrend.To assault the Twilight Highlands, we're going to need a map of the shoreline. I have tasked Sauranok with digging up this information. See if he can use your assistance! He is standing right next to me.",
-    "name": "Sauranok Will Point the Way",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

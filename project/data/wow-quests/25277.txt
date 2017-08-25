@@ -1,8 +1,0 @@
-{
-    "_id": "25277",
-    "description": "We are well on our way to returning the shrine to its former glory, <name>. But there is some housecleaning to take care of. On the other side of this meadow, some ogre squatters are setting up camp, led by a thick-headed chunk of ugly by the name of Gar'gol.Kill Gar'gol's minions and see if we can't send him packing.",
-    "name": "Cleaning House",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Mount Hyjal"
-}

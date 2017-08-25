@@ -1,9 +1,0 @@
-{
-    "_id": "29743",
-    "added_in_patch": 5,
-    "description": "It's plain to see that this statue and the surrounding ruins are of ancient origin. Clearly, this land has a deep history, which means it could not have been born of the cataclysm.And yet these waters have been explored for ages now, with no record of anything here but open sea.Perhaps if you were to sketch the pieces of this broken statue, you might shed light on the continent's origins.",
-    "name": "Monstrosity",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

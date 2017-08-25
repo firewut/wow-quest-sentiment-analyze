@@ -1,7 +1,0 @@
-{
-    "_id": "11713",
-    "description": "Fizzcrank sent out an aerial surveillance team to map the Nerubian sinkholes in the southern part of the Geyser Fields, but they haven't yet returned. I can't afford to wait any longer for their information, so I'm going to need someone to check out the sinkholes on foot.I understand the dangers involved, and I'll compensate you accordingly. Take this map with you and record the vital information about each of the sinkholes you encounter out there.",
-    "name": "Scouting the Sinkholes",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

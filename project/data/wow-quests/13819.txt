@@ -1,7 +1,0 @@
-{
-    "_id": "13819",
-    "description": "We'd best hurry now, <name>.  We're going to have to transmit the reply-code from Dalaran.Take it to Rhonin, I will meet you there.",
-    "name": "Heroic: All Is Well That Ends Well",
-    "requires_level": 80,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34657",
-    "added_in_patch": 6,
-    "description": "The arakkoa from Skyreach are all ruled by the Adherents of Rukhmar. They revile those of us who bear the Curse of Sethe, and decree that we must be purged in the name of their sun god.Soon their gaze will turn to lands beyond Arak.Challenge their warriors. Buy me time to prepare my escape, and help me set into motion their downfall.",
-    "name": "Adherents of the Sun God",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

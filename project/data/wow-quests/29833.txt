@@ -1,7 +1,0 @@
-{
-    "_id": "29833",
-    "description": "While it is true that the Prophet of Akali will trouble this world no more, there yet remains work to be done.The greater part of Akali's blood has empowered another, and it is in him that the true danger lies.Quickly, <name>, make your way to Gundrak and speak with Tol'mar. He will be able to direct you further in this cause.",
-    "name": "Unfinished Business",
-    "requires_level": 74,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9999",
-    "description": "As long as the transporters stand, nothing we do to the forge camps will have any permanence. We must find a way to destroy the Legion structures.I need time to devise a plan of attack. If you can keep their engineers and tinkerers busy, it would greatly slow down their progress, buying me the time I need.",
-    "name": "Buying Time",
-    "requires_level": 66,
-    "zone": "Nagrand (Outland)"
-}

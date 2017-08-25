@@ -1,8 +1,0 @@
-{
-    "_id": "880",
-    "description": "It will be important to study both plant and animal life impacted by the oases and the unusual energies you've discovered. The Stagnant Oasis below us is home to a species of snapjaw turtles. Recently their population has exploded. Moreover, the once peaceful animals are growing aggressive, as I learned the hard way before trekking up here.<Jerrik holds up a bandaged finger.>I suspect they've been altered by the oases. Collect their shells and take them to Tonga at Crossroads for further study. ",
-    "name": "Altered Beings",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

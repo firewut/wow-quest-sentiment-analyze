@@ -1,7 +1,0 @@
-{
-    "_id": "10051",
-    "description": "Thank goodness for you!<Class>, I need you to help me escape.  I have information vital to the security of the Allerian Stronghold and probably all of Outland!I came here from the Cenarion Expedition on a diplomatic mission, but as you can see, they weren't very friendly.  If you help me get to safety, I can assure you that you will be handsomely rewarded!",
-    "name": "Escape from Firewing Point!",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

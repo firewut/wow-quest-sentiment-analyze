@@ -1,8 +1,0 @@
-{
-    "_id": "42433",
-    "added_in_patch": 7,
-    "description": "Since the Broken Isles is the epicenter of ancient night elven learning, there must be countless magical artifacts secreted away in forgotten vaults and reliquaries. We must secure them so they do not fall into the wrong hands!\r\n\r\nPerhaps you should send a champion in search of them.",
-    "name": "Ancient Magic",
-    "requires_level": 101,
-    "zone": "Mage Campaign"
-}

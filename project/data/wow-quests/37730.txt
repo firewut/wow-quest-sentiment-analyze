@@ -1,8 +1,0 @@
-{
-    "_id": "37730",
-    "added_in_patch": 7,
-    "description": "I have a suspicion you are avoiding your studies - but I can see you're anxious to see the Headmistress.Very well! Headmistress Azuremoon can be found up ahead, though I doubt she will enjoy being interrupted.",
-    "name": "The Headmistress' Keys",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

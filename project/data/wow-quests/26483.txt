@@ -1,8 +1,0 @@
-{
-    "_id": "26483",
-    "description": "As fun as it is to butt heads with these trolls, we've got other things to do down here. It'd be nice to get this battle over with, aye?Their commander, Gan'dranda, sits in the ruined walls to the southeast of the battlefield. Our boys have most of their forces locked up, so I want you to slip in there and take out Gan'dranda. When they see a <race> standin' over the corpse of their biggest hero it should take some of the fight out of 'em!",
-    "name": "Gan'dranda",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

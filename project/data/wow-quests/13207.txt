@@ -1,7 +1,0 @@
-{
-    "_id": "13207",
-    "description": "Well now, I'm surprised to see other adventurers in a place such as this.If my research on these halls is accurate, there be monumental discoveries to be made here!Assumin' I can count on ya to watch my back, you're welcome to tag along.",
-    "name": "Halls of Stone",
-    "requires_level": 75,
-    "zone": "Quests"
-}

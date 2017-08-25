@@ -1,9 +1,0 @@
-{
-    "_id": "33269",
-    "added_in_patch": 6,
-    "description": "Khadgar wants you to concentrate on Gul'dan, but that doesn't mean we're not going to take down the Shadow Council in the process.Gul'var's filthy with Shadow Council villains. Let's do something about them.",
-    "name": "Cleaning Up Gul'var",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

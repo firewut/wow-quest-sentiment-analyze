@@ -1,8 +1,0 @@
-{
-    "_id": "36794",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Sylldross",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28399",
-    "description": "I have it on good authority that SI:7 is concerned about collaboration between Twilight's Hammer and the Dark Iron dwarves in Blackrock Depths. We can act on this information, prove our value to the Alliance, and gain something for ourselves at the same time.The report mentions that the Twilight's Hammer followers have placed a number of elemental binding stones throughout Shadowforge City, the Domicile, the Shrine of Thaurissan, the West Garrison and the East Garrison. Find and capture those stones!",
-    "name": "Stones of Binding",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

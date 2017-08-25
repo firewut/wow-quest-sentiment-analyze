@@ -1,8 +1,0 @@
-{
-    "_id": "12066",
-    "description": "The mage hunter forces are active on the Glittering Strand to the south of Moonrest Gardens. My guess is that you'll find a heavily guarded focus on the beach and a captain who is in charge of it.No doubt the captain of the force down there will have some sort of controlling device on their person. Get the controller and use it on the focus.With any skill on your part, we'll be able to get some more information about what they're really up to out there.",
-    "name": "The Focus on the Beach",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

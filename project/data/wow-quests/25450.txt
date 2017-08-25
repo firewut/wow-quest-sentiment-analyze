@@ -1,7 +1,0 @@
-{
-    "_id": "25450",
-    "description": "It's funny how things change. The northern yetis used to yield the best hides, but these...there's been a decline in quality, it seems. Maybe something nearby is making them sick.Luckily, the Feral Scar yetis to the southeast have flourished. I bet their hides are even better than they used to be!I would reward you handsomely for a stack of ten of their hides; bring them to me here, and we'll finish our business.",
-    "name": "Improved Quality",
-    "requires_level": 34,
-    "zone": "Feralas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11721",
-    "description": "Magnataur live in prides, much like lions: one or two dominant males and several females along with their offspring. In the case of Gammoth, the magnataur den west of here, Gammothra is the leader. It is Gammothra that controls this magnataur population and therefore it is Gammothra that must be slain to prevent any type of magnataur uprising.Take this pouch of crushed bloodspore flower to Gammoth. Use the powder from the pouch to weaken Gammothra and then slay him! Return his head to me as proof.",
-    "name": "Gammothra the Tormentor",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14246",
-    "description": "As the region becomes more lush, the creatures of the desert are being forced into increasingly confined spaces.A particularly distressing result is the impending extinction of the local swoops. Predators feast on the birds and their eggs when they take nest.I have acquired some swoop eggs from Tanaris and coated them with an irresistible pheromone. Place one in each nest you find, then protect it until a swoop comes to carry it off.You will be doing a service to the balance of this land.",
-    "name": "Early Adoption",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

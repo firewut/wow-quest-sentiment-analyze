@@ -1,7 +1,0 @@
-{
-    "_id": "7661",
-    "description": "",
-    "name": "Wolf Swapping - Red Wolf",
-    "requires_level": 60,
-    "zone": "Quests"
-}

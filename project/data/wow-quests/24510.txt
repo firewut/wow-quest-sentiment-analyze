@@ -1,8 +1,0 @@
-{
-    "_id": "24510",
-    "description": "<Class>! Come close quickly, I must have a word!My patron, the Lady Jaina Proudmoore, has uncovered a hole in the defenses of Icecrown Citadel into a place she referred to as \"The Forge of Souls.\" She sent word before she left for me to find any help that I could... and, well, I was hoping that might be you.Please, find her there as soon as you can.",
-    "name": "Inside the Frozen Citadel",
-    "requires_level": 78,
-    "side": "alliance",
-    "zone": "Quests"
-}

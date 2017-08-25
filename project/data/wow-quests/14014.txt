@@ -1,8 +1,0 @@
-{
-    "_id": "14014",
-    "description": "Our bombs and tools! Those sneaky monkeys to the east stole them all in the dead of night!Can you go out there and get them back for us, <name>? Without those tools, we have absolutely no way to get off of this island!",
-    "name": "Get Our Stuff Back!",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

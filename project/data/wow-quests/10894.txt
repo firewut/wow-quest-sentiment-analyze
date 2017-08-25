@@ -1,7 +1,0 @@
-{
-    "_id": "10894",
-    "description": "Hmm, I'm not certain what we should do.  I'm not much of a military planner.Watcher Moonshade will know what to do.  He's heading up our defensive efforts at the Wyrmskull Tunnel to the west at the end of Wyrmskull Bridge.  We have a force out there just in case the cultists try anything funny.Please, take the note to him with all due haste.",
-    "name": "Wyrmskull Watcher",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

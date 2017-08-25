@@ -1,7 +1,0 @@
-{
-    "_id": "28425",
-    "description": "Well I suppose I'm done with you here.  I'll go shoo those other warlocks out when I build up the courage.Here, don't forget those supplies.",
-    "name": "Return to Ariok",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

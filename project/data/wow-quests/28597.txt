@@ -1,8 +1,0 @@
-{
-    "_id": "28597",
-    "description": "Har! We get to jump right inta the action, <name>. Looks like Highbank has whatcha call a zeppelin problem: that airship is poundin' the crap outta the walls.Listen, I've got me an idear so stupid it's genius. I just need some cannon powder.Collect as much as you can find around Highbank an' meet me by the trade area!",
-    "name": "Burnin' at Both Ends",
-    "requires_level": 84,
-    "side": "alliance",
-    "zone": "Twilight Highlands"
-}

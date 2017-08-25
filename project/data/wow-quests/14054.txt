@@ -1,7 +1,0 @@
-{
-    "_id": "14054",
-    "description": "Isaac's been hard at work helping celebrants learn about the traditional Pilgrim's Bounty feast and how to make dishes out of all the ingredients we harvest at this time of year. I've been trying to keep the tables stocked with as many of the dishes as I can, but we're running out of one of Isaac's favorites, pumpkin pie.Would you be able to get some for us? If you want to make the pies yourself, you'll need to buy ripe Elwynn pumpkins from the Pilgrim's Bounty vendor outside Stormwind.",
-    "name": "Easy As Pie",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

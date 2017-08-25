@@ -1,8 +1,0 @@
-{
-    "_id": "32135",
-    "added_in_patch": 5.1,
-    "description": "There are some situations in which taking out one of their soldiers is more important than killing hundreds.\r\n\r\nThey've deployed some of their heroes to the battlefield to help rally their defenders. Not only will killing them soften their defense, it will also leave their morale crippled.\r\n\r\nSo go, take one down for me. You can handle it.",
-    "name": "Hero Killer",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

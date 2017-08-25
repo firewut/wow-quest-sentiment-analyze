@@ -1,8 +1,0 @@
-{
-    "_id": "32577",
-    "added_in_patch": 5.2,
-    "description": "One of Vereesa's scouts has returned with word of a mogu leader under the central tower. He needs to be removed.Would you be willing to handle this?",
-    "name": "Imposing Threat",
-    "requires_level": 90,
-    "zone": "Quests"
-}

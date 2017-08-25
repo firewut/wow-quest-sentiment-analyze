@@ -1,8 +1,0 @@
-{
-    "_id": "32204",
-    "added_in_patch": 5.2,
-    "description": "Ihgaluk Crag has no end of saurok. Those beasts attack my men and spread their disease into nearby water and wildlife, interfering with our operations.Thin their numbers, <name>. Once the Horde takes full control of this island, we can look for more permanent solutions.",
-    "name": "The Skumblade Threat",
-    "requires_level": 90,
-    "zone": "Quests"
-}

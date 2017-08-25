@@ -1,7 +1,0 @@
-{
-    "_id": "11704",
-    "description": "This is the weirdest thing, <class>, but there's a murloc asking for our help!He goes by the name of King Mrgl-Mrgl, leader of the Winterfin murlocs. It would seem that he and his people have been run out of their village and they want someone to come save them.That someone is you!You'll find Winterfin Retreat, and the king, by heading west down the road until you come to the cliffs. Head down to the water line near the Blistering Pool.",
-    "name": "King Mrgl-Mrgl",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

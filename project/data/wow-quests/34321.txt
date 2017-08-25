@@ -1,8 +1,0 @@
-{
-    "_id": "34321",
-    "added_in_patch": 6,
-    "description": "The ogres are a plague upon my kind. They summon my kin and force them into servitude, working them without rest till their heat fades away and they crumble into dust.Their ashes must return to the lava flows so that they can be reborn!The Ogres keep the dust in pouches on their person thinking it would enhance their strength. Go slay them and recover the ashes of my people!",
-    "name": "Ashes Of The Past",
-    "requires_level": 100,
-    "zone": "Frostfire Ridge"
-}

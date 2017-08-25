@@ -1,8 +1,0 @@
-{
-    "_id": "39958",
-    "added_in_patch": 7,
-    "description": "Welcome, <name>. It's an honor to be working with someone of your caliber.In order for us to begin our work together, we'll first need to collect some materials.The Broken Isles are home to many strange, exotic creatures which no doubt have interesting hides to experiment with. We'll need scales to make mail armor with as well.Go and collect some materials for us so we may begin working.",
-    "name": "Skin Deep",
-    "requires_level": 98,
-    "zone": "Leatherworking"
-}

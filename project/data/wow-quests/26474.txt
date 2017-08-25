@@ -1,7 +1,0 @@
-{
-    "_id": "26474",
-    "description": "<name>, now that it has been bathed in Elune's blessed light, I believe that the concoction will help the afflicted child. Please, take it to Astranaar and give it to the child's parent, Pelturas Whitemoon.To reach Astranaar, follow the road south and then east. However, if you'd like to get there more swiftly, speak with Sentinel Avana.",
-    "name": "Orendil's Cure",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

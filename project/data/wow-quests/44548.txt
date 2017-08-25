@@ -1,8 +1,0 @@
-{
-    "_id": "44548",
-    "added_in_patch": 7,
-    "description": "<Looking around the chamber, you know you are well on your way to gathering all of the Pillars of Creation, but your work is not yet complete.><Your order has continued to scour the isles below for anything that might be useful - best to check in with them before embarking once more.>",
-    "name": "Scouring What Remains",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

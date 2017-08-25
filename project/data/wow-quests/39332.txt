@@ -1,8 +1,0 @@
-{
-    "_id": "39332",
-    "added_in_patch": 7,
-    "description": "Oh! I recognize these corks you brought me, <name>. I recently acquired several from a furbolg tribe in Val'sharah. They need sturdy corks to keep a tight seal on that potent firewater they brew.We need more firewater potions--the corks would make an ideal addition to our alchemy table!",
-    "name": "Furbolg Firewater",
-    "requires_level": 102,
-    "zone": "Alchemy"
-}

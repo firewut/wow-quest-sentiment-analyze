@@ -1,8 +1,0 @@
-{
-    "_id": "42678",
-    "added_in_patch": 7,
-    "description": "This thing is ancient. Just turning the pages risks them disintegrating in my hands.\r\n\r\nHere, I have found it. An entry about the Raven's Eye.\r\n\r\n<Valeera traces her finger from left to right above the page. A look of discovery comes over her features, which is quickly replaced by a frown.>\r\n\r\nIt says here that the last person to have possession of the eye was Lord Ravencrest himself. You are going to have to go into Black Rook Hold and take it from him.",
-    "name": "Into Black Rook Hold",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

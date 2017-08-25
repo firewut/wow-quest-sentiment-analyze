@@ -1,8 +1,0 @@
-{
-    "_id": "24861",
-    "description": "The camp is safe, and the quilboar driven off, all thanks to you, young one. You have my personal thanks for what you have done for my mother, my son, and for all of us.It is now time to put Greatmother Hawkwind to rest. Lay the final offering at her feet, <name>, and we will say our goodbyes.",
-    "name": "Last Rites, First Rites",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Mulgore"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30055",
-    "added_in_patch": 5,
-    "description": "All three farmers have delivered their hops to Halfhill. Perhaps you should check in with Chen to make sure that he received them.",
-    "name": "Stormstout's Hops",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

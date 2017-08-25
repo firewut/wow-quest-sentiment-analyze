@@ -1,8 +1,0 @@
-{
-    "_id": "44271",
-    "added_in_patch": 7,
-    "description": "Our investigation found that the naga, under the orders of Queen Azshara herself, are preparing to summon a powerful entity to unleash Azshara's power across the Broken Isles.\r\n\r\nTravel to the Eye of Azshara, and put a stop to the ritual.",
-    "name": "Eye of Azshara",
-    "requires_level": 110,
-    "zone": "Eye of Azshara"
-}

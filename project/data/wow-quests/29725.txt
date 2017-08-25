@@ -1,9 +1,0 @@
-{
-    "_id": "29725",
-    "added_in_patch": 5,
-    "description": "Yeah, we found Amber, she's alive, and all that. That's about where the good news stops though.Let's see if I can pick up where ol' Rell left off...",
-    "name": "SI:7 Report: Fire From the Sky",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

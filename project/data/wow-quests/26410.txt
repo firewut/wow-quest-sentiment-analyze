@@ -1,7 +1,0 @@
-{
-    "_id": "26410",
-    "description": "This guy's the son of the Earthen leader! He almost made it to the temple when he got ambushed by more rock flayers than I can count!We know that the Earthen Stonefather has the middle fragment of the World Pillar. Maybe if we were to heal his son, the Stonefather would give us the fragment?My heals won't work on Flint here. But if we were to get some of the quartzite resin off of these monsters, I think I can make an explosive compound that will bond and cauterize his wounds.",
-    "name": "Explosive Bonding Compound",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

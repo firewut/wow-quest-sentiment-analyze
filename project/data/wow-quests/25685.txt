@@ -1,8 +1,0 @@
-{
-    "_id": "25685",
-    "description": "To perform the ritual you've requested - and perhaps some more rituals in the near future - we're going to need blood.  The Blasted Lands are filled with every type of reagent we might need for our blood magic... it's just a matter of the correct combination.<Lynnore quickly confers with Drazial for a moment.>Basilisks and hyenas, even amounts.  And we're going to need plenty of it.  Head east, to the center of the Blasted Lands.  And don't forget... you can use that teleporter!",
-    "name": "The First Step",
-    "requires_level": 54,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39878",
-    "added_in_patch": 7,
-    "description": "I've made contact with a potential source of new enchantments down in Highmountain. The tauren of Thunder Totem command the spirits to imbue items with great power.Seek out an enchanter named Twaintail and see if he will share his knowledge with us.Taurens are known for their sharing... right?",
-    "name": "Thunder Struck",
-    "requires_level": 102,
-    "zone": "Enchanting"
-}

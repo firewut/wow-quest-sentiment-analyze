@@ -1,8 +1,0 @@
-{
-    "_id": "30056",
-    "added_in_patch": 5,
-    "description": "Brave <class>, you could not have arrived at a better time. My daughter is missing!I've got a suspicion that the virmen took her down into that stinking little warren of theirs. I'm too old to fight virmen, and my farmhand is already exhausted from fighting them off all morning.Could you look for her?",
-    "name": "The Farmer's Daughter",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25510",
-    "description": "<The Arch Druid fills the shell fragment with water, which boils instantly. He adds a bundle of herbs and closes his eyes in a silent prayer.><name>, Tortolla the turtle ancient is ageless, a part of this world since the time of the titans. He speaks a language older than our understanding.Drink this and find a place of calm within yourself. You will be able to understand the language of Tortolla. Go to him now, in the Ashen Lake. Earn the ancient's trust. The fate of Hyjal hinges on this. ",
-    "name": "Tortolla Speaks",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

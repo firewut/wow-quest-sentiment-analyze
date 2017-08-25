@@ -1,8 +1,0 @@
-{
-    "_id": "31203",
-    "added_in_patch": 5,
-    "description": "While we're here, we should do one more thing.\r\n\r\nThe Sra'thik Swarmlord is responsible for directing the mantid forces from the air. If we leave it alive, it's going to cause trouble for the garrison.\r\n\r\nSo we're not going to leave it alive. Let's take it out, $p.",
-    "name": "Target of Opportunity: Sra'thik Swarmlord",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

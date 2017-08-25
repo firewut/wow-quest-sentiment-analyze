@@ -1,8 +1,0 @@
-{
-    "_id": "44437",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Legion Dungeon Reward Quest",
-    "requires_level": 98,
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35406",
-    "added_in_patch": 6,
-    "description": "These seeds have been shielded with care by the botani.Great power can be felt surging out of these tiny vessels of life.These may prove useful.",
-    "name": "Super Seeds",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

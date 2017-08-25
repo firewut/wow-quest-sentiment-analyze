@@ -1,8 +1,0 @@
-{
-    "_id": "35189",
-    "added_in_patch": 6,
-    "description": "The Sargerei follow Socrethar zealously. From what I can gather, he is a persuasive and compelling leader.Many of the initiates carry books of his writings.I need you to read these works and report back to me. If we can understand the Sargerei's motivations, perhaps we can undermine them.I last saw these books near the lake, on a table near the fountain, and in the house near the gardens.",
-    "name": "The Word of Socrethar",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

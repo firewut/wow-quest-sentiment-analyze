@@ -1,8 +1,0 @@
-{
-    "_id": "35965",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking: Mill Treasure 3",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

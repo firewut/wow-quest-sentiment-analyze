@@ -1,7 +1,0 @@
-{
-    "_id": "25434",
-    "description": "The sasquatch may be a larger threat, but we also need to wipe out the ogres. The Gordunni have been a nuisance to us for too long, and Lady Shandris wants them completely gone.  Let's hope these are the last ones.Kill the Gordunni tamers that keep the beast chained, and make sure they know the price of their meddling.",
-    "name": "Taming The Tamers",
-    "requires_level": 37,
-    "zone": "Feralas"
-}

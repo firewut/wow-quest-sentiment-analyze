@@ -1,9 +1,0 @@
-{
-    "_id": "34103",
-    "added_in_patch": 6,
-    "description": "I have a bounty set on a bird, commander. Yes, a bird.The issue is this thing is massive, and it was last sighted a stone's throw away from the Horde base to the south in the forest. The locals call it Kil'uun.If you'd like to track the creature down and bring back its beak I wager it would fetch a sack or two of gold for your coffers!",
-    "name": "Wanted: Kil'uun",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

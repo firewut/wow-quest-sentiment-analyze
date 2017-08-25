@@ -1,8 +1,0 @@
-{
-    "_id": "37506",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Raid Finder (Nth)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

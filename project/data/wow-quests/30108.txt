@@ -1,7 +1,0 @@
-{
-    "_id": "30108",
-    "description": "Your next target is the Black Dragon Nalice, who is engaged in some sort of arcane debauchery beneath the ruined tower of Karazhan.Your primary mission is to destroy her, but if you can bring me back a vial of her blood, I'll be able to use it to augment the power of the daggers I've given you.Your accomplice Zazzo has already been dispatched to the scene and awaits you there. He'll have more details.",
-    "name": "Our Man in Karazhan",
-    "requires_level": 85,
-    "zone": "Rogue"
-}

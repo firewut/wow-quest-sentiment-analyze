@@ -1,9 +1,0 @@
-{
-    "_id": "42740",
-    "added_in_patch": 7,
-    "description": "This is your vessel, <name>. She's a fine ship, been through many a campaign. Speak with the ship's captain when you're ready to depart.\r\n\r\nGood luck out there. We've received few reports about what's happening at the Broken Shore, but I'd wager King Varian has matters well in hand.",
-    "name": "The Battle for Broken Shore",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24",
-    "description": "The once swift Shadumbra now lies still as you claim victory over it.This legenday creature is dear to the night elves. Its head should serve as an intimidating trophy, and as a sign of the end of the Alliance in Ashenvale.Captain Goggath at Hellscream's Watch will no doubt be delighted to receive the head of the slain nightsaber.",
-    "name": "Shadumbra's Head",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

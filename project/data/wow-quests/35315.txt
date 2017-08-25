@@ -1,8 +1,0 @@
-{
-    "_id": "35315",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Gate of the Setting Sun Reward Quest",
-    "requires_level": 88,
-    "zone": "Quests"
-}

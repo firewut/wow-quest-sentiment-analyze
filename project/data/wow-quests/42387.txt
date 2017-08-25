@@ -1,8 +1,0 @@
-{
-    "_id": "42387",
-    "added_in_patch": 7,
-    "description": "Black Rook invaders are still targeting our farms and homes, even though there's not much left to pillage.\r\n\r\nWe had hoped that once they cleared us out that the attacks would stop, but it seems those mindless ghouls will follow any orders given by their commander.\r\n\r\nWe'd take him out ourselves, but he's a sneaky fella. The only way we're going to catch him, is if someone lays a trap. I can provide the supplies if you're willing to help.",
-    "name": "Assassin Entrapment",
-    "requires_level": 103,
-    "zone": "Hunter Campaign"
-}

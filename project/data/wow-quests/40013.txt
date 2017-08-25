@@ -1,8 +1,0 @@
-{
-    "_id": "40013",
-    "added_in_patch": 7,
-    "description": "This herb has clearly been absorbing magical energy from the land. Filaments of ley energy course from root to leaf.Your herbalism trainer in Dalaran will want to see this.",
-    "name": "Aethril Sample",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

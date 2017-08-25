@@ -1,8 +1,0 @@
-{
-    "_id": "31509",
-    "added_in_patch": 5,
-    "description": "The fallout from Shek'zeer's madness will continue long after her reign has ended. We will struggle to heal our lands for many years to come, and even then our efforts may prove fruitless.A new species of sha-twisted flora has begun taking root near Zan'vess. Destroy any that you find, but beware - there is no telling what kind of sinister defenses it may have.",
-    "name": "Fear Takes Root",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

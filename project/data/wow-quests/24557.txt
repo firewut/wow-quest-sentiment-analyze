@@ -1,7 +1,0 @@
-{
-    "_id": "24557",
-    "description": "One of my contacts in the Underbelly caught sight of a Silver Covenant agent gathering information at the Cantrips and Crows Tavern. Silver Covenant members aren't normally found in the sewers, so they must be plotting something.Go into the Underbelly, find this Silver Covenant agent, and eliminate him. Search the body for any information that might give us a lead on the location of that tome from Wyrmrest. We can't let those simpering Silver Covenant weaklings get it back to Icecrown before we do.",
-    "name": "The Silver Covenant's Scheme",
-    "requires_level": 80,
-    "zone": "Dalaran"
-}

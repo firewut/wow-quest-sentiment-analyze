@@ -1,8 +1,0 @@
-{
-    "_id": "29952",
-    "added_in_patch": 5,
-    "description": "Yes, I found the Stormstout Brewery... although I didn't exactly get the warm reception I expected.<Chen pours himself a mug of ale.>Do you want to hear the story?",
-    "name": "Broken Dreams",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

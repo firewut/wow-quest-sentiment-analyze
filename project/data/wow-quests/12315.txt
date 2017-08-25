@@ -1,7 +1,0 @@
-{
-    "_id": "12315",
-    "description": "With every advance, our men are met by fresh Alliance reinforcements. It's almost as though their commander anticipates my every move!The time has come for good Captain Brightwater to meet his end. He commands his troops from aboard an Alliance destroyer at the far end of the bay.This will be no easy fight, <name>. Take along a couple of trusted friends, or if you have a key to one of those repaired shredders, use it to disembowel Brightwater! Either way, he must fall!",
-    "name": "Crush Captain Brightwater!",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

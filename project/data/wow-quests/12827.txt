@@ -1,7 +1,0 @@
-{
-    "_id": "12827",
-    "description": "Hey hey! You're a new face! Care to lend Ricket a hand?We have a somewhat unexpected problem - food shortage. I know, I know... we should have seen that coming, but you don't get it. We tend to have somewhat of a quick turn-around here with our sapper squad and all, so usually we don't have to worry about long term eats. Good old K3's gotten popular though.Convenient solution? There are gnoll camps to the west and some gnolls scattered, scavenging as gnolls do. Care to go nab some of their rations?",
-    "name": "Reclaimed Rations",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

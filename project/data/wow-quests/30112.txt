@@ -1,8 +1,0 @@
-{
-    "_id": "30112",
-    "description": "Utgarde's forces are organizing under the advisory of Prince Keleseth, a san'layn ambassador of the Scourge.We cannot allow the vrykul to benefit from his counsel any further. Silence him.",
-    "name": "A Score to Settle",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Quests"
-}

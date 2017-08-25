@@ -1,8 +1,0 @@
-{
-    "_id": "30993",
-    "added_in_patch": 5,
-    "description": "This has simply gone too far. I cannot ignore our abandonment any longer.\r\n\r\nAfter all that's happened here, and all you've been through in Firebough, we must travel to the monastery.\r\n\r\nWhatever they are doing in there can wait! We can take my balloon up the mountain to the Monastery. It's anchored back by the camp, to the northeast.",
-    "name": "Where are My Reinforcements?",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

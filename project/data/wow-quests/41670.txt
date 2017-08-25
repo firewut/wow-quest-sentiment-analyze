@@ -1,8 +1,0 @@
-{
-    "_id": "41670",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Word of Agility",
-    "requires_level": 110,
-    "zone": "Mining"
-}

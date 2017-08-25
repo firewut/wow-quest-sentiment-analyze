@@ -1,7 +1,0 @@
-{
-    "_id": "25813",
-    "description": "That old, bitter centaur, Skycaller Vrakthris, mentioned a great air spirit that the centaur worship. To secure the Heights, the last step is for us to deal with this thing.I've seen them blow the giant horn at the top of the hill up there and an air elemental came down. It gave them orders and then dissipated.Go blow that horn, <name>.",
-    "name": "Go Blow that Horn",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

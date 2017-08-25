@@ -1,8 +1,0 @@
-{
-    "_id": "34063",
-    "added_in_patch": 6.2,
-    "description": "We have dealt a crushing blow to the Thunderlords with the death of the Iron Wolf <name>, but we can not rest yet.The Thunderlord generals will be fighting like caged wolves to maintain their place in the Iron Horde and that means bad news for us.I sent Scout Ruk'gan to keep an eye on their movements but he hasn't reported back for some time now. If you would help us then seek out Ruk'gan.  Lok'tar <name>!",
-    "name": "Enemies Above",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

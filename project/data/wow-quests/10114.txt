@@ -1,8 +1,0 @@
-{
-    "_id": "10114",
-    "description": "These orcs have never seen a tauren before - if you can believe such a thing. If it weren't for Captain Kroghan, they would have probably been serving me for their next meal right about now.But where are my manners? I am Ohlorn Farstrider, hunter extraordinaire! I am part of the Nesingwary expedition that came up here from Azeroth in search of big game. If you are interested in the hunt, perhaps you should visit my crew at the Nesingwary Safari, due east of here near the border of Zangarmarsh.\r\n",
-    "name": "The Nesingwary Safari",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

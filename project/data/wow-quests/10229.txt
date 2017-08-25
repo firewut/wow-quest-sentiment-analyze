@@ -1,8 +1,0 @@
-{
-    "_id": "10229",
-    "description": "This tome appears to be some sort of history written in a secret Alliance cipher.  Althen, the historian in Spinebreaker Post, has studied the Unyielding for some time; he may be able to crack the Alliance code and decipher the book.  ",
-    "name": "Decipher the Tome",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

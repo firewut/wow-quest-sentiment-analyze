@@ -1,8 +1,0 @@
-{
-    "_id": "25850",
-    "description": "In case you didn't notice, the land here in the Wetlands is pretty messed up. Floods, earthquakes... and on top of it all, even the ground's got a wild hair now.I never thought we'd be attacked by our own dig site, but sure enough, big chunks of it are now rampaging around trying to flatten any dwarf they see.You look like a strong, strapping young <race>... mind going down there and slapping some sense into the clods?",
-    "name": "Strike the Earth!",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

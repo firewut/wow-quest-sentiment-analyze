@@ -1,7 +1,0 @@
-{
-    "_id": "29338",
-    "description": "We must travel now to the Firelands. Within that realm, Go'el's burning spirit could become as terrible as Ragnaros himself! Prepare yourself, for we will be alone in a hostile world.Speak with me when you are ready... and may the ancestors protect us! ",
-    "name": "Into Unrelenting Flame",
-    "requires_level": 85,
-    "zone": "Quests"
-}

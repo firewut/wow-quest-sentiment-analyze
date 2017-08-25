@@ -1,7 +1,0 @@
-{
-    "_id": "12904",
-    "description": "They... They killed my brother.<Gerk fights back tears.>Slaughtered him like he was some sort of animal. Now they got him laid out on one of their tables on the other side of the camp, ready for their grisly experiments. Dargath's dead too. The paladin made a heroic stand at the ruins to the northeast, but the leader of the Vargul, Algar, was too strong.I'm all that's left and I'll be dead soon too. I... I'm turning.If the Light won't grant me vengeance, maybe you will, <class>. Kill them all.",
-    "name": "Light Won't Grant Me Vengeance",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

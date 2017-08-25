@@ -1,9 +1,0 @@
-{
-    "_id": "34972",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Armor Up",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34420",
-    "added_in_patch": 6,
-    "description": "They called this operation a suicide mission, but I don't plan on throwing away any lives meaninglessly.Everybody, with me!",
-    "name": "The Cost of War",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32550",
-    "added_in_patch": 5.2,
-    "description": "Inside the Beast Pens you will encounter some of the most skilled beast tamers in the Zandalari military. They are trained to kill with axe, beast, and claw. This is where they build their cavalry.We need you to kill any Zandalari you find in the Beast Pens before they can get their mounted monstrosities out into the open battlefield.",
-    "name": "Saur Loser",
-    "requires_level": 90,
-    "zone": "Quests"
-}

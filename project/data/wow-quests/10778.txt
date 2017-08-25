@@ -1,7 +1,0 @@
-{
-    "_id": "10778",
-    "description": "The totem alone is not strong enough to counteract the sinister magics of the dark conclave.We can combine it with other objects of power, forming a staff to focus the energies. We cannot rescue my brethren from the depths of their depravity, but we can stop them.One of the items I need for the staff is the Rod of Lianthe, held by the blood elves at Eclipse Point to the southeast. It is kept in a pavilion on the top tier of the ruins and will be heavily guarded. Use caution, <name>.",
-    "name": "The Rod of Lianthe",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

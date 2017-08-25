@@ -1,8 +1,0 @@
-{
-    "_id": "41861",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Meet The Maw",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24706",
-    "description": "A moment of seriousness now, <name>.  We have an important quest ahead of us.  The treacherous dragons that plague this valley will not cease their mischief until we destroy their repugnant brood mother.  Before we even attempt to complete such a task, we must ask the Light for aid.I have seen the Light manifest itself nearby, in the form of Spirits floating by the shores of Golakka Hot Springs.  Come, I must speak with them, and ask them for aid.",
-    "name": "The Spirits of Golakka Hot Springs",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

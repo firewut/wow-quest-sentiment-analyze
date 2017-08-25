@@ -1,7 +1,0 @@
-{
-    "_id": "10403",
-    "description": "Perhaps not all hope is lost for the Dreghood.  I am one of four elders that guided this tribe before we were enslaved by the Illidari.  I thought the others were dead, but I've slowly learned that at least two others are alive - chained down and powerless just as I am.I've not yet been able to find Naladu and fear for the worst.  There are more huts in the ruins upstairs; perhaps you could look for him.  It would be a great boon for our tribe if all our elders were alive.",
-    "name": "Naladu",
-    "requires_level": 60,
-    "zone": "Hellfire Peninsula"
-}

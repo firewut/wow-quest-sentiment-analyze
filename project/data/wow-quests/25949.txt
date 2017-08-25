@@ -1,8 +1,0 @@
-{
-    "_id": "25949",
-    "description": "The time has come to make our stand, <race>.We'll defend this ship to our last breath, and make these naga scum think twice before approaching it again!For the Horde!",
-    "name": "Blood and Thunder!",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

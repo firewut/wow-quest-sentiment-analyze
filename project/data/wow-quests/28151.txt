@@ -1,7 +1,0 @@
-{
-    "_id": "28151",
-    "description": "Your disguise is ready, <name>. Whenever you go north into Glopgut's Hollow now, your Twilight's Hammer regalia will fool the ogres.The rest of the plan is simple: you kill a bunch of Glopgut ogres, and they blame the cult. Are you ready to create some havoc in the ogre camp? I thought so.",
-    "name": "Dressed to Kill",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

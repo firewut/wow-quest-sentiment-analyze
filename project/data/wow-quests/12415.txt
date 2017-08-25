@@ -1,7 +1,0 @@
-{
-    "_id": "12415",
-    "description": "The Alliance's 'Westfall Brigade' is camped far to the north, near Thor Modan. They have foolishly divided their forces to contest our control of Venture Bay, and they have been left without cavalry.They're now trying to capture and tame the wild highland mustangs that roam the area around the Westfall Brigade Encampment and Boulder Hills. We must stop them before they're able to replace their lost mounts. Take this and throw it near the horses to drive them away.",
-    "name": "The Horse Hollerer",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

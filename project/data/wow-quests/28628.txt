@@ -1,7 +1,0 @@
-{
-    "_id": "28628",
-    "description": "Alright, one high-quality, pure grade Instant Ice Block!I tried selling these to people for protection for a while. Y'know, like that trick you see mages pull? Couldn't figure out the whole \"breathing\" thing, though.",
-    "name": "Ice Delivery",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

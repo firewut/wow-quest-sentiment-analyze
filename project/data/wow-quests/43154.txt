@@ -1,8 +1,0 @@
-{
-    "_id": "43154",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Warmongering Gladiator's Dragonhide Armor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

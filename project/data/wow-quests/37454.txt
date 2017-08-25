@@ -1,8 +1,0 @@
-{
-    "_id": "37454",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Sealing Fate: Piles of Gold",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

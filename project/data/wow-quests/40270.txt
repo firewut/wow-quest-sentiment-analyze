@@ -1,8 +1,0 @@
-{
-    "_id": "40270",
-    "added_in_patch": 7,
-    "description": "Felo'melorn, the runeblade of the kings of Quel'Thalas. It was said to harness the very essence of flame and after being reforged by Kael'thas could even stand against the legendary Frostmourne.We thought that the blade was lost with Kael'thas's death but an associate of mine has a lead on where it may be located.We need every advantage we can get and with Felo'melorn in your hand the Legion surely will tremble!Ah, our company is here.",
-    "name": "The Path of Atonement",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25261",
-    "description": "One of our more useful shaman, Margoz, knows more of the Burning Blade's corruption.  He speaks of a cave called Skull Rock in the mountains, just outside Orgrimmar, that shelters a large band of Burning Blade cultists.Before you go to Skull Rock, speak with Margoz.  He is wise and his council is valued.He is camped to the southeast, between the coast and Drygulch Ravine.Follow his advice, but whatever Margoz says, <name>, I still want you to crush those cultists!",
-    "name": "Margoz",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Durotar"
-}

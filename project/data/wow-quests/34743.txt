@@ -1,8 +1,0 @@
-{
-    "_id": "34743",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: The Crystal Blade of Torvath",
-    "requires_level": 91,
-    "zone": "Shadowmoon Valley"
-}

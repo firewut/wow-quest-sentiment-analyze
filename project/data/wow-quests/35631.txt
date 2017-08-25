@@ -1,8 +1,0 @@
-{
-    "_id": "35631",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Rulkan",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

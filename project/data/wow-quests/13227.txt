@@ -1,7 +1,0 @@
-{
-    "_id": "13227",
-    "description": "We cannot defeat the Lich King on our own. Divided we shall all fall!I implore you answer the call,  brother. The Argent Crusade accepts all that would volunteer to aid in the war effort. Highlord Tirion Fordring himself awaits you at the Argent Vanguard! Get upon your mount and fly to the southeastern reaches of Icecrown. It is there that you will find Lord Fordring and the soldiers of the Argent Crusade.Go now, <class>, for judgment day comes!",
-    "name": "Judgment Day Comes!",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

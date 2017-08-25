@@ -1,7 +1,0 @@
-{
-    "_id": "34336",
-    "description": "See that Iron Horde camp to the south, across the water? We've been watching their movements for days.We've seen a lot of correspondence between their lieutenant and the Iron Horde command in Nagrand.We need to disrupt their operation.Gather their supplies, and bring me their leader's head.",
-    "name": "Ambushing the Enemy",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25793",
-    "description": "The purpose of this base was to establish a foothold in Stonetalon for Theramore and to open up a supply line to the night elves. The Horde, unfortunately, has given us one hell of a fight. Hellscream's armies are mighty and unrelenting. I haven't seen this type of ferocity from the Horde since the second war.Now it would appear that the mine the Explorers' League dug out is being used by the Horde to \"backdoor\" us. We need to seal that thing off!",
-    "name": "The Deep Reaches",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

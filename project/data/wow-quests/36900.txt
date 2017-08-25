@@ -1,8 +1,0 @@
-{
-    "_id": "36900",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking Quest: Talonpriest Ishaal",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

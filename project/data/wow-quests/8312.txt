@@ -1,7 +1,0 @@
-{
-    "_id": "8312",
-    "description": "I want to keep trick-or-treating, but I can't because the Matron won't let me.  If you go for me, I'd trade you the candy you get for some I already have!  I think you'd like this candy - it makes you turn into things both funny and scary!Each of the innkeepers in the big cities have candy they give for Hallow's End - talk to them and do the tricks they ask for!  Also, a troll named Kali Remik in Orgrimmar is handing out candy as well.  When you have all the candy, bring them back to me here!",
-    "name": "Hallow's End Treats for Spoops!",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

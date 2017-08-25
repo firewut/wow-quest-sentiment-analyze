@@ -1,7 +1,0 @@
-{
-    "_id": "13049",
-    "description": "Not all of the camp's records have yet been corrupted. My staff has helped me to find those records which reflect the true timeline.They agree that Stormhoof was given a burial of honor among the village elders on the bottom level of the Howling Hollow, to the north.Most of the graves there have already been destroyed, their contents taken as trophies by the North Wind's subjects. Go to the hollow and see if you can recover Stormhoof's spear and armor from the scions of storm who have claimed them.",
-    "name": "The Hero's Arms",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

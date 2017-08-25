@@ -1,7 +1,0 @@
-{
-    "_id": "10972",
-    "description": "I am in need of more I.D tags, <name>. What I've discovered thus far is that this is not just a way to catalogue prisoners but it also documents locations!Once this code is broken we'll be able to pinpoint exactly where all of our allies are held and free them with minimal hostile action received.",
-    "name": "Ethereum Prisoner I.D. Catalogue",
-    "requires_level": 70,
-    "zone": "Netherstorm"
-}

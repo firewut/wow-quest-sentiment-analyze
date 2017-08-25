@@ -1,7 +1,0 @@
-{
-    "_id": "27446",
-    "description": "Heya, <name>, Kelsey Steelspark down in Tanaris left a message for you. She says that the gnomes down there in Gadgetzan heard about what you've been doing up here.Anyway, the Cataclysm hit them hard, too. Not as hard as us, but I'm certain they could use your help.",
-    "name": "Tanaris is Calling",
-    "requires_level": 43,
-    "zone": "Tanaris"
-}

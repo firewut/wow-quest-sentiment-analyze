@@ -1,8 +1,0 @@
-{
-    "_id": "36066",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "A Few Artifact Fragments",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

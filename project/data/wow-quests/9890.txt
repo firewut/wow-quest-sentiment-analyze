@@ -1,8 +1,0 @@
-{
-    "_id": "9890",
-    "description": "For many years, Boulderfist ruled all ogres in the Outland. The ogres were united under Krol and content with the lands that they were given. In the past few months, we have lost many ogres to a new clan known as Warmaul. Warmaul has taken most of our land in Nagrand and killed many of our people.We had no choice but to take this town. We are being exterminated...Krol has gone missing and Boulderfist is in turmoil. Lantresor of the Blade rules in his absence.\r\n",
-    "name": "Success!",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Terokkar Forest"
-}

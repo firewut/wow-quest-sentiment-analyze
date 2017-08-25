@@ -1,8 +1,0 @@
-{
-    "_id": "9396",
-    "description": "Outland holds many secrets, <name>.  It's only a matter of time before we uncover them all.The half-bird, half-man species of the arakkoa possesses ancient arcane knowledge that would aid us greatly in our exploration of this world.  Travel to the Den of Haal'esh, south of here.  Obtain any magical scrolls that the Haal'eshi might be carrying on them and bring them to me.",
-    "name": "Magic of the Arakkoa",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41468",
-    "added_in_patch": 7,
-    "description": "The great forest guardian, Ursoc, gave his life for this world ten thousand years ago. After the guardian's death his claws were hidden away, safe from any who would use their power for evil.Lea Stonepaw and her Druids of the Claw consider Ursoc their paragon and dedicate their lives to following in his example. If anyone would know where the claws reside, it would be Lea.She and her Druids of the Claw reside in the Tel'Andu Barrow Den just to the north.",
-    "name": "Mistress of the Claw",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

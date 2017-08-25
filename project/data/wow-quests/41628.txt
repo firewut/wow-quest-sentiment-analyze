@@ -1,8 +1,0 @@
-{
-    "_id": "41628",
-    "added_in_patch": 7,
-    "description": "You should travel at once to Coldarra in Borean Tundra, <name>. There, I would recommend you scout out a few key locations and report back to me. \r\n\r\nI know the area well, and should be able to tell you how to proceed.\r\n\r\nMake haste!",
-    "name": "Eyes of the Dragon",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

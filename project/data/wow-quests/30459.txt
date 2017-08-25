@@ -1,8 +1,0 @@
-{
-    "_id": "30459",
-    "added_in_patch": 5,
-    "description": "As soon as their reinforcements arrive, the yaungol are going to overrun our position here. If they do that, the village will be lost.Would you be willing to retrieve as many arrows off the battlefield as you can carry? I have a plan that just might save us with your help.",
-    "name": "All of the Arrows",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10858",
-    "description": "It shames me to ask for your assistance once more, <name>, but you are my flight's only hope. Without my mate, the netherwing brood may die out completely.Make your way to the top of Dragonmaw Fortress and find Karynaku.We will be flying overhead. Should a break appear in their defenses, the might of the netherwing will swoop down to assist you.\r\n",
-    "name": "Karynaku",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39179",
-    "added_in_patch": 7,
-    "description": "Something of personal value has been taken from me, and my work here cannot continue until I get it back.\r\n\r\nTo most it would appear to be an ordinary stone, but it is so much more than a simple rock - it lives and breathes!\r\n\r\nThe nearby naga have been snatching anything with any sort of magical significance, my stone included. Fortunately, they do not know how to access its power.\r\n\r\nReturn my stone to me, and I will consider your request for help.",
-    "name": "Bloodstone Bandit",
-    "requires_level": 103,
-    "zone": "Warlock Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25485",
-    "description": "",
-    "name": "World Event Dungeon - Hummel",
-    "requires_level": 75,
-    "zone": "Quests"
-}

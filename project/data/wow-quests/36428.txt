@@ -1,8 +1,0 @@
-{
-    "_id": "36428",
-    "added_in_patch": 6,
-    "description": "The infection is getting stronger so I made some adjustments and I'm pretty sure I have the right formula now.It should now work but it needs to have less competition with the infected blood for it to have any effect.This means you will need to weaken them before you apply the serum for it to function properly.The infection is getting more advanced and will soon be untreatable so we have this one shot to save as many as we can.",
-    "name": "Curing With Force",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

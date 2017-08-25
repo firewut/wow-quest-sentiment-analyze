@@ -1,8 +1,0 @@
-{
-    "_id": "26894",
-    "description": "The Twilight's Hammer mocks us with their defiance. We will drive them and their allies out of this land for good.Travel north of here to Blackfathom Deeps and speak with Je'neu Sancrea. He's already made his way inside.Be wary of Zeya, by the way. She can be a bit...temperamental at times.",
-    "name": "Blackfathom Deeps",
-    "requires_level": 22,
-    "side": "horde",
-    "zone": "Blackfathom Deeps"
-}

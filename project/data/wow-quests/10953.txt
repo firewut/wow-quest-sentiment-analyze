@@ -1,7 +1,0 @@
-{
-    "_id": "10953",
-    "description": "Have you heard of the Throne of the Elements?  It's supposed to be this place in Nagrand where there are these powerful elementals.One day soon, I'm going to be a powerful mage, or maybe a warlock.  I'm gonna have to learn about some of the elemental forces!Do you think maybe that we could go there?<Salandria looks at you slyly.>Ya know, it would be educational to go there.  It's supposedly just north of Garadar, on the other side of Skysong Lake.",
-    "name": "Visit the Throne of the Elements",
-    "requires_level": 60,
-    "zone": "Children's Week"
-}

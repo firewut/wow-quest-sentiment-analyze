@@ -1,8 +1,0 @@
-{
-    "_id": "38960",
-    "added_in_patch": 7,
-    "description": "Since you're heading to Azsuna, you may as well gather some lining for our projects.The bears of Azsuna are known for how soft, yet durable their fur is.Hunt them in the woods around Llothien and bring their fur back with you.",
-    "name": "Lining Them Up",
-    "requires_level": 108,
-    "zone": "Tailoring"
-}

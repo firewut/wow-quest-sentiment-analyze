@@ -1,7 +1,0 @@
-{
-    "_id": "27472",
-    "description": "You are unwavering in your loyalty to the Forsaken, <name>. Know that what you have done for us - for the Horde - will not go unnoticed. With Lord Godfrey and his men recovered, we will have a great advantage over the Gilneas Liberation Front and the rest of the Alliance dogs.Now stand by my side as Lord Godfrey is reborn as one of us. Together we will bring him and his men into the fold.",
-    "name": "Rise, Godfrey",
-    "requires_level": 13,
-    "zone": "Silverpine Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35889",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Maraudon (Bonus) Reward Quest",
-    "requires_level": 34,
-    "zone": "Quests"
-}

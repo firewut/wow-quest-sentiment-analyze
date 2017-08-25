@@ -1,8 +1,0 @@
-{
-    "_id": "37814",
-    "description": "We been hearin' 'bout some real, real bad voodoo in Spires of Arak, commander.Da Shattered Hand shaman Gor'thul be seen sneakin' about da spires the same time we be hearin' of saberon spirits attackin' our supply caravans and our arakkoa allies.I think it best if we take no chances. You should deal with da shaman personally before dis matter gets out of hand.",
-    "name": "Death to Gor'thul!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

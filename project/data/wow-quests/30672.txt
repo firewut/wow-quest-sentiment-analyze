@@ -1,8 +1,0 @@
-{
-    "_id": "30672",
-    "added_in_patch": 5,
-    "description": "The story did not end happily. The Narsong crocolisk is no more.This time, however, you may have a chance to change the ending.The hozen to the south are overfishing these waters. With the fish gone, the crocolisks are hungry and desperate - and so they attack Marista.Go now, <race>! Stop those hozen from their reckless fishing!",
-    "name": "Balance",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9604",
-    "description": "For a small fee, you can rent one of my hippogryphs to fly you to the Exodar.Taking the hippogryph is a faster, not to mention safer, alternative for someone carrying an important message. If you'd like to take a ride, speak to me again and I'll make the arrangements.",
-    "name": "On the Wings of a Hippogryph",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Azuremyst Isle"
-}

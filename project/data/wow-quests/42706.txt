@@ -1,8 +1,0 @@
-{
-    "_id": "42706",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Esara Verrinde",
-    "requires_level": 103,
-    "zone": "Mage Campaign"
-}

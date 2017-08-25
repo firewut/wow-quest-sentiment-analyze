@@ -1,8 +1,0 @@
-{
-    "_id": "12309",
-    "description": "After the Scourge breached the south wall, I ordered Cavalier Durkon to investigate the town crypt. Moments ago I was handed his report.The undead that plague us are coming from two sources: the ruins of Wintergarde, now a breeding ground for Scourge, and our very own town crypt! Amidst the chaos and confusion the Scourge managed to get a necrolord inside the crypt.In his message, Durkon requested assistance. You will find him and help him, <name>. The crypt is on the western border of the town square.",
-    "name": "Find Durkon!",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

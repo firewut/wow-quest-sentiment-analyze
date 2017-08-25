@@ -1,7 +1,0 @@
-{
-    "_id": "26103",
-    "description": "Submarine fuel is expensive!The powers-that-be in Gnomeregan were generous enough to deliver several fuel barrels, but we're burning through it faster than expected.  That means we're going to need to improvise.It's a well-known fact that sea creatures are full of all kinds of interesting chemicals... like oil.  Take this device up to Kothrun's End and stick it into the corpses of terrapins, remoras, and hammerhead sharks.  If we don't get more submarine fuel, their oil might be our only hope.",
-    "name": "Bio-Fuel",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37203",
-    "added_in_patch": 6,
-    "description": "I don't really like when my pets fight, but I love making them feel better when they're done.",
-    "name": "Ashlei",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

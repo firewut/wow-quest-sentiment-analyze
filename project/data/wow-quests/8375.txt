@@ -1,7 +1,0 @@
-{
-    "_id": "8375",
-    "description": "Make no mistake about it, <name>.  The Horde is quite right when they say Alterac Valley is Frostwolf Territory.You see, the Stormpike Expedition arrived as peaceful visitors to the area in search of ore and relics.  The Frostwolves reacted with the most brutal and uncivilized act of aggression the Alliance has experienced.Let us never forget the brave dwarves that perished in that cowardly unannounced attack.  Go now, <class>, do your part in the battle for Alterac Valley.  For the Alliance!",
-    "name": "Remember Alterac Valley!",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

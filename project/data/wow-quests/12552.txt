@@ -1,7 +1,0 @@
-{
-    "_id": "12552",
-    "description": "When the trolls brought down Kolramas, it crashed next to us to the southeast. Unfortunately the crash did not destroy all of the Scourge within.Now they're raising our men from the dead and using them against us!This will not be allowed to continue. You will see to it that their necromagi are slaughtered! Do we understand each other?",
-    "name": "Death to the Necromagi",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

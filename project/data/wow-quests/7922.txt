@@ -1,7 +1,0 @@
-{
-    "_id": "7922",
-    "description": "",
-    "name": "Mark of Honor",
-    "requires_level": 50,
-    "zone": "Warsong Gulch"
-}

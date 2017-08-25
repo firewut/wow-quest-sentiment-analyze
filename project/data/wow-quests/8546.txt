@@ -1,7 +1,0 @@
-{
-    "_id": "8546",
-    "description": "",
-    "name": "The Horde Needs More Mithril Bars!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

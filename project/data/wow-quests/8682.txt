@@ -1,7 +1,0 @@
-{
-    "_id": "8682",
-    "description": "",
-    "name": "Skyseer the Elder",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

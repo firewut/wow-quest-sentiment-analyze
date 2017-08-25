@@ -1,8 +1,0 @@
-{
-    "_id": "27998",
-    "description": "If all goes well you'll just be able to walk right into Godfrey's personal domain and take a reward fitting for such an eager young <class>.Godfrey is a cunning foe, though, so it may be wise to head up there quickly just in case you're needed. He will pay for what he did to the Dark Lady!",
-    "name": "Sweet, Merciless Revenge",
-    "requires_level": 16,
-    "side": "horde",
-    "zone": "Quests"
-}

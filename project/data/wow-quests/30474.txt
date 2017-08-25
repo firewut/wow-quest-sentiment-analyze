@@ -1,8 +1,0 @@
-{
-    "_id": "30474",
-    "added_in_patch": 5,
-    "description": "That poor Ella. She's so shy! I saw her standing in the Halfhill Market, looking really hungry, but afraid to talk to any of the chefs.We should bring her some food! And not any boring food - something special.The Kunzen hozen make spicy shrimp dumplings from ingredients they've stolen from our farms. I don't like spicy food, but Ella might!",
-    "name": "A Gift For Ella",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28354",
-    "description": "Kasha will fly again, <name>. She must if we are to claim vengeance! Sadly, Orkus must stay here with Kasha. You must help us. I beg of you!Listen carefully, quest giver. When I first arrived here I flew around for days to learn the lay of the land. There is a farm east of here that has long since been abandoned and is now overrun by gnolls. On this farm grows a special type of mushroom known as the mudsnout. Go to the stead and gather mudsnout for Kasha. Return here when your pack is full.",
-    "name": "Kasha Will Fly Again",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

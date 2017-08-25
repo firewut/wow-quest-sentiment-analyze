@@ -1,7 +1,0 @@
-{
-    "_id": "25014",
-    "description": "Inside this weathered stone chest at the back of Stonescraper's lair, you find a curious artifact.Shaped like a beetle, its surface is a smooth, brilliant blue, lined with gold. It looks mechanical, but unlike anything you've seen crafted by mortal hands, and very old.Megs will probably be interested in this.",
-    "name": "Sandscraper's Treasure",
-    "requires_level": 46,
-    "zone": "Tanaris"
-}

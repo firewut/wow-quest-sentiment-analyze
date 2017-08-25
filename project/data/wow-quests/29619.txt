@@ -1,8 +1,0 @@
-{
-    "_id": "29619",
-    "added_in_patch": 5,
-    "description": "I heard, I heard! The High Elder wants you to train with us!There's going to be a banquet for us, the trainees... and you should probably bring a gift, as a sign of courtesy.The oranges in the grove south of the temple are extra-sweet right now. Bring some back, for the banquet.",
-    "name": "A Courteous Guest",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

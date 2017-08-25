@@ -1,7 +1,0 @@
-{
-    "_id": "27877",
-    "description": "I need your help in a little project I'm working on, <name>.  It falls into a realm I like to call \"defensive archaeology\".I like to bury non-magical items in conspicuous places to fool those Alliance idiots into thinking they've found something valuable.Hmm... Dark Iron dwarves wander Hammertoe's Digsite and Angor Fortress, to the north.  Bring their heads back to me.  Yes, that's right, their heads.Once the flesh is stripped, we can use those skulls to interfere with the dwarves' work.",
-    "name": "The Morons' League",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

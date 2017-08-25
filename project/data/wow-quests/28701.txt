@@ -1,7 +1,0 @@
-{
-    "_id": "28701",
-    "description": "Luckily, when the infestation occured, no druids were slumbering in the western barrow den. It is still a sacred site to us, however, and its depths hold blessed relics kept there undisturbed for ages.While I am somewhat trusting of the goblin exterminators, I am also... familiar with the habits of their race. Please retrieve any relics you can find in the barrow den and bring them back to me so they are not damaged. They are within urns, nestled in the small alcoves throughout the den.",
-    "name": "Out of Harm's Way",
-    "requires_level": 51,
-    "zone": "Winterspring"
-}

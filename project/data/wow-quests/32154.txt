@@ -1,8 +1,0 @@
-{
-    "_id": "32154",
-    "added_in_patch": 5.1,
-    "description": "Those goblins are gettin' out of hand! First they level the forest and set up that abomination of a rig. Then, they start dumpin' their oil barrels into the bay!We got to put a stop to this madness! At the very least we need ta set them back.We need to take out their fuel supply! Maybe you'll even get to kill a few goblins in the process!",
-    "name": "Burn Out!",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

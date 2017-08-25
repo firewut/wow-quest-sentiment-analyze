@@ -1,8 +1,0 @@
-{
-    "_id": "36498",
-    "added_in_patch": 6,
-    "description": "By order of his royal highness, King Varian Wrynn, all able-bodied citizens of the Alliance are to report to Vindicator Maraad at the Shattered Beachhead in Blasted Lands.Use the portal at the Wizard's Sanctum in Stormwind to head directly to the front line.This new threat is known only as the Iron Horde. They have taken over the Dark Portal and must be stopped.For the glory and honor of the Alliance!",
-    "name": "Iron Horde Invasion",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

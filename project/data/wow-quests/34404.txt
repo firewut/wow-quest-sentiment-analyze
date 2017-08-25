@@ -1,9 +1,0 @@
-{
-    "_id": "34404",
-    "added_in_patch": 6,
-    "description": "Arcane crystals of this size and power are quite rare even on Draenor. It is no coincidence that the Draenei built Shattrath and Auchindoun so close to this mine.I am interested in learning more about these particular crystals and their arcane nature.Return to me with any unrefined power crystals that you may find and I will make sure that you are adequately compensated for your effort.",
-    "name": "Crystals of Unusual Power",
-    "requires_level": 95,
-    "side": "horde",
-    "zone": "Talador"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9696",
-    "description": "Our chief interrogator, Elysia, is fluent in Thalassian. Take the document to her and see what she has to say.",
-    "name": "Translations...",
-    "requires_level": 14,
-    "zone": "Bloodmyst Isle"
-}

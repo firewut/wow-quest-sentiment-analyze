@@ -1,7 +1,0 @@
-{
-    "_id": "13412",
-    "description": "Greetings, <class>. Might I impose on you for a favor?Corastrasza is the sister of Raelorasz - the red dragon in charge of our outpost here. Against his will, she has ascended to one of the upper rings of the Nexus to observe some frighteningly powerful blue drakes.Though he will never say it, he worries about her, and would welcome any news of her well-being.Please seek her out. Ask her to put her pride aside and send word to her brother.",
-    "name": "Corastrasza",
-    "requires_level": 80,
-    "zone": "Borean Tundra"
-}

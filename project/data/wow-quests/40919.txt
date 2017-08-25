@@ -1,8 +1,0 @@
-{
-    "_id": "40919",
-    "added_in_patch": 7,
-    "description": "Ah, my faithful assistant. I have just the task for you.As you have seen, fel power permeates living tissue and can easily be coaxed out.Also, these damned bats are driving me to my wits' end. There is an opportunity to kill two bats with one blade, it seems. Your blade.Take this crystal. It should rip those hellions from the sky and into your waiting arms.You may as well bring back their hides, if only to shut up that fellow in the corner for a few moments.",
-    "name": "Fel Bent for Leather",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

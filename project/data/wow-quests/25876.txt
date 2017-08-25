@@ -1,7 +1,0 @@
-{
-    "_id": "25876",
-    "description": "Listen, I've been tracking this bomb since you rescued me in Ashenvale. Whatever they're doing with it is going to happen real soon.At the top of the large oil rig is a control room. Inside that control room you'll find a Krom'gar log book. That log book is the key to where this bomb is heading. Get up there and get the log book! Bring it back here and I'll decipher it for you.",
-    "name": "It's Up There!",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

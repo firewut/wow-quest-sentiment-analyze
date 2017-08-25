@@ -1,8 +1,0 @@
-{
-    "_id": "42429",
-    "added_in_patch": 7,
-    "description": "Is that Ebonchill you've got there? Alodi's old staff? My my my... <Cough>In the days of the first guardian, all the members of the Council of Tirisfal granted their powers to the young mage in the hopes that he could overcome the Legion. <Wheeze> None of them are alive today... but that staff of yours remembers.Search the streets of Dalaran below for reflections of the former council members. Their memories may empower you as they once did Alodi. Seek them out and speak with one!",
-    "name": "Memories of Ebonchill",
-    "requires_level": 101,
-    "zone": "Artifact"
-}

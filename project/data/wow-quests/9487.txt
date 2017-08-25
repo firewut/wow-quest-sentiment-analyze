@@ -1,8 +1,0 @@
-{
-    "_id": "9487",
-    "description": "Arcane reavers are magical creations of brute strength.  They are heavily armored and deliver stunning blows.  You, however, can bypass their defenses and avoid their attacks.  Your spellcraft is not without many advantages, <name>.Travel to Dawnstar Spire and blast apart the arcane reavers.  From their remains, collect the crystallized fragments of magical energy and return to me.  Dawnstar Spire is found to the east, across the lake.",
-    "name": "Arcane Reavers",
-    "requires_level": 15,
-    "side": "horde",
-    "zone": "Mage"
-}

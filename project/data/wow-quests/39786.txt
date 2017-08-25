@@ -1,8 +1,0 @@
-{
-    "_id": "39786",
-    "added_in_patch": 7,
-    "description": "The second target is a basilisk called Stonefang that lives off the bank of the nearby river. \r\n\r\nI put a bigger wager on him, so if you can take him out I'll make sure you get a cut.\r\n\r\nI'll need his jaw to verify the kill. Hurry, before those tauren get him first!",
-    "name": "A Stone Cold Gamble",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

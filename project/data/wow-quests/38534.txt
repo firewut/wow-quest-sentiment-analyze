@@ -1,8 +1,0 @@
-{
-    "_id": "38534",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Demonsteel Armguards",
-    "requires_level": 110,
-    "zone": "Blacksmithing"
-}

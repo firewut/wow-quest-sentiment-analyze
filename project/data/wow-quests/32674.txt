@@ -1,9 +1,0 @@
-{
-    "_id": "32674",
-    "added_in_patch": 5.2,
-    "description": "The skies call out to you! It's time to learn to fly!\r\n\r\nVisit the flying trainer, Maztha, at the Skyway in Orgrimmar.\r\n\r\nAnd don't forget to buy a flying mount!",
-    "name": "I Believe You Can Fly",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Riding"
-}

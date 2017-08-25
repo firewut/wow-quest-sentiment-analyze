@@ -1,8 +1,0 @@
-{
-    "_id": "42042",
-    "added_in_patch": 7,
-    "description": "Oh <name>, I'm so very very happy to see you!The woodland critters whispered there was trouble in the Dreamway so I came immediately!There are so very many teensy weensy little creatures that live here in the Emerald Dream, and they're out there, all lost and alone!Would you go out there and gather them up? You can use my flute to call them to you.Thank you, brave druid!",
-    "name": "Teensy Weensies!",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

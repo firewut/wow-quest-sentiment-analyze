@@ -1,8 +1,0 @@
-{
-    "_id": "40867",
-    "added_in_patch": 7,
-    "description": "Ol' Hobart wanted me ta gather up these shiny, glass trinkets the murlocs carry around, but those bloody buggers ain't willin' to jes' hand 'em over!I tried the dip-ler-matic approach, but I don't speak murloc, so I just end up shootin' 'em.Maybe you might have better luck gettin' them baubles.",
-    "name": "Bubble Baubles",
-    "requires_level": 104,
-    "zone": "Engineering"
-}

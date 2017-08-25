@@ -1,8 +1,0 @@
-{
-    "_id": "31177",
-    "added_in_patch": 5,
-    "description": "In my living years, I was the greatest warrior of the swarm.Help me regain my strength, and I shall show you.I smell the salt sea nearby, and where you can find the sea, you will find briny clackers.Bring me their tails. I must feast upon their flesh.",
-    "name": "Fine Dining",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

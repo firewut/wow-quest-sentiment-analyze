@@ -1,8 +1,0 @@
-{
-    "_id": "35195",
-    "added_in_patch": 6,
-    "description": "<Upon opening the scroll, you find a message from Anchorite Laanda.>I write this message hastily. I've been discovered. I'm being taken in front of Socrethar.You must carry on our mission. I've learned that Soulbinder Zamaya holds a detailed plan of Socrethar's next attack.She still trusts you, so you should be able to enter the main building. Please, find those plans, <name>!",
-    "name": "Socrethar's Fury",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

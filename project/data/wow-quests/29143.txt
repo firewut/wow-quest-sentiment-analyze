@@ -1,7 +1,0 @@
-{
-    "_id": "29143",
-    "description": "The fire elementals are pouring out of portals on the far side of the Ashen Fields. We need someone to close them. Cut off some of their reinforcements.Banishing these kinds of elemental magics is something our wisps are perfectly suited for. One will come with you. Lead it to a portal and keep it alive until it finishes.",
-    "name": "Wisp Away",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

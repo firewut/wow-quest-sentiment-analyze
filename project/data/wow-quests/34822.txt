@@ -1,9 +1,0 @@
-{
-    "_id": "34822",
-    "added_in_patch": 6,
-    "description": "I heard you guys hijacked and wrecked a ship on your way out of Tanaan.It's like my daddy always said: One man's wreck is another goblin's workshop.You should head down to the coast west of the garrison and see if you can't find any materials we might salvage. Oh, and uh... should probably watch yourself. I hear there are ogre raiders in the area.",
-    "name": "What We Need",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

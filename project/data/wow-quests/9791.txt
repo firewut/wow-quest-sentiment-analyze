@@ -1,8 +1,0 @@
-{
-    "_id": "9791",
-    "description": "During the orcs' war against my people, gatherers rarely left Telredor for fear of being attacked or captured. Now, we venture out more often, but the marsh is no less perilous.It seems that the nether rays have grown bolder in recent months. I don't know if it has something to do with more competition for their normal prey, but they've been attacking our foraging parties on a regular basis. If we can thin their ranks in the area around Telredor, perhaps they would learn to leave us alone.",
-    "name": "Menacing Marshfangs",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Zangarmarsh"
-}

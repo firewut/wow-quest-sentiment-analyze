@@ -1,7 +1,0 @@
-{
-    "_id": "29091",
-    "description": "",
-    "name": "Freedom Movement",
-    "requires_level": 15,
-    "zone": "Northern Barrens"
-}

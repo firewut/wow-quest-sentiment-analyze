@@ -1,8 +1,0 @@
-{
-    "_id": "14483",
-    "description": "The inside of the card is scribbled with mad, detailed plans to infect most of Azeroth.  You should show this to one of Steamwheedle's investigators immediately!",
-    "name": "Something is in the Air (and it Ain't Love)",
-    "requires_level": 75,
-    "side": "horde",
-    "zone": "Love is in the Air"
-}

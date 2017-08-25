@@ -1,8 +1,0 @@
-{
-    "_id": "35012",
-    "added_in_patch": 6,
-    "description": "The time has come to put an end to Sethe. I killed him before, and with your help I shall do it again.Ready yourself for a fight - the cultists will not stand idly by while we stamp out their god.",
-    "name": "Sethe, the Dead God",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

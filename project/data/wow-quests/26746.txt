@@ -1,7 +1,0 @@
-{
-    "_id": "26746",
-    "description": "<Osborn looks at the skull again.>In life, he was strong, powerful, a lord among trolls.  With our help, he can be a lord once more.The Bloodscalp scavengers that wander the ruins to the southwest hoard magical fetishes that can help us.  They hide these artifacts under the ground.  Use your hatchling to find these artifacts, <name>... then bring them here.",
-    "name": "A Nose for This Sort of Thing",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

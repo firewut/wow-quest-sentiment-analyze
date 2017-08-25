@@ -1,8 +1,0 @@
-{
-    "_id": "43385",
-    "added_in_patch": 7,
-    "description": "With the Light at our side, we should focus our efforts on figuring out who among our enemies could be a potential ally.\r\n\r\nAny of your champions should be capable of infiltrating enemy ranks, giving us a better understanding of how to approach this.\r\n\r\nEven so, it is a delicate task. Proceed with caution.",
-    "name": "Infiltrating Our Enemies",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

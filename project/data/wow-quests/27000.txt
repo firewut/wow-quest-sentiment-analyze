@@ -1,7 +1,0 @@
-{
-    "_id": "27000",
-    "description": "Ah, it's good to be back in Northridge!  I've got my mill, my beautiful wife, a bouncing baby boy... I've even put in my hat with the Argent Crusade.  We'll be supplying Tirion's forces with lumber.My lumberjacks were being exceptionally productive, too... up until the point when the spiders came.  Now they refuse to go any deeper in the woods.Maybe you can help me out.  Hop on one of my horses and use it to frighten those spiders.  Maybe we can avoid bloodshed and just scare them away.",
-    "name": "Learning the Ropes",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

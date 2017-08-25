@@ -1,7 +1,0 @@
-{
-    "_id": "14429",
-    "description": "Arcane constructs are creatures spawned of pure mana and intellect. In the right hands, a construct allows its user to quickly assimilate vast riches of arcane knowledge. But they're dangerous, <name>. So intelligent! So powerful! So very vulnerable to external tampering...Let's teach these amateurs a lesson and use their own magic against them. Slay Apprentices and collect their runestones for me. Contact me via the lower scrying stone when you're done.",
-    "name": "Arcane De-Construction",
-    "requires_level": 16,
-    "zone": "Azshara"
-}

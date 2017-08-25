@@ -1,7 +1,0 @@
-{
-    "_id": "29096",
-    "description": "Rocco Whipshank waits for you at the road north out of the Crossroads. Let him know you are ready to accompany the caravan.",
-    "name": "Mor'shan Caravan Pick-Up",
-    "requires_level": 15,
-    "zone": "Northern Barrens"
-}

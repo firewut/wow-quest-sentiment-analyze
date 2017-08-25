@@ -1,8 +1,0 @@
-{
-    "_id": "12295",
-    "description": "We'd been trying to negotiate with the trappers for weeks, but we'd gotten nowhere until you found that blasted chest of theirs.This should be good news to our envoy in Silverbrook.  We sent Ducal there about a week ago and his last letter indicated he'd been making little progress.Go to Silverbrook and aid him in his diplomatic efforts.  Take the roads heading northwest of here and you should find it after crossing a couple of bridges. ",
-    "name": "An Exercise in Diplomacy",
-    "requires_level": 73,
-    "side": "alliance",
-    "zone": "Grizzly Hills"
-}

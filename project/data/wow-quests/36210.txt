@@ -1,9 +1,0 @@
-{
-    "_id": "36210",
-    "added_in_patch": 6,
-    "description": "I have already learned much from watching the Laughing Skull.Traveling through goren tunnels was thought to be impossible due to the acid they leave behind, but the orcs found a way around it.We will need some of the shells of goren within the canyon.If you see any of their tunnel craters ready to burst, approach them and goren will come pouring out. This way, you can kill many at once and find the shells more quickly.",
-    "name": "Hard Shell",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

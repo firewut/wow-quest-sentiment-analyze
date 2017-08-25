@@ -1,9 +1,0 @@
-{
-    "_id": "37288",
-    "added_in_patch": 6,
-    "description": "Bodrick has mentioned to me that you have acquired some interesting construction notes in your forays out there. A construction guide or assembly notes perhaps?You should speak with Kinkade Jacobs in Stormshield. She is willing to exchange finished blueprints for such things.",
-    "name": "Resources in Ashran",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Stormshield"
-}

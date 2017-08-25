@@ -1,8 +1,0 @@
-{
-    "_id": "43456",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Skul'vrax",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

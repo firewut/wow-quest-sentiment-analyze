@@ -1,8 +1,0 @@
-{
-    "_id": "26116",
-    "description": "All right, <name>. I'm ready if you are.Shall we?",
-    "name": "Kinelory Strikes",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

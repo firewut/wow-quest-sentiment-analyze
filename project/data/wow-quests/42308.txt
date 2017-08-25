@@ -1,8 +1,0 @@
-{
-    "_id": "42308",
-    "added_in_patch": 7,
-    "description": "I hope I survive this long enough to tell the tale of when I was mauled by a bear.But unless this letter finds its way into the proper hands, I may not have long to live.I'm in desperate need of bandages. Please bring any you can spare.",
-    "name": "Bloody Plea",
-    "requires_level": 98,
-    "zone": "First Aid"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38964",
-    "added_in_patch": 7,
-    "description": "Lyndras couldn't have gone very far. I mean, we're floating a thousand feet over the sea. I heard some commotion across the way this morning near the alchemy shop. I pray that wasn't Lyndras.Could you please go over there and make sure?",
-    "name": "Where's Lyndras Now?",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25206",
-    "description": "Ignore the shaman, soldier.  Certain powers-that-be within the Horde demand that I keep him with me, but I assure you, that Thrall-loving farseer truly sees no farther than the borders of this hut.Elementals war against one another to the west of here.  I normally wouldn't mind, but I need that land clear to secure a broader shipping route to and from the Barrens.  The elementals are normally quite strong, but they are weakened by their attacks against one another.  Use this knowledge to destroy them.",
-    "name": "Ignoring the Warnings",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Durotar"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32597",
-    "added_in_patch": 5.2,
-    "description": "The Thunder King. Dead for twelve thousand years, only to be brought back by Zandalari voice. No doubt Titan power preserved his vile corpse.Titan power that's mine by right.<name>! Bring me the heart of the Thunder King. I will have it, and once it is mine, none will ever be able to resurrect him again.Bring it to me, <class>. Bring me his cold, dead heart! ",
-    "name": "Heart of the Thunder King",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28087",
-    "description": "There's only one answer for those filthy Twilight's Hammer trappers! Death!Bring me their nets, <name>.",
-    "name": "Death to all Trappers!",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

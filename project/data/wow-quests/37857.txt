@@ -1,8 +1,0 @@
-{
-    "_id": "37857",
-    "added_in_patch": 7,
-    "description": "I wish to make it up to you for whatever I did that made you want to kill me.Hmm... your dragon complains about being weak. I know why. Runas can fix it, my friend.One of my kind, Ael'Yith, pulls ley energy from the very ground of Azsuna. I can take you to the location of his mana siphons.It's not too late to undo the harm the others have done. You've done well to trust me.",
-    "name": "Runas Knows the Way",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34414",
-    "added_in_patch": 6,
-    "description": "In order to break through Kaelynara's arcane shield, we will need a focusing crystal of rare power and quality.Within the mine is a crystal giant known to the Draenei as An'dure. The giant has slept beneath the rocky earth for ages, but due to Kaelynara's recklessness it has awakened.The heart of a crystal giant is a truly powerful artifact. Defeat An'Dure and return to me with a crystal giant heart. Once I have the heart, I will have everything I need to construct the focusing crystal!",
-    "name": "An'dure The Giant",
-    "requires_level": 95,
-    "side": "horde",
-    "zone": "Talador"
-}

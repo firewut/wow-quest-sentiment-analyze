@@ -1,7 +1,0 @@
-{
-    "_id": "9712",
-    "description": "You have distinguished yourself in the service of the order, <name>. Your skill in wielding the Light energies granted by Magister Astalor and his fellows has proven you worthy to receive a new kind of knowledge.With the Light at your command, it is possible to summon a fearsome warhorse that will serve as your faithful mount.Continue to serve with dedication and honor, <name>, and even greater boons await you.",
-    "name": "The Thalassian Warhorse",
-    "requires_level": 40,
-    "zone": "Paladin"
-}

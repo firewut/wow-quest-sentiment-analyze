@@ -1,7 +1,0 @@
-{
-    "_id": "37177",
-    "description": "$p, you have done much for my people. I wish to thank you on their behalf.\r\n\r\nPlease visit Veil Terokk when you can.",
-    "name": "Call of the Talon King",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

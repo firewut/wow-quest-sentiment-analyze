@@ -1,8 +1,0 @@
-{
-    "_id": "36296",
-    "added_in_patch": 6,
-    "description": "[PHYLARCH ACQUISITION TEXT GOES HERE]",
-    "name": "Phylarch the Evergreen",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

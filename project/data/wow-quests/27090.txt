@@ -1,7 +1,0 @@
-{
-    "_id": "27090",
-    "description": "Sylvanas will want to know about Thassarian's departure from Andorhal.  You resolve to return to the Forsaken-held side of town.",
-    "name": "Andorhal, Once and For All",
-    "requires_level": 38,
-    "zone": "Western Plaguelands"
-}

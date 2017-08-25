@@ -1,7 +1,0 @@
-{
-    "_id": "28027",
-    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to Uldaman, in the Badlands, immediately!The Explorers' League, under Lead Prospector Durdin, requires assistance in braving great danger in pursuit of knowledge! If you so choose, head to Uldaman and speak with Lead Prospector Durdin to help them out.",
-    "name": "Adventurers Wanted: Uldaman",
-    "requires_level": 37,
-    "zone": "Uldaman"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28575",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Koltira Deathweaver at Andorhal.The Alliance forces are advancing into the ruined city of Andorhal, seeking to claim it for themselves. We must counter their them before they can gain a foothold there!Cross the Bulwark at the eastern end of Tirisfal Glades and follow the roads southest to Andorhal and meet up with our forces there.Destiny calls!",
-    "name": "Warchief's Command: Western Plaguelands!",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

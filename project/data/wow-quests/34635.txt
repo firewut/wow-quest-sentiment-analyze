@@ -1,9 +1,0 @@
-{
-    "_id": "34635",
-    "added_in_patch": 6,
-    "description": "For this plan to work, we'll need infused parchment.The latent arcane energy at this nexus quickly froze the ancients in place and settled in their bark.If we rip off strips from the few that haven't been destroyed by the fungal creatures, I can form them into parchment.",
-    "name": "Forming the Scroll",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

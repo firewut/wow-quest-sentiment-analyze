@@ -1,7 +1,0 @@
-{
-    "_id": "9922",
-    "description": "You made a strong showing, <name>. Are you ready for more?I have received reports of a large contingent of Boulderfist ogres hidden in the twin clefts of Nagrand, northwest of here in the Halaani Basin.Venture forth to the clefts and deal with the remaining Boulderfist ogres.",
-    "name": "The Twin Clefts of Nagrand",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37890",
-    "description": "It is strange that these docks were abandoned by the Iron Horde, but up ahead our scouts report trouble.A set of Bleeding Hollow scavengers is busy looting the abandoned buildings to the northwest.Further down the road orc cultists are doing... something... near the Dark Portal.We should try to recover any orders or information as to what is going on here, then meet with our scouts further in...",
-    "name": "Obstacle Course",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

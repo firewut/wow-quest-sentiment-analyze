@@ -1,8 +1,0 @@
-{
-    "_id": "32376",
-    "added_in_patch": 5.1,
-    "description": "This sealed communication was sent for you, along with urgent orders to travel to the Valley of Emperors in Kun-Lai Summit.\r\n\r\nThis looks serious. I'd not delay if I were you.Speak to Tak-Tak for transportation.",
-    "name": "To the Valley!",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43991",
-    "added_in_patch": 7,
-    "description": "To fully unlock the powers of the Idol, we will need four manifestations of the wilds - an essence of ferocity, essence of regrowth, essence of balance, and essence of tenacity.To find these essences, we must consult the protectors of the forest.Go to the Emerald Dreamway and call upon the powers of the ancient druidic stones. The protectors will only show themselves to those who can prove their connection to the wilds.",
-    "name": "The Protectors",
-    "requires_level": 103,
-    "zone": "Druid Campaign"
-}

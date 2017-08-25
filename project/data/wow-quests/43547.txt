@@ -1,8 +1,0 @@
-{
-    "_id": "43547",
-    "added_in_patch": 7,
-    "description": "Our Champions have discovered the source of the corruption.  The Emerald Dream has been infested by the Legion and if we don't put our efforts towards stopping them, this will be only the beginning of the corruption.  It must be stopped here.",
-    "name": "Into the Nightmare: Il'gynoth",
-    "requires_level": 110,
-    "zone": "The Emerald Nightmare"
-}

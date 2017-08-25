@@ -1,8 +1,0 @@
-{
-    "_id": "29653",
-    "description": "Kargath was once one of the Horde's greatest heroes.He now wears the false mantle of Warchief. Bring me his namesake weapon so that we can remember the champion he once was, rather than the monster he's become.",
-    "name": "The Will of the Warchief",
-    "requires_level": 66,
-    "side": "horde",
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "24945",
-    "description": "Look, I think it's great that we're destroying all of these zombies, even though they're our friends and family. But don't you think we should be taking care of the pygmies that are creating them as well?At the three Oostan villages, Nord, Sor, and Ost, there are witch doctors: Gaahl, Malmo, and Teloch.Maybe you could take care of them? I don't want to be turned into a zombie!",
-    "name": "Three Little Pygmies",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13824",
-    "description": "Mimiron's a clever one.  His entire abode is rigged with some sort of self-destruction mechanism.Unfortunately yer gonna have to race against it if ye want to get his sigil.  Check the Archivum Console for more details if ye need them.",
-    "name": "Heroic: Mimiron's Sigil",
-    "requires_level": 80,
-    "zone": "Quests"
-}

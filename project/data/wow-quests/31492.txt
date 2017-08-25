@@ -1,8 +1,0 @@
-{
-    "_id": "31492",
-    "added_in_patch": 5,
-    "description": "Xuen has this challenge he says helps \"refine strength.\" I am starting to think the word \"strength\" means something different to him than the rest of us.Here, take this torch to the top of the gates of the temple. If you can get it there without the torch being extinguished, you pass the challenge.Whatever you do, do not try carrying the torch on a mount. It will blow out if you do. Trust me on that one.",
-    "name": "The Torch of Strength",
-    "requires_level": 90,
-    "zone": "Kun-Lai Summit"
-}

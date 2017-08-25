@@ -1,8 +1,0 @@
-{
-    "_id": "44562",
-    "added_in_patch": 7,
-    "description": "Magic has long been a vice of the elves. It shaped us, and lifted us out of the darkness - but without balance, it also threatens to unmake us.The shal'dorei are too proud to admit it, but they are the product of indulgence. They live without harmony.But I sense potential among the Nightfallen. Losing everything has humbled them. It has made them stronger.Stay the course, $p. Help the Nightfallen rise up.",
-    "name": "Growing Strong",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

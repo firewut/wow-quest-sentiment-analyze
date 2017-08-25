@@ -1,8 +1,0 @@
-{
-    "_id": "39862",
-    "added_in_patch": 7,
-    "description": "Worms do not like battle or the surface. They only go where their master tells them.So, when in war, kill the master.Siegebrul Olgrul is the master of worms for the Mightstone drogbar who attack us from the north.Slay him.",
-    "name": "The Siegebrul",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

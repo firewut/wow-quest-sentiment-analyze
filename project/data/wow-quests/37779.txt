@@ -1,8 +1,0 @@
-{
-    "_id": "37779",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Tip the Scales",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

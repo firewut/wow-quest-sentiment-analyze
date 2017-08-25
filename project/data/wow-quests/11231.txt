@@ -1,7 +1,0 @@
-{
-    "_id": "11231",
-    "description": "The captain may not care, but from the little we know, the vrykul are conducting heinous rites in some sort of 'awakening' ritual up north in Gjalerbron.They're using living sacrifices to fuel their unholy rituals!<Class>, you must put a stop to this! It matters not who or what is in those cages, they must be freed. I'd bet that the vrykul hold the keys.The Light knows the last thing we need is more of those strange vrykul walking about, or worse yet, them wakening something even more evil!",
-    "name": "Of Keys and Cages",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

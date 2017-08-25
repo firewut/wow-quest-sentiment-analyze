@@ -1,8 +1,0 @@
-{
-    "_id": "41125",
-    "added_in_patch": 7,
-    "description": "In ancient times, the Forge of the Guardian was used to channel the power of the Council of Tirisfal into one mage, creating a Guardian. But this is not its only use.\r\n\r\nIt also serves as a font of arcane energy which can be used to manipulate and empower the artifacts of this world. \r\n\r\nThis power will allow us to gain the upper hand against the dreadlord and the Burning Legion, and I ask you to be the first to tap into it.",
-    "name": "Unlocked Potential",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

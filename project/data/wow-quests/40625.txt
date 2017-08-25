@@ -1,8 +1,0 @@
-{
-    "_id": "40625",
-    "added_in_patch": 7,
-    "description": "I need you to fetch me something.I think I might be on the verge of a breakthrough of a new source of magic, but I require tools. I can no longer access my workshop, but I have seen the smaller demons below using tools. Bring me one of their tools and I can save our people.",
-    "name": "A Different Source",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

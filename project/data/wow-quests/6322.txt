@@ -1,8 +1,0 @@
-{
-    "_id": "6322",
-    "description": "I have placed Brill's supplies into this crate.  If you have already visited Brill and spoken with their bat master, then you may ride a bat back to her.Speak with the Undercity's bat master, Michael Garrett.  He can provide you with a bat to Brill.",
-    "name": "Michael Garrett",
-    "requires_level": 5,
-    "side": "horde",
-    "zone": "Tirisfal Glades"
-}

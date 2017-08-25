@@ -1,7 +1,0 @@
-{
-    "_id": "14491",
-    "description": "Until recently, a group of dwarves intruded on our lands to the west, carving the earth apart senselessly to search for treasure.  When the very earth itself tore apart, the spirits of the land they had abused rose up and took their revenge.The agitated earth spirits still roam the former dig site, <name>.  We must offer them appeasement.Take this drum with you to the west and play to the spirits.  The rhythm may calm their fury and confusion.",
-    "name": "The Restless Earth",
-    "requires_level": 5,
-    "zone": "Mulgore"
-}

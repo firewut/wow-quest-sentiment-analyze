@@ -1,7 +1,0 @@
-{
-    "_id": "24216",
-    "description": "The Alliance is an insidious enemy, <name>.  They claim to defend the Ashenvale forests to justify their acts of aggression against our territories in the Barrens.Today we have an opportunity to drive the enemy from our lands once and for all.  Go to Warsong Gulch and take back what is rightfully ours!",
-    "name": "Call to Arms: Warsong Gulch",
-    "requires_level": 21,
-    "zone": "Warsong Gulch"
-}

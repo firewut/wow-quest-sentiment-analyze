@@ -1,7 +1,0 @@
-{
-    "_id": "27274",
-    "description": "I have an urgent message for you from Stormwind, <name>. Chief Surgeon Gashweld has asked to meet with you in Stormwind. The message didn't say what the chief surgeon wanted to discuss, but you should make your way to Stormwind as quickly as you can. Look for Chief Surgeon Gashweld in the Dwarven District of the city.",
-    "name": "The Chief Surgeon",
-    "requires_level": 20,
-    "zone": "Priest"
-}

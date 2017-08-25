@@ -1,7 +1,0 @@
-{
-    "_id": "26181",
-    "description": "YOU MUST RETURN... TO... THE DARKBREAK COVE. ERUNAK STONESPEAKER AWAITS... YOU WITHIN.I DIE NOW....",
-    "name": "Back to Darkbreak Cove",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

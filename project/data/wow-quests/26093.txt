@@ -1,8 +1,0 @@
-{
-    "_id": "26093",
-    "description": "We are fighting a war for Stromgarde, and we are losing.  The ogres, the Syndicate and we have divided our once great city, and each faction battles the other into a bloody stalemate.But our forces dwindle while our enemy grows.Though Southshore has fallen, we must not let any further ground be yielded to our enemies.Go to the Syndicate base in Northfold Manor and slay them. We must reclaim the land for ourselves before the Horde has a chance to creep further.",
-    "name": "Northfold Manor",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

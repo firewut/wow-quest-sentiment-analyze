@@ -1,8 +1,0 @@
-{
-    "_id": "39781",
-    "added_in_patch": 7,
-    "description": "I will direct my people to clear a path through this rubble and assault Dargrul's forces directly.It will be a ruse.Navarrogg proposed a plan that I believe has merit. He knows of a side entrance that might lead directly to Dargrul.Muster what allies of yours you can and strike at them through this side passage. Recover the Hammer of Khaz'goroth before that villain brings the mountain down on top of us.We will provide the distraction you need to get a shot.",
-    "name": "Neltharion's Lair",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

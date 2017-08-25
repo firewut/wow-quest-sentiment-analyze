@@ -1,8 +1,0 @@
-{
-    "_id": "28653",
-    "description": "Are you still here, <name>?  You know, I'm only a deathguard.  I don't have many tasks I can hand out to passers-by like you.I'd recommend that you talk to Shadow Priest Sarvis.  I remember, he helped me get on my feet after I was plucked out of that tomb.  I'm sure he'll do the same for you.You'll find him just inside the chapel, here on the west side of town.",
-    "name": "Shadow Priest Sarvis",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Deathknell"
-}

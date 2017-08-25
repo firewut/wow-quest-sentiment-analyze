@@ -1,8 +1,0 @@
-{
-    "_id": "36547",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Garrison Max-level Choice Tracker: (GROUP) Talador Shattrath City, West",
-    "requires_level": 100,
-    "zone": "Frostfire Ridge"
-}

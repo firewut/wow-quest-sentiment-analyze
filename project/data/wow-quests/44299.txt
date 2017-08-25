@@ -1,8 +1,0 @@
-{
-    "_id": "44299",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Darkshade",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

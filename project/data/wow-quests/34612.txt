@@ -1,9 +1,0 @@
-{
-    "_id": "34612",
-    "added_in_patch": 6,
-    "description": "We'll need arcane parchment to make the scroll.The arcane energy everywhere at this nexus froze the ancients in place and settled in their bark.If we take pieces from the few that haven't been destroyed by the fungal creatures, I can mold them into parchment.",
-    "name": "Forming the Scroll",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

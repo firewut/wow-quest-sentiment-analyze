@@ -1,7 +1,0 @@
-{
-    "_id": "25666",
-    "description": "Make no mistake, <race>, that is one clever shark. You don't survive down here as long as he has without a little extra smarts.What I'm saying is he won't be fooled so easily again. We're going to have to change our approach a bit.I won't bore you with the details just yet. For now, I need you to collect a bunch of the innards from these giant sea grubs.Think you can handle that?",
-    "name": "Getting Your Hands Dirty",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

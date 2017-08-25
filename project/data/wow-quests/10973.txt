@@ -1,7 +1,0 @@
-{
-    "_id": "10973",
-    "description": "I have cracked the code! Each tag is broken up into several segments. The front side of the tag is always the same and states: \"A Thousand Worlds...\" I am unsure as to the meaning of this phrase but it sounds insidious.On the back side of the tag are the vital statistics. The first set of runes indicates location and the second indicates prisoner type. Furthermore, it would seem that the keys can be combined to form a special key that accesses another prison type. Now I just need more keys...",
-    "name": "A Thousand Worlds",
-    "requires_level": 70,
-    "zone": "Netherstorm"
-}

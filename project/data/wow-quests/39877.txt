@@ -1,8 +1,0 @@
-{
-    "_id": "39877",
-    "added_in_patch": 7,
-    "description": "We could use your help down here, <name>. Some of our hunters would benefit greatly from having those vellums applied to their rings right now.Here take a few. I'll give the rest to one of my other soldiers to hand out.My hunters probably won't stop to let you apply the enchants, so you'll just have to do your enchanting even if they're in the midst of battle.",
-    "name": "In the Loop",
-    "requires_level": 100,
-    "zone": "Enchanting"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37531",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking - See Closed Chest",
-    "requires_level": 1,
-    "zone": "Shadowmoon Valley"
-}

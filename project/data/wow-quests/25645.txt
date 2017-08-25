@@ -1,7 +1,0 @@
-{
-    "_id": "25645",
-    "description": "The soft glow from the pedestal brightens, and you can see a simple chain left behind. This must be the amulet Sage Palerunner sent you here for...",
-    "name": "Return to Sage Palerunner",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33580",
-    "added_in_patch": 6,
-    "description": "Not all arakkoa are alike.<Iskar lifts his sleeve to reveal a mangled, useless wing.>It is no illusion. They did this to me. Before I was even given a name, I was given a place in society: at the bottom.We are many. We make our homes in the places this world has forgotten.Veil Shadar was such a place, but the Adherents have found it and started a purge. For morale. For fun.Help my people escape, and we'll be in your debt.When the sky burns, it pays to have allies in the shadows.",
-    "name": "The Purge of Veil Shadar",
-    "requires_level": 94,
-    "zone": "Talador"
-}

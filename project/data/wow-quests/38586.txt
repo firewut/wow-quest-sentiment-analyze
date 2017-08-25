@@ -1,8 +1,0 @@
-{
-    "_id": "38586",
-    "added_in_patch": 6.2,
-    "description": "The Shadow Council are summoning their demonic masters upon a mountain they are calling the Throne of Kil'jaeden. Make no mistake; This is the most dangerous region in Tanaan.\r\n\r\nGather together a war party and assault the Throne of Kil'jaeden before the Legion gains a foothold here!",
-    "name": "Assault on the Throne of Kil'jaeden",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

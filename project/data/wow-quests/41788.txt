@@ -1,8 +1,0 @@
-{
-    "_id": "41788",
-    "added_in_patch": 7,
-    "description": "My location has to be kept secret, at least until I have proof of my innocence.\r\n\r\nThanks to the legacy of my family name, any time some miserable warlock summons demons they can't control, I get the blame.\r\n\r\nThe scene of my latest \"crime\" is a nearby cave, where unruly imps and other nasty demons are roaming free.\r\n\r\nFind the lousy warlock who's responsible, and get him to write a confession.",
-    "name": "Coercing a Confession",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

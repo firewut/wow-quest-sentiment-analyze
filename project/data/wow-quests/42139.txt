@@ -1,8 +1,0 @@
-{
-    "_id": "42139",
-    "added_in_patch": 7,
-    "description": "The Uncrowned work behind the scenes, pulling strings here, snipping others there. It's a matter of making the right choices at the right time in the most elegant manner possible.\r\n\r\nWe have all decided that you need to recruit some Shadows to send out on our most important missions. People that you can trust, or at least that you can trust to get the job done.\r\n\r\nMight I suggest that you start with Garona and Vanessa? It should prove interesting if nothing else considering recent events.",
-    "name": "Rise, Champions",
-    "requires_level": 101,
-    "zone": "Rogue Campaign"
-}

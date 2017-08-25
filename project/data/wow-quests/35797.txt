@@ -1,9 +1,0 @@
-{
-    "_id": "35797",
-    "added_in_patch": 6,
-    "description": "The laser should be good to go once we get it set up, there's just one more thing I need.There's a spore walker that hunts on the delta just southeast from here. It has an apparatus on its face that can fire a powerful laser - way more powerful than what we have hooked up.I want it.We'll be mining faster than you can imagine once we get that bad boy hooked up!",
-    "name": "The Ebon Hunter",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "23",
-    "description": "The mighty bear Ursangous is no more!The small quarter-crescent emblem on its paw indicates that this beast was trained by the night elves to prowl the forest in search of their enemies. There is no telling how many of your Horde allies fell to this creature.The paw should be brought to Tarkan at Silverwind Refuge. He will be pleased that such a weapon has been removed from the enemy's arsenal.",
-    "name": "Ursangous' Paw",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

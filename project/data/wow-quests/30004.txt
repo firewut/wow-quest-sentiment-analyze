@@ -1,8 +1,0 @@
-{
-    "_id": "30004",
-    "added_in_patch": 5,
-    "description": "You have helped us more than you can ever imagine, <name>.I do not know what I would do if our precious scrolls were ever to be lost.Please return to the Elder Sage Rain-Zhu and tell him that the library is in order.",
-    "name": "Everything In Its Place",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

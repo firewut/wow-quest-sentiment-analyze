@@ -1,7 +1,0 @@
-{
-    "_id": "29613",
-    "description": "Warlord Kalithresh is in charge of the entire Steamvault operation.I need you to kill him, <name>. The naga have left us with no option but violence.Show him no mercy.",
-    "name": "A Proper Fate",
-    "requires_level": 67,
-    "zone": "The Steamvault"
-}

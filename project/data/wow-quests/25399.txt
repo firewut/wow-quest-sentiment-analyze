@@ -1,7 +1,0 @@
-{
-    "_id": "25399",
-    "description": "The Hatecrest are fighting fiercely! Their leader is a priority, but we need to kill as many of them as we can.Go ahead of me, I'll meet you on the battlefield. Show them no mercy!",
-    "name": "Hatecrest Forces",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

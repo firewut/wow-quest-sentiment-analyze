@@ -1,7 +1,0 @@
-{
-    "_id": "27843",
-    "description": "Just killing ogres won't be enough. The ogres themselves are being summoned onto the battlefield far too rapidly.I need you to go far behind the enemy line and seek out their summoners. The orcs are using warlocks to bring their reinforcements in.Cut down the warlocks, and the portals should close. There aren't many of them; a quick, surgical strike should cripple the enemy.",
-    "name": "Reinforcements Denied",
-    "requires_level": 52,
-    "zone": "Swamp of Sorrows"
-}

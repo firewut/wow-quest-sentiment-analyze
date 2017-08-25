@@ -1,8 +1,0 @@
-{
-    "_id": "107",
-    "description": "I bet William Pestle has a potion to unite our two young lovers!Here, take this note to William.  He's staying at the Lion's Pride Inn in Goldshire.",
-    "name": "Note to William",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

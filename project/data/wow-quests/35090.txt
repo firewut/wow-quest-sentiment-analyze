@@ -1,8 +1,0 @@
-{
-    "_id": "35090",
-    "added_in_patch": 6,
-    "description": "Uncle Krixel's a tough one but he won't be going anywhere on foot with his leg broken.He has a flying machine he brought from Azeroth that can fly us out of here. Problem is, the engine's busted.I'll need some parts to fix the thing. My car's wasted but those broken shredders just outside of town should have what we need. We don't have time to break them down by hand so just use this rocket launcher and blow 'em apart. Anything that survives the blast should be strong enough to use on the engine.",
-    "name": "The Right Parts for the Job",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

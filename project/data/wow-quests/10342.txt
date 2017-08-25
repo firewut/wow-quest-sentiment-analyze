@@ -1,7 +1,0 @@
-{
-    "_id": "10342",
-    "description": "I make a good living selling drinks to the boozehounds around here.  But I want something more!The rocket-chief is always telling me how he can't perfect the rocket fuel needed to get the X-52 off of the ground.We can solve that little problem for him.For starters I need to extract the oil from the shale of the local shaleskin flayers!  It'll form a concentrated, if explosive, base for the mix that I have in mind.Find the flayers, and their shale, all over the place near the purple rocks.",
-    "name": "Securing the Shaleskin Shale",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

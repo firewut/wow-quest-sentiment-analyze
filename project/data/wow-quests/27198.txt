@@ -1,8 +1,0 @@
-{
-    "_id": "27198",
-    "description": "I'm no military expert, but this battle looks to be in our favor.  Our defenders are equally matched with their deathguards, but the farmers' militia has taken them by surprise from the rear.  For the Alliance!Still, we should all do what we can to make sure that we win.  Travel east into Andorhal and slay the Forsaken deathguards that are fighting with our men.  The sooner they die, the quicker we can re-take Andorhal!",
-    "name": "Supporting the Troops",
-    "requires_level": 38,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

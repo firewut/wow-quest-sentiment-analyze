@@ -1,8 +1,0 @@
-{
-    "_id": "34163",
-    "added_in_patch": 6,
-    "description": "<The voice of Teron'gor enters your mind.>Our final move must remain concealed from the Auchenai, my minions. Use the shadow orbs Gul'dan provided for us to veil Gul'rok in darkness.Prepare our forces, we march on Auchindoun on my order. We will feast on the souls of the draenei and usher our demonic allies into this world!<Destroying these shadow orbs would help the defenders at Auchindoun greatly.>",
-    "name": "Hiding in the Shadows",
-    "requires_level": 95,
-    "zone": "Talador"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12117",
-    "description": "<Race>, word just arrived from Moa'ki Harbor. Something very bad happened over there this morning!You've been very helpful to us here. Would you consider using the boat from Unu'pe to travel to the great Dragonblight?By the sound of things, Elder Ko'nani could certainly use your assistance.",
-    "name": "Travel to Moa'ki Harbor",
-    "requires_level": 68,
-    "zone": "Dragonblight"
-}

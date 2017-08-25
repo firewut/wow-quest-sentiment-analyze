@@ -1,7 +1,0 @@
-{
-    "_id": "6642",
-    "description": "",
-    "name": "Favor Amongst the Brotherhood, Dark Iron Ore",
-    "requires_level": 60,
-    "zone": "Molten Core"
-}

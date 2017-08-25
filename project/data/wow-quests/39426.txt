@@ -1,8 +1,0 @@
-{
-    "_id": "39426",
-    "added_in_patch": 7,
-    "description": "You have proven a much greater ally than the Bloodtotem ever were. With my focus crystal, my wounds are healed. I fear Frag was too far gone to revive.\r\n\r\nTorok and his Bloodtotem will suffer for what they have done to us. Let's pay them a visit before they can mount an attack against the cave of my people.",
-    "name": "Blood Debt",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

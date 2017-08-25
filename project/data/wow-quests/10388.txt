@@ -1,8 +1,0 @@
-{
-    "_id": "10388",
-    "description": "Hope you enjoyed your flight, friend. A messenger arrived while you were away - seems Nazgrel's got a new use for you. You'd best head back to Thrallmar and check in with him. I have a feeling the Legion's just getting warmed up. \r\n",
-    "name": "Return to Thrallmar",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

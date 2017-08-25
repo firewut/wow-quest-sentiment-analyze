@@ -1,8 +1,0 @@
-{
-    "_id": "33024",
-    "added_in_patch": 5.4,
-    "description": "Well done, <name>. I can see you're ready to continue exploring the mysteries of Lin's secret ingredient soup.From what I can tell, Lin used Stormstout brew for his soup broth.I think the next steps for you are to create a Noodle Cart of your own and to head to the Stormstout Brewery to collect some sloshes of brew.",
-    "name": "Is That A Real Measurement?",
-    "requires_level": 90,
-    "zone": "Cooking"
-}

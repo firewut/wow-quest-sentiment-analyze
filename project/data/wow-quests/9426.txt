@@ -1,8 +1,0 @@
-{
-    "_id": "9426",
-    "description": "Much has changed since the days when we called this land Draenor.  Parts of the land have been forever changed by the demons' taint.One such place is known as the Pools of Aggonar.  It was once the location of our people's sacred springs.  The blood of the demon Aggonar fouled the very essence of the holy waters.  This fel blood has spawned foul beings that must be cleansed if we're ever to reclaim the pools.  Travel east of here and slay the Terrorfiends and slimes that wander the pools.",
-    "name": "The Pools of Aggonar",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

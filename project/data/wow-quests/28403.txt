@@ -1,7 +1,0 @@
-{
-    "_id": "28403",
-    "description": "There should be two titan communication devices in this chamber.If my translations are correct, one is a death trap and the other will accept the codes and activate the obelisk.Let's hope I get this right.Let me know when you're ready.",
-    "name": "Bad Datas",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

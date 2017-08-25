@@ -1,8 +1,0 @@
-{
-    "_id": "44228",
-    "added_in_patch": 7,
-    "description": "See Lurr?  He big and strong, but not so smart, not like Murr.  Murr can make Lurr build good things for you, things for your Champions to wear and be smashier.  \r\n\r\nFirst, you give Murr something?",
-    "name": "Champion Armaments",
-    "requires_level": 110,
-    "zone": "Dreadscar Rift"
-}

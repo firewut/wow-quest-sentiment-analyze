@@ -1,8 +1,0 @@
-{
-    "_id": "36940",
-    "added_in_patch": 6,
-    "description": "We have slowed the Iron Horde down, but this war is far from over... I'll stay here and continue our efforts to hold back the Iron Horde.The Warchief needs to know about what we have accomplished here today, and the threat we face in the future.It is probably best if you report to High Overlord Saurfang yourself, <class>.",
-    "name": "Warning Orgrimmar",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

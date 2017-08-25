@@ -1,7 +1,0 @@
-{
-    "_id": "27234",
-    "description": "My scouts have reported a shipwreck just off the beach to the northeast. Shipwrecks aren't all that unusual out here, but the reports also indicated the survivors were all wearing red bandanas... the symbol of the Defias!The reports indicate their leader resides on a large island just off the coast to the northeast of the tower. Kill him and retrieve any documents you find in his possession.",
-    "name": "Defias in Dustwallow?",
-    "requires_level": 34,
-    "zone": "Dustwallow Marsh"
-}

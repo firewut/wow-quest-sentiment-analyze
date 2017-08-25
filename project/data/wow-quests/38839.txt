@@ -1,8 +1,0 @@
-{
-    "_id": "38839",
-    "added_in_patch": 7,
-    "description": "Mom got a message and said blood called for blood. She told me to wait here while she went out, but it's been two weeks since then. I'm tired of waiting.I'll stay home if you go find her. She said she was going to the cliffs far to the south.",
-    "name": "Done with Waiting",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

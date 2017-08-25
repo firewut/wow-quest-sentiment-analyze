@@ -1,8 +1,0 @@
-{
-    "_id": "42204",
-    "added_in_patch": 7,
-    "description": "You upheld your end of your promise. I will do the same.Take these drogbar drums. They bang on them to call upon Jorhuttam to feast.Find the Great Worm's feeding mound and use the drums to lure her out.",
-    "name": "Jorhuttam",
-    "requires_level": 103,
-    "zone": "Warrior Campaign"
-}

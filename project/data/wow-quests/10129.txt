@@ -1,8 +1,0 @@
-{
-    "_id": "10129",
-    "description": "We've identified the two main transporters that the Burning Legion are using to bring in reinforcements: Gateway Murketh and Gateway Shaadraz.If you look east up the Path of Glory, you'll see them on either side of the road.  I want you to bomb them both into oblivion!Here are the bombs you'll use, specially designed by a goblin in Area 52.  Now, speak with Wing Commander Brack -- he'll put you on a wyvern.",
-    "name": "Mission: Gateways Murketh and Shaadraz",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

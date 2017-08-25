@@ -1,8 +1,0 @@
-{
-    "_id": "34012",
-    "added_in_patch": 6,
-    "description": "<Prowler Sasha silently holds out his hand to reveal a necklace crafted of stained leather and putrid brown ogre teeth. All have a matching tone of rot to them.><It has several knots that appear to be missing additional teeth.>",
-    "name": "Need More Teeth",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "31511",
-    "added_in_patch": 5,
-    "description": "I will gather up the other Tauren pilgrims and we will travel into the Vale together.Meet me at the Gate of the August Celestials at the southern edge of Kun-Lai Summit and speak with me there.",
-    "name": "A Witness to History",
-    "requires_level": 87,
-    "side": "horde",
-    "zone": "Kun-Lai Summit"
-}

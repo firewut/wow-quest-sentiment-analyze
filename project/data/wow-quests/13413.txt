@@ -1,7 +1,0 @@
-{
-    "_id": "13413",
-    "description": "You possess the courage to draw so near to Malygos' lair, mortal? Or is it simply ignorance? Soon we shall know....I am a seasoned trainer of the graceful drakes of the red dragonflight. My business here is to study the enemy and teach my precious pets the tactics that will be most effective when we face the master of the blues.To demonstrate your nerve and ability, I will allow you to ride one of my drakes against the enemy's minions.The opportunity is yours for the asking...",
-    "name": "Aces High!",
-    "requires_level": 80,
-    "zone": "Borean Tundra"
-}

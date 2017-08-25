@@ -1,7 +1,0 @@
-{
-    "_id": "11873",
-    "description": "Would you be willing to head back to the airstrip and let Fizzcrank know that I'll be along shortly to give my formal report? I've got to deal with the wreckage of my flying machine, and then I'll be on my way.I'll be certain that Fizzcrank knows that he has you to thank for my survival and the recovery effort.I only wonder what the old man would've done himself if he'd been flying with us. I miss those days.",
-    "name": "Give Fizzcrank the News",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

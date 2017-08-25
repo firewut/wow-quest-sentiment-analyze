@@ -1,8 +1,0 @@
-{
-    "_id": "27726",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Emissary Windsong at Nighthaven in Moonglade.Our brothers in the Cenarion Circle report that Deathwing's minions have launched a destructive offensive against the world tree and threaten to burn it to the ground!Speak with Cenarion Emissary Jademoon in Stormwind Keep to gain entry into Moonglade.For the glory and honor of the Alliance! Fight on,  brother!",
-    "name": "Hero's Call: Mount Hyjal!",
-    "requires_level": 80,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

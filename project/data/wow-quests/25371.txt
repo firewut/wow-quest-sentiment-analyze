@@ -1,7 +1,0 @@
-{
-    "_id": "25371",
-    "description": "If you are going to be making it anywhere in this kelp forest, we need to get you a reliable mount. I think I've come up with a better plan than the sea turtle, and it's not far.Tie off a lure at the rope just west of us, and then mount the seahorse that it will attract.Be warned, you may need to work hard to break the beast.",
-    "name": "The Abyssal Ride",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

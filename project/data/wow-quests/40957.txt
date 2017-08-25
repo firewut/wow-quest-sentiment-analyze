@@ -1,8 +1,0 @@
-{
-    "_id": "40957",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "A Strong Right Hand",
-    "requires_level": 101,
-    "zone": "Hunter Campaign"
-}

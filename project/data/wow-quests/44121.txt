@@ -1,8 +1,0 @@
-{
-    "_id": "44121",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Az'jatar",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

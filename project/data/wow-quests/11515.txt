@@ -1,7 +1,0 @@
-{
-    "_id": "11515",
-    "description": "When Kael's forces retreated through that portal, his most loyal lackeys were rewarded with an abominable gift.  They  stayed behind and gorged themselves on the blood of demons for days.The blood has changed them, given them new powers.  It will also prove their undoing.Obtain blood samples from other demons.  Use them to power this fel siphon and deprive these arrogant fools of their new powers.  Slay them in their weakened state and return to me.",
-    "name": "Blood for Blood",
-    "requires_level": 70,
-    "zone": "Hellfire Peninsula"
-}

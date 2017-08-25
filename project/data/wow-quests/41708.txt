@@ -1,9 +1,0 @@
-{
-    "_id": "41708",
-    "added_in_patch": 7,
-    "description": "Xavius led Ysera past here, but their destination is unclear. This twisted wickedness smothers my mind!These refugees tell of an ancient Moonwell hidden in the ruins of their home. If it somehow resisted this corruption...I will beg of Elune a vision to give me direction. With her light, I may find my husband yet.",
-    "name": "Dark Side of the Moon",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Val'sharah"
-}

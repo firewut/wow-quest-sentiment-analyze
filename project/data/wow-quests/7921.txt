@@ -1,7 +1,0 @@
-{
-    "_id": "7921",
-    "description": "",
-    "name": "Talismans of Merit",
-    "requires_level": 20,
-    "zone": "Warsong Gulch"
-}

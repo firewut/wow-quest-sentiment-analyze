@@ -1,7 +1,0 @@
-{
-    "_id": "10566",
-    "description": "I've fashioned four wands that I believe will enhance the power of the arakkoa's crystals. Take these wands to Trogma's Claim, and try them on the ogre slaves.You'll need to find an infused crystal off of the arakkoa in the area.When you figure out which is best, come back to me.",
-    "name": "Trial and Error",
-    "requires_level": 61,
-    "zone": "Blade's Edge Mountains"
-}

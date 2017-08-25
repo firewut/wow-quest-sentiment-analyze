@@ -1,9 +1,0 @@
-{
-    "_id": "35837",
-    "added_in_patch": 6,
-    "description": "One of my top field operatives, Jeanine Amrell, is stationed deep in Iron Horde territory in northern Nagrand.She reports that the warlords of the orcish clans are planning to convene in secret at Mok'gol Watchpost.This may be a critical opportunity for us to gain intel on their future plans.I need you to meet up with agent Amrell immediately. This may be our chance, <name>!",
-    "name": "Garrison Campaign: Deep Recon",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

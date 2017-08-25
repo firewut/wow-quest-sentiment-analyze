@@ -1,8 +1,0 @@
-{
-    "_id": "14049",
-    "description": "Here's the deal, mate: to protect me treasure map, I tattooed it onto me first mate's scalp.Of course, he's dead now, along with most of me crew. The Alliance doesn't even know what they have - his severed head is hanging from a tree at the entrance to this camp.Grab that head and take it to Gazlowe back in Ratchet.",
-    "name": "A Most Unusual Map",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

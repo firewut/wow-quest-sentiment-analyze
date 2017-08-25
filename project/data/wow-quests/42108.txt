@@ -1,8 +1,0 @@
-{
-    "_id": "42108",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Rally the Nightwatchers",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

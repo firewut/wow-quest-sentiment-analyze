@@ -1,7 +1,0 @@
-{
-    "_id": "13170",
-    "description": "Ghouls are fragile things when it comes down to it, and the lookouts at the saronite quarry down the path to the southwest are no exception. Using one of the shades, I have no doubt that you can sneak up and put down their lookouts without making a sound.Clear out as many lookouts as you can reach in a reasonable amount of time... we'll want their ranks thinned for our assault to come.",
-    "name": "Honor is for the Weak",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

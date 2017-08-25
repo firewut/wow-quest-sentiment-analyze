@@ -1,8 +1,0 @@
-{
-    "_id": "30890",
-    "added_in_patch": 5,
-    "description": "I'm being told that our scouts have been on duty in Shallowstep Pass for more than 2 days straight, no rest. No wonder mantid are slipping through. Even the most dedicated scouts would slip with those kinds of shifts.I want you to go out there and deliver orders to the scouts that they are to return to the battlefront immediately for rest and rations. I'll arrange for a new shift to be posted.",
-    "name": "The Restless Watch",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

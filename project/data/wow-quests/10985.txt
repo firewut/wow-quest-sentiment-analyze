@@ -1,7 +1,0 @@
-{
-    "_id": "10985",
-    "description": "<Xi'ri pulses with lights as the Aldor and Scryer forces around him respond to his orders.  Xi'ri's army is ready to push Illidan's forces back and create a distraction for Akama.  The naaru awaits your request to begin the attack.>",
-    "name": "A Distraction for Akama",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

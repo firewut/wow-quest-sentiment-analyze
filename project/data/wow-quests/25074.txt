@@ -1,7 +1,0 @@
-{
-    "_id": "25074",
-    "description": "Thanks in part to your efforts, we've stabilized the situation here. We need to turn our attention south, to Fort Triumph.Fort Triumph is the keystone of our operation in the Barrens - the vital land-link between Northwatch and Theramore.I'll pack up and head out separately. Report to Commander Roberts at the fortress and I will see you there soon. Together, we will secure the frontier!",
-    "name": "Meet Me at Triumph",
-    "requires_level": 30,
-    "zone": "Southern Barrens"
-}

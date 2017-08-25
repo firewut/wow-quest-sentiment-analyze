@@ -1,7 +1,0 @@
-{
-    "_id": "25430",
-    "description": "The druids of Hyjal are not the only ones sworn to defend this land.  The emerald dragons have once again become a powerful ally to our cause.Speak to Alysra at the Ruins of Lar'donir, to the north, and see what you can do to help.",
-    "name": "Emerald Allies",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

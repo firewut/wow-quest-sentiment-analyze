@@ -1,7 +1,0 @@
-{
-    "_id": "9810",
-    "description": "Watoosun was able to shed the stink of corruption; but in doing so, created a twisted spirit essence. A spirit essence composed of the vilest corruption found amongst the elements!You will find this polluted spirit of the swamp southwest of here, hidden in the depths of Lake Sunspring.Find and destroy the polluted essence of Watoosun and any corrupt offspring that it may have created.",
-    "name": "The Spirit Polluted",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

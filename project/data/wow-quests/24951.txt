@@ -1,7 +1,0 @@
-{
-    "_id": "24951",
-    "description": "Now that we've got a good pile of fresh chunks, we just tie it to this rope...and now you're ready to go catch me a silithid.What? Don't give me that look, it's perfectly safe. Well, mostly safe. Okay, you might die painfully. But it'll be easy! Just throw this meat out there, wait for a bug to pounce on it, and then drag 'em back here by the rope!Go after one of the swarmers. I haven't seen the other ones go for hyenas before, and you should find plenty of swarmers around the edge of the pit.",
-    "name": "A Great Idea",
-    "requires_level": 45,
-    "zone": "Tanaris"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41849",
-    "added_in_patch": 7,
-    "description": "It's time to send a rescue operation to the Gates of Valor, <name>.I will prepare our troops and send them at once. We will need a sizable army to take on the massive Legion force in Stormheim.Grandmaster, go ahead whenever you are ready. I will send our forces to meet you in the field.",
-    "name": "The Iron Fist",
-    "requires_level": 110,
-    "zone": "Monk Campaign"
-}

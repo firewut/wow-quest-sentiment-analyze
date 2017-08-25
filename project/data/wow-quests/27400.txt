@@ -1,7 +1,0 @@
-{
-    "_id": "27400",
-    "description": "All of your trainers agree, <name>, you show an amazing amount of talent for a journeyman. Even the warchief has heard of your rapid progress.As a reward for mastering your studies, the warchief has commissioned his master enchanter to create a staff for you.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and find a magical heirloom of the Silverlaine family, a supply of moontouched wood, and the essence of the ghosts haunting the keep.",
-    "name": "Mastering the Arcane",
-    "requires_level": 20,
-    "zone": "Mage"
-}

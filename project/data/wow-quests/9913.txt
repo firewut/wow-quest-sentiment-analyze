@@ -1,7 +1,0 @@
-{
-    "_id": "9913",
-    "description": "My organization, the Consortium, is looking for a few resourceful individuals just like yourself.  You'll be hard pressed to find ethereals more honest, hard-working or pleasant to be around than us.All we require is loyalty, dedication and a reasonable amount of moral flexibility.  If you're interested, speak to Gezhe, our ground operations leader.  You will find him at Aeris Landing, north of Oshu'gun.",
-    "name": "The Consortium Needs You!",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

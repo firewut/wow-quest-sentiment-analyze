@@ -1,7 +1,0 @@
-{
-    "_id": "11544",
-    "description": "The Ata'mal Terrace in eastern Shadowmoon Valley is holy to the draenei, but is now overrun by fel orcs. They have dug up the special ore from that place and created corrupted weapons and armor.I need the armaments to form an alloy with the naga ore. Our anchorites have blessed my anvil with the ability to cleanse them.Retrieve the armaments from the Shadowmoon chosen, slayers and darkweavers. Return them here, breaking down and purifying them upon my anvil, and then hand me the cleansed results.",
-    "name": "Ata'mal Armaments",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

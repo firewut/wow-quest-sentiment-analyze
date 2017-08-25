@@ -1,9 +1,0 @@
-{
-    "_id": "38446",
-    "added_in_patch": 6.2,
-    "description": "This battle will be won, but it will be hard fought. Our rangari did manage to get a few scouts out to the rest of the jungle though.Perhaps it is best you collect this intelligence yourself and see what this jungle holds for us all.",
-    "name": "Commander in the Field!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Tanaan Jungle"
-}

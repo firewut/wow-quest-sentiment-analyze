@@ -1,7 +1,0 @@
-{
-    "_id": "28378",
-    "description": "We've started tearing this camp apart, <name>, but there's no sign of Fanny. Maybe you can find her.We haven't checked the cave just behind me, to the northwest. See if you can find Fanny in the cave!",
-    "name": "Find Fanny",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

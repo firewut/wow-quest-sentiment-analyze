@@ -1,8 +1,0 @@
-{
-    "_id": "42103",
-    "added_in_patch": 7,
-    "description": "We can use the Bloodstone to control the sisters once they are in a weakened state, but first, we'll need to feed it.\r\n\r\nThe stone grows in power when consuming the blood of demons. Luckily for us, there's no shortage of demons to kill.",
-    "name": "Let it Feed",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

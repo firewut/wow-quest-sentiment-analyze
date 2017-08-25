@@ -1,8 +1,0 @@
-{
-    "_id": "26049",
-    "description": "Myzrael's no innocent princess. She's a terribly dangerous force, and the giants had every reason to chain her down there. I'm afraid you've been had.According to Gerrig, you have to summon her at the Shards of Myzrael where you first spoke with her.  Defeat her and gather her Eldritch Shackles, then bind them to the Shards.Here's the scroll you'll need. Be careful with it; I risked a few teeth to get it. Good luck, <name>.",
-    "name": "The Princess Unleashed",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

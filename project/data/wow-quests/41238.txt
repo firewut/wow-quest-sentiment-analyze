@@ -1,8 +1,0 @@
-{
-    "_id": "41238",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Calcified Wormscales",
-    "requires_level": 110,
-    "zone": "Mining"
-}

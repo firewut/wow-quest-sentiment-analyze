@@ -1,8 +1,0 @@
-{
-    "_id": "10034",
-    "description": "The bonelashers of the Bone Wastes bit Mawg and made him sick.  Now he wants all of them destroyed!While they can be found throughout the wastes, they are known to congregate at Carrion Hill in the north.Return to Mawg Grimshot after you've done the deed and he'll give you a good reward.",
-    "name": "Wanted: Bonelashers Dead!",
-    "requires_level": 62,
-    "side": "horde",
-    "zone": "Terokkar Forest"
-}

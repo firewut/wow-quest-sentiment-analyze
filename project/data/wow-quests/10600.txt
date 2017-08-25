@@ -1,7 +1,0 @@
-{
-    "_id": "10600",
-    "description": "<Zagran listens to you recount the events at Legion Hold, nodding.>That fills in the gaps we've seen. We've caught glimpses of them launching infernals in the direction of the hold, but haven't been able to find much more than that.The Shadow Council has the forge pretty much locked down. Looks like you're going to need to fight your way in. Start eliminating the Shadow Council guarding the entrance to the Deathforge!",
-    "name": "Minions of the Shadow Council",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

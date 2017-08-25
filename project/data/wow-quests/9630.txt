@@ -1,7 +1,0 @@
-{
-    "_id": "9630",
-    "description": "Your name is getting around, <name>.  You've made your way into and out of Karazhan - more than most mortals can claim.I need to ask a special favor of you.  As part of our research, the Violet Eye has been trying to track down Medivh's own journal.Unfortunately, none of the agents we've sent inside have come out.  Wravien was the last to be sent; see if you can find him and see about any leads on the journal.",
-    "name": "Medivh's Journal",
-    "requires_level": 70,
-    "zone": "Karazhan"
-}

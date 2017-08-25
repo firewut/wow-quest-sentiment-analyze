@@ -1,7 +1,0 @@
-{
-    "_id": "26407",
-    "description": "This ogre was carrying an unusual item: the severed hand of another ogre, tied to a piece of string, and worn around the neck.  The hand itself is marked heavily with scars that glow a faint purple.A scar that glows after death is highly unusual, and to find such an item on an ogre is even stranger.  Perhaps someone back at Grom'gol will know what to do with this oddity.",
-    "name": "Mosh'Ogg Handiwork",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

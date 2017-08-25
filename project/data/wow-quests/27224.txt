@@ -1,7 +1,0 @@
-{
-    "_id": "27224",
-    "description": "",
-    "name": "Andorhal Phase Flag",
-    "requires_level": 38,
-    "zone": "Western Plaguelands"
-}

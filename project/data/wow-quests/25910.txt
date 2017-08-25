@@ -1,7 +1,0 @@
-{
-    "_id": "25910",
-    "description": "This cavern is an abomination, <name>. And it's filled with horrors from the depths.I don't want any of these - things - getting through the portal to the outside world. Slay everything!",
-    "name": "The Time for Mercy has Passed",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12262",
-    "description": "We will spare no one. Outside, lowly necrolytes and their skeletal servants shame my land with their presence. Slaughter them all.",
-    "name": "No One to Save You",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

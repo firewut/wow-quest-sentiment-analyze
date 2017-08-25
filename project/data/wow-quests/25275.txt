@@ -1,8 +1,0 @@
-{
-    "_id": "25275",
-    "description": "Your people are working on the terraforming of Azshara. The land will be remade in the image of the Horde so that all will know that Kalimdor belongs to us!Go north through the city. On the far side of the Valley of Honor you will find the Orgrimmar Rear Gate. Report to Labor Captain Grabbit outside the gates.For the Horde!!!",
-    "name": "Report to the Labor Captain",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Azshara"
-}

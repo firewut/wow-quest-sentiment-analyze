@@ -1,7 +1,0 @@
-{
-    "_id": "1578",
-    "description": "The mountaineers of Loch Modan are fighting troggs, and having a busy time of it!  They need constant supplies of new armor and weapons if we're ever to get a handle on those troggs.That's why my colleague Thorvald is there, trying to keep the mountaineers in good gear.  So if you were to make some copper axes and copper chain belts and bring them to Thorvald, he would be obliged.  He might even share his knowledge with you.Thorvald is in Loch Modan's southern guard tower.",
-    "name": "Supplying the Front",
-    "requires_level": 1,
-    "zone": "Blacksmithing"
-}

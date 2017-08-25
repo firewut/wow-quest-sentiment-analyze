@@ -1,8 +1,0 @@
-{
-    "_id": "42367",
-    "added_in_patch": 7,
-    "description": "Within the Ingress is a demon who must die.Arkethrax is a creature of cunning evil. If left unchecked he will be able to use the Ingress as a staging point for targeted assaults that will decimate our forces.I, for one, have no intention of underestimating this opponent and shall join you on the battlefield when you are ready to fight him.",
-    "name": "Arkethrax",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

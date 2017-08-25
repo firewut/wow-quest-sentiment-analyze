@@ -1,8 +1,0 @@
-{
-    "_id": "32840",
-    "added_in_patch": 5.3,
-    "description": "Amidst the gibbets of hozen meat and fur flying aimlessly around Kota Kon's sphere of destruction, you seem to have grabbed hold of a small fuse.The fuse is created entirely from woven, matted hozen tail hair. It has a strong smell.Near one of the ends of the fuse, however, is a small paper tag, embossed with the words:RETURN TO BRAWLER'S GUILD",
-    "name": "Boom Boom's Fuse",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

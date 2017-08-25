@@ -1,7 +1,0 @@
-{
-    "_id": "14040",
-    "description": "That spice bread stuffing you made is a hit, but no Pilgrim's Bounty feast is complete without a slice of pumpkin pie. It's another traditional local dish, since it uses ripe Tirisfal pumpkins that only grow around here.If you don't know how to make pumpkin pie already, there's a recipe in your bountiful cookbook.Would you mind cooking up a few slices and bringing them to Francis Eaton outside Orgrimmar? He's bound to be running low by now.",
-    "name": "Pumpkin Pie",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

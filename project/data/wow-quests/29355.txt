@@ -1,8 +1,0 @@
-{
-    "_id": "29355",
-    "description": "It might seem like a basic thing, <name>, but spice bread is a longtime favorite in Ironforge. Some days, I have trouble keeping up!Would ye like to cook some to practice yer skills an' help meet the demand? Ye can buy all the ingredients ye'll need from me brother, Emrul Riknussun, who is downstairs.",
-    "name": "Can't Get Enough Spice Bread",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Cooking"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28196",
-    "description": "The journal documents the last 62 days of Clerk Horrace Whitesteed's life. In it is written damning allegations against Warden Stillwater and his activities at the Sludge Fields.You should show this to the warden. He will undoubtedly have an explanation for what is written in this journal.",
-    "name": "The Battle for Hillsbrad",
-    "requires_level": 19,
-    "zone": "Hillsbrad Foothills"
-}

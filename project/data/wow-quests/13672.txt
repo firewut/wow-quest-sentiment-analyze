@@ -1,7 +1,0 @@
-{
-    "_id": "13672",
-    "description": "When you have mastered the skills of the aspirant, you may choose to take the aspirant's challenge. The challenge will test your mounted combat skills and assess whether or not you're prepared to become a valiant. Should you pass, you will be able to join your capital city's delegation as a valiant.When you are ready to begin the challenge, return to me.",
-    "name": "Up To The Challenge",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

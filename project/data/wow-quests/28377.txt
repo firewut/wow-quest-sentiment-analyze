@@ -1,7 +1,0 @@
-{
-    "_id": "28377",
-    "description": "Well speak of the devil in a blue dress. Fanny's gone and gotten herself kidnapped by ogres!I don't trust the Thundermars to be able to mount a rescue on their own. I'll round up my gryphon riders and provide some air support.I'm sure they can use an extra <class> down there, <name>. Grab your gear and look for Colin Thundermar in the Glopgut ogre camp. It's southwest of here, below the cliffs. Hurry now!",
-    "name": "Rescue at Glopgut's Hollow",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

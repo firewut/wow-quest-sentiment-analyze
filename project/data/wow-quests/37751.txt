@@ -1,8 +1,0 @@
-{
-    "_id": "37751",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Bounties Active",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

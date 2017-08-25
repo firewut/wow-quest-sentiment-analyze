@@ -1,7 +1,0 @@
-{
-    "_id": "29443",
-    "description": "Power swirls inside this strange crystal. Perhaps it was once a magical focus, an energy source, or simply a good luck charm. There's no way to know for certain.The Darkmoon Adventurer's Guide indicates that the crystal would be of interest to Professor Thaddeus Paleo at the Darkmoon Faire.",
-    "name": "A Curious Crystal",
-    "requires_level": 15,
-    "zone": "Darkmoon Faire"
-}

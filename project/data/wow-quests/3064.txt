@@ -1,7 +1,0 @@
-{
-    "_id": "3064",
-    "description": "I need pirate hats for my shop.  Get me lots!",
-    "name": "<NYI> <TXT> Pirate Hats",
-    "requires_level": 40,
-    "zone": "Tanaris"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9420",
-    "description": "The arakkoa at the Den of Haal'esh, south of here, breed a magnificent species of birds called kaliri.  Their feathers would fetch a bundle at the trading posts back in Azeroth.  Just think of all the ale I could buy then!Tell you what, you bring me a stack of kaliri feathers and I'll give you my very own hat.  What do you say?  You'll never find a hat like this one!  Do we have a deal?",
-    "name": "The Finest Down",
-    "requires_level": 60,
-    "zone": "Hellfire Peninsula"
-}

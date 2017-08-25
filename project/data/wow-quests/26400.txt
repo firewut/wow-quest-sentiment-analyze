@@ -1,7 +1,0 @@
-{
-    "_id": "26400",
-    "description": "We're going to need something even stronger than those beefy <race> hands of yours to open this.  And the Venture Company schlubs to the northwest might have just the thing.Last time I was over there, I saw shredders walking around with giant rotating blades on their hands.  That's one way to open a box!If you can't find any shredders, you might also try the giant sawblade in their lumber mill, by the lake.",
-    "name": "The Universal Key",
-    "requires_level": 26,
-    "zone": "Northern Stranglethorn"
-}

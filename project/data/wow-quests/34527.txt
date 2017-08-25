@@ -1,8 +1,0 @@
-{
-    "_id": "34527",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Draenor Challenge Mode - Consolation (Nth)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

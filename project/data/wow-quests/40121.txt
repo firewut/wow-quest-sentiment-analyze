@@ -1,8 +1,0 @@
-{
-    "_id": "40121",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Ley Line Influences",
-    "requires_level": 98,
-    "zone": "Suramar"
-}

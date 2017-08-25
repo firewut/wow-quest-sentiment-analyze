@@ -1,7 +1,0 @@
-{
-    "_id": "29258",
-    "description": "",
-    "name": "Meteorite Hunt",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

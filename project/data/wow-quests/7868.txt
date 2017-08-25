@@ -1,7 +1,0 @@
-{
-    "_id": "7868",
-    "description": "",
-    "name": "Outrider Advanced Care Package",
-    "requires_level": 45,
-    "zone": "Ashenvale"
-}

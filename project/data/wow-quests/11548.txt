@@ -1,7 +1,0 @@
-{
-    "_id": "11548",
-    "description": "We've built a memorial to honor those slain in battle.  It's but a small consolation to the families that lost their loved ones.I am taking up a collection to aid the orphans and spouses of our war heroes.  If you can spare a small donation it would go a long way.",
-    "name": "Your Continued Support",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

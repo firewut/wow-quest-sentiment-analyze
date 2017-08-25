@@ -1,8 +1,0 @@
-{
-    "_id": "9119",
-    "description": "Since you're here, <name>, I've a favor to ask you.  Ley-Keeper Velania's apprentice dropped by earlier to ask for assistance.  Apparently there's some malfunction happening at the West Sanctum.  I've been a bit busy entertaining our... most pleasant... dwarven guest.  See if you can give her a hand.  You'll find the West Sanctum southwest of here.",
-    "name": "Malfunction at the West Sanctum",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Eversong Woods"
-}

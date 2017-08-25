@@ -1,7 +1,0 @@
-{
-    "_id": "10428",
-    "description": "In the fevered dreams of our injured guest, she spoke of a fisherman, Cowlen, who was in some distress at Silvermyst Isle, to the southwest, off the coast of Azuremyst.With all that has been happening, no one has had the opportunity to look into it, but I do feel a bit of worry. Perhaps there's something you can do, <name>?",
-    "name": "The Missing Fisherman",
-    "requires_level": 8,
-    "zone": "Azuremyst Isle"
-}

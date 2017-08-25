@@ -1,7 +1,0 @@
-{
-    "_id": "28760",
-    "description": "The great city of Orsis was attacked by the armies of air.We were taken prisoner.  We were the lucky ones.Most died, trapped beneath the choking desert sands.Asaad, Al'Akir's caliph, ordered the attack... and he must pay with his life.",
-    "name": "Vengeance for Orsis",
-    "requires_level": 81,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "10289",
-    "description": "When you're ready, I'll summon a wyvern to fly you to Thrallmar. Once you arrive, deliver Orion's report to General Krakork.Lok'tar ogar, <name> - good luck.",
-    "name": "Journey to Thrallmar",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

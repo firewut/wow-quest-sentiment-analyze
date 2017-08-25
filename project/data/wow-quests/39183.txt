@@ -1,8 +1,0 @@
-{
-    "_id": "39183",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "FLAG - Immaculate Critical Strike Taladite",
-    "requires_level": 100,
-    "zone": "Jewelcrafting"
-}

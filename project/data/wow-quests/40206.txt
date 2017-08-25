@@ -1,8 +1,0 @@
-{
-    "_id": "40206",
-    "added_in_patch": 7,
-    "description": "Now, I've never heard of a ghost sending a letter before, but I'll be damned if'n I didn't just receive one now.Celea has sent fer ye, lad. I'd best be on me way if I were ye. Might be bad luck to keep a spirit waiting.",
-    "name": "A Debt Paid",
-    "requires_level": 108,
-    "zone": "Leatherworking"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29482",
-    "description": "Iron to gold, water to fire... if you want to become an transmutation master, then I can show you the way.The training is very expensive, so you'll have to bring me some of the finest transmuted materials in the world.Remember <name>, you can only learn ONE specialization, so if you complete your transmutation training, then potion and elixir specialization will no longer be available.",
-    "name": "Transmutation Master",
-    "requires_level": 1,
-    "zone": "Alchemy"
-}

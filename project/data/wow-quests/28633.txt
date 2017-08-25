@@ -1,7 +1,0 @@
-{
-    "_id": "28633",
-    "description": "I'm not quite certain what ta expect 'ere, so stay on yer toes, eh?These codes should reveal the coffer's true purpose, and present us with the tools to thwart Deathwing's efforts in Uldum fer good!Stand back!",
-    "name": "The Coffer of Promise",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26737",
-    "description": "Now that our allies have been evacuated, it's time to run a final raid on Kurzen's Compound.  They will never be weaker than they are right now, and with your help, we may be able to weaken them beyond repair.Those four names that were listed in the Officers' Dossier - Anders, Gaulus, Miranda, and Esquivel - will be the highest-ranking personnel remaining.  Look for them in that cave in the back of their compound.  Removing all four will be devastating to Kurzen's forces.Go with honor, <name>.",
-    "name": "Stopping Kurzen's Legacy",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31619",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Daily Dungeon Random (Nth) (Mists)",
-    "requires_level": 90,
-    "zone": "Quests"
-}

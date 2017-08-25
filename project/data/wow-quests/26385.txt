@@ -1,8 +1,0 @@
-{
-    "_id": "26385",
-    "description": "It seems you have your first charge. You must travel back down to Rut'theran Village, where we first arrived, and speak to Vesprystus to secure a ride to Lor'danel.Once in Lor'danel, aid the night elves in any way that you are able. I am trusting you to treat them with the reverence that they deserve in light of all that they have done for us.I must travel to the distant city of Stormwind to meet with King Anduin. I hope to see your face again very soon, <name>. Until then, a fond farewell.",
-    "name": "Breaking Waves of Change",
-    "requires_level": 8,
-    "side": "alliance",
-    "zone": "Darkshore"
-}

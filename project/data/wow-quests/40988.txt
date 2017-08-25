@@ -1,8 +1,0 @@
-{
-    "_id": "40988",
-    "added_in_patch": 7,
-    "description": "Greetings. I am called Nomi.I couldn't help but notice that recipe that you just picked up and... well, you'd never guess it, but I'm a bit of a chef myself.Unfortunately, I'm not much of a fighter, and this place is dangerous. You, on the other hand, are clearly an accomplished <class>.Come find me in Dalaran. Maybe we can work together!",
-    "name": "Too Many Cooks",
-    "requires_level": 98,
-    "zone": "Cooking"
-}

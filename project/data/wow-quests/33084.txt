@@ -1,9 +1,0 @@
-{
-    "_id": "33084",
-    "added_in_patch": 6,
-    "description": "Ey commander, fancy runnin' inta ya out here!Tha garrison's got plenty a hungry mouths ta feed, with more folks comin' by every day.We're really gonna need a big haul o' meat ta keep everyone happy.Wouldya care ta lend us a hand? It'll be faster work with an extra pair a hands.",
-    "name": "The Big Haul",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

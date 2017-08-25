@@ -1,8 +1,0 @@
-{
-    "_id": "39510",
-    "description": "What be left of the Iron Horde is comin' to Tanaan through Ironhold Harbor. If we knew who was comin' and when, we could use our shipyard to cause some chaos.Go to Ironhold Harbor and fish up some intelligence!",
-    "name": "A Little Wetwork",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

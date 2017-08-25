@@ -1,7 +1,0 @@
-{
-    "_id": "26714",
-    "description": "As Troteman cuts out, the world around you grows eerily silent. In the distance you see a full grown black dragon!",
-    "name": "Darkblaze, Brood of the Worldbreaker",
-    "requires_level": 17,
-    "zone": "Redridge Mountains"
-}

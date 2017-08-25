@@ -1,8 +1,0 @@
-{
-    "_id": "33581",
-    "added_in_patch": 6,
-    "description": "<Darkscryer Raastok narrows his eyes and looks you up and down.>So, you are Iskar's hired hand? Well, I care not whether you are |5<race> or an overgrown moth, so long as you are willing to help.The Adherents of Rukhmar are closed-minded fools! They forbid the study of shadow magic, branding as heretics anyone who dares to seek answers in the dark.We kept many tomes of forbidden knowledge in Veil Shadar. Bring any you find to me, and I will reward you for keeping them from the flames.",
-    "name": "Forbidden Knowledge",
-    "requires_level": 94,
-    "zone": "Talador"
-}

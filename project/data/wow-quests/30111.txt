@@ -1,7 +1,0 @@
-{
-    "_id": "30111",
-    "description": "",
-    "name": "Raid Finder (Nth)",
-    "requires_level": 85,
-    "zone": "Quests"
-}

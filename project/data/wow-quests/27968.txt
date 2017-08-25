@@ -1,8 +1,0 @@
-{
-    "_id": "27968",
-    "description": "Ah, the sweet scent of victory! My men should be tearing Godfrey to pieces even as we speak. Go up to his domain and collect your share of the spoils - you've earned it!You'd think that he would have been more difficult to defeat...",
-    "name": "Fury of the Pack",
-    "requires_level": 16,
-    "side": "alliance",
-    "zone": "Quests"
-}

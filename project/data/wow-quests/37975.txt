@@ -1,8 +1,0 @@
-{
-    "_id": "37975",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Pet Battles Not Active",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

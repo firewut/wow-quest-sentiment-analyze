@@ -1,7 +1,0 @@
-{
-    "_id": "29506",
-    "description": "I'm sure you've made a lot of potions in your time as an alchemist. How would you like to help with something a bit more light-hearted?I've always wanted to try creating a fruit-flavored version of our popular fizzy drinks. If you're willing to give it a try, you can buy some of the base drink from me and mix it with some moonberry juice.Any innkeeper in Elwynn Forest or Mulgore should be able to sell you enough juice to make your creation.",
-    "name": "A Fizzy Fusion",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

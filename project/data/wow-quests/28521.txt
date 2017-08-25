@@ -1,7 +1,0 @@
-{
-    "_id": "28521",
-    "description": "The threat of corruption comes not only from the Deadwood furbolgs to the south, but also from the east and the Winterfall furbolgs of Winterspring.  If you wish to further aid us, speak with Salfa on the other side of the Hold, by the Winterspring entrance.  Follow the path to the left to reach it.",
-    "name": "Speak to Salfa",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

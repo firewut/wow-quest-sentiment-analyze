@@ -1,8 +1,0 @@
-{
-    "_id": "36512",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Together We Are Strong",
-    "requires_level": 94,
-    "zone": "Talador"
-}

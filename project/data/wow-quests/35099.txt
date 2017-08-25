@@ -1,9 +1,0 @@
-{
-    "_id": "35099",
-    "added_in_patch": 6,
-    "description": "The Iron Horde supplied Lok-rath with war machines from Ironfist Harbor. It won't take long for them to level Riverside Post.Someone has to silence those war machines!",
-    "name": "Silence the War Machines",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

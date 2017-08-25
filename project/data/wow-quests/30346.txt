@@ -1,8 +1,0 @@
-{
-    "_id": "30346",
-    "added_in_patch": 5,
-    "description": "Perhaps these mogu know where the pools are.Our scouts have reported seeing a commander along the southern side of the Ruins of Dojan.Kill him and take whatever information he is carrying. They should lead you to the pool.",
-    "name": "Where are the Pools",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

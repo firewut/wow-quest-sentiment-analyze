@@ -1,7 +1,0 @@
-{
-    "_id": "28838",
-    "description": "What a shame. Whatever Umbranse has done, he has prevented me from undoing his magic.He is wiser than I had anticipated.I do have a backup plan, however. I have seen owlbeasts enter and leave Mazthoril, even after Umbranse took control. Their ancient druidic magic must be capable of disabling Umbranse's. Luckily, I happen to be somewhat of an expert in their methods.Travel south, to Dun Mandarr. You will find a chest with a dreamcatcher in it.That will be your first step.",
-    "name": "The Owlbeasts' Defense",
-    "requires_level": 53,
-    "zone": "Winterspring"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27631",
-    "description": "If we're to pass a resolution for war, the high council's vote needs to be unanimous.I'm certain High Commander Kamses will give us his vote once he hears about what happened at Orsis.Please speak to him in Ramkahen and make sure that's the case.  I must make preparations in case our plan fails.",
-    "name": "The High Commander's Vote",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

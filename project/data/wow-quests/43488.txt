@@ -1,8 +1,0 @@
-{
-    "_id": "43488",
-    "added_in_patch": 7,
-    "description": "I have seen demonic artifacts before, <name>.Legion sigils will only reveal themselves in the presence of demon blood.I sense that time is of the essence. Bring me a large quantity of demon blood, so that I may translate the book as soon as you retrieve it.",
-    "name": "Blood of Our Enemy",
-    "requires_level": 103,
-    "zone": "Paladin Campaign"
-}

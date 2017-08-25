@@ -1,8 +1,0 @@
-{
-    "_id": "27197",
-    "description": "Word is in from Andorhal, <name>.  The battle has resumed.It has become somewhat well-known among the Alliance forces that you're a hero of the first battle of Andorhal.  Thassarian has requested your presence immediately.",
-    "name": "The Battle Resumes!",
-    "requires_level": 38,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

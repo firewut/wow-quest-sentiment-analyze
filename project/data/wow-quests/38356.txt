@@ -1,8 +1,0 @@
-{
-    "_id": "38356",
-    "description": "It's a bit quiet around here, in between the invasions and all.\r\n\r\nYou're in luck though, Commander! I can fix that, and boost morale among your troops all at the same time.\r\n\r\nAll you need to do is bring me a few items from around Draenor, and I'll fill your garrison with music. I'll even throw in a few music rolls from my own collection to get you started!\r\n\r\nWhat do you say?",
-    "name": "Bringing the Bass",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison"
-}

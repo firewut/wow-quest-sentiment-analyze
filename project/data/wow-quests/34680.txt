@@ -1,7 +1,0 @@
-{
-    "_id": "34680",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Alliance Workshop Tracking Event",
-    "zone": "Nagrand"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "39698",
-    "added_in_patch": 7,
-    "description": "As you can see, we have spared no expense in showing our support of your great quest.Final preparations are being made - come, walk with me.",
-    "name": "Making the Rounds",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

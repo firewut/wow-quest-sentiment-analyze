@@ -1,8 +1,0 @@
-{
-    "_id": "32331",
-    "added_in_patch": 5.1,
-    "description": "$p, King Varian has asked that I send you after his son to Dalaran. He believes you can help negotiate the withdrawal of blood elves there.These \"Sunreavers\" claim fealty to the Horde and represent a major threat to the war effort.Now that our very own Jaina Proudmoore is in charge of the Kirin Tor it should be easy to convince her to remove this Horde threat to her city.Use the portal here in Lion's Landing to go to the Purple Parlor and lend what aid you can to Prince Anduin.",
-    "name": "The Kirin Tor",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

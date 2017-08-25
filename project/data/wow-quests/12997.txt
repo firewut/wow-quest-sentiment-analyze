@@ -1,7 +1,0 @@
-{
-    "_id": "12997",
-    "description": "Besting a tethered opponent is one thing.  Fighting other bear riders on equal footing is another.Head into the Pit of the Fang and use what you've learned to defeat your opponents.  Good luck, sister.Glory awaits, should you succeed.",
-    "name": "Into the Pit",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "29440",
-    "description": "The Earthen Ring calls to you once more, <name>.Thrall has cast aside his mantle as warchief of the Horde, but in his new role he needs the support of his people more than ever. He has requested one of the Horde's finest to accompany him in his next endeavor, a ritual of healing that will profoundly impact our world.You will find him under the boughs of Nordrassil in Mount Hyjal, on the southern side of the tree. Heed the call!",
-    "name": "The Call of the World-Shaman",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "Quests"
-}

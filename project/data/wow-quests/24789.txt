@@ -1,7 +1,0 @@
-{
-    "_id": "24789",
-    "description": "",
-    "name": "Daily Heroic Random (Nth)",
-    "requires_level": 80,
-    "zone": "Quests"
-}

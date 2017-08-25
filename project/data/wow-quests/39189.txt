@@ -1,8 +1,0 @@
-{
-    "_id": "39189",
-    "added_in_patch": 6.2,
-    "description": "We have lost contact with the druids of the Cenarion ThicketThe Warchief has commanded any able bodies of the Horde to venture into Terokkar Forest and discover what has happened.The thicket can be found by heading northwest through Terokkar Forest from Zangarmarsh.",
-    "name": "Warchief's Command: Nagrand",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

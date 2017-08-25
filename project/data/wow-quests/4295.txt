@@ -1,7 +1,0 @@
-{
-    "_id": "4295",
-    "description": "",
-    "name": "Rocknot's Ale",
-    "requires_level": 1,
-    "zone": "Blackrock Depths"
-}

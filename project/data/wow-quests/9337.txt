@@ -1,7 +1,0 @@
-{
-    "_id": "9337",
-    "description": "",
-    "name": "Super Mana Potion",
-    "requires_level": 50,
-    "zone": "Quests"
-}

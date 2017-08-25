@@ -1,7 +1,0 @@
-{
-    "_id": "10885",
-    "description": "Four trials you must pass before you are deemed worthy by the naaru.The trial of strength is divided in two. You must destroy the leader of the Coilfang Steamvaults, Warlord Kalithresh, and bring me his trident. Slay the extra-planar being known as Murmur, in the Shadow Labyrinth of Auchindoun, and bring me his essence.Do this and you will have passed the trial of strength.",
-    "name": "Trial of the Naaru: Strength",
-    "requires_level": 70,
-    "zone": "Shattrath City"
-}

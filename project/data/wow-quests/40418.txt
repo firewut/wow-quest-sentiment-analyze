@@ -1,9 +1,0 @@
-{
-    "_id": "40418",
-    "added_in_patch": 6.2,
-    "description": "Congratulations on your recent advancement to level 100!It is vital that you set your focus on Tanaan Jungle and establish a foothold there, before you are distracted with other matters.The King is ready for you inside your town hall along with his full retinue. It would be wise not to keep him waiting...",
-    "name": "To Tanaan!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

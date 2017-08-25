@@ -1,8 +1,0 @@
-{
-    "_id": "14072",
-    "description": "Regthar Deathgate sent me here to observe the centaur activity, but the leader of this group is hard to pin down. I've discovered that his name is \"Verog the Dervish,\" but his whereabouts are a mystery.Can you help me do some digging? I know that \"Centaur Intelligence\" sounds like an oxymoron, but their camps are often littered with important communications. Search the centaur tents all around the Stagnant Oasis here and bring me back some info.",
-    "name": "Flushing Out Verog",
-    "requires_level": 13,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42748",
-    "added_in_patch": 7,
-    "description": "The owlbeasts here are disconnected from Elune.\r\n\r\nA contingent of dryads went into their territory to find out what went wrong, but none of them have returned.\r\n\r\nI fear the worst, and I believe they are  in need of rescue.\r\n\r\nWhile I try to learn if the owlkin can be saved, I would appreciate your help in freeing any Sisters you find in the grotto.",
-    "name": "Emerald Sisters",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

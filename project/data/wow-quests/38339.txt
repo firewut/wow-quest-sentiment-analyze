@@ -1,8 +1,0 @@
-{
-    "_id": "38339",
-    "added_in_patch": 7,
-    "description": "I'm not sure what yer doin' here, but ye have my thanks. If ye want to get any further, though, ye'll need to get past that foul dog, Guarm.\r\n\r\nI've tried meself a few times, and I think I have a plan. If we can get some of the seaweed these kvaldir wear, we might be able to trick the mutt. Guarm's mean, ye see, but not too smart.\r\n\r\nWhat do ye say? Think ye can take on a few kvaldir?",
-    "name": "A Little Kelp From My Foes",
-    "requires_level": 98,
-    "zone": "Quests"
-}

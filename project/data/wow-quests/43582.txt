@@ -1,8 +1,0 @@
-{
-    "_id": "43582",
-    "added_in_patch": 7,
-    "description": "We have a Devilsaur.I think she sees you as the pack leader now. She should obey your commands.She looks hungry. Why don't you let her off the leash a little bit?",
-    "name": "Shalassic Park",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

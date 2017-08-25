@@ -1,7 +1,0 @@
-{
-    "_id": "24547",
-    "description": "Shadow's Edge is among the greatest weapons a <class> could hope to obtain.Is your lust for power sated, <race>?<You feel Mograine's penetrating gaze.>I thought not. A final warning then...You now embark on the most treacherous leg of your quest. Bridle your aspirations, for if your aims are impure then your life, your very soul, is forfeit.The weapon you hold is but an empty husk, a mere shadow of what it may become.",
-    "name": "A Feast of Souls",
-    "requires_level": 80,
-    "zone": "Quests"
-}

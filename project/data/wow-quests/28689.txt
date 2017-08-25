@@ -1,7 +1,0 @@
-{
-    "_id": "28689",
-    "description": "Many soldiers died on this island <name>.  It is only fair that we pay our respects to them in any way that we can.I need you to travel to Forgotten Hill, due west of here and release our brothers in arms' tortured souls away from this place.  Do be careful over there, reports of undead have been ongoing in the area.",
-    "name": "The Forgotten",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

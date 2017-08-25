@@ -1,8 +1,0 @@
-{
-    "_id": "30364",
-    "added_in_patch": 5,
-    "description": "The First of Garrosh is going the level Theramore Isle... but not until we free the spy whose intelligence made this operation possible.Enter Foothold Citadel and slay Captain Evencane for his shackles key.Our spy, the Sunreaver mage Thalen Songweaver, is being held beneath the barracks.",
-    "name": "Fly, Spy!",
-    "requires_level": 85,
-    "zone": "Theramore's Fall (Horde)"
-}

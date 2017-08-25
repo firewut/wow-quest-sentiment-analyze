@@ -1,9 +1,0 @@
-{
-    "_id": "33694",
-    "added_in_patch": 6,
-    "description": "The destruction of our village will not be easy to come back from. Our best hunter, Rakthoth, \"finds\" reagents for our shaman.She has not been seen for some time and we need those more than ever. Go to her hunting grounds and see if she still lives.",
-    "name": "Reagents from Rakthoth",
-    "requires_level": 93,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

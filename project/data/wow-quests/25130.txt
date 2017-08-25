@@ -1,8 +1,0 @@
-{
-    "_id": "25130",
-    "description": "Seeing the deed you have done for me steels my heart. I cannot fall so easily! I must endure!But it remains that I cannot make the trek back to our settlement unassisted. Please, <name>, return and tell Gornek of my situation. Perhaps he can help me.",
-    "name": "Back to the Den",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Valley of Trials"
-}

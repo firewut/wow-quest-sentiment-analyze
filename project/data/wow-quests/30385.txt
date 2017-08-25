@@ -1,8 +1,0 @@
-{
-    "_id": "30385",
-    "added_in_patch": 5,
-    "description": "I offer you my heartfelt appreciation for your aid. Anji awaits you in the Setting Sun Garrison to the west.May the day favor you, young <class>.",
-    "name": "Setting Sun Garrison",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

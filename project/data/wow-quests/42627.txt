@@ -1,8 +1,0 @@
-{
-    "_id": "42627",
-    "added_in_patch": 7,
-    "description": "Stormwind is too important to fall to the Legion, and I don't trust Shaw or his SI:7 goons to take care of the Hand on their own.The two of us will have to handle this while there's still time.Use extreme caution. The entire city is on edge from murmurs of the cult's activities, and we're already kill on sight.The other Shadows spoke highly of your skills. Are you in?",
-    "name": "The Unseen Blade",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

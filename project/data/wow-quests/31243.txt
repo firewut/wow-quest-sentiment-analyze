@@ -1,8 +1,0 @@
-{
-    "_id": "31243",
-    "added_in_patch": 5,
-    "description": "Mogu have been sighted at Mistfall Village to the southwest. I dispatched Rook and Sun immediately, but I need another capable hand there as soon as possible.Don't delay. The villagers need you.",
-    "name": "Attack on Mistfall Village",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

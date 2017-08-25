@@ -1,8 +1,0 @@
-{
-    "_id": "35288",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Stockade Reward Quest",
-    "requires_level": 20,
-    "zone": "Quests"
-}

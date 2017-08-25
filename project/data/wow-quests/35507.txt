@@ -1,9 +1,0 @@
-{
-    "_id": "35507",
-    "added_in_patch": 6,
-    "description": "Dwarves are dumb. Don't they know that if you dig a deep hole you are going to have goren attack?If you are going to go into that iron fort you better kill a bunch of goren otherwise they are going to chew the walls enough to cause a cave-in.I would do it myself but I'm still stuffed from all that fruit the botani made me eat.",
-    "name": "Down the Goren Hole",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

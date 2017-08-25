@@ -1,8 +1,0 @@
-{
-    "_id": "11131",
-    "description": "You must help us!  The Headless Horseman is attacking the village.  Fires are everywhere!  The children aren't safe!Please, <name>, join the fire brigade.  Grab a bucket and toss it on the fires, or pass it to a friend who's closer to the blaze.  Put out all the fires and we may yet be saved!",
-    "name": "Stop the Fires!",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Hallow's End"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37468",
-    "added_in_patch": 7,
-    "description": "The sunken structure on the other side of this bridge was once called Nar'thalas Academy: the center of magical studies in all of Azeroth. You should have seen her in her full splendor.The Tidestone should be locked up within. I dare not enter, but you - my champion - you go with my blessing.",
-    "name": "Into the Academy",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

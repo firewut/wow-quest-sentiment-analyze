@@ -1,8 +1,0 @@
-{
-    "_id": "31006",
-    "added_in_patch": 5,
-    "description": "I must report to the Klaxxi. They would not have woken me unless the situation were dire.You have not been entirely useless. For that, I will spare your life.The council may even find a use for you.",
-    "name": "The Klaxxi Council",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

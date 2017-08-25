@@ -1,8 +1,0 @@
-{
-    "_id": "36669",
-    "added_in_patch": 6,
-    "description": "Bloodmaul ogres from Frostfire Ridge have been ambushing trade routes throughout the continent, and are putting captured soldiers to work in their slag mines.\r\n\r\nShadow Hunter Rokhan has requested the rescue of friendly troops that have been taken prisoner in the main Bloodmaul compound at Stonefury Cliffs.",
-    "name": "Assault on Stonefury Cliffs",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "876",
-    "description": "The harpies you've killed mentioned their matron, Serena Bloodfeather. Judging from their vile hatred toward the Horde, she must hold some kind of deep-seated grudge. You decide to hunt down Serena Bloodfeather and end matters once and for all.",
-    "name": "Serena Bloodfeather",
-    "requires_level": 12,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

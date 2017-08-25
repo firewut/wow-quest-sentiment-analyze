@@ -1,7 +1,0 @@
-{
-    "_id": "28853",
-    "description": "Thank you, <class>, for braving the horrors of this dark and terrible place.The bowels of Grim Batol are the heart of Cho'gall's war machine. If we are to stop his machinations throughout the Highlands, we must learn all we can from these depths.Seek out Drahga Shadowburner within. He is Cho'gall's runner, the link between here and the Bastion of Twilight. We must learn the secrets he carries.",
-    "name": "Kill the Courier",
-    "requires_level": 84,
-    "zone": "Quests"
-}

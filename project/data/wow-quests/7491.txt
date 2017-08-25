@@ -1,7 +1,0 @@
-{
-    "_id": "7491",
-    "description": "Overlord Natoj awaits your arrival in the Valley of Strength.<Saurfang salutes you.>Do not keep the Horde waiting!",
-    "name": "For All To See",
-    "requires_level": 60,
-    "zone": "Orgrimmar"
-}

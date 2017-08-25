@@ -1,8 +1,0 @@
-{
-    "_id": "43520",
-    "added_in_patch": 7,
-    "description": "We must do what we can to ensure that the Nightmare never again festers within the Emerald Dream.The aberration known as Il'gynoth lies at the heart of the corruption - a living, writhing manifestation of the horrors you will encounter at every turn of your journey.I ask that you ensure its destruction, along with the Nightmare Lord himself... Xavius.Once the deeds have been done, bring a small piece of each to me. We can study them to figure out just how the Nightmare grew so quickly.",
-    "name": "In Nightmares",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27326",
-    "description": "Whatever it is that the Grimtotem are doing with the Drums of War, we do not want them to keep them.Do not worry, <name>, we will figure out what is going on here. But first, we need to gather all of the artifacts.",
-    "name": "The Drums of War",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

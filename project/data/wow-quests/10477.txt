@@ -1,7 +1,0 @@
-{
-    "_id": "10477",
-    "description": "",
-    "name": "More Warbeads",
-    "requires_level": 65,
-    "zone": "Nagrand (Outland)"
-}

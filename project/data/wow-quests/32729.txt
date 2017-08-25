@@ -1,8 +1,0 @@
-{
-    "_id": "32729",
-    "added_in_patch": 5.2,
-    "description": "The Zandalari have been a constant nuisance since we arrived on this island. I've assigned Halduron Brightwing to take charge of dismantling their presence at Za'Tual, in the south.Report to Halduron when you are best able. He will have work for you.",
-    "name": "Za'Tual",
-    "requires_level": 90,
-    "zone": "Quests"
-}

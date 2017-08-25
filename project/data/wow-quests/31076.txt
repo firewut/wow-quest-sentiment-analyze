@@ -1,8 +1,0 @@
-{
-    "_id": "31076",
-    "added_in_patch": 5,
-    "description": "Greetings, <race>. I am Chen Stormstout.I'm looking for my family. I am told that several Stormstouts came across the wall to help face the mantid threat. I mean to find them, and join them.Have you seen anyone named Stormstout come through here? Would you mind helping me ask around?",
-    "name": "Fate of the Stormstouts",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

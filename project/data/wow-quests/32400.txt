@@ -1,8 +1,0 @@
-{
-    "_id": "32400",
-    "added_in_patch": 5.1,
-    "description": "Horde forces are amassing in huge numbers at the Emperor's Reach, high up in the mountains of Kun-Lai Summit.The area is an ancient mogu palace, and certainly a source of untold power.This can only mean one thing. Garrosh is going to use the Divine Bell, and Anduin... and the Harmonic Mallet... are both missing.I have no doubt that the fool boy went north by himself.I don't have time to gather an elite force to detain him. You must go and stop Anduin.Fennie can take you.",
-    "name": "The Bell Speaks",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

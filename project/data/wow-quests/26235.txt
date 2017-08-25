@@ -1,8 +1,0 @@
-{
-    "_id": "26235",
-    "description": "We have had a problem with thieves stealing our infantry rations here in Orgrimmar for the last couple of weeks.  I recently received some intelligence of where these crimes are taking place.  Anywhere you see piles of crates and supplies, there are likely to be thieves nearby.  I need you to hunt these thieves down and recover the stolen rations.  Return to me when you are done.",
-    "name": "Even Thieves Get Hungry",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

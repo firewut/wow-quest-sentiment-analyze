@@ -1,8 +1,0 @@
-{
-    "_id": "36616",
-    "added_in_patch": 6,
-    "description": "You truly are a master fisherman!\r\n\r\nI would be delighted to join you here on Draenor and help you catch as many lunkers as you can. But first, let's grab a drink.",
-    "name": "An Angler on Our Team",
-    "requires_level": 94,
-    "zone": "Fishing"
-}

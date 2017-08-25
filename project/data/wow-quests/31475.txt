@@ -1,8 +1,0 @@
-{
-    "_id": "31475",
-    "added_in_patch": 5,
-    "description": "A great meal can lift your spirits, and none more so than food from the Way of the Steamer. Bring the Master some giant mantis shrimp and he will show you. You can fish for giant mantis shrimp in the ocean.",
-    "name": "Way of the Steamer",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

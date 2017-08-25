@@ -1,8 +1,0 @@
-{
-    "_id": "40196",
-    "added_in_patch": 7,
-    "description": "<name>! I was recently talking with Mei, the mount trader, and she asked me if it was possible to make a barding that could prevent adventurers from being dismounted.I'd like you to go and discuss this idea with her further.Return to me when you're finished. Perhaps we can solve this issue together.",
-    "name": "Adventuring Anxieties",
-    "requires_level": 104,
-    "zone": "Leatherworking"
-}

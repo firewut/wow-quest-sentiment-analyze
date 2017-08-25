@@ -1,7 +1,0 @@
-{
-    "_id": "27743",
-    "description": "You know, while we're here, we might as well take care of the Twilight's Hammer intruders. This place used to be ours, after all!I'd help, but with my totems and weapons broken, I'm pretty helpless.",
-    "name": "While We're Here",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

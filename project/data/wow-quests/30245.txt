@@ -1,8 +1,0 @@
-{
-    "_id": "30245",
-    "added_in_patch": 5,
-    "description": "We sent some scouts towards the Five Sisters to the north to try and find whatever mogu leader has risen up to direct their movements in the valley. Few have returned.I'd like to think they're just off downing too much ale or being irresponsible with some young pandaren, but they may actually be in some trouble.Can you scout for the scouts? And see if they've turned up any information on that leader while you're at it?",
-    "name": "Lost Scouts",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

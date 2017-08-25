@@ -1,9 +1,0 @@
-{
-    "_id": "34043",
-    "added_in_patch": 6,
-    "description": "This keystone will grant its bearer entry into Anguish Fortress.Take it and meet Prophet Velen outside the Shadowmoon fortress.He intends to face Ner'zhul head-on.",
-    "name": "Darkest Night",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

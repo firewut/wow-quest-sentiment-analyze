@@ -1,7 +1,0 @@
-{
-    "_id": "4494",
-    "description": "It would seem that the silithid's intent, nay - reason for being, is to devour everything in their path that is not of their ecology.  Their focus is singular, and it is for this reason they are a grave threat to all life on Azeroth.What we've seen to date is but the first stages.  I suspect that their strength comes from deeper in Kalimdor: Un'Goro Crater.  Go to Gadgetzan in the Tanaris desert and speak to Alchemist Pestlezugg.  Tell him of my theory; he will surely aid us in fighting the silithid.",
-    "name": "March of the Silithid",
-    "requires_level": 50,
-    "zone": "Orgrimmar"
-}

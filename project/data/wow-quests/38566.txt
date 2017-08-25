@@ -1,8 +1,0 @@
-{
-    "_id": "38566",
-    "added_in_patch": 7,
-    "description": "The paladins of Azeroth must stand united behind a single leader. With Tirion's passing, you are the one most worthy to wear the mantle of Highlord.If you agree to accept this duty, inscribe your name into the Libram of Ancient Kings and I will address the masses on your behalf.The Order of the Silver Hand is reborn, with you as its champion!",
-    "name": "A United Force",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

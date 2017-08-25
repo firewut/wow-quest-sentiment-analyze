@@ -1,8 +1,0 @@
-{
-    "_id": "35363",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Throne of the Tides Reward Quest",
-    "requires_level": 80,
-    "zone": "Quests"
-}

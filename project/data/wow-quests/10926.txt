@@ -1,7 +1,0 @@
-{
-    "_id": "10926",
-    "description": "We will not make it back on our own.  The dreadfang poison is too strong. You must return to Sha'tari Base Camp for us.  Scout Navrin will send a rescue party out to find us.",
-    "name": "Return to Sha'tari Base Camp",
-    "requires_level": 63,
-    "zone": "Terokkar Forest"
-}

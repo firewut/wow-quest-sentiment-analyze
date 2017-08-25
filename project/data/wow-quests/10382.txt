@@ -1,8 +1,0 @@
-{
-    "_id": "10382",
-    "description": "Well, <name>, I hope you're prepared for the next phase of our operation. The Legion never rests - and neither shall we! Take a gryphon and fly over to Honor Point - it's a small post near the Legion Front. Speak with Field Marshal Brock. He'll have instructions for you when you arrive. Oh, and tell that pasty-faced shield-kisser I said 'hello'.  \r\n",
-    "name": "Go to the Front",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

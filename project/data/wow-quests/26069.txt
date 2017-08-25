@@ -1,8 +1,0 @@
-{
-    "_id": "26069",
-    "description": "Southern Barrens is under attack by the Alliance. The tauren have sent out a call for help that we simply cannot ignore. All able bodied soldiers of the Horde should assist.If you wish to help, take the path to the High Road, located in the village. Seek out Nura Pathfinder. ",
-    "name": "Nura Pathfinder",
-    "requires_level": 28,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

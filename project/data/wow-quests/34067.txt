@@ -1,9 +1,0 @@
-{
-    "_id": "34067",
-    "added_in_patch": 6,
-    "description": "This coil of rope has been woven thick, the better for the Thunderlord Wranglers to handle the dangerous beasts they tame.Scout Ruk'gan might have a use for this and a few more like it.",
-    "name": "A Collection of Coils",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

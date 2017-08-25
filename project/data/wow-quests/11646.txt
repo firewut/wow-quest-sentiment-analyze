@@ -1,7 +1,0 @@
-{
-    "_id": "11646",
-    "description": "Listen closely, <name>, for there is not a moment to spare.Your prisoner is being prepared for interrogation here in our tower. In the event that he is less than forthcoming, your assistance may be required.Make your way up to where he is being detained and tell Librarian Normantis that I've sent you to assist him.",
-    "name": "The Borean Inquisition",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

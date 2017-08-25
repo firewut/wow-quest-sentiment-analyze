@@ -1,9 +1,0 @@
-{
-    "_id": "39122",
-    "added_in_patch": 7,
-    "description": "The Banshee Queen is here! I'd recognize those tainted arrows anywhere.\r\n\r\nThis is the moment we have been fighting for. Sylvanas will answer for her crimes against Varian Wrynn and the Alliance!\r\n\r\nTo arms!",
-    "name": "Ending the New Beginning",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

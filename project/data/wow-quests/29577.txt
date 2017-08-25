@@ -1,8 +1,0 @@
-{
-    "_id": "29577",
-    "added_in_patch": 5,
-    "description": "Have a look at that!<Ashyo motions at the massive waterfall to the north.>This must be the water supply for the whole valley!Think about it, <name>: the pandaren use this water to grow vegetables the size of a house. Where could it come from? What is so special about it?The elders among my people know a technique for speaking with the water and divining the future. Perhaps this same technique can provide insight into the water's source...It's worth a shot at least!",
-    "name": "Ashyo's Vision",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27624",
-    "description": "Aww, that was nothin', really.Those statues were teetering as it was - just needed a little push is all.How about you go and sort through that rubble?I've got a feeling we're close to getting this all sorted out.",
-    "name": "After the Fall",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

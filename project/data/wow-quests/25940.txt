@@ -1,7 +1,0 @@
-{
-    "_id": "25940",
-    "description": "We might have a chance to beat these flames back thanks to your work in the Inferno.Still, more wildlife is threatened. Keeper Taldros ran north through the flames, to Whistling Grove.See if you can help him!",
-    "name": "Last Stand at Whistling Grove",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

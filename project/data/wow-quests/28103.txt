@@ -1,7 +1,0 @@
-{
-    "_id": "28103",
-    "description": "The ambush launched smoothly. Most of the guards are dead, but a few are still pinned down with the wagons.Get in there and clear them out so we can push forward into the canyons.",
-    "name": "Easy Pickings",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

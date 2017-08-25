@@ -1,7 +1,0 @@
-{
-    "_id": "25515",
-    "description": "<Jinky rolls up her sleeves and slicks back her hair while eyeing you up and down.>Fine, if Fizzle wants you to have your own boat, the first thing we'll need is parts. Guess who gets to go get them?<Jinky smiles as she points downward and then grabs you a spare diving helm and flippers.>That's right,  brother . You get to go down into the deeps and salvage what rocket car parts you can find at the Raceway Ruins.",
-    "name": "Down in the Deeps",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

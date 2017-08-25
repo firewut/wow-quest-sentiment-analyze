@@ -1,7 +1,0 @@
-{
-    "_id": "29321",
-    "description": "It seems like everyone I know loves clams, but I can't stand them! They're smelly and slimy, and harvesting them means digging through mud. Give me a fishing pole and some bait any day.Still, I want to surprise my brother with a bucket of fresh clams. I'd reward you if you were willing to gather those clams for me.Just go through the portal to Rut'theran Village and look for the clams in the shallows near the shore.",
-    "name": "Happy as a Clam Digger",
-    "requires_level": 10,
-    "zone": "Fishing"
-}

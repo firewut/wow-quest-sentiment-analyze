@@ -1,8 +1,0 @@
-{
-    "_id": "31967",
-    "added_in_patch": 5,
-    "description": "Northrend has fallen to your hand, but you are not yet ready to face the grand masters of Pandaria. Defeat these tamers to harden your will for the coming challenges: Brok in Mount Hyjal, Bordin Steadyfist in Deepholm, and Goz Banefury in Twilight Highlands.Only by defeating them will you be ready to journey to Pandaria.",
-    "name": "Battle Pet Tamers: Cataclysm",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

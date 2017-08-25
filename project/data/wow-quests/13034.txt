@@ -1,7 +1,0 @@
-{
-    "_id": "13034",
-    "description": "When I began my travels in Northrend, I visited the Borean Tundra and met the taunka for the first time. There, Wind Tamer Barah told me the tale of Stormhoof and his battle against the North Wind, their people's ancient enemy.I set out for the Storm Peaks to learn more of this hero, but strangely, the people of Tunka'lo seem to know nothing of him.Perhaps the camp's own records will give us greater insight. Find and read the history scrolls kept throughout the camp, then tell me what you learned.",
-    "name": "The Witness and the Hero",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

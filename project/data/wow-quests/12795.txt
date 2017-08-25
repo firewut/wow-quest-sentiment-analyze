@@ -1,7 +1,0 @@
-{
-    "_id": "12795",
-    "description": "A few moments ago I spotted a signal flare over the treeline to the east.That can only mean that things are not going smoothly for the Crusaders at Argent Stand.I cannot leave our post here, <race>, but you can. When time permits, make your way up to Commander Falstaav and see if there's anything you can do to lighten their burden.",
-    "name": "Taking a Stand",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

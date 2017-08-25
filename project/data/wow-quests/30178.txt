@@ -1,8 +1,0 @@
-{
-    "_id": "30178",
-    "added_in_patch": 5,
-    "description": "Deep in the wilds, on the southern coast where the Krasarang River meets the sea, rests the Temple of the Red Crane, home of the great Chi-Ji and his most devout followers.They should be told of what happened here.If you're headed that way, I have a favor to ask; We often send supplies to the temple, but our last courier has not returned. Please look for signs of him as you travel - where the road forks at the Dojani River, he'd have gone south. When you reach the temple, find Koro Mistwalker.",
-    "name": "Into the Wilds",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

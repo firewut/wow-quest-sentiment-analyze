@@ -1,7 +1,0 @@
-{
-    "_id": "12289",
-    "description": "It is a dark day for the Alliance. Many good men lay dead or dying here. Our only consolation is that they fought well and brought down many of the enemy with them.With the bulk of our forces committed to Venture Bay we stand alone to weather this storm. The resources in this region are vital to the Alliance and may well make the difference in our struggle against the Horde. We must not fail!Go, <name>. Strike at them while they lick their wounds. Avenge your fallen brothers and keep our hopes alive!",
-    "name": "Kick 'Em While They're Down",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

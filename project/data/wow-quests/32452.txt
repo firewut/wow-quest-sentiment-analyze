@@ -1,8 +1,0 @@
-{
-    "_id": "32452",
-    "added_in_patch": 5.1,
-    "description": "We're fighting a war on all fronts, <class>. Even Pandaria itself needs our protection.The Bilgewater goblins are destroying land that doesn't belong to them. They must be stopped!Report to Sky Admiral Rogers aboard the Skyfire. From her vantage point she should have a good idea of where their weak spots are.",
-    "name": "And Then There Were Goblins",
-    "requires_level": 90,
-    "zone": "Quests"
-}

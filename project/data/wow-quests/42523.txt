@@ -1,8 +1,0 @@
-{
-    "_id": "42523",
-    "added_in_patch": 7,
-    "description": "Now that we have recruited champions for our order, we can use the Scouting Map to complete vital assignments across the Broken Isles.Over the years our scouts have kept a close eye on hunters that might one day be added to our ranks. One such hunter, Lenara, was on her way to Trueshot Lodge when she was attacked.I suggest that we send Loren Stormhoof on a mission to rescue her. He may be uniquely suited to this task.",
-    "name": "Making Contact",
-    "requires_level": 101,
-    "zone": "Hunter Campaign"
-}

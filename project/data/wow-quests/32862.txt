@@ -1,8 +1,0 @@
-{
-    "_id": "32862",
-    "added_in_patch": 5.3,
-    "description": "Our work be far from finished, <name>. De flames of change burn, but dey can still be snuffed out.Bring me more Kor'kron war supplies, and I'll reward ya well.",
-    "name": "Battlefield: Barrens",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

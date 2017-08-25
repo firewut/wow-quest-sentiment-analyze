@@ -1,8 +1,0 @@
-{
-    "_id": "12167",
-    "description": "The Anub'ar cultists are indirectly responsible for the plaguing of the beasts, and we must put an end to it!The fumes that emit from the cultists' suits seep into everything they come near, poisoning and corrupting their surroundings.You must go north to Icemist Village and slay them. Bring back any of their suits that survive your assault and I will see to it that they are properly disposed of.",
-    "name": "Kill the Cultists",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

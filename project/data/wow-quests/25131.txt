@@ -1,8 +1,0 @@
-{
-    "_id": "25131",
-    "description": "I trust the Valley of Trials will teach you much, young <class>.I was sent to the Valley to guide you, but I have discovered a growing taint here...One of the Burning Blade - a foul, demon-worshipping cult - has made camp here in the Valley of Trials.  He skulks in a cave to the north, and his vile familiars have spilled from its mouth to cause havoc.As your first task against the Burning Blade, I bid you, defeat these familiars. Slay many and, if you survive, return to me.",
-    "name": "Vile Familiars",
-    "requires_level": 3,
-    "side": "horde",
-    "zone": "Valley of Trials"
-}

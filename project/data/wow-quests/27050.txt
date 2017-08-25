@@ -1,7 +1,0 @@
-{
-    "_id": "27050",
-    "description": "Something upon the Crimson Expanse continues to spur disgusting growths upon the rock. New fungi are rising, and they need to be crushed before they can spread.",
-    "name": "Fungal Fury",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

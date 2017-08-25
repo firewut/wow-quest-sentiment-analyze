@@ -1,7 +1,0 @@
-{
-    "_id": "27347",
-    "description": "Just look at this area! It's swarming with oozes. If I don't find some way to keep them under control, they'll corrode the wreckage and the zeppelin's cargo!I can't go back empty-handed, <class>! Help me dissolve these oozes before they've digested everything!This device, when powered, will concentrate energy on the slimes, causing them to explode. The zeppelin's fragmented power core should power the device. The one near the main crash works all the time, but the others flicker on and off.",
-    "name": "Corrosion Prevention",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

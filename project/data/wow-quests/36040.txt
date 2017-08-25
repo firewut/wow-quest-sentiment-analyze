@@ -1,8 +1,0 @@
-{
-    "_id": "36040",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tuft of Gnome Hair",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

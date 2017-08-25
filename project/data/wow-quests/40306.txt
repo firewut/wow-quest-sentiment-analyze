@@ -1,8 +1,0 @@
-{
-    "_id": "40306",
-    "added_in_patch": 7,
-    "description": "The next step of my journey requires a tome, but I find that I am still unable to idly sit by as this place continues to fall into disrepair.I will tidy up the memorials while you go fetch me the tome. It is called the Encyclopedia Botanica and you can find it in the library near the main plaza.",
-    "name": "The Last Chapter",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

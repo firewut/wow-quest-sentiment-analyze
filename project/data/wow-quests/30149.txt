@@ -1,8 +1,0 @@
-{
-    "_id": "30149",
-    "added_in_patch": 5,
-    "description": "I have heard that you know a thing or two about cooking.As it so happens, serpents love to eat Fish Cakes.If you use your culinary skills and bring me 5 of these dishes, the cloud serpents around here will be very happy.",
-    "name": "A Feast for the Senses",
-    "requires_level": 90,
-    "zone": "The Arboretum"
-}

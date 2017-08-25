@@ -1,7 +1,0 @@
-{
-    "_id": "28355",
-    "description": "Gnolls! These terrible little creatures are a blight upon any land - which is saying a lot when you consider that Hillsbrad is Forsaken territory. Kill as many of the gnolls at the Nethander Stead as you can. For the good of the world!",
-    "name": "Terrible Little Creatures",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

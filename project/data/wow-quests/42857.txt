@@ -1,8 +1,0 @@
-{
-    "_id": "42857",
-    "added_in_patch": 7,
-    "description": "These fruit appear to be food to grell.\r\n\r\nOld Grizzleback might appreciate it if they were removed from the village.",
-    "name": "Moist Around the Hedges",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

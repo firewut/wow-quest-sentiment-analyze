@@ -1,9 +1,0 @@
-{
-    "_id": "30274",
-    "added_in_patch": 5,
-    "description": "An Alliance member? Here? Elune be praised.My team has encountered a snag. We opened a portal to this land using some ancient scrolls we had found that predated Azshara's rule.Unfortunately, the coordinates provided on the tablets were warded and the portal that meant to take us to our destination landed us in this oubliette.We have been trapped here for days, and it is slowly leaching our energies to power itself.Can you find the nearby shackles that bind the oubliette and disable them?",
-    "name": "The Arcanic Oubliette",
-    "requires_level": 86,
-    "side": "alliance",
-    "zone": "Krasarang Wilds"
-}

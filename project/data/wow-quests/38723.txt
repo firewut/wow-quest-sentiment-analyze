@@ -1,8 +1,0 @@
-{
-    "_id": "38723",
-    "added_in_patch": 7,
-    "description": "After his defeat at the Black Temple, we brought Illidan's lifeless body here, to be interred forever within the Vault of the Wardens.\r\n\r\nGul'dan has found his way through our defenses and is trying to steal the Betrayer's corpse.\r\n\r\nEven in death, Illidan's body can be used by the Burning Legion. Gul'dan CANNOT succeed.",
-    "name": "Stop Gul'dan!",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

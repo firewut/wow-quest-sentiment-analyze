@@ -1,9 +1,0 @@
-{
-    "_id": "35922",
-    "added_in_patch": 6,
-    "description": "Hey,  mister, this crumb-bum won't let me in. Interested in some cold, hard cash?My boss is promoting fights at the Ring of Trials. You look like you could hold your own.You should go fight.",
-    "name": "Bread and Circuses",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

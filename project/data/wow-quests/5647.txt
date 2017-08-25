@@ -1,7 +1,0 @@
-{
-    "_id": "5647",
-    "description": "Your race is so very strong, <name>. We are proud to call you allies. And as each day's sun sets, you and your kin grow closer to not only finding your true origins, but find great confidence that you are on the right path in so many things. That feeling must make you feel so triumphant.Word came from Ironforge just recently. It asked that you return there and speak to High Priest Rohan in the Mystic Ward. I would not keep him waiting. May Elune guide your travels.",
-    "name": "A Lack of Fear",
-    "requires_level": 20,
-    "zone": "Priest"
-}

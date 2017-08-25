@@ -1,8 +1,0 @@
-{
-    "_id": "37777",
-    "description": "Your outpost in Gorgrond has a serious saberon problem, commander, and we can't really afford to keep sending more troops to help 'em out. So I have an idea.There's an enormous worm beast on the west coast of Gorgrond called Tremor, better known as the devourer of lobstroks. If you took that thing down and brought the, well, pile of partially digested lobstrok meat back here, we can cook it here, ship it back there, use it to calm the saberon for a good long time!",
-    "name": "Death to Tremor!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37479",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Kill Alliance Leaders",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

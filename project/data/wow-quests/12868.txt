@@ -1,7 +1,0 @@
-{
-    "_id": "12868",
-    "description": "This Sirana Iceshriek sounds like the one that's spurring the harpies to be more aggressive. If we kill her, I suspect their attacks won't last long afterwards.One of our stormriders claims to have spotted her circling the peak directly northwest of here.  Go find the wench and put her down. Let's see this done.",
-    "name": "Sirana Iceshriek",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

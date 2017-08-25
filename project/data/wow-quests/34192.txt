@@ -1,9 +1,0 @@
-{
-    "_id": "34192",
-    "added_in_patch": 6,
-    "description": "The abandoned mine shaft has been overrun with goren!  They seem to be responding to commands from a big one farther down in the mine.  If you can take him out, the rest will probably retreat.Once you have those goren cleared out, we can get that mine up and working!",
-    "name": "Things Are Not Goren Our Way",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

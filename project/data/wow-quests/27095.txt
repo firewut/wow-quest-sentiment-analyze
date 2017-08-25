@@ -1,8 +1,0 @@
-{
-    "_id": "27095",
-    "description": "Vengeance is all consuming, <name>! Our third ship sank off the coast of the Skittering Dark, northwest of here. The men that made it off that boat were either captured or killed by the Skitterweb spiders of the region. For that, the spiders must die! ALL OF THEM!Travel to the Skittering Dark and crush those insects!Be on the lookout for their matriarch. Perhaps if we find her we can end this menace forever!",
-    "name": "Skitterweb Menace",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Silverpine Forest"
-}

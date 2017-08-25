@@ -1,8 +1,0 @@
-{
-    "_id": "42808",
-    "added_in_patch": 7,
-    "description": "As much as I would love us to finesse our way to victory, the cold, hard reality is that we need more powerful forces.\r\n\r\nWe are already straining Gaardoun's ability to recruit more broken.\r\n\r\nBut now that we have Ariana Fireheart, she can train new demon hunters for us.",
-    "name": "Green Adepts",
-    "requires_level": 103,
-    "zone": "Demon Hunter Campaign"
-}

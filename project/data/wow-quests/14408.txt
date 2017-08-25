@@ -1,8 +1,0 @@
-{
-    "_id": "14408",
-    "description": "My benefactors used their diminutive intellect to construct an interplanetary transport. As designed, this so-called \"Rocket\" is a death trap. But I suspect a simple re-engineering of the fuel catalyst semifold would render a stable mixture, providing a breathable oxygen byproduct. To implement such changes, I require the original engineering plans.Locate the Laboratory Archives and ring the doorbell to gain entry. The plans will be held by the lab director himself, presuming he still lives.\r\n",
-    "name": "Nine's Plan",
-    "requires_level": 12,
-    "side": "horde",
-    "zone": "Azshara"
-}

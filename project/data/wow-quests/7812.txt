@@ -1,7 +1,0 @@
-{
-    "_id": "7812",
-    "description": "",
-    "name": "Additional Runecloth",
-    "requires_level": 50,
-    "zone": "Ironforge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "4976",
-    "description": "Take the cleansed orb back to Menara in Ratchet, <name>. Give her my regards and be safe. I truly hope you are able to withstand the temptation and corruption that is sure to come as you follow your path.Good luck.",
-    "name": "Returning the Cleansed Orb",
-    "requires_level": 35,
-    "zone": "Warlock"
-}

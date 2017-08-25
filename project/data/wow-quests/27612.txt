@@ -1,7 +1,0 @@
-{
-    "_id": "27612",
-    "description": "A few of our men didn't make it through portals which were supposed to open inside this very abbey.  You've already proven your elusiveness and battlehardiness... now I need you to do so again.The abbey has two wings: a library, and a hall of arms.  In each wing, you should find a portal.Use this keystone on these portals.  Doing so should force them open, allowing our remaining shock troopers to take this abbey.",
-    "name": "Victory From Within",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14086",
-    "description": "This pamphlet advertising riding training and mount purchases was sent from Kildar.Kildar can be found in Orgrimmar's Valley of Honor.",
-    "name": "Learn to Ride in Orgrimmar",
-    "requires_level": 20,
-    "zone": "Orgrimmar"
-}

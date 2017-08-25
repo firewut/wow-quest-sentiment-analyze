@@ -1,8 +1,0 @@
-{
-    "_id": "37298",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Kill Warspear Priests",
-    "requires_level": 110,
-    "zone": "Ashran"
-}

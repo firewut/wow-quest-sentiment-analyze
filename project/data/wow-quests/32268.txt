@@ -1,8 +1,0 @@
-{
-    "_id": "32268",
-    "added_in_patch": 5.2,
-    "description": "Ah, $p, just the <race> I was looking for. I have received another batch of tactical mana bombs that I need planted in key positions across Violet Rise to the southeast.Here, take these. I do not trust our standard soldiers with such firepower. Oh... and don't shake them, whatever you do.Plant one of the Kirin Tor ships, another one near their supplies, and the last on the construct they are building. ",
-    "name": "Tactical Mana Bombs",
-    "requires_level": 90,
-    "zone": "Quests"
-}

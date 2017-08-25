@@ -1,8 +1,0 @@
-{
-    "_id": "41530",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Lively Dreamleaf",
-    "requires_level": 110,
-    "zone": "Herbalism"
-}

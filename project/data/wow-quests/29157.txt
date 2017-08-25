@@ -1,8 +1,0 @@
-{
-    "_id": "29157",
-    "description": "The Zandalar trolls are on the move in Stranglethorn Vale!If you wish to help the Darkspear trolls, report to Bwemba in Orgrimmar's Valley of Spirits.",
-    "name": "The Zandalari Menace",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

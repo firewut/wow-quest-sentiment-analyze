@@ -1,9 +1,0 @@
-{
-    "_id": "35396",
-    "added_in_patch": 6,
-    "description": "Amongst the timeworn wreckage of the Genedar is the entrance to the vessel's inner chamber. The void energy appears to be most concentrated in that place.You must enter the inner chamber and face whatever evil lurks within. I fear whatever fate may have befallen the great naaru K'ure in that place, but regardless the evil there must be purged.May the Light be with you, <name>.",
-    "name": "The Dark Heart of Oshu'gun",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

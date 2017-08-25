@@ -1,8 +1,0 @@
-{
-    "_id": "25819",
-    "description": "Opening the chest reveals a blackened orb, pulsing with an eerie light. This must be the foul Eye of Paleth that damned these sailors' souls.Such corruption should be purged. Perhaps a priest in Menethil Harbor could help you.",
-    "name": "The Eye of Paleth",
-    "requires_level": 20,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

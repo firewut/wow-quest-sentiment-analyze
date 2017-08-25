@@ -1,7 +1,0 @@
-{
-    "_id": "11122",
-    "description": "So you want to help out at Brewfest?  I've got the perfect task for ya.  I'll put you on one of my racing rams and you head down to Kharanos.  I've got some kegs I need to pick up.  Flynn Firebrew is waiting on a hill near a stack of kegs.  He'll toss you a keg when you get near, then you run the keg back here and toss the keg to Pol Amberstill.  You can only carry one at a time.  Ready?",
-    "name": "There and Back Again",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

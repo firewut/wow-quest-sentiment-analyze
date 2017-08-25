@@ -1,8 +1,0 @@
-{
-    "_id": "24472",
-    "description": "The Forsaken are right on our heels and now these ogres are trying to flank us, <name>.They're servants of the ettin Koroth -- the meanest, most destructive force in all of Gilneas.If we can bait Koroth into charging the Forsaken's forward force, we should be able to cover our retreat and buy some time.The only way this can work is if we make Koroth furious.  It won't be enough to just kill his minions.  We need to swipe his most prized possession, a tiger-skinned banner.",
-    "name": "Introductions Are in Order",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

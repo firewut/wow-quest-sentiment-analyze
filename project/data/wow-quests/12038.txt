@@ -1,7 +1,0 @@
-{
-    "_id": "12038",
-    "description": "Whatcha waitin' fer, <class>? Them shcourged trolls ain't gunna kill themselves!You know the drill. Git up ta Drak'Tharon up north... Take some o thish here grog and hurl it at 'em from a distance...<hic>.  Then jusht sit back an' watch 'em burn.",
-    "name": "Seared Scourge",
-    "requires_level": 70,
-    "zone": "Grizzly Hills"
-}

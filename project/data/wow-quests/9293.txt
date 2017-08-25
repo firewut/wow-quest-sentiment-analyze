@@ -1,7 +1,0 @@
-{
-    "_id": "9293",
-    "description": "The nearby lake has been contaminated by one of the ship's power crystals.  Many of the plants and animals of Ammen Vale have been mutated because of this.I have a theory on how to heal the lake, but I must have samples from the mutated lashers for analysis.  They can be found to the west in the Ammen Fields.Will you help me, <class>?",
-    "name": "What Must Be Done...",
-    "requires_level": 1,
-    "zone": "Ammen Vale"
-}

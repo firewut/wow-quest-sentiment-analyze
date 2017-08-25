@@ -1,8 +1,0 @@
-{
-    "_id": "27439",
-    "description": "You are quickly becoming a talented servant of the Light and of Silvermoon, <name>. Your loyalty to our people and to the Horde are exemplary.In recognition of your dedication, the warchief has commissioned his master enchanter to create a staff for you.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and find the lost holy symbol of Commander Springvale, a supply of moontouched wood, and the essence of the ghosts that haunt the keep.",
-    "name": "Staff of the Light",
-    "requires_level": 20,
-    "side": "horde",
-    "zone": "Priest"
-}

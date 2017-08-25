@@ -1,8 +1,0 @@
-{
-    "_id": "13115",
-    "description": "Ranid Glowergold in da Leatherworkers shop be havin' a need for wine and cheese.  Why he don't want some tasty gnome is beyond me.Collect da cheese from da cheese shop in central Dalaran and da half full wine glasses found on tables around da city.  Bring da wine and serve it with the cheese to Ranid.You can call da wine a Wine Medley, mon'.",
-    "name": "Cheese for Glowergold",
-    "requires_level": 65,
-    "side": "horde",
-    "zone": "Cooking"
-}

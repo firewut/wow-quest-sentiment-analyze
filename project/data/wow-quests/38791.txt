@@ -1,8 +1,0 @@
-{
-    "_id": "38791",
-    "added_in_patch": 7,
-    "description": "The corpse of the rocky beast yielded an unusual treasure: a battered chunk of tauren's horn.It is clearly very, very old, but something about its color and curve reminds you of Ronos Ironhorn at the Ironhorn Enclave.",
-    "name": "Rethu's Horn",
-    "requires_level": 98,
-    "zone": "Mining"
-}

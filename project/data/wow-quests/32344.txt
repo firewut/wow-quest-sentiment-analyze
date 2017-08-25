@@ -1,8 +1,0 @@
-{
-    "_id": "32344",
-    "added_in_patch": 5.1,
-    "description": "We have detected several... anomalies in these mines, of an arcane or spiritual nature. They are disrupting our attempts to discern the nature of the magic used in the spirit binding rituals here.\r\n\r\nThey are quite elusive, but we've managed to isolate the arcane signature of one of these anomalies, and one of our mages has enchanted this bauble with its signature.\r\n\r\nTake the bauble. It will begin to glow more brightly as you approach the anomaly. Once you reach it, you can use the bauble to draw it out.",
-    "name": "It Is A Mystery",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

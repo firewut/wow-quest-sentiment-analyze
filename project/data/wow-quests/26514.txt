@@ -1,8 +1,0 @@
-{
-    "_id": "26514",
-    "description": "<The gnomecorder hums.>The first order of business is a romp through the Redridge Canyons, directly north of Lakeshire. Kill every gnome that you see... woops, did I say gnome? I meant gnoll. Kill every GNOLL that you see and take their collars as proof of deed.I must warn you, <name>; while you are out there, watch out for ettins. My scouts have reported seeing huge, bloodthirsty ettins roaming the canyons lately. Stay out of their way if you want to remain alive.Solomon out. I'll be in touch.",
-    "name": "Canyon Romp",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Redridge Mountains"
-}

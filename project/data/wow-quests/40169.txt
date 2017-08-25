@@ -1,8 +1,0 @@
-{
-    "_id": "40169",
-    "added_in_patch": 7,
-    "description": "An old apprentice of mine left during the war, shortly before we were all cursed.I've recently heard that she's been seen near the Felblaze Ingress. I would very much like to speak to her once more.Go and find her. Take her journal to her and let her know that I don't blame her for what she did.And if she's willing, please bring her back to me.",
-    "name": "Crossroads Rendezvous",
-    "requires_level": 108,
-    "zone": "Enchanting"
-}

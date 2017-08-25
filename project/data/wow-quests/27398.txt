@@ -1,7 +1,0 @@
-{
-    "_id": "27398",
-    "description": "We've defeated the enemy's forces here, <name>.  But Hyjal is not the only place where our foes are moving against us.I've been informed that our allies in the Earthen Ring have put out a call for aid in a matter I've been assured is most critical.Speak to Naraat the Earthspeaker at the Eastern Earthshrine in Stormwind City for further instructions.",
-    "name": "The Battle Is Won, The War Goes On",
-    "requires_level": 82,
-    "zone": "Stormwind City"
-}

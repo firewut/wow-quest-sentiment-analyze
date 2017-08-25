@@ -1,7 +1,0 @@
-{
-    "_id": "28299",
-    "description": "I have just received word from Kranosh, Orgrimmar's foremost warlock trainer. He wishes you to travel to Orgrimmar and speak with him in the cleft of shadow. It sounds like he has an important mission for you.",
-    "name": "Meet with Kranosh",
-    "requires_level": 50,
-    "zone": "Orgrimmar"
-}

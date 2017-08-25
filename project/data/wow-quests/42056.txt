@@ -1,8 +1,0 @@
-{
-    "_id": "42056",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Remulos",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

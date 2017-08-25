@@ -1,7 +1,0 @@
-{
-    "_id": "10267",
-    "description": "Our business relations with the blood elves appear to be at an end.  A few weeks ago a large shipment of surveying equipment was delivered to them at Manaforge Duro.  They have refused to pay for it.<name>, I would ask that you pay the blood elves of Manaforge Duro to the east a visit.  They appear to be having some trouble with an infestation of mana creatures there, so take advantage of their preoccupation.I care not what happens to them, but I would very much like to see the return of our property.",
-    "name": "Rightful Repossession",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

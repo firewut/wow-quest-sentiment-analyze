@@ -1,7 +1,0 @@
-{
-    "_id": "10185",
-    "description": "After the blood elves leveled Kirin'Var Village, they started the construction of a large building to the northwest. Without the expertise of the archmage, we can't say for certain what's going on there.One thing is clear, though. The blood elf activities have unleashed a tide of ravenous mana elementals on the village. They seem drawn to the ruins of Wizard Row, wreaking further destruction. We cannot permit this to continue.",
-    "name": "A Fate Worse Than Death",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

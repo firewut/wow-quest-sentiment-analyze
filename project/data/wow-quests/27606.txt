@@ -1,7 +1,0 @@
-{
-    "_id": "27606",
-    "description": "Let's go fishing, <name>! Now that the mortars are ready, we can take out the leader of this invasion.Fathom-Lord Heth'Jatar rules over the Blackscale warrior caste. Go to the Heth'Jatari Banners just northeast of here and honk this conch shell. It's like a dog-whistle. For fish.When Heth'Jartar shows up, I'll order the mortars to concentrate fire. You'll see the targets of the incoming shells.Lure Heth'Jatar into our mortar fire and pummel him into submission!  ",
-    "name": "Blast Him!",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

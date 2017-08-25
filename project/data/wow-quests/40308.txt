@@ -1,8 +1,0 @@
-{
-    "_id": "40308",
-    "added_in_patch": 7,
-    "description": "<The beautiful Elven burial urn  is shattered carelessly on the ground. It was clearly handled roughly, but not scratched by the talons of the harpies.><You find a trail of shards leading towards a cave. Those responsible are certainly within. Thaedris would be interested in the relics and their safe return.>",
-    "name": "Fragments of Memory",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

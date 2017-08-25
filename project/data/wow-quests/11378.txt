@@ -1,7 +1,0 @@
-{
-    "_id": "11378",
-    "description": "The tastes of my customers range from the mundane to the exotic. And sometimes they want to do very mundane things with the exotic objects they seek.Such is the case with my latest request. My client, who shall remain nameless, wishes to obtain the head of the Epoch Hunter to mount on his wall.<Class>, will you find a way to travel back in time to Old Hillsbrad and procure said head for my trophy-hunting patron?",
-    "name": "Wanted: The Epoch Hunter's Head",
-    "requires_level": 70,
-    "zone": "Caverns of Time"
-}

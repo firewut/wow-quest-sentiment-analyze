@@ -1,8 +1,0 @@
-{
-    "_id": "39337",
-    "added_in_patch": 7,
-    "description": "Next on the list of things to replace are my filters. Now I'm sure you've concluded that an alchemist of my caliber uses only the finest of tools when mixing my potions.The elves at the Temple of Elune in Val'sharah use Shaldorei silk to craft their robes. Perhaps they'd be willing to part with some for my filters.",
-    "name": "Forlorn Filter",
-    "requires_level": 108,
-    "zone": "Alchemy"
-}

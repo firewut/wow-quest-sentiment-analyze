@@ -1,7 +1,0 @@
-{
-    "_id": "26427",
-    "description": "Not sure who you're with, but you don't look like one of... them.I'm not sure what happened.  I slept through supper and woke up to a ship full of dead people and murderers.Not sure if you want to kill me or not, but I'll spare you the trouble.<Moody points to a wound in his stomach.  His insides are not where they should be.>I can keep steering the ship for a while longer.  You don't die from a gut wound immediately.  Just bring me some rope and some rum... no, whiskey.",
-    "name": "Without a Captain or Crew",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

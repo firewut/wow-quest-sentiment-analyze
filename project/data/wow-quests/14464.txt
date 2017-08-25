@@ -1,7 +1,0 @@
-{
-    "_id": "14464",
-    "description": "The base of the tower is patrolled by the Captain's elite guards. So here's what we're going to do: we're going to grapple straight up to the top, slice-and-dice the VIPs, and bail out using my portable low-altitude parachute. I'll rig the tower to explode behind us. You be sure to grab Captain Grunwald's head for Chawg. Got it?Do NOT accept this mission unless you are prepared for UNMITIGATED BADASSERY. Is that clear? ",
-    "name": "Lightning Strike Assassination",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

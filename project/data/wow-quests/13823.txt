@@ -1,7 +1,0 @@
-{
-    "_id": "13823",
-    "description": "Thorim's not himself, <name>.  He's come under a dark influence.An evil presence under the guise of an illusion pretends to be his lost wife, Sif.Ye can't let him be overcome by this impostor's spell.  If he does, the location of his sigil might forever be lost!Yer going to have to beat some sense into him and yer going to have to do it quick.As always, the Archivum Console will give ye all the gory details... even the ones ye don't like.",
-    "name": "Heroic: Thorim's Sigil",
-    "requires_level": 80,
-    "zone": "Quests"
-}

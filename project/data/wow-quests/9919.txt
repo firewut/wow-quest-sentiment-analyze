@@ -1,7 +1,0 @@
-{
-    "_id": "9919",
-    "description": "You're a kind <race>, <name>.  Not like some of the others I've met.You should meet the rest of my people; they'll be very grateful for your help.  Take these spore sacs to my leader, Msshi'fn.  You will find him in Sporeggar, north of here.",
-    "name": "Sporeggar",
-    "requires_level": 60,
-    "zone": "Zangarmarsh"
-}

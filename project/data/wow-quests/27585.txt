@@ -1,8 +1,0 @@
-{
-    "_id": "27585",
-    "description": "General Angerforge and Golem Lord Argelmach are directly responsible for the horrific slaughter of the 109th Division of the Kargath Expeditionary Force. There were a lot of good trolls and orcs in that division, many of them my close friends.Well, young <race>, it's time for our fallen brothers to at last have their revenge.Unlock The Shadowforge Lock, go up the stairs and bear left until you reach the West Garrison. Kill Angerforge and Argelmach, and don't you dare show them any mercy.",
-    "name": "The 109th Division",
-    "requires_level": 51,
-    "side": "horde",
-    "zone": "Blackrock Depths"
-}

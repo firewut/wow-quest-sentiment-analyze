@@ -1,8 +1,0 @@
-{
-    "_id": "39041",
-    "added_in_patch": 6.2,
-    "description": "This alignment of the stars is a dire sign, stirring bloodlust and calling warriors to battle to the death in close quarters. Arena masters turn a tidy profit during these days, likely not understanding why their stands are overflowing. Amidst the excitement, great rewards do await those brave, or foolhardy, enough to venture into the arena....",
-    "name": "The Arena Calls",
-    "requires_level": 100,
-    "zone": "Weekend Event"
-}

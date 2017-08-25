@@ -1,7 +1,0 @@
-{
-    "_id": "29097",
-    "description": "TBD",
-    "name": "Mor'shan Caravan Rescue",
-    "requires_level": 15,
-    "zone": "Northern Barrens"
-}

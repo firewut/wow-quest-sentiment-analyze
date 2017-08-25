@@ -1,7 +1,0 @@
-{
-    "_id": "25377",
-    "description": "It is unclear what manner of creature scrawled the seemingly random markings on this piece of parchment, but upon close inspection, some of the obscure shapes begin to look like landmarks.Scanning the sea floor, you think you recognize a few points of reference, one being a nearby sunken ship. If your guess is correct, there appears to be treasure of some kind near the wreck.You cannot help but wonder what the scaly, serpentine figure on the map might represent....",
-    "name": "The Horde's Hoard",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

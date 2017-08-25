@@ -1,8 +1,0 @@
-{
-    "_id": "28713",
-    "description": "Greetings, <name>. I am Ilthalaine. My purpose in Shadowglen is to train young <class>s like you and to ensure that the balance of nature is maintained.The spring rains were particularly heavy this year, causing some of the forest's beasts to flourish while others suffered. Unfortunately, the nightsaber numbers grew too large, and they will devastate the other populations if they are not culled.Journey forth, young <class>, and thin saber populations so that nature's harmony will be preserved.",
-    "name": "The Balance of Nature",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Shadowglen"
-}

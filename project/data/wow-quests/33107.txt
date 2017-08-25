@@ -1,8 +1,0 @@
-{
-    "_id": "33107",
-    "added_in_patch": 5.4,
-    "description": "<As you open the scroll, you realize your worst fears have come true: the sha energies have corrupted the Lin recipe.><Your only choice is to defeat the released energies in the hope that the scroll can be saved.>",
-    "name": "Bad Feeling, Worse Result",
-    "requires_level": 90,
-    "zone": "Cooking"
-}

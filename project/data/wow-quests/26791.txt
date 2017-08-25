@@ -1,7 +1,0 @@
-{
-    "_id": "26791",
-    "description": "The stone trogg mystics are creating those fungal monstrosities from the giant mushrooms to the north.I want you to take a war guardian to help deal with the giants and stone troggs. Make your way to the giant mushrooms and target them. I and my geomancers will sink them into the ground before the mystics have a chance to finish their ritual.",
-    "name": "Sprout No More",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

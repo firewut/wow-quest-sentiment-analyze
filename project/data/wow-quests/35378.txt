@@ -1,9 +1,0 @@
-{
-    "_id": "35378",
-    "added_in_patch": 6,
-    "description": "Let me guess, you found it in a talbuk's flank?<Ogka seems lost in thought for a moment.>That axe was intended for Tall Buck, king of the Breezestriders. Another talbuk - the one you killed - jumped in the way as I was taking my shot.I suggest you go after the king. When I was hunting him, he seemed fond of the pond at Lonely Falls to the south.",
-    "name": "King of the Breezestriders",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

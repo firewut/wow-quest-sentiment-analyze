@@ -1,7 +1,0 @@
-{
-    "_id": "10589",
-    "description": "According to Razuun's orders, the massive infernal staging area is called Invasion Point: Cataclysm and it's nestled in the northern mountains. The only way to reach it is by using a teleporter located at Legion Hold.Certain members of the Legion host carry devices allowing them to activate the teleporters. You must capture one of these devices to win access to the teleporter. Slaughter all of the demons if you must, but you can't afford to return empty-handed.",
-    "name": "Gaining Access",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

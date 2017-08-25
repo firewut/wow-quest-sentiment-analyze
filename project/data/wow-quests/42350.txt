@@ -1,8 +1,0 @@
-{
-    "_id": "42350",
-    "added_in_patch": 7,
-    "description": "I know cats can climb trees, so I'm pretty convinced that this nightsaber is just waiting for me to bleed out.I'm attaching this note to a nearby owl I've nicknamed \"Hooty\". Hopefully he finds someone to help me.",
-    "name": "Bloody Letter",
-    "requires_level": 110,
-    "zone": "First Aid"
-}

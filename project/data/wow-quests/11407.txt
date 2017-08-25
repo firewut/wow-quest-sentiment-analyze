@@ -1,7 +1,0 @@
-{
-    "_id": "11407",
-    "description": "So, do you want to help bring strength and honor to Brewfest?  We need you to shout at the flags outside the auction house in the Valley of Strength, in the Valley of Honor, in the Valley of Wisdom and in the Valley of Spirits.We'll lend you a racing ram for 4 minutes.Be careful though, the cheap goblins didn't put any apple crates along the way.",
-    "name": "Bark for Drohn's Distillery!",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

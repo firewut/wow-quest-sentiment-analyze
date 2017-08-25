@@ -1,7 +1,0 @@
-{
-    "_id": "28057",
-    "description": "It's a little known fact that dwarves, particularly of the Dark Iron variety, need rest! Lots of rest!Now I ask you; How can they sleep without pillows?  Exactly, <name>, they can't.  This is why you must steal their pillows.Once you've finished your cushion-thievery, talk with Taskmaster Scrange.  He's a bit deeper in the cave, working on a covert project with Hansel.",
-    "name": "Kill 'em With Sleep Deprivation",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "37573",
-    "added_in_patch": 6,
-    "description": "Now that the gem boutique is complete, we can start producing taladite crystals for you. When you have the ingredients, please speak with my assistant to start the first work order.",
-    "name": "Your First Jewelcrafting Work Order",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

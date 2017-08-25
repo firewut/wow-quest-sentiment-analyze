@@ -1,8 +1,0 @@
-{
-    "_id": "14001",
-    "description": "<name>, I'm sorry, I thought you were dead!This is just crazy. We sailed into a fight between the Alliance and Horde!You know, our brothers and sisters still need to be rescued.<He points out all of the escape pods in the water around you.>I think I'm going to sit here a while longer and catch my breath. Can you swim around and let them out? Take my pair of thermohydratic flippers so you can get around faster.Let Sassy know that I'll swim in shortly.",
-    "name": "Goblin Escape Pods",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

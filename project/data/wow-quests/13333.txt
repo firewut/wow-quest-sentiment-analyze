@@ -1,7 +1,0 @@
-{
-    "_id": "13333",
-    "description": "Despite our efforts, the Horde continues to send scouts to the area of the Icecrown Glacier, to the west of the Ironwall Rampart and Aldur'thar.We can't afford to let the Horde gain the upper hand with this scouting operation. Take the dart gun with you again and show the Orgrim's Hammer scouts no mercy! Bring the captured dispatches to me.The Horde's wasted efforts will be our gain.",
-    "name": "Capture More Dispatches",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

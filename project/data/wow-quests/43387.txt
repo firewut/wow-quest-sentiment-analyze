@@ -1,8 +1,0 @@
-{
-    "_id": "43387",
-    "added_in_patch": 7,
-    "description": "The Light shines upon me, <name>! For the first time in my life, I feel it!\r\n\r\nI was without hope, ready to die for the things I had done in the name of the Scarlet Crusade, but then you appeared! You are my chance at redemption. \r\n\r\nPlease, let me prove to you that I am worthy of a second chance. Let me slay those I used to be loyal to!",
-    "name": "Scarlet Redemption",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

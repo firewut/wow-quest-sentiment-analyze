@@ -1,8 +1,0 @@
-{
-    "_id": "40803",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "REUSE ME",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

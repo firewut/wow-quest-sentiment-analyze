@@ -1,7 +1,0 @@
-{
-    "_id": "24748",
-    "description": "Shadowmourne; a newly forged weapon already steeped in this world's history, reborn into an unrivaled destiny.With this weapon you bear a solemn responsibility, and the time to carry out that charge is at hand.Take this weapon of myth and legend and march on the enemy. Avenge the countless heroes lost in his merciless campaign. Bring rest to their tortured souls.Steel yourself, <class>, and guide Shadowmourne to fulfill the purpose of its creation.",
-    "name": "The Lich King's Last Stand",
-    "requires_level": 80,
-    "zone": "Quests"
-}

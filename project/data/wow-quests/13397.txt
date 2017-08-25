@@ -1,7 +1,0 @@
-{
-    "_id": "13397",
-    "description": "You're a real star, <name>.  See, when I give one of these other soldiers an assignment, the odds of them getting it done are about fifty-fifty.  The odds of them coming back... well, slightly worse.But with you, it's always a guaranteed thing.  Like gnomish clockwork!Anyway, I have another one for you.  Sindragosa's Fall, east of the valley.  There is some serious cultist activity, including and not limited to, the raising of frost wyrms.  I need you to go kick their teeth in.I hate cultists.",
-    "name": "Sindragosa's Fall",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

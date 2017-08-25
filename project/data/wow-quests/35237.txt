@@ -1,8 +1,0 @@
-{
-    "_id": "35237",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Mor'gran Logworks",
-    "requires_level": 94,
-    "zone": "Talador"
-}

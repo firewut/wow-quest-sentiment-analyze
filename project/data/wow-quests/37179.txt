@@ -1,8 +1,0 @@
-{
-    "_id": "37179",
-    "added_in_patch": 6,
-    "description": "Wait, wait! Don't attack me! I've changed!Really, I've turned over a new leaf, I promise. I haven't said \"DOOOOOOM!\" in months! All I care about now is saving the poor little orphans of Azeroth, whose parents have been taken by this tragic war.That's why I'm here! Why, with just a single Miniature Iron Star, I could provide clean water and power for all of the orphans of Azeroth! And no one could stop me!So, what do you think, sweetcheeks? Want to help ol' Milhouse save the orphans?",
-    "name": "For The Children!",
-    "requires_level": 100,
-    "zone": "Upper Blackrock Spire"
-}

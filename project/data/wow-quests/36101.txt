@@ -1,9 +1,0 @@
-{
-    "_id": "36101",
-    "added_in_patch": 6,
-    "description": "This stinger is proof of your strength at slaying ancients and your gladiator friend has born witness!Take the stinger back to Limbflayer and claim your accolades!",
-    "name": "Proof of Strength: Wasp Stinger",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

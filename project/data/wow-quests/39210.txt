@@ -1,8 +1,0 @@
-{
-    "_id": "39210",
-    "added_in_patch": 6.2,
-    "description": "The Kirin Tor have moved their city here to Northrend.No longer does Dalaran sit under its protective dome on the shores of Lordamere Lake. Now the city magically floats above the Crystalsong Forest.They believe you to be ready for your journey to the city. Look for the teleportation crystal in Crystal Song Forest.When you arrive, seek out Archmage Celindra.",
-    "name": "The Magical Kingdom of Dalaran",
-    "requires_level": 74,
-    "zone": "Dalaran"
-}

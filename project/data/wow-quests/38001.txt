@@ -1,9 +1,0 @@
-{
-    "_id": "38001",
-    "added_in_patch": 6.2,
-    "description": "We have been stopped by these new fel orcs, but we will ultimately prevail. Draka and I did manage to get a full scouting group out into the jungle to gather what else we will have to deal with.You should seek them out, gain a full understanding of what we face here.",
-    "name": "Commander in the Field!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

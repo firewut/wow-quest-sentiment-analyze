@@ -1,7 +1,0 @@
-{
-    "_id": "11525",
-    "description": "My plan to replace the damaged crystals on the erratic sentries has been a success.  We've managed to take the Sun's Reach Sanctum with their help.I've crafted new crystals that will bring more of them under our control; place them inside the hulls of defeated sentries.  We'll deploy them to other locations once they're converted.",
-    "name": "Further Conversions",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

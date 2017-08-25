@@ -1,8 +1,0 @@
-{
-    "_id": "12102",
-    "description": "How fortuitous it is that the Ruby Dragonshrine lays just to the east. It is there that you will find a flower called the ruby lilac. This lifegiving plant is all that I need to concoct a vaccine for the untainted beasts of this region.Travel east and search the Ruby Dragonshrine for the lilac.Just one thing: The dragonshrine, like all the dragonshrines in this blasted wasteland, is beset by the Scourge. Watch your step. We wouldn't want you to be devoured by an emberwyrm.<Sintar laughs.>",
-    "name": "In Search of the Ruby Lilac",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

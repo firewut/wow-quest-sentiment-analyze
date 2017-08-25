@@ -1,8 +1,0 @@
-{
-    "_id": "31045",
-    "added_in_patch": 5,
-    "description": "<Class>, I need your strength to eliminate the Shan'ze Illusionists on Shan'ze Dao, to the northwest.It wearies me to ask of you this difficult task.The illusionists are among the strongest of the Shan'ze's elite sorcerors.They will not be easy to defeat, but I know no <class> who is better suited to the task.",
-    "name": "Illusions Of The Past",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

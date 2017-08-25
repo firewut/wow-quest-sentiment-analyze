@@ -1,8 +1,0 @@
-{
-    "_id": "42551",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "10v10 #4",
-    "requires_level": 100,
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34362",
-    "added_in_patch": 6,
-    "description": "Okay, we're gonna have to be quick. I've seen Borgal form magical portals before so he might try to use one to escape. If he does that our only option will be to follow after 'em. On top of that he always keeps his lieutenant Grubnor nearby so we may have a bit of a tussle in store.<Owynn peeks into the cave.>Keep yer head down, something's going on in there.",
-    "name": "The Shadow Gate",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

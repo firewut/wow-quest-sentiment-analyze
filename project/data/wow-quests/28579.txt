@@ -1,8 +1,0 @@
-{
-    "_id": "28579",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Gek Nozzlerocket at Light's Hope Chapel in the Eastern Plaguelands.Your help is needed to survey the damage done by Deathwing, and the disposition of Horde forces in the Badlands.Gek has agreed to provide transportation to the Badlands via rocket, in exchange for your help. Look for him at Light's Hope Chapel in the Eastern Plaguelands.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Badlands!",
-    "requires_level": 44,
-    "side": "alliance",
-    "zone": "Badlands"
-}

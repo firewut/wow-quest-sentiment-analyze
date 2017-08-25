@@ -1,8 +1,0 @@
-{
-    "_id": "35089",
-    "added_in_patch": 6,
-    "description": "That flying machine is our ticket out of here but its fuel tank is bone dry!We're right next to the oil fields but with the infected out there we don't have time to run a line up here so we need to improvise.The oil creatures moving next to the pumps out there are full of a highly potent mixture that I can drop right into the tank. Grab some of that oil for me and we'll be one step closer to getting out of here.",
-    "name": "Skimming Off the Top",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

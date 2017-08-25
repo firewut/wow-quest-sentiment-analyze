@@ -1,7 +1,0 @@
-{
-    "_id": "12498",
-    "description": "Use this beacon to signal a Wyrmrest vanquisher. Climb upon its back and fly north to Galakrond's Rest. Once there, command the dragon to destroy the Scourge scavengers that work to unearth Galakrond. Once the area has been cleansed, fly to the Wicked Coil, overlooking Galakrond's Rest, to destroy Grand Necrolord Antiok and recover the scythe that he uses to control the wyrms.Do this and return to Queen Alexstrasza for a hero's reward!<name>, beware the rotting storm giants that wander the area!",
-    "name": "On Ruby Wings",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

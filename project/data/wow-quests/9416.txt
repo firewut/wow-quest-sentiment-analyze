@@ -1,8 +1,0 @@
-{
-    "_id": "9416",
-    "description": "You must be one of General Kirika's new recruits. It's about time you showed up. Bodies wear down quick in the desert.The dwarves have been getting reinforcements daily, and we can't afford to lose ground in our struggle for resources in Silithus.Get your instructions from the General. It's not my job to train you, just find you.",
-    "name": "Report to General Kirika",
-    "requires_level": 54,
-    "side": "horde",
-    "zone": "Silithus"
-}

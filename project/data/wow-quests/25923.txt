@@ -1,7 +1,0 @@
-{
-    "_id": "25923",
-    "description": "Your turtle companion can use this newfound power to render the two of you invulnerable for a short period of time. You can \"turtle up\" to avoid the worst of Nemesis and his fury. To do so, simply invoke this totem.This is all I can do for you. Together, you and a Child of Tortolla must defeat Nemesis, once and for all. Finish the Usurper!Return to me if you lose your turtle friend.",
-    "name": "Finish Nemesis",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

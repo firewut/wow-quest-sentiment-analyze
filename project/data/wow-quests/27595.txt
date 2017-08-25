@@ -1,7 +1,0 @@
-{
-    "_id": "27595",
-    "description": "Prophet Hadassi is the wisest and eldest member of the Orsis tribe.He has not been accounted for and his well-being is of vital importance.Go into Orsis and find him.  A great day of reckoning will come to the Al'Akir's lackeys if he's been hurt.",
-    "name": "The Prophet Hadassi",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10596",
-    "description": "The fortress of Legion Hold is your target. You'll have no reinforcements, so a frontal attack is out of the question.What little information we have shows that the Legion stocks and prepares its infernals at the hold. With the help of a disguise I'll give you, you must sneak into Legion Hold and discover their plans.Your best hope is to intercept or overhear communication between their commanders. ",
-    "name": "To Legion Hold",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

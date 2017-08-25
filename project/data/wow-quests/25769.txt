@@ -1,7 +1,0 @@
-{
-    "_id": "25769",
-    "description": "You're still here? What are you waiting for, a personal engraved invitation? Lord Fallowmere beckons, fool! Go to him now!",
-    "name": "Fallowmere Beckons",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

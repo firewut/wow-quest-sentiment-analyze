@@ -1,7 +1,0 @@
-{
-    "_id": "14195",
-    "description": "Something has changed... perhaps a side-effect of Elune's cleansing ritual.While it's by no means perfect yet, your understanding of the ancient language in the journal has vastly improved.The ruins in the northern mountains of Sargeron appear to be the main focus of Furien's enthusiasm. Something there, he felt, would aid him in driving the Alliance from this region.You close the journal determined to find this ruin and discover its secrets.",
-    "name": "All Becoming Clearer",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27346",
-    "description": "Not long ago, a goblin zeppelin crashed to the east. A representative of the Steamwheedle Cartel passed through here a few days ago.She was looking for information about the zeppelin's cargo and its pilot, Beezil, but none of us really got a good look at the crash. I doubt she'll be able to clean up after the wreck by herself, much less recover whatever cargo the vessel might have carried.If you have time, you may want to check up on her out at Beezil's Wreck, due east of here, near the mountains.",
-    "name": "The Zeppelin Crash",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

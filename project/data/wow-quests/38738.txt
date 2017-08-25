@@ -1,8 +1,0 @@
-{
-    "_id": "38738",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "7.0 Stormheim - Treasure 029 - Waterfall - ZTO",
-    "requires_level": 100,
-    "zone": "Stormheim"
-}

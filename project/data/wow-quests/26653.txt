@@ -1,8 +1,0 @@
-{
-    "_id": "26653",
-    "description": "Oh, what is a poor old man to do?  I need some supplies from Darkshire, but the village is so far away and I am so old and feeble...I would never make the trip.Can you go to Darkshire and bring me back some ghost hair thread?  You can get it from Madame Eva at her home on the Darkshire square.",
-    "name": "Supplies from Darkshire",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

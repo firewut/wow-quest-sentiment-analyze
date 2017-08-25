@@ -1,8 +1,0 @@
-{
-    "_id": "37222",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Direhoof's Hide",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

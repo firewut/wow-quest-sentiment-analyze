@@ -1,7 +1,0 @@
-{
-    "_id": "13119",
-    "description": "So they're summoning in their workers and warriors at those altars?They'll need to be the first thing to go. The master summoner should have a staff which allows him to activate the portal. If you kill the master summoner and take the staff, you can use it to overload the summoning portal and destroy its altar.Do this at all four of the altars and return to me once they've been destroyed.",
-    "name": "Destroying the Altars",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

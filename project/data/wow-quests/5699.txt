@@ -1,7 +1,0 @@
-{
-    "_id": "5699",
-    "description": "Haha! Off to Stormwind with you, <name>. High Priestess Laurena wants you there to be tested again. Head to the Cathedral of Light and don't dally. There's a lot to do and more and more pressure's gonna fall on your shoulders the more powerful you get. It's the nature of our order--people start to look to you more often the more you prove yourself worthy.The Light's with ya, you don't need me to tell you that.",
-    "name": "<NYI> A Small Amount of Hope",
-    "requires_level": 35,
-    "zone": "Priest"
-}

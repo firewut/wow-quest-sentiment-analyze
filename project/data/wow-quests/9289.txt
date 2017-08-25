@@ -1,7 +1,0 @@
-{
-    "_id": "9289",
-    "description": "",
-    "name": "Warrior Training",
-    "requires_level": 2,
-    "zone": "Warrior"
-}

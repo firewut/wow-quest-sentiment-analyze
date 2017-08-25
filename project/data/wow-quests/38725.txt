@@ -1,8 +1,0 @@
-{
-    "_id": "38725",
-    "added_in_patch": 7,
-    "description": "One of the demons that I interrogated revealed a particularly juicy bit of information. Apparently, there's an imp mother in the volcano that scribes Legion secrets.\r\n\r\nKor'vas has gone out to find that demon and bring those secrets back for us.",
-    "name": "Into the Foul Creche",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

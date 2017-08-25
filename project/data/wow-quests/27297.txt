@@ -1,7 +1,0 @@
-{
-    "_id": "27297",
-    "description": "I doubt the Grimtotems will give up their campaign to drive humans from the marsh, though I get the impression you probably don't mind that. At least we have dealt with the perpetrators of the crimes at the Shady Rest Inn.Go tell your leader that his vengeance has been sated.",
-    "name": "Justice Dispensed",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

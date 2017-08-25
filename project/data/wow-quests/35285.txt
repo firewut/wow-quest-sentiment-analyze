@@ -1,8 +1,0 @@
-{
-    "_id": "35285",
-    "added_in_patch": 6,
-    "description": "Miss Kimzee is one tough nugget but Pinchwhistle Point is too dangerous for her to handle alone. It'll be a catastrophe for morale if our boss gets infected.I need to get these crewmen back to the Gearworks so I need you to go and make sure she is alright.Her uncle's place is the tower just on the other side of the oil fields; I think you should look for her around there.",
-    "name": "Follow that Hotrod!",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

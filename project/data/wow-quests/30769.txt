@@ -1,8 +1,0 @@
-{
-    "_id": "30769",
-    "added_in_patch": 5,
-    "description": "Now that we have had time to assess our enemies' weaknesses, it is time for us to deal the yaungol a direct blow.Go and confront the Osul Sharphorn up the mesa to the west.Let them know that we are here, and that we are not scared of their threats.",
-    "name": "First Assault",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

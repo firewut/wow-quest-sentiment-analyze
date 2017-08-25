@@ -1,8 +1,0 @@
-{
-    "_id": "11714",
-    "description": "Perhaps you'd be interested in helping me clean up these fields? They're littered with dirty little rat men! Kobolds, snobolds, whatever you wanna call 'em, they're all over the damned place. The stink alone is making my life hell!Take care of the vermin for me and I'll make it worth your while, <name>.\r\n",
-    "name": "Vermin Extermination",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

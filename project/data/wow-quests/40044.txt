@@ -1,8 +1,0 @@
-{
-    "_id": "40044",
-    "added_in_patch": 7,
-    "description": "Many of the Kvaldir here in the bay are former denizens of this harbor, cursed by the sea-witch Helya to do her bidding for all time.\r\n\r\nThe ones you read about, they still walk the stagnant waters. They could be given respite, should a kind soul bring it to them at the tip of a blade.\r\n\r\nSo tell me, how kind is your soul?",
-    "name": "Shadows in the Mists",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10570",
-    "description": "<Borak takes the bundle of bloodthistle from you and places it to his nose.>Pungent...Now, take this bundle and place it at the other end of this bridge. When the envoy makes his daily rounds, he will be compelled to pick it up - without his bodyguard. You see, blood elves look down upon bloodthistle addicts. If any of his compatriots ever found out...All you need to do is lie in wait for him to dismiss his bodyguard. When he is alone, make your strike! Kill him and take the missive.",
-    "name": "To Catch A Thistlehead",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

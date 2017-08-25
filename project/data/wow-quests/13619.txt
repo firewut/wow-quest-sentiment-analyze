@@ -1,8 +1,0 @@
-{
-    "_id": "13619",
-    "description": "<Gorat coughs deeply as he strains to speak.>It was... an ambush....We were... returning to the ramparts. All of us... lost....We... discovered their leader... <Gorat painstakingly fills a vial with the blood spilling from one of his wounds.>My men... must be avenged.... Bring this... to Kadrak....He will know what to do....<Gorat expires.>",
-    "name": "Final Report",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

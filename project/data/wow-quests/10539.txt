@@ -1,7 +1,0 @@
-{
-    "_id": "10539",
-    "description": "A <race> <class>...Yes, there was a priest of your order here recently, <name>.  He told me it was time you returned to the Exodar met with Caedmos.  There was a sense of urgency in his request, so I wouldn't take too long to see him.",
-    "name": "Returning Home",
-    "requires_level": 10,
-    "zone": "Priest"
-}

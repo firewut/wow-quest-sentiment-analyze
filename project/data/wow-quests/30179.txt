@@ -1,8 +1,0 @@
-{
-    "_id": "30179",
-    "added_in_patch": 5,
-    "description": "The... mogu. Do not trust. Poison. Get sample... sample blades. Bring to Dezco... in Thunder Cleft, west of here.",
-    "name": "Poisoned!",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

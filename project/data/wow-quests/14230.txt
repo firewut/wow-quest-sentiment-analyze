@@ -1,7 +1,0 @@
-{
-    "_id": "14230",
-    "description": "The local demons seem to get quite a kick out of stealing all of our arcane manuals. I highly doubt most of them can even read, so they're probably doing it just to spite us.I could care less about most of the books they've taken, but they took an Abjurer's Manual that I'm going to need if there's any hope of keeping apprentices like you alive amidst Xylem's \"trials.\" Find the demons at the Lagash Encampment to the southeast and retrieve the Abjurer's Manual.That's all. Scoot.",
-    "name": "Manual Labor",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "32994",
-    "added_in_patch": 6,
-    "description": "If we leave now, my clan's final assault on Grom'gar will be a disaster.Though our warriors are unmatched in melee, the Thunderlords have new ranged weapons - our forces would be decimated as they cross the Icewind Drifts.But WE are already here. We can overtake those weapons before they ever fire.Blackrock orcs help our enemies forge these \"cannons\" in the workshops on the south side. If we use their own tools to sabotage the weapons, we leave Grom'gar wide open to a Frostwolf raid.",
-    "name": "Enfilade",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

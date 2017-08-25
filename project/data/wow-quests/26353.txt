@@ -1,8 +1,0 @@
-{
-    "_id": "26353",
-    "description": "If ye be readin' this, it means that Ol' Captain Sanders is in a watery grave.  So my treasure is yours now, ye jest need to follow the clues. First ye need to find me footlocker.  It's probably half-buried in sand by now, along the Western Coast of Westfall near the shipwreck.  There be lots of shipwrecks but only one rusty anchor on the coast.  Find that anchor and you'll find me locker!  Look in there for the next clue.",
-    "name": "Captain Sanders' Hidden Treasure",
-    "requires_level": 9,
-    "side": "alliance",
-    "zone": "Westfall"
-}

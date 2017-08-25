@@ -1,7 +1,0 @@
-{
-    "_id": "12883",
-    "description": "Minions be hearin' da call of your masta! Da Lich King be givin' Drakuru full control of da armies of da Scourge in Zul'Drak. We be commanded ta kill everyting.EVERYTING MUST DIE!We be processin' all da corpses in da Dead Fields and sendin' em up ta Prince Navarius' crew in  Zeramas for Scourgin'! Notin' goes ta waste on Drakuru's watch!Soon we be drinkin' da blood of da prophets ta become stronger dan eva before! Zul'Drak and Gundrak gonna fall to da Scourge!",
-    "name": "Orders From Drakuru",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

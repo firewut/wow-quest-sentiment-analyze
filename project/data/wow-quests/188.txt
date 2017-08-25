@@ -1,7 +1,0 @@
-{
-    "_id": "188",
-    "description": "Legends speak of an elusive tigress... a feline so powerful that she dwarfs even the elder males.  The hunters at Nesingwary's Expedition have hunted for her without success.  Many of them have fallen prey to her raking claws, their bodies now decaying at the foot of her hill, north of Grom'gol.They call the beast Sin'Dall.You resolve to do what no <race> has done before: hunt, kill, and claim the paw of Sin'Dall.",
-    "name": "Tiger Mastery",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

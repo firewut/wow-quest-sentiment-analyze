@@ -1,8 +1,0 @@
-{
-    "_id": "38655",
-    "added_in_patch": 7,
-    "description": "The massive roots of Shaladrassil are spreading a horrible corruption throughout the forest.If we are to save Val'sharah, we will need to find a way to stop the encroachment of the world tree.If you bring me enough corrupted root samples, I may be able to discover their secrets.",
-    "name": "Root Cause",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

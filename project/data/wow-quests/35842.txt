@@ -1,9 +1,0 @@
-{
-    "_id": "35842",
-    "added_in_patch": 6,
-    "description": "Da one in charge a Mok'gol Watchpost be Packleader Vor'gash.We take him out, we shut dem down.Ya ken find 'im patrolling da compound ta da nor'east.Kill 'im.",
-    "name": "Putting Down the Packleader",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

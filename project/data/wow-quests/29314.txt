@@ -1,7 +1,0 @@
-{
-    "_id": "29314",
-    "description": "The living are not the only ones who require sustenance. One of my duties is to prepare the rice cakes that are left for the ancestors. Normally, my senior apprentice has the honor of taking the cakes to the Temple of the Moon for blessing and then presenting them to the ancestors. Since she is out of the city today, would you mind performing the duty in her place?",
-    "name": "Remembering the Ancestors",
-    "requires_level": 10,
-    "zone": "Cooking"
-}

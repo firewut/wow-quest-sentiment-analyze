@@ -1,8 +1,0 @@
-{
-    "_id": "30338",
-    "added_in_patch": 5,
-    "description": "For the life of me, I can't figure out why the mogu would have built all their statues and such down in that lake. I'm sure there wasn't always water down there, but it still seems wickedly inconvenient should it ever have rained.Ah well, who's to fathom the strange intentions of the mogu...Would you be so kind as to swim down there and bring back any artifacts that seem even vaguely carry-able? I'd certainly appreciate it.",
-    "name": "A Weighty Task",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

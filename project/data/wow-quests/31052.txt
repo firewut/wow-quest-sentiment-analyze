@@ -1,8 +1,0 @@
-{
-    "_id": "31052",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Chose Priest",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

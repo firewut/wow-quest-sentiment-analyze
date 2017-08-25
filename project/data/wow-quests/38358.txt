@@ -1,9 +1,0 @@
-{
-    "_id": "38358",
-    "added_in_patch": 7,
-    "description": "The Black Rose was a seafaring laboratory for the Royal Apothecary Society. Naturally, we had some volatile... \"byproducts\" onboard.Regrettably, one such substance was released during our skirmish with the Alliance gunship. As you can see, it is taking quite a toll on the coast.The R.A.S. must remedy this situation before we press further inland.Please take a containment unit and fill it with waste - for us to dispose of properly at a later time, of course.",
-    "name": "Pump it Up",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44616",
-    "added_in_patch": 7,
-    "description": "Loramus Thalipedes has offered to improve our armaments. He says that he pried a secret out of Razelikh. Apparently, the demon knows how to work a material known as Obliterum.\r\n\r\nI myself have coerced some information out of the demons. One of the souls trapped in my scythe has whispered the name, Camille Kleister. All I know is that she is somewhere in Dalaran. For the rest, you are on your own.",
-    "name": "We'll Need Some Obliterum",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

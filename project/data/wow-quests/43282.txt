@@ -1,8 +1,0 @@
-{
-    "_id": "43282",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Invasion: Northern Barrens",
-    "requires_level": 1,
-    "zone": "Northern Barrens"
-}

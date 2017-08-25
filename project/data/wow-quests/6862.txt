@@ -1,7 +1,0 @@
-{
-    "_id": "6862",
-    "description": "I'm as anxious as you are to try out my portable shredder unit, <race>, but before I can make the kit, I'm going to need materials - lots of materials!To be exact, I'm going to need a mountain of thorium, mithril, and iron. I will also need one steamsaw per unit. You'll have to get those at the lumber mill.When I was nosing around in here (before my capture) I noticed a pile of steamsaws at the Frostwolf lumber camp.",
-    "name": "Zinfizzlex's Portable Shredder Unit",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33513",
-    "added_in_patch": 6,
-    "description": "Amnennar's reincarnation is imminent. In order to protect the ceremony Death Speaker Blackthorn has placed his most trusted lieutenants between us and him.Aarux, a plagued spider nests near his young, tended to by the Death's Head Aranomancers. Mordresh rallies Amnennar's forces upon the Bone Pile. Finally, Mushlump stands guarding the entrance to the Spiral of Thorns.Once you defeat these guardians I will join you and together we will confront Blackthorn.",
-    "name": "Blackthorn's Lieutenants",
-    "requires_level": 40,
-    "zone": "Razorfen Downs"
-}

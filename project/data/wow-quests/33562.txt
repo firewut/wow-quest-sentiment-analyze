@@ -1,8 +1,0 @@
-{
-    "_id": "33562",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Trophy: Gorg'ak's Obsidian Spines",
-    "requires_level": 90,
-    "zone": "Quests"
-}

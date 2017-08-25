@@ -1,7 +1,0 @@
-{
-    "_id": "7498",
-    "description": "The tome carries the mark of the Athenaeum.",
-    "name": "Garona: A Study on Stealth and Treachery",
-    "requires_level": 54,
-    "zone": "Dire Maul"
-}

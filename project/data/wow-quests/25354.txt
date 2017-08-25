@@ -1,8 +1,0 @@
-{
-    "_id": "25354",
-    "description": "The shrine is secure, the ogres in disarray. Enough. The time has come to go on the offensive.Something sinister is underway above us, on the Lightning Ledge. It is time to unleash the fury of the ancients!Fly up to the Lightning Ledge and demolish the Twilight's Hammer there. Crush them, <name>, slay their creations and hurl their bodies from the mountainside!",
-    "name": "Sweeping the Shelf",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Mount Hyjal"
-}

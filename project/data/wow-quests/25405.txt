@@ -1,8 +1,0 @@
-{
-    "_id": "25405",
-    "description": "You have done well, <race>, but there is much more to do and I grow weary.I have expended a great deal of energy sending a distress message to Earthen Ring leadership, pleading for their help.I must rest if I am to be of further use to us here.Speak to the leader of the men you've saved and do what you can to help them prepare for battle.The naga are scouring the waters for us. It is but a matter of time before they return - and they will surely come in even greater force.",
-    "name": "Rest For the Weary",
-    "requires_level": 80,
-    "side": "alliance",
-    "zone": "Kelp'thar Forest"
-}

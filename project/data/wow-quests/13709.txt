@@ -1,7 +1,0 @@
-{
-    "_id": "13709",
-    "description": "Welcome, champion. As grand champion of the Thunder Bluff delegation, I would be honored to welcome you into our ranks, if you are willing.You will train and rise through the ranks as you have before, but when you are named a champion of Thunder Bluff, your gruntling will have the option of carrying our banner into battle.",
-    "name": "Valiant Of Thunder Bluff",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

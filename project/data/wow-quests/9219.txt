@@ -1,7 +1,0 @@
-{
-    "_id": "9219",
-    "description": "",
-    "name": "More Spinal Dust",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

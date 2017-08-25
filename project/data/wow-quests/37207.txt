@@ -1,8 +1,0 @@
-{
-    "_id": "37207",
-    "added_in_patch": 6,
-    "description": "I had a vision with one who had mastered pets came to challenge me.  Has the vision finally come to pass?",
-    "name": "Vesharr",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

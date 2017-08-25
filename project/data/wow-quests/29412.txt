@@ -1,8 +1,0 @@
-{
-    "_id": "29412",
-    "description": "Please, mister, you just gotta help me!Father bought me a bunch of balloons from the Darkmoon Faire. They're magical, you know, and never lose their floatiness!There's just one thing...A gust of wind blew them out of my hands. They're scattered all over Stormwind!I'd chase after them myself, but this city's so big I'd get lost for sure.Can you find them for me before they float away?Please?",
-    "name": "Blown Away",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

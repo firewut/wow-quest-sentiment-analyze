@@ -1,7 +1,0 @@
-{
-    "_id": "26081",
-    "description": "The tale of Trol'kalar ends here, then. It will be a weapon to bring death to the living, in the name of the Dark Lady.Leave me now, <name>. My job is once again to guard the blade. Tell Alina of your victory, I'm sure she will have a reward for you.",
-    "name": "Alina's Reward",
-    "requires_level": 25,
-    "zone": "Arathi Highlands"
-}

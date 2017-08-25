@@ -1,8 +1,0 @@
-{
-    "_id": "39986",
-    "added_in_patch": 7,
-    "description": "For the last 10,000 years, the elven city of Suramar has been sealed in an arcane barrier, much like Dalaran once was.That barrier has come down.Since then, waves of magical energy have been emanating from the city like ripples in a pond. It was in these waves that I sensed a pattern.A spell, encrypted among the chaos.I have recreated the spell here. It's not dangerous, but beyond that... I have no idea what it does!",
-    "name": "Magic Message",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

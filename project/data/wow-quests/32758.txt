@@ -1,8 +1,0 @@
-{
-    "_id": "32758",
-    "added_in_patch": 5.2,
-    "description": "Return to your capital city and seek out a warlock trainer who may know more about the codex.",
-    "name": "Reader for the Dead Tongue",
-    "requires_level": 90,
-    "zone": "Warlock"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28217",
-    "description": "Since reclaiming Jadefire Run from the satyr, the Emerald Circle has sent many druids to begin the long task of cleansing the ruins. Last night, several of them were murdered... by a night elf.The witnesses say it was a demon hunter, a crazed disciple of Illidan. A rare sight. No doubt he's gone mad with power just like his master.I'll pay top bounty for proof of this murderer's death. He's been spotted just off the road to the north, in a valley beneath Jadefire Run.",
-    "name": "Wanted: The Demon Hunter",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

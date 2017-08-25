@@ -1,8 +1,0 @@
-{
-    "_id": "85",
-    "description": "I lost my necklace and I think that guttersnipe Billy Maclure took it!  He's usually scuttling like a rat around the Maclure Vineyards east of here. Get my necklace back for me and you'll warm an old widow's heart.",
-    "name": "Lost Necklace",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

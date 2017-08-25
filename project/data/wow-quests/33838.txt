@@ -1,9 +1,0 @@
-{
-    "_id": "33838",
-    "added_in_patch": 6,
-    "description": "Stranger! Thank the spirits for them sending you to me now. I am forging a blade and cannot leave it at this delicate state.But I need more ore to complete this task.Here, take my mining pick. It is crafted from the teeth and acid of the local goren and will cut through the ore of this area as if it were air.Bring me the ore and I will lend this blade to your cause.",
-    "name": "Smeltcraft",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

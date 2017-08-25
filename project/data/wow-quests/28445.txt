@@ -1,7 +1,0 @@
-{
-    "_id": "28445",
-    "description": "We're going to need fresh meat, which means you're going to be hunting worg.  The worg on this side of the steppes should be your target.<Eitrigg produces a large blade, which he hands to you.>Hunt the giant ember worgs.  Once you've killed them, use this saw to remove the choicest bits of meat from their bodies.  You will find these worgs all over the steppes, but the closest pack rules the land just to our southeast.",
-    "name": "A Heap of Delicious Worg",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

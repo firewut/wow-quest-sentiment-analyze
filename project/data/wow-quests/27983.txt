@@ -1,7 +1,0 @@
-{
-    "_id": "27983",
-    "description": "What you doing?  Why you kill?You need to get things from dwarfs?  Ah, Lunk understand.  Lunk have a better way.Listen: you go fight dwarf, but do not kill!  Just fight until dwarf get tired.  Then Lunk will help dwarf fall asleep.  Dwarfs probably just cranky because they don't get sleep.Come on!  Trust Lunk.",
-    "name": "Lunk's Adventure: Cranky Little Dwarfs",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

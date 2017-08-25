@@ -1,7 +1,0 @@
-{
-    "_id": "26530",
-    "description": "The final piece is all we need to burn Shadra out for good.The Shell of Shadra is held by the spider god's last living high priestess, Qiaga the Keeper. She stands atop the Altar of Zul, guarded by other fanatical zealots.You've got to climb that altar to the top and take her out! She'll have the Shell in her possession. Bring it back here.",
-    "name": "The Shell of Shadra",
-    "requires_level": 32,
-    "zone": "The Hinterlands"
-}

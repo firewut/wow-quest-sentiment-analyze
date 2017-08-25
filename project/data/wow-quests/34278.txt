@@ -1,9 +1,0 @@
-{
-    "_id": "34278",
-    "added_in_patch": 6,
-    "description": "These filthy warlocks are desecrating the dead in the boneyard!<The farseer trembles as he fails to keep his composure.>I WANT THEM DEAD!Destroy the necrophytes. Destroy their demonic abominations.",
-    "name": "Desecration of the Dead",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

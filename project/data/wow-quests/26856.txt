@@ -1,7 +1,0 @@
-{
-    "_id": "26856",
-    "description": "This cavern was once a place of great honor. Young warriors were taken here to slay an Earthborer worm for their first kill - something we Orcs remember for our entire lives.The Burning Blade agents inside have enslaved the cave's inhabitants and plan to launch a full-scale attack on Orgrimmar along with their Trogg allies.If you strike down their Lieutenants, you may be able to catch them unprepared and stop this invasion before it starts.",
-    "name": "Repel the Invasion",
-    "requires_level": 13,
-    "zone": "Ragefire Chasm"
-}

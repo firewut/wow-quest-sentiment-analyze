@@ -1,8 +1,0 @@
-{
-    "_id": "34549",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Iron Depot Challenge Mode - Silver Addition (Nth)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

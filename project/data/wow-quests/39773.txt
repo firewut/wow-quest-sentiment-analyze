@@ -1,8 +1,0 @@
-{
-    "_id": "39773",
-    "added_in_patch": 7,
-    "description": "Soulkeeper Uriah was injured in the kobold attack, but insisted on venturing further into the cave to recover the stolen soul shards. He told me to wait here with our remaining supplies until he returned, but I fear the worst.\r\n\r\nPlease find Uriah. He is the only one who knows how to trap the demons.",
-    "name": "The Soulkeeper's Fate",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "33533",
-    "added_in_patch": 6,
-    "description": "Our victory today was costly. Too costly. There is no guarantee that we can turn another attack.We need to know what the Iron Horde is up to, and there is only one place we can go to find out.Gorgrond.It is a savage land that few ever return from.I mean to go there, I mean to find their stronghold at Blackrock, and I mean to learn how we can defeat these vile orcs.Will you join me, Commander?",
-    "name": "The Secrets of Gorgrond",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

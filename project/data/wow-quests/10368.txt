@@ -1,7 +1,0 @@
-{
-    "_id": "10368",
-    "description": "The Dreghood spirit is broken because our elders are imprisoned.  Take this key and go downstairs to free them.They are Morod the Windstirrer, Akoru the Firecaller and Aylaan the Waterwaker.  Once they are free, the spirits will return to the Dreghood tribe.",
-    "name": "The Dreghood Elders",
-    "requires_level": 60,
-    "zone": "Hellfire Peninsula"
-}

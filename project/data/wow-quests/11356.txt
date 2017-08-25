@@ -1,8 +1,0 @@
-{
-    "_id": "11356",
-    "description": "During Hallow's End, human orphanages have organized trips for their orphans to visit Alliance countryside villages.  Those poor children would love to see a real <class> like yourself!Why don't you visit them?  You'll find orphans at Goldshire in Elwynn Forest, Kharanos in Dun Morogh and Azure Watch in Azuremyst.  Speak to the children's ward, a costumed orphan matron, and she'll introduce you to the children.",
-    "name": "Costumed Orphan Matron",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Hallow's End"
-}

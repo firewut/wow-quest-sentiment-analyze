@@ -1,7 +1,0 @@
-{
-    "_id": "10012",
-    "description": "The writing on the plans is far too delicate and precise to have come from any of the fel orcs. You can't make out what the text says, but the implications are pretty clear: the fel orcs are taking orders from the blood elves at Firewing Point.Why would the two forces be working together? Bertelm might have some insight into this odd alliance. You decide to make your way back to the Allerian Stronghold and show him the map.",
-    "name": "Fel Orc Plans",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

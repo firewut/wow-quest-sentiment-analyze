@@ -1,7 +1,0 @@
-{
-    "_id": "12977",
-    "description": "You have done a great service to the giants of Dun Niffelem. Without your aid, this monument would not exist.As you silently ponder its significance, feelings begin to flood your heart. The feelings fill your mind with thoughts and images... as well as a sense of urgency.The sensations fade and leave you with a knowledge of what you must do. The restless spirits at Thunderfall must be put to rest.As you set off, you find that your hands have been filled with an ethereal horn.",
-    "name": "Blowing Hodir's Horn",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

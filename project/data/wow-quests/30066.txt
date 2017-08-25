@@ -1,8 +1,0 @@
-{
-    "_id": "30066",
-    "added_in_patch": 5,
-    "description": "Our temple defenders have battled relentlessly for hours. No doubt they grow tired.I will give you mantras to deliver to our fighters.Do not be fooled by these pieces of paper. These ancient scriptures hold words of untold power.",
-    "name": "Hidden Power",
-    "requires_level": 90,
-    "zone": "Jade Temple Grounds"
-}

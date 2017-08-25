@@ -1,8 +1,0 @@
-{
-    "_id": "9705",
-    "description": "You take the package and confirm that indeed it comes from Magistrix Erona.  Alarion would probably want you to bring it to her.",
-    "name": "Package Recovery",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

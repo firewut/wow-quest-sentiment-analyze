@@ -1,7 +1,0 @@
-{
-    "_id": "11795",
-    "description": "Injured or not, as squadron commander, I'm responsible for locating and returning the insignia of all fallen pilots under my command. In all the years I've flown with Fizzcrank, we've never failed to return the signet of a pilot.My injuries make it dangerous for me to stray far from the safety of the wreckage, but perhaps you would be willing to help me recover the insignia? In the meantime, I'll make preparations to carry out my final duty as squadron commander.",
-    "name": "Emergency Protocol: Section 8.2, Paragraph C",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

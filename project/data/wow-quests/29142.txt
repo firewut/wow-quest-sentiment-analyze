@@ -1,7 +1,0 @@
-{
-    "_id": "29142",
-    "description": "The Druids of the Flame assault our front line, <name>.These vile creatures have turned their backs on Elune's teachings and worship instead the Fire Lord, Ragnaros. Twisted by his insane power, they desire nothing more than to bury us in ash.We must counter their attack immediately!",
-    "name": "Traitors Return",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31228",
-    "added_in_patch": 5,
-    "description": "Prophet Khar'zul is a powerful caster, but he is also underestimating your abilities.Khar'zul and his forces must be destroyed to protect this village. His death will send a strong message to the Thunder King that we will not be defeated!You'll find him on the Isle of Reckoning.",
-    "name": "Prophet Khar'zul",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

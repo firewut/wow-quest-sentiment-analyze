@@ -1,8 +1,0 @@
-{
-    "_id": "25801",
-    "description": "Murlocs are crawling out from the deep waters and building their villages on the coastline.  They are harassing our fishers and merchants and must be stopped.One of these murlocs, Gobbler, skulks with other bluegill murlocs and harries merchants along the road, always then retreating to the safety of the nearby murloc hovels.  Our merchants are in jeopardy, and we will pay to secure them.Gobbler prowls the river inlet north of here.  Find him, slay his kin, and bring me his head.",
-    "name": "Claws from the Deep",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35787",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Silver Victory",
-    "requires_level": 100,
-    "zone": "Quests"
-}

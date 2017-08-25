@@ -1,8 +1,0 @@
-{
-    "_id": "12210",
-    "description": "You, <race>! No sense standing around here when there's work to be done!Drak'Theron Keep is the most direct route to Zul'Drak. We MUST capture it to ensure safe passage for the Alliance. But until we get the numbers to make an assault, we'll have to content ourselves in thinning out the ice trolls and collecting intel.To that end, we've conscripted a gang of thugs to capture and deliver live trolls for interrogation. Travel northwest and speak with Samir at Granite Springs. He'll direct you further.",
-    "name": "Troll Season!",
-    "requires_level": 73,
-    "side": "alliance",
-    "zone": "Grizzly Hills"
-}

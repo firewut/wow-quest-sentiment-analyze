@@ -1,8 +1,0 @@
-{
-    "_id": "9563",
-    "description": "So you want to gain our trust?  I don't trust many people these days.We lost one of our own not long ago to the arakkoa.  It's got me a bit on edge.Tell you what, if you can prove your loyalty to Honor Hold and... bring me a mug of Nethergarde Bitter... yes, that sounds rather good about now... I'll have a deal to offer you then.Bernie at Nethergarde Keep keeps the bitter in stock.",
-    "name": "Gaining Mirren's Trust",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

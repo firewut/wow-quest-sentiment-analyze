@@ -1,8 +1,0 @@
-{
-    "_id": "30678",
-    "added_in_patch": 5,
-    "description": "Turns out these rays are not as easy to catch as I thought!  You seem like a pretty smart guy, think you can help me out?I made the bombs but have been having trouble using the raft with my hurt leg.  The rays are common in the shallows just west of here.  Take the bombs and use my raft to bring me back their stingers!Oh yeah, watch out for the hammerheads!",
-    "name": "Like Bombing Fish In A Barrel",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "7061",
-    "description": "Here - if you are interested in learning more about the Feast of Winter Veil, read this book.  While I think our recognition of the legend is the appropriate one, I'm enough of a student of legends to appreciate the collection of all information into a single source.When you're done, take the book to Baine Bloodhoof in Thunder Bluff.  I know for a fact he'd be interested in hearing that others have taken an interest in the lore of our people.  ",
-    "name": "The Feast of Winter Veil",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Quests"
-}

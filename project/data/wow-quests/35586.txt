@@ -1,8 +1,0 @@
-{
-    "_id": "35586",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Deadmines Reward Quest",
-    "requires_level": 15,
-    "zone": "Quests"
-}

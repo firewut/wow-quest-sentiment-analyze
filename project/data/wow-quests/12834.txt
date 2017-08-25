@@ -1,7 +1,0 @@
-{
-    "_id": "12834",
-    "description": "",
-    "name": "Not Rain, Nor Snow, Nor Exploding Plane",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

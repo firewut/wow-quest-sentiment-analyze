@@ -1,7 +1,0 @@
-{
-    "_id": "24439",
-    "description": "<name>! Was it you who piloted the wind rider who bombed the command center? It was a direct hit!My scouts tell me that you gravely wounded Jarrodenus, flight master of the night-elven skychasers and de facto commander of the opposition.The opportunity to strike is now - I don't have time to assemble a full assault. Rush the command center building and kill Commander Jarrodenus before his backup arrives. Bring me his head... and Azshara is ours!  ",
-    "name": "The Conquest of Azshara",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

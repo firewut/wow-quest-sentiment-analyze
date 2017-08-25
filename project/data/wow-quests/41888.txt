@@ -1,8 +1,0 @@
-{
-    "_id": "41888",
-    "added_in_patch": 7,
-    "description": "My rivals lay dead and there are none within the Firelands who dare oppose my rule!As promised, I will unite with the other Elemental Lords in the defense of Azeroth. The armies of the Firelands will scorch the battlefield with the corpses of our enemies!Go now, mortal. Tell your Earthen Ring that the Firelord himself stands with you!",
-    "name": "Allegiance of Flame",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

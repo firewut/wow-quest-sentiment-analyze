@@ -1,7 +1,0 @@
-{
-    "_id": "7365",
-    "description": "Staghelm has given the order. All trolls on the field of battle must be exterminated. Their preposterous claims of birthing night elves must be met with force and due prejudice.Slay them and return to me with their mojo. To reiterate: I want you to steal their mojo.",
-    "name": "Staghelm's Requiem",
-    "requires_level": 200,
-    "zone": "Alterac Valley"
-}

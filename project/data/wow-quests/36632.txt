@@ -1,8 +1,0 @@
-{
-    "_id": "36632",
-    "added_in_patch": 6.1,
-    "description": "Commander, I was dispatched to intercept you.Yrel and Maraad have landed at Wildwood Wash, the rangari base of operations for the area.Your presence is requested immediately. We keep a small feywing presence just east of here. If you speak with the flight master they should be able to provide you safe passage to the Wash.",
-    "name": "The Secrets of Gorgrond",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

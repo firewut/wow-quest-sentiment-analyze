@@ -1,9 +1,0 @@
-{
-    "_id": "35820",
-    "added_in_patch": 6,
-    "description": "Defeating Khargax has yielded you a trophy worthy of showing off at your outpost. Return this to Maraad to increase your glory!",
-    "name": "Trophy of Glory: Khargax the Devourer",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

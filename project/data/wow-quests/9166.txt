@@ -1,7 +1,0 @@
-{
-    "_id": "9166",
-    "description": "You must deliver the recovered night elf plans to An'telas for me. It is to the east, on the southern slopes of Sungraze Peak, just to the northeast of the Sanctum of the Sun.Magister Sylastor is there conducting ongoing studies into the ley-line nexus energy for potential use in our fight against the Scourge. Have him look at these plans to shed some light on what it is that these night elves are up to.",
-    "name": "Deliver the Plans to An'telas",
-    "requires_level": 11,
-    "zone": "Ghostlands"
-}

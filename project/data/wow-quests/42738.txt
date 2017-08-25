@@ -1,8 +1,0 @@
-{
-    "_id": "42738",
-    "added_in_patch": 7,
-    "description": "<Collect the rune from Runelord Ragnar to deactivate this runestone. If you do not already have one, obtain a grapple launcher in order to scale the walls of Hrydshal.>",
-    "name": "Rune Ruination: Runelord Ragnar",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14108",
-    "description": "The Sunreavers and Silver Covenant sent ships north to engage the Kvaldir at Hrothgar's Landing, but were intercepted and detained by a Kvaldir Raiding vessel.  To make matters worse, the Kvaldir have found a way to call forth the dreaded Kraken that lives beneath the North Sea.  If anyone on board is to get out alive, that Kraken must be driven away and the Kvaldir's summoning ritual ... disrupted.Crusader, take these spears and an Argent Hippogryph will take you to the battle.",
-    "name": "Get Kraken!",
-    "requires_level": 78,
-    "zone": "Tournament"
-}

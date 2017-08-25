@@ -1,8 +1,0 @@
-{
-    "_id": "33981",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Touched by Fire",
-    "requires_level": 90,
-    "zone": "Talador"
-}

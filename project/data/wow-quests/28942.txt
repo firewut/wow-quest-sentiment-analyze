@@ -1,7 +1,0 @@
-{
-    "_id": "28942",
-    "description": "TBD",
-    "name": "Revenge!",
-    "requires_level": 28,
-    "zone": "Arathi Highlands"
-}

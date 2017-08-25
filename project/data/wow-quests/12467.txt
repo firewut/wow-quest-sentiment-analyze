@@ -1,7 +1,0 @@
-{
-    "_id": "12467",
-    "description": "Your frostwyrm is out there.<Tyralion points west.>And it's a big one!When you're ready to fight, go speak with \"Wyrmbait.\" He'll \"fetch\" her. Once Icestorm is close enough we'll chain her to the ground and finish her off! Hopefully, with your help, we'll be able to take her down and get you that phylactery.Once you've got the phylactery, return to Wintergarde Keep and report to High Commander Halford Wyrmbane. He's been making preparations for the final showdown with Thel'zan.",
-    "name": "Chasing Icestorm: Thel'zan's Phylactery",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

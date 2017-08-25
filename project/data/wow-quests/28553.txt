@@ -1,7 +1,0 @@
-{
-    "_id": "28553",
-    "description": "I have one final dispatch to deliver to you, <name>.  It comes from Dreadmaul Hold, to the south, in the Blasted Lands.Warmatron Okrilla is waging battle against the Alliance forces of Nethergarde Keep, and she needs the assistance of a stout <class>.  You immediately sprung to mind.Travel south into the Blasted Lands, then head west.  Good luck, <name>.",
-    "name": "Okrilla and the Blasted Lands",
-    "requires_level": 54,
-    "zone": "Blasted Lands"
-}

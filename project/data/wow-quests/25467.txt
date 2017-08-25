@@ -1,7 +1,0 @@
-{
-    "_id": "25467",
-    "description": "You are pleasantly surprised to find that after being mangled and masticated by a sea crab, this map is still quite legible.It clearly indicates that a footlocker was buried in the Kelp'thar Forest behind a gigantic mollusk.A well-drawn sketch on the back of the map shows that the owner, along with his key, was eaten by an overgrown crustacean named Kliklak.",
-    "name": "Kliklak's Craw",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38938",
-    "added_in_patch": 7,
-    "description": "Not far away, a bear cub looks to be in some distress. Perhaps you should investigate?",
-    "name": "Unbearable",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27654",
-    "description": "No foray into the field would be complete without a good old-fashioned take-the-bad-guys-out kind of mission.Between the citadel veterans, the corrupted elementalists, and the twilight vindicators, I'm sure you'll have plenty of targets.How you choose to kill them is up to you.",
-    "name": "Bring the Hammer Down",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

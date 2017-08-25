@@ -1,7 +1,0 @@
-{
-    "_id": "25219",
-    "description": "I'm researching snails.Yes. Snails. When you're done laughing, maybe you can help.I'm sure you noticed the gigantic shellfish across the ridge... well, I'm pretty sure there's something inside it. It has several points that can only be mouths or entrances of some kind, and I've seen those sifting snails squeezing in and out.I'm thinking that we might be able to use the snails to gain entrance ourselves. That's the theory anyway.",
-    "name": "Don't be Shellfish",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27466",
-    "description": "Tyrosus has given us our next task: slaying more undead in Northdale.  Gidwin is excited to move forward, but I think we should show a little more caution.Let's meet up with Fiona.  She should be at the next tower by now... Eastwall Tower, I think it's called.  It's close by, to the northwest of Light's Hope.  We can rest there, and plan our attack on Northdale.",
-    "name": "Argent Call: Northdale",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

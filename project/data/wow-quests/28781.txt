@@ -1,7 +1,0 @@
-{
-    "_id": "28781",
-    "description": "We were part of a clandestine operation put together by Prince Nadun of Ramkahen.  We lost most of our unit during an ambush and we're now unable to finish our mission.Should you be up for it, I can arrange for a sizable reward for you.We were instructed to take out any targets of opportunity that would damage the enemy's military infrastructure.We've spotted General Husam and two of his captains up ahead.  Slaying them for us will be a great favor for Ramkahen.",
-    "name": "Targets of Opportunity",
-    "requires_level": 83,
-    "zone": "Quests"
-}

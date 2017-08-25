@@ -1,7 +1,0 @@
-{
-    "_id": "12632",
-    "description": "I am the last of the gods to be subdued, so we must first attempt to free the others. Bound by the magics of my subduers, I am unable to discern their fates.But first, I would ask that you do me a kindness. Already the Drakkari turn my magic against me. They have transformed my offspring into monstrosities.Take one of my whiskers. Slay my tortured children and use the magic of it to release them from their nightmare, and bring them back to life.",
-    "name": "But First My Offspring",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

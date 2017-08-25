@@ -1,8 +1,0 @@
-{
-    "_id": "43389",
-    "added_in_patch": 7,
-    "description": "You helped me escape my fate by freeing me from the gallows, but allowing me to fight the Scarlet Onslaught by your side has truly freed my heart and mind from the guilt I have felt for so long.\r\n\r\nI want to be a part of something greater than myself, a noble cause that won't distort the meaning of the Light. \r\n\r\nLet me travel to your temple and beg forgiveness of the Prophet. I may not be a welcome guest, but it's a journey I must make to complete my redemption.",
-    "name": "Unexpected Guests",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

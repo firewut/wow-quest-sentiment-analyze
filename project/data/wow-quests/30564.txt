@@ -1,7 +1,0 @@
-{
-    "_id": "30564",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Tracking Event: Talked to Dog at Farm",
-    "zone": "Valley of the Four Winds"
-}

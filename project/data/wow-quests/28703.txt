@@ -1,7 +1,0 @@
-{
-    "_id": "28703",
-    "description": "I've still got no clue where all these bugs came from. My best guess is the cataclysm stirred up some underground nests we never knew about.No use getting distracted with that when they need killing, though!",
-    "name": "Step Into My Barrow",
-    "requires_level": 51,
-    "zone": "Winterspring"
-}

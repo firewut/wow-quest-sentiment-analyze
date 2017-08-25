@@ -1,8 +1,0 @@
-{
-    "_id": "40186",
-    "added_in_patch": 7,
-    "description": "We are currently at war with a race known as the drogbar. We have long maintained peace with the drogbar, but lately, they have no respect for anyone but themselves.Slay them. Prove your worth as an ally of the tauren. Do this, and I will reward you with knowledge.",
-    "name": "Drogbar Durability",
-    "requires_level": 102,
-    "zone": "Leatherworking"
-}

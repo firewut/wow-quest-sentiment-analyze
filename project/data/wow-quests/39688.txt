@@ -1,9 +1,0 @@
-{
-    "_id": "39688",
-    "added_in_patch": 7,
-    "description": "The last of our survivors have fought their way into the final chamber ahead.\r\n\r\nOnly one obstacle stands between us and the vault's exit - the leader of this demon invasion, Bastillax.\r\n\r\nKill him, take his power, and claim our freedom.",
-    "name": "Between Us and Freedom",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Demon Hunter"
-}

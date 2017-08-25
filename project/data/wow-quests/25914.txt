@@ -1,7 +1,0 @@
-{
-    "_id": "25914",
-    "description": "Tendrils are bursting forth from the earth and terrorizing Stonetalon Peak. My sentinels are hardly making a dent in their numbers.I suspect that there is a force at the heart of Stonetalon Peak that controls the tendrils. Perhaps if we can put a stop to that force, the tendrils will return to the depths from whence they came!",
-    "name": "Back to the Depths!",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

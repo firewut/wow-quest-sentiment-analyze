@@ -1,8 +1,0 @@
-{
-    "_id": "34293",
-    "added_in_patch": 6,
-    "description": "These ruins are full of Shadow Council adherents. We can't afford to let them scatter all over Draenor once Gul'dan has been dealt with.No, we need to eliminate every one of them down to the last orc.",
-    "name": "Eliminate the Shadow Council",
-    "requires_level": 94,
-    "zone": "Frostfire Ridge"
-}

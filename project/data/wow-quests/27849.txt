@@ -1,7 +1,0 @@
-{
-    "_id": "27849",
-    "description": "This is it, <name>. We've made our final push into Stonard itself.I shouldn't have to remind anyone, but I'll say it anyway: We're not orcs, and we're not going to become them out of revenge or spite. Stonard will not be burned to the ground for us to dance on the ashes.No, I want this done right. I want this surgical. Hold your head high and strike down any orc that picks up a weapon.",
-    "name": "Assault on Stonard",
-    "requires_level": 52,
-    "zone": "Swamp of Sorrows"
-}

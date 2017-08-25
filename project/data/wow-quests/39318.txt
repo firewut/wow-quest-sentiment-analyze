@@ -1,8 +1,0 @@
-{
-    "_id": "39318",
-    "added_in_patch": 7,
-    "description": "I know why Mayla sent you. But as you have seen, the drogbar are not the only threat to Highmountain.I will not send forces to support until we deal with the minions of High Crawliac.If you want to help, find my shaman. He was supposed to be dispersing these fires that are ravaging my village.He was last seen heading for his spirit lodge to the south just before these Cinderwitches descended on us.",
-    "name": "Nursing the Wounds",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

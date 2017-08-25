@@ -1,8 +1,0 @@
-{
-    "_id": "9558",
-    "description": "We were having a problem with arakkoa bandits raiding many of our supply caravans, so I hired some dwarves to take care of them.They were brothers; Gremni Longbeard was the oldest.I'm a little worried about them.  Those crazy dwarves packed more ale than food or ammunition!  Maybe you can go check up on them?The arakkoa's hideout, the Den of Haal'esh, can be found to the far west of here - beyond the Great Fissure.  They set up camp northwest of there, south of Dustquill Ravine.",
-    "name": "The Longbeards",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

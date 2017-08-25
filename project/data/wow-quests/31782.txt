@@ -1,8 +1,0 @@
-{
-    "_id": "31782",
-    "added_in_patch": 5,
-    "description": "The council is in harmony, wakener.Our ritual will bring about the demise of the empress and allow us to secure the future of our great empire.Behold the power of the Klaxxi!",
-    "name": "Overthrone",
-    "requires_level": 87,
-    "zone": "Dread Wastes"
-}

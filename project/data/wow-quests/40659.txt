@@ -1,8 +1,0 @@
-{
-    "_id": "40659",
-    "added_in_patch": 7,
-    "description": "You think those naga are good sport, little rabbit?<Stokalfr chuckles.>I would savor the chance to do battle with one of those barnacle-crusted behemoths.If you want to impress me, bring me the stars from their heads. I might consider you a true <class> then.",
-    "name": "Seeing Stars",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

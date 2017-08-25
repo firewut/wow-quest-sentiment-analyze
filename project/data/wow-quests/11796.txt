@@ -1,7 +1,0 @@
-{
-    "_id": "11796",
-    "description": "There's only one more thing left to do before I can finally return to the airstrip and make my report. Section 8.2, paragraph D of the emergency protocol requires me to scuttle as much of the wreckage as possible, in order to prevent our technology from falling into enemy hands.I'll give you my torch if you agree to help me complete this last duty. I don't want to think about what the Horde's goblin allies will do if these machines fall into their hands.",
-    "name": "Emergency Protocol: Section 8.2, Paragraph D",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

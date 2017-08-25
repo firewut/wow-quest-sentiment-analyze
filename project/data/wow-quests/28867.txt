@@ -1,7 +1,0 @@
-{
-    "_id": "28867",
-    "description": "Nethergarde needs you, <class>! I have been sent here by Quartermaster Lungertz to head off Okrilla's nefarious lackeys and to recruit able-bodied heroes of the Alliance! Help us fight off the Horde!If you are willing, take this portal in front of me to the Blasted Lands and speak with the quartermaster.",
-    "name": "Nethergarde Needs You!",
-    "requires_level": 54,
-    "zone": "Blasted Lands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29169",
-    "description": "<Maywiki shuffles nervously.>After the fall of Hakkar, the city of the Gurubashi fell into disrepair, and the jungle claimed most of Zul'Gurub for its own.  Several powerful beasts now reside in the cracks and hollows of the ancient city.We have seen the powers that the Gurubashi priests wield - they turn the very plantlife against us with their venomous concoctions.  Please, heroes, dispose of these beasts, before they become mindless agents of Jin'Do and his minions!",
-    "name": "The Beasts Within",
-    "requires_level": 85,
-    "zone": "Quests"
-}

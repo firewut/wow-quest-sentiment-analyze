@@ -1,8 +1,0 @@
-{
-    "_id": "42510",
-    "added_in_patch": 7,
-    "description": "Illidan's immortal demon soul is lost somewhere in the vastness of the Twisting Nether. Contacting him risks much, the Nether is full of creatures of unimaginable power and appetites. But, it must be done if we are to move forward.\r\n\r\nThe ritual can be performed using the nether crucible. Make the blood offering, <name>.",
-    "name": "Immortal Soul",
-    "requires_level": 103,
-    "zone": "Demon Hunter Campaign"
-}

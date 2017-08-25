@@ -1,8 +1,0 @@
-{
-    "_id": "38514",
-    "added_in_patch": 7,
-    "description": "You wish me to teach you how to strengthen your crafts? We do not simply share the secrets of our trade with outsiders who ask for them.We do, however, respect craftsmanship and discipline.Let's see your hammerwork. Our greenhorn trainees use those small anvils over there. Craft your best pair of gauntlets so I may judge your work.",
-    "name": "You Are Not Worthy",
-    "requires_level": 104,
-    "zone": "Blacksmithing"
-}

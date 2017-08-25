@@ -1,7 +1,0 @@
-{
-    "_id": "8354",
-    "description": "Ah, trick-or-treating on behalf of a child, are we?  I was going to say, you're a little old to be rummaging about for candies...Well, for my treat - an Undercity Mint - you will need to... cluck like a chicken!  Yes, chickens love mints... well OK, maybe they don't LOVE them... but I won't give you a mint unless you chicken cluck for me!Well <class>, are you up to the challenge or not?!  Time to earn your treat!\r\n",
-    "name": "Chicken Clucking for a Mint",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

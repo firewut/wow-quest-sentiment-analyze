@@ -1,8 +1,0 @@
-{
-    "_id": "41180",
-    "added_in_patch": 7,
-    "description": "<name>, I received an urgent message from the High Examiner requesting your presence.He's finally found something powerful-- VERY powerful--and he wants your help in recovering it.Be careful down there, <name>. Tae'thelan can be a tad fanatical when it comes to artifacts that hold any sort of energy.",
-    "name": "Unspeakable Power",
-    "requires_level": 110,
-    "zone": "Archaeology"
-}

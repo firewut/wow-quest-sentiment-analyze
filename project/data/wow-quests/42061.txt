@@ -1,7 +1,0 @@
-{
-    "_id": "42061",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Charge Trigger Hit",
-    "zone": "Artifact"
-}

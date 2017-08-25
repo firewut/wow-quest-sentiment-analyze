@@ -1,9 +1,0 @@
-{
-    "_id": "29906",
-    "added_in_patch": 5,
-    "description": "Despite the hozen's apparent disarray, there is an order to their chaos. Their leader, Chief Gukgut, is the shrewd mastermind behind their attacks.He is organizing their movements at the great pit at the hozen camp to the northwest.Strike now and show him no mercy, <name>, for he will do the same.",
-    "name": "Carp Diem",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

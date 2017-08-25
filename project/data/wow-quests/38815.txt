@@ -1,8 +1,0 @@
-{
-    "_id": "38815",
-    "added_in_patch": 7,
-    "description": "With the rituals disrupted and her bones returned, we may be able to wrest Ashildir from the grasp of these Bonespeakers.\r\n\r\nDeeper within Haustvald, the mystics possess a special altar that can reunite the body and spirit of a fallen warrior. With this, we may be able to return Ashildir's spirit into her bones, and out of the grasp of these foul mystics.\r\n\r\nGo outsider, I will rally her guard.",
-    "name": "Waking the Shieldmaiden",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

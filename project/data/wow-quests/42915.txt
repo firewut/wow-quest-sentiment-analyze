@@ -1,8 +1,0 @@
-{
-    "_id": "42915",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Daily Heroic Specific (1st) (Legion)",
-    "requires_level": 71,
-    "zone": "Quests"
-}

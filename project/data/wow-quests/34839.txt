@@ -1,8 +1,0 @@
-{
-    "_id": "34839",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Skog",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34570",
-    "added_in_patch": 6,
-    "description": "Teron'gor and his master Gul'dan were here! I tried to stop them... they escaped through the demonic gateway behind me before I could finish them!I think I can activate the portal open just long enough for you to enter. We have no way of knowing where it leads, but I fear it may end inside Auchindoun!You have to stop him once and for all!",
-    "name": "REUSE",
-    "requires_level": 95,
-    "zone": "Talador"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14338",
-    "description": "Greetings, <class>.It is good to see that you still draw breath. The time has come for me to call upon your services.Just southwest of this glade stands Ghost Walker Post. There you will find a forsaken by the name of Maurin Bonesplitter.He may have a solution for one of the problems we face here.Speak with him and do what you can to assist him.",
-    "name": "Ghost Walker Post",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

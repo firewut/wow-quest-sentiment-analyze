@@ -1,7 +1,0 @@
-{
-    "_id": "12729",
-    "description": "The gods have spoken and we must heed their wisdom.Travel north to Zim'Rhuk to destroy guardians there until they yield the unblemished heart. Travel east to the Altar of Quetz'lun and disrupt the altar wardens until you recover their gusty essence.Deliver both to Har'koa and she will combine them into that which will compel late Akali's prophet to appear.",
-    "name": "The Gods Have Spoken",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

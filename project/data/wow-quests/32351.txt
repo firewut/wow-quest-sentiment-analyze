@@ -1,8 +1,0 @@
-{
-    "_id": "32351",
-    "added_in_patch": 5.1,
-    "description": "Ah, <name>, we meet again. I have heard some wondrous news.High Chieftain Baine Bloodhoof of the tauren has arrived here on Pandaria.He meets with Warchief Garrosh Hellscream and Regent Lord Lor'themar Theron now, at the Shrine of Two Moons in the Vale of Eternal Blossoms.He sent me a strange request - to send him a loyal champion of the Horde, capable of combat... and discretion.I can think of none better to send than you. Speak to Tak-Tak if you seek transport.",
-    "name": "Echoes of Thunder",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

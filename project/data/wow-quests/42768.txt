@@ -1,8 +1,0 @@
-{
-    "_id": "42768",
-    "added_in_patch": 7,
-    "description": "Do you seek my weapon? Then you better answer my question.  \"I seek something curvy and bendy but with no spine,   It rushes and rushes leaving chaos behind.   Sometimes it brings life, sometimes it brings death:   A little is good, but a lot steals your breath.   It's as common as dirt, but this part's obscure:   This stuff comes from a pool that's known to be pure.\"Bring me what I seek.",
-    "name": "The Riddle of Purity",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

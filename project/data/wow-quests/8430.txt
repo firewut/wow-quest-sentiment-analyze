@@ -1,7 +1,0 @@
-{
-    "_id": "8430",
-    "description": "The battle in Warsong Gulch against the Silverwing Sentinels is of great importance.  Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.Do not let this happen, <name>!  Come back to me with proof of serving the Horde in a worthy manner!",
-    "name": "Battle of Warsong Gulch",
-    "requires_level": 60,
-    "zone": "Warsong Gulch"
-}

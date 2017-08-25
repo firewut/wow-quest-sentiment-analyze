@@ -1,8 +1,0 @@
-{
-    "_id": "44219",
-    "added_in_patch": 7,
-    "description": "The Light's blessing is powerful. We use it to mend, to defeat our enemies... we even use it to resurrect our allies. Did you know it can also be used to alter your destiny?  \r\n\r\nThe Silver Hand is able to procure a valuable item to help you in our war against the Legion. This Seal can be used at the most opportune moments to grant another chance at destiny.  \r\n\r\nShall we procure one for you?",
-    "name": "Fates Blessing",
-    "requires_level": 110,
-    "zone": "Light's Hope Chapel"
-}

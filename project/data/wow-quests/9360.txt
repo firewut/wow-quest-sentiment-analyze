@@ -1,7 +1,0 @@
-{
-    "_id": "9360",
-    "description": "Though you don't understand the language in these battle plans, you clearly make out a map marking the positions of the Farstrider Retreat and Fairbreeze Village.You'd best let Lieutenant Dawnrunner at the Farstrider Retreat know about this.",
-    "name": "Amani Invasion",
-    "requires_level": 8,
-    "zone": "Eversong Woods"
-}

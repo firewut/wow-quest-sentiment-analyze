@@ -1,7 +1,0 @@
-{
-    "_id": "1500",
-    "description": "",
-    "name": "Waking Naralex",
-    "requires_level": 10,
-    "zone": "Wailing Caverns"
-}

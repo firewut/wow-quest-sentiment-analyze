@@ -1,8 +1,0 @@
-{
-    "_id": "36920",
-    "added_in_patch": 7,
-    "description": "A few of our demon hunters, Kor'vas Bloodthorn and Cyana Nightglaive, took a small force of the Illidari across to Faronaar. Their mission was to weaken the Legion from within.\r\n\r\nI haven't heard from them in a while.\r\n\r\nIt would be best if you could find and lead them to success. Agreed?",
-    "name": "From Within",
-    "requires_level": 98,
-    "zone": "Quests"
-}

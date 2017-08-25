@@ -1,7 +1,0 @@
-{
-    "_id": "25287",
-    "description": "All right, soldier. Time to prove your worth!Take the speech and board the flying machine \"Thunderflash\".  It's the fastest ship to High Tinker Mekkatorque and this speech is the only thing he's waiting on before starting Operation: Gnomeregan.Go! Now!",
-    "name": "Words for Delivery",
-    "requires_level": 75,
-    "zone": "Dun Morogh"
-}

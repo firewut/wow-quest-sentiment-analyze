@@ -1,8 +1,0 @@
-{
-    "_id": "42422",
-    "added_in_patch": 7,
-    "description": "Assist the Wardens by completing 4 world quests.",
-    "name": "The Wardens",
-    "requires_level": 110,
-    "zone": "Isle of the Watchers"
-}

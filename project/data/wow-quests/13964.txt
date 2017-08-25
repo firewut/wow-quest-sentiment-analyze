@@ -1,7 +1,0 @@
-{
-    "_id": "13964",
-    "description": "We've lost Silverwind Refuge! All that I know is that there was a surprise attack by the Horde and that they somehow turned Mystral Lake's elemental guardians against us.The survivors have fallen back to Stardust Spire. <name>, they need your help.Head south by southeast. You'll find the spire at the mouth of the Talondeep Pass, which leads into the Stonetalon Mountains. I'm sure that you'll find Sentinel Velene Starstrike helping with the counter-offensive there.",
-    "name": "To the Spire",
-    "requires_level": 23,
-    "zone": "Ashenvale"
-}

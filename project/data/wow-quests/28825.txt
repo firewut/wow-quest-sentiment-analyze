@@ -1,8 +1,0 @@
-{
-    "_id": "28825",
-    "description": "<An unfamiliar feeling wells up from deep within you, flooding your mind with thoughts and images.>Hear my words, <name>.Our world finds itself in the grip of a terrible crisis.I call upon you to lend your aid in this desperate hour.I am Naraat.Seek me out at once, and your calling shall be revealed.I await you at the Eastern Earthshrine in Stormwind City.",
-    "name": "A Personal Summons",
-    "requires_level": 80,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

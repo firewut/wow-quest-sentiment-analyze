@@ -1,7 +1,0 @@
-{
-    "_id": "7666",
-    "description": "",
-    "name": "Again Into the Great Ossuary",
-    "requires_level": 60,
-    "zone": "Paladin"
-}

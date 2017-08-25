@@ -1,9 +1,0 @@
-{
-    "_id": "35031",
-    "added_in_patch": 6,
-    "description": "I can feel a powerful presence in the marsh $p.  I feel drawn to it.  We must go and take what is there.  Go on ahead, I must finish consuming these mushrooms.",
-    "name": "A Heartfelt Search",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

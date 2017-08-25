@@ -1,7 +1,0 @@
-{
-    "_id": "7367",
-    "description": "The Frostwolf have their front lines and bases booby trapped, <class>. You have to watch your step when invading enemy territory.If you want to make a solid strike against them, you must destroy their source of anti personnel munitions - I'm talking about their explosives expert. If you kill him, you are safe to disarm the mines. As long as he is kept down, the mines will also stay down.You will probably find him in a tower near the Iceblood Garrison. Good luck!",
-    "name": "Defusing the Threat",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

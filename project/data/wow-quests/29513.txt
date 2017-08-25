@@ -1,7 +1,0 @@
-{
-    "_id": "29513",
-    "description": "We've just introduced another exciting new menu item, the salty sea dog. It's so popular, we can barely keep up with the demand!You look like a decent angler and a spry <race>. Would you help me restock my fish supplies?We wouldn't want to disappoint all those faire-goers looking to try a new food, would we?",
-    "name": "Spoilin' for Salty Sea Dogs",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11662",
-    "description": "A fellow survivor of Pal'ea known as Karuk has made his way to the main base of the Kvaldir in the Borean Tundra - far to the south where the snow was once bountiful. Karuk hides along the bluffs overlooking Riplash Strand.Seek out Karuk and let him know what you did for my people here at the Coast of Echoes.The safest route to Karuk is through your fortress. From Warsong Hold, take the road south and follow it around until you reach Riplash Strand.",
-    "name": "Seek Out Karuk!",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

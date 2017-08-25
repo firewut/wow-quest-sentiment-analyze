@@ -1,7 +1,0 @@
-{
-    "_id": "25374",
-    "description": "You may have seen this with your own eyes, but my longrunners have reported something disturbing to me. The gordunni in the hills have captured an enormous sasquatch from the wilds.I don't know how long it's been held, but ogres are not ones for hobbies. I fear they plan to unleash the tortured beast on Camp Mojache.Return to the deepest corner of the Gordunni Outpost and slay the sasquatch, <name>.",
-    "name": "Sasquatch Sighting",
-    "requires_level": 37,
-    "zone": "Feralas"
-}

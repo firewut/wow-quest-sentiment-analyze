@@ -1,8 +1,0 @@
-{
-    "_id": "44052",
-    "added_in_patch": 7,
-    "description": "There will be consequences for what has transpired this day.\r\n\r\nFor now, you should return to Thalyssra. Tell her that we have avenged Margaux and that the Dusk Lily has announced itself to all of Suramar.\r\n\r\nThere will be many more deaths before this is over, rest assured, but this is a death that will teach others like Durant to tread more carefully in the future.",
-    "name": "And They Will Tremble",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

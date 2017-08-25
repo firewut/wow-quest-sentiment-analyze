@@ -1,8 +1,0 @@
-{
-    "_id": "26079",
-    "description": "The Stromgarde Militia has placed bounties on the heads of Lord Falconcrest, and his bodyguard Otto.  Falconcrest heads the Syndicate's efforts in the Arathi Highlands, and his death would cause a major disruption in those efforts.His bodyguard Otto, although not a strategic target, is a fierce opponent and has killed dozens of our defenders.Their bounties may be collected from Captain Nials.",
-    "name": "Wanted!  Otto and Falconcrest",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

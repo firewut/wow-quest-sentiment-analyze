@@ -1,7 +1,0 @@
-{
-    "_id": "29200",
-    "description": "Before we depart, <name>, I have another matter to which you should attend.A Druid of the Flame has been spotted in the ruins to the northwest. I suspect it is the same one that attacked us at the portal several days ago. Now would be an ideal time to see what it is that she truly wants... and if necessary, dispose of her.See to this flame druid, then we can continue on our planned course.",
-    "name": "Leyara",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

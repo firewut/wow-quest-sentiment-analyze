@@ -1,8 +1,0 @@
-{
-    "_id": "43300",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Repel",
-    "requires_level": 1,
-    "zone": "Azshara"
-}

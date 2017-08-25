@@ -1,8 +1,0 @@
-{
-    "_id": "42774",
-    "added_in_patch": 7,
-    "description": "Tirion... still alive! We have to save him.Light's Hope Chapel is not far from here. We must rally our forces and leave at once for the Broken Shore.",
-    "name": "Hope Prevails",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

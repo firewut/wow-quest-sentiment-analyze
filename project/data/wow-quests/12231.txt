@@ -1,7 +1,0 @@
-{
-    "_id": "12231",
-    "description": "It is possible that the furbolg of Grizzly Hills have the same taint that plagued Vordrassil.  They've been involved in a deadly tribal war recently after years of peaceful coexistence.The shrines that they guard to the east are home to Ursoc's offspring.If the corruption has affected the furbolg, it is possible that because of their lineage, Kodian and Orsonn have remained unharmed.If that's the case, find them and listen to what they have to say.",
-    "name": "The Bear God's Offspring",
-    "requires_level": 72,
-    "zone": "Grizzly Hills"
-}

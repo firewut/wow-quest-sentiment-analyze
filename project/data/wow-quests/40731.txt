@@ -1,8 +1,0 @@
-{
-    "_id": "40731",
-    "added_in_patch": 7,
-    "description": "Friend has the artifact! Now Jagganoth does not stand a chance!Quickly, you must go back to Dreadscar Rift! You may still be able to save your friends from Jagganoth's vengeance.If you take the heart of the overlord, his army will be yours to command!",
-    "name": "The Heart of the Dreadscar",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

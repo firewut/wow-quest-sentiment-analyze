@@ -1,8 +1,0 @@
-{
-    "_id": "40746",
-    "added_in_patch": 7,
-    "description": "It is time for you to enter the city proper, <name>.\r\n\r\nI am sending you to my loyal friend Vanthir. I do hope you remember him- I can guarantee that he remembers you.\r\n\r\nI will not be able to accompany you, but I must stress that the disguise I have granted you is not impervious. Tread carefully, and avoid those who stare too long.\r\n\r\nFarewell for now.",
-    "name": "One of the People",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

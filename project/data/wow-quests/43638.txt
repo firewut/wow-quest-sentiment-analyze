@@ -1,8 +1,0 @@
-{
-    "_id": "43638",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "The Arcway: Silver Serpent",
-    "requires_level": 110,
-    "zone": "The Arcway"
-}

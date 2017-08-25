@@ -1,7 +1,0 @@
-{
-    "_id": "27902",
-    "description": "Magtoor has told me of the shamanism that the Broken practice. The great Nobundo once said that the path of the elements may, in a way, be another way to the Light.I can only hope there is some truth in this. The elementals that gather near Purespring Cavern to the south are a source of truly pristine water. They can be chaotic and violent, but the pure water harvested from them will be the perfect conduit for the blessing of the Light.Please, bring me this water, <name>.",
-    "name": "The Purespring",
-    "requires_level": 53,
-    "zone": "Swamp of Sorrows"
-}

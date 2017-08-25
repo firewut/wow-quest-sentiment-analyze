@@ -1,8 +1,0 @@
-{
-    "_id": "39329",
-    "added_in_patch": 7,
-    "description": "I've heard that someone over in the engineering shop is selling a burner that might be usable. You could likely negotiate a fairer price than I could!The shop is just across the street. I'll make a note on your map for you.",
-    "name": "A Dormant Burner",
-    "requires_level": 100,
-    "zone": "Alchemy"
-}

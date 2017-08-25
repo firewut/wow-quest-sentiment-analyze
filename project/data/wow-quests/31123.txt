@@ -1,8 +1,0 @@
-{
-    "_id": "31123",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Chose Arms Warrior",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

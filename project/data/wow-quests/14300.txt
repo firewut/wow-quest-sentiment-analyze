@@ -1,7 +1,0 @@
-{
-    "_id": "14300",
-    "description": "The Trial of Fire... oooh... sounds intimidating, doesn't it? No? Hm. Well I kind of thought so. Firsts are first, you touch the fire crystal and the portal to the trial opens.To beat this trial, you have to hop around in the fire runes without getting hit by the fire. If you stay unflamed long enough, you win!There are little signs to help you - fire hopping to its new rune, fizzles when a rune goes cold. You can figure that stuff out if you want. Or just guess! That's what most people do.",
-    "name": "The Trial of Fire",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

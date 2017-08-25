@@ -1,8 +1,0 @@
-{
-    "_id": "30344",
-    "added_in_patch": 5,
-    "description": "I wonder if I could bother you for another task. My daughter, the good Sentinel Commander Lyalia here, refuses to let me go into the field.I have spent everyday in that oubliette staring at the ruins to our north, itching to investigate.If we are where I suspect we are those ruins could contain the key we need to finding the fabled Pools of Youth!Please, <class>! Go to those ruins and salvage any tablets that still have writing on them.",
-    "name": "The Lost Dynasty",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

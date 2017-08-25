@@ -1,8 +1,0 @@
-{
-    "_id": "43699",
-    "added_in_patch": 7,
-    "description": "Requests are pouring in from across the Broken Isles for our aid, Highlord.I know that we are working to aid the priests at Netherlight Temple, but there are many others who need our help.We cannot turn our backs on those who need our aid.",
-    "name": "Defenders of the World",
-    "requires_level": 110,
-    "zone": "Paladin Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35891",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Dire Maul (Capital Gardens) Reward Quest",
-    "requires_level": 39,
-    "zone": "Quests"
-}

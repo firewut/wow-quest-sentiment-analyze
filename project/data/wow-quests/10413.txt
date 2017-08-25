@@ -1,7 +1,0 @@
-{
-    "_id": "10413",
-    "description": "You carefully fill a vial with the fallen void horror's ooze.Researcher Navuud at the Protectorate Watch Post would be quite interested in such a find! Take it to him at once!",
-    "name": "The Horrors of Pollution",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

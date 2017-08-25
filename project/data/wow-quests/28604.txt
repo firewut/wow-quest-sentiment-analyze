@@ -1,7 +1,0 @@
-{
-    "_id": "28604",
-    "description": "As long as I am by your side the enemy will think of you as one of their own. Your newfound humanity, however, will not allow you to be reckless. If you draw attention to yourself the dwarves will grow suspicious and likely attack!With that said, I have a plan. Take this barrel of poisoned water and use it to sate the thirst of the tired Stormpike trainees. Once they drink from it they will become deathly ill, eventually succumbing to the poison.",
-    "name": "Deception and Trickery",
-    "requires_level": 21,
-    "zone": "Hillsbrad Foothills"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36085",
-    "added_in_patch": 6,
-    "description": "Now we bring our fight to the Adherents. Raastok is certain his new invention will give us control of the Apexis weapons, but we must get close - very close.Ka'alu and her ravens will fly us to the Windswept Terrace. We shall gain a foothold there before pressing on to the Terrace of Dawn.",
-    "name": "On Ebon Wings",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

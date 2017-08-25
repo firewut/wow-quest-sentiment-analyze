@@ -1,8 +1,0 @@
-{
-    "_id": "31020",
-    "added_in_patch": 5,
-    "description": "I must join the Klaxxi Council and the other paragons immediately, but I am barely strong enough to stand.I must feed, Wakener.I sense the beating hearts of creatures on the northern bank of the lake.Kill them for me, and I shall do the rest.",
-    "name": "Feeding the Beast",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

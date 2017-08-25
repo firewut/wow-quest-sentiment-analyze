@@ -1,9 +1,0 @@
-{
-    "_id": "35032",
-    "added_in_patch": 6,
-    "description": "Rulkan's gift to you, the Fragment of Anguish, will allow you to pass into the fortress unhindered. Go up these stairs to the doorway, then use the fragment to enter the compound.Once you are inside, you will find three altars powering the magical barrier around their stronghold.Destroy these runes, and Yrel and I will be able to join you in finding Ner'zhul.",
-    "name": "Into Anguish",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

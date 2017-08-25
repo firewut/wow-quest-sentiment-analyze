@@ -1,8 +1,0 @@
-{
-    "_id": "30464",
-    "added_in_patch": 5,
-    "description": "Leza now walks with the ancestors of this strange land. I must look now to the living.Kor has led a group of our scouts west deeper into the jungle.Track him down and lend what aid you can to him. We will join you as quickly as we are able.",
-    "name": "Going West",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

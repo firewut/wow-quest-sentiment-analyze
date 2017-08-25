@@ -1,7 +1,0 @@
-{
-    "_id": "26909",
-    "description": "Ancient stones are strewn across this land. The elements flock to them, surrounding them protectively.These are sites of great power, and the largest is just west of Hammerfall. Not a soul trespasses, but if you go there alone, you can hear whispers from the earth itself.I have not visited there in a long while... but our grunts have told me the whispers have started again. Would you look for me? Will you see if the stones still speak?",
-    "name": "The Stone Shards",
-    "requires_level": 27,
-    "zone": "Arathi Highlands"
-}

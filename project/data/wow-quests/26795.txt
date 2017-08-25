@@ -1,7 +1,0 @@
-{
-    "_id": "26795",
-    "description": "From what my scouts tell me, Mor'Ladim wanders throughout Duskwood, following a strange and meandering path through the cemetery. We buried him out past the house on the hill, you know where that is?There isn't anything I can do to help you, but I wish you good luck.",
-    "name": "Mor'Ladim",
-    "requires_level": 23,
-    "zone": "Duskwood"
-}

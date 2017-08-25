@@ -1,8 +1,0 @@
-{
-    "_id": "35709",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Laughing Skull Cache I",
-    "requires_level": 90,
-    "zone": "Gorgrond"
-}

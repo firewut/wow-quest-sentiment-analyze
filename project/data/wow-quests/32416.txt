@@ -1,8 +1,0 @@
-{
-    "_id": "32416",
-    "added_in_patch": 5.1,
-    "description": "For too long, I have toiled to mend fences between Alliance and Horde. Time and time again, I've given the Horde the benefit of the doubt - and time and time again, they stab me in the back.I refuse to be betrayed again! If the Horde intends to use the Kirin Tor as a weapon against the Alliance, then they have no place in Dalaran.Come with me, <name>.",
-    "name": "Jaina's Resolution",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

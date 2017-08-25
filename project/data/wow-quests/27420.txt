@@ -1,7 +1,0 @@
-{
-    "_id": "27420",
-    "description": "You have a keen eye to have seen me here, hidden among the grasses.Ahead of us lies the Fungal Vale, an area that the Scourge still cling tightly to.  They use floating constructs to continually re-plague the land, keeping it vile and polluted.The devices are controlled with runes, which are held by dark adepts and shadowmages.  Take the controlling runes that these cultists hold, aim them at the plague disseminators, then overcharge them with this mote.  The results should be amusing.",
-    "name": "Postponing the Inevitable",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

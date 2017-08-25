@@ -1,8 +1,0 @@
-{
-    "_id": "31540",
-    "added_in_patch": 5,
-    "description": "It seems like the Tian Monsatery is training a lot of monks this year. We've received a huge commission for staves. And by huge, I mean HUGE.Could you take on part of the commission? I'd very much appreciate it. You will receive the rewards for your portion, of course.",
-    "name": "Staves for Tian Monastery",
-    "requires_level": 85,
-    "zone": "The Arboretum"
-}

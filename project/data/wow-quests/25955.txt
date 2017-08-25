@@ -1,7 +1,0 @@
-{
-    "_id": "25955",
-    "description": "This cave is our only refuge. There's no help on the way. Whatever happens, this cave must remain safe or we are all sure to die down here.We need a forward post to launch our attacks from. Something defensible.In the eastern portion of the ruins on the lowest level, scout the north end of the gardens, the passage leading under the main structure just west of the gardens, and the cluster of buildings at the southeast corner of the ruins, under the bridges.Bring me back any information you can.",
-    "name": "A Better Vantage",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

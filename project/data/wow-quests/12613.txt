@@ -1,7 +1,0 @@
-{
-    "_id": "12613",
-    "description": "We cannot stop now, <race>.  You've triggered the first switch, but one remains.The titans constructed a second vantage point where they oversaw their creations.  You'll find it to the east, high in the mountains.Pull the activation switch theta inside the overlook and the waygate will open.",
-    "name": "Powering the Waygate - The Makers' Overlook",
-    "requires_level": 77,
-    "zone": "Sholazar Basin"
-}

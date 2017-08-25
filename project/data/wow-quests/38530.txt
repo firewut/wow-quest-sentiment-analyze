@@ -1,8 +1,0 @@
-{
-    "_id": "38530",
-    "added_in_patch": 7,
-    "description": "When working with felslate and demonsteel, one must use special equipment. Specifically, an anvil hard enough to withstand the energy given off when felslate is hammered.Urael and I no longer possess such an anvil. But your friends, the Highmountain tauren, do.Gain access to the Firmament Stone, their sacred anvil, and we can start working with demonsteel again.",
-    "name": "The Firmament Stone",
-    "requires_level": 110,
-    "zone": "Blacksmithing"
-}

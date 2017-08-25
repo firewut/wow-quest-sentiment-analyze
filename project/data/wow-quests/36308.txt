@@ -1,9 +1,0 @@
-{
-    "_id": "36308",
-    "added_in_patch": 6,
-    "description": "A powerful enchantment emanates from these ancient Highmaul bracers.\r\n\r\nMaybe Eileese Shadowsong, your garrison enchanting quartermaster, can tell you more about the bracer.",
-    "name": "Enchanted Highmaul Bracer",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

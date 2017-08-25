@@ -1,9 +1,0 @@
-{
-    "_id": "34436",
-    "added_in_patch": 6,
-    "description": "One of Ner'zhul's lieutenants remains, up ahead. The exit to the cave isn't much farther past him.I will go back and tell Khadgar that the cave is clear. We will rendezvous once you've taken care of Keli'dan!",
-    "name": "Keli'dan the Breaker",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Assault on the Dark Portal"
-}

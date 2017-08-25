@@ -1,8 +1,0 @@
-{
-    "_id": "32523",
-    "added_in_patch": 5.2,
-    "description": "We need to counter the beasts the Zandalari are using to strike at our camp. I have dispatched Scout Captain Elsia to the Beast Pens along with some war mages to provide cover.Go and find her east of here near the breaches in the wall and help her trim down the cavalry and siege beasts being levied against us.They are masked, so look for the shimmers of their magical cloaking spells.",
-    "name": "The Beast Pens",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28409",
-    "description": "It would be an insult to celebrate a Wildhammer wedding without drink. Kurdran himself called for a few kegs of rare Thunderbrew Lager to be sent ashore from Highbank, but the caravan can't get through the pass.Follow the road east of here, around the south side of Thunderstrike Mountain, and catch up with the caravan. Look for a fellow named Hammelhand, and help him get the booze through the pass!",
-    "name": "Something Brewed",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

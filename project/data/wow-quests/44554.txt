@@ -1,8 +1,0 @@
-{
-    "_id": "44554",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Mythic Keystone Weekly Tracking Quest",
-    "requires_level": 110,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "13615",
-    "description": "Greetings, <class>, and welcome to the Ramparts.Things may appear a little chaotic here but do not worry. Kadrak has this juncture sealed up tight. Not a single elf has breached our lines!While you're here... I'm expecting a shipment of fresh supplies from Orgrimmar any day, but our watchmen are running dangerously low on arrows.Bring me any you find and I will make it worth your trouble.",
-    "name": "Empty Quivers",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

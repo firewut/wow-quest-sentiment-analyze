@@ -1,8 +1,0 @@
-{
-    "_id": "42749",
-    "added_in_patch": 7,
-    "description": "The reason why I came out here was to capture or kill a fel lord named, Lochaber. I am no longer in a capturing mood.\r\n\r\nI'll grab my weapon and then head up to the bridge in front of the Gates of Valor. That place is a scary mess full of Felskorn vrykul and demons.\r\n\r\nHow do you think I got caught?\r\n\r\nSo, I'd rather not go back in there. But, I think I know a way to get the demon to come out to us.",
-    "name": "Strange Bedfellows",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

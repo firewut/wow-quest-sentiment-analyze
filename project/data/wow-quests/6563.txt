@@ -1,7 +1,0 @@
-{
-    "_id": "6563",
-    "description": "Within the beginning tunnels of Blackfathom Deeps, large sapphire clusters can be found along the cave walls. Recently it was noted that the naga were harvesting the crystals. Until it can be discerned why, I sense we should stop the naga from succeeding. The crystals have great elemental power and if used inappropriately, could make for a powerful arcane component.Will you help me, <name>? Blackfathom Deeps can be found along Zoram Strand to the north of our outpost.",
-    "name": "The Essence of Aku'Mai",
-    "requires_level": 17,
-    "zone": "Blackfathom Deeps"
-}

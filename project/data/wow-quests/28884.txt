@@ -1,8 +1,0 @@
-{
-    "_id": "28884",
-    "description": "Maintaining control of Tol Barad is the key to our strategic plans here in the Eastern Kingdoms, <race>.  We must do whatever it takes to keep the Alliance off this island and that means we need your help.  Fight with everything you have to win control of Tol Barad and bring me word of victory.",
-    "name": "Victory in Tol Barad",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Tol Barad"
-}

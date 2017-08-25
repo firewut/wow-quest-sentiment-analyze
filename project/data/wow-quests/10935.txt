@@ -1,8 +1,0 @@
-{
-    "_id": "10935",
-    "description": "<name>, it is time to save Colonel Jules.  His condition has worsened and Barada fears that, if we do not cleanse him of his corruption,  he will be lost to us.Take the prayer beads you found and speak with Anchorite Barada to begin the ritual.  Let no disruptions stop the ritual... and if all goes well, Colonel Jules will be saved.  Speak with Jules when he is saved, then return to me.",
-    "name": "The Exorcism of Colonel Jules",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

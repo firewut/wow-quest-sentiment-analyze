@@ -1,8 +1,0 @@
-{
-    "_id": "31544",
-    "added_in_patch": 5,
-    "description": "All things must come to an end - even the life of a good man.  A family in Kun Lai has commissioned a monument for their beloved patriarch who has passed on recently.  Will you accept the commission?",
-    "name": "A Tribute to the Dead",
-    "requires_level": 85,
-    "zone": "The Arboretum"
-}

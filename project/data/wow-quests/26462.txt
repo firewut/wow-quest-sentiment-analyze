@@ -1,8 +1,0 @@
-{
-    "_id": "26462",
-    "description": "These Revantusk trolls think they're special for bein' in the Horde. Makes me laugh!See, the funny part is, it doesn't matter if they're part of the Horde, or some kinda troll empire, or the bloody Burning Legion for that matter. We've fought trolls in these lands for a few centuries now.In fact, I'll be kind enough to let you lend a hand, lad! Grab a weapon and head out to the battlefield and help our boys to the east.",
-    "name": "The Wicked Revantusk",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

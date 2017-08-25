@@ -1,7 +1,0 @@
-{
-    "_id": "11008",
-    "description": "You think you have what it takes to be part of the Skyguard?  We'll have to see how you handle yerself in the air.The arakkoa are breeding a gargantuan variety of their attack pets and are using it against our scouts.  I want you to take these blasting charges and use them to destroy hatcheries above the arakkoa's dwellings.  Avoid the monstrous kaliri guarding the hatcheries.  They'll knock you off your mount before you know what hit you.",
-    "name": "Fires Over Skettis",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "7825",
-    "description": "",
-    "name": "Additional Runecloth",
-    "requires_level": 50,
-    "zone": "Thunder Bluff"
-}

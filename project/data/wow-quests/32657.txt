@@ -1,8 +1,0 @@
-{
-    "_id": "32657",
-    "added_in_patch": 5.2,
-    "description": "Once your striped melons are ready to be picked, you'll need only to package them for pick-up.A trainee from the Cradle of Chi-Ji will be along shortly to collect their order.",
-    "name": "Work Order: The August Celestials II",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

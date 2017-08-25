@@ -1,8 +1,0 @@
-{
-    "_id": "31510",
-    "added_in_patch": 5,
-    "description": "On the southwestern corner of Zan'vess lie the Whispering Stones. Much like the towers here, they are critical in transmitting long-range sonic signals.An adjunct of the Empress operates the stones, keeping her in communication with the Zan'thik forces. Disrupt the signal, then silence him.",
-    "name": "Quiet Now",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

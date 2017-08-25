@@ -1,7 +1,0 @@
-{
-    "_id": "29445",
-    "description": "This massive spellbook reveals very little of its origins. Its pages are filled with a variety of spells and enchantments, only a few of which are familiar.The Darkmoon Adventurer's Guide says the tome may be of some interest to Sayge, the famous gnoll fortuneteller at the Darkmoon Faire.",
-    "name": "An Intriguing Grimoire",
-    "requires_level": 15,
-    "zone": "Darkmoon Faire"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "918",
-    "description": "The timberlings of Teldrassil are elementals of nature.  In some ways they reflect the natural order of plants and animals on our great tree.So it is disturbing to see how angry the timberlings are, particularly considering that things should be healing.I want to help hunt down the source.  I have been working on different methods of nurturing plants and would like to try them on timberling seeds.  Please, can you gather seeds from timberlings around Lake Al'Ameth and bring them to me?",
-    "name": "Timberling Seeds",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

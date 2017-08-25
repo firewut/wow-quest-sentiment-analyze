@@ -1,7 +1,0 @@
-{
-    "_id": "13071",
-    "description": "Vile like fire! Vile like proto-drakes!<The abomination claps its hands excitedly.>Little <name> go to Jotunheim and steal a pretty proto-drake in Njorndar Village. Make proto-drake make pretty fires on Jotunheim buildings!",
-    "name": "Vile Like Fire!",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

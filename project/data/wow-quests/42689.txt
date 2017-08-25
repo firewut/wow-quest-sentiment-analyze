@@ -1,8 +1,0 @@
-{
-    "_id": "42689",
-    "added_in_patch": 7,
-    "description": "If we hope to gain the upper hand against Hakkar, we need to find out more about these hounds that he's breeding and pinpoint their weaknesses.I know of a warlock that studies demons extensively. Maybe she has seen some of these hounds, and knows how to defeat them.",
-    "name": "Knowing Our Enemy",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

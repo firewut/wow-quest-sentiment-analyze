@@ -1,8 +1,0 @@
-{
-    "_id": "27737",
-    "description": "I'm well-versed in first aid and other forms of healing, and with the help of my Lightwell I've been able to nurse many of our men back to full health. The problem we still have is that it's so cold and damp down here that I'm losing them anyways, despite healing their wounds!The quakes angered the elements that reside in the prison...when they erupted out of the earth they slaughtered half of the prisoners. If you slay their leader, Lord Overheat, and bring me his core I can use it to warm our men!",
-    "name": "By Fire Be Saved!",
-    "requires_level": 20,
-    "side": "alliance",
-    "zone": "Quests"
-}

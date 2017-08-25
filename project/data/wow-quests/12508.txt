@@ -1,7 +1,0 @@
-{
-    "_id": "12508",
-    "description": "I couldn't help but overhear what you were talking to the sergeant about. That doesn't change the fact that we still have a job to do here.While you're out there, do you think you could help us to put some of those followers of Sseratus out of their misery?",
-    "name": "Mopping Up",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

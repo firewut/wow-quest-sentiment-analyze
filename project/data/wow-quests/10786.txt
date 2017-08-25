@@ -1,7 +1,0 @@
-{
-    "_id": "10786",
-    "description": "I know that Rexxar has plans for you to head to Boulder'mok.  I have something that I want you to do while you are there.We must take any chance we can get to strike down the ogres of these mountains, or they will overrun us, and all that we have bled and died for will be for nothing!Boulder'mok lies far to the northwest.  Travel north to Ruuan Weald, and from there head west through the tunnel and past the Raven's Wood.<name>, I want you to kill the Bladespire ogres of Boulder'mok.  Wipe them out!",
-    "name": "Slaughter at Boulder'mok",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

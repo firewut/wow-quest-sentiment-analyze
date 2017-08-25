@@ -1,8 +1,0 @@
-{
-    "_id": "30888",
-    "added_in_patch": 5,
-    "description": "Normally, it only takes a few scouts to hold this pass. Most of this territory is in sight of the wall, so archers would devastate any mantid force attempting to push through here. The problem is, most of the archers are occupied with the onslaught at the gate.Take this flare - it will help you locate the mantid that are sneaking through the eastern pass under our diminished watch. Kill any you find. We can't let them lay a trail that might lead the mantid swarms farther into the steppes.",
-    "name": "Breach in the Defenses",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

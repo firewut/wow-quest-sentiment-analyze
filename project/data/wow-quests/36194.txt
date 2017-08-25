@@ -1,9 +1,0 @@
-{
-    "_id": "36194",
-    "added_in_patch": 6,
-    "description": "Incredible news, Commander <name>. Your ever-loyal servant has managed to secure us commandojacks. Now maybe you don't know what a commandojack is, so let me explain: they're like lumberjacks, only highly trained in the art of killing. Mostly they're out of work mercenaries and assassins.What this means is that we can now cut medium sized timber - but first we need to give these commandojacks a test run.There's a suitable tree nearby. Good luck!",
-    "name": "Sharper Blades, Bigger Timber",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

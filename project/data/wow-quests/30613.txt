@@ -1,8 +1,0 @@
-{
-    "_id": "30613",
-    "added_in_patch": 5,
-    "description": "Armored Carp are a delicacy around these parts.Unfortunately we can't fish them up since they snap our hooks with their powerful jaws.  Take this fishing spear and see if you can catch a few for us.",
-    "name": "Armored Carp",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

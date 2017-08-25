@@ -1,9 +1,0 @@
-{
-    "_id": "35015",
-    "added_in_patch": 6,
-    "description": "This is bad. A genesaur is starting to sprout right here in the bloom.This is the first reported case of a genesaur being born in draenor in over three hundred years.No wonder the botani have been acting so crazy. They are bringing back bodies to fertilize that monstrosity.We have to kill it before it gets any larger. Once fully grown there is no stopping that beast.",
-    "name": "Gestating Genesaur",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

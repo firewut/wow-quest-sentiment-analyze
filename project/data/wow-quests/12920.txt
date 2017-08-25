@@ -1,7 +1,0 @@
-{
-    "_id": "12920",
-    "description": "What are you waiting for? The language barrier has been broken, thanks to Moteha. Contact Brann Bronzebeard and find out anything you can about where he's hiding and what he's chasing after.Maybe we can still salvage something from this disaster.",
-    "name": "Catching up with Brann",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

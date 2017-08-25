@@ -1,8 +1,0 @@
-{
-    "_id": "30195",
-    "added_in_patch": 5,
-    "description": "Would you do a humble merchant a favor? I've been needin' to refresh my stock of eternal blossoms. They grow in the woods nearby.Could you help me out, perhaps?",
-    "name": "Blooming Blossoms",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42501",
-    "added_in_patch": 7,
-    "description": "Garona set out to assassinate the leaders of a Legion cult some time ago. We haven't heard from her since.To make matters worse, she took the Kingslayers with her. She knows they bring out the worst in her!Your best bet to find Garona is by continuing her work. Our intel points to a warlock by the name of Caden Shadowgaze inducting new recruits at the Altar of Storms in Blasted Lands. See if he has anything useful in his pockets.Once he's dead, I mean.",
-    "name": "Finishing the Job",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

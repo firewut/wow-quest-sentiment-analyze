@@ -1,8 +1,0 @@
-{
-    "_id": "40133",
-    "added_in_patch": 7,
-    "description": "The mouth of this particular beast contained a piece of handsewn cloth. The fabric bears the word \"singwa\".While the term \"singwa\" is unfamiliar, it DOES happen to be the middle of the last name of a fairly notable Azerothian skinner.",
-    "name": "Scrap of Pants",
-    "requires_level": 98,
-    "zone": "Skinning"
-}

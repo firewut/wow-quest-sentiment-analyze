@@ -1,7 +1,0 @@
-{
-    "_id": "29568",
-    "description": "Hungarfen and Quagmirran used to jointly rule over the spore giants. With Quagmirran gone, the burden rests solely on Hungarfen's tendrils.We have no choice but to put the giant down before he can be enslaved and turned into a weapon.",
-    "name": "A Necessary Evil",
-    "requires_level": 63,
-    "zone": "The Underbog"
-}

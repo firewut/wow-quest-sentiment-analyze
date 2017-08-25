@@ -1,9 +1,0 @@
-{
-    "_id": "35029",
-    "added_in_patch": 6,
-    "description": "It smells here and there are whispers.I feel there is a connection between the plants and beasts here. Special mushrooms seem to focus the beasts' attention.Go and get some of these for me. I... need... them.",
-    "name": "The Secret of the Fungus",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31084",
-    "added_in_patch": 5,
-    "description": "It has been a very, very long time since our tribe has been called on to perform this rite. I will do the best I can.",
-    "name": "Bind the Glamour",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

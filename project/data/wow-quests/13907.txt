@@ -1,7 +1,0 @@
-{
-    "_id": "13907",
-    "description": "The big beards at Ironforge sent me here to check on Remtravel's dig the moment they got word of the disaster. Look at it! Precious artifacts washed to sea, months of tedious digging undone in a moment.When the tidal waves hit, they demolished the murloc encampments along the shore. Good news? Naw, not with my luck. The survivors are squatting in the shelter of the ruins, and they're doing more damage than the elements ever could. Would you mind getting your waders on and taking care of things?",
-    "name": "Sweeping Clean the Ruins",
-    "requires_level": 16,
-    "zone": "Darkshore"
-}

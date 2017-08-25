@@ -1,8 +1,0 @@
-{
-    "_id": "14399",
-    "description": "Leave?  Now?Well, if I must, then I must.  But will you be a sweetheart and find something for me?I've lost my favorite book and won't leave without it.<After you explain the gravity of the situation, Grandma Wahl shakes her head condescendingly.>Dear, just find the book will you?",
-    "name": "Grandma's Lost It Alright",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

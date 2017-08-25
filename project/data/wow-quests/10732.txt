@@ -1,7 +1,0 @@
-{
-    "_id": "10732",
-    "description": "",
-    "name": "Path of the Violet Protector",
-    "requires_level": 70,
-    "zone": "Karazhan"
-}

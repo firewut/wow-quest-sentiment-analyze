@@ -1,8 +1,0 @@
-{
-    "_id": "27257",
-    "description": "Oh, I think I might have dropped too much acid onto the shield. Let me just rub a little...Hm, kind of hard to read, but it looks like the name Mosarn. Never heard of him. Maybe Krog knows. Krog knows many people.",
-    "name": "The Black Shield",
-    "requires_level": 35,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

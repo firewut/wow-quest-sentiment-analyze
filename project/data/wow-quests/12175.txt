@@ -1,8 +1,0 @@
-{
-    "_id": "12175",
-    "description": "Let me tell you something, mon.  When you get put in charge of outfittin' the armies of the Horde, you go through a lot of hides!Conqueror Krenna, the she-wolf runnin' this place, she gave me a tight deadline.  If I don't outfit her whole regiment by week's end she's gonna have me wrestling bears in the pit.Help me out and I'll pay you top price.  I'll be needin' hides from graymist hunters.You'll find them all around in pockets to the north, hunting stag.  Remember, mon.  Top price!",
-    "name": "Gray Worg Hides",
-    "requires_level": 73,
-    "side": "horde",
-    "zone": "Grizzly Hills"
-}

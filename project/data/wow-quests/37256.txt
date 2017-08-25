@@ -1,8 +1,0 @@
-{
-    "_id": "37256",
-    "added_in_patch": 7,
-    "description": "You're looking for Prince Farondis?<The ghostly elf narrows her eyes warily.>I can take you to Farondis... but first things first. These naga attacked suddenly. They take orders from one called Zarrin, in the low hills to the west.Help me take Zarrin's head, and you'll have my ear.",
-    "name": "They Came From the Sea",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27756",
-    "description": "If we're to find out what's going on down here it looks like we're going to have to fight our way through the entire Deadmines! Glubtok the Foreman will be the first major foe you encounter, a powerful ogre magi. Be careful, he possesses the brute strength of his race backed by his wicked spellcasting!Take this communicator so that I can keep in touch with you as we continue our investigation. Be careful down there.",
-    "name": "The Foreman",
-    "requires_level": 15,
-    "side": "alliance",
-    "zone": "Quests"
-}

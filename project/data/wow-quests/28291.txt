@@ -1,7 +1,0 @@
-{
-    "_id": "28291",
-    "description": "What do you think, <name>?  Maybe the High Commander will give me a few men to command.Maybe we can marshal a regiment together.  What do you think?",
-    "name": "Return to Camp",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

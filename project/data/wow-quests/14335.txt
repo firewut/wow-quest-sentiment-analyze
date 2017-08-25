@@ -1,7 +1,0 @@
-{
-    "_id": "14335",
-    "description": "As you have no doubt noticed by now, the recent changes to the land have had many side-effects. Some of these are beneficial, while others pose serious problems.Just south of the village the local lobstrok are emerging from the sea and choking off the road to the village.Please, <class>, go and thin the numbers of this pest.",
-    "name": "Chipping In",
-    "requires_level": 31,
-    "zone": "Desolace"
-}

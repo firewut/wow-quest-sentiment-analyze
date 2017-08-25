@@ -1,7 +1,0 @@
-{
-    "_id": "9162",
-    "description": "As you skim through the pages in the journal you're overcome by an unnerving sense of being watched.The contents are unsettling.  Dar'Khan's soul was one filled with hatred and contempt for his own people.  The extent of his machinations and plots are all documented in great detail.Perhaps there is something here that Vynna will find useful.",
-    "name": "Hints of the Past",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

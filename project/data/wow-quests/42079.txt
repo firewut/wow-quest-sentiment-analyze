@@ -1,8 +1,0 @@
-{
-    "_id": "42079",
-    "added_in_patch": 7,
-    "description": "Our family commands great respect in this city, thanks to my father. Through my network of contacts, we can organize the citizens to prepare Suramar for Thalyssra's return.You must walk among the nightborne. You must earn the trust of our friends and foes alike.You must become someone else.<Ly'leth hands you a shimmering party mask.>Put this on Anarys.",
-    "name": "Masquerade",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

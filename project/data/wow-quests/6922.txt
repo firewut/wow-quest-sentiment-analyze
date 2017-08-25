@@ -1,7 +1,0 @@
-{
-    "_id": "6922",
-    "description": "The defeated water elemental has left behind a strange water globe.  You surmise that the object somehow fed the beast energy.  Inside the globe, a putrid-looking form of water sloshes about.  The globe itself seems impervious to any sort of physical force.If anyone can make any sense of this item, it would be Je'neu Sancrea of the Earthen Ring.",
-    "name": "Baron Aquanis",
-    "requires_level": 21,
-    "zone": "Blackfathom Deeps"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36711",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Abu'gar",
-    "requires_level": 90,
-    "zone": "Nagrand"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28098",
-    "description": "Twilight Skymaster Richtofen is at the Twilight Aerie up above and to the southeast. No matter what we do down here, if he's not dealt with, all hope is lost for Highperch.While Heartrazor is too injured to help you with the fight, he can fly you up there. The rest is up to you, <name>.Good luck. ",
-    "name": "The Twilight Skymaster",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36379",
-    "added_in_patch": 6,
-    "description": "I sent Scout Pazerp to get a better look at the portal. She should have reported back by now; what could be taking her so long?She is one of my best scouts, I hope she is alright.",
-    "name": "Peeking into the Portal",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

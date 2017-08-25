@@ -1,7 +1,0 @@
-{
-    "_id": "12526",
-    "description": "Well, that's settled then. We'll seek out this native sage and have a word with him. He's not likely to volunteer his services, though.I'm told he keeps a small lean-to near the Bones of Nozronn, just across the river to the south. Seek him out, introduce yourself, and ask what he requires to help us track down this patriarch of the rhinos.",
-    "name": "Rhino Mastery: The Chase",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

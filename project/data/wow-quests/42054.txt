@@ -1,8 +1,0 @@
-{
-    "_id": "42054",
-    "added_in_patch": 7,
-    "description": "We have turned the battle, <name>! The Burning Legion is greatly weakened.Only one task remains. Malorne is locked in battle with Archimonde, the demon that slew him ten thousand years ago.Remember, <name>, we are trapped in Malorne's nightmare. There is no telling what will manifest here, but we MUST do something.May Elune guide us, <name>.",
-    "name": "Archimonde, The Defiler",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34242",
-    "added_in_patch": 6,
-    "description": "You've proven yourself more than capable in battle, <name>. There may be Shadow Council forces all around Auchindoun, including near Telmor.I want you to join Soulbinder Tuulani at Telmor to make sure the crystal makes it safely to Auchindoun. I know I can trust you to get it done.",
-    "name": "Scheduled Pickup",
-    "requires_level": 95,
-    "side": "horde",
-    "zone": "Talador"
-}

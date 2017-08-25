@@ -1,8 +1,0 @@
-{
-    "_id": "35998",
-    "added_in_patch": 6,
-    "description": "For over a thousand years, the ogre sorcerer kings maintained an iron grip over their empire using a variety of artifacts. Trusted lieutenants were given magical gems that allowed them to enforce the emperor's will out in the field. These \"Abrogator Stones\" still maintain their power even today, and can be found scattered throughout the Highmaul complex. Sometimes in clusters.Collect 125 of these Abrogator Stones for me!",
-    "name": "Legacy of the Sorcerer Kings",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

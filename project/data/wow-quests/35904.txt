@@ -1,8 +1,0 @@
-{
-    "_id": "35904",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Blackrock Depths (Everything) Reward Quest",
-    "requires_level": 51,
-    "zone": "Quests"
-}

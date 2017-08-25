@@ -1,7 +1,0 @@
-{
-    "_id": "25906",
-    "description": "Memorize the glyph.Take it within yourself.Draw it on the ground before the flamegate.East of here.Enter the Firelands.I cannot come with you.But my children await. Inside.Find Garunda Mountainpeak within the realm of flame.",
-    "name": "The Third Flamegate",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

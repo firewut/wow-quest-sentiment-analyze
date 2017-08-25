@@ -1,7 +1,0 @@
-{
-    "_id": "14252",
-    "description": "I need a crateload of tail, <class>! And not just any kind of tail. The tail I'm after needs to be old - ancient even. The more decrepit the better.The scales of a basilisk's tail are unique in that they harden with age without becoming brittle. The hardened scales are ideal for the production of certain armors.It's been many years since I've been reduced to peddling lizard scales, but who knows, maybe it'll build even more character in me! If that's even possible....",
-    "name": "Good Gold For Bad Tail",
-    "requires_level": 27,
-    "zone": "Desolace"
-}

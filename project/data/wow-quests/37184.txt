@@ -1,9 +1,0 @@
-{
-    "_id": "37184",
-    "added_in_patch": 6,
-    "description": "Commander, good to see you. With the fall of the rangari base at Telaar, Vindicator Yrel, recommended that we establish a new foothold in Nagrand.I've taken the liberty of dispatching some of our men and supplies. Rangari D'kaan's already reporting that the outpost is nearly complete. He asked me to let you know they are ready for you.A gryphon is waiting to catch you up with the latest caravan shipment whenever you're ready,  siram;.",
-    "name": "Taking the Fight to Nagrand",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

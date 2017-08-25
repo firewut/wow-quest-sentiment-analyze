@@ -1,7 +1,0 @@
-{
-    "_id": "25199",
-    "description": "Hey! You look like you could give us a hand!If you're willing to help our cause, we have to get you through training.  Gnome training is brutal and rigorous, so I hope you're ready.Head over to Drill Sergeant Steamcrank and he'll walk you through what you need to know.  Make sure you follow his orders when he gives them, or else you'll never make itI'm warning you though, it's tough over there.  Come back to see me, if you make it.",
-    "name": "Basic Orders",
-    "requires_level": 1,
-    "zone": "Dun Morogh"
-}

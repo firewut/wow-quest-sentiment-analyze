@@ -1,8 +1,0 @@
-{
-    "_id": "40395",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Timewalking Heroic Random (Nth)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

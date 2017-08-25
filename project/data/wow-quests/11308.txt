@@ -1,7 +1,0 @@
-{
-    "_id": "11308",
-    "description": "Being the practical man that I am, I'm going to declare our research here a success.  After all, what army can't be stopped by turning its rank and file against each other?I will send word of our achievements to Vengeance Landing soon enough.  But first I need you to take care of cleaning up our experimentation site.See \"Hacksaw\" Jenny about making you a custom abomination.  One packing some explosive power if you catch my drift.",
-    "name": "Time for Cleanup",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

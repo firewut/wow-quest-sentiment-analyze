@@ -1,7 +1,0 @@
-{
-    "_id": "28392",
-    "description": "The Timbermaw furbolg are the last known tribe of uncorrupted furbolg. They huddle on the edge of these lands, ferociously defending their home of Timbermaw Hold.Though they are proud creatures, they are in need of much assistance. Should you wish to help, follow the road north from here, and seek them out at the entrance to Timbermaw Hold.",
-    "name": "The Timbermaw Tribe",
-    "requires_level": 48,
-    "zone": "Felwood"
-}

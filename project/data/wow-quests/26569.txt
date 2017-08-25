@@ -1,7 +1,0 @@
-{
-    "_id": "26569",
-    "description": "Ah, my savior! I've heard that you're on a mission to save Lakeshire... and my bridge. Yep, worked too damned long on that thing to let it get destroyed by an army of marauding orc monsters!Listen, if you're headed up north towards Render's Camp, would you do me a solid and get me some spyglasses from the Blackrock trackers up there? I could sure use 'em for my new surveying gear.",
-    "name": "Surveying Equipment",
-    "requires_level": 15,
-    "zone": "Redridge Mountains"
-}

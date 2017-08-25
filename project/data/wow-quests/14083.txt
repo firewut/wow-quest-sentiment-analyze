@@ -1,7 +1,0 @@
-{
-    "_id": "14083",
-    "description": "This pamphlet advertising riding training and mount purchases was sent from Ultham Ironhorn.Ultham can be found at the Amberstill Ranch in Dun Morogh, found along the road east out of Ironforge.",
-    "name": "Learn to Ride in Dun Morogh",
-    "requires_level": 20,
-    "zone": "Dun Morogh"
-}

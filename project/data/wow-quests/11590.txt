@@ -1,7 +1,0 @@
-{
-    "_id": "11590",
-    "description": "<name>, we have a situation.I've just learned that one of our archmages en route from Dalaran has gone missing. Naturally, we suspect the mage hunters are behind her disappearance.Time is clearly of the essence. We must know what has become of Lady Evanor at once if we are to have any hope of rescuing her.Take this device. Return to Beryl Point and use it on a Beryl sorcerer when he is near death. It should bind him long enough for you to bring him here for questioning.",
-    "name": "Abduction",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

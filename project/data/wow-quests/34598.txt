@@ -1,8 +1,0 @@
-{
-    "_id": "34598",
-    "added_in_patch": 6,
-    "description": "I've got a problem and you look like you're just the <race> for the job!A trade shipment was supposed to arrive yesterday, but it's nowhere to be found. I'm running low on merchandise here and I need somebody to go find out what happened!If I were to guess, I'd say the saberon are probably involved. Those brutes have been a pain in our side ever since we got here!Search for the wagon on the road near Sabermaw and hurry! Time is money!",
-    "name": "The Missing Caravan",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

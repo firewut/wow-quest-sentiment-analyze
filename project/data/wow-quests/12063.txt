@@ -1,8 +1,0 @@
-{
-    "_id": "12063",
-    "description": "<Greatmother Icemist bows.>It is an honor to meet you, hero. It is because of your actions that many of us are here now, alive and ready for battle against the Scourge.You have done so much for us that it shames me to ask you for your assistance once more. Despite my pleas, my only son, Banthok, left here to go in search of his father, High Chief Icemist. He was last seen heading west, towards Icemist Village. Please find Banthok. I do not know what I would do if I lost my son.",
-    "name": "Strength of Icemist",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

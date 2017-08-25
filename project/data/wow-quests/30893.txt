@@ -1,8 +1,0 @@
-{
-    "_id": "30893",
-    "added_in_patch": 5,
-    "description": "Gao-ran's men need help down on the southern front. If you want to stand by the Shado-Pan, that's where you should do it.",
-    "name": "The Endless Swarm",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

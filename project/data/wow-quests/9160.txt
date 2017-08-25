@@ -1,7 +1,0 @@
-{
-    "_id": "9160",
-    "description": "<Class>, we are having difficulty with a group of night elves that have recently taken over a nearby island. They've set up a small camp at the old high elf ley-line nexus, An'daroth, to the northwest. There is a dirt path that leads up to it just past the Dead Scar.I suggest that you lend us your aid by going there, investigating what they are up to, and slaying as many of the conceited night elves as you can.",
-    "name": "Investigate An'daroth",
-    "requires_level": 11,
-    "zone": "Ghostlands"
-}

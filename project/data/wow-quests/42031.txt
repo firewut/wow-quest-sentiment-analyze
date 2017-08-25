@@ -1,8 +1,0 @@
-{
-    "_id": "42031",
-    "added_in_patch": 7,
-    "description": "Naralex asks for you to join him. He is ready to analyze the sample that he brought back from Shaladrassil.",
-    "name": "Dire Growth",
-    "requires_level": 101,
-    "zone": "Druid Campaign"
-}

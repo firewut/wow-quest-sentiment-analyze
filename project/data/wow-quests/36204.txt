@@ -1,8 +1,0 @@
-{
-    "_id": "36204",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Gorger the Hungry",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

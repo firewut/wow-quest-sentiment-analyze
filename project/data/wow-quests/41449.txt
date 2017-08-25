@@ -1,8 +1,0 @@
-{
-    "_id": "41449",
-    "added_in_patch": 7,
-    "description": "I'm afraid I can't really help you actually enter the Emerald Dream - we dryads merely shift our bodies between the planes.That's ok, though - Naralex has offered to help!Go to the very bottom of the Tel'Andu Barrow Den. Naralex is already there setting things up for you.",
-    "name": "Join the Dreamer",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28113",
-    "description": "With the claw, we are ready to break through the Jadefire's defenses.Head into the ruins to the northwest. Beyond the frontline of the satyr you'll find a narrow pass heading to their corrupted moonwell. An enormous wall of demonic flame bars the path, but the Claw of Tichondrius should be able to dispel it.Beyond the barrier you will find the leader of these forces, Xavathras, guarding the corrupted moonwell. Slay him once you are through!",
-    "name": "Break the Unbreakable",
-    "requires_level": 44,
-    "zone": "Felwood"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37957",
-    "added_in_patch": 7,
-    "description": "I fell so quickly, <name>. I am not as strong as I once was. We truly do need your help.One of these disgusting creatures ran off with several of the whelplings. I heard him called by name:Runas.I will survive. Home is not far. You still have strength, though. Slay this Runas before he does any more damage to our brood.",
-    "name": "Runas the Shamed",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

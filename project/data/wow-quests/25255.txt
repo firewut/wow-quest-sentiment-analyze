@@ -1,7 +1,0 @@
-{
-    "_id": "25255",
-    "description": "Twilight's Hammer has revealed itself as more than a mere cult. They're a war machine - a swarm of locusts moving up the mountain, devouring anything in their way.The parts of the forest they're not setting ablaze are being scoured of life in order to feed the mortal cultists.We've got to put a stop to the hunters canvassing Wolf's Run, not only to preserve what wildlife remains but to force the cult to march on empty stomachs. Look south of here, as well as up the road to the east.",
-    "name": "Harrying the Hunters",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

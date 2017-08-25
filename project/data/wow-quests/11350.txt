@@ -1,7 +1,0 @@
-{
-    "_id": "11350",
-    "description": "Chieftain Ashtotem dispatched me on a scouting mission to Giants' Run, a broad, rocky plateau to the southeast, past the Frozen Glade.The area has been taken over by Iron Dwarves who seem to be altering the giants as they emerge from the earth.The iron rune stonecallers and binders carry large tomes with them, which must contain the runes they're carving on the giants.Capture the pieces of this book, assemble them, and bring it back to me. It's the only way we'll understand their plans.",
-    "name": "The Book of Runes",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

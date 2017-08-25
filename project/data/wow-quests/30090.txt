@@ -1,8 +1,0 @@
-{
-    "_id": "30090",
-    "added_in_patch": 5,
-    "description": "Hmm... Is that Yi-Mo kid over there?<Ken-Ken squints against the increasing torrents of rain.>It is! He's at the well, and he's not lookin' so good.Ken-Ken got a bad feeling about this...",
-    "name": "Zhu's Despair",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

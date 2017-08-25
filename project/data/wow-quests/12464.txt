@@ -1,8 +1,0 @@
-{
-    "_id": "12464",
-    "description": "My old enemy, High General Abbendis, has come to Northrend.Somehow she survived the attacks upon Tyr's Hand and brought a small force north. They've established New Hearthglen to the south.While they could prove useful in fighting the Scourge, Abbendis herself is far too shrewd an opponent to let live. Trust me, if we let them stand, she will be at our throats before the dust settles.So, we'll deprive them of their leadership and go about our business. Bring me her head as proof.",
-    "name": "My Old Enemy",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14322",
-    "description": "I was trying to domesticate the indigenous hippogryphs here using a series of debilitating electrical shocks, when for some reason they went berserk! Now my test subjects are tearing up this place for no good reason! <Class>, go slaughter my failed experiments before they find me.",
-    "name": "Bad Science! Bad!",
-    "requires_level": 11,
-    "side": "horde",
-    "zone": "Azshara"
-}

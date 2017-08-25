@@ -1,7 +1,0 @@
-{
-    "_id": "27382",
-    "description": "The Argent Crusade built these towers to be points of light in the darkness of the Plaguelands.  I walk the paths between these towers, protecting and maintaining them.The roads have been dangerous lately.  Plagued wildlife runs rampant, and bats swoop down upon unsuspecting travelers.  It would make the next leg of my journey much easier if you could clear some of this wildlife out of the way for me.",
-    "name": "Rough Roads",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

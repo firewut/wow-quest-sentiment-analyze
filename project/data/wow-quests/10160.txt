@@ -1,8 +1,0 @@
-{
-    "_id": "10160",
-    "description": "Rumors have surfaced that some new breed of orc is on the rise. Larger, meaner - more cunning than the brutes we're familiar with.  If these rumors are true then our forces, already stretched, may be taxed beyond their limit.I have entrusted my lieutenant, Amadi, with investigating this matter. If you would help us in this dark hour, seek her out. She is stationed at the broken tower just west of the Hold.And <name> - be careful out there. You're heading into a dangerous new world.",
-    "name": "Know your Enemy",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

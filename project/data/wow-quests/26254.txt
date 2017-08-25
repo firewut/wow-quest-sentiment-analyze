@@ -1,7 +1,0 @@
-{
-    "_id": "26254",
-    "description": "Hop on, <name>.  Let's see what Mr. Ogreface has to say for himself.Don't be shy, Stormbeak's only ever dropped a passenger a couple of times before.",
-    "name": "Some Spraining to Do",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

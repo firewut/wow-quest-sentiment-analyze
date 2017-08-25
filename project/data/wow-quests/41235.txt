@@ -1,8 +1,0 @@
-{
-    "_id": "41235",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Stonehide Leather",
-    "requires_level": 110,
-    "zone": "Mining"
-}

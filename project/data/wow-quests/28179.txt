@@ -1,8 +1,0 @@
-{
-    "_id": "28179",
-    "description": "Hope you're not afraid of getting dirty.  Judging by the looks of you, that won't be a problem.To the north, at the lava's edge, you'll find piles of dark mud.  I need it.It'd be best if you didn't ask questions, and focused your efforts on following orders, <name>.",
-    "name": "Mud Hunter",
-    "requires_level": 49,
-    "side": "alliance",
-    "zone": "Burning Steppes"
-}

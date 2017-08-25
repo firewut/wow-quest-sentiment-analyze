@@ -1,8 +1,0 @@
-{
-    "_id": "38896",
-    "added_in_patch": 7,
-    "description": "A piece of paper is tacked to the controls. On it is a tally of demons slain by the previous pilot.\r\n\r\nYour ego demands satisfaciton.",
-    "name": "Tearing down the Legion",
-    "requires_level": 100,
-    "zone": "Tanaris"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27705",
-    "description": "My brethren are being butchered here. It's as I thought.I must ask your help further before I enter, <name>. In the passageway outside this room, the hallway proceeds left and right. To the right, it goes down to the Chamber of Blood. Here the Atal'ai perform their dark rituals.They have expected and prepared for my kind for years, but not for you. Enter the Chamber of Blood and slay the Priestess Udum'bra. She is one of three foul presences here that must be vanquished before I may enter.",
-    "name": "Step One: The Priestess",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

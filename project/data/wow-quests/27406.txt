@@ -1,7 +1,0 @@
-{
-    "_id": "27406",
-    "description": "Lord Vincent Godfrey spent his life defending the kingdom of Gilneas. When the worgen curse ravaged this land, Godfrey was one of the first Gilneans to take up arms against the beasts. It is said that upon discovering that his king was afflicted by the curse, Godfrey took his own life. He would rather be dead than serve the very creatures that he had defended his home against.We are going to give him a second chance, <name>. Together we will battle southeast towards Tempest's Reach to collect his corpse.",
-    "name": "A Man Named Godfrey",
-    "requires_level": 13,
-    "zone": "Ruins of Gilneas"
-}

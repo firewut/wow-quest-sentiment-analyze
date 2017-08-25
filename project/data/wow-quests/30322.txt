@@ -1,8 +1,0 @@
-{
-    "_id": "30322",
-    "added_in_patch": 5,
-    "description": "I love working in the market, although there's one aspect of this job I really dislike: collecting debts.While most pandaren debts are simply due to laziness, there are a few unsavory characters around town who simply don't want to pay, and there's some who are just too poor.A few people here in town owe me money. Could you go talk to them, and remind them about what they owe?",
-    "name": "Money Matters",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

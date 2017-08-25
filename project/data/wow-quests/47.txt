@@ -1,8 +1,0 @@
-{
-    "_id": "47",
-    "description": "The kobolds in these parts sometimes carry Gold Dust on them.  I could really use the stuff - bring me a load of it and I'll give you the best price in town...best price in town!You can find kobolds in the Fargodeep Mine to the south, and around the Jasperlode Mine to the northeast.",
-    "name": "Gold Dust Exchange",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

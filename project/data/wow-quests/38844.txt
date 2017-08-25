@@ -1,7 +1,0 @@
-{
-    "_id": "38844",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Rally the Wilds Buff Received",
-    "zone": "Malorne's Refuge"
-}

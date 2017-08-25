@@ -1,9 +1,0 @@
-{
-    "_id": "35157",
-    "added_in_patch": 6,
-    "description": "The upper bluff must be really important to the ogres. Two fancy looking ogre mages came down from there and starting ordering all the others around.Go get those orders and meet up with my scout Dalgorsh on the upper bluff. They will be more useful to him up there.",
-    "name": "Obtaining Ogre Offensive Orders",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

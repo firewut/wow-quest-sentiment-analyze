@@ -1,8 +1,0 @@
-{
-    "_id": "11676",
-    "description": "The soldiers that they didn't kill are being held in cages scattered across this farmland. Through some thievery we've managed to find a few keys, but we're unable to get close enough to any prisoners without being attacked.We need your \"talents\" in securing those keys and freeing the prisoners. Bash in the brains of the necrolords and aberrations and take their keys. Use those keys to free Scourge prisoners.",
-    "name": "Merciful Freedom",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

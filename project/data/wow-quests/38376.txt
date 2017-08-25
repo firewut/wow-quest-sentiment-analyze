@@ -1,8 +1,0 @@
-{
-    "_id": "38376",
-    "added_in_patch": 7,
-    "description": "Tirion is fading away on that infernal shore... and the Ashbringer with him! We must not waste another moment.Give the word and we'll set off. We're ready when you are.",
-    "name": "The Search for the Highlord",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

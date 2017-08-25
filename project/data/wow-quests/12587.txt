@@ -1,7 +1,0 @@
-{
-    "_id": "12587",
-    "description": "Unsheathe that weapon, <race>. It's time to go on patrol!I've got four posts under my command and it's crucial to our success that they remain in our control. I'm ordering you to visit each of them and offer your assistance.You can begin with Captain Brandon southeast of here. He'll direct you to the next post when he's finished with you.Report back to me once you've assisted each of my men. And remember, you'll be more richly rewarded for returning to me quickly - so double-time it!Dismissed!",
-    "name": "Troll Patrol",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26495",
-    "description": "Chabal, that troll over by the botanical gardens/biological weapons lab, is a special guest.  He's a representative of the Zandalari trolls, and has traveled quite far to stay with us.<Sassy places some of the items you've collected in a small parcel and hands it to you.>Here, give this to him.  Tell him that the Zandalari are always welcome at Hardwrench Hideaway!  And mention that referrals are key to maintaining our business!",
-    "name": "Chabal",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27630",
-    "description": "High Priest Amet's vote is the only one that is completely outside of our control.He will vote as his divinations tell him and nothing we do will dissuade him.I figure that gives us even odds either way.The only problem we face is that his clairvoyance has failed him ever since the barriers around Uldum fell.He will not cast a vote unless he regains power over his divinations.Take the stairs at either side of the Vir'naal Dam and Speak to him to see what you can do to help.",
-    "name": "The High Priest's Vote",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

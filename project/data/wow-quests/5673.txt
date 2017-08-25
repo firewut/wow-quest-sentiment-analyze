@@ -1,7 +1,0 @@
-{
-    "_id": "5673",
-    "description": "You know you have access to any of our trainers at any time, <name>, but there are some things that we cannot pass on to you. One of those things are the teachings of your goddess Elune. She gives special abilities to her faithful, and if I'm not mistaken, it is time for you to return home to your Temple of the Moon to be tested.Return there when you can and speak to Priestess Alathea.",
-    "name": "Elune's Grace",
-    "requires_level": 20,
-    "zone": "Priest"
-}

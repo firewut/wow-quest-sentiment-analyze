@@ -1,8 +1,0 @@
-{
-    "_id": "43359",
-    "added_in_patch": 7,
-    "description": "Grand Master, you have saved our order from the brink of destruction.Your deeds have shown us that with effort and determination we can overcome any challenge. In light of your example, we have doubled our efforts and developed a technique that will awaken your weapon to its true potential.Please, stand before the Forge of the Roaring Mountain and raise your weapon high.",
-    "name": "A Hero's Weapon",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

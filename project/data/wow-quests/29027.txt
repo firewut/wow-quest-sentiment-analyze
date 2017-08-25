@@ -1,8 +1,0 @@
-{
-    "_id": "29027",
-    "description": "I want to fix this samophlange, but to do that I'm going to need some supplies. I ran out of seventeen-point-five gauge nugget slugs and I'm going to need a bunch of those for the work ahead.Unfortunately, the closest place to get them is the Burning Blade farm to the southwest. The place will be heavily guarded, so be careful, but the samophlange just might be worth the risk. Search the tool buckets, then return to me when you've gathered enough nugget slugs.",
-    "name": "Nugget Slugs",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41124",
-    "added_in_patch": 7,
-    "description": "The Tirisgarde is reformed.  It is time we begin our mission in earnest.\r\n\r\nThe order will need leaders, and though I may be an experienced mage,  I am no strategist. You have proven yourself capable, in both your past exploits and present. \r\n\r\nWill you take on this challenge, <name>?",
-    "name": "The Tirisgarde Reborn",
-    "requires_level": 98,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32302",
-    "added_in_patch": 5.2,
-    "description": "The Kirin Tor constructs are primitive at best. Nevertheless, they pose a threat.Go to Violet Rise and dismantle Jaina's pitiful war machines. Show the Kirin Tor how easily they can be defeated!This will be a message the Kirin Tor cannot easily ignore.",
-    "name": "Desconstruction",
-    "requires_level": 90,
-    "zone": "Quests"
-}

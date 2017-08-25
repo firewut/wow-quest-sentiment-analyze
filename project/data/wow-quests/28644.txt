@@ -1,7 +1,0 @@
-{
-    "_id": "28644",
-    "description": "According to the guide, Teracula is your next challenge. It roams the path just outside of Zephyrus' lair.",
-    "name": "The Durnholde Challenge: Teracula",
-    "requires_level": 23,
-    "zone": "Hillsbrad Foothills"
-}

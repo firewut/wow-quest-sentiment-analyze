@@ -1,7 +1,0 @@
-{
-    "_id": "26668",
-    "description": "Those explosives you planted were high yield, <name>. When I push this button on the Bravo Company field kit, that whole valley is gonna be consumed by a massive fireball of death.You know, I think you should do the honors. You did all the hard work, after all.Ready?",
-    "name": "Detonation",
-    "requires_level": 16,
-    "zone": "Redridge Mountains"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25211",
-    "description": "Don't listen to Rharen. He's as addled as they come. It's his fault that the ale got captured!And what's more, I figure there's a bigger issue here than the ale being stolen. The fact that there's a bunch of orcs runnin' about Dun Algaz after all these years is ridiculous!Tell you what, <class>. You head in there and be sure to drive as many orcs out of those ruins as you can. Dun Algaz isn't good for much anymore, but I'll be damned if we let them just sit in there.",
-    "name": "Cleaning Hovel",
-    "requires_level": 18,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

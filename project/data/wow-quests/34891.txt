@@ -1,9 +1,0 @@
-{
-    "_id": "34891",
-    "added_in_patch": 6,
-    "description": "Many shaman have sought the favor of the Throne of Elements.Forming an elemental bond with the furies allows a shaman to not only know the will of the elements on Draenor, but also tap into a great font of elemental power.If you are to discover the truth behind Gordawg's disappearance, you will need to succeed where others have failed and undertake the Ritual of Binding.First, you must prepare yourself. Seek out the elemental pillars upon the plateau and attune your spirit with the elements.",
-    "name": "Elemental Attunement",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

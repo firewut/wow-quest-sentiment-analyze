@@ -1,8 +1,0 @@
-{
-    "_id": "37788",
-    "added_in_patch": 6.1,
-    "description": "In Nagrand, the ogres tell of an ancient weapon called Gutrek's cleaver. I would very much like to study it.\r\n\r\nA goblin treasure hunter by the name of Val Goldspade discovered the whereabouts of the weapon. Unfortunately, this goblin has gone missing somewhere in the Broken Precipice - probably after a run-in with the locals.",
-    "name": "Treasure Contract: Gutrek's Cleaver",
-    "requires_level": 100,
-    "zone": "Nagrand"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29307",
-    "description": "You are the first mortal to witness a dragon council, <name>, and among the only beings in Azeroth to take part in the choosing of an Aspect.My ascension has endowed me with incredible power. I have taken the liberty to strengthen Tarecgosa's bond with you, though she will require a more... permanent home.I would have you venture one last time into the Plane of Fire and bring me the heart of Ragnaros.When next we meet, I will be able to suitably thank you for all that you have done.",
-    "name": "Heart of Flame",
-    "requires_level": 85,
-    "zone": "Borean Tundra"
-}

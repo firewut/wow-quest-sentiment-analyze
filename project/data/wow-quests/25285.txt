@@ -1,7 +1,0 @@
-{
-    "_id": "25285",
-    "description": "We've gotta get these new mechano-tanks ready for the assault.  You ready to help test these bad boys out?!  Of course you are!First, we need to make sure that once you're in, you can get out.  In battle, if you think your tank is going to explode, get out!  I've seen many a gnome stay in 'til the bitter end... the tank blows up, and them along with it.Well, I've upgraded this tank with an ejection seat.  Try it out for me, will ya?",
-    "name": "In and Out",
-    "requires_level": 1,
-    "zone": "Dun Morogh"
-}

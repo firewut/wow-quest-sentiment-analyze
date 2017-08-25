@@ -1,7 +1,0 @@
-{
-    "_id": "27573",
-    "description": "Ahead is the creature known only as Ambassador Flamelash. He is the ambassador to the Dark Iron Nation from Ragnaros the Firelord. Beyond that chamber is the Summoners' Tomb, home to the spirits of the seven Dark Iron patriarchs who summoned Ragnaros into our world.You may not know of the Great Fire, but he will be the end of Azeroth if he is not stopped, and these individuals are directly tied to his hold over the Dark Iron. Slay them, so that this nation may perhaps one day be redeemed.",
-    "name": "The Dark Iron Pact",
-    "requires_level": 51,
-    "zone": "Blackrock Depths"
-}

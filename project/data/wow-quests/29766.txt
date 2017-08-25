@@ -1,8 +1,0 @@
-{
-    "_id": "29766",
-    "added_in_patch": 5,
-    "description": "Regardless of our predicament, our orders stand. We are to learn the lay of this land and prepare it for Hellscream's fleet.But first, we must deal with these savages!You see these corpses I've stacked up around the camp? I want mountains of them!We are the Horde!These vermin have not learned to fear us yet, but we will fix that soon enough...",
-    "name": "A Good Start",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

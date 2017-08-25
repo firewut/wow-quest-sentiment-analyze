@@ -1,8 +1,0 @@
-{
-    "_id": "33920",
-    "added_in_patch": 6,
-    "description": "A band of Shadow Council orcs stole the Heart of Auchindoun!The Heart powers all of Auchindoun's defenses. Thankfully we were able to save its core and one of its four pieces.The warlock O'mogg Blackheart is using Karab'uun, one of the stolen pieces, to power the largest portal in the Burning Front. Return Karab'uun to me.",
-    "name": "The Heart of Auchindoun",
-    "requires_level": 95,
-    "zone": "Talador"
-}

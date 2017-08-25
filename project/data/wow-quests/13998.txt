@@ -1,8 +1,0 @@
-{
-    "_id": "13998",
-    "description": "I've cultured these unusual spores you dug up with a most magnificent cocktail of ... reagents ... that I'm fond of. I'm eager to see how my manipulated spores react to the waters of the Crossroads oases.The Stagnant Oasis to the southeast should provide us an uncontaminated site for our experiment. Simply plant this culture in the moist soil anywhere near the oasis, and document the results for me.Be sure to cover your mouth, <class>.<Helbrim grins disarmingly.>",
-    "name": "In Fungus We Trust",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

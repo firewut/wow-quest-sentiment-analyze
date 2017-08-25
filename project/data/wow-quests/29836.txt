@@ -1,7 +1,0 @@
-{
-    "_id": "29836",
-    "description": "There have been fearsome sounds echoing from Gundrak. They have been increasing in volume and frequency of late.My long-time student is currently recording events from inside Gundrak. Perhaps you could find the time to check in on her for me?",
-    "name": "Just Checkin'",
-    "requires_level": 74,
-    "zone": "Quests"
-}

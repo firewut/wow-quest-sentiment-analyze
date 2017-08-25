@@ -1,7 +1,0 @@
-{
-    "_id": "27178",
-    "description": "They've come slithering up from the ocean depths, <name>. The naga. I think their intent is to reinforce the Bastion of Twilight, probably by heading inland via the Verrall river. We can't let that happen!Teach them that these shores are ours now, and send them scurrying back to the lightless depths.Kill the Blackscale naga worming their way through the Obsidian Breakers! ",
-    "name": "Naga Reinforcements",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

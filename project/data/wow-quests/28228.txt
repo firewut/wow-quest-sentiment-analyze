@@ -1,7 +1,0 @@
-{
-    "_id": "28228",
-    "description": "It is time to say goodbye now. You have raised me from a seedling, brief though it was, but now I must rejoin the forest.Take me back to the hill you found me on. There I will set my roots, and grow in the shadow of the ancients that came before me.",
-    "name": "Rejoining the Forest",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33964",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Arak Flowerpicker",
-    "requires_level": 90,
-    "zone": "Quests"
-}

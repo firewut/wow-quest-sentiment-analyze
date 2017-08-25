@@ -1,8 +1,0 @@
-{
-    "_id": "27797",
-    "description": "We very nearly had this statue stolen from us by one of Bloodwatcher's Reliquary stooges.  We managed to catch him in the act, and we've retrieved the statue, but it hasn't really paid off.It appears to be a key of some sort, but I can't find the lock anywhere inside those ruins.  You feel like giving it a try?",
-    "name": "The Sentinel's Pawn",
-    "requires_level": 44,
-    "side": "alliance",
-    "zone": "Badlands"
-}

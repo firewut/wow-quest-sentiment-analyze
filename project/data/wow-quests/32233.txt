@@ -1,8 +1,0 @@
-{
-    "_id": "32233",
-    "added_in_patch": 5.2,
-    "description": "Look around you, <class>. What do you see? I see an opportunity.The casters here work to imbue the Zandalari weapons with powerful magic. As if a sharp blade isn't enough to cut even the strongest foe down to size.In my scouting I've noticed the weapons are not very well guarded. This is where you come in...If we can steal a few of these weapons we may be able to use them. At the very least they are out of enemy hands.",
-    "name": "Very Disarming",
-    "requires_level": 90,
-    "zone": "Quests"
-}

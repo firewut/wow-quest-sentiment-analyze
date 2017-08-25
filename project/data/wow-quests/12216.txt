@@ -1,8 +1,0 @@
-{
-    "_id": "12216",
-    "description": "We've all been working hard and it's beginning to pay off, but we're still far from our goal. We need much more meat than we have and it's growing clear that the local stag population won't be enough by itself.I'm afraid we need you to turn your attention to more dangerous prey - the grizzlies that give this region its name. They're plentiful, and they're well fed from the abundant fish that swim in these streams.Be safe, <class>!",
-    "name": "Take Their Rear!",
-    "requires_level": 73,
-    "side": "alliance",
-    "zone": "Grizzly Hills"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27963",
-    "description": "You've arrived just in time.Here's the skinny: the Dark Iron dwarves in the gorge have been acting strangely, and the Thorium Brotherhood intends to find out why.  Overseer Oilfist doesn't like surprises.We suspect that they're following orders from some new leader.  I have reason to believe that Gravius Grimesilt, just south of here, knows who it is.Even here in Searing Gorge, we've begun to hear tales of your exploits, <name>.  You should have no problem with Grimesilt.",
-    "name": "A New Master... But Who?",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

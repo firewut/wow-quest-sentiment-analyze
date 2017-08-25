@@ -1,7 +1,0 @@
-{
-    "_id": "28441",
-    "description": "We do not have any further strategic need for Thorg'izog or the Blackrock ground troops.  We must continue to the next phase of the plan.When you are finished at the stronghold, return to my son and me, here in Chiselgrip.",
-    "name": "Enough Damage For One Day",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

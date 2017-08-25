@@ -1,9 +1,0 @@
-{
-    "_id": "36488",
-    "added_in_patch": 6,
-    "description": "Cutter is on the trail of the artifact the dwarves stole. He has the nose of a wolf when it comes to hunting in the jungle.Follow the canyons south until you find him.It would seem the wolf queen and I are going to do more damage here before we leave.We will follow as quickly as we can.",
-    "name": "Thieving Dwarves",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

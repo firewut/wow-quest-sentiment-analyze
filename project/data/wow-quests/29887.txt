@@ -1,9 +1,0 @@
-{
-    "_id": "29887",
-    "added_in_patch": 5,
-    "description": "Oh dear, oh dear... The Elder mustn't find out!I must have left the Elder's ceremonial instruments behind during the escape.But... Moonwater Retreat is crawling with hozen by now!What sort of Pearlkeeper am I, to have lost them so carelessly?<The old jinyu buries his face into his hands.>Stranger, could you find it in your heart to help me?",
-    "name": "The Elder's Instruments",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

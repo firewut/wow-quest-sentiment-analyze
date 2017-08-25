@@ -1,8 +1,0 @@
-{
-    "_id": "43550",
-    "added_in_patch": 7,
-    "description": "The weather is perfect for a party, isn't it?\r\n\r\nTravel to the Court of Stars, where the Grand Magistrix herself may appear among her nobles to reassure them of the need for all the Legion patrols.",
-    "name": "Court of Stars",
-    "requires_level": 110,
-    "zone": "Court of Stars"
-}

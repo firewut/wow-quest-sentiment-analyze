@@ -1,7 +1,0 @@
-{
-    "_id": "28011",
-    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to Blackfathom Deeps, west of Astranaar, immediately!The Twilight's Hammer threatens the world with its actions there! If you so choose, head to Blackfathom Deeps and speak with Sentinel Aluwyn, head of the night elf effort there, to help stop the Twilight threat.",
-    "name": "Adventurers Wanted: Blackfathom Deeps",
-    "requires_level": 22,
-    "zone": "Blackfathom Deeps"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39793",
-    "added_in_patch": 7,
-    "description": "Say, you're a pretty good hunter, eh? Maybe you could help these tauren out by stocking them with some rare furs. I'm sure they'd appreciate it when they got back!\r\n\r\nI hear that Stormheim goat hair can be woven into all kinds of things. The rarest are from the silver-tail goats. I think I saw some in that mountain over there.\r\n\r\nWhy don't you go and fetch some? I'm sure them tauren would pay you handsomely!",
-    "name": "Only the Finest",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

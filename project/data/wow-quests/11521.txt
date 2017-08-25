@@ -1,7 +1,0 @@
-{
-    "_id": "11521",
-    "description": "My stocks are presently sufficient, but I'll need plenty of razorthorn roots to keep up with the demand.Collecting the roots is difficult, but I know a special method of extraction.Using the glands of the Razorthorn flayers, one can control a ravager there and use it to expose a root.To find the roots, travel to Outlands and fly northeast from Shattrath until you reach Razorthorn Rise.Return to me, <name>, once you have collected five of the roots.",
-    "name": "Rediscovering Your Roots",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

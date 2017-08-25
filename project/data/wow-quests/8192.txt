@@ -1,7 +1,0 @@
-{
-    "_id": "8192",
-    "description": "",
-    "name": "Animist's Caress",
-    "requires_level": 58,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28684",
-    "description": "Finding supplies on the island has been difficult, to say the least.Fortunately, we have found a good supply of silk in The Darkwood, just north of here.  The bad part of this story is that the silk comes from the glands on Broodmother spiders.  I need you to gather 4 of these for me.That should be just enough to finish up this last set of shirts.",
-    "name": "A Sticky Task",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

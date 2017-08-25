@@ -1,7 +1,0 @@
-{
-    "_id": "10683",
-    "description": "The Ashtongue Broken have been ordered by Illidan to excavate the Ruins of Baa'ri, to the far north.  They're in search of draenei artifacts, no doubt - Baa'ri was home to many Baa'ri relics before Gul'dan buried the town under a volcanic explosion.  We must use this opportunity to recover the Tablets of Baa'ri, an ancient text rumored to hold the secrets of the Temple of Karabor... a place you might know as the Black Temple.",
-    "name": "Tablets of Baa'ri",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

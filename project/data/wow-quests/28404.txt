@@ -1,7 +1,0 @@
-{
-    "_id": "28404",
-    "description": "Yes, this all looks familiar enough.Thanks to all the information you gathered for me, I'm sure that I can activate the mechanism. I'll just need some time free from distraction.As soon as I get started, you can count on that titan construct to try and stop me.That's where you come in.I don't need to remind you of what's riding on this. Take down that guardian!",
-    "name": "I'll Do It By Hand",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

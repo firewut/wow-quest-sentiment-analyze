@@ -1,8 +1,0 @@
-{
-    "_id": "36009",
-    "added_in_patch": 6,
-    "description": "It is foolish to pursue Gul'dan with magical means alone. But thanks to you we have a prisoner: Garona. If we can break Gul'dan's mind-control over her, we will learn all his secrets.I can do it, but I'll need some powerful spell components.First on the list is the heart of an elemental fury. There's one imprisoned in the center of the Blackrock Foundry. Fight your way in, destroy the furnace, and slay the elemental within.",
-    "name": "Heart of the Fury",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

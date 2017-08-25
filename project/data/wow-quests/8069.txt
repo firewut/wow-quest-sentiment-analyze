@@ -1,7 +1,0 @@
-{
-    "_id": "8069",
-    "description": "The tribe acknowledges station and power through what we wear.  Our vestments are made from the finest of materials, and interwoven with the mojo we use to make us powerful.  Illusionists are no exception; their robes are said to embody the essence of illusion in their look.  Legend states that their ancient robes never looked the same twice.I will give you an illusionist's robe, <name>... but earn your place of reverence among the tribe first!  Bring me the Paragons of Power from Zul'Gurub!",
-    "name": "Paragons of Power: The Illusionist's Robes",
-    "requires_level": 58,
-    "zone": "Quests"
-}

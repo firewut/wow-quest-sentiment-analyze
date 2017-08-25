@@ -1,8 +1,0 @@
-{
-    "_id": "35944",
-    "added_in_patch": 6,
-    "description": "This tooth is proof of your strength at slaying goren and your gladiator friend has born witness!Take the tooth back to Jonaa and claim your accolades!",
-    "name": "Proof of Strength: Goren Tooth",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27254",
-    "description": "An iron shield, blackened by the fire that raged through the inn, is affixed to the crumbling chimney, one of the few remaining parts of the structure that once made up the Shady Rest Inn.The shield can be removed from the brick of the chimney.",
-    "name": "The Black Shield",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

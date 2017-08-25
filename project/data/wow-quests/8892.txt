@@ -1,7 +1,0 @@
-{
-    "_id": "8892",
-    "description": "Sunsail Anchorage has been overrun by Wretched scum.  As soon as we manage to get reinforcements to the area we'll show those thugs who's boss, <name>.In the meantime you can help by showing them a bit of discipline.  Go in there and show them we are not to be trifled with.  You will find Sunsail Anchorage just to the west of Fairbreeze Village.",
-    "name": "Situation at Sunsail Anchorage",
-    "requires_level": 5,
-    "zone": "Eversong Woods"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41480",
-    "added_in_patch": 7,
-    "description": "There is one basilisk here who has gorged himself so thoroughly on Nightsaber flesh that he seldom leaves his cave.\r\n\r\nWe will use this to our advantage.\r\n\r\nSeek out the basilisk Managazer and use his death as an example to the others who have strayed from their home.",
-    "name": "Managazer",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

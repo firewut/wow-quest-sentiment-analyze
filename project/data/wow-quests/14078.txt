@@ -1,8 +1,0 @@
-{
-    "_id": "14078",
-    "description": "What are you still doing here, citizen?  Haven't you heard?  The city's under complete lockdown.Go see Lieutenant Walden -- he'll give you further directions for evacuation.",
-    "name": "Lockdown!",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas City"
-}

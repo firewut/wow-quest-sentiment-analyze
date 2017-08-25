@@ -1,9 +1,0 @@
-{
-    "_id": "44120",
-    "added_in_patch": 7,
-    "description": "At first I was unsure whether it was wise to allow the Illidari inside the city. But they may have just saved all our lives.I gave the demon hunters leave to establish a temporary camp in the Mage Quarter. I'd like you to be my personal envoy to them. Thank the Illidari for their assistance and see how they can aid our cause.Just... keep your eyes open. They have harnessed a terrible power, and we must be ready should they be consumed by the darkness within.",
-    "name": "Illidari Allies",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

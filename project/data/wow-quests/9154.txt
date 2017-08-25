@@ -1,7 +1,0 @@
-{
-    "_id": "9154",
-    "description": "The Scourge have returned in greater numbers than we have seen before.  This must be the doing of the Lich King!  The Argent Dawn is recruiting all willing and capable men and women to defend our lands.If we share common cause, take this document to the Keeper of the Rolls at Light's Hope Chapel in the Eastern Plaguelands.",
-    "name": "Light's Hope Chapel",
-    "requires_level": 50,
-    "zone": "Quests"
-}

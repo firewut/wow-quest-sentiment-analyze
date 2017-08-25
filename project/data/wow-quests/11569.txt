@@ -1,7 +1,0 @@
-{
-    "_id": "11569",
-    "description": "I have to get out of these caverns! There's magic stuff seeping in from Coldarra, above, and affecting everyone's minds.I don't intend to be controlled like these others!Keymaster Urmgrgl is in the cave below and to the south. He holds the key to my cage. Get it from him and bring it back so that I can unlock my cage and get out of here.Hurry!",
-    "name": "Keymaster Urmgrgl",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

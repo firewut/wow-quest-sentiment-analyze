@@ -1,7 +1,0 @@
-{
-    "_id": "13104",
-    "description": "The Vanguard is secure, ally. We have reclaimed the Valley of Echoes and taken down the web walls blocking entry to the Breach. Now is the time to strike at Scourgeholme and establish our presence inside Icecrown. The battlefront moves on!I have asked the Ebon Watcher for his assistance with our assault upon Scourgeholme. His intimate knowledge of the Scourge will be invaluable in our effort.Go now and report to him at the tent outside of the Breach, northwest of here.",
-    "name": "Once More Unto The Breach, Hero",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

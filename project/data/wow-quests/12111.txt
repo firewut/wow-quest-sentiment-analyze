@@ -1,8 +1,0 @@
-{
-    "_id": "12111",
-    "description": "Inside this pack are several vials containing the vaccine that Sintar created. I now want you to search the nearby woods for Snowfall elk and arctic grizzlies. When you locate the animals, find a safe distance and throw a vial in their general direction. The vial will shatter and release a fine gas that will act as the inoculating agent. The beasts merely have to step inside the gas and they will be vaccinated - ultimately saved.Inoculate as many of the beasts as you can and return to me.\r\n",
-    "name": "Where the Wild Things Roam",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

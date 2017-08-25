@@ -1,7 +1,0 @@
-{
-    "_id": "24832",
-    "description": "",
-    "name": "Path of Vengeance",
-    "requires_level": 80,
-    "zone": "Quests"
-}

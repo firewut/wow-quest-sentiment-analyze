@@ -1,9 +1,0 @@
-{
-    "_id": "31775",
-    "added_in_patch": 5,
-    "description": "I have found their hidden airfield, <name>: the Strongarm Airstrip. It wasn't hard to spot, it's swarming with Alliance.<Nazgrim spits.>They think they've wiped us out, but we're Horde! We fight until we're corpses... and sometimes even afterwards. Let them taste our steel!",
-    "name": "Assault on the Airstrip",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

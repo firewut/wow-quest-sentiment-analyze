@@ -1,8 +1,0 @@
-{
-    "_id": "27848",
-    "description": "The Defias plan to finish their Juggernaut and use it to lay waste to Stormwind. It is a noble cause any true orc warrior would embrace without a single thought!Vanessa's fault lies in her execution of their plan. The ship is poorly constructed, the crew practically untrained, and, worst of all, there's a worgen in their midst!His name is Admiral Ripsnarl, and he must be mercilessly slain in the name of the Warchief. Lok'tar ogar!",
-    "name": "Good Intentions...Poor Execution",
-    "requires_level": 15,
-    "side": "horde",
-    "zone": "Quests"
-}

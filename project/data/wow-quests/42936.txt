@@ -1,8 +1,0 @@
-{
-    "_id": "42936",
-    "added_in_patch": 7,
-    "description": "I confess the stone drake broodmother and I have had a rocky relationship in the past. She supported Deathwing during the Cataclysm, you know. But Aeosera has been put back in her place and it is my responsibility to protect her.The problem is that she refuses to abandon her eggs, even in the midst of a trogg attack.You're a shaman! Use your natural magnetism to reassemble fallen Opalescent Guardians in the Pale Roost. Escort them to Aeosera so they can carry her eggs to safety of my bosom.",
-    "name": "Clutch Play",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

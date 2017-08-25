@@ -1,7 +1,0 @@
-{
-    "_id": "24563",
-    "description": "You are the one working with Myralion Sunblaze, arent you? I know of a way we can test the sword.If you know the blade's history, you recall that it was borne by Thalorien Dawnseeker in defense of the Sunwell against the Scourge. He fell in what is now the Dead Scar, buying time for his men to make their own preparations. You will find his remains near the southern end of the Dead Scar on this isle. Visit them, and if his spirit gives you its blessing, I will allow you to enter the Sunwell.",
-    "name": "Thalorien Dawnseeker",
-    "requires_level": 80,
-    "zone": "Isle of Quel'Danas"
-}

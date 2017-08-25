@@ -1,8 +1,0 @@
-{
-    "_id": "40776",
-    "added_in_patch": 7,
-    "description": "A rogue felhunter known as Kazok'thul has been terrorizing Azurewing Repose in Azsuna.Felhunters feed on arcane energy and it seems that Kazok'thul has been gorging itself on the mana from nearby Azurewing whelps.Travel to Azurewing Repose and speak with Ardonu to find the last known location of Kazok'thul.Slay the demon and return here when your mission is complete.",
-    "name": "Kazok'thul",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

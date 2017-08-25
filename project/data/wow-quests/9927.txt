@@ -1,7 +1,0 @@
-{
-    "_id": "9927",
-    "description": "<Lantresor hands you a pack full of banners.>These are Warmaul ogre banners that I recently acquired.I want you to travel to Kil'sorrow Fortress, directly south of here, and kill as many of the Kil'sorrow filth as you can find. Drive a Warmaul ogre banner through the heart of each fallen Kil'sorrow soldier. Return to me when you have completed this task and the other that this plan requires.",
-    "name": "Ruthless Cunning",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

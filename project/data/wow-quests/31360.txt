@@ -1,8 +1,0 @@
-{
-    "_id": "31360",
-    "added_in_patch": 5,
-    "description": "A new king of the mogu has arisen: Xin the Weaponmaster.He single-handedly subjugated the mogu clans, and now they and their new leaders vie for his favor.I've never seen or read of any who are his equal in battle. Do not underestimate Xin, <name>.Our fate rests in your hands.",
-    "name": "A New Lesson for the Master",
-    "requires_level": 87,
-    "zone": "Quests"
-}

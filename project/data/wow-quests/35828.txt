@@ -1,9 +1,0 @@
-{
-    "_id": "35828",
-    "added_in_patch": 6,
-    "description": "$p? Boy am I glad to see ya.I was tryin' ta ditch that genesaur when I stumbled across this rangari camp.Next thing I know, the ground is creepin' up and spittin' out all sorts of angry plants.I barely made it out of me tank before that genesaur threw it like it was an empty beer mug.I'm gonna make my way back to the road an' look fer me tank.I'll see ya there when yer done.",
-    "name": "I Drew Aggro...culture",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

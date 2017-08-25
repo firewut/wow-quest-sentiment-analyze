@@ -1,7 +1,0 @@
-{
-    "_id": "28164",
-    "description": "I just received word that you are needed in Orgrimmar, <name>. Brother Silverhallow has asked for you to return to the city as quickly as you are able. His message didn't include any other information, and the matter seemed urgent.Look for Brother Silverhallow in the Goblin Slums of Orgrimmar.",
-    "name": "Seek Brother Silverhallow",
-    "requires_level": 20,
-    "zone": "Priest"
-}

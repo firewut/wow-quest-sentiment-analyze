@@ -1,9 +1,0 @@
-{
-    "_id": "35332",
-    "added_in_patch": 6,
-    "description": "Your presence has been requested at the Throne of Elements, <name>.Vindicator Nobundo has heard the call of the furies upon the wind and made the journey to commune with the elements.I know not what the intentions of the furies are, but they are revered as noble and powerful spirits by the orcs.",
-    "name": "Nobundo Sends Word",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

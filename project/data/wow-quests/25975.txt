@@ -1,7 +1,0 @@
-{
-    "_id": "25975",
-    "description": "We've got our reinforcements, but we still need to find a way to pay them. That kind of action doesn't come cheap.Up on Deepfin Ridge to the northwest, the slimy gilblin have stolen all sorts of treasure. I think that it's time to reclaim some of it for the cause.",
-    "name": "Treasure Reclamation",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

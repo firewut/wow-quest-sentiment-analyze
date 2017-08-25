@@ -1,8 +1,0 @@
-{
-    "_id": "33561",
-    "added_in_patch": 6,
-    "description": "Run through the arch...Get to the blue marker...Get to the green marker...Get to the red markerGet to the purple markerReturn here...Then do it all again. That's right - 2 laps!Good luck!",
-    "name": "Multiplayer Race",
-    "requires_level": 1,
-    "zone": "Northshire"
-}

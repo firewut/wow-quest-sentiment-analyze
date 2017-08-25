@@ -1,7 +1,0 @@
-{
-    "_id": "25085",
-    "description": "Una here used to spend time in Camp Taurajo. She's told me about a quilboar that used to be captured there, named Mangletooth. Quite the clever one, for a quilboar.I've been tryin' to think what got these quilboar riled up so much recently, and it might be that Mangletooth escaped Taurajo alive. If he has, he's certainly calling the shots.There's a large hut up in the hills to the northwest. If you find Mangletooth there, cut 'im down.",
-    "name": "Mangletooth",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

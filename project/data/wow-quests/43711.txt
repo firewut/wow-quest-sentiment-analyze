@@ -1,8 +1,0 @@
-{
-    "_id": "43711",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Black Rook Hold: ... With Fire!",
-    "requires_level": 110,
-    "zone": "Black Rook Hold"
-}

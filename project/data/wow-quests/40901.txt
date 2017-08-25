@@ -1,8 +1,0 @@
-{
-    "_id": "40901",
-    "added_in_patch": 7,
-    "description": "You have my thanks for rescuing me from captivity, <class>.However, Azoran is no mere demon. He is a powerful eredar who commands great rank within the Burning Legion.If you wish to continue with me, I need proof of your strength.Grimwing the Devourer is the strongest of the felbats and a suitable test of skill. Place the basilisk flesh upon the altar to the north and slay Grimwing when she appears.Return to me with her head and I will not doubt your ability.",
-    "name": "Grimwing the Devourer",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

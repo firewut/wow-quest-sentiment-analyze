@@ -1,8 +1,0 @@
-{
-    "_id": "43075",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Primal Combatant's Ringmail Armor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

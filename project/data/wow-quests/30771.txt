@@ -1,8 +1,0 @@
-{
-    "_id": "30771",
-    "added_in_patch": 5,
-    "description": "When the Osul tribe goes to war, they coat their spears and arrows with a highly flammable, ever-burning pitch.They use this terrible weapon to shed not only blood, but to raze the homes of their enemies.I need you to collect some of this pitch while you are in their camp.We will use it to show the yaungol that when you play with fire, you can get burned.",
-    "name": "Perfect Pitch",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

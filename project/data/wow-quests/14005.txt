@@ -1,8 +1,0 @@
-{
-    "_id": "14005",
-    "description": "As Teldrassil purges itself of the corruption that has perverted it's growth for all of these years, a malevolent growth has formed near the tree's edge, south of here. We have an opportunity to strike out and purge the source of the fel moss that has tainted the gnarlpine, the timberlings, and everything else.With the water that you've collected from the moonwells and the renewed strength of Teldrassil herself, I can grant you great power for a short while. Put an end to this corruption, <name>.",
-    "name": "The Vengeance of Elune",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

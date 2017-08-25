@@ -1,8 +1,0 @@
-{
-    "_id": "40647",
-    "added_in_patch": 7,
-    "description": "Now that we have Ursol's blessing, we can safely pass the magical wards and reach the claws' resting place!Now, we must pass into the Dream. Lay down before the Shrine of Ursol and drink of the moonwater you brought earlier and your spirit will drift off into the dream.Be careful, the Dream can be a dangerous place.",
-    "name": "When Dreams Become Nightmares",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "765",
-    "description": "According to the documents you salvaged from the caravan, the Venture Co. created many plans to attempt to drive us from our lands here, so that they could have free reign to plunder our lands.The depths that they would sink to accomplish their goals disgusts and appalls me. I want the mastermind behind their plans killed. His name is Supervisor Fizsprocket, you will find him at the Venture Co. mine east of the ravaged caravan. Bring me his clipboard, we shall see if we find out anything useful.",
-    "name": "Supervisor Fizsprocket",
-    "requires_level": 5,
-    "zone": "Mulgore"
-}

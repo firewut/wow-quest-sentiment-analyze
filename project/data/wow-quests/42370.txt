@@ -1,8 +1,0 @@
-{
-    "_id": "42370",
-    "added_in_patch": 7,
-    "description": "We'll start with some wand work. You have your wand with you? Good.I've set up a number of targets around the hall. Use your wand to hit as many as you can.And no point-blank shots! That's cheating.",
-    "name": "Wanding 101",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

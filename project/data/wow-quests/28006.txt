@@ -1,7 +1,0 @@
-{
-    "_id": "28006",
-    "description": "The Warchief has requested that any able-bodied adventurer head to the Wailing Caverns, just west of the Crossroads, immediately!Naralex must be awakened to save the Barrens! If you so choose, head to the Wailing Caverns and speak with Nalpak, one of Naralex's disciples, to help in healing the injured land.",
-    "name": "Adventurers Wanted: Wailing Caverns",
-    "requires_level": 17,
-    "zone": "Wailing Caverns"
-}

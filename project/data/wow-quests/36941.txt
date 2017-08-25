@@ -1,8 +1,0 @@
-{
-    "_id": "36941",
-    "added_in_patch": 6,
-    "description": "We have slowed the Iron Horde down, but this war is far from over... I'll stay here and continue our efforts to hold back the Iron Horde.The King needs to know about what we have accomplished here today, and the threat we face in the future.It is probably best if you report to King Wrynn yourself, <name>.",
-    "name": "Report to the King",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

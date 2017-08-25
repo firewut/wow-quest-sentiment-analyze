@@ -1,7 +1,0 @@
-{
-    "_id": "12264",
-    "description": "The cave beyond was swarming with Cult atrocities. There is only one way to deal with such creatures... you know what to do.",
-    "name": "Culling the Damned",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

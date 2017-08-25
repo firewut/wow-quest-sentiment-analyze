@@ -1,8 +1,0 @@
-{
-    "_id": "26264",
-    "description": "Most of us have seen the sickly and deranged gnomes suffering from exposure to the poisons and radiation of Gnomeregan. Eventually, they will devolve further, until they become mindless, but mostly harmless, puddles of toxic sludge.My research suggests that we may even be able to restore them from this state. Go to the Toxic Airfield to the south, subdue the toxic sludge I told you about, and bring back the possessions of the gnomes they once were.",
-    "name": "What's Left Behind",
-    "requires_level": 2,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

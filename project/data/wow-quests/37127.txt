@@ -1,8 +1,0 @@
-{
-    "_id": "37127",
-    "added_in_patch": 6,
-    "description": "My grandfather always told me stories of a powerful crystal made of the Light that would grant power to those who intended to use it for good. He called it the Light of Exodus.I never believed him... until now.Your scouts have found a crystal that sounds just like it. It has been taken by a terrible demon and is being corrupted at the Beacon of Sha'tar in Shattrath.We have to hurry!",
-    "name": "The Light of Exodus",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

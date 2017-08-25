@@ -1,9 +1,0 @@
-{
-    "_id": "36408",
-    "added_in_patch": 6,
-    "description": "<The fragment gleams in the light as its aura's final pulse fades.>The power within the fragment appears to be drained.You recall hearing travelers speak of a local in Embaari Village who specializes in imbuing gems with magic.",
-    "name": "A Power Lost",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

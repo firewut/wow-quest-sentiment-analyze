@@ -1,8 +1,0 @@
-{
-    "_id": "31473",
-    "added_in_patch": 5,
-    "description": "Great leadership requires the power to shape the destiny of your people, and the wisdom to make the right decisions. Pandaria boasts great power and ancient wisdom, but rarely in the same place.Let's see if you and I can change that!Acquire sigils of power and wisdom from fallen foes in the Mogu'shan Vaults, the Heart of Fear, or the Terrace of Endless Spring. We will put them to a much better use than their current owners.",
-    "name": "The Strength of One's Foes",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

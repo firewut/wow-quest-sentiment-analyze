@@ -1,7 +1,0 @@
-{
-    "_id": "7102",
-    "description": "Towers and bunkers are key defensive positions, and so we must hold as many as possible!  I want you to attack a tower or a bunker in Alterac Valley.To do that, enter a tower with a Horde banner atop it.  You will see another enemy banner inside.  Pull out that banner, and a white Alliance banner will appear in its place.  Well done!At that point your mission for me will be complete, but hold the area long enough, and if the Horde doesn't take it back, then it will be destroyed!",
-    "name": "Towers and Bunkers",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

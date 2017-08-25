@@ -1,8 +1,0 @@
-{
-    "_id": "34439",
-    "added_in_patch": 6,
-    "description": "Our troops are armed - the time to strike is now!Strike swift and true, <name>!",
-    "name": "The Battle of the Forge",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

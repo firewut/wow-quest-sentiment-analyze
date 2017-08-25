@@ -1,7 +1,0 @@
-{
-    "_id": "298",
-    "description": "I need a progress report sent to Thelsamar - a progress report, and a restatement of my request for more blastpowder!  Here's the report.  Take it to Jern Hornhelm.  He's our local contact in Thelsamar.It's not a difficult task, but it must be done.",
-    "name": "Excavation Progress Report",
-    "requires_level": 10,
-    "zone": "Loch Modan"
-}

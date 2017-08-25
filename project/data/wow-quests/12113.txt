@@ -1,7 +1,0 @@
-{
-    "_id": "12113",
-    "description": "G'day to ya, <class>! Have yerself a seat by me fire, eh?I'd offer to share a nice hot meal, only I ain't got one. I'm stuck here waitin' on an associate, or I'd be out tryin' to remedy that situation meself.Say, you seem to have nuthin' but time on yer hands and there be plenty o' meat in these parts. What say ya lend a hand and round up some grub? ",
-    "name": "Nice to Meat You",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

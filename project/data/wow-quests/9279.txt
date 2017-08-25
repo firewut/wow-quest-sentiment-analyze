@@ -1,8 +1,0 @@
-{
-    "_id": "9279",
-    "description": "Nevermind my injuries,  brother . It's a miracle that any of us are alive!It didn't look like you'd pull through; you've been in suspension for weeks.Something happened and the Exodar crashed. Many have died.But I'm relieved that you are alive, <name>. With you leading our efforts, I'm sure we'll get to safety soon! Proenitus asked me to send you to him when you awoke. He's waiting for you at the bottom of the hill. Just follow the path southwest.",
-    "name": "You Survived!",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Ammen Vale"
-}

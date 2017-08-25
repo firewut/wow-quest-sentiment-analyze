@@ -1,8 +1,0 @@
-{
-    "_id": "32467",
-    "added_in_patch": 5.2,
-    "description": "The Zandalari Priests in the town to the north prepare the bodies of our fallen allies for sacrifice.\r\n\r\nThe best way to prevent this from happening? Kill them. Kill them all.",
-    "name": "Sacrificial Prevention [PH]",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9421",
-    "description": "",
-    "name": "Shaman Training",
-    "requires_level": 2,
-    "zone": "Shaman"
-}

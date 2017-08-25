@@ -1,7 +1,0 @@
-{
-    "_id": "25223",
-    "description": "I'd love to say that with the tides turning against us in Hyjal, every recruit helps our cause and so on... but to be perfectly blunt, most of you are nothing but a burden.If I had a copper for every peasant who got too scared when the cataclysm hit and now wishes to join our side... well, let's just say I'd be a rich woman.Fortunately we have checks in place to separate the wheat from the chaff.  Go and prove yourself to the fiery instructors below.  Hopefully you'll do better than the others.",
-    "name": "Trial By Fire",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

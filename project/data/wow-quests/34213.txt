@@ -1,8 +1,0 @@
-{
-    "_id": "34213",
-    "added_in_patch": 6,
-    "description": "Please, $p! Can you help me. I received a ransom note from a very corrupt and uncouth orc within the ranks of the Iron Horde.He has my son!He made sure to include a number of graphic words to describe what would happen if the ransom is not paid. Clearly he thinks my people conjure gold from the nether. And if I try to rescue him myself, both of us will be killed in the process.Can you go to Gron'mar for me and rescue my son?His name is Corki.",
-    "name": "They Have My Son",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

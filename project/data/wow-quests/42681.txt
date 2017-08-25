@@ -1,8 +1,0 @@
-{
-    "_id": "42681",
-    "added_in_patch": 7,
-    "description": "Belath Dawnblade has given us a strange scouting report from the Felblaze Ingress in Azsuna. The dreadlord, Razelikh the Defiler has returned to the world. That's not the odd part, though.\r\n\r\nStrangely, he's sometimes going around killing the other demons and calling himself, Loramus!\r\n\r\nLast we knew, our demon hunter brother, Loramus Thalipedes sacrificed himself to defeat Razelikh, whom he'd been possessed by.\r\n\r\nYour champions and Ashtongue warriors need to go to Azsuna and find out what is going on.",
-    "name": "Loramus, Is That You?",
-    "requires_level": 101,
-    "zone": "Demon Hunter Campaign"
-}

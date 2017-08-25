@@ -1,8 +1,0 @@
-{
-    "_id": "40057",
-    "added_in_patch": 7,
-    "description": "I see, you wish to augment your powers through script. I believe we can kill two birds with one stone then.I need help here reducing the demon threat. Perhaps some more engagement with our enemy will inspire you.",
-    "name": "The Price of Power",
-    "requires_level": 102,
-    "zone": "Inscription"
-}

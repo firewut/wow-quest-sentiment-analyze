@@ -1,8 +1,0 @@
-{
-    "_id": "34703",
-    "added_in_patch": 6,
-    "description": "Time for vengeance! We are going to kill Kor'gall and you are going to take his axe.Shatter this feeble barrier, follow the bridge beyond until you reach the chieftain's throne.You freed us, so the honor of first blood is yours. Strike the first blow and we will join you in the cutting.",
-    "name": "The Axe of Kor'gall",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

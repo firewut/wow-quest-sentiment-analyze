@@ -1,7 +1,0 @@
-{
-    "_id": "14316",
-    "description": "Since the demons have invaded their lands, the Magram have broken all ties with any outsiders.They are untrusting and hostile and have taken to stealing from others instead of providing for themselves.Many of our needed supplies have gone missing of late and we suspect that the Magram are to blame.Please, <name>, go to their lands in the east and search for our belongings.",
-    "name": "Cenarion Property",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

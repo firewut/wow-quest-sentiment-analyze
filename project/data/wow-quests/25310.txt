@@ -1,7 +1,0 @@
-{
-    "_id": "25310",
-    "description": "We took Darkwhisper Gorge from the demons of the Burning Legion by force.  We've held on to our territory pretty well so far, with one exception.We recently lost the Gates of Sothann to a pit lord and his army.  We cannot allow this to stand.Use this talisman when you're near him.  You'll gain the powers of a flame ascendant temporarily.  Make it count.",
-    "name": "The Greater of Two Evils",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

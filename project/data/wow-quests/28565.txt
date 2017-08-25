@@ -1,8 +1,0 @@
-{
-    "_id": "28565",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Mountaineer Rharen at Dun Algaz.In the wake of the cataclysm's destruction, Wetlands has become overrun with wild beasts, orcish raiders, and savage gnolls! To reach the Wetlands, you must travel north from Loch Modan through the dwarven hold of Dun Algaz.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Wetlands!",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

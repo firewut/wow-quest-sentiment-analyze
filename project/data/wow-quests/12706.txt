@@ -1,7 +1,0 @@
-{
-    "_id": "12706",
-    "description": "<Prince Valanar hands you a sealed scroll.>This is the full report of our victory at Death's Breach. You are to deliver this to Highlord Mograine - inside Acherus. I have made sure to include your heroics in the report. Mograine will undoubtedly reward you greatly for this victory, <name>.Go now!",
-    "name": "Victory At Death's Breach!",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

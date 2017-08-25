@@ -1,7 +1,0 @@
-{
-    "_id": "11562",
-    "description": "I have something embarrassing to admit: I'm being blackmailed!Mrmrglmr agreed to clean some of my things, and got hold of my spare murloc costume. He's threatening to reveal my true nature to the other murlocs.I need not explain to you what a disaster that would be! Besides, I have a plan that's going to require that we get that costume back.Please, <name>, go to Mrmrglmr at the other end of the Retreat to the north and do whatever he asks of you.",
-    "name": "I'm Being Blackmailed By My Cleaner",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

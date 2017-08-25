@@ -1,8 +1,0 @@
-{
-    "_id": "30737",
-    "added_in_patch": 5,
-    "description": "Fat Long-Fat has requested another match with you. I find this strange. And concerning.He will be waiting atop the Dome Belrissa.",
-    "name": "Fat Long-Fat: Rematch",
-    "requires_level": 90,
-    "zone": "Krasarang Wilds"
-}

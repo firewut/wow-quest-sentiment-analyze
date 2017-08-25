@@ -1,9 +1,0 @@
-{
-    "_id": "35844",
-    "added_in_patch": 6,
-    "description": "Upon closer inspection, you notice a piece of leather parchment looped around his neck.Scrawled upon it angrily are the words:\"WITNESS THE FATE OF THOSE WHO DEFY THE IRON HORDE!\"",
-    "name": "The Warlord's Council",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

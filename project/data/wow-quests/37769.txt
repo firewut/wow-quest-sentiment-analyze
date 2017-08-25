@@ -1,9 +1,0 @@
-{
-    "_id": "37769",
-    "added_in_patch": 6.1,
-    "description": "Blackrock warriors use weapons forged in cursed fire by the breath of a creature o' pure flame: The Heart o' the Mountain. Let's disarm 'em, boy! Destroy that infernal creature, and the Blackrock won't have enough heat to fuel their Blast Furnace.Travel to Blackrock Foundry and defeat the Heart o' the Mountain.",
-    "name": "Slagworks: Heart of the Mountain",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Quests"
-}

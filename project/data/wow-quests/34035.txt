@@ -1,9 +1,0 @@
-{
-    "_id": "34035",
-    "added_in_patch": 6,
-    "description": "It's a machine alright. A drill - a BIG one! Fortunately, we don't have to take apart the whole thing.They're relying on forced induction, using twin superchargers to pipe extra boost into the engine. Without that boost, the drill is useless.Get in there and open the clutch on the back of the drill. That'll draw some attention away from the turbines.I'll take care of the turbines - you just worry about the hordes of bloodthirsty orcs.",
-    "name": "I Know The Drill!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

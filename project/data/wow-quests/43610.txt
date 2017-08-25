@@ -1,8 +1,0 @@
-{
-    "_id": "43610",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Infernal Lord",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

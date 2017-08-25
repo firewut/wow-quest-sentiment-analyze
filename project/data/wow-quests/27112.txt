@@ -1,7 +1,0 @@
-{
-    "_id": "27112",
-    "description": "There are remaining beings here that pose a direct threat to us ever reclaiming this sacred city. Magister Kalendris and Illyana Ravenoak are both extremely dangerous and need to be disposed of as quickly as possible.Exercise caution, for with there being so few remaining feeding off of Immol'thar's energies, they are likely to be stronger than they first appear.",
-    "name": "The Cursed Remains",
-    "requires_level": 39,
-    "zone": "Dire Maul"
-}

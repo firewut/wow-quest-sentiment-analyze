@@ -1,7 +1,0 @@
-{
-    "_id": "10046",
-    "description": "Two weeks ago, our scouts reported a heavily armed Alliance force under the command of Field Commander Romus departing Nethergarde Keep. With so many soldiers and supplies, along with such a distinguished commander, they can only have one goal: Outland.The warchief sent an advance force through the portal, but if the Alliance believes there is a need for that many troops, perhaps we'd be wise to send our own reinforcements.Journey through the Dark Portal and report to Nazgrel at Thrallmar.",
-    "name": "Through the Dark Portal",
-    "requires_level": 54,
-    "zone": "Hellfire Peninsula"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32613",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Giant Dinosaur Bone",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

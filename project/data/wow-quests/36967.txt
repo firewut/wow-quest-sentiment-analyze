@@ -1,8 +1,0 @@
-{
-    "_id": "36967",
-    "added_in_patch": 6,
-    "description": "You have chosen your quarry and surely soon they will feel your merciless wrath, but first you must venture out into the wilds of Draenor and rip out the still-beating heart of a pandaren in mortal combat. Return here with your prize.Through the heart of your enemy the spirits will attune your senses, granting you second sight and keenness in hearing - all to stalk your prey and claim dominance.",
-    "name": "Nemesis: Becoming Death",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24934",
-    "description": "<name>, the sea is our only lifeline, and right now most of my fleet is either steaming back to Theramore for repairs or rusting at the bottom of this bay. Only the Blackpool remains afloat to defend our harbor.But she's just signaled that she's being boarded!Speak to me when you're ready, I'll have one of our naval gryphons deposit you right on the deck. Slaughter the rageroar sea dogs who dare assault my precious ship and report to Captain Fisher for further orders. ",
-    "name": "Repel Boarders!",
-    "requires_level": 28,
-    "zone": "Southern Barrens"
-}

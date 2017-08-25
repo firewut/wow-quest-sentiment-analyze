@@ -1,8 +1,0 @@
-{
-    "_id": "25505",
-    "description": "Hey there, <name>. I'm Pozzik, world-renowned rocket car pilot. Welcome to my Speedbarge.I share your concerns about helping all of Thousand Needles. It's my firm belief that the Speedbarge is the best hope for the entire region.Perhaps you could help us out a little bit here? I'll make sure that you're equipped with what you need to tackle everything else.As to that, if you could just run this list of parts over to Razzeric in his shop, you'll be well on your way.",
-    "name": "Do Me a Favor?",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

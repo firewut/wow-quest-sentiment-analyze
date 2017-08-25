@@ -1,8 +1,0 @@
-{
-    "_id": "26068",
-    "description": "We now command the kobold armies of Stonetalon! It almost sounds impressive. Almost.<Devo sighs.>The Alliance base camp north of here is tightly guarded. It is nigh impregnable, save for the entry point by the Unearthed Grounds, northeast of here. Take this kobold war horn and head towards the Unearthed Grounds. Enter from the east, <name>! Once there, head west until you arrive at the location I have marked upon your map. Use the horn there to unleash kobold fury upon the Alliance!",
-    "name": "Kobold Fury!",
-    "requires_level": 26,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

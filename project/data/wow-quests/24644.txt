@@ -1,7 +1,0 @@
-{
-    "_id": "24644",
-    "description": "",
-    "name": "Troll Introduction Complete",
-    "requires_level": 1,
-    "zone": "Echo Isles"
-}

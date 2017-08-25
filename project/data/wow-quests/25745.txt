@@ -1,8 +1,0 @@
-{
-    "_id": "25745",
-    "description": "<name>, great job defending the Speedbarge! I've got something else that I need you to help out with.I've sent Riznek and Trackmaster Zherin northeast to negotiate with the centaur survivors. Their Splithoof Heights is dripping with oil!I figure those smelly half horses won't know what they've got and we'll get the rights to pump up that black gold for a song, but I'd feel better if you took charge of the talks.What do you say?",
-    "name": "Negotiations",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

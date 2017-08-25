@@ -1,8 +1,0 @@
-{
-    "_id": "14188",
-    "description": "This cannot be!My dear brother - slain by Alliance scum!They must be made to suffer, <race>! Find a way to bring them pain! I shall not rest until it is so...Furien had been researching ancient artifacts in the eastern regions before his death. Speak to Sorrem. Perhaps he can direct you in my brother's footsteps.",
-    "name": "Avenge Furien!",
-    "requires_level": 27,
-    "side": "horde",
-    "zone": "Desolace"
-}

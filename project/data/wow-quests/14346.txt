@@ -1,7 +1,0 @@
-{
-    "_id": "14346",
-    "description": "As you of course know, <name>, the naga remain a serious threat to the region. The time has come for us to drive them back into the sea!When you are ready, Grimfeather will take you to the crevasse where they are preparing a violent assault. Once there, use Maurin's Concoction to teach them a lesson they shall not soon forget.",
-    "name": "Cleansing Our Crevasse",
-    "requires_level": 30,
-    "zone": "Desolace"
-}

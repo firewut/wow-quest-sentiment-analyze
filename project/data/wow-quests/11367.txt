@@ -1,7 +1,0 @@
-{
-    "_id": "11367",
-    "description": "Binder Murdis created Megalith to be a kind of keystone for the runed giants and to lead them in their mission. Defeating Megalith will leave them lost and without direction. I will ask Chieftain Ashtotem to divert some of our men as we move north and dedicate them to eliminating the last of the runed giants. Without their giants, the Iron Dwarves cannot stand against us.Search the foothills of Frostblade Peak, north of Giants' Run for Megalith and defeat him!",
-    "name": "Demolishing Megalith",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

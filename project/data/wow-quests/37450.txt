@@ -1,8 +1,0 @@
-{
-    "_id": "37450",
-    "added_in_patch": 7,
-    "description": "During the fighting, of all things, I saw a blue drake swoop in and attack the demons. I couldn't believe my eyes. I'd heard that the Blue Dragonflight had gone extinct.\r\n\r\nThe Legion managed to bring the drake down, but not until after she'd killed a score of them. She was magnificent. Last I saw, they were dragging her in the direction of the southern camp.\r\n\r\nWe should see if she's still alive. A dragon could prove a powerful ally.",
-    "name": "Saving Stellagosa",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

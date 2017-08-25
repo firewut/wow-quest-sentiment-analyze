@@ -1,7 +1,0 @@
-{
-    "_id": "12716",
-    "description": "Look at this pumpkin patch! Notice anything missing? Of course you don't, because you're a moron! Your brain was probably the first thing to die.<Noth sighs.>I have been commanded to put together a plague cauldron. You will help me.Directly inside the gate of New Avalon is the inn. Enter the inn and steal an empty cauldron. Then go to the forge, also near the gate, and steal some iron chains. Bring those back to me along with 10 Crusader skulls. Do I need to tell you where to get those too?",
-    "name": "The Plaguebringer's Request",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

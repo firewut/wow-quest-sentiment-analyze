@@ -1,7 +1,0 @@
-{
-    "_id": "10808",
-    "description": "The spirits of the dark conclave seek to summon an ancient and powerful evil through a ritual conducted at the lava pits to the south of the Sketh'lon Base Camp.Gul'dan's magic mingled with their own, empowering them to aid this creature in manifesting in our world! We must not allow this to happen, <name>. The death and destruction it would bring are unimaginable!Carry the staff with you to the site of the summoning and use its magics to stop the dark conclave once and for all!",
-    "name": "Thwart the Dark Conclave",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32132",
-    "added_in_patch": 5.1,
-    "description": "Our goblin friends do not have the grasp of strategy necessary to win a long term engagement, I'm afraid.\r\n\r\nThe key to eliminating any permanent establishment is to attack their ability to replenish their troops and to rebuild.\r\n\r\nIn this case, that means taking out their Peasants. Kill them, and you weaken the foundation. The rest of the keep is bound to crumble.",
-    "name": "Worker Harassment",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

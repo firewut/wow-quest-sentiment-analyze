@@ -1,9 +1,0 @@
-{
-    "_id": "38362",
-    "added_in_patch": 7,
-    "description": "It would seem Sylvanas does not wish to be followed - by us or anyone else.Her will is her own, it is not my place to question. Only to obey.In the hills nearby, a gryphon master is preparing to take flight, no doubt to pursue our queen from the sky. My rangers are lying in wait - we need only to close our jaws around him.I will have his head when this is over.",
-    "name": "A Grim Trophy",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

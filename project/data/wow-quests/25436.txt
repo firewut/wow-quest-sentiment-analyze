@@ -1,7 +1,0 @@
-{
-    "_id": "25436",
-    "description": "Something truly disturbing has occured. While on patrol, several of my scouts were ambushed by dryads.The dryads are close allies of the night elves and guardians of the forest. I assumed they were just frightened by the sight of worgen, but the sentinels I sent out afterwards were also attacked.Whatever is going on, I don't like it. I want you to go investigate as well. If even the dryads have been corrupted...put them to the sword.",
-    "name": "Spiteful Sisters",
-    "requires_level": 38,
-    "zone": "Feralas"
-}

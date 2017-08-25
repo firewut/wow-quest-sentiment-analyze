@@ -1,8 +1,0 @@
-{
-    "_id": "32232",
-    "added_in_patch": 5.2,
-    "description": "I noticed something strange on my last scouting mission. A group of Zandalari are performing a ritual on what appears to be a very large sentry. They may be trying to re-animate it.We need that ritual stopped and the sentry destroyed. Anything that large can't be good.I've sent a scout ahead to observe their actions. Meet with her and figure out how to stop them.",
-    "name": "What's Inside Counts",
-    "requires_level": 90,
-    "zone": "Quests"
-}

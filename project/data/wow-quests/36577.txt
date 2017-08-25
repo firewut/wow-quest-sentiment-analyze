@@ -1,8 +1,0 @@
-{
-    "_id": "36577",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Flying Machine Completed",
-    "requires_level": 90,
-    "zone": "Spires of Arak"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44074",
-    "added_in_patch": 7,
-    "description": "Greetings, Archdruid. I hear that you seek the essence of tenacity.There is none more unyielding and unbreakable than a creature of stone.In Neltharion's Lair is a monster known as Rokmora. Slay him, and draw from him the essence that you need.",
-    "name": "Essence of Tenacity",
-    "requires_level": 103,
-    "zone": "Druid Campaign"
-}

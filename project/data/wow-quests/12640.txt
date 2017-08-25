@@ -1,7 +1,0 @@
-{
-    "_id": "12640",
-    "description": "Dagoda gonna be sendin' you northwest to Drak'Mabwa to get her more stuff for her defenders if she didn't already.While you up there, Ahunae be wantin' you to destroy the rifts those elementals pourin' out of. The last thing we needin' is for them to attack us!Just watch out, more of those frozen earth'll show up when you try to seal the rifts.",
-    "name": "Sealing the Rifts",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

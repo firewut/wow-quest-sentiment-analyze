@@ -1,7 +1,0 @@
-{
-    "_id": "36812",
-    "description": "",
-    "name": "Penny For Your Thoughts",
-    "requires_level": 90,
-    "zone": "Gorgrond"
-}

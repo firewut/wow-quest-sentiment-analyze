@@ -1,7 +1,0 @@
-{
-    "_id": "27760",
-    "description": "<A feminine voice addresses you over the portable terminal.>Emergency code: 55-729.Upper cerebral cortex functions in expedition members have been compromised.Please report to your nearest terminal location, to the southeast of the Sunstone Terrace, for further analysis.",
-    "name": "Artificial Intelligence",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

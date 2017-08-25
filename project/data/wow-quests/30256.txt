@@ -1,8 +1,0 @@
-{
-    "_id": "30256",
-    "added_in_patch": 5,
-    "description": "It's time for our hard work to pay off! Normally we'd have to wait a day before the crops are ready to harvest.Fortunately, those seeds Greenfield gave us were specially designed to grow FAST. The yield won't be worth much, but they're good for stepping new farmers through the process.Our cabbages should be ready to harvest. I'll let you do the honors, of course!",
-    "name": "Learn and Grow IV: Harvesting",
-    "requires_level": 85,
-    "zone": "Valley of the Four Winds"
-}

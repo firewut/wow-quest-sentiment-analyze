@@ -1,8 +1,0 @@
-{
-    "_id": "25192",
-    "description": "I will not rest until they're defeated!  Slay them all!<Raggaran catches his breath.>Their stinking lairs are to the north, or to the southwest!  ",
-    "name": "Raggaran's Fury",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Durotar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12949",
-    "description": "<Class>, the key to my shackles is hanging around the neck of Instructor Hroegar outside.Perhaps you could retrieve it by separating his head from his shoulders?",
-    "name": "Get the Key",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

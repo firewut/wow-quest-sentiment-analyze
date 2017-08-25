@@ -1,7 +1,0 @@
-{
-    "_id": "7495",
-    "description": "You have accomplished the impossible. The brood mother of the Black Dragonflight lies dead at your feet. Take her head and present it to the King Anduin Wrynn.",
-    "name": "Victory for the",
-    "requires_level": 60,
-    "zone": "Stormwind City"
-}

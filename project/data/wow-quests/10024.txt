@@ -1,7 +1,0 @@
-{
-    "_id": "10024",
-    "description": "Our leader, Voren'thal the Seer, was once a close advisor to Kael'thas.  His prophetic visions warned him that Kael's path would lead to the destruction of our race.The visions are usually vague and unfocused, but our alchemists have devised an elixir to help him focus his clairvoyance.  Unfortunately, this elixir calls for a rare ingredient: basilisk eyes.  My usual source, this pathetic ethereal, has failed me.Seek the dampscale basilisks in the rocky regions of Terokkar and bring me their eyes.",
-    "name": "Voren'thal's Visions",
-    "requires_level": 62,
-    "zone": "Shattrath City"
-}

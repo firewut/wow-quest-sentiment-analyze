@@ -1,8 +1,0 @@
-{
-    "_id": "25179",
-    "description": "You've got to help us.  The elementals... they're stronger than they look, and they come in waves.  They took us completely by surprise, and we were overcome.Many of my fellow grunts lay dying on the beach.  If you could save them... I would be grateful, as would Gar'Thok back in Razor Hill.",
-    "name": "Loss Reduction",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Durotar"
-}

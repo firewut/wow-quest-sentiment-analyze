@@ -1,8 +1,0 @@
-{
-    "_id": "43945",
-    "added_in_patch": 7,
-    "description": "You are a fast study, <class>t <name>. The elements speak through you - it is rare to have such a connection to the world.A true shaman must walk many paths. For every role, one must have the right tools at hand. Only the most powerful weapons can lead us to victory against the Legion. Perhaps it is time to seek out another?Speak with me and let us discuss your options.",
-    "name": "Expanding Your Horizons",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

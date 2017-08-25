@@ -1,7 +1,0 @@
-{
-    "_id": "11099",
-    "description": "Commander <name>, stand at attention! You are to take a battalion of Skybreakers and sack the Aldor outpost located northwest of our beloved Black Temple. With the Altar of Sha'tar destroyed, our lines of communication to our posts at Coilskar will once more be open.Go now! Use this flare gun to signal the Skybreakers for the attack!",
-    "name": "Kill Them All!",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

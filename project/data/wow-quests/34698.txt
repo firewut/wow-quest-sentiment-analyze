@@ -1,8 +1,0 @@
-{
-    "_id": "34698",
-    "added_in_patch": 6,
-    "description": "Anytime a gladiator escapes Stonemaul, they send their hardened slave hunters after us.I consider myself a capable warrior, years of surviving in an arena have taught me that.But these slave hunters keep pendants magically tethered to the slaves. With these pendants they can track us down anywhere we go, and kill us in our sleep or when our guard is down.I have no right to ask this, but can you enter Stonemaul and retrieve these pendants?",
-    "name": "Slave Hunters",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "5677",
-    "description": "As much as I'd like to show you our own special teachings of the Light, it is not our place. Your place is back in Stormwind with your own kind, <name>... for now. Believe me, I mean no offense. When you return to High Priestess Laurena in the Cathedral of Light you'll understand what I'm talking about--the time has come for your race to prepare you for the future; to separate yourself from others that follow a similar path.",
-    "name": "Arcane Feedback",
-    "requires_level": 20,
-    "zone": "Priest"
-}

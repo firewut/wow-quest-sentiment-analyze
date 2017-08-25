@@ -1,8 +1,0 @@
-{
-    "_id": "38270",
-    "added_in_patch": 6.2,
-    "description": "With this map, you have pinpointed the origin of the attacks. It is time to see who or what is behind the attacks, and if they are a possible ally.",
-    "name": "Finding the Killer",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

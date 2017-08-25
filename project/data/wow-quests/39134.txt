@@ -1,8 +1,0 @@
-{
-    "_id": "39134",
-    "added_in_patch": 7,
-    "description": "The Underking has used the Hammer of Khaz'goroth to render the mountainside into a weapon against us. The hammer is a tool for creation, not a weapon for his amusement!Even now, his crystal servant, Wrathshard, is driving these elementals out of the mountain down upon my people.We must hold the bridge against this onslaught.Enter the cave, find Wrathshard, and send him back to his master in pieces.",
-    "name": "Wrathshard",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26650",
-    "description": "I know ye just arrived here on the Crimson Veil, but I need to send ye off on another task.  The Damsel's Luck is the third ship in me fleet, moored over to the east.  Her skipper - Captain Stillwater - is no longer with us.Damn those masked hoodlums!Anyhow, Ironpatch told me about yer heroics at sea, and I be runnin' low on quality brigands.  I think yer more than capable for this new duty.Congratulations, matey.  Ye be the new captain of the Damsel's Luck.",
-    "name": "The Damsel's Luck",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

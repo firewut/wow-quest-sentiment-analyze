@@ -1,8 +1,0 @@
-{
-    "_id": "40883",
-    "added_in_patch": 7,
-    "description": "<Thalrenus looks you over.>\r\n\r\nYou are not one of them.\r\n\r\nThe Nightborne came to our gates hours after the shield over Suramar fell. We thought them friends, despite our long separation.\r\n\r\nWe were wrong.\r\n\r\nThey poured into our stronghold and began the slaughter. We were unprepared. Though we fought, we were beaten.\r\n\r\nThe keep is lost. Our leaders have perished and their corpses lay in the streets.\r\n\r\nFind them, give them their final rites.\r\n\r\nWhile you search, look for survivors. Help them if you can.",
-    "name": "Fate of the Guard",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

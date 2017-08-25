@@ -1,9 +1,0 @@
-{
-    "_id": "38342",
-    "added_in_patch": 7,
-    "description": "Well, the bridge option is out. You still got that grapple launcher handy?\r\n\r\nIt looks like we can get across from the top of that tower over there. First thing's first, though, we'll need to deal with the big ugly sitting out front.\r\n\r\nYou take point.",
-    "name": "Another Way",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

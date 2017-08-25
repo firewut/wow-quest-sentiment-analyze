@@ -1,7 +1,0 @@
-{
-    "_id": "12250",
-    "description": "We cannot allow Vordrassil to grow again.  If the furbolg regrew it once, they can do it again.Go to Grizzlemaw, in central Grizzly Hills, and obtain Vordrassil's seeds.  I will make sure they're properly disposed of.",
-    "name": "Vordrassil's Seeds",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

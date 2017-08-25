@@ -1,7 +1,0 @@
-{
-    "_id": "10444",
-    "description": "This calls for immediate action!We have someone out in the field closer to Firewing Point that I want you to speak with.  He'll have a better idea of what our next step should be.Report to Lieutenant Meridian out at the Allerian Post and apprise him of the situation.  You'll find the post to the northeast on the southern bank of the river just south of Firewing Point.Godspeed, <name>.",
-    "name": "Report to the Allerian Post",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

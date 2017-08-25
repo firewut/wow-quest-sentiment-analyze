@@ -1,8 +1,0 @@
-{
-    "_id": "27039",
-    "description": "Do you know why Mortuus appends 'nub' to your name, <name>? Because he is an incompetent sycophant that has trouble seeing through his oversized helmet. 'NUB' is your classification. You are now part of the NEW UNDERCITY BATALLION.But enough with the comedy! I sent Deathstalker Yorick on a shadow operation two days ago. Her goal was to get information on the Gilneas Liberation Front and return. Three days and no word from her.Head southwest to the Ivar Patch and look for Yorick, <name>.",
-    "name": "Dangerous Intentions",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Silverpine Forest"
-}

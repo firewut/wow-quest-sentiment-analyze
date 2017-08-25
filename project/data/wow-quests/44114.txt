@@ -1,8 +1,0 @@
-{
-    "_id": "44114",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Magistrix Vilessa",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

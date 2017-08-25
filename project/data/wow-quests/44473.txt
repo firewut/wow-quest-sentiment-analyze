@@ -1,9 +1,0 @@
-{
-    "_id": "44473",
-    "added_in_patch": 7,
-    "description": "At first I was unsure whether it was wise to allow the Illidari inside the city. But you may have just saved all our lives.You may establish a camp in the Mage Quarter. The Alliance will have need of your skills if we are to face the Legion.Make no mistake though. Should your kind give in to the fel energies you toy with, we will treat you like the demons you are becoming.",
-    "name": "A Weapon of the",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Demon Hunter"
-}

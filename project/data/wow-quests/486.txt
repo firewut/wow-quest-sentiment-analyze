@@ -1,8 +1,0 @@
-{
-    "_id": "486",
-    "description": "Now the time has come to save the Druids of the Talon. If we fail now, <name>, they will be forever lost in sleep.I shall prepare the Relics of Wakening and perform the ritual. For my work to take effect, the cursed beast responsible for this horrible situation must be slain.It was Ursal the Mauler who meddled with our brethren's calling and it is Ursal the Mauler who must now pay so they can be freed. Travel northwest on the road and find the path north into The Cleft. Ursal's den will be there.",
-    "name": "Ursal the Mauler",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

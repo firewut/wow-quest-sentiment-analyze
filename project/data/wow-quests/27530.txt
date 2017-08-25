@@ -1,7 +1,0 @@
-{
-    "_id": "27530",
-    "description": "To the south, gutless cultists are focused on a grim task: re-animating enormous hunks of flesh, to create giants known as corpsebeasts.  Luckily for us, these giants are still lifeless and weak.Take this charm - using it will place a font of holy energy on the ground.  If you can manage to place three of them near one of the corpsebeasts that the cultists are reanimating, the holy energy should overload it, destroying its body forever.",
-    "name": "The Corpsebeasts",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

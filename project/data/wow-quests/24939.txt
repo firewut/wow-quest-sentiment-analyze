@@ -1,7 +1,0 @@
-{
-    "_id": "24939",
-    "description": "We've got the hardware but not the manpower, <name>. Man one of the carronades on the shore here and take out those incoming boats! ",
-    "name": "Run Out the Guns",
-    "requires_level": 28,
-    "zone": "Southern Barrens"
-}

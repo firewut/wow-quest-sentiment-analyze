@@ -1,8 +1,0 @@
-{
-    "_id": "41197",
-    "added_in_patch": 7,
-    "description": "While you were dealing with the stray Owlkitten, I took a look around.\r\n\r\nIt seems these curious creatures have a habit of escaping their parents' watchful eyes- some are trapped across the road by a wandering Ettin. \r\n\r\nHe appears to have been.... ahem... eating them.\r\n\r\nWe can earn Yowlon's blessing by bringing his children home.",
-    "name": "You've Got to Be Kitten Me Right Meow",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

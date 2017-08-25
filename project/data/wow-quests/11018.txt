@@ -1,7 +1,0 @@
-{
-    "_id": "11018",
-    "description": "A miner!<Varkule salutes.>An orc after my own heart! That's how Varkule got his start - minin'! There ain't nothin' better than getting down and dirty in the mines, is there?Now get out there and find those nethercite deposits. Strip 'em for all their worth and bring me back the ore.",
-    "name": "Nethercite Ore",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

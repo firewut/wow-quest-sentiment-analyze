@@ -1,9 +1,0 @@
-{
-    "_id": "34124",
-    "added_in_patch": 6,
-    "description": "The Iron Horde has an army tenfold our number marching down the Thunder Pass as we speak.Durotan is amassing our forces at the mouth of the pass. He is doing what he can to mount a defense but war on this scale is not what we Frostwolves are masters of.He will need your expertise.Please, go to him.",
-    "name": "The Battle of Thunder Pass",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

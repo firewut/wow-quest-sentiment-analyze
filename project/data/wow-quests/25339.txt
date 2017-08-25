@@ -1,8 +1,0 @@
-{
-    "_id": "25339",
-    "description": "In my day, I was a seasoned hunter. There wasn't any creature around that I feared. Until...I was out in the forest, sharpening my blade after a tough battle, when I was ambushed. Harpies surrounded me, and I barely managed to drag myself to safety.Even now, I can still hear their cries echoing...I was never the same after that. But the hate boils inside of me -- I must get even, after all these years.The Northspring harpies can be found to the west of here. <name>, get my revenge. ",
-    "name": "Vengeance on the Northspring",
-    "requires_level": 34,
-    "side": "horde",
-    "zone": "Feralas"
-}

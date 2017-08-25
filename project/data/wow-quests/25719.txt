@@ -1,7 +1,0 @@
-{
-    "_id": "25719",
-    "description": "We need a way to get Wormthorn's attention.  Something to break him out of his trance.  Something that's guaranteed to work.The few types of wildlife that managed to make a foothold in the Tainted Forest are, without a doubt, affected by the land's latent energies.  Your task is to collect their body parts and find a way to combine them into a vessel.  If Wormthorn's trance is druidic, or even if it is demonic, a large enough vessel of tainted animal flesh should be able to break it.",
-    "name": "Demoniac Vessel",
-    "requires_level": 55,
-    "zone": "Blasted Lands"
-}

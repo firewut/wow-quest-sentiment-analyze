@@ -1,7 +1,0 @@
-{
-    "_id": "10929",
-    "description": "How would you like to do a little more work for the Explorers' League? These bone worms have us all quite intrigued.I've got a drum right here that you can use out in the Bone Wastes. Just bang on the damned thing and see what you get. If it's a worm, kill it and bring back the carcass for us to study. We'll need a good lot of carcasses to get a valid testing sample.",
-    "name": "Fumping",
-    "requires_level": 63,
-    "zone": "Terokkar Forest"
-}

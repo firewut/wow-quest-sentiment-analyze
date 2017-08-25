@@ -1,7 +1,0 @@
-{
-    "_id": "27517",
-    "description": "Every adventurer worth their salt knows never to step foot in a cave, dungeon, crypt or tomb without an ample supply of rope... right?You can never have too much of this stuff!You resolve to scrounging every scrap of it you can find from the skeletons here.",
-    "name": "Be Prepared",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

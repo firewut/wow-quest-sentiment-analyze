@@ -1,8 +1,0 @@
-{
-    "_id": "42605",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Ragnvald Drakeborn",
-    "requires_level": 101,
-    "zone": "Warrior Campaign"
-}

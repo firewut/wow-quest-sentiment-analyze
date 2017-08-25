@@ -1,7 +1,0 @@
-{
-    "_id": "12962",
-    "description": "A wealthy shipping concern has requested a collection of Bright Armor Relics to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.\r\n",
-    "name": "Shipment: Bright Armor Relic",
-    "requires_level": 65,
-    "zone": "Jewelcrafting"
-}

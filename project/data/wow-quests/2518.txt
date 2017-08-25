@@ -1,8 +1,0 @@
-{
-    "_id": "2518",
-    "description": "Lady Sathrah was once beloved of Elune. Graceful and pure, the spider spun her silver threads through the moonlight, catching the evening mist. The silvery dew had strong healing powers and was kept at the nearby temple.But of late, Sathrah has descended into madness. Her future generations are now threatened as well.Find Lady Sathrah, <name>, and end her suffering. She dwells northeast of here, near the river. Gather her silvery spinnerets and bring them back to me.",
-    "name": "Tears of the Moon",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

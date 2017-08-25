@@ -1,7 +1,0 @@
-{
-    "_id": "26432",
-    "description": "We've got more to deal with than just dwarves, mon. While I watch the village, my mate Primal Torntusk has gone to lead our warriors against the wicked Vilebranch tribe.They've killed our brothers, and I was even taken prisoner by them once. No more! This time, the city of Jintha'Alor falls to us.Go to Jintha'Alor and speak with my mate. She's captured a camp near the entrance to the city.",
-    "name": "The Fall of Jintha'Alor",
-    "requires_level": 31,
-    "zone": "The Hinterlands"
-}

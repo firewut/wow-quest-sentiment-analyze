@@ -1,7 +1,0 @@
-{
-    "_id": "11093",
-    "description": "Nether rays are surprisingly loyal and obedient once properly trained.  Unfortunately the war on Skettis is taking a toll on them.We have dozens of sorties a day - the poor fellows rarely get a break.  And with recent shortages on feed, if those blasted birdmen don't kill them on a mission then starvation will.If you can lend a hand, take one of our rays to the woods in the south.  They don't mind warp chaser meat as long as it's a fresh kill.",
-    "name": "Hungry Nether Rays",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

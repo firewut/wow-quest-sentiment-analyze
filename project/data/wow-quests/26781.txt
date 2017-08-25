@@ -1,7 +1,0 @@
-{
-    "_id": "26781",
-    "description": "One of the Vale's many treasures lies nearby, on OUR side of the giant whirlpool.  The Mind's Eye is held by an ogre mage, in the Mosh'Ogg ogre mound just to the northeast.  His name is Mai'Zoth.  From what I understand, he is vicious, and his magic is strong.And if he has the Mind's Eye, then his magic will be stronger still.Thus far I've been unable to get near enough to take it from him.  Will you give it a try?",
-    "name": "The Mind's Eye",
-    "requires_level": 26,
-    "zone": "Northern Stranglethorn"
-}

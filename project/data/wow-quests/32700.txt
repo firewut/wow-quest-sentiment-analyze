@@ -1,8 +1,0 @@
-{
-    "_id": "32700",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Quest Reward Summary: PvP Stage 1-5",
-    "requires_level": 90,
-    "zone": "Quests"
-}

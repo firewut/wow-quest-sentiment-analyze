@@ -1,8 +1,0 @@
-{
-    "_id": "13189",
-    "description": "You are now, and forever will be, a Knight of the Ebon Blade, <name>, but know this: you were once a hero of the Horde.<Darion stares at you.>This order must establish allies for itself if it is to survive. You must represent the Knights of the Ebon Blade to the Horde.On the platform, southeast of me, is a portal to Orgrimmar. Take this letter, given to me on your behalf by Lord Fordring, and deliver it to High Overlord Saurfang. Use the portal.",
-    "name": "Saurfang's Blessing",
-    "requires_level": 55,
-    "side": "horde",
-    "zone": "Death Knight"
-}

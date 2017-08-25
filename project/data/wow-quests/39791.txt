@@ -1,8 +1,0 @@
-{
-    "_id": "39791",
-    "added_in_patch": 7,
-    "description": "I would ask a favor, outsider.\r\n\r\nAs you step through the graves of ancient heroes, you will no doubt come across spirits of the restless dead, agitated by the Bonespeakers misdeeds. They must be returned to the earth where they are buried, so that they may be judged as well.\r\n\r\nTake this bough - it carries with it the essence of the Runewood. Channel its power into a weakened spirit, and it will return to rest.",
-    "name": "Lay Them to Rest",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

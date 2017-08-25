@@ -1,9 +1,0 @@
-{
-    "_id": "37433",
-    "added_in_patch": 6,
-    "description": "Greetings commander.Word of your exploits has made its way back to Trial Master Rotun, and he has humbly requested to see your prowess in person. Fighting in his proving grounds would be an excellent way to spread your reputation to the farthest reaches of the Alliance, and beyond.If you're interested in proving yourself, talk to me to enter Trial Master Rotun's Proving Grounds.",
-    "name": "Proving Grounds",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Proving Grounds"
-}

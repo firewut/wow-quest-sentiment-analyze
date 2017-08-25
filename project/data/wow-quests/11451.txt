@@ -1,8 +1,0 @@
-{
-    "_id": "11451",
-    "description": "Hi, I wrote a poem for my friend Caylee.  She likes to hang out with the Aldor in Shattrath City.  You know, in Outland?Could you take my poem to her?  My mommy says I'm too young to go to Shattrath City!",
-    "name": "Alicia's Poem",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Shattrath City"
-}

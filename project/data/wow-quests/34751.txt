@@ -1,9 +1,0 @@
-{
-    "_id": "34751",
-    "added_in_patch": 6,
-    "description": "You gotta help me fix this robot. I'm friggin' hungry!I built the Pleasure-Bot 8000 to locate Draenor truffles, and what does it do? It swims to this stupid island and shorts its power fluctuator.I got it hooked up to these batteries, but it ain't enough juice to jump it.Be a doll and get me the zapper sacs from the electric eels in the lake, would ya? They oughta be enough.",
-    "name": "Clear!",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

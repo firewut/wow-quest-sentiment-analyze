@@ -1,8 +1,0 @@
-{
-    "_id": "30736",
-    "added_in_patch": 5,
-    "description": "You have already defeated Kuo-Na Quillpaw. You have not yet fought her brother, Yan.He will meet you at the Pedestal of Hope, and he will not hold back. His reputation as a trainer is at stake.",
-    "name": "Yan Quillpaw",
-    "requires_level": 90,
-    "zone": "Krasarang Wilds"
-}

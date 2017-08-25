@@ -1,7 +1,0 @@
-{
-    "_id": "36806",
-    "description": "",
-    "name": "Jawless Skulker Lunker",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

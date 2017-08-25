@@ -1,8 +1,0 @@
-{
-    "_id": "31972",
-    "added_in_patch": 5,
-    "description": "I do not yet understand the plight of these creatures well enough to help them sufficiently. Perhaps another battle would strengthen our bond?",
-    "name": "Brok",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

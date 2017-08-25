@@ -1,7 +1,0 @@
-{
-    "_id": "26920",
-    "description": "Hurry, <name>... there isn't time to waste.The city of Andorhal is in the middle of a three-way war between the Forsaken, the Alliance, and the Scourge.  Lady Sylvanas has sent one of her best death knights to lead the charge for her cause, but I'm sure he can use all the help he can get.  With Arthas dead, now is the perfect time for the Forsaken to take Andorhal.Speak with the bat handler, Timothy Cunningham, when you are ready, and he will put you on the first flight out there.",
-    "name": "The Battle for Andorhal",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

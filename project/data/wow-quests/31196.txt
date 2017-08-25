@@ -1,8 +1,0 @@
-{
-    "_id": "31196",
-    "added_in_patch": 5,
-    "description": "The mantid outnumber us quite badly. Hundreds of them for each of us.\r\n\r\nAnd, they surround us on two sides - at Gao-Ran in the south we're holding them off, but to the west, on the island they call Sra'vess, they continue to mass unabated.\r\n\r\nWe're not stupid. We're not going to launch a full scale attack on them. We can't sustain an intense battle on multiple fronts.\r\n\r\nInstead, we're going to send you, and one of our Wu Kao, to do some dirty work. Sounds fun, doesn't it?",
-    "name": "Sra'vess Wetwork",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

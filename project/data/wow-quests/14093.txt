@@ -1,8 +1,0 @@
-{
-    "_id": "14093",
-    "description": "Worgen!  My father had warned me that Archmage Arugal's creations had run amok.But where are they coming from?I suppose it doesn't matter.  Help us make quick work of them.  We'll show them what we Gilneans are made of!",
-    "name": "All Hell Breaks Loose",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas City"
-}

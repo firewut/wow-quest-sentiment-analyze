@@ -1,7 +1,0 @@
-{
-    "_id": "10797",
-    "description": "A token in the form of a small statuette falls from Dorgok's dead clutch.  It bears a striking resemblance to one of the gronn.Surely, Commander Haephus Stonewall at Evergrove in the Ruuan Weald, up the ramp to the east, would be interested in this!",
-    "name": "Favor of the Gronn",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

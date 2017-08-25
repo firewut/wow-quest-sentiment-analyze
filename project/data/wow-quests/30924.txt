@@ -1,8 +1,0 @@
-{
-    "_id": "30924",
-    "added_in_patch": 5,
-    "description": "Niuzao, the Black Ox, rests in the temple to the west. He may know why the mantid are attacking.He may, in fact, know much more than that.I will rendezvous with you at Niuzao Temple, <class>.",
-    "name": "The Wisdom of Niuzao",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

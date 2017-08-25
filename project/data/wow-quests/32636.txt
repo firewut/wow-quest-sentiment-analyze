@@ -1,8 +1,0 @@
-{
-    "_id": "32636",
-    "added_in_patch": 5.2,
-    "description": "The Sunreavers will stoop to even the lowest levels to get what they want, <name>.I received reports earlier that several Kirin Tor have gone missing. I suspect the Sunreavers may have something to do with this.Hopefully they have not been harmed, or my wrath will be swift and terrible. I trust you to bring them back in one piece, but please hurry.",
-    "name": "Captive Audience",
-    "requires_level": 90,
-    "zone": "Quests"
-}

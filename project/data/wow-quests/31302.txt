@@ -1,8 +1,0 @@
-{
-    "_id": "31302",
-    "added_in_patch": 5,
-    "description": "You seem to know your way around the kitchen. Demonstrate to me your skills and make me 5 bowls of rice pudding.",
-    "name": "Ready for Greatness",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

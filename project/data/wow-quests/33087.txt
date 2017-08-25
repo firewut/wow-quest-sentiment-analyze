@@ -1,8 +1,0 @@
-{
-    "_id": "33087",
-    "added_in_patch": 5.4,
-    "description": "I'm certain you're eager to test out your new cloak. Let's put it to use.Meet me back inside the inn! A new development has come to my attention that we'll want to take advantage of.",
-    "name": "Meet Me Back at the Inn",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26499",
-    "description": "With the Stonefather taken prisoner, our forces are demoralized. Normally any one of mine could take five times his number of stone troggs. But now....I want you to head out into the field surrounding the town. Plant Stonefather Oremantle's banner near my defenders. Grant them his boon and remind them of that for which they fight.",
-    "name": "Stonefather's Boon",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

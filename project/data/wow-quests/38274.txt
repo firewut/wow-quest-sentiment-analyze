@@ -1,7 +1,0 @@
-{
-    "_id": "38274",
-    "description": "If you wish to know what Kilrogg and his new master intend, you will need his eye. After the ritual all chieftains place their eye under the protection of the ghosts of the Bleeding Hollow in the next chamber.\r\n\r\nGo and locate the Eye of Kilrogg in the vault. The other chieftains will not stand with us, and will fight you for it.\r\n\r\nThen place it on the ritual mark nearby to get your answers.",
-    "name": "The Eye of Kilrogg",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

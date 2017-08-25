@@ -1,7 +1,0 @@
-{
-    "_id": "10266",
-    "description": "While you were at the Arklon Ruins, I received a request for assistance from one of our representatives out in the field.  It would appear that the Consortium is having some 'difficulties' in trying to recover property from the blood elves, which they refuse to pay for.Please head east out of Area 52 and cross the bridge to the next island over.  You'll find my associate, Gahruj, at the Midrealm Post, just inside of Eco-Dome Midrealm.",
-    "name": "Request for Assistance",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

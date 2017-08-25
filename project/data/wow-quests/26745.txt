@@ -1,7 +1,0 @@
-{
-    "_id": "26745",
-    "description": "Your pet raptor seems to have found a new toy: a skull, from a nearby troll skull pile.What sets this skull apart from the rest is beyond you, but for some reason, she won't put it down.Osborn Obnoticus, the gnome you saved from Kurzen's Compound, is an expert in troll history and physiology.  Maybe he'll have some idea what makes this one so special.",
-    "name": "Favored Skull",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

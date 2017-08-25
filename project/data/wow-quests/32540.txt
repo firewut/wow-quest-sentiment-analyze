@@ -1,8 +1,0 @@
-{
-    "_id": "32540",
-    "added_in_patch": 5.2,
-    "description": "If you spend some time in Za'Tual, you will likely see one of their large tents emanating a pure form of evil.\r\n\r\nPlease, venture into the troll camp and put a stop to these unspeakable rituals.",
-    "name": "Harbingers of the Loa",
-    "requires_level": 90,
-    "zone": "Quests"
-}

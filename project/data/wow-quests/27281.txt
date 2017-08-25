@@ -1,7 +1,0 @@
-{
-    "_id": "27281",
-    "description": "I just received word that you are needed in Orgrimmar, <name>. Grezz Ragefist, the honored trainer of warriors in the city, has sent for you. It would not be wise to ignore such a summons.Travel quickly to Orgrimmar and the Valley of Honor where Grezz awaits your arrival.",
-    "name": "Grezz Ragefist",
-    "requires_level": 20,
-    "zone": "Warrior"
-}

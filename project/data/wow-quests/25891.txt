@@ -1,7 +1,0 @@
-{
-    "_id": "25891",
-    "description": "The Horde have signaled a retreat. Look now, they fall back from the field of battle - portends of disaster.We must make one final descent into Thal'darah Grove. I could not live with myself if any of our young druids were left behind.Assist me, hero. I will take the reins. You search for any druids that might be left behind.We will go when you are ready. ",
-    "name": "Last Ditch Effort",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

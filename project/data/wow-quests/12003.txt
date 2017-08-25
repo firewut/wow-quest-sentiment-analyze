@@ -1,7 +1,0 @@
-{
-    "_id": "12003",
-    "description": "The first place we'll search for entrances to the Thor Modan tunnel system will be the outlying buildings.As I left the site with my men, it looked like the iron dwarf defenders were taking refuge inside the buildings. Be careful as you explore them.Any tunnel entrances are likely to be toward the back of the buildings. I'm not sure what Stoutmantle thinks we're going to find down there, but I doubt the iron dwarves will make the search easy.",
-    "name": "Uncovering the Tunnels",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

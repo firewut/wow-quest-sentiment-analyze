@@ -1,8 +1,0 @@
-{
-    "_id": "38961",
-    "added_in_patch": 7,
-    "description": "In order to craft the gloves, we'll require a special item. This will be no easy task to recover it, <name>.The naga of Azsuna are said to be hard at work trying to summon a terrible creature into this world.The creature's heart holds immense energy that we can use to channel into the gloves, making them incredibly powerful.I need... I mean, we need that heart if we are to produce a suitable pair of gloves for someone of your presence.",
-    "name": "The Depraved Nightfallen",
-    "requires_level": 108,
-    "zone": "Tailoring"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12668",
-    "description": "I have something special planned for my favorite high priests. But first you get to prove yourself in laying the foundation for my revenge.You do still want to live, yes?As you have seen, my devotees are enjoying their stay here, but now it's time for them to make final restitution.Do me the smallest of favors if you would, <name>. Lure them near my soul fonts and then put an end to their existences.They taste so delicious, and their sacrifice will not go in vain, I can assure you.",
-    "name": "Foundation for Revenge",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

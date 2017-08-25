@@ -1,8 +1,0 @@
-{
-    "_id": "24523",
-    "description": "There is but one water well left to cleanse, named after the Wildmane clan.  For this well to be pure, the land must offer the teeth of a fierce predator, the prairie wolf alpha.  Find the alphas to the north, then return to me when your hunt is finished.Alphas often wander around the base of our mighty city, Thunder Bluff.",
-    "name": "Wildmane Totem",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Mulgore"
-}

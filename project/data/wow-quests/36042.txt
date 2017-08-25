@@ -1,8 +1,0 @@
-{
-    "_id": "36042",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Human Bone Chip",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

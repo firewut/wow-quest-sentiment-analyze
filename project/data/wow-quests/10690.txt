@@ -1,7 +1,0 @@
-{
-    "_id": "10690",
-    "description": "WANTED!Rema, the den mother and primary defender of the Jagged Ridge south of Thunderlord Stronghold.Find her by heading east out of town and across the bridge that traverses the Bloodmaul Ravine.  She keeps herself secluded in the tunnel at the southern edge of the ridge.Return with news of her demise to Commander Skyshadow of Sylvanaar.",
-    "name": "The Den Mother",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

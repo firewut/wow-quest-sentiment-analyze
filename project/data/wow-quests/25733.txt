@@ -1,8 +1,0 @@
-{
-    "_id": "25733",
-    "description": "Thelgen Rock's an important site here. We need to use it to study the bedrock formations an' such.Of course, it can't be that easy, so Thelgen Rock's also full of giant cave stalkers. Big as a dwarf and twice as hungry. Like I said, these fancy-lads are researchers, not warriors, so if I want them to get anything done you're gonna have to help me clear the filthy bugs out.Kill as many of the blighters as you can and I'll make it worth your while, <name>.",
-    "name": "Get Out Of Here, Stalkers",
-    "requires_level": 18,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

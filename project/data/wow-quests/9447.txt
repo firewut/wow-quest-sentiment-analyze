@@ -1,7 +1,0 @@
-{
-    "_id": "9447",
-    "description": "I've prepared a simple salve that should restore our grunts' strength with the herbs you brought me.  Take it and administer it to any debilitated grunts you see in the vicinity.  Return to me when you're done.",
-    "name": "Administering the Salve",
-    "requires_level": 60,
-    "zone": "Hellfire Peninsula"
-}

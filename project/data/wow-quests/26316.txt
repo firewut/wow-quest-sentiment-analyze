@@ -1,8 +1,0 @@
-{
-    "_id": "26316",
-    "description": "The cataclysm tore open deep caves beneath Frostmane Hold and troggs flooded out of their warrens. They succeeded in displacing the trolls who used to live there and they stand to drive us out if we do not act.High Tinker Mekkatorque hired the renowned demolitionist, Jessup McCree, to close the caves and stem the trogg advance. We've received no word about whether he was able to stop the troggs. Would you look for him at his camp near Frostmane Hold, to the south beyond the Toxic Airfield?",
-    "name": "What's Keeping Jessup?",
-    "requires_level": 2,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

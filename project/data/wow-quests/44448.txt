@@ -1,8 +1,0 @@
-{
-    "_id": "44448",
-    "added_in_patch": 7,
-    "description": "The Tears of Elune are ready for you, <name>. I am uncertain what to do from here. Take the relic back to your order hall and try to use it on Light's Heart.Maybe make them touch? Honestly your guess is as good as mine.Let's hope this works!",
-    "name": "In the House of Light and Shadow",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

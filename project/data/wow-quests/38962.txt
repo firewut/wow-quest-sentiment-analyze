@@ -1,8 +1,0 @@
-{
-    "_id": "38962",
-    "added_in_patch": 7,
-    "description": "I recall Lyndras mentioning a guild of tailors within Suramar City. Perhaps they could further our understanding of how to utilize this new cloth.Unfortunately from what I've heard, they've sided with the demons and anyone opposed to them is to be killed on sight.You must find a way to move safely within the confines of their city if we're to continue our research.",
-    "name": "The Path to Suramar City",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

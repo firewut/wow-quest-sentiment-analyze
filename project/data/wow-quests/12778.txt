@@ -1,7 +1,0 @@
-{
-    "_id": "12778",
-    "description": "The trap has been sprung, death knight. The armies of Hearthglen and Tirisfal have arrived, just in time to see their enclave in flames! If they turn back now, they fight us with their backs turned.<Mograine shakes his head.>No, they have only one option, which has only one outcome: APOCALYPSE!As we speak, they prepare to make one final stand.The Lich King awaits your return, champion. He stands watch below us, at Death's Breach.",
-    "name": "The Scarlet Apocalypse",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

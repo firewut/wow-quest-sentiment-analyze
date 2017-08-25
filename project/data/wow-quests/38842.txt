@@ -1,8 +1,0 @@
-{
-    "_id": "38842",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Faerie Fracas",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

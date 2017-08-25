@@ -1,8 +1,0 @@
-{
-    "_id": "38648",
-    "added_in_patch": 7,
-    "description": "The letter is written in midnight ink:\"A demon invasion is imminent, but as long as the fires of Black Rook Hold blaze, we shall protect kaldorei lands. Kill any intruders who stand in our way.\"- K.R.\"Perhaps Jarod Shadowsong will want to see this.",
-    "name": "Black Rook Orders",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

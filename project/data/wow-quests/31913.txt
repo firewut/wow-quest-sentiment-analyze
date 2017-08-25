@@ -1,8 +1,0 @@
-{
-    "_id": "31913",
-    "added_in_patch": 5,
-    "description": "I believe I'm figuring out the secrets of this place. Soon I will be unstoppable!",
-    "name": "Everessa",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

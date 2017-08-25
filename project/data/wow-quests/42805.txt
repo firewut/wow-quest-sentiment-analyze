@@ -1,8 +1,0 @@
-{
-    "_id": "42805",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Invasion: Hillsbrad Foothills",
-    "requires_level": 1,
-    "zone": "Hillsbrad Foothills"
-}

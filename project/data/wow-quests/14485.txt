@@ -1,7 +1,0 @@
-{
-    "_id": "14485",
-    "description": "Our best demo-man, Ticker, is on assignment with the Gob Squad. He's got WAY more than enough explosives for all the runestones in the ruins.All you have to do is get him there and keep him covered - he'll handle the rest.",
-    "name": "Ticker Required",
-    "requires_level": 12,
-    "zone": "Azshara"
-}

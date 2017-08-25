@@ -1,9 +1,0 @@
-{
-    "_id": "34791",
-    "added_in_patch": 6,
-    "description": "You set the book ablaze, but not before noting its contents. The demonic tome was dedicated to enchanting weapons with fel energy. It looked as though the goal was to ensnare the victim's soul.The Exarchs must be warned that traitors are among them! The Council should be meeting now just up the hill to the east.",
-    "name": "Warning the Exarchs",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

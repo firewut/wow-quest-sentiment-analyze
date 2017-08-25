@@ -1,8 +1,0 @@
-{
-    "_id": "40061",
-    "added_in_patch": 7,
-    "description": "As we fight the demons, we've also been studying them.Great understanding can come from gathering intel. I have a demon hunter near the Felblaze Ingress now gathering intel on the demons there.Go to her and see what she has learned from the demons invading that region.",
-    "name": "To Know Your Enemy",
-    "requires_level": 102,
-    "zone": "Inscription"
-}

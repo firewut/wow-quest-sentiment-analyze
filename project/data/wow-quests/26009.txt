@@ -1,8 +1,0 @@
-{
-    "_id": "26009",
-    "description": "The Alliance encroaches upon our territories within Stonetalon. The forces of Northwatch have broken through our blockade in the south and occupy Windshear Valley, to our west. From the northern front comes an onslaught of night elf soldiers. All must be stopped!Venture forth into Stonetalon and destroy all Alliance soldiers that cross your path. Let their deaths serve as a message.Stonetalon belongs to the Horde!",
-    "name": "Seek and Destroy",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35095",
-    "added_in_patch": 6,
-    "description": "Durotan has taken most of our forces west. He's establishing a forward base along the Skysong River.He'll want to know that we're almost ready to move against Grommashar.I'm sure he'll also appreciate your help dealing with the Warsong orcs at Lok-rath.",
-    "name": "Along the Riverside",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41626",
-    "added_in_patch": 7,
-    "description": "If you seek the Nexus, I would warn not to rush headlong. There are strange happenings in Coldarra, and it would be best to gather some information before proceeding.\r\n\r\nDuring my last visit to the Dragonblight, I sensed unusual energies from the Azure Dragonshrine. Since this place was very closely tied to Malygos' plans during the Nexus Wars, whatever is present there may explain the current state of the Nexus.\r\n\r\nI cannot accompany you, but this crystal can be used to communicate with me. Good luck.",
-    "name": "A New Threat",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

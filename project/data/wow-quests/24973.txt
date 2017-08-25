@@ -1,8 +1,0 @@
-{
-    "_id": "24973",
-    "description": "One of our greatest struggles is obtaining the natural resources we need to survive.  Gold was scarce in Lordaeron, even in the height of the Alliance's power so many years ago.There is a gold mine to the west that has been overrun with spiders.  We need gold from the mine, but we can't very well get it while the spiders are crawling around in there.  I've not much manpower to commit to the task, so we'll just have to do it little by little.Get up there and see what you can do for us, <name>.",
-    "name": "Night Web's Hollow",
-    "requires_level": 2,
-    "side": "horde",
-    "zone": "Deathknell"
-}

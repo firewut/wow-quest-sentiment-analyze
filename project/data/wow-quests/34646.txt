@@ -1,9 +1,0 @@
-{
-    "_id": "34646",
-    "added_in_patch": 6,
-    "description": "If we are to win this war we are going to need more than foot soldiers. We need champions.Qiana Moonshadow's performance in Tanaan and Eventide Landing was quite impressive.Perhaps you should speak with her about taking on a greater role in the battle against the Iron Horde.",
-    "name": "Qiana Moonshadow",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

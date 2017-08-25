@@ -1,7 +1,0 @@
-{
-    "_id": "27513",
-    "description": "<The Banshee Queen's words float in your head.>You are now ready to use the portal. Be warned, <name>, once you step through you will appear in another dimension at Ambermill. There will be a hundred, perhaps a thousand, magi waiting to kill you.You must persevere and kill all in your path.",
-    "name": "Transdimensional Warfare: Chapter II",
-    "requires_level": 14,
-    "zone": "Silverpine Forest"
-}

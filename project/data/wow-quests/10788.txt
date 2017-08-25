@@ -1,7 +1,0 @@
-{
-    "_id": "10788",
-    "description": "One of your masters, Talionia, in Silvermoon City has sent a summons for you, <name>.  I'm certain it is time you learned to summon and control a more powerful demon, so I suggest you see her at once.  I understand Talionia is found in The Sanctum, a cozy little den of evil found along Murder Row.",
-    "name": "Return to Talionia",
-    "requires_level": 10,
-    "zone": "Warlock"
-}

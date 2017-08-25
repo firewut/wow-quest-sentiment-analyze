@@ -1,7 +1,0 @@
-{
-    "_id": "25758",
-    "description": "Do you see what they're doing here? They're affixing armored plates onto the Dragonkin. A page out of Deathwing's book, I suppose.Those Twilight Juggernauts look like they'll be invincible once they're complete. There's got to be a way around that armor plating!Run out there and fetch some of the Twilight armor plates that are waiting to be installed. We'll figure out how to beat this.",
-    "name": "A Gap in Their Armor",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

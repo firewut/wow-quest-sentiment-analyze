@@ -1,7 +1,0 @@
-{
-    "_id": "5892",
-    "description": "Before the fighting started, we stored supplies for Dun Baldar in the Irondeep mine.  The troggs that surfaced there weren't much of a problem when we had spare troops to guard the mine, but now that we're fighting with the Horde we can't maintain control of Irondeep.We need the supplies in Irondeep, <name>.  Enter the mine and bring me a load of them.",
-    "name": "Irondeep Supplies",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

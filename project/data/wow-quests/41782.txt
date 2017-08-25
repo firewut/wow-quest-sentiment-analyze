@@ -1,8 +1,0 @@
-{
-    "_id": "41782",
-    "added_in_patch": 7,
-    "description": "It is said that a fragment of Ursoc's spirit, his fury and rage, remained within the claws after his death. Only those who have attained mastery of discipline have any hope of wielding them without being overwhelmed by the bear lord's fury.<Lea looks intently at you for a moment.>But you are no novice, I can see that clearly.Very well, draw water from the moonwell on the northern edge of the grove then come find me. I'll await your arrival within the broken stump of Vordrassil in Northrend.",
-    "name": "To The Hills",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

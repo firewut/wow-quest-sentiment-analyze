@@ -1,8 +1,0 @@
-{
-    "_id": "30673",
-    "added_in_patch": 5,
-    "description": "Thank the heavenly spirits for you, <class>! I don't know how much longer I could've lasted.There are other Firebough Nook survivors, I'm sure of it. Will you help rescue them and get us to the safety of Shado-Pan Fallback?",
-    "name": "Holed Up",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

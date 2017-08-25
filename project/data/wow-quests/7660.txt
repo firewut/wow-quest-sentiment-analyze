@@ -1,7 +1,0 @@
-{
-    "_id": "7660",
-    "description": "",
-    "name": "Wolf Swapping - Arctic Wolf",
-    "requires_level": 60,
-    "zone": "Quests"
-}

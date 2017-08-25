@@ -1,7 +1,0 @@
-{
-    "_id": "30107",
-    "description": "The daggers I have given you are lifeless shells. They can do great things, once they are given a means to contain the power I have in mind.I need for you to acquire Shadowy Gems for me. The facets of these unusual stones are like windows into the infinite. They are often used by minions of the Twilight's Hammer to control the most powerful of elementals.A great battle is raging around Wyrmrest Temple. Collect Elementium Gem Clusters from Deathwing's minions and bring the gems to me.",
-    "name": "Cluster Clutch",
-    "requires_level": 85,
-    "zone": "Rogue"
-}

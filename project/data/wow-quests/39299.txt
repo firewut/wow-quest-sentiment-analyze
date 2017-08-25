@@ -1,7 +1,0 @@
-{
-    "_id": "39299",
-    "description": "Ya did us a real solid today, <name>. Boss Goya says you're big stuff in dese parts and we should keep an eye on --- uh, I mean we should be good buds. She's sent a repre... repre... del-e-g... um, a Black Market person to your garrison.Go say hi and stuff, and make sure to speak loudly when you plan what you're gonna do next.",
-    "name": "Black Marketeering",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

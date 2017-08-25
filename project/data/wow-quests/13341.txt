@@ -1,7 +1,0 @@
-{
-    "_id": "13341",
-    "description": "We need more men to join the main assault on Ymirheim.Any warrior with half a brain can tell you that vrykul are fierce fighters and should not be taken lightly. That goes two-fold for the Ymirjar. They have shown no restraint in proving to us why the Lich King deemed them worthy.Ground Commander Koup is overseeing the assault. The city itself is located in the center of Icecrown - Koup's troops are positioned near the edge of the glacier, east of the city.",
-    "name": "Joining the Assault",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

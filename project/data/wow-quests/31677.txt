@@ -1,8 +1,0 @@
-{
-    "_id": "31677",
-    "added_in_patch": 5,
-    "description": "<Kil'ruk the Wind-Reaver defeated Warlord Gurthan centuries ago, but the mogu beastmaster's spirit continues to haunt the ruins of his old stronghold.Showing proof of your victory over this spirit may gain you favor in the eyes of the Klaxxi.>",
-    "name": "The Warlord's Ashes",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

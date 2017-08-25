@@ -1,7 +1,0 @@
-{
-    "_id": "25649",
-    "description": "The good news is that Minx is fluent in orcish and she's nearby. Head back into the mine and find her. She's probably deeper inside, standing around being useless.Don't forget the parchment!",
-    "name": "Minx'll Fix It",
-    "requires_level": 24,
-    "zone": "Stonetalon Mountains"
-}

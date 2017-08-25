@@ -1,9 +1,0 @@
-{
-    "_id": "34431",
-    "added_in_patch": 6,
-    "description": "The bad orcs tried to catch me, but I snuck away. I'm good at hiding.All of the bad orcs are bad, but I've remembered the names of the meanest ones, just in case anybody came to save me.<Luuka takes a deep breath.>Ungra, Gurran, and... umm... oh! Ankova.Will you protect me from them?",
-    "name": "Masters of Shadow",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Assault on the Dark Portal"
-}

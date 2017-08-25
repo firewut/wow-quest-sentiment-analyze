@@ -1,8 +1,0 @@
-{
-    "_id": "32654",
-    "added_in_patch": 5.2,
-    "description": "The time has come. Our forces are well-enough entrenched here that we can risk pressing forward, into the Thunder King's lair. Unfortunately, it doesn't look like he'll be opening that gate anytime soon.I suppose we'll have to make a gate of our own then. Let me know when you're ready, <name>.",
-    "name": "Tear Down This Wall!",
-    "requires_level": 90,
-    "zone": "Quests"
-}

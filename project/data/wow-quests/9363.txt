@@ -1,7 +1,0 @@
-{
-    "_id": "9363",
-    "description": "Go to Fairbreeze Village and notify Ranger Degolien of the Amani plans.  Even with Zul'Marosh dead, Fairbreeze must prepare for a troll attack.  Tell Degolien I will send him reinforcements as soon as possible.",
-    "name": "Warning Fairbreeze Village",
-    "requires_level": 8,
-    "zone": "Eversong Woods"
-}

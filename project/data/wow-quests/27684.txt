@@ -1,7 +1,0 @@
-{
-    "_id": "27684",
-    "description": "My sources at the Menders' Stead have informed me that we will be having some visitors soon.  A group of paladins - led by a worgen tradeswoman, of all things - will be arriving here shortly.  I look forward to meeting them.  Particularly one of them.Would you mind stopping in and checking in on them?  I can't say for sure, but by the time you get there, they should just be crossing the Thondroril River, far to the west.",
-    "name": "Visitors",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

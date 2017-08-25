@@ -1,8 +1,0 @@
-{
-    "_id": "40740",
-    "added_in_patch": 7,
-    "description": "<A powerful mind again touches your thoughts.>Gorelix the Fleshripper is a monstrous demon. The butcher of a thousand worlds, he has exterminated countless races with his axe, the Maw of the Damned.A group of Ebon Blade was dispatched to slay him but they have gone missing. You will succeed where they failed.You will not be alone in this, I've sent Baron Sliver ahead to assist you.Go, obtain the Maw of the Damned and ensure that Gorelix is no more.",
-    "name": "The Dead and the Damned",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "29803",
-    "description": "Prince Keleseth acts as Arthas' eyes and ears in the Fjord.I don't like that one bit!Go and give him a round o' pain. You'll be doing the world a favor by doing so.",
-    "name": "Ears of the Lich King",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Quests"
-}

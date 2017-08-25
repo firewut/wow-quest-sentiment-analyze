@@ -1,7 +1,0 @@
-{
-    "_id": "27937",
-    "description": "The Stonefather is waiting for you back south at Stonehearth.Make yourself presentable. You've earned a hero's welcome!",
-    "name": "The Hero Returns",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

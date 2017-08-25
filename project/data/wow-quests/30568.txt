@@ -1,8 +1,0 @@
-{
-    "_id": "30568",
-    "added_in_patch": 5,
-    "description": "Welcome back, <name>! It seems the Jinyu have taken to our training even better than I had hoped. We're in the final stages of our preparations now.I need someone to go check in with Amber, Bold Karasshi, and Mishka. See if they need any help to complete their training.You'll find Karasshi and Mishka here in Pearlfin Village. Amber is training recruits in Slingtail Pits to the northwest.",
-    "name": "Helping the Cause",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

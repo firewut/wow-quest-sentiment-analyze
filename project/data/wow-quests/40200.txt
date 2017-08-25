@@ -1,8 +1,0 @@
-{
-    "_id": "40200",
-    "added_in_patch": 7,
-    "description": "Do you like pets, <name>? I love pets. They're so cute!But what I really want is more things with which to play with them.I'm sure Lio over at the Magical Menagerie has some ideas for fun toys. You should go talk to her!",
-    "name": "Battle Bonds",
-    "requires_level": 106,
-    "zone": "Leatherworking"
-}

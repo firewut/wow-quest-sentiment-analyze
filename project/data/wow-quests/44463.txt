@@ -1,9 +1,0 @@
-{
-    "_id": "44463",
-    "added_in_patch": 7,
-    "description": "It is just as we suspected, <name>! The demons thought they could take us by surprise.Quickly, to arms! Warn the King!",
-    "name": "Demons Among Them",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Demon Hunter"
-}

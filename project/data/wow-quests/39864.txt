@@ -1,9 +1,0 @@
-{
-    "_id": "39864",
-    "added_in_patch": 7,
-    "description": "Nathanos Blightcaller, Champion of the Banshee Queen herself, sent for you in Dalaran. He made it sound urgent.The Kirin Tor have provided a permanent portal to Dalaran that you can use to travel there quickly. He should be waiting for you in the Violet Citadel.",
-    "name": "Stormheim",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

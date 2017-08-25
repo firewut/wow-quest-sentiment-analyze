@@ -1,7 +1,0 @@
-{
-    "_id": "26956",
-    "description": "<Race>!  I'm glad someone's here to help me out.We Cenarion druids have re-cultivated Dalson's Farm, immediately behind me.  The land has flourished and our crops have been successful... mostly.A few plants seem to still be infected by the plague that ran through this land.  Perhaps their roots were too deep, perhaps the seeds were weak... I cannot say.  All I can say is that I need an able <class> like you to help me remove the bad plants from the good ones.",
-    "name": "I Ain't Sayin' You a Gourd-Digger...",
-    "requires_level": 35,
-    "zone": "Western Plaguelands"
-}

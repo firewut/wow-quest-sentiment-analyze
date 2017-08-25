@@ -1,8 +1,0 @@
-{
-    "_id": "39863",
-    "added_in_patch": 7,
-    "description": "The substance you hold is something that we call \"obliterum\". We had theorized its existence, but until now, we had never actually been able to produce any.You say this came from a fire? Of COURSE! Calefaction! Why hadn't I thought of that sooner?We'll need to reproduce these results before we take any further action. I know it's asking a lot, but I'll need you to get me some more high-quality armor, in a variety of styles.",
-    "name": "Trial By Fel Fire",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9375",
-    "description": "<The battered blood elf's face displays relief at your presence.>Please, <class>, get me out of this cage! I foolishly set out from Thrallmar ahead of the main group, despite Martik Tor'seldori's warnings.I was set upon by horrible creatures that could only be the ravagers he talked about. I managed to drive them off, but that was only the beginning of my troubles.As I bound my wounds, those bird men found me, dragged me back to this cave, and locked me in this cage! I must get to Falcon Watch!",
-    "name": "The Road to Falcon Watch",
-    "requires_level": 61,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

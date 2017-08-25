@@ -1,8 +1,0 @@
-{
-    "_id": "31444",
-    "added_in_patch": 5,
-    "description": "You have fished up something special.  It looks pretty aggressive.Maybe Nat Pagle at the Anglers Wharf might know more about it?\r\n",
-    "name": "Spinefish Alpha",
-    "requires_level": 85,
-    "zone": "Fishing"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43275",
-    "added_in_patch": 7,
-    "description": "Our recruiting efforts have paid off. Grand Anchorite Gesslar has pledged his service to our order.He has an eye for greatness, and can easily spot a recruit with potential. He takes those selected under his wing, and shapes them into worthy allies.Speak to him now and train a troop of acolytes.",
-    "name": "Recruiting the Troops",
-    "requires_level": 101,
-    "zone": "Priest Campaign"
-}

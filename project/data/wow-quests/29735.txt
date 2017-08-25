@@ -1,7 +1,0 @@
-{
-    "_id": "29735",
-    "description": "",
-    "name": "Stonebrand the Elder",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

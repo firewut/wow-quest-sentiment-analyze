@@ -1,7 +1,0 @@
-{
-    "_id": "37323",
-    "description": "The client wants a pair of silver earrings, set with blue crystals to match her eyes. The metal work is simple enough, but I don't know how to create such a shade of taladite.",
-    "name": "Jewelcrafting Special Order:  Blue the Shade of Sky and Sea",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

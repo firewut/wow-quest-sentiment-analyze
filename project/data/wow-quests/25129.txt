@@ -1,8 +1,0 @@
-{
-    "_id": "25129",
-    "description": "<Class>! I thought I would die out here with none to know of it. While I was hunting the scorpids of the Valley, I came across a particularly vicious-looking one. Hurling myself at it, I managed to inflict a massive blow to its claw before it closed around my leg.I wasn't ready for its stinger though, and it sliced down and into my chest, cutting into my flesh and letting my blood. Please, you must kill the scorpid for me! My honor must be upheld! I fought it up on the plateau to the south.",
-    "name": "Sarkoth",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Valley of Trials"
-}

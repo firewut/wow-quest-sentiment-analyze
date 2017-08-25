@@ -1,8 +1,0 @@
-{
-    "_id": "37816",
-    "description": "We be havin' a problem, commander.We been sendin' some small boats into the Tanaan Channel north of da Umbrafen in Shadowmoon ta spy on da Alliance base der as well as da Iron Horde in Tanaan Jungle.Da problem is dat every boat we send out come back in pieces, if it come back at all. We think a water elemental called Undertow is da culprit.I know you be busy, but destroyin' that creature would be very helpful to our efforts.",
-    "name": "Death to Undertow!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11096",
-    "description": "So you want to join the Skyguard?  Well, I know you can fly... but can you fight?The Skyguard is sworn to protect Shattrath from the dangers that loom above us, both near and far.  The Gordunni ogres who dwell in the Barrier Hills to the north are an immediate threat to us.Reaching the ogres has been problematic for Shattrath's ground units.  That's where we come in.  See what you can do to help contain them.",
-    "name": "Threat from Above",
-    "requires_level": 70,
-    "zone": "Shattrath City"
-}

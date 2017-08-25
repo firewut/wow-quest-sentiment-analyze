@@ -1,7 +1,0 @@
-{
-    "_id": "25707",
-    "description": "The Rockpool tadpoles left upon this crate appear tired, scared, and nearly dried out.  They need to be taken to the water, and quickly.Perhaps if you can drag this crate across the beach and into the Forbidden Sea, far off the coast of the Red Reaches, then they will have a chance of escaping, and the Rockpool murlocs may live on...",
-    "name": "The Future of the Rockpool",
-    "requires_level": 55,
-    "zone": "Blasted Lands"
-}

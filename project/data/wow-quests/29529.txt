@@ -1,8 +1,0 @@
-{
-    "_id": "29529",
-    "description": "One of our scouts spotted what he thought was an agent of the Burning Legion somewhere in the ramparts. If that is true, then Honor Hold may be in grave danger of a combined assault!If you find this fiend in there, kill it on sight.",
-    "name": "Demons in the Citadel",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Quests"
-}

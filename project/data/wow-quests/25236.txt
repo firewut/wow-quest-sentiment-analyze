@@ -1,8 +1,0 @@
-{
-    "_id": "25236",
-    "description": "Our army needs water, and luckily the elements gave us plenty of that when the cataclysm hit.  The water that filled up the canyon to the southwest should do the trick.Unfortunately, the corpses of thunder lizards still sit at the bottom of the canyon, and their electrical discharges are a bit too dangerous.  I've got grunts that can lift them out of the water, but we need someone agile enough to attach the other end of the rope.  Are you my  man, <name>?",
-    "name": "Thunder Down Under",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Durotar"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32234",
-    "added_in_patch": 5.2,
-    "description": "The Zandalari here practice a different kind of magic. We must understand it before we can defeat it, <class>.Their control over the arcane and shadow is impressive. I wish to learn how they have achieved what so many others have not.I believe their ritual artifacts may hold the answers I seek. Bring me a sampling of the artifacts you find, and I will ensure you are rewarded properly.",
-    "name": "Knowledge Is Power",
-    "requires_level": 90,
-    "zone": "Quests"
-}

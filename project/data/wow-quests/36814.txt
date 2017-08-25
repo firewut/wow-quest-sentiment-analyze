@@ -1,8 +1,0 @@
-{
-    "_id": "36814",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Assault on the Everbloom Wilds",
-    "requires_level": 100,
-    "zone": "Quests"
-}

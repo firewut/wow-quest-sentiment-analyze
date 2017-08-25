@@ -1,7 +1,0 @@
-{
-    "_id": "195",
-    "description": "It is time to step up the challenge.  Venturing into the jungle and bagging 10 lashtail raptors should be sufficient.  They will certainly be stronger than the raptors you have already disposed of.The lashtail raptors mainly stay southeast of here, near the Kal'ai Ruins.",
-    "name": "Raptor Stalking",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

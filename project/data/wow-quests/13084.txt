@@ -1,7 +1,0 @@
-{
-    "_id": "13084",
-    "description": "Let us see if we can further weaken the resolve of the vrykul, <name>.Each day I wish you to travel to Jotunheim and put their banners to the torch. It may seem a trivial thing, but to see their ancestral home vandalized on a daily basis will demoralize them more than any physical punishment you can inflict.At least... it can't hurt.",
-    "name": "Vandalizing Jotunheim",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

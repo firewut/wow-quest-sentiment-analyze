@@ -1,7 +1,0 @@
-{
-    "_id": "10125",
-    "description": "Directly east of here is the Legion Front. The front acts as a mobile command station for the Burning Legion. Jutting out of the ground you'll see Legion antennas. The Legion uses these to communicate with their forge camps throughout Outland. They also serve as wards to scramble Legion transmissions, making magical surveillance impossible.I want you to take these explosives and use them to obliterate the antennas. Get all of them, <name>. They run south to north on the border of the Legion Front.",
-    "name": "Mission: Disrupt Communications",
-    "requires_level": 58,
-    "zone": "Hellfire Peninsula"
-}

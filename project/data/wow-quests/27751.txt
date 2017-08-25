@@ -1,7 +1,0 @@
-{
-    "_id": "27751",
-    "description": "Since my people first claimed the Highlands, the Wildhammer dwarves have been our persistent foe. We fought them in Grim Batol, we fought them in the Wetlands, and even now open warfare rages to our north, across the river, amidst the Thundermar Ruins.Prove your valor to me. Seek out and crush Wildhammer Warbrands. The best among them carry insignias - my warriors collect them by the dozen.Can you?",
-    "name": "Crushing the Wildhammer",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

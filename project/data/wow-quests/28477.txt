@@ -1,7 +1,0 @@
-{
-    "_id": "28477",
-    "description": "Our enemies be plottin' against us in the halls of Blackrock Depths. The Twilight's Hammer cultists, they be busy preaching and handin' out books to the Dark Irons, tellin' them that it's time for war. Wit' a Dark Iron army at their backs, the Twilight's Hammer be a formidable force. We must put an end to the agitation!I be wantin' you to go into Domicile of Blackrock Depths and use this torch to burn those Twilight's Hammer books!",
-    "name": "Twilight Scheming",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

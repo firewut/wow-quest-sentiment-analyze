@@ -1,8 +1,0 @@
-{
-    "_id": "31486",
-    "added_in_patch": 5,
-    "description": "I'm so glad you enjoy my food. Are you interested in the recipes?  If so, you should learn them properly, from my teachers in Halfhill Market.  Everything I know about the kitchen, I learned from them.Say, if you happen to pass through there, would you deliver this note to Sungshin Ironpaw for me? She was my favorite teacher, and I want her to know that I miss her.",
-    "name": "Everything I Know About Cooking",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

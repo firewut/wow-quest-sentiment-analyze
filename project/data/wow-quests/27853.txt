@@ -1,7 +1,0 @@
-{
-    "_id": "27853",
-    "description": "We are outnumbered by the Alliance. In their fear they send an army to crush a single settlement. But we will not give!Without resources, their soldiers will be at a disadvantage. Human peasants busy themselves in the woods outside Marshtide Watch, gathering lumber to rebuild their crumbling walls.Deny them the wood, and their lives.",
-    "name": "Lumbering Oafs",
-    "requires_level": 52,
-    "zone": "Swamp of Sorrows"
-}

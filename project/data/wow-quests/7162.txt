@@ -1,7 +1,0 @@
-{
-    "_id": "7162",
-    "description": "You've arrived just in time, <class>. These Frostwolf savages just won't give up! We must show them the might of the Stormpike. They must bow to our superiority.Before you make your way to the field of battle, you will want to join the rank of Stormpike.Southwest of Dun Baldar, you will find the Icewing Caverns. Planted deep within the caverns is a Stormpike Banner. Venture forth and recover that banner. Return it to me, and you will have earned a Stormpike initiate's insignia.",
-    "name": "Proving Grounds",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

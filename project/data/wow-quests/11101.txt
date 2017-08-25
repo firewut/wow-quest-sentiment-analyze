@@ -1,7 +1,0 @@
-{
-    "_id": "11101",
-    "description": "Take these Aldor medals. Mor'ghor will need proof of \"victory\" once this is over. He will recognize them as coming from the corpses of fallen Aldor soldiers.Now all that remains is to use the signal flare to alert the Dragonmaw raiders. We will crush them when you are ready. Just give me the word.",
-    "name": "The Deadliest Trap Ever Laid",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

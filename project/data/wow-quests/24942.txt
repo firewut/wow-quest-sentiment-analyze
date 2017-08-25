@@ -1,8 +1,0 @@
-{
-    "_id": "24942",
-    "description": "Those zombies that got past us are nothing compared to the numbers waiting just through the pass. If we don't deal with them soon, the pygmy witch doctors are going to send all of them against the town, and even the cannons down there won't be able to handle that many!I brought a couple of shredder boots along. Greely modded them and now they're Super Booster Rocket Boots!Use the boots to incinerate the zombies in the Oostan villages to the east.",
-    "name": "Zombies vs. Super Booster Rocket Boots",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "12084",
-    "description": "I'm convinced that there must be more of those foci, each of them in-turn redirecting the ley line energies. We still don't know precisely what they're doing with all of that power, though.My guess is that you'll find another one atop the Lothalor Woodlands to the south. Once again you'll need to find the person in charge and take whatever controlling device they have in their possession as I'm sure that each focus has its own.Be quick about your business, <class>. I feel that time may be running out.",
-    "name": "Atop the Woodlands",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

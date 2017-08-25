@@ -1,8 +1,0 @@
-{
-    "_id": "43434",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Fathnyr",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

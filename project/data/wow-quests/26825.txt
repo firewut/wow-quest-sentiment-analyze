@@ -1,7 +1,0 @@
-{
-    "_id": "26825",
-    "description": "Hey - you must be that  fella' that Wulfred was talkin' about!  The one who found the ogre artifact, and helped him test out those strange stones from up north.  Welcome to the digsite, <name>!We were actually working on identifying those samples right as you got here.  Would you mind bringing the sample over to Dask?  I need him to help me find out how old it is.",
-    "name": "Dask \"The Flask\" Gobfizzle",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

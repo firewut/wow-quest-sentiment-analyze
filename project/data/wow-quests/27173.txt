@@ -1,8 +1,0 @@
-{
-    "_id": "27173",
-    "description": "I told Commander Valorfist that we could hold our own, and we intend to.  I had a little conversation with the death knight general, Thassarian, on my way over here.  We farmers plan to help in our own way.We will take control of this farm, begin to cultivate the land... and then when the battle for Andorhal commences, we will attack the Forsaken from the rear.  They'll never expect it.First, we need to get rid of these Forsaken outriders.  Kill some, then return to me.",
-    "name": "This Is Our Army",
-    "requires_level": 34,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

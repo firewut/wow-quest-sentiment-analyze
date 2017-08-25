@@ -1,8 +1,0 @@
-{
-    "_id": "9866",
-    "description": "Will you do me one last honor, <name>? I do not wish to return to Garadar. I believe that my destiny lies elsewhere - that I will serve a greater purpose someday.Please, return to Farseer Corhuk and tell him that I will not be returning. That I cannot return. I must walk the earth... He will understand.",
-    "name": "He Will Walk The Earth...",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

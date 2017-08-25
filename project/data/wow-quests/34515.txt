@@ -1,8 +1,0 @@
-{
-    "_id": "34515",
-    "added_in_patch": 6,
-    "description": "We never even saw the ambush coming...The saberon hit us so hard and fast we barely had time to think.Those overgrown mongrels dragged the others away and left me here for dead...they probably thought I was too close to dying.I hear they like their meat fresh...<cough>....well I ain't going down that easy!Don't worry about me...<cough>...I've been through worse! You're gonna have to go to Sabermaw and get the other merchants out though.They've probably got 'em all caged up in there...",
-    "name": "Gobnapped",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

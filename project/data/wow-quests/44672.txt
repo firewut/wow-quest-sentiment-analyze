@@ -1,8 +1,0 @@
-{
-    "_id": "44672",
-    "added_in_patch": 7,
-    "description": "Without the Nightwell to feed upon, my comrades and I will have to live off the land itself.Ancient mana from the underground leylines can reach the surface in many forms, most commonly as crystals or gems.<Thalyssra picks up a small stone and, whispering words of power, traces a rune upon it with her fingertip.>This stone will glow when ancient mana is nearby. Please gather as much as possible! It will be a precious resource in the weeks to come.",
-    "name": "Ancient Mana",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

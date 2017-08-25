@@ -1,7 +1,0 @@
-{
-    "_id": "13602",
-    "description": "There is evil lurking on the coast to the west.The Zoram Strand is the resting place of the doomed city of Zoram, destroyed during the Sundering and submerged beneath the seas. It has been lost to the night elves for ages. Lost, and nearly forgotten.Now, the naga have returned, and for what reason we do not know. But reason matters little; we must slay these fiends and throw them back to the depths!",
-    "name": "Naga of the Strand",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

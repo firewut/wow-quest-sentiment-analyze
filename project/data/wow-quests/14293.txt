@@ -1,8 +1,0 @@
-{
-    "_id": "14293",
-    "description": "All these years after the war and Crowley was still hiding enough firepower in that cellar to level half of the district.It might have to come to that, unfortunately.We can't open fire just yet, there is a civilian trapped on the other side of the prison.Not just any civilian, either.  Krennan Aranas is one of the most brilliant alchemists this world has known.One of his potions saved my daughter, Tess, from dying soon after being born.Take my horse and rescue him.  Krennan must live.",
-    "name": "Save Krennan Aranas",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas City"
-}

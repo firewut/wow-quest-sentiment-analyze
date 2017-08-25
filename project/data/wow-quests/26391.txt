@@ -1,7 +1,0 @@
-{
-    "_id": "26391",
-    "description": "Times like these make me long for when the Defias were still around. The cataclysm has opened a pathway from the Burning Steppes and now Blackrock orcs pour into Northshire Valley! They have taken over my vineyard and are burning it to the ground! TO THE GROUND!Please, <name>, that vineyard is all I have. Take my fire extinguisher and extinguish the flames at the vineyard. There still might be hope for that land!",
-    "name": "Extinguishing Hope",
-    "requires_level": 2,
-    "zone": "Elwynn Forest"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36434",
-    "added_in_patch": 6,
-    "description": "<Durotan looks at you curiously.>\r\n\r\nThose from your world are not much for subtlety, are they?\r\n\r\nGo on ahead and greet our new companion. We will join you as soon as we can make ready.",
-    "name": "Penny From Heaven",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

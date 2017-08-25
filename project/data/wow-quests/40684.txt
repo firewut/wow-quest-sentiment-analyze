@@ -1,8 +1,0 @@
-{
-    "_id": "40684",
-    "added_in_patch": 7,
-    "description": "The book you carry is the key to your friends' salvation, and to your absolute power! It holds within information about many relics too dangerous to the Legion to leave unchecked.\r\n\r\nRead, friend. And decide which of these artifacts you will use to strike Jagganoth down!",
-    "name": "The Tome of Blighted Implements",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41709",
-    "added_in_patch": 7,
-    "description": "You did well against that sea witch, but not well enough.Her power far surpasses any creature that I have ever fought. To defeat her, we will need something formidable. Something that she will not expect...<Toryl grins wryly.>Something of their own design... Salvage as many parts from their harpoon launchers as you can carry and meet me back in Jandvik.",
-    "name": "Breaking Down the Big Guns",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

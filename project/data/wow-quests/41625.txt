@@ -1,8 +1,0 @@
-{
-    "_id": "41625",
-    "added_in_patch": 7,
-    "description": "Light's Wrath... a bold choice. Though if you believe you can control its energies, it could prove vital to our cause.\r\n\r\nRetrieving it won't be easy. It was last held by the Kirin Tor, who, fearing its unbridled power, handed it to the blue dragonflight to secure away from the hands of men. Only they would know exactly where it was taken, or how to retrieve it.\r\n\r\nThe dragon Kalec may be our best chance. He now resides upon the Council of Six in Dalaran. Seek him, and your answers, there.",
-    "name": "The Light's Wrath",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

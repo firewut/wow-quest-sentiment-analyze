@@ -1,8 +1,0 @@
-{
-    "_id": "29713",
-    "added_in_patch": 5,
-    "description": "The Sky Shark has been totally destroyed.With Alliance forces about, standard protocol requires the destruction of any sensitive technologies. These solenoids most certainly fall under that category.The Horde's directives are clear, round up the solenoids for destruction.",
-    "name": "Standard Protocol",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

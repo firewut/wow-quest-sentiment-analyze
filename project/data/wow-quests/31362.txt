@@ -1,8 +1,0 @@
-{
-    "_id": "31362",
-    "added_in_patch": 5,
-    "description": "I must say, <name>, despite their skirmishes with the hozen, I've never seen the jinyu so militant.This troubles me. We must discuss it another time, however. I have come to ask for your assistance.The fresco, where last we spoke, is nearly unveiled. I am certain that it holds ancient wisdom - knowledge that the emperor would have us remember.My meditations alone may not be enough to discern its meaning. Please, take this heirloom to the shrine of my ancestors. I shall require their assistance.\r\n\r\n",
-    "name": "Last Piece of the Puzzle",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

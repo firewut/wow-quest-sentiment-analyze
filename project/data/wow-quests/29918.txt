@@ -1,8 +1,0 @@
-{
-    "_id": "29918",
-    "added_in_patch": 5,
-    "description": "<Master Shang speaks to his shepherd boy.>Francis, you need to show bravery! You have everything it takes to make a great shepherd, except the courage to face your fears!<He looks over to you.>You, stranger. You helped the rest of my family. Francis is like a second son to me.Show my apprentice what it means to lack fear. Use this rope to lasso and defeat one of the great white hawks above us.<Shang points to the sky, looks at Francis, and leaves.>",
-    "name": "A Lesson in Bravery",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

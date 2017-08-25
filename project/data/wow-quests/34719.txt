@@ -1,9 +1,0 @@
-{
-    "_id": "34719",
-    "added_in_patch": 6,
-    "description": "When they captured me, the Warsong took my hammer. Will you help me to recover it?I ask only because it's a holy relic. It should be taken from these orc dogs for no other reason than to return it to Auchindoun.Perhaps then, a worthy vindicator of the Light will take it up to smite the enemies of the draenei.",
-    "name": "... and My Hammer",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

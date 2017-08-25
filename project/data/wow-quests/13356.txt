@@ -1,7 +1,0 @@
-{
-    "_id": "13356",
-    "description": "This should do the trick!Those twisted hooligans are looking for souls to put in their crazy-juice? Then I say we help 'em out a bit!Take a swig of this - don't worry, I've diluted it plenty... Its only effect will be to detect any cultist's essence once you've defeated them.When you've collected a bunch of essences, throw the writhing mass of twisted souls into any of their cauldrons.Let's see how they like a taste of their own medicine!",
-    "name": "Retest Now",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

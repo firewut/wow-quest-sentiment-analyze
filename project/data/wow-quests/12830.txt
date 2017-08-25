@@ -1,7 +1,0 @@
-{
-    "_id": "12830",
-    "description": "We're moving in!There were some snobolds here when we arrived... their mining operation seems to have met some unfortunate happenings though. Doesn't much matter - we were taking over soon anyway.I sent some of our miners in there to get me some ore samples that I can use to calibrate our machines for processing, but they haven't come back.Mind going in there and nabbing some samples for me in their stead? The snobolds probably have some on them, though I'd expect most of them are dead by now.",
-    "name": "Ore Repossession",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

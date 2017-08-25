@@ -1,7 +1,0 @@
-{
-    "_id": "12579",
-    "description": "I've always suspected that the pillars have been the main reason for our weather and seclusion from the undead... this confirms it a bit.Not terribly long ago, there was a sound of a great explosion when the Lifeblood Pillar fell. The weather changed for the mosswalkers almost immediately... it began to snow, something we never see.They were able to stop the snow by bringing more lifeblood crystals to the Great Moss Stone. Perhaps if we can do the same, it will help ward off the undead as well.",
-    "name": "Lifeblood of the Mosswalker Shrine",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

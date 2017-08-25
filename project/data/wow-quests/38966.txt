@@ -1,8 +1,0 @@
-{
-    "_id": "38966",
-    "added_in_patch": 7,
-    "description": "Okay, done mourning! Let's look through his stuff.<Tanithria takes a moment to leaf through Lyndras' journal. Her eyes open wide.>Our friend has been keeping secrets from us. Look at this! Every single one of the recipes he's taught us can be improved.Let's start simple, with some bracers. I can supply most of the materials, but you'll have to talk to Alard Schmied in the blacksmithing shop to get this powdered brimstone.",
-    "name": "Secret Silkweaving Methods",
-    "requires_level": 110,
-    "zone": "Tailoring"
-}

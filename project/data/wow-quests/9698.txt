@@ -1,7 +1,0 @@
-{
-    "_id": "9698",
-    "description": "I need you to deliver the translated documents to Velen personally, <name>. I don't trust that deranged messenger.Explain to the Prophet that the blood elves are receiving reinforcements from the Outland and that they have a spy amongst the draenei at the Exodar. Velen resides in the Vault of Lights inside the Exodar.Make haste!\r\n",
-    "name": "Audience with the Prophet",
-    "requires_level": 14,
-    "zone": "Bloodmyst Isle"
-}

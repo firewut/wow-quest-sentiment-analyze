@@ -1,7 +1,0 @@
-{
-    "_id": "25336",
-    "description": "Master Uzer'i's taught me in the ways of making spirit weapons of great power. I'll help you set on the path to make some, and you'll give me the chance to practice my craft.This vessel can shrink and trap a defeated creature inside of it. We'll need the muisek of beasts first; ironfur bears and longtooth wolves. Kill them, and use the muisek vessel to shrink and capture them before their spirits can escape.",
-    "name": "Testing the Vessel",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

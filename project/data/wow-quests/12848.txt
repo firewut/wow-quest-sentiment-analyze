@@ -1,7 +1,0 @@
-{
-    "_id": "12848",
-    "description": "The endless hunger will soon take hold of you, <class>. When it does, you will feel pain immeasurable. There is only one remedy for the suffering: the hunger must be sated.I give you the key to your salvation.Chained to the Heart of Acherus are those deemed unworthy of the dark brotherhood. Use the key to free an unworthy initiate. Allow them to equip their gear and battle you for their freedom. Kill and the pain will cease. Fail and suffer for eternity.Live or die - the choice is yours to make.",
-    "name": "The Endless Hunger",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

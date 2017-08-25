@@ -1,8 +1,0 @@
-{
-    "_id": "39848",
-    "added_in_patch": 7,
-    "description": "It looks like your friend didn't make it. A pity, but we must move on.\r\n\r\nYou'll want to plead our case to Helya. She is the ruler here. I would accompany you, but I'm afraid I wouldn't help your case.\r\n\r\nMeet me when you are finished. I will see if I can find the whereabouts of my shieldmaidens.",
-    "name": "A Desperate Bargain",
-    "requires_level": 98,
-    "zone": "Quests"
-}

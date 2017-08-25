@@ -1,8 +1,0 @@
-{
-    "_id": "2",
-    "description": "The mighty hippogryph Sharptalon has been slain, with the claw of the felled beast serving as a testament to your victory.Senani Thunderheart at the Silverwind Refuge will no doubt be interested in seeing this trophy as proof of your deeds.",
-    "name": "Sharptalon's Claw",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

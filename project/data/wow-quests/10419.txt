@@ -1,7 +1,0 @@
-{
-    "_id": "10419",
-    "description": "",
-    "name": "Arcane Tomes",
-    "requires_level": 64,
-    "zone": "Shattrath City"
-}

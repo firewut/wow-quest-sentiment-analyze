@@ -1,9 +1,0 @@
-{
-    "_id": "35167",
-    "added_in_patch": 6,
-    "description": "Hey,  mister, could you help me?There's this girl I know. Her name's Olgra. Her and her parents went back to Wor'var yesterday. Only, they never got there and no one's seen them.If you're heading back out, would you look for her?She's kinda my girlfriend.",
-    "name": "Lost in Nagrand",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11623",
-    "description": "The leader of the mage hunter forces is a fearsome creature called Curator Insivius. My people have hunted the beasts of the seas and land for countless generations, but I've never seen anything like this curator before.He's landed one of those flying disks on the upper rim of the quarry and oversees the operation from there. <name>, I can only believe the ancestors themselves sent you to my rescue and I hope you will help me drive the mage hunters from this quarry once and for all.",
-    "name": "A Visit to the Curator",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

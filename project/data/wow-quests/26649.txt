@@ -1,7 +1,0 @@
-{
-    "_id": "26649",
-    "description": "Now that you know how to handle our cannons, it's time to hit some real targets!The Venture Company has found gold to the north of here... a rare type they call \"Black Gold\".  More like a Black Spot if you ask me.We're going to take that gold, but first, we need to get rid of those Venture Company goons.  I've got an oarsman who will take you out there.  Head off the ship down the gangplank and speak with him on the islet's northern shore.",
-    "name": "Drive-By Piracy",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

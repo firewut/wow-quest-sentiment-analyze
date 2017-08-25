@@ -1,8 +1,0 @@
-{
-    "_id": "30779",
-    "added_in_patch": 5,
-    "description": "The rotting corpses are attracting hyena scavengers.In addition to spreading diseases from feeding on the dead, the feral creatures will attack us on sight.Go and eradicate the beasts. It is unfortunate, but ultimately for the best.",
-    "name": "Slaying the Scavengers",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "28716",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to the throne room in Stormwind Keep.King Wrynn requires a trustworthy and proven hero for a mission of the utmost importance.Stormwind Keep can be found in the eastern portion of Stormwind City.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Twilight Highlands!",
-    "requires_level": 84,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

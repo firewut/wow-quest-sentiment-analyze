@@ -1,8 +1,0 @@
-{
-    "_id": "41780",
-    "added_in_patch": 7,
-    "description": "Doom curses are serious business, so much so that many warlocks didn't deal in them for some time. \r\n\r\nThe magic grows stronger as time goes on, eventually leading to death. Only the caster of the curse can remove it.\r\n\r\nI can craft an elixir that will slow its progression, but you'll need to collect an assortment of ingredients first.",
-    "name": "Doom and Gloom",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

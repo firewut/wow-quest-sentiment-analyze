@@ -1,7 +1,0 @@
-{
-    "_id": "9803",
-    "description": "The time has come for us to embrace the Feralfen and teach them that the Light has not forsaken them. Take the potion I've prepared and carry it with you to the Boha'mu Ruins.Once you arrive at the ruins, drink the potion to assume the form of one of their bird spirits. Speak with Elder Kuruti and let him know the draenei are ready to welcome his people as our long lost brothers.",
-    "name": "Messenger to the Feralfen",
-    "requires_level": 60,
-    "zone": "Zangarmarsh"
-}

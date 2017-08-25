@@ -1,8 +1,0 @@
-{
-    "_id": "39875",
-    "added_in_patch": 7,
-    "description": "As you can see, <name>, we're hard at work producing enchants for the battle against the Legion. Since you're here, we could really use your help wrapping up one of our orders.If you could, acquire some vellums and start enchanting them with Versatility. Here, I'll teach you the formula.",
-    "name": "The Last Few",
-    "requires_level": 100,
-    "zone": "Enchanting"
-}

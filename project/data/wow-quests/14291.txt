@@ -1,8 +1,0 @@
-{
-    "_id": "14291",
-    "description": "I've taught you all that is practical for now.It is time we joined with the other survivors.  The others mentioned that King Greymane and his royal guard are just south of here.We should go there and seek safety in numbers.",
-    "name": "Safety in Numbers",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

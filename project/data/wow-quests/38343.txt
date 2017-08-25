@@ -1,8 +1,0 @@
-{
-    "_id": "38343",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Raze Hel",
-    "requires_level": 98,
-    "zone": "Quests"
-}

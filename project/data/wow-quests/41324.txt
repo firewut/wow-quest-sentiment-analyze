@@ -1,8 +1,0 @@
-{
-    "_id": "41324",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Silky Prowler Fur",
-    "requires_level": 110,
-    "zone": "Mining"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38710",
-    "added_in_patch": 7,
-    "description": "A critical decision must be made, <name>.The Legion devastated our forces at the Broken Shore. The mightiest army this world has ever known was reduced to cinders in moments.We must gather those with the conviction to save our home. Travard of Tyr's Guard and Orik Trueheart have each made plans to do just that, but we must not let them walk alone.I ask that you seek them out and guide them to Krasus' Landing so that we may make this decision together.",
-    "name": "An Urgent Gathering",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34512",
-    "added_in_patch": 6,
-    "description": "These saberon freaks have cost me a lot of money, <class>.I'm not one to forgive a debt and it's time to collect!The saberon that have been causing us the most trouble are the ones living in Sabermaw. They keep ambushing our trade shipments along the road.<Pyxni grins.>It's time to declaw the competition. Bring me their claws; we'll sell the best ones as good luck charms here at the arena.If the claw sales don't cover their debt, we'll just have to charge them an arm and a leg too!",
-    "name": "Declawing The Competition",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

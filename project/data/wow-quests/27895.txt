@@ -1,7 +1,0 @@
-{
-    "_id": "27895",
-    "description": "The black dragonflight means business.  As you've probably already noticed, they've taken over a large portion of New Kargath.  These troops are under the command of General Jirakka and his champion, Moldarr.  They must be stopped.",
-    "name": "Their Hunt Continues",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

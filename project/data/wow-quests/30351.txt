@@ -1,8 +1,0 @@
-{
-    "_id": "30351",
-    "added_in_patch": 5,
-    "description": "The mogu really like their poisons and curses. Mama Bramblestaff always said lotus tea cures any mogu curse.I saw some imperial lotus plants in the nearby Ruins of Dojan. We should go gather some of their leaves and keep them on hand just in case the mogu get unruly.Also, this will give me a chance to introduce my fists to some mogu faces.",
-    "name": "Lotus Tea",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44417",
-    "added_in_patch": 7,
-    "description": "Two is good, but three would be better. You should pursue another artifact to add to your armory.\r\n\r\nWhat say you?",
-    "name": "One More Legend",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

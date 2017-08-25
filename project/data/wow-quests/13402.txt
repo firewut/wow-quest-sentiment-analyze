@@ -1,7 +1,0 @@
-{
-    "_id": "13402",
-    "description": "It's not the first time I've heard that story about Arthas and his heart... always thought it was some made-up tale to impress the rank and file.We must act on this information immediately.  Unfortunately, we must do so in secret.Arthas's agents are everywhere and if he finds out, our plan is dead in the water.We need to take this to the Argent Crusade.  Every single paladin in that order was hand-picked by Tirion himself.  If there's anyone free of cultist infiltration, it's those guys.",
-    "name": "Tirion's Help",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

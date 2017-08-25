@@ -1,7 +1,0 @@
-{
-    "_id": "27893",
-    "description": "You may not have noticed, but I'm pretty big, as far as orcs go.I make sure that my two pals here don't get into too much trouble.  They're small, and they don't have a big shield like me.  I'm big, and I can handle a few monsters hitting me!  Plus, if I'm careful, I can usually get them to hit my shield instead!I can protect you, too.  Come on, let's go practice for a bit.  I'll make sure the enemies attack me, and not you.",
-    "name": "Gargal, the Behemoth",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

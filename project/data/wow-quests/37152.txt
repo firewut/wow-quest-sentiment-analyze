@@ -1,8 +1,0 @@
-{
-    "_id": "37152",
-    "added_in_patch": 6,
-    "description": "HA! The fruit vendor was so cunning, but I, Cro Threadstrong, am even MORE cunning. I have come back into the past to defeat the ogre army before that fruit vendor can turn them against me!Bring me the head of a big, strong ogre from the old slag mines, and I will have crushed the fruit vendor before a single apple has even grown!CAN YOU HEAR ME, FRUIT VENDOR? I WILL HAVE MY VICTORY!",
-    "name": "Cro's Revenge",
-    "requires_level": 100,
-    "zone": "Bloodmaul Slag Mines"
-}

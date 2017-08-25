@@ -1,7 +1,0 @@
-{
-    "_id": "13282",
-    "description": "You should leave now.  You'll find a portal behind me.  It'll take you to the surface.We'll meet again.  He'll be looking for you.It's only a matter of time until he finds you.",
-    "name": "Return to the Surface",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10845",
-    "description": "My hunters have just returned from a scouting mission to the Singing Ridge.  It seems that the nether drakes, which infest the crystals there, have increased greatly in number, and threaten to spill out into our laps.Since you have proven yourself a competent slayer, let us see if your <class> skills are the match of an adult drake.Find the Singing Ridge by heading south through the Scalewing Shelf.  Enter and slay their brood mother, Dreadwing.",
-    "name": "Slay the Brood Mother",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

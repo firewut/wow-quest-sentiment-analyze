@@ -1,8 +1,0 @@
-{
-    "_id": "36899",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking Quest: Defender Illona",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25944",
-    "description": "As we struggled not to drown, my orcs and I were forced to abandon our weapons and much of our armor.Erunak says to expect a major attack from the naga soon and I believe him.If we're going to be victorious, we'll need your help to recover our lost equipment.You should find it scattered around the sea floor near our shipwrecks here and to the north.Make haste, <race>. The enemy could arrive at any moment.",
-    "name": "Girding Our Loins",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

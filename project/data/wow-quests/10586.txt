@@ -1,7 +1,0 @@
-{
-    "_id": "10586",
-    "description": "We've made a lot of progress against the Shadow Council's operations at the Deathforge, but if we're to truly be triumphant, we'll need to defeat the Legion's overseer there.I found a key among the items in Flanis's pack. I'm certain it will prove useful in tracking down this Warbringer Razuun you observed at Legion Hold.After you've hunted down and dealt with Warbringer Razuun, report directly to Wing Commander Nuainn. He'll want to know immediately!",
-    "name": "Bring Down the Warbringer!",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

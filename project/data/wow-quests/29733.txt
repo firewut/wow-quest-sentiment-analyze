@@ -1,9 +1,0 @@
-{
-    "_id": "29733",
-    "added_in_patch": 5,
-    "description": "<Rell coughs heavily before speaking.>Please, <name>. You need to hear what we've been through.The whole damned Alliance needs to hear what we've been through. There may not be much time left.",
-    "name": "SI:7 Report: Lost in the Woods",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

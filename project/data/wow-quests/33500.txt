@@ -1,8 +1,0 @@
-{
-    "_id": "33500",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Slave's Stash",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

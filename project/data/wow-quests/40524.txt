@@ -1,8 +1,0 @@
-{
-    "_id": "40524",
-    "added_in_patch": 7,
-    "description": "<name>! Let's talk bling. I'm looking for a ring.See, the elves down in Azsuna were some fine master jewelcrafters back in the day... or so they say. The books all talk about a ring called the \"Band of Farondis\". Can't hurt to ask around for it.Let's head to Azsuna. Bet I'll get there sooner!",
-    "name": "A Familiar Ring to It",
-    "requires_level": 98,
-    "zone": "Jewelcrafting"
-}

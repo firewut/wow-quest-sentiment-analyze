@@ -1,7 +1,0 @@
-{
-    "_id": "10239",
-    "description": "We are not the only ones battling the influx of the mana beings. The blood elves, too, are troubled by them, but I'm not sure why.Whatever they're involved in over there, they don't seem to be stopping. Instead, I've seen them employ a variety of methods to kill the creatures. The most effective involves magical defenses fueled by some sort of concentrated energy.Capture some of these energy sources and bring them to me. Don't hesitate to stymie the elves if an opportunity presents itself.",
-    "name": "Potential Energy Source",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

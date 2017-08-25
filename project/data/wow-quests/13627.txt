@@ -1,7 +1,0 @@
-{
-    "_id": "13627",
-    "description": "Come closer. No, not too close. Don't want any unnecessary suspicion now, do we?This coliseum requires more lumber than we've stockpiled and there's no way I'm going to pay to have it shipped in from Grizzly Hills. At the western end of Crystalsong Forest, by the Great Tree, grow a number of young Crystalsong oaks. They'd provide just the kind of planking we need for building and scaffolding. Take this axe, use it to fell the trees and then hew them into planks, but don't let anyone see you!",
-    "name": "Jack Me Some Lumber",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

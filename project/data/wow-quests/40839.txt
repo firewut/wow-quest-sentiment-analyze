@@ -1,8 +1,0 @@
-{
-    "_id": "40839",
-    "added_in_patch": 7,
-    "description": "You walk in the halls of the Uncrowned. We are the slayers of kings, the downfall of empires, the unseen blades that write the true history of this world.Seated before you are the Shadows, the council which aims the blades of the Uncrowned wherever our will demands.We have brought you here today with an offer. Take your seat as the final Shadow and help us lead the Uncrowned.What do you say?",
-    "name": "The Final Shadow",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

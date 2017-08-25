@@ -1,8 +1,0 @@
-{
-    "_id": "31367",
-    "added_in_patch": 5,
-    "description": "So you are interested in learning more of the lore of this land?Very well! You should speak to Lorewalker Cho at the Seat of Knowledge.He can be found in the room above the entrance to the Mogu'shan Palace. Speak with Mishi for a ride.",
-    "name": "The Lorewalkers",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36143",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "LFG WLK 70-74",
-    "requires_level": 68,
-    "zone": "Quests"
-}

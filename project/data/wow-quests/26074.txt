@@ -1,7 +1,0 @@
-{
-    "_id": "26074",
-    "description": "Champion, we have acquired a new target. Our scouts in Battlescar Valley report that the night elves are preparing their own weapon of mass destruction and hiding it within an ancient tree. They will never be given the chance to use their weapon against us.You are to escort the bomb to the Sludgewerks for refueling and then to Cliffwalker Post, from which we will detonate the bomb and kill all of our enemies.Go now, <name>. Report to Jibbly Rakit when you arrive at the Sludgewerks. ",
-    "name": "Beginning of the End",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

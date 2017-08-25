@@ -1,8 +1,0 @@
-{
-    "_id": "25791",
-    "description": "I am NOT stupid!Go back to your master and tell him that there will be NO deal! That is, if you can survive to make it back to him.",
-    "name": "Back to Riznek",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28259",
-    "description": "I just received a scroll from Demisette Cloyce in Stormwind. She wants you to pay a visit to the Slaughtered Lamb in Stormwind. She doesn't mention specifics, but I got the impression that it was a matter of some importance.",
-    "name": "Meet with Demisette Cloyce",
-    "requires_level": 50,
-    "zone": "Stormwind City"
-}

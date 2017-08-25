@@ -1,8 +1,0 @@
-{
-    "_id": "40949",
-    "added_in_patch": 7,
-    "description": "I've been watching you- you are not with them.\r\n\r\n<Ivanel coughs quietly.>\r\n\r\nI am not long for this world, but there is one thing I would have you do while you are here.\r\n\r\nThe hippogryphs here still fight bitterly to defend their home and their companions in the Moon Guard. They have not accepted that the Guard is no more. \r\n\r\nPlease... send them away. Let them know there is nothing left for them to fight for here.",
-    "name": "Not Their Last Stand",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

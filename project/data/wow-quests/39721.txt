@@ -1,8 +1,0 @@
-{
-    "_id": "39721",
-    "added_in_patch": 6.2,
-    "description": "If we're going to protect Draenor from the Bonefleet menace, we'll need to thin out the crew.See to a swift reduction in their numbers, and we might just push them back into the sea for another year.",
-    "name": "Culling the Crew",
-    "requires_level": 100,
-    "zone": "Shadowmoon Valley (Outland)"
-}

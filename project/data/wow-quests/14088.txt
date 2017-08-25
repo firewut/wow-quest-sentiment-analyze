@@ -1,7 +1,0 @@
-{
-    "_id": "14088",
-    "description": "This pamphlet advertising riding training and mount purchases was sent from Xar'Ti.Xar'Ti can be found at Sen'jin Village in southern Durotar.",
-    "name": "Learn to Ride in Durotar",
-    "requires_level": 20,
-    "zone": "Durotar"
-}

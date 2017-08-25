@@ -1,8 +1,0 @@
-{
-    "_id": "32406",
-    "added_in_patch": 5.1,
-    "description": "If we're to survive up above ground, we're going to need a base of operations.I'm going to try to take the center of the city. It's risky, but hopefully Jaina and the Silver Covenant won't expect it.Stay by my side now, <name>.",
-    "name": "A Tactical Assault",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10248",
-    "description": "Doctor Vomisa, Ph.T. at your service.  Here, take this controller.  I want you to activate it and give my newly-invented Scrap Reaver X6000 a spin.Just stay nearby!  The controller is tied to my console here, and if you get too far away, the robot will cease to function.Try out everything... I'll be watching and calibrating its servos based upon your test run.",
-    "name": "You, Robot",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

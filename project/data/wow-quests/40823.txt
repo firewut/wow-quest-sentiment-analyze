@@ -1,8 +1,0 @@
-{
-    "_id": "40823",
-    "added_in_patch": 7,
-    "description": "It seems that friend has caught the attention of Mephistroth. This is very bad news, as the dreadlord will surely wish to seek revenge for losing his general.\r\n\r\nFriend will need more than the Dreadscar to stand against him, you will need powerful warlocks such as those who were captured.\r\n\r\nCalydus thinks the orc still lies in the pit where you were chained. Friend must revive him, and rebuild the council!",
-    "name": "Rebuilding the Council",
-    "requires_level": 98,
-    "zone": "Warlock Campaign"
-}

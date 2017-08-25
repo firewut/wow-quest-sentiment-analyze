@@ -1,7 +1,0 @@
-{
-    "_id": "9330",
-    "description": "This flame, stolen from the heart of Stormwind itself, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",
-    "name": "Stealing Stormwind's Flame",
-    "requires_level": 1,
-    "zone": "Midsummer"
-}

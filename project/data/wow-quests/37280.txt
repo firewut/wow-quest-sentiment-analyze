@@ -1,8 +1,0 @@
-{
-    "_id": "37280",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Snarlpaw Ledge",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

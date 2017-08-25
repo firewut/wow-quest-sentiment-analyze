@@ -1,8 +1,0 @@
-{
-    "_id": "25854",
-    "description": "Have you heard some raptors are intelligent enough to be domesticated? It's true! I've seen hunters tame them.It gets quite lonely out here, you know, even with Wenna to keep me company... a pet's just what I need to brighten my spirits. A little baby raptor would be the best!If you're out there slaughtering the adults, would you mind bringing me back some mature eggs? You can tell if they're ready to hatch by the wobbling.",
-    "name": "I'll Call Him Bitey",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

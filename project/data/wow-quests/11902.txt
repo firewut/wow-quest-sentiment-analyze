@@ -1,8 +1,0 @@
-{
-    "_id": "11902",
-    "description": "The sacks of grain emanate the foul stench you've come to associate with the Plague.  This probably explains what happened to the footmen defending the mine.You'd best bring word back to Gerald Green.",
-    "name": "Pernicious Evidence",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

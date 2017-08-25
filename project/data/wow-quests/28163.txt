@@ -1,7 +1,0 @@
-{
-    "_id": "28163",
-    "description": "We fought hard to capture this island, <race>.  We cleared out most of the horde scum but I can still smell their foul stench in the air.I need you to investigate the slagworks, warden's vigil and the ironclad garrison.  Kill any horde that you find.You know what they say, the only good horde is a dead horde!",
-    "name": "The Leftovers",
-    "requires_level": 85,
-    "zone": "Tol Barad"
-}

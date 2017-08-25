@@ -1,8 +1,0 @@
-{
-    "_id": "42334",
-    "added_in_patch": 7,
-    "description": "I'm not sure how, but we managed to survive being dropped off the mountain by harpies.We're in bad shape though. Please, if someone finds this note, bring help.",
-    "name": "Crumpled Note",
-    "requires_level": 98,
-    "zone": "First Aid"
-}

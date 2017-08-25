@@ -1,8 +1,0 @@
-{
-    "_id": "29021",
-    "description": "The Venture Company have a small research facility west of here, just past the Sludge Fen. I don't know very much about what they're doing, but did manage to discover that they're experimenting with something called a \"samophlange\".Now what the heck is a samophlange? Well, whatever it is, I want to examine it, so I need someone to go get it.I obtained a copy of their control system operating manual, you should be able to figure out how to disengage the samophlange from it.",
-    "name": "Samophlange",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

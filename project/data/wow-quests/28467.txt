@@ -1,7 +1,0 @@
-{
-    "_id": "28467",
-    "description": "The greenish substance inside the cauldron is putrid and viscous.  No matter what it is, it doesn't seem to be good.It would be best to report back to Donova with your findings, along with a sample of the liquid in the cauldron.",
-    "name": "Mystery Goo",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

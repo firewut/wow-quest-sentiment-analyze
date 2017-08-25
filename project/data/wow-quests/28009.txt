@@ -1,7 +1,0 @@
-{
-    "_id": "28009",
-    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to Shadowfang Keep, in southern Silverpine Forest, immediately!The traitor, Lord Godfrey, must pay for what he did to our new allies! If you so choose, head to Shadowfang Keep and speak with Packleader Ivar Bloodfang, leader of the war effort there, to help enact proper revenge.",
-    "name": "Adventurers Wanted: Shadowfang Keep",
-    "requires_level": 18,
-    "zone": "Quests"
-}

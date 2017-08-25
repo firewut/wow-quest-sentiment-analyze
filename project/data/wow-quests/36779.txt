@@ -1,8 +1,0 @@
-{
-    "_id": "36779",
-    "added_in_patch": 6,
-    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in your Garrison.",
-    "name": "Pristine Apexis Hieroglyph",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

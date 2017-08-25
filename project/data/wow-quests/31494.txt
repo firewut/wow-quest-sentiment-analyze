@@ -1,8 +1,0 @@
-{
-    "_id": "31494",
-    "added_in_patch": 5,
-    "description": "The Shek'zeer manipulators are corralling young kunchong into that clutch and exposing them to raw fear energies, twisting them and accelerating their growth.Disgusting! I will not allow it!Break open the cages and set those hatchlings free.",
-    "name": "Free From Her Clutches",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

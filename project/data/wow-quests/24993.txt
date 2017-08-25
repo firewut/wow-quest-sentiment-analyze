@@ -1,7 +1,0 @@
-{
-    "_id": "24993",
-    "description": "These worgen must be dealt with, and quickly.  Our first priority is to eliminate any which may have infiltrated Brill.I want you to be on the lookout for any suspicious activity here in Brill, <name>.  We know that these worgen can hide in the shadows, so look for any signs you can find... footsteps, kicked-up rocks... anything.",
-    "name": "Annihilate the Worgen",
-    "requires_level": 5,
-    "zone": "Tirisfal Glades"
-}

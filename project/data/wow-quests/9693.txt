@@ -1,7 +1,0 @@
-{
-    "_id": "9693",
-    "description": "What does Argus mean to you, <name>? Many draenei probably do not know or remember our home planet. It is there that we split from the man'ari: the twisted demonic reflections of ourselves that were 'gifted' by Sargeras. Or as they call themselves, eredar.Eredar... this word once held meaning.<Admetius smacks his lips as if to taste the word.>Disgusting.Let us not waste anymore time. Find Vindicator Boros to begin your training.",
-    "name": "What Argus Means to Me",
-    "requires_level": 10,
-    "zone": "Bloodmyst Isle"
-}

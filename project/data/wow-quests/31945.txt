@@ -1,8 +1,0 @@
-{
-    "_id": "31945",
-    "added_in_patch": 5,
-    "description": "My business is doomed! You see all of the Ironpaws at their cooking stations?Their tasty dishes draw many of the customers to this market, but they're all out of scallions!It may not look like much, but the scallion is an essential cooking ingredient. Without it, foods are less savory, less flavorful, and less aromatic.This is terrible. I'm not getting another scallion shipment for a week!Wait a second. You're a farmer, aren't you? You think you could help me?",
-    "name": "Learn and Grow VI: Gina's Vote",
-    "requires_level": 85,
-    "zone": "Valley of the Four Winds"
-}

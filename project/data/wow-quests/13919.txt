@@ -1,7 +1,0 @@
-{
-    "_id": "13919",
-    "description": "It didn't work.<A sorrowful and resigned expression upon his face, Pelturas removes the tear from the soup and gently washes it.>The eruption of Thunder Peak must have affected it in some way. You must take the tear to the Moonwell of Purity, which still lies intact, protected by the goddess' power, at the southeast base of the volcano.There, you will wash it in the sacred waters of Elune. What happens beyond that, I cannot say. I fear for my daughter's life. It is in your hands now, <name>.",
-    "name": "A Trip to the Moonwell",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

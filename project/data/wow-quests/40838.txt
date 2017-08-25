@@ -1,8 +1,0 @@
-{
-    "_id": "40838",
-    "added_in_patch": 7,
-    "description": "This sewer grate leads to the catacombs underneath Karazhan. I've never paid it much attention, but it seems to be where the Nightbane are being drawn to.\r\n\r\nTo think, the Dark Riders may have been under our noses this entire time! Come, let us see where this leads.",
-    "name": "The Dark Riders",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42919",
-    "added_in_patch": 7,
-    "description": "The leaders of the Silver Hand have gathered. Listen to their counsel.",
-    "name": "The Scion's Legacy",
-    "requires_level": 101,
-    "zone": "Paladin Campaign"
-}

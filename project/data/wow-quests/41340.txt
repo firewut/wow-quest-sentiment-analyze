@@ -1,8 +1,0 @@
-{
-    "_id": "41340",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Perfect Storm Drake Scale",
-    "requires_level": 110,
-    "zone": "Mining"
-}

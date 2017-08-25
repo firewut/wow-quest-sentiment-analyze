@@ -1,8 +1,0 @@
-{
-    "_id": "33147",
-    "added_in_patch": 5.4,
-    "description": "A dark, vaporous substance stains the floor of the room. This is all that remains of the Old God Y'Shaarj.",
-    "name": "The Last Gasp of Y'Shaarj",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25341",
-    "description": "While you're down there cracking skulls...I've gotten reports that make me think these ogres may be more than the usual lumbering threat. The Warlocks among them have been seen carrying orbs, possibly items of empowerment.It would be easy to dismiss them as crude trinkets, but I need to make sure we're not surprised. Bring me back one of these orbs.",
-    "name": "The Gordunni Orb",
-    "requires_level": 34,
-    "zone": "Feralas"
-}

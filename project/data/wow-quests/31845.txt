@@ -1,8 +1,0 @@
-{
-    "_id": "31845",
-    "added_in_patch": 5,
-    "description": "Welcome Back, <name>. I see you've returned to hone your skills.  Speak with Master Tsang in the Training Grounds below us for a practice sparring session.",
-    "name": "Practice Makes Perfect: Master Tsang",
-    "requires_level": 70,
-    "zone": "Peak of Serenity"
-}

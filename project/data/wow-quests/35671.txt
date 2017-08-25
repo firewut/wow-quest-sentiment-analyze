@@ -1,8 +1,0 @@
-{
-    "_id": "35671",
-    "added_in_patch": 6,
-    "description": "Veil Terokk is just ahead.Let us hope the others have made the journey safely.",
-    "name": "A Gathering of Shadows",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

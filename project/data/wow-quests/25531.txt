@@ -1,7 +1,0 @@
-{
-    "_id": "25531",
-    "description": "I thank you for freeing me.  Let us take advantage of the distraction you've created and get out of here.We must hurry before the cultists catch on.Meet me again when we've left this place.",
-    "name": "Twilight Riot",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

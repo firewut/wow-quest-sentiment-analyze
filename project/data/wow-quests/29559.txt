@@ -1,9 +1,0 @@
-{
-    "_id": "29559",
-    "added_in_patch": 5,
-    "description": "You may be an outsider, but you and I have a common enemy in the hozen.Many members of my tribe are trapped in cages nearby. I have also seen your... Alliance... soldiers as well.I cannot leave without freeing my brethren, just as you cannot leave yours.The Slingtail hold the keys to those cages. Find the keys and free our friends.",
-    "name": "Freeing Our Brothers",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

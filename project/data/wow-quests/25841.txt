@@ -1,8 +1,0 @@
-{
-    "_id": "25841",
-    "description": "Delber's technicians have been up day and night helping us prepare for this strike. Aside from building and tuning the personnel launcher, his men have prepared the covert operations air wing for a strike on Frostmane Retreat. They'll be waiting for a signal to begin their strikes.Take this flare with you, and set it off near the cluster of buildings at the northern end of the village, and the buildings at the southern end of the village. The flying machines will make a quick strike at each site.",
-    "name": "Strike From Above",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

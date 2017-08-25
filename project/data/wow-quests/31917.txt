@@ -1,8 +1,0 @@
-{
-    "_id": "31917",
-    "added_in_patch": 5,
-    "description": "Yer ready to enter the full circuit of pet battlin', matey. Go back to yer trainer, Mish Burnhep, in Stormwind, and prepare for the adventure of a lifetime!",
-    "name": "A Tamer's Homecoming",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

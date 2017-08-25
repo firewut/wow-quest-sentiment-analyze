@@ -1,8 +1,0 @@
-{
-    "_id": "6621",
-    "description": "My research has paid off.I believe that with a show of force, we can diminish the furbolgs' aggressiveness.Take this banner a short ways northeast and place it on their totem mound. They will try to destroy the banner, but hold your ground until their chief, Murgut, appears to save face for the tribe.  Bring me the totem he carries.Gather your allies, <name>. This is no task for a single <class>.",
-    "name": "King of the Foulweald",
-    "requires_level": 23,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

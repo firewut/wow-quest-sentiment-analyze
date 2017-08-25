@@ -1,8 +1,0 @@
-{
-    "_id": "37941",
-    "added_in_patch": 6.1,
-    "description": "In Gorgrond, the Laughing Skull clan has a legend of one called Skulltaker. His mask, known only as the Silent Skull, is legendary among the clan, and could help us learn more about them.\r\n\r\nUntil recently, he was thought to have vanished. Now it appears he has shown his face, so to speak, in Everbloom Wilds. The last orc to have seen him fell to the botani there, but may still have some clues on how you can find Skulltaker and recover the mask.\r\n\r\nIf the botani have him, he may not be cooperative.",
-    "name": "Treasure Contract: The Infected Orc",
-    "requires_level": 100,
-    "zone": "Gorgrond"
-}

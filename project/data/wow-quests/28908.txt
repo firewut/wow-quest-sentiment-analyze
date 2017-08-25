@@ -1,7 +1,0 @@
-{
-    "_id": "28908",
-    "description": "",
-    "name": "Daily Normal Random (Nth)",
-    "requires_level": 83,
-    "zone": "Quests"
-}

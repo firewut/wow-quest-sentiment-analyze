@@ -1,7 +1,0 @@
-{
-    "_id": "28359",
-    "description": "The most fearsome demon in Shatter Scar Vale is known as Kroshius. Though many have hunted him over the years, destruction has only made him stronger.Time after time, warlocks have come to this forest and reanimated Kroshius. He now lurks in the southeast, surrounded by demonic fire, awaiting any who come to try and claim his power.I will not have this corrupt cycle continue! Kill Kroshius, and bring his infernal core to me.",
-    "name": "The Core of Kroshius",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

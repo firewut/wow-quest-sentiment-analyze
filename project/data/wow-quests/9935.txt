@@ -1,8 +1,0 @@
-{
-    "_id": "9935",
-    "description": "Wanted: Dead or AliveGiselda the Crone of Kil'sorrow and her lackeys for murder, ritual sacrifice, communing with the Legion, kidnapping, and burglary.Known to congregate at Kil'sorrow Fortress in southeastern Nagrand, near the border of Terokkar.Large gold reward to be dispensed by Warden Bullrok at Garadar to anyone able to bring Giselda to justice.",
-    "name": "Wanted: Giselda the Crone",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

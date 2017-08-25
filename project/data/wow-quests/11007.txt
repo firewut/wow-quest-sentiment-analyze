@@ -1,7 +1,0 @@
-{
-    "_id": "11007",
-    "description": "The air around you hums - a gentle hum. The naaru are aware of your victory. Perhaps they are the reason you were compelled to pick up this sphere from the still-twitching remains of Kael'thas Sunstrider. What secrets could it hold?Perhaps A'dal in Shattrath City could make sense of the item.",
-    "name": "Kael'thas and the Verdant Sphere",
-    "requires_level": 70,
-    "zone": "Quests"
-}

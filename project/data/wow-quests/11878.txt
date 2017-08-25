@@ -1,7 +1,0 @@
-{
-    "_id": "11878",
-    "description": "Although you have acted valiantly in freeing the trapped calves, many of them will still die. You see, without a caretaker, these calves must fend for themselves in the wild.But there is a way! Hope yet remains!North of here in the mammoth fields, bordering the Scalding Pools, you will find Khu'nok the Behemoth: a mammoth as wise as he is ancient. Take this mammoth orphan and present it to Khu'nok. He will know what to do.",
-    "name": "Khu'nok Will Know",
-    "requires_level": 70,
-    "zone": "Borean Tundra"
-}

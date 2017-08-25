@@ -1,8 +1,0 @@
-{
-    "_id": "32752",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Dark Animus Dead",
-    "requires_level": 90,
-    "zone": "Quests"
-}

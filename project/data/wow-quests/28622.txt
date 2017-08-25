@@ -1,7 +1,0 @@
-{
-    "_id": "28622",
-    "description": "I had planned on bringing the coffer back to my lab for study, but it seems Brann here has different ideas.He thinks he knows how to put a stop to Deathwing's plans here in Uldum.My buddy, Jock, is standing by with the transport, just waiting for our signal.Take these flares and plant them around the perimeter to let him know that we're ready.",
-    "name": "Three if by Air",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

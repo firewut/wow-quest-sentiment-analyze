@@ -1,7 +1,0 @@
-{
-    "_id": "26647",
-    "description": "We've got some work to do.  How much experience have you got with cannons?  Hmm... really?  Well, how about with ancient, fallin'-apart pirate cannons?We've got a few cannons updecks that work the old-fashioned way: you load one cannonball in at a time, aim, lock it into place, and fire.  Works well if you're tryin' to hit the side of a three-sailer... not so well for rowboats and the like.Why don't you head upstairs and lob a few shots at Smilin' Timmy Sticks?",
-    "name": "Ol' Blasty",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

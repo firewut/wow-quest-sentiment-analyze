@@ -1,9 +1,0 @@
-{
-    "_id": "38568",
-    "added_in_patch": 6.2,
-    "description": "Whatever be left of da Iron Horde be fallin' back ta Tanaan Jungle, where Gul'dan is turnin' them into sumthun' even worse. A frontal assault be suicide.But da seas be open. If we attack by both land an' sea, Gul'dan got ta fall back somewhere. <name>, it be time ta build a shipyard!We need local resources. Go to da Iron Docks. Gazlowe's boys are already there. Gather any equipment ya find, and see if ya can recruit us a proper Horde Shipwright!",
-    "name": "We Need a Shipwright",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

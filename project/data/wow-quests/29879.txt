@@ -1,9 +1,0 @@
-{
-    "_id": "29879",
-    "added_in_patch": 5,
-    "description": "Now, back to your dilemma.I believe you can help your people build relations with our hozen, as my people have.The trail behind me will lead you to a body of water the hozen use to gather the fish that feeds them.Around this time every year, fearsome beasts call those waters home and many hungry hozen are lost to them.If you were to rescue some of the victims and gather some fish, perhaps you will be regarded more favorably.",
-    "name": "Swallowed Whole",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

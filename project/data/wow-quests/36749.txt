@@ -1,7 +1,0 @@
-{
-    "_id": "36749",
-    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in your Garrison.",
-    "name": "Pristine Elemental Bellows",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

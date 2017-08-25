@@ -1,8 +1,0 @@
-{
-    "_id": "44214",
-    "added_in_patch": 7,
-    "description": "Well done, Slayer. You are truly now the leader of the Illidari. But there's one more thing.\r\n\r\nMeet me down at the forge.",
-    "name": "One More Thing...",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

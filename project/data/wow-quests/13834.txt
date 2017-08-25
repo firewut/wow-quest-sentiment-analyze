@@ -1,7 +1,0 @@
-{
-    "_id": "13834",
-    "description": "The best fishing is often the most dangerous.  Wintergrasp boasts a bountiful catch for the brazen.In fact, it's the only place to catch the fabled Terrorfish - a fish both lethal and delicious.  Bring me some, and we'll have something to discuss.",
-    "name": "Dangerously Delicious",
-    "requires_level": 70,
-    "zone": "Fishing"
-}

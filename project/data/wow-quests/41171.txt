@@ -1,8 +1,0 @@
-{
-    "_id": "41171",
-    "added_in_patch": 7,
-    "description": "Tae'thelan of the Reliquary has asked me to send anyone who may be able to help them in Azsuna.Seeing as how you happened into my shop purely by coincidence, I thought you'd be willing to go, <name>.Back to work for me though. So much to do and so little help.<Dariness lets out a sigh.>",
-    "name": "The Reliquary Calls",
-    "requires_level": 110,
-    "zone": "Archaeology"
-}

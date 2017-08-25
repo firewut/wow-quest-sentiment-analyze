@@ -1,8 +1,0 @@
-{
-    "_id": "40300",
-    "added_in_patch": 7,
-    "description": "I used to visit here before the barrier was raised. While the ruling council and the Grand Magistrix argued and politicked I watched the caretakers  perform their rituals and venerate the dead.I would honor the spirits here one last time. I am headed to the tombs. If some of the sacred oils, burial shrouds, or incense survived the ages then bring them to me.",
-    "name": "Tools of the Trade",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

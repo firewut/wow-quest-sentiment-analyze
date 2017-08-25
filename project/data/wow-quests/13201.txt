@@ -1,7 +1,0 @@
-{
-    "_id": "13201",
-    "description": "So many of our braves were lost during the battle, but even more shall die if left untreated. Travel to the Steppe of Life in southwestern Wintergrasp. I have need of the roses that grow there for salve to treat the wounded.Sadly, the rose has become scarce due to the Alliance harvesting it too rapidly. Slay them on the Steppe of Life and retrieve their herb pouches from the bodies.If that fails, perhaps a lasher or two might be in bloom.",
-    "name": "Healing with Roses",
-    "requires_level": 75,
-    "zone": "Wintergrasp"
-}

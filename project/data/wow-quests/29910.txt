@@ -1,8 +1,0 @@
-{
-    "_id": "29910",
-    "added_in_patch": 5,
-    "description": "I went off this morning to watch my papa fight the virmen. When I came back, the farm was full of marmots!I don't want to kill them, but we need to get rid of them. Hey, I know! We can close the holes!Fill in their holes with dirt, so they can't come out in our farm anymore.",
-    "name": "Rampaging Rodents",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

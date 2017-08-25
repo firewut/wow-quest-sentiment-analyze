@@ -1,8 +1,0 @@
-{
-    "_id": "34575",
-    "added_in_patch": 6,
-    "description": "You have arrived in Shadowmoon Valley. It is time to speak with the prophet.",
-    "name": "Step Three: Prophet!",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

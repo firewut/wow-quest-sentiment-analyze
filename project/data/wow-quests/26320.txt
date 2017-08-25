@@ -1,8 +1,0 @@
-{
-    "_id": "26320",
-    "description": "This incense will put your body and mind in a deep meditative state. Once the trance begins you will be pulled into the spirit world. Do not fight the trance once it has begun, <name>. Allow the spirits to show you what they know.You must leave now. Go to the Deadmines, a place which I am told holds great significance in the history of Westfall. Once inside, use the incense.You may enter the Deadmines through the old farmhouse south of here. Follow the homeless. Return to Gryan with your discovery.",
-    "name": "A Vision of the Past",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Westfall"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26045",
-    "description": "Here's the dilemma: I could do one of two things, get killed down here like everyone else or get killed up at Krom'gar Fortress when Krom'gar realizes we've lost the mine. I'm choosing the third option, do nothing. So far, so good.You need parts? Plenty from the left over junk scattered about in this mine. You just gotta go get 'em.Good luck! Maybe if you get those parts we might be able to show our faces at Krom'gar Fortress.",
-    "name": "I Got Your Parts Right Here...",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

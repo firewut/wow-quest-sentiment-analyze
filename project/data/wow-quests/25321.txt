@@ -1,7 +1,0 @@
-{
-    "_id": "25321",
-    "description": "I'd been scouting behind enemy lines for nearly a day when they caught me.This attack on our frontlines is not what it appears, <name>.I'll give you all the details, but first let's find a way to get me out of here.Only the overseers carry keys to these cages.From what I recall, they're in the middle of the crater, in the thick of it.See if you can get a key off of one of them.",
-    "name": "Twilight Captivity",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

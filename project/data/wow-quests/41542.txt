@@ -1,8 +1,0 @@
-{
-    "_id": "41542",
-    "added_in_patch": 7,
-    "description": "Talonclaw is a mighty spear indeed! I first set eyes upon it when the Highmountain tauren led the members of my order up to Talon Peak to found the Trueshot Lodge.But such tales must wait for another time.Apata has been in Dalaran gathering supplies for her expedition. I imagine she's ready to depart by now.Seek her out at Krasus' Landing. I know she will be eager to begin.",
-    "name": "Preparation for the Hunt",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

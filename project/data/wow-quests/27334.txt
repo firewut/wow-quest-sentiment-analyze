@@ -1,7 +1,0 @@
-{
-    "_id": "27334",
-    "description": "I just received a message from Dark Cleric Cecille in Orgrimmar. She requests that you join her in the audience chamber in Grommash Hold, where you can find her with the delegation from Undercity. The cleric didn't mention the purpose of your visit, but it is clearly important. Make haste, <name>.",
-    "name": "Dark Cleric Cecille",
-    "requires_level": 20,
-    "zone": "Priest"
-}

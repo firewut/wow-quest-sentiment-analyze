@@ -1,8 +1,0 @@
-{
-    "_id": "42424",
-    "added_in_patch": 7,
-    "description": "Archmage Vargoth seems to be mixed up in something dangerous, not that that's unusual for an archmage of his caliber and experience!\r\n\r\nThe Arcway Vaults may be where he's headed, but we should investigate all leads in order to get a better idea of what he's up to.",
-    "name": "Following In His Footsteps",
-    "requires_level": 103,
-    "zone": "Mage Campaign"
-}

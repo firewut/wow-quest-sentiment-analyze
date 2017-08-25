@@ -1,8 +1,0 @@
-{
-    "_id": "40019",
-    "added_in_patch": 7,
-    "description": "Something is different about this dreamleaf, though. It is less than pure.I have a theory.The wilds of Val'sharah have been blighted by a nightmarish curse. Sensitive herbs like this may be susceptible to such a blight.I need more information before I can draw any conclusions. Find me some healthy samples and some blight-infested samples, and we can continue.",
-    "name": "An Empathetic Herb",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

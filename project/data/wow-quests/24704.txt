@@ -1,7 +1,0 @@
-{
-    "_id": "24704",
-    "description": "This crater is filled with a malignant breed of dragon.  Have you seen them?  They wander all about, parading their spiky backs and lizardy faces all around the Crater.Don't let them fool you, squire, for these dragons are no minions of graceful Alexstrasza.  They are clearly vicious, and direly in need of a hero's blade.I have decided that I will slay no less than 15 of them.  As my squire, you must come along.  Should we become separated, you may meet me back here at the Hot Springs.",
-    "name": "The Evil Dragons of Un'Goro Crater",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

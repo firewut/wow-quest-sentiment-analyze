@@ -1,9 +1,0 @@
-{
-    "_id": "34571",
-    "added_in_patch": 6,
-    "description": "Ared and I came this way because we needed a good supply of metal to build his designs and some of the best metal is the jovite that comes from the mine in Kuuro's Claim. In order to supply the artillery tower I'm going to need this metal.Unfortunately that place was recently overwhelmed by a pack of goren, so you're going to have to fight your way in to get the ore before they manage to devour it.Nothing that should be too much of a problem for you.",
-    "name": "Out of Jovite",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

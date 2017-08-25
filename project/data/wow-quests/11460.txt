@@ -1,7 +1,0 @@
-{
-    "_id": "11460",
-    "description": "The first and most important factor in falconry is the bond between the falconer and  his bird. Trust must be earned by the master!<Hidalgo points to the falcons in the cage at his feet.>If you are to earn their trust you will first need to fill their bellies.The fjord rock falcon, as these birds are known, primarily eat grubs. Throughout the fjord you will find loose rocks that serve as breeding grounds for these grubs. Find a grub and return here to feed the falcons in the cage.",
-    "name": "Trust is Earned",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

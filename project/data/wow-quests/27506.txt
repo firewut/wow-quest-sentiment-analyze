@@ -1,7 +1,0 @@
-{
-    "_id": "27506",
-    "description": "<Race>, I have a task for you.Take these ruby seeds and plant them at the corpses of any dragonkin that you come across. Twilight or Vermillion, whelping or dragon, it matters not. We need to see that their bodies are returned to the earth so that life can continue to flourish.In death, there should always be new life. This may be our one consolation during times of war and great tragedy.",
-    "name": "Life from Death",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

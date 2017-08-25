@@ -1,8 +1,0 @@
-{
-    "_id": "31136",
-    "added_in_patch": 5,
-    "description": "Scouts bring me reports of a powerful Imperion that slipped through our lines in the south and is now heading for the road in the eastern vale.I need someone I can trust to stop it. Find it and kill it quickly, <name>.",
-    "name": "Behind Our Lines",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

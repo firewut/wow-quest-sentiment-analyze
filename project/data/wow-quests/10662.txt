@@ -1,7 +1,0 @@
-{
-    "_id": "10662",
-    "description": "<Ordinn examines the results from his attempt at smithing the metal and shakes his head.>This is beyond my ability, but that's not to say the weapon can't be recreated for your use.There was a talented smith who accompanied the Sons of Lothar to Draenor, David Wayne. He was a remarkable blacksmith, but chose to leave the expedition. These days, he lives in a small camp on a peninsula east of Firewing Point in Terokkar Forest. Take the ingots to him and see if he can help you with the weapon.",
-    "name": "The Hermit Smith",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

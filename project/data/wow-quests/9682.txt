@@ -1,7 +1,0 @@
-{
-    "_id": "9682",
-    "description": "On a ledge of the reef, deeper than where you found the bloodcursed naga, you will find the hopeless ones: The bloodcursed voyagers, ghosts of those taken by the bloodcurse.It is regrettable, what I ask of you now... but they must be destroyed and their cursed shells brought back to me.Their souls must be put to rest. Return to me when you have done as asked and I shall give you one final task.",
-    "name": "The Hopeless Ones...",
-    "requires_level": 15,
-    "zone": "Bloodmyst Isle"
-}

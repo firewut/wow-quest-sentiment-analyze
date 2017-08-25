@@ -1,7 +1,0 @@
-{
-    "_id": "9637",
-    "description": "I left the Kirin Tor in pursuit of knowledge forbidden by those of my order; it is beyond ironic that I am now asked to assist them with that very same knowledge.If I'm to perform this favor for you, you will have to do something for me first.  I want you to obtain two of the tomes I've been searching for.The first one is called the Tome of Dusk and is owned by the orc warlock known as Nethekurse.  The second, known as the Book of Forgotten Names, belongs to the arakkoa known as Darkweaver Syth.",
-    "name": "Kalynna's Request",
-    "requires_level": 70,
-    "zone": "Karazhan"
-}

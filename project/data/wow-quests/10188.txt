@@ -1,7 +1,0 @@
-{
-    "_id": "10188",
-    "description": "Before we departed Azeroth all those years ago, the Kirin Tor entrusted our expedition with a powerful artifact, the Sigil of Krasus. It was a great boon to us in our battle against the orcs and it could play a key role in helping me break the enchantment that imprisons me.However, when Kael'thas divested me of my possessions, he gave the sigil to Spellbinder Maryana, who remained behind with the garrison. If he truly realized what he had in his possession, he wouldn't have given it away so easily.",
-    "name": "The Sigil of Krasus",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

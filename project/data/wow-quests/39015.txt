@@ -1,8 +1,0 @@
-{
-    "_id": "39015",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Grumpy",
-    "requires_level": 98,
-    "zone": "Tanaan Jungle"
-}

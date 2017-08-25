@@ -1,7 +1,0 @@
-{
-    "_id": "26086",
-    "description": "<Captain Verne looks down at his watch.>Where is that hunter?  I sent Orako to Underlight Canyon to prepare a recon report a week ago!  Sure, he's a handful, and I didn't mind getting him out of my hair, but I need his report.Say, what's your name?  <name>?  Would you be willing to go track him down?  It seems strange to send a <class> to find a hunter, but I'm running out of options.",
-    "name": "Orako",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

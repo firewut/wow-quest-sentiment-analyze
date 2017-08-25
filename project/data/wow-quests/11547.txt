@@ -1,7 +1,0 @@
-{
-    "_id": "11547",
-    "description": "Freeloaders!You all want instant gratification - never giving thought to the effort required to create even the simplest of portals.Perhaps a little education will instill a bit of gratitude for my ceaseless efforts.Take this crystal. Attune it to the Bloodcrystal to the west, at the Dawning Square portal just south of here, and at the naga shrine at Greengill Coast to the southeast.Perhaps then you'll appreciate your precious translocations....",
-    "name": "Know Your Ley Lines",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

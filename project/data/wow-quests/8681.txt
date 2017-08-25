@@ -1,7 +1,0 @@
-{
-    "_id": "8681",
-    "description": "",
-    "name": "Thunderhorn the Elder",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

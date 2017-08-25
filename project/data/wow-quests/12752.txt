@@ -1,7 +1,0 @@
-{
-    "_id": "12752",
-    "description": "<name>, the Lich King plagues us with invasion.  To beat him back to his frozen throne, the Horde and Alliance must stand resolute together.  In Shattrath, in the Terrace of Light, that alliance has been struck.To aid our struggle against the Lich King, go to the new apothecary camp in the Terrace of Light and speak with Grand Apothecary Putress.  He leads desperate research to end the zombie plague.  His cure is our salvation.Be swift, <name>.  Each moment passed is another innocent life lost.",
-    "name": "Desperate Research",
-    "requires_level": 65,
-    "zone": "Quests"
-}

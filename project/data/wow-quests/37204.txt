@@ -1,7 +1,0 @@
-{
-    "_id": "37204",
-    "description": "I am dying, <race>. My flame, it smolders... soon my light will flicker and fade into nothing.You mustn't allow this. Retrieve for me the Essence of Flame. Allow me to live another day and I will burn every breaker to ash, I swear it.I will take vengeance for my brothers and sisters.",
-    "name": "Rekindling an Old Flame",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

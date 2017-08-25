@@ -1,8 +1,0 @@
-{
-    "_id": "31069",
-    "added_in_patch": 5,
-    "description": "About that scroll you found...I keep looking at that line in the second stanza - \"bound with wood and shade\". The \"shade\", in particular, intrigues me.I must admit, I've often considered taking some of the area's residual sha essence and incorporating it into a brew. I suspect that this is the shade which our recipe calls for.You will find large amalgamations of sha to the southeast of our tree... though you may also be able to harvest some from the local wildlife.",
-    "name": "Bound With Shade",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14045",
-    "description": "That dirty pirate Baron Longshore was the terror of these waters before the Alliance demolished his fleet and rounded up the survivors. Am I happy about it? Do I look like a bundle of joy and good cheer, <name>?Longshore raided some of my most valuable cargo before his capture. Rumor has it he buried it before he was caught. I want my goods back! Find Longshore in the Alliance camp just south of here and see if you can get him to reveal where my treasure is.",
-    "name": "Find Baron Longshore",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32157",
-    "added_in_patch": 5.1,
-    "description": "The destruction in Krasarang is unforgivable, <class>. The only way to put an end to this is to destroy the Bilgewater operation.This is for the greater good of Pandaria and the Alliance. Go to Bilgewater Beach and cut them down! No doubt the Horde will come to their assistance.Destroy them!",
-    "name": "The Only Good Goblin...",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

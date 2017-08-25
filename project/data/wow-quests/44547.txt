@@ -1,8 +1,0 @@
-{
-    "_id": "44547",
-    "added_in_patch": 7,
-    "description": "<Victory in hand, you know there are still Pillars of Creation that must be recovered if the Legion is to be defeated once and for all.><Your order has identified uncharted regions of the Broken Isles that still house the remaining Pillars - looking over the information would help focus your next effort.>",
-    "name": "Isle Hopping",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

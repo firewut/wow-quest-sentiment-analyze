@@ -1,7 +1,0 @@
-{
-    "_id": "26731",
-    "description": "The salt you brought was sufficient to activate the bracers' innate enchantments.  I have taken these enchantments and combined them into a summoning token... a gift, if you will.Return to the Isle of Naias, and place the gift on Naias' altar.  Call me again once you have Naias' heart.",
-    "name": "The Altar of Naias",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

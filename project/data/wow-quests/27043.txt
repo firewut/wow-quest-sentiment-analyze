@@ -1,8 +1,0 @@
-{
-    "_id": "27043",
-    "description": "Did you hear the man going on with his incessant yelling while you were up there? That's Haethen Kaul, their leader.It's a well known fact that he's gone insane from the power he's drawing from their bound elementals. Unfortunately, it makes him nigh invincible.If you're to fight him, you'll first have to kill each of the elementals, gaining their wards in the process. That should protect you from Haethen's magic.Well, most of it anyway.",
-    "name": "Fight Fire and Water and Air with...",
-    "requires_level": 83,
-    "side": "horde",
-    "zone": "Deepholm"
-}

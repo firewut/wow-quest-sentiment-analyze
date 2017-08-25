@@ -1,8 +1,0 @@
-{
-    "_id": "41066",
-    "added_in_patch": 7,
-    "description": "<name>, before you lies your nether crucible - more powerful than any we've crafted before.The souls of the hundreds of slain demons in Mardum have provided us with enough power to directly observe the Legion on Azeroth.What we have uncovered so far has been... unsettling. Gaze into the pool and see for yourself.",
-    "name": "The Hunter's Gaze",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

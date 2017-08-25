@@ -1,7 +1,0 @@
-{
-    "_id": "27332",
-    "description": "Shadow-Walker Zuru requires your presence in Orgrimmar right away, <name>. Do not keep him waiting, as it sounds like a matter of some importance.You can find the shadow-walker in the Valley of Spirits inside Orgrimmar.",
-    "name": "Seek the Shadow-Walker",
-    "requires_level": 20,
-    "zone": "Priest"
-}

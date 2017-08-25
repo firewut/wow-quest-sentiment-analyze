@@ -1,7 +1,0 @@
-{
-    "_id": "28226",
-    "description": "We keep golems here, as guards.  The dwarves to our north also keep golems, but I'm not sure why.Mainly just for killin', I suppose.We could use some spare parts for our own golems, so here's what yer gonna do: kill theirs, then look for any parts that might've fallen on the ground.  Salvage what ye can.  Ye probably won't be able to salvage everything, so choose carefully.",
-    "name": "Scrapped Golems",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

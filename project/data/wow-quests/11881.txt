@@ -1,8 +1,0 @@
-{
-    "_id": "11881",
-    "description": "Have you seen the flying machines buzzing around? That's gnomish innovation at its finest.I've long waited to get my hands on some of their technology and a perfect opportunity has presented itself. One of their recon wings crashed in the Scalding Pools, in the southwest part of the Geyser Fields.Blow this whistle near one of the crashed machines and my trusty mule, Jenny will answer. She'll follow you and carry the salvage, but you must keep her safe. She'll begin to drop the cargo if attacked.",
-    "name": "Load'er Up!",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

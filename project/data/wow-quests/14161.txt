@@ -1,8 +1,0 @@
-{
-    "_id": "14161",
-    "description": "We moved this whole mountain to strip mine the minerals below. But what we didn't take into consideration were the subterranean basilisks that are now, uh, terranean. You look like you've got some initiative - go in there and kill some of those nuisances and I'll dip into our petty cash fund for you.",
-    "name": "Basilisk Bashin'",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Azshara"
-}

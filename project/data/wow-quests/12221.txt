@@ -1,7 +1,0 @@
-{
-    "_id": "12221",
-    "description": "I have prepared a package that must be delivered to Doctor Sintar Malefious at Agmar's Hammer. The contents of the package include the final blight specimen along with instructions on preparation and samples of the reactive agent.You will find Agmar's Hammer in western Dragonblight. Just look for the black, jagged metal orc buildings - that will be Agmar's Hammer.\r\n",
-    "name": "The Forsaken Blight",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

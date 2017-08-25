@@ -1,9 +1,0 @@
-{
-    "_id": "33784",
-    "added_in_patch": 6,
-    "description": "It is time for us to strike out against those who would enslave us!We travel to Gormaul Tower to wrest it from the Bladespire ogres. I would welcome your company.Mount up, and together we will ride to battle!",
-    "name": "Gormaul Tower",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

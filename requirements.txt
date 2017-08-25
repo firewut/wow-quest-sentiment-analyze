@@ -5,4 +5,3 @@ spicy==0.16.0
 textblob==0.11.1
 requests==2.11.1
 scrapy==1.1
-python-deform==0.1.1

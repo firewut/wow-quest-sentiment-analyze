@@ -1,8 +1,0 @@
-{
-    "_id": "36384",
-    "added_in_patch": 6,
-    "description": "Look, I didn't tell Kimzee about this because I don't want to hurt her feelings, I chose not to leave Pinchwhistle Point.See, I've been working on a serum that I think should be able to cure the infected, but when I tried to test it I got surrounded and I injured my leg during the escape.I know I'm on the right track but I need to test it. Do me a favor and take this vial and go try it out on one of the infected outside.",
-    "name": "Field Trial",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

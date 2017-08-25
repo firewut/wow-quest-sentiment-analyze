@@ -1,8 +1,0 @@
-{
-    "_id": "30718",
-    "added_in_patch": 5,
-    "description": "Our order prides itself on excellence in combat. We hone these combat skills by dueling one another, here on the Cradle of Chi-Ji.Prove yourself in the eyes of the Red Crane. Venture south, into the center of the island, and duel with your fellow students.",
-    "name": "Students of Chi-Ji",
-    "requires_level": 90,
-    "zone": "Krasarang Wilds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13817",
-    "description": "This platinum disc is surprisingly symmetrical and devoid of any scratches or imperfections.  Engraved along its edge, bold runes spell out the word \"ARCHIVUM.\"There must be a device inside Ulduar capable of reading the disc.",
-    "name": "Heroic: Archivum Data Disc",
-    "requires_level": 80,
-    "zone": "Quests"
-}

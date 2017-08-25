@@ -1,8 +1,0 @@
-{
-    "_id": "10057",
-    "description": "The disturbances at Expedition Armory continue, despite your best efforts. No one truly knows everything that happened there, nor exactly what binds the spirits of the fallen soldiers to the ruins.Perhaps we've been approaching this the wrong way. I've always assumed that each of the ghosts had a tie to the ruins, but what if their ties were to their leaders?Arch Mage Xintor and Lieutenant Commander Thalvos were particularly close to their men, so perhaps overcoming their ghosts will calm the rest.",
-    "name": "Looking to the Leadership",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

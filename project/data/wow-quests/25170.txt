@@ -1,8 +1,0 @@
-{
-    "_id": "25170",
-    "description": "Heya mon!  Bom'bay be workin' on some new mojo.  You wanna try a piece of it?  Well, before ya do, Bom'bay's gonna need ya to pick up some jujus.First, Bom'bay needs ya to get some o' the goop from the crabs down by the water.  Let me see your hands!<Bom'bay examines your hands closely.>Bom'bay gonna need 5 handfuls.  Go on now!",
-    "name": "Cleaning Up the Coastline",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Durotar"
-}

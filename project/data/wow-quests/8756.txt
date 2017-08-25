@@ -1,7 +1,0 @@
-{
-    "_id": "8756",
-    "description": "",
-    "name": "The Qiraji Conqueror",
-    "requires_level": 60,
-    "zone": "Tanaris"
-}

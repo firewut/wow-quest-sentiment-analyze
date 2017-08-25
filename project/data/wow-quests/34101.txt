@@ -1,8 +1,0 @@
-{
-    "_id": "34101",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Aruumel's Worn Mace",
-    "requires_level": 90,
-    "zone": "Talador"
-}

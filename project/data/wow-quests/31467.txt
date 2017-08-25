@@ -1,8 +1,0 @@
-{
-    "_id": "31467",
-    "added_in_patch": 5,
-    "description": "With the grill, you can transform those raw tiger steaks into food that makes you stronger. Learn the recipe for charbroiled tiger steaks from me. Show me what you can do.",
-    "name": "Strong as a Tiger",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

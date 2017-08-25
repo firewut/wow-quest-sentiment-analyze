@@ -1,9 +1,0 @@
-{
-    "_id": "29885",
-    "added_in_patch": 5,
-    "description": "We do not have time to wait around for the Admiral to recover.Sully and I are planning to search for Anduin to the north, but we'll need supplies for our journey.The lake here is teeming with wildlife, which we have received permission to hunt.Go and gather some supplies while Sully and I finalize our preparations.",
-    "name": "Road Rations",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

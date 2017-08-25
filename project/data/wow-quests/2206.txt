@@ -1,7 +1,0 @@
-{
-    "_id": "2206",
-    "description": "Our operatives in the field are reporting heavy bandit activity south of Goldshire. The reports indicate that bandits have taken over Jerod's Landing and are now using it as a way to smuggle large quantities of contraband from Redridge to Westfall.I need you to infiltrate the dock house and get me that shipping schedule, <name>. You will probably find it buried deep in the pockets of the Dockmaster....and <name>, should you be discovered, SI:7 will disavow all knowledge of your existence.",
-    "name": "Snatch and Grab",
-    "requires_level": 10,
-    "zone": "Rogue"
-}

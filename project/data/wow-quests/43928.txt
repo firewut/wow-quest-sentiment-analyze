@@ -1,8 +1,0 @@
-{
-    "_id": "43928",
-    "added_in_patch": 7,
-    "description": "Our preparations for conjuring the Steeds of the Damned are nearly complete.Salanar the Horseman has given us a list of the remaining components. The ritual of conjuring requires five unholy essences known as the Aggregates of Anguish.I have taken it upon myself to organize the necessary missions to obtain these components.Use the mission table to assign your chosen champions to the task.",
-    "name": "Aggregates of Anguish",
-    "requires_level": 110,
-    "zone": "Death Knight Campaign"
-}

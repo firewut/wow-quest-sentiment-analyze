@@ -1,7 +1,0 @@
-{
-    "_id": "26937",
-    "description": "Derrington and his men don't know it, but it was I who ordered the plaguing of Felstone Field.  We need this area for practice.  If we're to win this war for Andorhal, we need to use our newest, most versatile weapon:Val'kyr.Take my enthralled val'kyr with you, <name>, and kill the simpering Alliance scum that remain on Felstone.  Once they are dead, she will bring them back to this world... as one of us.The Forsaken shall not die out!",
-    "name": "When Death is Not Enough",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

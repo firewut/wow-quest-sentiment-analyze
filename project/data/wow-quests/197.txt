@@ -1,7 +1,0 @@
-{
-    "_id": "197",
-    "description": "Before returning to Nesingwary's Expedition, you will have to complete the impossible: hunt the raptor that no other hunter has been able to capture.  That beast goes by the name of Tethis, and he's been known to terrorize the southeastern corner of Northern Stranglethorn.Bringing Tethis' talon back to that dwarf hunter should be proof that you are no ordinary <race>.",
-    "name": "Raptor Mastery",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11606",
-    "description": "We can kill all the Nerubians that we see and destroy all the eggs that we find, but those things won't stop coming until we blow their tunnels and passageways up. Of course, we can't do that without some heavy grade munitions. Unfortunately, most of our stockpile is being used up by the goblins and blacksmiths for our siege tanks and weaponry.We do happen to have a pretty good supply of the stuff out in Mightstone Quarry - underneath all the Nerubian crap. You'll just have to go out and get it for me.",
-    "name": "Patience is a Virtue that We Don't Need",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

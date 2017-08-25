@@ -1,8 +1,0 @@
-{
-    "_id": "30324",
-    "added_in_patch": 5,
-    "description": "Not all hozen are the same. Chee-Chee's tribe was forest hozen... came from Jade Forest. Pretty easy to get along with.The Kunzen invaders... they come from mountains, far to the north. Not nearly as nice as Chee-Chee.They come into our green land, take our things, leave big mess behind.Chee-Chee wants to kill them. You like to help?",
-    "name": "Not in Chee-Chee's Backyard",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42601",
-    "added_in_patch": 7,
-    "description": "We are very fortunate to have come across Archivist Melinda. She is somewhat of an anomaly, as not many from her race choose our path. What makes her even more unique is her meticulous study of our craft. Her knowledge will be unsurpassed.Speak to her now and seek her council. With her help, we can surely strengthen the council.",
-    "name": "Tech It Up A Notch",
-    "requires_level": 101,
-    "zone": "Warlock Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11576",
-    "description": "Greetings, <race>. I am Garren of Dalaran.Not long ago, the rift was a peaceful place - geothermally speaking at least.Recently though, earthquakes have occurred with alarming frequency and scars in the earth have appeared, exposing unique energy fields of chaotic power.My mission here is to chart and monitor these anomalies. My instruments indicate that another has appeared on the cliff face to the southwest.Take this device with you and use it when you locate the new disruption.",
-    "name": "Monitoring the Rift: Cleftcliff Anomaly",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

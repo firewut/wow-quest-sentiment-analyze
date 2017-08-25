@@ -1,8 +1,0 @@
-{
-    "_id": "42801",
-    "added_in_patch": 7,
-    "description": "Before you head into the Black Temple, we need more information. The last thing we want is for you to teleport into a trap.\r\n\r\nWe must discern their force structure, patrol schedule, new defenses, and what Akama eats for breakfast.\r\n\r\n<Belath grins.>\r\n\r\nI suggest you send our broken warriors to handle this. They can blend in with the rest of Akama's Ashtongue forces inside the temple. We'll get what we need to know from the ones that make it back.\r\n\r\nA champion handler or two can scout outside the temple.",
-    "name": "Back in Black",
-    "requires_level": 103,
-    "zone": "Demon Hunter Campaign"
-}

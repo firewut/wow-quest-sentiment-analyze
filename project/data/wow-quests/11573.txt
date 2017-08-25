@@ -1,7 +1,0 @@
-{
-    "_id": "11573",
-    "description": "Hail, traveler. I am Lunk-tusk of the Kalu'ak. We are known as tuskarr to your people. My partner and I were recently sent up to investigate strange happenings along one of our hunting trails. It was when we approached the graveyard known as Shield Hill that we were attacked by the undead. I was lucky to make it to this camp, but I am uncertain as to what became of Orfus.We parted ways at the Ancient Lift, southeast of here along the cliff edge. Will you go see if he is ok?",
-    "name": "Orfus of Kamagua",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

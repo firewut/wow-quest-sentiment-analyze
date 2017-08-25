@@ -1,8 +1,0 @@
-{
-    "_id": "24529",
-    "description": "When the refugees fled north from Taurajo, some were separated as darkness closed in. Many were taken prisoner by the Bristleback quilboar who set up camp west and southwest of here.I am not certain what the quilboar hoped to get from us by capturing our refugees; all they have earned is my ire. And all they'll get in return is vengeance.Rescue my trapped brothers and sisters, and kill their captors to send a message to the quilboar.",
-    "name": "Bad to Worse",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

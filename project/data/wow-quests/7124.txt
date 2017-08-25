@@ -1,7 +1,0 @@
-{
-    "_id": "7124",
-    "description": "As battle rages over the landscape of Alterac Valley, so too does it rage through the Coldtooth and Irondeep mines.  Both are rich sources of minerals and both are used to store supplies; it's no wonder they are so highly valued!Help our war effort, <name>!  Capture one of the mines for the Horde!  To capture a mine, enter one that we do not control and kill its leader.  When that is done, the mine will be ours and we'll send troops to protect it!",
-    "name": "Capture a Mine",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

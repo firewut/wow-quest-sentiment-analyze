@@ -1,8 +1,0 @@
-{
-    "_id": "37565",
-    "added_in_patch": 7,
-    "description": "<You and Okuna were going to arm the captives in here. The idea was to free them and cause as much chaos as possible. It's the only sure way to be able to get close to the prince.>\r\n\r\n<You still have the weapons. You're just going to have to be careful sneaking around the giants.>",
-    "name": "The Right Weapon for the Job",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

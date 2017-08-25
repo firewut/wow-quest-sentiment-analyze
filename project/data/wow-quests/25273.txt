@@ -1,8 +1,0 @@
-{
-    "_id": "25273",
-    "description": "I think I understand what's happening here. The Twilight's Hammer fears that the ancients may someday rise up to oppose them. They'll do anything to stop the return of Goldrinn.This \"Lycanthoth\" is a twisted version of our beloved wolf god, summoned by the Twilight's Hammer to replace him.Bah! It is but a shadow of Goldrinn's power. <name>, kill this beast so that the true ancient can return. Take this incense and burn it in the Maw of Lycanthoth east of here. Slay that beast and free Goldrinn!",
-    "name": "Lycanthoth the Corruptor",
-    "requires_level": 80,
-    "side": "alliance",
-    "zone": "Mount Hyjal"
-}

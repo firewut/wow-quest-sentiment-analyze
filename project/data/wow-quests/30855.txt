@@ -1,8 +1,0 @@
-{
-    "_id": "30855",
-    "added_in_patch": 5,
-    "description": "I can hear the voice of the Mere - it has been purified.\r\n\r\nBut, this chapter in my people's history will never be closed - not until we defeat Shai Hu.\r\n\r\nHe has retreated to the central island in the Mere, corrupting our holiest of sites.\r\n\r\nBeware - he is strong. But, after all we have done, I am confident we will be stronger.",
-    "name": "The Fall of Shai Hu",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

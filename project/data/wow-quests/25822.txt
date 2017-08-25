@@ -1,7 +1,0 @@
-{
-    "_id": "25822",
-    "description": "I am going to need to put you in harm's way once more, <name>. To the east you will find a mineral rich excavation site that was recently overrun by the Horde. At that site are crates of our weaponry, scattered about all over the place. The Horde has only recently taken over, so it is unlikely that they've found all of our supplies.Get in there and get our Grimtotem friends some weapons!",
-    "name": "Armaments for War",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

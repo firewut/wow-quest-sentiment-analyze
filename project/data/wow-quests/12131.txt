@@ -1,7 +1,0 @@
-{
-    "_id": "12131",
-    "description": "We're almost there, but the war golem won't run without power cells. From the information I was able to collect in Dun Argol before we were discovered, both Rune-Smith Durar and Rune-Smith Kathorn each create one power cell.We'll need one power cell from each of the rune-smiths before our golem will work.You should be able to find each rune-smith in his workshop on the central level of Dun Argol.",
-    "name": "We Have the Power",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42449",
-    "added_in_patch": 7,
-    "description": "The voice of the Lich King has spoken, Deathlord, and the Knights of the Ebon Blade will obey your command.The Four Horsemen were no ordinary death knights, they were born of pure, unholy power gifted from the Lich King to Kel'thuzad.This unholy power to raise the dead has now been passed to you, Deathlord. I am sure you will wield it with great conviction.The Four Horsemen will be powerful allies against the Burning Legion... and Nazgrim is a worthy choice as the firstborn.",
-    "name": "Return of the Four Horsemen",
-    "requires_level": 98,
-    "zone": "Death Knight Campaign"
-}

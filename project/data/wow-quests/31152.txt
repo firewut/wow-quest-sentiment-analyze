@@ -1,9 +1,0 @@
-{
-    "_id": "31152",
-    "added_in_patch": 5,
-    "description": "Just a moment, now. Allow me to gather my things.Wouldn't want me to lose these notes now, would we? Especially after you risked life and limb for them!There, all set. Let us be off, shall we?I must say, I feel much safer traveling with you after seeing how you handled that saurok!",
-    "name": "Peering Into the Past",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

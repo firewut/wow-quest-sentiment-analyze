@@ -1,8 +1,0 @@
-{
-    "_id": "42168",
-    "added_in_patch": 7,
-    "description": "Friend now is ready to perform the ritual!\r\n\r\nRemember, friend, the skull must be convinced that it is in its best interest to be in your possession. If we must force the skull into your servitude, it would be far weaker.",
-    "name": "Looking into the Darkness",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

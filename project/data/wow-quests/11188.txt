@@ -1,7 +1,0 @@
-{
-    "_id": "11188",
-    "description": "Now that we've riled up these Ember Clutch proto-drakes, they may be inclined to continue their attacks upon the keep. This will not do.I hate to compound one wrong with another, but in this case it would appear that we will have to destroy the creatures. A regrettable course of action, but one that we need to undertake regardless.Take my wand. I've been experimenting with increasing its range, but it doesn't pack much of a punch. However, what it will do is get a proto-drake's attention.",
-    "name": "Two Wrongs...",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

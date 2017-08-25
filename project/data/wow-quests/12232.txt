@@ -1,7 +1,0 @@
-{
-    "_id": "12232",
-    "description": "At last, our chance to strike at their siege engines! Don't flub it.I kid.A little.<Class>, bombard New Hearthglen's ballistae with these bombs.We'll show the Royal Apothecary Society how it's done old style. No concoctions required!",
-    "name": "Bombard the Ballistae",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

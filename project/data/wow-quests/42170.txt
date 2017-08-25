@@ -1,8 +1,0 @@
-{
-    "_id": "42170",
-    "added_in_patch": 7,
-    "description": "Assist the Druids of Val'sharah by completing 4 world quests.",
-    "name": "The Dreamweavers",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

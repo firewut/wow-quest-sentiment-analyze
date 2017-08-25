@@ -1,7 +1,0 @@
-{
-    "_id": "6546",
-    "description": "",
-    "name": "Warsong Outrider Update",
-    "requires_level": 17,
-    "zone": "Ashenvale"
-}

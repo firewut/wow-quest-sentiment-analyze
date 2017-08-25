@@ -1,8 +1,0 @@
-{
-    "_id": "41109",
-    "added_in_patch": 7,
-    "description": "The Volatile Spell Focus hums with energy as you hold it. Handle with care! \r\n\r\nOnly with this item in your possession will the Hippogryphs allow themselves to be mounted.",
-    "name": "Waiting for Revenge",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

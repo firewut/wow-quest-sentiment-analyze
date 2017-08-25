@@ -1,7 +1,0 @@
-{
-    "_id": "25186",
-    "description": "<name>, I certainly don't want to deliver my report to Commander Singleton without at least a little bit of good news. We've got to wrestle control of these roads back from these Horde holdouts.From what we can gather, Kona Thunderwalk is the name of the ringleader. He's got a camp just north of here. A Stonetalon native, he knows these roads better than his own hide. If we can wipe him out, resistance from the west might vanish.Find and kill Kona Thunderwalk, then report to Commander Singleton!",
-    "name": "Futile Resistance",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

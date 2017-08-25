@@ -1,9 +1,0 @@
-{
-    "_id": "29942",
-    "added_in_patch": 5,
-    "description": "You think hozen crazy, wikket? Wait til you see hozen with no slickies!Not enough slickies for hozen and wikkets.Snappers! Hozen hate them ookin' snappers. Wikkets can eat all the snappers!<Eekle Eekle points to the south.>",
-    "name": "Silly Wikket, Slickies are for Hozen",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

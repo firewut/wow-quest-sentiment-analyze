@@ -1,9 +1,0 @@
-{
-    "_id": "36709",
-    "added_in_patch": 6,
-    "description": "Before you go, there is someone you should meet.She might set some of your stuff on fire, but I believe she's the best mage this side of Draenor.She belongs on the front lines with you, commander.",
-    "name": "Burning Beauty",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Warspear"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11997",
-    "description": "It is time we make our move, <name>. I can conjure a portal that will take you directly inside but it will take some time before I can make another and join you.The Lich King will no doubt sense the magic of your arrival so you will need to move fast to locate Felo'melorn and secure it.If Lyandra has the blade with her then I fear she may not relinquish it easily. Be prepared for anything, <name>.",
-    "name": "The Frozen Flame",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

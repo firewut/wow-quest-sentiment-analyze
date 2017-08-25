@@ -1,8 +1,0 @@
-{
-    "_id": "31366",
-    "added_in_patch": 5,
-    "description": "The mantid have lain siege to Niuzao Temple.Even now, Wing Leader Ner'onok and his forces work to cross the final chasm.You must stop him before they reconstruct that bridge.",
-    "name": "Take Down the Wing Leader",
-    "requires_level": 88,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12932",
-    "description": "I'll tell you what, buddy, this place is a far cry from the rolling plains of Nagrand. These trolls are dirtier than ogres; but hey, I go where the gold's at! So welcome to Zul'Drak, pal.You're new to this racket, so let me set you straight. I'm the fight promoter and this feisty troll next to me is Wodin, my bodyguard. You're the entertainment. When you wanna fight, let me know and I'll set up the match.If you're ready and got a group of friends with you, we can start! What do you say?\r\n",
-    "name": "The Amphitheater of Anguish: Yggdras!",
-    "requires_level": 75,
-    "zone": "Zul'Drak"
-}

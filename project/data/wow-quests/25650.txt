@@ -1,7 +1,0 @@
-{
-    "_id": "25650",
-    "description": "The letter is actually an order from Horde high command. Someone named Overlord Krom'gar has issued a \"strip job\" on this mine in order to obtain something called azure iron flake. Presumably this flake is obtained from breaking down the ore.It gets worse. They plan to mix the azure flake with the explosives sitting inside the huge bomb outside and blow up Windshear Hold.We don't have a moment to lose, <name>! Take this translated copy of the letter and return to Boog! He'll know what to do next.",
-    "name": "Orders from High Command",
-    "requires_level": 24,
-    "zone": "Stonetalon Mountains"
-}

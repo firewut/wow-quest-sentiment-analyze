@@ -1,7 +1,0 @@
-{
-    "_id": "12933",
-    "description": "This next match is a doozy, buddy! Apparently some magnataur from the Dragonblight wants a piece of the action. You ever fought one of those before? All I can tell you is to aim high!We'll get this party started when you give me the word.",
-    "name": "The Amphitheater of Anguish: Magnataur!",
-    "requires_level": 75,
-    "zone": "Zul'Drak"
-}

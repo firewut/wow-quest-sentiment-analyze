@@ -1,8 +1,0 @@
-{
-    "_id": "35561",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "The Slave Pens Reward Quest",
-    "requires_level": 60,
-    "zone": "Quests"
-}

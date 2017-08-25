@@ -1,9 +1,0 @@
-{
-    "_id": "36262",
-    "added_in_patch": 6,
-    "description": "Ameeka created this book to document and pass down our most cherished crafting techniques to our children. She must have dropped it while traveling. She will be relieved to see her book.From what I have heard from other villagers, she was last seen on the road to Elodor. Perhaps you can find her there.",
-    "name": "Ameeka, Master Tailor",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

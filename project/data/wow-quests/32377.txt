@@ -1,8 +1,0 @@
-{
-    "_id": "32377",
-    "added_in_patch": 5.1,
-    "description": "Garrosh is hell-bent on finding that Divine Bell. I wouldn't be surprised if he tore Kun-Lai Summit apart to find that artifact.The Warchief's called a gathering at Garrosh'ar Advance, just to our north.I need to stay here to monitor troop movements, so you'll have to infiltrate their camp and overhear their discussion.Go to Garrosh'ar Advance and steal some Kor'kron Armor from Reavers, Honor Guards, and Scouts.Take this radio earpiece. Don't contact me... I'll contact you.",
-    "name": "A Kor'kron In Our Midst",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

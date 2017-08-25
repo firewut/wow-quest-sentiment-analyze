@@ -1,7 +1,0 @@
-{
-    "_id": "11495",
-    "description": "The cavern that we opened at Baelgun's was the one place that most steered clear of... Can't say I blame 'em. The sound of thunder shot out of that cave, <name>! Loud, booming thunder!I think near the end, it was abandoned by all. Bad, bad things happened to any that went in to explore - most never coming back.I want you to check that cave out while you're at Baelgun's. Explore around the titan statue inside and report back with your findings.",
-    "name": "The Delicate Sound of Thunder",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34028",
-    "added_in_patch": 6,
-    "description": "So what is the Iron Horde doing with Dark Iron technology? I know who ta ask!Thaelin Darkanvil is a genius engineer from the Dark Iron clan who's been helping us here on Draenor. You may have already met him in yer travels, eh?Word is he set up a bunker somewhere in Gorgrond, a secret workshop so-to-speak. If ye can find him, he may know somethin' about this.Er, and be cautious, eh? The Dark Iron may be our allies now, but I trust 'em about as far as I can throw 'em.",
-    "name": "These Look Familiar...",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

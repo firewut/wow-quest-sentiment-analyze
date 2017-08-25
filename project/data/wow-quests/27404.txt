@@ -1,8 +1,0 @@
-{
-    "_id": "27404",
-    "description": "The Cenarion Circle is pleased with your progress, <name>. You are a credit to all druids and we look to you and your peers as the future of our brotherhood.The circle has decided to honor you with the creation of unique staff.The rare and powerful materials needed for your staff can only be found in Shadowfang Keep inside Silverpine Forest. Travel there and retrieve Lord Walden's collection of elixirs, a supply of moontouched wood, and sinew from the ghouls and geists infesting the keep.",
-    "name": "The Circle's Future",
-    "requires_level": 20,
-    "side": "horde",
-    "zone": "Druid"
-}

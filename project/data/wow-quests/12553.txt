@@ -1,7 +1,0 @@
-{
-    "_id": "12553",
-    "description": "Why do I always get the tough tasks to tackle?The Scourge at Kolramas have plague sprayers that are getting dangerously close. You don't want to know what's going to happen if they start heading this way!I've got an idea for how we might bring them down, but first we're going to need something... something from their own creatures.The Hath'ar skimmers can spin a very strong web that we can put to good use. Bring back some of their spinnerets.",
-    "name": "Skimmer Spinnerets",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

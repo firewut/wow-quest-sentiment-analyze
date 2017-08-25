@@ -1,7 +1,0 @@
-{
-    "_id": "10799",
-    "description": "Very well, I'll create this trap, but first I want something in return.There happens to be a nearby gronn that is in possession of an item that I want, but you can't face him, not yet anyway.So, you and I are going to fashion a sleeping powder from the poison of the nearby crust bursters.You'll find them in the Churning Gulch to the southwest.  Bring me a number of their glands, and be quick about it!",
-    "name": "Into the Churning Gulch",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

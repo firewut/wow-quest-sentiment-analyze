@@ -1,8 +1,0 @@
-{
-    "_id": "39363",
-    "added_in_patch": 6.2,
-    "description": "This appears to be a blueprint for some sort of naval equipment.  We should take it back to our Shipyard and see if someone can decipher it.",
-    "name": "Equipment Blueprint: Ice Cutter",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

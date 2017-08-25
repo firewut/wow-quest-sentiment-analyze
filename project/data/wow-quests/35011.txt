@@ -1,8 +1,0 @@
-{
-    "_id": "35011",
-    "added_in_patch": 6,
-    "description": "Ikiss was once a respected sage among the Adherents, but his search for the truth of Terokk's fall led to his own banishment.Ikiss became obsessed with Terokk, even claiming to be the old hero reborn. He commands the Sethekk, promising untold power in a new age of darkness.Know this: Ikiss is no Talon King. Slay the delusional fool, and search him for anything useful. He is known to collect powerful trinkets.",
-    "name": "The False Talon King",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

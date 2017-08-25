@@ -1,8 +1,0 @@
-{
-    "_id": "31568",
-    "added_in_patch": 5,
-    "description": "Now that you have won a battle, we need to heal up your pets so they can fight another day!  Visit Esbina, our local stable master, to heal and revive your pets.",
-    "name": "On The Mend",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

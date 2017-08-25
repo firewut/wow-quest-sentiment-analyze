@@ -1,7 +1,0 @@
-{
-    "_id": "26646",
-    "description": "The Bravo Company field kit is ready, <name>. I'm gonna equip you with it and you're gonna enter Render's Valley, southeast of here, and free our P.O.W.s.  I'm sending Jorgensen with you to watch your back.Now the prisoners are being held on the northeast side of the valley in a large cage, but the key to the cage is in a cave on the south side of the valley. You'll have to steal the key, create a distraction, and free the citizens.Good luck, <name>! I'll be in touch through the field kit.",
-    "name": "Prisoners of War",
-    "requires_level": 16,
-    "zone": "Redridge Mountains"
-}

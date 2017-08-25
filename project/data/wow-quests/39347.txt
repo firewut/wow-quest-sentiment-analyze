@@ -1,8 +1,0 @@
-{
-    "_id": "39347",
-    "added_in_patch": 7,
-    "description": "While it's no secret my time is more valuable than... well, anyone's, I fear I must step in and help to replace my decoction conduit.You will also play a crucial part in this, <name>, as my liaison with the blacksmiths. The thought of getting soot on my robes curls my toes.Here's a list of what we'll need done. Meanwhile I'll be out gathering the rest of what's needed.",
-    "name": "Channeling Our Efforts",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

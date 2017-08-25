@@ -1,7 +1,0 @@
-{
-    "_id": "24726",
-    "description": "",
-    "name": "Crystal Force",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

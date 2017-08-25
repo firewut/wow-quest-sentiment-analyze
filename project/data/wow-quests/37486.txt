@@ -1,8 +1,0 @@
-{
-    "_id": "37486",
-    "added_in_patch": 7,
-    "description": "They have not forgiven me. I cannot blame them.Past crimes aside, I am still their prince. Even in death, I will do what I can to protect my people.<name>. Act as my champion. Find and defeat the creature that leads this naga attack against the people of Nar'thalas. After all these years, you - |5<race> <class>, of all things - may be the instrument of my redemption.",
-    "name": "Nar'thalas Still Suffers",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

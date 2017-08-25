@@ -1,8 +1,0 @@
-{
-    "_id": "42611",
-    "added_in_patch": 7,
-    "description": "Being a leader is not just about sending your troops to combat. You will also make decisions about how we train and improve our armies.Speak to Einar the Runecaster and let him know how you would like development to progress.",
-    "name": "Einar the Runecaster",
-    "requires_level": 101,
-    "zone": "Warrior Campaign"
-}

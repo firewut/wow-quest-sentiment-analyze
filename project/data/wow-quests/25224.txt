@@ -1,7 +1,0 @@
-{
-    "_id": "25224",
-    "description": "It is customary for new recruits to be sent on a difficult or sometimes impossible task.  I was sent to obtain a black dragon's scale; last year's instructors demanded a feather from a phoenix.Your lot has it relatively easy.  Find me a handful of flame blossoms.They grow around here in relative abundance.  Oh, right.  There will be a gigantic core hound roaming the fields to keep things interesting.  Do your best to avoid him.",
-    "name": "In Bloom",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

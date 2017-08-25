@@ -1,7 +1,0 @@
-{
-    "_id": "24815",
-    "description": "",
-    "name": "Choose Your Path",
-    "requires_level": 80,
-    "zone": "Quests"
-}

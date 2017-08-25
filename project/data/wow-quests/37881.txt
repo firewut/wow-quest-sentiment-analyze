@@ -1,8 +1,0 @@
-{
-    "_id": "37881",
-    "added_in_patch": 6.1,
-    "description": "In Shadowmoon Valley there is a cave said to possess an ancient tome that may contain secrets that can help our cause against the Iron Horde. The cave, however, is protected by an ancient barrier composed of arcane energy.\r\n\r\nThere is a goblin in Darktide Roost, said to know how to take down any barrier. Persuade him to give up his secrets and bring back the book.",
-    "name": "Treasure Contract: Explosive Discoveries",
-    "requires_level": 100,
-    "zone": "Shadowmoon Valley"
-}

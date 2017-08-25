@@ -1,7 +1,0 @@
-{
-    "_id": "25401",
-    "description": "In addition to clearing out the ogres...Estulan mentioned something else about the ogres. He said the ogre warlocks may have some sort of orb, or other item of powerHe was terse about it, but seemed upset...he said there was \"no way they could be Highborne\", so I think he wants to know just where they got them. Bring me back one of these orbs.",
-    "name": "The Gordunni Orb",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

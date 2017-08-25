@@ -1,8 +1,0 @@
-{
-    "_id": "26548",
-    "description": "We need your help with somethin' more pressin', <name>.The Horde's been gettin' bolder out here. They've moved in on our territory and started attackin' us outright. The Revantusk forest trolls are attackin' Stormfeather Outpost in broad daylight!I need you to help out. Talk to Guthrum Thunderfist just outside. He'll put you on a gryphon to Stormfeather Outpost. Kerr Ironsight will fill you in when you get there.",
-    "name": "Out to the Front",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27016",
-    "description": "Try to contain your excitement, <name>, for you are in the presence of the greatest boar hunter in Azeroth!Their cunning intellect, rapid speed, ferocious strength, and resilient hide... yes, boars are the quarry of only the most masterful of hunters. Amateurs need not apply!Why, I bet you've never even hunted such an exotic beast. I'll bet silver any day that you can't match my record of ten boars killed. Try the ones on the eastern shore of the loch... but don't hurt yourself now, rookie!",
-    "name": "The Joy of Boar Hunting",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35473",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Culling of Stratholme - Bonus Objective Reward",
-    "requires_level": 80,
-    "zone": "Quests"
-}

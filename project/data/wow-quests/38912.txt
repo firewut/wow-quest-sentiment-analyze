@@ -1,8 +1,0 @@
-{
-    "_id": "38912",
-    "added_in_patch": 7,
-    "description": "The Bloodtotem are led by Torok, a volatile but useful tauren chieftain. He is wary of outsiders, but I believe you have already met an emissary to their tribe--Oakin Ironbull--whom you rescued at Riverbend.\r\n\r\nUse that small thread and you may be able to bring the Bloodtotem back into the fold. Highmountain needs them if we are to defeat the drogbar and reclaim the Hammer of Khaz'goroth. Be on your guard, <name>.",
-    "name": "The Bloodtotem Tribe",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11591",
-    "description": "That dimwitted cur, Steeljaw, tried to take our caravan of supplies on a shortcut through a taunka graveyard!We just struck up relations with them!Now the caravan lies in ruins, overrun by the taunka spirits that rose out of their graves as he was trampling them.Head south and see if you can salvage the situation, <class>. I sent Grunt Ragefist and a few others down there with him to help out.Why don't you see if you can lend a hand.",
-    "name": "Report to Steeljaw's Caravan",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

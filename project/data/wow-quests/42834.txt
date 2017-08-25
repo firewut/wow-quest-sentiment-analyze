@@ -1,8 +1,0 @@
-{
-    "_id": "42834",
-    "added_in_patch": 7,
-    "description": "This is a rare treat, I hope you know. Not just anyone is allowed to stand on this hallowed ground.\r\n\r\n<Sylverin adjusts his cuffs in a dignified fashion.>\r\n\r\nTo participate in the demonstration, simply take up an energy vessel and wade into the pool beside us. \r\n\r\nCatch the delicate dewdrops of Nightwell energy in the bowl as they fall- this is the only way one can safely manage its essence.\r\n\r\nOnce your vessel is full, proceed to our demonstration cask and gently pour the amalgamation into it.\r\n\r\nEnjoy!",
-    "name": "Intense Concentration",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

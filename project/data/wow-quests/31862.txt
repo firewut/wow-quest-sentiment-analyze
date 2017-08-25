@@ -1,8 +1,0 @@
-{
-    "_id": "31862",
-    "added_in_patch": 5,
-    "description": "The prey be walkin' to the predator's territory, unaware of the danger that  he is in. You be givin' Zonya no trouble dis time.",
-    "name": "Zonya the Sadist",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

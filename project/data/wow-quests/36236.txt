@@ -1,9 +1,0 @@
-{
-    "_id": "36236",
-    "added_in_patch": 6,
-    "description": "The different sections of the tome describe tailoring techniques that seem strange compared to traditional methods.The author's name does not appear anywhere in the tome. Maybe someone in your garrison knows more about the book's origins.",
-    "name": "The Cryptic Tome of Tailoring",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

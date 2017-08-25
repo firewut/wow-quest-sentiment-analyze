@@ -1,7 +1,0 @@
-{
-    "_id": "26439",
-    "description": "<Race>. If you act in the service of the Stone Lords, there are those that might aid you.Watch for the Stonebound. They lie dormant all around the Shuddering Spires. It should not take much prompting to rebind them to service against the flayers.",
-    "name": "Putting the Pieces Together",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13455",
-    "description": null,
-    "name": "Desecrate this Fire!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

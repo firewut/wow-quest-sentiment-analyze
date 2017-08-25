@@ -1,8 +1,0 @@
-{
-    "_id": "38799",
-    "added_in_patch": 7,
-    "description": "I was not the only miner in my family. I was the youngest of four sisters.I say \"was\" because the other three are gone.Two of them went too far. They overloaded their bodies with felslate and succumbed to the will of Sargeras. They are more demon than elf, now.The third, I have not heard from in quite some time. The last I heard, she was investigating the Darkheart Thicket.I fear she may have fallen, too - one way or the other.",
-    "name": "Nal'ryssa's Sisters",
-    "requires_level": 98,
-    "zone": "Mining"
-}

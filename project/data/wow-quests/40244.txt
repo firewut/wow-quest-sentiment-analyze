@@ -1,8 +1,0 @@
-{
-    "_id": "40244",
-    "added_in_patch": 7,
-    "description": "Aye, when we were out huntin' on the coast, we ran into this ridiculous lad in in a costume. He says he's tryin ta blend in with the murlocs... but I'm pretty sure he's just not right in the head.\r\n\r\nOne of ours stayed behind to keep an eye on him when we headed back to camp... mind checkin' it out?\r\n\r\nYe can ask Tamara over there for a ride.",
-    "name": "That Guy in the Costume",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "13621",
-    "description": "Fortune is with us this day, <race>.Gorat's blood was fresh enough for me to conduct a special ritual taught to me as a child.Use this imbued blood on Gorat's corpse to summon forth his lingering spirit.Do his final bidding, then report back here to Kadrak.Spirits keep you safe, friend.",
-    "name": "Gorat's Vengeance",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

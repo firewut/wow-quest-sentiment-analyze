@@ -1,8 +1,0 @@
-{
-    "_id": "13890",
-    "description": "This is no small task, <race>!We have more ships arriving, and without the lighthouse they'll be lost - or worse! You are hereby charged with keeping its fire lit.Collect the blubber from the hydras in these waters, then bring it to the forge here to melt it into oil.Throwing that oil on the lighthouse fire will buy us the time we need.",
-    "name": "Keep the Fires Burning",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

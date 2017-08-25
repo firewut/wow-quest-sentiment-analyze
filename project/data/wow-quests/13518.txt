@@ -1,7 +1,0 @@
-{
-    "_id": "13518",
-    "description": "It's too late for Laird, he didn't make it in time.The last wave of night elves from Auberdine attempted to escape a couple of hours ago. They stayed in their old home, clinging to the hope that it could be salvaged, but it seems they were finally forced out. I fear many of them won't make it, like Laird did not.Quickly, go down the coast to the west and find any survivors that you can. We're sending Sentinels and Hippogryphs down, but every moment counts - we need to know which ones might make it.",
-    "name": "The Last Wave of Survivors",
-    "requires_level": 8,
-    "zone": "Darkshore"
-}

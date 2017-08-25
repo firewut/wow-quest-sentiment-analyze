@@ -1,7 +1,0 @@
-{
-    "_id": "39129",
-    "description": "<Prying the lid off the scroll case reveals a plan by the Iron Horde to use large fish in the oceans around Draenor to interfere with Alliance and Horde naval power. Incredibly, the plan seems to have already worked on smaller sharks, but only up to a point.>",
-    "name": "Ill Tempered",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

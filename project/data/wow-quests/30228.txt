@@ -1,8 +1,0 @@
-{
-    "_id": "30228",
-    "added_in_patch": 5,
-    "description": "The wood sprites are back. I need you to kill them before they cause anymore trouble.",
-    "name": "Troubling the Troublemakers",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

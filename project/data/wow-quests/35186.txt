@@ -1,9 +1,0 @@
-{
-    "_id": "35186",
-    "added_in_patch": 6,
-    "description": "Greetings, <name>.Archmage Khadgar wishes you to hear an important message.The draenei suffered a great betrayal when one of their leaders, Exarch Othaar, revealed himself to be working with the Legion.In the hills above Shadowmoon Valley, Othaar, who now goes by the name Socrethar, gathers new recruits to his cause.Archmage Modera is in charge of this covert operation, which we need your help carrying out.Meet her in the field, and she will give you the details.",
-    "name": "Garrison Campaign: The Sargerei",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

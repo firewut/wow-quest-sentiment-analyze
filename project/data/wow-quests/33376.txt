@@ -1,8 +1,0 @@
-{
-    "_id": "33376",
-    "added_in_patch": 5.4,
-    "description": "I have not been completely forthright with you, despite all that you have done to aid the Timewalkers. I cannot tell you everything, not yet, but know this - there is a traitor amongst us. Tell no one of your mission today, and take caution around any of my flight while you hold the Vision of Time.Quickly now, return to the Siege of Orgrimmar once more and use the hourglass.And be safe.",
-    "name": "Seeking Fate",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

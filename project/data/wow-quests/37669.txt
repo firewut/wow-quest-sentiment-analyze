@@ -1,8 +1,0 @@
-{
-    "_id": "37669",
-    "description": "I see that you have acquired the blueprints for a profession building! Use the Architect Table to build in a small plot.",
-    "name": "Building for Professions",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

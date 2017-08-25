@@ -1,9 +1,0 @@
-{
-    "_id": "34348",
-    "added_in_patch": 6,
-    "description": "Eh boss-mon. Time for us to be huntin' the real prey now. To the north, there be a cave. In the cave, there be right mean ogron dey call \"Grosh the Mighty.\" That ogron got a big stash of pillaged hides and leathers we gonna be needin' for the troops at the garrison.I made a special poison from the stuff ya gathered. Dis be a magic poison, and it gonna put that ogron down to sometin' a bit more manageable. Take these vials to the cave and see if ya can't win us a treasure.",
-    "name": "The Real Prey",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

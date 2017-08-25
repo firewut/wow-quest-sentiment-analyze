@@ -1,8 +1,0 @@
-{
-    "_id": "25936",
-    "description": "You are now able to move about this realm more freely and without fear of drowning.This is where our work begins.First, you have many allies nearby who are drowning as we speak. As I saved you, you must save them.I have enchanted the shell you brought me. Use it to rescue your friends.Hurry now!",
-    "name": "Pay It Forward",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27905",
-    "description": "Okay, I've softened this guy up, how about you help me finish him off?I've got a plan for our escape, but it'll require a lot of guts and a little luck.You up for it, <name>?Just follow my lead...",
-    "name": "Tailgunner!",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

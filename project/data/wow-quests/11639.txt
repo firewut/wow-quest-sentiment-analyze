@@ -1,7 +1,0 @@
-{
-    "_id": "11639",
-    "description": "The overlord refuses to allow the shaman to heal my wounds. He says that it will be a good lesson for me and give me time to reflect upon my failure.But you could get revenge for me and the others who fell at Magmoth!I know that the spirit talker wants you to go in there to save the farseer.It's just to the east. Go, <class>... go slay the magnataur and their snobold servants. Regain the outpost's honor!",
-    "name": "Revenge Upon Magmoth",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

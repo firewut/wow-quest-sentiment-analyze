@@ -1,7 +1,0 @@
-{
-    "_id": "12995",
-    "description": "We must attack the vrykul of Jotunheim on many levels. Brute force, of course, is good, but I prefer a more cerebral approach.I want you to demoralize them.My men here have forged a number of banners for you. I would like for you to take and plant them near the corpses of fallen vrykul.Let the banners serve as a constant reminder to them that they face a more immediate threat than the wrath of the Lich King.",
-    "name": "Leave Our Mark",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

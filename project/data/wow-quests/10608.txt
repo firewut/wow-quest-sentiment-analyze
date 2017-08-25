@@ -1,7 +1,0 @@
-{
-    "_id": "10608",
-    "description": "The damned rock flayers are keeping me from my research down in the Singing Ridge!  By digging at the crystals there, with every scratch they are ruining my chances of studying the harmonics of the singing crystals.You look like someone who can help me deal with this problem.  Head south and clear those crystal flayers out.",
-    "name": "Crystal Clear",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

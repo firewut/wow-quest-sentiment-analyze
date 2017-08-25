@@ -1,7 +1,0 @@
-{
-    "_id": "27341",
-    "description": "It's them or us, <class>. Only one of us can command this beach.North of here you'll see a small hill with a commanding view of the shoreline. Whoever controls that hill will have the upper hand up and down the shore!I need to know what the current situation is. Scout the beach head control point, marked by that enormous flag, and return to me.You don't have to try to capture it, unless you're spoiling for a fight...",
-    "name": "Scouting the Shore",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

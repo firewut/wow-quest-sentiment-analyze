@@ -1,8 +1,0 @@
-{
-    "_id": "29767",
-    "added_in_patch": 5,
-    "description": "Fortune favors the bold!Your calculated aggressive actions have yielded unexpected rewards. If you can slay these fishcatchers after a successful haul, you'll inherit their slippery spoils.Thinning out the enemy while feeding your allies - the picture of efficiency!",
-    "name": "Fish Fry",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

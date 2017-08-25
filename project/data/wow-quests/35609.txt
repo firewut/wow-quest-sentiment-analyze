@@ -1,8 +1,0 @@
-{
-    "_id": "35609",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Scarlet Halls - Bonus Objective Reward Quest",
-    "requires_level": 90,
-    "zone": "Quests"
-}

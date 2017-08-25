@@ -1,8 +1,0 @@
-{
-    "_id": "42990",
-    "added_in_patch": 7,
-    "description": "That you were even able to acquire the Egg of Gaiath  is an incredible feat in itself, but the next step may well be impossible. Still... it is our only hope.For the ritual to work, we will need to awaken the latent elemental energy resting inside of this egg.There is an item that just may have the ability to do this - a relic known as the Earthen Amulet, rumored to have been created by Loken himself.It was lost many ages ago, and has fallen into the hands of Dargrul the Underking.",
-    "name": "The Earthen Amulet",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

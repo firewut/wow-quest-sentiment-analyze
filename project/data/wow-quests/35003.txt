@@ -1,8 +1,0 @@
-{
-    "_id": "35003",
-    "added_in_patch": 6,
-    "description": "I could not defeat this curse, and long ago resigned myself to rest in darkness.But the Sethekk are performing dark rituals to draw me back, slowly binding me to Sethe's will. Should they succeed, Sethe would have me draw a dark cloak across the horizon, and bathe the world in his blood.Disrupt their rituals, so that I may return with my own free will. Then, together, we shall bring an end to Sethe's return.",
-    "name": "Ritual Severance",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

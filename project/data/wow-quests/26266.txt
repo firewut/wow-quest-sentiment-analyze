@@ -1,8 +1,0 @@
-{
-    "_id": "26266",
-    "description": "About four years ago, in the dead of the night, a little girl walked right into our farmhouse and collapsed on the floor. Nobody had a clue as to her identity. The poor little thing had no recollection of who she was or where she came from - truly a lost soul.Soon after, we adopted the little girl and named her Hope - for that is what she represented.She is now a young lady, caring for the destitute and homeless of Westfall. Take my Westfall stew to her at Sentinel Hill, south of here.",
-    "name": "Hope for the People",
-    "requires_level": 11,
-    "side": "alliance",
-    "zone": "Westfall"
-}

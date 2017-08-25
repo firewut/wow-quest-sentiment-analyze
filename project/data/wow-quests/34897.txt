@@ -1,9 +1,0 @@
-{
-    "_id": "34897",
-    "added_in_patch": 6,
-    "description": "You have a keen eye, <class>.There are Rangari like myself hidden throughout the Nightmarsh.I need reports from each of them to ensure the area is safe.Perhaps you can help me?",
-    "name": "Rangari Roundup",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

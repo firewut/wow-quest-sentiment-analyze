@@ -1,7 +1,0 @@
-{
-    "_id": "28264",
-    "description": "I have been preying on these demonic impostors for some time now, and I have finally gleaned the location of their leader. It is none other than Arch Druid Navarax, the leader of the Emerald Circle.The demon shields himself with innocents. If I entered Whisperwind Grove to hunt him, I would be set upon by ignorant protectors... but you! You can catch him unaware.Return to Whisperwind Grove. Climb the druid tower and you'll find Navarax at the top, in his room amidst the boughs.",
-    "name": "Navarax's Gambit",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

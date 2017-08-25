@@ -1,7 +1,0 @@
-{
-    "_id": "26375",
-    "description": "The Twilight Cultists are taking my rocklings among them.  They drain them and torture them.  Strip them of the very essence that animates them from the stone.Please, <race>, free my rocklings. Neither Diamant nor I have the delicacy to smash their chains without hurting them as well.  But we do have a tool you might use.Use this. Break their chains and set them free.",
-    "name": "Loose Stones",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

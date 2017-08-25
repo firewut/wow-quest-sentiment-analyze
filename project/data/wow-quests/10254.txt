@@ -1,8 +1,0 @@
-{
-    "_id": "10254",
-    "description": "<Marshal Isildor spits in the dust.>Well, time to earn your pay. Report at once to Force Commander Trollbane within the keep. He and his advisors will no doubt be heartened to see you.<Marshal Isildor salutes you stoically.>For the Alliance!",
-    "name": "Force Commander Danath",
-    "requires_level": 55,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

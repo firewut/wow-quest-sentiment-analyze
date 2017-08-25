@@ -1,8 +1,0 @@
-{
-    "_id": "10449",
-    "description": "Apethecary Zelana has been studying the beasts of Hellfire Peninsula in the field.  She wants a sample of the blood you gathered; with luck, she might discover what turned those Bonechewer freaks' skins red!Zelana is at Reaver's Fall, southeast of Thrallmar.  Follow the road east and when you see a destroyed, green-glowing hunk of metal, you're there.  She has a camp set up behind the wyverns.",
-    "name": "Apothecary Zelana",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

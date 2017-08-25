@@ -1,7 +1,0 @@
-{
-    "_id": "12596",
-    "description": "Welcome to The Argent Stand, scrub. I am Commander Kunz, but you - you can call me... Commander.Don't think you're going to just cruise through my region, picking which missions you're going to participate in, answering to no one.Here, you report to me and you follow my orders to the letter. Understood?!First, you're going to get familiar with my men and the region we're charged with clearing.Report to each of them and do as they ask. Return to me when your patrol is done.",
-    "name": "Pa'Troll",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

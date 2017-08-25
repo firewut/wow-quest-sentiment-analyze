@@ -1,7 +1,0 @@
-{
-    "_id": "26387",
-    "description": "The spiders infesting the Creeping Ruin to the east are useless. We're calling them shadraspawn now, and it's clear they're related to the spider god, but that doesn't change the fact that they're more trouble than they're worth. I'd much rather just wipe the little pests out.When you head to the creeping ruin, destroy any cocoons you find. They feed off the bodies inside for days, so depriving them of their meal will be much more effective than trying to squash them all.",
-    "name": "Starvation Diet",
-    "requires_level": 32,
-    "zone": "The Hinterlands"
-}

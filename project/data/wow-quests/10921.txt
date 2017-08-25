@@ -1,7 +1,0 @@
-{
-    "_id": "10921",
-    "description": "You have slain many of the dreadfang widows but they will continue to spawn and soon they will strike at us again.  Deep within Netherweb Ridge is the lair of the Terokkarantula, the brood-mother of these gruesome creatures.  If we are to be safe, she must die.  ",
-    "name": "Terokkarantula",
-    "requires_level": 63,
-    "zone": "Terokkar Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32598",
-    "added_in_patch": 5.2,
-    "description": "The Thunder King is dead, and his instruments of oppression are being picked over by the Alliance and Horde for their own ends.We come now to the climax of the pandaren campaign. Hellscream's machinations have brought the Alliance down on his head - but even more importantly, he's fractured the unity of the Horde. As the Pandaren say: \"The Wok is Hot.\" Something is about to give, and all of our work comes down to this.I need time to plan. See me as soon as your faction is ready to make its move!",
-    "name": "A Reckoning",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

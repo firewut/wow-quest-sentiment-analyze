@@ -1,8 +1,0 @@
-{
-    "_id": "40558",
-    "added_in_patch": 7,
-    "description": "You admire the contraption sitting on the counter. There's a button on it, but pressing it seems to warrant no response.Tiffany tells you that it's an old toy box, but the crystal components are all broken.If you were to find new ones, she could repair it and teach you how to make one for yourself.",
-    "name": "Socket to Me",
-    "requires_level": 110,
-    "zone": "Jewelcrafting"
-}

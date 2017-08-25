@@ -1,8 +1,0 @@
-{
-    "_id": "14138",
-    "description": "With all of the troubles down in the Kaja'mine, Foreman Dampwick's been going crazy trying to find you. He said something about some 'defiant trolls'.The kaja'mite that our trolls are mining is critical ingredient in Kaja'Cola. That bubbly stuff is making us a fortune, and it's going to get you a promotion to Trade  Prince !But first, we have to get production flowing again. You'll find the foreman to the east. Here, give him this as an incentive to get his act together.",
-    "name": "Taking Care of Business",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

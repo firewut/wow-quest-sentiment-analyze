@@ -1,8 +1,0 @@
-{
-    "_id": "43390",
-    "added_in_patch": 7,
-    "description": "The Light walks among us, as does one of our enemies. You have done well to bring the prophecy to life, but it is not yet complete.\r\n\r\nThe shadows must rise, and to do so, the Cult of Forgotten Shadows must be restored. \r\n\r\nYou will find the few remaining followers at the cemetery in Duskwood. They linger there near the grave of their fallen leader.",
-    "name": "Forgotten Shadows",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

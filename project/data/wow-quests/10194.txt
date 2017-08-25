@@ -1,7 +1,0 @@
-{
-    "_id": "10194",
-    "description": "While you were gone, my men uncovered another one of these manaforges.  It is east of here and is known as Manaforge Coruu.Two of my best spies have arranged a secret landing spot outside of the manaforge.  You are to help them infiltrate Kael's forces and obtain whatever information you can.Speak to Veronia just outside the city walls; she's arranged for a windrider that will take you to Manaforge Coruu.  Once there, speak to Caledis Brightdawn; he will brief you on your mission.",
-    "name": "Stealth Flight",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

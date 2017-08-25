@@ -1,7 +1,0 @@
-{
-    "_id": "29138",
-    "description": "We have warriors out in the field who are falling wounded, and many of our druids are too busy fighting to give them proper aid. I need you to go to the north, towards the Ashen Fields, and tend their wounds at least enough that they can make it back to safety.If you haven't any bandages or healing spells, I had Rayne put together this salve, which should prove sufficient to get them on their feet.",
-    "name": "Burn Victims",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

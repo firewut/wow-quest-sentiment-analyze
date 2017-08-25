@@ -1,8 +1,0 @@
-{
-    "_id": "39943",
-    "added_in_patch": 7,
-    "description": "There is nothing more I have to teach you, scribe. The Illidari stand behind you in the battle against the Legion.",
-    "name": "The Burdens of Hunting",
-    "requires_level": 102,
-    "zone": "Inscription"
-}

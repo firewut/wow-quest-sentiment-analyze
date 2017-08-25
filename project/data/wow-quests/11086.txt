@@ -1,7 +1,0 @@
-{
-    "_id": "11086",
-    "description": "One of your responsibilities as a captain of Dragonmaw is to snuff out Burning Legion activity in Outland. It is your duty to silence those that defy Lord Illidan!The demons foolishly attempt to stabilize the portal found on the Twilight Ridge of western Nagrand. They must pay for their treachery, and you will be the orc that collects on their debt.Travel to the Twilight Ridge and lay waste to its inhabitants. You will be responsible for making at least one attack per day on their fortifications.",
-    "name": "Disrupting the Twilight Portal",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

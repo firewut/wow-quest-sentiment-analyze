@@ -1,8 +1,0 @@
-{
-    "_id": "34667",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Court of Souls",
-    "requires_level": 94,
-    "zone": "Talador"
-}

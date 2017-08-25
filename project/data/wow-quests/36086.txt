@@ -1,9 +1,0 @@
-{
-    "_id": "36086",
-    "added_in_patch": 6,
-    "description": "This bloom is proof of your strength at slaying botani and your gladiator friend has born witness!Take the bloom back to Limbflayer and claim your accolades!",
-    "name": "Proof of Strength: Botani Bloom",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

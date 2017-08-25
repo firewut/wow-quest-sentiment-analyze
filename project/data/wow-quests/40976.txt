@@ -1,9 +1,0 @@
-{
-    "_id": "40976",
-    "added_in_patch": 7,
-    "description": "Welcome to Orgrimmar, the Horde's seat of power.Tensions are running high, demon hunter. Warchief Vol'jin was gravely wounded in a disastrous assault on the Broken Shore.I suggest you offer your skills in service of the Horde before your presence is... misinterpreted.High Overlord Saurfang commands the city's defenses. Though wary of the Illidari, I believe he will give you a chance to prove your worth.Speak to him and request passage into Grommash Hold.",
-    "name": "Audience with the Warchief",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Demon Hunter"
-}

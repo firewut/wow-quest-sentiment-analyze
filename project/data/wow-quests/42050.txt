@@ -1,8 +1,0 @@
-{
-    "_id": "42050",
-    "added_in_patch": 7,
-    "description": "Never has our order faced such a difficult challenge. To succeed, we must rely on each other's strengths.However, we only have a few defenders to spare for the battle ahead.Broll, Sylendra, Zen'tabra, and Mylune have all volunteered to accompany you into the valley below, but I can only spare one.Which one will you choose to aid you in battle?",
-    "name": "Defenders of the Dream",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

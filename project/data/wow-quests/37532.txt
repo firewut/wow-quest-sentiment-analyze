@@ -1,8 +1,0 @@
-{
-    "_id": "37532",
-    "added_in_patch": 7,
-    "description": "Before I forget, <name>: the Tidestone shards. They are yours to protect now.Bring them back to your dragon. The people of Azsuna stand behind you.",
-    "name": "[UNUSED]Rolling With the Tidestone",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

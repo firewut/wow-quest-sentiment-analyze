@@ -1,8 +1,0 @@
-{
-    "_id": "34691",
-    "added_in_patch": 6.2,
-    "description": "I forgive Orgrim. He acted as well all must - we do what our hearts tell us is right.We should return to your outpost and discuss our next course of action. There is nothing left for us here.I will ask the human to open a portal for us. We shall speak again there.",
-    "name": "Just the Beginning",
-    "requires_level": 94,
-    "zone": "Talador"
-}

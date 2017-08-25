@@ -1,7 +1,0 @@
-{
-    "_id": "9252",
-    "description": "We've experienced a marked increase in Scourge attacks, <name>.  Our defenses are barely holding and there's no sign of reinforcements from Silvermoon City.  Lend us a hand in defending the village by thinning the numbers of the undead roaming the Dead Scar nearby.",
-    "name": "Defending Fairbreeze Village",
-    "requires_level": 7,
-    "zone": "Eversong Woods"
-}

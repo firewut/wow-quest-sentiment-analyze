@@ -1,8 +1,0 @@
-{
-    "_id": "30516",
-    "added_in_patch": 5,
-    "description": "So you need to whack some wily weeds?No problem, neighbor! Only thing is, I'm running low on weed killer.I make my own concoction - very potent, totally organic and good for the earth. Plants love it! Well... except for those pesky weeds. They hate the stuff!If you bring me some Spideroot from the terraces just west of us, I'll make a fresh batch and go down to Yoon's farm myself.I would gather some myself but... well... I hate spiders. You'll see what I mean.",
-    "name": "Growing the Farm I: A Little Problem",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28833",
-    "description": "Good! You've brought allies.You must hurry if we are to rescue Erunak.Fight your way through Neptulon's halls. Find the shaman and free him from these worms... if he still lives.Don't worry about them coming up from behind you. Nothing's making it past me!",
-    "name": "Rescue the Earthspeaker!",
-    "requires_level": 80,
-    "zone": "Throne of the Tides"
-}

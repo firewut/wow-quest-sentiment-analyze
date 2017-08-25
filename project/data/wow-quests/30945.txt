@@ -1,8 +1,0 @@
-{
-    "_id": "30945",
-    "added_in_patch": 5,
-    "description": "The elders want us to mount a defense? We're not monks, <class>; we need weapons if we hope to fight!Scavenge some arms from those barbarians for me. I should be able to melt them down and make something more suitable for our villagers to fight with.Bring me as many as you can carry and I'll take care of the rest. ",
-    "name": "What's Yours Is Mine",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

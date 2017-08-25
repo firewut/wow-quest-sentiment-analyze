@@ -1,8 +1,0 @@
-{
-    "_id": "28709",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Recruitment Officer Blythe at Valiance Keep in Borean Tundra.The Valiance Expedition needs your help to keep the forces of the Scourge under control and safeguard civilized lands! Make your way to the Stormwind Docks and take the ship north to Valiance Keep.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Northrend!",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

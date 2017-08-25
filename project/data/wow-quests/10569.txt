@@ -1,7 +1,0 @@
-{
-    "_id": "10569",
-    "description": "Our scouts have brought back disturbing reports from the ruined arakkoa encampments in the area.The ghosts of powerful arakkoa magicians wield powers we never thought they possessed. They seem to be organizing, as though preparing for something, but our knowledge is limited. We cannot afford to remain ignorant!Travel north to the Sketh'lon Wreckage, to the northwest of the Deathforge and search for signs of their motives.",
-    "name": "The Sketh'lon Wreckage",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

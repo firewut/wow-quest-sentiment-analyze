@@ -1,8 +1,0 @@
-{
-    "_id": "40536",
-    "added_in_patch": 7,
-    "description": "So, you wish to learn what Jabrul knows about jewels?Well, Jabrul needs your help. Before we leave this place, Jabrul still needs harpy necklaces.Keep those harpies off of Jabrul while he takes their necklaces and Jabrul will reward you with his knowledge.",
-    "name": "Bruls Before Jewels",
-    "requires_level": 102,
-    "zone": "Jewelcrafting"
-}

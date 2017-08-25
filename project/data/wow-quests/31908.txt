@@ -1,8 +1,0 @@
-{
-    "_id": "31908",
-    "added_in_patch": 5,
-    "description": "I see you're ready for another bout in the skies. Let's take flight!",
-    "name": "Elena Flutterfly",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

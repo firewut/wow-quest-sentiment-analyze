@@ -1,8 +1,0 @@
-{
-    "_id": "37690",
-    "added_in_patch": 7,
-    "description": "The ghostly elves, to the south, once had the Pillar of Creation known as the Tidestone of Golganneth.Their great city of Nar'thalas was destroyed an eon ago. The city's ruler, Prince Farondis, fell with the city. You small ones die so easily.If anyone knows where the fragments rest, it will be the ghost of the prince. Seek out his people.",
-    "name": "Those Who Remember",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

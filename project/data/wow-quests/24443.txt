@@ -1,7 +1,0 @@
-{
-    "_id": "24443",
-    "description": "The quilboar have not only razed our buildings, but have taken tauren captives. I saw them take Honu Staghunter, a young hunter trainer of ours, away in one of their foul cages.  Please, find a key on one of the quilboar's bodies and go save her!",
-    "name": "The Captured Hunter",
-    "requires_level": 1,
-    "zone": "Mulgore"
-}

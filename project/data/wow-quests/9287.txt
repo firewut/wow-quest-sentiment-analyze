@@ -1,7 +1,0 @@
-{
-    "_id": "9287",
-    "description": "",
-    "name": "Paladin Training",
-    "requires_level": 2,
-    "zone": "Paladin"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25394",
-    "description": "I've discovered a brood of dragon whelps gathered off the road to the north with a similar affliction. Green dragons are sacred custodians of nature. The fact that this disease is capable of spreading to them is cause for great alarm.We must stop this from spreading further through any means. Slay the infected whelps, <name>, and return to me.",
-    "name": "More Than Illness",
-    "requires_level": 34,
-    "zone": "Feralas"
-}

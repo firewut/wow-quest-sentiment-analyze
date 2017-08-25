@@ -1,9 +1,0 @@
-{
-    "_id": "37046",
-    "added_in_patch": 6,
-    "description": "Hey der mon, I be ya new headhunter. \r\nThe tavern be a perfect place for adventurers to rest after a long journey. It also be a great place to talk them into joining our cause.\r\n\r\nI be havin' a few recruits for ya to look at, if ya find one we can hire then I'll give ya a little somethin' as a finder fee for ya time.",
-    "name": "The Headhunter's Harvest",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

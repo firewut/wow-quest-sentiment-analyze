@@ -1,7 +1,0 @@
-{
-    "_id": "27321",
-    "description": "The Rattle of Bones is a part of shu'halo ancient myth. It is always connected with the Writ of History and the Drums of War. They are supposed to be powerful tauren artifacts; gifts from the Earth Mother if the tales are to be believed. I cannot imagine Her being connected with the drums, though.We must be vigilant if we are to find the other two. The writ will look like a pictographic scroll if memory serves.",
-    "name": "The Writ of History",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

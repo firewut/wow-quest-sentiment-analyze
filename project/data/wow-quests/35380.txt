@@ -1,8 +1,0 @@
-{
-    "_id": "35380",
-    "added_in_patch": 6,
-    "description": "Wait... I remember something else.Sir Edward... he was shouting... looking for someone.I... I can't remember who. There were so many screams...",
-    "name": "Second in Command",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

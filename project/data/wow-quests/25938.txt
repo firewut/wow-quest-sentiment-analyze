@@ -1,7 +1,0 @@
-{
-    "_id": "25938",
-    "description": "I've received a disturbing message from Nijel's Point in Desolace. It would seem as if the great upheaval has created some new problems for them, which they are ill-equipped to handle. I was given no further information.Report to Office Jankie in Desolace. She will direct you to Nijel's Point.Good luck, <name>.",
-    "name": "Help for Desolace",
-    "requires_level": 27,
-    "zone": "Stonetalon Mountains"
-}

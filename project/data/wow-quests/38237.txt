@@ -1,8 +1,0 @@
-{
-    "_id": "38237",
-    "added_in_patch": 7,
-    "description": "To perform my ritual I need to use a special cave I have prepared at Gloombound Barrow.Meet me there and I will \"give\" you your reward. Hee hee.",
-    "name": "This IS In My Contract.",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

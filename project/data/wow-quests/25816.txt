@@ -1,8 +1,0 @@
-{
-    "_id": "25816",
-    "description": "<Bolstered, Fitzsimmons continues his tale...>I am the sole survivor of the ill-fated Third Fleet of Kul Tiras, wrecked off the coast to the north. On one of our ships was hidden a great, and terrible treasure, and the eerie power of it keeps the souls of my brothers trapped within the ships' rotting hulls.I'm haunted by them day and night. First Mate Snellig calls for me! He's supposed to be dead! Please, <name>, look for him near the shipwrecks and just...tell him to leave me alone!",
-    "name": "Cursed to Roam",
-    "requires_level": 20,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

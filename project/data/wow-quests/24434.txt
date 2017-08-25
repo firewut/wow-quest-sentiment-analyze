@@ -1,7 +1,0 @@
-{
-    "_id": "24434",
-    "description": "Are you sensitive to the tremors of the local ley-lines, <name>? I can feel the occasional thrum, like the plucking of a string. It's the kind of resonance I'd expect from a long-range summoning spell. The Lorekeepers in Talrendis, with their laughably primitive magics, are trying to summon in backup from Darnassus.We can use this to our advantage, <name>. If you can compromise their summoning stone, we can teleport a crack team of commandos behind enemy lines.Locate the summoning stone in Talrendis!",
-    "name": "Commando Drop",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

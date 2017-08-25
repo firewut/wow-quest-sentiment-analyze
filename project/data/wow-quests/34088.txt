@@ -1,9 +1,0 @@
-{
-    "_id": "34088",
-    "added_in_patch": 6,
-    "description": "We must slay the Iron Horde troops who infest our lands.\r\n\r\nFind those who would sully our great forest and show them the hand of justice.",
-    "name": "Too Many Irons in the Fire",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

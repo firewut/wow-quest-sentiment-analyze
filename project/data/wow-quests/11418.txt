@@ -1,7 +1,0 @@
-{
-    "_id": "11418",
-    "description": "We see one brave hippogryph circling over the fort, then swooping down and taking prey. Jethan over there has taken a couple of shots at the creature, but his arrows bounced right off!We've taken to calling this remarkable creature Steelfeather, but we can't see why he prefers the area around Fort Wildervar. Most hippogryphs are wary of people.Researcher Aderan has helped us fashion a charm from one of the creature's feathers. He claims it will allow the user to see through Steelfeather's eyes.",
-    "name": "We Call Him Steelfeather",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

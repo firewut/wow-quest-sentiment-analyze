@@ -1,7 +1,0 @@
-{
-    "_id": "10811",
-    "description": "Their patron soars high above, <name>. Perhaps the kindness that you showed his children has moved his heart. Seek Neltharaku out and enlist his aid. Together, you may be able to solve the plight of the Netherwing drakes.<Mordenai points to the sky.>Fly high, friend...",
-    "name": "Seek Out Neltharaku",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

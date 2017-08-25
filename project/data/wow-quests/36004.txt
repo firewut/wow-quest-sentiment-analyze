@@ -1,8 +1,0 @@
-{
-    "_id": "36004",
-    "added_in_patch": 6,
-    "description": "You've more than earned a reward, commander. I'll wrap things up here and meet you back at my tower - you can use my portal as a shortcut.Speak to me when you arrive and I will use Kairoz's power with the crystals you gathered earlier to upgrade your ring!",
-    "name": "Power Unleashed",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

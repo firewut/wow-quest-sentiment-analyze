@@ -1,8 +1,0 @@
-{
-    "_id": "42684",
-    "added_in_patch": 7,
-    "description": "SI:7 is dogging our heels at every turn. We must make certain that they do not catch wind of what we are up to.\r\n\r\nTo that end, I have some suggestions for you in the form of missions. Send your champions, assign your forces, it matters little to me. The important thing is that we keep them out of Val'sharah and away from Black Rook Hold.\r\n\r\nAt least until we can decipher that damned letter.",
-    "name": "Throwing SI:7 Off the Trail",
-    "requires_level": 103,
-    "zone": "Rogue Campaign"
-}

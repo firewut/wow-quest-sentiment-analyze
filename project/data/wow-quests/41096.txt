@@ -1,8 +1,0 @@
-{
-    "_id": "41096",
-    "added_in_patch": 7,
-    "description": "As you can see, there is little time to spare - the Legion's armies already encroach on our world.Altruis has gathered our best tacticians around the star map above us to discuss our plan of attack - your leadership would be invaluable to their efforts.",
-    "name": "Time is of the Essence",
-    "requires_level": 98,
-    "zone": "Demon Hunter Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35887",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Maraudon (Earth Song Falls) Reward Quest",
-    "requires_level": 34,
-    "zone": "Quests"
-}

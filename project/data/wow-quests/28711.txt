@@ -1,8 +1,0 @@
-{
-    "_id": "28711",
-    "description": "All able bodied members of the Horde are hereby ordered to report to the Warsong Recruitment Officer at Warsong Hold.The Warsong Offensive needs your help to overcome the continued threat from the undead Scourge.Take the zeppelin to Warsong Hold from Orgrimmar's western zeppelin tower and present yourself to the recruitment officer.Destiny calls!",
-    "name": "Warchief's Command: Northrend!",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

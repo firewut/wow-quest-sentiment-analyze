@@ -1,7 +1,0 @@
-{
-    "_id": "11433",
-    "description": "I've overheard what you've had to say with Greatmother Ankha. With all due respect, she's not having you go far enough.You must also deal with the vrykul that lie dormant in the Waking Halls beneath Gjalerbron!I have no doubt that the rituals involved with awakening them are the key to their downfall. Most likely the necrolords have some device that you can use to bring the vrykul out of their dormant state prematurely.Surely such a disruption will prove fatal to the vrykul.",
-    "name": "Sleeping Giants",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

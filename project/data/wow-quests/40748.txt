@@ -1,8 +1,0 @@
-{
-    "_id": "40748",
-    "added_in_patch": 7,
-    "description": "We must lock down the facility. Otherwise my esteemed colleagues from the palace could uncover my secrets, which puts any teleporters I build for you and Thalyssra at risk.\r\n\r\n<The inactive attunement device near Oculeth hums to life.>\r\n\r\nThis will take us to my secret test chamber beneath the mountain. From there we can begin the lockdown sequence and make our escape!",
-    "name": "Network Security",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

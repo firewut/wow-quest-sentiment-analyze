@@ -1,7 +1,0 @@
-{
-    "_id": "24699",
-    "description": "Hey, I know!  We've been looking at the wrong tar creatures.Gremix once told me about a larger-than-normal tar creature that he ran into.  It lurks around the tar pit far to the east of here, south of Fungal Rock.  I'll bet that the bigger these creatures get, the stickier they get!  We'll make some money yet, <name>!Don't forget the scraper!",
-    "name": "Gormashh the Glutinous",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

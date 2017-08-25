@@ -1,8 +1,0 @@
-{
-    "_id": "12276",
-    "description": "While I have not heard from Slinkin or know what fate has befallen him, perhaps I can assist in finding him.<Quarterflash holds up a tiny mechanical toy.>This is not a toy, newfound compatriot. It is, in fact, my latest mechanical creation. The machine was created with the sole purpose of finding that which has been lost. These are unfortunate circumstances, but the machine is your best chance at finding Slinkin.When you are ready to begin your search, place the bot on the ground next to me.",
-    "name": "The Search for Slinkin",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

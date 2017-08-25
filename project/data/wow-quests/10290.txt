@@ -1,7 +1,0 @@
-{
-    "_id": "10290",
-    "description": "To the northeast is an area called the Netherstone, a landmark not seen when this was a lush, green land. Newly-exposed crystal formations have shown us a mineral we've called farahlite in honor of this land's former identity.The tiny amount of farahlite we've mined has already proven popular with our clients. The highest grade of the mineral comes not from static deposits, but from the giants around the Netherstone. I can offer you a cut of the profits if you'll help supply the higher grade farahlite.",
-    "name": "In Search of Farahlite",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

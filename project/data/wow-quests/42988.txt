@@ -1,8 +1,0 @@
-{
-    "_id": "42988",
-    "added_in_patch": 7,
-    "description": "The elements have gathered, and though the Firelands have yet to unite with us, we have more strength on our side than ever before.However, the war with the Burning Legion still rages, and for now we must turn our gaze to the Broken Isles.When we have dealt sufficiently with the immediate threats of the war, we will turn our attention to uniting the Firelands to our cause.",
-    "name": "Worldmender",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33965",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tanaan Flowerpicker",
-    "requires_level": 90,
-    "zone": "Talador"
-}

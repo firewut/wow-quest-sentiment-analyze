@@ -1,7 +1,0 @@
-{
-    "_id": "13056",
-    "description": "I should manage for now, <name>.  There is one favor I'd like to ask, though.I would never had fallen to one of these worms, but my wind serpent, Heesha, was killed by the meanest worg I've seen in some time.Don't worry about me now, I'll feel better when that worg is breathing no more.  You should find him deeper in the cave.",
-    "name": "There's Always Time for Revenge",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "10163",
-    "description": "Now that you've got your wings, perhaps you'd be interested in running another bombing mission?This time we've isolated the Legion's main production area, behind the forge camps to the north. I need you to get on a gryphon and destroy the whole damned thing!Here are your bombs - now, talk to Gryphoneer Windbellow when you're ready for takeoff.\r\n",
-    "name": "Mission: The Abyssal Shelf",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

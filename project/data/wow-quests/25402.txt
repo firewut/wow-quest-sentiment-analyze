@@ -1,7 +1,0 @@
-{
-    "_id": "25402",
-    "description": "He's right. I haven't been among the night elves long, but I can tell these markings are completely unlike any kaldorei decorations...Estulan needs to see this. Take this up the tower to him. He may be surly, but don't be dissuaded; once he sees the orb, he'll realize it's an important issue.",
-    "name": "Estulan's Examination",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

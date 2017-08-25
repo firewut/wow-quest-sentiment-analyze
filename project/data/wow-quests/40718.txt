@@ -1,9 +1,0 @@
-{
-    "_id": "40718",
-    "added_in_patch": 7,
-    "description": "<The arcane anomaly addresses you in Khadgar's voice.>Though I am loathe to interrupt your fight against the Legion, I must request your help in a matter of... diplomacy. We face a grave threat, and we require the full might of Azeroth's people to overcome it.The Horde must become part of the Kirin Tor once again. Some will not agree with this position.Please join me outside the Violet Citadel in Dalaran. We have repositioned the city to defend the Eastern Kingdoms, above Karazhan.",
-    "name": "Calling of the Council",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Dalaran"
-}

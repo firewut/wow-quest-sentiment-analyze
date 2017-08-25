@@ -1,7 +1,0 @@
-{
-    "_id": "10222",
-    "description": "After Prince Kael'thas's forces destroyed the village and imprisoned the archmage in the Violet Tower, they withdrew to Sunfury Hold to the northeast. The very men who destroyed our village and slew our fellows toast their 'amazing victory' while we are helpless to avenge the fallen.We must not allow these crimes to go unanswered! Be the instrument of our vengeance, <name>. Go to Sunfury Hold and claim the lives of those responsible for this crime.",
-    "name": "The Sunfury Garrison",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27711",
-    "description": "The Earthcaller's initiate, Goldmine, has need of you.I think that they're ready for you to help them with whatever's down in that mine.",
-    "name": "Back to the Elementium Depths",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

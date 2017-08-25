@@ -1,7 +1,0 @@
-{
-    "_id": "12915",
-    "description": "If I hope to wrest control of the Temple of the Makers from my brother, I must make amends with my old allies.Perhaps by eliminating a common enemy, we may at least take a step towards renewing my friendship with the frost giants.Fjorn has besieged Dun Niffelem with giants of iron. You must defeat him at Fjorn's Anvil, far to the east of here, and weaken his forces sufficiently for the Sons of Hodir to emerge victorious.Take this charm, <name>. Use it to summon my earthen to your aid.",
-    "name": "Mending Fences",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

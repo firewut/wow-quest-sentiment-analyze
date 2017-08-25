@@ -1,7 +1,0 @@
-{
-    "_id": "10721",
-    "description": "<name>, I have a pet boar named Huffer. He wants to help you to have some fun with one of the nearby sons of Gruul.Grulloc inhabits a place known as the Cursed Hollow. When you get there, let Huffer loose. The gronn will have a fine time chasing him around, and you will retrieve the bag that he guards and deliver it to Baron Sablemane.To get to the Cursed Hollow, head down the northern ramp and east through Dragons' End. The hollow is on the eastern edge.",
-    "name": "A Boaring Time for Grulloc",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

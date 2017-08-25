@@ -1,8 +1,0 @@
-{
-    "_id": "25136",
-    "description": "It sure gets hot out here in the Valley of Trials.<Galgar wipes his brow.>If only I had some cactus apples, I could make my famous cactus apple surprise! Nothing cools you off faster than a piece of that delicious treat.I'll tell you what, <name>. If you bring me 6 cactus apples, I'll make you a few portions of cactus apple surprise to take with you on your adventures. If you're interested, you can find cactus apples growing near the cactus plants around here.",
-    "name": "Galgar's Cactus Apple Surprise",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Valley of Trials"
-}

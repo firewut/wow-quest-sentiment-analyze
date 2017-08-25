@@ -1,9 +1,0 @@
-{
-    "_id": "41890",
-    "added_in_patch": 7,
-    "description": "Xavius has been this way, but his destination is unclear. The Nightmare smothers my mind!\r\n\r\nThese refugees tell of an ancient Moonwell hidden in the ruins ahead.\r\n\r\nIf it is uncorrupted, it will give me the focus I need. By Elune's light, we will find my husband yet.\r\n\r\nMeet me at the Moonwell at once, <class>.",
-    "name": "Dark Side of the Moon",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Val'sharah"
-}

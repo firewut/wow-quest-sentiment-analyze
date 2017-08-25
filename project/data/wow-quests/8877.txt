@@ -1,7 +1,0 @@
-{
-    "_id": "8877",
-    "description": "",
-    "name": "Firework Launcher",
-    "requires_level": 45,
-    "zone": "Lunar Festival"
-}

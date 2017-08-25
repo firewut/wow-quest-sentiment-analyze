@@ -1,7 +1,0 @@
-{
-    "_id": "25446",
-    "description": "Wit de frogs ready to go, I be needin' ya to help me send 'em out to the isles.On de eastern side of Sen'jin Village, ya can find Handler Marnlek. He be handlin' all the bats for Vol'jin's scouts and he can loan ya a bat to get ya out to de isles.Take dis sack' o frogs with ya. I been askin' de spirits for guidance. Dey've sent smoke to show ya where I need de eyes most. While ridin' de bat, reach into de sack and toss de frogs toward de white smoke.",
-    "name": "Frogs Away!",
-    "requires_level": 1,
-    "zone": "Durotar"
-}

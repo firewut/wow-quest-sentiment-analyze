@@ -1,8 +1,0 @@
-{
-    "_id": "38689",
-    "added_in_patch": 7,
-    "description": "So many years of imprisonment has left us weak.\r\n\r\nThe Vault is overrun with demons.  Kill them and gather their souls to regain your strength.",
-    "name": "Fel Infusion",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

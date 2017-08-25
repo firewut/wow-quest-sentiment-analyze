@@ -1,8 +1,0 @@
-{
-    "_id": "31315",
-    "added_in_patch": 5,
-    "description": "At the very bottom of the treasure chest, you find a stack of scrolls and a soft leather sack with seeds.Unrolling the scrolls, you see they contain detailed farming notes, drawings of plants, numbers and calculations, locations of nearby water springs, and countless other snippets.There might be someone at the Tillers Union who would like to see this.",
-    "name": "The Heartland Legacy",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

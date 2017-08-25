@@ -1,8 +1,0 @@
-{
-    "_id": "13875",
-    "description": "I have a bit of a personal request for you, <class>.It has been many moons since I have seen my love, Draaka. It will be many more before we are able to be together again. I fear that as time passes, her love for me will wane.This braid has special meaning to the two of us, as do Thorned Bloodcups, the flower of this region.I ask that you pluck the flowers and weave them into this twine, then present the gift to Draaka on my behalf.",
-    "name": "Gurtar's Request",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

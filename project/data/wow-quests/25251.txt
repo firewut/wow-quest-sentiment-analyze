@@ -1,8 +1,0 @@
-{
-    "_id": "25251",
-    "description": "<name>, this is it! Thrall's down at the Gallywix Docks fighting the Trade Prince right now!You gotta jump into your Ultimate Footbomb Uniform and get over there!",
-    "name": "Final Confrontation",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

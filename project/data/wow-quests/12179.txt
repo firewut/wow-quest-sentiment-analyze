@@ -1,7 +1,0 @@
-{
-    "_id": "12179",
-    "description": "DESCRIPTION: Complete this quest for Specialization 1.",
-    "name": "Specialization 1 [PH]",
-    "requires_level": 61,
-    "zone": "Tailoring"
-}

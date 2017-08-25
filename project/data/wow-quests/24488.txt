@@ -1,8 +1,0 @@
-{
-    "_id": "24488",
-    "description": "My guys are all on the injured roster! Our shredders are all kaput! The ref is about to call the game!It's down to the wire and I need you, <name>!!!Let's get one of these shredders in working condition. There are replacement parts all over Bilgewater Port. Any green-blooded Kezanian will gladly let you have them if there's a chance that the Buccaneers will win.We'll show those no-good Steamwheedle Sharks how to play footbomb!",
-    "name": "The Replacements",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10599",
-    "description": "While you were taking care of the infernals at Legion Hold, I've been going over your reports. We've got no reason to believe the Legion lied about what's going on at the Deathforge. They're really cranking out infernals down there, so I've dispatched a scouting party to keep watch over it.If we don't shut down the Deathforge, they'll rebuild the infernal stockpile that you destroyed at Legion Hold.Report to Scout Zagran atop Slag Watch, to the southeast of here and overlooking the Deathforge.",
-    "name": "The Deathforge",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

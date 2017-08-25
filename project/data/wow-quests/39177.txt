@@ -1,7 +1,0 @@
-{
-    "_id": "39177",
-    "description": "<It is in disrepair, but it is not broken. More than anything, the construct appears to be in need of re-energizing.><A slot on the backside of the machine lies open, waiting to accept... whatever the Apexis used as a source of energy.>",
-    "name": "Ruined Construct",
-    "requires_level": 100,
-    "zone": "Jewelcrafting"
-}

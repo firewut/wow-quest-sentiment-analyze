@@ -1,8 +1,0 @@
-{
-    "_id": "38865",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Battle At The Iron Front",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

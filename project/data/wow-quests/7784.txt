@@ -1,8 +1,0 @@
-{
-    "_id": "7784",
-    "description": "Seek out Overlord Natoj in the Valley of Strength.",
-    "name": "The Lord of Blackrock",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

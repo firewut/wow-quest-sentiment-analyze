@@ -1,8 +1,0 @@
-{
-    "_id": "40204",
-    "added_in_patch": 7,
-    "description": "As we make stronger armor, the creatures we battle adapt and learn to defeat us. We in turn create better armor, and they in turn learn to defeat it yet again.For centuries, my people have battled the basilisks of the mesas below. They have adapted to us as thoroughly as we have to them.Go, kill these basilisks and take from them their hides. Return them to me so I may show you how they have evolved.",
-    "name": "Evolution of the Past",
-    "requires_level": 108,
-    "zone": "Leatherworking"
-}

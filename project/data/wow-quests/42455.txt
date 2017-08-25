@@ -1,8 +1,0 @@
-{
-    "_id": "42455",
-    "added_in_patch": 7,
-    "description": "Arrexis had a cadre of apprentices and subordinates to help him with the ritual, something you are currently lacking.In older times, when magic was less understood and spells required vast amounts of mana to cast, we stored mana in gems for use in complex spells.Lucky for us, I still have a few powerful Mana Gems in my vault, along with some other useful items. You merely need to go to the Bank of Dalaran and gain access.",
-    "name": "Alodi's Gems",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

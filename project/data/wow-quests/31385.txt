@@ -1,8 +1,0 @@
-{
-    "_id": "31385",
-    "added_in_patch": 5,
-    "description": "The Golden Lotus have guarded the Vale for centuries, keeping it safe and hidden from harm.Recent events have unleashed terrible horrors upon our sacred vale, but allies of the Golden Lotus still stand against them, attempting to bring peace.If you wish to help, you had best join them at the Setting Sun Garrison.",
-    "name": "The Golden Lotus",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "30070",
-    "added_in_patch": 5,
-    "description": "Alright lad. We've taken enough jabs at this warlock army... now it's time to cut off the head.Ga'trul's back there, in that big ol' temple ruin. Give him a good what-for, and the Horde will have lost its last stake here in Pandaria.",
-    "name": "The Fall of Ga'trul",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

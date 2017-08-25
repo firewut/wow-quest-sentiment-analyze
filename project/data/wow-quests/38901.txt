@@ -1,8 +1,0 @@
-{
-    "_id": "38901",
-    "added_in_patch": 7,
-    "description": "Ye have a knack with this felslate, lad. Best ship ye off to someone who knows the stuff better than I.The Illidari have a knack with all things demonic, really, and I've heard about a few miners who've set up shop out near the demons in Suramar.Pay 'em a visit. See what they have to teach ye.",
-    "name": "The Felsmiths",
-    "requires_level": 98,
-    "zone": "Mining"
-}

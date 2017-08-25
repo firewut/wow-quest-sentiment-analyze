@@ -1,8 +1,0 @@
-{
-    "_id": "40202",
-    "added_in_patch": 7,
-    "description": "<name>, Hrul has requested your presence. From his message it seems as though he's ready to impart to you all the wisdom he has gained from working with the skins of this land.I envy you, <name>... but I'm also proud to see that you've gained so much respect with him.Go now, and good luck!",
-    "name": "The Final Lessons",
-    "requires_level": 108,
-    "zone": "Leatherworking"
-}

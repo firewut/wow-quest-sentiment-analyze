@@ -1,8 +1,0 @@
-{
-    "_id": "40022",
-    "added_in_patch": 7,
-    "description": "Another plant, killed by the blight. This one coiled so hard that it starved itself of sunlight.You should bring it to Wildcrafter Osme in Lorlathil. He won't be happy.",
-    "name": "Choked by Nightmare",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

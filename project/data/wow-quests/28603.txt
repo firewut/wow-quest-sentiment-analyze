@@ -1,7 +1,0 @@
-{
-    "_id": "28603",
-    "description": "For your next mission I want you to travel west to the Headland and infiltrate the Stormpike training grounds. Though there are hundreds of Stormpike trainees there, one of my banshees will disguise you to look like one of the humans captured earlier, allowing you to walk freely among the enemy.Enter the Headland and find the Stormpike instructors. Once found, coerce them into attacking you! When they attack, kill them. With their instructors dead, they will be unable to train more soldiers!",
-    "name": "Infiltration",
-    "requires_level": 21,
-    "zone": "Hillsbrad Foothills"
-}

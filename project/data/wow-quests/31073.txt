@@ -1,8 +1,0 @@
-{
-    "_id": "31073",
-    "added_in_patch": 5,
-    "description": "<Vu eyes the recipe.>Hmm... \"bound with wood\". We don't typically brew with wood. Sap, yes... but not wood.We have, on rare occasions, infused our drinks with corewood from the treants to the west of here. Most of them have fallen to the mantid... but their remains should suffice for our recipe.",
-    "name": "Bound With Wood",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

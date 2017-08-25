@@ -1,7 +1,0 @@
-{
-    "_id": "10968",
-    "description": "I am sensing something very special about this child indeed.You should take her to visit Farseer Nobundo, here in the Exodar.  I believe that he has been expecting the two of you.Look for Nobundo upon the highest terrace in the Crystal Hall.",
-    "name": "Call on the Farseer",
-    "requires_level": 60,
-    "zone": "Children's Week"
-}

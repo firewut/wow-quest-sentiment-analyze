@@ -1,8 +1,0 @@
-{
-    "_id": "26819",
-    "description": "The naga explorers to our west carry a valuable ocean reed - Akiris reeds.  Traders use them to make medicines and poultices, and craftsmen use them to line armor or even wrap cigars!In the evenings, when digging's done, father's been teaching me how to use them... but unfortunately, we ran out.  Would you mind getting us some more?",
-    "name": "Akiris by the Bundle",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "The Cape of Stranglethorn"
-}

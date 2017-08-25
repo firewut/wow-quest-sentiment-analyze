@@ -1,8 +1,0 @@
-{
-    "_id": "25237",
-    "description": "As you witnessed, the dragon Ysondre has told us that the tears of the land can seal the portal from which this corruption stems.Weeks ago, in the glade to the west, I saw the mountain giants distraught. They raged in frustration and wept, and their tears fell upon the stones as shining crystals.Though the giants weep no more, these stonetears must be what Ysondre referred to; a source of nature's purity. We must gather them.",
-    "name": "Tears of Stone",
-    "requires_level": 34,
-    "side": "horde",
-    "zone": "Feralas"
-}

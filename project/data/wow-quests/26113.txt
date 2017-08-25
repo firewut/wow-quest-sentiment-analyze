@@ -1,8 +1,0 @@
-{
-    "_id": "26113",
-    "description": "The Horde have held Go'shek Farm to the east for a long time; it's never been of much concern compared to the rest of our problems here. But there's been reports of undead activity in the area.Anything more alarming than shuffling peons over there warrants investigation. This isn't the first time the undead have been up to no good at the farm, so I've sent my best scouts there to check it out. Report to Quae and Kinelory and they'll fill you in.",
-    "name": "Quae and Kinelory",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

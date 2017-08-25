@@ -1,8 +1,0 @@
-{
-    "_id": "37147",
-    "added_in_patch": 6,
-    "description": "Greetings, <name>, and I thank you for your hospitality.The Shado-pan have sent several warriors to aid against the Iron Horde, however we can. We are few, though, and they are many.The arakkoa in the south are both beautiful and deadly. They appear lighter than air, their attacks a deadly dance that flits from opponent to opponent.The winds are on their side, as the four winds lighten the steps of my own allies. Bring me a sample of their winds, if you are able. It will surely aid us.",
-    "name": "Sky Dancers",
-    "requires_level": 97,
-    "zone": "Skyreach"
-}

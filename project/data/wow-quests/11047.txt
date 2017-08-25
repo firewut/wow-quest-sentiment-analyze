@@ -1,7 +1,0 @@
-{
-    "_id": "11047",
-    "description": "As an apprentice wind rider master, one of my tasks is to care for the beasts when they're not flying. The problem is that we have so few here, there's very little downtime for any of them.I'm afraid we'll work them all to death if we don't receive any replacements. There's a large stable down in Shadowmoon Village, in western Shadowmoon Valley. Dama Wildmane oversees the wind rider care and training there.Would you speak with her on our behalf and let her know about our situation?",
-    "name": "The Apprentice's Request",
-    "requires_level": 67,
-    "zone": "Blade's Edge Mountains"
-}

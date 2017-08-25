@@ -1,9 +1,0 @@
-{
-    "_id": "35035",
-    "added_in_patch": 6,
-    "description": "When these seedbearers are slain their seeds survive. From them spring new seedbearers, not over years, but hours.Leaving their remains here would soon cause your camp to be overrun.Burn them, outsider, if you wish your camp to endure.",
-    "name": "Seedbearers of Bad News",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

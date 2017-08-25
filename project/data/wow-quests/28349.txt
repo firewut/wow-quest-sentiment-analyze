@@ -1,8 +1,0 @@
-{
-    "_id": "28349",
-    "description": "Boss, while you were down at the mines, Megs Dreadshredder in marketing was asking for you. Something about your new ride?She's right outside the building to the left.",
-    "name": "Megs in Marketing",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

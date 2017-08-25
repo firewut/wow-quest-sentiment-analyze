@@ -1,8 +1,0 @@
-{
-    "_id": "32139",
-    "added_in_patch": 5.1,
-    "description": "We just filled an order this morning. How could they possibly need more already?!My team has been workin' double-time to get these trees chopped and processed.Problem is we have an infestation of Lion's Landing troops down here. I already risked my neck once today, I'm not goin' back out there!Goob will go with you and help you fill this order. He's not the brightest, but he can do the heavy liftin'.",
-    "name": "Stacked!",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

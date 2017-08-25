@@ -1,8 +1,0 @@
-{
-    "_id": "39351",
-    "added_in_patch": 7,
-    "description": "Now that we have all the ingredients assembled, we need one last thing.The fire of my forges burn hot, but not hot enough to work these ingredients into glass. For that, we need more heat. The heat of a dragon to be exact.I'm aware of one that has emerged from the Emerald Dream in a corrupted state. Corrupted or not, a dragon's heart burns with enough heat to melt the strongest of materials.Bring me its heart and you'll have your conduit.",
-    "name": "Rage Fire",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

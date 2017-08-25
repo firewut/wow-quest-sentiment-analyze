@@ -1,7 +1,0 @@
-{
-    "_id": "12518",
-    "description": "Now that you have gathered all of the Mage cards together into a deck, another card appears on top.  It depicts a fortune teller that seems to stare at you no matter how you hold the card.You feel the card could be used to communicate with someone or something.",
-    "name": "Mages Deck",
-    "requires_level": 30,
-    "zone": "Inscription"
-}

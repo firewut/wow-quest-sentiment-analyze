@@ -1,7 +1,0 @@
-{
-    "_id": "413",
-    "description": "I'd like my brother Wellart to try my new Shimmer Stout.  He's a Mountaineer stationed in the southern guard tower, one of two towers on the border to Loch Modan.He may not be a brewer like the rest of us Barleybrews, but he loves his drinks and I know he'll like this one.Can you bring him this Barrel of Shimmer Stout for me?",
-    "name": "Shimmer Stout",
-    "requires_level": 8,
-    "zone": "Dun Morogh"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12991",
-    "description": "Bouldercrag's got a good plan to stymie the efforts of the iron dwarves at Narvir's Cradle, and I've got an idea of my own. Work on the iron colossus will come to a halt without any artisans.Narvir's Cradle is on the south side of the hill sheltering Bouldercrag's Refuge. Go there and slay any stormforged artificers in your path. They may be no different from what we once were, but they build a weapon that threatens us all.",
-    "name": "Hit Them Where it Hurts",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

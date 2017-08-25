@@ -1,7 +1,0 @@
-{
-    "_id": "28471",
-    "description": "The log you found on the high chief looks extensive, but after looking through a couple of the pages, you find that you cannot read the text. The markings are so crude and poorly-formed that you are not sure if anyone would be able to read them.But perhaps Donova will be able to tell you what it says... ",
-    "name": "The Final Piece",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "29555",
-    "added_in_patch": 5,
-    "description": "Alright, soldier. I've got a critical mission for you.\r\n\r\nGet down to the coastline south of here - in the cove there you'll find a wrecked Alliance vessel. I need you to search it and find out if it was the ship that was carrying Anduin. \r\n\r\nThen, recover the Captain's Log and see if it has any information on where we can find him.\r\n\r\nSince the log is from a military ship, it'll be written using a cipher - take it to Nodd Codejack afterwards. He's keeping watch on the wreck from the other end of the cove.",
-    "name": "The White Pawn",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

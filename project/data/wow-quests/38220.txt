@@ -1,8 +1,0 @@
-{
-    "_id": "38220",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Arauk Nashal 70:JP3 - Aggramar's Vault - Tracking Quest Cleared - Aggramar's Vault",
-    "requires_level": 90,
-    "zone": "Quests"
-}

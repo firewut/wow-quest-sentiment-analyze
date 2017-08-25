@@ -1,7 +1,0 @@
-{
-    "_id": "9372",
-    "description": "Welcome to the Cenarion Post, <class>. We don't often get company out here, but I'm grateful for the visit. My work with the creatures of this desolate land requires me to travel to many remote places.The Cenarion Expedition has dispatched me to study some of the most dangerous wildlife in Outland, and I've made a startling discovery. While many creatures here have already undergone radical changes, they continue to mutate. I'm collecting blood samples to document the changes, and any help would be welcome.",
-    "name": "Demonic Contamination",
-    "requires_level": 61,
-    "zone": "Hellfire Peninsula"
-}

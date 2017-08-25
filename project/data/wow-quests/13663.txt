@@ -1,7 +1,0 @@
-{
-    "_id": "13663",
-    "description": "We must discover who sent the Black Knight to the tournament and what his master hopes to gain by killing the competitors.The Kirin Tor has offered to help in this matter and provided us with something to help our search.Take this enchanted bridle to the Black Knight's camp on the eastern edge of the tournament grounds and use it to gain control over the Black Knight's gryphon. The bridle's magic will force the gryphon to take you to his master's home. Search it and return with anything you find.",
-    "name": "The Black Knight's Orders",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

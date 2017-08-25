@@ -1,8 +1,0 @@
-{
-    "_id": "41938",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Brothers of Skovald",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

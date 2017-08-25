@@ -1,8 +1,0 @@
-{
-    "_id": "25256",
-    "description": "You, <race>, stop a minute.My boss Spiketooth sent me to look for help and supplies.  You don't appear to be a merchant, but you can probably still help him out.  He's just to the southeast of here, next to the crashed cart.  Oh, and tell him I sent you... I want to make sure that he knows I'm not just slacking off over here.",
-    "name": "Sent for Help",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Durotar"
-}

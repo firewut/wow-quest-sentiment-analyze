@@ -1,7 +1,0 @@
-{
-    "_id": "11566",
-    "description": "The time has come to put an end to this unnatural situation, <name>. For the Winterfin murlocs to have a chance at a future, Claximus must die!I want you to take my spare murloc suit and enter the Winterfin Caverns under the pretext of surrender. With the white flag in hand, the murlocs won't attack you.You'll find him in the southwestern most corner of the caverns. Once you get close enough, deal with Claximus. Bring me one of his claws as proof that the grisly deed has been done.",
-    "name": "Surrender... Not!",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14433",
-    "description": "In order to infiltrate and disrupt the Blackmaw negotiations, we'll need to know where they're happening. In Blackmaw Hold to the southwest, I suspect you'll find night elven ambassadors milling around, making preparations.<Haggrum spits on the ground.>Kill them at your leisure, and search the area for important documents. Oh, and grab a set of their ambassador's robes, we'll need them.",
-    "name": "Diplomacy by Another Means",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

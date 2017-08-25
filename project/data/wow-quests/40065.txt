@@ -1,8 +1,0 @@
-{
-    "_id": "40065",
-    "added_in_patch": 7,
-    "description": "<A goopy substance seeps from the interior of the bloom. It's not ink... it is something else entirely.><Professor Pallin would be interested in seeing this.>",
-    "name": "Fjarnsk",
-    "requires_level": 108,
-    "zone": "Inscription"
-}

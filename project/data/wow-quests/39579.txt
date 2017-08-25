@@ -1,8 +1,0 @@
-{
-    "_id": "39579",
-    "added_in_patch": 7,
-    "description": "This will take Mayla some time to adjust to.That being said, we should return to Thunder Totem.Just south of here is a tunnel that should take us through the old drogbar slave enclave and then to an opening beyond.We keep a small Skyhorn outpost there to watch and ensure nothing enters or leaves this vault without us knowing about it. They should be able to fly us back.",
-    "name": "The Backdoor",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

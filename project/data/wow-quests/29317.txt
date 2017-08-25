@@ -1,8 +1,0 @@
-{
-    "_id": "29317",
-    "description": "There was an... incident... with an orc guard and one of Master Apothecary Faranell's abominations.Apparently, the Kor'kron Overseer chopped its head clean off and kicked it into the slime.Faranell's apprentices searched for hours but they can't find the thing. Care to try fishing it up? I'm sure the old fellow'd be grateful.",
-    "name": "Fish Head",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Fishing"
-}

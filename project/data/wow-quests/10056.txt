@@ -1,7 +1,0 @@
-{
-    "_id": "10056",
-    "description": "The orcish ruins of Zeth'Gor to the southeast serve as a base for an ever-growing tide of orcs emerging from Hellfire Citadel.The Sons of Lothar have been fighting them for some time, and the stories they tell would be nigh unbelievable if I hadn't seen these 'fel' orcs with my own eyes.Something has changed them, augmented them in a way we've never seen before. We have to do anything we can to keep them from strengthening. Go to Zeth'Gor and destroy any supplies you find there.",
-    "name": "Bleeding Hollow Supplies",
-    "requires_level": 58,
-    "zone": "Hellfire Peninsula"
-}

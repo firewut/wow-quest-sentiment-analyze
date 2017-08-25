@@ -1,7 +1,0 @@
-{
-    "_id": "29161",
-    "description": "Oh, raspberries! Just when we had saved the last bear cub from the treetops, the fires returned and scared them again!I don't know if you know this, but baby bears are precious and soft.Go to the Whistling Grove, far to the northwest. Climb the trees, grab the bear cubs, and chuck them - gently! - to the soft target in the center of the grove.<Without warning, Mylune suddenly smashes you against her bosom and begins sobbing.>Lil' b-b-b-baby bears! Save them, <name>!",
-    "name": "Those Bears Up There",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

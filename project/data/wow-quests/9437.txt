@@ -1,8 +1,0 @@
-{
-    "_id": "9437",
-    "description": "The ogres here are useful for little more than crude jokes, sour ale, and bouts of headbutting. When my ship, the Dawn Runner, ran aground, those curs from Theramore made off with my cargo and last surviving crewman. I made my way here searching for help, but those good-for-nothing ogres stared blankly at me when I told them my story.I could use the help of a reliable <race> in recovering what remains of my cargo and freeing Ithania from North Point Tower, to the northeast, where they're being held.",
-    "name": "Twilight of the Dawn Runner",
-    "requires_level": 33,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "31664",
-    "added_in_patch": 5,
-    "description": "This journal provides a hazy recollection of Nat Pagle's grand adventures.  Simply reading it will undoubtedly provide a useful insight into fishing.",
-    "name": "An Angler's Quest",
-    "zone": "Fishing"
-}

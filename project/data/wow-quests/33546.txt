@@ -1,9 +1,0 @@
-{
-    "_id": "33546",
-    "added_in_patch": 6,
-    "description": "In his haste, Ga'nar advanced before this area was secured. He is a matchless warrior, mind you, but his tactics are sometimes costly.Gol'kosh and his troops were ordered to destroy enemy supplies, but ogres have stolen the oil he needs.Retrieve the oil and see that their mission is carried out, traveler. Then, if they still live, direct them to rejoin me at the citadel's entrance.I must see my wounded brothers to safety.",
-    "name": "Deeds Left Undone",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35462",
-    "added_in_patch": 6,
-    "description": "Those Iron Horde cannons are laying waste to our troops. I'm not sure how much more of this we can handle. Our forces are already spread too thin.There has to be a way to stop those war machines.",
-    "name": "Under Siege",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

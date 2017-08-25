@@ -1,7 +1,0 @@
-{
-    "_id": "10558",
-    "description": "You've proven your worth to our cause, <name>.  One such as yourself could one day become a great leader.Continue to fight our enemies in the Shattered Halls and gain renown among my men.  If you live up to my expectations I will have greater tasks to ask of you.",
-    "name": "Revered Among Honor Hold",
-    "requires_level": 68,
-    "zone": "Hellfire Citadel"
-}

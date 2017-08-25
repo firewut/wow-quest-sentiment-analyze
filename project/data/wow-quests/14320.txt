@@ -1,8 +1,0 @@
-{
-    "_id": "14320",
-    "description": "Ah, yes.  The effects of the Curse cannot ever be fully cured as far as we know.With treatment, however, your mind will remain yours... and not that of a wild animal.We are fortunate that the treatment worked on you.  Normally, I can only treat recent infections.We'll need to continue your medication if we're to have you reverse the Curse.I will need mandrake essence to brew another batch of my serum for you.  You will find a crate stashed beneath a shed southwest of town.",
-    "name": "In Need of Ingredients",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

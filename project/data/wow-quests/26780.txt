@@ -1,7 +1,0 @@
-{
-    "_id": "26780",
-    "description": "Nighttime in Stranglethorn is a beautiful thing.  The skies fill with stars, and the moon casts its rays right between those leaves, right there.  I could stare at these skies all night.Unfortunately, the trolls that walk the ruins of Zul'Mamwe are interfering with my astronomy.  They burn braziers, day and night, which rob me of the darkness I need.Please, <name>... travel east into Zul'Mamwe and put them out.",
-    "name": "Nighttime in the Jungle",
-    "requires_level": 27,
-    "zone": "Northern Stranglethorn"
-}

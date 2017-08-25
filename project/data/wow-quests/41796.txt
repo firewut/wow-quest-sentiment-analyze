@@ -1,8 +1,0 @@
-{
-    "_id": "41796",
-    "added_in_patch": 7,
-    "description": "With the demon sisters under your control, you have managed to weaken Mephistroth's army and gain powerful allies for the council.\r\n\r\nOur work is not done, however. Dreadscar Rift will remain a target as long as the Burning Legion remains.\r\n\r\nIf we wish to protect our new home, we must rebuild the council. Both Lulubelle and Kira have proven themselves worthy to join our ranks, though only one spot remains.\r\n\r\nAs First of the Black Harvest, the choice is yours.",
-    "name": "Selecting a Sixth",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9216",
-    "description": "I hear the Amani trolls eat their enemies' hearts to steal their strength.  They might just be on to something, <name>.  With the proper treatment, the hearts of the unliving can produce potent elixirs.Hunt down the zombies that roam the Dead Scar and bring me their hearts.  I'll show you the kind of enhancement we can perform to your physical prowess against the undead.",
-    "name": "Rotting Hearts",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

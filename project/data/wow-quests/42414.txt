@@ -1,8 +1,0 @@
-{
-    "_id": "42414",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Addie Fizzlebog",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

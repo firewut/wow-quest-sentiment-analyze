@@ -1,7 +1,0 @@
-{
-    "_id": "5633",
-    "description": "Greetings, laddy. Good to see you here in our great halls. A blessing be on you and your kind.While you were traveling through our lands, a priestess of your temple came here seeking you. She said that you were to return to the Temple of the Moon as soon as possible. I'm sorry I can't tell you more, but it did sound important. When you get to the temple, speak to a Priestess Alathea.",
-    "name": "Returning Home",
-    "requires_level": 10,
-    "zone": "Priest"
-}

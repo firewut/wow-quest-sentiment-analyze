@@ -1,7 +1,0 @@
-{
-    "_id": "11681",
-    "description": "At last, we attack!Once we've cleared the platform I'll use the key.You are to ensure that Lady Evanor remains safe after her release.Hurry now, let us be off!",
-    "name": "Rescuing Evanor",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

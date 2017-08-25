@@ -1,8 +1,0 @@
-{
-    "_id": "24573",
-    "description": "With the immediate threat gone, can you help with some grim business?We tauren do not bury our dead, we prepare the body for its return to the elements and place it at our sacred grave sites. Those killed in the Taurajo massacre have had no funeral, and I worry misguided Alliance soldiers will burn the bodies of the dead before the proper rites have been performed.<name>, please take this totem to Taurajo and perform services for Krulmoo, Dranh, Yonada, and Omusa. They ... didn't make it out of there. ",
-    "name": "Honoring the Dead",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

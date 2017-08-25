@@ -1,8 +1,0 @@
-{
-    "_id": "24519",
-    "description": "These maps have all been drawn by the same steady hand. I've seen a human surveyor heading up and down the road between the hold and the jungle to the east.We can set their plans back by making an example out of this surveyor, <name>.<Kilrok points to the signature at the bottom of the maps.>What do you think that says? \"Zykes?\" Even human names sound thin and weak. Kill him.",
-    "name": "Stalling the Survey",
-    "requires_level": 29,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

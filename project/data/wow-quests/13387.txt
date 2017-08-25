@@ -1,7 +1,0 @@
-{
-    "_id": "13387",
-    "description": "The saronite bombs are in place, <name>.  We're only going to get one shot at this, however.  Let's make it count.We need temporary control of the area for a safe detonation.  Let's try to put a dent in the Scourge's numbers.",
-    "name": "Securing the Perimeter",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

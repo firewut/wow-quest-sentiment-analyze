@@ -1,7 +1,0 @@
-{
-    "_id": "27316",
-    "description": "A tauren rattle lays here, exuding supernatural power. Its keepers slain, the artifact is undefended.Perhaps the sentinel will have some insight into its significance?",
-    "name": "The Rattle of Bones",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32288",
-    "added_in_patch": 5.2,
-    "description": "This island holds many dangers for us. Threats loom from every side. We must defend our hold on these shores at all costs.Perimeter wards have been placed around Dawnseeker Promontory. By default they will inflict damage, but are not fatal in their attack.Now is not the time to be merciful, <race>. The perimeter wards need to be deadly!Go and empower the perimeter wards surrounding our camp.",
-    "name": "Bolstering the Defenses",
-    "requires_level": 90,
-    "zone": "Quests"
-}

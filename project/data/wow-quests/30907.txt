@@ -1,8 +1,0 @@
-{
-    "_id": "30907",
-    "added_in_patch": 5,
-    "description": "And now the final round. I have selected three challengers for you to face. This may seem unfair... to a weakling. You are not a weakling, correct?Go to the main temple, stand in the grand arena, and face these three challengers. Prove you are stronger than their combined power!Good luck, Challenger!",
-    "name": "Round 4: The P.U.G.",
-    "requires_level": 90,
-    "zone": "Kun-Lai Summit"
-}

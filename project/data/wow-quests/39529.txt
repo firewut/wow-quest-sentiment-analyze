@@ -1,9 +1,0 @@
-{
-    "_id": "39529",
-    "added_in_patch": 6.2,
-    "description": "Beyond the meager shelter of these fortress walls, the jungle closes in. Can you feel it? That is the untamed wilderness, <class>, calling forth our primal instincts. There is no better way to feel alive than to court death.Join me in the hunt, <name>! Collect teeth from the wild beasts. The ravagers in Thornmire, the raptors in Zorammarsh - even the sea creatures along the strand and the little podling plants themselves all have teeth. Bring them to me!",
-    "name": "Tooth and Claw",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

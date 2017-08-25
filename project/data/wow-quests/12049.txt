@@ -1,7 +1,0 @@
-{
-    "_id": "12049",
-    "description": "Those troops are sure to be needin' a hefty supply of food in their bellies.I'll let you in on a little secret that a squeamish <race> like you would never know... those jormungar worms taste just like chicken.Go provoke one of those giant hulking jormungar to the east.  You're not likely to be able to kill one straight out, so just toss this down its throat when it opens its mouth wide.  Bring me back as many of the slabs of meat as you can tote.",
-    "name": "Hard to Swallow",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

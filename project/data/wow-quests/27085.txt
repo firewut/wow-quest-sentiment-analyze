@@ -1,7 +1,0 @@
-{
-    "_id": "27085",
-    "description": "While it is true that these farmers threaten to overrun us, we still cannot forget about the Alliance's main forces.Travel west into Andorhal and slay the human soldiers that are fighting with our deathguards.  We need all the help we can get.",
-    "name": "Supporting the Troops",
-    "requires_level": 38,
-    "zone": "Western Plaguelands"
-}

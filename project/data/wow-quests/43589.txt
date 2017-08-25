@@ -1,8 +1,0 @@
-{
-    "_id": "43589",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Leyline 03",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

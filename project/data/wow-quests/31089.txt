@@ -1,8 +1,0 @@
-{
-    "_id": "31089",
-    "added_in_patch": 5,
-    "description": "The Klaxxi'va have spoken to me, outsider. The paragon is hidden in the Briny Muck only, he is not so hidden anymore.The lizard men surround him. He cannot fall into their scaly hands.You will find him; you will awaken him. Do not return without him!If you do this the Klaxxi will be pleased with us.",
-    "name": "By the Sea, Nevermore",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

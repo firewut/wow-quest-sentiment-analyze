@@ -1,8 +1,0 @@
-{
-    "_id": "30631",
-    "added_in_patch": 5,
-    "description": "Look at this creature, traveler. Only moments after we arrived, this mogu assassin attacked with no warning.His blade was intended for the leader of the Golden Lotus. It is very lucky indeed that we were here to stop the attack.Seeing this attempt on Zhi's life, I fear for the safety of those who have already entered the valley.The caretakers are settling your people into the city to the southeast. Go and speak to the leaders. Make sure they are safe.",
-    "name": "The Shrine of Seven Stars",
-    "requires_level": 87,
-    "zone": "Vale of Eternal Blossoms"
-}

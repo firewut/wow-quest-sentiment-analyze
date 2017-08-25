@@ -1,7 +1,0 @@
-{
-    "_id": "39310",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Artillery Strike",
-    "zone": "Gorgrond"
-}

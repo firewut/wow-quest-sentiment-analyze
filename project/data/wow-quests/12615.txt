@@ -1,7 +1,0 @@
-{
-    "_id": "12615",
-    "description": "Hexxer Ubungo probably told you about making offerings to the gods of Zul'Drak. Zim'Abwa is not the only god that stands forgotten by the Drakkari.We have taken refuge within the presence of Zim'Torga, the Mother of Prosperity. As with Zim'Abwa, if you were to give offerings of the Drakkari to her, she is sure to give you her blessing.",
-    "name": "The Blessing of Zim'Torga",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

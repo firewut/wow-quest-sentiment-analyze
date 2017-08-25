@@ -1,8 +1,0 @@
-{
-    "_id": "32391",
-    "added_in_patch": 5.1,
-    "description": "Garrosh sent a hundred riders to search the northern coast of Kun-Lai Summit, to seek a mogu crypt matching the one you saw in Shan Kien's memory.Out of those, one found the resting place of the Divine Bell.Blademaster Ishi is leading an advance party to secure the bell now.Go and assist him. Defend that artifact from anyone who might stand in your way!Speak to Tak-Tak without delay. He can take you there.",
-    "name": "The Ruins of Korune",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

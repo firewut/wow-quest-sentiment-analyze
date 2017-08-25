@@ -1,8 +1,0 @@
-{
-    "_id": "37237",
-    "added_in_patch": 6,
-    "description": "What ho, squire <name>! Since last we spoke, I have heroically approached the gates of Blackrock Spire and nobly intended to end the toothy reign of its dragons.Yet, as I neared the place, my mind drifted to thoughts of my Doloria's fair face, and to my own painfully unsatisfied desires.My sword arm fell limp at my side.I charge THEE then, squire, to go in my stead and search Upper Blackrock Spire. I must know if the dragons still squirm within its corridors.",
-    "name": "A Hero's Quest is Never Complete",
-    "requires_level": 100,
-    "zone": "Upper Blackrock Spire"
-}

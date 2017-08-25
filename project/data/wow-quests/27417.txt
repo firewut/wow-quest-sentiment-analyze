@@ -1,7 +1,0 @@
-{
-    "_id": "27417",
-    "description": "You leave me alone now. Go tell Draz'Zilb we stay here. No black dragon here.",
-    "name": "The Brood of Onyxia",
-    "requires_level": 37,
-    "zone": "Dustwallow Marsh"
-}

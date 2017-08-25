@@ -1,8 +1,0 @@
-{
-    "_id": "41038",
-    "added_in_patch": 7,
-    "description": "The Storm Brew is created by a legendary vrykul brewmaster named Melba. Here is the location of her meadery along the northern Stormheim coast.If we can convince her to share her secret recipe with us, we will gain a significant advantage over the enemy.Grandmaster, how are your skills of persuasion?",
-    "name": "The Mead Master",
-    "requires_level": 110,
-    "zone": "Monk Campaign"
-}

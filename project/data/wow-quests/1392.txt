@@ -1,7 +1,0 @@
-{
-    "_id": "1392",
-    "description": "Noboru has plagued the Draenei of the Harborage for months, and his cudgel is a symbol of the brutality they have suffered at the hands of the lost ones.",
-    "name": "Noboru the Cudgel",
-    "requires_level": 29,
-    "zone": "Swamp of Sorrows"
-}

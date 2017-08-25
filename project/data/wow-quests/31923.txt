@@ -1,8 +1,0 @@
-{
-    "_id": "31923",
-    "added_in_patch": 5,
-    "description": "You want to fight again? I think I've gotten better!",
-    "name": "Ras'an",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

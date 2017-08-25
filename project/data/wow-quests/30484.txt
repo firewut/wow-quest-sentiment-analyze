@@ -1,9 +1,0 @@
-{
-    "_id": "30484",
-    "added_in_patch": 5,
-    "description": "The time for war is at hand, <name>!We've been training these natives non-stop since you left, and I believe they're as good as they're going to get.See for yourself. Check in with the others and return with your findings.We must rely on our enemy being somehow... even less prepared.",
-    "name": "Gauging Our Progress",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

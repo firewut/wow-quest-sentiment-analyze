@@ -1,8 +1,0 @@
-{
-    "_id": "25230",
-    "description": "We've found a brood of dragon whelps gathered off the road to the north, and they show the same illness as the stags.Green dragons are not simple beasts of nature, but the very guardians of the wild. They are magical creatures, and to see them ill as well implies this is a dangerous threat.We must stop this from spreading further through any means. Slay the infected whelps, <name>, and return to me.",
-    "name": "More Than Illness",
-    "requires_level": 34,
-    "side": "horde",
-    "zone": "Feralas"
-}

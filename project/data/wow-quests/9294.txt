@@ -1,7 +1,0 @@
-{
-    "_id": "9294",
-    "description": "Thank goodness, I think it'll work!  I have an agent for you to spread at Silverline Lake to the south.  It will neutralize the effects of the irradiated ship's power crystal that fell there.Swim out and scatter the neutralizing agent near it.  Don't worry, you won't be exposed long enough to become irradiated.",
-    "name": "Healing the Lake",
-    "requires_level": 1,
-    "zone": "Ammen Vale"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40040",
-    "added_in_patch": 7,
-    "description": "This herb bubbles and seethes with a foul energy. It is smooth, dry, and cool, yet somehow quite painful to touch.Your herbalism trainer in Dalaran will want to see this.",
-    "name": "Felwort Sample",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

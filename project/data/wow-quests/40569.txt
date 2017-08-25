@@ -1,8 +1,0 @@
-{
-    "_id": "40569",
-    "added_in_patch": 7,
-    "description": "Nothing! There is next to nothing in our records about this weapon!I've checked and re-checked, and can find barely a shred of a tale. This can only mean that the story comes from a land outside Pandaria.Li Li Stormstout is young, but she is the most traveled on the entire isle except for you. If anyone might know of this weapon, it is she.",
-    "name": "The Legend of the Sands",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

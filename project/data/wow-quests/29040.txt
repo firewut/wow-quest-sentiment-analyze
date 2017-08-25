@@ -1,7 +1,0 @@
-{
-    "_id": "29040",
-    "description": "The winterspring cub plays with a small tuft of fur from a large animal, batting the discarded hair about. While your cub looks like it's enjoying the new game, you wonder if it might get more enjoyment from a proper cat toy.With a little bit of leather from a yeti pelt and some feathers from crazed moonkin, you could make a respectable toy. You'll need a hide from the yeti in the Ice Thistle Hills southeast of Everlook and feathers from the moonkin at the Hidden Grove or Owl Wing Thicket.",
-    "name": "Cub's First Toy",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

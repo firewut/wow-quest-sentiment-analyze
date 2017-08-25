@@ -1,7 +1,0 @@
-{
-    "_id": "9566",
-    "description": "On the surface, the crystal appears to be a piece of the Exodar. Something has gone terribly wrong with this crystal, however, as it is blood red and rapidly dissolving into the water supply of the cave.This may explain the unusually aggressive behavior of the creatures in Azuremyst. Return to High Chief Stillpine with this information.\r\n",
-    "name": "Blood Crystals",
-    "requires_level": 7,
-    "zone": "Azuremyst Isle"
-}

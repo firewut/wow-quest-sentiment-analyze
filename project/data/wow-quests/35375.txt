@@ -1,9 +1,0 @@
-{
-    "_id": "35375",
-    "added_in_patch": 6,
-    "description": "Ogka told me that they have Banthar here! Or rather, that she's still alive back now. Did what I just said make any sense?This is our chance, commander. We can defeat a younger, more powerful version of Banthar and really stick it to these frostwolves.We'll show Ogka how a true professional works.",
-    "name": "Queen of the Clefthoof",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

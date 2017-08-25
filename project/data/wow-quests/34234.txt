@@ -1,8 +1,0 @@
-{
-    "_id": "34234",
-    "added_in_patch": 6,
-    "description": "We thought we were safe behind Leafshadow's cloaking veil.<Vindicator Kaluud wipes the blood from his face.>Someone told the Shadow Council's forces how to disable it. We were able to hold them off at first...Most of the town was slaughtered in the attack. Please, you must avenge our fallen. Rout these invaders out from Telmor forever!",
-    "name": "Payback",
-    "requires_level": 95,
-    "zone": "Talador"
-}

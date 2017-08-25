@@ -1,8 +1,0 @@
-{
-    "_id": "31093",
-    "added_in_patch": 5,
-    "description": "Dear $p,Your research into the hozen has proven quite enlightening.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
-    "name": "Hozen in the Mist",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

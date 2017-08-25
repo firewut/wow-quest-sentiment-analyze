@@ -1,8 +1,0 @@
-{
-    "_id": "14281",
-    "description": "The path ahead is difficult, <name>.  We must devote the entirety of our mental power to the task at hand.As you begin to grow in power, new pathways to the arcane will begin to materialize in your mind. You'll begin to develop spells you did not know before.\r\n\r\nGo, get more experience, and then use what you learn against the Bloodfang Worgen.",
-    "name": "Frost Nova",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42413",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Hemet Nesingwary",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

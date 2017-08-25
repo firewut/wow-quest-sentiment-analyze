@@ -1,8 +1,0 @@
-{
-    "_id": "44207",
-    "added_in_patch": 7,
-    "description": "When I heard the Hall of the Guardian was open again, I said to myself \"Minuette, this is your chance!\" I rushed over here thinking I'd be hurled into the front lines.  Imagine it, me, little old me, assaulting Demons with missiles, blinking away from Fel Meteors.  That would be brilliant!\r\n\r\nInstead, they send me over here and say \"Hey, open up some portals so we can throw things through, would you?\" At least I get to charge something for it.",
-    "name": "Portal Full of Shiny Things",
-    "requires_level": 110,
-    "zone": "Quests"
-}

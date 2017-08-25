@@ -1,8 +1,0 @@
-{
-    "_id": "31539",
-    "added_in_patch": 5,
-    "description": "We live in a world of magic.The few among us who are skilled can imbue this magic into the things we craft and give them power. Such things are valued.Fewer still, however, are those among us who can create things that are cherished through the ages not because they are imbued with power, but because of their great beauty.The Temple of the Jade Serpent has commissioned us for such a work, and I believe you are the worthiest among us.  Will you accept the commission?",
-    "name": "A Thing of Beauty",
-    "requires_level": 85,
-    "zone": "The Arboretum"
-}

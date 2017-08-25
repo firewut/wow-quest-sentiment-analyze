@@ -1,7 +1,0 @@
-{
-    "_id": "9402",
-    "description": "So... <name> is it?  Don't be flattered I know your name, one of my students has been fawning over you and won't shut up.Hmm... if you'd like to impress her, why don't you do something for me?  There's an azure phial at the bottom of the pond behind me.  Dive in, retrieve it, and bring it here.",
-    "name": "Fetch!",
-    "requires_level": 10,
-    "zone": "Mage"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10625",
-    "description": "I call them \"Spectrecles.\" Clever, no? When you equip these goggles, you will be able to see the spirits of Shadowmoon Valley.Before I let you have them, though, you must promise me that you will help us clear out the ghosts at the village.Take the goggles and destroy any and all spirits that you see wandering about Shadowmoon Village. Hopefully, destroying these spirits will force any that remain to move elsewhere.",
-    "name": "Spectrecles",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

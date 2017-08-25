@@ -1,7 +1,0 @@
-{
-    "_id": "9333",
-    "description": "",
-    "name": "Argent Dawn Gloves",
-    "requires_level": 50,
-    "zone": "Quests"
-}

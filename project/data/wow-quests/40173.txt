@@ -1,8 +1,0 @@
-{
-    "_id": "40173",
-    "added_in_patch": 6.2,
-    "description": "As the prism struggles to stabilize in a single time flow, it bleeds a shadowy chill, the likes of which you haven't felt since Northrend. Surely some mage in Dalaran would be interested in this relic.",
-    "name": "The Unstable Prism",
-    "requires_level": 81,
-    "zone": "Dalaran"
-}

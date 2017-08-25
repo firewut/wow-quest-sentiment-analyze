@@ -1,9 +1,0 @@
-{
-    "_id": "34144",
-    "added_in_patch": 6,
-    "description": "There are agents of darkness everywhere, fighting tooth and nail to envelop the world. The Light relies on us to balance the scale.You have the power needed to destroy Teron'gor's demonic minions once and for all. Send them to the Twisting Nether in pieces!",
-    "name": "Retribution for the Light",
-    "requires_level": 95,
-    "side": "horde",
-    "zone": "Talador"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34079",
-    "added_in_patch": 6.2,
-    "description": "The Thunderlords are finished <name> and our job is complete. I'll stay here and watch over the area.You should head back to Sergeant Gil'nath. I'm certain he will have another task for you.",
-    "name": "Mission Successful",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

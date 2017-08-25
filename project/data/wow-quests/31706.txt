@@ -1,8 +1,0 @@
-{
-    "_id": "31706",
-    "added_in_patch": 5,
-    "description": "The spiders near Sri-La Village have grown very aggressive. They pose a severe problem to the anglers who fish along the coast.For their safety, I need you to go and eliminate the Weeping Widows in The Widow's Wail.You can find the cave along the coast to the north.",
-    "name": "Weeping Widows",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9871",
-    "description": "The parchment holds a crudely painted map of Nagrand. There is a big red 'X' where Telaar would be on the map. It would seem that these savages are planning an attack on the city. Take the Murkblood invasion plans to Arechron in Telaar.\r\n",
-    "name": "Murkblood Invaders",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

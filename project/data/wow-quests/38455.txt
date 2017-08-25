@@ -1,8 +1,0 @@
-{
-    "_id": "38455",
-    "added_in_patch": 7,
-    "description": "I would help you seek audience with the Archdruid, but we have a difficult situation on our hands.The nearby furbolgs have gone into a frenzied rage.For days, it has been all we can do to protect our grove from their aggression.They have cut off our access to the barrow dens, where the Archdruid and our clan sleep in the Emerald Dream.In order to awaken them, we must first get past the furbolg.",
-    "name": "Frenzied Furbolgs",
-    "requires_level": 98,
-    "zone": "Quests"
-}

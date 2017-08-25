@@ -1,7 +1,0 @@
-{
-    "_id": "27102",
-    "description": "Maziel's journal chronicles a ritual of ascendancy that would transfigure his body to one of pure quicksilver.The ritual would take place in the cave near the Lower Silvermarsh, where Maziel would feed upon the mercurial oozes until achieving full strength.Perhaps it is not too late to put an end to his madness.",
-    "name": "Maziel's Ascendancy",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26608",
-    "description": "Go now, go back to your fleet. Tell them what kind of a monster claims authority over the Dragonmaw.Our \"Warchief\" is a traitor to his blood. Since his return from Outland he reeks of demon and leads what remains of our clan to ruin.Help rid the Dragonmaw of Mor'ghor, and those of us with pure blood will be your allies forever. This I can promise.",
-    "name": "Negotiations Terminated",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Twilight Highlands"
-}

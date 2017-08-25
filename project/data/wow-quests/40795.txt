@@ -1,8 +1,0 @@
-{
-    "_id": "40795",
-    "added_in_patch": 7,
-    "description": "The Burning Legion has left a trail of ruin all across the face of Azeroth. We must strike at their bases within the Broken Isles if we are to have any hope of ending this war.I've put together a map of the isles and a list of tasks that we will need to have done there.Once you've had a chance to peruse the map, you should choose where we will begin our assault.",
-    "name": "The Fight Begins",
-    "requires_level": 98,
-    "zone": "Monk Campaign"
-}

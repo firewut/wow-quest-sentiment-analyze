@@ -1,7 +1,0 @@
-{
-    "_id": "28744",
-    "description": "You're a pro at this, <name>! A regular junior botanist! Listen, I've got a new seed to try called the rocknut. Use it to block the undead. Just drop it down and they'll stop dead in their tracks. Undead are so stupid!Let's give it a try!",
-    "name": "Ghouls Hate My Grains",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28194",
-    "description": "Please, <class>! We need your help!We're being kept in this building against our will. And with the commander on such a tirade, there's no telling what he might do to us!Perhaps if you were to secure some uniforms for us, we could sneak away.We never should have come here. I see that now.If you help us escape, I will write the TRUTH of what has happened here.The men on those ships are all dressed in the garb we need.",
-    "name": "The Great Escape",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

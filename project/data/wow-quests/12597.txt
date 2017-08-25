@@ -1,7 +1,0 @@
-{
-    "_id": "12597",
-    "description": "Gritty as my men are, they're still mortal.Wounds and pain diminish their ability to perform their missions. No amount of training changes that simple fact of life.Thankfully, one of our alchemists has developed a recipe for a salve that binds to our bandages and greatly reduces the pain our soldiers experience.The salve requires a special poppy these trolls cultivate just west of here. Go to Drak'Sotra Fields and harvest some of them to keep our stockpiles from running out.",
-    "name": "Something for the Pain",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "37124",
-    "added_in_patch": 6,
-    "description": "This necklace dropped off of one of the orc hunters we found while out taming beasts. I've never seen the animals react so strongly to anything.",
-    "name": "Teeth of a Predator",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

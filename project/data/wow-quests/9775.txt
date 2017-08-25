@@ -1,8 +1,0 @@
-{
-    "_id": "9775",
-    "description": "Shadow Hunter Denjai will no doubt expect to receive a report about my progress in establishing our outpost. I've prepared a short summary of what we've accomplished here already, but with the loss of Scout Jyoba, I can't spare a runner to take the report to Denjai's base of Zabra'jin to the west.If you're headed that way, would you mind bringing this to him? Shadow Hunter Denjai can be a little intimidating at first, but once you get used to him, he's not so bad.",
-    "name": "Report to Shadow Hunter Denjai",
-    "requires_level": 62,
-    "side": "horde",
-    "zone": "Zangarmarsh"
-}

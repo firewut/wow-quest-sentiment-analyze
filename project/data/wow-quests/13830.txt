@@ -1,7 +1,0 @@
-{
-    "_id": "13830",
-    "description": "Any Northrend angler worth his salt knows about the pygmy suckerfish.  It's not edible, but sometimes useful to alchemists.There is, however, a stealthy fish that hides among the suckerfish in the River's Heart of Sholazar Basin.  The phantom ghostfish.  When out of water, they become increasingly translucent until they fade away completely.  Some hypothesize they return to Sholazar, and others are more... superstitious.I want you to catch this fish and discover its secret by any means!",
-    "name": "The Ghostfish",
-    "requires_level": 70,
-    "zone": "Fishing"
-}

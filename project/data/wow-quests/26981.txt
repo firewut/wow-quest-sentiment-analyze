@@ -1,7 +1,0 @@
-{
-    "_id": "26981",
-    "description": "Prospector Whelgar's been leading an excavation in the mountains southeast of here for quite some time. He had some raptor problems back in the day, but things were going better recently.Just the other day, we got word he had to evacuate the entire digsite again. I'm not sure what's going on there, but I can't imagine the cataclysm making a quarry any safer than it was before.There's good dwarves working there, <name>. Would you go see what's wrong there, and maybe lend a hand?",
-    "name": "Whelgar's Retreat",
-    "requires_level": 21,
-    "zone": "Wetlands"
-}

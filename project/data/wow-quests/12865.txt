@@ -1,7 +1,0 @@
-{
-    "_id": "12865",
-    "description": "Fresh blood! Good to meet ya! I've got some work if you've got some time.Off to the east are the Foot Steppes... pretty hard land, but there's quite a group of rhino that graze there. Our birds have a taste for that rhino meat, but it's always a bit dangerous for them to go hunting with all of the proto-drakes that nest around there.If you're keen, head over that way and get some rhino meat, bring it back to the peaks above here, and then use it to feed some of the eagles that nest there.",
-    "name": "Loyal Companions",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30331",
-    "added_in_patch": 5,
-    "description": "Have you ever tried Mushan Tail Stew? Chances are, if you have, that it was stringy and tasteless. You see, there's a trick to making the perfect Mushan Tail Stew: you need to cook it at high elevation.I've already gathered the ingredients. Take this pot up to the Kunzen Village, up in the mountains to the west, and prepare the stew over their bonfire.",
-    "name": "The Mile-High Grub",
-    "requires_level": 90,
-    "zone": "Cooking"
-}

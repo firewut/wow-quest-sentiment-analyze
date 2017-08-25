@@ -1,8 +1,0 @@
-{
-    "_id": "11661",
-    "description": "Take the horn and travel west to the Warsong Jetty. Make your way to the end of the jetty and blow into the horn. The sound should rouse Orabus.Slay the foul beast and return to me!",
-    "name": "Orabus the Helmsman",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

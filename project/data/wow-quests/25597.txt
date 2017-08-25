@@ -1,7 +1,0 @@
-{
-    "_id": "25597",
-    "description": "Only once has there been a leader capable of commanding demigods and mortals alike.His name was Jarod Shadowsong and his ability to lead in battle was such that Cenarius and the other ancients placed themselves under his command.He disappeared for years and his whereabouts were unknown.  Until now.He is being held captive inside a Twilight camp in Darkwhisper Gorge.Your job is to infiltrate their ranks and free Jarod.  Speak to the one known as Ortell at Darkwhisper Pass to the southeast.",
-    "name": "Commander Jarod Shadowsong",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

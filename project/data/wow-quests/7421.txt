@@ -1,7 +1,0 @@
-{
-    "_id": "7421",
-    "description": "",
-    "name": "Darkspear Defense",
-    "requires_level": 200,
-    "zone": "Alterac Valley"
-}

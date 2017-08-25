@@ -1,8 +1,0 @@
-{
-    "_id": "28708",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Commander Duron in Hellfire Peninsula.The expeditionary forces require your help to overcome the demonic armies of the Burning Legion! Use the portal on the middle level of the tower in the Mage District to travel to the Stair of Destiny in Outland.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Outland!",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

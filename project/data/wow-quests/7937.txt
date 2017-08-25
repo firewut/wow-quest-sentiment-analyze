@@ -1,7 +1,0 @@
-{
-    "_id": "7937",
-    "description": "\"Your fortune awaits you in Eastvale.\"The fortune Sayge handed you feels slightly warm to the touch.  Grasping it firmly, you see an image of the Eastvale Logging Camp in Elwynn Forest.  Focusing closer in on the image, you see a haystack that sits next to a stable.\r\n",
-    "name": "Your Fortune Awaits You...",
-    "requires_level": 10,
-    "zone": "Darkmoon Faire"
-}

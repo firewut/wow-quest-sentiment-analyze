@@ -1,9 +1,0 @@
-{
-    "_id": "38180",
-    "added_in_patch": 6.1,
-    "description": "Massive ogron have been battering our frontlines, and no matter how many we down, there seem to be more to replace them.\r\n\r\nMost of these ogron appear to be coming from the Broken Precipice, deep in western Nagrand. If we're to stand a chance in the coming battles, we need to find a way to remove these ogron from the battlefield.",
-    "name": "Missive: Assault on the Broken Precipice",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

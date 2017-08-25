@@ -1,8 +1,0 @@
-{
-    "_id": "32633",
-    "added_in_patch": 5.2,
-    "description": "Grand Magister Rommath has something in his possession that I want.He brought a very powerful tome with him. It would be better for our cause if it were no longer in Sunreaver hands.Locate Rommath's book of incantations and bring it to me.",
-    "name": "Spellbound",
-    "requires_level": 90,
-    "zone": "Quests"
-}

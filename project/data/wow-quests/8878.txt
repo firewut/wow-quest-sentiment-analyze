@@ -1,7 +1,0 @@
-{
-    "_id": "8878",
-    "description": "",
-    "name": "Festive Recipes",
-    "requires_level": 50,
-    "zone": "Lunar Festival"
-}

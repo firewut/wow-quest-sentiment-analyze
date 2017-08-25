@@ -1,8 +1,0 @@
-{
-    "_id": "40198",
-    "added_in_patch": 7,
-    "description": "I tell you, <name>, I have the worst luck sometimes.A package recently arrived from Hrul containing leatherworking patterns, and while my back was turned, some filthy rats came in and ran off with them down into the sewers!Probably building nests with them as we speak. Please, <name>, can you go down there and see if you can retrieve any of them?",
-    "name": "Rats!",
-    "requires_level": 106,
-    "zone": "Leatherworking"
-}

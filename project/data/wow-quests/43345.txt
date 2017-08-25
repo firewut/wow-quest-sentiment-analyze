@@ -1,8 +1,0 @@
-{
-    "_id": "43345",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Harbinger of Screams",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

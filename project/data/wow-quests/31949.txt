@@ -1,8 +1,0 @@
-{
-    "_id": "31949",
-    "added_in_patch": 5,
-    "description": "Now that we have the water, I can almost taste the icy cold witchberry julep!Now, we just need to find ourselves some sweet witchberries.My grandson's berries this season have been total slop, so I need to seek a decent harvest elsewhere.Say, do you have any witchberries in the ground this year? How about you bring me some from your farm?If your berries are up to the standard, we'll make ourselves a grand old batch of the old juice!",
-    "name": "Nana's Vote III: Witchberry Julep",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

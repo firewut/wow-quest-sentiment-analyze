@@ -1,8 +1,0 @@
-{
-    "_id": "42175",
-    "added_in_patch": 7,
-    "description": "The Tirisgarde has need of your help now that you have grown in strength, <name>. Meet me in the Hall of the Guardian when you are done with your adventures.",
-    "name": "Growing Power",
-    "requires_level": 101,
-    "zone": "Mage Campaign"
-}

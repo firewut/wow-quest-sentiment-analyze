@@ -1,7 +1,0 @@
-{
-    "_id": "10005",
-    "description": "<name>, after you're done celebrating here, I think that you should go back to the Cenarion Thicket and speak with Earthbinder Tavgren.I'm certain that he'll want to know what really happened out there.",
-    "name": "Letting Earthbinder Tavgren Know",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

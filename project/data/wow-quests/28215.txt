@@ -1,7 +1,0 @@
-{
-    "_id": "28215",
-    "description": "As you well know, the amount of energy stored in a conventional spring is equal to one half the spring's elasticity times the displacement squared. Unless you're using an elementium spring. Then the numbers get obscene! Mathematically grotesque!I need some elementium loops for my secret weapon, and it just so happens that Twilight's Hammer cultists use coils like that to bind earth elementals.Find them on the Obsidian Stoneslaves east of here, in the terrible region known as the Black Breach.",
-    "name": "Potential Energy",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

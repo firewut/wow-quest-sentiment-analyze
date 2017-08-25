@@ -1,8 +1,0 @@
-{
-    "_id": "30488",
-    "added_in_patch": 5,
-    "description": "What the heck are you supposed to be? A <class>? Never heard of one of them. You here to help or to steal my yaks?Look, if yer' insistin' on helpin' out, go find my boy. He got himself grabbed by a bunch of sprites and probably doesn't even know we lost the ranch.They dragged him off to Pranksters' Hollow south east of here. Go rescue him an' I'll see about giving you a reward of some sort.",
-    "name": "The Missing Muskpaw",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

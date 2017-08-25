@@ -1,8 +1,0 @@
-{
-    "_id": "13620",
-    "description": "The Horde may have never known one more loyal than Gorat. He never failed to complete a mission, and it would seem that he refuses to allow this to be his first.Gorat had you deliver this vial for a purpose. Dinah is the daughter of a revered shaman, and is more powerful than she appears. Bring her the vial and hope that we are not too late.",
-    "name": "To Dinah, at Once!",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "44471",
-    "added_in_patch": 7,
-    "description": "Though young King Anduin is a noble soul, he may lack the conviction of his father. The Alliance needs a leader who will do what needs to be done. The Legion will strike at the first hint of weakness.Even now, I sense something amiss, <name>. I fear that not all is as it seems.Quickly, use your Spectral Sight. We must know if there are foes among us!",
-    "name": "Second Sight",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Demon Hunter"
-}

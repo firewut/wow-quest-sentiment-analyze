@@ -1,7 +1,0 @@
-{
-    "_id": "28287",
-    "description": "Farseer Umbrua's messenger just reached me, <name>. She has an important matter she wishes to discuss with you and sends word that you should meet her at the Golden Keg in the Dwarven District of Stormwind as soon as you can make it there.",
-    "name": "Meet with Farseer Umbrua",
-    "requires_level": 50,
-    "zone": "Stormwind City"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27712",
-    "description": "The Earthcaller has a goblin initiate? Goldmine is his name? He has need of you.I think that they're ready for you to do their dirty work with whatever's down in that mine.",
-    "name": "Back to the Elementium Depths",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

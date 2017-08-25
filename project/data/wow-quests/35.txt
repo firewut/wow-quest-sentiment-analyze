@@ -1,8 +1,0 @@
-{
-    "_id": "35",
-    "description": "If you are concerned that the rumors of murlocs are true, then do this -- travel to the eastern Elwynn bridge and speak with Guard Thomas.  He has been stationed at the bridge for the past week and will know the state of the area.I have here a Stormwind charger that will take you to Guard Thomas. Let me know if you wish to make use of the horse.",
-    "name": "Further Concerns",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

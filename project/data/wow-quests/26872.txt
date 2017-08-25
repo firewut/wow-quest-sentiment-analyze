@@ -1,7 +1,0 @@
-{
-    "_id": "26872",
-    "description": "As Naralex descended deeper into his nightmare, a strange breed of beasts arose from beneath the Barrens into the Wailing Caverns.These deviate creatures have strange, otherworldly properties. Their very existence causes great pain to the earth. I believe that slaying them will greatly aid our work in healing the caverns.If you feel up to the task, slay as many as you can and bring me their hides as proof of their demise.",
-    "name": "Deviate Hides",
-    "requires_level": 15,
-    "zone": "Wailing Caverns"
-}

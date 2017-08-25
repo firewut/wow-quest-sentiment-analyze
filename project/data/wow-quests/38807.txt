@@ -1,8 +1,0 @@
-{
-    "_id": "38807",
-    "added_in_patch": 7,
-    "description": "In order to mine Infernal Brimstone, we first need to understand the way in which ore comes into being. I currently have three of my apprentices doing research on different ores around the world.Find Forinn Stoneheart in Deepholm, Rhol Landers in Twilight Highlands and Krul Rockhorn in Icecrown and collect any information they've gathered on the ore at those locations.",
-    "name": "Infernal Brimstone Analysis",
-    "requires_level": 110,
-    "zone": "Mining"
-}

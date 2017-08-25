@@ -1,8 +1,0 @@
-{
-    "_id": "36633",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Delvar Ironfist",
-    "requires_level": 90,
-    "zone": "Stormshield"
-}

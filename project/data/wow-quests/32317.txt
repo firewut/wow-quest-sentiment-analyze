@@ -1,8 +1,0 @@
-{
-    "_id": "32317",
-    "added_in_patch": 5.1,
-    "description": "<name>, take this - the journal of Jubeka Shadowbreaker.Read the journal and use the information contained within to track down where she went.Find her soulstones and use them to locate her.",
-    "name": "Seeking the Soulstones",
-    "requires_level": 90,
-    "zone": "Warlock"
-}

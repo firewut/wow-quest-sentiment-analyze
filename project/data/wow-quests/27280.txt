@@ -1,7 +1,0 @@
-{
-    "_id": "27280",
-    "description": "News travels upon the winds, young shaman.  Your deeds have not gone unnoticed!  It seems Terga Earthbreaker wishes to discuss something with you.  Make your way to Orgrimmar as quickly as you can and speak with her in the Valley of Wisdom.  She will be among the others who offer training.",
-    "name": "The Earthbreaker Calls",
-    "requires_level": 20,
-    "zone": "Shaman"
-}

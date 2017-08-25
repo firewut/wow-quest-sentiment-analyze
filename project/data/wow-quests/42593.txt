@@ -1,8 +1,0 @@
-{
-    "_id": "42593",
-    "added_in_patch": 7,
-    "description": "Getting into the Black Temple is going to be tricky. Following the break-in by the Council of the Black Harvest, Akama had his Sha'tari priests erect a holy barrier. It prevents my teleportation.\r\n\r\nHowever, I might know a way to bypass those protections and take us directly to the Temple Summit.\r\n\r\nLong ago, I had a... liaison with a certain high elf wizard named Lan'dalock. He later joined the Kirin Tor.\r\n\r\nIf you were to ask him very nicely, and drop my name, I am certain that he would help.",
-    "name": "The Arcane Way",
-    "requires_level": 103,
-    "zone": "Demon Hunter Campaign"
-}

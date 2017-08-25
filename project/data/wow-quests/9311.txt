@@ -1,7 +1,0 @@
-{
-    "_id": "9311",
-    "description": "I have a plan. We must kill their leader. Without their master, perhaps they will retreat to regroup. We just need to buy time until the repairs are completed.Then Vindicator Aldar must know of this. Kill the surveyor, then return and tell him what we've found.",
-    "name": "Blood Elf Spy",
-    "requires_level": 2,
-    "zone": "Ammen Vale"
-}

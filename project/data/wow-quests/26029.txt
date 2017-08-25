@@ -1,7 +1,0 @@
-{
-    "_id": "26029",
-    "description": "Or'Kalar leads the ogres here. He has evaded slaughter for years. His very presence is an affront to the Dark Lady; Mug'thol, traitor to the Forsaken, commands him from afar!We do not suffer ogres or traitors on Forsaken land. Bring me this ogre's head and I will make sure it's burned properly this time.",
-    "name": "The Real Threat",
-    "requires_level": 25,
-    "zone": "Arathi Highlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11523",
-    "description": "We've succeeded in reactivating the crystal wards around the sanctum, but why stop there?  We'll build defenses around the other structures, but the Wretched are stubborn and continue to steal power from the crystal wards.Hunt them down and get the mana remnants they carry.  Use the remnants to energize the sanctum wards; the safety of our operation depends on it.",
-    "name": "Arm the Wards!",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

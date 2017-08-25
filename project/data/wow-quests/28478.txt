@@ -1,7 +1,0 @@
-{
-    "_id": "28478",
-    "description": "It wasn't enough for their master to break the world, no! Twilight's Hammer is doing its best to unite our enemies against us, particularly in Blackrock Depths. They've got a whole team of emissaries down there spreading propaganda aimed at starting a joint campaign.I've always heard that the medium's the message. Well, it's time to destroy the message!I want you to go into the Domicile of Blackrock Depths and use this torch to burn those Twilight's Hammer books!",
-    "name": "Twilight Scheming",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

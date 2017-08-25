@@ -1,8 +1,0 @@
-{
-    "_id": "44310",
-    "added_in_patch": 7,
-    "description": "We have information on one last artifact you might seek out, should you seek to weave other types of magic.\r\n\r\nAll the details are here. Let me know how you'd like to proceed.",
-    "name": "Thrice the Power",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

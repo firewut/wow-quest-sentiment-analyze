@@ -1,8 +1,0 @@
-{
-    "_id": "25683",
-    "description": "I meant what I said, <race>.  You helped me, now I'll pass on what I know.A demon hunter recently came through here, but only briefly.  He was headed south, speaking of demons.  Normally I'd have slain the night elf on sight, but he didn't seem to be Alliance scum, and anybody who kills demons is useful to me for the time being.You should check in with Lynnore and Drazial, a pair of blood mages I sent down that way.  They've camped in the back of an ogre cave.",
-    "name": "The Dreadmaul Furnace",
-    "requires_level": 54,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

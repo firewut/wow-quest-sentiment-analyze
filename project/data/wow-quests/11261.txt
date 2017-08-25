@@ -1,7 +1,0 @@
-{
-    "_id": "11261",
-    "description": "You have done everything that we were sent here to do, <class>. I must admit that you fight well. Your people are not as strange as I first thought.Chieftain Ashtotem is certain to want to hear of your success, but if you decide to stay out here for whatever reason, I will continue to fight at your side.",
-    "name": "The Conqueror of Skorn!",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

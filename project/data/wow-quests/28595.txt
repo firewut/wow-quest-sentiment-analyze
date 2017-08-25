@@ -1,7 +1,0 @@
-{
-    "_id": "28595",
-    "description": "That's it. We're all wrapped up. Let's ship out.Newt's got some gyrocopters tethered at the top of the tower. Go meet up with her for a quick trip back to Krazzworks. We'll mop up here.",
-    "name": "Krazz Works!",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

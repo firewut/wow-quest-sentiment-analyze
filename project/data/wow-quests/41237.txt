@@ -1,8 +1,0 @@
-{
-    "_id": "41237",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Supplies Needed: Stonehide Leather",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

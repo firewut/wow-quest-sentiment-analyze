@@ -1,8 +1,0 @@
-{
-    "_id": "41232",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Thick Ironhorn Hide",
-    "requires_level": 110,
-    "zone": "Mining"
-}

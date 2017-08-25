@@ -1,8 +1,0 @@
-{
-    "_id": "31983",
-    "added_in_patch": 5,
-    "description": "Well done, for an <race>. Now, get back to Orgrimmar and talk to that brute Varzok. Maybe he can point you somewhere very far away from my family.",
-    "name": "A Brief Reprieve",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

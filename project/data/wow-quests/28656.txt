@@ -1,7 +1,0 @@
-{
-    "_id": "28656",
-    "description": "When this creature died, some sort of energy was released from its body. The energy was passed on to you, and now you feel somewhat stronger.According to Winterspring locals, Witch Doctor Mau'ari at the Snowden Chalet is an expert in the wildlife of the area. She might know something about this mysterious energy.",
-    "name": "Strange Life Forces",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

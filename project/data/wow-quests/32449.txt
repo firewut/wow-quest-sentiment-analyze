@@ -1,8 +1,0 @@
-{
-    "_id": "32449",
-    "added_in_patch": 5.1,
-    "description": "Our scouts at Sparkrocket Outpost have reported some new activity near an area called the Ruins of Ogudei.We need to gather intelligence on what it is the Alliance are doing, and more importantly what it is they found. We cannot afford to have any unknowns.Meet up with Belloc Brightblade in Sparkrocket Outpost and find out what he knows.",
-    "name": "The Ruins of Ogudei",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

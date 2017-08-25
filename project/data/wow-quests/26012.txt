@@ -1,7 +1,0 @@
-{
-    "_id": "26012",
-    "description": "My old friend Krasus sends word of dire happenings at Wyrmrest, in Dragonblight. His missive was brief, but it seems that there has been some sort of attack on the Ruby Sanctum beneath the Temple.Pressing business here in Dalaran keeps me from attending to the matter personally, but I have heard word of your exploits in the Lich King's Citadel and you are doubtless up to the task -- perhaps you could assist Krasus in my stead?",
-    "name": "Trouble at Wyrmrest",
-    "requires_level": 80,
-    "zone": "Quests"
-}

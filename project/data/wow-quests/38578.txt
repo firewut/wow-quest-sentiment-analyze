@@ -1,8 +1,0 @@
-{
-    "_id": "38578",
-    "added_in_patch": 6.2,
-    "description": "Your scout... he got me out of that hellish place. Fel orcs surprised us out in the jungle and dragged us up the mountain. They tortured us... killed all but me. I fear one of us may have given up our secret before the end.I must ask you to go to the home of our order. Speak with Lagar, my leader, tell him... tell him Gul'dan knows.",
-    "name": "A Message of Terrible Import",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

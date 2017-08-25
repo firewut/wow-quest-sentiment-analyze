@@ -1,9 +1,0 @@
-{
-    "_id": "32984",
-    "added_in_patch": 6,
-    "description": "I can feel the voice of the Fury at the top of the ascent. Come, let us climb these stairs together.Be on your guard. The goren of this area are likely to be drawn by the smell of a shaman.If we get separated, fall back to the base of the stairs and regroup.",
-    "name": "The Ascent",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

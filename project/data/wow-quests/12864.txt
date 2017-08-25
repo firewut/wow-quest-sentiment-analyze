@@ -1,7 +1,0 @@
-{
-    "_id": "12864",
-    "description": "There is something that I could use a hand with now that I have you.We have a few scouts that are extremely late in returning. The peaks are harsh... but these boys know what they're doing.Head to the east... along the Bor's Breath valley and near Bor's Fall... they should be out that direction. If you find any sign of one of them, bring me back news immediately. We have a few enemies in the area - if any of them are getting a bit uppity, the more warning the better.",
-    "name": "Missing Scouts",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

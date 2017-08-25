@@ -1,7 +1,0 @@
-{
-    "_id": "12150",
-    "description": "Dregmar Runebrand is a magnataur runemaster... a rare breed. He's generally solitary, but has been known to associate with the more powerful and influential magnataur in Dragonblight for quite some time. He will know who this new leader is. It is unlikely we will gain any aid with the increasing concerns with the Scourge and the blue flight, so I need you to procure the information from Dregmar by any means necessary.I was told he can be found amongst the cliffs overlooking the Mirror of the Dawn.",
-    "name": "Reclusive Runemaster",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

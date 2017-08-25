@@ -1,7 +1,0 @@
-{
-    "_id": "11278",
-    "description": "'Tis a shame we lost two of our best dwarves while uncovering these relics. They sacrificed their lives to keep this information safe.<Glorenfeld wraps the cipher and tablets in a tattered cloth.>Take these back to Valgarde. McSorf will know what to do with the find.As for me? I'll be alright on my own. I've gotten this far in one piece!",
-    "name": "Return to Valgarde",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

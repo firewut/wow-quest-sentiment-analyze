@@ -1,7 +1,0 @@
-{
-    "_id": "28348",
-    "description": "I tracked down the decrepit necromancer, Helcular, in hopes of getting a lead on Alliance movement within Hillsbrad.Helcular tasked me with finding and killing worgen. Ordinarily this would not be a problem for Orkus, but I had just eaten several helpings of Dirge's Kickin' Chimaerok chops, causing my bowels to cry out in anguish. That's when the trouble began and how I ended up in the water.Hear Orkus out, <name>.",
-    "name": "Stormpike Rendezvous",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

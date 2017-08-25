@@ -1,7 +1,0 @@
-{
-    "_id": "27480",
-    "description": "The arcane remnant pulses with strange energy. Perhaps you should search for more remnants. Surely Dalar would be interested in such a find.",
-    "name": "Ley Energies",
-    "requires_level": 14,
-    "zone": "Alterac Mountains"
-}

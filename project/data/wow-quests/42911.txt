@@ -1,8 +1,0 @@
-{
-    "_id": "42911",
-    "added_in_patch": 7,
-    "description": "How did you end up out here?  Ah well, that's neither here nor there at this point.  What matters is that I need your help!\r\n\r\nI see you have some experience fishing. Think you could put that skill to use for me?",
-    "name": "Drowned Mana",
-    "requires_level": 100,
-    "zone": "Dalaran"
-}

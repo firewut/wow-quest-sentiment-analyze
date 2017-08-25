@@ -1,7 +1,0 @@
-{
-    "_id": "25513",
-    "description": "It seems we have a special request! I have here a note from one Kelsey Steelspark, requesting to enter the cage and settle a dispute.She's asked for you to be her partner, <name>. A fan of your previous victories? Or perhaps you're acquainted outside the ring?I wouldn't back down now if I were you. This is the grand finale...",
-    "name": "Thunderdrome: Grudge Match!",
-    "requires_level": 47,
-    "zone": "Tanaris"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27230",
-    "description": "The Scourge are adept at forging powerful armaments for their soldiers, making it difficult for our men to kill 'em! There are blacksmithing plans near the Baroness Anastari's ziggurat that their chief swordsmith plans to use for an extremely powerful weapon for Lord Aurius.We're going to prevent that weapon from being made and stop their regular arms flow with one blow! Go take the plans and kill the Black Guard Swordsmith when he comes to defend 'em, and it'll make our mission much easier.",
-    "name": "Weapons for War",
-    "requires_level": 46,
-    "zone": "Stratholme"
-}

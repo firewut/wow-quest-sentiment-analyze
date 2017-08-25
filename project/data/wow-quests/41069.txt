@@ -1,8 +1,0 @@
-{
-    "_id": "41069",
-    "added_in_patch": 7,
-    "description": "We must seal the Tomb of Sargeras at all costs or the flow of demons will never cease.Until then, we must do what we can on the ground to alleviate their foothold before it grows further.This citadel was created to spearhead Legion invasions on other worlds - we can use its navigation systems to plan our assault.I think you would agree that none would be better suited to lead our charge than you.",
-    "name": "Direct Our Wrath",
-    "requires_level": 98,
-    "zone": "Demon Hunter Campaign"
-}

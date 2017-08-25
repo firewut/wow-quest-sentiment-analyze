@@ -1,8 +1,0 @@
-{
-    "_id": "10016",
-    "description": "Have you come across the timber worgs in your travels? I've had the opportunity to observe them while mapping some of the northern reaches of the forest. I wouldn't recommend getting close to them unless you're prepared for combat.They have no fear of us and won't hesitate to defend their territory.It's fitting that such a creature would have a magnificent tail. I've been trying to collect enough of them to trim a new cloak, but the worgs have a habit of evading my snares. Will you help?",
-    "name": "Timber Worg Tails",
-    "requires_level": 62,
-    "side": "alliance",
-    "zone": "Terokkar Forest"
-}

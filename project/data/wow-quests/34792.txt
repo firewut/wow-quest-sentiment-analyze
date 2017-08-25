@@ -1,9 +1,0 @@
-{
-    "_id": "34792",
-    "added_in_patch": 6,
-    "description": "We must give the traitor no place to hide. I have a focusing lens that will illuminate cloaked fel energy. If it were placed on a high point, it could act like a beacon, lighting up anyone in town who reeks of the fel taint.There is a prayer circle atop the Exarch's Rise to the north that will serve our purpose. Plant the focusing lens, <name>. If you reveal anything, deal with it. Then meet me below.",
-    "name": "The Traitor's True Name",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

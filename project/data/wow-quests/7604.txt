@@ -1,7 +1,0 @@
-{
-    "_id": "7604",
-    "description": "The undersigned hereby declares that the Sulfuron ingot they are delivering to the Thorium Brotherhood (TB Ltd.) is genuine and not a facsimile thereof. The undersigned also acknowledges that any harm that should come to  him as a result of attempting to build, forge, find, create, sell, or eat Sulfuras, is not the responsibility or fault of TB Ltd.By signing this contract, you are agreeing to all terms listed herein._________________Signature",
-    "name": "A Binding Contract",
-    "requires_level": 60,
-    "zone": "Blackrock Depths"
-}

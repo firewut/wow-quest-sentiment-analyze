@@ -1,8 +1,0 @@
-{
-    "_id": "30638",
-    "added_in_patch": 5,
-    "description": "This is serious.Kun and I will keep an eye on things here, but you should go to the Golden Pagoda.Go, swiftly!",
-    "name": "Leaving an Opening",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

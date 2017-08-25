@@ -1,7 +1,0 @@
-{
-    "_id": "9193",
-    "description": "<Class>, our sources tell us that the trolls buried in the Amani Catacombs inside Sungraze Peak have been rising from the dead. Dame Auriferous would have you investigate these catacombs and put to the torch any of the unanimated remains you come across so as to prevent any more of these creatures from rising.The fastest way there is to head north out of town and then take the first fork to the right. This will put you on the north side of the peak, so look to the south for the entrance.",
-    "name": "Investigate the Amani Catacombs",
-    "requires_level": 14,
-    "zone": "Ghostlands"
-}

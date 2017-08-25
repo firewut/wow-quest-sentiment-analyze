@@ -1,8 +1,0 @@
-{
-    "_id": "40205",
-    "added_in_patch": 7,
-    "description": "We record the mistakes of the past so we can learn to avoid them in the present. However, recording history is not just about preventing missteps, but also to celebrate our successes.Scattered around Highmountain at sacred locations are racks with stamped leather, much like the ones here, with stories to tell.Go to these locations, pay your respect, and learn their lessons.",
-    "name": "Respect for the Past",
-    "requires_level": 108,
-    "zone": "Leatherworking"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27934",
-    "description": "The leader of the Stone Mother's forces here is the great earth elemental lord, Avalanchion. Luckily for us, the Twilight's Hammer cultists have decided to invade his lair. They're seeking to bind his elementals to their will.We will take advantage of the chaos. The earth ritual that I invoke will make you one with the ground. It will take you near to Avalanchion without alerting him to your presence.It's up to you to finish him.",
-    "name": "One With the Ground",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

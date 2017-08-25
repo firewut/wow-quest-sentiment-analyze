@@ -1,8 +1,0 @@
-{
-    "_id": "29705",
-    "added_in_patch": 5,
-    "description": "As if the hozu weren't enough now we have a bunch of renegade dwarven brewmaster wannabes floating around. Can you please recover the brewskies they stole? It would cripple the Ironforge economy if this many \"entrepreneurs\" started popping up. ",
-    "name": "Invasion of the Bottle Snatchers",
-    "requires_level": 4,
-    "zone": "The Wandering Isle"
-}

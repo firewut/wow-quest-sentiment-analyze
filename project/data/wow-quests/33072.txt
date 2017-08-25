@@ -1,9 +1,0 @@
-{
-    "_id": "33072",
-    "added_in_patch": 6,
-    "description": "The safety of my people is of the utmost priority.It is likely that Ner'zhul has taken the prisoners to Shaz'gul, his stronghold to the southwest.I do not wish to use aggression against him, but he may force my hand.Meet me at Twilight Glade, <name>. Then, we shall try our best to recover the prisoners.",
-    "name": "Into Twilight",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

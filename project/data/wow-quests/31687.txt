@@ -1,8 +1,0 @@
-{
-    "_id": "31687",
-    "added_in_patch": 5,
-    "description": "For all our efforts to keep the mantid in the Dread Wastes, some have broken through, seemingly intent on Niuzao Temple. My men have been attempting to extinguish their presence to the west, at Sik'vess, but to no success. If you're half of the <class> Taran paints you to be, maybe you will fare better.Head west, and kill any Sik'thik mantid you find. And remember, this is no time for mercy. There are lives at the temple depending on us.",
-    "name": "Thinning the Sik'thik",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

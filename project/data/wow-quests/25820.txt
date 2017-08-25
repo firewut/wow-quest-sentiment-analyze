@@ -1,8 +1,0 @@
-{
-    "_id": "25820",
-    "description": "My son Gimlok's the light of my life. It warms my heart to see him playin' with the other children.I can't help but worry, though. There's sharks not but a few feet away in the bay. If it's deep enough for one to swim its way here...I can't bear it! Please, you're clearly one <race> that's seen tougher situations than us townsfolk. Would you get rid of those nasty sharks for me? At least a few?",
-    "name": "A Mother's Worries",
-    "requires_level": 20,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

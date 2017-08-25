@@ -1,7 +1,0 @@
-{
-    "_id": "9806",
-    "description": "Spore bats and marsh walkers accumulate fertile spores on their appendages from wandering around the tallstalk mushrooms in the marsh.As you can see, we're a short people so our options for gathering these spores are limited.  Seek out the spore bats and marsh walkers and gather the fertile spores.  All of Sporeggar will be in your debt.",
-    "name": "Fertile Spores",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

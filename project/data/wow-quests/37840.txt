@@ -1,9 +1,0 @@
-{
-    "_id": "37840",
-    "added_in_patch": 6.2,
-    "description": "You've done everything I've asked, <name>. I believe we can apply one final enchantment to your ring. But... we must be cautious. Last time I augmented your ring I killed you. (Sorry.) It will take an act of ancient magic to empower you further.Fortunately, you've made some powerful allies during your time here. Seek out Farseer Drek'Thar at the Throne of Elements in Nagrand. There you can receive the blessing of the elements and safely unlock your ring's final form. Go, hero! Claim your reward!",
-    "name": "Draenor's Blessing",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Legendary"
-}

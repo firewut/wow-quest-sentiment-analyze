@@ -1,8 +1,0 @@
-{
-    "_id": "31535",
-    "added_in_patch": 5,
-    "description": "People come from all over Pandaria to learn cooking from the Ironpaw family.  We take great pride not only in being the best chefs, but also in passing what we know onto others.  That's why we try to charge as little as possible for cooking lessons.This means, however, that we often find ourselves in shortage of cooking ingredients for the lessons.  Would you donate some to the school, to help out students who cannot afford it?",
-    "name": "Replenishing the Pantry",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

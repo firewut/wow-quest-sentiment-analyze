@@ -1,7 +1,0 @@
-{
-    "_id": "7636",
-    "description": "Agents of the Burning Legion are still active in our world, <class>. These agents corrupt all that they touch. Nature wilts and weeps in their presence.You must track down these demonic corrupters and destroy them, <name>. Be warned, you must engage them by yourself or they will flee. As long as you are alone, they will try and destroy you. You must strike at them, turning their arrogance into misery.I grant you a piece of my bark, the inscriptions shall lead you to your targets. Retrieve their heads.",
-    "name": "Stave of the Ancients",
-    "requires_level": 60,
-    "zone": "Hunter"
-}

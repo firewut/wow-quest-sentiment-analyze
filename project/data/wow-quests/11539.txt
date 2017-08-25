@@ -1,7 +1,0 @@
-{
-    "_id": "11539",
-    "description": "One of Kael's most elite forces, the Dawnblade army, has been stationed at the Sun's Reach Harbor and Dawnstar Village.The harbor is of critical importance to our plans, so any Dawnblade casualties you inflict will be of tremendous help.  Kael'thas will rue the day that he turned his back on his people and sided with the Burning Legion.",
-    "name": "Taking the Harbor",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

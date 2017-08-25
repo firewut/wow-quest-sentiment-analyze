@@ -1,7 +1,0 @@
-{
-    "_id": "27932",
-    "description": "The emerald colossi are the greatest of the Stone Mother's creatures. They must be the first to be removed from the field.I brought Stonefather Oremantle's axe for just this task. Use it to sunder the giants.That should bring them down to a more manageable size for you to finish off.",
-    "name": "The Axe of Earthly Sundering",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

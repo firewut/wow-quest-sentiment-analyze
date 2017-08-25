@@ -1,8 +1,0 @@
-{
-    "_id": "40855",
-    "added_in_patch": 7,
-    "description": "Yikes! OK. This thing is missing a LOT of parts.Why don't you go hunt down some new gears or whatever while I do what I can to its existing frame?A colleague of ours, down in Azsuna, may be able to help out here. His name's Flintlocke.Fetching parts should keep him out of trouble. Just don't let him BUILD anything.",
-    "name": "Our Man in Azsuna",
-    "requires_level": 98,
-    "zone": "Engineering"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34881",
-    "added_in_patch": 6,
-    "description": "The Elemental Plateau has become unstable, and so the cycle of rebirth must begin.It is a natural part of our life cycle that impurities are accumulated in the elemental body over time.When enough contamination has taken place, an elemental will become unstable and in some cases volatile.A necessary part of rebirth is pure, living essence which can be found atop the Elemental Plateau, as well as in the body of an elemental spirit.Return to me with the essence and we shall begin the rebirth.",
-    "name": "Earth, Wind and Fire...and Water",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

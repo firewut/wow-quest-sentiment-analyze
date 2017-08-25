@@ -1,8 +1,0 @@
-{
-    "_id": "43885",
-    "added_in_patch": 7,
-    "description": "Your weapons are undeniably powerful, but we know near nothing about'm.\r\n\r\nIf we want to unlock all of their potential, we need to dig up some dirt on how they work, what they've done... get to know them, ya know? That's where I come in. I dig up dirt all the time. I mean, not literally, but... you know what I mean.\r\n\r\nIt will take time and more eyes than just mine to sift through all this. We should prioritize some of the order's resources towards this research. It will be worth every minute.",
-    "name": "Hitting the Books",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

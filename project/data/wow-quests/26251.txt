@@ -1,7 +1,0 @@
-{
-    "_id": "26251",
-    "description": "It looks like the Twilight's Hammer's still on the ship.  Go below decks and take them out.Be careful, <name>.  I've a feeling they're not here for a spiritual retreat, if you know what I mean.",
-    "name": "Take No Prisoners",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

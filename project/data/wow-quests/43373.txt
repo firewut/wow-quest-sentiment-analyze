@@ -1,8 +1,0 @@
-{
-    "_id": "43373",
-    "added_in_patch": 7,
-    "description": "If we wish to see the truth in Gilner's ramblings, I will need to induce a vision.It is not the sort of thing that is typically forced, but we have within our ranks the best and brightest alchemists who can craft an extract that will grant me the sight I need.Seek them out in Azsuna where they are currently aiding those on the front lines.",
-    "name": "The Best and Brightest",
-    "requires_level": 103,
-    "zone": "Priest Campaign"
-}

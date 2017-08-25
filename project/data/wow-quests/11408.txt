@@ -1,7 +1,0 @@
-{
-    "_id": "11408",
-    "description": "We need to spread the word about the trolls at Brewfest.  Ya need to shout at the flags outside the auction house in the Valley of Strength, in the Valley of Honor, in the Valley of Wisdom and in the Valley of Spirits.But I'll make it easy for ya, I'll lend you a racing ram for 4 minutes.Be careful though, the goblins didn't put any apple crates along the way.  They are cheap like that.",
-    "name": "Bark for T'chali's Voodoo Brewery!",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "4512",
-    "description": "But the thing I've studied most is ooze. I know it sounds odd, but they're all over!I helped a lady in Menethil find her bag not too long ago--it was eaten by oozes. I've seen members of the Royal Apothecary Society from Undercity collecting samples of the stuff. I want to know why! Where does it come from?I've heard of more in Felwood. What I need are samples of the oozes there so I can further my research. I'll give you containers, you use them to collect a sample from the deceased creatures.",
-    "name": "A Little Slime Goes a Long Way",
-    "requires_level": 48,
-    "zone": "Ironforge"
-}

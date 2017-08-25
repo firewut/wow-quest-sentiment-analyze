@@ -1,8 +1,0 @@
-{
-    "_id": "42184",
-    "added_in_patch": 7,
-    "description": "The Lord of Tides has united with the Earthen Ring, but the matter of uniting the remaining Elemental Lords still remains.For the next step of our campaign, I have organized a diplomatic mission to Skywall.The goal of the mission is to ascertain the current political situation in Skywall, following the defeat of Al'Akir the Windlord, and to identify any elementals who would aid our cause.The mission is currently waiting your assignment.",
-    "name": "Mission: Elemental Diplomacy",
-    "requires_level": 101,
-    "zone": "Shaman Campaign"
-}

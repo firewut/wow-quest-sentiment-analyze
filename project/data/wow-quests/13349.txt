@@ -1,7 +1,0 @@
-{
-    "_id": "13349",
-    "description": "We need to keep our momentum going.  Let's not give the Scourge forces any respite.Sindragosa's Fall lies east just beyond the Valley of Lost Hope.  The Cult of the Damned operate there, under close supervision of the Lich King's undead vrykul lackeys.It is a place of great power, possibly a blue dragonflight graveyard.  The feared frostbrood are raised there from the bones of blue dragons.An attack there would have great impact on the enemy's access to frost wyrms.  Are you up to it, <name>?",
-    "name": "Cradle of the Frostbrood",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

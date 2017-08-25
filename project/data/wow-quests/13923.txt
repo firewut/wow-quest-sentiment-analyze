@@ -1,7 +1,0 @@
-{
-    "_id": "13923",
-    "description": "Into the fray with you, <race>!Hellscream's Watch is one of our most contentious fronts in Ashenvale. The experience should serve you well... assuming you survive.When you've made ready, speak with Andruk. I've arranged for him to transport you directly to your station.Once you've arrived, seek out Captain Goggath. He will guide you further.Bring pain and death to our enemies! For the Horde!",
-    "name": "To Hellscream's Watch",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

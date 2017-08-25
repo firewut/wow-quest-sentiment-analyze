@@ -1,7 +1,0 @@
-{
-    "_id": "9957",
-    "description": "We haven't heard from the druids at the Cenarion Thicket of Terokkar Forest in quite some time.<name>, I'd like for you to go down there and check in with them to see what's happening.  There are several ways to get there, but the fastest is to head south along the path, and then take the road that branches east from Shattrath City once you're in the forest.",
-    "name": "What's Wrong at Cenarion Thicket?",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

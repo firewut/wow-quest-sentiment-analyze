@@ -1,8 +1,0 @@
-{
-    "_id": "42421",
-    "added_in_patch": 7,
-    "description": "Assist the Nightfallen of Suramar by completing 4 world quests.",
-    "name": "The Nightfallen",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

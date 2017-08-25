@@ -1,7 +1,0 @@
-{
-    "_id": "13107",
-    "description": "Archmage Pentarus likes to watch the occasional game of battle ball and is preparing to go, but needs food for the trip.You need to fill his picnic basket with 4 rhino dogs that you cook and then 4 wild mustard that are found in grassy areas of the city.Bring him his picnic basket so he can be ready to go see the big game.",
-    "name": "Mustard Dogs!",
-    "requires_level": 65,
-    "zone": "Cooking"
-}

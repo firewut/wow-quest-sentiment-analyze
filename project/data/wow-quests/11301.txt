@@ -1,7 +1,0 @@
-{
-    "_id": "11301",
-    "description": "Has Malthus drawn you in with his blather about beer kegs and crazy dwarves?I'm not questioning that the dwarves are crazy, but I don't think stealing their beer is going to do any good.What we need is brains. Lots of brains. We'll get down to the bottom of this mystery in no time, and perhaps even find a new component for the plague.Take this saw, go southeast into the Whisper Gulch, and kill yourself some dwarves. Use the saw to help you harvest the brains and bring them back here.",
-    "name": "Brains! Brains! Brains!",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37959",
-    "added_in_patch": 7,
-    "description": "<Runas looks antsy.>I can help you, and I very much want to help you, but I'm a bit distracted. Look at all that raw, unfiltered, mouthwatering mana...<Runas slaps his own face.>No! NO! You must stay in control!I simply need to clear my head. Yes, that's it. A few of my depraved brethren carry small mana jewels around with them in case they need a quick burst of energy. Find a few for me? Then I will show you how to get your ley line back.",
-    "name": "The Hunger Returns",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

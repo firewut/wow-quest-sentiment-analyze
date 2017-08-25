@@ -1,9 +1,0 @@
-{
-    "_id": "34579",
-    "added_in_patch": 6,
-    "description": " Siram;, to make the best equipment for your arsenal I need not only the best materials, but to use the best techniques.Over the years I've developed a method to greatly strengthen my metal, but it does require an exotic resource: goren gut gas!The nearby mine at Kuuro's Claim just came down with an infestation of the things. Could you collect a few samples for the arsenal supplies? Just kill a few goren and give their bodies a good prod with this gas extractor.",
-    "name": "Gas Guzzlers",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

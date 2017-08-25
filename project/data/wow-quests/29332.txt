@@ -1,8 +1,0 @@
-{
-    "_id": "29332",
-    "description": "The lilies that grow around Stillwater Pond can be rendered down into a delightful broth.Well... by \"delightful,\" I mean \"won't immediately sicken any orc who drinks it.\"Why don't you go gather some for me, hmmm? Just watch out for the giant flesh-eating tadpoles.",
-    "name": "Lily, Oh Lily",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

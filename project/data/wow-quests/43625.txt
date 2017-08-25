@@ -1,8 +1,0 @@
-{
-    "_id": "43625",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Nameless King",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

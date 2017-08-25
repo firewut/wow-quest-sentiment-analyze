@@ -1,8 +1,0 @@
-{
-    "_id": "29364",
-    "description": "One of Thunder Bluff's most important staples is cornmeal; bowls of corn may be found in nearly every home.With so many of the local mills under constant attack by harpies, gnolls, reckless mining companies and Earth Mother knows what else, I often ask my students to help with the task of grinding corn into cornmeal.Would you care to help?",
-    "name": "Corn Mash",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

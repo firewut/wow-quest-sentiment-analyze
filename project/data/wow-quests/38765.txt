@@ -1,8 +1,0 @@
-{
-    "_id": "38765",
-    "added_in_patch": 7,
-    "description": "Our Shivarra demonesses are waiting at the Black Temple. It's a gamble bringing them here... they used to be part of the Burning Legion after all. But, they are some of the most powerful in Lord Illidan's arsenal.\r\n\r\n<Jace looks at you for a long moment.>\r\n\r\nI have a feeling that the ultimate sacrifice is going to have to be made in order to summon them in.",
-    "name": "Enter the Illidari: Shivarra",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13057",
-    "description": "It is time, <name>.  I am prepared to face Loken now.Let us make our way to the Terrace of the Makers and face my brother's forces.  The fool will regret ever crossing me.",
-    "name": "The Terrace of the Makers",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

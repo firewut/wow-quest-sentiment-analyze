@@ -1,8 +1,0 @@
-{
-    "_id": "37481",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Kill Horde Leaders",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

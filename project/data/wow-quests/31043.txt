@@ -1,8 +1,0 @@
-{
-    "_id": "31043",
-    "added_in_patch": 5,
-    "description": "It is said that Shan'ze Dao was once home to a great mogu temple.There, the Shan'ze studied and practiced the art of subjugating the dead or inanimate.Much of their knowledge still remains on the island to the northwest, buried among the ruins.We need to get our hands on their knowledge - both to keep it out of their hands, and to understand the nature of their experiments.",
-    "name": "Dark Arts",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

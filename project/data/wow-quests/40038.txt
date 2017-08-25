@@ -1,8 +1,0 @@
-{
-    "_id": "40038",
-    "added_in_patch": 7,
-    "description": "Scribbled, angry phrases on a dirty scrap of vellum. One part catches your eye:     \"thinks HE knows how to gather herbs <name><Name><Name><Name>    steal my blade  slit his THROAT when I        just need      a bit more mana    maybe aethril, yes...\"Your herbalism trainer may be interested in seeing this.",
-    "name": "Insane Ramblings",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

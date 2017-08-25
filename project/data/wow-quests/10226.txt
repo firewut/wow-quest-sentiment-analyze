@@ -1,7 +1,0 @@
-{
-    "_id": "10226",
-    "description": "Darn it, that didn't do it!Ok, I've got another idea!  I had Xyrol whip up an elemental power extractor.  I'm not certain exactly what this power will do, but I know that I can use it.The sundered rumblers and warp aberrations on the ledge of the Crumbling Wastes to the south have just what I need for the engines!The extractor will change the form of their power into something solid that you'll be able to gather up after you've defeated them.",
-    "name": "Elemental Power Extraction",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

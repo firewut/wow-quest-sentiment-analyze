@@ -1,8 +1,0 @@
-{
-    "_id": "30933",
-    "added_in_patch": 5,
-    "description": "I've searched everywhere... but I haven't found my father. I KNOW he's alive still. He just needs his crossbow... then he'll be OK.I've heard that you Shado-Pan guys sometimes fight the mantid on Sra'vess. I don't have any way of getting there. If you ever go over there, can you look for my dad?",
-    "name": "Seeking Father",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

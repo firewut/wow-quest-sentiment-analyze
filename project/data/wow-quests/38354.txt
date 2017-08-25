@@ -1,9 +1,0 @@
-{
-    "_id": "38354",
-    "added_in_patch": 6.1,
-    "description": "My assistants have figured out how to convert ogre waystones into useful items for our garrison.  Speak with Apprentice Var'nath outside to start your first work order.",
-    "name": "Portable Portals",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

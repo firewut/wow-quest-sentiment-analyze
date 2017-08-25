@@ -1,9 +1,0 @@
-{
-    "_id": "34027",
-    "added_in_patch": 6,
-    "description": "Aye, we triple-checked the site before we set up here. Nary a peep from the ol' earthly deep.But there's been rumblin's today, and they're gettin' closer! I tell ya somethin' ain't right!Ye don't have to take my word for it - the Tremor-Tracker is just about finished collecting data. Check it out an' see fer yerself!",
-    "name": "Groundbreaking Data",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

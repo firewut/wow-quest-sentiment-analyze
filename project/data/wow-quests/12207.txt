@@ -1,7 +1,0 @@
-{
-    "_id": "12207",
-    "description": "Long ago, powerful druids planted a tree to the northeast of here.It was called Vordrassil and it was to be a world tree.  It is not known why, but after the tree was fully grown, the druids decided it needed to be destroyed.Ever since we arrived here, the earth has spoken to me, <name>.  Its cries of pain come from the places where Vordrassil's remains fell on the ground.Corrupting ooze roams those places.  Bring me samples of it so we may begin to heal the land.",
-    "name": "Vordrassil's Fall",
-    "requires_level": 72,
-    "zone": "Grizzly Hills"
-}

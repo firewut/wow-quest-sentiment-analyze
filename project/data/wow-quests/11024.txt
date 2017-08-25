@@ -1,7 +1,0 @@
-{
-    "_id": "11024",
-    "description": "There is an arakkoa in Lower City by the name of Rilak...  He can be trusted.  Take the book... to him.<Adaris drifts into unconsciousness as he returns the book to you.>",
-    "name": "An Ally in Lower City",
-    "requires_level": 70,
-    "zone": "Shattrath City"
-}

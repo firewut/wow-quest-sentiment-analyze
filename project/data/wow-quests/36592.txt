@@ -1,9 +1,0 @@
-{
-    "_id": "36592",
-    "added_in_patch": 6,
-    "description": "Commander, I've been working on schematics that you might be interested in.\r\n\r\nWhat do you think about pushing out the walls and making room to get some additional structures in here? Our forces have been growing, and things are getting a little cramped, and I'd really like us to put some of those additional blueprints to use.\r\n\r\nIf you could, take a look at the plans on the table here. As soon as I have your go ahead, I'll get everyone to work immediately.",
-    "name": "Bigger is Better",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

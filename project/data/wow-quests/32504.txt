@@ -1,8 +1,0 @@
-{
-    "_id": "32504",
-    "added_in_patch": 5.2,
-    "description": "Send undercover forces into the heart of enemy territory in an effort to learn of their plans.",
-    "name": "Mission: The Secrets of Stormwind",
-    "requires_level": 15,
-    "zone": "Stormwind City"
-}

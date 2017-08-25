@@ -1,7 +1,0 @@
-{
-    "_id": "14024",
-    "description": "That spice bread stuffing you made smells delicious, but no Pilgrim's Bounty feast is complete without a slice of pumpkin pie. It's another one of our favorite dishes here in Stormwind, since it uses ripe Elwynn pumpkins that only grow here.If you don't know how to make pumpkin pie already, there's a recipe in your bountiful cookbook.Would you mind cooking up a few slices and bringing them to Edward Winslow outside Ironforge? He's bound to be running low by now.",
-    "name": "Pumpkin Pie",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

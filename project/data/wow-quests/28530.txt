@@ -1,7 +1,0 @@
-{
-    "_id": "28530",
-    "description": "The cauldron looked like it contained concentrated material. If the Winterfall are diluting this stuff directly in the springs, contamination could build up over time... and then the dilution would be less and less effective.The spring to the northeast has boiled over with elementals. I thought it was because of the cataclysm, but their appearance could be a reaction to this.Could you check them for corruption? Hunt a few and bring me any bits of green foreign material they leave behind.",
-    "name": "Scalding Signs",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

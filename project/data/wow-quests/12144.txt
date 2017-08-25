@@ -1,7 +1,0 @@
-{
-    "_id": "12144",
-    "description": "Oi, mon! One of dose little snobold runts trashed our camp during da last dragon attack. Dey've been houndin us wheneva we turn our backs and I've had enough. To da east you'll find da snobolds hiding under da skirts of some of da local magnataur. Go slaughter dem. If da magnataur interfere on behalf of deir slaves, kill dem as well.",
-    "name": "Pest Control",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

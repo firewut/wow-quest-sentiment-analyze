@@ -1,8 +1,0 @@
-{
-    "_id": "42535",
-    "added_in_patch": 7,
-    "description": "My family has fought the Witherbark trolls for generations... their presence in Arathi has always been a curse upon the land. I want to drive them out of Stromgarde for good!Destroy their supplies and we shall give them no incentive to return. Blight their supplies... or whatever it is you death knights do to defile things. I care not.Just make sure that it is done!",
-    "name": "Death... and Decay",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

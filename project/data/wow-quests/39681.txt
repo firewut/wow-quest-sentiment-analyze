@@ -1,8 +1,0 @@
-{
-    "_id": "39681",
-    "added_in_patch": 7,
-    "description": "I've never seen anything like this \"leystone\" ore. It's light, like mithril, but it carries much more of a magical energy... more even than saronite or elementium.Let's try making something with it. How about a nice pair of gauntlets?",
-    "name": "The Properties of Leystone",
-    "requires_level": 100,
-    "zone": "Blacksmithing"
-}

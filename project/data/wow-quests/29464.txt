@@ -1,7 +1,0 @@
-{
-    "_id": "29464",
-    "description": "This collection of well-worn runestones has seen much use. The pieces seem old; you can't recognize any of the markings on their surfaces.Perhaps a scholar or a collector would know more about them. Bring them to Professor Thaddeus Paleo next time you're at the Darkmoon Faire.",
-    "name": "Tools of Divination",
-    "requires_level": 60,
-    "zone": "Darkmoon Faire"
-}

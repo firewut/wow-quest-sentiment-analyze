@@ -1,7 +1,0 @@
-{
-    "_id": "28940",
-    "description": "TBD",
-    "name": "Get Antidote",
-    "requires_level": 28,
-    "zone": "Arathi Highlands"
-}

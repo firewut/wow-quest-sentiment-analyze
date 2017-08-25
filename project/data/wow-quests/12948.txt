@@ -1,7 +1,0 @@
-{
-    "_id": "12948",
-    "description": "This is the end, my friend! Your last opponent is going to be your greatest challenge. He's a vrykul champion from the steppes of Icecrown and he's out for blood! Defeat him and you'll be crowned the champion of the Amphitheater of Anguish! This fight is going to make us both rich!Let me know when you're ready and we'll start.",
-    "name": "The Champion of Anguish",
-    "requires_level": 75,
-    "zone": "Zul'Drak"
-}

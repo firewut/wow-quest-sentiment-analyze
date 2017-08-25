@@ -1,7 +1,0 @@
-{
-    "_id": "30106",
-    "description": "Prince Wrathion will be pleased to hear that you've succeeded. You should report back to him at Ravenholdt Manor.The Prince has been known to be extremely generous to those who help him. ",
-    "name": "The Deed is Done",
-    "requires_level": 85,
-    "zone": "Rogue"
-}

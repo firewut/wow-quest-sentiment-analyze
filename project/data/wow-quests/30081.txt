@@ -1,8 +1,0 @@
-{
-    "_id": "30081",
-    "added_in_patch": 5,
-    "description": "Alright, Ken-Ken pretty sure he knows what wrong with pandaren! Got old, old hozen remedy that do the trick.Need to mix honey, fish oil, and salt. Ken-Ken saw lots of beehives in the trees around town, and there must be fish left in the dry ponds.That just leave salt... Mei might know where we can find some.",
-    "name": "Materia Medica",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

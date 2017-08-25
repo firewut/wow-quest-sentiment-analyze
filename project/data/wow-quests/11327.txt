@@ -1,7 +1,0 @@
-{
-    "_id": "11327",
-    "description": "Well darn, we need some of that plague-stuff.I know!While you were destroying the vats, I happened to spy one of the apothecaries from New Agamand being pulled into Halgrind by the vrykul down in there. Poor fella'.<name>, I'd bet anything that apothecary has the goods on him. Think you could go into Halgrind and retrieve his package?",
-    "name": "Mission: Package Retrieval",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

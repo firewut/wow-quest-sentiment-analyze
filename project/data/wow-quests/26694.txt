@@ -1,7 +1,0 @@
-{
-    "_id": "26694",
-    "description": "<The Bravo Company field kit vibrates.>Good work, kid. I've got some vital intel for you. The magus in the tower is a human named Doane. Damned traitor is working for the Blackrock orcs. I want him dead.Use the key of Ilgalar and get inside that tower. Work your way to the top and show Doane what Bravo Company does with traitors.Rendezvous back at Shalewind Canyon when the deed is done.Keeshan, over and out.",
-    "name": "The Grand Magus Doane",
-    "requires_level": 17,
-    "zone": "Redridge Mountains"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35839",
-    "added_in_patch": 6,
-    "description": "I managed to get my hands on Jeanine's notebook. She identified several key items in the nearby buildings to investigate, but couldn't follow up before her demise.The least we can do is follow the lead that she left us.Search the camp for the intelligence. I'll keep the orcs distracted.",
-    "name": "Plans of War",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

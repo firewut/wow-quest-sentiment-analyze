@@ -1,7 +1,0 @@
-{
-    "_id": "28885",
-    "description": "Okay, <name>, we need to get to the earth portal at the back of the cave.I've \"procured\" a ride for us. Why walk when we can ride in style? I hope you don't mind mine carts.Let me know when you're ready.",
-    "name": "Mr. Goldmine's Wild Ride",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

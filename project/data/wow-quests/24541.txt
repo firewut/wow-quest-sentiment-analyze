@@ -1,7 +1,0 @@
-{
-    "_id": "24541",
-    "description": "I knew they were up to no good! There's some sort of mind-affecting chemical in here, but I can't get a handle on it with such a small sample. I need the real stuff.\r\n\r\nDon't just go over there and buy it! I don't want you giving these scumbags one copper. Nah, you gotta get it from the source, discreet-like.\r\n\r\nI'll disguise you as a package runner. I saw a stockpile guarded by their goons outside the gates. Go run by, and DON'T stop, or they'll make you! They'll toss you a crate. Bring it back here.",
-    "name": "Pilfering Perfume",
-    "requires_level": 1,
-    "zone": "Love is in the Air"
-}

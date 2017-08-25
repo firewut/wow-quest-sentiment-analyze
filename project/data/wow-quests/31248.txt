@@ -1,8 +1,0 @@
-{
-    "_id": "31248",
-    "added_in_patch": 5,
-    "description": "I've instructed Anji and Kun to resume investigation of the Ruins of Guo-Lai. We have no reports of any significant mogu presence there today, but it seems to be one of their central interests here in the Vale, and want it under thorough watch consider their attack on the lake.That's why I'm sending you as well.Head west, past the lake, to the ruins. Anji will instruct you further.",
-    "name": "The Ruins of Guo-Lai",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

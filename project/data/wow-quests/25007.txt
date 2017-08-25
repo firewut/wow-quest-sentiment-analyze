@@ -1,7 +1,0 @@
-{
-    "_id": "25007",
-    "description": "You've done much for us here, <name>, but  men of your caliber are needed elsewhere.To the east lies the Bulwark: a fortified barricade against the ravages of the Plaguelands.  The Bulwark protects us from Scourge invasions, and has allowed us enough sanctity to build up our forces here in Tirisfal Glades.Go, speak with High Executor Derrington.  He is an ally, and will doubtless appreciate whatever aid you can give him.",
-    "name": "East... Always to the East",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

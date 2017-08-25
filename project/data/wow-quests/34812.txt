@@ -1,7 +1,0 @@
-{
-    "_id": "34812",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Horde Stables Tracking Event",
-    "zone": "Nagrand"
-}

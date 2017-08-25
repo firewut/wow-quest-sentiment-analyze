@@ -1,8 +1,0 @@
-{
-    "_id": "32848",
-    "added_in_patch": 5.3,
-    "description": "A piece of an eggshell, presumably penguin. Its edges are covered with rime, and based on its curvature, this egg was quite large when it was intact.Strangely, the inside of the eggshell has a message written on it, in jade-green ink:RETURN TO BRAWLER'S GUILD",
-    "name": "Frost-Tipped Eggshell",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

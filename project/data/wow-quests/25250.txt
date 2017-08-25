@@ -1,7 +1,0 @@
-{
-    "_id": "25250",
-    "description": "It is ready. Take this, <name>; a beacon of natural essence, blessed by the will of Ysondre.To the east, on the other side of the flowing brook, is Dream Bough. There stands the Great Tree, the tallest in Feralas, a sapling of the World Tree itself. A portal to the heart of the Emerald Dream sits in its trunk, and it is this portal you must seal.The portal will be guarded, but you must be brave. May the Earth Mother watch over you.",
-    "name": "Sealing the Dream",
-    "requires_level": 34,
-    "zone": "Feralas"
-}

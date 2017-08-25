@@ -1,8 +1,0 @@
-{
-    "_id": "24940",
-    "description": "A whole bunch of our people headed up to the top of the volcano to mount a counter-offensive. There's something horrible brewing up there on the Lost Peak.They're waiting for you before they make any moves against the pygmies. Those evil little things turned a lot of us into zombies!<name>, save us!",
-    "name": "Up the Volcano",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

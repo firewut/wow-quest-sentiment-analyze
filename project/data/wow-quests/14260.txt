@@ -1,7 +1,0 @@
-{
-    "_id": "14260",
-    "description": "I have fashioned a charm that will allow you to infiltrate the naga, giving you the appearance of one of their own.With this disguise, you will be able to speak and understand their language. They will be unable to discern your true identity.But beware! The sharks and other sea creatures here will expose you for all to see. Avoid them at all costs.Now go. Speak to the Priestess of Azshara and do what you must to learn of their purposes here.",
-    "name": "Going Deep",
-    "requires_level": 28,
-    "zone": "Desolace"
-}

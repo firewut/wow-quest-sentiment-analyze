@@ -1,7 +1,0 @@
-{
-    "_id": "8359",
-    "description": "That's an... interesting costume you have on.  Even though you're being nice and helping a child trick-or-treat this year, I'm afraid I'm going to have to ask you to perform a trick for me!Let's see... you look so strong and buff in that... costume... let's see you flex!  Yes, go on now and flex for me, strong  man !When and only when you flex, I'll give you some tasty Orgrimmar Nougat.  It's a great Hallow's End treat.\r\n",
-    "name": "Flexing for Nougat",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32576",
-    "added_in_patch": 5.2,
-    "description": "One of the scryers has identified a Zandalari leader near the central tower. He needs to be removed.Would you be willing to handle this?",
-    "name": "Competing Magic",
-    "requires_level": 90,
-    "zone": "Quests"
-}

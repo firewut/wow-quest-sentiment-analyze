@@ -1,7 +1,0 @@
-{
-    "_id": "27012",
-    "description": "I have my doubts about those gnolls' intentions.  They haven't attacked us yet, but their numbers are growing, and they seem to always have their weapons ready.  I'm no military expert, but that seems a little aggressive to me.Maybe if we took away some of their weapons, they'd be a little less likely to pose a threat to our mill.  I'd feel much better about the whole situation if you went down there and brought some of their weapons back to me.",
-    "name": "A Gnoll's Resolve",
-    "requires_level": 35,
-    "zone": "Western Plaguelands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28334",
-    "description": "This operation's stayed pretty discreet so far, but the worgen over in Talonbranch Glade have it out for us. They've been trying everything they can to get us shut down.Some of the workers have told me they've seen glimpses of worgen lurking around the clearing. Take these oversized megaflares. They're bright enough to show anything that gets anywhere near them.Use the flares to look for prowling worgen, and make sure they don't leave here alive!",
-    "name": "A Flare Fight",
-    "requires_level": 47,
-    "zone": "Felwood"
-}

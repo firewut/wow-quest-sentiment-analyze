@@ -1,8 +1,0 @@
-{
-    "_id": "26414",
-    "description": "Sometimes, I fish for fun.  Other times to relax, but sometimes I want a challenge.  That's where the hardened walleye comes into the picture.  This prized fish is not caught for us to eat, but for the challenge.  You can find the walleye in Stormwind Lake just north of the city.  Think you are up to the challenge?",
-    "name": "Hitting a Walleye",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

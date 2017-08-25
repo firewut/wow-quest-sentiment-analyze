@@ -1,8 +1,0 @@
-{
-    "_id": "32121",
-    "added_in_patch": 5.1,
-    "description": "In the ruins there are a bunch of right nasty blue crystals. Look at 'em the wrong way and bloody angry ghosts run out at ya.\r\n\r\nI'm gonna be needing ye' to go in and clear some of them out so we can get our people back to work.",
-    "name": "The Spirit Trap",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

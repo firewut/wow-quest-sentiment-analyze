@@ -1,8 +1,0 @@
-{
-    "_id": "11727",
-    "description": "It's good to have you among us, <name>.  We've all heard of your past deeds.As you know, King Wrynn is moving great armies into Northrend to meet those of Arthas.  But armies are nothing without true heroes to inspire and lead them.I want you to be that hero for my men.  Fight alongside them against the Scourge that lays siege to our stronghold.Report to Sergeant Hammerhill outside the inner hold.  Valiance Keep cannot fall.  The future of our campaign depends on it.",
-    "name": "A Time for Heroes",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

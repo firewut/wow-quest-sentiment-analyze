@@ -1,7 +1,0 @@
-{
-    "_id": "26658",
-    "description": "It is now time to draw the Broodmother's attention. To do so, we will need a mallet that the troggs use when making offerings to her.Seek out the Stone Trogg Beast Tamers that are attempting to tame basilisks in the southern portions of the Pale Roost. You will find a mallet on one of their corpses.",
-    "name": "Fragile Values",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

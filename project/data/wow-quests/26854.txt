@@ -1,8 +1,0 @@
-{
-    "_id": "26854",
-    "description": "My friend and fellow Siege Engine pilot, Mori Hildelve, is lost in the hills. We were looking for a rare ore that's needed for a high-grade blastpowder, and during our search he drove his engine up a steep hill and busted it!Still convinced that ore was in these mountains, Hildelve charged me to guard our engines while he continued on foot.It's been days, and I've heard some beastly growls north of Helm's Bed Lake, west of the tunnel. Mori's tough as nails, but I'm worried.Please, <name>. Find him.",
-    "name": "The Lost Pilot",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

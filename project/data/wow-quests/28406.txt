@@ -1,7 +1,0 @@
-{
-    "_id": "28406",
-    "description": "Things are getting interesting in Blackrock Mountain, <name>. Our sources report that the Dark Iron dwarves have formed closer ties with Twilight's Hammer and both are preparing for a major offensive.I've made the contents of the report known to key leaders in Stormwind and I want you to help deal with this emerging Dark Iron threat.The rations for most of the Dark Iron army are kept in the East and West Garrison of Blackrock Depths. Take this poison and apply it to their grain reserves.",
-    "name": "The Dark Iron Army",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

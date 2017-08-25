@@ -1,7 +1,0 @@
-{
-    "_id": "1790",
-    "description": "",
-    "name": "The Symbol of Life",
-    "requires_level": 12,
-    "zone": "Paladin"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38656",
-    "added_in_patch": 7,
-    "description": "The demonic rune glows in your hand, emanating dark power. A single word, inscribed in demon tongue, glows coldly... ...GRAVAX...",
-    "name": "Mark of the Demon",
-    "requires_level": 98,
-    "zone": "Quests"
-}

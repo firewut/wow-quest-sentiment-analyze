@@ -1,8 +1,0 @@
-{
-    "_id": "43361",
-    "added_in_patch": 7,
-    "description": "In the hall beyond rests the bones of the failed arcan'dor.\r\n\r\nI will take fragments of the crystallized tree and attempt to read them. We must discover the root cause of this destruction.\r\n\r\nOnly then do we have any hope of preventing this disaster from repeating itself.",
-    "name": "Fragments of Disaster",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

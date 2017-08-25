@@ -1,7 +1,0 @@
-{
-    "_id": "28497",
-    "description": "Sullah wasn't kidding. That hill is crawling with troopers!Jump on and paint our targets for me.Make every shot count, <name>! We need to be able to get up there.",
-    "name": "Fire From the Sky",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

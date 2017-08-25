@@ -1,7 +1,0 @@
-{
-    "_id": "12122",
-    "description": "<name>, you must travel as swiftly as you can to Wyrmrest Temple and present this letter to the steward, Tariolstrasz.The temple sits in the center of the Dragonblight. Follow the road east until it ends, and then cross The Dragon Wastes to get to it.I'm sure that when the steward reads your introduction, he'll see to it that you gain an audience with Queen Alexstrasza. We can only hope that we're not too late.Thank you for all that you have done on our behalf. Safe journeys!",
-    "name": "Gaining an Audience",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

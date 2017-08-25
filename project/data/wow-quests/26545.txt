@@ -1,8 +1,0 @@
-{
-    "_id": "26545",
-    "description": "<The gnomecorder hums.>You need to find Yowler, <name>. He'll be located somewhere in the northern region of Redridge Canyons. Kill that mongrel and search his corpse for the Blackrock invasion plans. Should you succeed, bring the plans to me over at the town hall in Lakeshire.Solomon, out.",
-    "name": "Yowler Must Die!",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Redridge Mountains"
-}

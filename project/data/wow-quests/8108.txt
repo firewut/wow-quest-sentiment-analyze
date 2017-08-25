@@ -1,7 +1,0 @@
-{
-    "_id": "8108",
-    "description": "",
-    "name": "Kezan's Taint",
-    "requires_level": 58,
-    "zone": "Quests"
-}

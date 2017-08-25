@@ -1,9 +1,0 @@
-{
-    "_id": "34701",
-    "added_in_patch": 6,
-    "description": "Oh, praise the Light, you're here! Exarch Maladaar asked for me to find you.We need your help. Auchindoun is under attack by demons!Go to the Burning Front to the southwest as soon as possible! You're one of the few people he trusts to help lead the defense.",
-    "name": "Speaker for the Dead",
-    "requires_level": 95,
-    "side": "alliance",
-    "zone": "Talador"
-}

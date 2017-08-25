@@ -1,7 +1,0 @@
-{
-    "_id": "9830",
-    "description": "When I speak to draenei, I often get the sense that they consider themselves removed from their environment. Many seem to pity my brethren, the Broken, who they say have lost something.We Broken may have lost our inclination toward the Light, but our experiences have brought us closer to the land.My people see opportunities where few draenei do. Take, for example, the venom of the marshlight bleeders that live to the south and west. It has a wide variety of uses from hunting to healing.",
-    "name": "Stinger Venom",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38304",
-    "added_in_patch": 7,
-    "description": "[PH] Go through the portal in Dalaran and meet Malfurion Stormrage in Val'Sharah.",
-    "name": "Val'sharah",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

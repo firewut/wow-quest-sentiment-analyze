@@ -1,7 +1,0 @@
-{
-    "_id": "10355",
-    "description": "We must determine how far the damage has spread. The basidium you brought me comes from a bog giant. Their larger, hardier cousins, the bog lords, should prove more resistant to the degeneration that's struck the giants.It would be good to know how the changes in the Dead Mire have affected the other creatures out there, too.Return to the Dead Mire and see if you can get samples from the bog lords and the hydra in the area.",
-    "name": "Withered Flesh",
-    "requires_level": 60,
-    "zone": "Zangarmarsh"
-}

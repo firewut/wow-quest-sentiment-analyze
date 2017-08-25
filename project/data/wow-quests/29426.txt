@@ -1,7 +1,0 @@
-{
-    "_id": "29426",
-    "description": "So someone else hired you to retrieve this crate? I don't like the sound of that.That crate's contents belong in the care of the Reliquary. The items it holds are very powerful and very dangerous.We have to find the meeting that Dran set up between the thief and the collector, but first, we'll need to protect ourselves from the effects of handling that crate.Acquire some strange dust, get vials from an alchemy merchant, and pick some blood nettle in the Valley of Wisdom.",
-    "name": "Taking Precautions",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

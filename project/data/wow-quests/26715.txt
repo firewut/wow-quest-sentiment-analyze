@@ -1,7 +1,0 @@
-{
-    "_id": "26715",
-    "description": "I've spoken to Malfurion of your coming. He seemed very interested in meeting you himself.You should go to him in the Temple of the Moon. You'll find him standing beside our beloved Tyrande Whisperwind, where he's remained diligently ever since his return.I must warn you... Malfurion has his reservations. You may be carrying a great burden for your people by being the one to meet with him.",
-    "name": "Malfurion Stormrage",
-    "requires_level": 9,
-    "zone": "Darnassus"
-}

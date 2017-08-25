@@ -1,7 +1,0 @@
-{
-    "_id": "12504",
-    "description": "<The sergeant quickly reads through the orders you've handed him, a frown coming over his face.>Look,  lad , I'd love to just up and leave, but take a look out there. All of my people are fighting.Tell you what, you've come this far, you think you're up to doing me a small favor? Head out there and round up my soldiers?Tell 'em that the sergeant orders them to report back immediately. Lend them a hand if you will.",
-    "name": "Argent Crusade, We Are Leaving!",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

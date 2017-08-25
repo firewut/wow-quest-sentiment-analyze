@@ -1,8 +1,0 @@
-{
-    "_id": "32591",
-    "added_in_patch": 5.2,
-    "description": "For two thousand years the mogu ruled this entire land. So brutal was their regime that its name is never uttered aloud: Pandaren call it either the \"Old Kingdom\" or \"First Dynasty.\"The Thunder King was its founder and first emperor. He amassed enormous power on what is now the Isle of Thunder.His time has passed, <name>. We should claim some of his power for ourselves. Gather mogu relics for me from the Throne of Thunder, and amass some trillium - I have a plan!",
-    "name": "Secrets of the First Empire",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

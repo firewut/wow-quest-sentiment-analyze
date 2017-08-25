@@ -1,8 +1,0 @@
-{
-    "_id": "42128",
-    "added_in_patch": 7,
-    "description": "The Skull of the Man'ari, oh good choice! It's very powerful and it's held by an even more powerful Dreadlord!There is a weakness, the skull has a will of its own! If we can commune with the skull we might be able to convince it to serve you instead!We will need reagents from the floating city before we can perform the ritual to commune with it. Dust from a fresh grave, dark oil, and a powerful alcohol catalyst.Oh, and blood! I sense a beast whose blood should be perfect.",
-    "name": "Ritual Reagents",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

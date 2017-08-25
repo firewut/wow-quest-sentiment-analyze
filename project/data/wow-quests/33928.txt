@@ -1,8 +1,0 @@
-{
-    "_id": "33928",
-    "added_in_patch": 6,
-    "description": "The molten core appears to be the mutated remains of an elemental that consisted of both earth and fire.Slag elementals should not exist upon the plateau where the elements live in purity.You decide that the core should be taken to Incineratus at the Throne of Elements for examination.Perhaps the great fury of fire will know what to make of this core and your battle with Magmire.",
-    "name": "A Wrong of Earth and Fire",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

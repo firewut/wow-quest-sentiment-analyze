@@ -1,7 +1,0 @@
-{
-    "_id": "12121",
-    "description": "These Drakkari have met you with nothing but savage hostility. You owe them nothing. Few indeed would carry out the task that Kraz asks of you today.To cleanse this place and send the spirits to their eternal rest, you must join them in death.There is one inside the crypt who awaits you - on the other side. He holds the knowledge we seek, <name>.Use the mallet on the gongs. The spirit of he who corrupts this place will surely deliver you to the spirit world.Kraz awaits your return.",
-    "name": "See You on the Other Side",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

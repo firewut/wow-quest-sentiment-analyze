@@ -1,7 +1,0 @@
-{
-    "_id": "27675",
-    "description": "Find a resident in Stormwind City to accept your forged documents.",
-    "name": "Forged Documents",
-    "requires_level": 1,
-    "zone": "Stormwind City"
-}

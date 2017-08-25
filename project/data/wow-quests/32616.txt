@@ -1,8 +1,0 @@
-{
-    "_id": "32616",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "A Large Pile of Giant Dinosaur Bones",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

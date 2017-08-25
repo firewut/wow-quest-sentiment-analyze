@@ -1,8 +1,0 @@
-{
-    "_id": "27338",
-    "description": "The situation here in the Highlands changes by the minute. Our objective is to storm the Bastion of Twilight, but I can't even secure a landing zone on the shore without the blasted Horde creating trouble.While I scrape together the remains of the fleet, I need men on the shore securing the beach head.Report to Lieutenant Emry on the shore and help his marines to beat back the Horde!",
-    "name": "Our Boys on the Shore",
-    "requires_level": 84,
-    "side": "alliance",
-    "zone": "Twilight Highlands"
-}

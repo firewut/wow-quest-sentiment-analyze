@@ -1,8 +1,0 @@
-{
-    "_id": "32838",
-    "added_in_patch": 5.3,
-    "description": "A small book, written for children. It's well-bound and in fairly good condition.On the back cover of the book, near the spine, you find a few words written in flowing script:RETURN TO BRAWLER'S GUILD",
-    "name": "A Tale of Romance and Chivalry",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "34726",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Pale Spider Broodmother",
-    "requires_level": 98,
-    "zone": "Quests"
-}

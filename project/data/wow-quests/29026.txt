@@ -1,8 +1,0 @@
-{
-    "_id": "29026",
-    "description": "I think I really put my foot into that one - it looks like I might have knocked one of the load-bearing fluxors into the spokes of the deregulator gear. We can fix this, easy. I know an expert on triple-expansion piston drives who would love to get her hands on a samophlange. Take the broken samophlange to Wenikee Boltbucket, just south of Mor'shan Rampart, she'll patch 'er right up.Hey, no need to walk - this gives me the perfect opportunity to test my personal people porter device!",
-    "name": "Wenikee Boltbucket",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

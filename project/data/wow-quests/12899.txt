@@ -1,8 +1,0 @@
-{
-    "_id": "12899",
-    "description": "It sounds like you did extremely well. And you secured three very important allies for the Knights of the Ebon Blade in the process.<Koltira gazes down at the map on the floor.>You should head back. By now, Baron Sliver and the other death knights will be fighting tooth and nail to hold The Shadow Vault against the might of the Scourge.I'm sure they'll need your help.",
-    "name": "The Shadow Vault",
-    "requires_level": 77,
-    "side": "horde",
-    "zone": "Icecrown"
-}

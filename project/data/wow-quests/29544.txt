@@ -1,7 +1,0 @@
-{
-    "_id": "29544",
-    "description": "Caza'rez awaits you within the Blood Furnace. He's already cleared out a small area and has our scryers hard at work figuring out what's going on down there.But I don't trust that scrying will be enough. I'm sure Caza'rez has plans in mind for a solid blade or two. I want you to go there and lend him your expertise in dealing with the fel orcs. ",
-    "name": "The Blood Furnace",
-    "requires_level": 59,
-    "zone": "Quests"
-}

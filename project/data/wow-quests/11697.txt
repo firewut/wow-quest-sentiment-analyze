@@ -1,7 +1,0 @@
-{
-    "_id": "11697",
-    "description": "I told Tinky not to go off on her own, but she just HAD to check out that crashed necropolis to the west.I'm 100% certain that those cultists came from inside that thing, which means I'm now 100% certain that Tinky's in trouble!She's the airstrip's number one engineer. Without her we're doomed!I'd find her myself, but one of those things got in a swipe on my leg before I could vanish again. <name>, if anyone can get her out, it's you!",
-    "name": "Rats, Tinky Went into the Necropolis!",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

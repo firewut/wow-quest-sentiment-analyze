@@ -1,7 +1,0 @@
-{
-    "_id": "25002",
-    "description": "<You discover a cargo manifest on the body, detailing a long list of sundries urgently needed on the front.><A bloody trail in the dirt indicates bodies were dragged south of here, toward the raptor dens.><The raptors may have dragged away the supplies, as well. Retrieving those supplies for Corporal Teegan could help salvage this disaster!>",
-    "name": "Scavenged",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

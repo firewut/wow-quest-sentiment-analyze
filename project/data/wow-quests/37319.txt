@@ -1,8 +1,0 @@
-{
-    "_id": "37319",
-    "added_in_patch": 6.1,
-    "description": "We've been asked to craft a pair of wedding bands. The clients requested that they be made by you.",
-    "name": "Jewelcrafting Special Order:  Wedding Bands",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10197",
-    "description": "Infiltrating the ranks of Kael's army will not be an easy task.  With my knowledge of illusionary magic I could pass you off as one of Kael's followers, but there are certain details in their uniforms I could not replicate.Bring me a set of their robes, a pair of their gloves and a Sunfury guardsman medallion.  This will make the results of my magic much more convincing.",
-    "name": "A Convincing Disguise",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

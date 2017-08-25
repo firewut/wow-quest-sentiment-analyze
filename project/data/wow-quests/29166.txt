@@ -1,7 +1,0 @@
-{
-    "_id": "29166",
-    "description": "One of the biggest dangers that our druids face when fighting within the Firelands is simple dehydration. Our proveditors spend a significant amount of time preparing canteens for the troops on the other side. We do have other methods, however.In the greener thickets to the east, you should still find some blueroot vines which have not yet burned. These plants hold a tremendous amount of water in their roots - and also provide some energy for the weary soldier.",
-    "name": "Supplies for the Other Side",
-    "requires_level": 85,
-    "zone": "Quests"
-}

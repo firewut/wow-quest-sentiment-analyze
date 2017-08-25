@@ -1,9 +1,0 @@
-{
-    "_id": "29726",
-    "added_in_patch": 5,
-    "description": "I... I can tell you what happened next! We continued north, into the forest...",
-    "name": "SI:7 Report: Hostile Natives",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41320",
-    "added_in_patch": 7,
-    "description": "The shield being lowered presents a unique opportunity for new styles.Feathers, bone and other primitive materials are suddenly fashionable again. Who would have thought they could grow tired of my masterpieces?Venture out of the city and collect necklaces from the harpies on the southern cliffs. Etching my mark into them should net me a tidy profit.",
-    "name": "Pry It From Their Cold, Feral Claws",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

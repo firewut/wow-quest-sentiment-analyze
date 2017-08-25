@@ -1,8 +1,0 @@
-{
-    "_id": "38413",
-    "added_in_patch": 7,
-    "description": "When the Felskorn assaulted the nest, the Thorignir fought bravely to save our brood. But their demonic allies proved too much, and many of us were captured.\r\n\r\nEven now they work to corrupt my brothers and sisters to turn them to their side. \r\n\r\nPlease, outsider, free them from this fate!",
-    "name": "Wings of Liberty",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

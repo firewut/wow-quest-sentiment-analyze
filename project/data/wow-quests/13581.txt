@@ -1,7 +1,0 @@
-{
-    "_id": "13581",
-    "description": "It won't be immediate, but the elementals' anger will soon die down and my people will live to fight another day.I will go help you and Malfurion in any way that I can.",
-    "name": "The Blackwood Pledge",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

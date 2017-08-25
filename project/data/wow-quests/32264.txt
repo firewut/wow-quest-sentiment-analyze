@@ -1,8 +1,0 @@
-{
-    "_id": "32264",
-    "added_in_patch": 5.2,
-    "description": "Jaina possesses several very powerful magic artifacts. These items travel with her at all times, and are never far from her grasp. I have an interest in one of these items.A tome, filled with knowledge, passed from one archmage to another. I have only ever seen glimpses of it.Now that we fight on opposite sides I see no issue in removing the tome from her possession.",
-    "name": "Spellbound",
-    "requires_level": 90,
-    "zone": "Quests"
-}

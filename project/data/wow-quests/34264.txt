@@ -1,9 +1,0 @@
-{
-    "_id": "34264",
-    "added_in_patch": 6,
-    "description": "None of the Thunderlord can escape my wrath! We need something to pull them out of the skies so that they can greet our blades.Their wranglers should carry rope with them for handling their beasts. Slay them, if they have any coils in good condition bring them to me.",
-    "name": "A Collection of Coils",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

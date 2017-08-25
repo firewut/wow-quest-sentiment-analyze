@@ -1,8 +1,0 @@
-{
-    "_id": "42221",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Chief Bitterbrine",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

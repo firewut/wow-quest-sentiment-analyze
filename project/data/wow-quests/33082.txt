@@ -1,9 +1,0 @@
-{
-    "_id": "33082",
-    "added_in_patch": 6,
-    "description": "I believe that you should know the price of the lives you take.So before I will help you find Ner'zhul, you must understand why he joined the Iron Horde.In a cave beneath this village is an artifact that we call the Ancestral Totem. On it is carved the names of every Shadowmoon clan member since its founding.The opening of the cave lies directly south. I will meet you there.",
-    "name": "Ancestor's Memory",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

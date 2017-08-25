@@ -1,8 +1,0 @@
-{
-    "_id": "39840",
-    "added_in_patch": 7,
-    "description": "Those results certainly were disappointing. Calcination is a tricky process, better reserved for alchemists and blacksmiths. Still, I thought we'd get more than a measly TWO GRAINS of obliterum.For a more efficient reaction, we'll need a special forge, and to get that......we'll need permission from the Council of Six.",
-    "name": "The Council's Approval",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

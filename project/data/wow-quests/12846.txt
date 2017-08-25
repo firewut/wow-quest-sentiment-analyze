@@ -1,7 +1,0 @@
-{
-    "_id": "12846",
-    "description": "All of our boys are back... thanks to you, <name>!  Well... all but one.My brother Zeev is still up there according to the others.  Apparently they have some sort of mine where they make their prisoners work.  Go in there and see if you can find out anything.",
-    "name": "Leave No Goblin Behind",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

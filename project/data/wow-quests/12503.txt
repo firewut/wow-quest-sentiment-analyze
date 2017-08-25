@@ -1,7 +1,0 @@
-{
-    "_id": "12503",
-    "description": "Despite our substantial successes in the lower third of Zul'Drak, we must still face the onslaught of the Scourge. Such is the way in this frigid hell.The attacks are unrelenting, yet my men need rest. If you are willing, we could use your aid in reinforcing them.Below in the courtyard you'll find no end to the fighting. Dispatch the Scourge there with all the zeal you can muster, <class>.",
-    "name": "Defend the Stand",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

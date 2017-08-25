@@ -1,8 +1,0 @@
-{
-    "_id": "31065",
-    "added_in_patch": 5,
-    "description": "Taoshi set up a spyglass on the ridge edge to show me what her scouting uncovered.Go over and take a look.",
-    "name": "Buried Beneath",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

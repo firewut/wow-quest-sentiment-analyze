@@ -1,8 +1,0 @@
-{
-    "_id": "30358",
-    "added_in_patch": 5,
-    "description": "The Fist of Garrosh will hold position over the harbor until all other threats from the ground are eliminated.Your next target: Baldruc, Theramore's gryphon master. That mad dwarf and his beasts can't be allowed to attack the airship from above.Slay Baldruc, along with his winged charges.",
-    "name": "Gryphon, Down",
-    "requires_level": 85,
-    "zone": "Theramore's Fall (Horde)"
-}

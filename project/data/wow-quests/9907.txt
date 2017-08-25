@@ -1,7 +1,0 @@
-{
-    "_id": "9907",
-    "description": "Directly west of here you will find the Halaani Basin. Within the basin are the twin clefts of Nagrand: Northwind and Southwind. Boulderfist shock troops use the clefts to hide their ogre mounds.I need you to track down those troops and kill all that you encounter in the name of Mag'har.",
-    "name": "An Audacious Advance",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41034",
-    "added_in_patch": 7,
-    "description": "There is no place that the Sashj'tar can hide from you now, <name>.They will not be expecting a direct attack in their waters. This is a perfect opportunity to cut down their commanders.Meet me in Jandvik after you have slaughtered them.",
-    "name": "Testing the Waters",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

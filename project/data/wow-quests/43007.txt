@@ -1,8 +1,0 @@
-{
-    "_id": "43007",
-    "added_in_patch": 7,
-    "description": "Lord Jorach Ravenholdt sent me out to find you, <name>. He wants your counsel on some matter of importance.\r\n\r\nHe requests your presence back at the Chamber of Shadows.",
-    "name": "Return to the Chamber of Shadows",
-    "requires_level": 101,
-    "zone": "Rogue Campaign"
-}

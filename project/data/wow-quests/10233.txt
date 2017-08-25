@@ -1,7 +1,0 @@
-{
-    "_id": "10233",
-    "description": "Ridding Sunfury Hold of its garrison is not sufficient to keep the blood elves from reoccupying it. Kael'thas's followers are zealous and tenacious. Leaving them anything to use at Sunfury is effectively an invitation to return.No, it must all be destroyed. See to it that their tents and artillery burn to ashes!<The ghost's fists clench.>Steal torches from the Sunfury flamekeepers to accomplish your task, <name>.",
-    "name": "Torching Sunfury Hold",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

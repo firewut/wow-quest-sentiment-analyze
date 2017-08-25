@@ -1,8 +1,0 @@
-{
-    "_id": "32382",
-    "added_in_patch": 5.1,
-    "description": "Agent Connelly has managed to infiltrate Garrosh's camp in Kun-Lai! He's been following their every move.Connelly requested you specifically to assist him in gathering some vital intelligence.He sent along a disguise for you. Make sure you put it on before approaching the camp! It will no doubt be heavily guarded.He insists you will know him when you see him. Something about your keen eye for details...Go talk to Fennie over there for a drop-off.",
-    "name": "He's In Deep",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

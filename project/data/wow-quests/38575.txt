@@ -1,7 +1,0 @@
-{
-    "_id": "38575",
-    "description": "",
-    "name": "Beachhead",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

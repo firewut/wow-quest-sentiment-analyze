@@ -1,8 +1,0 @@
-{
-    "_id": "25270",
-    "description": "The shrine has been taken, <name>. We need the tenacity of Lo'Gosh now more than ever.These defilers - the lice-ridden wolf-men running rampant over the shrine - dishonor the memory of the wolf god. They arrived with the Twilight's Hammer, howling with their own twisted religion. They seek to corrupt noble Lo'Gosh to fit their own warped pantheon.Kill them! Kill them and bring me the tools of their worship, a kind of polluted incense. I must understand what they want with the shrine...",
-    "name": "Howling Mad",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Mount Hyjal"
-}

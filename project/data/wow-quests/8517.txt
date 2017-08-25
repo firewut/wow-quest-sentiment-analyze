@@ -1,7 +1,0 @@
-{
-    "_id": "8517",
-    "description": "The war at Ahn'Qiraj is going to be long and bloody. It is a very wise thing that the Alliance is doing by enlisting the aid of you, and those like you, to build up the materiel necessary before plunging headlong into conflict.I have been asked to head up the collection of linen bandages for the war, and I am hoping that you are going to assist me in amassing as many as we need. It is no light matter, but at least the linen bandages are the least difficult to create. Are you with us, <class>?",
-    "name": "The Alliance Needs Linen Bandages!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

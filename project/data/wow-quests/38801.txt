@@ -1,8 +1,0 @@
-{
-    "_id": "38801",
-    "added_in_patch": 7,
-    "description": "You blink and rub your eyes, but they do not deceive you. This is a woman's arm, completely enveloped within a felslate seam.The arm is bloodless, but still twitches. Fel-colored streaks remain where veins once were.Felsmith Nal'ryssa will certainly want to see this.",
-    "name": "Lyrelle's Right Arm",
-    "requires_level": 98,
-    "zone": "Mining"
-}

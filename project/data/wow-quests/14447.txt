@@ -1,7 +1,0 @@
-{
-    "_id": "14447",
-    "description": "While we should never miss an opportunity to strike out against the Alliance, we mustn't forget about the Scourge.We won't have the numbers here to make a proper assault in the glacier for weeks, but that won't keep us from learning all we can know about their defenses.I have asked our resident death knight to advise you in this effort. After all, who better knows this enemy than they?Allow me to introduce Koltira Deathweaver.\r\n",
-    "name": "Takes One to Know One",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

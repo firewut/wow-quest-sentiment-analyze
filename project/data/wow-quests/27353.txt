@@ -1,8 +1,0 @@
-{
-    "_id": "27353",
-    "description": "Your talent has attracted much attention in shamanic circles, <name>. Word of your mastery of the elements and dedication to the Alliance has even reached the palace.In recognition of your service, King Wrynn has commissioned the royal armorer to forge a special weapon.The materials for your weapon can only be found in Silverpine Forest's cursed Shadowfang Keep. Travel there and retrieve Lord Walden's talisman, the Book of Lost Souls, and the essence of the ghosts haunting the castle.",
-    "name": "Blessings of the Elements",
-    "requires_level": 20,
-    "side": "alliance",
-    "zone": "Shaman"
-}

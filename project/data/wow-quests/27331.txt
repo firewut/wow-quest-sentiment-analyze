@@ -1,7 +1,0 @@
-{
-    "_id": "27331",
-    "description": "I just received word that you are needed in Orgrimmar, <name>. Seer Liwatha has asked for you to return to the city as quickly as you are able. Her message didn't include any other information, and the matter seemed urgent.Look for Seer Liwatha in Orgrimmar's Valley of Wisdom.",
-    "name": "The Seer's Call",
-    "requires_level": 20,
-    "zone": "Priest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27051",
-    "description": "The troggs did not disperse after you killed Glop. His servants recovered the growth agent that was left behind and continue to sow the seeds of corruption across the Crimson Expanse.Hunt them down and recover any of the remaining Verlock Miracle-Grow that you find. It must be disposed of.",
-    "name": "Through Persistence",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

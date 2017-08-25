@@ -1,9 +1,0 @@
-{
-    "_id": "39059",
-    "added_in_patch": 7,
-    "description": "The strange-talking vrykul said I might be able to meet you here. I have orders from Greymane.  It seems he may have a lead on Sylvanas' location.\r\n\r\nHe's set up a camp near the base of the mountain. We've run into some troubles, though. It looks like the Horde may have homed in on our position.\r\n\r\nWe could use your help. You can take my gryphon. Just speak to me when you're ready to leave.",
-    "name": "To Catch a Banshee",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

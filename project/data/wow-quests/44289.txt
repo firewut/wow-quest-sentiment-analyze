@@ -1,8 +1,0 @@
-{
-    "_id": "44289",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Arru",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

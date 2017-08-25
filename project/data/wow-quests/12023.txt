@@ -1,7 +1,0 @@
-{
-    "_id": "12023",
-    "description": "Satisfyingly crunchy.  Now... you... <Race> thing... there's an Abomination wandering the hillside to the south.  Go kill it.  Kill it good.",
-    "name": "Sweeter Revenge",
-    "requires_level": 70,
-    "zone": "Dragonblight"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10361",
-    "description": "",
-    "name": "A Donation of Mageweave",
-    "requires_level": 40,
-    "zone": "Silvermoon City"
-}

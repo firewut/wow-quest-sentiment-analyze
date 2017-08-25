@@ -1,7 +1,0 @@
-{
-    "_id": "11038",
-    "description": "Not long ago, High Priestess Ishanah sent a small group of anchorites to Netherstorm, under the command of Exarch Orelis. They were to investigate the activities of Kael'thas and his minions, but we haven't received any reports of their findings yet.I worry that our presence in the area might not be strong enough to carry out the mission. I'm certain that the exarch could benefit from your knowledge and experience. Are you willing to travel to Area 52 and assist him?",
-    "name": "Assist Exarch Orelis",
-    "requires_level": 67,
-    "zone": "Shattrath City"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13880",
-    "description": "<The massive earth elemental gazes down upon you.>The flow of the lava must be stopped if we are to prevail. I will grant to you a portion of my power. Use it to fill the lava fissures!",
-    "name": "Hot Lava",
-    "requires_level": 21,
-    "zone": "Ashenvale"
-}

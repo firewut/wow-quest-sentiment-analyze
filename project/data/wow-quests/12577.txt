@@ -1,7 +1,0 @@
-{
-    "_id": "12577",
-    "description": "You're a good dryskin. Mistwhisper safe, treasure safe, and puppy-men sure to leave us alone now.You go back to Rainspeaker Canopy and tell Soo-say you done good.",
-    "name": "Home Time!",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

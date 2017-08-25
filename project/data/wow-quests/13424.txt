@@ -1,7 +1,0 @@
-{
-    "_id": "13424",
-    "description": "To truly stay in your best riding shape you'll want to test yourself against the other Hyldnir every day.Head back into the Pit of the Fang and show them what you're capable of.  They'll appreciate suffering defeat to one as skilled as yourself.",
-    "name": "Back to the Pit",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

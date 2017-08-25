@@ -1,7 +1,0 @@
-{
-    "_id": "39201",
-    "description": "The goblins of Area 52 in Netherstorm have called for assistance from any able bodied champions willing to provide them the support they need in their endevours.The Warchief feels their position and aid in the region will provide a tactical advantage against the nearby forces of Kael'thas.Area 52 can be reached by following the northeastern road of Blade's Edge Mountains until you see the world crumbling away into the Twisting Nether.",
-    "name": "Warchief's Command: Netherstorm",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

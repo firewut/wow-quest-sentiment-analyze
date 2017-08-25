@@ -1,7 +1,0 @@
-{
-    "_id": "25507",
-    "description": "Fresh and stinking, these innards will prove to be irresistible for Nemesis, the befouled turtle god created by Twilight's Hammer.Nemesis must eventually be destroyed, but first, we must collect a piece of his fiery armored shell. With it, we'll be able to work some magic to free the true ancient.Go into the Flamewake and drop this bait near Nemesis. It will distract him. Pry off a piece of his shell... then run, if you hope to survive the encounter.",
-    "name": "Hell's Shells",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14244",
-    "description": "While you were rescuing the Warchief and saving us all from the Alliance, Foreman Dampwick built this rocket sling to shoot us over the shark-infested strait to the bigger island.Luckily for us, the foreman managed to salvage a Town-In-A-Box from the shipwreck. Once you get it set up, we'll have a town of our own. I can't wait to sleep in a bed again!Dampwick's down there at the Landing Site, waiting for you. Why don't you take the next rocket over?",
-    "name": "Up, Up & Away!",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

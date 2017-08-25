@@ -1,8 +1,0 @@
-{
-    "_id": "31944",
-    "added_in_patch": 5,
-    "description": "Welcome back, <name>.  The time has come for you to complete the last step of your training.  Head to the Training Grounds for your final test.",
-    "name": "Complete Your Training: The Final Test",
-    "requires_level": 90,
-    "zone": "Peak of Serenity"
-}

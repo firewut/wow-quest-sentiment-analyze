@@ -1,7 +1,0 @@
-{
-    "_id": "14462",
-    "description": "He's here, <name>! Captain Grunwald is a high-ranking Alliance officer from Northwatch Hold, no doubt here to coordinate an assault on Orgrimmar with his night elven allies. We have observed him entering the tower southwest of here. I want his head, <class>. I want to send it back to Northwatch to drive a wedge between our enemies!I've sent a goblin assassin, Slinky Sharpshiv, to the tower but she hasn't returned. Go find her. And get me that head!",
-    "name": "Where's My Head?",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

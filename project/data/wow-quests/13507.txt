@@ -1,7 +1,0 @@
-{
-    "_id": "13507",
-    "description": "To the north, the Shatterspear have a war camp where they are constructing their catapults. The camp is guarded by some of their mystics, but I've started receiving reports that there are sightings of orcs and tauren there as well.I don't want to make any assumptions as to what that suggests, but I do want you to go in and kill them before they can make any further strikes on our Sentinels.",
-    "name": "Denying Manpower",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "29095",
-    "description": "Now that the threat here has been stilled, you should return to the Crossroads. Thork would like to speak to you.Farewell, friend.",
-    "name": "Report to Thork",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

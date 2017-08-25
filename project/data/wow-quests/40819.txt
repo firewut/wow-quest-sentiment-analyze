@@ -1,8 +1,0 @@
-{
-    "_id": "40819",
-    "added_in_patch": 7,
-    "description": "Do you recall Varedis, <name>? He was once our lead trainer, but fell with the Black Temple years ago....or so we thought.Kor'vas spotted the traitor alongside the Legion... wielding glaives imbued with power unlike anything she'd ever seen.The Kirin Tor have an eredar lord locked away in the Violet Hold that will know where Varedis' stronghold lies. The prison warden has agreed to consider granting us access to the fiend.Time to do some convincing.",
-    "name": "Making Arrangements",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

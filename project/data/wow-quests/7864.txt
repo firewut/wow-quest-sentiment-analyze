@@ -1,7 +1,0 @@
-{
-    "_id": "7864",
-    "description": "",
-    "name": "Sentinel Standard Care Package",
-    "requires_level": 35,
-    "zone": "Ashenvale"
-}

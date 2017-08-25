@@ -1,7 +1,0 @@
-{
-    "_id": "27246",
-    "description": "Sifting through the loose dirt, the severed hand of an orc is found.  And clutched in the hand is a bone-carved tube.  And in the tube is a dirt-stained parchment.The parchment is written in orcish... and it looks important.",
-    "name": "The Orc Report",
-    "requires_level": 34,
-    "zone": "Dustwallow Marsh"
-}

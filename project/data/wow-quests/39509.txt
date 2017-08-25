@@ -1,8 +1,0 @@
-{
-    "_id": "39509",
-    "description": "Them Bleeding Hollow orcs do blood magic - like voodoo but it hurt more. They cut their own flesh. Most of 'em carry curved ritual blades for carvin' themselves up.Bring me them blades, commander. We can turn their power against 'em.",
-    "name": "Bloodied Blades of Zeth'Gol",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

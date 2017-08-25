@@ -1,9 +1,0 @@
-{
-    "_id": "32929",
-    "added_in_patch": 6,
-    "description": "Thunderlord spend their days training to hunt as a team, but as individuals they are weak. Their only strength is in numbers.So... to win, we must cull their numbers.As we move up through the Daggermaw Ravine, slay any Thunderlord who stand in your way, and their clan will be made the weaker for it.",
-    "name": "They Rely on Numbers",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

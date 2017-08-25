@@ -1,7 +1,0 @@
-{
-    "_id": "9578",
-    "description": "Do you think often of your family, <name>? There were a number of families aboard the Exodar, but I've heard of very few being reunited.I, myself, am looking for traces of my husband Galaen, who was a technician in the Cryo-Core. The wreckage of it is located to the west, and it's swarming with blood elves!I must find out what became of Galaen! Even news of his death is better than never knowing. My husband will be wearing a pendant identical to my own; they were a gift from my sister.",
-    "name": "Searching for Galaen",
-    "requires_level": 15,
-    "zone": "Bloodmyst Isle"
-}

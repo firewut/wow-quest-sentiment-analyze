@@ -1,8 +1,0 @@
-{
-    "_id": "41031",
-    "added_in_patch": 7,
-    "description": "We have a problem, friend.\r\n\r\nAcross the canal is a district not well known for affluence. Since the demons' arrival, it has been locked down. I have heard the cries of those who have been deprived of sustenance.\r\n\r\nTake this wineskin. Find an Arcwine fountain and take your fill.\r\n\r\nFind those who are suffering and offer them a drink. It is the best we can do in the present circumstances.\r\n\r\nYou must not be seen doing this, <name>. It will end badly.",
-    "name": "For the People",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32250",
-    "added_in_patch": 5.1,
-    "description": "Come, <class>! I want to inspect this island and ensure that my landing team has done their job.Blood Guard Gro'tash should be somewhere on the northern side of the island looking for a suitable place to build our keep. The goblin survey team will have gone up the eastern coast in search of oil.Let us crush this pitiful display and claim this land for the Horde!",
-    "name": "The Might of the Warchief",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

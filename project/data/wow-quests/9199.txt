@@ -1,7 +1,0 @@
-{
-    "_id": "9199",
-    "description": "The corpses of trolls buried inside the Amani Catacombs have been rising from the dead! I want you to go there and bring back proof of their final demise. Some of these mummy trolls, and their living counterparts, carry juju; glowing objects that house an unknown power source.  It's probably what is animating them!The catacombs lie within Sungraze Peak, directly to the east. I am told that the easiest way in lies on the north face of the mountain. See to it, <class>!",
-    "name": "Troll Juju",
-    "requires_level": 14,
-    "zone": "Ghostlands"
-}

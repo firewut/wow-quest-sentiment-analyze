@@ -1,8 +1,0 @@
-{
-    "_id": "26148",
-    "description": "It appears that these beasts in Loch Modan are following the lead of a chieftain named Grawmug. He's the biggest of all the troggs here, lurking deep within the darkness of the caves to the north.If you feel yourself worthy, <name>, I want you to lead the assassination mission on Grawmug.",
-    "name": "A Decisive Strike",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

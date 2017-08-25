@@ -1,7 +1,0 @@
-{
-    "_id": "14087",
-    "description": "This pamphlet advertising riding training and mount purchases was sent from Kar Stormsinger.Kar can be found in Mulgore's Bloodhoof Village.",
-    "name": "Learn to Ride in Mulgore",
-    "requires_level": 20,
-    "zone": "Mulgore"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36166",
-    "added_in_patch": 6,
-    "description": "Commander, we're in luck. The antidote recipe is fairly simple.I was able to make a small amount with what I had on me. You should take it to Lunzul before it's too late. It should keep her alive long enough for me to make more.",
-    "name": "No Time to Waste",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

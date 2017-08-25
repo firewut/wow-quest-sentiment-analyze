@@ -1,8 +1,0 @@
-{
-    "_id": "26372",
-    "description": "This new engine is extremely fast. And dangerous. I'd use the word \"volatile.\"That's the way the Captain likes it.Run back up the hill and let him know that I'll install this bad boy right now and that he should meet me at the construction site.",
-    "name": "Pre-Flight Checklist",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Azshara"
-}

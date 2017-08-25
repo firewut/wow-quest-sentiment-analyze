@@ -1,8 +1,0 @@
-{
-    "_id": "36273",
-    "added_in_patch": 6,
-    "description": "Something needs to be done about the podling menace in Spiteleaf Thicket!Alongside Hemet Nesingwary, I've hunted some of the largest and most terrifying beasts around. Never in my life have I encountered a creature as vile, depraved, nefarious or degenerate as a podling!The vicious little monsters spread themselves like weeds and if something isn't done, they'll spread across the entire continent!Make your way into Spiteleaf Thicket and slay as many podlings as you can find!",
-    "name": "Whacking Weeds",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

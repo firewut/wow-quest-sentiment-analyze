@@ -1,8 +1,0 @@
-{
-    "_id": "39699",
-    "added_in_patch": 7,
-    "description": "I sense great strength in you, yet you refuse to wield it. We Ironhorn use double the metal of any normal blacksmith to craft our wares.There is also a technique in how you hammer such quantities of leystone that I will instruct you on.Use our scrap metal and hammer out the pieces for a gauntlet. I will weld the pieces together when you are finished.",
-    "name": "Ironhorn Leysmithing",
-    "requires_level": 104,
-    "zone": "Blacksmithing"
-}

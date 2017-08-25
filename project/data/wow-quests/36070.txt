@@ -1,8 +1,0 @@
-{
-    "_id": "36070",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Assault on Skettis",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

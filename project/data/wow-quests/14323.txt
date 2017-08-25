@@ -1,7 +1,0 @@
-{
-    "_id": "14323",
-    "description": "One other thing I need. Hot water.Not easy around here. Not hot springs, no friends to share. One good way though. Have this sponge... it's ultra absorbent! Use it to go soak Vile Splashes at the sandbar eastish.With enough, go squeeze them out over near the tower to summon jumbo elemental. He has hot water.",
-    "name": "Absorbent",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

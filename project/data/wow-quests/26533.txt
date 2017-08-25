@@ -1,7 +1,0 @@
-{
-    "_id": "26533",
-    "description": "Years ago, the Gurubashi exiled one of their own from Zul'Gurub: a troll by the name of Zanzil.  The reasons why aren't all that clear, but I'd guess it had something to do with his tendency to administer powerful, behavior-altering drugs to anyone he saw.  Anyhow, the Gurubashi priests and their blood god have been slain, but Zanzil the Outcast remains......as do his powerful, behavior-altering drugs.I'd like to get my hands on some, <race>.  Check the zombies to the southeast.",
-    "name": "Zanzil's Secret",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

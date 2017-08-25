@@ -1,9 +1,0 @@
-{
-    "_id": "31034",
-    "added_in_patch": 5,
-    "description": "There are enemies of the Horde beneath this very city, <class>.The Searing Blade plots to take Orgrimmar for their own, and have already taken Ragefire Chasm! We need to storm their forces and retake what is ours!Go speak with Commander Bagran just inside Ragefire Chasm. He will have further orders for you.",
-    "name": "Enemies Below",
-    "requires_level": 15,
-    "side": "horde",
-    "zone": "Ragefire Chasm"
-}

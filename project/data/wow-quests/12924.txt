@@ -1,7 +1,0 @@
-{
-    "_id": "12924",
-    "description": "<Thorim, for the first time since your meeting him, smiles.>This is all beginning to have the smell of fate's hand, <race>.Your discovery is what remains of my armor, long ago cast off in a fit of grief and left to the elements. Only the sons of Hodir are capable of its reforging, for they are its original creators.Perhaps you've done enough to soften their hatred of me. Seek out their king, Jokkum, if he still breathes.Find your way into his good graces and plead for his assistance.",
-    "name": "Forging an",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

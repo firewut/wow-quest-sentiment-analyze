@@ -1,8 +1,0 @@
-{
-    "_id": "26162",
-    "description": "Up on the bluffs to the west lies a powerful altar.  A powerful DEMONIC altar, guarded by cultists, but powerful nonetheless.  If you can reach it, you can use it to bring Loramus back to us.The altar will likely resist your efforts, so you'll have to protect Loramus' body while the ritual completes.  Bring the demon hunter back to me afterwards.",
-    "name": "The Altar of Storms",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

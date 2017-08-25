@@ -1,7 +1,0 @@
-{
-    "_id": "11271",
-    "description": "The down of the spotted hippogryph is prized by my people and used for everything from fletching to ceremonial clothing. We're making preparations to leave the post, so this is the last chance I'll get to gather it this season.With your help, I'll have enough to make sure everyone has the equipment they need for the long trek into the hills. Conditions worsen very quickly up there and a storm can blow in without warning.The down can be found all over the ground in the area surrounding the post.",
-    "name": "Hasty Preparations",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

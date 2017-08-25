@@ -1,8 +1,0 @@
-{
-    "_id": "25541",
-    "description": "We've looted everything that isn't bolted down around here, but I'm not done yet. If we're bothering to do the Steamwheedle Cartel's dirty work for them, we're going to make as much cash as we can while we're here.I haven't seen many earrings on these pirates, so the gold must be in the next best place...their teeth. The Southsea musketeers and strongarms to the south are the higher-ups here; they'll be the ones with the adornment. Bring me back a good fistful of gold fillings.",
-    "name": "Filling Our Pockets",
-    "requires_level": 44,
-    "side": "horde",
-    "zone": "Tanaris"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9933",
-    "description": "<Lantresor points to an unmarked crate.>Take it. It is my offering to your people. You have single-handedly saved my clan from extermination.You may tell your leader that Lantresor of the Burning Blade and his Boulderfist ogres accept the offering of peace.<Lantresor bows.>\r\n",
-    "name": "Message to Telaar",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

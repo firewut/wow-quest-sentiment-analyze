@@ -1,7 +1,0 @@
-{
-    "_id": "13733",
-    "description": "Congratulations, <name>. You have mastered many kinds of combat and overcome all the challenges you've faced. There can be no doubt that you are ready to compete with the best warriors who have gathered at the tournament, against the champions of the capital cities.Justicar Mariel Trueheart has asked to speak with you, <name>, and to formally enter you in the grand melee.",
-    "name": "A Champion Rises",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

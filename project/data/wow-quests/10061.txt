@@ -1,7 +1,0 @@
-{
-    "_id": "10061",
-    "description": "When the Bonechewer fel orcs attacked the Expedition Armory, the garrison there fell quickly.  The battle was bloody and fierce, and there were no survivors.Although the dead were buried, their spirits continue to haunt those ruins.  Of late, I have been receiving visions that these spirits may soon become a threat to Thrallmar.There is only one course of action to take.  We must grant these spirits rest.  You must overcome them in battle.",
-    "name": "The Unyielding",
-    "requires_level": 58,
-    "zone": "Hellfire Peninsula"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10502",
-    "description": "There is a threat to Sylvanaar far deadlier than the Horde at Thunderlord Stronghold.I'm speaking of the native ogres of these mountains.  Just to the south and east, down in the ravine, lives the Bloodmaul clan.  While they aren't the only group of ogres that threaten us here, they are the closest.I would have you head south through the Living Grove, and then go down the path to the east, which leads to their outpost.  Slay as many of the Bloodmaul ogres at Bloodmaul Outpost as you can.",
-    "name": "The Bloodmaul Ogres",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

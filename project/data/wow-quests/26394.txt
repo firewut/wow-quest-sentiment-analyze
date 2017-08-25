@@ -1,7 +1,0 @@
-{
-    "_id": "26394",
-    "description": "For a small fee, you can take a gryphon to Stormwind, so you can deliver Argus' note to Osric.  You won't get there faster any other way.If that sounds acceptable, then just speak to me again when you're ready for the ride.  I'll charge you a little, but trust me; it'll be worth it!",
-    "name": "Continue to Stormwind",
-    "requires_level": 5,
-    "zone": "Elwynn Forest"
-}

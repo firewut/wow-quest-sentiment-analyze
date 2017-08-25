@@ -1,7 +1,0 @@
-{
-    "_id": "335",
-    "description": "Lord Wishock is causing quite a stir amongst the House of Nobles.  He was made aware of our little \"establishment\" down here and is lobbying for a full investigation.  I have a plan to keep Wishock \"preoccupied,\" but I'll need your help. There is a flower growing in the Garden of Stalvan on the outskirts of Darkshire.  This small white flower is known as the Tear of Tilloa.  I will also need a Musquash Root, found only at the very base of the falls far beneath the Stonewrought Dam in the Wetlands.",
-    "name": "A Noble Brew",
-    "requires_level": 25,
-    "zone": "Stormwind City"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8883",
-    "description": "Now that you have your Lunar Festival invitation, you may travel to Moonglade!  There you will find many revelers, and in the village of Nighthaven Valadar Starsong and his sister Fariel await those eager to participate in the celebration.Travel to Moonglade through the greater moonlight and speak with Valadar Starsong; see what prizes you might gain during the festival!",
-    "name": "Valadar Starsong",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

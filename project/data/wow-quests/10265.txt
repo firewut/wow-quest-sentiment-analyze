@@ -1,7 +1,0 @@
-{
-    "_id": "10265",
-    "description": "Our leader, Nexus-Prince Haramad, has tasked me with the acquisition of a crystal artifact from the Arklon Ruins to the southeast.They're old draenei ruins.  Unfortunately for both myself and the goblins here, the Burning Legion has decided to move in to perform their own excavation.If you're willing to help me, go to the ruins and take the crystal artifact from the dreadlord named Pentatharon.",
-    "name": "Consortium Crystal Collection",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

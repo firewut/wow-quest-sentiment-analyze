@@ -1,7 +1,0 @@
-{
-    "_id": "13372",
-    "description": "A potent thrumming of magical nature can be heard and felt emanating from the eye-shaped jewel dropped from Sapphiron's clutches. To mortal ears it is nearly painful to be in the presence of the stone.Surely such a powerful item of import can only be taken to the queen of the dragons, Alexstrasza the Life-Binder. Seek her counsel atop Wyrmrest Temple in the Dragonblight.",
-    "name": "The Key to the Focusing Iris",
-    "requires_level": 80,
-    "zone": "Dragonblight"
-}

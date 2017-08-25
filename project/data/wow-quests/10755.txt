@@ -1,7 +1,0 @@
-{
-    "_id": "10755",
-    "description": "This freshly cast mold was to be used to create a key of some sort.  From the image engraved on its back, it appears to be related to Hellfire Citadel.Maybe this could prove to interest to Nazgrel, the leader of the Horde's forces in Thrallmar.",
-    "name": "Entry Into the Citadel",
-    "requires_level": 68,
-    "zone": "Hellfire Peninsula"
-}

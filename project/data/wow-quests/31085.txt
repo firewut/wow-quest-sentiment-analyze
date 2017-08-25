@@ -1,8 +1,0 @@
-{
-    "_id": "31085",
-    "added_in_patch": 5,
-    "description": "We've found the blades, bound them together with wood and shade, and blessed them with an ancient incantation. If I'm not mistaken, it's time to use this thing.The sprites spoke of an ancient piece of sap within the Amber Hibernal, a mantid cave near their empress' palace. That must be the \"Blood of Ancients\" that the prophecy spoke of.Whatever's inside that sap must be important. Good luck, <name>.",
-    "name": "Fires and Fears of Old",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

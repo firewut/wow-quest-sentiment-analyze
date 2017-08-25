@@ -1,7 +1,0 @@
-{
-    "_id": "27686",
-    "description": "Find a resident in Orgimmar to accept your forged documents.",
-    "name": "Forged Documents",
-    "requires_level": 1,
-    "zone": "Orgrimmar"
-}

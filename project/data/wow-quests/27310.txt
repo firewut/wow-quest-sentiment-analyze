@@ -1,7 +1,0 @@
-{
-    "_id": "27310",
-    "description": "Alright, these cowards want to fight? Let's see how well they do without any weapons.I'm sure you must have a torch, or something. Burn their weapon racks.Burn them all!",
-    "name": "No Weapons For You!",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

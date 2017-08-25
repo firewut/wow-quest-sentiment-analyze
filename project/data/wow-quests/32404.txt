@@ -1,8 +1,0 @@
-{
-    "_id": "32404",
-    "added_in_patch": 5.1,
-    "description": "As I suspected, it gets worse up ahead. The Silver Covenant is outright attacking innocent Sunreavers!This cannot stand. While our prime directive is to rescue Aethas Sunreaver, we must also protect as many blood elves as we can.I will continue to scout ahead. Fight well, <class>!",
-    "name": "Violence in the Arena",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

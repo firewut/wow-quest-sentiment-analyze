@@ -1,8 +1,0 @@
-{
-    "_id": "30135",
-    "added_in_patch": 5,
-    "description": "At first, the Slitherscale were too frightened to approach the wild serpents.Then, I caught them snatching the eggs under the cover of night.Now, they are slaughtering adults and hatchlings alike!If we do not do something, these gentle creatures will be completely wiped out. Then there won't even be an Order of the Cloud Serpent to join!Go and slay these vile Slitherscales, and then we will talk.",
-    "name": "Beating the Odds",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

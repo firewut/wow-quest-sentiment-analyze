@@ -1,8 +1,0 @@
-{
-    "_id": "40392",
-    "added_in_patch": 7,
-    "description": "Time is of the essence! If Alleria and Thas'dorah are in Legion hands, it is only a matter of time until both are forfeit.If you are ready, head to the Broken Shore to meet with Ranger-General Windrunner.She has lent her personal hippogryph to fly you down to the surface.",
-    "name": "Call of the Marksman",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

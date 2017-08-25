@@ -1,7 +1,0 @@
-{
-    "_id": "11057",
-    "description": "We commend your zeal in wanting to help out here in Ogri'la, <class>.  However, we have a favor to ask of you before we can accept your assistance.Down below our brethren are enslaved to the Sons of Gruul.  Please, speak with Mog'dorg the Wizened, who is leading an ogre resistance against their gronn masters.Seek him out atop the tower on the eastern side of the Circle of Blood arena.",
-    "name": "The Trouble Below",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

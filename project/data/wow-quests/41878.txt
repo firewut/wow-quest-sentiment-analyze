@@ -1,8 +1,0 @@
-{
-    "_id": "41878",
-    "added_in_patch": 7,
-    "description": "I need your help.\r\n\r\nThe wine you so graciously distributed to the needy was the last of my reserves. Without more, these people here will risk succumbing to their thirst, and eventually becoming withered.\r\n\r\nI am dedicated to preventing this for as long as possible.\r\n\r\nThere is a woman by the name of Deline who owns and operates a small delivery service out of her gondola.\r\n\r\nFind her, identify yourself as my messenger, and offer your aid in acquiring the next shipment.",
-    "name": "The Gondolier",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

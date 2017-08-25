@@ -1,8 +1,0 @@
-{
-    "_id": "29723",
-    "added_in_patch": 5,
-    "description": "The Jade Witch must still have Shin.I... I can't do it! I don't want to see the witch. Can you please go talk to her and see if she has Shin?You're an adult, I don't think she would try to turn you into jade.",
-    "name": "The Jade Witch",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

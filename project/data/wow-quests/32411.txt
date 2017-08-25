@@ -1,8 +1,0 @@
-{
-    "_id": "32411",
-    "added_in_patch": 5.1,
-    "description": "There's still a number of significant Sunreavers who haven't been accounted for. Odds are that they're in the Sunreaver's Sanctuary, caught by surprise.<Rommath hands you an artifact, clearly made by blood elf hands.>The place is crawling with Silver Covenant. You'll need to get in, use the Tear to evacuate the VIPs, and then get out.Stay alive, <name>.",
-    "name": "The Remaining Sunreavers",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

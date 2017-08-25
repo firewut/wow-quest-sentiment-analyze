@@ -1,8 +1,0 @@
-{
-    "_id": "39525",
-    "added_in_patch": 6.2,
-    "description": "The Horde encroachment cannot be tolerated. Dwindle their numbers to the ground!",
-    "name": "Slay Them All!",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

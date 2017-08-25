@@ -1,9 +1,0 @@
-{
-    "_id": "37051",
-    "added_in_patch": 6,
-    "description": "Many of the creatures of Draenor have grown and thrived in a most hostile environment. One of the most cunning on is the stalker.Stalkers can blend into their environments, allowing them to sneak in and steal the eggs of nearby prey. See if you and your beast can overcome this natural defense mechanism. You will find a proper predator in Talador.",
-    "name": "Clefthoof Training: Gezz'ran",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Talador"
-}

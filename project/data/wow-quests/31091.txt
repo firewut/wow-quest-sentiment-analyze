@@ -1,8 +1,0 @@
-{
-    "_id": "31091",
-    "added_in_patch": 5,
-    "description": "You look at me and see I am no great warrior. Why was I chosen to be a Paragon? Not all weapons can be seen, Wakener. One should not judge by appearance alone.Before I explain further, I need to know that you are trustworthy.Something precious to me was hidden at the time of my preservation. I am nothing without it.Defend me as I unearth my greatest weapon, and you will have my trust.",
-    "name": "Reunited",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

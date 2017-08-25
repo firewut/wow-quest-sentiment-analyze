@@ -1,7 +1,0 @@
-{
-    "_id": "12598",
-    "description": "Clever...Just when it seemed we were getting things under control, they tunneled right underneath us and secured the shrine!Now we're caught between two Nerubian armies and our predicament is worsening by the minute.As our first course of action, we must stop them from reinforcing. Their tunnels must be sealed.Take these grenades and throw them down their craters to the northwest.",
-    "name": "Throwing Down",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

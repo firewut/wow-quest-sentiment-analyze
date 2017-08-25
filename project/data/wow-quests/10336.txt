@@ -1,7 +1,0 @@
-{
-    "_id": "10336",
-    "description": "A few weeks ago, the Burning Legion moved into the Ruins of Farahlon, thwarting our plans to excavate the site for its artifacts.Then earlier today, I learned that one of their dreadlords, Culuthas, somehow killed off all of the other Burning Legion.  He has since summoned in demons that serve him.<Class>, I want you to go up to those ruins to the northeast and rid them of their demon infestation.",
-    "name": "The Minions of Culuthas",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

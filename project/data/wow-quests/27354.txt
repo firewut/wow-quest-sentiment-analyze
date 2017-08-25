@@ -1,7 +1,0 @@
-{
-    "_id": "27354",
-    "description": "You have proven yourself a brilliant student and a dedicated servant of the Alliance. Word of your accomplishments has even reached the ears of the king.In recognition of your service, King Wrynn has commissioned the royal enchanter to create a special weapon.The materials required for your staff are found only in Silverpine Forest's cursed Shadowfang Keep. Travel there and find a lost heirloom of the Silverlaine family, a supply of moontouched wood, and the essence of the ghosts haunting the keep.",
-    "name": "Mastering the Arcane",
-    "requires_level": 20,
-    "zone": "Mage"
-}

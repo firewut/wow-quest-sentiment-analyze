@@ -1,7 +1,0 @@
-{
-    "_id": "28003",
-    "description": "The Warchief has requested that any able-bodied adventurer head to Ragefire Chasm, just beneath the great city of Orgrimmar, immediately!The Searing Blade is poised to launch an attack at any moment and the city guards cannot hold for much longer! If you so choose, head to Ragefire Chasm and speak with Stone Guard Kurjack, head of the defense initiative, to end the threat to Orgrimmar once and for all.",
-    "name": "Adventurers Wanted: Ragefire Chasm",
-    "requires_level": 15,
-    "zone": "Ragefire Chasm"
-}

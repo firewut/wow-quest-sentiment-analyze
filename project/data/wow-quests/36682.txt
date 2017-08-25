@@ -1,8 +1,0 @@
-{
-    "_id": "36682",
-    "added_in_patch": 6,
-    "description": "Remnants of the Shadowmoon clan continue to operate out of the peaks on the eastern border of Spires of Arak.\r\n\r\nBodrick Grey is concerned at their proximity to the garrison, and has put out a request that we thin their forces as soon as possible.",
-    "name": "Assault on Pillars of Fate",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

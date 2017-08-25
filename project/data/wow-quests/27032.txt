@@ -1,8 +1,0 @@
-{
-    "_id": "27032",
-    "description": "I've actually nearly perfected my dream machine: The Skystrider! The world's first flying Mechanostrider! But, wellWhen I was putting the finishing touches on it in my secret cavern lab, my other creations became, er, jealous. Giving mechanical birds a personality to begin with was probably a bad idea, but that's already done.I need the Supermechanical Robo-Widget from the original Skystrider if I want to rebuild it! Please, journey into the cave and retrieve it for me!",
-    "name": "Bird is the Word",
-    "requires_level": 15,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

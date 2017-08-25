@@ -1,8 +1,0 @@
-{
-    "_id": "42770",
-    "added_in_patch": 7,
-    "description": "Highlord Tirion may be gone, but the Ashbringer is still out there somewhere. Its power would devastate the Legion. We must find it!I wish it were as simple as returning to where Tirion fell. It could be anywhere on that infernal landscape by now.I believe an old friend can help us find the blade. I ask that you place your faith in me and journey to Uther's tomb in the Plaguelands. We will seek answers there.",
-    "name": "Seeking Guidance",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

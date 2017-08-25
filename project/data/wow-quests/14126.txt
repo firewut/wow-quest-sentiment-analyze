@@ -1,8 +1,0 @@
-{
-    "_id": "14126",
-    "description": "We've got all of the moolah that we need. There's only one thing left to do now, boss: get you to the Trade Prince's yacht. It's about to leave port!We're gonna have to hurry. Hop in, 'cause I'm driving!",
-    "name": "Life Savings",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

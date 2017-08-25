@@ -1,9 +1,0 @@
-{
-    "_id": "34091",
-    "added_in_patch": 6,
-    "description": "Ketya Shrediron,\r\n\r\nYour new Iron Shredders are a menace to our own soldiers.\r\n\r\nDecommission the prototype and store it out of the way until you've worked out the kinks.\r\n\r\nI will send Engineer Trak to work on it in the meantime.\r\n\r\n- Orgrim Doomhammer",
-    "name": "Decommissioned Mission",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

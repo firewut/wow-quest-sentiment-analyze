@@ -1,7 +1,0 @@
-{
-    "_id": "10410",
-    "description": "The time has come to face Socrethar, <name>.  Confronting an eredar leader isn't something that's taken lightly among us.  A single mistake is likely to cost us our lives if we're ill-prepared.Take Socrethar's teleportation stone to High Priestess Ishanah at the Shrine of Unending Light in Shattrath City.  She will determine how we need to handle the situation.",
-    "name": "Ishanah's Help",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

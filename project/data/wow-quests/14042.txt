@@ -1,8 +1,0 @@
-{
-    "_id": "14042",
-    "description": "Hartley must've unloaded all of his ordnance along the beach. Let's pull his teeth out, <name>!Run along the shore and look for his munitions stockpiles. Light 'em up and he'll be land-locked and unarmed while the Bellipotent is repaired.I'll meet you back here in Ratchet.",
-    "name": "Ammo Kerblammo",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40567",
-    "added_in_patch": 7,
-    "description": "We could not save Ysera, but we did prevent her from destroying the temple.\r\n\r\nNow I can finally turn my attention to my husband.\r\n\r\nI do not know what fate he suffers now. I only know that if we stand any chance of saving him, you must go now.\r\n\r\nFollow Xavius into the Nightmare and find Malfurion.\r\n\r\nPlease, save my husband if you can.",
-    "name": "Enter the Nightmare",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

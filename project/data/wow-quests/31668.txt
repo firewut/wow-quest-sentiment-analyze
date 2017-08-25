@@ -1,7 +1,0 @@
-{
-    "_id": "31668",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Ambush Event Tracking",
-    "zone": "Quests"
-}

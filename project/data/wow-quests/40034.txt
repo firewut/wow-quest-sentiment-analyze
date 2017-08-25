@@ -1,8 +1,0 @@
-{
-    "_id": "40034",
-    "added_in_patch": 7,
-    "description": "Despite all your training, the rose disintegrated in your hand.Your herbalism trainer in Dalaran will want to see this.",
-    "name": "Starlight Rosedust",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

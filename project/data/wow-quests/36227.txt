@@ -1,9 +1,0 @@
-{
-    "_id": "36227",
-    "added_in_patch": 6,
-    "description": "THE ALLIANCE! <Stomps feet> THEY NEED TO BE REMOVED FROM ASHRAN IMMEDIATELY! MARCH INTO THE ROAD OF GLORY AND SLAY AS MANY AS YOU CAN! NOW!",
-    "name": "The Road of Glory",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Warspear Outpost"
-}

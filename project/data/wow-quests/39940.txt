@@ -1,8 +1,0 @@
-{
-    "_id": "39940",
-    "added_in_patch": 7,
-    "description": "Look closely, scribe, and you may learn. As the demons spread out over a region, the more clever ones will inscribe runes upon the ground. The fel taint pervades this entire hillside, but the corruption is darkest around these runes, disallowing anything pure to grow ever again.Study these runes.",
-    "name": "Runes of Power",
-    "requires_level": 102,
-    "zone": "Inscription"
-}

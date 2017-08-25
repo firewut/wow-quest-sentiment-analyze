@@ -1,7 +1,0 @@
-{
-    "_id": "12776",
-    "description": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.Take this, <name>.  Guard it close, and secure its passage to the Exodar.  Deliver it to Prophet Velen in the Vault of Lights so that he may use its powers against the unholy forces from the North.",
-    "name": "The Exodar",
-    "requires_level": 65,
-    "zone": "Quests"
-}

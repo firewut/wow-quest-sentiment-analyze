@@ -1,7 +1,0 @@
-{
-    "_id": "26383",
-    "description": "You! You look able. And perhaps willing to help?Auberdine has finally fallen. Though many of its inhabitants departed long ago when the city first suffered the brunt of the Cataclysm, many of the more stubborn residents are yet unaccounted for. And it now appears that the city may have been overrun by water elementals.My sisters need help rescuing the survivors. Please, <class>, use the western tree to reach Rut'theran, then speak to Vesprystus to secure a flight to Lor'danel. Be swift!",
-    "name": "Breaking Waves of Change",
-    "requires_level": 8,
-    "zone": "Darkshore"
-}

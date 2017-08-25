@@ -1,9 +1,0 @@
-{
-    "_id": "32980",
-    "added_in_patch": 6,
-    "description": "Drek'Thar has already begun his ritual, and it is powerful enough to draw the attention of the local goren. Those beasts are drawn to elemental magic like flies to a corpse.I will have my hands full soon enough. Help us if you like but Drek'Thar must be allowed to finish his ritual.",
-    "name": "Eaters of the Elements",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "13945",
-    "description": "The Gnarlpine aggression is limiting our options. None of our kind are eager to bring blade and arrow against creatures that were once our friends, but I grow fearful that they are going to set their sights on Dolanaar soon.The biggest concern to me are the furbolg in Ban'ethil Hollow and Ban'ethil Barrow Dens. I need you to travel to the west, make your way into the Barrow Den, and kill as many of the Gnarlpine as you can. We probably won't have many more chances to limit their strength - be swift.",
-    "name": "Resident Danger",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

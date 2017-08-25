@@ -1,7 +1,0 @@
-{
-    "_id": "28646",
-    "description": "According to the guide, Infernus is your next challenge. This being, made of molten lava and raging fire, can be found on the lower level of Durnholde Keep, near the eastern prisons.",
-    "name": "The Durnholde Challenge: Infernus",
-    "requires_level": 23,
-    "zone": "Hillsbrad Foothills"
-}

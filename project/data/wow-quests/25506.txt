@@ -1,7 +1,0 @@
-{
-    "_id": "25506",
-    "description": "Our time here draws to a close.I must find my way across the chasm and discover the purpose behind the naga activities here.If you are to follow me, you would be wise to conclude your search for a suitable mount first.Search the area north of here and find a puffer hatchling. Once you've caught one, bring it to the trench to the west. I will prepare everything you need there.",
-    "name": "Sea-Food Chain",
-    "requires_level": 80,
-    "zone": "Vashj'ir"
-}

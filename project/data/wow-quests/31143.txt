@@ -1,8 +1,0 @@
-{
-    "_id": "31143",
-    "added_in_patch": 5,
-    "description": "I received an urgent message from Sergeant Willem. Turns out that the Blackrock orcs have hired goblin assassins. They ambushed our battalion behind the abbey. Willem has asked me to send him a hero. You have to go help them, <name>!Find Sergeant Willem north of the abbey at the command tent. Go!",
-    "name": "Join the Battle!",
-    "requires_level": 1,
-    "zone": "Elwynn Forest"
-}

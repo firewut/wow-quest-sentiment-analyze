@@ -1,8 +1,0 @@
-{
-    "_id": "44022",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Shal'an",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27874",
-    "description": "Your expertise is needed elsewhere, <name>.Just southwest of the World Tree you will find the Shrine of Aviana, home to the Druids of the Talon. Aviana, the matron of all winged creatures, gave her life for this world ten thousand years ago.I sense her shrine is being threatened, as are the druids who guard it. Seek out Choluna, one of the wisest of the winged druids, deep within the shrine. ",
-    "name": "Aviana's Legacy",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

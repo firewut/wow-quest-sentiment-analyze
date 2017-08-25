@@ -1,7 +1,0 @@
-{
-    "_id": "26096",
-    "description": "We think that we have a use for the merciless ones that your friend from the cave delivered to us. But I need a preservative for it.Down below in the Scalding Chasm are some mushrooms with the properties that I need. Bring some back up to me and I'll see what I can do.",
-    "name": "Scalding Shrooms",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "31735",
-    "added_in_patch": 5,
-    "description": "I've scouted the area and found no leads on the prince or Admiral Taylor. We need to neutralize this base quickly and continue our search elsewhere.Operations here are being led by an orc warlock; Ga'trul. He's barricaded the dock and is trying to escape through a demonic circle.Put that flaregun to work again and blow those barricades! I'll cover your back and move in when you reach Ga'trul.",
-    "name": "The Right Tool For The Job",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

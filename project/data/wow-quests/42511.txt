@@ -1,8 +1,0 @@
-{
-    "_id": "42511",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Twisted Souls",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

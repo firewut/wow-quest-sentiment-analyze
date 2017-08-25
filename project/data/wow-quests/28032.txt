@@ -1,7 +1,0 @@
-{
-    "_id": "28032",
-    "description": "There's so much we don't know about the incendosaurs.  Where did they come from?  How do they survive out here on the flats?  And why do they taste so bad?The key to understanding these prehistoric beasts, I believe, starts with the fire-gizzard.  Every incendosaur has one.  I'd like a few of them to study.You'll find incendosaurs circling the foot of Iron Summit, mostly to the west.",
-    "name": "The Mysteries of the Fire-Gizzard",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

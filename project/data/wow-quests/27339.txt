@@ -1,7 +1,0 @@
-{
-    "_id": "27339",
-    "description": "If there's one thing you can count on Apprentice Morlann to do, it's whine about reagents.Normally, I just ignore him, and it never works. This time, I'm going to try something different.Maybe if I replace the missing reagents before he notices, he'll leave me alone. The most common reagent we both use is marsh venom, which comes from the darkfang creepers and noxious shredders in the marsh north of the farm. If you bring me the venom, I'll replace it before Morlann notices it's gone.",
-    "name": "The Reagent Thief",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

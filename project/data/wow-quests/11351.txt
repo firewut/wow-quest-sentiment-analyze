@@ -1,7 +1,0 @@
-{
-    "_id": "11351",
-    "description": "I think I've figured out what the Iron Dwarves are doing. The tools they use are imbued with magic during their forging.When they're used to carve runes, the symbols form much more than mere words. These runes have the power to bind, compel, and twist.If I had a set of those tools, I could mimic the runes in the book. I captured one of these boxes from one of the pavilions at Giants' Run, but it was empty. Look for similar boxes and recover a set of tools from them.",
-    "name": "Mastering the Runes",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11371",
-    "description": "Mah'duun hears and obeys, and I now ask you to be my instrument.It has been related to me that the myrmidons of the coilfang tribe must be destroyed. Seek them out within the humid confines of the Steamvault underneath Coilfang Reservoir.I will accept nothing less than their utter annihilation.",
-    "name": "Wanted: Coilfang Myrmidons",
-    "requires_level": 70,
-    "zone": "Zangarmarsh"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36083",
-    "added_in_patch": 6,
-    "description": "This eye is proof of your strength at slaying ogron and your gladiator friend has born witness!Take the eye back to Limbflayer and claim your accolades!",
-    "name": "Proof of Strength: Gronn Eye",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

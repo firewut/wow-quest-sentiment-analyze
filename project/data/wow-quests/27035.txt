@@ -1,8 +1,0 @@
-{
-    "_id": "27035",
-    "description": "Look at them. The Twilight's Hammer ruined this land!That cult caused this Cataclysm, and broke the Stonewrought Dam, and drained the entire Loch. And now they wander around the ruins like it's their home!If there was any justice in this world, someone would march into their camp and break that artifact of theirs in half. But I'm too weak to even try it.And nobody else is brave enough either! Not even you! You see? It's all so stupid...",
-    "name": "Standing Up",
-    "requires_level": 14,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

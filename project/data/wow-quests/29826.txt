@@ -1,7 +1,0 @@
-{
-    "_id": "29826",
-    "description": "Prince Taldaram and his army of Scourge use the same wards we once used to hide our empire to keep themselves safe from the native denizens of the icy depths.Deactivate the wards and slaughter the Scourge guarding them. My forces will help the natives slaughter the rest.",
-    "name": "Reclaiming Ahn'Kahet",
-    "requires_level": 71,
-    "zone": "Ahn'kahet: The Old Kingdom"
-}

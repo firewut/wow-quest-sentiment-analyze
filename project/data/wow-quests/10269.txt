@@ -1,7 +1,0 @@
-{
-    "_id": "10269",
-    "description": "There is another reason for the retrieval of the surveying equipment.  There is a crystal from draenei legend of great importance to me.It is said that the crystal bestows god-like powers to its bearer!  But it is in danger of being unearthed by others - namely the Burning Legion.<name>, take the equipment and use it to find the first triangulation point.  We know it to be somewhere to the east near Manaforge Ultris.Afterward, check-in with my agent, Dealer Hazzin, on the Manaforge Ultris island.",
-    "name": "Triangulation Point One",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

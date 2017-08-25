@@ -1,9 +1,0 @@
-{
-    "_id": "36131",
-    "added_in_patch": 6,
-    "description": "Now that you have proven yourself as a warrior, let's see how your fishing skills hold up. I have fashioned a bait out of the icespine stingers you brought me. Use it to catch the Zangar eels in these coastal waters.",
-    "name": "Proving Your Worth",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Fishing"
-}

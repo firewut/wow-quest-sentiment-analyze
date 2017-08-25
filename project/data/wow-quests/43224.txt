@@ -1,8 +1,0 @@
-{
-    "_id": "43224",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Primal Gladiator's Weapons",
-    "requires_level": 100,
-    "zone": "Quests"
-}

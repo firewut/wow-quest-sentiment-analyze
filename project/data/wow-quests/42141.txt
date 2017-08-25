@@ -1,8 +1,0 @@
-{
-    "_id": "42141",
-    "added_in_patch": 7,
-    "description": "Now that we have recruited champions of our order, we can use the Scouting Map to complete vital assignments across the Broken Isles.The first assignment is critical. Summoner Morn, a renowned master of the elementals, was on his way to the Heart of Azeroth when he was attacked.I suggest we send Stormcaller Mylra to help him. She will be uniquely suited to this task.",
-    "name": "Summoner Morn",
-    "requires_level": 101,
-    "zone": "Shaman Campaign"
-}

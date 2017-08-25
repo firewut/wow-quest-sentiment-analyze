@@ -1,8 +1,0 @@
-{
-    "_id": "40009",
-    "added_in_patch": 7,
-    "description": "My people have subsisted on the Nightwell for millennia. Ancient mana is our lifeblood - without it, we become... well, you saw them out there.\r\n\r\n<Thalyssra holds her flask aloft, gently shaking free the last precious drops.>\r\n\r\nI'm afraid I have been rather reckless today. \r\n\r\nAlready, my senses are dulling. Without magic to feed upon, I will turn. \r\n\r\nPlease... find me something to feed upon... anything...",
-    "name": "Arcane Thirst",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

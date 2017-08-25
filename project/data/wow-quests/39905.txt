@@ -1,8 +1,0 @@
-{
-    "_id": "39905",
-    "added_in_patch": 7,
-    "description": "While your presence here would continue to be of value to us, your master in Dalaran has called for you.I'd like to thank you again for all you've done for us. My hunters have been reminded that they're not alone in this war.",
-    "name": "Ringing True",
-    "requires_level": 100,
-    "zone": "Enchanting"
-}

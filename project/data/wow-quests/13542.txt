@@ -1,7 +1,0 @@
-{
-    "_id": "13542",
-    "description": "If we're going to take the Ruins of Auberdine back from the Twilight's Hammer, the elementals that they've summoned must be dealt with on a permanent basis.That's where you come in.Look, I don't expect you to retake the town, but while we're healing up here, you can soften them up for us.To permanently deal with the frenzied cyclones, head west, kill them, take their bracers, and put them in the moonwell. That will destroy the bracers and keep those elementals from being resummoned.",
-    "name": "Against the Wind",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25708",
-    "description": "Based on what you're telling me, it sounds like there aren't many survivors... just restless spirits.  The least we can do is give them their rest.<Enohar takes a long draw off of a mug of black ale.>Head back to the Shattershore and vanquish the worgen ghosts that still remain.  Doing so should release their spirit from this world and allow them to pass into the next.",
-    "name": "Our Fallen Friends",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

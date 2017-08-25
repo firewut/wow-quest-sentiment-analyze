@@ -1,7 +1,0 @@
-{
-    "_id": "28327",
-    "description": "<name>, come in.  Can you read me?The battle is about to start.  I hope you've delivered all of those packages.I need you here in Morgan's Vigil, NOW.",
-    "name": "Locked and Loaded",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

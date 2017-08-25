@@ -1,7 +1,0 @@
-{
-    "_id": "13547",
-    "description": "Your friends back at the refugee camp are unaware of the true and imminent danger that the Twilight's Hammer cultists have already brought into the world.For you to deal with that, we'll first need to get some help from the dead of Auberdine.Search through the ruins of the town and find the corpses of Thundris Windweaver, Elissa Starbreeze, Taldan, and Caylais Moonfeather. Coax the spirits from their bodies and then return with them to me here.",
-    "name": "Coaxing the Spirits",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

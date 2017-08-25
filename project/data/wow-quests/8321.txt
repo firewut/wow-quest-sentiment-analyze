@@ -1,7 +1,0 @@
-{
-    "_id": "8321",
-    "description": "We have discovered another base of operations for the Twilight's Hammer.  It is called Twilight's Run; it is a cave tucked in the northeast corner of Silithus.  The local leader of the cult, Vyral the Vile, haunts that cave - it is he who you must next defeat.  When you have done this, bring me his signet ring.Fortune to you, <name>.  The horrors of Twilight's Run are formidable indeed.",
-    "name": "Vyral the Vile",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

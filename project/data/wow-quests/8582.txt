@@ -1,7 +1,0 @@
-{
-    "_id": "8582",
-    "description": "The purple lotus, <class>, is a reagent in a great many potions, elixirs and oils, some of which will be of use to us at Ahn'Qiraj. We're going to need to create an immense number of those potions for the war effort. And I'm going to experiment to find more uses for the lotus as well. But to do all of that I'm going to need a great quantity of the flower.That's where you come in. Go out into the field and collect up as many purple lotuses as you can. Is this something that you are willing to do for us?",
-    "name": "The Horde Needs Purple Lotus!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

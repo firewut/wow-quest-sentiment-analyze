@@ -1,7 +1,0 @@
-{
-    "_id": "25740",
-    "description": "The dragon Sethria must be stopped. We know that her roost is south of here, along the southern cliffs of Hyjal, but beyond that we know little else.I have sent Thisalee on a fact-finding mission to Sethria's Roost. She specifically requested your help - evidently you made quite an impression with the young druid.Meet Thisalee just beyond the tunnel leading to Sethria's Roost. And remember, this is a fact-finding mission - don't do anything crazy!",
-    "name": "Fact-Finding Mission",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

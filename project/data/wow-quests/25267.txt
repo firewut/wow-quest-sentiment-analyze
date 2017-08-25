@@ -1,8 +1,0 @@
-{
-    "_id": "25267",
-    "description": "<The Darkspear loyalist opens the package and reads the letter within. As she finishes the note from Thrall, a hint of a fanged smile appears on her face.>Ya should take dis directly to Saurfang inside Orgrimmar. Be sure ta let him know dat de package be from Thrall.Take me raptor. Hurry, little one, dere be no time ta waste!",
-    "name": "Message for Saurfang",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38527",
-    "added_in_patch": 7,
-    "description": "Listen, <class>. We need smiths like you to carry on the traditions of the Illidari, should we fail in our crusade against the Legion. You are ready to learn.Bring me materials. Lots of them. When you return, we will have much to discuss.",
-    "name": "Nal'ryssa's Technique",
-    "requires_level": 110,
-    "zone": "Blacksmithing"
-}

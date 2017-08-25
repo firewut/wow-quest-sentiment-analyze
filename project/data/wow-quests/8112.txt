@@ -1,7 +1,0 @@
-{
-    "_id": "8112",
-    "description": "",
-    "name": "Enchanted South Seas Kelp",
-    "requires_level": 58,
-    "zone": "Quests"
-}

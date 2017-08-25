@@ -1,8 +1,0 @@
-{
-    "_id": "24552",
-    "description": "If you seek vengeance on our Alliance invaders, you would do well to observe the fiercest of predators in the Barrens.The lions that stalk amongst the tall grass do so with cunning, stealth, and power. Learn from their example and you will understand the kind of war we need to fight.Hunt the plains prowlers and pridemanes, then return to me to discuss what you have learned. You will often find them in the shade of large trees.",
-    "name": "Lion's Pride",
-    "requires_level": 31,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

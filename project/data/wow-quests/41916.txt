@@ -1,8 +1,0 @@
-{
-    "_id": "41916",
-    "added_in_patch": 7,
-    "description": "You overstep your position, associate.You completed the deliveries, but now they are all talking about you instead of me!The latest scout patrol claims that they saw a raw lunestone in the ruins to the north. It is worth enough to risk investigating, even as a rumor.Bring the gem back to me and I will consider continuing our partnership.",
-    "name": "Lune-acy",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

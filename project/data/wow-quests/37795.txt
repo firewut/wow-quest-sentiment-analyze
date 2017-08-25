@@ -1,9 +1,0 @@
-{
-    "_id": "37795",
-    "added_in_patch": 6.1,
-    "description": "The Bloodmaul ogres are brutal slavers, commander. Innocents from across Draenor are dragged deep into the volcanic slag mines in Frostfire Ridge to dredge up cart after cart o' gems and ore, never to return.We suspect that they have turned their focus to unearthin' an ancient relic o' immense power for their sorcerer-king.The ogre Gug'rokk rules over the slag mines with an iron fist. Take him down and the mines will fall as well.",
-    "name": "Bloodmaul Slag Mines",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Bloodmaul Slag Mines"
-}

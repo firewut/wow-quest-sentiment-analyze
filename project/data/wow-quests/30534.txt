@@ -1,8 +1,0 @@
-{
-    "_id": "30534",
-    "added_in_patch": 5,
-    "description": "Despite your best efforts, the work is starting to pile up around here.Perhaps you could ask one of your best friends if they'd like to help out at Sunsong Ranch.",
-    "name": "A Second Hand",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

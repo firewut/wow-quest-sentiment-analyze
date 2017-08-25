@@ -1,7 +1,0 @@
-{
-    "_id": "7787",
-    "description": "You have defeated the Wind Seeker. Take the dormant blade and force the lying wretch, Demitrian, to use the materials you provided for his betrayal to wake Thunderfury.",
-    "name": "Rise, Thunderfury!",
-    "requires_level": 60,
-    "zone": "Legendary"
-}

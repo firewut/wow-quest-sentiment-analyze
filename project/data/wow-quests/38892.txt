@@ -1,8 +1,0 @@
-{
-    "_id": "38892",
-    "added_in_patch": 7,
-    "description": "We were supposed to meet back here, and then sneak back to Gatgetzan. That was hours ago, <name>! The others fanned out across all of Tanaris to gather intel.\r\n\r\nAnything you can find will help in the defense of Gadgetzan. Keep your eyes open, <name>!",
-    "name": "Scouting Report",
-    "requires_level": 100,
-    "zone": "Tanaris"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10458",
-    "description": "We must try and make amends. We must commune with the elements of this region and see if anything can be done!I grant you the totem of spirits, <race>. If you slay an enraged elemental spirit in close proximity of the totem, it will consume the elemental's soul. You must use the totem to consume many souls before you may return to me.Do this for the spirits of fire and earth first. Return to me when the totem is full.",
-    "name": "Enraged Spirits of Fire and Earth",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

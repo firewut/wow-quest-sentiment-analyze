@@ -1,8 +1,0 @@
-{
-    "_id": "13968",
-    "description": "In the wake of the chaos down south, this \"Tortusk\" brute seems to have rallied all of the Razormane refugees to his banner. Under his leadership, he's turned them into little more than brigands. There's no negotiating with his type; Tortusk must be destroyed.If our prisoner is to be believed, you'll find Tortusk southeast of here at a place called Thorn Hill. Search the bluffs where he has a commanding view of the road. Kill him, <name>, and the immediate threat should cease.",
-    "name": "The Tortusk Takedown",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12153",
-    "description": "Now that you've charged up your war golem, we're going to put all that energy to good use. Activate the golem inside Dun Argol to take control of it.Our  information about Dun Argol's leader, Iron Thane Furyhammer, suggests his bodyguard protects him from all harm.That bodyguard is the construct he travels with, called The Anvil. Disable the construct, and his protection will disappear.The thane stays in the building at the top of Dun Argol and supervises production from the bottom level.",
-    "name": "The Iron Thane and His Anvil",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

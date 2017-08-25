@@ -1,8 +1,0 @@
-{
-    "_id": "12287",
-    "description": "I have gazed upon the orb and seen the path that you must walk, <name>.Many years ago an atrocity was committed upon the shores of Dragonblight. The act itself remains shrouded in darkness, but I am certain that your destiny lies south, amidst the ruins of the Forgotten Shore.Take the road southeast through the ravaged town square. Follow the trail until you arrive at Dawn's Reach. You will meet an old friend of mine there known as Orik Trueheart. He will be expecting you.",
-    "name": "Orik Trueheart and the Forgotten Shore",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

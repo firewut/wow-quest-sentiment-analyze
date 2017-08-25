@@ -1,8 +1,0 @@
-{
-    "_id": "31711",
-    "added_in_patch": 5,
-    "description": "The problem with the sha of doubt, <race>, is its deceitful pervasiveness.Once the seed of doubt is planted, it can grow like an unwelcome weed.Such a seed has been planted in The Widow's Wail to the north, and like a weed, we must extinguish its presence immediately.I need you to destroy the lingering fragment of doubt before it can infect any more victims.",
-    "name": "The Seed of Doubt",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

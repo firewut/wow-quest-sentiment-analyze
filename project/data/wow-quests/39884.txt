@@ -1,8 +1,0 @@
-{
-    "_id": "39884",
-    "added_in_patch": 7,
-    "description": "The elves of Black Rook Hold have decided to turn their backs on us. They stay inside their keep, attacking any outsider who dare try to enter.Such behavior is intolerable... especially after all the help they've received from my folk and the others of this land.I want you to do me a favor, <name>. Take their enchanted sigils and reduce them to dust. Bring me back the dust as proof of your deeds.",
-    "name": "No Longer Worthy",
-    "requires_level": 104,
-    "zone": "Enchanting"
-}

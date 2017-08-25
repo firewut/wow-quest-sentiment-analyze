@@ -1,7 +1,0 @@
-{
-    "_id": "9632",
-    "description": "Harbinger Mikolaas has done a commendable job of safeguarding Blood Watch, <class>, but our enemies are many and our resources few.Our weakness is well known to our enemies, but your contact with the forces of the Alliance is something they haven't accounted for. I have prepared a letter of introduction to the people of Auberdine, the closest Alliance settlement, proposing cooperation in the fight against our foes. Take it with you and seek out Huntress Kella Nightbow near the docks west of the Exodar.",
-    "name": "Newfound Allies",
-    "requires_level": 15,
-    "zone": "Bloodmyst Isle"
-}

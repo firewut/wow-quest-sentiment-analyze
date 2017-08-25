@@ -1,7 +1,0 @@
-{
-    "_id": "25062",
-    "description": "Gnomeregan previously learned that the Bilgewater goblins of the Horde survived a crash on an uncharted island near Kalimdor before arriving in Durotar. We initially came here to investigate what techniques and technology could possibly allow a hopeless pack of green-skinned imbeciles to survive such harsh conditions.While the goblins are at a loss, we still need to find out exactly what happened here. Search the beach for wreckage and belongings and bring anything that appears significant back to me.",
-    "name": "What We Came For",
-    "requires_level": 46,
-    "zone": "Tanaris"
-}

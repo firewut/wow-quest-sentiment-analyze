@@ -1,7 +1,0 @@
-{
-    "_id": "13926",
-    "description": "The orphans have been looking forward to the opportunity to meet friends like you, <name>. It's wonderful that you've agreed to take one into your care.Take this whistle.  With it, you will be able to call for the orphan you have agreed to sponsor.  It will only last for a limited time - not much longer than Children's Week itself, in fact.Please, <name>, call upon your orphan.  He will be excited to meet you and see the sights of Northrend with you.",
-    "name": "Little Orphan Roo Of The Oracles",
-    "requires_level": 70,
-    "zone": "Children's Week"
-}

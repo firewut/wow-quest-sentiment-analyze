@@ -1,9 +1,0 @@
-{
-    "_id": "29901",
-    "added_in_patch": 5,
-    "description": "You have done all you can for the Prince's friends.You completed your mission and found the White Pawn - Prince Anduin. Admiral Taylor and the other SI:7 agents will be eager to have the boy safe in their custody.It is time to return home.",
-    "name": "Anduin's Decision",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

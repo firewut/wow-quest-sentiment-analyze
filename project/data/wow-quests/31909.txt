@@ -1,8 +1,0 @@
-{
-    "_id": "31909",
-    "added_in_patch": 5,
-    "description": "Freeze! You've finally warmed up from our last encounter, have you? Let's change that.",
-    "name": "Grand Master Trixxy",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

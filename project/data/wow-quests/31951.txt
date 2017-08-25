@@ -1,8 +1,0 @@
-{
-    "_id": "31951",
-    "added_in_patch": 5,
-    "description": "You have fought hard and well against the trainers of Azeroth. Even the grand masters have fallen to your cunning tactics.I now await you in the Vale of Eternal Blossoms, for you have earned the privilege to face me in battle. Come, <name>, and let us see if you have what it takes to defeat me.",
-    "name": "Grand Master Aki",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

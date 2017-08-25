@@ -1,7 +1,0 @@
-{
-    "_id": "9746",
-    "description": "Victory is close at hand, <name>. With the discovery of the sun gate, it won't be long until their supply lines are completely closed off. Now is the time to strike at their numbers.To the west you will find numerous Sunhawk camps. The Sunhawk pyromancers and defenders occupy the vast majority of the area. Find them, kill them and return to me.",
-    "name": "Limits of Physical Exhaustion",
-    "requires_level": 16,
-    "zone": "Bloodmyst Isle"
-}

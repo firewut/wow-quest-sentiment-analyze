@@ -1,8 +1,0 @@
-{
-    "_id": "12791",
-    "description": "Hello, <name>. You may or may not be aware that we Kirin Tor moved our city here to Northrend.No longer does Dalaran sit under its protective dome on the shores of Lordamere Lake. Now the city magically floats above the Crystalsong Forest.We believe you to be ready for your journey to the city. Speak with me again and I will cast a spell of teleportation to transport you there.When you arrive, seek out Archmage Celindra and give her my signet as proof that we spoke.",
-    "name": "The Magical Kingdom of Dalaran",
-    "requires_level": 74,
-    "side": "horde",
-    "zone": "Dalaran"
-}

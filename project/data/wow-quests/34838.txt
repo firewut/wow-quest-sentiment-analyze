@@ -1,8 +1,0 @@
-{
-    "_id": "34838",
-    "added_in_patch": 6,
-    "description": "<Miraculously, this single egg has eluded the ravagers.A small tag has been lovingly tied around the base of the egg. It reads \"Ikky.\">",
-    "name": "Ikky's Egg",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

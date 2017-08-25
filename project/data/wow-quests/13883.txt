@@ -1,7 +1,0 @@
-{
-    "_id": "13883",
-    "description": "Shoddy workmanship! There's no other explanation...These ships must've been constructed in a hurry. Entire pieces of armor plating are falling off without even sustaining a direct hit!I'll show them how it is to be done. But first, I need you to recover the pieces from the sea floor.Return to me with the pieces and I'll do the rest.",
-    "name": "Lousy Pieces of Ship",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

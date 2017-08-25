@@ -1,7 +1,0 @@
-{
-    "_id": "11968",
-    "description": "The spirits have heard our cry for help, <name>.  It's a sign that Kaskala might yet be saved.Take advantage of the confusion the weather has created and slay the Kvaldir leader.  Your actions will sway the battle in our favor, I am sure of it.",
-    "name": "The Tides Turn",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

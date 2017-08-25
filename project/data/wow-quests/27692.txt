@@ -1,7 +1,0 @@
-{
-    "_id": "27692",
-    "description": "Do not be alarmed, young <race>. I am Zaetar, son of Cenarius, and I come to you for your assistance.Long ago, I made the mistake of mating with Princess Theradras, a powerful earth elemental aligned with the Old Gods. Our children, the centuar Kahns, turned on me upon birth and slew me mercilessly. Now, Theradras' taint runs deep and threatens far more than just Maraudon.Come slay her and free my spirit so that we may restore Desolace to a place of verdant life and promise, as Cenarius would want.",
-    "name": "Princess Theradras",
-    "requires_level": 36,
-    "zone": "Maraudon"
-}

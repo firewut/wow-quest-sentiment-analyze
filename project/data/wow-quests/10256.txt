@@ -1,7 +1,0 @@
-{
-    "_id": "10256",
-    "description": "In retrospect, I suppose I should've expected Kael'thas's magic to be this robust. He's always been a talented mage, but I've never seen anything like the power he wielded during the attack on the tower.The ward keeps me from being able to scry out the force holding it in place, but it doesn't preclude you from scrying.You'll require a focus, though. A crystal-bearing giant named Apex roams the plains to the west of Manaforge Duro. One of its crystals would make an excellent scrying focus.",
-    "name": "Finding the Keymaster",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

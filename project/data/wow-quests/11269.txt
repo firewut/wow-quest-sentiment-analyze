@@ -1,7 +1,0 @@
-{
-    "_id": "11269",
-    "description": "The vanguard of the Alliance force will be arriving within days. The soldiers will be expecting their winter gear to be prepared, but I've still got more cloaks to make.I've been using spotted hippogryph down for the cloaks' linings, but my stock won't last!You've got to help me, <name>. Captain Adams will have my hide if those cloaks aren't ready in time! Bring me all the down you can find out there. It's dropped to the ground by molting hippogryphs flying over the wilderness around the fort.",
-    "name": "Down to the Wire",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

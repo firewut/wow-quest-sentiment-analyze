@@ -1,7 +1,0 @@
-{
-    "_id": "24941",
-    "description": "<Class>! Thank the light - they've practically driven us back to the docks. The courtyard is overrun!We're out of canister shot and the orcs are getting ready for an assault up the hill. We need to improvise some scatter-shot, and fast.Hurry, run into the broken tower here and grab whatever sharp, pointy bits of scrap metal you can lay your hands on. Knives, forks, nails - anything! Load the cannon when you've got an armful!",
-    "name": "Langridge Shot",
-    "requires_level": 28,
-    "zone": "Southern Barrens"
-}

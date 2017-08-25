@@ -1,9 +1,0 @@
-{
-    "_id": "34378",
-    "added_in_patch": 6,
-    "description": "It's time for the main event! We've got the materials, we've got the manpower, we've got another thing that starts with \"m.\"Let's build this thing!I got a gaggle of assistants up on that ridge to the west.They should have your personal surveying stand set up by now.Head on over there and you should be able to watch our progress from it.",
-    "name": "Establish Your Garrison",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

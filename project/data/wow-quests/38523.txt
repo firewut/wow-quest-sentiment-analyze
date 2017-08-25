@@ -1,8 +1,0 @@
-{
-    "_id": "38523",
-    "added_in_patch": 7,
-    "description": "Here, bring these hoofplates to Mei Francis, down at the mounts and pets store, to get your mount properly shod.I'll share the pattern when you return.",
-    "name": "Leystone Hoofplates",
-    "requires_level": 106,
-    "zone": "Blacksmithing"
-}

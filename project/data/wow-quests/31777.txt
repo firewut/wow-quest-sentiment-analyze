@@ -1,9 +1,0 @@
-{
-    "_id": "31777",
-    "added_in_patch": 5,
-    "description": "I spotted some shoulder-mounted rocket launchers on the way over here.They mighta been fireworks. I dunno. I'm just going to assume that they were shoulder-mounted rocket launchers until I'm proven wrong.Point is, in the arms of a skilled <class> like you, they could probably take down a chopper. If you find any lying around, try pointing them at those poorly-built gyrocopters.",
-    "name": "Choppertunity",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

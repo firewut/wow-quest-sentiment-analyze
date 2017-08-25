@@ -1,9 +1,0 @@
-{
-    "_id": "36419",
-    "added_in_patch": 6,
-    "description": "I can't believe they tried to physically rip the magic out of the material!It seems we were never in danger of my secrets falling into the wrong hands after all. Better safe than dead...In return for your help, I will share with you my methods of fusing magic to cloth.Flytrap Ichor is very rare in this region, but I do have a bit in reserve. Take this woven fur and dip it in the ichor here. You will see for yourself what all of the fuss is about.",
-    "name": "Dyed in the Fur",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10507",
-    "description": "This is the chance we've been waiting for, <name>.  Not only have we uncovered the evidence we need to show our people who Kael'thas is really working for, but we can prove our strength by defeating his new masters.My frail health prevents me from aiding you in person with this endeavor, but I will offer you an object that will allow me to project my powers across the continent.  ",
-    "name": "Turning Point",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

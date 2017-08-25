@@ -1,8 +1,0 @@
-{
-    "_id": "487",
-    "description": "The road to Darnassus must be kept safe. Corrupted furbolgs from the Gnarlpine tribe have been attacking travelers relentlessly.Important news and commerce travels to and from Darnassus by way of this road daily. We cannot afford to have a rogue band of heathens terrorizing people.Take up arms in the name of the sacred forest, <class>. Their den lies up this northern path. Slay these Gnarlpine ambushers and report back to me.\r\n",
-    "name": "The Road to Darnassus",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

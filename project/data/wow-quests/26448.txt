@@ -1,8 +1,0 @@
-{
-    "_id": "26448",
-    "description": "The remains of the demonic Burning Legion have been a thorn in our side for far too long!No more!The demons are attacking from the areas known as Felfire Hill, Demon Fall Canyon and Demon Fall Ridge to the east.Go and destroy as many as you can to bring glory to both yourself and the Horde!",
-    "name": "Destroy the Legion",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

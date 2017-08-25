@@ -1,7 +1,0 @@
-{
-    "_id": "25325",
-    "description": "Alysra's plan might be necessary, <name>.  I don't know how much longer we can hold off the cultists.Fandral Staghelm is bound by powerful spells.  He won't be able to escape you, even inside the Emerald Dream.Beware, though, for all we know the nightmare has spread to this part of the world inside the dream.Take Fandral to the surface and hand him to Alysra.  Let us hope he's more secure in Moonglade than he is here.",
-    "name": "Through the Dream",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

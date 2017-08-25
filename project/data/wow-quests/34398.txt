@@ -1,8 +1,0 @@
-{
-    "_id": "34398",
-    "added_in_patch": 6,
-    "description": "|cFF660000             ATTENTION HEROES                 ADVENTURERS        DEFENDERS OF AZEROTH|rArchmage Khadgar, hero of the Second War, is assembling a coalition of Azeroth's strongest to bravely step through the Dark Portal and stop the Iron Horde's invasion of Azeroth.Champions who are interested in glory can meet Khadgar at the base of the Dark Portal in Blasted Lands.Safety not guaranteed.",
-    "name": "The Dark Portal",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

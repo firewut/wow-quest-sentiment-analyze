@@ -1,8 +1,0 @@
-{
-    "_id": "314",
-    "description": "We heard the cries in the middle of the night.  Then this morning, sure enough, the herd was missing two rams.  That dastardly beast known as Vagash has been preying on our livelihood.  With Ironforge's troops already spread thin, there is no one to keep Vagash at bay.Perhaps you are brave enough to seek out the beast and slay him.  Bring me one of his fangs and I will reward you.  Vagash lurks just above the ranch here, but be warned, he is deadly.",
-    "name": "Protecting the Herd",
-    "requires_level": 6,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

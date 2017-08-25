@@ -1,8 +1,0 @@
-{
-    "_id": "37949",
-    "description": "Da goblin Gurgthock stopped by and be sayin' that Mogor wants his Blood Champion to fight in an exhibition match against something terrible he's dug up. Dat be you, boss.If you be ready, whisper to Gurgthock \"I seek da seeker.\" He take care of da rest.",
-    "name": "Death to Nullifier Darkoor!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

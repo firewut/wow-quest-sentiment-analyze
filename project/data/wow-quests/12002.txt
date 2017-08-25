@@ -1,7 +1,0 @@
-{
-    "_id": "12002",
-    "description": "I hope Gryan knows I withdrew my men from Thor Modan when the battle began. There's no way we can excavate anything until that place settles down.You seem like a brave sort, though, and you have Stoutmantle's trust.Thor Modan is just to the northeast of us and the battle still rages between our Earthen brothers and the creations of those accursed iron dwarves. Help our brethren to even the odds and I'll start figuring out how we're going to accomplish this survey of Thor Modan.",
-    "name": "Brothers in Battle",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

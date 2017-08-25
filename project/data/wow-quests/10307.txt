@@ -1,7 +1,0 @@
-{
-    "_id": "10307",
-    "description": "Looking at the hat, you find yourself asking if any Kirin Tor mage would own such headgear. Judging from the hat's wear, it seems the gnome wouldn't go anywhere without it.You try on the hat momentarily, discovering no magical properties beyond a faint urge to dance.The treasured possession might be the source of the dead mage's bond to the village. Placing the hat in the footlocker in Cohlien's quarters might free his spirit.",
-    "name": "Cohlien Frostweaver",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

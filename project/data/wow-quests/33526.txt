@@ -1,9 +1,0 @@
-{
-    "_id": "33526",
-    "added_in_patch": 6,
-    "description": "Bladespire has been a plague on my people for many years.That ends today!Now to explain it to the ogres in a way they will understand.If you still wish to help us, place our banner in the corpses of our adversaries. Their courage will falter as they behold a field of Frostwolf trophies!This is our way. I will meet with you ahead when you have completed this deed.",
-    "name": "These Colors Don't Run",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

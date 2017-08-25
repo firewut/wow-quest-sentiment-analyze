@@ -1,7 +1,0 @@
-{
-    "_id": "28085",
-    "description": "Thank you for your help, <name>. You should speak with Pao'ka Swiftmountain at Highperch to the southwest.Perhaps he will know the whereabouts of the Elder Crone?",
-    "name": "Trouble at Highperch",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

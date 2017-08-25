@@ -1,8 +1,0 @@
-{
-    "_id": "30475",
-    "added_in_patch": 5,
-    "description": "Farmer Fung is pretty mean, and just a little scary. Mah always said that he was one of the best farmers in the valley, though.I think I know the perfect gift for a mean, kind of scary guy like him.There's some big plainshawks that circle the hills to the west of here. You should get one, find a big piece of meat, and then ask Kol Ironpaw to grill it up!",
-    "name": "A Gift For Fung",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

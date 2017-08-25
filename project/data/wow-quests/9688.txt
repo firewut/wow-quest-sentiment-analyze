@@ -1,7 +1,0 @@
-{
-    "_id": "9688",
-    "description": "The whelps that you see on this island are the agitated spirits of the green dragonflight. Like me, they are bound to the land, unable to ascend to their final resting place in the Dream.Recovering the bones of the fallen has settled them somewhat but you must take further action.Destroy their ethereal manifestations. I cannot leave this place until it is done. They must be released!",
-    "name": "Into the Dream",
-    "requires_level": 16,
-    "zone": "Bloodmyst Isle"
-}

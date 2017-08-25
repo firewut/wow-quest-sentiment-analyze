@@ -1,8 +1,0 @@
-{
-    "_id": "32461",
-    "added_in_patch": 5.1,
-    "description": "Ahhh, it seems you have found yourself the proud owner of a majestic cloud serpent.Before you may fly the skies on this powerful creature, you must first earn the skill to ride it.The Order of the Cloud Serpent can teach you the knowledge that you seek.If you wish to follow our way, you should speak to Instructor Skythorn at The Arboretum in the Jade Forest.I wish you luck, <race>.",
-    "name": "The Order of the Cloud Serpent",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

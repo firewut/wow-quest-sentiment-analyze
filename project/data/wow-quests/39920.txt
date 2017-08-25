@@ -1,8 +1,0 @@
-{
-    "_id": "39920",
-    "added_in_patch": 7,
-    "description": "I have some exciting news of my own to report, <name>. Ildine and I had an excursion to Azsuna and made contact with the blue dragons at the Azurewing Repose.One of the dragons, Kharmeera, is an enchanter who expressed interest in working with you to perfect some of our enchantments.I understand you were just down there working with the elves, but if you wouldn't mind returning, Kharmeera would enjoy working with you too.",
-    "name": "On Azure Wings",
-    "requires_level": 110,
-    "zone": "Enchanting"
-}

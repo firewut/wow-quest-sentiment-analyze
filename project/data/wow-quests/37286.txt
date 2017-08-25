@@ -1,8 +1,0 @@
-{
-    "_id": "37286",
-    "added_in_patch": 6,
-    "description": "You are insatiable, gladiator! Let none doubt your voracious appetite for destruction and death!Imperator Mar'gok will be very pleased to see you battling upon the arena floor of the Coliseum once more!As before, I will accept nothing less than 100 lives!Kill or be killed, gladiator!",
-    "name": "The Bloodshed Never Ends",
-    "requires_level": 100,
-    "zone": "Nagrand"
-}

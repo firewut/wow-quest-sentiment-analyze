@@ -1,8 +1,0 @@
-{
-    "_id": "32711",
-    "added_in_patch": 5.2,
-    "description": "You notice the initials A.K. skillfully and with calligraphic precision engraved onto the side of the Animus.Before you stands Archritualist Kelada, the shaper of the Animus. By command of the Thunder King, Kelada worked tirelessly to craft the perfect vessel to harness the great power of the anima. Something functional, magnificent, sentient, but most importantly... something deadly.He must be stopped before his next imagination is brought to life by the Thunder King.",
-    "name": "Agony and Anima",
-    "requires_level": 90,
-    "zone": "Quests"
-}

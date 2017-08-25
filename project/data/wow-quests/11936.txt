@@ -1,7 +1,0 @@
-{
-    "_id": "11936",
-    "description": "Our goals here are simple. We are to remain hidden from Malygos, observe his brood, and thwart his efforts wherever possible. To that end, I have a task for you.The blues are laying their eggs at the base of the Nexus. Exposure to so much arcane energy will surely make them hatch sooner, and there's no telling what effect it will have on their spawn.I don't intend to find out. Slay the local wyrmkin and use their frozen axes to break the eggs.",
-    "name": "Hatching a Plan",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

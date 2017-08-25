@@ -1,8 +1,0 @@
-{
-    "_id": "32338",
-    "added_in_patch": 5.1,
-    "description": "Legends are not born, they are made.Much like your next target, a mogu named \"The Blade.\" In his bags you will find,An ointment whose sound plays with the mind.Bring this nibby ointment to the Monkey King!And with it, he shall make the mallet sing!Travel north along the wall, and when you reach the end, turn left.",
-    "name": "The Harmonic Ointment",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

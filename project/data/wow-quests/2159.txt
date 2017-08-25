@@ -1,8 +1,0 @@
-{
-    "_id": "2159",
-    "description": "Greetings, young <class>.  Can you offer me aid?  I have a package of herbs that I must deliver to the town of Dolanaar.  But I still have business with the druids of Shadowglen and cannot yet leave.Can you deliver this package for me?  It must be sent to Innkeeper Keldamyr, at the Dolanaar inn.  It lies along the road, to the south.",
-    "name": "Dolanaar Delivery",
-    "requires_level": 3,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

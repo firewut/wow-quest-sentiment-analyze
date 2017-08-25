@@ -1,8 +1,0 @@
-{
-    "_id": "27402",
-    "description": "Your mastery of our ways continues to grow quickly, <name>, and I am far from the only one impressed by your progress. Even the warchief has taken note of your deeds.As a reward for your dedication, the warchief has commissioned his personal enchanter to craft a staff.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and retrieve the tenebrous orb held by Lord Godfrey, the Book of Lost Souls, and the essence of the ghosts haunting the keep.",
-    "name": "Token of Power",
-    "requires_level": 20,
-    "side": "horde",
-    "zone": "Warlock"
-}

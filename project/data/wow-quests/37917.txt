@@ -1,7 +1,0 @@
-{
-    "_id": "37917",
-    "description": "The weapon has been assembled, but it lacks the power that made it a legend. In order to restore it, you must receive three blessings: one of fire, one of frost, and one of beasts.\r\n\r\nThe first blessing mentioned in the journal is that of fire. The journal reads:\r\n\r\n\"He describes an ancient monolith, perched upon the edge of a precipice extending from the cliff where the searing magma falls into the sea.  I believe the location he speaks of is just overlooking Tor'goroth's Tooth.\"",
-    "name": "Gronnsbane: The Blessing of Fire",
-    "requires_level": 100,
-    "zone": "Frostfire Ridge"
-}

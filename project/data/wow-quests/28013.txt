@@ -1,7 +1,0 @@
-{
-    "_id": "28013",
-    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to Gnomeregan,west of Ironforge, immediately!The Gnomes need help reclaiming their city! If you so choose, head to Gnomeregan and speak with Murd Doc, recruiter for the G-Team, to help in the mission.",
-    "name": "Adventurers Wanted: Gnomeregan",
-    "requires_level": 26,
-    "zone": "Gnomeregan"
-}

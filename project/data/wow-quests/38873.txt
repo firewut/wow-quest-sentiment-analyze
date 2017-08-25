@@ -1,9 +1,0 @@
-{
-    "_id": "38873",
-    "added_in_patch": 7,
-    "description": "Our mission in Skold-Ashil will have to wait, <class> - for now, we have more pressing matters to attend to.\r\n\r\nI had just recently arrived with reinforcements for our assault when Greymane's ship sailed in and began barraging our walls. We deployed our siege weapons, but their ground forces quickly overwhelmed us.\r\n\r\nIf you can get to those catapults and take out the dogs manning the cannons, it may give us the window we need to push the attack!",
-    "name": "Clear the Deck!",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

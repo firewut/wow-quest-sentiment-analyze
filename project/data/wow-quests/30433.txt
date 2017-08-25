@@ -1,8 +1,0 @@
-{
-    "_id": "30433",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Dish for Tina",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

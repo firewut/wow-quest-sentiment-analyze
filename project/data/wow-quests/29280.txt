@@ -1,7 +1,0 @@
-{
-    "_id": "29280",
-    "description": "I have dispatched the sacred moonwell waters to Malfurion's Breach, as you requested. Ayla is well trained in tending to them. You should return to her and see the boons she weaves for you there.",
-    "name": "Nourishing Waters",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

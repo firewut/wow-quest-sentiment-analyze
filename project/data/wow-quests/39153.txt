@@ -1,9 +1,0 @@
-{
-    "_id": "39153",
-    "added_in_patch": 7,
-    "description": "The situation has taken a dire turn, <name>. We were unprepared for Greymane's sudden assault, with only a token force left behind at Dreadwake's Landing, and we are paying the toll.\r\n\r\nThe beach is now swarming with worgen infiltrators, and if the cannons breach our defenses, they will likely swarm in on us. We're spread too thin here to take the fight to them, but you could change that.\r\n\r\nWipe them out.",
-    "name": "Dreadwake's Dilemma",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

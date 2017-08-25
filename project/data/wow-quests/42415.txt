@@ -1,8 +1,0 @@
-{
-    "_id": "42415",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Halduron Brightwing",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

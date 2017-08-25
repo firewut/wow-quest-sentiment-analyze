@@ -1,7 +1,0 @@
-{
-    "_id": "12450",
-    "description": "I have one final task for you, <race>... one that should turn the tide of this fight.Return to the shrine and kill the necromancers that are fueling this onslaught. With them dead, we should be able to beat these forces back and eventually retake the shrine.I also need you to find the source of the corruption under the shrine and put an end to it.I know I have asked a lot of you, but if you do this for me, we will win this battle.",
-    "name": "Through Fields of Flame",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

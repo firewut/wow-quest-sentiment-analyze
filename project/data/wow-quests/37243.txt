@@ -1,8 +1,0 @@
-{
-    "_id": "37243",
-    "added_in_patch": 6,
-    "description": "I, Gamon, have cleaved many orc skulls. Yet many of the iron horde remain, full of limbs and blood. I will relieve them of these things!Or I would, if I had an axe. The last one broke in half in the middle of an orc's ribcage.<Gamon laughs heartily.>Bring me another, so that I may continue cleaving my way through this land!",
-    "name": "An Axe to Grind",
-    "requires_level": 100,
-    "zone": "Quests"
-}

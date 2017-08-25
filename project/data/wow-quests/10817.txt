@@ -1,7 +1,0 @@
-{
-    "_id": "10817",
-    "description": "You did well against the Ashtongue Broken, <name>.  I have another challenge for you, should you be up to it.Not too long ago, the Sanctum of the Stars suffered a tremendous attack by Illidan's fel orcs.We've determined it was perpetrated by the Shadowmoon orcs who occupy the Ata'mal Terrace.Show them that the Scryers are not to be trifled with.",
-    "name": "The Great Retribution",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "4485",
-    "description": "Hello, <name>. I see your dedication remains strong, as does your faith.I think it is time you spoke with Duthorian Rall in Stormwind. There are some more lessons for you to learn, and I feel you are prepared.Seek him out in the Cathedral of Light, and <name>, take these lessons seriously. You've attained your status through humility and hard work, do not disappoint us by becoming arrogant.Be well.",
-    "name": "The Tome of Nobility",
-    "requires_level": 40,
-    "zone": "Paladin"
-}

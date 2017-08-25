@@ -1,8 +1,0 @@
-{
-    "_id": "40898",
-    "added_in_patch": 7,
-    "description": "This crater is infested with felfire basilisks.They may not be the most cunning of creatures, but they are as vile and dangerous as any demon.However, they may yet prove useful to us. Slay the basilisks, but return to me with chunks of their fel-infused flesh.I have plans to make use of their freshly carved flesh...",
-    "name": "Fresh Meat",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

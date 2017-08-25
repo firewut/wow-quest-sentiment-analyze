@@ -1,8 +1,0 @@
-{
-    "_id": "34728",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: The Shimmer Moor",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

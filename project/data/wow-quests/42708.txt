@@ -1,8 +1,0 @@
-{
-    "_id": "42708",
-    "added_in_patch": 7,
-    "description": "If you have a moment, Deathlord... there is a personal matter I would like to speak with you about.Some time ago, a brother of the Ebon Blade was imprisoned beneath the ruins of Lordaeron by the Dark Lady.Sylvanas has refused all attempts to negotiate his release. Now, our world faces destruction and the time for diplomacy has passed.Koltira Deathweaver cannot fight the Burning Legion in chains.So we will break them.",
-    "name": "A Personal Request",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

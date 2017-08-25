@@ -1,8 +1,0 @@
-{
-    "_id": "42149",
-    "added_in_patch": 7,
-    "description": "I noticed that quite a few of the Empyrean Society's books are inscribed with fel magic. That's blasphemous. We must confiscate as many as we can.",
-    "name": "Some Knowledge Shouldn't Be Shared",
-    "requires_level": 103,
-    "zone": "Mage Campaign"
-}

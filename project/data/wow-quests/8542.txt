@@ -1,7 +1,0 @@
-{
-    "_id": "8542",
-    "description": "Lok'tar, <race>, I'm sure you already know that we're going to war at Ahn'Qiraj with the insects. But first the Warchief has decided that we're going to do something called 'prepare'. Though I'd rather be sharpening weapons and hammering armor into shape, I'm proud to have been chosen to be in charge of tin bar collection here. But I cannot do that without your help.So I need you to go out and make tin bars and bring them back to me here. I think I'm going to need more than I can count.\r\n",
-    "name": "The Horde Needs Tin Bars!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

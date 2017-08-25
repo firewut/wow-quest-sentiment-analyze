@@ -1,7 +1,0 @@
-{
-    "_id": "2949",
-    "description": "Opening the box produced by the Sparklematic 5200 reveals a shiny ring!  Donning the ring, you feel magic power surge through your body.Inside the band is a small but nonetheless discernable imprint of the seal of Orgrimmar.  Engraved letters are next to it, but only the first three stand out even after cleaning: \"NOG...\"This may signify either the initials of the previous owner, or perhaps the initials of the ring's crafter.  Keep the ring... or find \"NOG\" - decisions, decisions...",
-    "name": "Return of the Ring",
-    "requires_level": 24,
-    "zone": "New Tinkertown"
-}

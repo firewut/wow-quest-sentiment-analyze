@@ -1,7 +1,0 @@
-{
-    "_id": "10707",
-    "description": "It has been known to us that the fel orcs, under Illidan's command, have guarded an Ata'mal crystal known as the Heart of Fury at the Ata'mal Terrace.  They cloud its presence with dark magic, to keep it from the Sha'tar.Fight your way to the Ata'mal Terrace outside the Black Temple and turn your eyes to the sky.  Shadowlord Deathwail will circle the terrace, beyond your reach.  You will have to slay him and his warlocks before you can obtain the crystal.It won't be easy, <name>.  I wish you luck.",
-    "name": "The Ata'mal Terrace",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

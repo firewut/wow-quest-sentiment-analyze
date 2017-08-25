@@ -1,7 +1,0 @@
-{
-    "_id": "10182",
-    "description": "The sword is of exceptional quality, finely crafted and perfectly balanced for a battle-mage. The seal of the Kirin Tor and the name \"Dathric\" are engraved into the weapon's pommel.Turning the weapon over in your hands, you notice a sense of wrongness radiating from the metal, as if the item is torn between two worlds. Could this be the item anchoring Battle-Mage Dathric's spirit to this world?Perhaps returning it to its proper place can break the bond, freeing Dathric's spirit to rest at last.",
-    "name": "Battle-Mage Dathric",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

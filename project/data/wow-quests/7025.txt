@@ -1,8 +1,0 @@
-{
-    "_id": "7025",
-    "description": "Hey, can you do Greatfather Winter a favor, um, little  boy ?Not to needlessly talk about myself in the third person, but Greatfather Winter has been at this all day and he could use a treat himself.  Some gingerbread cookies and ice cold milk to wash them down with would really hit the spot.  Think you could be a friend to the Greatfather and fetch some for me?",
-    "name": "Treats for Greatfather Winter",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36984",
-    "added_in_patch": 6,
-    "description": "Now that the clefthoof has a taste for combat, let's take it out into a harsher environment.Take your clefthoof out to the icy hills of Frostfire Ridge, and take on the great predator Rakkiri. We'll really put 'er toughness to the test.",
-    "name": "Clefthoof Training: Rakkiri",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Frostfire Ridge"
-}

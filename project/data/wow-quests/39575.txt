@@ -1,8 +1,0 @@
-{
-    "_id": "39575",
-    "added_in_patch": 7,
-    "description": "Armies are vital to the success of a war. But so are symbols.For our people, few things make for a better symbol than the blessings of our most eldest ancestors.Mayla must walk the Path of Huln.The path is dangerous, and she may only bring two people with her: a spiritwalker to guide her and a champion to protect her.Will you be the champion?",
-    "name": "The Path of Huln",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

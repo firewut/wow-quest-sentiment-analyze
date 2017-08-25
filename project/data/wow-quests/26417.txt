@@ -1,8 +1,0 @@
-{
-    "_id": "26417",
-    "description": "Commander Aggro'gosh is looking for devoted members of the Horde to assist him and his mission in Grom'gol.  If you're interested, just hop on up to the top of that zeppelin tower and board the Grom'gol zeppelin.  It's that easy!Seriously, Stranglethorn is the place to be right now... there's plenty of action to be found, and not nearly as much cataclysmic damage as, say... Stonetalon Mountains.  I wish I could go with you.",
-    "name": "Northern Stranglethorn: The Fallen Empire",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Northern Stranglethorn"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "2499",
-    "description": "I figured it out! I had to rush here to find you! It's so simple really... the corruption has spread from timberling to timberling, but there's but one that is the source.Oakenscowl, he's being poisoned by the largest tumor I have ever seen... I would call it gargantuan, even.Oakenscowl used to reside in a cave near my lake, but has since found his way to a nook to the northeast of here. <name>, Hunt down Oakenscowl and collect the tumor; remove this source of corruption from my home.",
-    "name": "Oakenscowl",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

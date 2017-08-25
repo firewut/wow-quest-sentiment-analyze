@@ -1,8 +1,0 @@
-{
-    "_id": "30419",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Blue Feather for Farmer Fung",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12675",
-    "description": "There is one last thing that is needed to enact the final revenge against my prophet. The power fragments you collected must be imbued with a portion of a living gods' spirit. You're going to need to beseech Har'koa for some of hers.Once you've done that, when you return here, you will not come to the underworld. Instead, you will return to the physical world of my altar. My children and guardians will no longer attack you, and you'll be able to get to my prophet without having to worry about them.",
-    "name": "One Last Thing",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

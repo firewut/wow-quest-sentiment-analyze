@@ -1,8 +1,0 @@
-{
-    "_id": "28599",
-    "description": "It looks like the attack stopped, <name>. Which is a shame, 'cuz we never got to use the <class>-rocket.Anyways, Kurdran Wildhammer is up in the top of the keep an' I'm sure he'll be wantin' to gives ya a hero's welcome. Yeh earned it! Go talk to 'im!I'll move on ahead and scout out the beach.",
-    "name": "Kurdran's Waitin'",
-    "requires_level": 84,
-    "side": "alliance",
-    "zone": "Twilight Highlands"
-}

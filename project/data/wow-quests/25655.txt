@@ -1,7 +1,0 @@
-{
-    "_id": "25655",
-    "description": "Skylord Omnuron has been too gentle with the Wormwing harpies. He allows them to share a perch on this mountain just because they're creatures of the air. Well <class>, not all creatures of the air are created equal.When the attacks on Hyjal began, the Wormwing went into a frenzy. They're up there right now, assaulting a sacred shrine they once claimed to revere.I'm not troubled. Now we have a reason to drive them from Hyjal, don't we?",
-    "name": "The Wormwing Problem",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

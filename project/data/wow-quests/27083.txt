@@ -1,7 +1,0 @@
-{
-    "_id": "27083",
-    "description": "Word is in from Andorhal, <name>.  The battle has resumed.It has become somewhat well-known among the Forsaken that you are a hero of the first battle of Andorhal.  Koltira has requested your presence immediately.",
-    "name": "The Battle Resumes!",
-    "requires_level": 38,
-    "zone": "Western Plaguelands"
-}

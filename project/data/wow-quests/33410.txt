@@ -1,9 +1,0 @@
-{
-    "_id": "33410",
-    "added_in_patch": 6,
-    "description": "After Ga'nar advanced into the fortress, the Bladespire unleashed a giant creature on our forces.I am still weak after using my magic, but at least I can help this orc in her recovery.Help take Dorogg down, <name>.",
-    "name": "The Butcher of Bladespire",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35296",
-    "added_in_patch": 6,
-    "description": "The abandonded mine shaft has been overrun with Goren!  They seem to be responding to commands from a big one further down in the mine.  If you can take him out, the rest will probably retreat.Once you have those Goren cleared out, we can get that mine up and working!",
-    "name": "Tainted Garden",
-    "requires_level": 94,
-    "zone": "Cooking"
-}

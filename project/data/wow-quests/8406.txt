@@ -1,7 +1,0 @@
-{
-    "_id": "8406",
-    "description": "",
-    "name": "Fight for Warsong Gulch",
-    "requires_level": 40,
-    "zone": "Quests"
-}

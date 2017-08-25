@@ -1,8 +1,0 @@
-{
-    "_id": "41322",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Unscratched Hippogryph Scale",
-    "requires_level": 110,
-    "zone": "Mining"
-}

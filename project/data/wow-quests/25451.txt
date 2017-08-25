@@ -1,7 +1,0 @@
-{
-    "_id": "25451",
-    "description": "You have found a pristine yeti hide that is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.Considering that Pratt McGrubben at the Feathermoon Stronghold is in the market for yeti hides, this particular one may be of considerable interest to him.",
-    "name": "Pristine Yeti Hide",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

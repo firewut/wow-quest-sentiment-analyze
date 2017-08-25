@@ -1,8 +1,0 @@
-{
-    "_id": "11719",
-    "description": "<Laurith looks you over as if to size you up.>So we've got this pollinated bloodspore flower and nobody to test its effects on. Say, would you perhaps be interested in rubbing this on your skin and letting me observe? What's the worst that could happen anyway?Don't you worry, <name>! Just take this sample and rub it all over your face. ",
-    "name": "A Suitable Test Subject",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "7496",
-    "description": "Seek out Major Mattingly in the Valley of Heroes, <name>. He will be expecting you...",
-    "name": "Celebrating Good Times",
-    "requires_level": 60,
-    "zone": "Stormwind City"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44040",
-    "added_in_patch": 7,
-    "description": "I will endeavor to protect my son until the votes are cast.\r\n\r\nCoryn Stelleris is a predator even among the nobility. It does not surprise me that he should stoop to such depths to ensure his own success.\r\n\r\nTell Ly'leth that she has my support. Unequivocally.\r\n\r\nYou may also choose to tell her that Coryn Stelleris will hurt her, if she gives him a chance.\r\n\r\nBe careful.",
-    "name": "Vote of Confidence",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "40607",
-    "added_in_patch": 7,
-    "description": "Look around. What do you see?<Allari glares at something over your shoulder.>The Legion has already infiltrated the Horde... even now, they are among you.We must protect your Warchief.When you are ready to see what lies beneath the veil, say the word.",
-    "name": "Demons Among Us",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "The Dranosh'ar Blockade"
-}

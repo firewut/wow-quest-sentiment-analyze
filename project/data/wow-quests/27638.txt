@@ -1,7 +1,0 @@
-{
-    "_id": "27638",
-    "description": "The Kor'kron are all dead. Time to find Garona Halforcen.Good thing the squad commander told you where she would be.",
-    "name": "Just You and Garona",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

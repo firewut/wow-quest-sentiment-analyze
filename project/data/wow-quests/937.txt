@@ -1,8 +1,0 @@
-{
-    "_id": "937",
-    "description": "I was dispatched with a small group of Sentinels here to protect the Oracle Tree from the harpies that have made nests all around the glade. Little by little we are trying to push them back.When the Oracle Tree attempted to send a runner to Darnassus with a report, the messenger was attacked and killed by a group of the harpies.If you feel up to the task, go to their nests, slay them, and return their belts to me as proof of your deeds.",
-    "name": "The Enchanted Glade",
-    "requires_level": 6,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

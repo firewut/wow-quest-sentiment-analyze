@@ -1,8 +1,0 @@
-{
-    "_id": "35914",
-    "added_in_patch": 6,
-    "description": "Quakes have been shaking the garrison for the last hour, and a few of our scouts aren't reporting in.",
-    "name": "Internal: Default Invasion Reward",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

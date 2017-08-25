@@ -1,8 +1,0 @@
-{
-    "_id": "29363",
-    "description": "I am often asked, \"Aska, who is making all this Mulgore spice bread?!\"It is a reasonable question. Our fine and noble bread is traded in countless settlements in the most far-away lands, even by our staunchest foes. IT'S JUST THAT GOOD.And the answer...?It is \"YOU.\" Please take this packet of Mulgore spices and use it to turn bland, boring spice bread into MULGORE spice bread!",
-    "name": "Mulgore Spice Bread",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "10146",
-    "description": "Just west of the Dark Portal are two huge transporters: Gateway Murketh and Gateway Shaadraz.If you look east up the Path of Glory, you'll see them on either side of the road.  I want you to bomb them both into rubble!Here are the bombs you'll use, specially designed by a goblin in Area 52.  Now, speak with Wing Commander Dabir'ee -- he'll put you on a gryphon and send you on your way.",
-    "name": "Mission: The Murketh and Shaadraz Gateways",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

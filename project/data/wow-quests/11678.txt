@@ -1,8 +1,0 @@
-{
-    "_id": "11678",
-    "description": "Bristlehorn should have returned by now.The other reason why we came up here was to investigate that Scourge structure to the west, which fell from the sky. He's impetuous and has likely gotten himself into trouble.<name>, go to that place and find him, please.",
-    "name": "Find Bristlehorn",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

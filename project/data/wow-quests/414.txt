@@ -1,7 +1,0 @@
-{
-    "_id": "414",
-    "description": "I've been drinking more of that Shimmer Stout my brother made - it's great stuff!  I want a fellow Mountaineer to try it.  His name's Kadrell, and he's usually patrolling the road through Thelsamar in Loch Modan.To get to Thelsamar, go southeast through the tunnel, then turn northeast when the path forks into a road.  Follow that road straight into Thelsamar.Give Mountaineer Kadrell this cask of Shimmer Stout and see what he thinks!",
-    "name": "Stout to Kadrell",
-    "requires_level": 8,
-    "zone": "Dun Morogh"
-}

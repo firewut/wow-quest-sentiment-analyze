@@ -1,7 +1,0 @@
-{
-    "_id": "27437",
-    "description": "You have been a diligent student and servant to our cause. Always use your talents in accord with Lady Sylvanas's wishes and you will be blessed by the shadow.Our queen has arranged for Orgrimmar's master enchanter to create a powerful staff to recognize your service.The materials you will need only come from Shadowfang Keep in the heart of Silverpine Forest. Find the lost holy symbol of Commander Springvale, a supply of moontouched wood, and the essence of the ghosts that haunt the keep.",
-    "name": "The Dark Cleric's Bidding",
-    "requires_level": 20,
-    "zone": "Priest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39131",
-    "added_in_patch": 7,
-    "description": "Echoes of a thousand worlds swirl in the palm of your hand. Its true value lies in the eye of the beholder.",
-    "name": "Possessions of Power",
-    "requires_level": 98,
-    "zone": "Quests"
-}

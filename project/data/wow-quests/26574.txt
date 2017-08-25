@@ -1,7 +1,0 @@
-{
-    "_id": "26574",
-    "description": "Lady Shandris has already asked for you to assist us further.Adella has struck out to the east, among the woodpaw gnolls, and established a foothold south of Camp Mojache. You are to report to her if you wish to assist Lady Shandris and the Alliance further.Don't stray too close to Camp Mojache... the Horde will not hesitate to attack. Keep to the south and look for our banners.",
-    "name": "Adella's Covert Camp",
-    "requires_level": 36,
-    "zone": "Feralas"
-}

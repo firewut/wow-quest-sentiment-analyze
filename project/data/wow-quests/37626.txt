@@ -1,8 +1,0 @@
-{
-    "_id": "37626",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Assault on Magnarok",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

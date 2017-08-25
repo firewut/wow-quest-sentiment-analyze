@@ -1,7 +1,0 @@
-{
-    "_id": "1271",
-    "description": "",
-    "name": "Feast at the Blue Recluse",
-    "requires_level": 30,
-    "zone": "Dustwallow Marsh"
-}

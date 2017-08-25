@@ -1,9 +1,0 @@
-{
-    "_id": "35040",
-    "added_in_patch": 6,
-    "description": "If only the trees here weren't screaming at me I could concentrate better. Never mind, they are only trees.This spot is used up but now I can feel a much stronger presence deeper in the marsh.  I will go there now and take what is rightfully mine!Then I will share it... with everyone...",
-    "name": "Heart of the Fen",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

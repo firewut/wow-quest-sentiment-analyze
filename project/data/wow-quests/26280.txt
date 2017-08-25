@@ -1,7 +1,0 @@
-{
-    "_id": "26280",
-    "description": "The Murkgill murlocs have been pushed out of the ocean by the Saltscale murlocs, so they make their refuge in the Kal'ai ruins to our northeast.  This was acceptable in the past, but no longer.Separated from the sea, the Murkgill have grown restless, and they send their foragers to attack my supply caravans.  Send them a message: this behavior will NOT be tolerated by Hellscream's Horde.",
-    "name": "The Defense of Grom'gol: Murloc Menace",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28528",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Windcaller Proudhorn at Cenarion Hold.",
-    "name": "Hero's Call: Silithus!",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

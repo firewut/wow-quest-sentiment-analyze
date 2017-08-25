@@ -1,8 +1,0 @@
-{
-    "_id": "35612",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Scarlet Monastery Reward Quest",
-    "requires_level": 28,
-    "zone": "Quests"
-}

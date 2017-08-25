@@ -1,8 +1,0 @@
-{
-    "_id": "26627",
-    "description": "I've been told there's signs of activity at Beggar's Haunt. People have reported seeing lights in the tower to the east of town.Few would be bold enough to stay that close to Deadwind Pass. You're the first to report since I've learned about this; go check it out and make sure whatever's in there is human.",
-    "name": "The Hermit",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

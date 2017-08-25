@@ -1,8 +1,0 @@
-{
-    "_id": "34924",
-    "added_in_patch": 6,
-    "description": "The Bloodclaw are sadistic creatures. They have attacked the Ravenskar before and have stolen the eggs of the sacred ravens.While you are within the Bloodclaw lands keep an eye out for the eggs.I'll be waiting for you at the nest with as many baskets for them as I can gather.",
-    "name": "The Egg Thieves",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

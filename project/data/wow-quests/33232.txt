@@ -1,8 +1,0 @@
-{
-    "_id": "33232",
-    "added_in_patch": 5.4,
-    "description": "The bronze dragonflight has discovered a most unusual pandaren phenomenon, <class>. Emerging from the mists, far off the coast of the Jade Forest - an island that was lost in time!It is a dangerous place, perhaps the most perilous in all of Pandaria. But we are determined to unravel its mysteries.Here, take this timepiece. A single click will whisk you to the island. Get yourself established, and speak with Watcher Alundra. She will guide you to our chief investigator.",
-    "name": "Journey to the Timeless Isle",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42107",
-    "added_in_patch": 7,
-    "description": "We need the Gjallarhorn to compel the armies of Odyn's children to join our cause. If the great worm swallowed it, we shall dig through the very earth until we find it in its entrails!",
-    "name": "On the Trail of the Great Worm",
-    "requires_level": 101,
-    "zone": "Warrior Campaign"
-}

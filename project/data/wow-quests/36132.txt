@@ -1,9 +1,0 @@
-{
-    "_id": "36132",
-    "added_in_patch": 6,
-    "description": "You have proven your worth, traveler.  Now take this frostwolf fishing journal back to your garrison and study up.  You will be catching all you can eat in no time.",
-    "name": "Anglin' In Our Garrison",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Fishing"
-}

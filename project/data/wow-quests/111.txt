@@ -1,8 +1,0 @@
-{
-    "_id": "111",
-    "description": "Please, <name>, talk with my Gramma.  If anyone can find a way to bring me together with Maybell, she can.She's inside our house east of here.",
-    "name": "Speak with Gramma",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

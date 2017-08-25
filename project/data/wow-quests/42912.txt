@@ -1,8 +1,0 @@
-{
-    "_id": "42912",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Daily Normal Specific (1st) (Legion)",
-    "requires_level": 71,
-    "zone": "Quests"
-}

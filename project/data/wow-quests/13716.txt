@@ -1,7 +1,0 @@
-{
-    "_id": "13716",
-    "description": "In your training as a valiant, you'll have the chance to test your skills against valiants representing other cities. Although a valiant's battles are not a formal part of the competition, you will learn valuable lessons about the fighting styles and weaknesses of your opponents.The valiants are a spirited lot, competing amongst themselves for honor and notoriety.Train as a valiant until you are confident of your ability to best all who face you, then bring me the seals you have earned.",
-    "name": "The Valiant's Charge",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

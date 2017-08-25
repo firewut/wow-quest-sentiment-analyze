@@ -1,9 +1,0 @@
-{
-    "_id": "34876",
-    "added_in_patch": 6,
-    "description": "Oh it was horrible.My husband and I were fishing in the marsh, I fell asleep and when I woke up he had been turned into a toad!I'm sure it was one of those Shadowmoon orcs I hear so much about.He jumped into the muddy waters before I could catch him.Will you help me find my lost love, <class>?",
-    "name": "Loola's Lost Love",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44543",
-    "added_in_patch": 7,
-    "description": "This wind rider will take you to Broken Shore, <name>. May your weapon bring you many kills today.\r\n\r\nThe Warchief has already made landfall, I will wager you will simply need to follow the trail of demon blood.",
-    "name": "The Battle for Broken Shore",
-    "requires_level": 98,
-    "zone": "Durotar"
-}

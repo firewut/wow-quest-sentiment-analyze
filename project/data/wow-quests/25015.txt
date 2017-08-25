@@ -1,7 +1,0 @@
-{
-    "_id": "25015",
-    "description": "One of the native species in Kalimdor is the 'quilboar.' Prickly little buggers. Reason enough to hate this continent.The raids started shortly after we established our forward camps. Worse, those spiny fiends seem to thrive in this thorny hell of a jungle. I need you to help beat them back so we can re-establish contact with Forward Command.While you're out there, acquire one of those twisted branches their casters seem to be using to manipulate the jungle growth...",
-    "name": "Make 'em Squeal",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

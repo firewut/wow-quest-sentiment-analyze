@@ -1,8 +1,0 @@
-{
-    "_id": "44245",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: High Inquisitor Whitemane",
-    "requires_level": 110,
-    "zone": "Death Knight Campaign"
-}

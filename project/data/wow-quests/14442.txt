@@ -1,7 +1,0 @@
-{
-    "_id": "14442",
-    "description": "I don't know if you've noticed <name>, but this whole lab complex has gone south of cheese! I don't mind writing off all those hippogryphs, but my most prized experiment has gone missing: Subject Nine!Subject Nine is a raptor we imported from the Barrens. I wonder - is she still alive? Try checking above the main complex west of here, near the giant top secret rocket. You can't miss it.",
-    "name": "My Favorite Subject",
-    "requires_level": 11,
-    "zone": "Azshara"
-}

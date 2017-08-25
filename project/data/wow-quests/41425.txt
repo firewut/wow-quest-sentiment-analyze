@@ -1,8 +1,0 @@
-{
-    "_id": "41425",
-    "added_in_patch": 7,
-    "description": "The Tidemistress... is filling her ranks with hulking naga... and sea giants.Jandvik cannot withstand... their combined might.Slaughter them... before they reach its shores...",
-    "name": "Sunken Foes",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

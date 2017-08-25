@@ -1,8 +1,0 @@
-{
-    "_id": "39874",
-    "added_in_patch": 7,
-    "description": "Welcome! It's nice to see familiar faces returning to Dalaran. You might remember Ildine, Vanessa, and me from Northrend. Archmage Starsinger is in charge of the shop, but he's away on Kirin Tor business at the moment. He's a fine fellow... mostly.Your arrival is fortunate. We've run into a problem that we'd love to solve before the archmage returns. Interested in lending a hand?",
-    "name": "Some Enchanted Evening",
-    "requires_level": 100,
-    "zone": "Enchanting"
-}

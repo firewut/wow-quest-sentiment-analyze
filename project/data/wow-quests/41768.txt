@@ -1,8 +1,0 @@
-{
-    "_id": "41768",
-    "added_in_patch": 7,
-    "description": "I have bound Shinfel's soul to her staff, allowing it to serve as an anchor in this world.\r\n\r\nWhen we perform the ritual of summoning, it will act as a beacon, guiding Shinfel through the Twisting Nether and back to our world.",
-    "name": "Soul Beacon",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

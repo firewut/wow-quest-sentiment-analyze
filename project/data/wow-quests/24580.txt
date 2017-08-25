@@ -1,7 +1,0 @@
-{
-    "_id": "24580",
-    "description": "Anub'Rekhan, once-mighty Spider Lord of the nerubian empire, has been taken by the Lich King and corrupted into a state of undeath.Now a crypt lord, he sits in his parlor in the Arachnid Quarter of Naxxramas, spinning strategies for Kel'Thuzad.The Council of Six has decreed that Anub'Rekhan must die!",
-    "name": "Anub'Rekhan Must Die!",
-    "requires_level": 80,
-    "zone": "Naxxramas"
-}

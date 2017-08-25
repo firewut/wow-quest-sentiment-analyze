@@ -1,8 +1,0 @@
-{
-    "_id": "30926",
-    "added_in_patch": 5,
-    "description": "It is with a heavy heart that I confirm your suspicions. The mantid are indeed under the sway of the Sha of Fear.It was OUR sworn duty to confine that creature beneath our temple. Unfortunately, our vigil faltered, our defenses buckled, and the sha escaped. It is with the mantid now.See for yourself. The mantid burrowed into the western side of our island.",
-    "name": "The Terrible Truth",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

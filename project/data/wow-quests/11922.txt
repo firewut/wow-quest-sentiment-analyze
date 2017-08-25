@@ -1,8 +1,0 @@
-{
-    "_id": "11922",
-    "description": "So you want to be a fire juggler?  Do you have what it takes?  The dexterity?  The reflexes?  ...the courage?  If you think so, then let's give you a little practice!Take these torches and run near the bonfire.  You'll see  braziers with markers flashing above them.  Toss a torch at a marked brazier.  Be quick! Do it before the mark fades if you want credit for the toss!Hit enough marked braziers before the time limit, then come back here... for your next lesson.",
-    "name": "Torch Tossing",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Midsummer"
-}

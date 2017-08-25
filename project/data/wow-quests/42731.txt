@@ -1,8 +1,0 @@
-{
-    "_id": "42731",
-    "added_in_patch": 7,
-    "description": "As much as we might not like it, we need the aid of the Wardens if we're to locate the Sargerite Keystone. They took it from you when we were all imprisoned in the vault.\r\n\r\nWith Maiev missing, their current leader is Sira Moonwarden. On your behalf, I have agreed that we will assist them in tracking down some of the more powerful creatures that escaped from the Vault of the Wardens. In return, she will direct us to where we need to go to get the Keystone.",
-    "name": "Working With the Wardens",
-    "requires_level": 103,
-    "zone": "Demon Hunter Campaign"
-}

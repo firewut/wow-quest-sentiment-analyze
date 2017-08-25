@@ -1,9 +1,0 @@
-{
-    "_id": "35344",
-    "added_in_patch": 6,
-    "description": "I would be happy to help with your alchemical inquiries, but right now I am worried about my father.It's been quite some time since he went hunting down by the river, but he still hasn't returned home. I need to watch Lumiel. Will you please find him?",
-    "name": "The Missing Father",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

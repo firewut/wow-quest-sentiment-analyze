@@ -1,9 +1,0 @@
-{
-    "_id": "35025",
-    "added_in_patch": 6,
-    "description": "Outsider, I've spotted Iron Horde soldiers nearby.It is bold, even for them, to venture into such deadly territory.If you do not deal with their presence, they will surely be a threat to your camp.",
-    "name": "We Have Company",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

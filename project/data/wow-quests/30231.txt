@@ -1,8 +1,0 @@
-{
-    "_id": "30231",
-    "added_in_patch": 5,
-    "description": "I need more pomfruit! Go knock some loose from the trees for me, would you?Take this, I use it when I go harvesting. Things go quicker when the fruit comes to you!",
-    "name": "Pomfruit Pickup",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

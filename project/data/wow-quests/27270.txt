@@ -1,7 +1,0 @@
-{
-    "_id": "27270",
-    "description": "I have an urgent message for you from Stormwind, <name>. It seems Farseer Umbrua has asked to speak with you the next time you're in the city.The messenger gave no explanation for the farseer's invitation, but you should travel to Stormwind and find Farseer Umbrua at the Golden Keg in the Dwarven District as soon as you can.",
-    "name": "An Audience with the Farseer",
-    "requires_level": 20,
-    "zone": "Shaman"
-}

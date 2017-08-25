@@ -1,7 +1,0 @@
-{
-    "_id": "26955",
-    "description": "While you've been away, I've been trying a different approach on our friend Zen'Kiki.  I believe he may have a future as a healer.  This is mainly because healing spells never miss.I hear from Field Agent Kaartish that the cultist camp to the east is where the plagued animals are coming from.  I hope you don't mind escorting Zen'Kiki over there... perhaps he can help heal some of the plagued animals within the camp.",
-    "name": "Zen'Kiki and the Cultists",
-    "requires_level": 35,
-    "zone": "Western Plaguelands"
-}

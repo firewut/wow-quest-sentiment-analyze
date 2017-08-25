@@ -1,7 +1,0 @@
-{
-    "_id": "28905",
-    "description": "",
-    "name": "Daily Heroic Random (1st) (Cataclysm)",
-    "requires_level": 85,
-    "zone": "Quests"
-}

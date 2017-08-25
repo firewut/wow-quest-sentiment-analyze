@@ -1,8 +1,0 @@
-{
-    "_id": "27306",
-    "description": "I know this human, Paval Reethe. Pathetic, even for his kind. He deserted his fellow soldiers and is now hiding out in the woods.I sent Ogron out to track him down. Some of the others suspect he's been stealing from our supplies. I think I saw Ogron heading off to the southeast.",
-    "name": "Talk to Ogron",
-    "requires_level": 35,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

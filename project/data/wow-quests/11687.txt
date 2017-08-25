@@ -1,8 +1,0 @@
-{
-    "_id": "11687",
-    "description": "There are two... that must... be killed.The doctor and... the lich-lord... are above. Find them... destroy them... before.......it is too... late....",
-    "name": "The Doctor and the Lich-Lord",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

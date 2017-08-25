@@ -1,8 +1,0 @@
-{
-    "_id": "33088",
-    "added_in_patch": 5.4,
-    "description": "Pandaria. Just when I think I've gotten its mysteries figured out, I discover something new.It's called \"The Timeless Isle.\" Once hidden in the mists, it appears and disappears seemingly of its own will. I've heard that time has no meaning there, that the sun neither rises nor sets.We can take advantage of this anomaly, <name>! If I could time-lock your cloak, the power it could contain would be... immense.Our path is clear. Fly southeast of the Jade Forest and meet me at the Timeless Isle!",
-    "name": "A Timeless Discovery",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

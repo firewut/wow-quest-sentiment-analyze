@@ -1,7 +1,0 @@
-{
-    "_id": "12025",
-    "description": "It's good to see that you were not ravaged by the Scourge as well.  Perhaps you'd be willing to lend a hand.  The Scarlet Crusade has taken up a post to the north with the obvious intent of battling the Scourge.  The thing that bothers me is that they were building before we were attacked - they must have known something.  I need to know if one of our Villagers was involved.  Search for evidence on those of us that were brought back as ghouls.  If you find anything, bring it to me.",
-    "name": "A Scarlet Among Us",
-    "requires_level": 70,
-    "zone": "Dragonblight"
-}

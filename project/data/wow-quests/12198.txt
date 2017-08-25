@@ -1,7 +1,0 @@
-{
-    "_id": "12198",
-    "description": "The golem's cells have just enough power to run it at the lowest levels, but it can't power any of its combat systems.The good news is that the perimeter of Dun Argol is patrolled by lightning sentries. We should be able to use their power to charge up the golem's weapon systems.Bring the golem with you, take it close to them, it will absorb the power as the sentries die.",
-    "name": "... Or Maybe We Don't",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

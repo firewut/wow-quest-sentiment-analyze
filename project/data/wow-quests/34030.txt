@@ -1,9 +1,0 @@
-{
-    "_id": "34030",
-    "added_in_patch": 6,
-    "description": "Argh... I'm sorry, $p, but I'm too weak to fight. They kept me alive, but just barely.I'll keep an eye on the mole machine while you look for Thaelin. He should be somewhere close!",
-    "name": "The Captive Engineer",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

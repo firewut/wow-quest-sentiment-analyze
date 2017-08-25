@@ -1,8 +1,0 @@
-{
-    "_id": "29345",
-    "description": "A well-meaning goblin visitor introduced Azshara snakeheads to our waters and now they're overrunning the pond.Please, if you can catch some of these voracious predatory fish before they eat every smallfish and mud snapper in Thunder Bluff, I'd be terribly grateful.",
-    "name": "Pond Predators",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Fishing"
-}

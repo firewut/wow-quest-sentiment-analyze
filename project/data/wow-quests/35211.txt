@@ -1,8 +1,0 @@
-{
-    "_id": "35211",
-    "added_in_patch": 6,
-    "description": "Have you seen all the fungus on the buildings in Pinchwhistle Point? It's only a matter of time 'til it releases enough spores to infest the whole coastline!The remaining infected that are in Pinchwhistle Point will be too far gone for us to save later on, so let's do the right thing and put them out of their misery and prevent an even worse outbreak.I made some firebombs that will burn the fungus down, but I'll need you to place them while I set up the detonator.Are you up for it?",
-    "name": "Preventing the Worst",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

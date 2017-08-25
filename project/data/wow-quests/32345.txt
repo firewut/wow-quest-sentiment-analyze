@@ -1,8 +1,0 @@
-{
-    "_id": "32345",
-    "added_in_patch": 5.1,
-    "description": "The Reliquary may have had a bad name in the past, but we're not monsters. We simply hold different views about archaeology than the Explorer's League.\r\n\r\nWe do focus on performing acts of heroism from time to time. So go, liberate some of the pandaren slave spirits in the ruins. ",
-    "name": "We're Not Monsters!",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

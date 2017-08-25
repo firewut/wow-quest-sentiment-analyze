@@ -1,9 +1,0 @@
-{
-    "_id": "35487",
-    "added_in_patch": 6,
-    "description": "I saw lots of bodies here. Kaz always said to burn the bodies.That way they can't come back as the mean greens.We should burn the bodies.",
-    "name": "We Burn the Dead",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40868",
-    "added_in_patch": 7,
-    "description": "I gotta finish up 'ere, so why don'tcha take those trinkets back to Hobart fer me.'Sides, I'ma thinkin' he likes ya more than me.",
-    "name": "Wibbly-Wobbly, Timey-Wimey",
-    "requires_level": 104,
-    "zone": "Engineering"
-}

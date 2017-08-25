@@ -1,7 +1,0 @@
-{
-    "_id": "10067",
-    "description": "Most of the creatures touched by the crystals' energy have been corrupted in the same ways: strange marks on their flesh, increased aggression, and small crystal shards in their bodies. However, the fouled water spirits north of here appear to be turning entirely to crystal.I've never seen anything react to the crystals this way before, when we explored the foul pool, they were particularly dangerous. We must get rid of them before the Sunhawks can exploit them as a new source of energy.",
-    "name": "Fouled Water Spirits",
-    "requires_level": 16,
-    "zone": "Bloodmyst Isle"
-}

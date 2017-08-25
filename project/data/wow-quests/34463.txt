@@ -1,8 +1,0 @@
-{
-    "_id": "34463",
-    "added_in_patch": 6,
-    "description": "This elegantly crafted ring is covered in ornate decorations and symbols, the most prominent of which being the letter \"V\" in a glowing rune. The ring seems to fade in and out of view as if passing back and forth through time.Someone at Khadgar's Tower may have an interest in such an artifact.",
-    "name": "Mysterious Ring",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

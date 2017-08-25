@@ -1,7 +1,0 @@
-{
-    "_id": "583",
-    "description": "Welcome to Stranglethorn!Perhaps you're not aware of this, but that dwarf over there is the son of the one and only Hemet Nesingwary, renowned war hero of the Alliance and master big game hunter.  Like his father, he's not one for welcoming strangers into his camp, but you look like you've seen quite a bit of action in your day, <class>.Go and speak with him.  He's a chip off the old block, so perhaps he can give you some hunting pointers.",
-    "name": "Welcome to the Jungle",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

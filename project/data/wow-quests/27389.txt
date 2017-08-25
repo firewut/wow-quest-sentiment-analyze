@@ -1,7 +1,0 @@
-{
-    "_id": "27389",
-    "description": "I require a rare reagent for the powerful spell I intend to cast: skulls from the scourge who took part in the battle of Darrowshire.Take this crystal and hunt scourge champions for their skulls.  The crystal is enchanted; if a champion took part in the battle, then when you pass the crystal over its skull it will resonate.  Bring me those resonating skulls.Go, <name>.  You'll find scourge champions in the Fungal Vale to the north.  Go.",
-    "name": "Marauders of Darrowshire",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

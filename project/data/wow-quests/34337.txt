@@ -1,7 +1,0 @@
-{
-    "_id": "34337",
-    "description": "A high value artifact at Cragplume Canyon, hmmm?Let's see if we can't beat the Iron Horde to it.Let's move fast. Speak to Choluna, and we'll be on our way.",
-    "name": "The Giant Cauldron",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

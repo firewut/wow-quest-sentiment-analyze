@@ -1,7 +1,0 @@
-{
-    "_id": "24442",
-    "description": "Looking over the captured attack plans, you find a map of the Eastern Kingdoms and Kalimdor with major settlements marked. Reading over the orders, you learn that  Kvaldir captains have drafted plans for a series of devastating raids.According to the orders, the attacks are to begin after Mistcaller Yngvar \"consults the Heart of the Mists.\" Perhaps you could delay the attacks by capturing the omen from the Mistcaller's Cave on the western side of Hrothgar's Landing and notify Justicar Mariel Trueheart.",
-    "name": "Battle Plans Of The Kvaldir",
-    "requires_level": 77,
-    "zone": "Howling Fjord"
-}

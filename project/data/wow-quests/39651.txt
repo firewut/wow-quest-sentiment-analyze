@@ -1,8 +1,0 @@
-{
-    "_id": "39651",
-    "added_in_patch": 6.2,
-    "description": "One of Draenor's oldest stories is the legend of Grumpus.The story tells of a mean-spirited brute that would come in the night, in the dead of winter, and kidnap children that misbehaved. Back at his lair, he would present them with awful toys, and use their tears to spawn his minions.But Grumpus is no legend, he's real and he's taken our children! Please, you have to slay him!",
-    "name": "Grumpus",
-    "requires_level": 100,
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30481",
-    "added_in_patch": 5,
-    "description": "You see the shiny stones in the walls? Rook wants some. The mogu been collecting them, so they have some to take too maybe.If you find stones, you please bring them to Rook? Rook will be your friend.",
-    "name": "Carved in Stone",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

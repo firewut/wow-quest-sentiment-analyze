@@ -1,7 +1,0 @@
-{
-    "_id": "24991",
-    "description": "As you're probably already realizing, the Royal Apothecary Society is a widespread organization.  We take our plague-alchemy seriously.  It is our belief that the more agents we have performing experiments, the sooner we will realize our objective.One of our agents performs his work at a small encampment to the north of here.  His name is Jerrod, and he could use an apprentice of your... stature.",
-    "name": "Garren's Haunt",
-    "requires_level": 5,
-    "zone": "Tirisfal Glades"
-}

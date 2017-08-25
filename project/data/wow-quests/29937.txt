@@ -1,9 +1,0 @@
-{
-    "_id": "29937",
-    "added_in_patch": 5,
-    "description": "So these guys like fish, huh? Well how about we finish what you started and make them LOVE us?I've still got some explosive powder from the wreck, just need something to attract the fish.Guts is sure to do the trick - never fails. I saw some birds flyin' around south of town.Well? Whatcha waitin' for?",
-    "name": "Furious Fowl",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

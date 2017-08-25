@@ -1,8 +1,0 @@
-{
-    "_id": "35411",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Zul'Gurub Reward Quest",
-    "requires_level": 85,
-    "zone": "Quests"
-}

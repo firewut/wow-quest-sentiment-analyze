@@ -1,7 +1,0 @@
-{
-    "_id": "31464",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Opposing Faction Leader Defeated",
-    "zone": "Quests"
-}

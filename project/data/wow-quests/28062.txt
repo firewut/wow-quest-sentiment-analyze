@@ -1,7 +1,0 @@
-{
-    "_id": "28062",
-    "description": "Archduke Calcinder squirms in the back of this very cavern.  We are close to killing him... but that is not what we are going to do.Slaying Calcinder here means nothing.  His acolytes can easily revive him.  Instead, we are going to banish him.I asked you to gather a precious stone from the Twilight's Hammer earlier.  You will now use it against Calcinder.  Engage him, weaken him, then use this device on him.  He will be banished from this realm.Good luck, brave <name>.",
-    "name": "From Whence He Came",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

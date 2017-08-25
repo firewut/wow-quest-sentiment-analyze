@@ -1,8 +1,0 @@
-{
-    "_id": "31061",
-    "added_in_patch": 5,
-    "description": "Shan Bu, the leader of the Shan'ze, is performing some kind of dark ritual at the summit of the island to the northwest.We believe that the subjugated Shan'ze Cloudrunners are powering the spell. How, we still do not know.We believe that the Shan'ze Cloudrunners can still be saved from the corruption that taints them.Take these bronze claws. Use them to mount the back of a Shan'ze Cloudrunner.Attack them. Beat some sense back into their heads!",
-    "name": "Riding the Storm",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

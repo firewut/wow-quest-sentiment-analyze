@@ -1,8 +1,0 @@
-{
-    "_id": "39946",
-    "added_in_patch": 7,
-    "description": "From what little I have been able to decipher, I know that the tablets are created using a special carving tool.If we had one of those tools, along with a complete codex, we could easily create our own tablet.That would also serve to prove that my deciphering of their language has been successful.Retrieve one of those tools for me, <name>.",
-    "name": "Right Tool for the Job",
-    "requires_level": 104,
-    "zone": "Inscription"
-}

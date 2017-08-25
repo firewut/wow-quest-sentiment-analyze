@@ -1,8 +1,0 @@
-{
-    "_id": "31730",
-    "added_in_patch": 5,
-    "description": "Scouts have reported a non-mantid presence near Kor'vess. Their intrusion and their theft of amber would normally be dealt with swiftly, but our forces are needed elsewhere.This task seems suited to you, Wakener. You will convince them to leave this land, or you will destroy them in the name of the Klaxxi'va.",
-    "name": "A Not So Friendly Request",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

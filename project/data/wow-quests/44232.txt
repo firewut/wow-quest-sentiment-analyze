@@ -1,8 +1,0 @@
-{
-    "_id": "44232",
-    "added_in_patch": 7,
-    "description": "<name>, your wisdom and leadership inspires awe in all of us!\r\n\r\nThe Dreamweavers are prepared to furnish you with a full set of armor to aid in the fight against the Burning Legion. Continue expanding your influence across the Broken Isles, and we may yet achieve victory.",
-    "name": "The Grove Provides",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8700",
-    "description": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities.  The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.The gems that adorn Qiraji idols would work quite well, as their quality is superior.Bring me the ring and idols and I'll create a powerful ring for you,  fellow  druid.",
-    "name": "Band of Unending Life",
-    "requires_level": 60,
-    "zone": "Quests"
-}

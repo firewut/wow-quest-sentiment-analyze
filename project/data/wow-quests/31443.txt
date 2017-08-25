@@ -1,8 +1,0 @@
-{
-    "_id": "31443",
-    "added_in_patch": 5,
-    "description": "You've caught a unique fish... with wings.  Perhaps it deserves the expert opinion of Nat Pagle in Anglers Wharf.\r\n",
-    "name": "Flying Tiger Gourami",
-    "requires_level": 85,
-    "zone": "Fishing"
-}

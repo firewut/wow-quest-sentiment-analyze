@@ -1,8 +1,0 @@
-{
-    "_id": "31715",
-    "added_in_patch": 5,
-    "description": "The leader of the Oona hozen is a brigand by the name of Lord Oona.I have heard fearsome tales of this roaming sea captain and his crew. Everywhere he takes his tribe, destruction follows.The Oona land their boats on fertile soil, pillage the local villages, and drain the land dry before moving on to their next conquest.We shall not allow the same to occur on our shores, not while I am still in charge.I need someone to go eradicate him now.",
-    "name": "The Big Kah-Oona",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

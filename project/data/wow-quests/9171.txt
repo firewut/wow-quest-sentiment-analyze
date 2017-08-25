@@ -1,7 +1,0 @@
-{
-    "_id": "9171",
-    "description": "This is intolerable!  I have nothing to work with here! Milady asks me to come from Silvermoon City; she deserves cuisine as befits her station.  No?  But I get here and there is no food.  You must go out, <class>, and bring back fresh kills so that I have something to prepare.Dame Auriferous prefers a crunchy texture to her food.  There are plenty of spindleweb lurkers to the southwest on the other side of the Dead Scar.  Disgusting, I know, but that's what we have to work with.",
-    "name": "Culinary Crunch",
-    "requires_level": 12,
-    "zone": "Ghostlands"
-}

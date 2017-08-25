@@ -1,7 +1,0 @@
-{
-    "_id": "27586",
-    "description": "I salvaged these mortars from the wreck of our airship when she detonated above Dragonmaw Port. But ammunition is in short supply!While you're running along the beach, do me a favor and pick up any unexploded mortar shells you find.Unexploded shells are the best kind - you never know WHEN they're going to go off. Perfect for surprising an enemy! ",
-    "name": "Shells on the Sea Shore",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

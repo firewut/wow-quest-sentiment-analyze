@@ -1,7 +1,0 @@
-{
-    "_id": "25809",
-    "description": "Horde monsters!<Corporal Wocard spits.>Look at this place! They've wiped out innocents! Civilians!Listen, <name>, you've got to help us. Go into the Deep Reaches and look for surviving miners. If any are still alive they're probably scared witless! Check in the nooks and crannies of the mine. Maybe in mine carts! There are bound to be some left alive and in hiding.",
-    "name": "Leave No Man Behind!",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

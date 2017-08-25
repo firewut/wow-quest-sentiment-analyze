@@ -1,8 +1,0 @@
-{
-    "_id": "28266",
-    "description": "I suppose I'll make the most of this situation.  These goblin mercenaries brought this enormous fire elemental to my stronghold as a \"thank you\" for hiring them.  What am I going to do with an elemental here in the steppes?  That's like bringing sand to the beach.If you're looking for work, then prove yourself.  Talk to this goblin here, and challenge his elemental to a fight.  The victor earns my respect, and my time.",
-    "name": "Trial by Magma",
-    "requires_level": 49,
-    "side": "alliance",
-    "zone": "Burning Steppes"
-}

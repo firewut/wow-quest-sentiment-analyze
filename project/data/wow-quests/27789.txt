@@ -1,7 +1,0 @@
-{
-    "_id": "27789",
-    "description": "I'll need some time to analyze these samples, as well as a break from this trogg-shooting duty.  Go man one of my turrets and take out as many troggs as you can.  I'll be here studying.The turrets have two abilities: a regular shot, as well as an electrical overload, for when too many enemies get close!  Heh, heh.  Good luck.Oh, and look out for the big, slow troggs.  You probably don't want to let them anywhere near you.",
-    "name": "Troggish Troubles",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

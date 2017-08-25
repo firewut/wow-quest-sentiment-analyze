@@ -1,7 +1,0 @@
-{
-    "_id": "319",
-    "description": "I have a cask of Evershine handy, but...can you do me a favor?  Brewnall village could use a hand against the wild animals that wander the nearby snows.  Sometimes they wander close.We're not afraid of these bears and cats and boars - no self respecting dwarf would be - but if you can take care of those animals for us, then we'd have more time for our crafting and brewing.",
-    "name": "A Favor for Evershine",
-    "requires_level": 2,
-    "zone": "Dun Morogh"
-}

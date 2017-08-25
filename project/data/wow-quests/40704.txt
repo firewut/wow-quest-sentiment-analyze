@@ -1,8 +1,0 @@
-{
-    "_id": "40704",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Li Li Stormstout",
-    "requires_level": 101,
-    "zone": "Monk Campaign"
-}

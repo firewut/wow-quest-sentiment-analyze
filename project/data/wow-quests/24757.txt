@@ -1,7 +1,0 @@
-{
-    "_id": "24757",
-    "description": "Shadow's Edge is prepared to receive its final infusion of power.Sindragosa, the enemy's own mount, must fall. But before she is brought down, you must sustain four of her frozen breath attacks without tasting death.Without his dragon, nothing shall stand between you and the Lich King.",
-    "name": "Frost Infusion",
-    "requires_level": 80,
-    "zone": "Quests"
-}

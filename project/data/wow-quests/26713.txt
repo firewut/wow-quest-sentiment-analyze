@@ -1,7 +1,0 @@
-{
-    "_id": "26713",
-    "description": "Only the Blackrock high command remains, <name>. They're all holed up in Stonewatch Keep, directly south of our position here at Keeshan's Post. I want you and the rest of Bravo Company to enter Stonewatch and put an end to the Blackrock orc invasion.<name>, no survivors.",
-    "name": "Showdown at Stonewatch",
-    "requires_level": 17,
-    "zone": "Redridge Mountains"
-}

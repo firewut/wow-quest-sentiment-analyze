@@ -1,7 +1,0 @@
-{
-    "_id": "28328",
-    "description": "The influence of Twilight's Hammer reaches far and wide. They search ceaselessly for allies in their battle against us and they are recruiting the Dark Iron dwarves of Blackrock Depths to their cause.Moira's grip on the Dark Irons is tenuous at best and more of her people fall away from her rule with each day. We must sabotage their recruitment efforts.I want you to go into Domicile portion of Blackrock Depths and use this torch to burn the books that the Twilight's Hammer is distributing there.",
-    "name": "Twilight Scheming",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32401",
-    "added_in_patch": 5.1,
-    "description": "Garrosh is right over there, and he's going to ring that bell at any moment.We don't have time to wait for my father's army. This is our only chance to stop him!I'll attempt to appeal to his senses before resorting to using the Harmonic Mallet.Charge in whenever you're ready, <name>. I'll be right behind you.",
-    "name": "Breath of Darkest Shadow",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

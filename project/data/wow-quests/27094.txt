@@ -1,7 +1,0 @@
-{
-    "_id": "27094",
-    "description": "The Skitterweb matriarch is nearby! You can put an end to the Skitterweb menace by killing her!Find the brood mother at the end of the cave in the Skittering Dark and destroy her!",
-    "name": "Deeper into Darkness",
-    "requires_level": 10,
-    "zone": "Silverpine Forest"
-}

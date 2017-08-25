@@ -1,7 +1,0 @@
-{
-    "_id": "11632",
-    "description": "You hold the carapace fragment of Ith'rix the Harvester and realize that this is only the beginning. Even now you sense that victory is fleeting. Surely the Lich King has a thousand more beasts like Ith'rix, waiting to be unleashed upon the Horde.Take your trophy and present it to High Overlord Saurfang, inside Warsong Hold. He should be notified of your victory over a powerful Scourge agent.",
-    "name": "What the Cold Wind Brings...",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

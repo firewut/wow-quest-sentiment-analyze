@@ -1,8 +1,0 @@
-{
-    "_id": "43897",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Sealing Fate: Immense Fortune of Gold",
-    "requires_level": 110,
-    "zone": "The Violet Hold"
-}

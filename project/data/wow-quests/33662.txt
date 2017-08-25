@@ -1,9 +1,0 @@
-{
-    "_id": "33662",
-    "added_in_patch": 6,
-    "description": "After the saberon stole from these plants, they were forced further up Steamscar Rise and barricaded themselves in. I could not find a way to get in but you have the solution.One path is blocked by a boulder, but it looks weak. A strong warrior, such as an ogre, could break it.I think you know an ogre gladiator...",
-    "name": "Beatface vs. Boulder",
-    "requires_level": 93,
-    "side": "horde",
-    "zone": "Cragplume Cauldron"
-}

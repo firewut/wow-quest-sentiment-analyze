@@ -1,8 +1,0 @@
-{
-    "_id": "42064",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "It's Illid... Wait.",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

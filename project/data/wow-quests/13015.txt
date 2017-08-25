@@ -1,7 +1,0 @@
-{
-    "_id": "13015",
-    "description": "",
-    "name": "Fargal the Elder",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31517",
-    "added_in_patch": 5,
-    "description": "We honor strength here, not brutality. It is unfortunate but there are some who come to my doorstep oblivious to this distinction.I have turned away one such challenger. In retaliation, he sacked the village of Yinying.Go to Yinying Village southeast of the temple, and face this \"Shonuf.\" Give him a lesson in true strength.",
-    "name": "Contending With Bullies",
-    "requires_level": 90,
-    "zone": "Kun-Lai Summit"
-}

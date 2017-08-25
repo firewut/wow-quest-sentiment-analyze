@@ -1,7 +1,0 @@
-{
-    "_id": "11696",
-    "description": "<name>, your presence is a blessing.  Ahune lies within these caverns, gathering strength for his assault.  Earthen Ring forces were sent ahead, but they alone cannot defeat him.Explore, <name>.  Find our Earthen Ring Shamans and speak with their leader, Luma Skymother.  Perhaps, with your added strength, we can beat Ahune before it's too late.",
-    "name": "Ahune is Here!",
-    "requires_level": 65,
-    "zone": "Quests"
-}

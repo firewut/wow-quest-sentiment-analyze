@@ -1,8 +1,0 @@
-{
-    "_id": "26735",
-    "description": "Hello, <class>.We are soldiers of Stormwind, and rebels from Kurzen's Compound, a large outpost that you'll find just to the southeast of here.  We were under the command of Colonel Kurzen, until he and those close to him started to descend into madness...We rebelled, set up camp here, and stood against Kurzen.  Now, my sources are telling me Kurzen has disappeared.  I trust my source, but it would help to hear from a third party.  Please, head into the compound and find some documentation of his fate.",
-    "name": "The Fate of Kurzen",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

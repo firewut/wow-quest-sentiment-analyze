@@ -1,7 +1,0 @@
-{
-    "_id": "27373",
-    "description": "Now that the boys are back, we can head out.  You headed east?Please, join us!  I insist!  Yesterday, we were in the Menders' Stead, and I was telling Tarenar, \"We have two paladins and a shopkeeper, but you know what we really need?  A <class>!\"Don't look at me that way!  I'm serious!  Come on, hop in the cart.",
-    "name": "Onward, to Light's Hope Chapel",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

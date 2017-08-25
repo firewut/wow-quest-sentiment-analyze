@@ -1,8 +1,0 @@
-{
-    "_id": "38402",
-    "description": "I'm beginning to suspect these here coins are demonic. See? This one's got three eyes! This one always comes up tails. And over here - the ones you brought me earlier? They dissolved in holy water.I need to make absolutely sure this isn't a fluke - bring me a huge pile of coins to sort through so nobody can refute m'theory.",
-    "name": "The Same, But Different",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Ironforge"
-}

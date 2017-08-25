@@ -1,8 +1,0 @@
-{
-    "_id": "26341",
-    "description": "I've scouted all over these highlands, <name>, and there's one thing I've found I haven't been able to explain.To the northeast of here, there's a circle of stones, like the others you'll find everywhere in Arathi... but the largest and most imposing of them, built into the mountainside itself.Just between you and me, I heard voices while I was there. Whispers of the earth. If you're the curious type, you could go see for yourself...",
-    "name": "The Stone Shards",
-    "requires_level": 27,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

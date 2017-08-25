@@ -1,7 +1,0 @@
-{
-    "_id": "8184",
-    "description": "",
-    "name": "Presence of Might",
-    "requires_level": 58,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27855",
-    "description": "The Alliance has brought in their mages to summon more reinforcements directly to the battlefield from beyond their fortress. This must be stopped!Their numbers are few, but a single portal can turn the tide of battle. Attack their mages and shut off those portals!",
-    "name": "Reinforcements Denied",
-    "requires_level": 52,
-    "zone": "Swamp of Sorrows"
-}

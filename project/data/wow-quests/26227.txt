@@ -1,8 +1,0 @@
-{
-    "_id": "26227",
-    "description": "Sometimes the troops want something sweet to eat.  I don't always give them what they want but this time, I am going to make an exception.  I am sure you have seen the local cactus that grows here in Orgrimmar.  These cactus produce a tasty treat called prickly pear fruit.  The trouble is the fruit are covered in spines!  Watch your hands and bring me back a handful of that fruit.",
-    "name": "Careful, This Fruit Bites Back",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

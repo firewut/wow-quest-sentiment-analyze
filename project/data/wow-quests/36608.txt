@@ -1,8 +1,0 @@
-{
-    "_id": "36608",
-    "added_in_patch": 6,
-    "description": "Now that you have proof, we might just have a shot at convincing Nat Pagle to join us out here.\r\n\r\nLast I heard, he was in fishing with the local Angler's faction out in Pandaria.  Somewhere off the coast of  Krasarang Wilds.  Head out there, show him your catch and see if you can get him to come back with you!",
-    "name": "Finding Nat Pagle",
-    "requires_level": 94,
-    "zone": "Fishing"
-}

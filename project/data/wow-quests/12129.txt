@@ -1,7 +1,0 @@
-{
-    "_id": "12129",
-    "description": "The iron dwarves are making no secret of the fact that they're preparing for war. With their giants, golems, and lightning elementals, they'd have a technological advantage against the Westfall Brigade. If they don't find passage north in time, the irons could take them by surprise.We've got to tie them up here, and I've got just the way to do it. Dun Argol is full of rune-smiths churning out war golems. They carry plans for specific pieces, so you'll need to find and assemble all the parts.",
-    "name": "The Perfect Plan",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42890",
-    "added_in_patch": 7,
-    "description": "Boros is in serious trouble.The fel lord, Jarvox, guards the pit to the west. Boros is trapped in there, too.We need to defeat Jarvox, take the Codex of Command that he carries, and rescue Vindicator Boros.I am with you, Highlord!",
-    "name": "The Codex of Command",
-    "requires_level": 103,
-    "zone": "Paladin Campaign"
-}

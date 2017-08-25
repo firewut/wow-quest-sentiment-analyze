@@ -1,9 +1,0 @@
-{
-    "_id": "36182",
-    "added_in_patch": 6,
-    "description": "Commander, the goblins have brought you a present. They call it the Tree Murderer 9000.What's it do? I reckon it murders trees - but more importantly it will allow for the harvesting of large timber. Do you know how much timber a large tree holds? Me neither, but I bet it's a lot!There's a large piece of timber ready to be murdered nearby. Why don't you give the contraption a test run? Bring me back whatever it harvests and I'll put it to good use.",
-    "name": "Tree-i-cide",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

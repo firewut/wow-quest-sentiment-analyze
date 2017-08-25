@@ -1,8 +1,0 @@
-{
-    "_id": "40002",
-    "added_in_patch": 7,
-    "description": "We had come to defend the Halls of Valor... I was taken from the sky...\r\n\r\nI cannot break free of my bindings. Find the jailer who made this cell...\r\n\r\nSet me free, friend...",
-    "name": "A Familiar Fate",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

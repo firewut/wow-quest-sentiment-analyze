@@ -1,8 +1,0 @@
-{
-    "_id": "38531",
-    "added_in_patch": 7,
-    "description": "Smiths that seek access to the Firmament Stone must first prove complete mastery over leystone.Craft an entire set of Leystone Armor, then submit it to me for inspection. Thala can provide you with an armor stand.",
-    "name": "Leystone Mastery",
-    "requires_level": 110,
-    "zone": "Blacksmithing"
-}

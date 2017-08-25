@@ -1,8 +1,0 @@
-{
-    "_id": "43335",
-    "added_in_patch": 7,
-    "description": "The life of a hunter should never be dull. Living in the wild you never know what will happen next, but you survive on skill and instinct.Show me you have the basic survival skills to live off the land.",
-    "name": "Survival Skills",
-    "requires_level": 103,
-    "zone": "Hunter Campaign"
-}

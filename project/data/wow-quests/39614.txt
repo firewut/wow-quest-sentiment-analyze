@@ -1,8 +1,0 @@
-{
-    "_id": "39614",
-    "added_in_patch": 7,
-    "description": "The drogbar are on a rampage! They're smashing everything they can find and are throwing fish to the shore.\r\n\r\nWorst of all, it is the wrong time to harvest fish. They must be returned to the waters so they can breed.",
-    "name": "Fish Out of Water",
-    "requires_level": 98,
-    "zone": "Quests"
-}

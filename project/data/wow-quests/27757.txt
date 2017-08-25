@@ -1,7 +1,0 @@
-{
-    "_id": "27757",
-    "description": "I've been seeing sea creatures acting oddly through the whole swamp. The murlocs, yes, but before that the gilblins, and the makrura... I even saw some naga wander ashore the other day.Something's calling them here, and working them into a frenzy to boot. Many of the creatures have been drawn to Stagalbog Cavern to the west. Something's down there, and if it gets any stronger we'll all start wandering in there too...You should put a stop to whatever it is before that happens.",
-    "name": "The Darkest Depths",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

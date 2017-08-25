@@ -1,8 +1,0 @@
-{
-    "_id": "25098",
-    "description": "True to his word, Thrall is going to get us going in the right direction to rescue our people. He asked to speak with you.Good luck, <name>. We're all depending on you.",
-    "name": "The Warchief Wants You",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

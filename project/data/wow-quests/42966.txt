@@ -1,8 +1,0 @@
-{
-    "_id": "42966",
-    "added_in_patch": 7,
-    "description": "Good decision, Highlord. We should be bolstering our forces by increasing recruitment efforts. Let us send our champions to carry out these orders.",
-    "name": "The Highlord's Command",
-    "requires_level": 101,
-    "zone": "Paladin Campaign"
-}

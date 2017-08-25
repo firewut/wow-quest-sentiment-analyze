@@ -1,7 +1,0 @@
-{
-    "_id": "12709",
-    "description": "Pardon me, <name>. I'm given to understand that you might be heading northeast up to the Zol'Maz Stronghold. Such a trip presents a great opportunity for us to conclude our Drakkari goods gathering.As I have come to know, the Drakkari warlord is extremely paranoid. He's had all of his caches at the stronghold hexed with dire magic. Rumor has it that his tiki warriors carry the cure, but who can say?If you could find the time to acquire some of those goods, I would be most appreciative.",
-    "name": "Hexed Caches",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

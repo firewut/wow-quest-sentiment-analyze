@@ -1,8 +1,0 @@
-{
-    "_id": "10058",
-    "description": "<The priest's gaze slowly moves from his mug to you.>Don't you know better than to bother a man in his cups?Oh, what's the use? I suppose newcomers are a good sign. What would Turalyon think?I remember the eve of our departure, when I gave Mysteries of the Light to him. During the campaign and the ensuing years, he never forgot to read his daily passage to the men.When he left us again, he gave the book back to me. Like a fool, I believed it safe in my quarters to the south of the armory.",
-    "name": "An Old Gift",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30710",
-    "added_in_patch": 5,
-    "description": "We've managed to push them back this far, but I doubt that we will remain safe for long if we do not deal with them once and for all.\r\n\r\nMy husband, coward or fool that he is, does not wish to provoke them. I will not be cowed so.\r\n\r\nWe will do just that. Slay their forward scouts. Perhaps we can provoke - and then defeat - their leader.",
-    "name": "Provoking the Trolls",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

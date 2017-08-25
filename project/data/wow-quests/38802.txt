@@ -1,8 +1,0 @@
-{
-    "_id": "38802",
-    "added_in_patch": 7,
-    "description": "What at first looked like another chunk of felslate is, in fact, a humanoid heart, encrusted in rock and filled not with blood but a vile, demonic substance.It does not appear to belong to the beast you carved it out of... it seems that the infernal was holding it like a keepsake. Luckily your mining pick didn't hit it straight on.Felsmith Nal'ryssa will want to see this.",
-    "name": "Ondri's Still-Beating Heart",
-    "requires_level": 98,
-    "zone": "Mining"
-}

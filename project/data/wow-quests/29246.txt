@@ -1,7 +1,0 @@
-{
-    "_id": "29246",
-    "description": "The Arch Druid has an immense tolerance for pain. I've treated burn victims that spend twenty-two hours a day screaming in pain, and their burns weren't even half as bad as what Hamuul has suffered.Nevertheless, I can sense that he is in greater discomfort than normal today. Bring me the hearts of the large fire elementals to the southeast. I can use them to prepare a soothing salve for our patient.",
-    "name": "Relieving the Pain",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

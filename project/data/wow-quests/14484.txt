@@ -1,7 +1,0 @@
-{
-    "_id": "14484",
-    "description": "They taught us at officers camp to always cut off the head of the snake. Seemed dumb considering we never fought any snakes, but I guess it kind of makes sense now.Take your men in there and kill Lord Kassarus.",
-    "name": "Head of the Snake",
-    "requires_level": 12,
-    "zone": "Azshara"
-}

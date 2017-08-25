@@ -1,7 +1,0 @@
-{
-    "_id": "26534",
-    "description": "Visitors to Hardwrench Hideaway sign a number of waivers upon arrival, one of which allows us to perform basic tests on them.  I'd say it's about time we invoked that clause again.Actually, let's avoid poisoning our customers this time.  Better for business.<Jasper fills a pitcher with Zanzil's Mixture and some crushed ice.>The Hideaway's southeastern tower serves as a temporary jail.  \"Hardwrench Hoosegow,\" we call it.  Anyways, give the prisoners a drink and tell me what happens.",
-    "name": "Let's See What You've Got, Zanzil",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

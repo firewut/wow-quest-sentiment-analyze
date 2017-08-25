@@ -1,7 +1,0 @@
-{
-    "_id": "12542",
-    "description": "<Class>! The Argent Crusade is looking for able bodied soldiers that are willing to set aside their differences and join forces to battle the forces of the Lich King. Will you take up our cause?Should you be interested, venture north to Light's Trust and speak with Crusader Valus.You will find Light's Trust amidst the ruins of the sacked troll city of Jintha'kalar - bordering Zul'Drak.Farewell. ",
-    "name": "The Call Of The Crusade",
-    "requires_level": 74,
-    "zone": "Dragonblight"
-}

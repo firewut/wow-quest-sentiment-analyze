@@ -1,8 +1,0 @@
-{
-    "_id": "34666",
-    "added_in_patch": 6,
-    "description": "The final match is at hand, <name>! You've decimated all of the best challengers! There's nowhere to go from here but the very top...the reigning champion of the Ring of Trials!The current champ is an arakkoa named Roakk the Zealot. Roakk is a lunatic! He says he's on some divine crusade for the sun or something.Crazy or not, he's one of the most dangerous fighters I've ever seen and has even fought in the Highmaul Coliseum!I'm not going to lie, you're probably going to die in there...good luck!",
-    "name": "Ring of Trials: Roakk the Zealot",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

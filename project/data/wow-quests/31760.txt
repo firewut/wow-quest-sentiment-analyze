@@ -1,8 +1,0 @@
-{
-    "_id": "31760",
-    "added_in_patch": 5,
-    "description": "The mogu are empowering some giant stone monstrosity up on the Golden Stair, with the sure intent of unleashing it upon us.How about you go and let them know our opinion on the matter? Make sure the point strikes home.",
-    "name": "Striking First",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

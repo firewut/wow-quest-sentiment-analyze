@@ -1,8 +1,0 @@
-{
-    "_id": "30006",
-    "added_in_patch": 5,
-    "description": "Despite our best efforts, the sha broke the seals around the main temple.If we cannot hold them back here, their darkness will spread to the rest of the Jade Forest.We need your help immediately. Kill any sha creatures that you see. They should not be difficult to find.",
-    "name": "The Darkness Around Us",
-    "requires_level": 90,
-    "zone": "Jade Temple Grounds"
-}

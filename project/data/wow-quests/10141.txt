@@ -1,8 +1,0 @@
-{
-    "_id": "10141",
-    "description": "While the Burning Legion invaded Azeroth, they were also at work here, in Outland.  We have tracked their movements over the years, but this latest activity, <class> - well, this is beyond anything we've seen.Seek out Sergeant Altumus near the eastern supply caravan. She has been monitoring the invaders and may have insights into their purpose.Be swift - and take care, <name> - the Burning Legion is not to be underestimated.",
-    "name": "The Legion Reborn",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41327",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Supplies Needed: Stormscales",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

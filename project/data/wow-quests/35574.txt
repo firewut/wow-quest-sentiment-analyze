@@ -1,8 +1,0 @@
-{
-    "_id": "35574",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Stratholme - Service Entrance Reward Quest",
-    "requires_level": 46,
-    "zone": "Quests"
-}

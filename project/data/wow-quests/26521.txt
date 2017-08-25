@@ -1,8 +1,0 @@
-{
-    "_id": "26521",
-    "description": "The Vilebranch have hung their tiki masks all across the walls of Jintha'Alor. We won't tolerate their foul hexes and dark magic.It's time to send a message, and tear down their defenses, all at once! Take this torch, <class>. Set fire to their tiki masks and watch 'em burn. They'll know the Wildhammer want them gone when they see their dark idols consumed!",
-    "name": "Faces of Evil",
-    "requires_level": 30,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

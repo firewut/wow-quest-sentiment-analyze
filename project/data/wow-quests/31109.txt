@@ -1,8 +1,0 @@
-{
-    "_id": "31109",
-    "added_in_patch": 5,
-    "description": "The Empress continues to amass her forces. Without intervention, they WILL overrun that wall - even if it means smothering it in the corpses of a million swarmborn.Let us find a better place for those corpses.Let me know when you are ready to depart for the clutches - I will gladly drop you in from above.",
-    "name": "Culling the Swarm",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

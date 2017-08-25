@@ -1,8 +1,0 @@
-{
-    "_id": "37466",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "The Broken Academy",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

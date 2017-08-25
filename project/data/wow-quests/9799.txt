@@ -1,7 +1,0 @@
-{
-    "_id": "9799",
-    "description": "The Ammen Fields to the west are the primary breeding ground of the local lasher population. With the corruption of the water table from the nearby lake, Botanist Taerix is worried that the lashers will not be able to repopulate themselves once we've cleansed the lake.Go to the Ammen Fields and pick some of the corrupted flowers for me so that I might take a look at them and see what can be done. You should be able to identify them by their uncharacteristic red petals.",
-    "name": "Botanical Legwork",
-    "requires_level": 1,
-    "zone": "Ammen Vale"
-}

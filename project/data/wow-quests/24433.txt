@@ -1,7 +1,0 @@
-{
-    "_id": "24433",
-    "description": "Our grunts are strong but have no initiative. They're fighting toe-to-toe on the front lines. But an independent <class> like yourself - well, someone like you can slip behind the lines and cause some real havoc deep within the enemy redoubt.Cut a swath of destruction through the heart of Talrendis, <name>! Slay our foes in territory they think is secure, leaving blood and fear in your wake.",
-    "name": "Let Them Feast on Fear",
-    "requires_level": 18,
-    "zone": "Azshara"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8377",
-    "description": "",
-    "name": "Armaments of War",
-    "requires_level": 54,
-    "zone": "Silithus"
-}

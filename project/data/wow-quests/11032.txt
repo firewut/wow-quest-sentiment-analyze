@@ -1,7 +1,0 @@
-{
-    "_id": "11032",
-    "description": "",
-    "name": "Protector No More",
-    "requires_level": 70,
-    "zone": "Karazhan"
-}

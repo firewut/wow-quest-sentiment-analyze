@@ -1,7 +1,0 @@
-{
-    "_id": "27765",
-    "description": "I am experimenting with black dragons.  Specifically, I am interested in how they procreate.My current experiments require plenty of black dragon eggs, which is why I am here in Lethlor Ravine.  I'd gather the eggs myself, but I think you'll benefit from helping me out.You will find them along the edges of the ravine.  Beware the guardians that circle above - they do not appreciate stolen eggs.",
-    "name": "First Sample: Wild Eggs",
-    "requires_level": 44,
-    "zone": "Badlands"
-}

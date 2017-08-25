@@ -1,8 +1,0 @@
-{
-    "_id": "43752",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Oh, Ship!",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

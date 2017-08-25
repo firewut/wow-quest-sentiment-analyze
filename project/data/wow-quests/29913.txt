@@ -1,8 +1,0 @@
-{
-    "_id": "29913",
-    "added_in_patch": 5,
-    "description": "I told you earlier, my pigs are picky eaters. They need to eat meat to grow strong, but they don't like mutton, they don't like yak, and I'm not about to feed them any pig meat.They do, however, eat meat off of the mushan beasts, and they're also quite partial to turtle. Both creatures can be found in abundance to the west.My skills as a hunter are admittedly quite weak. Can you help out a young rancher and his pigs?",
-    "name": "The Meat They'll Eat",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

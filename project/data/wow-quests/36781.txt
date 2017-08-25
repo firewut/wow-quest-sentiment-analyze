@@ -1,8 +1,0 @@
-{
-    "_id": "36781",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking: Arena Treasure 20",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

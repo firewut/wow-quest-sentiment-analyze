@@ -1,7 +1,0 @@
-{
-    "_id": "26444",
-    "description": "I will not tolerate their existence on this world! The Burning Legion all but destroyed our race and we fell back to settle a new home on a new world. Then they came again and we retreated, over and over.No more!There is a remnant of the Legion to the south and west in the regions known as Felfire Hill, Demon Fall Canyon and Demon Fall Ridge. They are what is leftover from a force that once long ago invaded this world.Go and destroy as many as you can before it is too late!",
-    "name": "Destroy the Legion",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

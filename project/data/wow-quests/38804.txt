@@ -1,8 +1,0 @@
-{
-    "_id": "38804",
-    "added_in_patch": 7,
-    "description": "Look at you, miner. Still held back by the limitations of your fragile, decaying flesh.To truly become one with the demon-tinged rocks of these lands, you must shed your skin and submit to a darker power.Join us, miner. Bring your feeble body to Felsoul Hold, and speak my name:Lyrelle.",
-    "name": "Lyrelle",
-    "requires_level": 98,
-    "zone": "Mining"
-}

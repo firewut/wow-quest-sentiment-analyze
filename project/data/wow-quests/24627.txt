@@ -1,8 +1,0 @@
-{
-    "_id": "24627",
-    "description": "The night elves have taught us much during this time, <name>.  They've taught us who we are and where we come from.Thanks to them... thanks to this place... we're no longer mere beasts.  We have regained free will.The Forsaken aren't here for our land alone.They're looking for something we possess.  An artifact capable of uncontrollably spreading the Curse to all humanity.  We cannot let them find it.Sylvanas's banshees have come very close.  Help my trackers take them out.",
-    "name": "At Our Doorstep",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

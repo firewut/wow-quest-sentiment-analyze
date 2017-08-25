@@ -1,7 +1,0 @@
-{
-    "_id": "11033",
-    "description": "",
-    "name": "Assassin No More",
-    "requires_level": 70,
-    "zone": "Karazhan"
-}

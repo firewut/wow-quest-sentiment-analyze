@@ -1,7 +1,0 @@
-{
-    "_id": "12618",
-    "description": "",
-    "name": "Blessing of Zim'Torga",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

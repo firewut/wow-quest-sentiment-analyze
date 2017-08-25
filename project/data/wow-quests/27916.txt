@@ -1,7 +1,0 @@
-{
-    "_id": "27916",
-    "description": "Here is Ruag's report, <name>. Let him know his scout is still here.",
-    "name": "Ruag's Report",
-    "requires_level": 53,
-    "zone": "Swamp of Sorrows"
-}

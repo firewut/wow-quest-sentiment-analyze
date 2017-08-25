@@ -1,8 +1,0 @@
-{
-    "_id": "33926",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Lagoon Pool",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

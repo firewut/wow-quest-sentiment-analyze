@@ -1,7 +1,0 @@
-{
-    "_id": "30038",
-    "added_in_patch": 5,
-    "description": "First, you will need a weapon suited to your talents. Retrieve a sword from one of the weapon racks below, bring it to me, and show me that you know how to hold it properly.",
-    "name": "The Lesson of the Iron Bough",
-    "zone": "The Wandering Isle"
-}

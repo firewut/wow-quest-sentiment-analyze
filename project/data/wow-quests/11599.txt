@@ -1,8 +1,0 @@
-{
-    "_id": "11599",
-    "description": "I recently received word from William Allerton, a family friend, that my brother enlisted here in Valiance Keep on the same day he did.  Thing is... my brother's been dead for years.I sold everything I owned to come looking for Thassarian, only to be stonewalled by the local bureaucracy.  I've even been threatened with arrest if I keep snooping around.I need someone in the good graces of the higher-ups... someone like you.  If you can help me, I heard that William's stationed at the Farshire mine.",
-    "name": "Thassarian, My Brother",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

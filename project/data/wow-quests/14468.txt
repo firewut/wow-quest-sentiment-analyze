@@ -1,8 +1,0 @@
-{
-    "_id": "14468",
-    "description": "Oh have I got a deal for you! Immerse yourself in foreign cultures, go on epic adventures, blow things up, and get paid to do it! Sound too good to be true? Well it's not - this is what we do!If you're interested, head over to Gallywix Defense Post on Forlorn Ridge to the north and look for Commander Molotov.",
-    "name": "Another Warm Body",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Azshara"
-}

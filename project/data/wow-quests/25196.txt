@@ -1,8 +1,0 @@
-{
-    "_id": "25196",
-    "description": "You should head north from here, <name>.  Speak with Gor the Enforcer at the Dranosh'ar Blockade.  He's been placed in charge of securing shipping lanes for Orgrimmar, and Skull Rock sits right next to his precious dock.  I'm certain he'll be interested in picking up where we left off.",
-    "name": "The Dranosh'ar Blockade",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Durotar"
-}

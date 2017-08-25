@@ -1,9 +1,0 @@
-{
-    "_id": "34632",
-    "added_in_patch": 6,
-    "description": "Your Arcane Sanctum is coming along nicely, commander.Everything's built to spec... except for one detail Gazlowe scrawled in at the bottom of the blueprint. \"Don't forget to connect the sanctum to the ley line network!\"I, uh... I have no idea how to do that.I'm sorry commander, but magic just isn't my thing. We did spot Archmage Khadgar and some Kirin Tor not far from here. To the east, up near the mountains.Maybe we should ask them for help?",
-    "name": "An Audience With The Archmage",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

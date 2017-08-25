@@ -1,7 +1,0 @@
-{
-    "_id": "25500",
-    "description": "Here we go.  This is the speech, <name>!It has everything to be a great battle starter: It's inspirational, has eloquent language and speaks directly to gnomes.  Never has a finer speech been written!Turn this in to Captain Tread Sparknozzle and see if there's anything else he needs of you.",
-    "name": "Words for Delivery",
-    "requires_level": 1,
-    "zone": "Dun Morogh"
-}

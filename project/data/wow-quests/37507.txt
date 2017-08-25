@@ -1,8 +1,0 @@
-{
-    "_id": "37507",
-    "added_in_patch": 7,
-    "description": "Great, let's get started! If we're going to break everyone out of here, you need to pose as a pit fighter like the rest of us. They won't just let you run around anywhere you want in here.\r\n\r\nFirst thing you need to do is present yourself to Boss Whalebelly. The giants may run this place, but as far as posing as one of us, Whalebelly's in charge.\r\n\r\nHe's speaking with his goons just to the south.",
-    "name": "Boss Whalebelly's in Charge",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

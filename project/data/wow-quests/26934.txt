@@ -1,7 +1,0 @@
-{
-    "_id": "26934",
-    "description": "I need plagued grass for an... an experiment, of sorts.  Those Argent Crusaders and those infernal Cenarion druids have done too good a job of healing the plaguelands, however... and I can't find proper reagents within a reasonable walking distance.Some of the local wildlife retain the plague's touch, however.  Kill a diseased black bear, then retrieve the grass that grows where its decaying body lies.  It's not optimal, but it'll do.",
-    "name": "Latent Disease",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

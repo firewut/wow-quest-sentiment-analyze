@@ -1,7 +1,0 @@
-{
-    "_id": "26443",
-    "description": "The demon dropped this parchment, which is amazingly written in the Common tongue!  The ones mentioned in it, Diathorus and Gorgannon, are the two infamous dreadlords that control the demons hereabouts.The plans detail preparations for a demonic attack on Forest Song to the north, the location where a new draenei settlement is being established.Perhaps Vindicator Vedaar at the Warsong Lumber Camp would be interested in these?",
-    "name": "Diabolical Plans",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

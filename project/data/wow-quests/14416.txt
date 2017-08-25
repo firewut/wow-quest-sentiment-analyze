@@ -1,8 +1,0 @@
-{
-    "_id": "14416",
-    "description": "Listen, <name>.  We're not going to make it very far without transportation, are we?If we just hightail it out of here, the forsaken will catch up to us in no time at all.Rounding up some horses from the stable grounds southeast of here would normally be a breeze, but there's one snag.That last quake must've spooked Koroth, the ettin, down from the mountains.  If we don't get our horses soon, I fear that he will.",
-    "name": "The Hungry Ettin",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

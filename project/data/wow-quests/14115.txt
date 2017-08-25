@@ -1,8 +1,0 @@
-{
-    "_id": "14115",
-    "description": "Oh my gosh! Pirates!<name>, there are Southsea pirates crashing your party!You have to get in there and do something about this or your career, and any chance of you being the next Trade  Prince , is going to be ruined!",
-    "name": "Pirate Party Crashers",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

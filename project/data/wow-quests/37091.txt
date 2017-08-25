@@ -1,9 +1,0 @@
-{
-    "_id": "37091",
-    "added_in_patch": 6,
-    "description": "The workshop is bustling with the whir of minds and motors. We're coming up with new inventions all the time.\r\n\r\nTry out today's glorious invention on the workbench behind me.",
-    "name": "Unconventional Inventions",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25799",
-    "description": "I'm not leaving here empty-handed! Are you?I bet you were wondering what's in the giant crate. Well, wait no longer. I want you to take one of our drilling rigs to the oil pools and pump us up some crude.Of course, you should expect the centaurs to attack. Just defend the drill long enough for us to get a barrel or two out of the ground.",
-    "name": "Defend the Drill",
-    "requires_level": 38,
-    "side": "horde",
-    "zone": "Thousand Needles"
-}

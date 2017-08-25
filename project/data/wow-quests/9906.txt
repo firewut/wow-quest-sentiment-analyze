@@ -1,8 +1,0 @@
-{
-    "_id": "9906",
-    "description": "Ogres are moved by one thing: Might. If we expose ourselves to them as being weak, they will take advantage of that weakness and wipe us out.Garrosh might be ready to lie down and let the ogre dogs take our lands but I am not! I need you to deliver a message to the Boulderfist, <name>. The only type of message that they are capable of understanding: Brutality.Travel to the Burning Blade Ruins, southeast of here and show them the might of the Mag'har.And <name>, check in with the others before leaving.",
-    "name": "Message in a Battle",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "33119",
-    "added_in_patch": 6,
-    "description": "We have their citadel, but they still have some of my people enslaved at the Sootstained Mines.We have no one to spare, but you seem more than capable of handling a few ogres on your own.I ask that you release any enslaved Frostwolves you find there, and keep an eye out for Mulverick.",
-    "name": "Slavery and Strife",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

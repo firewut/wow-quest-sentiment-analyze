@@ -1,9 +1,0 @@
-{
-    "_id": "34209",
-    "added_in_patch": 6,
-    "description": "A matter of great importance has arisen. While you were away, Archmage Khadgar contacted me.He is investigating demonic influences to the north.Being a human, the Frostwolves will not accept Khadgar without you there to vouch for him, nor will they accept a night elf such as myself.I will wait for you outside Throm'var in the Frostwind Crag.",
-    "name": "Vouchsafe Our Arrival",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

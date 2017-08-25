@@ -1,8 +1,0 @@
-{
-    "_id": "39744",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Valhallas Reward Quest",
-    "requires_level": 100,
-    "zone": "Quests"
-}

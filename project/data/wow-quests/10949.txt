@@ -1,7 +1,0 @@
-{
-    "_id": "10949",
-    "description": "<A'dal shows you an image of a naaru outside of the Black Temple, fighting alongside draenei vindicators and blood elf magisters.  You immediately understand that this is the distraction Akama is waiting for.>",
-    "name": "Entry Into the Black Temple",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

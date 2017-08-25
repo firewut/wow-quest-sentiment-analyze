@@ -1,7 +1,0 @@
-{
-    "_id": "10790",
-    "description": "You are a long way from home, <race>.  Perhaps it is time you returned to learn from your master, Gan'rul Bloodeye.  His knowledge is known to all of our craft, even those of us here.Gan'rul dwells in the Cleft of Shadow in Orgrimmar.",
-    "name": "Return to Gan'rul Bloodeye",
-    "requires_level": 10,
-    "zone": "Warlock"
-}

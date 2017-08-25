@@ -1,7 +1,0 @@
-{
-    "_id": "27623",
-    "description": "The chest containing the scepter appears to be magically sealed and will not budge.The plaque above it depicts two giant statues holding star and moon-shaped stones sockets at their center.The two statues are pictured guarding pyramids that look like the ones outside.Perhaps it's worth your while to investigate these.",
-    "name": "Colossal Guardians",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

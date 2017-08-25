@@ -1,7 +1,0 @@
-{
-    "_id": "10174",
-    "description": "Now, you will be able to use the archmage's staff to contact him.He resides in the Violet Tower, on an 'island' to the southeast. The tower is both sanctuary and prison to him, cursed as it is. Kirin Tor can neither enter nor leave, keeping me apart from my master.The staff's magic can penetrate the tower's defenses, but only if invoked by one outside the Kirin Tor.Take the archmage's staff and use it to conjure his image. Tell him what has happened and that I have not completely failed him.",
-    "name": "Curse of the Violet Tower",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

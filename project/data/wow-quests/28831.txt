@@ -1,7 +1,0 @@
-{
-    "_id": "28831",
-    "description": "The Frostmaul giants wouldn't have been a problem if it weren't for that damned Frostilicus. When the ground shook and the bridge broke, he and his fellow water elementals seeped out of the earth and took over the bottom of Frostwhisper Gorge, forcing the giants out.Damn you, Frostilicus!You would do me a great honor if you would send him back into the ground, <class>. You will find him to the south, at the bottom of the gorge.",
-    "name": "Damn You, Frostilicus",
-    "requires_level": 53,
-    "zone": "Winterspring"
-}

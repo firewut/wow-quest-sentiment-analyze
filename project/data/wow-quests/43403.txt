@@ -1,8 +1,0 @@
-{
-    "_id": "43403",
-    "added_in_patch": 7,
-    "description": "As druids, our charge is to defend nature... and in turn, our home, Azeroth.Conflict breaks out all across the Broken Isles. The Burning Legion pushes forward, and numerous allies call out for our aid.We must focus our efforts on defense, before we can mount an offense against the Nightmare.Help our allies across the Broken Isles, then return to me when the situation is under control.",
-    "name": "Defending the Isles",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

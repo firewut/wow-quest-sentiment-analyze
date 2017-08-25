@@ -1,8 +1,0 @@
-{
-    "_id": "24534",
-    "description": "The quilboar are attacking because they perceive weakness. Strength is the only language they understand. So we will show them strength.<Makaba withdraws a large horn from his satchel.>This is admittedly crude work but it'll do. Bristleback leaders use horns like these to challenge one another for dominance.<name>, I want you to challenge the Bristleback champion, Sabersnout, to single combat. Defeat him in front of his followers. Blow the horn at the Bristleback challenge ring due south of here.",
-    "name": "Speaking Their Language",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

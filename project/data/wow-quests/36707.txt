@@ -1,9 +1,0 @@
-{
-    "_id": "36707",
-    "added_in_patch": 6,
-    "description": "Lieutenant Kragil said you might be showing up.I've been ordered to take you to the inn.",
-    "name": "Warspear Welcome",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Warspear"
-}

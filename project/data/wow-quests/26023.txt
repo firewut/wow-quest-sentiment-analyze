@@ -1,7 +1,0 @@
-{
-    "_id": "26023",
-    "description": "Let me tell you a story.Once, there was a foolish troll named Zengu. He was tasked to find the sword Trol'kalar, the legendary blade of the human Trollbane line. He succeeded, and thinking his task done, went to leave Arathi by himself. There he was cut down by the humans, and the sword simply reclaimed.We will not be so foolish. Our apothecaries have given us the perfect guide to reobtain Trol'kalar: the prince who once held it.He stands ready to guide you, <name>. Speak with him.",
-    "name": "The Forsaken Trollbane",
-    "requires_level": 25,
-    "zone": "Arathi Highlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "24546",
-    "description": "The Alliance scorches a trail of murder across the Barrens. We must stop them here or there is nothing left for us.Across the Fields of Blood there are a number of strategic hills, marked by wooden towers and neutral gray banners. We must take and hold these hills if we hope to slow the Alliance advance!Look for the towers to the north, east, and south of what's left of Taurajo. Claim a neutral flag and defend the hill against counterattack!",
-    "name": "A Line in the Dirt",
-    "requires_level": 30,
-    "side": "horde",
-    "zone": "Southern Barrens"
-}

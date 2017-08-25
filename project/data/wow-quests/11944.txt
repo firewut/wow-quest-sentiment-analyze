@@ -1,8 +1,0 @@
-{
-    "_id": "11944",
-    "description": "Our situation is nearly hopeless.  We were ordered to take the Wailing Ziggurat with a handful of men.We'll be lucky if we can hold this position against the Scourge.  We're outnumbered, injured and have no escape route.If you can take some of the pressure off of us, we might be able to solidify our position.  Kill some of the undead circling the structure - we'll hold off their advance.",
-    "name": "Surrounded!",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

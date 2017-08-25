@@ -1,8 +1,0 @@
-{
-    "_id": "44179",
-    "added_in_patch": 7,
-    "description": "There is a strange energy in the air.\r\n\r\nI feel as if a force is growing, pressing down on us. It is worrisome.\r\n\r\nValtrois works most closely with the sources of power in this room.\r\n\r\nSpeak to her. Ask if there is anything to be concerned with.",
-    "name": "Treasure",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

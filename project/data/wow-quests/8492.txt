@@ -1,7 +1,0 @@
-{
-    "_id": "8492",
-    "description": "Hey there, <class>, you look fit enough to contribute to the war effort! We need all of the help that we can get here to put together the materiel needed for the Ahn'Qiraj War and it's your lucky day.I'm collecting copper bars in stacks of twenty. It's for a worthy cause, what do you say? Do you think you could help out the Alliance?",
-    "name": "The Alliance Needs Copper Bars!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

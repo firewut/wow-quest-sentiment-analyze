@@ -1,8 +1,0 @@
-{
-    "_id": "41875",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Found First Clue",
-    "requires_level": 98,
-    "zone": "Quests"
-}

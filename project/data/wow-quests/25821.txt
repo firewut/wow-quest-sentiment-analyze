@@ -1,7 +1,0 @@
-{
-    "_id": "25821",
-    "description": "You've done an admirable job down here, <name>. Force Commander Valen has taken notice and requested that you see him immediately. He's got a special mission lined up for you - one that'll hopefully put a cold stop on the Horde's incursion into Stonetalon.",
-    "name": "A Special Kind of Job",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32646",
-    "added_in_patch": 5.2,
-    "description": "Once your witchberries are ready to be picked, you'll need only to package them for pick-up.Just think; your witchberries will be a part of your faction's efforts in Pandaria!",
-    "name": "Work Order: Operation: Shieldwall II",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

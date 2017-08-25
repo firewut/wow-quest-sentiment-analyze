@@ -1,8 +1,0 @@
-{
-    "_id": "12090",
-    "description": "By decree of Overlord Agmar:Target: GigantaurCrime: Attacks upon the Horde; \"Bein' ugly\"Status: AliveThe magnataur lord, Gigantaur, is wanted in relation to a number of attacks against Horde soldiers and installations in the Dragonblight.Gigantaur was last seen wandering the woods and roads south by southeast of Agmar's Hammer.Gigantaur should be considered armed and extremely dangerous.All bounties are paid out by Captain Gort at Agmar's Hammer.",
-    "name": "Wanted: Gigantaur",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

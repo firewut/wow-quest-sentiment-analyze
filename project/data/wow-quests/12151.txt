@@ -1,7 +1,0 @@
-{
-    "_id": "12151",
-    "description": "There's no reason to suspect Dregmar's words are anything but true. Whether Grom'thar defeats you or is defeated by you, he can wash his hands of this.Follow his instructions... take the horn that you brought me earlier, travel to the ring of torches south of the Azure Dragonshrine, and blow it to announce your challenge.When Grom'thar the Thunderbringer arrives, kill him and bring me his head.",
-    "name": "Wanton Warlord",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

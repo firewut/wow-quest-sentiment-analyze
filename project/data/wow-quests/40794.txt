@@ -1,9 +1,0 @@
-{
-    "_id": "40794",
-    "added_in_patch": 7,
-    "description": "<This is the kind of intelligence that should be shared. Perhaps someone at the Greyfang Enclave on Dalaran will know what to do with it.>",
-    "name": "Fate of the Queen's Reprisal",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Azsuna"
-}

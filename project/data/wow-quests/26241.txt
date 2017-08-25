@@ -1,8 +1,0 @@
-{
-    "_id": "26241",
-    "description": "Hello, dear. Welcome to our home. Hmm, you don't look like you're homeless. Have you come to help us? If so, you're just in time! I'm planning dinner for the young ones and need a few simple ingredients.If you could get me some okra, goretusk flanks and stringy fleshripper meat I can make my famous Westfall stew! You'll find all of the ingredients near our farm. Just be careful of the harvest watchers. They are merciless killers.",
-    "name": "Westfall Stew",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Westfall"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12424",
-    "description": "This book is written in the pig-tongue the humans use.  It needs to be burned immediately.Hand it to my sister Gorgonna and do not waste my time.",
-    "name": "Gorgonna",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

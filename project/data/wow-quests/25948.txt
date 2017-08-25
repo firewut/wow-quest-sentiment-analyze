@@ -1,8 +1,0 @@
-{
-    "_id": "25948",
-    "description": "It is time, <class>.We are as ready as we ever will be!I shall address the Vanguard, and then we shall swim into the sea to meet our fate.",
-    "name": "Bring It On!",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

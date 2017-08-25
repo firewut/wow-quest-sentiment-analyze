@@ -1,8 +1,0 @@
-{
-    "_id": "32008",
-    "added_in_patch": 5,
-    "description": "Greetings, <name>! My name is Audrey Burnhep. I've been hearing quite a lot about you recently. You're becoming quite the tamer!You should come speak with me in Stormwind. I have connections with some of the finest tamers in all of Azeroth, and I can help you grow even more!",
-    "name": "Audrey Burnhep",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

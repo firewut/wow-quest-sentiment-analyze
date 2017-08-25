@@ -1,7 +1,0 @@
-{
-    "_id": "12809",
-    "description": "Our prayers have been answered!  Using the concentration of Light from the Naaru of Shattrath, and the shared benedictions from the faithful, we have created holy artifacts of profound power.  These artifacts will be our weapon against the Lich King's machinations.Take this, <name>.  Guard it close, and secure its passage to Ironforge.  High Tinker Mekkatorque in Tinkertown will be eager to make use of the artifact's power.",
-    "name": "Ironforge",
-    "requires_level": 65,
-    "zone": "Quests"
-}

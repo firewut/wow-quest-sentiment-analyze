@@ -1,7 +1,0 @@
-{
-    "_id": "25665",
-    "description": "<You can't make sense of the spirit's urgent plea, but maybe Choluna can decipher what's going on here.><Speak with Choluna back inside the shrine!>",
-    "name": "A Plea From Beyond",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

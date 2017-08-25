@@ -1,7 +1,0 @@
-{
-    "_id": "13509",
-    "description": "The trolls are building their forces and supplies at the war camp to the north. When they feel they are ready, they will almost certainly launch their attack on Lor'danel from that location. It shouldn't take us long to rout this rabble, but I'm not one for taking unnecessary risks.I want you to fight your way into the war camp and set fire to any stockpiles of supplies that you see. The setback should buy us quite a bit of time before they can muster a counterattack.",
-    "name": "War Supplies",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

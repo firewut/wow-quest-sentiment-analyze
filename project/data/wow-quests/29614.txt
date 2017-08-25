@@ -1,7 +1,0 @@
-{
-    "_id": "29614",
-    "description": "The naga are working with leper gnomes to spread a horrific disease across Zangarmarsh. It's already spread throughout the Steamvault.Clear out anything that's been contaminated and bring me the central gear from Mekgineer Steamrigger, quickly!",
-    "name": "Containment is Key",
-    "requires_level": 67,
-    "zone": "The Steamvault"
-}

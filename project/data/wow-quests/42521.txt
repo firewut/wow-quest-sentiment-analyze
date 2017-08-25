@@ -1,8 +1,0 @@
-{
-    "_id": "42521",
-    "added_in_patch": 7,
-    "description": "Millhouse Manastorm has been quite vociferous about his intention to acquire the Nightborne Soulstone. If you find him, you may as well make use of him. \r\n\r\nHowever, he is unpredictable at best and you should always watch your back around him, <name>. Use my crystal to contact me once you have located him.",
-    "name": "The Enemy of My Enemy...",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

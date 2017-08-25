@@ -1,7 +1,0 @@
-{
-    "_id": "24931",
-    "description": "You're going out to hunt hyenas, eh? If you don't mind, I've got an offer myself. I'm in need of eyes from the Glasshide Gazers that lurk to the north. Their eyes contain wonderful crystals, valuable to...collectors.Now, you may have heard that some sad individuals use these to enhance paramental abilities, but I assure you, my interests are purely academic!Bring me a good portion of them and I'll pay you well for them. Better than these copper-pinching goblins will, at least!",
-    "name": "Gazer Tag",
-    "requires_level": 45,
-    "zone": "Tanaris"
-}

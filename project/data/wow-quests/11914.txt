@@ -1,7 +1,0 @@
-{
-    "_id": "11914",
-    "description": "Our existence here depends entirely upon staying hidden. Should the shield fail, even for a moment, Malygos' minions would have us.One of my responsibilities is to rejuvenate the warmages' mana levels so their focus doesn't falter. With our supply lines lost, I've been forced to improvise.I could use your help, <name>.Very near the Nexus, Arcane Serpents feast on the abundant magical energies. Once defeated, they will yield a mana essence that I can make use of.",
-    "name": "Keep the Secret Safe",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34962",
-    "added_in_patch": 6,
-    "description": "We have the Iron Horde backed into a corner now, thanks to you.\r\n\r\nIt is almost time to enter the city of Shattrath and repel them.\r\n\r\nFirst, we must meet Khadgar and some new allies.",
-    "name": "Khadgar's Plan",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

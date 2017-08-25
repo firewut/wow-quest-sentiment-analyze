@@ -1,8 +1,0 @@
-{
-    "_id": "6323",
-    "description": "One of my bats can take you to the Undercity.  Normally these flights require a small fee, but the flight to Undercity is complimentary for a  handsome <race> like you.  Speak with me again when you are ready so that we may arrange your transport.You will find Gordon Wendham in the Trade Quarter of the Undercity.  That is the same quarter where my bat will land.",
-    "name": "Ride to the Undercity",
-    "requires_level": 5,
-    "side": "horde",
-    "zone": "Tirisfal Glades"
-}

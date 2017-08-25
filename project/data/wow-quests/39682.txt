@@ -1,8 +1,0 @@
-{
-    "_id": "39682",
-    "added_in_patch": 7,
-    "description": "You heard what Maiev said. We need to get out of here.\r\n\r\nThere is an elevator shaft at the far end of these caverns. Let us make our way there.",
-    "name": "Grand Theft Felbat",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

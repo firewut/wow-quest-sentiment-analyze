@@ -1,7 +1,0 @@
-{
-    "_id": "10434",
-    "description": "Excellent job.<Shauly winks at you.>I think they're buying it. Now, when I send you up to speak with my associates at the Stormspire, there won't be any suspicion at all.You'll want to look for Action Jaxon and Audi the Needle up there. They'll tell you everything you need to know. Tell 'em Shauly sent you.",
-    "name": "The Dynamic Duo",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

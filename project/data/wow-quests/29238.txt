@@ -1,7 +1,0 @@
-{
-    "_id": "29238",
-    "description": "Some of da survivors mentioned food, <name>.  We better check da food supplies.  I gotta a bad feelin' about dis.",
-    "name": "Bad Supplies",
-    "requires_level": 85,
-    "zone": "Northern Stranglethorn"
-}

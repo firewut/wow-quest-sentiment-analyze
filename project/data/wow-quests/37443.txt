@@ -1,9 +1,0 @@
-{
-    "_id": "37443",
-    "added_in_patch": 6,
-    "description": "With all the chaos happening here at the Sunspire, I haven't had a chance to collect my belongings I've left outside at various places on the isle.  I must maintain my vigil over the Sunwell here, so I'll ask you to collect them in my stead.I need my scrying orb, my scroll of Scourge magic, and my journal.  Use this satchel for some extra space, as my things are rather bulky.  Return them to me and I'll give you a little something - you know, for the effort; you can keep the satchel as well!",
-    "name": "Solanian's Belongings",
-    "requires_level": 2,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

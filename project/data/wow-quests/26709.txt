@@ -1,7 +1,0 @@
-{
-    "_id": "26709",
-    "description": "I am returning to my throne. I've no desire to see any more of these Earthen Ring, but you remain welcome here, <race>. If you wish to help us rebuild our realm, perhaps we can help you in return.All things in time.\r\n",
-    "name": "The Stone Throne",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

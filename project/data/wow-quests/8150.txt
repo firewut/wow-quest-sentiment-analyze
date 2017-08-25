@@ -1,7 +1,0 @@
-{
-    "_id": "8150",
-    "description": "During the Harvest Festival of Azeroth, we give thanks to heroes for the sacrifices - in some cases ultimate sacrifices - they have given on our behalf.  The Horde acknowledges many heroes, but none exemplify strength and sacrifice more than Grom Hellscream.Help us honor Grom by taking this offering to his monument in the Demon Fall Canyon of Ashenvale.  Place it at the base, and then return to me.  I'll only be here through the end of the festival, so waste no time in giving Grom his tribute.",
-    "name": "Honoring a Hero",
-    "requires_level": 30,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42434",
-    "added_in_patch": 7,
-    "description": "Your champion discovered some sort of powerful magic emanating from the secretive Empyrean Society enclave in Azsuna. \r\n\r\nArchmage Vargoth asked me to request Meryl's aid in investigating it, but as you can see, Meryl is clearly too ill to travel at the moment. Would you be willing to go in his place?\r\n\r\nYou will need to prove yourself in order to gain entrance. We should be able to find something sufficient in the Hatecoil Warcamp in Azsuna.",
-    "name": "A Covert Operation",
-    "requires_level": 103,
-    "zone": "Mage Campaign"
-}

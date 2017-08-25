@@ -1,7 +1,0 @@
-{
-    "_id": "9548",
-    "description": "Shh! Keep your voice down and don't call attention to me.If the murlocs detect my presence, the experiment will be ruined! I've already come perilously close to contaminating my data.While I was foraging yesterday, one of them must've wandered too close and discovered my camp. I returned just in time to see two of them carrying off a crate with most of my equipment! It's bound to be in one of their settlements around here, but I can't risk revealing my presence. Are you willing to help?",
-    "name": "Pilfered Equipment",
-    "requires_level": 13,
-    "zone": "Bloodmyst Isle"
-}

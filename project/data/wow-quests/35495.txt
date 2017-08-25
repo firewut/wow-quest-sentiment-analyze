@@ -1,8 +1,0 @@
-{
-    "_id": "35495",
-    "added_in_patch": 6,
-    "description": "If the battleplans you brought back are true, the Dreadmaul ogres are as much to blame for this devastation as the Iron Horde. It's time we send those ogres a message.It looks like the Iron Horde's main contact is a large ogre in Dreadmaul named Toothsmash. Killing him will put a dent in their battleplans.",
-    "name": "Toothsmash the Annihilator",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

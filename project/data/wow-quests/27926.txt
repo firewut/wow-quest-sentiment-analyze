@@ -1,7 +1,0 @@
-{
-    "_id": "27926",
-    "description": "The commander is quite busy now, I'm afraid.The demands of an operation such as this require much of his attention these days.While you wait to speak with him, why don't you mingle with some of our guests?We have invited a variety of Azeroth's most illustrious figures to be present when we unlock the secrets of this region.I am confident that you will find them most captivating.",
-    "name": "Eastern Hospitality",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35499",
-    "added_in_patch": 6.2,
-    "description": "xxxxx",
-    "name": "Blow up towers",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

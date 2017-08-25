@@ -1,7 +1,0 @@
-{
-    "_id": "26452",
-    "description": "You've returned, <race>.  That means you've felt the call of the arena once more.  Very well.Take this battle standard, <race>, and place it down on the arena floor.  Defeat the summoned combatant, then return to me.Stay on your toes, <race>.  Anything goes inside the Gurubashi Arena.",
-    "name": "Gurubashi Challenge",
-    "requires_level": 30,
-    "zone": "The Cape of Stranglethorn"
-}

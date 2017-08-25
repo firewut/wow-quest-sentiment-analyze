@@ -1,8 +1,0 @@
-{
-    "_id": "27833",
-    "description": "I'd say we have a dragon problem, but it seems like they're a little more interested in New Kargath than they are in our small encampment.  Nevertheless, I've got top men focused on keeping the dragons at bay.One problem that has gone unchecked, however, is the ogre camp to our southwest.  A small army of combatants seems to have appeared outside of their hovel.We can't sit and wait for them to flank us, soldier.  Thin their ranks before they thin ours.",
-    "name": "Half-Ton Holdouts",
-    "requires_level": 44,
-    "side": "alliance",
-    "zone": "Badlands"
-}

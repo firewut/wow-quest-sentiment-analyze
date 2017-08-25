@@ -1,7 +1,0 @@
-{
-    "_id": "29510",
-    "description": "People don't just come to the faire for fun and fortunes, <name>. Most want something to take home with them, so I help to create the magical trinkets visitors purchase with their prize tickets.For that, I need a steady supply of soothsayer's dust. Take a look around the grounds and you'll see a lot of discarded weapons. Those are just the kinds of items that can be broken down into dust with enchanting skills like yours. Would you like to help?",
-    "name": "Putting Trash to Good Use",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

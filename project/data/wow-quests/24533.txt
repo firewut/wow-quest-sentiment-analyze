@@ -1,8 +1,0 @@
-{
-    "_id": "24533",
-    "description": "Now, if ya DO want to become somethin' special, ye'll need to talk to me.  A priest is nothin' without his spells.  And how do you learn new spells?\r\n\r\nYa go and get more experience. So go out, get stronger, and then come show me what ya learn.",
-    "name": "Words of Power",
-    "requires_level": 2,
-    "side": "alliance",
-    "zone": "Priest"
-}

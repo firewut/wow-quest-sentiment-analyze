@@ -1,9 +1,0 @@
-{
-    "_id": "36376",
-    "added_in_patch": 6,
-    "description": "Quakes have been shaking the garrison, and our scouts haven't reported in hours.",
-    "name": "Goren Invasion!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

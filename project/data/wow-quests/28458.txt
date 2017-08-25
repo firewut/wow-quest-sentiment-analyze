@@ -1,7 +1,0 @@
-{
-    "_id": "28458",
-    "description": "The power of the Dark Iron forces and their Twilight's Hammer allies is growing within Blackrock Mountain. Pyromancer Loregrain is a powerful and influential magus in the Twilight's Hammer delegation. If we could get our hands on his grimoire, I could develop counters for Twilight's Hammer spells and curses.You must descend into Blackrock Depths, locate the Shrine of Thaurissan, and capture the grimoire. Show Loregrain and his Twilight minions no mercy.",
-    "name": "The Pyromancer's Grimoire",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

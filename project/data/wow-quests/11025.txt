@@ -1,7 +1,0 @@
-{
-    "_id": "11025",
-    "description": "When prepared correctly, the crystals of the mountains exhibit strange powers, such as the clarity of mind that we have found here in Ogri'la.All of the creatures atop the mountains covet the crystal shards and use them to further their own goals.  An economy has even sprung up around them.To assist us, you must first learn about the Apexis shards.  Bring me some.  In addition to the creatures here having them, they can sometimes be found where the flayers dig at the larger crystals.",
-    "name": "The Crystals",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

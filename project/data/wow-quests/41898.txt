@@ -1,8 +1,0 @@
-{
-    "_id": "41898",
-    "added_in_patch": 7,
-    "description": "According to The Master's journal, the Twilight's Hammer has discovered a method of harnessing the void to subjugate even the most powerful of elementals.The journal specifically mentioned the children of Therazane as test subjects. Whether The Master was speaking literally or figuratively in this regard, I do not know. Regardless, we need to free these elementals and stop these dark rituals from continuing.It appears that our journey here is going to take us deeper into the depths of darkness...",
-    "name": "Unleashing the Elements",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

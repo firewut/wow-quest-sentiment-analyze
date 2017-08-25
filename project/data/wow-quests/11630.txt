@@ -1,7 +1,0 @@
-{
-    "_id": "11630",
-    "description": "By curing the hides with the blighted earth outside the Temple City, Sage Aeire believes she can create a cloak which will cause most of the Scourge minions to ignore your presence. You should blend right in, she says.She'd best be correct. It's our only chance to gather information and plan our counterattack.You should be able to find the earth she needs poking in the areas to the south and west of the fortress. Bring it to me when you've finished gathering it.",
-    "name": "The Bad Earth",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

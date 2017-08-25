@@ -1,7 +1,0 @@
-{
-    "_id": "10839",
-    "description": "Veil Skith lies to the northwest of the caravan and to the south of Shattrath in a secluded grove of the forest. It is rumored that the colony of Skettis has constructed a maligned altar of worship. This Darkstone of Terokk must be purified if the arakkoa of Skith are ever to be redeemed.Take this Rod of Purification and cast it upon the Darkstone. Blessed by A'dal, the rod's purity might be enough to bring clarity to the Darkstone. Go now and may the light shine upon thee.",
-    "name": "Veil Skith: Darkstone of Terokk",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

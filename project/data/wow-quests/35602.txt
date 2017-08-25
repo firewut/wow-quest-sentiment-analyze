@@ -1,8 +1,0 @@
-{
-    "_id": "35602",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Gnomeregan Bonus Objective Reward Quest",
-    "requires_level": 24,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37223",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Gagrog's Skull",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

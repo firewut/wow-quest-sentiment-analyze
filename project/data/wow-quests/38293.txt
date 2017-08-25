@@ -1,8 +1,0 @@
-{
-    "_id": "38293",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Sumptuous Fur",
-    "requires_level": 90,
-    "zone": "Engineering"
-}

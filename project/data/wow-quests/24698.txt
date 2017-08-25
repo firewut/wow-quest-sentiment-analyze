@@ -1,7 +1,0 @@
-{
-    "_id": "24698",
-    "description": "Hey, you want to try my new diemetradon dogs?  No?  Raptor risotto?  Pterrordax ptacos?Fine.  Oh, I just remembered!  I have a friend nearby that might be able to use your assistance.  His name is Spark Nilminer, and he's Marshal Expeditions' chief archaeology officer.He's been sent out to Golakka Hot Springs, to the west.  You'll likely find him on the springs' western shore.",
-    "name": "Adventures in Archaeology",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

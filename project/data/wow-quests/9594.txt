@@ -1,7 +1,0 @@
-{
-    "_id": "9594",
-    "description": "The armor scrap is forged from a deep black metal that seems to absorb light. Although it doesn't appear to be enchanted, there is an unmistakable sense of wrongness about it.Such armor is only used by one force - the Burning Legion. The Legion's presence here can only mean that they're intending to mobilize the island's satyr against the draenei.Take action against the local satyr, then return to Blood Watch and show this armor scrap to Vindicator Aalesia. ",
-    "name": "Signs of the Legion",
-    "requires_level": 10,
-    "zone": "Bloodmyst Isle"
-}

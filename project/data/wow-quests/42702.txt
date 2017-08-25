@@ -1,8 +1,0 @@
-{
-    "_id": "42702",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Millhouse Manastorm",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

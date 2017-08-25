@@ -1,8 +1,0 @@
-{
-    "_id": "26666",
-    "description": "I'm here because I received a letter from my brother Stalvan, who I haven't seen in years. On arriving here, I was told he was dead...The entire town refuses to offer any further explanation. Any mention of his name is met with terror and suspicion. As if I didn't have enough of that myself!I'm afraid of what will happen if my frustration and anger grows any further. I beg you, help me get to the bottom of this. Implore Clerk Daltry for any information he may have on my brother.",
-    "name": "The Legend of Stalvan",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

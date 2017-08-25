@@ -1,7 +1,0 @@
-{
-    "_id": "10407",
-    "description": "The infamous eredar, Socrethar, leads the Burning Legion in Netherstorm.  Mentioning his name is enough to make most draenei shudder.  He gives orders from an island in the northwest that only his most trusted lieutenants can access.To get there you will need to obtain a teleportation stone, which won't be an easy task.  The first half of the stone is in the possession of Forgemaster Morug at Forge Base: Oblivion.  The second half is held by Silroth at Forge Base: Gehenna.",
-    "name": "Socrethar's Shadow",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

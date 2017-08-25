@@ -1,7 +1,0 @@
-{
-    "_id": "24740",
-    "description": "Welcome.  I'm Williden Marshal, and my sister and I run this expedition of explorers and scientists.  You have a moment?I don't like the look of those elementals on that volcano, <class>.  We have too much equipment, too many notes... one crazed elemental could streak its way through our camp and do terrible, terrible damage.Show them that their new neighbors aren't to be trifled with.  And bring back the ash that they leave behind... we might as well do a little science while we're at it.",
-    "name": "Volcanic Activity",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

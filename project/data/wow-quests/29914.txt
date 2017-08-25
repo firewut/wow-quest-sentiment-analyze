@@ -1,8 +1,0 @@
-{
-    "_id": "29914",
-    "added_in_patch": 5,
-    "description": "I try to keep an eye on my stock, but every once in a while some of them sneak away. With all the confusion these virmen are causing, I may have let my guard down for a few moments, and some of my pigs escaped.Care to look for them? I'd start by looking down the hill, to the west.",
-    "name": "Back to the Sty",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

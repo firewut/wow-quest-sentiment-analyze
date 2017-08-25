@@ -1,8 +1,0 @@
-{
-    "_id": "40116",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Prephoof Compound Treasure",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

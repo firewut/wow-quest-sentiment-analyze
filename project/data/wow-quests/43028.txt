@@ -1,8 +1,0 @@
-{
-    "_id": "43028",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Warmongering Combatant's Chain Armor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

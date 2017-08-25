@@ -1,7 +1,0 @@
-{
-    "_id": "10041",
-    "description": "I don't know who they are, but I know they're hostile!I'm going to give you a disguise, and I want you to go in there and speak with three of them that I've observed as being 'chatty'. Talk with the initiate, the laborer, and the advisor.Just watch out; there're a few hunters in there who'll be able to see through your disguise and they look tough! And whatever you do, don't leave the village -- the disguise is kind of flimsy. If you lose your disguise, come back to me and I'll give you another.",
-    "name": "Who Are They?",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

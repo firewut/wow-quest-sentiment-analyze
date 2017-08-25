@@ -1,8 +1,0 @@
-{
-    "_id": "32328",
-    "added_in_patch": 5.1,
-    "description": "The portal by my side will return you safely to Domination Point. I will return behind you; I must clean up our tracks a bit before we leave, so that Proudmoore doesn't discover our involvement.",
-    "name": "Victorious Return",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

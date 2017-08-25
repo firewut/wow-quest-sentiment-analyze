@@ -1,8 +1,0 @@
-{
-    "_id": "32175",
-    "added_in_patch": 5.1,
-    "description": "Are you prepared to test the mettle of your pets...?",
-    "name": "Darkmoon Pet Battle!",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

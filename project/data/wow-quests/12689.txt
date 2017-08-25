@@ -1,7 +1,0 @@
-{
-    "_id": "12689",
-    "description": "",
-    "name": "Hand of the Oracles",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27268",
-    "description": "I have an urgent message for you from Stormwind, <name>. It seems that High Priestess Laurena has asked to speak with you at the Cathedral of Light in Stormwind's Cathedral Square. The messenger did not say what the matter concerned, but that you should travel to Stormwind with all haste.",
-    "name": "Make Haste to the Cathedral",
-    "requires_level": 20,
-    "zone": "Priest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12469",
-    "description": "Upon closer examination, the goblin appears to have been running a pack full of explosives across the wastes for delivery. The harpy feathers half-buried in the snow nearby suggest how he met his ill fate.It appears that the goblin was bringing the explosives towards the Wrath Gate from somewhere to the east. It seems most prudent to follow the ridge back to the east and inform the sender of their runner's fate.",
-    "name": "Return to Sender",
-    "requires_level": 72,
-    "zone": "Dragonblight"
-}

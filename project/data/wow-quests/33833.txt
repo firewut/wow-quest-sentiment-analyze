@@ -1,9 +1,0 @@
-{
-    "_id": "33833",
-    "added_in_patch": 6,
-    "description": "Posted by: EremorA ferocious elekk of unprecedented size has been seen near Gloomshade Grove.Known to some as the ivory death, she is abnormally aggressive and has already taken the lives of several unwary travelers.The rangari have as yet been unable to corner this creature. Anyone capable of taking down this beast should exchange proof of her demise to Eremor for a hefty bounty.",
-    "name": "Wanted: Kuu'rat's Tusks",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

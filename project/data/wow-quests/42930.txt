@@ -1,8 +1,0 @@
-{
-    "_id": "42930",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Big Gamy Ribs",
-    "requires_level": 103,
-    "zone": "Hunter Campaign"
-}

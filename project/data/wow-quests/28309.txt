@@ -1,7 +1,0 @@
-{
-    "_id": "28309",
-    "description": "Shadow-Walker Zuru, a revered priest trainer, has asked to meet with you in Orgrimmar. You can find him in the Valley of Spirits with the other Darkspear trainers. It must be an important matter for him to send for you so directly, <name>.",
-    "name": "Meet with Shadow-Walker Zuru",
-    "requires_level": 50,
-    "zone": "Orgrimmar"
-}

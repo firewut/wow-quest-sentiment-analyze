@@ -1,7 +1,0 @@
-{
-    "_id": "28078",
-    "description": "The Warchief has requested that any able-bodied adventurer head to Stratholme's main gate, due north from Plaguewood, immediately!The Dreadlord Balnazzar has slain the Scarlet Crusade and resurrected them as the Risen! If you so choose, head to the main gate and speak with Crusade Commander Eligor Dawnbringer, leader of the Argent Crusade effort to retake Stratholme for its true owners.",
-    "name": "Adventurers Wanted: Stratholme Main Gate",
-    "requires_level": 44,
-    "zone": "Stratholme"
-}

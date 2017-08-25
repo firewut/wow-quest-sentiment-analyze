@@ -1,8 +1,0 @@
-{
-    "_id": "40030",
-    "added_in_patch": 7,
-    "description": "The rune markings along the tool's grip suggest that it was left behind by a vrykul herbalist.Apparently, the vrykul are also gathering this fjarnskaggl. Your trainer, Kuhuine, mentioned that she had read about this herb in the past.Perhaps she might be interested in seeing the tools that the vrykul use to harvest it.",
-    "name": "Ram's-Horn Trowel",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

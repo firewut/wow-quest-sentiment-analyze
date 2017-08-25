@@ -1,8 +1,0 @@
-{
-    "_id": "26680",
-    "description": "A few weeks ago I was picking herbs far from my house, and a band of ogres attacked me!  I ran, and I was forced to leave behind a crate of precious tools and herbs.After they chased me off, the ogres swaggered back to the ogre mound in southern Duskwood.  I'm sure my crate is somewhere near the mound.Please, <name>, retrieve this crate for me for I miss it sorely.",
-    "name": "Ogre Thieves",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

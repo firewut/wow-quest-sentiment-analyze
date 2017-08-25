@@ -1,8 +1,0 @@
-{
-    "_id": "29895",
-    "added_in_patch": 5,
-    "description": "Although the cloak is ragged and torn, there is no mistaking the fine tailoring and the King's royal crest.You should show it to your Alliance commander.",
-    "name": "Trail of the White Pawn",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

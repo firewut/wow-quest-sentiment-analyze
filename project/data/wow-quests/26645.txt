@@ -1,8 +1,0 @@
-{
-    "_id": "26645",
-    "description": "I'm afraid you're all I've got to help here, <name>. Stormwind's forces are so taxed by greater evils that they can't spare a single footman to protect Darkshire. It's up to me and the rest of the Night Watch to keep our homes safe.There's more threats here than just wolves, unfortunately. Rotting horrors roam near Blind Mary's Haunt, on the southeast outskirts. If they're not kept in check, they'll be visiting our homes in the night.Deal with the undead and report back to me for your bounty.",
-    "name": "The Night Watch",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

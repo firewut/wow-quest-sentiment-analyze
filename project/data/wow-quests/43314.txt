@@ -1,8 +1,0 @@
-{
-    "_id": "43314",
-    "added_in_patch": 7,
-    "description": "An opportunity presents itself, <name>.\r\n\r\nLy'leth has arranged to grant you entry into a ball at the Court of Stars. I do not know what we may gain from this venture, but there is one task I must set for you.\r\n\r\nAdvisor Melandrus once called himself my ally. He and I planned Elisande's downfall, but when the moment came I found myself betrayed.\r\n\r\nThe wound his dagger inflicted still aches. I cannot enter Suramar to take my revenge, but you can.\r\n\r\nGive him a traitor's death, and bring me his spellstone.",
-    "name": "Beware the Fury of a Patient Elf",
-    "requires_level": 110,
-    "zone": "Court of Stars"
-}

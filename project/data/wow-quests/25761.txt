@@ -1,7 +1,0 @@
-{
-    "_id": "25761",
-    "description": "We have to stop these juggernauts before they're completely encased in armor. Right now they're vulnerable, but only if we pry aside the plates and hack at the marred flesh beneath.Take my shiv, and jam it between the plates of armored juggernauts to deprive them of their armor.Once they break from their trance, you're in for a tough fight - keep prying loose that armor and stop those juggernauts!",
-    "name": "Disassembly",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

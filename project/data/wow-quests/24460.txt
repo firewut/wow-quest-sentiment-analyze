@@ -1,7 +1,0 @@
-{
-    "_id": "24460",
-    "description": "Hey there <name>, I need you to solve the Cataclysm. Go hunt me some zombies.  You are |5<race>.",
-    "name": "Out of Order",
-    "requires_level": 1,
-    "zone": "Coldridge Valley"
-}

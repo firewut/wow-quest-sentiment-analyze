@@ -1,9 +1,0 @@
-{
-    "_id": "34718",
-    "added_in_patch": 6,
-    "description": "There are yet a few survivors. I saw them pile onto Arbiter Khan during the fighting.More importantly, I can hear little Isel's sobs. She's nearby. I hope her mother is still alive.Your dwarf friend, Hansel, came in to try to rescue us. He thought he could take the Warsong on his own. I'm afraid I don't know what happened to him.",
-    "name": "The Others",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

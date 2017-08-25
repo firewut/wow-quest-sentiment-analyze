@@ -1,8 +1,0 @@
-{
-    "_id": "32127",
-    "added_in_patch": 5.1,
-    "description": "Our Warchief has dispatched me to these shores to deal with this pitiful Alliance threat.These humans and their allies have proven to be very dependent on their leaders. No initiative of their own.As you walk the battlefield today look to the Alliance ships off our southern shores. Find their captains.Slay them.For the Horde!",
-    "name": "All Dead, All Dead",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39648",
-    "added_in_patch": 6.2,
-    "description": "The children have gone missing!That horrible Grumpus has been making his way throughout Draenor, snatching up children. Please save them!Our scouts have spotted him over in Frostfire Ridge.",
-    "name": "Where Are the Children?",
-    "requires_level": 100,
-    "zone": "Frostfire Ridge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9620",
-    "description": "As we've gotten ourselves established here at Blood Watch, I've been sending out survey teams to create more reliable maps of the island. In most cases, they returned unharmed with the data we need, but the team I sent east to the ruins hasn't reported back.I worry about what might have happened to them, but I can't spare the men to send another mission after them. Find them, <name>, and lend them any assistance they require to return with their survey data.",
-    "name": "The Missing Survey Team",
-    "requires_level": 10,
-    "zone": "Bloodmyst Isle"
-}

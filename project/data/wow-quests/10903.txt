@@ -1,8 +1,0 @@
-{
-    "_id": "10903",
-    "description": "<name>, while you were on your mission in Zeth'Gor, I received news of my commanding officer, Colonel Jules.  He was stricken with a demonic corruption while fighting near the Gor'gaz Outpost, and his situation has grown very bad.You have made such great gains for us against the fel orcs.  Your strength in battle is without question... is your spirit just as strong?Please, return to Honor Hold and speak with Klatu, in an upper room at the Honor Hold inn.",
-    "name": "Return to Honor Hold",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

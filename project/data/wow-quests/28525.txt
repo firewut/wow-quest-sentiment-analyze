@@ -1,7 +1,0 @@
-{
-    "_id": "28525",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Williden Marshal at Marshal's Stand.The Alliance needs you to provide support to the Marshal Expeditions as they uncover the secrets of Un'Goro Crater's ancient beasts, unique flora, and powerful crystals. You can reach the crater by departing western Tanaris and following the road all the way to Marshal's Stand.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Un'Goro Crater!",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

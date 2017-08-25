@@ -1,7 +1,0 @@
-{
-    "_id": "12628",
-    "description": "The gods have spoken, <name>. We now know what you must do.You must now go to the Altar of Har'koa to the southeast and speak with the leopard goddess.",
-    "name": "To Speak With Har'koa",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

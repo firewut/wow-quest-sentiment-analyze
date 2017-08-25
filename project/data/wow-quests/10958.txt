@@ -1,7 +1,0 @@
-{
-    "_id": "10958",
-    "description": "<As you look up at Xi'ri, your mind becomes focused and your will determined.  Your work here is not done; you must go inside the Black Temple and find Akama's followers.><Much depends on Akama's success.>",
-    "name": "Seek Out the Ashtongue",
-    "requires_level": 70,
-    "zone": "Black Temple"
-}

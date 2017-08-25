@@ -1,8 +1,0 @@
-{
-    "_id": "25725",
-    "description": "We're good on provisions, but we're in need of some medicine. Half the camp's fiercely hung over, and a remedy's in order.Luckily, I know a good folk remedy taught to me by my dear old mum. We just need some local ingredients.Gather me some fenbush berries, if you would. They keep to where there's water and shade, so look along the shore and near other plants.",
-    "name": "Fenbush Berries",
-    "requires_level": 18,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

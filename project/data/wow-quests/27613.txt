@@ -1,7 +1,0 @@
-{
-    "_id": "27613",
-    "description": "The fate of the Scarlet Crusade is tragic, if somewhat ironic.  At one point, they led the charge of humanity against the undead.  Now, they resemble those corpses that they once hunted.  What caused their descent into undeath isn't certain, but it doesn't make them any less dangerous.One of their deadliest was an assassin who went by the name of Rohan.  We have intel that places him atop the bell tower in this very abbey.  Find him and kill him, <name>.  And try not to die on the way.",
-    "name": "The Assassin",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

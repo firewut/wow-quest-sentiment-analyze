@@ -1,7 +1,0 @@
-{
-    "_id": "3503",
-    "description": "",
-    "name": "Meeting with the Master",
-    "requires_level": 45,
-    "zone": "Azshara"
-}

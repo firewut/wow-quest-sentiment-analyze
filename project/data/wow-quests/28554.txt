@@ -1,8 +1,0 @@
-{
-    "_id": "28554",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Krog at Brackenwall Village. The marsh is overrun with enemies of many kinds and the Alliance forces there are dangerously strong.You can travel to Dustwallow Marsh by following the path from the eastern part of the Southern Barrens toward Brackenwall Village.Destiny calls!",
-    "name": "Warchief's Command: Dustwallow Marsh!",
-    "requires_level": 34,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

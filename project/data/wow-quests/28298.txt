@@ -1,7 +1,0 @@
-{
-    "_id": "28298",
-    "description": "Gordul, leader of the rogues of the Shattered Hand in Orgrimmar, wishes to meet with you. Make your way to Orgrimmar quickly, <name> and seek him in the Cleft of Shadow. He must have an important mission for you.",
-    "name": "Meet with Gordul",
-    "requires_level": 50,
-    "zone": "Orgrimmar"
-}

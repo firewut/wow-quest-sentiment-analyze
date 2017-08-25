@@ -1,8 +1,0 @@
-{
-    "_id": "25709",
-    "description": "The other thing that concerns me about those shipwrecks is all the vultures that they've attracted.  Knowing how those birds operate, they've already picked the bones clean, but still... we can't allow them to further desecrate the bodies of our friends.Before I brewed, I hunted.  Here, take this bow, and more importantly, these arrows.  They've been laced with a little concoction that should give those bonepickers a surprise.",
-    "name": "Curtail the Darktail",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

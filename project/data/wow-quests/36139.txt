@@ -1,8 +1,0 @@
-{
-    "_id": "36139",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Pandaria 85-87",
-    "requires_level": 85,
-    "zone": "Quests"
-}

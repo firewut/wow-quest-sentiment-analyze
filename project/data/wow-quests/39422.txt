@@ -1,9 +1,0 @@
-{
-    "_id": "39422",
-    "added_in_patch": 6.2,
-    "description": "Commander!  We have received reports from the shipyard that things are getting serious.  Can you head back to Lunarfall and check in with Merreck?  Every ship we build gives us another advantage over Gul'dan's new Horde.",
-    "name": "Shipyard Report",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39341",
-    "added_in_patch": 7,
-    "description": "The key to a crucible like this is that it must be bathed in the foulest of fel energy. I hate to say it, but the most efficient method of accomplishing such a feat is to subject it to the bile of a demon.Yes, I said the bile of a demon. Ready to get to work?In the Vault of the Wardens, such a demon exists. An imp mother by the name of Grimoira.  The door to her room is sealed by an invisible lock.I'd suggest bringing some Skaggldrynk with you. Use it when you get to her door.",
-    "name": "Demon's Bile",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

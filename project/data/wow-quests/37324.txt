@@ -1,7 +1,0 @@
-{
-    "_id": "37324",
-    "description": "Our latest bracelet design is selling like mad, but we are completely out of the blackrock to make them.",
-    "name": "Out of Stock: Blackrock Ore",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

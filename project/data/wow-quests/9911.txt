@@ -1,7 +1,0 @@
-{
-    "_id": "9911",
-    "description": "This bloody mandible comes from an unbelievably large creature. The nether ray that it belonged to has to be the largest ever seen in Zangarmarsh. Judging from the condition of the mandible, the count must've abandoned a diet of carrion in favor of living flesh.Surely the Cenarion Expedition would be interested in such a specimen. Watcher Leesa'oh has a small camp to the west of Quagg Ridge.",
-    "name": "The Count of the Marshes",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

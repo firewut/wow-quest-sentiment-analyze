@@ -1,8 +1,0 @@
-{
-    "_id": "40953",
-    "added_in_patch": 7,
-    "description": "Since ancient times, my order has stood vigil on these Broken Isles, watching for the Legion's return. Only a handful of us remain... but that changes today.The artifact you hold is more than a weapon. It is a symbol that will unite hunters of all kingdoms and creeds.I'm sure you have questions. Meet me at the Trueshot Lodge in Highmountain and see with your own eyes what awaits us. Snowfeather and I will make our own way there.",
-    "name": "On Eagle's Wings",
-    "requires_level": 98,
-    "zone": "Trueshot Lodge"
-}

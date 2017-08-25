@@ -1,7 +1,0 @@
-{
-    "_id": "27470",
-    "description": "It is no secret that we aren't fans of the orcs in Blackrock Mountain, but we do carefully watch their every move. Nothing happens in that Mountain without me knowing about it, <class>.Recently, a different sort of orc came into Blackrock. He resides just inside Blackrock Spire, and I know he's somehow planning to overthrow Nefarian and his whole army of orcs. Normally I wouldn't trust their kind, but we share a common goal for the time being. Find him, he's called Acride.",
-    "name": "A Potential Ally",
-    "requires_level": 57,
-    "zone": "Blackrock Spire"
-}

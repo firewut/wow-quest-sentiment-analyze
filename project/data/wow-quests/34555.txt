@@ -1,8 +1,0 @@
-{
-    "_id": "34555",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Upper Blackrock Spire Challenge Mode - Silver Addition (Nth)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

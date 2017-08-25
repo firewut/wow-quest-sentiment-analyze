@@ -1,7 +1,0 @@
-{
-    "_id": "29596",
-    "description": "Exarch Maladaar performs his unholy work in the deepest part of the crypts. He poses a threat to both of our worlds if he is not stopped.You must slay him for the benefit of us all, dead and alive.",
-    "name": "The End of the Exarch",
-    "requires_level": 64,
-    "zone": "Auchenai Crypts"
-}

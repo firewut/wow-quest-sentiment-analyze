@@ -1,8 +1,0 @@
-{
-    "_id": "26347",
-    "description": "The night the Lighthouse Keeper's family died was horrible.  I watched, helpless, as Old Murk-Eye led the attack.  But what's done is done and now my concern is for the lives of the sailors on The Great Sea whose ships come close to the perilous rocks of the coastline.  With no one to keep watch on the flame the responsibility has fallen upon me.Help me keep the torch lit by bringing me chasm ooze from the slimes in the Raging Chasm to the northeast.",
-    "name": "Keeper of the Flame",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Westfall"
-}

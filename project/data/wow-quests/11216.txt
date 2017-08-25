@@ -1,7 +1,0 @@
-{
-    "_id": "11216",
-    "description": "I was sent here by my mentor to look for assistance, but unfortunately I'm not allowed outside of Lower City and the individuals that frequent this establishment tend to be less than helpful.You do seem different, more like the adventurous type.  If you're interested in aiding our cause, speak to Archmage Alturus outside of Medivh's old dwelling, Karazhan.In the meantime, I'm going to see about gaining access to the rest of the city.  One of our old associates is rumored to be here.",
-    "name": "Archmage Alturus",
-    "requires_level": 68,
-    "zone": "Karazhan"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "6031",
-    "description": "In Timbermaw, we are content.  We do not like strangers.  This is good for us, but it is bad for trade.Not long ago, a rare night elf friend came to Timbermaw and she wore a runecloth cloak.  Runecloth is rare among us, but the cloak was so fine my people want me to make more runecloth clothing.Will you bring me runecloth?  If you bring me enough, then I will give you something in trade.",
-    "name": "Runecloth",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

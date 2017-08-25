@@ -1,7 +1,0 @@
-{
-    "_id": "976",
-    "description": "Delgren has asked me to deliver messages and supplies to Sentinel Starbreeze in Auberdine, but I am loathe to leave on my own. Dangerous foes operate in the forest, and I do not wish to risk letting these supplies and information fall into the wrong hands.If you and others could act as my guards, I could leave now. With your protection, I have no doubt that we can see these goods safely to Auberdine.",
-    "name": "Supplies to Auberdine",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

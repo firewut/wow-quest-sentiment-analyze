@@ -1,7 +1,0 @@
-{
-    "_id": "25366",
-    "description": "With the battle plans of the gnolls discovered, all that now remains is to bring the plans back to Hadoken Swiftstrider in Camp Mojache.  Perhaps he or someone there can make further sense of what the gnolls are up to.",
-    "name": "The Battle Plans",
-    "requires_level": 36,
-    "zone": "Feralas"
-}

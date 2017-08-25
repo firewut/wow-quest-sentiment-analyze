@@ -1,7 +1,0 @@
-{
-    "_id": "12099",
-    "description": "The rock shard you imbued should be powerful enough to break the runic magic binding my brothers.Take it with you and find the runed giants walking north along the Eastwind Shore. Unleash the power stored in the stone and observe the results.If it works, the runed giants should return to their senses and stop obeying the iron dwarves. If the stone fails to work, the giants may attack in a weakened state. But, what choice do we have? If we do not try, they will remain enslaved without hope.",
-    "name": "Free at Last",
-    "requires_level": 72,
-    "zone": "Grizzly Hills"
-}

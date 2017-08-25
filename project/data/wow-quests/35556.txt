@@ -1,9 +1,0 @@
-{
-    "_id": "35556",
-    "added_in_patch": 6,
-    "description": "Commander, Yrel and Maraad have a tactical suggestion.They recommend a small expedition group be sent into the savage wastelands of Gorgrond far to the north.Reports from their rangari suggest that land may hold ancient secrets or primal knowledge that we might use to exploit weaknesses in the Iron Horde that our enemy would not expect.If you wish to go I will have a gryphon prepared for you at once.",
-    "name": "The Secrets of Gorgrond",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

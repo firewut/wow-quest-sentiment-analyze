@@ -1,8 +1,0 @@
-{
-    "_id": "39803",
-    "added_in_patch": 7,
-    "description": "<Havi's voice continues in your head as the raven stares on>\r\n\r\nIf valor you seek, then to the bones you must speak! \r\n\r\nBut first you must prepare!",
-    "name": "The Trials Continue",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

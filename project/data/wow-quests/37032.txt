@@ -1,9 +1,0 @@
-{
-    "_id": "37032",
-    "added_in_patch": 6,
-    "description": "This boar is at home in the rocky plains of Gorgrond, so it will be easier to train. As with other beasts, we will begin the training in the place it calls home.Test your boar against the great predator Riplash, a raptor known to hunt boars.",
-    "name": "Boar Training: Riplash",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

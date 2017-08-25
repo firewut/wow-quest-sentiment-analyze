@@ -1,9 +1,0 @@
-{
-    "_id": "36142",
-    "added_in_patch": 6,
-    "description": "Incredible news, Commander <name>. Your ever-loyal servant (that's me) has managed to secure us timber lords. Now maybe you don't know what a timber lord is, so let explain: think of a blood-crazed, mass murderer who enjoys nothing more than killing. Now take that same enthusiasm for killing and apply it to killing trees! That's a timber lord.What this means is that we can now cut medium sized timber - but first we need to give these timber lords a test run.There's a suitable tree nearby. Good luck!",
-    "name": "Sharper Blades, Bigger Timber",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

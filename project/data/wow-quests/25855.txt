@@ -1,8 +1,0 @@
-{
-    "_id": "25855",
-    "description": "I've been coming up short on parts recently for my engineering projects, and the other day I finally saw why: the Mosshide gnolls have been making off with them!I don't have any idea what they could possibly want them for, but I need those gizmos back. They're probably strewn all over the marsh by now, but if you see any, could you gather them and bring them back?",
-    "name": "Gizmos and Gadgets",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37451",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "See Qiana Moonshadow (Follower Mission Turn in)",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

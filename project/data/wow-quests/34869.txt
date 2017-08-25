@@ -1,8 +1,0 @@
-{
-    "_id": "34869",
-    "added_in_patch": 6,
-    "description": "You got a moment,  bub? I've got an elekk-sized problem.Someone, um, sold me... yeah, sold me these two, but they're sick. I've tried everything, but nothing I do makes any difference!I think they must be starving. I heard that elekk like raw windroc. Gross if you ask me.Anyway, while you're out doing your thing, you mind picking me up some bird meat?",
-    "name": "Tastes Like Chicken",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

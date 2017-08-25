@@ -1,9 +1,0 @@
-{
-    "_id": "38421",
-    "added_in_patch": 6.2,
-    "description": "The Auchenai have sent me an urgent missive - Auchindoun is in jeopardy again! The Sargerei have renewed their assault  and breached the underhalls. I sense the hand of Gul'dan is behind this.Gather your things and meet me in the Court of Souls West of Auchindoun at once!",
-    "name": "Garrison Campaign: Onslaught at Auchindoun",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

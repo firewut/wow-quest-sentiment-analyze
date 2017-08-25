@@ -1,7 +1,0 @@
-{
-    "_id": "11934",
-    "description": "Today you unlock a page in your spellbook, one you may not have realized it was there.  Bring me something, and I'll open it up for you.",
-    "name": "Unlocking Your Potential [PH]",
-    "requires_level": 15,
-    "zone": "Inscription"
-}

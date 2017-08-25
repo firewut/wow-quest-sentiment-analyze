@@ -1,7 +1,0 @@
-{
-    "_id": "29119",
-    "description": "There's a brand new ice cream shop in Stormwind, and it's not just any old ice cream either. This ice cream is made by mages! You don't think I'm going to be hungry fifteen minutes after eating it, do you?I bet it tastes really good. Let's go try it!I heard some of the other kids talking about it, and they were saying the store is called The Cone of Cold and it's over near the Blue Recluse in the Mage Quarter.",
-    "name": "You Scream, I Scream...",
-    "requires_level": 10,
-    "zone": "Children's Week"
-}

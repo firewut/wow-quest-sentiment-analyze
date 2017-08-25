@@ -1,7 +1,0 @@
-{
-    "_id": "9908",
-    "description": "",
-    "name": "Hellfire Penninsula: -pn - A - ToWoW - Hellfire Turnin",
-    "requires_level": 55,
-    "zone": "Hellfire Peninsula"
-}

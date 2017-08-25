@@ -1,7 +1,0 @@
-{
-    "_id": "25440",
-    "description": "The Fathom-Lord is here, at the far side of the ruins. He's still injured from our last battle.I'll leave this pleasure to you. Make sure he doesn't get away this time.",
-    "name": "Fathom-Lord Zin'jatar",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

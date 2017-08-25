@@ -1,7 +1,0 @@
-{
-    "_id": "10427",
-    "description": "Your work with the lashers turned up some astounding information, but I wonder if it holds true for animals as well.Gathering information on the talbuks that live underneath this dome is going to be trickier than studying the lashers, I'm afraid.Using this tagging device, you can put a weakened talbuk to sleep and apply a tag that I'll use to track the animal as it matures. The tagging mechanism won't work unless the talbuk has expended most of its energy.",
-    "name": "Creatures of the Eco-Domes",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

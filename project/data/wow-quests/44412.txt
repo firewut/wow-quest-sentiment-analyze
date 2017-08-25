@@ -1,8 +1,0 @@
-{
-    "_id": "44412",
-    "added_in_patch": 7,
-    "description": "Hold a moment, <name>. While I look into this orb of yours, why don't you look into something for me?I have long suspected an infiltration of Dalaran but after an embarrassing encounter with a local florist I've withheld my accusations until I'm absolutely certain.Have you noticed citizens among us that seem just too mundane? Almost inhumanly so? Spies, serving dark masters, watch and wait until our backs are turned. Root them out, but try and keep it quiet.",
-    "name": "Enemies Everywhere",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

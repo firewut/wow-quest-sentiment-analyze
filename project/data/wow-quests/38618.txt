@@ -1,9 +1,0 @@
-{
-    "_id": "38618",
-    "added_in_patch": 7,
-    "description": "There, it looks like there's a good spot to launch to right across from here. This path should take you all the way to the top.\r\n\r\nAccording to my  intel, your dragons should be up there. Let's just hope that they're still in a state to help you.",
-    "name": "Above the Winter Moonlight",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

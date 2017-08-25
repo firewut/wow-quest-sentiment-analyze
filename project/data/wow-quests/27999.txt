@@ -1,7 +1,0 @@
-{
-    "_id": "27999",
-    "description": "It seems the Doyles already joined their last fight. Iain will want to know of their fate.",
-    "name": "The Fate of the Doyles",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

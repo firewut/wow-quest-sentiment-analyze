@@ -1,8 +1,0 @@
-{
-    "_id": "41956",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Petrified Acolytes",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

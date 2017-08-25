@@ -1,7 +1,0 @@
-{
-    "_id": "25252",
-    "description": "Now that we've put the hurt on them at the ruins, it's time to attack the ogres in their own territory.The Gordok are the \"upper class\" of the Gordunni clan, chosen to defend Dire Maul. They'll know we mean business once we start taking out their strongest members.Nothing fancy here, <name>. Just get out there and crack some Gordok skulls.",
-    "name": "Rulers of Dire Maul",
-    "requires_level": 34,
-    "zone": "Feralas"
-}

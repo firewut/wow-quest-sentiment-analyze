@@ -1,7 +1,0 @@
-{
-    "_id": "26770",
-    "description": "The Needlerock mystics have taken control of the fungal giants that have sprouted in their chasm, down below. Now they seek to control our war constructs.Go north into Needlerock Slag and do something about it! Isn't that what you're here for?",
-    "name": "Mystic Masters",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

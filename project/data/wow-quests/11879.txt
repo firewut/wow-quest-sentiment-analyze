@@ -1,7 +1,0 @@
-{
-    "_id": "11879",
-    "description": "You cannot defeat the being responsible for the slaughter of my kind by yourself. The mammoths of the tundra will help you!Venture forth to the plains and find a mammoth bull. He will allow you to mount him and control his movements and actions. Ride upon his back and find Kaw, north of here at Kaw's Roost. Together, you will be the instrument of Kaw's demise.Destroy Kaw's armies and take from Kaw his coveted war halberd. Return to Lathorius at the D.E.H.T.A. Encampment should you succeed.",
-    "name": "Kaw the Mammoth Destroyer",
-    "requires_level": 70,
-    "zone": "Borean Tundra"
-}

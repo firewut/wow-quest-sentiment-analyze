@@ -1,8 +1,0 @@
-{
-    "_id": "9403",
-    "description": "Now that you've learned a little lesson, I'll offer you something more substantial.  It concerns your ability to defend yourself in close combat.  Of course, you should only resort to melee in the most dire of circumstances, but that is no excuse to be unprepared.I can assist you in creating a staff befitting a mage of your learning.  Simply take the phial you retrieved for me and fill it at the base of Elrendar Falls.  Just follow the river southeast from here.",
-    "name": "The Purest Water",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Mage"
-}

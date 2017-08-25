@@ -1,8 +1,0 @@
-{
-    "_id": "42428",
-    "added_in_patch": 7,
-    "description": "The mighty Ancient, Ashamane, fell in battle against the Burning Legion ten thousand years ago. To honor her sacrifice, a group of devoted druids called the Ashen forged Ashamane's fangs into powerful daggers.Take my signet and present it to their leader, Delandros Shimmermoon. He will know that you have my blessing.Our flight master, Danise Stargazer, can see you to the shrine.",
-    "name": "The Shrine of Ashamane",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

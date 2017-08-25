@@ -1,8 +1,0 @@
-{
-    "_id": "10103",
-    "description": "With the arrival of Field Commander Romus and his forces, the Alliance and their draenei friends have grown bold. They're militarizing every old draenei ruin from here to Shattrath.In response, the trolls have established a new outpost in the eastern part of Zangarmarsh, just south of the Dead Mire. Swamprat Post, they're calling it. I'm glad they have a sense of humor about living in a place like that, because I wouldn't relish it.The post's commander has asked me to send anyone I can spare.",
-    "name": "Report to Zurai",
-    "requires_level": 61,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

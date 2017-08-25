@@ -1,7 +1,0 @@
-{
-    "_id": "7170",
-    "description": "",
-    "name": "Earned Reverence",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

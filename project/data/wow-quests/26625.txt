@@ -1,7 +1,0 @@
-{
-    "_id": "26625",
-    "description": "You have to put an end to this now!Go back northwest onto the front and kill their battle leader, Troggzor the Earthinator. Bring me his cudgel as proof.",
-    "name": "Troggzor the Earthinator",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

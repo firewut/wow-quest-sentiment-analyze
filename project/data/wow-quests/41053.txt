@@ -1,8 +1,0 @@
-{
-    "_id": "41053",
-    "added_in_patch": 7,
-    "description": "Now that you've rallied hunters from across Azeroth together, it's time to turn your attention to the battle against the Burning Legion.Within the Trueshot Lodge is the Altar of the Eternal Hunt. It is an ancient relic alive with old magic, and I believe it can be used to infuse your weapon with even greater might.Go inside the lodge and speak to Altar Keeper Biehn, who can instruct you in its use.",
-    "name": "Altar of the Eternal Hunt",
-    "requires_level": 98,
-    "zone": "Trueshot Lodge"
-}

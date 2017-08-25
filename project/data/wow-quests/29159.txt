@@ -1,7 +1,0 @@
-{
-    "_id": "29159",
-    "description": "We've fought hard to secure this area, but our foothold is tenuous.Our scouts report that the area around us is teeming with vicious fire spiders. They are the spawn of the vicious brood widow, Beth'tilac.Help us hold our line by clearing the area of Cinderweb Spinners or Cinderweb Creepers. It will drive her mad to see her children slain.",
-    "name": "Pyrorachnophobia",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

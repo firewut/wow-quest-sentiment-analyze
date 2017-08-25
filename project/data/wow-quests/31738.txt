@@ -1,9 +1,0 @@
-{
-    "_id": "31738",
-    "added_in_patch": 5,
-    "description": "How did my village become a battlefield?To the west, your Horde enemies cut down our precious orchard. Without our apple trees, we will have no harvest, no food, and no livelihood.If you are truly different than this Horde, show us! Help us protect our grove by killing those who defile the land.",
-    "name": "Pillaging Peons",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

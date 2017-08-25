@@ -1,8 +1,0 @@
-{
-    "_id": "10895",
-    "description": "It's time to strike Zeth'Gor from the air!  Our gryphon riders are ready for a sortie, <name>.  But they need someone on the ground to direct their fire.  Are you ready for a covert mission?Take these smoke beacons into Zeth'Gor, the Bleeding Hollow stronghold to the west.  They have four guard towers: one near their northern wall, one near their southern wall, one near their forge and another nestled in their foothills.  Place a beacon underneath each of the towers and we'll fly in and bomb them!",
-    "name": "Zeth'Gor Must Burn!",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

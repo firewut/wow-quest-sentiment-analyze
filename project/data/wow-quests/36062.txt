@@ -1,8 +1,0 @@
-{
-    "_id": "36062",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Kimzee Pinchwhistle",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

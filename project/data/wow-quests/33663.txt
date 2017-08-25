@@ -1,9 +1,0 @@
-{
-    "_id": "33663",
-    "added_in_patch": 6,
-    "description": "After the saberon stole from these plants, they were forced further up Steamscar Rise and barricaded themselves in. I could not find a way to get in but you have the solution.One path is blocked by a tangle of hard vines. I have heard you have a machine that could cut through that with ease.I would get on a shredder and take those vines down.",
-    "name": "Shredder vs. Saberon",
-    "requires_level": 93,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

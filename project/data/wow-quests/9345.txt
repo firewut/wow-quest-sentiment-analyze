@@ -1,8 +1,0 @@
-{
-    "_id": "9345",
-    "description": "Just as Zeth'Gor came into view, a Legion patrol caught sight of me. I ran, hoping to duck into one of the towers in the distance, but one of their felhounds caught up with me and nearly hamstrung me!I managed to escape, but my leg is in terrible shape. Stone Guard Ambelan found me and brought me here.Now, I have to find a way to tend to my leg. Spineleaf grows in and around the Valley of Bones to the north . A salve made from it will dull the pain enough for me to travel.",
-    "name": "Preparing the Salve",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

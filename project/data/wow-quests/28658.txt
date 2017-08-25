@@ -1,8 +1,0 @@
-{
-    "_id": "28658",
-    "description": "Supplies are never easy to find in a place like this, <class>.  We have been scouting since we captured the island but things are not looking good.Fortunately, we just  received a scouting report that a swamp full of crocs is just west of our base camp here.  The hides off those crocs will come in handy for our leatherworkers.  Bring back as many as you can.",
-    "name": "Swamp Bait",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "Tol Barad"
-}

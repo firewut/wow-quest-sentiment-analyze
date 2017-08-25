@@ -1,7 +1,0 @@
-{
-    "_id": "25875",
-    "description": "Mirkfallon Lake is crawling with Horde. The goblins have set up shop and they aren't going to leave until all the oil under Stonetalon is sucked dry.Thankfully I have a gnome on the inside that's been collecting information for us. If anyone knows what's going on with that bomb, it's my inside gnome.Make your way to the Sludgewerks, north of here, and find Minx. She'll be disguised as a \"goblin\" pump controller.",
-    "name": "Gnome on the Inside",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27992",
-    "description": "Getting useful machine parts out here on the island has been difficult, <name>.  We have been trying to repair the broken siege engines here in camp but we keep running out of useful parts.Our second regiment reported some wrecked out siege engines in a old battlefield to the west.  Maybe we could find some parts over there?You are going to have trouble finding anything in that old battlefield so take this magnetized scrap collector and put it to some good use.",
-    "name": "Magnets, How Do They Work?",
-    "requires_level": 85,
-    "zone": "Tol Barad Peninsula"
-}

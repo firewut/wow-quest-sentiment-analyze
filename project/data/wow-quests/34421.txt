@@ -1,9 +1,0 @@
-{
-    "_id": "34421",
-    "added_in_patch": 6,
-    "description": "<The orc spits out his last words.>They kept us in cages. They... drain our blood, for... rituals...<The Frostwolf coughs violently.>...many left --    -- my... people...<The orc dies.>",
-    "name": "Bled Dry",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Assault on the Dark Portal"
-}

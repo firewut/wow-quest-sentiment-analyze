@@ -1,8 +1,0 @@
-{
-    "_id": "42131",
-    "added_in_patch": 7,
-    "description": "Brace yourself, <name>. I am detecting a strange magic forming in the chamber. Something is projecting itself in.",
-    "name": "Unexpected Visitors",
-    "requires_level": 103,
-    "zone": "Demon Hunter Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37240",
-    "added_in_patch": 6,
-    "description": "Good ta see you again, mon!De Cenarion Circle sent Zen'kiki out here ta find some more of dem plants. We not likin' what we be seein' here.If ya find any more of dem leaves, bring one on back. Dey can see right through Zen'kiki's tree disguise, even when he plant himself in da ground!And dat make it harder to run!",
-    "name": "The Leaf-Reader",
-    "requires_level": 100,
-    "zone": "The Everbloom"
-}

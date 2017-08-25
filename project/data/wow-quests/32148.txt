@@ -1,9 +1,0 @@
-{
-    "_id": "32148",
-    "added_in_patch": 5.1,
-    "description": "Sure, they've got about plenty of grunts out there, pounding on our door, waiting to cut our heads off.\r\n\r\nI'm not worried about grunts. But they've got shamans and raiders, too. The shamans use their magic to empower the grunts, and the raiders are fast and specialize in taking out our buildings.\r\n\r\nI need you to get out there and kill some of those shamans and raiders.\r\n\r\nGo! Attack! Move!",
-    "name": "Attack! Move!",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Landfall"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8881",
-    "description": null,
-    "name": "Large Cluster Rockets",
-    "requires_level": 55,
-    "zone": "Lunar Festival"
-}

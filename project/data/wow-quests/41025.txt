@@ -1,8 +1,0 @@
-{
-    "_id": "41025",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Rise of the Fallen",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

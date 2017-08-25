@@ -1,9 +1,0 @@
-{
-    "_id": "36368",
-    "added_in_patch": 6,
-    "description": "All o' them mole machines got mighty unreliable here in Gorgrond. I hear tell that one of 'em might've crashed here in Tangleheart.\r\n\r\nSee if you can find Frenna. She would've been on the one we tracked to this location. I'll go lookin' for the mole machine to see if it can be repaired.",
-    "name": "Lost Lumberjack",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

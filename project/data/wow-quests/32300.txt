@@ -1,8 +1,0 @@
-{
-    "_id": "32300",
-    "added_in_patch": 5.2,
-    "description": "Well, it would seem the Lady Proudmoore has decided to use our own weaponry against us. Our perimeter wards reported several spies slipping through our defenses carrying tactical mana bombs.I would enjoy the irony if these bombs were less dangerous.Search for these bombs and disarm them. Our wards reported one near the horde ships to the north, one on a bridge to the main isle, and one near our scrying crystals on the eastern side of the Promontory.",
-    "name": "Disarming Irony",
-    "requires_level": 90,
-    "zone": "Quests"
-}

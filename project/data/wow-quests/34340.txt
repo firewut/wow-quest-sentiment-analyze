@@ -1,8 +1,0 @@
-{
-    "_id": "34340",
-    "added_in_patch": 6,
-    "description": "Greetings, <name>. I have been conducting research on the steam geysers of Gorgrond for some time now.Cragplume Cauldron is one of the largest caldera in this region, but we have been unable to do a geographical survey due to the dangerous creatures in this area.Since you are venturing into the depths, could you take a temperature reading for me?It would add greatly to our understanding of these natural caverns.",
-    "name": "Heating Up",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

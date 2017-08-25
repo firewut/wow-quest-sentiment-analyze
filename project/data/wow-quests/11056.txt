@@ -1,7 +1,0 @@
-{
-    "_id": "11056",
-    "description": "Do not draw attention to our conversation.  Adaris would not approve.I belong to the lowest caste of arakkoa, <name>.  During Terokk's rule I would've been sacrificed to the dark powers worshipped by his talonpriests.  If what you say is true and the talonpriests are seeking Terokk's return, then you must prevent them from succeeding - regardless of what your leader says!I've something to offer you that you'll find useful.  There is a package at my old dwelling in Upper Veil Shil'ak.  Bring it to me!",
-    "name": "Hazzik's Bargain",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

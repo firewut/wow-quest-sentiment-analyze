@@ -1,8 +1,0 @@
-{
-    "_id": "31082",
-    "added_in_patch": 5,
-    "description": "I know what you and the girl-panda seek. We can perform the rite for you... in time.First, I require aid. The seeds fall from our great mother-tree. It is our responsibility to collect them, even in dangerous times like these.Escort my chanters to the motherseeds, that they may bring them back to the collection pit.",
-    "name": "Great Vessel of Salvation",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

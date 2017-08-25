@@ -1,8 +1,0 @@
-{
-    "_id": "13594",
-    "description": "Evenar and the other apprentices may not be much use in a battle, but you look like you can more than hold your own. The Horde scum across the road to the east at Bathran's Haunt need to be taught a lesson.Their new warlord, Garrosh Hellscream, has them up to no good. Feel like teaching them a thing or two?I'd come with you, but my assignment is to stay here and protect Orendil's apprentices, and that's exactly what I'm going to do.",
-    "name": "Don't Forget the Horde",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Ashenvale"
-}

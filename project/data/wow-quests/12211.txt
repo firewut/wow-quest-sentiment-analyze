@@ -1,8 +1,0 @@
-{
-    "_id": "12211",
-    "description": "I don't understand it. The blight should have worked!No sense worrying about it now.<The apothecary seems relieved for some reason.>Though it doesn't work on the Onslaught for some strange reason, we still need to keep their priests from raising them.I have another idea, one that their corpses shouldn't have any protection from.<name>, take a container of my rats and unleash them upon any Onslaught corpses you come across at New Hearthglen. I starve the vermin, so they should be voracious!",
-    "name": "Let Them Not Rise!",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

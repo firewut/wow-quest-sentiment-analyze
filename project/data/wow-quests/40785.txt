@@ -1,8 +1,0 @@
-{
-    "_id": "40785",
-    "added_in_patch": 7,
-    "description": "I cannot believe the Dark Riders found us here. Long have they hunted the scythe to sate their lust for the artifacts of Azeroth. We thought we would be protected within the grove...\r\n\r\nAnd now, Valorn is gone...\r\n\r\nYou must become the hunter, <name>. Seek the Dark Riders and recover the scythe. We last encountered them near Manor Mistmantle in Duskwood. Start your search there.\r\n\r\nAnd <name>... bring justice to Valorn. The rider must pay.",
-    "name": "A Foe of the Dark",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38482",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Platinum Tracker",
-    "requires_level": 100,
-    "zone": "Quests"
-}

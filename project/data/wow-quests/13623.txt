@@ -1,8 +1,0 @@
-{
-    "_id": "13623",
-    "description": "Quickly, <name>. I will put the Bathran's Hair into this bag, but you must deliver it to my master, Orendil Broadleaf. You will find him at Maestra's Post, just south down the road on the left.But beware, we've received reports that the post is under attack from the Horde!",
-    "name": "Delivery for Orendil",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Ashenvale"
-}

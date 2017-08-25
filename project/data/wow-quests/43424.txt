@@ -1,8 +1,0 @@
-{
-    "_id": "43424",
-    "added_in_patch": 7,
-    "description": "<class>t, you've brought together the Silver Hand like no <class>t has done before. You've shown us that with determination and faith in the holy light we can overcome any challenge.Following in your example our workmen have toiled hard to improve the Altar of Ancient Kings, allowing it to unlock the true potential of your weapon.Their work is now complete! Step forward when you are ready and we shall begin.",
-    "name": "A Hero's Weapon",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

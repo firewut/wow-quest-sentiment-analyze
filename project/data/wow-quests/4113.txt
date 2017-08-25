@@ -1,7 +1,0 @@
-{
-    "_id": "4113",
-    "description": "",
-    "name": "Corrupted Songflower",
-    "requires_level": 48,
-    "zone": "Felwood"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41719",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Legion 110 H",
-    "requires_level": 90,
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36932",
-    "added_in_patch": 6,
-    "description": "<Raza'kul hands you the bloody heart.>The ritual is complete. Your nemesis is marked for death.Now your work to rid this world of the enemy truly begins. Kill all night elves that stand defiantly against the Horde. Let their deaths serve as a warning to the rest of the Alliance: they will leave Draenor or they will die.Return when you have quenched your rage with the blood of night elf.Conquer our enemy and be known as scourge of the Kaldorei. Fail and be nothing.",
-    "name": "Nemesis: Scourge of the Kaldorei",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

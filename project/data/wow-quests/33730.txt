@@ -1,9 +1,0 @@
-{
-    "_id": "33730",
-    "added_in_patch": 6,
-    "description": "-- THE MOTHER HAS BEEN DETECTED. WARNING! WARNING! --",
-    "name": "Engineering Her Demise",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

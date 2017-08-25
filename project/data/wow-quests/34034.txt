@@ -1,9 +1,0 @@
-{
-    "_id": "34034",
-    "added_in_patch": 6,
-    "description": "Commanda! Da Frostwolf orcs at Thunder Pass have reported a horrible grinding noise boomin' tru da canyon. We suspect it's some kind of Iron Horde war machine.Gazlowe has agreed ta investigate, but he be wantin' a cash bonus. Goblins! Meet wit him at Thunder Pass and deliver dis payment.",
-    "name": "Garrison Campaign: Grinding Gears",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

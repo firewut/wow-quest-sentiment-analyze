@@ -1,7 +1,0 @@
-{
-    "_id": "10159",
-    "description": "We've been fighting an ongoing battle to keep the pass through Thornfang Hill to the west clear of ravagers.  It would be bad if we were to become completely cut off from the refuge in Zangarmarsh.We don't want to displace the creatures, but there seems to be little choice as their attacks on travelers through the area have become more aggressive.Clear some of the ravagers out of there if you can.",
-    "name": "Keep Thornfang Hill Clear!",
-    "requires_level": 61,
-    "zone": "Hellfire Peninsula"
-}

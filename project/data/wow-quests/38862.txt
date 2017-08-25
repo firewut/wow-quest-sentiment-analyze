@@ -1,8 +1,0 @@
-{
-    "_id": "38862",
-    "added_in_patch": 7,
-    "description": "Why the Thistleleaf are collecting the Lunarwing eggs is anyone's guess, but you can be sure it's not to give them a loving home.Saylanna Riverbreeze will know what to do with these.",
-    "name": "Thieving Thistleleaf",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

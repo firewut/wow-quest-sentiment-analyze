@@ -1,7 +1,0 @@
-{
-    "_id": "8446",
-    "description": "Corruption seeps from this object.There may be a link between this object and the dragons coming forth from the Dream. You must find someone that can decipher the meaning of this item. Perhaps the druids of the Moonglade or Cenarion Hold could assist you further.",
-    "name": "Shrouded in Nightmare",
-    "requires_level": 60,
-    "zone": "Quests"
-}

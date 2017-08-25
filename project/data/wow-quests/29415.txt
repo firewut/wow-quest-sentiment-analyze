@@ -1,7 +1,0 @@
-{
-    "_id": "29415",
-    "description": "I told that courier to take the zeppelin, but no, he had to use the goblin ship! Well, now he's late and my precious family heirlooms are with him.If you're willing to help, would you go down to the docks east of Orgrimmar, board the goblin ship and see what's keeping him?",
-    "name": "Missing Heirlooms",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

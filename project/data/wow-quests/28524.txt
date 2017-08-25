@@ -1,7 +1,0 @@
-{
-    "_id": "28524",
-    "description": "Donova Snowden is a kind dwarf who frequents the nearby hot springs. She claims to be studying their magical properties.She is a kind person and has good relations with our tribe. As the Winterfall have become more and more aggressive, she has begun researching the cause of their corruption.I must keep my post here, but I have made a basket of refreshments for her. Please take it to her for me and tell her we await her next visit.",
-    "name": "Delivery for Donova",
-    "requires_level": 49,
-    "zone": "Winterspring"
-}

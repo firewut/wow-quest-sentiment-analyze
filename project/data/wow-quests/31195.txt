@@ -1,8 +1,0 @@
-{
-    "_id": "31195",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Ooked the Dooker",
-    "requires_level": 85,
-    "zone": "Quests"
-}

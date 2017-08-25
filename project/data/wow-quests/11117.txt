@@ -1,7 +1,0 @@
-{
-    "_id": "11117",
-    "description": "Here now. Ye hear that? There be sounds in them hills. Those're the wolpertingers! Wily beasts, they are, attracted by the smells o' Brewfest. I've a mind to catch me some, but I knocked me shin and can't outrun the buggers. Ye can help me, though!Take this net and cast it over the little blighters. Bring me a good five of 'em and I'll make it worth yer while!One more thing - ye gotta use Synthebrew Goggles to spot 'em! Let me know if ya need a pair.",
-    "name": "Catch the Wild Wolpertinger!",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

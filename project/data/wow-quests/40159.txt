@@ -1,8 +1,0 @@
-{
-    "_id": "40159",
-    "added_in_patch": 7,
-    "description": "There is one more demon hide to gather... but it isn't that of a demon. It's a dragon.Nythendra, great green dragon, has nearly been eaten up by the Nightmare. Only a master skinner would be able to remove what bits of bug-eaten hide remain on her body.Go on then, <name>. Show me what you've learned.",
-    "name": "The Pestilential Hide of Nythendra",
-    "requires_level": 110,
-    "zone": "Skinning"
-}

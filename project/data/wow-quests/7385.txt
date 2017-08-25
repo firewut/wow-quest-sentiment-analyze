@@ -1,7 +1,0 @@
-{
-    "_id": "7385",
-    "description": "",
-    "name": "A Gallon of Blood",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

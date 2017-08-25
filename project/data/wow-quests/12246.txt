@@ -1,7 +1,0 @@
-{
-    "_id": "12246",
-    "description": "The furbolgs that live east of here are more aggressive and bestial than the ones we're used to.  Our forces have squared off with them more than once, and the survivors always speak of a dark, slimy substance dripping from their corpses.Their condition could be linked with the contaminants we found on Vordrassil's remains.Bring me samples of the furbolgs' blood.  You will find them in the Rage Fang Shrine and the Heart's Blood Shrine, far to the east.",
-    "name": "A Possible Link",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

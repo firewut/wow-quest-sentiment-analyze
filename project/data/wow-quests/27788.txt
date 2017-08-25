@@ -1,7 +1,0 @@
-{
-    "_id": "27788",
-    "description": "It was a trap! Cho'gall lured you in with the Hammer of Twilight so that his gronn could finish you off.Survive and slay Skullcrusher the Mountain!",
-    "name": "Skullcrusher the Mountain",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

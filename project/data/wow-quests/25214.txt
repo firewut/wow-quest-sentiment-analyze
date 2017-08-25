@@ -1,8 +1,0 @@
-{
-    "_id": "25214",
-    "description": "We really don't have time to rescue those that are incompetent enough to get themselves captured over and over. Still, since I have some extra rockets leftover, this problem should be a snap.Take these single-stage booster rockets down into the Slave Pits to the north and put them on the cages.The cage will lift off into orbit and those idiots will be freed.",
-    "name": "Escape Velocity",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27344",
-    "description": "I am not the only one impressed by your progress <name>. Your mastery of bow and pet and your dedication to the Alliance have reached the ears of King Wrynn.In recognition of your service, the king has commissioned the royal bowyer to craft a special weapon.The cursed Shadowfang Keep in Silverpine Forest is home to the unique materials needed for your weapon. Travel there and obtain the scope from Lord Godfrey's gun, a supply of moontouched wood, and sinew from the ghouls and geists infesting the keep.",
-    "name": "A Well-Earned Reward",
-    "requires_level": 20,
-    "zone": "Hunter"
-}

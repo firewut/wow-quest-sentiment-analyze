@@ -1,7 +1,0 @@
-{
-    "_id": "36566",
-    "description": "",
-    "name": "Bonus Objective: Stonemaul Arena",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12989",
-    "description": "The vile jormungar have taken over most of the Hibernal Cavern.  They are despicable beings... children of Loken, Thorim's scumsucker of a brother.As Thorim's servants we owe it to ourselves to kill these scum where we find them.  You'll find the cavern just east of here, outside the village.",
-    "name": "The Slithering Darkness",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11040",
-    "description": "You can count on one hand the number of times I've collaborated with a goblin. We're far more likely to be in competition with them, but when I received Rocket-Chief Fuselage's request, I just couldn't refuse him.This crate is full of parts I'm not using here, but that the rocket-chief might be able to put to use on his project. Would you be kind enough to deliver them if you're on your way to Area 52?Who knows, maybe some fine gnomish parts could keep his creation from exploding!",
-    "name": "Parts for the Rocket-Chief",
-    "requires_level": 67,
-    "zone": "Blade's Edge Mountains"
-}

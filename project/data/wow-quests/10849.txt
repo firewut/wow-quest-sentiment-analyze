@@ -1,7 +1,0 @@
-{
-    "_id": "10849",
-    "description": "Other arakkoa took part in the betrayal of Terokk.Kirrik recognized Terokk as a charlatan, not a prophet. The only prophecy Terokk envisioned was the doom borne of his own bidding.It was Kirrik who led us bravely from Skettis. After our pilgrimage to Shattrath, Kirrik traveled to the colonies in search of others.This missive tells of what the Eyes have seen. Kirrik must be told! Follow the road south out of Shattrath to the Bone Wastes and look for the caravan.",
-    "name": "Seek Out Kirrik",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

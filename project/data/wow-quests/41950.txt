@@ -1,8 +1,0 @@
-{
-    "_id": "41950",
-    "added_in_patch": 7,
-    "description": "You have proven yourself an ally of the Thorignir and we will lend you our strength. I would ask one last favor of our new champion, though. \r\n\r\nThe dragon who guided you to me awaits his vengeance against the vrykul. Together I wish for you to show these Drekirjar what it means to cross the Thorignir. Their toll must be paid in blood.\r\n\r\nSpeak to Vethir when you are ready.",
-    "name": "Cry More Thunder!",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10526",
-    "description": "If the vision that I granted you is true, then you must travel down into the ravine and to the south end of Bloodmaul Ravine.  There you will find the Draenethyst Mine.Journey to the back of the mine, and retrieve the Thunderspike.  Ignore everything else!  I have no interest in the crystals of the mine, nor the ogres therein.As soon as you have the spear return it to me here!And, <name>, be very careful with it... I would hate to think what would happen to you should you break it.",
-    "name": "The Thunderspike",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35509",
-    "added_in_patch": 6,
-    "description": "I am pretty sure those dwarves took the artifact in that iron fort there.Are you going to go get it?",
-    "name": "Will of the Genesaur",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

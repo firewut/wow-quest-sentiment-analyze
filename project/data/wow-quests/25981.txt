@@ -1,7 +1,0 @@
-{
-    "_id": "25981",
-    "description": "<name>, there are these demon squid-things out there that are eating gilblins' heads and then taking them over! That's one way to get slaves.Think you could swim out northwest onto Deepfin Ridge or into the Sira'kess Front and bring me back some of those Merciless things?",
-    "name": "Those Aren't Masks",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

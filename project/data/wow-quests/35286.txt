@@ -1,9 +1,0 @@
-{
-    "_id": "35286",
-    "added_in_patch": 6,
-    "description": "Commander <name>, it's an honor.We're barely holding on, sir. We have a week's supplies at best, assuming we have any troops left to supply in that time.We have just enough material left to put up an inn or a trading post.The inn would allow us to station reinforcements here, while the trading post would allow supply routes with the outcasts nearby.We need your authorization for the project, commander. It's your decision.",
-    "name": "Orders, Commander?",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

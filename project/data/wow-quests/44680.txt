@@ -1,8 +1,0 @@
-{
-    "_id": "44680",
-    "added_in_patch": 7,
-    "description": "We cannot let our current situation overshadow the Unseen Path's mission to protect the people of Azeroth.There are many in this world who could use our help.As our leader, you can set the example by aiding those in need.",
-    "name": "Leading by Example",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

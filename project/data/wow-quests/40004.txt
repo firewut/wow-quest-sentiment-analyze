@@ -1,8 +1,0 @@
-{
-    "_id": "40004",
-    "added_in_patch": 7,
-    "description": "To lead his tainted forces,  the God-King has enlisted demons of great power to act as his lieutenants. If we wish to end his assault, we will need to take their leaders.\r\n\r\nThese demons are too powerful for most mortals to face, but with the power of Stormheim at your disposal, they will prove no match for you. \r\n\r\nTake them down, and shatter the spine of Skovald's offensive!",
-    "name": "Break the Spine",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

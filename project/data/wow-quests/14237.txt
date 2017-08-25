@@ -1,8 +1,0 @@
-{
-    "_id": "14237",
-    "description": "Kilag should be in position by now. It is time for you to move forward to the Wild Overlook. The rest of us will pack up here and move out soon.Just follow the path northwest through the Vicious Vale. Not so vicious any longer thanks to you, eh?Kilag and his scouts will be keeping themselves hidden just off the path, but the SI:7 assassins are sure to spot them soon, so hurry!",
-    "name": "Forward Movement",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

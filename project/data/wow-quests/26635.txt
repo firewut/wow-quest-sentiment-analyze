@@ -1,7 +1,0 @@
-{
-    "_id": "26635",
-    "description": "Help out a fellow swabbie?Keelhaul asked me to gather up some cannonballs at the bottom of the ocean.  Let me tell you why this doesn't work for me.- One: I have tiny arms.  Look at them!  Do you really think I can pick up a cannonball, even underwater?- Two: I have a weak respiratory system.  I start to white out after holding my breath for more than ten seconds.- Three: There are sharks.You gotta help me, <name>!  I've been demoted as far as I can... I don't want to see what comes next!",
-    "name": "Cannonball Swim",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

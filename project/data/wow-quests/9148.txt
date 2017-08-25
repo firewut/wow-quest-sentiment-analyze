@@ -1,7 +1,0 @@
-{
-    "_id": "9148",
-    "description": "I... I'm too weak to continue.  I carry a dire warning from Regent Lord Theron, in the form of a letter.  You'll have to deliver it for me.Take it to Arcanist Vandril in Tranquillien.  You'll find the town further to the south along this road.  Go there and... find Vandril...",
-    "name": "Delivery to Tranquillien",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

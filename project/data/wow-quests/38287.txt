@@ -1,8 +1,0 @@
-{
-    "_id": "38287",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Raw Beast Hides",
-    "requires_level": 90,
-    "zone": "Engineering"
-}

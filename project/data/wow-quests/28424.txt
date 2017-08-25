@@ -1,7 +1,0 @@
-{
-    "_id": "28424",
-    "description": "Ner'gosh the Shadow is the leader of those warlocks to our north.  He's the jerk that kicked me out of my home once those Blackrock orcs started showing up.  Well, they're all jerks, but he's the jerkiest.If I'm ever going to move back in near the Altar, Ner'gosh has to go.",
-    "name": "Shadow Boxing",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

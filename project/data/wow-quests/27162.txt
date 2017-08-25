@@ -1,8 +1,0 @@
-{
-    "_id": "27162",
-    "description": "The Scholomance is one of the few Scourge holdouts remaining west of the Thondroril.  The headmaster of Scholomance, a cultist by the name of Darkmaster Gandling, has made an appearance on the battlefield.This will be his final mistake.You will find Gandling in a square near the southern end of town.  I want you to fight and weaken Gandling.  I will join you to help finish him off.",
-    "name": "Scholomancer",
-    "requires_level": 34,
-    "side": "alliance",
-    "zone": "Western Plaguelands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10314",
-    "description": "The strange magical device resembles nothing you've ever seen before. It's certainly not of blood elf manufacture.As you sense spirits moving closer to the building, the orb glows with a greater intensity, which fades as the spirits leave. There's no question that it plays a role in the corruption of the ghosts.How it works remains a mystery. Perhaps Custodian Dieworth will have some insight if you can provide the remains of some of the spirits along with your observations.",
-    "name": "A Lingering Suspicion",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

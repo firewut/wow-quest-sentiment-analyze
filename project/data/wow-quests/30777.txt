@@ -1,8 +1,0 @@
-{
-    "_id": "30777",
-    "added_in_patch": 5,
-    "description": "I have bad news. When I returned, Suna was already gone.The others say that she took her things and headed down the road to the east, muttering about hunting down the source of the yaungol aggression.I cannot allow her to venture into dangerous territory alone.I've already prepared a group of soldiers to push further east.We are leaving shortly. Hop on the caravan if you wish to travel with the Shado-Pan. You can also meet us there if you wish.",
-    "name": "In Search of Suna",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

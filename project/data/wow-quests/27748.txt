@@ -1,7 +1,0 @@
-{
-    "_id": "27748",
-    "description": "We have to keep moving, <name>. It's just a matter of time before those troops get their act together.The coffer should be just beyond these ruins.Stay on your toes. Something tells me this isn't over yet...",
-    "name": "Fortune and Glory",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

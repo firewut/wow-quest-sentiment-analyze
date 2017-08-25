@@ -1,8 +1,0 @@
-{
-    "_id": "33961",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Frostfire Flowerpicker",
-    "requires_level": 90,
-    "zone": "Talador"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12475",
-    "description": "After the betrayal at the Forgotten Shore, Prince Arthas - with Muradin in tow - began his quest for Frostmourne. Could the location of the cavern where Frostmourne was found be near? What secrets could it hold? While the orb has no answers for these questions, it does show me something.To the northeast of Wintergarde Keep is an outpost built by the Scarlet Onslaught. Somewhere within that outpost is a map. The orb tells me that this map will be of great use to us.Retrieve it!",
-    "name": "What Secrets Men Hide",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

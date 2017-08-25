@@ -1,8 +1,0 @@
-{
-    "_id": "32858",
-    "added_in_patch": 5.3,
-    "description": "The gloves are stitched together roughly, and by the smell of it, they've been treated with crawler mucus. Nevertheless, they appear sturdy and functional.Somewhat unsurprisingly, the inner seam bears the following words:RETURN TO BRAWLER'S GUILD",
-    "name": "Raptorhide Boxing Gloves",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10999",
-    "description": "Bring me 8 trogg stone teeth.",
-    "name": "One Shot, One Kill",
-    "requires_level": 1,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10210",
-    "description": "Welcome to Shattrath City, <class>.  This might be the one place in all of Outland where you'll find any semblance of safety.A group of naaru known as the Sha'tar drove the demons away from here.If you've never met a naaru, you ought to see A'dal inside the Terrace of Light.  The leader of the Sha'tar is an awe-inspiring sight if I ever saw one.  Sure is a change of pace from anything else in this bleak land.",
-    "name": "A'dal",
-    "requires_level": 60,
-    "zone": "Terokkar Forest"
-}

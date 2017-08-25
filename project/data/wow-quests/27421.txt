@@ -1,7 +1,0 @@
-{
-    "_id": "27421",
-    "description": "Scourge forces have made it a point to ensure that nothing survives in the Fungal Vale - all you will find are husks of rotted mushrooms and scorched grasses.  The three corners of the vale are home to three large ziggurats, which they use to reanimate their dead and summon new soldiers to the battlefield.Yet even in this evil, lifeless place, life finds a way to flourish.  Take my seeds and plant them in the centers of these ziggurats.  Prove to them that life will prevail.",
-    "name": "Amidst Death, Life",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

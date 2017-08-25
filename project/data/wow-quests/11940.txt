@@ -1,7 +1,0 @@
-{
-    "_id": "11940",
-    "description": "I need more drake hatchlings to continue researching the runes covering their bodies.They can be found around the northwest edge of the valley....<Raelorasz pokes his hand with a spear and coats the tip with his blood.>Take this and use it on one of them. Wait for it to become subdued, then bring it here to me before it expires.",
-    "name": "Drake Hunt",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

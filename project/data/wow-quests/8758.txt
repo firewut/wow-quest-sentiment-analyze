@@ -1,7 +1,0 @@
-{
-    "_id": "8758",
-    "description": "",
-    "name": "The Path of the Invoker",
-    "requires_level": 60,
-    "zone": "Tanaris"
-}

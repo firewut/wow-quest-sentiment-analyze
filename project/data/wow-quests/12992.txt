@@ -1,7 +1,0 @@
-{
-    "_id": "12992",
-    "description": "Dem vrykuls at the Jotunheim needs to be crushed!<name> crush dems good!",
-    "name": "Crush Dem Vrykuls!",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

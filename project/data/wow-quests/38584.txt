@@ -1,8 +1,0 @@
-{
-    "_id": "38584",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Max-level Choice Tracker: Tanaan 6.2 - Group - Throne of Kil'jaeden",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

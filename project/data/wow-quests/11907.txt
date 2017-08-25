@@ -1,8 +1,0 @@
-{
-    "_id": "11907",
-    "description": "It is known that Gearmaster Mechazod has four sub-chieftains that manage the robots in the pools.We must put an end to them!Our longrunners and snow trackers say that if you were to turn the valves at the west point, north point, mid point and south point stations, each of his sub-chieftains would come quickly to prevent you from fouling their operations.The stations are centered on the spinning lights in the pools surrounding the pumping station.Hurry, <name>!",
-    "name": "The Sub-Chieftains",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

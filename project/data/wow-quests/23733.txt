@@ -1,8 +1,0 @@
-{
-    "_id": "23733",
-    "description": "Today, you have undertaken a rite of passage far more difficult than we ask of most of our youths. Be proud. Now, it is time for you to continue on your journey.To the west, beyond our burial ground, you will find a path winding up the mesa. Follow it to the top, and speak with Dyami Windsoar.Walk with the Earth Mother, friend. You will always be welcome here.",
-    "name": "Rites of the Earthmother",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Mulgore"
-}

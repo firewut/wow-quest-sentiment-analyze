@@ -1,7 +1,0 @@
-{
-    "_id": "14095",
-    "description": "A whole tooth from a dead Kraken is a rare find indeed.  Crusader Silverdawn will want to see this.",
-    "name": "Identifying the Remains",
-    "requires_level": 78,
-    "zone": "Tournament"
-}

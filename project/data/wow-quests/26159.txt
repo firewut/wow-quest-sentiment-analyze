@@ -1,8 +1,0 @@
-{
-    "_id": "26159",
-    "description": "Like any good bloodmage, I perform my magic with blood.  All blood is different, and the Blasted Lands has several useful flavors, if you know where to look.For our purposes?  Basilisks and hyenas, even amounts.  We're going to need plenty of it.  Head west, to the center of the Blasted Lands.  And don't forget... you can use that teleporter!",
-    "name": "The First Step",
-    "requires_level": 54,
-    "side": "alliance",
-    "zone": "Blasted Lands"
-}

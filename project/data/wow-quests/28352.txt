@@ -1,7 +1,0 @@
-{
-    "_id": "28352",
-    "description": "Greetings, friend!You are always most welcome in my humble tent.Looking for something to do? Sullah has just the thing!Camels are good to have in hand regardless, but when putting together a performance the likes of my sideshow, they are an absolute must!Take this harness and use it to subdue a wandering camel.You may have to, uhh, humble it a bit first... if you know what I mean.You'll find a desert full of wild camels to the south.",
-    "name": "Camel Tow",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

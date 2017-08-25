@@ -1,8 +1,0 @@
-{
-    "_id": "29997",
-    "added_in_patch": 5,
-    "description": "Since you were so helpful at the mines, would you be willing to help us with a small problem here at the temple?Wise Mari has been complaining recently of a disturbance in his temple.The water elementals have gotten quite playful recently, and made off with his ceremonial staff.If you could help him, I would be most grateful. I may even put in a word with the Jade Serpent for you.Just follow the path to the north.",
-    "name": "The Scryer's Dilemma",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13216",
-    "description": "An old foe of yours has returned: Sigrid Iceborn. Perhaps you remember besting her in a duel upon the Savage Ledge?No matter, she certainly remembers you. She's insisting upon a chance to prove herself once more.Personally, I think it's more a chance for revenge, but that too can be useful in this place.I leave it up to you, <name>. Will you face Sigrid Iceborn once more?",
-    "name": "Battle at Valhalas: The Return of Sigrid Iceborn",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

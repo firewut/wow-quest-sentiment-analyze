@@ -1,8 +1,0 @@
-{
-    "_id": "44262",
-    "added_in_patch": 7,
-    "description": "The Arcway is even more vast than we thought, and holds many dangers. If we have any hope of taking the city, we must first see to the underground.\r\n\r\nEnter The Arcway and clear out any, and all enemies.",
-    "name": "The Arcway",
-    "requires_level": 110,
-    "zone": "The Arcway"
-}

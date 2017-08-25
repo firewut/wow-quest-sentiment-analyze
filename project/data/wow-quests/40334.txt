@@ -1,8 +1,0 @@
-{
-    "_id": "40334",
-    "added_in_patch": 7,
-    "description": "If you detest these serpents as much as we do, I ask that you continue the fight against them.That will mean fighting them in their watery domain. I don't see any gills on you, so we're going to have to concoct an old tonic used by vrykul fishermen.The ingredients are plentiful around here, taken that you do not mind picking through entrails.",
-    "name": "Fisherman's Tonic",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9139",
-    "description": "We've had one success, but there are two more villages that must be reclaimed!Goldenmist Village is our next target. It lies to the northwest, and has been taken by the ghosts of the high elves that used to live there. Gruesome, I know, but these are apparently the sorts of tactics that the Scourge like to employ.Go and defeat these ghosts and wraiths, <class>. Take the west road out of Tranquillien to get there.",
-    "name": "Goldenmist Village",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

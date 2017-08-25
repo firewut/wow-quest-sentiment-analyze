@@ -1,9 +1,0 @@
-{
-    "_id": "35666",
-    "added_in_patch": 6,
-    "description": "Gorgrond is a very dangerous place and I've sent scouting squads out to investigate various regions.I've sent one squad to the marsh called the Crimson Fen and they've not come back yet.  I'd like you to find the missing squad and get a report if possible.",
-    "name": "Rangari in the Red",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

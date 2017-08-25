@@ -1,7 +1,0 @@
-{
-    "_id": "9821",
-    "description": "<Gordawg picks up a rock and begins to chew on it.>Gordawg tastes. Gordawg knows where this earth has been.<Gordawg raises one of his massive legs and stomps the ground.>Look. See Nagrand.<Gordawg directs you to the imprint of his foot. Within the imprint you see what appears to be a perfect geological map of Nagrand, marked with the locations of where you can find the elementals Gordawg wants you to destroy.>BREAK THEM! Bring Gordawg the pieces to eat.Take the map.",
-    "name": "Eating Damnation",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

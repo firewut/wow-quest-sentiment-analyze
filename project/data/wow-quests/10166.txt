@@ -1,7 +1,0 @@
-{
-    "_id": "10166",
-    "description": "This pendant brings back memories of a different time.  A better time.Unfortunately, memories are the last thing I need right now.I want you to bury this by the runestone in the Scorched Grove.  It was there that I first met the treant elder.  Put my old friend's memory to rest.",
-    "name": "Whitebark's Memory",
-    "requires_level": 7,
-    "zone": "Eversong Woods"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13130",
-    "description": "You may look at Scourgeholme now and see a rancid pit of decay, but one day it will be a place of glory and honor. Highlord Fordring has deemed it \"Justice Keep.\"Alas, even an impregnable fortress like Icecrown Citadel began with but a single stone. So begins our search for the stone to start a revolution.Travel to Crystalsong, south of here, and seek out the Unbound Thicket in the east. Once there gather crystalline heartwood from the thicket floor and elven masonry from the Ruins of Shandaral.",
-    "name": "The Stone That Started A Revolution",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

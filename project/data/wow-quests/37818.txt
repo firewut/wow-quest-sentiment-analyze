@@ -1,8 +1,0 @@
-{
-    "_id": "37818",
-    "description": "We been tryin' out a new way to temper weapons with ice ravager carapaces. Der icy hides are perfect for da process.Hivelord Ik'rix in da Southwind Cliffs nearby is rumored to be da largest ravager we ever seen - if you could bring its carapace back, we'd be able to make all sorts of things!",
-    "name": "Death to Hivelord Ik'rix!",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11898",
-    "description": "On the lowest tier of the Temple City, there is a gray altar bathed in light. Step into it to gain entry to the dread necropolis Naxxanar.Be cautious, <name>. Prince Valanar will certainly be defended by his personal retainers, who will give their lives to keep you from ascending to the top level of the necropolis.You must find your way through the necropolis to the prince's seat. If you fail to defeat him, <name>, I fear my people will never know the safety Icemist offers.",
-    "name": "Breaking Through",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

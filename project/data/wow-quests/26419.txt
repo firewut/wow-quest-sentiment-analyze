@@ -1,7 +1,0 @@
-{
-    "_id": "26419",
-    "description": "<The ground rumbles as the idol sits on the altar, and the lake below roils! Shadra is emerging!>",
-    "name": "Shadra the Venom Queen",
-    "requires_level": 32,
-    "zone": "The Hinterlands"
-}

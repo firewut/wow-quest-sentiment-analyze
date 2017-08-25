@@ -1,8 +1,0 @@
-{
-    "_id": "35420",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Halls of Origination Bonus Rewards",
-    "requires_level": 84,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "12206",
-    "description": "Have you read the wanted poster? What is the high executor thinking?!<Vicky looks around and continues in hushed tones.>We can't very well have those Scarlet Onslaught idiots being raised by their priests, or worse, rising as the Scourge, now can we?No, I'm in total agreement with you, we have to do something about the corpses.I have just the thing. Take this blight that we just created and test it on the prisoner in the cage right here.No muss, no fuss, no returning enemies.",
-    "name": "Blighted Last Rites",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

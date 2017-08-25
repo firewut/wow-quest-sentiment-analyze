@@ -1,8 +1,0 @@
-{
-    "_id": "30147",
-    "added_in_patch": 5,
-    "description": "The Order of the Cloud Serpent's history stretches back thousands of years, and although we have tried to preserve the old ways, there are ancient techniques that have been lost over time.You can help us recover some of this knowledge by searching Pandaria's dig sites for clues to our past.Use your archaeology skill to survey around Pandaria and bring me whatever you find.",
-    "name": "Fragments of the Past",
-    "requires_level": 90,
-    "zone": "The Arboretum"
-}

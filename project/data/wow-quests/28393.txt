@@ -1,7 +1,0 @@
-{
-    "_id": "28393",
-    "description": "SI:7's latest report about Twilight's Hammer and Dark Iron activity worries me, <name>. There's evidence that they are preparing a joint attack from within Blackrock Mountain. We'll be hard-pressed to turn back such a combined force, but if we act before they're ready to strike, we might be able to blunt the attack.You must go into Blackrock Depths and capture the Twilight's Hammer attack plans from General Angerforge in the West Garrison. Do not hesitate to take out the elementals supporting his forces.",
-    "name": "A Dangerous",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

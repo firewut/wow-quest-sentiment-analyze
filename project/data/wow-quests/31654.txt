@@ -1,8 +1,0 @@
-{
-    "_id": "31654",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Doors to Vale OPEN",
-    "requires_level": 87,
-    "zone": "Quests"
-}

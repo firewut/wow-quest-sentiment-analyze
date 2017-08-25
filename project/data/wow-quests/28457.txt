@@ -1,8 +1,0 @@
-{
-    "_id": "28457",
-    "description": "The Shattered Hand believes that the Dark Iron dwarves and Twilight's Hammer are working together. There's evidence that they are preparing a joint attack from within Blackrock Mountain. We can't allow such a force to depart Blackrock Mountain.You must go into Blackrock Depths and capture the Twilight's Hammer attack plans from General Angerforge in the West Garrison. Eliminate the elementals Twilight's Hammer has provided to support his forces.",
-    "name": "A Dangerous",
-    "requires_level": 50,
-    "side": "horde",
-    "zone": "Blackrock Depths"
-}

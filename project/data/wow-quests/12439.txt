@@ -1,7 +1,0 @@
-{
-    "_id": "12439",
-    "description": "Another force threatens to destroy all that we have worked for, <name>. You must head westward to Stars' Rest. Archmage Modera has sensed a great disturbance in the magical ley lines of our world that must be dealt with immediately!Go now, <name>! Speak to Rodney Wells at the gryphon station here in Wintergarde and let him know the nature of your mission. He will place you on his fastest gryphon to deliver you to Stars' Rest. Speak with Archmage Modera when you arrive.",
-    "name": "A Disturbance In The West",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

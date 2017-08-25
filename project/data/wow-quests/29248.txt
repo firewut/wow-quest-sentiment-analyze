@@ -1,7 +1,0 @@
-{
-    "_id": "29248",
-    "description": "Having been burned so badly, Arch Druid Hamuul is suffering from edema - swelling of the body's tissues. It takes a great deal of his attendants' effort to keep his swelling down enough for him to breathe.Normally, to reduce this swelling, we make cuts in his flesh, but he is weak, <name>. I cannot cut him today. I need your help.Flamewaker scales will aid with the swelling, but you need a lot of them.",
-    "name": "Releasing the Pressure",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

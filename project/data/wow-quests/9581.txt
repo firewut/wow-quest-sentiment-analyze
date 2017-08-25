@@ -1,7 +1,0 @@
-{
-    "_id": "9581",
-    "description": "Welcome to Blood Watch, <class>. Seeing to the defenses of the outpost is my primary concern, but I've also been tasked with a variety of other duties by our leaders at the Exodar.The problem is that it's hardly safe to send out large amounts of researchers when the island is this dangerous. I need someone to gather a series of crystal samples from various sites on the island.The first sample I need must come from the ravager infested ship debris south of the town and across the bridge.",
-    "name": "Learning from the Crystals",
-    "requires_level": 10,
-    "zone": "Bloodmyst Isle"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9711",
-    "description": "Matis will be brought to justice, <name>; and I want you to be the one to find him and bring him back to the Triumvirate.Scour the island for this killer. Should you find him, use this flare gun. When my trackers see the flare, they'll come and assist in capturing Matis. Return to me after he's been captured.",
-    "name": "Matis the Cruel",
-    "requires_level": 15,
-    "zone": "Bloodmyst Isle"
-}

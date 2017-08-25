@@ -1,7 +1,0 @@
-{
-    "_id": "10819",
-    "description": "I have a very special mission for you, <name>. I need you to infiltrate Forge Camp: Anger east of here. When you enter the camp you will need to wear the Felsworn gas mask and locate the Legion communicator. Once you have located the communication device speak with whomever is on the other side of the device.If all works out you can trick the demon into something devious! Try telling the demon that Camp Anger has revolted.Good luck to you <Class>.",
-    "name": "Felsworn Gas Mask",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10915",
-    "description": "They are feeding the souls they steal to a coffin that they have dragged out from the Auchenai Crypts. My scouts believe the contents of the coffin to contain the first exarch of the crypts. They seek to resurrect the ancient one!You must battle your way to the western side of Auchindoun and disturb the contents of that coffin before they feed it enough souls. Should you lose your way, follow the walking souls.Destroy whatever is inside that coffin!",
-    "name": "The Fallen Exarch",
-    "requires_level": 63,
-    "zone": "Terokkar Forest"
-}

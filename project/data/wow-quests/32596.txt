@@ -1,8 +1,0 @@
-{
-    "_id": "32596",
-    "added_in_patch": 5.2,
-    "description": "I'm beginning to see the bigger picture, now, and how the mogu relate to the Titans. But every answer brings with it more questions!The only way to put this puzzle together is to find every scrap of Titan information we can scavenge from the Thunder King's palace. Destroy the Thunder King and his minions and collect as many Titan runestones as you can find!",
-    "name": "Echoes of the Titans",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

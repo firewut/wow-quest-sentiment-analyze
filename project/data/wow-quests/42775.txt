@@ -1,8 +1,0 @@
-{
-    "_id": "42775",
-    "added_in_patch": 7,
-    "description": "We have Akama. Cordana Felsong has been eliminated. And, we have the Sargerite Keystone.\r\n\r\nEverything is falling into place.\r\n\r\nThe honor is all yours, <name>.",
-    "name": "The Crux of the Plan",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

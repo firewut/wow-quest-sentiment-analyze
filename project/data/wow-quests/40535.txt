@@ -1,8 +1,0 @@
-{
-    "_id": "40535",
-    "added_in_patch": 7,
-    "description": "Word travels fast around Dalaran, <name>. And the latest word is that there's a master jewelcrafter somewhere in Val'sharah.I want you to go down there and find this master.  Perhaps they have designs that can help bolster business here at the shop.I've heard the name \"Lasune Darkblade\" tied to these rumors. She might be a good place to start looking.",
-    "name": "Raising the Drogbar",
-    "requires_level": 102,
-    "zone": "Jewelcrafting"
-}

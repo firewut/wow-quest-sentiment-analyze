@@ -1,7 +1,0 @@
-{
-    "_id": "5631",
-    "description": "A priestess recently visited our halls seeking you out, young <race>. She said that she was on a mission to find you and that you should return to the Temple of the Moon in Darnassus as soon as possible. When you arrive, seek out a Priestess Alathea--she will tell you more.The Light be with you, <name>.",
-    "name": "Returning Home",
-    "requires_level": 10,
-    "zone": "Priest"
-}

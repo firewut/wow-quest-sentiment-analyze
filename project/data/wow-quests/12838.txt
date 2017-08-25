@@ -1,7 +1,0 @@
-{
-    "_id": "12838",
-    "description": "I need to know what the Scarlet Onslaught is planning today. You will be my instrument in this task.Fly to Onslaught Harbor and rifle through their baggage trunks for documents. The trunks will be locked, so you'll have to take the keys from the Scarlet Onslaught members by whatever means.",
-    "name": "Intelligence Gathering",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

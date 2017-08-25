@@ -1,8 +1,0 @@
-{
-    "_id": "34723",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Ironfist Harbor",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

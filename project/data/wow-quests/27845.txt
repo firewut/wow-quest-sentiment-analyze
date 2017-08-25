@@ -1,7 +1,0 @@
-{
-    "_id": "27845",
-    "description": "We've taken more than we've lost, but we've still lost too much. Too many brave have given their lives for the Alliance out there. I want to make sure they're given proper honors no matter how fierce this battle gets.Take these flags out with you and place one on any fallen soldier you see. The protective wards on them won't offer much protection against any defilement, but it's better than nothing. I'll be able to better judge how many we've lost from a distance, as well.",
-    "name": "Marking the Fallen",
-    "requires_level": 52,
-    "zone": "Swamp of Sorrows"
-}

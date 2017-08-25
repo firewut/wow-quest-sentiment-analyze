@@ -1,7 +1,0 @@
-{
-    "_id": "11389",
-    "description": "The sentinels within the Arcatraz have gone haywire. The prisoners run rampant and the guards attack those that would help.Mah'duun hears the speaker on the nether winds. The speaker says to destroy the sentinels.Accomplish this and today's bounty is yours.",
-    "name": "Wanted: Arcatraz Sentinels",
-    "requires_level": 70,
-    "zone": "Quests"
-}

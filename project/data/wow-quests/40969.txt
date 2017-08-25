@@ -1,8 +1,0 @@
-{
-    "_id": "40969",
-    "added_in_patch": 7,
-    "description": "I will take these tomes to Thalrenus.\r\n\r\nThere is one thing that weighs heavily on my mind, and I would like for you to attend to it in my stead. \r\n\r\nMy wife and life partner, Syrana Starweaver, resides in the Starweaver's Sanctum across the bridge. It fell shortly after the Nightborne entered the Stronghold. \r\n\r\nIf she still lives she will need to know of our efforts. Her power is sorely needed. \r\n\r\nGive her my best- I will be along shortly.",
-    "name": "Starweaver's Fate",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

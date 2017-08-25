@@ -1,8 +1,0 @@
-{
-    "_id": "31338",
-    "added_in_patch": 5,
-    "description": "Chee Chee's prize sheep, Sheepie, is missing!That bad sheep is always wandering off the farm.Stupid sheep! I looked everywhere and couldn't find him.Can you help me, <race>?",
-    "name": "Lost Sheepie",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

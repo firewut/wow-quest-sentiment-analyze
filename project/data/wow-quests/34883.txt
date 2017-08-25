@@ -1,8 +1,0 @@
-{
-    "_id": "34883",
-    "added_in_patch": 6,
-    "description": "Many arakkoa died in Veil Akraz. From the outside, all seems still. Empty.But in this place between worlds, death never goes unnoticed.Stray life essence seeps through from the other side; a feast for the beings who prowl here.Slay the shadow creatures here, and gather from their corpses the fine dust they produce. I will need much of it to perform the rites of the Talon King.",
-    "name": "A Feast of Shadows",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

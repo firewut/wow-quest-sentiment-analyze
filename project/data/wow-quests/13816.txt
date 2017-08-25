@@ -1,7 +1,0 @@
-{
-    "_id": "13816",
-    "description": "Listen, lad!  Azeroth's fate is at stake here.Our only chance is to get to the Celestial Planetarium in time to find this Algalon and stop him from beaming back any messages to his Titan masters.Locate the Celestial Planetarium and come back with any information you get.  We might still have some time to prepare for Algalon's arrival.",
-    "name": "Heroic: The Celestial Planetarium",
-    "requires_level": 80,
-    "zone": "Quests"
-}

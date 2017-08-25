@@ -1,7 +1,0 @@
-{
-    "_id": "26633",
-    "description": "I want the surface of the Riptide t'shine like a star ruby, Swabbie <name>.  I keep a tight ship around here, and it's swabbies like you that make it happen!Well, what're y'waitin' for, y'cockle-brained bilgerat?  Head updecks and start swabbin'!",
-    "name": "Swabbing Duty",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

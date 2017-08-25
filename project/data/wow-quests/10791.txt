@@ -1,7 +1,0 @@
-{
-    "_id": "10791",
-    "description": "I've nearly completed the vestments that I'll wear during the ceremony. As I add the finishing touches, I'd like you to set this incense by the candles near the runestone to my left.I believe it will help us to attract the wolf spirit's attention, since it was made in the days of the orcish clans. I can almost imagine my ancestors using it in a ceremony paying tribute to the wolf spirit after a successful hunt.Once you've placed the incense, I'll begin the ceremony.",
-    "name": "Welcoming the Wolf Spirit",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

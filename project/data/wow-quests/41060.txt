@@ -1,8 +1,0 @@
-{
-    "_id": "41060",
-    "added_in_patch": 7,
-    "description": "Although our forces have dutifully held this citadel since your departure, we have been unable to access most of its resources - the Fel Hammer can only be fully activated by those bearing the mark of a Legion lord.Thankfully, your blades carry that very mark. Use them to activate the Fel Hammer - show your forces your limitless power!",
-    "name": "Unbridled Power",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "13334",
-    "description": "In the Valley of Fallen Heroes and Icecrown Glacier, to the west of Aldur'thar, the Scourge seeks to use the fallen against us. Scourge lieutenants have woken the valley's dead and imbued them with fearsome strength and fervor. The banners carried by the Scourge leaders in the glacier area are the source of these powers. Kill the banner-bearers, and you will weaken the converted heroes they lead.It falls to you to rid us of this obstacle, and test the resistance before the main body can advance.",
-    "name": "Bloodspattered Banners",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

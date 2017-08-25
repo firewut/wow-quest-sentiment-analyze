@@ -1,8 +1,0 @@
-{
-    "_id": "32159",
-    "added_in_patch": 5.1,
-    "description": "We should attempt to offset the destruction being wrought on this continent as much as possible. For every tree they destroy, we will plant a new one!Take these seeds and begin the regrowth process, <name>.Do not linger for too long though. Nature is unpredictable, and no doubt the anger and hate exuding from Domination Point has seeped into the ground.I cannot guarantee that the plant that springs from these seeds will not be hostile.",
-    "name": "Circle of Life",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

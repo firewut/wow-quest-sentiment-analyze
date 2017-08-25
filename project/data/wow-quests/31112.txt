@@ -1,9 +1,0 @@
-{
-    "_id": "31112",
-    "added_in_patch": 5,
-    "description": "The crate, once full of desperately needed supplies, has been thoroughly pillaged.A quick scan of the area shows evidence left behind by the thieves. Icy thorns, just like the ones on the water sprites on the shoreline to the east.This is a life or death situation for your band of survivors. Those supplies need to be retrieved from these thieving pests and returned to camp.",
-    "name": "They're So Thorny!",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

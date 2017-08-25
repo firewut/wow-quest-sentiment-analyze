@@ -1,7 +1,0 @@
-{
-    "_id": "11030",
-    "description": "<Class>, we've got a problem -- we have lots of sons.  And ever since the Skyguard moved in nearby, all our sons ever talk about is joining their ranks.As a proud father, we want them to have every advantage for when they apply.  So, would you go to the fel crystalforge at either forge camp to the north or south, and procure a magic flask for our sons?  You can't miss their green smoke.We think that they take ten apexis shards to make.  We'd give you the shards, but we don't have any at the moment.",
-    "name": "Our Boy Wants To Be A Skyguard Ranger",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

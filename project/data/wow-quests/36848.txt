@@ -1,8 +1,0 @@
-{
-    "_id": "36848",
-    "added_in_patch": 6,
-    "description": "Six unique gates exist in Draenor, built by ogre magi in ages past.  We've discovered their potency has not diminished over the millennia.If you can collect enough ogre waystones to activate one of these ancient waygates, we can build a one-way portal from your garrison to that location.",
-    "name": "Ogre Waygates",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

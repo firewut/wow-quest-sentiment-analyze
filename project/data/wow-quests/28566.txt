@@ -1,7 +1,0 @@
-{
-    "_id": "28566",
-    "description": "<Melisara's image appears before you.>The Stormpike forward camp sits atop Corrahn's Dagger, west of Sofera's Naze. You must enter the camp and slaughter every dwarf that you see. They must be taught what it means to fear and there is no finer lesson than absolute decimation.No survivors, <name>. Even their captain - especially their captain - must die.I will be in contact.",
-    "name": "Decimation",
-    "requires_level": 21,
-    "zone": "Hillsbrad Foothills"
-}

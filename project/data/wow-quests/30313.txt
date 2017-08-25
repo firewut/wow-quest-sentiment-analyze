@@ -1,8 +1,0 @@
-{
-    "_id": "30313",
-    "added_in_patch": 5,
-    "description": "<He looks down at the dead fog creature at his feet, looks up at you, then points out into the mists surrounding the lake. It seems he wants you to find and kill more of these fog creatures.>",
-    "name": "The Moving Mists",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

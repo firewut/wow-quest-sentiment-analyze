@@ -1,7 +1,0 @@
-{
-    "_id": "12274",
-    "description": "We need more information from the high abbot, and now that we have the visage of one of the raven priests, I think we can get you close to talk with him.Unfortunately, we need to separate him from his bodyguards or you'll never get any information out of him.<The agent leans on her shovel and thinks a moment.>I think I've got it! While in disguise, go to the top of the abbey and ring the bell. That should bring the abbot's bodyguards running and you can then head down to speak with him.",
-    "name": "A Fall From Grace",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

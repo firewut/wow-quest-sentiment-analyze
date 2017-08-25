@@ -1,7 +1,0 @@
-{
-    "_id": "11050",
-    "description": "",
-    "name": "Accepting All Eggs",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

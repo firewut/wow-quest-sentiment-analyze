@@ -1,8 +1,0 @@
-{
-    "_id": "42087",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Green Horror",
-    "requires_level": 110,
-    "zone": "Val'sharah"
-}

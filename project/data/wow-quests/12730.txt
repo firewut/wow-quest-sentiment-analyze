@@ -1,7 +1,0 @@
-{
-    "_id": "12730",
-    "description": "You must take this instrument of convocation - of summoning - to Zol'Heb just south of Gundrak.Therein you will find a circle of power. Use the convocation to force the prophet of Akali to appear.My heart goes out to you, <name>. We have been through much together, and you have done all that you can to not only save my life, but those of the other gods the Drakkari have destroyed.But I fear this time we may not see each other again until the afterlife.",
-    "name": "Convocation at Zol'Heb",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

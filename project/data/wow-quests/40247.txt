@@ -1,8 +1,0 @@
-{
-    "_id": "40247",
-    "added_in_patch": 7,
-    "description": "Caria Felsoul was one of our best... before she answered the Legion's foul call.She now wields the Aldrachi Warblades - the soul-rending armaments of the ancient race's greatest champion, who fell only to Sargeras himself.We sent a party to track Caria down, but we have not heard from them in some time. Jace has nearly repaired a Legion communicator so we can make contact - we need only a power source.Could you ask Khadgar for assistance? Our friends in this world are few.",
-    "name": "Asking a Favor",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

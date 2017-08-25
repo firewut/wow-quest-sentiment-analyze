@@ -1,8 +1,0 @@
-{
-    "_id": "38322",
-    "added_in_patch": 7,
-    "description": "Now that my grove is safe, I can turn my attention to the threat you speak of.To hear of Cenarius' plight is disturbing indeed. Tell Malfurion that I shall meet him at the Grove.",
-    "name": "Return to the Grove",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

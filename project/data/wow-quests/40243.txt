@@ -1,8 +1,0 @@
-{
-    "_id": "40243",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Break Weapon Racks",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

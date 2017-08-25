@@ -1,7 +1,0 @@
-{
-    "_id": "28285",
-    "description": "I just received a scroll from the Cathedral of Light, <name>. High Priestess Laurena sends word that she wishes to speak with you. You should meet with her as soon as you can.",
-    "name": "Meet with High Priestess Laurena",
-    "requires_level": 50,
-    "zone": "Stormwind City"
-}

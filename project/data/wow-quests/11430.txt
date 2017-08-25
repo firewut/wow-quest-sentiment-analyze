@@ -1,7 +1,0 @@
-{
-    "_id": "11430",
-    "description": "That was a fairly strong showing at Baleheim, <name>. Before you go off patting yourself on the back there's work to be done at Nifflevar.We've located the vrykul responsible for the majority of the harpoon attacks on our frigates - goes by the name of Yavus. You'll find him in the main harpoon structure on the bluffs of Nifflevar, southeast of here.Track him down and execute him for crimes against the Alliance!Do me proud, <name>!\r\n",
-    "name": "Harpoon Master Yavus",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

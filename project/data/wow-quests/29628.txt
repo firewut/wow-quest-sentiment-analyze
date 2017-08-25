@@ -1,8 +1,0 @@
-{
-    "_id": "29628",
-    "added_in_patch": 5,
-    "description": "Some of our trainees have... larger-than normal appetites. We have occasionally had difficulty supplying enough food for all of them. In times like these, we have to ask for help.A kindly older woman, who lives in a small house to the northwest, has agreed to make some stew for our trainees. All you need to do is go and get it.",
-    "name": "A Strong Back",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

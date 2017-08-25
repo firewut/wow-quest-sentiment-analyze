@@ -1,7 +1,0 @@
-{
-    "_id": "26098",
-    "description": "Druid corpses litter the room. Something seems amiss, as you see no signs of a struggle.  Bloody drag marks lead in from the doorway.You pry Orthus' death grip open to find something disturbing in his hand: a Krom'gar General's insignia.Take the Krom'gar General's insignia back to High Chieftain Cliffwalker.",
-    "name": "Betrayal at the Grove",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

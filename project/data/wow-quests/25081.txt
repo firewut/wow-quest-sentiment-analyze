@@ -1,7 +1,0 @@
-{
-    "_id": "25081",
-    "description": "The Horde has fought us to a standstill from their stronghold west of here. The fighting continues, even as the land breaks open under our feet.Someone's got to break the stalemate! I need you to venture into the Battlescar and help my men crush the Horde opposition there.In the center of the scar you will find a flag marker designating who controls the area. Scout out the flag. It'll be worth your while to claim the scar for the Alliance if someone hasn't already done so.",
-    "name": "Claim the Battlescar",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36675",
-    "added_in_patch": 6,
-    "description": "Colossal magnaron, gronn, and other stone monstrosities have been threatening our outposts in the west. Most seem to originate from Magnarok in Frostfire Ridge.\r\n\r\nIf we strike at them at their home, we should be able to force them back. It's risky, but it may be our best move. While you're there, see if you can recover any of our supplies.",
-    "name": "Assault on Magnarok",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

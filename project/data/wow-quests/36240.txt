@@ -1,9 +1,0 @@
-{
-    "_id": "36240",
-    "added_in_patch": 6,
-    "description": "Excellent!When you've collected enough herbs from the local wildlife, return to me and I'll craft them into an ink for Master Ardule.The sporebats and giants should have what you're looking for.And remember, be careful!",
-    "name": "Slow and Steady",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

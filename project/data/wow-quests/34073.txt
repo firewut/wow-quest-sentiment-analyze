@@ -1,9 +1,0 @@
-{
-    "_id": "34073",
-    "added_in_patch": 6,
-    "description": "Now, we begin our assault, <name>!Get down to Agurak's Fall and use these tarbombs to destroy their rylak egg incubators.While you are busy I will sneak down into their camp and prepare for the next phase of our attack. Meet me there once you have burned everything.",
-    "name": "Burn Them Down",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12737",
-    "description": "The storm is a destructive force.  Storm burns trees.  Storm floods houses.But storm can also be life force if you know right song.  In Stormwright Shelf, above Maker's Perch, you can find small dirt mounds.  They very fertile -- they carry inside a strong seed.  All they wait for is the right song.You take this horn and play song for them.",
-    "name": "Song of Fecundity",
-    "requires_level": 77,
-    "zone": "Sholazar Basin"
-}

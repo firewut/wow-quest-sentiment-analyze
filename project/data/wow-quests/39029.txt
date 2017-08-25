@@ -1,8 +1,0 @@
-{
-    "_id": "39029",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Defend The Temple",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

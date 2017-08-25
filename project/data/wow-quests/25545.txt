@@ -1,7 +1,0 @@
-{
-    "_id": "25545",
-    "description": "As we struggled not to drown, my men and I were forced to abandon our weapons and much of our armor.Erunak says to expect a major attack from the naga soon and I'm inclined to believe him.If we're going to stand a chance, we'll need your help to recover our lost armaments. They should be lying on the sea floor near our shipwrecks.Hurry, <race>, we're defenseless here.",
-    "name": "To Arms!",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

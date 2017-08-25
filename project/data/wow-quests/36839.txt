@@ -1,7 +1,0 @@
-{
-    "_id": "36839",
-    "description": "Place another work order with my assistant. Once it is complete, we will leave it out here for you to collect.",
-    "name": "Your Second Enchanting Work Order",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

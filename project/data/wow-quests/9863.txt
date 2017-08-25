@@ -1,8 +1,0 @@
-{
-    "_id": "9863",
-    "description": "With our leadership in ruin, we are left open to attacks from all sides. The foul Murkblood tribe could not have picked a better time to attack us!In recent days, we have been subject to no less than 5 assaults from the Broken. They have even taken over our only other territorial holding in the area: Sunspring Post.We must strike and show them that we are not powerless! Strike down the vile idolaters and bring me their twisted idols of worship so that they may ride the lightning.",
-    "name": "Vile Idolatry",
-    "requires_level": 64,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

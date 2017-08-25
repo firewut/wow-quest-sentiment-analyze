@@ -1,7 +1,0 @@
-{
-    "_id": "25620",
-    "description": "The Revered Lady has sent word for you. She awaits you at the far end of the temple gardens.If you feel the need to mention the heroic exploits of your faithful battle brother, Azjentus, please don't hold back. I won't take your admiration of me as a weakness.I'll hold you up no longer. The Lady awaits.",
-    "name": "The Revered Lady",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

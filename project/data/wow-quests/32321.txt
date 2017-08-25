@@ -1,8 +1,0 @@
-{
-    "_id": "32321",
-    "added_in_patch": 5.1,
-    "description": "Ever since the Horde captured the Divine Bell I have been searching for a means to counter its power.My research got as far as this tomb. I am going inside. If you follow me, I will share the rest as we go.If we get separated, meet me back here at the entrance to the tomb. Speak to me when you are ready to proceed.",
-    "name": "The Monkey King",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27679",
-    "description": "In the Map Chamber there is a locked door which I believe leads to the legendary Chamber of Khaz'mul. We do not yet know what artifacts wait inside it.What we do know is that it is guarded by Ironaya, a Titanic Watcher of immense size and power. You'll need to defeat her if you intend to progress any further into this place.",
-    "name": "The Chamber of Khaz'mul",
-    "requires_level": 35,
-    "side": "horde",
-    "zone": "Uldaman"
-}

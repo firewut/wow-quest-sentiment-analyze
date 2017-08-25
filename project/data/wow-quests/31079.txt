@@ -1,8 +1,0 @@
-{
-    "_id": "31079",
-    "added_in_patch": 5,
-    "description": "We are protected from the mantid. Such was the agreement made so many millennia ago.There are forces from which we are not safe, however. The kyparites beneath the ground to the west will haunt us, chase us... even eat us. The mistlurkers eat our kind by the handful.Help our people, outsider. Defeat our enemies.",
-    "name": "The Horror Comes A-Rising",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

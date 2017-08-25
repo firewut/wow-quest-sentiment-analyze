@@ -1,7 +1,0 @@
-{
-    "_id": "12298",
-    "description": "<Greer hands the missive back to you.>Skysong will take you to Wintergarde, <name>. I guarantee you that it will be the fastest flight you've ever taken. Go now!\r\n",
-    "name": "High Commander Halford Wyrmbane",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

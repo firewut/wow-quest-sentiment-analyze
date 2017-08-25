@@ -1,8 +1,0 @@
-{
-    "_id": "30181",
-    "added_in_patch": 5,
-    "description": "Mushan! Would ya look at the size o' 'em. Old as the dirt they walk on probably. A fine trophy.If you are lookin' to test your mettle as a big game hunter, start with them.",
-    "name": "Mushan Mastery",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

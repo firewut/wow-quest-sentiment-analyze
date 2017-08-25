@@ -1,7 +1,0 @@
-{
-    "_id": "27390",
-    "description": "Now, <name>, you will take part in battle of Darrowshire, and you will save Joseph Redpath.Place this relic bundle in the Darrowshire town square, and the spirits of Darrowshire will rise.  Join their battle and assure that these two things come to pass: Davil must survive beyond the death of Horgus, and Redpath must survive to be corrupted, then defeated.After defeating the corrupted Redpath, his spirit will be saved.  Speak with him, then return to his daughter Pamela.",
-    "name": "The Battle of Darrowshire",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

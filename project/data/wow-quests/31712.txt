@@ -1,8 +1,0 @@
-{
-    "_id": "31712",
-    "added_in_patch": 5,
-    "description": "Strange tales have reached our ears from Sri-La Village.It seems that a hozen tribe has made itself comfortable in Oona Kagu, a cave along the coast south of the fishing village.Too comfortable, in fact. The tribe members are stealing and pillaging resources all along the coast.We must teach them a lesson... one that can only be taught by force. They have already overstayed their welcome.",
-    "name": "Monkey Mischief",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

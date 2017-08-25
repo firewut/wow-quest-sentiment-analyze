@@ -1,7 +1,0 @@
-{
-    "_id": "28237",
-    "description": "With the undead outbreak contained, the time has come for Stillwater and his followers to answer for their crimes. Though we averted a tragedy the likes of which has not been seen since the Scourge invaded, we must ensure that such a thing can never happen again. They will all face true death!Come, <name>! I will have Stillwater's head!",
-    "name": "A Blight Upon the Land",
-    "requires_level": 19,
-    "zone": "Hillsbrad Foothills"
-}

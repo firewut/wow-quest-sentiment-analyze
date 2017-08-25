@@ -1,8 +1,0 @@
-{
-    "_id": "30680",
-    "added_in_patch": 5,
-    "description": "Oh thank you, thank you, thank you. If you hadn't come along...Wait! There must be other survivors in the Nook like me!Please, <class>, I beg you. Rescue the rest of my citizens and deliver us safely to Shado-Pan Fallback.",
-    "name": "Holed Up",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

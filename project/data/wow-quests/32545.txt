@@ -1,8 +1,0 @@
-{
-    "_id": "32545",
-    "added_in_patch": 5.2,
-    "description": "The Skumblade threaten our people, but responding with all-out slaughter would be an overreaction.A more reasonable response to their threat would be to slay some of their tribal leaders. There will be less bloodshed, and they will still respect our perimeter.",
-    "name": "The Residents of Ihgaluk",
-    "requires_level": 90,
-    "zone": "Quests"
-}

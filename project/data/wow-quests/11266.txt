@@ -1,7 +1,0 @@
-{
-    "_id": "11266",
-    "description": "These plans detail an imminent attack upon Camp Winterhoof. It would appear that the frost wyrm, Glacion, who circles overhead, is to be used for the offensive.Surely Celea Frozenmane would be of some assistance in this matter. Deliver the plans to her at the camp to the east.",
-    "name": "Gjalerbron Attack Plans",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

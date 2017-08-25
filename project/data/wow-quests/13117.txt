@@ -1,7 +1,0 @@
-{
-    "_id": "13117",
-    "description": "The Lich King's tireless minions labor away night and day to assemble scores of abominations and flesh giants down there in the Fleshwerks.Yet, that is not enough. More and more skeletal constructors keep appearing to increase the pace of work.If we do not discover where they're coming from and how they're able to work so quickly, we'll be overrun before we can act in force. Search to the southeast and see if you can find the source of these skeletons.",
-    "name": "Where Are They Coming From?",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "11956",
-    "description": "No time for small talk, <name>.  I was sent on what was to be a suicide mission to take this ziggurat.  I've accomplished my duty as a soldier, now is the time to get some answers.This lich has knowledge I seek, yet I cannot inflict pain to his physical body to obtain that knowledge.The lich stored his soul in a phylactery, and while it remains hidden, I won't be able to pry the information from him.Return to the camp and take my horse, Dusk, she will lead you to the phylactery.  Bring it to me.",
-    "name": "Finding the Phylactery",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

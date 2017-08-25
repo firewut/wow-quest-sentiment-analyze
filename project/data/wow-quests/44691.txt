@@ -1,8 +1,0 @@
-{
-    "_id": "44691",
-    "added_in_patch": 7,
-    "description": "We must get Chief Telemancer Oculeth back on his feet as soon as possible.Find ancient mana, any way you can, and feed it to him.",
-    "name": "Hungry Work",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26659",
-    "description": "On the western edge of the Pale Roost, you will find a resonating crystal. Strike it with the mallet and the broodmother will come.Be ready for battle. I will be there to aid you, but she will not be easily overcome.",
-    "name": "Resonating Blow",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25523",
-    "description": "<name>, our enemy is using this grotto in the Firelands to prepare an invasion. We're going to hit them hard right where they live.But first, you'll need to get your wings. Flight in the Firelands does not work as it does in the outside world. Something about the dense, superheated air. You'll need some practice!Get a Twilight Firelance from the rack behind me, equip it, then mount one of Aviana's Guardians. Practice flying - flap your wings! Visit a flag placed on the ledge below and return. ",
-    "name": "Flight in the Firelands",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28442",
-    "description": "Our work here in Chiselgrip is done, mostly thanks to you.  We'll now be moving on to the northeast, to Flame Crest.Flame Crest is in the cliffs, past the Ruins of Thaurissan.  It should serve as a sufficient base of operations for the final stages of our plan.Of course, my son Ariok will be joining you on the road.  As will I.",
-    "name": "Flame Crest",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "5672",
-    "description": "",
-    "name": "Elune's Grace",
-    "requires_level": 20,
-    "zone": "Priest"
-}

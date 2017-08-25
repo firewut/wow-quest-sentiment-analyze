@@ -1,7 +1,0 @@
-{
-    "_id": "27207",
-    "description": "Is THAT what's behind the storms assailing my city?Let's push on. That towering windbag can bellow and blow all he likes, but this is the end of him. Tell General Marcus Jonathan what's happened here when we've gotten back; I'll need to oversee the return of the citizenry, repairs, and so on.",
-    "name": "This Blows",
-    "requires_level": 78,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10810",
-    "description": "As you examine the damaged mask, you hear strange sounds coming from within. If the mask wasn't damaged you might be able to hear the sounds more clearly.O'Mally Zapnabber in Ruuan Weald might be able to fix the mask.",
-    "name": "Damaged Mask",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14339",
-    "description": "As fate would have it, there's a special deed that needs doing - one that will benefit the Cenarion Circle as well as myself.You see, <class>, I am under pressure to create a special... concoction, shall we say. I believe my work to be complete, but I need to have it tested to be certain.The target of this test is to be the naga, who threaten this region from the west. Their demise would surely aid the Circle.First though, I need a delivery device. Hollow horns from the dying kodo should do nicely.",
-    "name": "Delivery Device",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

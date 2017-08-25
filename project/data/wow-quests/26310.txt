@@ -1,7 +1,0 @@
-{
-    "_id": "26310",
-    "description": "A moment if you're going up there, <class>...I've got a few brokers quite interested in potent toxins. I couldn't help but notice the spiders scurrying around near here... not giant ones, about the size of your hand.The skitterlings are a hue I've never seen before in this area. Could you collect a few for me and bring them back?",
-    "name": "All That Skitters",
-    "requires_level": 31,
-    "zone": "The Hinterlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27908",
-    "description": "Helgrum's wounds fester in the swamp air. They swell and ooze, filling his final moments with suffering. I must have something to coat them with.",
-    "name": "Secrets of the Mire",
-    "requires_level": 53,
-    "zone": "Swamp of Sorrows"
-}

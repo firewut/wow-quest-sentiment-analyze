@@ -1,9 +1,0 @@
-{
-    "_id": "35402",
-    "added_in_patch": 6,
-    "description": "The botani and their wretched minions take and take and take.They want food, they take our land. They want an army, they take our people.It is important to strike fear into the shrubby hearts of these plant people.Look for their leader, the Voice of Iyu. It is a botani who speaks on behalf of their genesaur master.Kill their precious leader in the safety of his precious bloom.",
-    "name": "The Voice of Iyu",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

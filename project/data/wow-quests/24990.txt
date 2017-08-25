@@ -1,7 +1,0 @@
-{
-    "_id": "24990",
-    "description": "Lady Sylvanas has called upon the Royal Apothecary Society.  She has challenged us to concoct a new plague, a plague deadlier than any ailment on Azeroth. This new disease will bring our enemies - living and dead - to ruin.My studies show that the blood of beasts might prove to be the key. Here, fill these vials with darkhound blood so I can test my theory. ",
-    "name": "Darkhound Pounding",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

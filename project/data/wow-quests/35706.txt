@@ -1,9 +1,0 @@
-{
-    "_id": "35706",
-    "added_in_patch": 6,
-    "description": "We were hauling batteries to the excavation site and I crashed my freakin' car!My sister didn't even look back. I took the turn a little fast, so what? It happens!Point is, the batteries went flying everywhere and I'm in no condition to lift them out.So what do you say? Wanna help me out?",
-    "name": "Sticky Situation",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

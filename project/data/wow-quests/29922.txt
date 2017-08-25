@@ -1,9 +1,0 @@
-{
-    "_id": "29922",
-    "added_in_patch": 5,
-    "description": "Lorewalker Cho came by and asked for you while you were gone.He needs your assistance urgently in the town of Dawn's Blossom to the north. For what reason, he did not say.Speak to Kitemaster Ut-Nam. He would be happy to send you there.",
-    "name": "In Search of Wisdom",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

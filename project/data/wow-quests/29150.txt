@@ -1,7 +1,0 @@
-{
-    "_id": "29150",
-    "description": "Da people... Dey all zombies, voodoo zombies!  Dis ain't gonna be pretty, <name>.You gotta kill dem.But once dey killed, dere is a moment where I can save dem.  Change dem back into da person dey were before.We gotta act fast.  Da zombies don' rest.",
-    "name": "Voodoo Zombies",
-    "requires_level": 85,
-    "zone": "Northern Stranglethorn"
-}

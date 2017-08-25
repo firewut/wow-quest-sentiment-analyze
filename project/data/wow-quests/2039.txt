@@ -1,8 +1,0 @@
-{
-    "_id": "2039",
-    "description": "We've lost contact with Bingles! He was sent on a reconnaissance mission over Gnomeregan and hasn't reported back in over a week. I just know he's gone and blown himself up.He was last seen flying over the Loch. Perhaps you can investigate, <name>.",
-    "name": "Find Bingles",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Ironforge"
-}

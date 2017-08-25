@@ -1,8 +1,0 @@
-{
-    "_id": "39058",
-    "added_in_patch": 6.2,
-    "description": "I love collecting pets, and I've picked up a few unusual pets here in Draenor.  What would you say to a battle?  If you can defeat my humble team, I think we'll both learn a few new tricks.",
-    "name": "Critters of Draenor",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

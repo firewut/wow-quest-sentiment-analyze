@@ -1,7 +1,0 @@
-{
-    "_id": "9281",
-    "description": "Magister Kaendris sent me down here to clear the area of any hostile wildlife.  Once this area is secured, the magisters plan to turn it into some sort of advance outpost against the Scourge.Now if there's one thing I've learned as an apprentice it's to delegate responsibility - especially in matters that endanger one's life!If you're interested, I'll pay you well to kill the greater spindlewebs and ghostclaw ravagers to the west and south of here.",
-    "name": "Clearing the Way",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

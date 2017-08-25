@@ -1,7 +1,0 @@
-{
-    "_id": "11549",
-    "description": "You've done so much for us, <name>.  We greatly appreciate your assistance.You might have noticed Anchorite Ayuri's efforts outside.  She has a big heart and is very convincing, but the donations do not quite add up to what she had expected.If you were to make a large contribution to her cause, I will make sure that word of your deeds in this war spreads far and wide.  What do you say?",
-    "name": "A Magnanimous Benefactor",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

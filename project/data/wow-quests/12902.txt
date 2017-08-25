@@ -1,7 +1,0 @@
-{
-    "_id": "12902",
-    "description": "These poor creatures are the only survivors.According to their chief, the Drakkari trolls and Rageclaw wolvar have been allies for thousands of years. They've been living here, alongside the trolls, for generations, completely unaware of the ever changing world around them. To the Rageclaw, a troll is a troll, so the troll attack upon their den took them by surprise.We need some answers, <name>. Scour their village - southeast of here - for clues as to who or what is in charge of these attacks.",
-    "name": "In Search Of Answers",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

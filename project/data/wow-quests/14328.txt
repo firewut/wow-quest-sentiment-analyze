@@ -1,7 +1,0 @@
-{
-    "_id": "14328",
-    "description": "The Gelkis reside in southwest Desolace. They are just as stubborn as the Magram, and since they have not suffered war and relocation, they are considerably stronger.Humbling the Gelkis will require an extreme show of force.Khan Shodo and his three sons rule the clan. Shodo is aging, and suffers from old war wounds. He never leaves the depths of his cave. The strength of his rule lies in his sons.Slay them, and persuade the Khan to commit to our cause.",
-    "name": "Three Princes",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

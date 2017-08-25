@@ -1,8 +1,0 @@
-{
-    "_id": "30059",
-    "added_in_patch": 5,
-    "description": "Oh... oh good! A <class>! Could you help me?I created a strain of vile monsters during my experiments to improve silk output.The result was a full-scale moth rebellion. Can you use your <class>iness and destroy some of these mutants?",
-    "name": "The Moth Rebellion",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

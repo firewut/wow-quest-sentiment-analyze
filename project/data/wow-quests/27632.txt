@@ -1,7 +1,0 @@
-{
-    "_id": "27632",
-    "description": "I have devoted my life to serving the King.  That service is unrivaled in importance by anything... with one exception: my son.Tahet was captured by Neferset sentries.They claim my son was trespassing upon their territory.  Phaoris is attempting to negotiate his release... but I fear for the worst.If you were to find Tahet, I would pledge my vote to you.I do not know where they take the prisoners, but I've seen the guards consult maps to guide them through the thick vegetation.",
-    "name": "Tanotep's Son",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

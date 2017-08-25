@@ -1,9 +1,0 @@
-{
-    "_id": "37791",
-    "added_in_patch": 6.1,
-    "description": "High Sage Viryx has finished a devastatin' crystal superweapon atop the highest point in Skyreach in Spires of Arak. She intends to eradicate the 'lesser races' in the name of their god Rukhmar.The arakkoa outcasts were nearly wiped out in mere seconds by the weapon. You must stop Viryx before she turns her sights to your garrison!",
-    "name": "Skyreach",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Skyreach"
-}

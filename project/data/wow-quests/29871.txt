@@ -1,8 +1,0 @@
-{
-    "_id": "29871",
-    "added_in_patch": 5,
-    "description": "I'm not sure where Clever Ashyo got his \"Clever\" title from. All jinyu are clever, and I wouldn't say that he's any more clever than most of them.Quite the opposite, actually.At least he's a capable fighter. He did well enough at Tian Monastery to be selected for our training mission.If you want to help him look for the Hidden Master, you can find him along the Valley's northern border.",
-    "name": "Clever Ashyo",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

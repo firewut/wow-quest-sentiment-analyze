@@ -1,7 +1,0 @@
-{
-    "_id": "9831",
-    "description": "I am deeply troubled by the news in this report, <name>.  Gaining entry into Karazhan will be difficult, however.You see, when it became apparent that I was stranded here I split the key into three fragments.I placed the keys inside enchanted containers, and in turn placed those in places that were safe at the time.With the dark changes Outland has endured this no longer is the case.  The first fragment is in a section of Auchindoun taken over by the Shadow Council.  Return this fragment to me.",
-    "name": "Entry Into Karazhan",
-    "requires_level": 68,
-    "zone": "Shadow Labyrinth"
-}

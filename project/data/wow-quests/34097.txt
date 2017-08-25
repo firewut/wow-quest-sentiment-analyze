@@ -1,9 +1,0 @@
-{
-    "_id": "34097",
-    "added_in_patch": 6,
-    "description": "I've got this prototype shredder operating on most cylinders.\r\n\r\nBoy, will they be surprised when you stomp them with their own machine!\r\n\r\nCan't wait to watch you from the safety of the Observicopter.",
-    "name": "Born to Shred",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

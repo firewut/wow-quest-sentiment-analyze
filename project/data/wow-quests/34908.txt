@@ -1,9 +1,0 @@
-{
-    "_id": "34908",
-    "added_in_patch": 6,
-    "description": "Your forces are at the ready and the scroll is prepared.It's time for phase two - stealing a nexus crystal from a fortified ogre compound.We'll save the scroll to bring in reinforcements in our confrontation with the Gordunni Witch Lord. Let's meet at the base of the Gordal Foothills to head into the fortress proper.",
-    "name": "The Foot of the Fortress",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

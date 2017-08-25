@@ -1,8 +1,0 @@
-{
-    "_id": "14136",
-    "description": "The Kvaldir have set up camp at Hrothgar's Landing, the small island to the North.  We sent Captain Aerthas Firehawk to the area, but they ran into a Kvaldir Raiding party heading to the Tournament Grounds!  The Firehawk is now under attack by the raiders and is vastly outnumbered. Get out there and show those Kvaldir why attacking the Sunreavers is a poor plan indeed. The Firehawk is between Hrothgar's Landing to the north and the Tournament Grounds, on the western side of The Sea Reaver's Run.",
-    "name": "Rescue at Sea",
-    "requires_level": 78,
-    "side": "horde",
-    "zone": "Tournament"
-}

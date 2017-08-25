@@ -1,7 +1,0 @@
-{
-    "_id": "10682",
-    "description": "When we arrived in the Ruuan Weald, the wyrm cultists were keeping themselves to Blackwing Coven, through the tunnel to the west.  But now, they are encroaching upon us here.I need you to find the wyrmcultists' overseer.  He's known to make a regular patrol between their various camps in the Ruuan Weald.Negotiate with him.  Let him know that there's room for compromise, but that we will not condone or allow the wholesale slaughter of the wildlife, nor the felling of all of the trees.",
-    "name": "A Time for Negotiation...",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

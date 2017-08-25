@@ -1,8 +1,0 @@
-{
-    "_id": "41157",
-    "added_in_patch": 7,
-    "description": "Stormheim is steeped with artifacts from tha War of the Ancients. Demon artifacts ta be exact.I think these artifacts can clue us into some knowledge about their leader, Sargeras. I've already found some fragments to a titan disc, but need ta find the rest of 'em.I need ya ta dig around Stormheim and see if ye can find any more fragments so we can reassemble the disc.",
-    "name": "Corrupted Studies",
-    "requires_level": 110,
-    "zone": "Archaeology"
-}

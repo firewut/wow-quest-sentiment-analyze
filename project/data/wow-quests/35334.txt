@@ -1,8 +1,0 @@
-{
-    "_id": "35334",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: The Egg of Varasha",
-    "requires_level": 97,
-    "zone": "Spires of Arak"
-}

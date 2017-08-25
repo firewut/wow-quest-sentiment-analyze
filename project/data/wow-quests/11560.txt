@@ -1,7 +1,0 @@
-{
-    "_id": "11560",
-    "description": "Oh good, you're back!When the landslide at the village across the water exposed the caverns, a malevolent lobstrok, known as Claximus, came out of the caves and stole the Winterfin tadpoles away.Something happened to all of the murlocs that followed him in there, and when they re-emerged, they were under his control.<Class>, you must swim across the waters and rescue the Winterfin tadpoles in the village and caverns.The future of the Winterfin tribe depends upon you!",
-    "name": "Oh Noes, the Tadpoles!",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24553",
-    "description": "I admit, I was skeptical that you had actually re-forged Quel'Delar and I did not expect Thalorien's spirit to reveal itself to you. You cannot understand what it means to me and to the rest of my people that Quel'Delar has been recovered.As promised, I will admit you to the Sunwell and you will find the leaders of Silvermoon within. Carry the sword to the chamber of the Sunwell and immerse it. The blade will bond to you. When that happens, carry it to Caladis Brightspear at Quel'Delar's Rest.",
-    "name": "The Purification of Quel'Delar",
-    "requires_level": 80,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9834",
-    "description": "Maktu can always see a draenei approaching in his shiny armor from a mile away, even in this murky swamp!Maktu wants to laugh at them, but then he remembers that they have been kind to the Kurenai and he wants to teach them about how Kurenai make armor.The dark, scaly hides of the fenclaw thrashers make some of the best armor Maktu has ever worn. If <name> can bring Maktu some of these hides from the fenclaw thrashers deep in Serpent Lake, he'll be happy to share some of his armor.",
-    "name": "Natural Armor",
-    "requires_level": 62,
-    "zone": "Zangarmarsh"
-}

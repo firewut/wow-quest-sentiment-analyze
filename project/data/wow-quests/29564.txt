@@ -1,7 +1,0 @@
-{
-    "_id": "29564",
-    "description": "My village was able to escape the naga onslaught at first. We would have all made it to Nagrand had it not been for my brother. He sold our souls for his own freedom.Now he works here as a slave driver, whipping his own brothers until their backs bleed. Make Mennu pay, <race>.",
-    "name": "A Brother Betrayed",
-    "requires_level": 62,
-    "zone": "The Slave Pens"
-}

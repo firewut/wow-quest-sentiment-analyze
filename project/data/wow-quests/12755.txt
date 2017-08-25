@@ -1,7 +1,0 @@
-{
-    "_id": "12755",
-    "description": "This message must reach Abbendis. We do not want to draw their suspicion. They must continue under the assumption that everything is going as they planned.You will don the Scarlet courier's clothes and with the help of some dark magic, take on the form of the courier.Abbendis is at King's Harbor, southeast of the Scarlet Overlook. Drop off the message and get as much information out of her as you can. She will tell us what we need to know about the \"Crimson Dawn.\"",
-    "name": "A Meeting With Fate",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

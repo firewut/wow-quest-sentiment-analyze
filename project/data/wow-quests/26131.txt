@@ -1,8 +1,0 @@
-{
-    "_id": "26131",
-    "description": "I've been waiting for the council to hear my plea for hours, and it's not looking good. Moira's greatest desire seems to be to paralyze the council.Meanwhile, Loch Modan suffers. Our enemies are many and our resources are few. Please, <name>, perhaps you will hear me if the council will not. Speak to Gryth Thurden, Ironforge's gryphon master. He's in the eastern part of the Great Forge. He'll provide a free flight to the South Gate Pass. Introduce yourself to Pilot Hammerfoot once you arrive.",
-    "name": "Reinforcements for Loch Modan",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

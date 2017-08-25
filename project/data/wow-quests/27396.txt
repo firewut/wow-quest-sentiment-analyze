@@ -1,7 +1,0 @@
-{
-    "_id": "27396",
-    "description": "Many members of the Shattered Hand do not survive their training, <name>. Not only have you survived, but you will soon become a feared blade of the Horde.As a reward for your progress, the warchief has commissioned his personal smith to forge a weapon.The cursed Shadowfang Keep in Silverpine Forest is the only place to get the materials you'll need. Travel there and recover Commander Springvale's sharpening stone, a supply of moonsteel ingots, and sinew from the ghouls and geists infesting the keep.",
-    "name": "Blade of the Shattered Hand",
-    "requires_level": 20,
-    "zone": "Rogue"
-}

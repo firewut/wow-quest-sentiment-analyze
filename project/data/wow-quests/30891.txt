@@ -1,8 +1,0 @@
-{
-    "_id": "30891",
-    "added_in_patch": 5,
-    "description": "A new face! Pleasure to meet you. I'm Septi. I keep the Shado-Pan fighting.The mantid have poison that chews through the skin and infects the blood. It makes for a slow, excruciating death when not treated.I need pollen from the violet citron flowers. The nearest place to find them is around Dampsoil Burrow just north of the battlefront. If you happen to go in that direction, could you bring some back for me?",
-    "name": "Treatment for the Troops",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

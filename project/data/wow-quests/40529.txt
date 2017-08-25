@@ -1,8 +1,0 @@
-{
-    "_id": "40529",
-    "added_in_patch": 7,
-    "description": "Ore prospecting is our primary method of gem acquisition. And while prospecting... you're bound to find small, unusable gem chips.Many gem shops simply discard the small gem chips they find, but we here at Cartier & Co. let nothing go to waste.",
-    "name": "Truly Outrageous",
-    "requires_level": 98,
-    "zone": "Jewelcrafting"
-}

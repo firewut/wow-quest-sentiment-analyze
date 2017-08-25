@@ -1,7 +1,0 @@
-{
-    "_id": "12724",
-    "description": "We haven't got a damned clue about when or where this courier is supposed to show up. None of these humans had an answer either.<Orbaz points to the Scarlet corpses strewn across the floor.>I did manage to beat something useful out of the last one. Inside Scarlet Hold they keep a schedule of all patrol routes. I want you to break into the hold and steal the schedule.The hold is the largest building in New Avalon - northeast of here. ",
-    "name": "The Path Of The Righteous Crusader",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

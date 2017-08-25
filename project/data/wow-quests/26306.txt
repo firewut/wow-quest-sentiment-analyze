@@ -1,7 +1,0 @@
-{
-    "_id": "26306",
-    "description": "Today we make the first strike at the heart of the savage Vilebranch tribe. Show no mercy, <name>; this is no longer just a spat between trolls. Every victory of the Revantusk is a victory for the Horde!The Vilebranch headhunters and witch doctors will be the first to go. Make your strike against the lower terraces and report back to me with blood on your weapons.",
-    "name": "Start Taking Back",
-    "requires_level": 31,
-    "zone": "The Hinterlands"
-}

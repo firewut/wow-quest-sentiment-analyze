@@ -1,8 +1,0 @@
-{
-    "_id": "43054",
-    "added_in_patch": 7,
-    "description": "I have gone through our stockpile several times and no matter how I try to cut corners, we come up short.A lack of food and medicine will halt our war efforts... that is simply the reality.We desperately need food or bandages. If you know how to acquire any such items, you can bring them to me.",
-    "name": "An Ample Stockpile",
-    "requires_level": 103,
-    "zone": "Monk Campaign"
-}

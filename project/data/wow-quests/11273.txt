@@ -1,7 +1,0 @@
-{
-    "_id": "11273",
-    "description": "We were on the brink of an archaeological breakthrough when those monsters attacked! Sadly, I was the only one to make it back to Valgarde. Now I don't know if my crew is dead or alive, but the artifacts we uncovered on that dig must be found!If you're heading into Wyrmskull Village, will you keep an eye out for my team? If there's any hope of recovering that information, we must pursue it!Search for Pulroy first. He was the last one I saw before I made my escape.",
-    "name": "The Human League",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

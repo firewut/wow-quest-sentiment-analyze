@@ -1,8 +1,0 @@
-{
-    "_id": "41751",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Kira Iresoul",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

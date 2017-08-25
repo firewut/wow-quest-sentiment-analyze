@@ -1,8 +1,0 @@
-{
-    "_id": "44178",
-    "added_in_patch": 7,
-    "description": "I've got a proposition for ya, <name>!Word has it that Trade Prince Gallywix recently acquired a priceless, one-of-a-kind love potion. There's only one goblin who can replicate it and you're looking at him! Get me that potion and I can make us both richer than kings!The pleasure palace is located in Azshara and it has been on high alert since the war started. Gallywix isn't letting anybody in except his personal staff, but I know a girl on the inside!Find her and she'll get you to the safe!",
-    "name": "A Particularly Potent Potion",
-    "requires_level": 103,
-    "zone": "Rogue Campaign"
-}

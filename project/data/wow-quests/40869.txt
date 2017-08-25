@@ -1,8 +1,0 @@
-{
-    "_id": "40869",
-    "added_in_patch": 7,
-    "description": "They say, \"When life gives you lemons, make lemonade.\" Well, life gave me a butt-load of guns.So I've been figuring out ways to turn these guns into useful tools.My latest modification is a gun that shoots bandages! Imagine it, you're on the battlefield, you see your ally go down, you pull out your bandage gun, shoot him with it and bam, he's back in the fight!I just need you to test it first and make sure it's safe.",
-    "name": "Fire and Forget",
-    "requires_level": 104,
-    "zone": "Engineering"
-}

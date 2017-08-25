@@ -1,7 +1,0 @@
-{
-    "_id": "11014",
-    "description": "<Mor'ghor crumples up the service letter and tosses it aside.>Alright grunt, first things first. If you're gonna join my beloved Dragonmaw army, you'll need to work. Everyone works up here on the ledge. Get a job and don't screw it up and I'll see if there might be something more interesting for you to do later.Go talk to Taskmaster Varkule Dragonbreath. He's standin' in the middle of town. He'll assess your skills and assign work as he sees fit.Now get out of my face!",
-    "name": "Enter the Taskmaster",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

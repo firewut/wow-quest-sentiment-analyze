@@ -1,8 +1,0 @@
-{
-    "_id": "14360",
-    "description": "The markings on the Sargeron ruins, combined with what you've gleaned from Furien's text make one thing clear:There is something special about the old fountain in the Sanctuary of Elune.It would seem that one could expect special power from washing their face in the fountain. First, of course, there would need to be something in the ancient fountain with which to wash.Pondering this problem, you spot a melonfruit at the base of a nearby tree....",
-    "name": "Nothing a Couple of Melons Won't Fix",
-    "requires_level": 27,
-    "side": "horde",
-    "zone": "Desolace"
-}

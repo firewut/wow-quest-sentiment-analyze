@@ -1,7 +1,0 @@
-{
-    "_id": "14181",
-    "description": "Arathi Basin is on the verge of being lost to Alliance forces.  We must send reinforcements at this very moment or all our efforts will have been in vain.Do not delay, <class>, go to Arathi Basin and crush the enemy.  Victory to the Horde!",
-    "name": "Call to Arms: Arathi Basin",
-    "requires_level": 61,
-    "zone": "Arathi Basin"
-}

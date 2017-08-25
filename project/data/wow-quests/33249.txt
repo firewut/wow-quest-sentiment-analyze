@@ -1,9 +1,0 @@
-{
-    "_id": "33249",
-    "added_in_patch": 5.4,
-    "description": "You there! It's <name>, right? Greetings. I'm Jinho.<Jinho sizes you up.>You look strong. I've seen you a few times here in the Vale, but I've never seen you fight before. I wonder... are you as strong as you seem?If you're interested in proving yourself, speak with Trial Master Rotun at the Temple of the White Tiger, in Kun-Lai. He will put you to the test.",
-    "name": "Proving Grounds",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Proving Grounds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41560",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Felhide",
-    "requires_level": 110,
-    "zone": "Mining"
-}

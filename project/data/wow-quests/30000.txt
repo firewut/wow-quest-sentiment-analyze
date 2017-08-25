@@ -1,8 +1,0 @@
-{
-    "_id": "30000",
-    "added_in_patch": 5,
-    "description": "You came to deliver a message to the Jade Serpent, right?<The little girl tilts her head up at you inquisitively.>I guess it's time you met her.",
-    "name": "The Jade Serpent",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

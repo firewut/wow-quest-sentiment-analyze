@@ -1,7 +1,0 @@
-{
-    "_id": "11413",
-    "description": "Not only are we supplying brew to everyone, we also have steins to give out!  Beautiful, commemorative steins all obtained by the most legal of means!  Here's a voucher for one.Talk to Blix near the back of the Brewfest camp.  He's pretty strange, even more so now that he's always wearing those goggles.  He'll handle the voucher for you, and any other Brewfest transaction.",
-    "name": "Did Someone Say \"Souvenir?\"",
-    "requires_level": 1,
-    "zone": "Brewfest"
-}

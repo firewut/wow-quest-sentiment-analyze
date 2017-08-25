@@ -1,7 +1,0 @@
-{
-    "_id": "25053",
-    "description": "You know, this place would probably make a great home for us gnomes if it wasn't so old and dirty and full of pirates! We're taking care of the pirates problem, but the awful and dirty problem needs fixing.I mean, no self-respecting gnome would ever live in such an ugly hovel like these buildings! So here, take this bottle of flaming rum and go burn those ugly shacks down for us!",
-    "name": "To The Ground!",
-    "requires_level": 44,
-    "zone": "Tanaris"
-}

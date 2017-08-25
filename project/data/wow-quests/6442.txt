@@ -1,8 +1,0 @@
-{
-    "_id": "6442",
-    "description": "There is evil lurking here along the coast, <race>.It is the resting place of the doomed city of Zoram, long destroyed and submerged beneath the seas.  Lost, and nearly forgotten.Now, the naga have returned, and for what reason we do not know.  But reason matters little; we must defend the land we have worked so hard to claim as our own.Return to me with 20 of their heads! Throw the naga back to the depths!",
-    "name": "Naga at the Zoram Strand",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

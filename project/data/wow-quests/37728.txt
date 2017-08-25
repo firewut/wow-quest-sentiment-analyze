@@ -1,8 +1,0 @@
-{
-    "_id": "37728",
-    "added_in_patch": 7,
-    "description": "The eggs will provide the 'oomph' to my drink's character. But there's another element, and this must not be underestimated!\r\n\r\nPresentation.\r\n\r\nNow, you could go with your standard olive skewered on a toothpick. Maybe a carrot stalk stuck slapdash out of a glass.\r\n\r\nBut then, you wouldn't be me.\r\n\r\nNo, my friend. What MY drink needs to sell it visually comes from a one-of-a-kind creature. I'm only going to serve it once and so my drink deserves something unique.\r\n\r\nThe eyes of Gangamesh are what I need.",
-    "name": "Presentation is Everything",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

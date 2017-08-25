@@ -1,8 +1,0 @@
-{
-    "_id": "14067",
-    "description": "It's clear that these raptors acted alone to steal the Horde's silver.It's time to teach these beasts a lesson.",
-    "name": "The Stolen Silver",
-    "requires_level": 13,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

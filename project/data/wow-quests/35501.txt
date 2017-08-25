@@ -1,9 +1,0 @@
-{
-    "_id": "35501",
-    "added_in_patch": 6,
-    "description": "This ominously large explosive appears to be ammunition for the primary cannon that the Bastion is built around.The loading assembly must be on a lower floor, but this ammo did not make it that far.",
-    "name": "Doomshot",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

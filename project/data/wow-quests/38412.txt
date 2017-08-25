@@ -1,9 +1,0 @@
-{
-    "_id": "38412",
-    "added_in_patch": 7,
-    "description": "You should have a good vantage from this tower to grapple over to the mountain path. I can't help you once you're across, but you should be able to take it all the way up to the top. \r\n\r\nI hope you're able to find what you need from the dragons up there. Who knows what the God-King has done to them.",
-    "name": "Above the Winter Moonlight",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

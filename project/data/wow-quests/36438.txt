@@ -1,9 +1,0 @@
-{
-    "_id": "36438",
-    "added_in_patch": 6,
-    "description": "The saberon took their treasure up the rise and barricaded themselves in after Birchus attacked. It will be difficult to get in but I hear you have resources to handle this.One of their entrances is covered with a large boulder. Too large for you or I, but perhaps an ogre with a large enough hammer could break it. I think you know who I am talking about...",
-    "name": "Beatface vs. Boulder",
-    "requires_level": 93,
-    "side": "alliance",
-    "zone": "Cragplume Cauldron"
-}

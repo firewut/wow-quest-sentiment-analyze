@@ -1,9 +1,0 @@
-{
-    "_id": "36944",
-    "added_in_patch": 6,
-    "description": "The great boars of Gorgrond appear to serve as both a mount and an excellent source of food. Having a few of them in the garrison would not be an unwise idea.I have created for you another rope, should you wish to ride one down. Be wary of the Iron Horde presence nearby.",
-    "name": "Besting a Boar",
-    "requires_level": 93,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

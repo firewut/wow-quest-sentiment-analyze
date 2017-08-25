@@ -1,7 +1,0 @@
-{
-    "_id": "26702",
-    "description": "Listen, I got no special love for the Alliance... but then again, I got no real hate for you guys either.Your gold is as good as anyone else's.  Sometimes better.Jeyne left some gold for your travel costs.  I believe the person you're looking for in Dustwallow goes by the name of Calia Hastings.  And the best way to get there is to talk to our flight master, Bragok.  He'll fly you there, if you want.  The flight's free, thanks to your friend.",
-    "name": "Flight to Theramore",
-    "requires_level": 34,
-    "zone": "Dustwallow Marsh"
-}

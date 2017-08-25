@@ -1,8 +1,0 @@
-{
-    "_id": "40384",
-    "added_in_patch": 7,
-    "description": "The eagle appears to have a message for you:\r\n|cFF660000             To: <name>|rThe time has come to strike back at the Legion.Meet me at Hunter's Reach in Dalaran as soon as you can.|cFF660000             |r-Emmarel Shadewarden",
-    "name": "Needs of the Hunters",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

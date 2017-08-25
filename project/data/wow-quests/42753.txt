@@ -1,8 +1,0 @@
-{
-    "_id": "42753",
-    "added_in_patch": 7,
-    "description": "The Wardens made good on the deal. All that's left is to travel to the Isle of the Watchers off of southwest Azsuna. There, you'll need to break back in to the Vault of the Wardens and descend down into its lowest recesses where we were once imprisoned.\r\n\r\nWithin the so-called Vault of the Betrayer, where the Wardens once held the Master's corpse, you'll find Sargerite Keystone.\r\n\r\nGood luck, <name>.",
-    "name": "Vault Break-In",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "36106",
-    "added_in_patch": 6,
-    "description": "This crystal is proof of your strength at slaying elementals and your gladiator friend has born witness!Take the crystal back to Limbflayer and claim your accolades!",
-    "name": "Proof of Strength: Elemental Crystal",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

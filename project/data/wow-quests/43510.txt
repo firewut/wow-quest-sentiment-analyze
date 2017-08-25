@@ -1,8 +1,0 @@
-{
-    "_id": "43510",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Seal of Fate: Class Hall",
-    "requires_level": 110,
-    "zone": "Quests"
-}

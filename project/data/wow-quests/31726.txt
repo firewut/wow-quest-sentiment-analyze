@@ -1,8 +1,0 @@
-{
-    "_id": "31726",
-    "added_in_patch": 5,
-    "description": "I heard all my friends talking about a scary worgen called Eric Davidson in Duskwood that nobody ever fights with their pets.I bet if you found and beat him, people might talk about you instead!",
-    "name": "Eric Davidson",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

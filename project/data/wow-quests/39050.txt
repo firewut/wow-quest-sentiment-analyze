@@ -1,8 +1,0 @@
-{
-    "_id": "39050",
-    "added_in_patch": 7,
-    "description": "We can use some of that essence to complete my ritual. You'll be able to spy upon the Legion leaders and see what they're planning.\r\n\r\nUse the nether crucible and complete the ritual.",
-    "name": "Meeting With the Queen",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

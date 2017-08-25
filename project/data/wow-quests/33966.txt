@@ -1,8 +1,0 @@
-{
-    "_id": "33966",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Gorgrond Flowerpicker",
-    "requires_level": 90,
-    "zone": "Talador"
-}

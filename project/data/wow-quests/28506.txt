@@ -1,7 +1,0 @@
-{
-    "_id": "28506",
-    "description": "These plans you recovered weave an interesting tale, <name>. The Stormpike have been moving their armies from Alterac Valley into the \"four fingers\" of Hillsbrad for over a month. Somehow they have managed to secretly get their installations set up without our forces knowing. Had we not received these plans they would have marched on us in a week's time, annihilating everything in their path.With these plans, though, we can turn the tables.This is what we must do...",
-    "name": "March of the Stormpike",
-    "requires_level": 21,
-    "zone": "Hillsbrad Foothills"
-}

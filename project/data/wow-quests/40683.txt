@@ -1,8 +1,0 @@
-{
-    "_id": "40683",
-    "added_in_patch": 7,
-    "description": "I can sense residues of magic all over you. You will be useful.I must study how the demon bodies can handle the fel energies in such large quantities. I have plenty of flesh to sample, but there must be something...Go retrieve some spines from the nearby basilisks so that I may analyze their magical residues. No sense in both of us getting our hands dirty, is there?",
-    "name": "Discovery Requires Experimentation",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

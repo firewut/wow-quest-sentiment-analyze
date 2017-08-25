@@ -1,7 +1,0 @@
-{
-    "_id": "302",
-    "description": "If Ironband still needs blastpowder, then by Magni he'll have it!  I sent the approval on ahead with a messenger to Jern Hornhelm in Thelsamar.  He'll prepare the powder and other supplies to take to Ironband.And one more thing: I want you to personally see that the shipment of powder reaches its destination.  The last one didn't, so keep your mind sharp and your eyes open.",
-    "name": "Powder to Ironband",
-    "requires_level": 10,
-    "zone": "Loch Modan"
-}

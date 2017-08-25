@@ -1,8 +1,0 @@
-{
-    "_id": "25687",
-    "description": "Loramus Thalipedes is dead.  Well, let me step back... that's an assumption on my part, but I do know that his body lies in three pieces.<Lynnore ponders for a moment.>If you bring me the pieces, we still have a recourse.  All three pieces are nearby... the Dreadmaul ogres hide them in their caves.  In fact, one of them is in that chest, down the ledge behind me...",
-    "name": "Not Just Any Body",
-    "requires_level": 54,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

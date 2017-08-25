@@ -1,8 +1,0 @@
-{
-    "_id": "11793",
-    "description": "I'm afraid this is a matter I must delegate to one of my operatives... someone who can work in secret.  Keep the evidence with you and take it to Vindicator Yaala inside the inn.Tell her I sent you and speak of this matter to no one else.  We do not know who might be working for the cult.",
-    "name": "Further Investigation",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

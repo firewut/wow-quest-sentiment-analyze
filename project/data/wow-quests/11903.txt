@@ -1,8 +1,0 @@
-{
-    "_id": "11903",
-    "description": "Well, <name>.  With the last of our military in Farshire dead or worse, we can do but one thing: fight these Scourge ourselves.We have deployed militia in what remains of Farshire.  Without your help, they've but little hope of winning.  Go and lend them a hand.  Me and the lads will watch this path.  We can't let the Scourge break through!",
-    "name": "It's Time for Action",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

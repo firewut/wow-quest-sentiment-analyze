@@ -1,8 +1,0 @@
-{
-    "_id": "42663",
-    "added_in_patch": 7,
-    "description": "The Tirisgarde has been defunct for ages. To defeat the Burning Legion, we must first recruit the greatest champions of our class to fight by our side. Two powerful archmages, Archmage Kalec and Archmage Modera, have come to help us succeed. \r\n\r\nSpeak to them and enlist their aid.",
-    "name": "Rise, Champions",
-    "requires_level": 101,
-    "zone": "Mage Campaign"
-}

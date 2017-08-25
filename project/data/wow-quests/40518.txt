@@ -1,9 +1,0 @@
-{
-    "_id": "40518",
-    "added_in_patch": 7,
-    "description": "Your warship awaits at the end of the dock, <name>. May your weapon bring you many kills today.\r\n\r\nThe Warchief has already made landfall, I will wager you will simply need to follow the trail of demon blood.",
-    "name": "The Battle for Broken Shore",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Durotar"
-}

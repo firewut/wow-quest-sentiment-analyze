@@ -1,8 +1,0 @@
-{
-    "_id": "11689",
-    "description": "The greatmother will need to know, <name>.Will you please return to Taunka'le? Tell her that I will be following shortly.",
-    "name": "Return with the Bad News",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32327",
-    "added_in_patch": 5.1,
-    "description": "The Divine Bell is in the city. We don't want to cause a scene, we just want the artifact. I need you to find a way in, WITHOUT getting caught. That means no mounts, no flying, no fighting.I can provide aid. I will magically cloak you, so you may move with stealth. I will also give you a small charm that you may use to return to safety, should you get in trouble.Now go, <name>. Go, locate the bell, and tag it to be teleported back with you.",
-    "name": "The Darnassus Mission",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

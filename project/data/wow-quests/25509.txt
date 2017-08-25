@@ -1,7 +1,0 @@
-{
-    "_id": "25509",
-    "description": "Training to join our ranks is not pleasant.  Why should it be?The path to serve the Old Gods is long, painful, and soul-harrowing.  Consider this your first step.Take this pick and break the lodestone deposits found in the gorge.No, we don't need any of the ore.  This is purely for your benefit.",
-    "name": "Physical Training: Forced Labor",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

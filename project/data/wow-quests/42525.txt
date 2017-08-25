@@ -1,8 +1,0 @@
-{
-    "_id": "42525",
-    "added_in_patch": 7,
-    "description": "It's time to send our newly trained archers out into the field. Look at the Scouting Map and send your champions and troops on a routine scouting mission.",
-    "name": "Troops in the Field",
-    "requires_level": 101,
-    "zone": "Hunter Campaign"
-}

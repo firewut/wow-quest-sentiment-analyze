@@ -1,7 +1,0 @@
-{
-    "_id": "28152",
-    "description": "The cultists you saw guarding the claw were members of the Shadow Council, foul warlocks behind nearly every attempt to bring demons into Azeroth.North of here is Jaedenar, named in worship of Kil'Jaeden himself. Deep beneath it stretches Shadow Hold, a former barrow den and the Shadow Council's own stronghold on Azeroth.Take these herbs north to Wildheart Point, on the east side of the road. Greta Mosshoof will need them for her plan to purify Shadow Hold for good.",
-    "name": "Jaedenar Awaits",
-    "requires_level": 44,
-    "zone": "Felwood"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12222",
-    "description": "Even as we attempt to fight off the Horde, the Dragonflayer tribe musters in their village of Voldrune, near the coast to the south.The most powerful warriors in the village are granted flame-imbued talismans that give them the ability to control powerful, savage proto-drakes. If we can gain control of one of these drakes, perhaps we can use it to neutralize the threat posed by Voldrune.The Dragonflayer flamebinders create the talismans and imbue them with power. Kill them and take the talismans.",
-    "name": "Secrets of the Flamebinders",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

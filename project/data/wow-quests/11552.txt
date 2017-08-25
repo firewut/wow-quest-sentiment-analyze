@@ -1,7 +1,0 @@
-{
-    "_id": "11552",
-    "description": "",
-    "name": "Rohendor, the Second Gate",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

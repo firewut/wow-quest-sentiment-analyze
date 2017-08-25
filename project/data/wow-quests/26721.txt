@@ -1,8 +1,0 @@
-{
-    "_id": "26721",
-    "description": "M-Master Harris requires many reagents for his serums. He has me gather them for him.Most of it's not so bad... I mean, the corpseweed is pretty bad, but it's not as bad as the widow venom. Have you seen the widows around here? The hatchlings are the size of a man. Even with a gun, I can't stand to go out hunting them!It's just too terrifying. If you'll go do it for me, I'll gladly pay you! Just bring me back some widow venom! You'll find them all in the woods to the east, just north of the road.",
-    "name": "The Jitters-Bugs",
-    "requires_level": 22,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

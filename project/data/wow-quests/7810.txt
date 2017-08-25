@@ -1,7 +1,0 @@
-{
-    "_id": "7810",
-    "description": "There must be more to being a master of the arena than this!\r\n\r\nPerhaps the Pirate who runs the event at Gurubashi will know!",
-    "name": "Arena Master",
-    "requires_level": 1,
-    "zone": "The Cape of Stranglethorn"
-}

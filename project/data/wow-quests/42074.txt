@@ -1,8 +1,0 @@
-{
-    "_id": "42074",
-    "added_in_patch": 7,
-    "description": "Excellent!There is a gateway further down this pathway and like most Legion constructs it is powered by souls.I think the death of that Inquisitor should be just enough to activate it and open the way back to where it came from.Let's go see where the path takes us, shall we?",
-    "name": "Return of the Light",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

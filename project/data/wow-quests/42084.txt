@@ -1,8 +1,0 @@
-{
-    "_id": "42084",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Selecting a Sixth: Kira",
-    "requires_level": 110,
-    "zone": "Warlock Campaign"
-}

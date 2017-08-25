@@ -1,7 +1,0 @@
-{
-    "_id": "11498",
-    "description": "Though it may end up hurting my business in the long run, you look the sort that dreams of flying  his  own mount through the skies, rather than being flown from place to place.I understand the feeling completely.You, my friend, need to head to Shadowmoon Village in the northwest corner of Shadowmoon Valley. When you get there, speak with Olrokk about some flight instruction. Mind you, his training's not cheap. But, I think that you'll find it worth your while.",
-    "name": "Learning to Fly",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30050",
-    "added_in_patch": 5,
-    "description": "You want me to just GIVE you some hops? Pfshh! This is the third time today some little <race> like you has come up to me asking for food!You want food? Then you'd better work!<She shoves a watering can into your hand.>Now go water my plants!",
-    "name": "Gardener Fran and the Watering Can",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

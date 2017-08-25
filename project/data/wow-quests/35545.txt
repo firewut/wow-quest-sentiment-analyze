@@ -1,8 +1,0 @@
-{
-    "_id": "35545",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Auchenai Crypts Reward Quest",
-    "requires_level": 70,
-    "zone": "Quests"
-}

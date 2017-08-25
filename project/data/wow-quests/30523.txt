@@ -1,8 +1,0 @@
-{
-    "_id": "30523",
-    "added_in_patch": 5,
-    "description": "Hey <name>. I've been looking at that wagon every day, day in and day out, since the day I moved in. Quite an eyesore, don't you think?I heard in town that Fish Fellreed is quite handy with tools. She might be able to fix it up, and then we could turn that patch of land into a plot for farming.Why don't you talk to her and see if she'd be willing to do the job?",
-    "name": "Growing the Farm II: The Broken Wagon",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

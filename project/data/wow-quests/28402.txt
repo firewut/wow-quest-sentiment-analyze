@@ -1,7 +1,0 @@
-{
-    "_id": "28402",
-    "description": "I'm nearly ready, <name>.Your scrolls contained enough information to discern their encryption method. Now all that's left is for me to translate the codes.I need you to scout out the chamber beneath the Obelisk of the Moon. There are likely to be a few of Schnottz's troops down there that escaped your blast.You take care of them and I'll meet you there when I'm finished.",
-    "name": "Schnottz So Fast",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

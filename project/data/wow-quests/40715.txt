@@ -1,8 +1,0 @@
-{
-    "_id": "40715",
-    "added_in_patch": 7,
-    "description": "We have an unexpected ally in this war, <name>, and we're going to need every advantage we can get to defeat the Burning Legion.The Ebon Blade will serve as the Lich King's arm as long as the Scourge is confined to Northrend. In return for our assistance, our ally has offered to assist in obtaining powerful weapons for the strongest of our knights. Weapons powerful enough to end the Legion once and for all!You are one of our best, <name>. I want you to decide which weapon you would like to seek out.",
-    "name": "A Pact of Necessity",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

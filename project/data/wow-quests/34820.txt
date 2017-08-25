@@ -1,9 +1,0 @@
-{
-    "_id": "34820",
-    "added_in_patch": 6,
-    "description": "Shelly and her crew haven't returned from Gloomshade Grove.It's been days... I hope everything is okay.",
-    "name": "Lost Lumberjacks",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

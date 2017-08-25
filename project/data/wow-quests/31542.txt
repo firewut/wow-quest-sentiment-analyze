@@ -1,8 +1,0 @@
-{
-    "_id": "31542",
-    "added_in_patch": 5,
-    "description": "The practice of caligraphy is an old custom in Pandaria. I am working on a piece about an ancient war, so I seek an ink that is suitable to the subject matter.I have searched high and low for the right hue, but it eludes me. Can you think of  a way to achieve the color I am seeking?",
-    "name": "Incarnadine Ink",
-    "requires_level": 85,
-    "zone": "The Arboretum"
-}

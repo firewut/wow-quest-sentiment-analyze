@@ -1,9 +1,0 @@
-{
-    "_id": "33919",
-    "added_in_patch": 6,
-    "description": "Gutsmash has proven to be more than a worthy adversary. Gather a small group together and end his reign of terror once and for all.",
-    "name": "Wanted: Gutsmash the Destroyer",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

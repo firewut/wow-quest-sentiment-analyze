@@ -1,8 +1,0 @@
-{
-    "_id": "42567",
-    "added_in_patch": 7,
-    "description": "So Cedonu said he saw nightfallen going into Leyhollow?I don't like the sound of that.Grandfather seems to be holding his own, but the archmage and I will keep an eye on him. You go investigate our caves.",
-    "name": "Cursed to Wither",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

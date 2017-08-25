@@ -1,7 +1,0 @@
-{
-    "_id": "7027",
-    "description": "Just look at the stables, <name>! Empty! The Stormpike Brigade has no rams to ride - the cavalry is defunct.You must help us, soldier. Take this training collar and enter the wilds of this valley. Locate the Alterac rams that roam throughout the area and use the collar to snare one. When you have captured a ram, return it to me and I shall place it in our stable.When we have enough rams, the ram rider commander will be notifed. With your help, the cavalry will be reborn!",
-    "name": "Empty Stables",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

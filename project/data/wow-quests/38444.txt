@@ -1,8 +1,0 @@
-{
-    "_id": "38444",
-    "description": "Gul'dan seems to have concentrated his defenses on this chokepoint. The guns up ahead are unlike anything we've seen before - they're empowered with fel energy.Our enemies think this pass is impregnable. Let's prove them wrong, commander! If we can break through, the terrain ahead will make an excellent stronghold. Destroy that cannon!",
-    "name": "In, Through, and Beyond!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

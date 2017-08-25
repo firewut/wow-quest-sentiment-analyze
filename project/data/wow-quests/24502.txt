@@ -1,8 +1,0 @@
-{
-    "_id": "24502",
-    "description": "We're down to our last shredder. While no one was looking, I loaded it up with, shall we say, modified footbombs.Kid, I need you to get in that shredder and give 'em heck!",
-    "name": "Necessary Roughness",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

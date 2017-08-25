@@ -1,8 +1,0 @@
-{
-    "_id": "42224",
-    "added_in_patch": 7,
-    "description": "I do not know what Theryn found, but I know where he found it. \r\n\r\nMoonshade Sanctum, to the west. Beyond the Temple of Fal'adora. \r\n\r\nWhatever power altered Theryn's arcane essence... Whatever power allowed Kel'danath to create a spell to soothe the withered... Its source rests there. \r\n\r\nI know this as surely as if I had been there myself.",
-    "name": "Cloaked in Moonshade",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

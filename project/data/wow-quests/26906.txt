@@ -1,7 +1,0 @@
-{
-    "_id": "26906",
-    "description": "I sense a being of immense power within these twisted thorns, <name>. The entire area has come alive at its presence.It must be the Spirit of Agamaggan! He was one of the first and most powerful beings to ever live - the Quilboar worship him fervently.All the vines you see across the land are a result of his blood; of his sacrifice to save Azeroth in the War of the Ancients.If there's any being that could steer the Quilboar towards their noble roots, it would be him.You must seek him out.",
-    "name": "Agamaggan",
-    "requires_level": 30,
-    "zone": "Razorfen Kraul"
-}

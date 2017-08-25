@@ -1,8 +1,0 @@
-{
-    "_id": "37227",
-    "added_in_patch": 6,
-    "description": "<name>! Have you met the peachick you saved the other day?<Mylune holds up a peachick hatchling, then trills and twitters at it. She gestures to you, says your name, then continues chirping animatedly to the little bird. The two ignore you and engage in a lengthy bird-conversation, long enough to make you feel awkward. Finally the dryad turns her attention back to you.>Did you hear that? More peachicks are still trapped in the Everbloom! If you don't save them... well, you heard what will happen!",
-    "name": "Put a Bird on It",
-    "requires_level": 98,
-    "zone": "The Everbloom"
-}

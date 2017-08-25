@@ -1,9 +1,0 @@
-{
-    "_id": "34462",
-    "added_in_patch": 6,
-    "description": "Commander, I have bad news. Olin Umberhide, the tauren who escaped with you from Tanaan, was ambushed when near the eastern perimeter of the Garrison.He was seen being dragged off by the pale. These are dangerous, disturbing creatures that some believe were once orcs. Now they are husks of barely living flesh bent by dark magics.Olin is resourceful, but outnumbered. I would advise travelling east to effect a rescue as soon as possible, before they eat him alive... slowly.",
-    "name": "Winds of Change",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

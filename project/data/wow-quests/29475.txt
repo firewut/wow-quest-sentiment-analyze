@@ -1,7 +1,0 @@
-{
-    "_id": "29475",
-    "description": "A skilled engineer can choose ONE specialization, and I know the secrets of goblin engineering.You look like you're ready to blow things up, but I'll need some samples of your work.  Bring me twenty big iron bombs, twenty sticks of solid dynamite, and five explosive sheep.Submit these items to an engineering trainer in any of the capital cities and you'll be an official goblin engineer with access to all the schematics!",
-    "name": "Goblin Engineering",
-    "requires_level": 20,
-    "zone": "Engineering"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35707",
-    "added_in_patch": 6,
-    "description": "Hey there, peach. We've got the lumber mill good and ready, but we gotta find a way of choppin' wood fast out here.\r\n\r\nThe Laughing Skull talked about Tangleheart, where the botani grow things quick as a quark.\r\n\r\nI'm headin' there now.",
-    "name": "Tangleheart",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

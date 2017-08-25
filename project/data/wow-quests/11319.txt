@@ -1,7 +1,0 @@
-{
-    "_id": "11319",
-    "description": "The glade to the northwest, now the Twisted Glade, used to be home to a number of keepers of the glade. Together with the sisters, they saw to the glade's upkeep.When the glade changed, the sisters died, but somehow the keepers managed to survive. Now, they seed the land with poisonous spores that wither healthy greenery.I'll give you one of the cores from the ice elementals. Once you've destroyed a spore, use the ice crystal to freeze it and keep it from regenerating.",
-    "name": "Seeds of the Blacksouled Keepers",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

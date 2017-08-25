@@ -1,8 +1,0 @@
-{
-    "_id": "40974",
-    "added_in_patch": 7,
-    "description": "I bow to Latosius' wisdom. If we are to endure, it must be you who claims the Amulet. Survive this challenge, <name>, and the might of the Moon Guard will be yours forevermore.",
-    "name": "Latosius' Trial",
-    "requires_level": 110,
-    "zone": "Moon Guard Stronghold"
-}

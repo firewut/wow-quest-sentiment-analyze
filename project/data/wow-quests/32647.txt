@@ -1,8 +1,0 @@
-{
-    "_id": "32647",
-    "added_in_patch": 5.2,
-    "description": "<Yoon kept this order request short.>The Golden Lotus have requested a large number of white turnips.Their request mentioned something about trouble-making sprites wreaking havoc on Mistfall Village. Apparently the sprites don't like turnips!",
-    "name": "Work Order: Golden Lotus I",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

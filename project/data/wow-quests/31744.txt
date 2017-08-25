@@ -1,9 +1,0 @@
-{
-    "_id": "31744",
-    "added_in_patch": 5,
-    "description": "Though we have only just met, we have a common enemy: this group called the \"Horde.\"Several days ago, their leader made us a trade offer. When we refused, his servants abducted several of our cubs as bargaining chips.We have called in the Shado-Pan to help, but they are in Kun-Lai Summit, a journey of several days. Can you come to our aid?",
-    "name": "Unfair Trade",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

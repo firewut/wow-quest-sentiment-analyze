@@ -1,8 +1,0 @@
-{
-    "_id": "41791",
-    "added_in_patch": 7,
-    "description": "Ursoc never backed down from a battle, even when faced with overwhelming odds. If you would take up his claws you will show me that you possess the same courage.Your next trial will place you against an onslaught of my followers. Defeat all of the spirits and prove that you possess the courage of the bear!",
-    "name": "The Second Trial of Ursol",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

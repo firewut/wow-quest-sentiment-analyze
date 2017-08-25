@@ -1,8 +1,0 @@
-{
-    "_id": "30634",
-    "added_in_patch": 5,
-    "description": "Lao Softfoot and I scouted up the ruins to the north.It looks like the mogu are infiltrating the valley through a cave just up the hill, and already they are sending formidable reinforcements through.There are too many enemies to take them head on, so you'll have to meet Lao Softfoot at the entrance to the ruins.He'll help you sneak in under the cover of stealth. Then, plant this keg of explosives at the mouth of the cave.The rest should take care of itself.",
-    "name": "Barring Entry",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

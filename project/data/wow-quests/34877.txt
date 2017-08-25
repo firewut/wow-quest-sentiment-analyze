@@ -1,9 +1,0 @@
-{
-    "_id": "34877",
-    "added_in_patch": 6,
-    "description": "My own investigations have uncovered a permanent arcane portal from here to Highmaul itself.It is guarded but shouldn't be too hard to disrupt once you've gotten some breathing room.",
-    "name": "Removing the Reinforcements",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

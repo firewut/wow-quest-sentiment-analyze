@@ -1,8 +1,0 @@
-{
-    "_id": "38936",
-    "added_in_patch": 6.2,
-    "description": "Lorewalker Cho has sent word that several of your companions survived the conflict in the Jade Forest and have been moved to Kun-Lai Summit to seek healing.They need your help if they are to survive!To reach Kun-Lai Summit, travel to the Valley of Four Winds and look for the High Road Grummle that can be found at the base of the Veiled Stair along the North-western border.They can guide you the rest of the way.",
-    "name": "The Road to Kun-Lai",
-    "requires_level": 87,
-    "zone": "The Veiled Stair"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25692",
-    "description": "Thalipedes wants demon blood.  Personally, the stuff doesn't even seem like blood to me - more like liquid rot - but that's neither here nor there.Luckily for you, the area around the Dark Portal is crawling with demons.  Infernals, felhounds, felguards... they've all got what you need, in copious, pustulent amounts.",
-    "name": "The Vile Blood of Demons",
-    "requires_level": 54,
-    "zone": "Blasted Lands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40930",
-    "added_in_patch": 7,
-    "description": "<The Lich King's chill voice fills your mind once again>\r\n\r\nThere is an ancient blade, lost in the echoes of time, that has the power to bring my vengeance upon the Legion. \r\n\r\nIt is known as Apocalypse.\r\n\r\nI've sensed the blade in the possession of the Dark Riders of Deadwind Pass. Their magic conceals them from my sight but they cannot hide from the scourge! They were last seen by my agents near a place called Manor Mistmantle.\r\r\n\r\nGo there, <name>. Defeat the Dark Riders, and claim the blade!",
-    "name": "Apocalypse",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

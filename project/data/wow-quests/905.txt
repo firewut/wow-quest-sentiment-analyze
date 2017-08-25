@@ -1,8 +1,0 @@
-{
-    "_id": "905",
-    "description": "The hunt deepens, <name>. Now you must find and defeat your prey within its lair.Hunt the Sunscale raptors to the south, where they have built a warren amongst the hills just off of the road. Slay them and remove the feathers they wear. Place the feathers on the sunscale raptor nests to show their brethren you do not fear them!Be cautious, <class>. Raptors hunt in packs and will swarm you if you are not cautious.",
-    "name": "Into the Raptor's Den",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

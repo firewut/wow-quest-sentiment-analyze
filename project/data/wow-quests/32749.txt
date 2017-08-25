@@ -1,8 +1,0 @@
-{
-    "_id": "32749",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Ji'kun Dead",
-    "requires_level": 90,
-    "zone": "Quests"
-}

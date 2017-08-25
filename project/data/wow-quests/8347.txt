@@ -1,8 +1,0 @@
-{
-    "_id": "8347",
-    "description": "Magistrix Erona wanted you to head over to Silvermoon City in order to aid our reclamation efforts there... that is, once you had successfully addressed the situation at Falthrien Academy.  You did not disappoint us, <name>.On your way to Falconwing Square, south of here, you should speak with Outrunner Alarion.  She's not far from the bridge.The Outrunners take care of shuttling goods between here and the mainland, and since you've proven to be so resourceful, they could use your assistance.",
-    "name": "Aiding the Outrunners",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14383",
-    "description": "Scoundrels! Infidels! Ever since I started my operation here in Azshara the Gadgetspring family has hampered my studies and sabotaged my research. And now a mob of middling, second-rate tinkers have rallied to their aid! I have pressing business to attend to: see to it that those gnomes are finished for good.Head to the Ruined Reaches on the coast, south of my Secret Lab, and start rolling some of their disproportionately enormous heads for me.",
-    "name": "The Terrible Tinkers of the Ruined Reaches",
-    "requires_level": 11,
-    "zone": "Azshara"
-}

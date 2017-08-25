@@ -1,7 +1,0 @@
-{
-    "_id": "25578",
-    "description": "I will take Fandral to Moonglade swiftly.  I hope to return soon so I may continue to aid in the battle.In the meantime, report back to Ysera and inform her of these recent developments.",
-    "name": "Return to Nordrassil",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

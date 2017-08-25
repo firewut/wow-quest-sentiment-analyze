@@ -1,8 +1,0 @@
-{
-    "_id": "37162",
-    "added_in_patch": 6,
-    "description": "What ho, squire <name>! Forgive my lips, as they bear gravest news. Dragons have taken up stinking residence within the hallowed halls of Blackrock Spire!These great wyrms hold a distressed damsel in their scaly graspers. Her name is Zaela, they say. Such a beautiful name!As my squire, it is your Light-given duty to adventure yourself into this spire and procure evidence of these dragons, lest I waste my heroism on a dragonless quest.",
-    "name": "Damsels and Dragons",
-    "requires_level": 100,
-    "zone": "Upper Blackrock Spire"
-}

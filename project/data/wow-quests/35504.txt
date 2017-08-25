@@ -1,8 +1,0 @@
-{
-    "_id": "35504",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Iron Joker",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

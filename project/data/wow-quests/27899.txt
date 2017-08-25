@@ -1,7 +1,0 @@
-{
-    "_id": "27899",
-    "description": "If you're looking for Harrison, you just missed him.He was going on and on about his latest discovery, and how everything was beginning to make sense.Whatever... he certainly wasn't making sense to me.I tried to convince him to stay here and just enjoy a few desert sunsets with me, but there's no talking to him when he gets that gleam in his eye.Perhaps you'd be willing to check in on him?He was headed to that big monolith, south of here.",
-    "name": "That Gleam in his Eye",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

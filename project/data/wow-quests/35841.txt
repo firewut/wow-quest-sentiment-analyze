@@ -1,9 +1,0 @@
-{
-    "_id": "35841",
-    "added_in_patch": 6,
-    "description": "Operations at Mok'gol Watchpost are entrusted to a mighty warrior named Packleader Vor'gash.If we can take out this fierce leader, we can shut down their communications temporarily.You can find Vor'gash patrolling the compound to the northeast.Slay him.",
-    "name": "Putting Down the Packleader",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

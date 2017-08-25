@@ -1,7 +1,0 @@
-{
-    "_id": "29122",
-    "description": "<Mylune's voice sings like a melody in your head.>Remember that awful fire turtle, Nemesis, from the Firelands? He's dead now (yay!) but echoes of him keep trying to break through to Mount Hyjal.Go to the shores of the Ashen Lake and speak with my friend Tooga. Let him know you're ready to fight an echo of Nemesis, and the turtles will draw him into this world. Then you can hit him! Hard!Hide inside of Tooga's shell if he starts to erupt.",
-    "name": "Echoes of Nemesis",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

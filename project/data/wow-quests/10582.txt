@@ -1,7 +1,0 @@
-{
-    "_id": "10582",
-    "description": "<Ewan listens to you recount the events at Legion Hold, nodding.>That puts our observations into perspective. We've caught glimpses of them launching infernals in the direction of the hold, but haven't been able to find much more than that.The Shadow Council has the Deathforge sealed tighter than a new keg o' thunderbrew. The first thing you'll need to do is crack some skulls so you can get in there and poke around. Start eliminating the Shadow Council guarding the entrance to the Deathforge!",
-    "name": "Minions of the Shadow Council",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

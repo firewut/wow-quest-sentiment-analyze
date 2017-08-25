@@ -1,7 +1,0 @@
-{
-    "_id": "24722",
-    "description": "You've done us a number of favors, <name>... now let Gremix do one for you.  The attacks on Marshal's Refuge were terrible, undoubtedly.  They came without warning, and took no prisoners.  They were lucky that so many of them survived.A few weeks ago, I came across a crystal pylon in the cliffs to the northeast of here, east of Marshal's Refuge.  I think the pylon and the attacks may be related somehow.  Maybe you can investigate?  I'm sure someone in Marshal's Stand will thank you.",
-    "name": "The Northern Pylon",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

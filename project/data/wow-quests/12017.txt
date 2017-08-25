@@ -1,7 +1,0 @@
-{
-    "_id": "12017",
-    "description": "The time has come my friend: Tu'u'gwar must be dealt with!I've prepped the meat so that the beast is sure to come once you bait the hook I have out in the water. Just follow the fishing line here down to it.Whatever you do, don't let Tu'u'gwar swallow you whole, <name>!",
-    "name": "Meat on the Hook",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

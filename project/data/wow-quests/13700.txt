@@ -1,7 +1,0 @@
-{
-    "_id": "13700",
-    "description": "",
-    "name": "Alliance Champion Marker",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

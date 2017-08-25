@@ -1,9 +1,0 @@
-{
-    "_id": "33080",
-    "added_in_patch": 6,
-    "description": "Yrel leads my rangers on a search for the prisoners at the Shadowmoon village.Their work is extremely dangerous, so I need you to carry out a contingency mission.Sylene has mastered an illusion spell which will allow you to infiltrate Shaz'gul safely. Speak to her to disguise yourself.Then, plant explosives at the quartermaster's depot, the main lodge, and the ritual altar.In case anything goes wrong, set them off to create a distraction.",
-    "name": "Going Undercover",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

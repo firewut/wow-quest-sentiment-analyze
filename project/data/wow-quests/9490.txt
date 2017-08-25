@@ -1,8 +1,0 @@
-{
-    "_id": "9490",
-    "description": "Rock flayers are mean, nasty, violent creatures.  But the plain ones are like tame beasts when compared to their matriarch, Blacktalon the Savage.My cousin got eaten by her and it wasn't pretty.  I swore that one day Blacktalon would pay for that.  You bring back proof of that monster's death and I will give you my life's savings.  Deal?You'll find her inside a cave in the Great Fissure.  Good luck!",
-    "name": "The Rock Flayer Matriarch",
-    "requires_level": 60,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

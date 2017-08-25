@@ -1,9 +1,0 @@
-{
-    "_id": "35718",
-    "added_in_patch": 6,
-    "description": "You're a lifesaver, I'll tell you what.Say, how about you go on ahead to the excavation site and let my sister know I'm on my way. I'll get everything neat and tidy and go get a new cart to lug these over.",
-    "name": "Back on Track",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

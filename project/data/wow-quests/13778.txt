@@ -1,7 +1,0 @@
-{
-    "_id": "13778",
-    "description": "I've heard that the Alliance champions are seeking after ancient blades for their warriors. We can't afford to let them have that kind of advantage.There's an old legend from Grizzly Hills about a maiden cursed with a frog's form to protect the blade she has long guarded. She lives among the lake frogs on the shore of Ashwood Lake, just east of Ashwood Post. The only thing said to break the curse is a kiss, freely given. Apply this balm before kissing anything, <name>. Otherwise, you'll catch warts.",
-    "name": "A Blade Fit For A Champion",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

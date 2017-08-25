@@ -1,7 +1,0 @@
-{
-    "_id": "11976",
-    "description": "These shards pulse with foreboding.  Do they hold the last essence of the Frost Lord?",
-    "name": "Ice Shards",
-    "requires_level": 65,
-    "zone": "Quests"
-}

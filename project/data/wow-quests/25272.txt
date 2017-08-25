@@ -1,8 +1,0 @@
-{
-    "_id": "25272",
-    "description": "The actions of these feral dogs are beginning to make sense. The Twilight's Hammer fears the power of the ancients. They do not want Lo'Gosh to return.So they've summoned their own wolf god - a perversion of what once was. \"Lycanthoth,\" the corruptor.<name>, Lycanthoth is but a shadow of Lo'Gosh's power, but the beast must be destroyed so that the true ancient can return. Take this incense, and burn it in the Maw of Lycanthoth east of here. Slay the monstrosity and free the spirit of Lo'Gosh!",
-    "name": "Lycanthoth the Corruptor",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Mount Hyjal"
-}

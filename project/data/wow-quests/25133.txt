@@ -1,8 +1,0 @@
-{
-    "_id": "25133",
-    "description": "Your trials against the Burning Blade are finished... here in the Valley.  But I want you to report your findings.Go to the troll village of Sen'jin and seek out Master Gadrin.  Sen'jin Village is east out of the valley, then right at the fork.Tell Gadrin of the Burning Blade, and that they have reached the Valley of Trials.  Discover from him if they have yet reached Sen'jin.Go, <name>, and be swift.  I fear the evil found in the Burning Blade Coven is but the herald of a larger threat...",
-    "name": "Report to Sen'jin Village",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Valley of Trials"
-}

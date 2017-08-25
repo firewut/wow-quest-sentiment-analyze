@@ -1,8 +1,0 @@
-{
-    "_id": "29745",
-    "added_in_patch": 5,
-    "description": "<Living statues rampage through the woods.For now, they seem content in pummeling the forest sprites into splinters, but if they continue any further the pandaren will have more than just missing jade to worry about.>",
-    "name": "The Sprites' Plight",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9352",
-    "description": "Besides the constant threat that the Wretched represent, I also have to deal with all kind of fictitious reports of night elf sightings.Though most reports are unfounded, one recent incident demands further investigation.  The West Sanctum, one of our primary energy sources, has suffered a terrible malfunction and rumors of Darnassian sabotage are rampant.Travel there and deal with anyone that looks suspicious.  Report back to Ley-Keeper Velania, who watches over the sanctum.",
-    "name": "Darnassian Intrusions",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Eversong Woods"
-}

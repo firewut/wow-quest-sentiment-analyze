@@ -1,8 +1,0 @@
-{
-    "_id": "24961",
-    "description": "Earlier on, I saw a young Forsaken woman running towards the old inn.  She was screaming for her life, pleading to be taken back home.Not all of us are as resolute as others, <name>.  Even so, we must accept our fate as undead if we are to rise up against those that would put us down.Take my hand mirror and show it to the young woman.  She needs to see what she really is, and join us in our cause.  Besides... we can use all the bodies that we can get.",
-    "name": "The Truth of the Grave",
-    "requires_level": 2,
-    "side": "horde",
-    "zone": "Deathknell"
-}

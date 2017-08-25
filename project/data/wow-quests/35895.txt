@@ -1,8 +1,0 @@
-{
-    "_id": "35895",
-    "added_in_patch": 6,
-    "description": "<Once again, Reshad's voice envelops you.>\r\n\r\nTerokk was a powerful and respected king, beloved by his people.\r\n\r\nHis sages, however, were not so loyal. Hungry for control of Skyreach, they conspired against him.",
-    "name": "Terokk's Fall",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

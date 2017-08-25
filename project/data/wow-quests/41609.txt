@@ -1,8 +1,0 @@
-{
-    "_id": "41609",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Huge Highmountain Salmon",
-    "requires_level": 110,
-    "zone": "Fishing"
-}

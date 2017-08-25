@@ -1,9 +1,0 @@
-{
-    "_id": "36615",
-    "added_in_patch": 6,
-    "description": "Commander! Some good news. I finally got that new larger draft paper in that I ordered when we first came here. And do you know what larger draft paper means?\r\n\r\nIt means I can draw a bigger castle!\r\n\r\nAnd if I can draw it, we can certainly make it! Making it is the easy part, assuming you have a few thousand stones and logs lying around.\r\n\r\nSo what do you say, sir? Shall we get building?",
-    "name": "My Very Own Castle",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

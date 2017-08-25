@@ -1,8 +1,0 @@
-{
-    "_id": "37128",
-    "description": "Our scouts have found a powerful draenei crystal being corrupted by Ambassador Hellmaw at the Beacon of Sha'tar in Shattrath. The draenei call it the Light of Exodus.Commander, I'd like to accompany you on this mission. Hellmaw slew my brother in Outland... this is personal.",
-    "name": "Settling Grievances",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

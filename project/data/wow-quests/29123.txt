@@ -1,7 +1,0 @@
-{
-    "_id": "29123",
-    "description": "Of all of our tasks here in Hyjal, the most pressing is simple: destroy these invaders. The very nature of fire is that it is all-consuming. Lower your defense for just a moment and it will destroy everything in sight.Kill any of the fiery invaders you find. Every enemy defeated purchases more time for Hyjal.",
-    "name": "Rage Against the Flames",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

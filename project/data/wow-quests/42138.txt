@@ -1,8 +1,0 @@
-{
-    "_id": "42138",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Zabra Hexx",
-    "requires_level": 103,
-    "zone": "Priest Campaign"
-}

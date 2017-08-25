@@ -1,8 +1,0 @@
-{
-    "_id": "31529",
-    "added_in_patch": 5,
-    "description": "I was sent to this valley to protect The Heartland from any potential threats.I've identified a high priority target. The Springtail vermin burrow into the mountain cliffs, high above the farmlands.Left unchecked, their numbers will multiply, and they will make their way down to the fields below.They must be eliminated.",
-    "name": "Mission: Culling The Vermin",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

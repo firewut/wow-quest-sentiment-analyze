@@ -1,8 +1,0 @@
-{
-    "_id": "29806",
-    "added_in_patch": 5,
-    "description": "[ph] Find and challenge the Roaming Brawler to a fight.",
-    "name": "The Wanderer",
-    "requires_level": 1,
-    "zone": "Quests"
-}

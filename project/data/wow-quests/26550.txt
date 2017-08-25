@@ -1,7 +1,0 @@
-{
-    "_id": "26550",
-    "description": "Zanzil the Outcast, an exile from the Gurubashi tribe, is my quarry.  Recently, I have heard tales from my brothers in the north about his planned reentry into society, starting with the emissary he sent to the Skullsplitters.  This is not good news.I want you to peer into Zanzil's current plans.  Take this incense, and place it in front of the bat totem in the Ruins of Jubuwal, to the east.  Hir'eek will guide you from there.",
-    "name": "Backdoor Dealings",
-    "requires_level": 29,
-    "zone": "The Cape of Stranglethorn"
-}

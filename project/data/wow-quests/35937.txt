@@ -1,8 +1,0 @@
-{
-    "_id": "35937",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Blood Elf Ear",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

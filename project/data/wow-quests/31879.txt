@@ -1,8 +1,0 @@
-{
-    "_id": "31879",
-    "added_in_patch": 5,
-    "description": "I'm afraid I have nothing left to teach you, <name>. However, your journey as a trainer is far from over!Report to Audrey Burnhep in Stormwind. She has connections with many of Azeroth's finest trainers, and will help you grow further.",
-    "name": "Audrey Burnhep",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27958",
-    "description": "Shame that Lunk left.  I was beginning to enjoy his company.Oh well, back to work!I'm the closest thing that this expedition has to a medical officer, and I'm running low on antivenom.  We tend to need a lot of antivenom.The key to a proper antivenom is ALWAYS to start with the poison itself.  The glassweb spiders nearby should be a good place to start.  If you kill them, you can probably extract some venom from the sacs within their jaws.",
-    "name": "A Proper Antivenom",
-    "requires_level": 46,
-    "zone": "Searing Gorge"
-}

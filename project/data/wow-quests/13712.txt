@@ -1,8 +1,0 @@
-{
-    "_id": "13712",
-    "description": "You're coming with me, <name>.There's no one else that I can spare, and we cannot afford for Splintertree to be lost.Prepare yourself, and speak to me again when you are ready.",
-    "name": "To the Rescue!",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

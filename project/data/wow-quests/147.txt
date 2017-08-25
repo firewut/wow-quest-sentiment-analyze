@@ -1,8 +1,0 @@
-{
-    "_id": "147",
-    "description": "If the \"Collector\" is taking gold from our mines then he's stealing from the kingdom!  Bring the Collector to justice, and bring me the ring mentioned in the pickup schedule you gave me.  It may tell us whom the Collector is working for...That Pickup Schedule says the Collector is hiding out at the Brackwell Pumpkin Patch.  You should search for him there.",
-    "name": "Manhunt",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11289",
-    "description": "<Ares smiles.>Glory to the Light. You have done it!<Ares coughs.>Take the artifact and return it to Valgarde. Lord Irulon Trueblade awaits its return.Fight with honor, friend. Always. Honor.<Ares dies.>",
-    "name": "Guided by Honor",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

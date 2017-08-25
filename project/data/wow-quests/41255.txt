@@ -1,8 +1,0 @@
-{
-    "_id": "41255",
-    "added_in_patch": 7,
-    "description": "Your weapon is ancient and powerful but it holds the potential to be so much more.Take this seed, it is all that remains of a forest that grew tall when the world was young. Plant it within the grove to the west and allow it to take root.With its power both it and your weapon will be far more than they are alone.",
-    "name": "Sowing The Seed",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

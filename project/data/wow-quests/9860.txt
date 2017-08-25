@@ -1,7 +1,0 @@
-{
-    "_id": "9860",
-    "description": "Return to Cedric at once, <name>.  The aid you've given the Violet Eye will not go unrewarded.Think what you want of us and our organization, <class>, but gaining the favor of the archmages of Dalaran will not be something you regret.",
-    "name": "The New Directive",
-    "requires_level": 68,
-    "zone": "Alterac Mountains"
-}

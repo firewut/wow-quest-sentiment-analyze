@@ -1,7 +1,0 @@
-{
-    "_id": "24795",
-    "description": "In spite of Queen Lana'thel's boasting, you have restored Quel'Delar, <name>. Long have we dreamt of reclaiming Quel'Delar.The Silver Covenant, and indeed all quel'dorei owe you a debt of gratitude.As a <class>, the sword seems to know you lack the training to wield it and hasn't bonded to you. Where, then, will its next master come from? Perhaps the Argent Crusade can find one. Go north to the Argent Tournament Grounds and present the sword to Justicar Mariel Trueheart on behalf of the Silver Covenant.",
-    "name": "A Victory For The Silver Covenant",
-    "requires_level": 80,
-    "zone": "Icecrown"
-}

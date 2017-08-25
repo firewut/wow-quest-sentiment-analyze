@@ -1,8 +1,0 @@
-{
-    "_id": "40324",
-    "added_in_patch": 7,
-    "description": "All of Kel'danath's experiments to connect with the withered failed, and some even made them more dangerous.\r\n\r\nUntil he found Theryn.\r\n\r\nHis arcane essence - the very soul of the shal'dorei - had been touched by something special. But what? \r\n\r\nBy weaving my arcane essence together with Theryn's, I can create an empathic bond. This communion will bare his soul to us all - or what's left of it. \r\n\r\nWe need only to feed him mana, and lots of it, in order to begin.",
-    "name": "Arcane Communion",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

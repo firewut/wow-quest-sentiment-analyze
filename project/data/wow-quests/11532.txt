@@ -1,7 +1,0 @@
-{
-    "_id": "11532",
-    "description": "The Legion will move against us as soon as their forces to the south are freed up.  The Scourge at the Dead Scar are keeping their forces occupied at the moment.  It won't last long, however.I want you to fly a dragonhawk over to the scar and put a dent in the demons' numbers with these arcane charges.If all goes well, they won't even notice us taking the armory from Kael's lackeys.  Talk to Ayren, the dragonhawk master in the west part of the harbor, when you're ready to fly there.",
-    "name": "Distraction at the Dead Scar",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

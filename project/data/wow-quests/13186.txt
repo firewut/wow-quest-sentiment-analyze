@@ -1,7 +1,0 @@
-{
-    "_id": "13186",
-    "description": "It is only a matter of time before this castle is besieged by the forces of the Horde. Destroy three of their siege devices and return to me.",
-    "name": "Stop the Siege",
-    "requires_level": 85,
-    "zone": "Wintergrasp"
-}

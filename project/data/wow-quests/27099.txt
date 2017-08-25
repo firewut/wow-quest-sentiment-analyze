@@ -1,7 +1,0 @@
-{
-    "_id": "27099",
-    "description": "You must strike at their leaders, <name>. You will find them holed up in the old keep. Battle your way inside and find the holdouts! Turn them for your queen!None shall escape the mighty grasp of the Forsaken!",
-    "name": "No Escape",
-    "requires_level": 11,
-    "zone": "Silverpine Forest"
-}

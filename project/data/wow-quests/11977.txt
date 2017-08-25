@@ -1,7 +1,0 @@
-{
-    "_id": "11977",
-    "description": "<Wartook points northeast.>She is quite kind, you know. If it were not for your emissary, the surviving refugees may have given up hope. While she may not be taunka by birthright, the tribe has taken to her as a village elder for the time being.If you are who I think you are, please go and pay Emissary Brighthoof a visit inside the refugee camp. She has been waiting for you.",
-    "name": "A Tauren Among Taunka",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

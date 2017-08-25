@@ -1,7 +1,0 @@
-{
-    "_id": "28426",
-    "description": "We're headed to Chiselgrip, right in the center of these steppes.  We'll rendezvous with the Thorium Brotherhood there, as well as with my father.Are you familiar with the Brotherhood?  Those dark iron dwarves have helped me out more than once.  We may need their help again.We'll pass through Black Tooth Hovel on our way there.  What do you say we kill a few of the Blackrock while we travel?  I'm getting a little restless here in this camp.",
-    "name": "Chiselgrip, the Heart of the Steppes",
-    "requires_level": 49,
-    "zone": "Burning Steppes"
-}

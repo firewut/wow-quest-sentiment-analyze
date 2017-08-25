@@ -1,8 +1,0 @@
-{
-    "_id": "26497",
-    "description": "The Vilebranch are a different tribe from the Revantusk, but the difference is academic. Far as we're concerned the only good troll is a dead troll!But make no mistake, the Vilebranch are just as nasty even without the Horde's chain around their neck. They'll poison this whole land unless we take this stand and get rid of themYou can start with their witchdoctors and headhunters on the lower tier. Let me know when you've killed a fair share of 'em.",
-    "name": "Vilebranch Scum",
-    "requires_level": 30,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9296",
-    "description": "This stone radiates a dark energy. You should deliver it to SOMEONE.",
-    "name": "reuse",
-    "requires_level": 1,
-    "zone": "Quests"
-}

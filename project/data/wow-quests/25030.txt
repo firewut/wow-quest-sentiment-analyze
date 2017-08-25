@@ -1,7 +1,0 @@
-{
-    "_id": "25030",
-    "description": "You sense a malign presence coming from within the skull of the beast.  Coleman Farthing may be interested in seeing this.",
-    "name": "The Haunted Mills",
-    "requires_level": 6,
-    "zone": "Tirisfal Glades"
-}

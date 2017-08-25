@@ -1,7 +1,0 @@
-{
-    "_id": "24709",
-    "description": "Hey wait a minute, this bone has pickax marks on it.  These aren't yours, are they?  No, I recognize this mark... this must be that blasted dwarf!  Gah!Let me step back for a minute and explain.  There's another archaeologist south of here named Durrin Direshovel.  He practices a reckless, devil-may-care brand of archaeology that offends even me.A priceless fossil, ruined by sloppy pick-work.  This is the last straw, Durrin!<name>, go put an end to Direshovel and his negligent excavation.",
-    "name": "A Tale of Two Shovels",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

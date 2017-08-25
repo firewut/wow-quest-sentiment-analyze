@@ -1,8 +1,0 @@
-{
-    "_id": "11634",
-    "description": "You're a tough mother, <name>. I think your talents are better suited elsewhere - like the root of the whole damn problem!<Razgor points to the west.>A thousand Scourge, at least four full sized floating death machines and who knows what else.But you're gonna find out and then you're gonna handle it... That's right, you're gonna beat the hell out of the Scourge army that's currently beating down our door.Get to the top of Warsong Hold and report to Wind Master To'bor. He'll be expecting you.",
-    "name": "Wind Master To'bor",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29283",
-    "description": "The ancients await in Hyjal. The Firelands will prove a dangerous place for them considering their... composition, but their strength will be of great use to us if we are to face any of Ragnaros' lieutenants.Gather your marks, and seek out Elderlimb at the Sanctuary of Malorne. If they are to march with us, he would be the one leading them through the portal.",
-    "name": "Calling the Ancients",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

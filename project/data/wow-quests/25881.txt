@@ -1,7 +1,0 @@
-{
-    "_id": "25881",
-    "description": "We held out as long as we could, <class>. But the flames... the heat... We lost the whole town.Captain Irontree refused to pull back when the flames engulfed us. Our forces are scattered. Maybe some of the others survived? We can mount a counter-attack!Go into the Scorched Plain and rescue any lost wardens that got separated from the group. Then find Captain Irontree - he's probably taken up a fortified position in the middle of the fighting. ",
-    "name": "Lost Wardens",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30992",
-    "added_in_patch": 5,
-    "description": "We've heard back from Suna, on the wall. Something's going on...\r\n\r\nIt looks like they are preparing for their final push. It's time to finish this, friend.",
-    "name": "Finish This!",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

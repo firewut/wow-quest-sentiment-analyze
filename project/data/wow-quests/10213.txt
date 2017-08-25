@@ -1,8 +1,0 @@
-{
-    "_id": "10213",
-    "description": "When I was wounded in the wastes I saw a goblin zeppelin crash.  It went down to the northwest, beyond the Expedition Armory. The zeppelin was on fire.  Shrieking, burning goblins were falling like bombs from the sky.  Of course I was in a lot of pain and I had lost a lot of blood.  I may have imagined the whole thing.If you can find any survivors, we can offer them sanctuary here at Spinebreaker Post.  ",
-    "name": "Investigate the Crash",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

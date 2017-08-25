@@ -1,7 +1,0 @@
-{
-    "_id": "8271",
-    "description": "",
-    "name": "Hero of the Stormpike",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

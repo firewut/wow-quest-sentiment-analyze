@@ -1,7 +1,0 @@
-{
-    "_id": "28626",
-    "description": "Here you go, one instant Super-Gro Insta-Tree made with 80% natural ingredients!No roots, no muss, no fuss. Just give it to Kilram and make sure he stands the heck back when he uses it.",
-    "name": "Tree Delivery",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

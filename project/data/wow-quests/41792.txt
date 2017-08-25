@@ -1,8 +1,0 @@
-{
-    "_id": "41792",
-    "added_in_patch": 7,
-    "description": "You've proven to me your strength and your courage, but do you possess the ability to apply yourself when it matters most?This final trial will reveal all.",
-    "name": "The Third Trial of Ursol",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "37092",
-    "added_in_patch": 6,
-    "description": "At the Dwarven Bunker, we can take scraps of Iron Horde armor that you collect and turn them into new gear. It's not the strongest stuff in the world, but it looks good.\r\n\r\nGet some Iron Horde scraps and come back my way. I'll set you up with a nice tabard for your troubles.",
-    "name": "Scraps of Iron",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Frostfire Ridge"
-}

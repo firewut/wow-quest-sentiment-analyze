@@ -1,8 +1,0 @@
-{
-    "_id": "29344",
-    "description": "Hae I introduced ye tae me pet, Squrky? I'm teachin' him tae fish all proper-like. Fer now, I've been feedin' him minnows fished from the pool in this cavern.Maybe ye'd like tae give it a try? Just cast yer lure in the pool over there and feed Squrky any minnows ye happen tae fish up. He'll love ye ferever!",
-    "name": "Fish fer Squrky",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

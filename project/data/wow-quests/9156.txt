@@ -1,7 +1,0 @@
-{
-    "_id": "9156",
-    "description": "A bounty is hereby declared for the abominations known as Knucklerot and Luzran.  These dreadful creations of Dar'Khan are extremely dangerous and have been sighted patrolling near the Howling and Bleeding Ziggurats.  Individuals seeking to claim the reward must present the abominations' heads to Deathstalker Rathiel as proof of the deed.",
-    "name": "Wanted: Knucklerot and Luzran",
-    "requires_level": 9,
-    "zone": "Ghostlands"
-}

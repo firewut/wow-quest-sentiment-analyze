@@ -1,7 +1,0 @@
-{
-    "_id": "5981",
-    "description": "Around 4,000 years ago, Tyrande Whisperwind saved the life of the frostsaber queen, at the hands of rampaging giants. Since then, the frostsabers have been allies of the night elves.These same giants that once were a danger to the frostsabers, still exist not too far from here. They are called the frostmaul, and they have taken over the large valley to the south.Prove your loyalty to the frostsabers; kill these giants in the name of the frostsaber queen, Shy-Rotam!",
-    "name": "Rampaging Giants",
-    "requires_level": 58,
-    "zone": "Winterspring"
-}

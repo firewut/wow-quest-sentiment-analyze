@@ -1,8 +1,0 @@
-{
-    "_id": "26943",
-    "description": "I used t' have quite the home back in Ironforge. That is, I did until I was booted out to make way for the gnomes.They couldn't stop a bunch of troggs with all them gizmos and machines! An' I have to pay for their weakness?No, sir. No longer.Go to Gnomeregan and talk to Commando Murd Doc. Sure, he's a gnome, but his crew, S.A.F.E. I think they call 'em, are going to take Gnomeregan back.Go! I want my house back!",
-    "name": "Home Sweet Gnome",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "Gnomeregan"
-}

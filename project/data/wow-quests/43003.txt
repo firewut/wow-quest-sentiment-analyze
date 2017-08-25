@@ -1,8 +1,0 @@
-{
-    "_id": "43003",
-    "added_in_patch": 7,
-    "description": "<Ma'haat the Indomitable speaks to you with a low, rumbling voice.>Here... is the Egg of Gaiath. It is yours now.Go... in peace.",
-    "name": "Return to Janai",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30239",
-    "added_in_patch": 5,
-    "description": "You can hear the spirit of Lao-Fe, the Slavebinder shouting taunts from the cave at the top of Tu Shen Burial Mound.Defeating him will surely serve to ensure victory for the spirits of the pandaren monks.",
-    "name": "Lao-Fe the Slavebinder",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

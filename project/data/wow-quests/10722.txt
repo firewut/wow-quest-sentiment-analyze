@@ -1,7 +1,0 @@
-{
-    "_id": "10722",
-    "description": "I know what must be done!  <name>, you must pose as Overseer Nuaar and attend that meeting!The wyrmcultists at the coven all have a standard outfit that they wear, so go collect scraps from them, and when you have enough, put together a disguise.Pose as Overseer Nuuar and speak with Kolphis Darkscale to see what he has to say, and then return to Tree Warden Chawn.You'll find the coven by heading through the Wyrmskull Tunnel and following the path past the Raven's Wood and Grishnath to its end.",
-    "name": "Meeting at the Blackwing Coven",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

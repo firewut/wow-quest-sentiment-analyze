@@ -1,7 +1,0 @@
-{
-    "_id": "39444",
-    "description": "",
-    "name": "Battle At The Iron Front",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

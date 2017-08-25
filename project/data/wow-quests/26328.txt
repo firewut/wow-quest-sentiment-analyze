@@ -1,7 +1,0 @@
-{
-    "_id": "26328",
-    "description": "<Norsala reaches to the ground in an attempt to discern Diamant's location, but jumps back in shock after a moment's contact.>My! Dat was unexpected. Diamant ain't far at all. When I reached out ta him, he spoke back wit me and told me where we could be finin' him. Head towards tha northeastern edge of the Jagged Wastes - Diamant will be expectin' ya.<name>, be careful. It may be unlike an earth bein' to lay an ambush, but it was unlike dem to siege the temple in da first place.",
-    "name": "Rocky Relations",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

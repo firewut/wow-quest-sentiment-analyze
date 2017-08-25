@@ -1,8 +1,0 @@
-{
-    "_id": "35997",
-    "added_in_patch": 6,
-    "description": "The Ogre Sorcerer King, Imperator Mar'gok, has mastered magical techniques we would consider on the fringe of arcane science. His felbreakers, among others, can actively dampen or nullify magic. Even fel magic!If we're to locate Gul'dan, we need to figure out how it's done. Acquire a felbreaker's tome from his felbreaker captain and acquire the sigil of the sorcerer king himself - I must know what he knows.Yes, <name>, this means I expect you to storm Highmaul and defeat everyone inside. Get to it!",
-    "name": "Empire's Fall",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

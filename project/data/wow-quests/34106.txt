@@ -1,9 +1,0 @@
-{
-    "_id": "34106",
-    "added_in_patch": 6,
-    "description": "The Iron Horde have no honor. They disgust me.We spotted one of their lieutenants wandering the cliffs not far from our base. I believe that she is tracking our movements to prepare for some sort of assault from the Orunai Coast.I understand you have much to do, commander. If you have the time, I believe it would be beneficial to our position's integrity.",
-    "name": "Wanted: Ra'tok the Hammer",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "29305",
-    "description": "One of Ragnaros' Lieutenants has shown himself at Ragnaros' Reach, the walled area to our northeast.I hoped to send you as soon as you returned, but I suspect Witherbranch and some of our forces have already joined the fight by now. You should hurry.You should be able to drop down the cliff wall right here and reach them quickly.",
-    "name": "Strike at the Heart",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

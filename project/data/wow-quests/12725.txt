@@ -1,7 +1,0 @@
-{
-    "_id": "12725",
-    "description": "Breaking through the Scarlet lines was no easy task. We suffered many casualties during the assault and lost one of our best death knights, Koltira Deathweaver. I don't know whether he's dead or alive, but I'll be damned if we don't search for him.I last saw him being bound in irons and dragged away to the Scarlet Hold, northeast of here. Tear that keep asunder, death knight. Find Koltira!",
-    "name": "Brothers In Death",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

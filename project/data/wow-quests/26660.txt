@@ -1,8 +1,0 @@
-{
-    "_id": "26660",
-    "description": "I need a bottle of a certain liquor - Zombie Juice.  Tavernkeep Smitts at the Scarlet Raven Tavern in Darkshire should have some.And please hurry, <name>.  These nights get cold, and I need that drink to put fire in my veins again!",
-    "name": "Zombie Juice",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

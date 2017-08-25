@@ -1,8 +1,0 @@
-{
-    "_id": "42758",
-    "added_in_patch": 7,
-    "description": "Sharks. They be the biggest threat to us pirates. Well... after scurvy, ninjas, and the judicial system. Luckily, we only have to deal wit' sharks today.\r\n\r\nGo pull some teeth out of their ugly faces 'n bring 'em back to me. I needs a new necklace!",
-    "name": "You're Gonna Need A Bigger Boat!",
-    "requires_level": 30,
-    "zone": "Quests"
-}

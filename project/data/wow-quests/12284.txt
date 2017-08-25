@@ -1,7 +1,0 @@
-{
-    "_id": "12284",
-    "description": "We've suffered heavy casualties here, <race>.The only good news is that we've given as much as we've taken. I've requested more troops, but the bulk of our forces are bogged down in Venture Bay. It looks like we're on our own for now.No matter how bad it gets, we MUST stand our ground! The precious resources of this region are essential to the Horde's long-term success in Northrend.We've got to keep the Alliance on their heels until help arrives. Get out there and give 'em something to think about.",
-    "name": "Keep 'Em on Their Heels",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

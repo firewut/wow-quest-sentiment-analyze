@@ -1,7 +1,0 @@
-{
-    "_id": "11947",
-    "description": "We must act to preserve the balance! Time is against us.There is a camp located in the shadow of Ethel Rethor within northwestern Desolace. There, they use ice stones to communicate with the elementals, as they do in Silithus. Much as I am loath to do this, the spirits will understand - you must summon one of this Ahune's lieutenants and destroy it. Perhaps this forestalling action will be enough...",
-    "name": "Striking Back",
-    "requires_level": 29,
-    "zone": "Midsummer"
-}

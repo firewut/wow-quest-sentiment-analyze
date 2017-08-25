@@ -1,7 +1,0 @@
-{
-    "_id": "8890",
-    "description": "<name>, I have one last favor to ask of you. Would you please relay what's transpired here to Magister Duskwither, back at the Farstrider Retreat? Let him know that I am well, but make certain that he is aware that some of the apprentices have become Wretched.Thank you for your help!",
-    "name": "Word from the Spire",
-    "requires_level": 8,
-    "zone": "Eversong Woods"
-}

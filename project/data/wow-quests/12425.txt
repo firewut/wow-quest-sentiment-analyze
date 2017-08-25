@@ -1,7 +1,0 @@
-{
-    "_id": "12425",
-    "description": "This trapper business has the potential to be more important than we've accounted for.If they're not with the Alliance, there's a good chance they're with the Scourge, which could mean trouble.Our previous efforts might've paid off, though.  We spotted our former captive meeting with a fortune teller of some sort before we lost track of her.I'm almost certain now that she will take us to their leader if we can find her again.  Find Ruuna the Blind and see what you can find out.",
-    "name": "Ruuna the Blind",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26002",
-    "description": "<You pry the note loose from Fuzzwhistle's hand.>They're onto us! They know all about the bomb. Planning an attack on Krom'gar Fortress! I think they sent a search party after me. Won't go out like a chump. They'll get a fight.I think I hear them coming now! Their leader is a high elf huntress named Davinia. She spoke of attack plans. Avenge me by killing her and getting those plans! Her tent is nearby, to the east.Hellscream's eyes are upon you...",
-    "name": "Alliance Attack Plans",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

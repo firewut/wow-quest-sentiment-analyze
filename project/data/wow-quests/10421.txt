@@ -1,7 +1,0 @@
-{
-    "_id": "10421",
-    "description": "",
-    "name": "Fel Armaments",
-    "requires_level": 64,
-    "zone": "Shattrath City"
-}

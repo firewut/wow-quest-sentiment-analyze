@@ -1,8 +1,0 @@
-{
-    "_id": "33727",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Heal Up",
-    "requires_level": 94,
-    "zone": "Talador"
-}

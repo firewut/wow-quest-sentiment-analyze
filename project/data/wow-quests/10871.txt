@@ -1,7 +1,0 @@
-{
-    "_id": "10871",
-    "description": "Allow me to return you to Mordenai. I am certain that he wishes to see you once more.",
-    "name": "Ally of the Netherwing",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

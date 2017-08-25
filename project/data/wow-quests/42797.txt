@@ -1,8 +1,0 @@
-{
-    "_id": "42797",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Scythemaster Cil'raman",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

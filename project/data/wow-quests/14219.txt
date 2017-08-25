@@ -1,8 +1,0 @@
-{
-    "_id": "14219",
-    "description": "You immediately recognize this statue from a sketch in Furien's Journal.Though the words associated with the entry elude you, the sketch seems self-explanatory. After battle, the enemies' weapons were to be cast upon the basin in exchange for a divine gift of some sort.As you ponder this ritual, the glint of steel catches your eye from a nearby weapon rack....",
-    "name": "To the Hilt!",
-    "requires_level": 27,
-    "side": "horde",
-    "zone": "Desolace"
-}

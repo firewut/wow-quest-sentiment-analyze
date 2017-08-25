@@ -1,7 +1,0 @@
-{
-    "_id": "26582",
-    "description": "This is most definitely magic in origin. Not even druidic. I suspect one among the stone troggs to the north.Go to Gorsik and point him in their direction. Hopefully this will help earn his favor.",
-    "name": "Unnatural Causes",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

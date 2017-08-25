@@ -1,8 +1,0 @@
-{
-    "_id": "39393",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Moonclaw Vale",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

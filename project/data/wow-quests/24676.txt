@@ -1,8 +1,0 @@
-{
-    "_id": "24676",
-    "description": "The people are free, but the town is still occupied by the Forsaken.  They're cut off from their main force, so if we're to drive them out, now's our chance.Their leader, Executor Cornell, is known  for his unbound ruthlessness.  Also among them is Valnov the Mad, a so-called scientist who carries out inhuman experiments on villagers too old to work the mines.Take care of them all.",
-    "name": "Push Them Out",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

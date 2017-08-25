@@ -1,8 +1,0 @@
-{
-    "_id": "29086",
-    "description": "I'm just a little guy, trying to set up my own independent business. Working hard toward the Azerothian dream, ya know?Well soon as I set up shop, the Venture Co. next door decided they wanted me out. They've been harrassing me with threatening letters, using words like 'cease' and 'desist.' Worst of all, the schematics for my newest machine are missing, and I know those corporate pilferers stole them! Go to the Sludge Fen and knock out some of their employees. I know they're hiding my blueprints!",
-    "name": "Competition Schmompetition",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

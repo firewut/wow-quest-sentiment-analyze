@@ -1,7 +1,0 @@
-{
-    "_id": "8488",
-    "description": "Something's wrong, <name>.  I sense the presence of Scourge.  Be ready to fight them!",
-    "name": "Unexpected Results",
-    "requires_level": 7,
-    "zone": "Eversong Woods"
-}

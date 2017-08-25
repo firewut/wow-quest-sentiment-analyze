@@ -1,8 +1,0 @@
-{
-    "_id": "25073",
-    "description": "You've be doin' quite well for one so young. I've no doubts you'll be makin' quite da name for yarself.Go now, northwest, across da shallows ta Sen'jin Village. Dere you'll be meetin' Master Gadrin. He'll likely have a task or two for ya before ya truly make ya way out into the Durotar wilds.Please remember, <name>, we may disagree wit' the young Hellscream at times, but his intentions are noble, and it be very important that we remain united as one Horde. Make da Darkspear proud.",
-    "name": "Sen'jin Village",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Echo Isles"
-}

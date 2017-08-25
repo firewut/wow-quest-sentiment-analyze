@@ -1,8 +1,0 @@
-{
-    "_id": "41251",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DEPRECATED",
-    "requires_level": 98,
-    "zone": "Hunter"
-}

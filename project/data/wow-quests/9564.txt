@@ -1,7 +1,0 @@
-{
-    "_id": "9564",
-    "description": "You recover the piece of fur that Gurf had \"lost\" in his struggle with the murlocs. Return the fur to Gurf and let him know that the fearsome Murgurgula has been slain.",
-    "name": "Gurf's Dignity",
-    "requires_level": 7,
-    "zone": "Azuremyst Isle"
-}

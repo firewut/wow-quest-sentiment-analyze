@@ -1,7 +1,0 @@
-{
-    "_id": "10333",
-    "description": "Say, <name>, I was wondering if you could do me another favor.My partner out in the field could probably use a hand.  I was wondering if you could go check in on her.I'm sure that Mama Wheeler will appreciate the help.  Just don't mind her sharp tongue.She's trying to look out for our interests to the east.  You'll find her just inside Eco-Dome Midrealm at the Midrealm Post.",
-    "name": "Help Mama Wheeler",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

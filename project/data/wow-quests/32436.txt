@@ -1,8 +1,0 @@
-{
-    "_id": "32436",
-    "added_in_patch": 5.1,
-    "description": "",
-    "name": "Third Place",
-    "requires_level": 1,
-    "zone": "Fishing"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41687",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Snail Fight!",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

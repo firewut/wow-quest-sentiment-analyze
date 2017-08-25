@@ -1,8 +1,0 @@
-{
-    "_id": "42062",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Fight Night: Stitches Jr. Jr.",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

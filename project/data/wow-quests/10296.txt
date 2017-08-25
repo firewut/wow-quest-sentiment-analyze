@@ -1,7 +1,0 @@
-{
-    "_id": "10296",
-    "description": "The Infinite Dragonflight have abandoned all pretense of subtlety. They plot to destroy the Guardian, Medivh, and prevent the Dark Portal from ever opening. While outwardly, this may appear a boon to the forces of the Alliance, it is in actuality catastrophic and will result in your world ending.You must venture through the timeway leading to the Black Morass. Go west and then south, past my future self, until you reach the tunnel that houses the swamp specimens. Cross over and speak with Sa'at.",
-    "name": "The Black Morass",
-    "requires_level": 66,
-    "zone": "Caverns of Time"
-}

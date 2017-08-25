@@ -1,8 +1,0 @@
-{
-    "_id": "43182",
-    "added_in_patch": 7,
-    "description": "So long as Hakkar roams free, no mage will be safe.Millificent Manastorm created a vessel that siphons the essence of a mage, binding their magic to the object. It was created to be a weapon, but we can use it as bait.If I channel my essence into the vessel, it will become an object of pure magic.Upon capture, Millificent shattered the vessel, allowing it to fall into the hands of our enemies.Find the pieces and return them to me. Together we can set a trap Hakkar won't be able to resist!",
-    "name": "The Missing Vessel",
-    "requires_level": 110,
-    "zone": "Hunter Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30717",
-    "added_in_patch": 5,
-    "description": "The cranes of Krasarang are a gift from Chi-Ji. Even the very feathers they leave behind are a gift for us to appreciate.We use these feathers to adorn our garments and to fletch arrows. But first... they must be gathered.",
-    "name": "Gifts of the Great Crane",
-    "requires_level": 90,
-    "zone": "Krasarang Wilds"
-}

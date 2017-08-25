@@ -1,7 +1,0 @@
-{
-    "_id": "12882",
-    "description": "Welcome to the peaks.I have a simple request before you head off on whatever grand jaunt you have planned. There are relics and treasures of ancient Ulduar scattered through these mountains. Most are likely in possession of the various sentient races.Return any that you find to me, and I will reward you in kind. Perhaps I'll even let you partake on my many potent ales.",
-    "name": "Ancient Relics",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

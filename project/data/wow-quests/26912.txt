@@ -1,7 +1,0 @@
-{
-    "_id": "26912",
-    "description": "Myzrael is a deceiver. She is an ancient force sealed long ago, and must be kept that way.You must confront her at the Shards of Myzrael where you first spoke with her.  Summon her with this scroll, and when she has been fully brought to the surface, defeat her. Then take the Eldritch Shackles from her body and place them on the Shards to keep her fully bound once more.Good luck, <name>... may my past trouble you no more.",
-    "name": "The Princess Unleashed",
-    "requires_level": 26,
-    "zone": "Arathi Highlands"
-}

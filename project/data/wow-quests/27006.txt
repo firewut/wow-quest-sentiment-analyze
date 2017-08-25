@@ -1,8 +1,0 @@
-{
-    "_id": "27006",
-    "description": "I tried ta fly o'er the terrace an have a look fer myself, but those toastie eatin' pansies kept shootin' at me, an I couldn't get near.Ya look like ya might be handy with the reins. Why don' ya take yer flyin' beastie up there ta the southwest and see what all the fuss is about?",
-    "name": "Fly Over",
-    "requires_level": 83,
-    "side": "alliance",
-    "zone": "Deepholm"
-}

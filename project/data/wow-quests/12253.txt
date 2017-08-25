@@ -1,8 +1,0 @@
-{
-    "_id": "12253",
-    "description": "Just down this path here is Wintergarde's town square. Once a hive of activity for the citizens of Wintergarde, now a warzone, filled with murderous geists hell-bent on vengeance towards the living.In the buildings surrounding the town square are trapped villagers that must be rescued! I ask much of you, now, <name>, but you are the only soldier I can spare. Free our people. Take this path down into town square and enter those houses. Kill anything that gets in your way! Return to me should you survive.",
-    "name": "Rescue from Town Square",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

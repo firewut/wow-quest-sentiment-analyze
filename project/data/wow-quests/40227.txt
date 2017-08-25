@@ -1,8 +1,0 @@
-{
-    "_id": "40227",
-    "added_in_patch": 7,
-    "description": "Suramar is lost.Our leaders struck a dark bargain, accepting the Legion as our allies. We were meant to be heroes, guardians - the people resting here. We are not like them any more. I cannot live with them.But cut off from the Nightwell, we wither and devolve into a mindless existence. An existence without release or dignity, as you can see even here...I rejected both of these options and found myself here. I will find a third way.",
-    "name": "Bad Intentions",
-    "requires_level": 110,
-    "zone": "Tel'anor"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31201",
-    "added_in_patch": 5,
-    "description": "Our scouts have sent a very troubling report. \r\n\r\nThree of our trainees have gone missing, and our scouts found them... \r\n\r\nThey've been captured by the mantid and sent to their Kunchong pits. \r\n\r\nTheir Kunchong FEEDING pits. We're lucky that the Kunchong don't eat that often.\r\n\r\nI need you to get in there, give them these escape kites, and get them out!",
-    "name": "Friends, Not Food!",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

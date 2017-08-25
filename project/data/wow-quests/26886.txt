@@ -1,7 +1,0 @@
-{
-    "_id": "26886",
-    "description": "That nasty ship on the east side of the cove keeps firing its cannons at us. It's kinda funny seeing all the goblins get hit by cannonballs, but some of my gnome friends are being hit too!It'd be really, really nice if you could make your way past those cannons and onto the ship. There's a mean ol' taskmaster yelling at the other deckhands in there, and I'm sure if you beat him up or kill him, they'll stop shooting at us!",
-    "name": "Going Off-Task",
-    "requires_level": 44,
-    "zone": "Tanaris"
-}

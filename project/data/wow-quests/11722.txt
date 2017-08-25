@@ -1,8 +1,0 @@
-{
-    "_id": "11722",
-    "description": "We cannot take all of the credit for this Horde victory, <name>. It was you who risked your life to test the bloodspore and it was you who ultimately put an end to Gammothra.Honor us by returning to Warsong Hold and presenting the head of Gammothra to Lord Hellscream.",
-    "name": "Trophies of Gammoth",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

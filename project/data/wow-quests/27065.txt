@@ -1,8 +1,0 @@
-{
-    "_id": "27065",
-    "description": "Our reinforcements from Kalimdor arrived last night. Three orc gunships full of supplies, weapons and soldiers. Three orc gunships lost to Bloodfang's damned worgen.How could an entire orc fleet lose to a small band of enemy combatants that lack any siege weaponry? An important question that you will answer for me.Gather your gear and report to the orc admiral, Hatchet, at the Forsaken Rear Guard, southwest of here.Get those orcs operational, <name>.I await your full report.",
-    "name": "The Warchief's Fleet",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Silverpine Forest"
-}

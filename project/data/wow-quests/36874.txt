@@ -1,9 +1,0 @@
-{
-    "_id": "36874",
-    "added_in_patch": 6,
-    "description": "Durotan...<Raza'kul spits.>He cowers behind the white flag of peace, relying upon diplomacy to win over our sworn enemies.Enemies that have taken our homes and driven us from our ancestral lands.There is only one way to deal with the draenei and their newfound alliance of cowards - blood for blood.Join me in crushing our enemies. Together we will flood this hallowed ground with the bones of the Alliance and earn tributes fit for a warchief!Return here when your bloodthirst is sated.",
-    "name": "Warlord of Draenor",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43472",
-    "added_in_patch": 7,
-    "description": "<name>, each year I visit Orgrimmar to help adventurers like you reflect on our shared history. While our eyes must always be trained on the future, we must be mindful of our past. Come visit me in the Valley of Spirits and we can speak more.",
-    "name": "The Historians",
-    "requires_level": 1,
-    "zone": "Quests"
-}

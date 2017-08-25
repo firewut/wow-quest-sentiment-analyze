@@ -1,9 +1,0 @@
-{
-    "_id": "31736",
-    "added_in_patch": 5,
-    "description": "North of this base is a cherry blossom orchard and a village tucked away behind it. We will need to quarter there and tend to our wounded while we plan our next move.Head to that village and make contact with the native leader. Agent Mishka and I will rendezvous with you there.Be courteous, <name>! I am authorizing you to represent the entire Alliance here.I'm banking that seeing a powerful Alliance hero like you should make a favorable impression.",
-    "name": "Envoy of the",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

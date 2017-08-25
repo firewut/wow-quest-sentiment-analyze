@@ -1,7 +1,0 @@
-{
-    "_id": "13654",
-    "description": "Every day, the Black Knight's squire, Maloric, makes a big show of heading to Crystalsong Forest with his axe over his shoulder. He wants us to believe he's chopping wood, but he never returns with more than a few twigs.He usually goes toward the ruins southwest of the Mirror of Twilight. He spends a lot of time out there, even for a squire with responsibilities to his knight.Find a way to distract or incapacitate him and search him. If he's up to something, we'll know it.",
-    "name": "There's Something About the Squire",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

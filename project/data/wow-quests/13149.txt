@@ -1,7 +1,0 @@
-{
-    "_id": "13149",
-    "description": "The infinite dragonflight seek to disrupt history by deceiving Prince Arthas.If they can convince him that none of the grain here carries the plague, then he'll never have to make the fateful decision to cull Stratholme.Use this arcane disruptor on any suspicious crates of grain you find.",
-    "name": "Dispelling Illusions",
-    "requires_level": 78,
-    "zone": "Quests"
-}

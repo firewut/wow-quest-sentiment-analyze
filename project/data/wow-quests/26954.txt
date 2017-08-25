@@ -1,7 +1,0 @@
-{
-    "_id": "26954",
-    "description": "Among other things, Zen'Kiki needs to work on his spell accuracy.  I could see his wrath spells spiraling out of control even from here!  In fact, I used them as a marker to follow your progress through the woods.Perhaps we can use Zen'Kiki another way.  Take him up to the top of the hill just to our east.  The diseased hawks that circle above that hill must be destroyed.  Ask Zen'Kiki to shoot at these hawks.  Even if he can't hit them, he will distract them so you can finish them off.",
-    "name": "A Different Approach",
-    "requires_level": 35,
-    "zone": "Western Plaguelands"
-}

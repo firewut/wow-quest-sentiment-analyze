@@ -1,7 +1,0 @@
-{
-    "_id": "25286",
-    "description": "Here we go.  This is the speech, <name>!It has everything to be a great battle starter: It's inspirational, has eloquent language and speaks directly to gnomes.  Never has a finer speech been written!Turn this in to Captain Tread Sparknozzle and get some transportation to High Tinker Mekkatorque!",
-    "name": "Words for Delivery",
-    "requires_level": 75,
-    "zone": "Dun Morogh"
-}

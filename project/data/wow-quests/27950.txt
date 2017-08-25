@@ -1,7 +1,0 @@
-{
-    "_id": "27950",
-    "description": "At last! Zhe time has come to set my Gobbles free of zhat nasty curse!Pay attention now, <race>, and stay on guard. Zhere can be no interruptions vhile I perform zhe ritual.Let me know vhen you haf secured zhe perimeter!Now, move it!",
-    "name": "Gobbles!",
-    "requires_level": 83,
-    "zone": "Uldum"
-}

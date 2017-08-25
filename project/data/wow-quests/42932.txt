@@ -1,8 +1,0 @@
-{
-    "_id": "42932",
-    "added_in_patch": 7,
-    "description": "We must split up. I am still badly wounded from my encounter with Geth'xun, and I don't want to appear weak before the Stonemother. This task falls to you.Travel to Therazane's Throne and speak to Therazane herself. Find out if she has seen the Doomhammer.Help her if she asks. She is dangerous and mercurial, but this is her realm, and without her aid we will find nothing.",
-    "name": "What the Stonemother Knows",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32710",
-    "added_in_patch": 5.2,
-    "description": "You notice a stronger-than-usual smell permeating from ahead. Your stomach lurches as the thick smell fills your nostrils. You recognize this smell, it's saurok. Rotting, discarded saurok flesh infused with the foul waste of the sewer.",
-    "name": "Something Foul is Afoot",
-    "requires_level": 90,
-    "zone": "Quests"
-}

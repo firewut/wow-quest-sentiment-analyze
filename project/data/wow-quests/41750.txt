@@ -1,8 +1,0 @@
-{
-    "_id": "41750",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Calydus",
-    "requires_level": 101,
-    "zone": "Warlock Campaign"
-}

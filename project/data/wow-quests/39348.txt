@@ -1,8 +1,0 @@
-{
-    "_id": "39348",
-    "added_in_patch": 7,
-    "description": "This first ingredient can only be obtained by visiting the next realm. Fortunately for us, there's a gate in Stormheim that can take you there.In the Halls of Valor, there is a sand that's used for polishing their architecture. Eternity Sand, it's called. I'll need an ample amount of it as the base for the new glass.This ingredient won't be easy to work with either. I'll need something to keep me going, you know, keep my stamina up.",
-    "name": "The Prime Ingredient",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

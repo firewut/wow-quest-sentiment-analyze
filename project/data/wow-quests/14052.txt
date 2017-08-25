@@ -1,8 +1,0 @@
-{
-    "_id": "14052",
-    "description": "This pirate situation is really crimping my operation. Cap'n Garvey is attacking any vessel in sight, even the ones whose owners paid me my bogus \"protection\" money. We need to get these pirates on the take, and fast!I know just the guy, one of Garvey's Lieutenants who's open to wheeling and dealing the Dizzywig way. He's offered to arrange a little 'mutiny' for me. Once we get these guys working for us, it's all gravy, see?Talk to my boy Tony Two-Tusk on Fray Island to the south.",
-    "name": "Take it up with Tony",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11399",
-    "description": "Look at the button on the side of the controller here. I bet if you got close enough to one of those scourging crystals, you could use the controller to bring its shield down. Then it would simply be a matter of destroying the thing before its shield goes back up.Brave enough to hazard another trip down there, <name>? I can guarantee a nice reward for you if you can bring down those shields and destroy the crystals.How can you refuse if it means less Scourge, especially ones made from murlocs?",
-    "name": "Bring Down Those Shields",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28800",
-    "description": "",
-    "name": "Whispers of the Djinn",
-    "requires_level": 1,
-    "zone": "Archaeology"
-}

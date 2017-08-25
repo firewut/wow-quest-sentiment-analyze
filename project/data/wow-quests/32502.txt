@@ -1,8 +1,0 @@
-{
-    "_id": "32502",
-    "added_in_patch": 5.2,
-    "description": "The Midsummer Fire Festival is a time to honor the elements.  The element of fire stirs passion within us all.  Many times, that passion pours out into aggressive actions.  But here, in this land, we focus our passion on reverence.We will honor the flame as tradition dictates.  Will you honor the flame with us, <name>?",
-    "name": "Honor the Flame",
-    "requires_level": 1,
-    "zone": "Midsummer"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9192",
-    "description": "The Underlight Mines to the southwest have been overrun by a clan of gnolls calling themselves the Blackpaw. I don't need to remind you how important those mines are to us as a strategic asset in our ongoing campaign here in the Ghostlands!Take the south road out of town and follow the fork to the right. Just past the ziggurat on the right there will be a short dirt path to the west. Follow it.The ore must flow!",
-    "name": "Trouble at the Underlight Mines",
-    "requires_level": 11,
-    "zone": "Ghostlands"
-}

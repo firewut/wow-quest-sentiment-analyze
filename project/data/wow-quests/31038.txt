@@ -1,8 +1,0 @@
-{
-    "_id": "31038",
-    "added_in_patch": 5,
-    "description": "News of your feats has been traveling around the camp, <name>.In fact, Snow Blossom would like to test your skill in battle.You had best prepare yourself, <class>. She is not easily defeated.If you can prove your worth to her, you will win a valuable friend.",
-    "name": "The Challenger's Ring: Snow Blossom",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

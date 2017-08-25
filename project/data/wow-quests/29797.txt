@@ -1,7 +1,0 @@
-{
-    "_id": "29797",
-    "added_in_patch": 5,
-    "description": "We need supplies to tend to our wounded, but the supply crates containing them were scattered in the crash. If you can bring back any crates you find, I would be very grateful.",
-    "name": "Medical Supplies",
-    "zone": "The Wandering Isle"
-}

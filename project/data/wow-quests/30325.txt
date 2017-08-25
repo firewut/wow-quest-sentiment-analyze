@@ -1,8 +1,0 @@
-{
-    "_id": "30325",
-    "added_in_patch": 5,
-    "description": "I've been watching those Kunzen hozen, and I've noticed a consistent pattern. Whenever they're getting ready to attack, they participate in strange, barbaric rituals around their totem.If we can disrupt this ritual, not only will we put off any impending attacks, we can deal a huge blow to their morale! So get in there, rough them up, and make as much of a mess as possible!",
-    "name": "Where It Counts",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

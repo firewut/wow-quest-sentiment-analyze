@@ -1,7 +1,0 @@
-{
-    "_id": "13006",
-    "description": "As you draw near the helm, you notice that the frigid environment is already taking its toll on the artifact's surface. What is now just a thin layer of ice will surely grow to envelop it entirely.Not about to let your hard efforts go to waste, you resolve to scour the region in search of a solution.Just as you set off, the eyes of the helm flash and an image of the nearby Hibernal Cavern enters your mind.",
-    "name": "Polishing the Helm",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8190",
-    "description": "",
-    "name": "Hoodoo Hex",
-    "requires_level": 58,
-    "zone": "Quests"
-}

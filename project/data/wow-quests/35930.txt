@@ -1,8 +1,0 @@
-{
-    "_id": "35930",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Blackfathom Deeps (Bonus) Reward Quest",
-    "requires_level": 20,
-    "zone": "Quests"
-}

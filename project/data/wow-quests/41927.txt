@@ -1,8 +1,0 @@
-{
-    "_id": "41927",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Ruining the Runewood",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

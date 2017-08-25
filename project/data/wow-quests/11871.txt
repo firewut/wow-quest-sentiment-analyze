@@ -1,7 +1,0 @@
-{
-    "_id": "11871",
-    "description": "Strewn across this beach, amidst the flotsam and jetsam, are crates and sacks of animal parts. It would seem that Nesingwary is in cahoots with the Northsea Freebooters. Those dirty pirates are transporting the goods that Nesingwary's murderous lackeys gather offshore. No doubt they will end up in the homes and on the backs of wealthy, unscrupulous individuals across Azeroth.This won't happen. Not on our watch. Bring me all shipments that you find upon this beach. They'll never have them!",
-    "name": "Not On Our Watch",
-    "requires_level": 70,
-    "zone": "Borean Tundra"
-}

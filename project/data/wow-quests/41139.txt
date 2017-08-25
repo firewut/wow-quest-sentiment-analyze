@@ -1,8 +1,0 @@
-{
-    "_id": "41139",
-    "added_in_patch": 7,
-    "description": "Well aren't ye a sight fer sore eyes!It's no use tryin' to bust open this cage, this one needs a key!Now, I know what yer thinkin', \"How is it possible that the Burnin' Legion could capture a dwarf as mighty as ol' Angus here.\"Ye can rest easy knowin' I let myself be captured. I'm here to rescue a dear friend o' mine, an' gettin' captured was the only way!I had the key in me pocket... but it musta' fell out.It's  errm... around here somewhere.A felhunter ate it a wee while back...",
-    "name": "The Key Is Around Here Somewhere...",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

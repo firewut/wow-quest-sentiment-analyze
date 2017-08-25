@@ -1,7 +1,0 @@
-{
-    "_id": "8876",
-    "description": "",
-    "name": "Small Rockets",
-    "requires_level": 25,
-    "zone": "Lunar Festival"
-}

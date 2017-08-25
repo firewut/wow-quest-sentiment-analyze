@@ -1,8 +1,0 @@
-{
-    "_id": "44400",
-    "added_in_patch": 7,
-    "description": "Again! It happened again!\r\n\r\nSure, it's the the Legion that staged the prison breakout this time, but I *told* them it was a bad idea to keep some of the most dangerous beings on Azeroth in a prison inside our city!\r\n\r\nWe can talk about relocating later, I suppose. Right now, we've got some... pacification to tend to.\r\n\r\nCan you help?",
-    "name": "Purple Pain",
-    "requires_level": 105,
-    "zone": "Dalaran"
-}

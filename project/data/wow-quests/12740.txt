@@ -1,7 +1,0 @@
-{
-    "_id": "12740",
-    "description": "Those sky terrors are destroying my men and women! Dying from falling is a horrible way to go.<Class>, you have to get these parachutes out to them! At least then they'll have a fighting chance to survive.",
-    "name": "Parachutes for the Argent Crusade",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

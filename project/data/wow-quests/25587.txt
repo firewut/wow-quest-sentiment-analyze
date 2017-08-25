@@ -1,7 +1,0 @@
-{
-    "_id": "25587",
-    "description": "Please, <race>! You must help me!I've barely managed to survive, what with naga, sharks, and that horrible monster that attacked our ship.I can see a cave that might be safe, but I don't dare try to make it unless I know there's air inside.Can you make sure it's ok?",
-    "name": "Gimme Shelter!",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

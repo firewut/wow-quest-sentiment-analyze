@@ -1,9 +1,0 @@
-{
-    "_id": "36029",
-    "added_in_patch": 6,
-    "description": "We need tae take out Gardul and take his poison recipe while we still have the element o' surprise on our side. We need the recipe tae figure out the antidote. This may be our only opportunity.If what ye learned is true, his camp is just south of here. Ye take him down, and I'll make sure none of his guards interfere.",
-    "name": "Gardul Venomshiv",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

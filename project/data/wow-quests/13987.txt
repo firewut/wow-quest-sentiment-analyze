@@ -1,7 +1,0 @@
-{
-    "_id": "13987",
-    "description": "<name>, I desperately need your help! I cannot hold out forever against this demonic onslaught. If I fall, Astranaar is next!Please help me!",
-    "name": "The Last Stand",
-    "requires_level": 23,
-    "zone": "Ashenvale"
-}

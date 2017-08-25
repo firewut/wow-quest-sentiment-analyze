@@ -1,8 +1,0 @@
-{
-    "_id": "26059",
-    "description": "Honor's Stand has been lost. The Horde's grip on the Barrens shattered along with the land itself. I now receive reports that we are at risk of losing Malaka'jin to a concerted attack by the Alliance and the Grimtotem. If Malaka'jin falls, half of Stonetalon falls with it!You have proven yourself a capable soldier of the Horde. Will you be my eyes and ears at Malaka'jin? Witch Doctor Jin'Zil awaits your arrival.Malaka'jin is located far to the south.",
-    "name": "Eyes and Ears: Malaka'jin",
-    "requires_level": 26,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

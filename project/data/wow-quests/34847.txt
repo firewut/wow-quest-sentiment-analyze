@@ -1,9 +1,0 @@
-{
-    "_id": "34847",
-    "added_in_patch": 6,
-    "description": "My son, Kral'za, is beyond stubborn. After we split from the Shadowmoon Clan he refused to let go of his relationship with a young Shadowmoon orc.I forbid him to see her anymore. He ran off earlier today and has not returned. I don't trust Dol'mak. Like the other Shadowmoon orcs she continues to dabble in the void.",
-    "name": "Forbidden Love",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

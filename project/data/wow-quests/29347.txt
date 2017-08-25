@@ -1,8 +1,0 @@
-{
-    "_id": "29347",
-    "description": "If ye've ever fished fer crayfish, ye know they respond best to live bait, an' the more bait, the better. Would ye like to test my new bait? Simply smear this on yerself an' hop into Helm's Bed Lake in eastern Dun Morogh.After ye've got the catch, take it to me friend, Cook Ghilm at Gol'Bolar Quarry, west of the lake. He's an expert at cookin' those oversized bugs!",
-    "name": "Live Bait",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

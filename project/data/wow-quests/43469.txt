@@ -1,8 +1,0 @@
-{
-    "_id": "43469",
-    "added_in_patch": 7,
-    "description": "Master Mathias Shaw is the leader of the Alliance intelligence organization known as SI:7. And apparently, he is now a dreadlord.\r\n\r\nOr rather, a very clever dreadlord has taken his place while he is being held captive somewhere.\r\n\r\nIt is imperative that we reveal this imposter to the new king of Stormwind. If we fail to do so, then the Alliance will surely be eaten alive from within and the Burning Legion will win this war for a certainty.",
-    "name": "Where In the World is Mathias?",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

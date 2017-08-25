@@ -1,8 +1,0 @@
-{
-    "_id": "39524",
-    "added_in_patch": 6.2,
-    "description": "Find them, hunt them, kill them. Teach our enemies a lesson they'll never forget.",
-    "name": "Slay Them All!",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

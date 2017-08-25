@@ -1,8 +1,0 @@
-{
-    "_id": "35763",
-    "added_in_patch": 6,
-    "description": "With the intelligence you have gathered we have learned this assault is being led by a powerful Iron Horde orc named Gar'mak Bladetwist. He is hunkered down inside Okril'lon Hold.Killing him will not win this war, but it will surely break down the Iron Horde's communication. This will buy us valuable time while we gather more forces and outline a battleplan to deal with this new threat.",
-    "name": "Gar'mak Bladetwist",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

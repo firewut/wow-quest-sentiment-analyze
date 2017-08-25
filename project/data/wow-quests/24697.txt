@@ -1,7 +1,0 @@
-{
-    "_id": "24697",
-    "description": "I don't believe we've met... I'm Nolen Tacker, Marshal Expeditions' new chief of the guards.  I'm also their chef.  There's actually more overlap than you'd think.I've got a fun little task for you.  Have you seen the spike pits around the perimeter of the camp?  See if you can convince some of the nearby dinosaurs to walk into them.  If you throw this rotten meat at them when they're not looking, it'll either make them hungry or angry.  Either way is fine, as long as they follow you into the pit!",
-    "name": "How to Make Meat Fresh Again",
-    "requires_level": 50,
-    "zone": "Un'Goro Crater"
-}

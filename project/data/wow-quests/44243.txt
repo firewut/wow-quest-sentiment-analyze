@@ -1,8 +1,0 @@
-{
-    "_id": "44243",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Champion: Thoras Trollbane",
-    "requires_level": 103,
-    "zone": "Death Knight Campaign"
-}

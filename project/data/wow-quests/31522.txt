@@ -1,8 +1,0 @@
-{
-    "_id": "31522",
-    "added_in_patch": 5,
-    "description": "<name>, I need you to assemble a tranquil group and lead them into the Shado-Pan Monastery. Activate the Challenger's Orb therein, and rescue Taran Zhu from the Sha of Hatred.Return to me when you've completed this challenge, and I shall reward you handsomely.",
-    "name": "A Worthy Challenge: Sha of Hatred",
-    "requires_level": 90,
-    "zone": "Quests"
-}

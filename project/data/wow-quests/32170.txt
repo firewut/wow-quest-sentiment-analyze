@@ -1,8 +1,0 @@
-{
-    "_id": "32170",
-    "added_in_patch": 5.1,
-    "description": "The crane has fallen.",
-    "name": "Ancient's Fall",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

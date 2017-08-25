@@ -1,8 +1,0 @@
-{
-    "_id": "26371",
-    "description": "Have you heard of Captain Grayson? Some say that he's the figment of a drunken sailor's imagination, but anyone in Westfall will tell you that Grayson is real! He's a ghost that haunts the Westfall Lighthouse far to the west, off the coast of the Longshore.Do you dare investigate?",
-    "name": "The Legend of Captain Grayson",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Westfall"
-}

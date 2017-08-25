@@ -1,7 +1,0 @@
-{
-    "_id": "10650",
-    "description": "This book... I could use it to increase my power tenfold...  No!  It would end up corrupting my very soul, this I am sure of.  Return to those who sent you here, <name>.You now have the means to stop Varedis.  Wait until he manifests his demonic form through metamorphosis, at that point you will need to burn the book in his presence.  That will be the only way you can deprive him of his power.",
-    "name": "Return to the Aldor",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

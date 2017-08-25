@@ -1,7 +1,0 @@
-{
-    "_id": "28618",
-    "description": "Here you go, as promised! One Boulder-in-a-Box.Lilith was asking for this, wasn't she? She's my only customer!",
-    "name": "Boulder Delivery",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

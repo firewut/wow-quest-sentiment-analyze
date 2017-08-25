@@ -1,8 +1,0 @@
-{
-    "_id": "43249",
-    "added_in_patch": 7,
-    "description": "It is imperative that we decipher the SI:7 letter. We must uncover the secrets that it holds before it is too late. But, our best code breakers have yet to make a dent in the cypher.\r\n\r\nHowever, we now know that the myth is in fact reality. The Raven's Eye truly exists.\r\n\r\nShall we tell the others?",
-    "name": "The Raven's Eye",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

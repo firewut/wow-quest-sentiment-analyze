@@ -1,8 +1,0 @@
-{
-    "_id": "31070",
-    "added_in_patch": 5,
-    "description": "That recipe said: \"rending daggers of the great ones\"...<Olon ponders this line.>Mushan! That's it!There's plenty of mushan roaming out there with these great, big teeth... they're as long as daggers. That's gotta be what the recipe calls for.",
-    "name": "Daggers of the Great Ones",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

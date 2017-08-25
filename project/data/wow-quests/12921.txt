@@ -1,7 +1,0 @@
-{
-    "_id": "12921",
-    "description": "Excellent.  There's an exit in the eastern end of the mine that leads to Brunnhildar Village.  Follow it and I'll meet you there.We must not be seen together so no one suspects you of aiding me.  I'll use my magic to disguise my appearance.  Do not worry, <race> -- we'll find your friend in no time.",
-    "name": "A Change of Scenery",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27529",
-    "description": "The battle of Darrowshire was one of the many tragedies that we humans suffered at the hands of the Scourge.  Its effects are still felt even today.Many of the town's valiant defenders now roam again as the ghastly servants of the Scourge.  We will end their misery.Hunt cannibal ghouls here within the Plaguewood.  Many of these fiends were once the good folk of Darrowshire, and destroying their forms now will set their souls free.",
-    "name": "Defenders of Darrowshire",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

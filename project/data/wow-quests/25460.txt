@@ -1,7 +1,0 @@
-{
-    "_id": "25460",
-    "description": "The effects of the Twilight's Hammer attack can be felt even here, this close to the world tree.As our forests burn, the very earth turns against us in a crazed frenzy.We can't allow the elementals to go unchecked.  Go and help our men take care of them.",
-    "name": "The Earth Rises",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

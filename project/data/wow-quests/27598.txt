@@ -1,7 +1,0 @@
-{
-    "_id": "27598",
-    "description": "Gilblins!<Larry stares at you silently for a while.>You never seen a gilblin before? They're crazy! Crazier than me! I just blow stuff up for a living, these guys are WHACKED!Dunno where they came from, but they're like awful fish goblins! Gills and everything! They wiped out all my men down at the beach, and they took our shipping freighter!You gotta help! They're just down to the east, go on and get rid of those gilblins!",
-    "name": "Kill Gil",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32402",
-    "added_in_patch": 5.1,
-    "description": "The night elves learned that the Divine Bell was stolen. This much we anticipated.However, they've also found out that the \"neutral\" Sunreavers of Dalaran were complicit. Now, we've got a situation.I need you to go to Dalaran. Speak with Kromthar for a ride. You are to rendezvous with Grand Magister Rommath once you arrive.",
-    "name": "The Situation In Dalaran",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

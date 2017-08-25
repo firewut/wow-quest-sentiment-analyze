@@ -1,7 +1,0 @@
-{
-    "_id": "24922",
-    "description": "",
-    "name": "Classic Random Heroic (1st)",
-    "requires_level": 64,
-    "zone": "Quests"
-}

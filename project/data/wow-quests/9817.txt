@@ -1,7 +1,0 @@
-{
-    "_id": "9817",
-    "description": "A bounty is hereby declared by the Cenarion Expedition on Rajis Fyashe, leader of the Bloodscale naga.  The naga sorceress was last sighted at Serpent Lake, in the northern region of Zangarmarsh.The Bloodscale are to be considered extremely dangerous and their leader is to be approached with extreme caution.Those seeking to claim the bounty are advised to report to Warden Hamoot at Cenarion Refuge.",
-    "name": "Leader of the Bloodscale",
-    "requires_level": 58,
-    "zone": "Zangarmarsh"
-}

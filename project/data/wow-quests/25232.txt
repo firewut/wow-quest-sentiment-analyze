@@ -1,8 +1,0 @@
-{
-    "_id": "25232",
-    "description": "I've been sent to investigate the presence of more Burning Blade agents here in Durotar.  To the northeast, you'll find a cave where the organization trains their new recruits.  I'm interested in what exactly they are teaching these neophytes.I only tell you this because you seem to be looking for work.  If you're interested in a little coin, sack the cave and return with their spellscrolls.The cave is somewhat hidden: exit Razor Hill from the east, and follow the canyon's eastern ridge.",
-    "name": "The Burning Blade",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Durotar"
-}

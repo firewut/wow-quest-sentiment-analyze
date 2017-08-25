@@ -1,7 +1,0 @@
-{
-    "_id": "36760",
-    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in your Garrison.",
-    "name": "Pristine Doomsday Prophecy",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40229",
-    "added_in_patch": 7,
-    "description": "With the threat to my people quelled, I believe it is time to introduce you to my kin.\r\n\r\nMeet me at Stonedark Grotto, and you will see where we live.",
-    "name": "Step into the Dark",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

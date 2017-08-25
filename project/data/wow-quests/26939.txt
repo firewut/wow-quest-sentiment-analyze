@@ -1,8 +1,0 @@
-{
-    "_id": "26939",
-    "description": "How did you get in here?Oh, it doesn't matter. I'm Murd Doc of the G-Team. We're the best there is, and we're here to retake Gnomeregan!When nobody else could help him, the High Tinker found and hired us.But we simply can't do this alone! You're an honorary G-Team Commando now, <name>.Take this parachute, jump down straight ahead into the Hall of Gears, and kill the Viscous Fallout. After you're done, report to Commando B.E Barechus by the west hallway. You two will get along great, I'm sure.",
-    "name": "The G-Team",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Gnomeregan"
-}

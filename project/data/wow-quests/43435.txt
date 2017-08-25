@@ -1,8 +1,0 @@
-{
-    "_id": "43435",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "The Battle Rages On",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26305",
-    "description": "I have reshaped the Mind's Eye into a Soul Gem.  Its purpose is twofold: you must use it to stun Yenniku, and once stunned place it upon his head to entrap his soul.My suspicions that I spoke of earlier were correct: the spirits tell me that Yenniku dwells not with Zanzil the Outcast, but within the Ruins of Zul'Mamwe, to the southwest.  Once you have freed Yenniku's spirit, return to Nimboya at Grom'gol.",
-    "name": "Saving Yenniku",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

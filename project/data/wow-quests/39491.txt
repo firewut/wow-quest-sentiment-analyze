@@ -1,8 +1,0 @@
-{
-    "_id": "39491",
-    "added_in_patch": 7,
-    "description": "We've lived at peace with the drogbar for years--our tribe even more than the others. But we were betrayed in our last trade with them at Riverbend.\r\n\r\nThey usually supply us with potent alchemy to prevent insects from infesting our fields. This time, led by Ormgul, they have attacked the crops that sustain us all.\r\n\r\nOrmgul the Pestilent is the one who brought the infection to our farmland. Destroy him, and bring me whatever he uses to attract the bugs to our land.",
-    "name": "Ormgul the Pestilent",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "12892",
-    "description": "The Knights of the Ebon Blade want to take the Scourge base known as The Shadow Vault to the northwest. I have a contact in their group who has asked for help.The first step is to blind the Lich King. He's using a device known as The Ocular to watch the area, which floats above the vault's spires.Our goblins have created something for you to use against it. After the 'eye' has been destroyed, find Baron Sliver on the vault grounds. He's pretending to still be under the Lich King's will.",
-    "name": "It's All Fun and Games",
-    "requires_level": 77,
-    "side": "horde",
-    "zone": "Icecrown"
-}

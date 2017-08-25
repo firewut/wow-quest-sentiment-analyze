@@ -1,9 +1,0 @@
-{
-    "_id": "35959",
-    "added_in_patch": 6,
-    "description": "G.V.? We need a full name. A  location!I have an idea fer how we can find those out.<Hulda pulls out a small vial.>This is my last vial o' wracking poison. We use it when we need tae extract information from prisoners.Coat yer weapon wi' it and head into the Shattered Hand camp just ahead. Engage them as normal and demand answers - the poison will take care o' the rest.",
-    "name": "The Power of Poison",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

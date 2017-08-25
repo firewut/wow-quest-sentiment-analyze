@@ -1,8 +1,0 @@
-{
-    "_id": "31468",
-    "added_in_patch": 5,
-    "description": "I have on good authority that you are a champion among champions, but if you'll permit me this indulgence, I would like to test your mettle for myself.The mogu who assault the Vale of Eternal Blossoms, the mogu minions who inhabit Shan'ze Dao, and the sha-corrupted mantid swarming the Dread Wastes... these may provide an adequate challenge for one of your stature.Prove yourself to me. No rush - I expect this to take you some time.",
-    "name": "Trial of the Black Prince",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

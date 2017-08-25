@@ -1,8 +1,0 @@
-{
-    "_id": "40578",
-    "added_in_patch": 7,
-    "description": "All I see is despair.Look, <race>. The grounds are overwhelmed with these wraiths, spirits of those interred here. Something has made them angry and they are lashing out. I can feel their pain.I will go look for remaining relics, and there is a tomb I must see. It is too late for these unfortunate souls. Please defeat any you find and return them to the rest they deserve.",
-    "name": "Paying Respects",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

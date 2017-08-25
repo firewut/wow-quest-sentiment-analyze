@@ -1,7 +1,0 @@
-{
-    "_id": "8390",
-    "description": "",
-    "name": "Conquering Arathi Basin",
-    "requires_level": 20,
-    "zone": "Arathi Basin"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32732",
-    "added_in_patch": 5.2,
-    "description": "Archmage Modera has taken over at Ihgaluk Crag, to the southeast, continuing her efforts to turn the Saurok against the Zandalari and mogu.Go to her, and help in any way that you can.",
-    "name": "Ihgaluk Crag",
-    "requires_level": 90,
-    "zone": "Quests"
-}

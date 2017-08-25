@@ -1,8 +1,0 @@
-{
-    "_id": "30785",
-    "added_in_patch": 5,
-    "description": "With your help, we have quelled the spirits of this place.At last, they may rest in peace.Our journey into this cursed land, I am afraid, has only begun.I have some important matters to finish up here, but we will be moving out soon.I need someone to go ahead and tell Lord Taran Zhu that we are joining him.Find him at the Gao-Ran Battlefront. Tell him what has transpired here.",
-    "name": "Gao-Ran Battlefront",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

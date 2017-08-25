@@ -1,7 +1,0 @@
-{
-    "_id": "8884",
-    "description": "Greetings, <class>.  Take a look toward the shore; what do you see?  That's right, our beach... our Tranquil Shore, has been infested with the malignancy known as the murloc.This blight will not stand!I have a task for you.  If you feel that you're up to it, I would have their heads!  Let us see if we can put a dent in their numbers so large that, if they have any sense at all, they will return to the murky depths from which they sprang!",
-    "name": "Fish Heads, Fish Heads...",
-    "requires_level": 5,
-    "zone": "Eversong Woods"
-}

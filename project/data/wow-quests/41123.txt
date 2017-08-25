@@ -1,8 +1,0 @@
-{
-    "_id": "41123",
-    "added_in_patch": 7,
-    "description": "You there! Do you have a moment?I need you to meet with my friend in the Promenade and retrieve a signet ring. I would send my oaf of an apprentice, but he is not finished with the simple task I gave him.I am expecting a guest at any moment and I simply must have it before he arrives. Can you help me, friend?",
-    "name": "An Artisan's Mark",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

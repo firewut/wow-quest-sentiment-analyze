@@ -1,7 +1,0 @@
-{
-    "_id": "14393",
-    "description": "For untold generations, the centaur clans have fought against one another, but no more.Because of your deeds, we stand here together fighting a common foe. We shall win our ancestral lands back from these demons, or we shall die as brothers.What of you, <name>?You have earned the right to fight alongside us. I have a group of my best centaurs for you to lead into battle.Will you take up the spear?",
-    "name": "Into the Fray!",
-    "requires_level": 31,
-    "zone": "Desolace"
-}

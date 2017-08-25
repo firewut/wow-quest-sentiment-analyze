@@ -1,8 +1,0 @@
-{
-    "_id": "33341",
-    "added_in_patch": 5.4,
-    "description": "Many years ago, these grounds were a place where my people would come in pilgrimage. Here, they would listen to the words of the celestials, and meditate for many days. In their meditations, they found the fear, anger, despair, doubt, and violence that plagued their spirits.Before them would be a pathway to enlightenment. For each, the pathway would be different. For all of them, the pathway began with wisdom.Travel the island, as they did, and discover one of the lost wayshrines of the celestials.",
-    "name": "Wayshrines Of The Celestials",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

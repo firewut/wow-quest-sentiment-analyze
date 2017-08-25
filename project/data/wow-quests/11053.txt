@@ -1,7 +1,0 @@
-{
-    "_id": "11053",
-    "description": "Rare it is that a peon survives for as long as you have. Rarer still is when a peon rises from the dregs to attain a new rank.<Varkule claps.>The Overlord has called for you, grunt. A new rank awaits, no doubt.",
-    "name": "Rise, Overseer!",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

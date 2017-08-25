@@ -1,9 +1,0 @@
-{
-    "_id": "34280",
-    "added_in_patch": 6,
-    "description": "Tell me when you're ready.We'll invoke the power of the ring to summon one of their 'eyes.' Through it, we'll discover where the Shadow Council is located and what they're really up to.",
-    "name": "All is Revealed",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

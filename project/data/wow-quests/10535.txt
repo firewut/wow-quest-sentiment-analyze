@@ -1,7 +1,0 @@
-{
-    "_id": "10535",
-    "description": "War must be fought with soldiers, any soldier will tell you.  They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!That is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.That is what I want from you, <name>.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
-    "name": "Arathi Basin Resources!",
-    "requires_level": 70,
-    "zone": "Arathi Basin"
-}

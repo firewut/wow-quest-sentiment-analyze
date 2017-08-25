@@ -1,7 +1,0 @@
-{
-    "_id": "24633",
-    "description": "I can't put him out of my mind, <name>. Sometimes at night, I can hear his howls of rage and suffering, echoing across the plains. To imagine him out there, alone and in such pain...Please, I must ask a favor of you. Go to Mankrik, and tell him to come see me.",
-    "name": "Mahka's Plea",
-    "requires_level": 33,
-    "zone": "Southern Barrens"
-}

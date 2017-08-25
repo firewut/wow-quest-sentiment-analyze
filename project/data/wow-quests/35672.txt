@@ -1,9 +1,0 @@
-{
-    "_id": "35672",
-    "added_in_patch": 6,
-    "description": "Posted by: Hutou FeatherwindVenombarb is feared in the skies above Arak, even by the high arakkoa.She has made air travel difficult for our riders, preventing vital supplies from reaching Axefall.I require no proof of her demise, simply ensure her screech never again echoes among the spires.She nests above the howling crag to the northeast.",
-    "name": "Wanted: Venombarb",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

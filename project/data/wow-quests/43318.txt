@@ -1,8 +1,0 @@
-{
-    "_id": "43318",
-    "added_in_patch": 7,
-    "description": "Tal'ashar is an honor duel.\r\n\r\nIf I lose, then I must forfeit my title to Coryn Stelleris.\r\n\r\n<Ly'leth smiles gently.>\r\n\r\nThat is why you are going to fight for me. \r\n\r\nI will grant you a more powerful disguise for this task, and together we will put Coryn in his place.\r\n\r\nSpeak to me when you are ready to battle on my behalf.",
-    "name": "Ly'leth's Champion",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

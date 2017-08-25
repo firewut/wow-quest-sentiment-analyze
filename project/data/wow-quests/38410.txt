@@ -1,9 +1,0 @@
-{
-    "_id": "38410",
-    "added_in_patch": 7,
-    "description": "I've got bad news. Those harpoon launchers up on the walls might cause us some problems. \r\n\r\nThey can't get at us down here, but once you start climbing that path, they're likely going to try to skewer you.\r\n\r\nIf you use that grapple launcher, you should be able to get on top of the walls and dismantle them. Watch out for the drakes, though!",
-    "name": "Impalement Insurance",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

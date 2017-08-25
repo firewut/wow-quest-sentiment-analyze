@@ -1,8 +1,0 @@
-{
-    "_id": "37311",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Drafting Table Interact",
-    "requires_level": 100,
-    "zone": "Talador"
-}

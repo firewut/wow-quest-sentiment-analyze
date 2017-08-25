@@ -1,8 +1,0 @@
-{
-    "_id": "39652",
-    "added_in_patch": 7,
-    "description": "Thanks to your help, Thrymjaris was able to escape the clutches of that vile demon. She bid me wait for you, so that I could take you to her once you had finished dispatching your foes.\r\n\r\nShe has gathered our brood at the top of Thorim's Peak to prepare for a counterattack. \r\n\r\nWould you join us?",
-    "name": "Where Dragons Rule",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

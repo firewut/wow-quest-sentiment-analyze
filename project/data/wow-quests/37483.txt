@@ -1,8 +1,0 @@
-{
-    "_id": "37483",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Captian's Whistle",
-    "requires_level": 100,
-    "zone": "Ashran"
-}

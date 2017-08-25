@@ -1,8 +1,0 @@
-{
-    "_id": "30489",
-    "added_in_patch": 5,
-    "description": "Say, if you really are here to help, I could use me some needles off them sprites in Pranksters' Hollow.The grummles don't believe in luck they can't smell. They'll pay better for yaks that have that fresh needle scent.",
-    "name": "Fresh Needle Scent",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25980",
-    "description": "<name>, the naga are after our forces. I need you to go back northwest to Deepfin Ridge and stick our standard in their general, Fathom-Caller Azrajar.They'll swim away with their tails tucked between their... er. Well, I guess they don't have any legs, now do they?",
-    "name": "A Standard Day for Azrajar",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

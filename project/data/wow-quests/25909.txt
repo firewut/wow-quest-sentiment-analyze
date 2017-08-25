@@ -1,7 +1,0 @@
-{
-    "_id": "25909",
-    "description": "Everything in my body tells me that Nespirah is trying to speak with me, but I cannot hear her.  Perhaps the naga have done something to her voice.<Duarn thinks to himself for a moment.>Nespirah's voice may be suppressed... that means... we need to find a voice for her!I've got it!  The Idra'kess have been known to train deepseeker crabs as battle companions.  Use this net to capture a crab, and bring it to me.  You will likely find them prowling the chamber's outer edges.",
-    "name": "Capture the Crab",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "176",
-    "description": "Wanted: HoggerA huge gnoll, Hogger, is prowling the woods in southwestern Elwynn.  He has overpowered all attempts at his capture.The Stormwind Army has placed a generous bounty on the Gnoll.  To earn the reward, bounty hunters should venture into the woods and deal with the beast.",
-    "name": "Wanted:  \"Hogger\"",
-    "requires_level": 7,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

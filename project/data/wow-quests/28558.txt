@@ -1,8 +1,0 @@
-{
-    "_id": "28558",
-    "description": "By order of his royal highness, King Anduin Wrynn, all able-bodied citizens of the Alliance are to report to Adarrah at Thistleshrub Valley in Tanaris.Be one of the first to enter glorious Uldum and claim its treasures in honor of the Alliance!You can reach Adarrah's caravan by traveling to the western reaches of Tanaris.For the glory and honor of the Alliance!",
-    "name": "Hero's Call: Uldum!",
-    "requires_level": 83,
-    "side": "alliance",
-    "zone": "Uldum"
-}

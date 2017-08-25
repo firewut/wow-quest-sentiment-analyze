@@ -1,8 +1,0 @@
-{
-    "_id": "14059",
-    "description": "I wish I knew why we're going through cranberry chutney so fast. Sometimes, I think they're feeding it to the abominations when I'm not looking. Would you be willing to help me make up a new batch? If you're a cook, you can get the tangy Southfury cranberries you'll need from the Pilgrim's Bounty vendor outside Orgrimmar.If you don't feel up to cooking, you could always ask someone else to make the chutney, too.",
-    "name": "We're Out of Cranberry Chutney Again?",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Pilgrim's Bounty"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24689",
-    "description": "Ithis Moonwarden is the night elf druid who indoctrinated me into the Cenarion Circle.  He has set up camp north of here, near the cliffs of the crater's easternmost edge.  Follow the flow of the Bloodpetal seeds, and I'll wager you'll find him nearby.My studies are limited only to seeds and other reagents, but he pursues more advanced matters.  If you are curious to learn more about Un'Goro's flora, you should speak with him now.",
-    "name": "Flowing to the North",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

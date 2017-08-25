@@ -1,8 +1,0 @@
-{
-    "_id": "31506",
-    "added_in_patch": 5,
-    "description": "The Zan'thik employ a sizable force of... indentured labor.Yaungol are bound in special shackles which enhance and prolong the effects of sonic manipulation. It is this technology that allows the Zan'thik manipulators to command such large quantities of thralls to endlessly toil for them in the quarries.I would like to study these shackles.",
-    "name": "Shackles of Manipulation",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

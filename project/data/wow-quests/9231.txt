@@ -1,7 +1,0 @@
-{
-    "_id": "9231",
-    "description": "",
-    "name": "reuse",
-    "requires_level": 1,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "29909",
-    "added_in_patch": 5,
-    "description": "Your help here is appreciated, <name>. I'd like to give you another job, if you're interested.My son, Ang, runs the small farm just down this hill. He should have brought me some fruits and vegetables this morning, but I haven't seen him all day.Would you go down there and see what's going on?",
-    "name": "Low Turnip Turnout",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42545",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "3v3 #2",
-    "requires_level": 100,
-    "zone": "Quests"
-}

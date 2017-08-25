@@ -1,8 +1,0 @@
-{
-    "_id": "14238",
-    "description": "Keep your voice down. The glen north and west of here is crawling with Alliance assassins.Unfortunately, we haven't been able to spot them. The cowards! They hide and won't fight face-to-face.You goblins are known for your wondrous goggles. Surely you have a pair that will allow you to see them?I need you to team up with one of my scouts and kill any of the SI:7 assassins that you spot.",
-    "name": "Infrared = Infradead",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

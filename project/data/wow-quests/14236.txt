@@ -1,8 +1,0 @@
-{
-    "_id": "14236",
-    "description": "<Kilag barely has time to acknowledge you between rifle shots, but his eye does linger a moment on your Goblin All-In-1-der Belt appreciatively.>Now is the time for creative solutions. Pull something out of that belt and get to work!<Thinking about the situation for a moment, an idea comes to your mind and it's just crazy enough to work!>",
-    "name": "Weed Whacker",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

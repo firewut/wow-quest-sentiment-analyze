@@ -1,9 +1,0 @@
-{
-    "_id": "34597",
-    "added_in_patch": 6,
-    "description": "This box is filled with writings and diagrams that oddly resemble research into the nullification of magic.It would be best to ruin these efforts by destroying any research found.",
-    "name": "Removing the Paper Trail",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

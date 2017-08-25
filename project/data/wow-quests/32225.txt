@@ -1,8 +1,0 @@
-{
-    "_id": "32225",
-    "added_in_patch": 5.2,
-    "description": "Within the graveyard, in the deepest ruins of their western crypt, the Thunder King's most powerful sorcerers are charging a lightning rod with crackling electricity.We suspect that this weapon is meant to rain destruction on our stronghold at Dawnseeker Promontory.There is no time to delay. You must stop their ritual at once.",
-    "name": "The Call of Thunder",
-    "requires_level": 90,
-    "zone": "Quests"
-}

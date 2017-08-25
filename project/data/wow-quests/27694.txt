@@ -1,7 +1,0 @@
-{
-    "_id": "27694",
-    "description": "The trolls that lurk within this temple have done grievous harm to my kind, <name>. We were sent here to guard this place, and were instead used to unleash the terrible powers within.I must beg you for the help only a mortal can give. You can be my hand within the temple; should I enter by myself, I risk being turned against my brothers as well.We shall make a pact. If you wish to help, first gather Atal'ai artifacts from the waters around the temple, and return them to me.",
-    "name": "Pool of Tears",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "29362",
-    "description": "You know of the Pools of Vision, yes?There is a sort of mushroom that grows there... not the tough, rank fungi that dominates the place, but smaller, more delicate caps that grow beneath them.They are rare and quite delicious, adding a flavor to meat dishes that one might even call magical....what? No, really. They just taste good. That's it.",
-    "name": "\"Magic\" Mushrooms",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Cooking"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42687",
-    "added_in_patch": 7,
-    "description": "Our troops are ready! It's time to test them out in the field.We've received word of survivors near the Broken Shore, but the area is still crawling with Legion.Send our troops quickly to help with the rescue!",
-    "name": "Troops in the Field",
-    "requires_level": 101,
-    "zone": "Mage Campaign"
-}

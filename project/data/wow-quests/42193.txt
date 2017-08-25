@@ -1,8 +1,0 @@
-{
-    "_id": "42193",
-    "added_in_patch": 7,
-    "description": "You have proven yourself most thoroughly time and again, <name>. There can be no doubt that you are the one to lead Odyn's armies into the final battle.You must first obtain the Gjallarhorn so that you may signal to our allies that the end times are upon us.King Svergan Stormcloak was the last known living guardian of the horn.Seek his spirit in the Field of Fallen Kings in Stormheim and see what you can learn.",
-    "name": "The Gjallarhorn",
-    "requires_level": 101,
-    "zone": "Warrior Campaign"
-}

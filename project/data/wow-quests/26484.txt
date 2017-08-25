@@ -1,7 +1,0 @@
-{
-    "_id": "26484",
-    "description": "The earthen and the stone troggs somehow found their way to Deepholm through Uldum more than fifteen thousand years ago. They've been warring ever since.If we're to recover the middle fragment of the World Pillar, the Stonefather must be rescued.Please go to Stonehearth and do everything that you can to aid the Earthen in their war against the stone troggs.You're our best hope, <name>.",
-    "name": "To Stonehearth's Aid",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

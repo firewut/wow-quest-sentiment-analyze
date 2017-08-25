@@ -1,9 +1,0 @@
-{
-    "_id": "33918",
-    "added_in_patch": 6,
-    "description": "Grondo, a mad gronn, has been seen roaming the Crackling Plains.This beast has been killing entire herds of clefthoof and devouring innocent frost wolves. We must destroy this threat before it reaches the Garrison.",
-    "name": "Wanted: Grondo's Bounty",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

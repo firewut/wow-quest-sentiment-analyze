@@ -1,7 +1,0 @@
-{
-    "_id": "8685",
-    "description": "",
-    "name": "Mistwalker the Elder",
-    "requires_level": 1,
-    "zone": "Lunar Festival"
-}

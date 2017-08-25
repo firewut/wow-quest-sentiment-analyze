@@ -1,8 +1,0 @@
-{
-    "_id": "114",
-    "description": "Take this invisibility liquor to young Maybell.  It should last long enough for her to visit Tommy Joe.",
-    "name": "The Escape",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

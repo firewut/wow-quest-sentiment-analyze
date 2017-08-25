@@ -1,7 +1,0 @@
-{
-    "_id": "26359",
-    "description": "We have the feathers, yes.We have the <class>, yes.Speak with Priestess when you are ready.",
-    "name": "See Raptor",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

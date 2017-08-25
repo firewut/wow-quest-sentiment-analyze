@@ -1,7 +1,0 @@
-{
-    "_id": "26299",
-    "description": "We must find if Yenniku is dead.Slay the Bloodscalps of Zuuldaia and take from them their shrunken heads.  You must gather many, many heads, and I will inspect them to make sure Yenniku's head is not among them.And if Yenniku was killed by the Bloodscalps, then may a 600-year curse fall on the spirit of their chief, Gan'zulah!Go, <name>.  You will find the heads at the ruins of Zuuldaia, along the coast to the north.",
-    "name": "Headhunting",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40190",
-    "added_in_patch": 7,
-    "description": "Back to Highmountain for you, <name>! I hear they know even more efficient ways to craft our patterns.When you get there, put in a good word for me, will ya? I'd like to start a relationship the tauren, so I don't have to keep sending you back and forth.",
-    "name": "Hardening the Hide",
-    "requires_level": 104,
-    "zone": "Leatherworking"
-}

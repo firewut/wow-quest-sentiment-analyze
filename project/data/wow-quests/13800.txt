@@ -1,7 +1,0 @@
-{
-    "_id": "13800",
-    "description": "Get 'em! ",
-    "name": "Get My Keys!",
-    "requires_level": 63,
-    "zone": "Nagrand (Outland)"
-}

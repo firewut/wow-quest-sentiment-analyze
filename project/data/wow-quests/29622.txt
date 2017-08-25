@@ -1,8 +1,0 @@
-{
-    "_id": "29622",
-    "added_in_patch": 5,
-    "description": "<Xiao does not look up from his bowl.>Hey, new  guy! Glad to see you survived the banquet! Trial One: Complete!<Xiao eats noisily.>You'd better speak up with Instructor Xann. He'll be expecting you for your daily exercises.<He continues eating. You suspect that he is done talking to you.>",
-    "name": "Your Training Starts Now",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

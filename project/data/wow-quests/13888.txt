@@ -1,7 +1,0 @@
-{
-    "_id": "13888",
-    "description": "The time has come, <name>. When you have steeled yourself we will speak again and I will summon forth a whirling vortex to speed your way up to the skies over Thunder Peak.Channel the power of the Earthen Ring through the elemental to slay Lord Magmathar so that we may bring him into balance once more.",
-    "name": "Vortex",
-    "requires_level": 21,
-    "zone": "Ashenvale"
-}

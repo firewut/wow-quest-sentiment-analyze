@@ -1,8 +1,0 @@
-{
-    "_id": "31720",
-    "added_in_patch": 5,
-    "description": "Today you will face Suchi the Sweet in the training ring. Despite her sweet exterior, she is a tough opponent.She attacks swiftly and surely, but such potent attacks can become tiring over time.If you hope to defeat her, you will need to concentrate your damage when she is weakened.Speak to Suchi to begin the duel. Good luck.",
-    "name": "The Trainer's Challenge: Suchi the Sweet",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

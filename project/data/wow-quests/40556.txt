@@ -1,8 +1,0 @@
-{
-    "_id": "40556",
-    "added_in_patch": 7,
-    "description": "Hello <name>,Jabrul needs your help with something. Could you please come to Azsuna and find Jabrul?Thank you,Jabrul",
-    "name": "Jabrul Needs You",
-    "requires_level": 108,
-    "zone": "Jewelcrafting"
-}

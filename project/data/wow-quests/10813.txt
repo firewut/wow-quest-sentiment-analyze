@@ -1,8 +1,0 @@
-{
-    "_id": "10813",
-    "description": "<name>, you have braved the lair of the Bleeding Hollow orcs, dreaded Zeth'Gor, and survived!  Perhaps you have the strength to aid me, for I aim to gaze into the mind of its darkest witch, Grillok!Take this shard.  Use it to ensorcel an Eye of Grillok and bind it to yourself.  Return here and approach my cauldron... and it will pull the eye from you.Go, <name>.  And use care -- An Eye of Grillok will betray you to our enemies if given the slightest opening!",
-    "name": "The Eyes of Grillok",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

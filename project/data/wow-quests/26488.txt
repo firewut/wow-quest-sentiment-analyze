@@ -1,8 +1,0 @@
-{
-    "_id": "26488",
-    "description": "Arnold and I used to relax down at the moat in the Valley of Heroes.  One day, I lost my locket in the lake and I have never been able to find it.  Rumor has it that huge royal monkfish live in that moat and that they eat anything!  I know it's a long shot, but do you think you could catch a few monkfish and look for my locket?Please let me know right away if you find it, it's very precious to me.",
-    "name": "Big Gulp",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

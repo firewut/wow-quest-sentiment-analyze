@@ -1,8 +1,0 @@
-{
-    "_id": "29377",
-    "description": "Well met, <class>. As we revel in the Wickerman ceremony, it comes as no surprise that the Alliance would attempt to ruin our celebration.We have an opportunity to make them pay.  If you are interested, <class>, take this Dousing Agent and use it on the Alliance's Wickerman in front of Stormwind.Extinguish their flame and revel in their misery, <class>.",
-    "name": "A Time to Break Down",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Hallow's End"
-}

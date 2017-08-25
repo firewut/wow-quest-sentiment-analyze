@@ -1,7 +1,0 @@
-{
-    "_id": "9173",
-    "description": "<Class>, I want you to reclaim Windrunner Spire!It's an honor, really. Windrunner Spire is the original home of Lady Sylvanas Windrunner, queen of the Forsaken and former ranger-general of the elves. But now it's been overrun by the mindless Scourge.To get there take the road south until it branches. Take the right fork and after crossing the Dead Scar continue southwest. You can't miss it.",
-    "name": "Retaking Windrunner Spire",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

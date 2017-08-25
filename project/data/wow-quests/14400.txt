@@ -1,8 +1,0 @@
-{
-    "_id": "14400",
-    "description": "What was it you wanted again?Oh, right.  The evacuation orders.Well I can't be expected to go out in public like this, can I?Go get me my good clothes.  They're on the clothesline right outside.<You struggle in vain to convince Grandma Wahl that what she's wearing will do.>You young people truly have no manners.  Were you raised by ogres?  Now go get my clothes, sweetie.",
-    "name": "I Can't Wear This",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

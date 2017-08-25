@@ -1,8 +1,0 @@
-{
-    "_id": "30636",
-    "added_in_patch": 5,
-    "description": "Many thousands of years ago, the rulers of the Vale sought energy from a powerful crystal known as Revelite.With this substance, they were able to power cities, factories, and engines of war.Zhi the Harmonious has asked us to collect some crystals and bring them back to the city.Keep an eye out for them while you are in the ruins.",
-    "name": "Stones of Power",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

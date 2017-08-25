@@ -1,8 +1,0 @@
-{
-    "_id": "40466",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Howling Hills Treasure",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

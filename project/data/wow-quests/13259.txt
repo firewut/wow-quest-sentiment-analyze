@@ -1,7 +1,0 @@
-{
-    "_id": "13259",
-    "description": "We've one shot at dealing some damage to this place -- let's make sure we get it right.We've acquired potent, Scourge-made, saronite bombs.  But we must secure this area before we can set them off.We're going to need to get the Scourge defenses under control quickly, before reinforcements arrive.Help my men out and come back when you're ready for some fireworks.",
-    "name": "Establishing Superiority",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

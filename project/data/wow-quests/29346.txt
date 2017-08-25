@@ -1,8 +1,0 @@
-{
-    "_id": "29346",
-    "description": "One of the Forsaken from the Pools of Vision came to me and said he'd lost his ring to a blind cavefish in the waters there.Or perhaps it was his finger. It was hard to tell; his jaw did not move and his Orcish was no better than mine.In any case, I thought it would be a kind gesture towards our unusual visitors to catch and gut cavefish until the ring - or finger - was found.Would you help?",
-    "name": "The Ring's the Thing",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Fishing"
-}

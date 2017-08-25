@@ -1,8 +1,0 @@
-{
-    "_id": "26898",
-    "description": "I care deeply about these forests, <class>. Things look grim here, but I would rather face the Horde alone than watch them hack and slash their way through the trees.Travel west to Blackfathom Deeps. Once you're inside, find Sentinel Aluwyn. She's a trusted friend in need of help.The orcs in Zoram'gar Outpost threaten her position as we speak. If they take Blackfathom, they will surely cut every tree down to fuel their insanity.",
-    "name": "Blackfathom Deeps",
-    "requires_level": 22,
-    "side": "alliance",
-    "zone": "Blackfathom Deeps"
-}

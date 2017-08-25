@@ -1,7 +1,0 @@
-{
-    "_id": "11391",
-    "description": "Eh? Yer back for another day's work?Well, alright, here's the keys. We don't need any haulin' today, so just keep an eye out for anything suspicious, okay?I've hooked her up with some rockets and a machine gun - just in case.",
-    "name": "Steel Gate Patrol",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

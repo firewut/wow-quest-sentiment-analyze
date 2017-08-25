@@ -1,9 +1,0 @@
-{
-    "_id": "36999",
-    "added_in_patch": 6,
-    "description": "The windrocs of Nagrand are a smart predator, often swooping down on unwary prey in packs. If your beast doesn't keep an eye on the sky, it's likely to lose both of em.'Head on out to Nagrand and take on the fiercest windroc of the bunch, the Darkwing Roc. That'll be a good test for the both of ye.",
-    "name": "Boar Training: Darkwing Roc",
-    "requires_level": 99,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

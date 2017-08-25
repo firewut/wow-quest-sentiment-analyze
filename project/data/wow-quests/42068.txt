@@ -1,8 +1,0 @@
-{
-    "_id": "42068",
-    "added_in_patch": 7,
-    "description": "The Twilight's Hammer has reemerged and they are building an army to overthrow my kingdom. A ludicrous fantasy on their part, but one that I cannot take lightly.I cannot offer the mortal races my aid until the threat to Deepholm has been dealt with. If you truly wish to unite the Elemental Lords to your cause, I would see you prove it.Go. Uncover the plot that the Twilight's Hammer is hatching and put an end to their scheme!",
-    "name": "The Return of Twilight",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

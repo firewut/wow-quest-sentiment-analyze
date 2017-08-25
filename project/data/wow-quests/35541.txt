@@ -1,8 +1,0 @@
-{
-    "_id": "35541",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Sethekk Halls Bonus Objective",
-    "requires_level": 70,
-    "zone": "Quests"
-}

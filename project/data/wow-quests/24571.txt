@@ -1,7 +1,0 @@
-{
-    "_id": "24571",
-    "description": "There's got to be a way to cure these poor creatures without having to take their lives. I have an idea, but I'll need your help, <class>.The lashvine plants that roam here hold seeds full of the primal energy of this place. Collect these for me and bring them back, and we'll see if something can be done.",
-    "name": "Lashvine Seeds",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

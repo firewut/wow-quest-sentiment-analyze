@@ -1,8 +1,0 @@
-{
-    "_id": "40297",
-    "added_in_patch": 7,
-    "description": "<A captive demon hunter floats in stasis in front of you; her soul slowly draining into the harvester crystal.>\r\n\r\n<In order to release her from stasis, you will need to destroy the soul harvester.>",
-    "name": "Lyana Darksorrow",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

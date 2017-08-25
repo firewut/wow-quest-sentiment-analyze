@@ -1,8 +1,0 @@
-{
-    "_id": "30675",
-    "added_in_patch": 5,
-    "description": "The map you hold is crinkled, dirty, and poorly drawn, but you can see a big X on a beach.Is there buried treasure somewhere on this island?",
-    "name": "Buried Hozen Treasure",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

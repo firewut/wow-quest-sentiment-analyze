@@ -1,7 +1,0 @@
-{
-    "_id": "12978",
-    "description": "Like Bouldercrag, I once served the keepers as a craftsman in Ulduar, but with Loken's betrayal, I turned my hammer toward our new foes.When we could spare the men, I led raids on Nidavelir to relieve the pressure on our defenders, but our lines are near collapse.You've proven yourself a capable combatant and a staunch ally. Perhaps you'd be willing to take up our banner and take the fight to Nidavelir, the iron dwarf stronghold to the southwest, across the Snowdrift Plains.",
-    "name": "Facing the Storm",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "24862",
-    "description": "Look around you, <class>. We've had no luck dislodging the Horde from the hidden trails that overlook this valley. They appear out of nowhere to ambush our supply caravans and then disappear into the hills!I need you to run the gauntlet to Honor's Stand and let them know the roads still aren't safe. Talk to Mattingly, the supplies officer by the gate.And kill a few of these brutes along the way!",
-    "name": "Running the Gauntlet",
-    "requires_level": 28,
-    "zone": "Southern Barrens"
-}

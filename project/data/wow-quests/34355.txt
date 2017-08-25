@@ -1,8 +1,0 @@
-{
-    "_id": "34355",
-    "added_in_patch": 6,
-    "description": "These shredders are more of a hassle than I expected.I've been peering through the eyes of the rats on the island. There are number of unmanned shredders west of here.The rats have an uncontrollable appetite for this bait. Throw it onto Unmanned Shredders and let the rats destroy them from the inside.",
-    "name": "Dirty Rats",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

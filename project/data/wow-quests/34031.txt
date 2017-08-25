@@ -1,9 +1,0 @@
-{
-    "_id": "34031",
-    "added_in_patch": 6,
-    "description": "The Iron Horde want my inventions so bad? Then we'll leave some behind.These little beauties will blow the treads clear off a tank AND melt her chassis into the dirt. Let's see them try and drive their shoddy cannons out of this place!",
-    "name": "Something to Remember Me By",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

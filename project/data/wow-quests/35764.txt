@@ -1,8 +1,0 @@
-{
-    "_id": "35764",
-    "added_in_patch": 6,
-    "description": "The Dreadmaul ogres think they have bested us? They will all suffer. Here take this poison, place a couple drops in their rat stew.The poison will slowly eat away at their insides. Causing a prolonged and painful death, just like they deserve.",
-    "name": "Okrilla's Revenge",
-    "requires_level": 90,
-    "zone": "Blasted Lands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41003",
-    "added_in_patch": 7,
-    "description": "Ah, Sheilun, the legendary staff wielded by our last emperor. If the Legion were to acquire this weapon, they could unleash untold horrors across the whole of the continent. They must be stopped!If you want to get to the Terrace as fast as possible, you should hitch a ride directly to the mainland. Tak-Tak, a hozen kite-master, is skulking around west of the temple. Speak to him without delay.",
-    "name": "The Emperor's Gift",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35679",
-    "added_in_patch": 6,
-    "description": "Greetings, <name>. I bring another message from Archmage Khadgar.We can no longer ignore Socrethar's presence at Shattrath. He spreads dangerous beliefs, converting more draenei to his \"new order\" with each passing day.The time has come for us to confront him.Exarch Maladaar should be expecting you at the Spire of Light in Talador. Good luck, <name>.",
-    "name": "Garrison Campaign: The Fall of Shattrath",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

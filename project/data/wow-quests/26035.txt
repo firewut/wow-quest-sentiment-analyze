@@ -1,8 +1,0 @@
-{
-    "_id": "26035",
-    "description": "Archmage Malin sent me here to collect reagents for him. I was at a loss as to how I was going to collect the items, but now that you're here, I think my problem's solved.I need Witherbark tusks and Witherbark medicine pouches.Could you find those for me? The Witherbark live to the southeast of Arathi.",
-    "name": "Worth Its Weight in Gold",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Arathi Highlands"
-}

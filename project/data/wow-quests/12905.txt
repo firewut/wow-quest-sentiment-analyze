@@ -1,7 +1,0 @@
-{
-    "_id": "12905",
-    "description": "Our deal is made then, <name>.  You help me get out of these chains and I'll help you find your little green friend.The Hyldnir who runs this mine is known as Mildred the Cruel -- and with good reason.Tell her you've been sent to lend a hand with the mines.  Do whatever she asks until she trusts you with the keys to my shackles.",
-    "name": "Mildred the Cruel",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37146",
-    "added_in_patch": 6,
-    "description": "Now THIS is a savage land worthy of my level of heroism!Oh, hello, I did not see you standing there, staring at me. Perhaps you have noticed that every piece of my armor is an ancient relic, forgotten by time.As you have properly surmised, an adventurer of my stature does not have time to complete the menial requests I am given daily. I must remain here, yelling aloud to the trade district so that others may witness my heroicness and be inspired.Today I require a Nightmare Bell, do find one.",
-    "name": "Go Fetch",
-    "requires_level": 94,
-    "zone": "Auchindoun"
-}

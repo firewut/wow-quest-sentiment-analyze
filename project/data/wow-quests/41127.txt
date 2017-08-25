@@ -1,8 +1,0 @@
-{
-    "_id": "41127",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Gunksnout Infestation",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

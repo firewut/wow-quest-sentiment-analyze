@@ -1,7 +1,0 @@
-{
-    "_id": "10425",
-    "description": "Thank K'aresh! He would have torn me apart!I'm a Protectorate soldier, fleshling. My platoon was sent on a recon mission about 10 days ago. As we were moving across the upper ledges of this island, a group of Ethereum jumped us. At least I think it was Ethereum. They had the same energy color but their wrappings looked void.Only Tyralius was spared. I think they put him in a prison cell.I've got to get back to the Protectorate Watch Post! Can you escort me back?\r\n",
-    "name": "Escape from the Staging Grounds",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38273",
-    "added_in_patch": 6.2,
-    "description": "It is clear the cave is protected by powerful ghosts, ancestors of the Bleeding Hollow.\r\n\r\nWhatever is down there, it will be easier to deal with if many of the spirits were dealt with first.",
-    "name": "Spirits of the Bleeding Hollow",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36858",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Steeltusk",
-    "requires_level": 94,
-    "zone": "Gorgrond"
-}

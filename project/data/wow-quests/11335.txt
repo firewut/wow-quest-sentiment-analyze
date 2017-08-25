@@ -1,7 +1,0 @@
-{
-    "_id": "11335",
-    "description": "The reality of fighting on multiple fronts,  lad , is that we cannot spread our forces too thin or we risk losing it all!Critical troop deployments are necessary on a day by day basis.  Today it is the battle of Arathi Basin that demands immediate reinforcements.Return to me with news of victory, <name>.  We cannot allow the Horde scum to secure the resources that are rightfully ours!",
-    "name": "Call to Arms: Arathi Basin",
-    "requires_level": 71,
-    "zone": "Arathi Basin"
-}

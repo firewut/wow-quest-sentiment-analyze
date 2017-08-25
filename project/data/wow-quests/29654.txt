@@ -1,8 +1,0 @@
-{
-    "_id": "29654",
-    "description": "There is only one true way to end the fel orc threat to Honor Hold and the Alliance.Their Warchief must be slain.Bring me his namesake weapon, so that we can always remember his death.",
-    "name": "Turning the Tide",
-    "requires_level": 66,
-    "side": "alliance",
-    "zone": "Quests"
-}

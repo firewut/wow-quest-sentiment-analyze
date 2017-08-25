@@ -1,8 +1,0 @@
-{
-    "_id": "42205",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Entrance Bit",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11941",
-    "description": "Something about this scrap of metal prevents you from casting it aside.Perhaps Raelorasz might be able to shed some light on its purpose.",
-    "name": "Puzzling...",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

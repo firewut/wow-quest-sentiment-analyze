@@ -1,8 +1,0 @@
-{
-    "_id": "44204",
-    "added_in_patch": 7,
-    "description": "Ever feel like luck just isn't on your side?  Well maybe I can help you with that.  \r\n\r\nThere are some interesting items I've come across in my travels which can be used to swing the dice in your favor, or at least give you another shot at it.  It takes some time, and supplies are hard to come by, but I can get you one of them... for a price?",
-    "name": "Seal their Fates",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

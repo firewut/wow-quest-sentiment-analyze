@@ -1,7 +1,0 @@
-{
-    "_id": "12476",
-    "description": "To the northeast of Wintergarde Keep is a newly built encampment, set up by the Scarlet Crusade - or rather - the Scarlet Onslaught as they now call themselves. While we are unsure as to why they are in Northrend, they are certainly no less dangerous than they were before. As of last night the Scarlet Onslaught has killed twelve of our soldiers. They must be taught a lesson, <name>.Go to Onslaught Base Camp and thin them out. \r\n",
-    "name": "The Return of the Crusade?",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12863",
-    "description": "Ah! Thanks for coming up here,  lad.Judging by your wide eyes and shivering hands, I'd venture a guess that you're somewhat new. Sounds like it would be good for you to meet our gracious hosts then!We've got some extra medical supplies... to be honest, we weren't expecting to have such a comfortable setup. Go ahead and give this crate to Glorthal over there, and lend them a hand if you would too. We don't want them to think we're ungrateful for how welcoming they've been.",
-    "name": "Offering Thanks",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

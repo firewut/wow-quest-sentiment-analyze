@@ -1,8 +1,0 @@
-{
-    "_id": "41771",
-    "added_in_patch": 7,
-    "description": "You have recovered the Blessed Blade of the Windseeker, and with it you hold all that is left of the soul of Prince Thunderaan.Thunderfury can be restored, but it will require a rare essence known as the Heart of Skywall.Vortos, the Duke of the East Winds, possesses the heart... but he will not give it willingly.Vortos must be defeated, and the Heart of Skywall must be combined with the blade.Only then can Thunderaan return and claim the Throne of Four Winds.",
-    "name": "Recharging the Blade",
-    "requires_level": 103,
-    "zone": "Shaman Campaign"
-}

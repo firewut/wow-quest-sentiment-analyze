@@ -1,9 +1,0 @@
-{
-    "_id": "34956",
-    "added_in_patch": 6,
-    "description": "It's time, <class>. Time to face the masters.",
-    "name": "Meet Me in the Cavern",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

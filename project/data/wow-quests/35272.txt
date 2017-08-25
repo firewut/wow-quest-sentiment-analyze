@@ -1,9 +1,0 @@
-{
-    "_id": "35272",
-    "added_in_patch": 6,
-    "description": "Da bird-men captured me while I was gettin' da lay a da land.We been workin' on an outpost for you just round dis mountain so your will be spreadin' all over da continent.Things not be goin' well.I be needin' your assistance, commander. Can you tell dem that I mean no harm so I can be showin' you da outpost?",
-    "name": "One of Our Own",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

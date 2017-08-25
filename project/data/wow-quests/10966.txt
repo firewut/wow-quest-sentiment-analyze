@@ -1,7 +1,0 @@
-{
-    "_id": "10966",
-    "description": "Darn it all!  I guess it's time to go back to the orphanage at Shattrath City.I've had such a great time.  You're the best person in all of the worlds, <name>!  You're my big  brother  now!<Dornaa's eyes begin to well up with tears.>I'm going to miss you so much!  When I grow up, I'm going to be just like you!!!",
-    "name": "Back to the Orphanage",
-    "requires_level": 60,
-    "zone": "Children's Week"
-}

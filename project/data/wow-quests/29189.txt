@@ -1,7 +1,0 @@
-{
-    "_id": "29189",
-    "description": "Some of our scouts have not reported back for duty. We fear they have succumbed to the deadly spiders in the vicinity.Hope may not be lost, however. The spiders often wrap up their live prey in cocoons for later consumption.Go search the pillars to the north for cocooned victims. You may yet be able to save some of our brethren.",
-    "name": "Wicked Webs",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

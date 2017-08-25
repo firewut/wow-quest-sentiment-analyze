@@ -1,9 +1,0 @@
-{
-    "_id": "37291",
-    "added_in_patch": 6,
-    "description": "Your timing could not have been better.Your scouts have reported the approach of a large Thunderlord army.My clan can ride out and assist in severing their reinforcements, but you will need to see to the defense of your fort against the bulk of their forces.Sergeant Grimjaw awaits your command.",
-    "name": "Thunderlord Invasion!",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

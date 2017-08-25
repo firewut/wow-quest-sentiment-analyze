@@ -1,8 +1,0 @@
-{
-    "_id": "42005",
-    "added_in_patch": 7,
-    "description": "Ye should read the saga yerself, it's right here.\r\n\r\nWe're here to speak to the spirit of that vrykul I spoke of. Tahu Sagewind is a powerful Seer and he should be able to bring his spirit back. It will be up to us to convince him to speak.\r\n\r\nYou should speak with Tahu so we can get started.",
-    "name": "The End of the Saga",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

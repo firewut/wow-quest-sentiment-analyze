@@ -1,8 +1,0 @@
-{
-    "_id": "6387",
-    "description": "I see a lot of young dwarves at my door, eager to learn the trade of cooking.  And if there's one thing a cook needs more than anything, it's a cleaver!I have a list of students who scored high in their lessons and earned an honorary cleaver.  Take my list to Golnir Bouldertoe in Ironforge.  He'll get the cleavers ready.The fastest way to Ironforge is on a gryphon, so bring the list to our gryphon master, Brolan Galebeard, and speak with him about transport to Ironforge.",
-    "name": "Honor Students",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "42110",
-    "added_in_patch": 7,
-    "description": "Your armies have tracked the beast to the highest peak in Highmountain.It has nowhere left to run, but it is protected by foul drogbar. You must go there yourself and slay Jorhuttam!",
-    "name": "To the Summit!",
-    "requires_level": 103,
-    "zone": "Warrior Campaign"
-}

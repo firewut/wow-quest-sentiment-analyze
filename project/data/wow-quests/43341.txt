@@ -1,8 +1,0 @@
-{
-    "_id": "43341",
-    "added_in_patch": 7,
-    "description": "There are a great number of factions here on the Broken Isles. We must unite them if we want to stand a chance against the legion. Prove your worth to them and report back to me.",
-    "name": "Uniting the Isles",
-    "requires_level": 110,
-    "zone": "World Quest"
-}

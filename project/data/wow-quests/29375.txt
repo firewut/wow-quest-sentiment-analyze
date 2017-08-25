@@ -1,7 +1,0 @@
-{
-    "_id": "29375",
-    "description": "Greetings, <class>!  Are you enjoying Hallow's End?  It seems that in response to our stink bombing Stormwind, the Alliance has decided to stink bomb our city.Fortunately, we have magics that can handle the stink the Alliance bring us.  Use this Arcane Cleanser to remove the stink bombs from the city.",
-    "name": "Clean Up in Undercity",
-    "requires_level": 1,
-    "zone": "Hallow's End"
-}

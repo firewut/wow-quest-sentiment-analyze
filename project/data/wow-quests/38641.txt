@@ -1,8 +1,0 @@
-{
-    "_id": "38641",
-    "added_in_patch": 7,
-    "description": "Cenarius is in danger.If his condition is not reversed soon, he will be lost to the Nightmare that threatens the Emerald Dream. To spare him that fate, we must have the Tears of Elune - the same relic you were sent here to retrieve.Elune's temple is not far. Go there. Find Lyanis. Show her my seal and instruct her to release the tears into your custody.Hurry, <name>. Time is short.",
-    "name": "The Temple of Elune",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

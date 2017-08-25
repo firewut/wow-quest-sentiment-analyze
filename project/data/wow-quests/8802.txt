@@ -1,7 +1,0 @@
-{
-    "_id": "8802",
-    "description": "To the Caverns of Time you go,  Lord <name>. Anachronos awaits your return. Give him the eye of C'Thun as he will undoubtedly wish to place it in his master's collection.\r\n",
-    "name": "The Savior of Kalimdor",
-    "requires_level": 60,
-    "zone": "Quests"
-}

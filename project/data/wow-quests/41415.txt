@@ -1,8 +1,0 @@
-{
-    "_id": "41415",
-    "added_in_patch": 7,
-    "description": "I realize we have never met, but you will learn of my order soon enough. For now, pleasantries must wait.The Legion has returned to Azeroth stronger than ever, and we need new weapons to fight them.I have met three individuals here in Dalaran who have leads on ancient artifacts which could prove vital in the battle to come. Acquiring these weapons demands the skills of a master hunter.Speak to each of them and decide whom you will aid first.",
-    "name": "The Hunter's Call",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

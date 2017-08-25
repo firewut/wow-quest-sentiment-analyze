@@ -1,7 +1,0 @@
-{
-    "_id": "27407",
-    "description": "Are you startled by Brogg's presence here, little <race>? Don't worry. Goblins at Mudsprocket are Brogg's friends and you can be, too.Brogg left Brackenwall Village when new overlord not take revenge against black dragonkin for destroying old home and killing many of Brogg's old friends. Brogg come here to lay friends spirits to rest and avenge them, but Brogg need help preparing. For ritual, Brogg need feathers with strong magic, like ones worn by raptors at Bloodfen Burrow to the west of town.",
-    "name": "Bloodfen Feathers",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

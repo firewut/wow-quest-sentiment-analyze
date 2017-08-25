@@ -1,7 +1,0 @@
-{
-    "_id": "13589",
-    "description": "If we didn't have enough on our hands with the land and the elements turning against us, it seems something has riled up the trolls to the northeast, and they've started on a war path. I'm not sure what their aims are, but they've already attacked several of our scouts and have besieged the cultists at the Tower of Althalaxx.We've sent a contingent of our best Sentinels to counter their attacks. If you would travel northeast to the ruins and join them, I'm certain that they could use the extra hand.",
-    "name": "The Shatterspear Invaders",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

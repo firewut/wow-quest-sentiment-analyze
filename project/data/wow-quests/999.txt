@@ -1,7 +1,0 @@
-{
-    "_id": "999",
-    "description": "",
-    "name": "When Dreams Turn to Nightmares",
-    "requires_level": 10,
-    "zone": "Wailing Caverns"
-}

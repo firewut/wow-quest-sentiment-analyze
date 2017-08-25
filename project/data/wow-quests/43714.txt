@@ -1,8 +1,0 @@
-{
-    "_id": "43714",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Black Rook Hold: Worst of the Worst",
-    "requires_level": 110,
-    "zone": "Black Rook Hold"
-}

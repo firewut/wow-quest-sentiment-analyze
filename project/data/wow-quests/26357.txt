@@ -1,7 +1,0 @@
-{
-    "_id": "26357",
-    "description": "The Vilebranch have hung their tiki masks all across the walls of Jintha'Alor. The spirits not gonna be watchin' over them much longer.Take this torch with ya as ya fight through the Vilebranch, <class>. Set fire to their tiki masks. I'll be watchin' from here as their wards and hexes fade away, an' their heretical dark voodoo goes up in smoke.",
-    "name": "Faces of Evil",
-    "requires_level": 31,
-    "zone": "The Hinterlands"
-}

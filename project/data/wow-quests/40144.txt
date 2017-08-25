@@ -1,8 +1,0 @@
-{
-    "_id": "40144",
-    "added_in_patch": 7,
-    "description": "One skinner makes the wilds of Azsuna her home. Her name is Glielle, and she is a night elf - or at least, she was, in life.Perhaps the scroll was hers.",
-    "name": "Glielle",
-    "requires_level": 98,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9995",
-    "description": "I don't know about you, but I have no idea what all of those things are.  I do know one thing though - they look dangerous!<name>, I think you should take this box of parts to Tooki at Stonebreaker Hold to the southeast.  He may have some idea of what these are.",
-    "name": "What Are These Things?",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

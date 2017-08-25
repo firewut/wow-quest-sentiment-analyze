@@ -1,8 +1,0 @@
-{
-    "_id": "24495",
-    "description": "I found a journal by a man named Bradshaw.  Unfortunately it's missing many pages.  Especially towards the end.If you find enough of the pages I might be able to piece together what happened here after the Curse broke out.Who knows... maybe the people in this town found a way out.   Maybe there are still survivors out there. Maybe my father is still alive.",
-    "name": "Pieces of the Past",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

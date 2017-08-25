@@ -1,8 +1,0 @@
-{
-    "_id": "35088",
-    "added_in_patch": 6,
-    "description": "The moment has come to take on the void lord. Invalidus grows more powerful by the minute, so you must move with haste if you are to defeat the monster.At each of the Warsong ritual locations there is a void crystal; these crystals are used to channel the energy of the void from within the Twisting Nether.Disturb the crystal, and Invalidus will sense your presence below.Be ready, as soon as the crystal is disturbed, Invalidus will waste no time hunting you down.",
-    "name": "The Shadow of the Void",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

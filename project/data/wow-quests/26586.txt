@@ -1,8 +1,0 @@
-{
-    "_id": "26586",
-    "description": "If you and Keeshan are going to defend Lakeshire, we're going to need to find his old battalion. Last I heard all of 'em - Messner, Jorgensen, Krakauer and Danforth - were captured by the Blackrock orcs. Now I don't know where they could possibly be or if they're even alive, but I'd be a damned fool if I didn't ask you to try and find 'em.Search Alther's Mill, east of here, for any clues.",
-    "name": "In Search of Bravo Company",
-    "requires_level": 15,
-    "side": "alliance",
-    "zone": "Redridge Mountains"
-}

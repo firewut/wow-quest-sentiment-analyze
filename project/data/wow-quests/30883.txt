@@ -1,8 +1,0 @@
-{
-    "_id": "30883",
-    "added_in_patch": 5,
-    "description": "Your next challenger is a favorite of mine. He draws strength from raw force and determination.Plus he has a mask.Face him in the western arena when you are ready, and good luck.",
-    "name": "Round 3: The Wrestler",
-    "requires_level": 90,
-    "zone": "Kun-Lai Summit"
-}

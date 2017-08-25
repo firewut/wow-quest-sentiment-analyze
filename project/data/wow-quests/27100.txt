@@ -1,7 +1,0 @@
-{
-    "_id": "27100",
-    "description": "The book you found appears to detail some form of research carried out by a member of the Twilight's Hammer.It deals with the oozes in some way, but there are multiple pages missing.Perhaps if you found additional notes you might be able to make sense of it.",
-    "name": "Twilight Research",
-    "requires_level": 82,
-    "zone": "Deepholm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26817",
-    "description": "This humour won't serve on its own.  Too thick.  WAY too thick.The nagas to our west maintain a shrine that dispenses the only clean water this side of Duskwood.  For most potions, I'll use river water, but Bronwyn demands accuracy!Obtain it from the Nek'mani Wellspring at the peak of the naga camp.  Good luck!",
-    "name": "Perfectly Pure",
-    "requires_level": 26,
-    "side": "alliance",
-    "zone": "The Cape of Stranglethorn"
-}

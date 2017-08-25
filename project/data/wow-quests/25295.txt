@@ -1,7 +1,0 @@
-{
-    "_id": "25295",
-    "description": "Safety systems, online!  Motor functions, functioning!  Now all we need is to make sure that the guns will fire.This shouldn't be too hard, <name>.  The mechano-tank on the hill behind us has been loaded with harmless pellets. Just fire off a couple rounds at the nearby targets and report back to me.",
-    "name": "Press Fire",
-    "requires_level": 1,
-    "zone": "Dun Morogh"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28123",
-    "description": "Narkrall revealed to me the secret of his influence over the drakes in this area. I thought the Demon Chain was a myth, but he's had it all along.And now the fool is about to lose it!His life is meaningless to me but the Dragonmaw can't afford to lose that artifact. Follow him north, up to Thundermar. The city will be in chaos, so you may be able to land undetected. Return to me with the Demon Chain, even if you have to remove it from Narkrall's corpse.Find that artifact, <name>!",
-    "name": "The Demon Chain",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

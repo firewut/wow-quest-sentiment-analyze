@@ -1,7 +1,0 @@
-{
-    "_id": "13512",
-    "description": "Striking at the head of the beast doesn't work if there's another head to replace it. Before we can kill their leader, we need to kill the subleaders that may try to step up. Right now, they are not as well defended, and you should be able to best them without much support.Take this dryad spear and hunt them down. The poison on its tip should slow their incantations. My scouts reported one inside the water chamber in the ruins to the east and the other past the remains of the tower to the southwest.",
-    "name": "Strategic Strikes",
-    "requires_level": 10,
-    "zone": "Darkshore"
-}

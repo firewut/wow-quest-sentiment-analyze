@@ -1,9 +1,0 @@
-{
-    "_id": "33548",
-    "added_in_patch": 6,
-    "description": "Are you here to help or hinder?This village is being eaten, and we must move quickly to salvage what we can.Gather the masks of our fallen Laughing Skull brothers and sisters and meet me on the western side of the village.I will need them if our clan is to rebuild.",
-    "name": "We Die Laughing!",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

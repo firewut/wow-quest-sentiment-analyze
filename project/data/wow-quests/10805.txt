@@ -1,7 +1,0 @@
-{
-    "_id": "10805",
-    "description": "You've proven yourself resourceful, and now I think I'm going to put you to personal use in my own fight against Gruul and his sons.The Bladespire clan are the favored of the gronn, and while you may have thinned out their numbers elsewhere, you haven't yet dealt with their strongest.Gruul protects the exterior of his lair with only the toughest of ogres, and it is those that you must kill.  Head north through the Daggermaw Canyon and you will find Gruul's Lair at the end.",
-    "name": "Massacre at Gruul's Lair",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

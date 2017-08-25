@@ -1,7 +1,0 @@
-{
-    "_id": "11059",
-    "description": "You've figured out how to use the single-person relics, but as you may have seen, there are bigger ones, which they surround.These larger apexis monuments function in much the same way, but they take 35 apexis shards to activate.Of greater concern to us are the guardians that are summoned through their use.  These crystal constructs turned on their arakkoan masters long ago, and now endanger Ogri'la.We would ask that you destroy one and bring us proof.",
-    "name": "Guardian of the Monument",
-    "requires_level": 70,
-    "zone": "Blade's Edge Mountains"
-}

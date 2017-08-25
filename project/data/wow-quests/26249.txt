@@ -1,7 +1,0 @@
-{
-    "_id": "26249",
-    "description": "It's possible we'll find further clues inside the admiral's cabin. You will find it directly below us.See if there are any survivors or information that will lead us closer to the World Pillar fragment.  Be careful, <name>.  Whoever got the crew might still be out there.",
-    "name": "The Admiral's Cabin",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

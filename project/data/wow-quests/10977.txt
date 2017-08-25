@@ -1,7 +1,0 @@
-{
-    "_id": "10977",
-    "description": "The Mark of the Nexus-King that you recovered has allowed me to forge a new key for the stasis chambers found inside the Mana-Tombs.According to the glyphs on the mark, two exist: one near the front and one near Nexus-Prince Shaffar. This key that I am about to give you will open the stasis chamber near the front.I want you to go to the Mana-Tombs of Auchindoun and open the Mana-Tombs Stasis Chamber.",
-    "name": "Stasis Chambers of the Mana-Tombs",
-    "requires_level": 70,
-    "zone": "Mana-Tombs"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38528",
-    "added_in_patch": 7,
-    "description": "As I'm sure you've deduced, all of the leystone recipes you know can be improved.By learning to harness leystone's true potential, you can reduce the amount of material you use and still yield an equivalent result. Here, I'll show you.We'll start, as one does, with the humble bracer. This particular piece of armor benefits from the addition of brimstone runes. See for yourself.",
-    "name": "Leystone's Potential",
-    "requires_level": 110,
-    "zone": "Blacksmithing"
-}

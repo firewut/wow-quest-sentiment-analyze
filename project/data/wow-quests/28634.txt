@@ -1,7 +1,0 @@
-{
-    "_id": "28634",
-    "description": "Owlbeasts... Soulless, feathered monstrosities sent from the darkest depths of the Twisting Nether to prey upon the weak.<Nils points to the woods surrounding Eastpoint Tower.>They surround us on all sides and they are planning an attack - I can sense it. You must stop them before they can organize.I want you to head into the forest and kill every owlbeast that you see. NONE SHOULD SURVIVE!",
-    "name": "Extinction",
-    "requires_level": 23,
-    "zone": "Hillsbrad Foothills"
-}

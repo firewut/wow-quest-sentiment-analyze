@@ -1,8 +1,0 @@
-{
-    "_id": "34076",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: The Burial Fields",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

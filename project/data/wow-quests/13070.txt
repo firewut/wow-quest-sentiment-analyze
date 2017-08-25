@@ -1,7 +1,0 @@
-{
-    "_id": "13070",
-    "description": "The chill of death stirs in the west, threatening to freeze our hearts and souls to this wasteland and bind us to its dark master. We will stand and we will fight!The preparations have begun. Report to Siegemaster Fezzik at the front gate for your assignment.",
-    "name": "A Cold Front Approaches",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

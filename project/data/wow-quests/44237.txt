@@ -1,8 +1,0 @@
-{
-    "_id": "44237",
-    "added_in_patch": 7,
-    "description": "The sapling is clearly excited and wants your attention.  Perhaps you should help him?",
-    "name": "Ancients of War",
-    "requires_level": 110,
-    "zone": "The Dreamgrove"
-}

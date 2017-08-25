@@ -1,7 +1,0 @@
-{
-    "_id": "29222",
-    "description": "Dere was something about da way da serpents attacked, <name>.  Something unnatural...  Even da poison had a hint of some bad mojo.Dere be a shrine near here wit' a bonfire.  We can use dat to perform a ritual.Whatever be makin' dese serpents attack, dey probably still watchin' over dem.Da only problem, <name>, is dat I only be here in spirit form.  I need you to be my hands.  I need you to go to da fire an' prepare it for me.  Den I'll handle da rest.",
-    "name": "Spirits Are With Us",
-    "requires_level": 85,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41777",
-    "added_in_patch": 7,
-    "description": "We are all that stands between the Twilight's Hammer and their conquest of Deepholm.Azeroth cannot hope to fight the full strength of the Twilight's Hammer and the Burning Legion at the same time. It is up to us to put an end to their cult before they are able to fully rebuild.Accompany me into their stronghold and we shall cut through their ranks together!",
-    "name": "Destroying the Cult",
-    "requires_level": 110,
-    "zone": "Shaman Campaign"
-}

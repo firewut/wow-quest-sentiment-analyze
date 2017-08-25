@@ -1,8 +1,0 @@
-{
-    "_id": "35304",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Shadowfang Keep Reward Quest",
-    "requires_level": 16,
-    "zone": "Quests"
-}

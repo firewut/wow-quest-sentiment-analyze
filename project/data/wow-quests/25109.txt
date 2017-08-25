@@ -1,8 +1,0 @@
-{
-    "_id": "25109",
-    "description": "We barely escaped with our hides intact!The Trade Prince has a whole bunch of us enslaved and performing manual labor inside the cavern.Greely helped the seven of us to get out, but she was recaptured in the process.<name>, you're the only one crazy enough to walk into an exploding volcano! The assistant will be able to help you free the others.Hurry! This place is about to blow for good!",
-    "name": "The Gallywix Labor Mine",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

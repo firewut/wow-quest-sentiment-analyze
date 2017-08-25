@@ -1,8 +1,0 @@
-{
-    "_id": "32185",
-    "added_in_patch": 5.1,
-    "description": "The elder cat is alive, but stunned.You should bring it back to Huntsman Blake before it wakes up.",
-    "name": "Beastmaster's Quarry: The Tiger",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

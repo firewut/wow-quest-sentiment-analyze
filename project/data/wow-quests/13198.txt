@@ -1,7 +1,0 @@
-{
-    "_id": "13198",
-    "description": "<name>, good to see you. We must prepare for our next assault on the fortress. My research indicates that the armor of soldiers recently slain in the Glacial Falls becomes imbued with an incredible amount of energy. The Horde has been collecting armor in the area.Head to the Glacial Falls and slay any of the Horde you find there. Return their imbued armor to me.If you cannot find any of the Horde, you might find the armor of an adventurer slain by the elementals.",
-    "name": "Warding the Warriors",
-    "requires_level": 75,
-    "zone": "Wintergrasp"
-}

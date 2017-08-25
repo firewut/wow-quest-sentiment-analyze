@@ -1,9 +1,0 @@
-{
-    "_id": "40522",
-    "added_in_patch": 7,
-    "description": "It is a wonder any of our troops survived that bloodbath on the Broken Shore. If not for Lady Sylvanas...High Overlord Saurfang has been asking for you at Grommash Hold. He will not say why... but he was insistent that I send you to him.",
-    "name": "Fate of the Horde",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Orgrimmar"
-}

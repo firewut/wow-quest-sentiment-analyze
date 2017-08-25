@@ -1,8 +1,0 @@
-{
-    "_id": "39842",
-    "added_in_patch": 7,
-    "description": "I can help you build your forge. I can even supply the metal for it. I do, however, require a few more... difficult-to-acquire components.I need an alchemical heat source, some sort of insulator, and a calefactor. I'm certain that all of these can be found here in the Underbelly... if the guards are looking the other way.",
-    "name": "One Mage's Trash",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

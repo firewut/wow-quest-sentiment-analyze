@@ -1,7 +1,0 @@
-{
-    "_id": "14261",
-    "description": "I've got the perfect solution to our drake problem. My very own Cryomatic 16.I originally developed it to freeze my workers during transport and between shifts so that I wouldn't have to feed and entertain them, but there were... complications. It should be perfect for dropping these drakes out of the sky though!",
-    "name": "Ice Cold",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

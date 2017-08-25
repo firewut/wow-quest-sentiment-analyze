@@ -1,8 +1,0 @@
-{
-    "_id": "30145",
-    "added_in_patch": 5,
-    "description": "The next task will be a little harder.Are you ready?",
-    "name": "Flight Training: Full Speed Ahead",
-    "requires_level": 90,
-    "zone": "The Jade Forest"
-}

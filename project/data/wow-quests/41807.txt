@@ -1,8 +1,0 @@
-{
-    "_id": "41807",
-    "added_in_patch": 7,
-    "description": "<Jace glances at the crystallized soul.>Yes, that will do nicely. Release its energy to activate the communicator - it should already be configured to contact Allari and her forces.If Caria is out there, we will find her, and we will make her suffer for her transgressions.",
-    "name": "Establishing a Connection",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

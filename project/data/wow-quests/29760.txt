@@ -1,7 +1,0 @@
-{
-    "_id": "29760",
-    "description": "There must be more to being a master pit fighter than this...Perhaps Korgol Crushskull who runs the Darkmoon Deathmatch at the Faire will know.",
-    "name": "Pit Fighter",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

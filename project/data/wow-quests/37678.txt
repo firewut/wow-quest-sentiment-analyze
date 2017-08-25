@@ -1,8 +1,0 @@
-{
-    "_id": "37678",
-    "added_in_patch": 7,
-    "description": "<The librarian speaks in shushed tones.>One problem with maintaining such a large arcane library is that the books often pick up an errant enchantment and start darting about on their own. These overmagicked books need to be destroyed before they cause any further damage.If you encounter any of these exasperating essays, please put them down. Quietly.",
-    "name": "Hit the Books",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

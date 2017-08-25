@@ -1,7 +1,0 @@
-{
-    "_id": "28824",
-    "description": "One of my children is not with me, <name>.He stayed behind with the Twilight's Hammer at the Stonecore deep within the Temple of Earth.I sent my other children to free him from the dark magic that was surely keeping him from returning here, but... no such magic was placed upon him.Go into the Stonecore and destroy Ozruk.  He must be reclaimed by the earth.",
-    "name": "Wayward Child",
-    "requires_level": 82,
-    "zone": "Quests"
-}

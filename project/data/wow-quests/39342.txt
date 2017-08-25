@@ -1,8 +1,0 @@
-{
-    "_id": "39342",
-    "added_in_patch": 7,
-    "description": "I may have what you're looking for, burettes you say? Not a very common item.For that, I require a moderate favor. Nothing too big, just a few things really.A silver hair from a high-ranking archmage... the blood of a titan, and, oh... some wine and cheese.What?! I have appetites that need satiating.",
-    "name": "The Price of the Black Market",
-    "requires_level": 110,
-    "zone": "Alchemy"
-}

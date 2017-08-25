@@ -1,7 +1,0 @@
-{
-    "_id": "10889",
-    "description": "Your actions, while brave, will surely rouse a vindictive response from Terokk.Hurry to Shattrath. Send word to Rilak!",
-    "name": "Return to Shattrath",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

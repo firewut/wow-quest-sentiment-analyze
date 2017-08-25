@@ -1,8 +1,0 @@
-{
-    "_id": "38890",
-    "added_in_patch": 7,
-    "description": "They're not dead yet! A little nitro here, a jolt of electricity there... we can bring 'em back! And then, they can pay me! Whaddya say, <name>? Wanna go into business with me?",
-    "name": "Not Dead Yet!",
-    "requires_level": 100,
-    "zone": "Tanaris"
-}

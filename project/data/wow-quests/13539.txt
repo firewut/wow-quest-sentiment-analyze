@@ -1,7 +1,0 @@
-{
-    "_id": "13539",
-    "description": "While the Alliance may be pounding on our doors, a true tactician looks beyond the obvious.\"Attack him where he is unprepared, appear where you are not expected.\"<name>, I need you to travel across the Wintergrasp River and destroy one of the three towers to the south. Our Warlocks report that the towers are draining power we could use to bolster our own troops.Return to me once you've destroyed a tower.",
-    "name": "Toppling the Towers",
-    "requires_level": 85,
-    "zone": "Wintergrasp"
-}

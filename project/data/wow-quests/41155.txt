@@ -1,8 +1,0 @@
-{
-    "_id": "41155",
-    "added_in_patch": 7,
-    "description": "There's a sewer grate along the edge of the river leading to catacombs underneath Karazhan. I've never paid it much attention, but it could be where the spirits are directing us.\r\n\r\nTo think, the Dark Riders may have been under our noses this entire time! Come, let us see where this leads.",
-    "name": "The Dark Riders",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

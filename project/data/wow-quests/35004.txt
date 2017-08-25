@@ -1,8 +1,0 @@
-{
-    "_id": "35004",
-    "added_in_patch": 6,
-    "description": "Even in death, Sethe exerts influence. The Sethekk cult was born of this influence: led by a false king in service of the dead god.Silence their prophets, for they seek a future of black seas and blighted skies.Defeat their chosen champions, for they have pledged themselves to a lie.",
-    "name": "Servants of a Dead God",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11315",
-    "description": "The sisters who lived in the Vibrant Glade, to the southwest, used to tend to gorgeous beds of scarlet ivy, but the same force that has driven them mad has transformed their beloved ivy.The vines now grasp at the feet of the unwary, or lash at any who approach the glade. Before we can reclaim the glade, the vines must be tamed and uprooted.Clear as much of the ivy as you are able. It has already begun to grow out of control.",
-    "name": "Wild Vines",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

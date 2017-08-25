@@ -1,7 +1,0 @@
-{
-    "_id": "11891",
-    "description": "According to this, it seems there is another encampment of the cultists to the northwest of the large gathering on the Zoram Strand, and they are speaking with... guests?Much could be learned from listening to these proceedings, <race>. Take this orb; it will allow you to appear as one of the native crawlers on the beach. Spy on the conversation with these \"guests\" of the cultists at the northwestern camp and report back to me when you are successful.",
-    "name": "An Innocent Disguise",
-    "requires_level": 16,
-    "zone": "Midsummer"
-}

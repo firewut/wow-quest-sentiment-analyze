@@ -1,8 +1,0 @@
-{
-    "_id": "29944",
-    "added_in_patch": 5,
-    "description": "Before any kegs are tapped, we have work to do. These virmen are no different than the virmen on the Wandering Isle... a nuisance that breeds as fast as the rabbits they resemble.Sure, we could kill every last virmen we find, but what's the point in needless bloodshed? Let's just take out their alphas, and they'll slow down with their... reproduction.",
-    "name": "Leaders Among Breeders",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

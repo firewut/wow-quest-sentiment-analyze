@@ -1,8 +1,0 @@
-{
-    "_id": "13660",
-    "description": "The document bears the Explorers' League crest and contains a detailed list of the artifacts excavated by Ironband's workers in southeastern Loch Modan. Sooty smudges lead you to believe it was likely stolen by the Dark Iron spies in the area.You recall mention of missing documents at the Explorers' League building in Thelsamar.",
-    "name": "Explorers' League Document (5 of 6)",
-    "requires_level": 8,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

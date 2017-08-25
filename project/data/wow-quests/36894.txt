@@ -1,8 +1,0 @@
-{
-    "_id": "36894",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Nemesis Flag, Draenei/Blood Elf",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

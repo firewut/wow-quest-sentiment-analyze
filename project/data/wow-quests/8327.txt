@@ -1,8 +1,0 @@
-{
-    "_id": "8327",
-    "description": "You are to report to my assistant, Lanthan Perilon.  He will instruct you on what needs to be done next.  While we here at the Sunspire will continue to rein in the Burning Crystals, you will be focused on a more pressing matter concerning Falthrien Academy.  Lanthan will explain fully when you speak to him.Simply walk west of here along the path, and you should see him standing close by.Good luck, <name> - your continued successes shall be rewarded.",
-    "name": "Report to Lanthan Perilon",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

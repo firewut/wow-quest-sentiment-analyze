@@ -1,7 +1,0 @@
-{
-    "_id": "28747",
-    "description": "You ever seen one of these?<Brazie pulls out a pumpkin.>This ain't no ordinary pumpkin, friend. See, once you plant it they'll lay in wait until a zombie shows up and then KABLOOEY! Zombie guts all over the place. Let's go!",
-    "name": "Someone Setup the Pumpkin Bomb",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

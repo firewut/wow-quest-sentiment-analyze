@@ -1,8 +1,0 @@
-{
-    "_id": "26177",
-    "description": "Fresh crab legs have always been one of the King's favorite foods.  We have had good luck catching fresh crabs in the canals over the past few weeks.  Do you think you can lend me a hand and catch a few of them for me?  Be sure to catch them alive, they are no good to me dead, the King requires the freshest catch we can muster.",
-    "name": "Feeling Crabby?",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Cooking"
-}

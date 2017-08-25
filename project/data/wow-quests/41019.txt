@@ -1,8 +1,0 @@
-{
-    "_id": "41019",
-    "added_in_patch": 7,
-    "description": "Let me show you the Command Map. Some draenei construction and naaru magic we have a window into the Broken Isles! Here you can devise strategy, send your agents on missions, and choose our first area to operate in.Take a look and let me know where we are going!",
-    "name": "Actions on Azeroth",
-    "requires_level": 98,
-    "zone": "Priest Campaign"
-}

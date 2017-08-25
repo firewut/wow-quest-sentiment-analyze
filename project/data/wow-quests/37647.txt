@@ -1,8 +1,0 @@
-{
-    "_id": "37647",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "Tracking Quest - Hide Old Baros / Thorn / Brightstone",
-    "requires_level": 90,
-    "zone": "Garrison Support"
-}

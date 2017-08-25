@@ -1,8 +1,0 @@
-{
-    "_id": "39935",
-    "added_in_patch": 7,
-    "description": "You wish to learn what it is to be a demon hunter? That may take some time.The first thing you can do is fight alongside us. Battle the demons with us and observe how we use their strength against them.Return to me when you are finished.",
-    "name": "The Price of Power",
-    "requires_level": 102,
-    "zone": "Inscription"
-}

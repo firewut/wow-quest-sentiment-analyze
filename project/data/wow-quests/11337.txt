@@ -1,7 +1,0 @@
-{
-    "_id": "11337",
-    "description": "The fight against the Horde knows no boundaries, <name>.  Even in Outland, territorial disputes and old hatreds are enough to tip the scales in favor of war.Go into the Eye of the Storm and make sure the Alliance prevails in Outland just like it has in Azeroth.",
-    "name": "Call to Arms: Eye of the Storm",
-    "requires_level": 71,
-    "zone": "Eye of the Storm"
-}

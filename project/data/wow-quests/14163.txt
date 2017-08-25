@@ -1,7 +1,0 @@
-{
-    "_id": "14163",
-    "description": "As we get closer to victory in Icecrown, it's become more apparent that our armies are going to have to deal with the Horde before they can deal with the Lich King.The elite guard known as the Kor'kron has been deployed to block our advance in the Isle of Conquest.  The isle is of vital strategic importance, <name>.  See to it that our lads prevail!",
-    "name": "Call to Arms: Isle of Conquest",
-    "requires_level": 71,
-    "zone": "Isle of Conquest"
-}

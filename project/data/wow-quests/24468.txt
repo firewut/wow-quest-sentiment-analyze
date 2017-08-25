@@ -1,8 +1,0 @@
-{
-    "_id": "24468",
-    "description": "The ogres got two of our stagecoaches: this one and one that fell into the marsh just north of here.I want you to head there and rescue any survivors while we hatch up a plan to deal with these ogres.",
-    "name": "Stranded at the Marsh",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

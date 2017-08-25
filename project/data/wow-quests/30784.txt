@@ -1,8 +1,0 @@
-{
-    "_id": "30784",
-    "added_in_patch": 5,
-    "description": "One of our rangers reported seeing Suna up the hill to the northwest.I am relieved to find her safe. I had feared what she would do in her grief.Would you go speak to her on my behalf?Take this totem with you. If you encounter any danger along the way, you may find it useful.",
-    "name": "The Point of No Return",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

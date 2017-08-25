@@ -1,7 +1,0 @@
-{
-    "_id": "25036",
-    "description": "The Admiral will be pleased that Northwatch is almost secured, but if we're to keep a grip on this continent we're going to need to maintain the supply lines to the interior.Just before the assault I received the strangest of reports from Corporal Teegan, who's in charge of maintaining our contact with Forward Command. Says he's having trouble with the \"jungle?\" There's no jungle in the Barrens!Follow the upper road out of Northwatch and see if you can render any assistance to our wayward Corporal.",
-    "name": "Teegan's Troubles",
-    "requires_level": 29,
-    "zone": "Southern Barrens"
-}

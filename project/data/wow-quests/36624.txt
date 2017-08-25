@@ -1,9 +1,0 @@
-{
-    "_id": "36624",
-    "added_in_patch": 6,
-    "description": "Our base on Ashran is almost complete, commander.It would be a huge show of support if you could make a trip out there and put your stamp of approval on their staging area.I can arrange a flight if you are interested.",
-    "name": "Ashran Appearance",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Stormshield"
-}

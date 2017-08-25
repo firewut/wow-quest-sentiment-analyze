@@ -1,8 +1,0 @@
-{
-    "_id": "13991",
-    "description": "Well, <name>. I admit there's a place for you in my beloved Horde. You've shown me strength, cunning, initiative ... Even Thork recently mentioned you by name, and neither of us are easily impressed. Well done.Now it's time to start pulling your weight. This week's payroll for the Crossroads guards has gone missing. Gazrog in Ratchet is heading up the investigation. Talk to him!Simply follow the road East of here to the coast.",
-    "name": "The Purloined Payroll",
-    "requires_level": 13,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

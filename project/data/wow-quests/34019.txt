@@ -1,9 +1,0 @@
-{
-    "_id": "34019",
-    "added_in_patch": 6,
-    "description": "We've managed to pin Ner'zhul inside the Observatory, but he's taken many down with him.He has taken Yrel's sister, Samaara.I am needed to hold the line here. Please, do whatever you can to save her, hero.",
-    "name": "Shadows Awaken",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Teluuna Observatory"
-}

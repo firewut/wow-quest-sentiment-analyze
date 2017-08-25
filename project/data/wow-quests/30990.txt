@@ -1,7 +1,0 @@
-{
-    "_id": "30990",
-    "added_in_patch": 5,
-    "description": "Defeat the mogu crypt guardian to open the golden doors.",
-    "name": "Open the Golden Doors",
-    "zone": "Scenario"
-}

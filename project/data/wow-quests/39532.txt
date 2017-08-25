@@ -1,9 +1,0 @@
-{
-    "_id": "39532",
-    "added_in_patch": 6.2,
-    "description": "Ever since the fall of Blackrock Foundry, Gul'dan has been turning the Iron Horde into... something worse. The orcs who once flocked to Grommash's banner, through either fear or thirst for revenge, are now embracing the fel.Wade into the battlefields of Tanaan and lay waste to Gul'dan's forces. Orc or fel orc makes no difference. Gut what remains of the Iron Horde!",
-    "name": "Bringing Down the Iron Horde",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

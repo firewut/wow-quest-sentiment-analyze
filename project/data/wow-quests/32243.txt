@@ -1,8 +1,0 @@
-{
-    "_id": "32243",
-    "added_in_patch": 5.1,
-    "description": "Why hullo there! Have ya ever seen tha like o' these statues? Fascinatin'!I was scouting up along the ruins earlier, and I spotted somethin' innerestin' up on the highest rise.I couldn't get close enough, but I think it might be one o' these mogu statues, 'cept it was movin'!I can't get through all those nasty blood elves, but you look like you could.Would you mind going up there and bringing me back anything of interest?",
-    "name": "The Source of Korune Power",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

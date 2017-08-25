@@ -1,7 +1,0 @@
-{
-    "_id": "28341",
-    "description": "Though we druids shun the demonic powers infesting this land, it must still be confronted.Shatter Scar Vale to the south seethes with corruption. The energies there are so chaotic that they manifest as violent entities, pure fel magic given form to lash out at all life.I have been keeping a close eye on these chaotic beasts, and studying their strength. I need to make sure they are still weakening with time. Bring me the essences they drop, so I may ensure they are diminishing.",
-    "name": "Collecting Corruption",
-    "requires_level": 46,
-    "zone": "Felwood"
-}

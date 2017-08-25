@@ -1,8 +1,0 @@
-{
-    "_id": "28705",
-    "description": "All able bodied members of the Horde are hereby ordered to report to Lieutenant General Orion at the Stair of Destiny.Your skills are needed to fight the Burning Legion's presence on the shattered remnants of Outland.Go to Orgrimmar's Cleft of Shadow and use the portal near the poison supplies vendor to reach Hellfire Peninsula.Destiny calls!",
-    "name": "Warchief's Command: Outland!",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Blasted Lands"
-}

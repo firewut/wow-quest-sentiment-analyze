@@ -1,8 +1,0 @@
-{
-    "_id": "41015",
-    "added_in_patch": 7,
-    "description": "Your weapon is indeed powerful, but we shouldn't rest on our laurels. I've managed to procure one of the dwarves' foremost experts on artifice and enchanting.I'd like you to speak with Betild and see if she can't infuse the weapon with even greater potency.",
-    "name": "Artifacts Need Artificers",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

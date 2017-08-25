@@ -1,7 +1,0 @@
-{
-    "_id": "12963",
-    "description": "A wealthy shipping concern has requested a collection of Shifting Sun Curios to sell at Undermine.   If you can bring me one, I can reward you with a Dalaran Jewelcrafter's Token.\r\n",
-    "name": "Shipment: Shifting Sun Curio",
-    "requires_level": 65,
-    "zone": "Jewelcrafting"
-}

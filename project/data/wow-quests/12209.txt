@@ -1,8 +1,0 @@
-{
-    "_id": "12209",
-    "description": "Ah good, new meat. Do you wish to prove yourself, new meat?The Scarlet Onslaught, the most zealous and racist of the Scarlet Crusade, are in our backyard to the south. If we're going to fight them, we'll need more armor and weapons than I can make in such a short time.Why don't we take theirs?More to the point, why don't YOU take theirs?",
-    "name": "Materiel Plunder",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

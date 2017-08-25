@@ -1,8 +1,0 @@
-{
-    "_id": "31068",
-    "added_in_patch": 5,
-    "description": "\"When the horror comes a-risingAnd the heavens hum with warOur great vessel of salvationMust be broken from its core.\"The scroll continues on for several stanzas. Perhaps somebody at The Sunset Brewgarden will be able to decipher its cryptic message.",
-    "name": "Sacred Recipe",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

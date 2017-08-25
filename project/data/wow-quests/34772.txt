@@ -1,8 +1,0 @@
-{
-    "_id": "34772",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Morkeths Cage",
-    "requires_level": 94,
-    "zone": "Talador"
-}

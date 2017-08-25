@@ -1,8 +1,0 @@
-{
-    "_id": "43539",
-    "added_in_patch": 7,
-    "description": "The Four Horsemen will need perfect steeds. This is no simple task.For the next step of our campaign, I have organized a mission to the Realm of Shadows.The goal of the mission is to find Salanar the Horseman, leader of the Dark Riders, and summon him to Acherus.The mission is currently waiting your assignment.",
-    "name": "Salanar the Horseman",
-    "requires_level": 101,
-    "zone": "Death Knight Campaign"
-}

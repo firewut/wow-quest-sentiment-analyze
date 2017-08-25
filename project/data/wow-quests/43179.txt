@@ -1,8 +1,0 @@
-{
-    "_id": "43179",
-    "added_in_patch": 7,
-    "description": "Assist the Kirin Tor of Dalaran by completing 4 world quests.",
-    "name": "The Kirin Tor of Dalaran",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

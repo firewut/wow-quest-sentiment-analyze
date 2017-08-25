@@ -1,8 +1,0 @@
-{
-    "_id": "43272",
-    "added_in_patch": 7,
-    "description": "[PH]",
-    "name": "Champion: High Priestess Ishanah",
-    "requires_level": 101,
-    "zone": "Priest Campaign"
-}

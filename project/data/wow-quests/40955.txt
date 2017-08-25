@@ -1,8 +1,0 @@
-{
-    "_id": "40955",
-    "added_in_patch": 7,
-    "description": "Assembled before you are many of our world's greatest archers, rangers, beast masters, and trappers, ready to fight the Legion as one.It is time to take your first step in becoming a true leader of hunters.We gather at the fire pit and take our oaths of service before the statue of Ohn'ahra. Touch the statue and kneel before it while I recite the oath, and the Unseen Path will be reborn!",
-    "name": "Oath of Service",
-    "requires_level": 98,
-    "zone": "Trueshot Lodge"
-}

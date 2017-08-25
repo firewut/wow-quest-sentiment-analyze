@@ -1,7 +1,0 @@
-{
-    "_id": "12024",
-    "description": "Thank you for coming <name>.  We haven't recieved any word from Wintergarde Keep.  I'm sure they're still battling the Scourge, but I can believe they left us alone to this slaughter.  We need to gather the names of the dead so that we can notify their families.  When the Alliance Military brought us here, we all filled out Settlement Documentation and were required to keep it on our persons.  Go sift through the corpses and bring me any Documents that you find so that I can start a list of the names.",
-    "name": "Recording the Fallen",
-    "requires_level": 70,
-    "zone": "Dragonblight"
-}

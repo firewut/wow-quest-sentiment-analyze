@@ -1,7 +1,0 @@
-{
-    "_id": "26923",
-    "description": "You fools will never defeat the Scourge with those abominations running around.  Koltira blathers on about reducing their numbers, but the Scourge's best weapon here in Andorhal can be found in those lumbering brutes that are throwing my deathguards around like ragdolls.I won't have it.  <name>, enter the battlefield and destroy those monsters.",
-    "name": "War Machines",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

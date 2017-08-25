@@ -1,8 +1,0 @@
-{
-    "_id": "32844",
-    "added_in_patch": 5.3,
-    "description": "The contents of the vial swirl and froth violently, causing the vessel to tremble in your hand. As you look into the container, you think you catch a fleeting image of a living, angry face.The vial's stopper fits snugly. Around its edge, some small words have been carved with an expert hand:RETURN TO BRAWLER'S GUILD",
-    "name": "Secret of the Ooze",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

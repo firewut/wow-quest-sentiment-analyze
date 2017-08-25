@@ -1,7 +1,0 @@
-{
-    "_id": "320",
-    "description": "Here's your cask of Evershine, <name>.  And again, thank you for the hunting earlier.",
-    "name": "Return to Bellowfiz",
-    "requires_level": 2,
-    "zone": "Dun Morogh"
-}

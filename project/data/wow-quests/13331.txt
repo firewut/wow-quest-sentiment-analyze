@@ -1,7 +1,0 @@
-{
-    "_id": "13331",
-    "description": "The Alliance is tenacious, I'll give them that, but it'll take more than that to stop us. Take this SGM-3 with you and shoot down the Skybreaker's recon fighters once again.I doubt the message will get through their thick skulls, but there are enough missiles to keep trying to get our point across. Go and find their fighters flying above the Valley of Fallen Heroes, west of Aldur'thar, and don't come back until you've made wreckage of them.",
-    "name": "Keeping the Alliance Blind",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

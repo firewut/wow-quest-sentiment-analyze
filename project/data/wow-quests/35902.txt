@@ -1,8 +1,0 @@
-{
-    "_id": "35902",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Blackrock Depths (Upper City) Reward Quest",
-    "requires_level": 51,
-    "zone": "Quests"
-}

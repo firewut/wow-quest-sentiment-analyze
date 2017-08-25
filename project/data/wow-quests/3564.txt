@@ -1,7 +1,0 @@
-{
-    "_id": "3564",
-    "description": "Here... take... <hic> this to Jediga. Good luck to ya!",
-    "name": "Andron's Payment to Jediga",
-    "requires_level": 45,
-    "zone": "Azshara"
-}

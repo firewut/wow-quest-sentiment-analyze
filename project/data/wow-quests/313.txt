@@ -1,8 +1,0 @@
-{
-    "_id": "313",
-    "description": "The cataclysm drove the troggs to the surface in hordes, forcing the Frostmane trolls to flee for their lives. Unfortunately, they've decided to settle right on our doorstep and make trouble for us.I deployed Mountaineer Dunstan and his squad to the Grizzled Den just southwest of town to keep an eye on the wendigos that live there, but now I need to recall them to Kharanos. Find them and tell them to deploy those remote observation bots the gnomes provided, then return to Kharanos.",
-    "name": "Forced to Watch from Afar",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

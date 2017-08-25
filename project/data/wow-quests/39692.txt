@@ -1,8 +1,0 @@
-{
-    "_id": "39692",
-    "added_in_patch": 7,
-    "description": "Welcome to Orgrimmar, the Horde's seat of power.Enter Grommash Hold straight ahead, and make your introduction to Warchief Vol'jin.He is expecting you.",
-    "name": "The Call of War",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

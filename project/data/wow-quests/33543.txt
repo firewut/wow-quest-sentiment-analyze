@@ -1,9 +1,0 @@
-{
-    "_id": "33543",
-    "added_in_patch": 6,
-    "description": "Ah, $p, good. I need someone who is not of my clan to negotiate with the Laughing Skull.We could use their help navigating this land, but they are dangerous and unpredictable, much like Gorgrond itself.Follow this road and seek out someone willing to speak with you.Perhaps they will see you as something new and be willing to talk first and stab later.",
-    "name": "The Laughing Skull",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

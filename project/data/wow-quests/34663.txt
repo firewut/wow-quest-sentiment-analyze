@@ -1,8 +1,0 @@
-{
-    "_id": "34663",
-    "added_in_patch": 6,
-    "description": "You may have defeated Crushmaul, but the party's over now...you've got another fight!The Highmaul take gladiatin' seriously; so when they built the Ring of Trials, they searched far and wide for the most brutal creatures they could find!You're up against a dread raven the ogres are calling Raketalon! I'm telling you, <name>, something about that bird just ain't right...I think it truly enjoys the act of killing!Raketalon toyed with the last gladiator for hours before eating him.Try not to die!",
-    "name": "Ring of Trials: Raketalon",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35634",
-    "added_in_patch": 6,
-    "description": "Apexis technology is fascinating, isn't it? Machines powered by solar energy. Energy which itself has been imbued with magic!Simply brilliant!Ah, but there's always a catch. And I think you may have found it.Bring the interface device back to Veil Terokk, will you? I'll be along shortly with the Apexis cores.If my theory is right, we may be able to turn the Adherents' own weapon against them!",
-    "name": "Control is King",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

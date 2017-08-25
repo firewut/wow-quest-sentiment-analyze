@@ -1,8 +1,0 @@
-{
-    "_id": "39811",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Whitewater Wash Treasure",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

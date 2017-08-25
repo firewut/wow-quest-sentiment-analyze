@@ -1,8 +1,0 @@
-{
-    "_id": "42754",
-    "added_in_patch": 7,
-    "description": "While it is true that the Fel Hammer is powered, sadly, its jump engines are non-functional. If we are going to invade a demon world, we're going to have to make the command center jump-capable.\r\n\r\nWe need some replacement parts.\r\n\r\nLuckily for us, the Legion brought a couple of command centers and soul engines along with them to the Broken Isles. You will find them at Faronaar in Azsuna, and at Felsoul Hold in Suramar.",
-    "name": "Jump-Capable",
-    "requires_level": 110,
-    "zone": "Demon Hunter Campaign"
-}

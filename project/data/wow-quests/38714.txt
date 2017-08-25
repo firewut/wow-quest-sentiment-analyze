@@ -1,8 +1,0 @@
-{
-    "_id": "38714",
-    "added_in_patch": 7,
-    "description": "The fortress grounds are just up ahead. There is a large area to search, but if we split up, I believe we can cover a lot of ground.Search the prison cages, the forge, and the guard tower for any signs of Maiev. I will check the upper ramparts and meet you on the other side of the keep.",
-    "name": "Maiev's Trail",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

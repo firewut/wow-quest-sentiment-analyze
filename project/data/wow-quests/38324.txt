@@ -1,8 +1,0 @@
-{
-    "_id": "38324",
-    "added_in_patch": 7,
-    "description": "Wait! Before ye go rushin' off, we might want to be gettin more than just seaweed. \r\n\r\nYe see, these vrykul also be carrying bones with them - worn all over like jewelry. If ye can get yer hands on some of the bones they got lyin around, it'll add to the disguise.\r\n\r\nSo what ye waitin for?",
-    "name": "Accessories of the Cursed",
-    "requires_level": 98,
-    "zone": "Quests"
-}

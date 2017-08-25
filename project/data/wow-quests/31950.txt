@@ -1,7 +1,0 @@
-{
-    "_id": "31950",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Tracking Quest: Move NPCs to Dais",
-    "zone": "Valley of the Four Winds"
-}

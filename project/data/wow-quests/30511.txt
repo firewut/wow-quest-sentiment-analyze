@@ -1,9 +1,0 @@
-{
-    "_id": "30511",
-    "added_in_patch": 5,
-    "description": "It would seem that your General Nazgrim has awakened from his injuries. He and his people are upstairs.He has requested your presence.",
-    "name": "General Nazgrim has Awakened",
-    "requires_level": 87,
-    "side": "horde",
-    "zone": "Kun-Lai Summit"
-}

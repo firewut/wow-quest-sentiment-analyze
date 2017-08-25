@@ -1,8 +1,0 @@
-{
-    "_id": "32339",
-    "added_in_patch": 5.1,
-    "description": "Time for the fixing and then time for the mixing!",
-    "name": "Rebuilding the Mallet (Tracker)",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

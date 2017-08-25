@@ -1,8 +1,0 @@
-{
-    "_id": "14118",
-    "description": "As we chew up the resources of this land for our war machines, we deprive the local animals of their homes. If they are to die anyway, we should not allow that meat to go to waste. Not when the maw of Orgrimmar gapes open, hungry.Kill the weakened mosshoof stags that remain in this area and collect their meat for our peons and grunts. ",
-    "name": "Venison for the Troops",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Azshara"
-}

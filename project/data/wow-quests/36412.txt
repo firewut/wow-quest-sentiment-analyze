@@ -1,9 +1,0 @@
-{
-    "_id": "36412",
-    "added_in_patch": 6,
-    "description": "Scouts report that the Shadowmoon clan is buzzing like a kicked hornets' nest. Time again to earn our pay, Commander?",
-    "name": "Shadowmoon Invasion!",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Support"
-}

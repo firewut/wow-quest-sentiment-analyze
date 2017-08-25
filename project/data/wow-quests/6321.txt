@@ -1,8 +1,0 @@
-{
-    "_id": "6321",
-    "description": "Executor Zygand asked me to take stock of our equipment here in Brill.  With the Scourge, and worse, lurking in the woods, he doesn't want the Deathguards to lack gear they might need.I found that we are, in general, well stocked, but we do need more weapons to replace those lost in the field.Here is a requisition order of what is needed, for the weapon dealer Gordon Wendham in the Undercity.  Take the order to Bat Handler Anette and speak with her about transport to the Undercity.",
-    "name": "Supplying Brill",
-    "requires_level": 5,
-    "side": "horde",
-    "zone": "Tirisfal Glades"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35148",
-    "added_in_patch": 6,
-    "description": "Ya know, we sent a couple o' scouts ta check out those big, smelly, 'civilized' ogres at Mar'gok's Overwatch.Haven't heard from 'em in a bit. Matter o' fact, not since I saved yer bacon up at Telaar.Have some time ta ride over there and check up on 'em,  boyo?",
-    "name": "Trouble at the Overwatch",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

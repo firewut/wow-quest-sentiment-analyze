@@ -1,7 +1,0 @@
-{
-    "_id": "14304",
-    "description": "The land is not all that has changed in Desolace. Here, the wildlife has responded to their new environment in strange and sometimes exciting ways.I am particularly interested in the Rejuvenated Thunder Lizards that roam just to the west.I need a sample of their blood.You may begin helping me by using this jar of leeches on a few of them.Once they've filled on the blood of those beasts, return them to me.",
-    "name": "Blood Theory",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

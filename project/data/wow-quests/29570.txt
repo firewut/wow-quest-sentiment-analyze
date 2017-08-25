@@ -1,7 +1,0 @@
-{
-    "_id": "29570",
-    "description": "The last members of my expedition are somewhere in here. We're going to need the knowledge they've gathered and their skills if we're to have any chance at defeating the naga.See if you can find Earthbinder Rayge and Windcaller Claw, and make sure they're ok.",
-    "name": "Rescuing the Expedition",
-    "requires_level": 63,
-    "zone": "The Underbog"
-}

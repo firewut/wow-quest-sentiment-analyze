@@ -1,7 +1,0 @@
-{
-    "_id": "10874",
-    "description": "Terokk's perch, Skettis, looms above the Bone Wastes to the east. At the base of Skettis lies Veil Shalas, the most formidable of Terokk's colonies. It is through the stronghold of Veil Shalas that Terokk's forward sages wage war against the Light.The evil-doers of Shalas communicate with their master using a complex system of magical signal fires. Travel to the east, <race>, and extinguish the fires. Once Veil Shalas is silenced, we can begin to plot the fall of Skettis.But I get ahead of myself.",
-    "name": "Veil Shalas: Signal Fires",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

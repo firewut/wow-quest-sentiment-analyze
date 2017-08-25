@@ -1,7 +1,0 @@
-{
-    "_id": "11310",
-    "description": "Well, here you are!  Our friend's going to be somewhat... unstable.  So I suggest not putting him together until reaching Halgrind.Once you're there, use the abomination to round up as many vrykul as you can before self-destructing.Come back with whatever's left once you're done.  I can always use more body parts!",
-    "name": "Warning: Some Assembly Required",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

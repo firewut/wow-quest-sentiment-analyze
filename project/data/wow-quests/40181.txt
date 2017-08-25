@@ -1,8 +1,0 @@
-{
-    "_id": "40181",
-    "added_in_patch": 7,
-    "description": "I've heard rumors of a grand castle in Val'sharah that's known to house an impressive army. Surely, the armor they wear ain't made of sticks and hay.I'm willing to bet they've fashioned some mail armor at some point fer their troops and it's just sitting there, ripe for the taking.How about ye head over there and see what ye can \"borrow\" from their armory.",
-    "name": "Black Rook Bandit",
-    "requires_level": 98,
-    "zone": "Leatherworking"
-}

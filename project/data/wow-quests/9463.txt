@@ -1,8 +1,0 @@
-{
-    "_id": "9463",
-    "description": "I have found that lashers milling about on the island hold restorative medicinal properties in their vines. Through proper treatment, the vines can be broken down into a powerful healing ointment. Unfortunately, with so many injured draenei passing through Azure Watch, we are always in short supply.Our delicate guest was found injured and unconscious by the Crystalbrook only yesterday. If you bring me vines, we may be able to save her.You will find root trappers both south and east of Azure Watch.",
-    "name": "Medicinal Purpose",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Azuremyst Isle"
-}

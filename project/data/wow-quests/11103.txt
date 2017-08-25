@@ -1,7 +1,0 @@
-{
-    "_id": "11103",
-    "description": "",
-    "name": "Sage No More",
-    "requires_level": 70,
-    "zone": "Caverns of Time"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25768",
-    "description": "Scout Commander Barus, stationed at Mirkfallon Post, to the northwest, has spotted the Horde bomb. The Krom'gar hot air balloon, with bomb attached, is currently at the new goblin fueling station at Mirkfallon Lake. This might be the opportunity we need to take that thing out once and for all.Gather your things, <name>, and move out! Scout Commander Barus awaits your arrival at Mirkfallon Post.And <name>, your tenacity is a testament to the strength and fortitude of the Alliance!Glory be unto you!",
-    "name": "Bombs Away: Mirkfallon Post!",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

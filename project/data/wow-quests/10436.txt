@@ -1,7 +1,0 @@
-{
-    "_id": "10436",
-    "description": "Before we can begin the test, we have to make certain the area is clear of anything that might interfere. In our case, that means these overgrown lizards.<Tashar gestures toward the scythetooth raptors.>There's no telling what might happen if one of those decides to take a nice bite out of the generator while it's charging. I've seen a lot of strange things in all my years as a technician, including more than a few abominations that had their beginnings as humble animals.",
-    "name": "All Clear!",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

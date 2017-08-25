@@ -1,9 +1,0 @@
-{
-    "_id": "30655",
-    "added_in_patch": 5,
-    "description": "Look, I know the Horde needs recruits, and there's just not enough of us here right now to make a fighting presence of this town.\r\n\r\nBut I know that the yaungol over at Fire Camp Ordo, to the west, have taken many of my people as prisoners. And I also know that if you would be willing to rescue them from their captivity, they'd more than likely be willing to join the Horde.\r\n\r\nWhat do you say, <name>?",
-    "name": "Pandaren Prisoners",
-    "requires_level": 87,
-    "side": "horde",
-    "zone": "Kun-Lai Summit"
-}

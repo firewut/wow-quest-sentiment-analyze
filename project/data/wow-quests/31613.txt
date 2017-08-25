@@ -1,8 +1,0 @@
-{
-    "_id": "31613",
-    "added_in_patch": 5,
-    "description": "I am working on a batch of my famous Volatile Greenstone Brew.Should be superb in countering the rascals and mischievous elementals we have been seeing around the mines lately.Tell you what, how about you round up some of your friends and bring them back here to try out a round.First one's on the house!",
-    "name": "Volatile Greenstone Brew",
-    "requires_level": 90,
-    "zone": "Greenstone Village"
-}

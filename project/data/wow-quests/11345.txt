@@ -1,7 +1,0 @@
-{
-    "_id": "11345",
-    "description": "[PH] Shoot a marked target.",
-    "name": "Prizes for Pellets",
-    "requires_level": 1,
-    "zone": "Quests"
-}

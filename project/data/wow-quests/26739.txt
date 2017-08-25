@@ -1,8 +1,0 @@
-{
-    "_id": "26739",
-    "description": "It looks like your young raptor is hungry.  If you're looking to keep her, why don't you find something for her to eat?  The lashtail often attack the basilisks of Stranglethorn, which can be found to the east, beyond Kurzen's Compound.She probably isn't strong enough to hunt on her own yet, but I'm sure she will eat freshly killed basilisk meat.",
-    "name": "I Think She's Hungry",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

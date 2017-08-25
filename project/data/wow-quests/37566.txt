@@ -1,8 +1,0 @@
-{
-    "_id": "37566",
-    "added_in_patch": 7,
-    "description": "<name>! I knew you'd come.\r\n\r\nQuick, let me out of here and we'll take this giant down.",
-    "name": "The Prince is Going Down",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

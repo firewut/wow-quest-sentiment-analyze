@@ -1,8 +1,0 @@
-{
-    "_id": "31671",
-    "added_in_patch": 5,
-    "description": "I heard Haohan mentioning that he was going to plant scallions today. I'm not sure if today's the best day for scallions, but I'd like to hope that he knows what he's doing. He is the head of the Tillers' union, after all.Could you plant a scallion for me?",
-    "name": "Why Not Scallions?",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "12059",
-    "description": "Picking up this strange device, you are certain that it is magical in nature. Unfortunately, it doesn't seem to connote any other kind of use.Perhaps the archmage back at Agmar's Hammer to the northeast of the Moonrest Gardens would be able to tell what it's used for?",
-    "name": "A Strange Device",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

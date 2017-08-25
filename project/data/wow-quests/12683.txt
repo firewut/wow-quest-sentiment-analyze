@@ -1,7 +1,0 @@
-{
-    "_id": "12683",
-    "description": "There's no more caustic material in all of the basin than bittertide hydra sputum. I've got special containers to collect just such a thing for Archmage Pentarus' studies. Now all I need is a brave, um... collector.You look like a hardy, adventurous <class>. How'd you like to make a bit of money and aid Dalaran's cause at the same time?All you need to do is take this container with you to Bittertide Lake, to the southwest. Engage the hydra and use the container to sample the sputum they shower you with.",
-    "name": "Burning to Help",
-    "requires_level": 76,
-    "zone": "Sholazar Basin"
-}

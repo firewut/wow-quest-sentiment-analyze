@@ -1,8 +1,0 @@
-{
-    "_id": "25946",
-    "description": "This helm and its associated components are marked with the seal of Stormwind. It was no doubt cast off from an Alliance ship that suffered a similar fate to yours.Looking closer, this seems far too intricate and sturdy to be everyday diving equipment. Perhaps Nazgrim can make some sense of this...",
-    "name": "Helm's Deep",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

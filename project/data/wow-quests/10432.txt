@@ -1,7 +1,0 @@
-{
-    "_id": "10432",
-    "description": "As you may have noticed, there are servants of the Burning Legion all over Manaforge Ara.  Kael'thas has entered an alliance with the Burning Legion.  He must've caught wind of Illidan's descent into insanity and switched paymasters accordingly.If the Scryers get definite proof of this, it will give them a considerable political advantage.  I know for a fact that the Legion forces at this manaforge have orders that bear Kael's seal.Get these orders and bring them to Thalodien.",
-    "name": "Damning Evidence",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

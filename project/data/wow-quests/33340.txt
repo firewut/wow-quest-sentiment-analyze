@@ -1,8 +1,0 @@
-{
-    "_id": "33340",
-    "added_in_patch": 5.4,
-    "description": "As you have surmised, the flora and fauna of this island are quite unusual. Not all explanations are mysterious, however. Sometimes, we must listen to the land, to hear the tales of the world around us. Have you considered that the creatures of this island grew to such proportions simply from the nutriment of the land you walk upon?You will find nutriment in abundance throughout the island: ripe fruits, eggs, meat, flowers, nuts, and even the stones themselves. Eat, and discover the power of the land.",
-    "name": "Timeless Nutriment",
-    "requires_level": 90,
-    "zone": "Timeless Isle"
-}

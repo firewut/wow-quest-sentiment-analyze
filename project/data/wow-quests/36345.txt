@@ -1,9 +1,0 @@
-{
-    "_id": "36345",
-    "added_in_patch": 6,
-    "description": "When we came through the portal, we weren't able to bring any of our animals with us. For us to produce leather and furs, we'll need to trap some of the native beasts and bring them back here.Although the plains are frozen, there are many clefthooves and wolves in Frostfire. We can gather leather from the clefthooves, or furs from the wolves.Take this iron trap and use it on a wounded adult beast. Bring the trapped creature back to us, and we will begin our work.",
-    "name": "Breaking into the Trap Game",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

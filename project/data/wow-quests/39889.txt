@@ -1,8 +1,0 @@
-{
-    "_id": "39889",
-    "added_in_patch": 7,
-    "description": "The night elves are no fools, but the elves of Black Rook follow their commanders with blind loyalty. I've no doubt that the blame for their apathy rests heavily upon their commanders.I know of two of their leaders, who as we speak continue to command their troops to do nothing against the blight encroaching upon my home.Go to Black Rook Hold and slay Trelan Shieldbreaker and Starlys Strongbow. Let them be an example for those who can help, but wish to remain cowardly.",
-    "name": "Led Astray",
-    "requires_level": 104,
-    "zone": "Enchanting"
-}

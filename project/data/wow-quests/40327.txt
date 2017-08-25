@@ -1,8 +1,0 @@
-{
-    "_id": "40327",
-    "added_in_patch": 7,
-    "description": "Alright, if we're going to get out of here, we're going to have to maneuver around the naga and the sea giants.The naga probably won't pose much trouble for someone of your skill, but those sea giants are strong beyond belief.Just get me out of this cave safely and I can find my own way home.Hopefully this armor Celea made for me will protect me long enough to see this through.",
-    "name": "Testing the Metal",
-    "requires_level": 104,
-    "zone": "Leatherworking"
-}

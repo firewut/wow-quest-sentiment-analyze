@@ -1,7 +1,0 @@
-{
-    "_id": "10281",
-    "description": "Greetings, <name>. Do not be alarmed. This is merely a projection of my current form. It's the only way my companion and I could keep watch without revealing ourselves.The ethereal who approached you, Marid, is little better than a swindler in the guise of a legitimate merchant. I'd like you to consider working with me instead. My purpose out here is to find out more about the unusual dragonkin on this ridge. Meet me at the north end of the ridge and we will discuss this further.",
-    "name": "Formal Introductions",
-    "requires_level": 68,
-    "zone": "Netherstorm"
-}

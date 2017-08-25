@@ -1,8 +1,0 @@
-{
-    "_id": "43797",
-    "added_in_patch": 7,
-    "description": "The priests of the Conclave are formidable allies. With our combined strength, we may just have a chance to slay the dreadlord, forever.\r\n\r\nLet Alonsus Faol know that we will be by your side and ready to fight when you need us.",
-    "name": "Aiding the Conclave",
-    "requires_level": 110,
-    "zone": "Priest Campaign"
-}

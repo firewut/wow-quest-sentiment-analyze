@@ -1,8 +1,0 @@
-{
-    "_id": "40540",
-    "added_in_patch": 7,
-    "description": "<name>, I received a... well, what can only be constituted as a \"letter\", carved into a piece of flat rock.That jewelcrafting master you found in Val'sharah has sent for you. He said he's in Stormheim currently.When you see him, would you be so kind as to inform him that we don't wish to receive any more of his requests for your presence. They just make a mess.",
-    "name": "Come at Me, Brul",
-    "requires_level": 106,
-    "zone": "Jewelcrafting"
-}

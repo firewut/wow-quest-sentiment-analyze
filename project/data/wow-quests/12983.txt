@@ -1,7 +1,0 @@
-{
-    "_id": "12983",
-    "description": "For as long as I can remember, we've obtained our best bears from the Hibernal Cave to the east.Those times might finally be gone.  The cave has been overrun by ravenous jormungar and the wild bears are all but extinct.If you were to find a surviving matriarch, however, I would guarantee you that she would fight better than any of these bears born in captivity.Take this harness to the Hibernal Cave and rescue a surviving matriarch.  Good luck finding one.",
-    "name": "The Last of Her Kind",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

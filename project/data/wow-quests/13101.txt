@@ -1,7 +1,0 @@
-{
-    "_id": "13101",
-    "description": "Arille Azuregaze at the Legerdemain Lounge has a convention coming in and needs a feast pronto!You need to provide some Northern Stew and a Jug of Wine from the cheese shop \"One More Glass\" in central Dalaran.  The owner of the cheese shop owes me the wine and you should find it somewhere around the shop.Bring the wine and stews to Arille.",
-    "name": "Convention at the Legerdemain",
-    "requires_level": 65,
-    "zone": "Cooking"
-}

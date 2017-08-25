@@ -1,7 +1,0 @@
-{
-    "_id": "26041",
-    "description": "Four Stones of Binding are scattered throughout Arathi.  These stones keep me pinned beneath the earth.To unlock them you must unlock the strongest: the Stone of Inner Binding.  And to do that, you must gather keys from the other three.These stones are watched by guardians, but if you are clever, or lucky, you may find ways to banish them.",
-    "name": "Stones of Binding",
-    "requires_level": 27,
-    "zone": "Arathi Highlands"
-}

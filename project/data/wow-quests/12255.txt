@@ -1,7 +1,0 @@
-{
-    "_id": "12255",
-    "description": "Now that you've captured the flame-imbued talismans and weakened Voldrune's defenses, we can strike at its leader, Thane Torvald Eriksson.The thane's favorite mount is an unruly proto-drake he calls Flamebringer. It is kept bound in chains in the western part of Voldrune, but with the talismans, you should be able to control it long enough to use it against the thane.Once you have Flamebringer under your control, search the tops of the towers of Voldrune for the thane and show him no mercy.",
-    "name": "The Thane of Voldrune",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

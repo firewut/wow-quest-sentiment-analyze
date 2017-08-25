@@ -1,8 +1,0 @@
-{
-    "_id": "34429",
-    "added_in_patch": 6,
-    "description": "I see only one way out of this trap, <name>, and it's right through the middle of that arena.This might be the end of us.",
-    "name": "Kill Your Hundred",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35213",
-    "added_in_patch": 6,
-    "description": "Kaalya thinks she picked up a trail. Seems a bunch of dwarves went north to Razorbloom by the signs.Problem is that place is filled with plant people. I ain't much use against plant people.Are you willing to investigate?",
-    "name": "The Razorbloom",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

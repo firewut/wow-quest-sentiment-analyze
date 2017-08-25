@@ -1,8 +1,0 @@
-{
-    "_id": "43280",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Felshroud Leather Armor",
-    "requires_level": 100,
-    "zone": "Quests"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34912",
-    "added_in_patch": 6,
-    "description": "We have Morkurk cornered. He's all ours now. Use the scroll once you engage Morkurk......and enjoy the blizzard of your forces raining down on his head.",
-    "name": "The Final Step",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

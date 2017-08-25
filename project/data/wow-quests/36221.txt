@@ -1,8 +1,0 @@
-{
-    "_id": "36221",
-    "added_in_patch": 6,
-    "description": "You looking for da Ring of Blood? HAH! That good one. Not just anybody able to compete in da ring. You gotta pay the entry fee: fifty blood marks.How do you get them? Oh, tiny one, you killing me!<Kroggol hands you a small stone caked in blood.>Dat one is yours. You kill others in da proving grounds to get da rest. Take dem to Wodin da troll servant by Mogor when you done.Don't talk to Mogor, though. Mogor da boss.",
-    "name": "Entry Fee",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

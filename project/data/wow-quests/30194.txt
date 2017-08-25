@@ -1,8 +1,0 @@
-{
-    "_id": "30194",
-    "added_in_patch": 5,
-    "description": "The villagers have lost another yak this morning to one of the thundermaw wolves from across the river. The wolves grow bold.This is a sign that they are breeding beyond the vale's ability to sustain them. It's time to thin their numbers again.If you are willing to aid me in this, you would have my sincere appreciation.",
-    "name": "Encroaching Storm",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

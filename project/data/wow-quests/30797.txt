@@ -1,8 +1,0 @@
-{
-    "_id": "30797",
-    "added_in_patch": 5,
-    "description": "A ritual took place here, and from the looks of it wasn't successful.Among the abandoned items a book lies open. The text on the pages is foreign to you.Carrying the whole book may be difficult, but a single page might be enough. If you can get the page to Lorewalker Cho he may be able to tell you what it says.",
-    "name": "It Was Almost Alive",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

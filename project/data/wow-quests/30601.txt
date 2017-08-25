@@ -1,8 +1,0 @@
-{
-    "_id": "30601",
-    "added_in_patch": 5,
-    "description": "It is very bad fortune to travel mountain paths without a good guide. We grummles make the best guides, but many have run away. They fear the mountain pass now. Many good grummles disappear up there.Grummles are good at many things, but are not very brave. Maybe with fire lotus incense you can make them brave. Then they will show you the way. \r\n",
-    "name": "Instant Courage",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

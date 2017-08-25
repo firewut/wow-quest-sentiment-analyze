@@ -1,8 +1,0 @@
-{
-    "_id": "39000",
-    "added_in_patch": 6.2,
-    "description": "If history is any indication, Gul'dan is training a whole generation of warlocks to marshal against us. If we act fast, we can stem the tide and make things easier on ourselves.As you and your fellow heroes venture into the depths of the Hellfire Citadel, seek out Tomes of Chaos from Gul'dan's lieutenants.They're dangerous, so don't read any of them. Not even the pictures.<Khadgar shudders.>ESPECIALLY the pictures.",
-    "name": "We Don't Need No Library Card",
-    "requires_level": 100,
-    "zone": "Legendary"
-}

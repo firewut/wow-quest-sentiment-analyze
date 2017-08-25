@@ -1,7 +1,0 @@
-{
-    "_id": "10488",
-    "description": "With the magical dust you recovered, I have fashioned a magic ointment that will aid in our own defenses.Our dire wolves are the perfect combination of mount, sentry and friend, but the Alliance scum have been poaching them in the Jagged Ridge.<name>, I want you to take this ointment and apply it to our dire wolf friends.  The Alliance will get a rude surprise the next time that they send one of their hunting parties.Be aware though that some of the wolves may not like this, and will turn on you.",
-    "name": "Protecting Our Own",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

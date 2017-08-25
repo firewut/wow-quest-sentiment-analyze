@@ -1,8 +1,0 @@
-{
-    "_id": "39850",
-    "added_in_patch": 7,
-    "description": "I imagine the power of your weapon will be what allows us to defeat Geir, but right now you are too weak for the confrontation. We must reclaim the missing pieces of your spirit.\r\n\r\nHelya must have scattered them throughout her realm to keep them from you. If you can find them, shine the lantern and they should be set free.\r\n\r\nBe careful, though. It is unlikely that Helya left your spirit fragments unguarded.",
-    "name": "Sundered",
-    "requires_level": 98,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26734",
-    "description": "After reducing the basilisk blood out of the elixir, I've uncovered an unusual precipitate.  It appears to be a blue crystal of some sort...<Brother Nimetz consults his notes.>It's not a singing blue crystal... not a pulsing blue shard...<He flips forward a few pages.>... not a piece of the Mind's Eye.  Nope, this isn't something we've seen before in Stranglethorn.  If anyone has any more of this substance, I want it.  Check the high-ranking Kurzen troops, in the back of their cave.",
-    "name": "The Source of the Madness",
-    "requires_level": 24,
-    "side": "alliance",
-    "zone": "Northern Stranglethorn"
-}

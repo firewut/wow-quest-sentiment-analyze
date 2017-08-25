@@ -1,8 +1,0 @@
-{
-    "_id": "30380",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Lovely Apple for Gina",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

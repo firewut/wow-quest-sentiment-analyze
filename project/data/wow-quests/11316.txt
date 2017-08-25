@@ -1,7 +1,0 @@
-{
-    "_id": "11316",
-    "description": "The glade to the west has been transformed into a hideous place called the Twisted Glade. Horrible beasts dwell among the trees, stones, and pool of the glade.I cannot guess where the creatures came from or what horrible forces animate them, but they must be dealt with!I fear that if they are allowed to dominate the glade, they will poison it beyond redemption. Clear the glade of these creatures who murdered our sisters.",
-    "name": "Spawn of the Twisted Glade",
-    "requires_level": 69,
-    "zone": "Howling Fjord"
-}

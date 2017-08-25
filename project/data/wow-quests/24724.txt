@@ -1,7 +1,0 @@
-{
-    "_id": "24724",
-    "description": "",
-    "name": "Crystal Restore",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

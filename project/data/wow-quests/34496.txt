@@ -1,8 +1,0 @@
-{
-    "_id": "34496",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: The Hills of Valuun",
-    "requires_level": 90,
-    "zone": "Shadowmoon Valley"
-}

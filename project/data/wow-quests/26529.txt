@@ -1,7 +1,0 @@
-{
-    "_id": "26529",
-    "description": "We'll need the Fang of Shadra next.It's kept in the Creeping Ruins to the east, guarded by Shadra's own spawn. Hideous spiders the size of a dwarf, and twice as strong. Their venom is strong, <name>... don't get careless.",
-    "name": "The Fang of Shadra",
-    "requires_level": 32,
-    "zone": "The Hinterlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27443",
-    "description": "We find ourselves in a much better position against our enemies in Vashj'ir than before you arrived.  Don't get me wrong, your aid is still needed here, but perhaps other fronts are in an even more urgent situation.I've been informed that our allies in the Earthen Ring have put out a call for aid in a matter I've been assured is most critical.Speak to Earthspeaker Naraat at the Eastern Earthshrine in Stormwind City for further instructions.",
-    "name": "The War Has Many Fronts",
-    "requires_level": 82,
-    "zone": "Stormwind City"
-}

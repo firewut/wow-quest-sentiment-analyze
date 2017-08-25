@@ -1,8 +1,0 @@
-{
-    "_id": "34315",
-    "description": "Dem ogres whipped me real good. My arm be broke, a few ribs snapped, t'ink even me spleen be hurtin' from dat beatin'. Nothin' a troll can't handle though but I be needin' a moment ta recover.What I really be needin' is me gear dem ogres took from me. Dey got me garb in a chest near a hut to da south, me glave in a chest next to da tower wid da Bonecrushers, dey even got me mask, it over near da lava! Could ye go find dem while I take a breather?",
-    "name": "Gearing Up",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

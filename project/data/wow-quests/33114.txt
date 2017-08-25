@@ -1,9 +1,0 @@
-{
-    "_id": "33114",
-    "added_in_patch": 6,
-    "description": "The fiery heart of Krosnis is in the forge. We have the soul shards.Now all that is left to do is to stoke the fires and combine all of these foul components into a trap for Gul'dan.",
-    "name": "Forging the Soul Trap",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

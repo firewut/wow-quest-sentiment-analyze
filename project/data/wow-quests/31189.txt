@@ -1,8 +1,0 @@
-{
-    "_id": "31189",
-    "added_in_patch": 5,
-    "description": "I never thought I'd see the day, but for the first time since... well, EVER, Master Angler Ju Lien asked for some help with his lines.Apparently the sea is going crazy today and he can't keep up. See if you can give him a hand. He's fishing just south of here.",
-    "name": "Reeltime Strategy",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

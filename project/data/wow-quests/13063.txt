@@ -1,7 +1,0 @@
-{
-    "_id": "13063",
-    "description": "You have succeeded where many have failed, sister. Whether it be by strength and courage or mere luck remains to be seen.Go back to the village and seek out Astrid Bjornrittar. Tell her of your accomplishments. But be warned. She is not easily impressed.",
-    "name": "Deemed Worthy",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

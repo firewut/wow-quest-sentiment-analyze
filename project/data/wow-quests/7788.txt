@@ -1,7 +1,0 @@
-{
-    "_id": "7788",
-    "description": "Beyond this tunnel you will find a field of strife and turmoil, young <class>. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.Enter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!Do this, and earn a talisman of merit.  Bring me such a talisman, <name>, and I shall reward you.",
-    "name": "Vanquish the Invaders!",
-    "requires_level": 20,
-    "zone": "Warsong Gulch"
-}

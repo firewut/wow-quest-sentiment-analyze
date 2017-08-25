@@ -1,8 +1,0 @@
-{
-    "_id": "42476",
-    "added_in_patch": 7,
-    "description": "Your research spoke of an experimental site out near Karazhan. I hope there are still materials on this ritual that will aid us there.\r\n\r\nYou will need to find the site and bring back anything that will help us recreate the ritual. I will dig deeper here as well.",
-    "name": "The Deadwind Site",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

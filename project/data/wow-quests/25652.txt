@@ -1,7 +1,0 @@
-{
-    "_id": "25652",
-    "description": "We don't have a moment to lose, <name>. You're going to have to commandeer that hot air balloon and stop it!How? I have no idea! We don't have time to argue details! Grab onto that rope ladder and climb up! Just start banging on stuff once you're inside!If you somehow manage to stop the balloon and survive, report to Lord Fallowmere at Windshear Hold in the west.Good luck, we're all counting on you. Now if you'll excuse me I'm going to RUN FOR MY LIFE!",
-    "name": "Commandeer That Balloon!",
-    "requires_level": 24,
-    "zone": "Stonetalon Mountains"
-}

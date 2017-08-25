@@ -1,8 +1,0 @@
-{
-    "_id": "11227",
-    "description": "The high executor wants me to use my dogs to sniff out enemy scouts, but I can tell you right now these plaguehounds aren't going anywhere until they're properly fed.If our military doesn't understand that these beasts are picky enough to not eat the rubbish they've given me, then they can't expect them to be of any use in the field.You seem to have some time on your hands, why don't you take one of these dogs out hunting for crows out west?  Their meat isn't very tasty to us, but my boys love it!",
-    "name": "Let Them Eat Crow",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Howling Fjord"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40192",
-    "added_in_patch": 7,
-    "description": "Personal experience has taught me to use stronger materials when crafting armor pieces. They last longer, and you don't need quite as many of them.For example, I utilize the claws of the pinerock stalkers. If you acquire some for me, perhaps I can show you how better materials can increase your efficiency.",
-    "name": "Claw of the Land",
-    "requires_level": 104,
-    "zone": "Leatherworking"
-}

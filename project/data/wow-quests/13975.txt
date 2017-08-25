@@ -1,8 +1,0 @@
-{
-    "_id": "13975",
-    "description": "<Rocco hands you a familiar-looking shotgun.>I took the liberty of cleaning up Halga's artillery for you. I'm sure I don't need to warn you about the kickback. Just ask me when you're ready to mount up for the Crossroads! Thork is waiting for you there. Be sure not to give him any lip.Don't stop for nothing, <name>, and if someone gets too close, just give 'em a thump with the butt-end of your gun. Do us proud!",
-    "name": "Crossroads Caravan Delivery",
-    "requires_level": 11,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

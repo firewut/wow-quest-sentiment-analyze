@@ -1,8 +1,0 @@
-{
-    "_id": "36705",
-    "added_in_patch": 6,
-    "description": "You've really done it this time, champ. Mogor has challenged you to uphold his title as lord of the ring!I wish I could give you tips to help you make it out of there in one piece, but I've never seen Mogor fight. Nobody's ever gotten this far!Good luck.",
-    "name": "The Ring of Blood: Mogor!",
-    "requires_level": 100,
-    "zone": "Nagrand"
-}

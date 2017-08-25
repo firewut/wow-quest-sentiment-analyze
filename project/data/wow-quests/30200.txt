@@ -1,8 +1,0 @@
-{
-    "_id": "30200",
-    "added_in_patch": 5,
-    "description": "We used to have the trainees clear out the ruins of spiders as part of their training, but now we send them straight to the mogu front. The spiders have gotten out of control.Care to put things back in control?",
-    "name": "In Ashen Webs",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

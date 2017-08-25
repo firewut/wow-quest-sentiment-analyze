@@ -1,7 +1,0 @@
-{
-    "_id": "26465",
-    "description": "I would charge you with a task, <class>.I was on my boat, skimming over the submerged ruins of Zoram, when naga attacked me, surging from the water and tearing at me with their claws! I fled and the rest, as they say, is history.I am an archaeologist of sorts, and I am attempting to recover artifacts of the lost city.Will you head out onto the Zoram Strand to the southwest and recover any ancient statuettes you come across? They are the reason I have braved the dangers of the Zoram Strand.",
-    "name": "The Ancient Statuettes",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

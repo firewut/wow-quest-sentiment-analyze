@@ -1,8 +1,0 @@
-{
-    "_id": "40321",
-    "added_in_patch": 7,
-    "description": "I must confess I was not entirely honest with you, <name>. I meant to drink the potion and join my wife.And even she was taken from her rest... I cannot fail her again. I must live and do what I can to stop this coming storm to be worthy of joining her.Come, young one. Let us take care of the harpy matriarch and restore Tel'anor to its former glory. We cannot let this poison go to waste, eh?",
-    "name": "Feathersong's Redemption",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

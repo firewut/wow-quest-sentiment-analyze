@@ -1,8 +1,0 @@
-{
-    "_id": "31943",
-    "added_in_patch": 5,
-    "description": "That young'un over there, Andi, is going to grow up to be a heck of a farmer some day. I can tell just by lookin' at him.I think I'll plant him some witchberries. Kids love witchberries - it'll be a nice surprise.",
-    "name": "Which Berries? Witchberries.",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

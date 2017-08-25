@@ -1,8 +1,0 @@
-{
-    "_id": "30347",
-    "added_in_patch": 5,
-    "description": "North! Go north to the Pools of Youth. Get some of the water but be on your guard.The mogu list this as a \"high value\" target. Kang Bramblestaff will meet you there if he has not already arrived by your side.",
-    "name": "The Pools of Youth",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11958",
-    "description": "The wolvar have always been our natural enemies. But the incursion of your peoples into the Great Dragonblight has forced them into a small space upon the glade to the north.Combined with the land's upheaval this morning, they have become even more aggressive than ever before. They have made several raids upon our goods... things that we'll need if we are to survive the trek from our home here.As a sign of good faith and friendship, retrieve our goods from the Snowfall Glade wolvar.",
-    "name": "Let Nothing Go To Waste",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "33586",
-    "added_in_patch": 6,
-    "description": "Not all of the Shadowmoon orcs followed Ner'zhul's alliance with the Iron Horde.Among them, there is one orc whom I befriended many years ago. She may be able to tell us more about Ner'zhul's plans for this \"Dark Star.\"She can be found at Exile's Rise to the northeast. I will send word ahead so she expects your arrival.",
-    "name": "Chasing Shadows",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

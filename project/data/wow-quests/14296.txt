@@ -1,7 +1,0 @@
-{
-    "_id": "14296",
-    "description": "This is somewhat simple and somewhat not simple. All the way up there are Energy Conduits. Rather like this one right here one might say! Indeed, I do say.Now for you. You must use my jump pads to ascend the pinnacle, and you must touch all of the conduits you see along the way. When you get to me at the top, you should be all juicy with energy, because really that's the only way to be.And be sure to keep moving or you're likely to be sent for quite a trip!",
-    "name": "Watch Your Step",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

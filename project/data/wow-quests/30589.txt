@@ -1,7 +1,0 @@
-{
-    "_id": "30589",
-    "added_in_patch": 5,
-    "description": "To dislodge the alliance ship, we need to find our engineer. He parted ways with us when we were escaping the wreckage.You should be able to find him somewhere in the western forest. Tell him Korga sent you and he'll get in line to help.",
-    "name": "Wrecking the Wreck",
-    "zone": "The Wandering Isle"
-}

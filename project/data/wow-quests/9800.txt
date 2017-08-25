@@ -1,7 +1,0 @@
-{
-    "_id": "9800",
-    "description": "You are ill-equipped to face the restless elements of Nagrand. Before you can help the Earthen Ring, you must help yourself.To the west you will find dung heaps left behind by the wildlife of Nagrand. You must search the dung for the digested remnants of the Nagrand caracoli. From this bean I am able to make a tablet that will aid you in your battle against the restless forces of nature.Return to me when you have collected no less than two fists worth of caracoli... Ogre sized fists.",
-    "name": "A Rare Bean",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

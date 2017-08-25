@@ -1,8 +1,0 @@
-{
-    "_id": "39988",
-    "added_in_patch": 7,
-    "description": "<Eche'ro nuzzles your hand and turns around. It looks back, beckoning you to the south.>",
-    "name": "Huln's War - Stormrage",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38840",
-    "added_in_patch": 7,
-    "description": "Makrura are massing down by the shore, and far too many of them seem to practice water magic.I think once they've got enough spellcasters, they're planning to summon a massive wave.",
-    "name": "Fishy Business",
-    "requires_level": 98,
-    "zone": "Quests"
-}

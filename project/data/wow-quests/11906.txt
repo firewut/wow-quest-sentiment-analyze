@@ -1,8 +1,0 @@
-{
-    "_id": "11906",
-    "description": "<A single tear rolls down the face of Iron Eyes.>I have heard that you are heading back into the pools to the west. I have something for you to do while you are out there, <race>.The gnomes, who care nothing for the land, have polluted it with their machinery. I want you to pick up any spare parts that you come across.Return them to me here. I will see to it that they are properly disposed of before we leave this place for good.",
-    "name": "Cleaning Up the Pools",
-    "requires_level": 68,
-    "side": "horde",
-    "zone": "Borean Tundra"
-}

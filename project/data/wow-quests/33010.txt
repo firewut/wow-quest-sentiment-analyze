@@ -1,9 +1,0 @@
-{
-    "_id": "33010",
-    "added_in_patch": 6,
-    "description": "My brother Ga'nar stands beside me.Wor'gol, Stonefang, and your garrison hold strong.Our clan is united, and the Thunderlord are already on the run. We are ready. The time has come to face this \"Iron Wolf.\"",
-    "name": "The Iron Wolf",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14105",
-    "description": "The Cult of the Damned has redoubled its efforts to see us destroyed. They have grown bold and are massing their strength at Deathspeaker's Watch on the ridge west of the tournament grounds.The ruthless Deathspeaker Kharos has his men fortifying their positions, preparing to unleash all of the cult's weapons.My men are preparing themselves and the valiants to defend the grounds, but I want champions like you, <name>, to lead our efforts to blunt the attack. Find Deathspeaker Kharos and slay him.",
-    "name": "Deathspeaker Kharos",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35253",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "FLAG: Thaelin Event Complete",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

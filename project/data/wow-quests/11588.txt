@@ -1,7 +1,0 @@
-{
-    "_id": "11588",
-    "description": "Stop Ahune from coming to Azeroth and inciting an elemental war!",
-    "name": "REUSE",
-    "requires_level": 65,
-    "zone": "Quests"
-}

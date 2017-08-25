@@ -1,8 +1,0 @@
-{
-    "_id": "40060",
-    "added_in_patch": 7,
-    "description": "Now that we have all the essential pieces, let's begin the ritual.I'll instruct you on how to help me throughout it. It is pivotal that you follow my instructions when I give them, or the ritual will fail.",
-    "name": "Containing the Demon Within",
-    "requires_level": 102,
-    "zone": "Inscription"
-}

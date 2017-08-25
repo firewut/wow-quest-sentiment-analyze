@@ -1,7 +1,0 @@
-{
-    "_id": "30099",
-    "description": "Between us and the Dragon Soul lies a legion of demons. They will have to be dispatched before we proceed.If my timing is correct - and it usually is - a young night elf named Illidan Stormrage should be crossing our path shortly. He will undoubtedly be of some use when it comes to demon hunting.Help Illidan disable the demons' portals, then slay their leader, Peroth'arn.",
-    "name": "In Unending Numbers",
-    "requires_level": 85,
-    "zone": "Well of Eternity"
-}

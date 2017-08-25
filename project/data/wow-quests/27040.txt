@@ -1,7 +1,0 @@
-{
-    "_id": "27040",
-    "description": "We don't have the tools to decipher these encrypted plans. The Twilight's Hammer do, though.Would you be a sweetie and take the plans back up there to run them through their one-time decryption engines?",
-    "name": "Decryption Made Easy",
-    "requires_level": 83,
-    "zone": "Deepholm"
-}

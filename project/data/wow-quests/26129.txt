@@ -1,8 +1,0 @@
-{
-    "_id": "26129",
-    "description": "Listen, <name>.  For the first time since the civil war I agree with Greymane.  Now is the time to put aside our quarrel.It sure doesn't look like these beasts care much whether you're a rebel or a royal.Send word back to Greymane.  My men will join his.There's a safehouse not far from here, in Josiah's cellar.  My lads stashed some heavy artillery there.Tell our king that my arsenals are now at his disposal.",
-    "name": "Brothers In Arms",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

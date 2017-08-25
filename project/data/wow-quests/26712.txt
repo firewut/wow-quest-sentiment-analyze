@@ -1,8 +1,0 @@
-{
-    "_id": "26712",
-    "description": "Hi, babe. Are you ready for the party?No?! You know I love you, right? I think you need to swing into town and buy a new outfit for the party.Don't look at me like that... you want to look your best? Don't you want to look good for me? I am your girlfriend after all!Make sure you swing by the bank first and pull out plenty of macaroons. Don't buy any of that cheap stuff!",
-    "name": "Off to the Bank",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

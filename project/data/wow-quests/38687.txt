@@ -1,9 +1,0 @@
-{
-    "_id": "38687",
-    "added_in_patch": 7,
-    "description": "He is near, <name>, I can feel it.We must scour this place in search of my husband. I fear if we do not find him soon it will be too late.You have been courageous throughout our search. I know you will not fail me now, <name>.Thank you, and please hurry.",
-    "name": "Close Enough to Touch",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Val'sharah"
-}

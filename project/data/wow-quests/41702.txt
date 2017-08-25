@@ -1,8 +1,0 @@
-{
-    "_id": "41702",
-    "added_in_patch": 7,
-    "description": "<You bundle the notes and store them away in your pack.\r\n\r\nAccording to his final journal entry, Kel'danath used something called a \"spellstone\" in his experiments.\r\n\r\nThe spellstone, if not the arcanist himself, must be nearby.>",
-    "name": "Written in Stone",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

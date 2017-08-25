@@ -1,7 +1,0 @@
-{
-    "_id": "9875",
-    "description": "Lauranna must've missed this particular plant.  You're certain you've discovered a species not yet catalogued by Lauranna's work.  You'd best show it to her to see what she makes of it.",
-    "name": "Uncatalogued Species",
-    "requires_level": 60,
-    "zone": "Zangarmarsh"
-}

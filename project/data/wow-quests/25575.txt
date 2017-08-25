@@ -1,7 +1,0 @@
-{
-    "_id": "25575",
-    "description": "The weapons the Twilight's Hammer uses against us are crafted by Forgemaster Pyrenduis within these very halls. The metal slices through armor like cheese in the hands of its wielder. Yet, when captured, the steel turns brittle and shatters.So be it, <name>. I'd rather see those cursed arms smashed than delivered to our enemy.Seek out the crates of Twilight arms in these caverns and smash them to pieces.",
-    "name": "Forged of Shadow and Flame",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

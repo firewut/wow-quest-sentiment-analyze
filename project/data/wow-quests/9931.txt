@@ -1,7 +1,0 @@
-{
-    "_id": "9931",
-    "description": "Now you must plant the seed of war in the fat, useless heads of the Warmaul. To the northwest, near the mountains, you will find the Laughing Skull Ruins.<Lantresor points into the crate of armaments you brought him.>Do you recognize those banners? They are Kil'sorrow banners. I want you to take a stack of Kil'sorrow banners and plant them on the corpses of Warmaul ogres. Remember, northwest is where you will find the ogres.",
-    "name": "Returning the Favor",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

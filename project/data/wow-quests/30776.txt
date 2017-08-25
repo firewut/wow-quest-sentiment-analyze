@@ -1,8 +1,0 @@
-{
-    "_id": "30776",
-    "added_in_patch": 5,
-    "description": "THIS. IS. WAR.I will have the heads of everyone who took Lin from me. EVERYONE!We will begin with the Osul leader, Jung Duk.Take this Shado-Pan war banner and place it at the center of their camp.Jung Duk will have no choice but to face you.Show him no mercy, <name>.",
-    "name": "Jung Duk",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

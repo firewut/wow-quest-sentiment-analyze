@@ -1,8 +1,0 @@
-{
-    "_id": "30677",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Shuttle Service",
-    "requires_level": 86,
-    "zone": "Krasarang Wilds"
-}

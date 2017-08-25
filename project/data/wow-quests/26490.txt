@@ -1,8 +1,0 @@
-{
-    "_id": "26490",
-    "description": "Not many dwarves know this, but to get a REAL kick out of my brew I add a wee bit of the oozes around here. Aye, the giant green dwarf-eatin' oozes, those ones.This brew's gonna have a HUGE kick to it though, so we need a huge slime! There's one lurkin' down in Skulk Rock that's the mother o' them all, absolutely huge...the Direglob, we call it.If you've got what it takes, head down there and take a chunk out of the Direglob for me!",
-    "name": "Prime Slime",
-    "requires_level": 29,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "29968",
-    "added_in_patch": 5,
-    "description": "One word: Methane!We're going green. Clean burning, high availability, all natural, and will keep the druids off my back when we get back to our neck of the world.That, and I ran out of blasting powder...So, I need your help, <name>.No, no, I wouldn't ask you to do the dirty work - especially not in front of the general. I'll collect these 'deposits' myself.You gather up some wood for an outhouse - I'm thinking long-term here!",
-    "name": "Green-ish Energy",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

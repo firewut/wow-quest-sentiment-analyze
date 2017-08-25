@@ -1,8 +1,0 @@
-{
-    "_id": "33135",
-    "added_in_patch": 6,
-    "description": "Just because we need to focus on Gul'dan doesn't mean we're not going to take down the Shadow Council in the process.This village is filthy with Shadow Council villains. Let's do something about them.",
-    "name": "Cleaning Up Gul'var",
-    "requires_level": 94,
-    "zone": "Shadowmoon Valley"
-}

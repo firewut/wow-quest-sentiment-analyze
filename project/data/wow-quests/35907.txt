@@ -1,9 +1,0 @@
-{
-    "_id": "35907",
-    "added_in_patch": 6,
-    "description": "Your bartender Lunzul is dying, commander. She's been poisoned and needs an antidote immediately.One of your scouts reported seeing a Shattered Hand orc nearby recently - that's our best bet.There is a small arakkoa camp to the east that sits near a known Shattered Hand encampment. I suggest we start our search there.I've already spoken to your flight master about securing us a flight; every second counts.",
-    "name": "Attempted Murder",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

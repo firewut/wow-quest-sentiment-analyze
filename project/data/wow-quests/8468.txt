@@ -1,7 +1,0 @@
-{
-    "_id": "8468",
-    "description": "The city of Silvermoon hereby issues a reward for the head of Thaelis the Hungerer, notorious Wretched ringleader.  He is wanted for repeated crimes against the general populace of Silvermoon City, including the murder of two city guards.Report to Sergeant Kan'ren to collect the reward.",
-    "name": "Wanted: Thaelis the Hungerer",
-    "requires_level": 4,
-    "zone": "Eversong Woods"
-}

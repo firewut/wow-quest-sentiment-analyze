@@ -1,8 +1,0 @@
-{
-    "_id": "26690",
-    "description": "Your previous accomplishments have convinced me that you are ready to take on the toughest worgen infesting the woods.Of the worgen that have made their new home here, the Vile Fangs and the Tainted Ones have proven the most dangerous. They've settled down near some of the caves and in the mine to the south.From far away you can even see the light from their bonfires...",
-    "name": "Vile and Tainted",
-    "requires_level": 21,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

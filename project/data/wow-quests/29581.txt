@@ -1,8 +1,0 @@
-{
-    "_id": "29581",
-    "added_in_patch": 5,
-    "description": "Ashyo must have experienced what we call the golden dream.Many of us working here have seen it, too - often after a long day of toiling in the pools. It is said this vision--and the feeling of elation it brings--is a reward to the mind for working the body.There IS an easier way, though we rarely resort to it anymore: a tea can be brewed using lotus root and dreamleaf, which grows around the shrine on the upper tier.Bring the dreamleaf to Yan back in town and he can brew the tea for you.",
-    "name": "The Golden Dream",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

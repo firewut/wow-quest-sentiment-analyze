@@ -1,9 +1,0 @@
-{
-    "_id": "29891",
-    "added_in_patch": 5,
-    "description": "To make the Dream Brew, we will need several ingredients.First, to improve its strength, I will need an ingredient from a fearsome creature, the legendary Mist Horror.It is said that this creature only appears where the fog is deepest.North and east of here, you will find smaller Mist Creepers roaming the swamps. Kill these creatures until the Mist Horror appears, and then bring me its heart.",
-    "name": "Potency",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

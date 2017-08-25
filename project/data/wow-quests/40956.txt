@@ -1,8 +1,0 @@
-{
-    "_id": "40956",
-    "added_in_patch": 7,
-    "description": "It is time to establish the first secure connection in our teleportation network.Take this beacon to the Ruins of Elune'eth above us and survey the area to find a suitable location.Once your survey is complete, place the beacon and I will anchor a connection to it from here.",
-    "name": "Survey Says...",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

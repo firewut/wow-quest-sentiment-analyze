@@ -1,7 +1,0 @@
-{
-    "_id": "4482",
-    "description": "",
-    "name": "Libram of Tenacity",
-    "requires_level": 50,
-    "zone": "Burning Steppes"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40328",
-    "added_in_patch": 7,
-    "description": "When the Burning Legion takes a prisoner, it is not an act of mercy.While death is the destruction of the mortal body... if you are captured by the Legion, they will seek to destroy your soul.The Burning Legion uses sacrificial souls to power their demonic machinations of war. The soul engine is where the harvested souls are collected and stored.Though countless have already perished in the soul engine, you may yet save those still alive inside.Hurry and release them before it is too late!",
-    "name": "A Fate Worse Than Dying",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

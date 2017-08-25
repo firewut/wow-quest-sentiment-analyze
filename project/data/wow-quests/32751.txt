@@ -1,8 +1,0 @@
-{
-    "_id": "32751",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Primordious Dead",
-    "requires_level": 90,
-    "zone": "Quests"
-}

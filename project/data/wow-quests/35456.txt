@@ -1,8 +1,0 @@
-{
-    "_id": "35456",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Halls of Lightning Reward Quest",
-    "requires_level": 77,
-    "zone": "Quests"
-}

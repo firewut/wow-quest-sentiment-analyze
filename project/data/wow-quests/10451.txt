@@ -1,7 +1,0 @@
-{
-    "_id": "10451",
-    "description": "Thank the Earthmother! I parted ways with the others several days ago. I was intent on discovering the source of the disturbance that the spirits of water were feeling. My search led me to Coilskar where I discovered that the naga were befouling the water supply of Shadowmoon Valley.Unfortunately, I was discovered and taken prisoner. There's no telling what ghastly things they had in store for me.We must leave this place! Help me escape and then seek out Torlok at the Altar of Damnation.\r\n",
-    "name": "Escape from Coilskar Cistern",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28026",
-    "description": "The Warchief has requested that any able-bodied adventurer head to Uldaman, near New Kargath, immediately!The Reliquary and its leader, High Examine Tae'thelan Bloodwatcher, requires assistance in obtaining powerful relics within! If you so choose, head to Uldaman and speak with the High Examiner to aid their cause.",
-    "name": "Adventurers Wanted: Uldaman",
-    "requires_level": 37,
-    "zone": "Uldaman"
-}

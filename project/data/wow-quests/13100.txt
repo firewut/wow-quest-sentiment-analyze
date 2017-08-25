@@ -1,8 +1,0 @@
-{
-    "_id": "13100",
-    "description": "We have an important order that needs to go out!  Orton Bennet in Curiosities & Moore needs a mushroom meatloaf.Get some infused mushrooms found in the Dalaran sewers, chilled meat, and cook them in this meatloaf pan.  When you're done, deliver the cooked meatloaf to Orton.",
-    "name": "Infused Mushroom Meatloaf",
-    "requires_level": 65,
-    "side": "alliance",
-    "zone": "Cooking"
-}

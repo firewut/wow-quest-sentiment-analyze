@@ -1,7 +1,0 @@
-{
-    "_id": "13426",
-    "description": "It seems we're not the only visitors to this area. A courier relayed a message from a tauren named Xarantaur, who said he was visiting a taunka village called Camp Tunka'lo. The note was somewhat cryptic, but it seems this Xarantaur has come to Storm Peaks to learn the history of a taunka legend.Meet up with him, <name>. See if what he knows can help us in any way. From his description, Camp Tunka'lo is far to the east, beyond the Terrace of the Makers and north of Dun Niffelem.",
-    "name": "Xarantaur, the Witness",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

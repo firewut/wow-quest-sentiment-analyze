@@ -1,9 +1,0 @@
-{
-    "_id": "34784",
-    "added_in_patch": 6,
-    "description": "It is our mission as rangari to explore and understand this world. Around you is the Umberfen. Many draenei lost their lives when we first discovered this place. The volatile spores burst whenever anyone approaches.But we watched... and we learned.Around the swamp you'll notice \"Shimmershrooms,\" distinguished by their orange glowcaps. Their dust will make you invisible to the volatile spores. Grab the spores - gently! - and bring them to me.We will forge this savage world into a weapon.",
-    "name": "Fun with Fungus",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10622",
-    "description": "Akama has been tracking your progress quite closely, <name>.The Ashtongue you've slain at the Ruins of Baa'ri are amongst the most evil Broken known among us... carefully hand-picked by Akama himself to maintain the facade we need to present to Illidan.  The Deathsworn, however, know of Akama's true intentions.First things first.  We need to know that you are not with Illidan.  A Satyr known as Zandras watches over us from above the prison walls on his behalf.  Slay him as proof of your allegiance.",
-    "name": "Proof of Allegiance",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

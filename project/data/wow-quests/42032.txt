@@ -1,8 +1,0 @@
-{
-    "_id": "42032",
-    "added_in_patch": 7,
-    "description": "There is still so much that we don't know about the Nightmare.Before we can fight it, we must understand how it spreads.Let us send our champions to the roots of Shaladrassil in Val'sharah, and ask them to bring back samples to study.",
-    "name": "Sampling the Nightmare",
-    "requires_level": 101,
-    "zone": "Druid Campaign"
-}

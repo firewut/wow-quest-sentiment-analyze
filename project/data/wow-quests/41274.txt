@@ -1,8 +1,0 @@
-{
-    "_id": "41274",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Lively Stormrays",
-    "requires_level": 110,
-    "zone": "Fishing"
-}

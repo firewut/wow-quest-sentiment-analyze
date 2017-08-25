@@ -1,7 +1,0 @@
-{
-    "_id": "5662",
-    "description": "My respect to you and your kind, <name>. I normally teach only those of my own tribe. Your lessons come from Aelthalyste in the city once called Lordaeron.You should return to her if you're to learn those abilities that set you apart from other faiths.Go to the War Quarter in the Undercity and find your mistress there.",
-    "name": "Touch of Weakness",
-    "requires_level": 10,
-    "zone": "Priest"
-}

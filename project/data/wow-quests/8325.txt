@@ -1,8 +1,0 @@
-{
-    "_id": "8325",
-    "description": "The sooner you begin your education, <name>, the better for us all.  There is little room for error, so listen closely.The Burning Crystals - the green floating objects to the west of the Sunspire here - have long been used to power the isle's experimentations.  The mana wyrms were their guardians, but the Scourge invasion of Quel'Thalas has driven them errant from our lack of magical control over them.There is little choice but to thin their numbers for reclamation.  Do this, then return to me.",
-    "name": "Reclaiming Sunstrider Isle",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Sunstrider Isle"
-}

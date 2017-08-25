@@ -1,8 +1,0 @@
-{
-    "_id": "41640",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Warhide Mask",
-    "requires_level": 110,
-    "zone": "Leatherworking"
-}

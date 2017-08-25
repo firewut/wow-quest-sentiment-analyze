@@ -1,8 +1,0 @@
-{
-    "_id": "14197",
-    "description": "Mountainfoot iron is a brittle alloy, but with the right bribes it meets goblin safety standards. Zignibble here is having trouble on the production end of things, but that doesn't change any of my deadlines. I've got a quota to fill!Head down into the Mountainfoot Strip Mine and gather up any ingots of Mountainfoot iron you find. There should be piles of it smelted and ready for shipment.",
-    "name": "A Quota to Meet",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Azshara"
-}

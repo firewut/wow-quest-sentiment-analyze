@@ -1,7 +1,0 @@
-{
-    "_id": "25435",
-    "description": "G'day, laddie.The name's Rendel.Seems ol' Moanah and I got here in the nick of time, eh?Erunak wasn't kiddin' when he said it was life or death!While he's tryin' to find us a safe place to hole up, I'm gunna take a stab at securin' you a critter to ride.Now, I may not be up on all the ins an' outs of life in the sea, but it looked to me like them naga know how to get around down here.You round up a few widgets for a bridle and I'll work up an enchantment.",
-    "name": "Pressure is Mounting",
-    "requires_level": 80,
-    "zone": "Kelp'thar Forest"
-}

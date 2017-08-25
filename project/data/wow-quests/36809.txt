@@ -1,7 +1,0 @@
-{
-    "_id": "36809",
-    "description": "",
-    "name": "Assault on the Heart of Shattrath",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26536",
-    "description": "Arnold and I have been fishing in and around Stormwind for years now.  That's the kind of time it takes to find a good fishing spot.  One of my favorites is called Thunder Falls.It's just south of Stormwind in Elwynn Forest.  Best part about Thunder Falls is the violet perch.  I have never seen them anywhere else, only up there at the falls.  It's a bit of hike for me and Arnold to get out there these days though, do you think you could head up there and fetch some of those perch for us?",
-    "name": "Thunder Falls",
-    "requires_level": 10,
-    "side": "alliance",
-    "zone": "Fishing"
-}

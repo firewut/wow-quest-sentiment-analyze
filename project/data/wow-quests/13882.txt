@@ -1,7 +1,0 @@
-{
-    "_id": "13882",
-    "description": "Something is trying to devour the life of Darkshore from within! I'll ask around to learn more about the - thing - you discovered in the lake. Meanwhile, we need to protect the local wildlife from further harm.Can you gather some materials for me? I'll need life in all its incarnations. Talk to Onu here in the grove to acquire a Seed of the Earth. Capture a Darkshore Wisp floating amongst the trees and we'll have a Seed of the Sky. Find a Seed of the Sea within seashells along the coast, west of here.",
-    "name": "The Seeds of Life",
-    "requires_level": 16,
-    "zone": "Darkshore"
-}

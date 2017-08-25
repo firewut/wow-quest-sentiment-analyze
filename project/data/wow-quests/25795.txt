@@ -1,7 +1,0 @@
-{
-    "_id": "25795",
-    "description": "Aviana's Egg should have arrived safely back at the Shrine. You should go check on it! Choluna should know how to handle this.I'll finish the last of our business here and catch up with you later.",
-    "name": "Return to the Shrine",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

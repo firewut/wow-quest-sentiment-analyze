@@ -1,8 +1,0 @@
-{
-    "_id": "26213",
-    "description": "Seeing as how we have no other leads, we may as well chase down the information you got.There are a couple of Riverpaw gnoll camps in the area. Track them down and search for clues. Bring back anything that you might find. Isolate your search to the Riverpaw gnolls and scouts.",
-    "name": "Hot On the Trail: The Riverpaw Clan",
-    "requires_level": 9,
-    "side": "alliance",
-    "zone": "Westfall"
-}

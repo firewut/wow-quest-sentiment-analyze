@@ -1,7 +1,0 @@
-{
-    "_id": "27378",
-    "description": "There's no time! Deathwing struck before we could form against him. If you do not stop him, the Earthen Ring will end this day!",
-    "name": "The Worldbreaker",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

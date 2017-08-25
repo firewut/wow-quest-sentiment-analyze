@@ -1,7 +1,0 @@
-{
-    "_id": "11892",
-    "description": "You have done much for the animals of the Borean Tundra, <name>. Nesingwary's lackeys have been beaten back and taught a lesson that they will not soon forget.Harold Lane, the primary agent responsible for the mass slaughters in Nagrand, has been identified as the man in charge of Nesingwary operations in the tundra. He is stationed at Lake Kum'uya, west of here.<Lathorius hands you an intricately carved oak horn.>Find Lane and kill him. Use this horn should you require our aid.\r\n",
-    "name": "The Assassination of Harold Lane",
-    "requires_level": 70,
-    "zone": "Borean Tundra"
-}

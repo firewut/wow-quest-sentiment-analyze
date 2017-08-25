@@ -1,7 +1,0 @@
-{
-    "_id": "10161",
-    "description": "In the event of an emergency, it's always the pilot's job to keep a level head, especially when the only orders your co-pilot follows come from his stomach.The good news is that we won't need to wait days for replacement parts to be imported. The bad news is that the \"spare\" parts got scattered from here to the Valley of Bones to the east.The other bad news? The spare parts aren't so spare. They, uh, fell off during our rapid descent. Could you help me collect enough to get us off the ground again?",
-    "name": "In Case of Emergency...",
-    "requires_level": 58,
-    "zone": "Hellfire Peninsula"
-}

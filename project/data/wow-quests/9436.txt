@@ -1,7 +1,0 @@
-{
-    "_id": "9436",
-    "description": "Well met, <class>. I've made a habit of studying the fighting techniques of the various troll tribes in my travels, and I've noticed a trend. The Bloodscalp trolls at the Tkashi Ruins and Bal'lal Ruins to the north use some of the same tactics as the Amani of the northern forests.Their magic seems to have diverged in an interesting direction and they've used it to become the strongest tribe in the area. It could form the core of a powerful weapon against the Amani, but first I must find out more about it.",
-    "name": "Bloodscalp Insight",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

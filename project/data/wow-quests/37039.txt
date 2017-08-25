@@ -1,9 +1,0 @@
-{
-    "_id": "37039",
-    "added_in_patch": 6,
-    "description": "You have defeated foes in the sky and on land, and even in the rain. Next, you face beasts beneath your very feet.The rockworm is a cunning predator, striking at prey from below the sands. Many beasts of Nagrand have grown wary of the rumbling of the earth. Take your mount on out to the sandy shores test it against the elder worm Ironbore.",
-    "name": "Boar Training: Ironbore",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Nagrand"
-}

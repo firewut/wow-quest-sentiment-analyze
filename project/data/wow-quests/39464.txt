@@ -1,7 +1,0 @@
-{
-    "_id": "39464",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Artifact Received",
-    "zone": "Artifact"
-}

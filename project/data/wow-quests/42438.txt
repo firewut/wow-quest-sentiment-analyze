@@ -1,8 +1,0 @@
-{
-    "_id": "42438",
-    "added_in_patch": 7,
-    "description": "The Fangs of Ashamane are in danger, <name>. For ten thousand years a powerful magic ward has protected them from any would-be thieves, but the ward has weakened over time and is in danger of failing. My three most trusted Ashen have the Tel'andu seeds we need to perform the ritual of renewal,  but the woods are now crawling with demons and I fear they have fallen.No matter what, we cannot allow the Legion to obtain the Fangs! Go and find the Tel'andu seeds, we must hurry before the ward can be broken!",
-    "name": "Seeds of Renewal",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

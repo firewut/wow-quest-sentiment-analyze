@@ -1,7 +1,0 @@
-{
-    "_id": "28722",
-    "description": "It's all ready, <name>!Now, I told my friend Legacki that I have a surprise for her. This is where you come in!I'm going to give you my mechanical yeti, and you'll get the honor of using it to surprise her. She's just on the other side of Everlook, near the inn.Go up to her and turn the yeti on... I'll be watching from here!",
-    "name": "Yetiphobia",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

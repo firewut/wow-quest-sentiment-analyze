@@ -1,7 +1,0 @@
-{
-    "_id": "24711",
-    "description": "We must press on, hero. We've come so far... we're so close to our goal.I must delay a moment to send Elandra back to the airship. I'm uncertain how we're going to escape with so many men lost and so few to keep our path in secure.Continue on. I will meet you in the Halls of Reflection. ",
-    "name": "Frostmourne",
-    "requires_level": 78,
-    "zone": "Quests"
-}

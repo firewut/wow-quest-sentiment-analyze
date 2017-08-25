@@ -1,8 +1,0 @@
-{
-    "_id": "31952",
-    "added_in_patch": 5,
-    "description": "You must now face the toughest tamers in all of Azeroth, <name>. They make their home in Pandaria, training ground of the grand masters.There are six grand masters left to defeat: Hyuna of the Shrines in The Jade Forest, Farmer Nishi in Valley of the Four Winds, Mo'ruk in Krasarang Wilds, Courageous Yon in Kun-Lai Summit, Seeker Zusshi in Townlong Steppes, and Wastewalker Shu in Dread Wastes.If you think yourself ready, seek out these champions of the trade and prove yourself!",
-    "name": "Battle Pet Tamers: Pandaria",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

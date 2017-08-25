@@ -1,8 +1,0 @@
-{
-    "_id": "41920",
-    "added_in_patch": 7,
-    "description": "A rune of portals?! Who does Val'zuun think he is?<Valeera takes a deep breath.>It's worth the price, but those runes aren't exactly easy to come by. Unless...Archmage Celindra, the Kirin Tor's portal master, has a study in the center of town. We rogues aren't particularly welcome there, nor would she simply hand a rune over even if we were...<Valeera smirks.>But who said anything about asking?",
-    "name": "A Matter of Finesse",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

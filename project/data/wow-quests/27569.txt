@@ -1,8 +1,0 @@
-{
-    "_id": "27569",
-    "description": "General Angerforge and Golem Lord Argelmach lead the Dark Iron armies and their golems against us. If we are to overcome them, the two must be slain.Go through this door and unlock The Shadowforge Lock, which separates the East and West Garrisons. Then, follow the stairs and keep to the left at the top until you reach the West Garrison. It is there you will find the General and Golem Lord.Keep your wits about you, they are both well-seasoned combatants. Find Mayara Brightwing should you succeed.",
-    "name": "Dark Iron Tacticians",
-    "requires_level": 51,
-    "side": "alliance",
-    "zone": "Blackrock Depths"
-}

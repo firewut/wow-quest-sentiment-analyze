@@ -1,8 +1,0 @@
-{
-    "_id": "39953",
-    "added_in_patch": 7,
-    "description": "I think it's time for another field trip, <name>. To the Halls of Valor!The Valarjar are masters of all types of runecraft. Perhaps we can find something useful for a new recipe.",
-    "name": "Vision of Valor",
-    "requires_level": 106,
-    "zone": "Inscription"
-}

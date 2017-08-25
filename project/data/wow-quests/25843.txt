@@ -1,7 +1,0 @@
-{
-    "_id": "25843",
-    "description": "The mountain blooms again! If we act quickly, we can press our advantage.Our old friend Tortolla, the turtle ancient, is already on the move. At his own pace, of course...Find Tortolla east of here, at the head of the path leading down into the scorched plains. Our strongholds there fell early in the campaign, but perhaps now we can reclaim them.",
-    "name": "Tortolla's Revenge",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

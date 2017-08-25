@@ -1,7 +1,0 @@
-{
-    "_id": "27933",
-    "description": "You're going to have to deal with the leader of Therazane's forces here. However, to get you to him quickly and safely, I'm going to need to perform a ritual.Go out into the field and collect elemental ore from the ragers. With enough of it, I should be able to make you one with the ground to get you where you need to go.",
-    "name": "Elemental Ore",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

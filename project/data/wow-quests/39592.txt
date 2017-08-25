@@ -1,8 +1,0 @@
-{
-    "_id": "39592",
-    "added_in_patch": 7,
-    "description": "Upon the highest point of the plateau above, you will find the archive device for the Trial of Will. Seek it out to learn what awaits you in Thorim's Peak. \r\n\r\nBe on your guard, outsider. The one called Skovald has left behind many of his army, and they will no doubt be unfriendly.",
-    "name": "A Trial of Will",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

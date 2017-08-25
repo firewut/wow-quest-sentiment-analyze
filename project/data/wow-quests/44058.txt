@@ -1,8 +1,0 @@
-{
-    "_id": "44058",
-    "added_in_patch": 7,
-    "description": "According to the map, the fox hunt will start at the Feathermane Hunting Grounds in Suramar. If the Nightborne succeed, they will kill Volpin, a fox that is the last of his kind in the Broken Isles.\r\n\r\nTravel to the Hunting Grounds, and interrupt the hunt.",
-    "name": "Volpin the Elusive",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

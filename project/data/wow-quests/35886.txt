@@ -1,8 +1,0 @@
-{
-    "_id": "35886",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Maraudon (Foulspore Cavern) Reward Quest",
-    "requires_level": 32,
-    "zone": "Quests"
-}

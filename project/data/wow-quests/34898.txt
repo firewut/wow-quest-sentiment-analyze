@@ -1,8 +1,0 @@
-{
-    "_id": "34898",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Ikky",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

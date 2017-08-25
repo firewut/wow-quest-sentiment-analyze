@@ -1,7 +1,0 @@
-{
-    "_id": "5886",
-    "description": "",
-    "name": "Salve via Disenchanting",
-    "requires_level": 48,
-    "zone": "Felwood"
-}

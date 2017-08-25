@@ -1,7 +1,0 @@
-{
-    "_id": "11578",
-    "description": "$Tpunk;!  Kill Kobold Vermin, 2 of em.",
-    "name": "The \"Chow\" Quest (123)aa COPY",
-    "requires_level": 1,
-    "zone": "Dustwallow Marsh"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "29823",
-    "added_in_patch": 5,
-    "description": "We weren't only looking for Alliance, you know. We were also looking for those snooked-up, tik-flikklin' jinyu!Well, we found 'em all right...",
-    "name": "Scouting Report: The Friend of My Enemy",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

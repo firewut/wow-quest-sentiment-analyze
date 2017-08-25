@@ -1,8 +1,0 @@
-{
-    "_id": "42597",
-    "added_in_patch": 7,
-    "description": "Odyn would like to speak to you at once, my liege.He is convinced that as you have grown in power you are ready to take direct command of his armies and would like to begin preparations.",
-    "name": "Odyn's Summons",
-    "requires_level": 101,
-    "zone": "Warrior Campaign"
-}

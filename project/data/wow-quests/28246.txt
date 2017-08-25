@@ -1,8 +1,0 @@
-{
-    "_id": "28246",
-    "description": "<Static> <name>... <name>, can you hear me?  It's Troteman.Listen, we've just received the final bit of intel for your next mission.  There are three marks that we'd like you to take down.  The first is Voodooist Timan, whom you'll find atop the Pillar of Ash.  Worgmistress Othana is in the central worg pens.  Finally, Gorlop is near the lava pools to the south.You will find the scorpid barbs you harvested packed along with your belongings.  Use the barbs on the marks when the time is right.",
-    "name": "Strategic Cuts",
-    "requires_level": 49,
-    "side": "alliance",
-    "zone": "Burning Steppes"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "9400",
-    "description": "<name>, we recently uncovered a plot to assassinate our envoy to Falcon Watch.  Hellfire Citadel learned of our plans to send an expedition there earlier this morning and set up an ambush.Our scouts have informed me that an assassin known as Krun Spinebreaker waits along the road north of the Citadel.  Go there and slay this assassin.  Show the fel orcs we're not to be trifled with!",
-    "name": "The Assassin",
-    "requires_level": 60,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

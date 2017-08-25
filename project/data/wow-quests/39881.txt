@@ -1,8 +1,0 @@
-{
-    "_id": "39881",
-    "added_in_patch": 7,
-    "description": "The new dusts and crystals we've found in these lands are fascinating, as I'm sure you've already surmised. I'm positive we can expand their usefullness to more of our armor.I'd like you to go back out into the field and talk to a dryad in Val'sharah. Apparently she may be able to clue us into some enchantments for shoulder pieces.Her name is Nalamya. You'll find her near the Temple of Elune.",
-    "name": "Fey Enchantments",
-    "requires_level": 104,
-    "zone": "Enchanting"
-}

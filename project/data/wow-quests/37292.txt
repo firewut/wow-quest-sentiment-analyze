@@ -1,9 +1,0 @@
-{
-    "_id": "37292",
-    "added_in_patch": 6,
-    "description": "Your men caught one of da new recruits,  talking with da alliance behind your back. She be a traitor, boss-mon! She be a danger to everything you've worked so hard for.We have a wyvern ready to be takin' her to your garrison for proper punishment. I thought you would be wantin' to deal with da scoundrel personally.I last be seein' her on the back road out of Axefall.",
-    "name": "Not In Your Army",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

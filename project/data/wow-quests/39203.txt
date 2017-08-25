@@ -1,8 +1,0 @@
-{
-    "_id": "39203",
-    "added_in_patch": 6.2,
-    "description": "The Warchief wishes to reinforce the Horde's presence at Agmar's Hammer in the Dragonblight.The fortress is a vital staging point for our assault on Icecrown and pivotal to containing the chaotic magic energies being released throughout the land.Report to Archmage Aethas Sunreaver.",
-    "name": "Warchief's Command: Dragonblight",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

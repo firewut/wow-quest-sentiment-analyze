@@ -1,8 +1,0 @@
-{
-    "_id": "11966",
-    "description": "Did you know that our festival fires burn in every land with a Horde settlement? Flame Keepers tend to them in camps outside of each town, ensuring the bonfires are bright and the celebrations continue.With each Flame Keeper is a festival scorchling -- an emissary to the elemental spirits of fire.Would you like to honor a scorchling, <name>?  Take this summer incense and bring it to any festival scorchling.  Appease the little fire spirit, and it may reward you.",
-    "name": "Incense for the Festival Scorchlings",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Midsummer"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30595",
-    "added_in_patch": 5,
-    "description": "Let me guess, you're here to deal with the mogu statues that are being reanimated. What a coincidence, I'm here to, um... conduct research on the mogu.I tell you what, if you bring me as many of the mogu relics in there that you can carry, I'll give you a cut. Of the research... funding.",
-    "name": "Profiting off of the Past",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

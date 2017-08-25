@@ -1,8 +1,0 @@
-{
-    "_id": "26846",
-    "description": "I've found out what those rats are up to. There's so many of them outside because they've got troggs digging for them in the mine!The tunnel rat geomancers figured out some kind of parlor trick to control the troggs, as creatures of the earth or somesuch.Fascinating, but not something we want to let them practice. Take out those geomancers right away.",
-    "name": "A Nasty Exploit",
-    "requires_level": 11,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

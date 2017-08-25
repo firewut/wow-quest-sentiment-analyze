@@ -1,8 +1,0 @@
-{
-    "_id": "26661",
-    "description": "If you bring me some rot blossoms then I can brew you up a batch of zombie juice.Rot blossoms grow in strange places.  They tend to flourish on dead things, and Duskwood has its fair share of those!I've seen a few of them growing at Tranquil Gardens Cemetery lately. Check near the graves... but mind the dead that are walking about near there.",
-    "name": "Gather Rot Blossoms",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

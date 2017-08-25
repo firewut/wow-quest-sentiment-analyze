@@ -1,7 +1,0 @@
-{
-    "_id": "13980",
-    "description": "They're out there, <class>. And they're on to us.Some of my men have begun turning up dead. Elf attacks, no question about it.My guess is that your work at Astranaar has them desperate to stop our progress here. A last ditch effort to escape defeat!Take these goggles. They'll help you see even the sneakiest of the elves. Keep them off my back while we finish weaponizing your explosives.",
-    "name": "They're Out There!",
-    "requires_level": 23,
-    "zone": "Ashenvale"
-}

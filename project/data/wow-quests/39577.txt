@@ -1,8 +1,0 @@
-{
-    "_id": "39577",
-    "added_in_patch": 7,
-    "description": "Before Mayla may be pronounced High Chieftain, there is one more vision she must see. I wish to show you as well.It is an ancient secret, handed down along the Highmountain bloodline. I ask for your discretion in keeping it that way.",
-    "name": "An Ancient Secret",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

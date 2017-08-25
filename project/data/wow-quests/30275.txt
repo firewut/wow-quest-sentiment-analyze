@@ -1,8 +1,0 @@
-{
-    "_id": "30275",
-    "added_in_patch": 5,
-    "description": "How could this crocolisk have grown so large?Certainly, rumors exist of very old crocolisks that have grown to enormous sizes... but this female can't be more than a dozen years old.Perhaps someone in New Cifera can shed some light on the subject.",
-    "name": "A Crocolisk Tale",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

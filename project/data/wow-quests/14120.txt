@@ -1,8 +1,0 @@
-{
-    "_id": "14120",
-    "description": "You're an extremely ambitious young goblin, <name>. Maybe a little too ambitious for your own good. I see a lot of myself in you when I was your age.I have a proposition. You might have noticed that Mount Kajaro is exploding thanks to your dragon. Everyone on Kezan is going to die!But, if you bring me a bazillion macaroons before my yacht leaves the island, I'll make sure that you're one of the lucky few to escape.If you want to live, you better hurry and figure out how to get me my moolah!",
-    "name": "A Bazillion Macaroons?!",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "Kezan"
-}

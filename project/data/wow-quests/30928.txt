@@ -1,8 +1,0 @@
-{
-    "_id": "30928",
-    "added_in_patch": 5,
-    "description": "You now know Niuzao's secret. We are not only the wardens of this temple... we were the wardens of the Sha of Fear that was buried beneath it.The Sha itself may have escaped... but it left traces behind. If you're truly going down into the catacombs, you should eliminate those traces, before they escape and cause greater problems than those we already face.",
-    "name": "A Trail of Fear",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

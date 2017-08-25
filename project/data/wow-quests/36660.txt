@@ -1,8 +1,0 @@
-{
-    "_id": "36660",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Bonus Objective: Bloodmane Pridelands",
-    "requires_level": 96,
-    "zone": "Bloodmane Pridelands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31097",
-    "added_in_patch": 5,
-    "description": "Dear $p,While we appreciate your efforts to investigate the lore of Pandaria, the documents you sent us on the mantid managed to rob me of several nights sleep. Terrifying stuff.If you visit us at the Seat of Knowledge in Vale of Eternal Blossoms we can add this contribution to your personal collection.Thank you for your diligence!Sincerely,Lorewalker Cho",
-    "name": "Heart of the Mantid Swarm",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

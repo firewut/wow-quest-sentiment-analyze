@@ -1,8 +1,0 @@
-{
-    "_id": "44217",
-    "added_in_patch": 7,
-    "description": "<name> is strong! <name> is great leader!\r\n\r\nEbon Blade want to give you full set of armor to help with the little demon killing. Get stronger, make demons more dead!",
-    "name": "Armor Fit For A Deathlord",
-    "requires_level": 110,
-    "zone": "Death Knight Campaign"
-}

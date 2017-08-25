@@ -1,7 +1,0 @@
-{
-    "_id": "12006",
-    "description": "These so-called mage hunters came here and destroyed our resting place.Avenge us, or I will see to it that your base of operations is overrun with the spirits of the dead!",
-    "name": "Avenge this Atrocity!",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

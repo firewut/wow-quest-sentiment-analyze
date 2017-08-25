@@ -1,8 +1,0 @@
-{
-    "_id": "42829",
-    "added_in_patch": 7,
-    "description": "I need you to infiltrate the Twilight Vineyards and bring back something to deal with these insects.\r\n\r\nTo do that, you will need a way to bypass the guards that keep the orchards secure.\r\n\r\nLy'leth will be able to help us there. I will arrange to have her meet you near the entrance.\r\n\r\nGo quickly!",
-    "name": "Make an Entrance",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

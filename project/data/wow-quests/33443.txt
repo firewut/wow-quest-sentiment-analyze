@@ -1,7 +1,0 @@
-{
-    "_id": "33443",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Barrier Destroyed",
-    "zone": "Frostfire Ridge"
-}

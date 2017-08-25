@@ -1,7 +1,0 @@
-{
-    "_id": "32365",
-    "added_in_patch": 5.1,
-    "description": "",
-    "name": "Tracking Event: Epilogue Complete",
-    "zone": "Pandaren Campaign"
-}

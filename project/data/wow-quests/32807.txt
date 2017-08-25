@@ -1,8 +1,0 @@
-{
-    "_id": "32807",
-    "added_in_patch": 5.3,
-    "description": "I see now how the Alliance king leads his people. But what is the Horde warchief up to? Just below us, a swarm of goblins are burrowing into the sacred vale on his orders. What does he hope to find there? We must find out!",
-    "name": "The Warchief and the Darkness",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

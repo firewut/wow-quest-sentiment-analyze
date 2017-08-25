@@ -1,7 +1,0 @@
-{
-    "_id": "10246",
-    "description": "Your success at Manaforge B'naar was quite noteworthy.  I'm sure that Anchorite Karja will ask you for a repeat performance at Manaforge Coruu next.We've learned of a particularly important regiment of Sunfury arcanists and researchers being deployed there and I would like you to target them.  Succeed and you will deliver a crushing blow against our enemy's forces.",
-    "name": "Attack on Manaforge Coruu",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

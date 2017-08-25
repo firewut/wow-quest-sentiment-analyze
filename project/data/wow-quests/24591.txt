@@ -1,7 +1,0 @@
-{
-    "_id": "24591",
-    "description": "When Bloodhilt arrives, I'd like to - ah - talk in private. Can you accompany me to make sure things stay on the level? This Bloodhilt is a, ah, he's a, he's a loose cannon.<Gar'dul tries to compose himself.>Meet me atop the northern tower and we'll talk with Bloodhilt together.",
-    "name": "Changing of the Gar'dul",
-    "requires_level": 30,
-    "zone": "Southern Barrens"
-}

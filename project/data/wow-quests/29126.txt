@@ -1,7 +1,0 @@
-{
-    "_id": "29126",
-    "description": "<Matoclaw's voice continues.>The portal that opened up to our east is guarded by a powerful flamewaker by the name of Galenges. We will need all of Malorne's help in defeating him.Do you remember the staff that I gave you? Place it in the pile of ash in front of the portal. Then pray that Malorne comes to your aid.",
-    "name": "The Power of Malorne",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

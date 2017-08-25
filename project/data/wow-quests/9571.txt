@@ -1,7 +1,0 @@
-{
-    "_id": "9571",
-    "description": "Take the Kurken's hide to Moordo, on the other side of the village. He will fashion the hide into an item of your choice.\r\n",
-    "name": "The Kurken's Hide",
-    "requires_level": 7,
-    "zone": "Azuremyst Isle"
-}

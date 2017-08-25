@@ -1,7 +1,0 @@
-{
-    "_id": "10486",
-    "description": "The Thunderlord were once a proud orc clan before they were transformed into fel orcs through the blood of Mannoroth.Recently we recovered this orc stronghold from the ogres that infest the ravine below.  They had moved in when the Thunderlord clan abandoned it.We will keep this place and I will have your help doing so.In the Jagged Ridge to the south and the west, there are bloodletters that have become like a plague upon us.  They eat and breed incessantly.Kill them and then return to me.",
-    "name": "The Encroaching Wilderness",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

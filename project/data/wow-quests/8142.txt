@@ -1,7 +1,0 @@
-{
-    "_id": "8142",
-    "description": "",
-    "name": "Zandalarian Shadow Talisman",
-    "requires_level": 58,
-    "zone": "Quests"
-}

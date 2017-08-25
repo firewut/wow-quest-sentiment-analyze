@@ -1,7 +1,0 @@
-{
-    "_id": "287",
-    "description": "I'm behind on my report, and could use your help, <name>. I just managed to find where the trolls are holed up, but I saw so many trolls, I was afraid to go in.Here's what I need... Go down to the cave, poke around inside, kill a few of the trolls, then come back here.Take the road north out of Kharanos, when you get to the bridge, follow the frozen river west until you reach Iceflow Lake. You'll find Brewnall Village on the west bank. The Hold is southwest of the village.",
-    "name": "Frostmane Hold",
-    "requires_level": 7,
-    "zone": "Dun Morogh"
-}

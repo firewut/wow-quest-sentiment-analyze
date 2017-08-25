@@ -1,7 +1,0 @@
-{
-    "_id": "29210",
-    "description": "Shalis has gone with one of our druids to stop a Druid of the Flame that is performing a summoning ritual in the Igneous Depths, below us. They have been tasked with killing the druid, but I need you to stop the ritual.You'll find the entrance to the cavern east of the Magma Springs. Once inside, you'll see 8 blue runes spread throughout the cavern. You can use these runes to protect you from the fiery creatures, but you need to stamp all of them out to end the ritual. You will need to be swift.",
-    "name": "Enduring the Heat",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "39242",
-    "added_in_patch": 6.2,
-    "description": "You want to take the fight to Gul'dan? You need a transport! Speak to me when you are ready to begin construction.",
-    "name": "Ship Shape",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33136",
-    "added_in_patch": 5.4,
-    "description": "",
-    "name": "The Rainy Day is Here",
-    "requires_level": 90,
-    "zone": "Battle Pets"
-}

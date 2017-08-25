@@ -1,8 +1,0 @@
-{
-    "_id": "35468",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Halls of Stone Reward Quest",
-    "requires_level": 80,
-    "zone": "Quests"
-}

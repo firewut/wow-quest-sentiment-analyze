@@ -1,7 +1,0 @@
-{
-    "_id": "11511",
-    "description": "Those artifacts are cursed and you'd be crazy to go looking for them, <race>. I know for certain that anyone that's come into direct contact with any of those items has either gone mad or been killed.Take that staff, for example. Last I heard the ship that held it was abandoned and left to rot on the coast of the Isle of Spears, north of here.If you want that thing, check the ship's hold.Whatever you do, don't bring that staff back here! And steer clear of Abdul! He'll tear your heart out.",
-    "name": "The Staff of Storm's Fury",
-    "requires_level": 68,
-    "zone": "Howling Fjord"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25421",
-    "description": "At the bottom of the chest, you find a large tablet. Made of a material resembling stone, but completely smooth and flawless, it is covered in strange writing.While some resembles the writing on the walls, other scripts appear completely different. Gunstan would probably like to see this.",
-    "name": "The Grand Tablet",
-    "requires_level": 47,
-    "zone": "Tanaris"
-}

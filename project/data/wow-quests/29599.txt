@@ -1,7 +1,0 @@
-{
-    "_id": "29599",
-    "description": "I have plans for my people, stranger.One day, they shall overthrow their oppressors and rise as one. They will break free from the bonds that hold them and from that uprising shall be born the orcish Horde.We will leave when you are ready.",
-    "name": "Escape from Durnholde",
-    "requires_level": 64,
-    "zone": "Caverns of Time"
-}

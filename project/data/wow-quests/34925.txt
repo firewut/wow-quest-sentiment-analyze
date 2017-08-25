@@ -1,8 +1,0 @@
-{
-    "_id": "34925",
-    "added_in_patch": 6,
-    "description": "These stinking Blackrock cowards think they're humiliating me.They're just making me angrier.Overseer Gotrigg, in the hut over there, carries my shackle key. If I'm going to get out of there, I'm going to need that key. Then... vengeance can begin.",
-    "name": "Polishing the Iron Throne",
-    "requires_level": 90,
-    "zone": "Assault on the Dark Portal"
-}

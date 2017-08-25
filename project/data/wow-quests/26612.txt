@@ -1,7 +1,0 @@
-{
-    "_id": "26612",
-    "description": "I want to know details, <name>.  Our supremacy over the Bloodsail is due largely in part to our stronghold here in Booty Bay, but intelligence also plays a critical role.The Bloodsail maintain a few meager camps to the south which they call their \"Southern Command.\"  Well, you're going to raid their excuse for a southern command, find their plans, and slaughter their men.  Return with whatever information you can find.",
-    "name": "Details of the Attack",
-    "requires_level": 31,
-    "zone": "The Cape of Stranglethorn"
-}

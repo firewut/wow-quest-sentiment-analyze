@@ -1,7 +1,0 @@
-{
-    "_id": "10031",
-    "description": "Many spirits of the draenei were corrupted by the explosion of Auchindoun.  Now they wander the wastes in torment.<name>, I beseech you to put them to rest.  Destroy the lost spirits and broken skeletons that haunt the Bone Wastes beyond Auchindoun's walls.What?  You think leaving them to wander in blind agony would be better?Afterward, return to Soolaveen at the Refugee Caravan and tell him of that which you have done.",
-    "name": "Helping the Lost Find Their Way",
-    "requires_level": 63,
-    "zone": "Terokkar Forest"
-}

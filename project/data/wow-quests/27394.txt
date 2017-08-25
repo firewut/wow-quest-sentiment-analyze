@@ -1,7 +1,0 @@
-{
-    "_id": "27394",
-    "description": "I sense a strong power calling to me from the ruins. Can you check again on that southern battle site for me?  I'm certain that there's something there.",
-    "name": "The Call of the Blade",
-    "requires_level": 80,
-    "zone": "Vashj'ir"
-}

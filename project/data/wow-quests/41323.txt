@@ -1,8 +1,0 @@
-{
-    "_id": "41323",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Fatty Lion Seal Skin",
-    "requires_level": 110,
-    "zone": "Mining"
-}

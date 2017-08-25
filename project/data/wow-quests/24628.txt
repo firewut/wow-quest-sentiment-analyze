@@ -1,8 +1,0 @@
-{
-    "_id": "24628",
-    "description": "What you know as the Curse began as a heresy among our brethren.Faced with a losing battle against demonic forces, the Druids of the Pack eschewed the balance they were sworn to and allowed the beast to overtake them.They were banished to the Emerald Dream where they live in eternal slumber under a tree identical to this one, but not before their curse spread to others.Today our ceremony will restore balance to your people. Bring me the leaf that grows only in Tal'doren's vicinity.",
-    "name": "Preparations",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

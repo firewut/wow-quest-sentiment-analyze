@@ -1,8 +1,0 @@
-{
-    "_id": "32131",
-    "added_in_patch": 5.1,
-    "description": "Gnomes are excavating a stone quarry to the northeast.\r\n\r\nThey're building stuff with it!\r\n\r\n<Zazzix rolls his eyes.>\r\n\r\nThey're too stupid to realize it's special mogu stone for creating animated statues. \r\n\r\nWE can mix with a little Goblin magic juice to make some real big explosions!\r\n\r\nBut the stuff is heavy. They've got some of their stupid bomb-bots there for excavating the stone. Blow 'em up near slabs and you'll get chunks small enough to carry. \r\n\r\nOr, just kill 'em and take it. Whatever works.",
-    "name": "We Require More Minerals!",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

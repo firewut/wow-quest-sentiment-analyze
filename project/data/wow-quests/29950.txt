@@ -1,8 +1,0 @@
-{
-    "_id": "29950",
-    "added_in_patch": 5,
-    "description": "Uncle Chen asked me not to get into any fights while he was away... but that doesn't mean I can't go exploring. Finally, a chance to look around Pandaria without stopping every forty-seven steps for another rest!You want to come with me? I'll bet there's all kinds of cool places we can visit, not too far away from here.",
-    "name": "Li Li's Day Off",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

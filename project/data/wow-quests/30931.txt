@@ -1,8 +1,0 @@
-{
-    "_id": "30931",
-    "added_in_patch": 5,
-    "description": "I came here to visit my dad at the temple. As soon as I got here, I saw the most terrifying thing I've ever seen.It was a mantid, walking right past me, carrying my father's crossbow.Something's happened to my dad! We've got to find out what it is... but first, we'll need his crossbow back. I saw him heading west, behind the temple.",
-    "name": "My Father's Crossbow",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9530",
-    "description": "I've wondered about this for some time now, but this proves it to be true.There is a traitor among us.The plans left behind by the goblins document the conspiracy. Since I don't know who it could be, I'm going to need your help in finding the traitor. None of my crew can be trusted.If this is going to work, I'm going to need a hollowed out tree and leaves. Search near the loggers north of us for the tree. You'll need to find the leaves by yourself. Check the forest.",
-    "name": "I've Got a Plant",
-    "requires_level": 5,
-    "zone": "Azuremyst Isle"
-}

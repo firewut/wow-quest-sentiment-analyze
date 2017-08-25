@@ -1,8 +1,0 @@
-{
-    "_id": "43365",
-    "added_in_patch": 7,
-    "description": "Yay! The grove is regenerating nicely. Our flower friends thank you for helping them.We were able to save most of the grove, but sadly, many living souls were lost as well.Brightwing is so sad!But you can help! Take this bag of Dream Seeds. Plant them onto fresh corpses, and in time, new flowers will grow!Death is beautiful, and from death comes rebirth. This is the cycle that must continue!",
-    "name": "The Cycle Continues",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

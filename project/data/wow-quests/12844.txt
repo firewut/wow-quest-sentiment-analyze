@@ -1,7 +1,0 @@
-{
-    "_id": "12844",
-    "description": "Please, <name>.  When the Hyldnir took our men, they also took all our equipment.  Of course, it's more important that we get our boys back, but if you run into any of our equipment, I'd really appreciate it if you brought it back to us.You'll find their village just above us, to the north.",
-    "name": "Equipment Recovery",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

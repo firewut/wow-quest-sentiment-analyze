@@ -1,7 +1,0 @@
-{
-    "_id": "27695",
-    "description": "The Twilight cowards have captured and killed too many red dragons, but one yet lives. Do you remember Lirastrasza? She's shackled nearby and we're going to free her.But first, we need something sharp enough to cut through her chains.There's an old ettin named Blindeye the Guardian. He stands watch at the Altar of Ascension to the south.He has a purely-wrought Elementium axe. I wonder if that's Cho'gall's \"ultimate\" weapon?",
-    "name": "The Elementium Axe",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9341",
-    "description": "",
-    "name": "Tabard of the Argent Dawn",
-    "requires_level": 50,
-    "zone": "Quests"
-}

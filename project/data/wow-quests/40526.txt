@@ -1,8 +1,0 @@
-{
-    "_id": "40526",
-    "added_in_patch": 7,
-    "description": "Well, I've managed to repair the ring, but the gem still needs work.Say... you're a gemcutter, <name>. You've got the tools, so cut those jewels!",
-    "name": "Finishing Touches",
-    "requires_level": 98,
-    "zone": "Jewelcrafting"
-}

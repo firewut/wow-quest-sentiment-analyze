@@ -1,7 +1,0 @@
-{
-    "_id": "2965",
-    "description": "Ah, <name>, it is fortuitous that you have come to me again.  Your revelations at the Uldaman dig site have certainly given us sages much discuss.  I was doing just that with one of the druids, Nara Wildmane, when it dawned on me that her past adventuring experiences may have some great importance as to the next step we need to take.I would like for you to speak with her concerning her travels to the Valley of the Watchers in the Tanaris desert.  She waits for you on the Elder Rise.",
-    "name": "Portents of Uldum",
-    "requires_level": 45,
-    "zone": "Thunder Bluff"
-}

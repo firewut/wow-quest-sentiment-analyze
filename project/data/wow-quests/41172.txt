@@ -1,8 +1,0 @@
-{
-    "_id": "41172",
-    "added_in_patch": 7,
-    "description": "This land holds many secrets and many artifacts of ancient times.From what I've been able to discern there's an artifact of great power close to here. I just need to narrow down its location.I'd like you to dig up more artifacts and learn what you can. When you feel you've done enough research, come back to me and share your knowledge.",
-    "name": "Echoes of My Ancestors",
-    "requires_level": 110,
-    "zone": "Archaeology"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43704",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Hub Mana Tree Tracking - Stage 02",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

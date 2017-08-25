@@ -1,7 +1,0 @@
-{
-    "_id": "11620",
-    "description": "There is someone who might shed light on this mystery, <race>.  It is rumored that the Kvaldir have kept a naga priestess alive at the temple on the west side of the shore.She will no doubt have great reason to resent her uninvited Kvaldir guests.  Perhaps my father is expecting her to cooperate with you in some way.",
-    "name": "A Father's Words",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

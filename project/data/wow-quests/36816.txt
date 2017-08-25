@@ -1,8 +1,0 @@
-{
-    "_id": "36816",
-    "added_in_patch": 6,
-    "description": "[PH]Commander! You just missed a group of rangari with some disturbing news. The Shadowmoon Orcs have been spotted in the hills above Anguish Fortress. The scouts reported seeing strange rituals and beings of pure darkness. Those orcs must be up there trying to summon more minions from the Void!If we do not intervene all we have gained in Shadowmoon Valley might be lost!",
-    "name": "Assault on the Broken Precipice",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

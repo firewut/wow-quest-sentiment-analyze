@@ -1,8 +1,0 @@
-{
-    "_id": "39839",
-    "added_in_patch": 7,
-    "description": "Nearly everything in the wagon was obliterated by the fire. All that remains is a small pile of dust.The cart belonged to Trader Caelen. Perhaps he knows more about what happened.As for the dust - either the inscription trainers or the alchemy trainers might have some insight.",
-    "name": "Mysterious Dust",
-    "requires_level": 110,
-    "zone": "Dalaran"
-}

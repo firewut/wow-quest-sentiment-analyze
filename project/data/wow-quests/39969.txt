@@ -1,8 +1,0 @@
-{
-    "_id": "39969",
-    "added_in_patch": 7,
-    "description": "xxxxx",
-    "name": "Kill Azshara",
-    "requires_level": 98,
-    "zone": "Eye of Azshara"
-}

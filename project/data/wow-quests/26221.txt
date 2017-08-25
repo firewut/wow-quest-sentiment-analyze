@@ -1,7 +1,0 @@
-{
-    "_id": "26221",
-    "description": "We've located the beast that destroyed our ships. It makes its lair in Tenebrous Cavern, a giant underwater cave bordering the Abyssal Breach.This time we're ready. The goblins have been proving their worth by making a vicious machine for us back at Bilgewater Harbor, and it's packing firepower that'll make that fiend wet itself.When the Verne pulls up to dock beside the ship, make your way on board and find a way to make yourself useful. We'll be right behind you.",
-    "name": "Full Circle",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

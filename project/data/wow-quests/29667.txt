@@ -1,7 +1,0 @@
-{
-    "_id": "29667",
-    "description": "It seems that Kael'thas' forces have twisted the Botanica's specimens beyond saving. I do not want to see them unleashed upon Outland as so many others have.There is one, Laj, who I would like to examine. He is different somehow. Perhaps we can learn from him.",
-    "name": "Culling the Herd",
-    "requires_level": 67,
-    "zone": "Quests"
-}

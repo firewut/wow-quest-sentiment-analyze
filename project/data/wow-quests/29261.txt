@@ -1,7 +1,0 @@
-{
-    "_id": "29261",
-    "description": "",
-    "name": "Zul'Aman Voodoo",
-    "requires_level": 1,
-    "zone": "Archaeology"
-}

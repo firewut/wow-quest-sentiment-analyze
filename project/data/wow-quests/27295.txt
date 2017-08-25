@@ -1,7 +1,0 @@
-{
-    "_id": "27295",
-    "description": "The arms you captured in Blackhoof Village have not seen any combat beyond mere training exercises, which means the Grimtotems who destroyed the Shady Rest are still at large.To the south, in the heart of the Quagmire, lives the witch Tabetha. Though she is a human, she has dealt honorably with us and trained some of our mages.Ask her for assistance in tracking down the band of Grimtotem responsible for burning the inn. The Alliance must not be allowed to think we were complicit in the attack.",
-    "name": "Seek Out Tabetha",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

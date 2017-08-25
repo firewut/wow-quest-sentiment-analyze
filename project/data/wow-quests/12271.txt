@@ -1,7 +1,0 @@
-{
-    "_id": "12271",
-    "description": "A rod drops from LeCraft's dead hand. There are pulsing magical runes along its length.Could this be how he was getting his confessions?Better let the high executor have a look at it.",
-    "name": "The Rod of Compulsion",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

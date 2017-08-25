@@ -1,8 +1,0 @@
-{
-    "_id": "30899",
-    "added_in_patch": 5,
-    "description": "<name>, take these crossbow bolts and then bring them to Hawkmaster Nurong at Farwatch Overlook to the southwest.Nurong is praised among all the Wukao for being a flawless shot. His efforts are credited with holding the line here for these many months. I'm hoping you can work with him and judge for yourself. He may be the final Shado-Pan we need for the hunt.",
-    "name": "In Skilled Hands",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

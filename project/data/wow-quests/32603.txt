@@ -1,8 +1,0 @@
-{
-    "_id": "32603",
-    "added_in_patch": 5.2,
-    "description": "Have you ever read the great Pandaren book of fables?  Pandaren pass these stories on to their cubs - stories of the cricket and the hawk, or the slow-moving turtle - to teach them lessons that they will find useful in life. What few cubs know is that these creatures exist, here, in Pandaria! Though the stories of their travels are made up, they are powerful denizens of this world. Should you happen upon them in your travels, you may test the might of your pets against their storied statures.",
-    "name": "Beasts of Fable",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

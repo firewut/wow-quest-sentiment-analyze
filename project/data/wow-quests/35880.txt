@@ -1,9 +1,0 @@
-{
-    "_id": "35880",
-    "added_in_patch": 6,
-    "description": "Beasts of the western wasteland fight an endless war with the creatures of the eastern wilds.If one side were to overwhelm the other, all of Draenor would be doomed at the hand of the victor.The Laughing Skull seek revenge for their destroyed village. I have directed them to aim their vengeance at the nearby creatures, that our outpost here might be preserved.If you would, commander, oversee their efforts. I have not yet grown to trust the Laughing Skull.",
-    "name": "Rage and Wisdom",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

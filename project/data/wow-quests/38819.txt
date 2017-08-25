@@ -1,8 +1,0 @@
-{
-    "_id": "38819",
-    "added_in_patch": 7,
-    "description": "Yes, those devastators must be silenced, but there's also a great deal more to be done.\r\n\r\nDespite the odds, we're counting on you. The Brood Queen's primary leaders are in control of the volcano. They must be killed. We must smash the Legion and do anything else necessary to achieve absolute victory.",
-    "name": "Their Numbers Are Legion",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

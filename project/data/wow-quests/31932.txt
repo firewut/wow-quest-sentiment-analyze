@@ -1,8 +1,0 @@
-{
-    "_id": "31932",
-    "added_in_patch": 5,
-    "description": "Time and time again you defy my wisdom. What is it that brings you back to these woods?Ah, you wish to do battle once more. Very well then.",
-    "name": "Nearly Headless Jacob",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

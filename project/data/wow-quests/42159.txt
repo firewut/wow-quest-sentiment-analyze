@@ -1,8 +1,0 @@
-{
-    "_id": "42159",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Training with the Nightwatchers",
-    "requires_level": 110,
-    "zone": "Azsuna"
-}

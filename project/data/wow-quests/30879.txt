@@ -1,8 +1,0 @@
-{
-    "_id": "30879",
-    "added_in_patch": 5,
-    "description": "Welcome, Challenger, to my tournament of champions! Today we test the strengths of Pandaria's most dedicated heroes.Your first opponent awaits you under the eastern gazebo. Defeat her, and you may proceed to the next round.Fight with strength, fight with honor.",
-    "name": "Round 1: Brewmaster Chani",
-    "requires_level": 90,
-    "zone": "Kun-Lai Summit"
-}

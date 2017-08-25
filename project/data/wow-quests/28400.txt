@@ -1,7 +1,0 @@
-{
-    "_id": "28400",
-    "description": "Now to find their battle plans and take out their leaders! Should we succeed there is an orc high warlord who served in the war in Silverpine that is now stationed at Tarren Mill - located in the heart of Hillsbrad. He will grant both of us commendations for this! We will be heroes of the Horde, <name>!Onward! Together we will defeat the Alliance filth!",
-    "name": "Heroes of the Horde!",
-    "requires_level": 20,
-    "zone": "Hillsbrad Foothills"
-}

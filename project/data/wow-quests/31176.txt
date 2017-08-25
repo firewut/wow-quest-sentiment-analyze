@@ -1,8 +1,0 @@
-{
-    "_id": "31176",
-    "added_in_patch": 5,
-    "description": "Food. I must have food.In my time, the meat of the starfish brought not only strength, but also clarity of mind. This is what I must eat.Bring this to me from the nearby shallows.Wait much longer, and I will devour you instead.",
-    "name": "A Strange Appetite",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

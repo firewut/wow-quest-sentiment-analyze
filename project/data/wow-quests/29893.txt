@@ -1,9 +1,0 @@
-{
-    "_id": "29893",
-    "added_in_patch": 5,
-    "description": "The most distinguishing feature of the Dream Brew is its iridescent, dream-like color.To the east, you will find Glittering Amberflies. I will need their wings to create the final luminescent color of the brew.Take this knife and use it to collect 8 wings.",
-    "name": "Hue",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

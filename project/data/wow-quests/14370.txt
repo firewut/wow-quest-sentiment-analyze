@@ -1,8 +1,0 @@
-{
-    "_id": "14370",
-    "description": "Azsharite! This mysterious crystalline substance has been used to forge weapons of fel power, but in our hands, we've discovered that it's capable of focusing enormous amounts of energy. It may be the biggest goblin discovery since kaja'mite.But what is it? Where does it come from? Why is it located only here? Science demands an answer! I need more samples to study. Search out Azsharite deposits all along the nearby cliffs. ",
-    "name": "Mysterious Azsharite",
-    "requires_level": 11,
-    "side": "horde",
-    "zone": "Azshara"
-}

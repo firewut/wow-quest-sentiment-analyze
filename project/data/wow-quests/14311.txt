@@ -1,7 +1,0 @@
-{
-    "_id": "14311",
-    "description": "What a glorious time we live in!The former wastelands of Desolace are blooming, bursting with life. Imagine, <class>, if all of Azeroth's wastelands awoke in such a fashion! Perhaps someday...It's true that there are weighty issues at hand here, but why not take a moment to appreciate the wondrous miracle we are witnessing?In fact, why not take part in it? Here are some Cenarion Seeds. Use them at the more fertile spots of the wildlands.Perfect medicine for lifting a weary soul!",
-    "name": "Taking Part",
-    "requires_level": 29,
-    "zone": "Desolace"
-}

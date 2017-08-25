@@ -1,7 +1,0 @@
-{
-    "_id": "27430",
-    "description": "Although these Grimtotems were simply a nuisance to me, Captain Vimes will want to know of your deeds. Bring him the news that you have tracked down and dealt with those responsible for the burning of the Shady Rest Inn.It's too late to save Jim Hyal's family, but perhaps the Grimtotems will think twice before attacking anyone connected to Theramore.",
-    "name": "Justice for the Hyals",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "36250",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Active Choice: Lumber Mill",
-    "requires_level": 90,
-    "zone": "Quests"
-}

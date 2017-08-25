@@ -1,7 +1,0 @@
-{
-    "_id": "9585",
-    "description": "There's just one sample remaining before I can send this set of crystals to the Exodar, <name>. The final sample must come from the satyr stronghold of Axxarien to the northwest.I'm not certain what to expect from this crystal sample, but I'm sure there will be some signs of corruption. Take care to mine your shard from the crystal that looks like the ones you took your previous samples from, or else our researchers cannot make a valid comparison.",
-    "name": "The Final Sample",
-    "requires_level": 10,
-    "zone": "Bloodmyst Isle"
-}

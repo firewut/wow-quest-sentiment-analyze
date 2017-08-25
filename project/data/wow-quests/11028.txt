@@ -1,7 +1,0 @@
-{
-    "_id": "11028",
-    "description": "This almanac presages the return of Terokk, the most powerful and terrible Skettis king in arakkoa history.I always believed this to be the mere legend, <name>.  The return of the talonpriests and your recovery of this tome indicate otherwise.With each day, Terokk comes closer to returning to full strength.  Your only chance is to bring him to our world prematurely.  Return to Skettis and speak to Adaris about this.  Let us hope he has the wisdom to do the right thing.",
-    "name": "Countdown to Doom",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

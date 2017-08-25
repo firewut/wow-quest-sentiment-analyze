@@ -1,7 +1,0 @@
-{
-    "_id": "25496",
-    "description": "I don't know if you've picked up on this, but there's a bit of a rivalry between the ogre members of the Twilight's Hammer and the rest of us.For me... it's personal.This one ogre called Gromm'ko has a pet raptor named \"Butcher.\"  He's taken out the last three of my corehound pups.I think this last one will fare differently.  He's got a real killer's instinct.Go to the Seat of the Chosen and challenge Gromm'ko to a match between our two beasts.  Humiliate him for me, <name>damus.",
-    "name": "Grudge Match",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

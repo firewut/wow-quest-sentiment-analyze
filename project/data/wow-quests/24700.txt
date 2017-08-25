@@ -1,7 +1,0 @@
-{
-    "_id": "24700",
-    "description": "The Lakkari Tar Pits, just north of here, conceal a hidden treasure: rare flowers that grow at the bottom of the pits.  These tarblossoms, as they're called, are valued for their beauty and their durability.  It's been a while since I last harvested tarblossoms, so there should be some new plants growing at the bottom of the pits.  Grab some for me?By the way, good luck swimming in tar.  It's nothing like swimming in water.",
-    "name": "Hard to Harvest",
-    "requires_level": 49,
-    "zone": "Un'Goro Crater"
-}

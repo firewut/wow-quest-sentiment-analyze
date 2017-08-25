@@ -1,8 +1,0 @@
-{
-    "_id": "42756",
-    "added_in_patch": 7,
-    "description": "I am weak. The hunger is devastating, my friend. I understand now why your dragon rests in these pools.<cough, cough>I came to warn you but... it looks like I was too late.I hear him outside now. Ael'Yith... is... here...",
-    "name": "Hunger's End",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

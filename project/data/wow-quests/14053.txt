@@ -1,7 +1,0 @@
-{
-    "_id": "14053",
-    "description": "My husband, Jasper, was going to make more cranberry chutney, but it looks like he's busy trying to make sure there's enough candied sweet potatoes for all the guests. Would you be willing to help? If you're a cook, you can get the tangy Wetlands cranberries you'll need from the Pilgrim's Bounty vendor outside Ironforge.If you don't feel up to cooking, you could always ask someone else to make the chutney, too.",
-    "name": "We're Out of Cranberry Chutney Again?",
-    "requires_level": 1,
-    "zone": "Pilgrim's Bounty"
-}

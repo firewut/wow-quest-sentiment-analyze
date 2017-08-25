@@ -1,7 +1,0 @@
-{
-    "_id": "6942",
-    "description": "",
-    "name": "Call of Air - Slidore's Fleet",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

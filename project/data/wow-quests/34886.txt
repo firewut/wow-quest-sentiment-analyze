@@ -1,8 +1,0 @@
-{
-    "_id": "34886",
-    "added_in_patch": 6,
-    "description": "<Ikky cheeps again, then begins gnawing on his foot.Looking out across the nearby hillside, you spy tiny ravager grubs inching along the grass.>",
-    "name": "Baby Bird",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

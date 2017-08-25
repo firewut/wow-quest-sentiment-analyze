@@ -1,7 +1,0 @@
-{
-    "_id": "10824",
-    "description": "The survival of the Scryers hinges on outrecruiting Kael'thas.  Every pilgrim from Quel'Thalas that joins his side brings him closer to victory.  The opposite is true for us.Soon, however, we will run out of recruits and it will come down to what side can kill the other quicker.  Prove your worth to the Scryers by bringing me Sunfury signets worn by  high-ranking blood elves allied with Kael'thas and Illidan.  You'll find them at Eclipse Point to the west and the Ruins of Karabor, to the northeast.",
-    "name": "Sunfury Signets",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39331",
-    "added_in_patch": 7,
-    "description": "A thought occurred to me recently, <name>. The naga have been known to hoard all manner of potions, so they might have the sort of corks we need.In my educated opinion, I believe the best place to start searching is around the Eye of Azshara!Try not to waste your time in there dealing with the naga's goings on, just look for some replacement corks.",
-    "name": "Put a Cork in It",
-    "requires_level": 102,
-    "zone": "Alchemy"
-}

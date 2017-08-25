@@ -1,7 +1,0 @@
-{
-    "_id": "24703",
-    "description": "What ho, traveler!  You must know that you set foot upon the camp of Maximillian of Northshire!  Mayhap you have heard tales sung of my many exploits?  I can see from the look in your eye that you have.  That glint of recognition plays upon your visage like the White Lady's reflection o'er Stonecairne Lake.It is clear to me that you seek adventure.  As you seem able enough, and thoroughly well-intentioned, I would offer to make you my squire.",
-    "name": "An Important Lesson",
-    "requires_level": 51,
-    "zone": "Un'Goro Crater"
-}

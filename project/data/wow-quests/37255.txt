@@ -1,8 +1,0 @@
-{
-    "_id": "37255",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "COLISEUM WINNER FLAG (WEEKLY RESET)",
-    "requires_level": 100,
-    "zone": "The Coliseum"
-}

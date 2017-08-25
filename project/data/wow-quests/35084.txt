@@ -1,8 +1,0 @@
-{
-    "_id": "35084",
-    "added_in_patch": 6,
-    "description": "The Warsong clan, in their lust for dominance, have turned to the darkness of the void for power. Dark shamanism is a loathsome, dangerous practice that abuses the elemental gift I have bestowed upon them.There is one among the Warsong that calls out the loudest to the void, an elder shaman named Kuhlrath. Slay him and the rest of his dark shaman.I will not allow the Warsong to abuse the elements and desecrate tradition.",
-    "name": "Silence the Call",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

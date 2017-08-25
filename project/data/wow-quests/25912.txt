@@ -1,7 +1,0 @@
-{
-    "_id": "25912",
-    "description": "The world is unraveling around us, <name>. Old enemies seek to destroy us from one end, while ancient forces close in on the other.<Elder Sareth'na sighs.>I have seen better days - brighter days, and I long for them...Across Stonetalon Peak lies the ruins of our old outpost - now overrun with darkness. If you happen to go that way, could you search for my sketch book? It holds many happy memories. I would reward you well for its return.",
-    "name": "Seen Better Days",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

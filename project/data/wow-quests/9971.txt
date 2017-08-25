@@ -1,7 +1,0 @@
-{
-    "_id": "9971",
-    "description": "I have no idea what killed all of the druids here.  I've been away for a couple of days on a survey of the Bone Wastes to the south.Please, you must help me to uncover what's behind this horrible tragedy.  Go into the thicket and look for a clue that might reveal something to us.  When I was in there briefly, I could have sworn I saw a dead Broken and a strange object next to him. And don't worry about Treelos - he might have been driven insane by what happened, but I think he's mostly harmless.",
-    "name": "Clues in the Thicket",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

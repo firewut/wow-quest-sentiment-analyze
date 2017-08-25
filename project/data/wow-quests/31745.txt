@@ -1,9 +1,0 @@
-{
-    "_id": "31745",
-    "added_in_patch": 5,
-    "description": "\"Sha\" energy, hm? Tread carefully, <name> - there's a hidden darkness to this continent.We'll stay behind to mop up the rest of the Horde, but we need you to continue with the main mission: the rescue of Captain Taylor, and the retrieval of Prince Anduin.Our aerial scouts think we've found the wreckage of the flagship near Paw'don Village. Go there and report to Admiral Rogers for instructions.You are welcome to use my gyrocopter.",
-    "name": "Onward and Inward",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

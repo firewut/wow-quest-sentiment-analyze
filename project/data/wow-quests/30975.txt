@@ -1,8 +1,0 @@
-{
-    "_id": "30975",
-    "added_in_patch": 5,
-    "description": "Let's press these insects back across the bridge and break their spirits!Follow my lead.",
-    "name": "The Taking of Dusklight Bridge",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

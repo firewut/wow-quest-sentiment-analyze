@@ -1,8 +1,0 @@
-{
-    "_id": "42443",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Arluin Wants In (Tracking Quest)",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

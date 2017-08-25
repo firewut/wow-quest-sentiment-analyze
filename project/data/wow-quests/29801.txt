@@ -1,7 +1,0 @@
-{
-    "_id": "29801",
-    "description": "Hello, <name>! You've earned a reputation among the flight as having - shall we say - 'nimble fingers.'We need someone of your skills for a matter of utmost delicacy. Before I reveal more, we need to know you're the right man for the job.When the course of battle takes you to the Eye of Eternity, I need you to pickpocket Hagara the Stormbinder to retrieve a cryptomancer's decoder ring. Are you up to the task?",
-    "name": "Proving Your Worth",
-    "requires_level": 85,
-    "zone": "Rogue"
-}

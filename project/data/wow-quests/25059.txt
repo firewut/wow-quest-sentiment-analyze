@@ -1,7 +1,0 @@
-{
-    "_id": "25059",
-    "description": "The General is too preoccupied with the looters in Taurajo. Too soft! We ought to be focused on our next move against the Horde.There's valuable intelligence that might be compromised if we allow the ruins of Taurajo to continue to burn. While you're running the General's errand, dig around for any maps or notes you can find. I can speak a little of the orcish tongue - I'll be able to make sense of what you find.",
-    "name": "The Taurajo Briefs",
-    "requires_level": 30,
-    "zone": "Southern Barrens"
-}

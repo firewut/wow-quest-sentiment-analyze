@@ -1,8 +1,0 @@
-{
-    "_id": "10295",
-    "description": "My warp rift generator is complete. You can now use it to summon a true prince of the void, a creature whose soul shard will tell us much of what lies beyond.  Go south in Void Ridge and use my warp rift generator near the void stones.  Look for a cluster of crystals near the edge of the abyss.  A huge warp rift will form and Void Baron Galaxis will surely appear.  Destroy this creature and bring me his soul shard.  ",
-    "name": "From the Abyss",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

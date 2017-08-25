@@ -1,9 +1,0 @@
-{
-    "_id": "36127",
-    "added_in_patch": 6,
-    "description": "As a Farseer, I can peer into the far corners of Ashran while within Stormshield. But you must go forth and see it for yourself, <name>.",
-    "name": "Survey Ashran",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Ashran"
-}

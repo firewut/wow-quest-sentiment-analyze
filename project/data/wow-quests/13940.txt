@@ -1,7 +1,0 @@
-{
-    "_id": "13940",
-    "description": "Hold on tight, <name>.  The journey back to the waking world can be a little rough on unprepared minds and bodies.",
-    "name": "Leaving the Dream",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12554",
-    "description": "<name>, head back down there!You'll find the leader of Kolramas, Malas the Corrupter, gloating from atop the crashed necropolis.Kill him and bring me his head!",
-    "name": "Malas the Corrupter",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

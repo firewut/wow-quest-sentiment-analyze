@@ -1,8 +1,0 @@
-{
-    "_id": "10400",
-    "description": "The honorable Warp-Scryer has told me of your perils, <name> - and of the new foe you've discovered. If Kryv is to be believed, this 'Arazzius the Cruel' is as powerful and evil as any foe the Sons of Lothar have ever faced. Will you stand for us now, <name>? Will you face this Legionlord and deliver the Light's justice upon him? If so, you will find him at the Pools of Aggonar. If not, his evil will most certainly find you. \r\n",
-    "name": "Overlord",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

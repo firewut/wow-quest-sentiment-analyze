@@ -1,7 +1,0 @@
-{
-    "_id": "28508",
-    "description": "I just received the most curious missive.  Curious indeed...The city of Andorhal is in the middle of a three-way war between the Forsaken, the Alliance, and the Scourge.  It sounds like Sylvanas has made her move, and to make matters interesting, she's put Koltira Deathweaver, the death knight, in command.They've asked for you by name, <name>.  Speak with Kellen Kuhn, the bat handler.  He'll put you on the first bat out to Andorhal.",
-    "name": "The Battle for Andorhal",
-    "requires_level": 34,
-    "zone": "Western Plaguelands"
-}

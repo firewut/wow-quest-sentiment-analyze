@@ -1,8 +1,0 @@
-{
-    "_id": "42751",
-    "added_in_patch": 7,
-    "description": "We most not delay! If Keeper Remulos is in danger, he must be protected.\r\n\r\nWith the dreamcatcher, we should be able to enter the lair of the owlbeast Boneflux.\r\n\r\nIt must be defeated so Keeper Remulos can break free!",
-    "name": "Moon Reaver",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

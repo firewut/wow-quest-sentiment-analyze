@@ -1,8 +1,0 @@
-{
-    "_id": "35490",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Ahn'kahet: The Old Kingdom Reward Quest",
-    "requires_level": 80,
-    "zone": "Quests"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31005",
-    "added_in_patch": 5,
-    "description": "You will forgive my current state. I have slept for many years.A Klaxxi'va should have been here to attend my Wakening with kypari sap... but you will have to do.I sense the buzzing of sapflies to the south. They gorge on the nourishing sap I need. Bring them to me.",
-    "name": "Wakening Sickness",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

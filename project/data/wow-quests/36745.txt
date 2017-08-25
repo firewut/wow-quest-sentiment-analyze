@@ -1,7 +1,0 @@
-{
-    "_id": "36745",
-    "description": "This artifact has been restored to a remarkably excellent condition, suitable for display in your Garrison.",
-    "name": "Pristine Warsinger's Drums",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

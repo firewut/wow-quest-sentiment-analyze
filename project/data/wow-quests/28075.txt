@@ -1,7 +1,0 @@
-{
-    "_id": "28075",
-    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to Dire Maul's Capital Gardens, east of Feathermoon Stronghold, immediately!The fallen Highborne Prince Tortheldrin is using the massive demon Immol'thar to control the area! If you so choose, head to the Capital Gardens and speak with Estulan, a recently discovered pure Highborne seeking to reclaim the fallen city for his people.",
-    "name": "Adventurers Wanted: Dire Maul Capital Gardens",
-    "requires_level": 41,
-    "zone": "Dire Maul"
-}

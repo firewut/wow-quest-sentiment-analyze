@@ -1,9 +1,0 @@
-{
-    "_id": "35482",
-    "added_in_patch": 6,
-    "description": "Admiral Taylor had figured out who was behind all this. He told us to save who we could... he wanted to handle matters himself.We never heard from him again, but we have our orders.Please... please find him. He went towards the farm.",
-    "name": "Admiral Taylor",
-    "requires_level": 96,
-    "side": "alliance",
-    "zone": "Spires of Arak"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12414",
-    "description": "Cap'n Stoutmantle left most of our calvary... cavlary... uh, horsemen at the fight for Venture Bay.We chose a good place to put the camp 'cause there are tons of highland mustangs running around near here and in the Boulder Hills to the northeast. The Cap'n put me in charge of capturing some of 'em.Will you help? I've got a stick and some string, and there are loads of wild carrots growing near the camp. Pick the carrots and use them with the stick to lure in the mustang, then ride it back here.",
-    "name": "Mounting Up",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

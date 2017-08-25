@@ -1,7 +1,0 @@
-{
-    "_id": "25344",
-    "description": "There's no way the Gordunni made these. They're being supplied. Someone is giving them gifts of power, and we need to find out who.The upper-class Gordok that guard Dire Maul will know more about this. Orhan is no doubt having you thin their numbers, but I'll need one alive.Take the orb back. It's similar to a Soulstone, so I've made some...adjustments. Hold it up in front of a weakened Gordok ogre, and once you've captured him, bring it back here.",
-    "name": "Ogre Abduction",
-    "requires_level": 34,
-    "zone": "Feralas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25258",
-    "description": "Griswold, chained up over there on the cliffs, is my newest gladiator.  We found him just south of here, sniffing around with Northwatch soldiers.  I had my men nab him up, and now he works for me.He looks tough enough, but he hasn't really been battle-tested yet.  Go pick a fight with him so I can see if he's worth keeping around.",
-    "name": "Griswold Hanniston",
-    "requires_level": 8,
-    "side": "horde",
-    "zone": "Durotar"
-}

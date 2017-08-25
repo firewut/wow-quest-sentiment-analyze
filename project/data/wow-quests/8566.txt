@@ -1,7 +1,0 @@
-{
-    "_id": "8566",
-    "description": "",
-    "name": "Past Victories in Arathi",
-    "requires_level": 1,
-    "zone": "Quests"
-}

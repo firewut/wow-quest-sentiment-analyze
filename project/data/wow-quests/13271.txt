@@ -1,7 +1,0 @@
-{
-    "_id": "13271",
-    "description": "The object is not a crystal at all, but some form of organ, encased in ice.As you touch it, your hand reels in horrible pain.  You feel as if your hand has been cut, yet there is no visible wound.As you collect your thoughts, you hear a young boy's voice nearby.\"You really shouldn't have done that.\"",
-    "name": "A Voice in the Dark",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

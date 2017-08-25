@@ -1,7 +1,0 @@
-{
-    "_id": "8487",
-    "description": "This was a fully functional arcane sanctum before Arthas and his army of Scourge decided to plow through it on their way to Silvermoon.Now it's as useful to us as any part of the Dead Scar.  The soil is tainted, undead are drawn to it and the energy in the ley lines is completely disrupted.What I want to know, <name>, is whether this taint is reversible or not.  I want you to collect soil samples from this area so I can study them.  Perhaps with time we can set things back to normal.",
-    "name": "Corrupted Soil",
-    "requires_level": 7,
-    "zone": "Eversong Woods"
-}

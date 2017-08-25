@@ -1,7 +1,0 @@
-{
-    "_id": "24582",
-    "description": "Instructor Razuvious smugly struts about the Military Quarter of Naxxramas. It is said that only a death knight personally trained by him could possibly even withstand the prowess of his blade.You and your group are going to prove everyone wrong.The Council of Six has decreed that Razuvious must die!",
-    "name": "Instructor Razuvious Must Die!",
-    "requires_level": 80,
-    "zone": "Naxxramas"
-}

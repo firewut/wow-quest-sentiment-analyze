@@ -1,7 +1,0 @@
-{
-    "_id": "39453",
-    "description": "The Shadow Council are summoning their demonic masters upon a mountain they are calling the Throne of Kil'jaeden. Remember the first war, we know the destruction the legion can cause if they are unchecked.\r\n\r\nHead to the Throne of Kil'jaeden and let's put an end to this invasion before it can begin.",
-    "name": "Assault on the Throne of Kil'jaeden",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

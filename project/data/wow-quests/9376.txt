@@ -1,8 +1,0 @@
-{
-    "_id": "9376",
-    "description": "That wounded pilgrim seems to be shouting something about a pack.When you encountered her, did you see a pack nearby? Hmm...She must've left it when fleeing from her attackers. The quillfang ravagers, in their ravine to the south, are known to attack solitary travelers.If she doesn't calm down, I won't be able to tend her wounds. Her stubbornness may just cost her her life.Go to Dustquill Ravine and see if you can find her campsite. I'm willing to bet she left it there.",
-    "name": "A Pilgrim's Plight",
-    "requires_level": 61,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

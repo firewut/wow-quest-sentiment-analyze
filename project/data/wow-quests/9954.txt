@@ -1,7 +1,0 @@
-{
-    "_id": "9954",
-    "description": "<Arechron shows you a grime covered letter.>I just received this letter. It's from a clan of ogres known as Warmaul that rule the northwestern lands of Nagrand. It says that they have Corki and if we don't cooperate, they're going to eat him. Admittedly, Corki is a moron, but he's still my blood. Will you rescue him, <name>?I presume that he's locked up in a cage somewhere on Warmaul Hill. That should be your first stop.",
-    "name": "Corki's Ransom",
-    "requires_level": 65,
-    "zone": "Nagrand (Outland)"
-}

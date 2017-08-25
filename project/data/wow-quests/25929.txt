@@ -1,8 +1,0 @@
-{
-    "_id": "25929",
-    "description": "Greetings, <class>. I am Erunak, a fellow survivor of this savagery.I'm afraid your travails have only just begun. The naga have been scouring these waters, attacking anyone that still lives.You are not yet equipped to survive here, but I can remedy that.Just outside this ship live a special breed of starfish. Bring me some of them along with a conch shell. I'll prepare an enchantment that should help you grow accustomed to your environment.",
-    "name": "Sea Legs",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30808",
-    "added_in_patch": 5,
-    "description": "The yaungols stole our luckydos! Mean riders with spears took them from our caravan of brothers coming down the Burlap Trail.This is very bad fortune. If the yaungol discover the secrets of luckydos all grummles will be in big trouble.Recover our luckydos from Fire Camp Ruqin north of here and we will pay many fortunes to you.",
-    "name": "A Grummle's Luck",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

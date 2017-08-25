@@ -1,7 +1,0 @@
-{
-    "_id": "25064",
-    "description": "Moraya has been lookin' for some help with tha raptors. Ya should talk to her on the other side of Darkspear Hold when ya get a chance.",
-    "name": "Moraya",
-    "requires_level": 1,
-    "zone": "Echo Isles"
-}

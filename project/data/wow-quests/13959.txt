@@ -1,7 +1,0 @@
-{
-    "_id": "13959",
-    "description": "We had the best time with you, <name>. We wish you could be our  daddy  now, but you have to take us back to Orphan Matron Aria in Dalaran.Maybe you could come visit us again sometime? We loved meeting Winterfin hatchlings and getting to see the dragon queen. No one will believe us when we say we met a Great One!We going to miss you, <name>. We promise to write letter sometime, oki? ",
-    "name": "Back To The Orphanage",
-    "requires_level": 70,
-    "zone": "Children's Week"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30991",
-    "added_in_patch": 5,
-    "description": "When I trained as a Brewmaster, I didn't expect to use my knowledge like this...\r\n\r\nDid you know beer catches fire when lit? Well, with yaungol oil mixed in, it's downright explosive.\r\n\r\nI've mixed the oil in with these kegs. Roll them at the yaungol over by the gate, and ignite them when you get close. \r\n\r\nIt'll take a few seconds for the keg to blow, but when it does...\r\n\r\nWell, let's just say I wouldn't want to be over there.\r\n\r\nWhich is why I'll be over here. Mourning the loss of this brew.",
-    "name": "Do a Barrel Roll!",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

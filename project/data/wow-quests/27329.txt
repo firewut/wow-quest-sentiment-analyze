@@ -1,7 +1,0 @@
-{
-    "_id": "27329",
-    "description": "I am familiar with these artifacts. I believe that they were brought here by Magatha Grimtotem herself. But she's not amongst the Grimtotem on Darkcloud Pinnacle. She disappeared right after she arrived, and no one knows where she is now.Maybe we can find out.Take the rattle, the writ, and the drum out to Arikara's Needle. If my guess is correct, the wind serpent will appear again. You'll have to defeat it to gain knowledge of where Magatha is hiding.",
-    "name": "Invoking the Serpent",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

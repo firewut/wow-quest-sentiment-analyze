@@ -1,8 +1,0 @@
-{
-    "_id": "9945",
-    "description": "We were en route to the Ancestral Grounds when we were ambushed by Warmaul. They came from all sides, killing several of the procession guards and many of the others. They even desecrated the remains of the elder in the wagon.And for what? So they could humiliate us and display their power. Not even Boulderfist would have sunk so low.I am a spiritual orc, <name>, but even I have limitations. Find the attackers at Warmaul Hill to the northwest and destroy them!",
-    "name": "War on the Warmaul",
-    "requires_level": 65,
-    "side": "horde",
-    "zone": "Nagrand (Outland)"
-}

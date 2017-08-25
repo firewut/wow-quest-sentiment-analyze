@@ -1,9 +1,0 @@
-{
-    "_id": "34314",
-    "added_in_patch": 6,
-    "description": "Lissen mon, dem ogres, got da jump on me wid an artifact wid powerful mojo. Next t'ing I know I wake here wid broken bones an' dis chain on me leg. I called to da spirits ta break it, but da spirits here no answer.Gotta go wid da old methods ta get out. Dere be a big ogre in da cave here called Rugrum who has da key to me shackle. Could ye go put a blade in his belly and get me dat key?",
-    "name": "Out of the Chains",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

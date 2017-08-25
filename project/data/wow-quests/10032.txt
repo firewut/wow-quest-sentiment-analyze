@@ -1,7 +1,0 @@
-{
-    "_id": "10032",
-    "description": "Have you ever noticed the behavior of the Lost Ones in Tuurem? They wander the ruins, searching for surviving scraps of anything made by the draenei.Their Broken masters know better. They've left their former lives and identities behind and become something completely different.I believe we can use the Lost Ones' compulsion to our benefit and gather old draenei relics from them. Why risk life and limb battling the Broken, when we can profit from picking our targets wisely?",
-    "name": "Artifacts from Tuurem",
-    "requires_level": 62,
-    "zone": "Terokkar Forest"
-}

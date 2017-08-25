@@ -1,8 +1,0 @@
-{
-    "_id": "30386",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "A Dish for Ella",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

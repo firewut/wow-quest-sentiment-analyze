@@ -1,7 +1,0 @@
-{
-    "_id": "12483",
-    "description": "Say, while yer here, how bout ya help ol' Prigmon with a little chore? I got a friend who can make a mean stew - one like ya never tasted before!There be a few ingredients found in these parts that he be needin'. They be in ruins to the southwest and the camp just north o' here.Whatd'ya say, mon?",
-    "name": "Shimmercap Stew",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

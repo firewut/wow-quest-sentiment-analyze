@@ -1,8 +1,0 @@
-{
-    "_id": "30607",
-    "added_in_patch": 5,
-    "description": "The hozen have a yeti! They call it Old Poot Poot and keep it at the back of their cave.Hozen are normally scared of yeti, but now they feed it grummles.They have a Hunter Chief, Cho Cho the Wicked. Can you see if he has a key on him to the yeti shackles?Bad fortune for hozen if a yeti is loose in their fort.",
-    "name": "Hozen Love Their Keys",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

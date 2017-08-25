@@ -1,8 +1,0 @@
-{
-    "_id": "36936",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking Quest: Leorajh",
-    "requires_level": 100,
-    "zone": "Garrison Support"
-}

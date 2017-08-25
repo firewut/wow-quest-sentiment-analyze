@@ -1,7 +1,0 @@
-{
-    "_id": "28405",
-    "description": "Blackrock Depths has long been home to our enemies, but now SI:7 sends word that the Dark Irons and Twilight's Hammer are increasing their collaboration. Using the knowledge of the cult, the Dark Iron dwarves are imbuing their weapons with elemental powers. They've outfitted the Anvilrage legion with these fearsome new weapons.I want you to go into Blackrock Depths and gather the weapons from the Anvilrage dwarves there and break them over the Black Anvil in the heart of Shadowforge City.",
-    "name": "Weapons of Darkness",
-    "requires_level": 50,
-    "zone": "Blackrock Depths"
-}

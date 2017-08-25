@@ -1,7 +1,0 @@
-{
-    "_id": "7082",
-    "description": "The battle lines of Alterac Valley are ever shifting.  Territories swing back and forth as we meet our opponents in deadly combat.  And graveyards, <name>, are where battles rage most fierce.I want you to attack an Alliance held graveyard!  Find a graveyard with an Alliance banner in its midst and pull it from the ground.Do that and your task for me will be complete, but... if you hold the graveyard for a few minutes, then it will be ours and troops will come and relieve you.",
-    "name": "The Graveyards of Alterac",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

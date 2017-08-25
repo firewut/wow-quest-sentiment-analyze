@@ -1,8 +1,0 @@
-{
-    "_id": "26927",
-    "description": "So we've got troggs working for kobolds, and kobolds working for gnolls. The gnolls must've moved in from the Wetlands.How do I know? Well, they brought friends, because what's left of the Loch is swarming with Bluegill murlocs that were never there before.Pests are pests, but this coordination is worrying. I need you to talk to Cannary Caskshot. She's one of the best hunters in these parts, and she'll know how to handle murlocs, if you can pull her away from her mug long enough.",
-    "name": "Suddenly, Murlocs!",
-    "requires_level": 12,
-    "side": "alliance",
-    "zone": "Loch Modan"
-}

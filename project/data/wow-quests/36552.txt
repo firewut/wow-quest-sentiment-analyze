@@ -1,8 +1,0 @@
-{
-    "_id": "36552",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Garrison Max-level Choice Tracker: Gorgrond Primal Forest",
-    "requires_level": 100,
-    "zone": "Frostfire Ridge"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9159",
-    "description": "You've proven your worth as an ally, <name>.  I need you to continue your task and track down more plagued wildlife.  This time seek out some of the more dangerous beasts.  Hunt the spindleweb lurkers west of the Dead Scar and the vampiric mistbats just south of here.  Return to me when you're done.",
-    "name": "Curbing the Plague",
-    "requires_level": 11,
-    "zone": "Ghostlands"
-}

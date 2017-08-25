@@ -1,8 +1,0 @@
-{
-    "_id": "38159",
-    "added_in_patch": 6.1,
-    "description": "",
-    "name": "WOD 100-109 H",
-    "requires_level": 90,
-    "zone": "Quests"
-}

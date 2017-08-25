@@ -1,8 +1,0 @@
-{
-    "_id": "26707",
-    "description": "I need large amounts of corpseweed for Master Harris's concoctions. It's difficult to obtain, but we can't let our supply dwindle.Corpseweed is tough stuff to tangle with... the plant will get you before you get it, if you're not careful! But if you'd like to help out, I'll eagerly pay you for any you gather yourself.You'll find plenty of it all over the Yorgen Stead to the southeast.",
-    "name": "A Deadly Vine",
-    "requires_level": 22,
-    "side": "alliance",
-    "zone": "Duskwood"
-}

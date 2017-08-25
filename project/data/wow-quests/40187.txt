@@ -1,8 +1,0 @@
-{
-    "_id": "40187",
-    "added_in_patch": 7,
-    "description": "Well, lad, I'm afraid I'm at me wits' end with these scales. Not quite sure how to fashion the remaining pieces fer a full set.However, I've heard that the elves of Azsuna had some great crafters in their cities. Perhaps one or two of them still exist.Go there and search fer a master. Maybe they can fill in the missing patterns fer us.",
-    "name": "Links in the Chain",
-    "requires_level": 102,
-    "zone": "Leatherworking"
-}

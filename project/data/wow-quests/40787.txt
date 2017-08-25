@@ -1,9 +1,0 @@
-{
-    "_id": "40787",
-    "added_in_patch": 6.2,
-    "description": "Cold to the touch when you first reach for it, this ember bursts into flame without warning and snuffs itself just as quickly. As the stone rests in your hand, visions of fire and of dragons dance through your mind, but you can hear the hustle and bustle of Stormwind and the familiar sight of circle portals bubbles to the top.",
-    "name": "The Smoldering Ember",
-    "requires_level": 86,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "27361",
-    "description": "The Light truly shines in you and your dedication to the Alliance, <name>. You serve as an example to your fellow priests and comrades in arms.In recognition of your deeds, King Wrynn has commissioned the royal enchanter to create a special staff.The materials for such a weapon can only be found in the cursed Shadowfang Keep in Silverpine Forest. Travel there and find the lost holy symbol of Commander Springvale, a supply of moontouched wood, and ghostly essence from the spirits haunting the keep.",
-    "name": "Favored of the Light",
-    "requires_level": 20,
-    "zone": "Priest"
-}

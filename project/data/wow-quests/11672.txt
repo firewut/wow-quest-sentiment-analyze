@@ -1,8 +1,0 @@
-{
-    "_id": "11672",
-    "description": "You've come to enlist, right?  Normally you'd have to stand in line like the other recruits.  Normally you'd be out of luck because the recruitment ledger's gone missing and I can't process anyone until the new books get here.Fortunately for you, <name>, I've heard about you and what you did in Outland.  To be honest, you're a cut above these poor saps.  Lines aren't for you.Go to the barracks and speak to General Arlos.  He'll be more than happy to meet with someone of your caliber.",
-    "name": "Enlistment Day",
-    "requires_level": 68,
-    "side": "alliance",
-    "zone": "Borean Tundra"
-}

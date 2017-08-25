@@ -1,7 +1,0 @@
-{
-    "_id": "14250",
-    "description": "We're going to need some more animate basalt. There's only one reliable source for that in the area, a mountain giant named Balboa. We can't be killing the mountain giant if we want to keep stocked in the stuff long term, so we've just been chipping off pieces at a time.You'll be able to see his path northeast and east of here. Find him, place the charge ahead on the path, and then hide until it goes off. Once he's cleared the area, you should be able to retrieve the basalt and bring it back to me.",
-    "name": "Renewable Resource",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

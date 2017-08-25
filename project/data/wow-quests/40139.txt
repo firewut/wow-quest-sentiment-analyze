@@ -1,8 +1,0 @@
-{
-    "_id": "40139",
-    "added_in_patch": 7,
-    "description": "While you be here, I got a favor t'ask you.I been hearin' whispers about one big, nasty wolf dat's been causin' all kinds of trouble up in de vrykul lands. His name be Fenryr.I want his hide.",
-    "name": "The Hide of Fenryr",
-    "requires_level": 98,
-    "zone": "Skinning"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25852",
-    "description": "Pack up your gear, <name>, it's time to join up with the rest of the Northwatch forces in Southern Barrens. Your first mission in Southern Barrens should be fairly straightforward.Two days ago we received a distress signal from Commander Walpole. He and his battalion are pinned down in Stonetalon Pass, just outside of Honor's Stand. They've got Horde all over the place! Get there and help him out. I'll forward news of our alliance with the Grimtotem to Northwatch command.",
-    "name": "All's Clear",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

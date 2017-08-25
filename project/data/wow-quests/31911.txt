@@ -1,8 +1,0 @@
-{
-    "_id": "31911",
-    "added_in_patch": 5,
-    "description": "You have not yet turned to the true path of undeath. Perhaps another battle will show you the way.",
-    "name": "Deiza Plaguehorn",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

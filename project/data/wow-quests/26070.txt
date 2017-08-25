@@ -1,7 +1,0 @@
-{
-    "_id": "26070",
-    "description": "Our Earthen Ring friends here are wondering if we can lend them a hand. There are faceless down below in the Scalding Chasm that are defiling all of the wildlife.Can you take care of that for me?",
-    "name": "Clearing the Defiled",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

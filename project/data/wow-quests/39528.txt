@@ -1,8 +1,0 @@
-{
-    "_id": "39528",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Wrath of Azshara Heroic Reward Quest",
-    "requires_level": 110,
-    "zone": "Quests"
-}

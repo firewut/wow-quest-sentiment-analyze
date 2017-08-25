@@ -1,9 +1,0 @@
-{
-    "_id": "40403",
-    "added_in_patch": 7,
-    "description": "It is no small matter for me to seek the aid of a blood elf. Your leaders have turned their backs on the sacrifices made by my family and so many others.Yet I have witnessed your deeds firsthand, <name>. I have seen you fight for Azeroth time and again. And like the rest of us, you have endured many trials and hardships to reach this point.Now, I must ask your help. Will you hear me out?",
-    "name": "Clandestine Operation",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Artifact"
-}

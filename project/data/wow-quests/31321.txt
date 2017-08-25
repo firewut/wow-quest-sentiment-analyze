@@ -1,8 +1,0 @@
-{
-    "_id": "31321",
-    "added_in_patch": 5,
-    "description": "Heeeey it's my friend, the <race>!I guesh you've seen me hanging 'round, but I should 'splain that I'm not drunk.I mean, look at me now! Shober as a freshwater fish!Sure I like to drown my sorrowsh in some good brew now and then, but you can't inebriate a jinyu! Might as well try to drown a fish!No, the brewsh make me shleepy, and when I shleep, I have vishions of the future.The shtronger the brew, the more potent my dreamsh! If you bring me a drink, I'll owe you one.",
-    "name": "Buy A Fish A Round?",
-    "requires_level": 90,
-    "zone": "Valley of the Four Winds"
-}

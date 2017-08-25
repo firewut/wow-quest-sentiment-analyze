@@ -1,7 +1,0 @@
-{
-    "_id": "9497",
-    "description": "When word of the so-called 'Fel Horde' reached the Warchief's ears, he was both furious and greatly saddened. Like Rend's pretenders before them, this false Horde too will fall, and its banner will adorn the wall of Grommash Hold as a testament to the Warchief's might.It falls to you to carry out the Warchief's will in this matter, <name>. It will not be an easy task, for the banner is guarded by a champion of this Fel Horde, known as Warbringer O'mrogg, and he will not yield his charge without a fight.",
-    "name": "Emblem of the Fel Horde",
-    "requires_level": 67,
-    "zone": "Hellfire Citadel"
-}

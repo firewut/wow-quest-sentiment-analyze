@@ -1,8 +1,0 @@
-{
-    "_id": "476",
-    "description": "The Gnarlpine tribe's corruption has returned!They ambushed me as I left for the Ban'ethil Barrow Den and proceeded to pillage Starbreeze Village. Something in the forest has corrupted Ursal the Mauler, their chieftain, and he is using the evil powers of the fel moss to drive them mad.I am too wounded to return to Athridas to bring him this grave news.  The task is left to you, young <class>.  We can only hope that the deranged Gnarlpines have not made it to Ban'ethil yet!",
-    "name": "Gnarlpine Corruption",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

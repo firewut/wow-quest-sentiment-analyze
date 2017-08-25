@@ -1,8 +1,0 @@
-{
-    "_id": "32193",
-    "added_in_patch": 5.1,
-    "description": "The Explorer's League sent an expedition north some days ago.We haven't heard from them since, and I'd sleep better at night knowing our folks aren't in some sort of trouble.Last I heard, Brann Bronzebeard was heading toward Mogujia in the Kun-Lai Summit.Find him and report back with their status. Fennie over there can give you a ride if you need one.",
-    "name": "To Mogujia",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

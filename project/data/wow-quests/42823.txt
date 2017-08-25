@@ -1,8 +1,0 @@
-{
-    "_id": "42823",
-    "added_in_patch": 7,
-    "description": "There is only one more obstacle standing between us and the tomb of Sally Whitemane.High Commander Goodchilde guards the path to the tomb. Although he is a zealot and a murderer, he is still a hardened knight who has dedicated his life to the eradication of our kind.He should not be underestimated...Slay him and our work here will be nearly done.",
-    "name": "The Scarlet Commander",
-    "requires_level": 110,
-    "zone": "Death Knight Campaign"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "27261",
-    "description": "It took a long time, but I found Reethe. He hide good for a human.Ogron worried that he might be crazy after so much time in swamp. You come with me for we go get answers from him.",
-    "name": "Questioning Reethe",
-    "requires_level": 35,
-    "side": "horde",
-    "zone": "Dustwallow Marsh"
-}

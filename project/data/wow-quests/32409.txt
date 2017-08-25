@@ -1,8 +1,0 @@
-{
-    "_id": "32409",
-    "added_in_patch": 5.1,
-    "description": "Any pretense that the Kirin Tor might have had at being a \"neutral\" group can officially be discarded. I'm now hearing that Jaina's got Alliance troops stowed away near Antonidas Memorial.The area's free of Sunreavers, but it still makes my blood boil to see such blatant favoritism from the Kirin Tor.Go visit the memorial, <name>... and give those Alliance dogs a good kick on your way through.",
-    "name": "The Kirin Tor's True Colors",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

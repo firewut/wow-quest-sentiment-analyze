@@ -1,8 +1,0 @@
-{
-    "_id": "40219",
-    "added_in_patch": 7,
-    "description": "It was in this place, ages ago, that Huln Highmountain challenged the great Deathwing.Today we shall re-live moments of that day through the eyes of our ancestors.For this next part of the spirit journey, we must seek out the three braziers set down many ages ago so that those who would follow in the footsteps of Huln might witness his deeds.",
-    "name": "In Defiance of Deathwing",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

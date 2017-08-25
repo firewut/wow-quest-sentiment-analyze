@@ -1,9 +1,0 @@
-{
-    "_id": "39061",
-    "added_in_patch": 7,
-    "description": "We still have little knowledge of the Horde's activities in the region, but I'm hoping you can help change that.\r\n\r\nLately the woods have been crawling with Sylvanas' agents. The few we have taken out carried orders from her Dark Rangers, who are no doubt in command of her forces here.\r\n\r\nWhile you're on the hunt, keep an eye out for any scouting orders. They may help us pinpoint Sylvanas' objective in the area.",
-    "name": "Whispers from the Dark",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

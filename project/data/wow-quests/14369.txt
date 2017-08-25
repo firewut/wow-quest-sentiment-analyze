@@ -1,8 +1,0 @@
-{
-    "_id": "14369",
-    "description": "I'm not going to lie, <name>.  I don't like the idea of having worgen among our ranks.Who knows how long 'til Krennan's concoction wears off and you're trying to chomp one of our heads off.Until that time, however, we can make ample use of your ferocity.I want you to go out in the battlefield and kill as many of those Forsaken as you can, in as brutal a way as you can.We're going to put the fear of the worgen in them, <name>.",
-    "name": "Unleash the Beast",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44383",
-    "added_in_patch": 7,
-    "description": "There is still one other pair of blades that could be of great use to you in the battles to come.I can brief you on what we know if you would like to pursue them.",
-    "name": "In Pursuit of Power",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

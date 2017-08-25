@@ -1,8 +1,0 @@
-{
-    "_id": "3361",
-    "description": "I was on my way to join my fellow gnomes at Gnomeregan, but then it all went so horribly wrong!I left Anvilmar, bags packed and wading through waist-deep snow.  Then we had this ridiculous earthquake, and I got all turned around.  I ended up here, and what's worse: the trolls stole all my stuff!<name>, I've obviously proven myself to be quite incompetent over the last day and a half.  Would you mind infiltrating the troll camps southwest of here and returning my stuff to me?",
-    "name": "A Refugee's Quandary",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Coldridge Valley"
-}

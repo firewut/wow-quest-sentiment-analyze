@@ -1,8 +1,0 @@
-{
-    "_id": "29528",
-    "description": "Hellfire Citadel's entire defensive network relies on the ramparts as a sort of early warning system.You need to take out Watchkeeper Gargolmar and Vazruden the Herald. Without them, taking the ramparts will be simple.",
-    "name": "War on the Ramparts",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Quests"
-}

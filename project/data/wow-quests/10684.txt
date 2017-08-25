@@ -1,7 +1,0 @@
-{
-    "_id": "10684",
-    "description": "According to the tablets, an artifact known as a Medallion of Karabor was kept at Baa'ri.  Only the highest-ranking draenei priests were granted these, as they allowed unfettered access into the Temple of Karabor.We must find out whether the Ashtongue have recovered the medallion that was kept at Baa'ri yet.  Its power would provide great aid in our fight against Illidan.Akama's lieutenant at Baa'ri, Oronu the Elder, receives written orders from him daily.  Obtain them and bring them to me.",
-    "name": "Oronu the Elder",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

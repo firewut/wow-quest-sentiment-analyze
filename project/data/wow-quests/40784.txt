@@ -1,8 +1,0 @@
-{
-    "_id": "40784",
-    "added_in_patch": 7,
-    "description": "Though it goes against my better judgment, it is Tyrande's wish that the Scythe of Elune be brandished once more against the new Legion threat. It is a small comfort to see it weilded by a keeper of the balance, such as yourself.\r\n\r\nKnow that the last time the scythe was wielded, it resulted in great calamity. You must be vigilant to contain the bestial wrath that ebbs within. \r\n\r\nWith those words in your heart, take the scythe and bring its fury against our foes. May the light of Elune protect you.",
-    "name": "Its Rightful Place",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

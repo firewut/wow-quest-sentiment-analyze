@@ -1,8 +1,0 @@
-{
-    "_id": "30979",
-    "added_in_patch": 5,
-    "description": "Let's get down there and finish that big bug off, you and I.",
-    "name": "Devastation Below",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

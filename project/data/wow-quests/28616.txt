@@ -1,7 +1,0 @@
-{
-    "_id": "28616",
-    "description": "Before we continue, let us have a moment of silence for our fallen brother, Orkus, for without him, we would have been destroyed by the Stormpike onslaught. This is for you, brother!<Cromush takes a knee.>Now, <name>, do not think that I forgot your part in all of this! That is why you get the honors of detonating the goblin pocket-nukes.Are you ready? FOR THE HORDE!",
-    "name": "Stormpike Apocalypse",
-    "requires_level": 21,
-    "zone": "Hillsbrad Foothills"
-}

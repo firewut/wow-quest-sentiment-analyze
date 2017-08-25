@@ -1,8 +1,0 @@
-{
-    "_id": "34649",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette/Treasure: Smoldering True Iron Deposit",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33635",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "FLAG - Seen Gazebo Explosion",
-    "requires_level": 1,
-    "zone": "Quests"
-}

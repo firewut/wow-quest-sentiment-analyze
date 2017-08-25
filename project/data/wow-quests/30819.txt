@@ -1,8 +1,0 @@
-{
-    "_id": "30819",
-    "added_in_patch": 5,
-    "description": "Thank you much, friend. After this tragedy, it is good that fortune has smiled on us and sent you.\r\n\r\nYou have gotten justice for my fallen friends, and gathered the necessary materials to honor them. I will gather their bodies, prepare the materials for their funerals, and meet you at the graveyard. \r\n\r\nIn the meantime, however, please return to my cousin and ask him to gather the villagers for the funeral.",
-    "name": "Preparing the Remains",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

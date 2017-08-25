@@ -1,9 +1,0 @@
-{
-    "_id": "29889",
-    "added_in_patch": 5,
-    "description": "A delicious smell wafts out from the bottle on the table.A little taste couldn't hurt, right?",
-    "name": "Borrowed Brew",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

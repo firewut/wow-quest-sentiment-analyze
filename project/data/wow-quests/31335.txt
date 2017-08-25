@@ -1,8 +1,0 @@
-{
-    "_id": "31335",
-    "added_in_patch": 5,
-    "description": "I'm not very fond of mushrooms... but I'll do my best to learn.",
-    "name": "Lesson 4: Dried Needle Mushrooms",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44089",
-    "added_in_patch": 7,
-    "description": "The tome speaks of one more weapon that friend can use against our foes. \r\n\r\nDo you wish to seek it?",
-    "name": "A Greater Arsenal",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

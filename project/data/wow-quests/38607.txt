@@ -1,8 +1,0 @@
-{
-    "_id": "38607",
-    "added_in_patch": 7,
-    "description": "Escaping the grasp of Helya is no small feat. You may prove to be a worthy warrior after all.\r\n\r\nSkovald has entered Valhallas; you are running out of time. Legion has corrupted the minds of the Skovald's men. A battalion of unworthy vrykul is attempting to enter the portal to Valhallas.\r\n\r\nThe giants that protect the gates are fighting a losing battle. There is no end to Legion's onslaught.\r\n\r\nSpeak with the dragon, Vehdir, inside the gates near the portal. He will aid you on your next task.",
-    "name": "Gates of Valhallas",
-    "requires_level": 108,
-    "zone": "Stormheim"
-}

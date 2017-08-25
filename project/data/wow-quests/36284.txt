@@ -1,8 +1,0 @@
-{
-    "_id": "36284",
-    "added_in_patch": 6,
-    "description": "The Zangar Shore is home to many peculiar strains of fungi, some of which are similar to those of our native Azeroth. However, one strain in particular is most fascinating!I call it \"Zangarium Draenormycota,\" due to its prevelance in Draenor's fungal ecosystem. This unique strain of fungus is highly adaptable and can be found on many of the living organisms throughout Zangar Shore.Why does it exist? What properties does it hold?To answer these questions, I will need additional spore samples.",
-    "name": "A Fascinating Fungus",
-    "requires_level": 98,
-    "zone": "Nagrand"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35321",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Mogu'shan Palace Reward Quest",
-    "requires_level": 90,
-    "zone": "Quests"
-}

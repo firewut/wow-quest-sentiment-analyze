@@ -1,9 +1,0 @@
-{
-    "_id": "31767",
-    "added_in_patch": 5,
-    "description": "We've softened them up. Now it's time to finish them off!That fortress must be cleansed of Alliance, and we've got nowhere to keep any prisoners.<The hint of a smile crosses Nazgrim's face.>You know what to do, <name>. The cowards will run if you give them the chance.See that you don't!\r\n",
-    "name": "Finish Them!",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

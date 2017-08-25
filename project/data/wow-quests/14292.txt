@@ -1,7 +1,0 @@
-{
-    "_id": "14292",
-    "description": "You have done us a great service, <class>.While they remain an imposing force, your efforts have kept an important artifact from the naga.I shall write to my peers of your findings. Meanwhile, the water revenant on Ranazjar Isle has stood alone against a steady onslaught of naga.I would have you find him and determine if there is some way we can assist him.",
-    "name": "The Enemy of Our Enemy",
-    "requires_level": 28,
-    "zone": "Desolace"
-}

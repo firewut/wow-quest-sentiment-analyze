@@ -1,8 +1,0 @@
-{
-    "_id": "30622",
-    "added_in_patch": 5,
-    "description": "Without the wall to protect us, we barely stand a chance. If you hadn't gathered so many people to help us, we wouldn't have a prayer.Check in with Captain Oakenshield - he should be up near the break in the wall. Kill as many mantid as you can on the way there.If we win, we win. If we lose, we go down fighting. For Pandaria!",
-    "name": "The Swarm Begins",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "40222",
-    "added_in_patch": 7,
-    "description": "See this giant cave? There's a terrifyingly powerful imp mother inside.\r\n\r\nBut that's not the good part. The good part is what she has.\r\n\r\nApparently, she's some kind of keeper of fel secrets. She's in there performing profane Legion rites and scribing them into a book.\r\n\r\nWe need that power! We need her tome!",
-    "name": "The Imp Mother's Tome",
-    "requires_level": 98,
-    "zone": "Demon Hunter"
-}

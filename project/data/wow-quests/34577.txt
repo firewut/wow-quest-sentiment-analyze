@@ -1,9 +1,0 @@
-{
-    "_id": "34577",
-    "added_in_patch": 6,
-    "description": "Crafting good equipment requires the best metal and some of the best metal is the jovite that comes from the mine in Kuuro's Claim, just east of here. In order to supply the arsenal I'm going to need this metal.Unfortunately the place was recently overwhelmed by a pack of goren so you're going to have to fight your way in to get the ore before they manage to devour it.Nothing that should be too much of a problem for you,  siram;.",
-    "name": "Out of Jovite",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

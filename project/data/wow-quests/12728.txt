@@ -1,7 +1,0 @@
-{
-    "_id": "12728",
-    "description": "I need to compile my notes and prepare a presentation for my colleagues in Dalaran.While I do, I must ask that you visit the Winterfin Cavern to the north. You must use the Arcanometer while standing in the mouth of the cavern.Return to me at once when you have the data. My documentation will be incomplete without it.",
-    "name": "Monitoring the Rift: Winterfin Cavern",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

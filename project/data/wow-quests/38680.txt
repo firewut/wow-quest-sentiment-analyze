@@ -1,8 +1,0 @@
-{
-    "_id": "38680",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "7.0 Stormheim - Treasure 027 - Weeping Bluffs - ZTO",
-    "requires_level": 100,
-    "zone": "Stormheim"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10334",
-    "description": "Where, oh where has my Bessy gone? After the attack, I searched the fields and the Chapel Yard for her, but she was nowhere to be seen!All I have left of her is this old cowbell. She usually comes running when she hears it, but these feeble old bones probably couldn't shake it hard enough.I'll loan you Bessy's bell if you're willing to go out to the fields and ring it as hard as you can. Perhaps all Bessy's waiting for is a little more cowbell.",
-    "name": "Needs More Cowbell",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

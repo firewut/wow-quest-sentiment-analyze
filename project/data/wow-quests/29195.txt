@@ -1,7 +1,0 @@
-{
-    "_id": "29195",
-    "description": "We appear to have everything under control. Our invasion portal to the Firelands will be opened momentarily, and the elementals have not put up much fight.Assist our druids by dispatching the last few of these elementals. Then, once the gate has been opened, we can make our move.",
-    "name": "A Ritual of Flame",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

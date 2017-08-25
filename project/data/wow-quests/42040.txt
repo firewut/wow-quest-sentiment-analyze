@@ -1,8 +1,0 @@
-{
-    "_id": "42040",
-    "added_in_patch": 7,
-    "description": "The time has come for us to use the Idol of the Wilds and commune with Malorne.The ritual will require a great deal of power, so we have decided to convene at Nordrassil and draw upon the World Tree's essence.There is no time to waste. The fastest path will be through the Emerald Dreamway. Go ahead, and we will follow.",
-    "name": "The Way to Nordrassil",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

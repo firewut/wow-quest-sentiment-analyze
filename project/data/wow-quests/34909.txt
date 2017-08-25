@@ -1,9 +1,0 @@
-{
-    "_id": "34909",
-    "added_in_patch": 6,
-    "description": "Ogres from the empire are known for being cold and calculating.We are fortunate that their calculations are rarely spot on.Morkurk has been using enchanted bracelets to empower his minions with arcane strength.Since we're going to have to dispatch them anyways, we might as well get some reagents out of it.",
-    "name": "While We're in the Neighborhood",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

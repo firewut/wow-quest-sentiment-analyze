@@ -1,8 +1,0 @@
-{
-    "_id": "32200",
-    "added_in_patch": 5.2,
-    "description": "<name>, what I ask of you is little short of genocide, but it is a task that must be done.\r\n\r\nFind trolls within their town or on the beach and slay them, for the good of us all.",
-    "name": "Dangers of Za'Tual",
-    "requires_level": 90,
-    "zone": "Quests"
-}

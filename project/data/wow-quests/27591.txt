@@ -1,7 +1,0 @@
-{
-    "_id": "27591",
-    "description": "Inside this chamber lies Ambassador Flamelash. He is the ambassador to the Dark Iron Nation from Ragnaros the Firelord. Beyond that chamber is the Summoners' Tomb, home to the spirits of the seven Dark Iron patriarchs who summoned Ragnaros into our world.You may not know of the Great Fire, but he will be the end of Azeroth if he is not stopped, and these individuals are directly tied to his hold over the Dark Iron. Slay them all, and may this unholy union cease.",
-    "name": "The Dark Iron Pact",
-    "requires_level": 51,
-    "zone": "Blackrock Depths"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30146",
-    "added_in_patch": 5,
-    "description": "Cloud serpents love to eat, and one of their favorite treats is the sugar minnow.These fish can be found in salt or fresh water anywhere in Pandaria. I trust you have some skill in fishing, and your own fishing pole to catch them?Bring me a fresh catch and I'm sure the hungry beasts around here will be very grateful.",
-    "name": "Snack Time",
-    "requires_level": 90,
-    "zone": "The Arboretum"
-}

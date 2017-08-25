@@ -1,8 +1,0 @@
-{
-    "_id": "30900",
-    "added_in_patch": 5,
-    "description": "That thing is huge!The Shado-Pan holding the battlefront were never trained for something like this... let's get down there and take it out ourselves.",
-    "name": "Terror of the Dread Wastes",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

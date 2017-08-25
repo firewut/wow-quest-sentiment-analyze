@@ -1,8 +1,0 @@
-{
-    "_id": "39960",
-    "added_in_patch": 7,
-    "description": "I've lost my passion, scribe. I just can't find the voice of my characters anymore.Take a look at that unfinished book over there on the table. I can't seem to finish it. Maybe you'll have an easier time with it.",
-    "name": "The Legacy Passed On",
-    "requires_level": 108,
-    "zone": "Inscription"
-}

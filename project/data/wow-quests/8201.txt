@@ -1,7 +1,0 @@
-{
-    "_id": "8201",
-    "description": "It is true.  Hakkar now dwells in Zul'Gurub, bathing in the power of our gods.  Enthralled high priests now channel the energies of our most sacred divinities into the Soulflayer, who will soon have a strength beyond any being of Azeroth.  He must be stopped!Take this sacred cord, and string through it the heads of the high priests responsible for channeling our gods' energy.When you have done this, return to me.",
-    "name": "A Collection of Heads",
-    "requires_level": 58,
-    "zone": "Quests"
-}

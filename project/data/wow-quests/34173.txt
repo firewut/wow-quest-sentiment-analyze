@@ -1,8 +1,0 @@
-{
-    "_id": "34173",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Gorgrond Treasure 09",
-    "requires_level": 90,
-    "zone": "Gorgrond"
-}

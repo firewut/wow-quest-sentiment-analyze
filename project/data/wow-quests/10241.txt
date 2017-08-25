@@ -1,7 +1,0 @@
-{
-    "_id": "10241",
-    "description": "We were sent here by the Sha'tar to investigate the manaforges that Kael'thas' army is operating here.  Unfortunately, the Scryers threaten to renege on their information-gathering duties unless we support them with military action.We can't afford to compromise this mission over politics, so we've agreed to weaken the manaforge's defenses so that the Scryers can do their work.Prove your loyalty to the Aldor and slay the Sunfury magisters and bloodwarders that guard Manaforge B'naar.",
-    "name": "Distraction at Manaforge B'naar",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

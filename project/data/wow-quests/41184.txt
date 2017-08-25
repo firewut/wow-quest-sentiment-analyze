@@ -1,8 +1,0 @@
-{
-    "_id": "41184",
-    "added_in_patch": 7,
-    "description": "I have realized through experience that the old methods are usually the best and for good reason. I'm done with alternate means of digging for now, and wish to focus on the right way to do things.That being said, I believe I've found a new powerful artifact and I'll do literally anything to have it.I've uncovered a fragment that appears to be a mold for a key. I now simply need the other pieces.",
-    "name": "Tried and True",
-    "requires_level": 110,
-    "zone": "Archaeology"
-}

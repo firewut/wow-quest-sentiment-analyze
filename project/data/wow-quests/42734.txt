@@ -1,8 +1,0 @@
-{
-    "_id": "42734",
-    "added_in_patch": 7,
-    "description": "I fear Kathra'natir is behind the attack on Meryl. We have little time to act. \r\n\r\nI suspect Archmage Vargoth's involvement is no coincidence. While it greatly pains me to destroy an archmage of his caliber and worse, someone I once called friend, we cannot permit his betrayal to stand unpunished. \r\n\r\nIt is time to follow him into the Oculus.",
-    "name": "Into the Oculus",
-    "requires_level": 110,
-    "zone": "Mage Campaign"
-}

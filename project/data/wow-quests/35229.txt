@@ -1,9 +1,0 @@
-{
-    "_id": "35229",
-    "added_in_patch": 6,
-    "description": "These beasts came at us so fast we didn't have time to mount a proper defense. They went right for the metal and chewed through any wall we had.If we don't kill some of them soon they'll bring the whole fortress down on us.",
-    "name": "Down the Goren Hole",
-    "requires_level": 92,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

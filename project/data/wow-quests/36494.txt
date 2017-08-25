@@ -1,9 +1,0 @@
-{
-    "_id": "36494",
-    "added_in_patch": 6,
-    "description": "Rokhan sends word that you are needed at Frostwall. The Iron Horde have landed on the shores of Talador.",
-    "name": "News from Talador",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

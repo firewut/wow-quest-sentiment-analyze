@@ -1,8 +1,0 @@
-{
-    "_id": "112",
-    "description": "I can make an invisibility liquor for Maybell, so she can slip away from the Maclure Vineyards and go to Tommy Joe.  But to make the liquor, I need some crystal kelp.Although the kelp usually grows in the ocean... sometimes murlocs collect it.  See if the murlocs near Crystal Lake have any.  Crystal Lake is just east of Goldshire.",
-    "name": "Collecting Kelp",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

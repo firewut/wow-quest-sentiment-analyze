@@ -1,8 +1,0 @@
-{
-    "_id": "38382",
-    "added_in_patch": 7,
-    "description": "Deep within our forest lies Moonclaw Vale.There you will find a reclusive group of feral druids charged with the protection of Val'sharah from any that would seek to disrupt the balance of nature.These druids are led by Thaon Moonclaw, the most fierce of the Archdruids.Seek him out. Let him know that Cenarius is in need of his aid.",
-    "name": "Archdruid of the Vale",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

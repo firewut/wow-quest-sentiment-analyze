@@ -1,9 +1,0 @@
-{
-    "_id": "38253",
-    "added_in_patch": 6.2,
-    "description": "Your garrison is in an uproar. King Varian Wrynn himself is visiting your fortress to discuss your invasion plan for Tanaan Jungle.The King is ready for you inside your town hall along with his full retinue. It would be wise not to keep him waiting...",
-    "name": "Garrison Campaign: War Council",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

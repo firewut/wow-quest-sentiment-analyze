@@ -1,8 +1,0 @@
-{
-    "_id": "40541",
-    "added_in_patch": 7,
-    "description": "Before Jabrul shares his designs with you, he needs you help him with a special project.Jabrul has a jewel that can trap storm energy. The more lightning it traps, the brighter it shines.Jabrul thinks the storm drakes' power would be better spent in his jewel than terrorizing the skies of Stormheim.Don't you?",
-    "name": "The Charge Within",
-    "requires_level": 106,
-    "zone": "Jewelcrafting"
-}

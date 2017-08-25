@@ -1,8 +1,0 @@
-{
-    "_id": "32038",
-    "added_in_patch": 5,
-    "description": "I always was a fan of a good stag hunt. Stags are tough, fast, and territorial.They may be plant eaters but they can give any hunter a run for his money.East of here is a whole mess of Wilderland Stags just waiting for a hunter like yourself to give 'em a good run.Happy hunting.",
-    "name": "Stag Mastery",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "41107",
-    "added_in_patch": 7,
-    "description": "That fruit over there? That's a pale imitation to what I can grow.But that accursed Daglir somehow manages to gain the favor of the courts, so we must dine on mediocrity!We must teach Daglir a lesson for stealing my crop, but we must be discreet.Outside the shield grows a purple flower called Shadowbloom. Fetch some for me and we'll make sure that he pays dearly for his insolence!",
-    "name": "Bad Apples",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

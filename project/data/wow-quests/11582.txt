@@ -1,7 +1,0 @@
-{
-    "_id": "11582",
-    "description": "Did you feel that?! That was just an aftershock... you should've been here a few minutes ago!I'm afraid I must call upon your services again. My instruments indicate that there is an immense disruption just west of here, far beneath the water's surface.Just as before, I need you to take the arcanometer and capture the anomaly's data.I'll cast a spell that will enable you to breathe underwater. If it wears off before you find it, come let me know and I'll renew its effects.",
-    "name": "Monitoring the Rift: Sundered Chasm",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "12188",
-    "description": "The details behind the functionality of the blight are hardly important. All you need to know is that it does the job it was designed to do. I have managed to synthesize a strain of the blight that is inert.<Middleton uncorks a vial and inhales.>See, my body is still, mostly, intact. Now mix this with a reactive agent and we'd all be turned to shapeless piles of goo.On the beach south of here you will find pathetic specters of Alliance soldiers past. Slay them and bring me ectoplasmic residue.",
-    "name": "The Forsaken Blight and You: How Not to Die",
-    "requires_level": 71,
-    "side": "horde",
-    "zone": "Dragonblight"
-}

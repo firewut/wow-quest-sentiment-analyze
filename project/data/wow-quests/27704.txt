@@ -1,7 +1,0 @@
-{
-    "_id": "27704",
-    "description": "I will need you to enter the temple first, <name>. I can join you once a path is secure, but I dare not enter blindly. Turned against my kind, I would be a vicious enemy.You can start by descending the stairs behind me. Then, swim through the flooded depths of the Broken Hall. Once there, follow the passageway to the right to find the Hall of Masks.Beware of any temple guards. Once you have found the Hall of Masks, I will contact you through the Oathstone.",
-    "name": "Legends of the Sunken Temple",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

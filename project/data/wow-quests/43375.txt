@@ -1,8 +1,0 @@
-{
-    "_id": "43375",
-    "added_in_patch": 7,
-    "description": "Durin' our attempt to flee da murlocs, Yalia and I dropped da supplies we planned to deliver to da demon hunters in Faronaar.Inside each a those crates were vials a salve dat took us countless days and resources to craft. If we don' get those supplies back, I fear our allies on da front lines will suffer.",
-    "name": "An Ample Supply",
-    "requires_level": 103,
-    "zone": "Priest Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10010",
-    "description": "<Sal'salabim points to the blueprint.>You see where fel cannons are?<Sal'salabim draws an arrow denoting a change of direction.>You turn fel cannon around and use on structures.Wait! Don't be mad! One thing you not know. Overseers have key to turn cannons. You need key first! One from each overseer!Not so easy, eh?Take information back to Altruis.\r\n",
-    "name": "It's Just That Easy?",
-    "requires_level": 66,
-    "zone": "Terokkar Forest"
-}

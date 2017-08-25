@@ -1,9 +1,0 @@
-{
-    "_id": "37758",
-    "added_in_patch": 6.1,
-    "description": "The conditions are ripe for a decisive attack against the Highmaul, commander. Will you engage?Descended from a long line of sorcerers, Imperator Mar'gok is the grand Imperator of Highmaul. He is both cunning and brutal, and allied himself with the Iron Horde when he recognized what it would be to oppose them.Travel to Highmaul and defeat Imperator Mar'gok. Without their leader, the Ogre Empire will descend into chaos for many years.",
-    "name": "Imperator's Rise: Imperator Mar'gok",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Quests"
-}

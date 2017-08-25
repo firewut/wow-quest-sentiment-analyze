@@ -1,7 +1,0 @@
-{
-    "_id": "13061",
-    "description": "This is it then.  I'll take care of your bear now, you won't be needing her.  The great Drakkensryd will be your next challenge.Say goodbye to your friends and leave your affairs in order, for you will return victorious... or you won't return at all.",
-    "name": "Prepare for Glory",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

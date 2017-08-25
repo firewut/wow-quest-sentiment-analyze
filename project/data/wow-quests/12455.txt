@@ -1,7 +1,0 @@
-{
-    "_id": "12455",
-    "description": "The munitions drop went badly, friend. The shipment of ammo from Westguard Keep was intercepted by the frostwyrms circling overhead. The flying machines were torn apart in a matter of seconds and their cargo was scattered to the wind. Most of it is still topside - on the Carrion Fields.I'm gonna need you to go back up and recover the munitions crates that are scattered all over this damned place.Hurry it up! We can't start this offensive without guns and ammo,  buddy!",
-    "name": "Scattered To The Wind",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

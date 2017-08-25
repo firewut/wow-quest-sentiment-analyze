@@ -1,7 +1,0 @@
-{
-    "_id": "10323",
-    "description": "One manaforge is all that keeps Tempest Keep functional.  After we bring Manaforge Ara down, Kael will have to resort to depleting whatever energy he's got stored up.Travel to Manaforge Ara, in the northwest, and deliver the final blow that we need by shutting it down.The last access crystal is in the possession of Overseer Azarad.  Be warned that we expect heavy opposition in the last of Kael's functional manaforges.  You're likely to need the assistance of reliable friends.",
-    "name": "Shutting Down Manaforge Ara",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

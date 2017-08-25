@@ -1,8 +1,0 @@
-{
-    "_id": "31758",
-    "added_in_patch": 5,
-    "description": "Lao Softfoot got himself captured again up on the Golden Stair. I'm not going to make any excuses for him, he's a lousy rogue.We probably shouldn't just leave him there though. Could you go find him?",
-    "name": "Laosy Scouting",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

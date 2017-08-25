@@ -1,7 +1,0 @@
-{
-    "_id": "9706",
-    "description": "Your hands tremble as you pick up the book. Kuros must be told about this tragedy. Return the book to him.",
-    "name": "Galaen's Journal - The Fate of Vindicator Saruan",
-    "requires_level": 15,
-    "zone": "Bloodmyst Isle"
-}

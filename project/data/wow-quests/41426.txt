@@ -1,8 +1,0 @@
-{
-    "_id": "41426",
-    "added_in_patch": 7,
-    "description": "When the naga brought me down here, I saw many of my vrykul mining the sea floor. They had... squids... attached to their faces.Whatever those things are, they must be controlling my kin and forcing them to work for the naga.I do not know what will happen if you remove the squids, but I would rather my vrykul die than be slaves to the naga.See me in Jandvik when the deed is done.",
-    "name": "Against Their Will",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

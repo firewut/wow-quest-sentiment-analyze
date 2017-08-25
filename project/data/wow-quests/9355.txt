@@ -1,8 +1,0 @@
-{
-    "_id": "9355",
-    "description": "Well met, <class>. Now that reinforcements are finally arriving, we can recapture some semblance of a normal life.One of our first goals is to restore the flow of men and goods along the road to the southwest, but it must be reclaimed from the crust bursters that've overrun the area.If you're willing to help us deal with this menace, you would have the gratitude of the Sons. Watch carefully for the disturbed ground they leave in their wake.",
-    "name": "A Job for an Intelligent Man",
-    "requires_level": 58,
-    "side": "alliance",
-    "zone": "Hellfire Peninsula"
-}

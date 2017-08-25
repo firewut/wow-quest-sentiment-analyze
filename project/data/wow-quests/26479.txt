@@ -1,7 +1,0 @@
-{
-    "_id": "26479",
-    "description": "I suggest you find Raene and let her know the rod is finished. I'm sure she'll know what your next course should be.Be careful... I sense a great deal of power within it for both good and ill. I hope that you and Raene know what you are doing.Good luck, <name>.",
-    "name": "Return to Raene",
-    "requires_level": 19,
-    "zone": "Ashenvale"
-}

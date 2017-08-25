@@ -1,7 +1,0 @@
-{
-    "_id": "29323",
-    "description": "We've used up most of our food stores in taking care of refugees and feeding those whose homes and livelihoods were destroyed. If we don't replenish our stores, we'll all be in danger next time there's a bad storm or a Horde invasion.Perhaps you'd be willing to help me build up our stock of lake whitefish. You can catch it anywhere in Darnassus, and once it's dried, it'll keep until it's needed.",
-    "name": "Stocking Up",
-    "requires_level": 10,
-    "zone": "Fishing"
-}

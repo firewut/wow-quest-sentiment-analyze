@@ -1,8 +1,0 @@
-{
-    "_id": "25122",
-    "description": "You've got to get all the Kaja'Cola Zero-One that you can and make the goblins drink it to boost their morale and free them!",
-    "name": "Morale Boost",
-    "requires_level": 1,
-    "side": "horde",
-    "zone": "The Lost Isles"
-}

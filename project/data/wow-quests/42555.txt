@@ -1,8 +1,0 @@
-{
-    "_id": "42555",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WOD 100 A",
-    "requires_level": 100,
-    "zone": "Quests"
-}

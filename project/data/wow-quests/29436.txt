@@ -1,7 +1,0 @@
-{
-    "_id": "29436",
-    "description": "For just one Darkmoon Game Token, you can ride the Blastenheimer 5000 Ultra Cannon.  But the fun doesn't end there!  We've placed a target in the water near the boardwalk.If you can score five points from your landing, you can win some prize tickets!A bullseye gets you five points, a close shot three, and landing at least near it gets you one.Happy landings!",
-    "name": "The Humanoid Cannonball",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

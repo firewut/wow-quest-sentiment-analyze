@@ -1,8 +1,0 @@
-{
-    "_id": "43700",
-    "added_in_patch": 7,
-    "description": "Highlord, thank goodness you've arrived! The invasion of Netherlight Temple has begun.Our forces are already waiting on the other side of the portal.Join them, and we will close the trap around Lord Balnazzar.",
-    "name": "A Light in the Darkness",
-    "requires_level": 110,
-    "zone": "Paladin Campaign"
-}

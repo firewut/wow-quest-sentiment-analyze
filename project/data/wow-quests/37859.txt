@@ -1,8 +1,0 @@
-{
-    "_id": "37859",
-    "added_in_patch": 7,
-    "description": "<The whelpling is alive, but unconscious. One of the withered must have already drained it of mana.><You've already learned that exposed ley crystals contain a small amount of magical energy. Perhaps you can use one to revive some of the whelps.>",
-    "name": "The Consumed",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

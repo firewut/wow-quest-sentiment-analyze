@@ -1,8 +1,0 @@
-{
-    "_id": "38417",
-    "description": "An attack such as this was unexpected. They have deployed heavily and it will take me some time to marshal enough forces to root them out.\r\n\r\nAny Sargerei you can slay will make retaking this area much easier commander.",
-    "name": "The Sargerei Menace",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Garrison Campaign"
-}

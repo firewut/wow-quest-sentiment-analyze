@@ -1,7 +1,0 @@
-{
-    "_id": "9634",
-    "description": "One thing we've learned in our travels is that extreme care must be taken when introducing wildlife from one world to another. When the Exodar crashed, it was carrying specimens of various Outland species, including an insectoid predator called the ravager.Some of the specimens were lost, but many others survived and took to the wild. If we don't keep them in check, they will upset the natural balance here on the islands.You'll find these ravagers to the west of Kessel's Crossing, near the coast.",
-    "name": "Alien Predators",
-    "requires_level": 8,
-    "zone": "Bloodmyst Isle"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12938",
-    "description": "We need you focused, <name>. We're barely holding The Shadow Vault as it is. As you can see, we've greatly angered the Lich King.<The baron chuckles.>I need you to speak with Duke Lankral. He's in charge here now. You'll find him inside the vault building proper.Were I you, I would not keep him waiting.",
-    "name": "The Duke",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

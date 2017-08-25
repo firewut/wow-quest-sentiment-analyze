@@ -1,7 +1,0 @@
-{
-    "_id": "11135",
-    "description": "The Headless Horseman is driven away, but he will return as long as Hallow's End looms.  <name>, end our misery, and the insane lament of the Horseman.  Face him when he is joined with his head, and destroy it!He rests in the Forlorn Cloister of the Scarlet Monastery, in Tirisfal Glades.  Find his pumpkin shrine and say this:  Horseman, rise  Your time is nigh  You felt death once  Now, know demise!Go, <name>.  And may the Light go with you.",
-    "name": "The Headless Horseman",
-    "requires_level": 75,
-    "zone": "Hallow's End"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "34105",
-    "added_in_patch": 6,
-    "description": "I've got an issue that could use your assistance, commander.A few of our men spotted an Iron Horde lieutenant wandering in the cliffs near here. We suspect she's directing their forces to strategic ground as they land on the Orunai Coast.I would feel much better about the safety of this fort if you could take her out.",
-    "name": "Wanted: Ra'tok the Hammer",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

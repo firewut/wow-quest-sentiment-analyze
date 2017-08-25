@@ -1,8 +1,0 @@
-{
-    "_id": "30182",
-    "added_in_patch": 5,
-    "description": "So, when I was scouting east of here I saw a collection of foxes. That's what I first learned to hunt when back on the Wandering Isle.If you want to see the challenge a young pandaren hunter faced when growing up, head east and face off against a bunch of foxes. They tend to be clever and cunning so be on your guard. ",
-    "name": "Fox Mastery",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

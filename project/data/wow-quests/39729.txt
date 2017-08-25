@@ -1,8 +1,0 @@
-{
-    "_id": "39729",
-    "added_in_patch": 7,
-    "description": "You have honored me with your help and now I wish to return those favors to you. On that pedestal there is all my research. Take it with you and learn from it so you may carry on my legacy.Thank you again, <name>.",
-    "name": "The Knowledge of Black Rook",
-    "requires_level": 108,
-    "zone": "Blacksmithing"
-}

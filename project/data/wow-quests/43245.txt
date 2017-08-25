@@ -1,8 +1,0 @@
-{
-    "_id": "43245",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Invasion: Westfall",
-    "requires_level": 1,
-    "zone": "Westfall"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32329",
-    "added_in_patch": 5.1,
-    "description": "Ah, $p. The Warchief has instructed me to dispatch you to Silvermoon.He grows impatient with the progress of Lor'themar's research and feels they might benefit from your... unique... experiences with the mogu.Go to Silvermoon and demand that Lor'themar increase the speed of his research.",
-    "name": "Get My Results!",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

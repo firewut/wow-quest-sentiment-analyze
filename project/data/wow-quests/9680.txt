@@ -1,7 +1,0 @@
-{
-    "_id": "9680",
-    "description": "Kamsis was right!  This information is extremely important.If Medivh weaved his own essence into the magic he used to defeat the dragon, it is quite possible we could retrieve even a faint residue of that essence from the dragon's remains.  What great insight may lie beneath the ashes of Deadwind Pass, awaiting discovery.Go to the mountains south of Karazhan and bring me back a bone fragment of seemingly draconic origin.",
-    "name": "Digging Up the Past",
-    "requires_level": 70,
-    "zone": "Deadwind Pass"
-}

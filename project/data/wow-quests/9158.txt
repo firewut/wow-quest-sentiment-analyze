@@ -1,7 +1,0 @@
-{
-    "_id": "9158",
-    "description": "You show courage coming to the Ghostlands, <name>.  There is much work to be done here and not enough brave souls to do it.I've a thankless task to offer you, should you have the inclination to aid our cause.  The very wildlife in this land has been tainted by the plague and we must stop it from spreading.  Hunt the ghostclaw lynxes to the east and south of here and return when you've slain enough of them.",
-    "name": "Bearers of the Plague",
-    "requires_level": 11,
-    "zone": "Ghostlands"
-}

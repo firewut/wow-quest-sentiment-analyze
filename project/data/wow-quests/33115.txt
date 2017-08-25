@@ -1,9 +1,0 @@
-{
-    "_id": "33115",
-    "added_in_patch": 6,
-    "description": "Long ago, the shaman of the Shadowmoon clan erected three stones in the woods. There, they performed their sacred rituals, blessing the beasts and the trees.Now, someone has placed a fel magic upon those stones. This corruption is what shrouds the village of Gul'var.Before we can use the captured demon to safely peer into the Shadow Council's village, we must bring down those stones.",
-    "name": "Shrouding Stones",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "8545",
-    "description": "<Class>, the war it is comin' and the only thing we can do is prepare for it. That be where you and I can help each other, mon. Ya see, they put me in charge of collectin' all the mithril bars we be needin' ta build for all the things we gonna need. An I still be needin' more!So, I be hopin' that you can get out there an mine us up some mithril, then smelt it into bars. Sound like something you can do for us?",
-    "name": "The Horde Needs Mithril Bars!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

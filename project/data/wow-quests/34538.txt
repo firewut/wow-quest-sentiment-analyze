@@ -1,8 +1,0 @@
-{
-    "_id": "34538",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Iron Docks Challenge Mode - Gold Addition (Nth)",
-    "requires_level": 100,
-    "zone": "Quests"
-}

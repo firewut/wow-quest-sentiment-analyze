@@ -1,7 +1,0 @@
-{
-    "_id": "4970",
-    "description": "If you wish to prove yourself, you may begin by doing a very simple, but very important task.Gather meat from the chimaera and from the shardtooth bears in the area. Bring it to me so that I may use it to feed the frostsabers that are being trained.",
-    "name": "Frostsaber Provisions",
-    "requires_level": 58,
-    "zone": "Winterspring"
-}

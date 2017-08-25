@@ -1,8 +1,0 @@
-{
-    "_id": "24440",
-    "description": "I have crafted the totem to cleanse the Winterhoof Water Well.  Now, you must take it to the well and perform a cleansing ritual.  The well is to the southeast, but be warned: whoever did this may still be there, laying in wait.This may prove very dangerous, <name>.  Be careful...but do not let the defilers of our well escape.",
-    "name": "Winterhoof Cleansing",
-    "requires_level": 4,
-    "side": "horde",
-    "zone": "Mulgore"
-}

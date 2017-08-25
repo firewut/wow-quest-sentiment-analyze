@@ -1,8 +1,0 @@
-{
-    "_id": "42088",
-    "added_in_patch": 7,
-    "description": "They just keep coming!And now my scouts report some of the drogbar have managed to sneak around our flank and are attacking Snowmane Village.Go, help the evacuation. We will hold the line here and try to buy you some time.",
-    "name": "Evacuate Snowmane",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

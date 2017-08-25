@@ -1,7 +1,0 @@
-{
-    "_id": "13293",
-    "description": "You need to get down to Ymirheim, that big frost vrykul town in the middle of Icecrown.Our boy, Blast Thunderbomb, is down there on the west side of town representing the Warsong Offensive in a competition against the Alliance. It's his jumpbot versus theirs in a king of the mountain contest!Don't let us down, <name>. Goblin engineering pride is on the line! Besides, all the boys here in the hold are counting on you.That and we've got money riding on it that you can kick those cowards in the pants!",
-    "name": "Get to Ymirheim!",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32325",
-    "added_in_patch": 5.1,
-    "description": "It's clear that Jubeka's soulstone has lead you here to the Black Temple. The question remains... why?The only remaining option is to head inside and figure out why they were here.",
-    "name": "Infiltrating the Black Temple",
-    "requires_level": 90,
-    "zone": "Warlock"
-}

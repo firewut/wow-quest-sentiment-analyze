@@ -1,7 +1,0 @@
-{
-    "_id": "28136",
-    "description": "The three leaders of the Bulwark are powerful and not to be underestimated, <name>. Fortunately for us, you now have a disguise to make you look like one of the Twilight cultists.You should put the disguise on and speak with Codemaster Deethuk, Commander Fastfuse, and Elementalist Starion each alone. Get them to turn their backs on you, and when they do, strike quickly!",
-    "name": "Behind You!",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

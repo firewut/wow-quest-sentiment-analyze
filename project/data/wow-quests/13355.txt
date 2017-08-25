@@ -1,7 +1,0 @@
-{
-    "_id": "13355",
-    "description": "I smell their cauldrons from here, but that's not plague they're cooking.Pledges to the cult are forced to drink a concoction that steals their will and enslaves them forever to the Lich King.Some say the potion contains the twisted soul of a being who was tormented before being mercilessly slaughtered, but I've never been able to reproduce it...Fill this flask with a sample from each of the three cauldrons in the northwest region of the gate and bring it to Chief Engineer Copperclaw.",
-    "name": "Cannot Reproduce",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

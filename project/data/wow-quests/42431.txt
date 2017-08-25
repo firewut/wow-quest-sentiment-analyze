@@ -1,8 +1,0 @@
-{
-    "_id": "42431",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "The Brood of Nithogg",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

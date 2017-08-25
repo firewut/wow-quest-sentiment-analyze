@@ -1,7 +1,0 @@
-{
-    "_id": "29601",
-    "description": "Do you have a copy of the Darkmoon Field Guide, friend? It's a most useful book to carry with you.It can help you find and identify valuable artifacts throughout your travels in Azeroth. Its detailed descriptions make it easy to decide if you've found your five hundredth brass button or that rare treasure the Darkmoon Faire's collectors crave.",
-    "name": "The Darkmoon Field Guide",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

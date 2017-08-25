@@ -1,7 +1,0 @@
-{
-    "_id": "27048",
-    "description": "Hey! I need some help gatherin' crystals. The elementals trade top dollar for these things... if you help me gather all the different kinds, I'll cut you in on the profits.Use these bombs to blow out chunks from the bigger formations.I've got a nasty habit of packin' the explosives a bit thick. Mind the kick.",
-    "name": "Underground Economy",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

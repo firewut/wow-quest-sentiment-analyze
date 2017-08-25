@@ -1,9 +1,0 @@
-{
-    "_id": "29905",
-    "added_in_patch": 5,
-    "description": "Advance scouts report that the hozen at the Slingtail Pits are amassing with reinforcements from their tribes to the north.Our forces are gathered for battle on the ridge to the northwest. They are just waiting for you.Now is the time to show them what we are made of. Now is the time to destroy them indefinitely.",
-    "name": "Let Them Burn",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

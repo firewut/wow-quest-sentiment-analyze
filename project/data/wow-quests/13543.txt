@@ -1,7 +1,0 @@
-{
-    "_id": "13543",
-    "description": "I've flown through the ruins of Auberdine on a scouting mission. There are three Twilight's Hammer cultists that are responsible for the elementals that have overrun the destroyed town.Head west into the ruins. Seek out and slay Cloudtamer Wildmane, Windmaster Tzu-Tzu, and Skylord Braax.Only then will Sentinel Selarin and her forces stand a chance of taking back their home.",
-    "name": "Three Hammers to Break",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

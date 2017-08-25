@@ -1,8 +1,0 @@
-{
-    "_id": "40191",
-    "added_in_patch": 7,
-    "description": "Stamped onto the leather of the tanning racks behind me are the ancient ways of out tribe's leatherworkers.They tell the stories of masters who, through perseverance - and luck, in some cases - pioneered our way of leatherworking.Read the stories and learn from them. Perhaps you'll find some insight on how to better your own methods.",
-    "name": "Stamped Stories",
-    "requires_level": 104,
-    "zone": "Leatherworking"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "29815",
-    "added_in_patch": 5,
-    "description": "These creatures are everywhere - and very hostile! We'll need to deal with them before any more Alliance show up.This one's taken quite a beating, but I've still made some determinations about its anatomy.With the proper reagents, I'll be able to fashion a poison that should be quite effective against this species. In fact, I'll just need to modify a bit of the poison I have with me.Go and find me some viscous chlorophyll down by the water. Any semi-sentient flora should do.",
-    "name": "Forensic Science",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

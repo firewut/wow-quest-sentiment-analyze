@@ -1,9 +1,0 @@
-{
-    "_id": "39574",
-    "added_in_patch": 6.2,
-    "description": "Gul'dan's minions are on the run, commander! If you have the strength, now would be an opportune time to press forward and assault some of his other strongholds.",
-    "name": "Pressing the Attack",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Tanaan Jungle"
-}

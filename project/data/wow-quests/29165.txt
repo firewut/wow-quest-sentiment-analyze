@@ -1,7 +1,0 @@
-{
-    "_id": "29165",
-    "description": "<Matoclaw continues:>The easternmost portal of flame is the domain of Lylagar. Stand before the portal, deliver a challenging howl, and then force the fiery beast to submit.",
-    "name": "The Call of the Pack",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

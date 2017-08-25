@@ -1,8 +1,0 @@
-{
-    "_id": "31125",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Unlocked Chao",
-    "requires_level": 90,
-    "zone": "Townlong Steppes"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "31519",
-    "added_in_patch": 5,
-    "description": "<name>, I need you to assemble a hearty group and lead them into Stormstout Brewery. Activate the Challenger's Orb therein, and evaporate Yan-zhu the Uncasked.Return to me when you've completed this challenge, and I shall reward you handsomely.",
-    "name": "A Worthy Challenge: Yan-zhu the Uncasked",
-    "requires_level": 90,
-    "zone": "Quests"
-}

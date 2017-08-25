@@ -1,8 +1,0 @@
-{
-    "_id": "31030",
-    "added_in_patch": 5,
-    "description": "This... is unspeakable. If the monastery has truly been taken over by the Sha, we will need a great effort to purge the monks inside of corruption.\r\n\r\nGather a group of your allies, and meet me inside the Monastery.",
-    "name": "Into the Monastery",
-    "requires_level": 87,
-    "zone": "Quests"
-}

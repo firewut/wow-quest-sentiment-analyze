@@ -1,9 +1,0 @@
-{
-    "_id": "34778",
-    "added_in_patch": 6,
-    "description": "<name>, more recruits arrive at your garrison every hour. We will soon run out of food.I have made contact with Exarch Akama in hopes of securing rations from Elodor, the breadbasket of this valley. He has agreed, provided we supply labor for the harvest. Everyone wins.If you agree with my plan, speak with Foreman Zipfizzle here in the courtyard - he has gathered together available laborers. Akama and I will escort them and meet you at Elodor, far to the east!",
-    "name": "Migrant Workers",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

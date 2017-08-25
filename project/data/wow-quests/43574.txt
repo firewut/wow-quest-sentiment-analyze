@@ -1,8 +1,0 @@
-{
-    "_id": "43574",
-    "added_in_patch": 7,
-    "description": "All of the necessary components have been gathered together. Soon, the unholy steeds of the damned will trample the armies of the Burning Legion.However, our work is not quite done. One item yet remains beyond our grasp...Lurking within the depths of Helheim, the fallen queen Helya rules over the dead. In her possession is a maul, infused with the souls of countless fallen warriors.Bring to me the Maul of the Dead and with it, I will forge barding so impenetrable... no demon shall break it!",
-    "name": "Maul of the Dead",
-    "requires_level": 110,
-    "zone": "Death Knight Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26563",
-    "description": "I don't know who you are,  mister, but you've earned the respect and admiration of the Bravo Company. You've managed to save all our hides and kill a boatload of orcs in the process. Now we return the favor.Get back to Lakeshire and report to Colonel Troteman. We'll find Johnny and deliver the good news in person. With the Bravo Company back in action, these orcs don't stand a chance.",
-    "name": "Return of the Bravo Company",
-    "requires_level": 15,
-    "zone": "Redridge Mountains"
-}

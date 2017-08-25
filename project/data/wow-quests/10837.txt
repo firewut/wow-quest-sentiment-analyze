@@ -1,7 +1,0 @@
-{
-    "_id": "10837",
-    "description": "I believe that I can imbue nethervine crystals with my own essence. The power contained within these imbued crystals should be sufficient to free enslaved drakes of their masters' grasps.Travel to Netherwing Ledge, an island located off the broken shelf of Shadowmoon Valley, to the southeast. It is on Netherwing Ledge that you will find nethervine crystals. Return to me when you have collected enough crystals to fill your packs.And <name>, Beware the Dragonmaw that now inhabit the island.",
-    "name": "To Netherwing Ledge!",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

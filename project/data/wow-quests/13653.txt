@@ -1,8 +1,0 @@
-{
-    "_id": "13653",
-    "description": "There will be no help coming from Splintertree.The elves have launched a major assault on our stronghold there and they have the place surrounded!We must inform Kadrak or die trying!Your kodo has been loaded up with the wood you collected. Let me know when you're ready and we'll charge the enemy lines.",
-    "name": "Crisis at Splintertree",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

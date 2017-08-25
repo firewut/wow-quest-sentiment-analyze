@@ -1,7 +1,0 @@
-{
-    "_id": "27336",
-    "description": "During the last Grimtotem attack, I was wounded, but not before I managed to capture a curious totem our enemies were using against us.It seemed to be emitting raw bolts of energy during the battle, but in all my experiments, I haven't managed to figure out how it works. I'll loan the totem to you if you agree to help me test it.The watery areas surrounding the farm are home to pesky mottled drywallow crocolisks and drywallow daggermaws. Try fighting the crocolisks near the totem.",
-    "name": "The Grimtotem Weapon",
-    "requires_level": 36,
-    "zone": "Dustwallow Marsh"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39118",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Lower Citadel Speed Tracking",
-    "requires_level": 98,
-    "zone": "Quests"
-}

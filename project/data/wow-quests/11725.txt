@@ -1,7 +1,0 @@
-{
-    "_id": "11725",
-    "description": "I should've flown the mission myself. It's not that I don't trust Tailspin. Far from it. Heck, he was the best wingman I ever flew with.No, it's just that it's my responsibility to lead a mission of such import.I sent Tailspin out with our fastest recon squadron to gather information about the Nerubian infestation in the middle of the Geyser Fields.The last report we received placed his squadron in the pools to the far south and just west of the Nerubian sinkholes.Find Tailspin, <name>.",
-    "name": "Finding Pilot Tailspin",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43455",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "WANTED: Devouring Darkness",
-    "requires_level": 110,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "26588",
-    "description": "Are you up for a challenge, <name>?  Good, I was hoping you would be.  The Southfury River flows just west of Orgrimmar and your challenge can be found within its mighty flow.We are looking for a giant furious pike.  This esteemed fish used to be prevalent in these areas but ever since the floods hit, the big ones have been much harder to find.  Head out to the river and let's see just how good of an angler you really are.",
-    "name": "A Furious Catch",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Fishing"
-}

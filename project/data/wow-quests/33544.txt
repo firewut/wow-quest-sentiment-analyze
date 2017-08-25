@@ -1,9 +1,0 @@
-{
-    "_id": "33544",
-    "added_in_patch": 6,
-    "description": "We... we left the goren alone for too long. They have grown bold and forgotten who we are.Kill them! Kill them all. Rip them apart until they scream. Remind them what happens to anyone who tries to attack a Laughing Skull village.Oh, and welcome to Gorgrond.",
-    "name": "Goren, Goren, Gone!",
-    "requires_level": 92,
-    "side": "horde",
-    "zone": "Gorgrond"
-}

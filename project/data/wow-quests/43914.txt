@@ -1,8 +1,0 @@
-{
-    "_id": "43914",
-    "added_in_patch": 7,
-    "description": "Long ago, Grand Magistrix Elisande opposed the Legion and defied Queen Azshara herself. Passing millennia have changed Elisande's mind, and turned her into an ally of the demons. The time has come to face her.",
-    "name": "The Nighthold: Elisande",
-    "requires_level": 110,
-    "zone": "The Nighthold"
-}

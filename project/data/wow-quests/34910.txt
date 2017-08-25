@@ -1,9 +1,0 @@
-{
-    "_id": "34910",
-    "added_in_patch": 6,
-    "description": "We can't just skate in, kill Witch Lord Morkurk, and leave.His three lieutenants - Vorgorsh, Zulmork, and Cromaug - are all fiercely loyal to Morkurk, and are all respectable mages in their own right.I suspect that if we attempt to engage the Witch Lord immediately that they will rush to his aid and overwhelm us. We need to take out his lieutenants first.",
-    "name": "Vicious Viziers",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Talador"
-}

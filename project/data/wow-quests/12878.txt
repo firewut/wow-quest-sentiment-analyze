@@ -1,7 +1,0 @@
-{
-    "_id": "12878",
-    "description": "During your absence, I was privileged enough to parley with the dwarf Brann Bronzebeard. This dwarf indicated his purpose for seeking the keystone, and I am satisfied that it is for satisfactory intent... I believe this dwarf may be the entity for which the keystone was created.Norgannon's Core is located in the Frigid Tomb to the southeast. Its guardians are ancient beings of ice, and they will not welcome your presence. Best these guardians and retrieve the keystone with my blessing, <race>.",
-    "name": "The Hidden Relic",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

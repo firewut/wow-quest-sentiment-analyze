@@ -1,8 +1,0 @@
-{
-    "_id": "38956",
-    "added_in_patch": 7,
-    "description": "Oh dear.He had just promised you that he wouldn't wander off, and then he did it again!I'm starting to think that this Lyndras character might be a bit too impetuous for my tastes.Please, go find him, before he gets into any more trouble.",
-    "name": "Where's Lyndras Again?",
-    "requires_level": 106,
-    "zone": "Tailoring"
-}

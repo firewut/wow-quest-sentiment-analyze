@@ -1,7 +1,0 @@
-{
-    "_id": "14436",
-    "description": "There are dwarves preparing a dig site to the northwest.  They think secrets lie in the earth, and that is true, but hollowing and defiling the land is no way to earn its teachings.Collect the dwarven tools of digging, smash them, and return to me with the dwarves' broken tools.You can smash the tools at a forge.  You will find one in Thunder Bluff, but any forge -- even a forge at the dwarven camp -- will suffice.",
-    "name": "Dwarven Digging",
-    "requires_level": 6,
-    "zone": "Mulgore"
-}

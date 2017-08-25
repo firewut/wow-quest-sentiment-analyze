@@ -1,8 +1,0 @@
-{
-    "_id": "1097",
-    "description": "There's a dwarven weaponsmith in Stormwind, Grimand Elmore, who sent word that he needs help with a delivery.  I believe he wants a package sent to his homeland in the north.You have a sturdy pair on you!  So if you're interested in some legwork then speak with Grimand.  We could use you down here, but we must also keep our ties strong with the dwarves.You can find Grimand Elmore at the weapon shop in the Dwarven District of Stormwind, in the northeast section of town.",
-    "name": "Elmore's Task",
-    "requires_level": 9,
-    "side": "alliance",
-    "zone": "Stormwind City"
-}

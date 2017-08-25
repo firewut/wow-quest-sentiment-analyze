@@ -1,8 +1,0 @@
-{
-    "_id": "42983",
-    "added_in_patch": 7,
-    "description": "To restore the Maelstrom Pillar, we will need to infuse it with the essence of air.A large quantity of Mistral Essence will be required to do this.Mistral Essence can be found on many of the elementals in Vortex Pinnacle.If you can return to me with a ready supply of elemental essence, I will be able to continue my restoration work on the Maelstrom Pillar.",
-    "name": "Mistral Essence",
-    "requires_level": 103,
-    "zone": "Shaman Campaign"
-}

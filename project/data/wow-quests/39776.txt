@@ -1,8 +1,0 @@
-{
-    "_id": "39776",
-    "added_in_patch": 7,
-    "description": "Snowmane Village behind us was caught completely off guard by the scale of this attack. I will hold the drogbar line here so the civilians have time to prepare their evacuation.The drogbar are using worms to burrow their way to the surface and deploy their troops.I am giving you command of our forces. Use them to slay these worms and cut off enemy reinforcements.",
-    "name": "Battle Worms",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

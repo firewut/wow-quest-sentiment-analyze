@@ -1,8 +1,0 @@
-{
-    "_id": "42486",
-    "added_in_patch": 7,
-    "description": "I'm ready to go home now, but there are still scary men outside...\r\n\r\nWill you stay with me? Make sure they don't take me away?\r\n\r\nI don't want to go back in the cage...",
-    "name": "Little One Lost",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

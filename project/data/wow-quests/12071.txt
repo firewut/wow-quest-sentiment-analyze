@@ -1,7 +1,0 @@
-{
-    "_id": "12071",
-    "description": "They have seen the might of the Horde by land, now they must feel it from the air! I want you to report to Valnok Windrager at once! You will find him here, in Agmar's Hammer.Valnok has already been briefed on your mission and is expecting you.\r\n",
-    "name": "Attack by Air!",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

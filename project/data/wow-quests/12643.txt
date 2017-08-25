@@ -1,7 +1,0 @@
-{
-    "_id": "12643",
-    "description": "Once the Scourge have a target in their sights, they'll stop at nothing to acquire it.You're doomed to a mindless existence as a walking corpse....<Stefan's face twists into a cruel grin.>... unless we can use their desires against them.I'll explain later. I have complex magic to prepare which requires certain material components.Travel due east of here to the land beneath the Reliquary of Agony. Slay the ghouls and abominations you'll find there and return to me with their remnants.",
-    "name": "Silver Lining",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

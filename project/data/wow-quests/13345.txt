@@ -1,7 +1,0 @@
-{
-    "_id": "13345",
-    "description": "The Cult of the Damned are notorious for concocting grandiose plans that in the end, rarely succeed. But something feels different this time....Perhaps it's the proximity to the Lich King that has their fervor heightened. Whatever it is, they appear to be more confident than ever. We must know what feeds this bravado and then find a way to strip them of it!I believe the key lies with their researchers. Find out what they're up to and report back to me with the details.",
-    "name": "Need More Info",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

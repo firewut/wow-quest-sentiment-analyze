@@ -1,8 +1,0 @@
-{
-    "_id": "42634",
-    "added_in_patch": 7,
-    "description": "The book from Lan'dalock is very enlightening. It describes a technique which will provide a simple and elegant bypass around the Black Temple's holy barriers.\r\n\r\nI will need but a moment to summon a gateway. Stand back, please.",
-    "name": "Confrontation at the Black Temple",
-    "requires_level": 103,
-    "zone": "Demon Hunter Campaign"
-}

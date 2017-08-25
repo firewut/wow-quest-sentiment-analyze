@@ -1,7 +1,0 @@
-{
-    "_id": "28937",
-    "description": "Monsters!  They were monsters I tell you! Our ship pulled into port just south of Stromgarde, but the coast there is infested with strange creatures.  Other than seeing their ugly mugs and hearing strange gurgling noises, I didn't wait to find out what they wanted. You'd better go help my shipmates, <name>!",
-    "name": "Alliance Breadcrumb",
-    "requires_level": 28,
-    "zone": "Arathi Highlands"
-}

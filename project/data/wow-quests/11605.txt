@@ -1,7 +1,0 @@
-{
-    "_id": "11605",
-    "description": "<A distant voice echoes in your head as you regard the stone statue.>Do not be startled, stranger. I am Elder Atkanok, an ancient ancestor of the tuskarr people, a skilled craftsman in my own time and the guardian of this quarry for centuries.The quarry has been overrun, leaving many statues unfinished while the ancestors' spirits wander the world. Will you aid me in righting this wrong?First, I must know the names of these wandering ancestors. Look for the markers near their statues.",
-    "name": "The Honored Ancestors",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

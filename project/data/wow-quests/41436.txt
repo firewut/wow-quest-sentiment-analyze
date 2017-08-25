@@ -1,8 +1,0 @@
-{
-    "_id": "41436",
-    "added_in_patch": 7,
-    "description": "This bed will be yours for the deep slumber that will usher you into the Dream.Once you are comfortable, drink of the moonwater you brought. I will guide you from there.Quickly, now - with every passing moment G'Hanir slips further into darkness.",
-    "name": "In Deep Slumber",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

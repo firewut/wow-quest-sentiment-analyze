@@ -1,7 +1,0 @@
-{
-    "_id": "11973",
-    "description": "Malygos has taken Keristrasza to serve as his consort!We cannot allow this to come to pass.You must do whatever it takes to spare her such a fate, <race>.",
-    "name": "Prisoner of War",
-    "requires_level": 69,
-    "zone": "Quests"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26412",
-    "description": "Say... have you heard about the ogres?  I got a hot tip from some fella' named Mok'thardin that they're hiding some special, magical artifact in their cave.  Skeezy knows better, though.  I can smell money from a Mulgore mile away, and I'll bet that ogre doodad's worth a fortune.Here's a hint: I've seen them guarding a chest up in some ruins behind their mound.  Care to fetch it for me?",
-    "name": "The Mosh'Ogg Bounty",
-    "requires_level": 26,
-    "zone": "Northern Stranglethorn"
-}

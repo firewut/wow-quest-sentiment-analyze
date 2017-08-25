@@ -1,8 +1,0 @@
-{
-    "_id": "31269",
-    "added_in_patch": 5,
-    "description": "The saurok at the Lake of Stars take their orders from their Scale-Lord, a vicious, merciless leader who guards his territory fiercely.If we can eliminate this leader, then we can gain access to the enormous amber lode beneath the lake.Go. Their leader gives his orders from his underground dwelling, at the southern edge of the lake.",
-    "name": "The Scale-Lord",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

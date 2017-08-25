@@ -1,7 +1,0 @@
-{
-    "_id": "10423",
-    "description": "Master Engineer Ghabar will want to know about the results of the diagnostics. If anything, they caution us to keep a close eye on the workings of our dome generators. As the fields become more and more unstable, their effects will become harder to control. It could spell disaster for our expedition and anything else housed within the domes.You'll find Ghabar at the Stormspire. Just follow the road north from this eco-dome and across the bridge. It'll lead you to the elevator at the base of the spire.",
-    "name": "To the Stormspire",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

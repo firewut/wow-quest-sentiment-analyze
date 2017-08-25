@@ -1,7 +1,0 @@
-{
-    "_id": "12224",
-    "description": "You have done well,  brother. All that you have faced, you have done as a champion of the Horde. The Scourged Anub'ar of Azjol-Nerub, crushed under your foot! The taunka, brave and powerful new members of the Horde, because of you! Our super-weapon against the Scourge, tested and perfected by you!The time has come, the moment is now - our elite soldiers at the Wrathgate need you. The son of Saurfang awaits your arrival at the Kor'kron Vanguard. Go now, northeast to the Wrathgate.",
-    "name": "The Kor'kron Vanguard!",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

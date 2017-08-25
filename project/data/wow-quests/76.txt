@@ -1,8 +1,0 @@
-{
-    "_id": "76",
-    "description": "Thanks to you we know the Fargodeep Mine is infested with kobolds.  Now we need a scout to investigate the more distant Jasperlode Mine.Explore Jasperlode and confirm any kobold presence.  To reach the mine, travel east along the road until you reach the Tower of Azora.  From the tower, head north and you'll find the mine in the foothills.",
-    "name": "The Jasperlode Mine",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Elwynn Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "7164",
-    "description": "",
-    "name": "Honored Amongst the Clan",
-    "requires_level": 51,
-    "zone": "Alterac Valley"
-}

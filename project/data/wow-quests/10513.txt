@@ -1,7 +1,0 @@
-{
-    "_id": "10513",
-    "description": "I do not know how we can acquire the spell that the spirits mentioned, <name>. Truth be told, I don't even know where we would start such a search.<Torlok stares off in the distance, lost in thought.>Hrm... It is a long shot but it might be our only chance. There is an orc that I have seen visit this area before. I spoke to him briefly once. He is a hermit that claims to live above Coilskar Cistern to the northeast. Seek out this orc, Oronok Torn-heart.As I said, it is a long shot.",
-    "name": "Oronok Torn-heart",
-    "requires_level": 68,
-    "zone": "Shadowmoon Valley (Outland)"
-}

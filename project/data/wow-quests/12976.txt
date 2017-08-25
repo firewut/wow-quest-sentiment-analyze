@@ -1,7 +1,0 @@
-{
-    "_id": "12976",
-    "description": "Bring these fragments to Njormeld. He will use the pieces of that sacred relic in the construction of a mighty monument.May it soothe the pains and heal the scars my people have borne these many years.May its presence help to bring about a new age that sees us once again in glorious battle at Thorim's side.Go now, <class>. Njormeld awaits you.",
-    "name": "A Monument to the Fallen",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

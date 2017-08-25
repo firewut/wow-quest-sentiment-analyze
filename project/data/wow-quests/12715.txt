@@ -1,7 +1,0 @@
-{
-    "_id": "12715",
-    "description": "The attacks upon the gates of the last Scarlet bastion have begun. Our ghouls are wearing the Crusade's front lines down while we labor to fortify our new forward base, the Crypt of Remembrance.Venture south to the crypt, which borders New Avalon, and report to my dear brother, Prince Keleseth.He will be expecting you.Prepare yourself, <name>, for you are about to witness the next stage of Scourge warfare: DOMINATION!Ride now, death knight!",
-    "name": "The Crypt of Remembrance",
-    "requires_level": 55,
-    "zone": "Death Knight"
-}

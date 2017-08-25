@@ -1,8 +1,0 @@
-{
-    "_id": "38929",
-    "added_in_patch": 6.2,
-    "description": "Defeat your opponents on the battlefield and you will be rewarded.",
-    "name": "Battle Hardened",
-    "requires_level": 100,
-    "zone": "Quests"
-}

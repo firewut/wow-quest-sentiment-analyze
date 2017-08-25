@@ -1,8 +1,0 @@
-{
-    "_id": "32368",
-    "added_in_patch": 5.1,
-    "description": "The tincture is ready. Now, drink.",
-    "name": "Memory Wine",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

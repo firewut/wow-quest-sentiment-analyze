@@ -1,7 +1,0 @@
-{
-    "_id": "28614",
-    "description": "High Chieftain Winterfall's absence has done little to quell the rage of the Winterfall. In his absence, their greatest warrior has rose to a position of terrible power.Grolnar the Berserk lurks in the cave at the top of Winterfall Village, gorged on enough corrupt firewater to kill ten lesser furbolgs.He has become a bloated and horrible beast! Our warriors have been unable to face him... do you have the strength to defeat him, <class>?",
-    "name": "Bearzerker",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

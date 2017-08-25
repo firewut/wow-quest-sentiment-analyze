@@ -1,8 +1,0 @@
-{
-    "_id": "44205",
-    "added_in_patch": 7,
-    "description": "The whims of the spirits can be guided, I have seen it.\r\n\r\nThere were whispers of an item, a way to change the path of destiny.  I heard dem, and I went looking.  For many years I listened to those whispers on the wind until one day they showed me the way.  This is what I offer you.  It will take some time, and some valuable resources, but I can perform the ritual to allow you to control this power.\r\n\r\nWell?  Are you ready?",
-    "name": "Shape Your Fate",
-    "requires_level": 110,
-    "zone": "Quests"
-}

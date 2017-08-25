@@ -1,7 +1,0 @@
-{
-    "_id": "11570",
-    "description": "The lock on my cage doesn't look too solid, but I'm not foolish enough to try to leave without assistance.Will you help me safely get out of these caverns? There's no time to waste, <race>.When you get back to the retreat, please let the king know that I'm okay. He's sure to give you a reward.",
-    "name": "Escape from the Winterfin Caverns",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

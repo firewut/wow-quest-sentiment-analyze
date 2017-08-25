@@ -1,8 +1,0 @@
-{
-    "_id": "29917",
-    "added_in_patch": 5,
-    "description": "I've been thinking... the wolves might stop attacking if we kill their pack leader.We call him Lupello, and he patrols the opposite riverbank.<Francis' concentration is broken by another attack. Perhaps you should go deal with Lupello yourself.>",
-    "name": "Lupello",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

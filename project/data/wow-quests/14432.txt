@@ -1,7 +1,0 @@
-{
-    "_id": "14432",
-    "description": "It looks like our Alliance foes have been making headway with their Blackmaw talks by conducting negotiations in the furbolg tongue. If we're to sabotage the treaty, we're going to have to do the same.It's not as hard as it sounds, <name>. The Blackmaw make a potent herbal tea, the fumes of which will place one in a trance-like state where you'll start speaking in tongues. The Blackmaw tongue, specifically. Go to Blackmaw Hold southwest of here and get me some samples of that briaroot brew!",
-    "name": "A Pale Brew",
-    "requires_level": 15,
-    "zone": "Azshara"
-}

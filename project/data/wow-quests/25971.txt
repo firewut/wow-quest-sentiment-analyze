@@ -1,7 +1,0 @@
-{
-    "_id": "25971",
-    "description": "Survival kits never have any rope. It makes no sense! Rope and bombs, that's all they should store. The rest of this stuff is just a waste of space.Except maybe the balloon. That's coming in handy right now.I bet those Kvaldir have rope. They're always riding around in boats, tying knots, dressing in nets. Go take some rope from them! I must have it for our plan to work. It is non-optional.",
-    "name": "Unfurling Plan",
-    "requires_level": 80,
-    "zone": "Shimmering Expanse"
-}

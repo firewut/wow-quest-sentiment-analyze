@@ -1,8 +1,0 @@
-{
-    "_id": "37530",
-    "added_in_patch": 7,
-    "description": "Of course I couldn't sit back and let them just cart you away.I will explain everything.",
-    "name": "Save Yourself",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

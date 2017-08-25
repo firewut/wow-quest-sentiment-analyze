@@ -1,8 +1,0 @@
-{
-    "_id": "26549",
-    "description": "Our last two negotiators haven't returned from speaking with the Dragonmaw Warchief. I think we might need to flex a little bit of muscle.This time, I want YOU to accompany the negotiator. Their Warchief might think twice once he realizes the Horde is full of battle-hardened heroes like yourself.Simply escort our negotiator into the main hold in the center of Dragonmaw Port and look menacing. ",
-    "name": "Madness",
-    "requires_level": 84,
-    "side": "horde",
-    "zone": "Twilight Highlands"
-}

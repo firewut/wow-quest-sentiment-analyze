@@ -1,7 +1,0 @@
-{
-    "_id": "27241",
-    "description": "I must make plans to destroy the remnants of the Defias. Please convey my thanks to Lady Jaina, back in Theramore. She has ever been a loyal friend and steadfast ally.Go to the Mage Quarter at the western end of the city and speak with Archmage Malin at the foot of the tower there. He will speed your return to Theramore.",
-    "name": "Return to Jaina",
-    "requires_level": 32,
-    "zone": "Dustwallow Marsh"
-}

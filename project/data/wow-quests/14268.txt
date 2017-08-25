@@ -1,7 +1,0 @@
-{
-    "_id": "14268",
-    "description": "Queen Azshara seeks entrance into the plane of water, for what I do not know.She believes that the ancients held the keys to finding its location.I have personally been charged with scouring the ruins in this region, and none shall rest until we discover the secrets we seek!Submerged just to the north are a concentration of ruins. Use this staff to search through the rubble.Return to me only when you have located that which we seek!",
-    "name": "Deep Impact",
-    "requires_level": 28,
-    "zone": "Desolace"
-}

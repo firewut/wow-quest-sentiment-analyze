@@ -1,8 +1,0 @@
-{
-    "_id": "26001",
-    "description": "It looks like you might not be completely useless after all. Perhaps you can handle something a little more important.About two days ago I sent Blastgineer Fuzzwhistle to Windshear Mine. He was supposed to get there, make sure everything was going according to plan with the bomb, and report back. Two days and nothin'...Head out to the woods south of here and find him. For his sake, he better be dead.",
-    "name": "The Missing Blastgineer",
-    "requires_level": 24,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

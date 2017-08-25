@@ -1,8 +1,0 @@
-{
-    "_id": "32166",
-    "added_in_patch": 5.1,
-    "description": "Along with the crate, you get some advice on crab hunting:Crabs are strange, old creatures, with different motivations than us.Small crabs are easy to find and hunt, but the big ones hide beneath the sands, out of danger and out of our reach. To draw them out, we play on their sense of smell.The Unga villagers to the southwest allow their fish to ferment before they eat them. Bring enough rotten fish together, and you will catch yourself a colossal crab.",
-    "name": "Beastmaster's Hunt: The Crab",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

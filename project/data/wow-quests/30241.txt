@@ -1,8 +1,0 @@
-{
-    "_id": "30241",
-    "added_in_patch": 5,
-    "description": "So much death. And more to come, if Ambassador Han's stories of the mantid are to be believed.We must help. We must do our part to save lives.Travel to Stoneplow. Warn them of the coming mantid attack.I will join you with what forces I can muster once I have laid Kor's body to rest.",
-    "name": "Warn Stoneplow",
-    "requires_level": 86,
-    "zone": "Valley of the Four Winds"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "11374",
-    "description": "Within Auchindoun's Auchenai Crypts many unsavory experiments are undertaken in the pursuit of a greater understanding of the necromantic arts. Many are the spirits that are tortured or destroyed therein.I have a customer who is interested in the liberation of one of those spirits. I have been informed that this spirit is contained within a soul gem held by none other than Exarch Maladaar himself.Seek him out within the crypts with all due haste and return to me with the gem.",
-    "name": "Wanted: The Exarch's Soul Gem",
-    "requires_level": 70,
-    "zone": "Terokkar Forest"
-}

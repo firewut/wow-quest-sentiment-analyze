@@ -1,7 +1,0 @@
-{
-    "_id": "41360",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Stormheim Teleport Learned",
-    "zone": "Artifact"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28072",
-    "description": "King Varian Wrynn has requested that any able-bodied adventurer head to Dire Maul's Warpwood Quarter, east of Feathermoon Stronghold, immediately!Alzzin the Wildshaper has corrupted the area and could take over the entire Maul! If you so choose, head to the Warpwood Quarter and speak with Furgus Warpwood, one of the few uncorrupt beings left inside alive.",
-    "name": "Adventurers Wanted: Dire Maul Warpwood Quarter",
-    "requires_level": 38,
-    "zone": "Dire Maul"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "32592",
-    "added_in_patch": 5.2,
-    "description": "You are a superb representative of your people, <race>. But I need someone special. I have big plans. And to enact them I will need a champion to carry my flame to the four corners of the world.Are you the one?Prove it to me on the Isle of Thunder! Lay waste to any mogu, Zandalari, or saurok that you find. Impress me!",
-    "name": "I Need a Champion",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28630",
-    "description": "A lot of goblins have been going missing out there in Ice Thistle Hills. I was almost one of them!I had the idea to set up a sensor to tell us when the yeti were getting close to Everlook. Of course, it's not working either. There's yeti all over the hills and I haven't heard a peep from it.Would you mind checking on it for me? It might still be fixable. Echo Three's set up to the southeast on the edge of Ice Thistle Hills. Don't ask what happened to Echo One and Two.",
-    "name": "Echo Three",
-    "requires_level": 50,
-    "zone": "Winterspring"
-}

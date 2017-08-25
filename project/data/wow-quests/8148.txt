@@ -1,7 +1,0 @@
-{
-    "_id": "8148",
-    "description": "",
-    "name": "Maelstrom's Wrath",
-    "requires_level": 58,
-    "zone": "Quests"
-}

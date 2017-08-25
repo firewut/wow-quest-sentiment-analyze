@@ -1,7 +1,0 @@
-{
-    "_id": "29274",
-    "description": "On the Firelands' largest island, our troops have been having trouble against Shannox, the flamewaker hunter. Not only does he have impeccable aim, but he keeps trained hounds that give our troops no end of trouble.Tholo, in all his wisdom, thinks it would be a good idea to study the biology of these hounds. I, of course, agree with Tholo.You will find several hounds in the Molten Flow, beneath the Furnace. We will need their ashes to study.",
-    "name": "Hounds of Shannox",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

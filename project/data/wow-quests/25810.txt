@@ -1,7 +1,0 @@
-{
-    "_id": "25810",
-    "description": "<name>! Choluna spoke true: the goddess has returned! A miracle in our midst.While you were able to kill the twilight dragon Sethria, we have not yet located all of the eggs that the harpies had delivered to her. Thisalee and I have tracked them to a great hatchery constructed within the Firelands. It is not of this realm, so Aviana cannot accompany you.Fly south and enter the flamegate in the center of the valley. Farden Talonshrike has been sent ahead and will be waiting for you within.",
-    "name": "The Hatchery Must Burn",
-    "requires_level": 78,
-    "zone": "Mount Hyjal"
-}

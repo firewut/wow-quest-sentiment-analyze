@@ -1,8 +1,0 @@
-{
-    "_id": "32492",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Destroy Cauldrons",
-    "requires_level": 90,
-    "zone": "Quests"
-}

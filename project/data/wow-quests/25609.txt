@@ -1,7 +1,0 @@
-{
-    "_id": "25609",
-    "description": "The key to the cage is held by Tony Two-Tusk, the pirate admiral, and he's guarded by ogres that you'll never be able to kill!<Wizzle cries some more and then looks up, an idea forming in his brain.>I've got it! What do all pirates want more than anything else? No, not grog. Something even better... treasure!They had a ship full of treasure that was sunk by a giant whale-shark. The treasure is scattered all over down in the Mirage Abyss to the northwest.Go get it!",
-    "name": "Sunken Treasure",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

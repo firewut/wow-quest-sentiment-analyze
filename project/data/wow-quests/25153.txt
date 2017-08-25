@@ -1,7 +1,0 @@
-{
-    "_id": "25153",
-    "description": "Help - Help! You've got to do something!Some dwarves are still inside - so many - they're trapped in the debris. Buried alive. The flames! It's a nightmare in there. We don't know how much longer until the roof collapses...Please, <class>, you've got to save them!Run inside. Use the emergency fire valves to protect yourself from the flames. You're the only hope they have...",
-    "name": "Bael'dun Rescue",
-    "requires_level": 32,
-    "zone": "Southern Barrens"
-}

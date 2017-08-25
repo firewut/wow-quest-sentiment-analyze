@@ -1,8 +1,0 @@
-{
-    "_id": "30565",
-    "added_in_patch": 5,
-    "description": "Things seem to be goin' our way more and more lately, <name>. I was out doin some explorin' when I came upon this little beauty.<Sully gestures to the ballista to his right.>Problem is she's one of a set and the other one is still in pieces. I'd have gotten it together by now if those pesky Grimleers hadn't ambushed me and taken some of the gears and bolts.Hey, ye seem to be pretty good at handlin' the natives. Ye wouldn't mind goin' and helpin' ol'Sully out would ye? ",
-    "name": "An Unexpected Advantage",
-    "requires_level": 85,
-    "zone": "The Jade Forest"
-}

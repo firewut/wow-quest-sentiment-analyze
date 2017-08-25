@@ -1,7 +1,0 @@
-{
-    "_id": "25488",
-    "description": "Are you ready to go, <class>? One of the sentinels will take you out to the Mirage Raceway.If there's anyone left alive out there, please help them.Goddess watch over you!",
-    "name": "Two If By Boat",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

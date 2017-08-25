@@ -1,8 +1,0 @@
-{
-    "_id": "31000",
-    "added_in_patch": 5,
-    "description": "Shado-Pan marksmen keep a constant watch over the Dread Wastes from the top of the Serpent's Spine. They would surely welcome the aid of a skilled <class> such as yourself.Take a kite and check in with Bowmistress Li.",
-    "name": "Dread Space",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

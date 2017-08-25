@@ -1,8 +1,0 @@
-{
-    "_id": "31063",
-    "added_in_patch": 5,
-    "description": "Lao-Chin is facing off against the leader just above the entrance in the tree, on the north side of Sik'vess. He is to bring back the second crystal that we need to get into the mantid tunnel.Go there and lend him your aid.",
-    "name": "Lao-Chin and Serevex",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

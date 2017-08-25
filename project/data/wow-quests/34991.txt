@@ -1,8 +1,0 @@
-{
-    "_id": "34991",
-    "added_in_patch": 6,
-    "description": "The Parchment of Dust reads: \"Put the featherless against one another so that our claws remain unsullied!\" How wise the high Ravenspeaker is to foresee this day.There is a great beast on the hillside to the west by the name of Stonescale. It has abducted one of the flock and despite our many attempts we have been unable to defeat it. Go, prove yourself by slaying the beast and rescuing Tillik! Fulfill your destiny in the name of the Raven Mother!",
-    "name": "To the... Rescue?",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

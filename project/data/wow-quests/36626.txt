@@ -1,9 +1,0 @@
-{
-    "_id": "36626",
-    "added_in_patch": 6,
-    "description": "Lieutenant Howell said you might be showing up.It's such an honor to meet you in person. The lieutenant is at the inn, I'll escort you over there.",
-    "name": "Host Howell",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Stormshield"
-}

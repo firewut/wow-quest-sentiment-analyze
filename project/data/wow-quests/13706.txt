@@ -1,7 +1,0 @@
-{
-    "_id": "13706",
-    "description": "Welcome, champion. I have heard of your accomplishments and we would be honored if you would join the delegation from Darnassus.You will train and rise through the ranks as you have before, but when you are named a champion of Darnassus, your squire will have the option of carrying our banner into battle.",
-    "name": "Valiant Of Darnassus",
-    "requires_level": 77,
-    "zone": "Tournament"
-}

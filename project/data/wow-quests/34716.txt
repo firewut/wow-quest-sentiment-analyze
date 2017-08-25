@@ -1,9 +1,0 @@
-{
-    "_id": "34716",
-    "added_in_patch": 6,
-    "description": "We know the Warsong packleader that attacked the caravan is in Telaar. She has the blueprints.We don't know where she is down there, but there's one who might.Vindicator Mo'mor was last seen alive, but taken prisoner. If he's still alive, he might know where the blueprints are.",
-    "name": "Mo'mor Might Know",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

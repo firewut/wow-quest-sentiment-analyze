@@ -1,7 +1,0 @@
-{
-    "_id": "11536",
-    "description": "Now that we have an anvil, I can really get to work.No matter how many supplies we receive, I'll always be able to put the Darkspine Iron Ore to good use. We'll need a constant supply of weapons and armor if we're to be successful here.There are a group of naga on the coast to the east of here. They're collecting ore and placing it in chests for shipment to the Legion. Relieving them of their ore will help our efforts in more ways than one....",
-    "name": "Don't Stop Now....",
-    "requires_level": 70,
-    "zone": "Isle of Quel'Danas"
-}

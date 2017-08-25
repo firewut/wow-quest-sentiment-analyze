@@ -1,9 +1,0 @@
-{
-    "_id": "34634",
-    "added_in_patch": 6,
-    "description": "We're going to need a way to create an artificial nexus at your tower.I know where we can get what we need, but it's heavily protected. We don't have the firepower to just waltz in the front door.I have a plan - a scroll of mass teleportation.The fungal giants and spore creatures down below are covered in pustules filled with an oily substance. If we gather enough of the oil I can craft a makeshift ink substitute for the scroll.",
-    "name": "Creating the Ink",
-    "requires_level": 94,
-    "side": "horde",
-    "zone": "Talador"
-}

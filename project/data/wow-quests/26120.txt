@@ -1,8 +1,0 @@
-{
-    "_id": "26120",
-    "description": "The Dragonmaw orcs nearby are fast becoming a nuisance. Their suicidal attacks on the grove are merely annoying, though they provide my sentinels with some needed practice.My scouts, however, have seen them rounding up black dragon whelps in nets. The last thing these lands need is a crude revival of dragon-taming. Strike out to the east, <class>, and cut down the whelpstealers; make sure their folly does not come back to haunt us later.",
-    "name": "The Crazed Dragonmaw",
-    "requires_level": 23,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

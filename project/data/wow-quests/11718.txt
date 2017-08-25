@@ -1,7 +1,0 @@
-{
-    "_id": "11718",
-    "description": "I've reconfigured the skeleton of an old bot to create an earthquake large enough to collapse the tunnels, but the machinery is delicate and sensitive to Northrend's biting cold.I've devised a means of insulating it using the thickest hides of the native mammoths. They roam the plains south of the airstrip and adjacent to the Geyser Fields. Bring back enough of the hides for me to finish the machine and then we'll be able to unleash it on the Nerubians!",
-    "name": "A Bot in Mammoth's Clothing",
-    "requires_level": 68,
-    "zone": "Borean Tundra"
-}

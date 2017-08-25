@@ -1,7 +1,0 @@
-{
-    "_id": "25305",
-    "description": "Our settlement on Sardor Isle was lost to the Hatecrest naga. Overwhelmed by their numbers, we fell back to the mainland. While they coveted their newly-gained sandbar, we raised New Feathermoon on the shore and amassed an even greater army.Now, the Hatecrest will be driven back into the sea. Speak with Sentinel Ranadae to join our forces at Sardor. Slay the naga, and make sure whichever foul snake they take orders from is killed as well.",
-    "name": "Never Look Back",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

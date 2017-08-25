@@ -1,7 +1,0 @@
-{
-    "_id": "11877",
-    "description": "As we press the offensive on Quel'Danas, we've discovered that Kael'thas' minions are planning a counterattack. By ordering the Sunfury blood elves, based in Netherstorm, to attack our operations in Outland, he hopes to draw troops and attention away from the Sunwell.We must not allow this to happen, <name>. Each and every blade is needed on the front lines.Go to Netherstorm and capture their attack plans. Any of the Sunfury blood elves up there could be in possession of the plans. Good luck, <name>.",
-    "name": "Sunfury Attack Plans",
-    "requires_level": 70,
-    "zone": "Netherstorm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44563",
-    "added_in_patch": 7,
-    "description": "Soon the change of seasons will be upon us, and the Nightfallen will take command of their fate.You have given them hope, and set them on the path to redemption. They need you now more than ever.We all do.",
-    "name": "Redemption for the Fallen",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

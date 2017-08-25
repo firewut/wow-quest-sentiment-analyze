@@ -1,7 +1,0 @@
-{
-    "_id": "12781",
-    "description": "Welcome to the World of Warcraft!As special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Siouxsie the Banshee in Ebon Hold.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.Thanks again, and enjoy your stay in the World of Warcraft!\r\n",
-    "name": "Welcome!",
-    "requires_level": 1,
-    "zone": "Quests"
-}

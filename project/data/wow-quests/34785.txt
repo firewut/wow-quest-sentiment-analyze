@@ -1,9 +1,0 @@
-{
-    "_id": "34785",
-    "added_in_patch": 6,
-    "description": "I will also need you to call upon Exarch Hataaru. I understand you were helping him with our defenses at the gate.Hataaru is our Chief Artificer - he understands our technology better than any other and has been working tirelessly to recreate the glory of the civilization we left behind.He has moved to his workstation outside of the Elodor Dig, our crystal mines located just to the Southeast. Look for him at the mine entrance.",
-    "name": "Hataaru, the Artificer",
-    "requires_level": 90,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

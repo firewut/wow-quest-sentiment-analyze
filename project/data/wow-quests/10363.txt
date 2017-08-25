@@ -1,7 +1,0 @@
-{
-    "_id": "10363",
-    "description": "",
-    "name": "Additional Runecloth",
-    "requires_level": 50,
-    "zone": "Silvermoon City"
-}

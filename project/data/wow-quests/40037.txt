@@ -1,8 +1,0 @@
-{
-    "_id": "40037",
-    "added_in_patch": 7,
-    "description": "Did you notice the script along the base of the handle, <name>? It says \"Herbalist Tharillon,\" in the writing of the nightborne.The handle does little for us, but perhaps the blade of this spade will give us some information on how to harvest the starlight rose without failing quite so often.I would start my search for it in Suramar.",
-    "name": "The Spade's Blade",
-    "requires_level": 98,
-    "zone": "Herbalism"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38561",
-    "description": "Commander, you have a visitor. One of Gul'dan's warlocks just walked up to the base and surrendered. He says he has information of a terrible event that is about to occur.\r\n\r\nI suggest you speak with him immediately.",
-    "name": "Garrison Campaign: The Warlock",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

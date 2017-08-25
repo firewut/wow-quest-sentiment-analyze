@@ -1,7 +1,0 @@
-{
-    "_id": "27322",
-    "description": "The monstrosity has fallen, granting a brief reprieve to the Forsaken soldiers on the front lines.Take Korok's second head and return it to Forward Commander Onslaught at Forsaken Forward Command.",
-    "name": "Korok the Colossus",
-    "requires_level": 12,
-    "zone": "Ruins of Gilneas"
-}

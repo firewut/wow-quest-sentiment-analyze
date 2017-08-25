@@ -1,8 +1,0 @@
-{
-    "_id": "32525",
-    "added_in_patch": 5.2,
-    "description": "The mogu at the Court of Bones are bolstering their army by resurrecting the spirits of their dead.We cannot allow them to revive their fallen warriors.Take this torch and burn any mummified corpses that you can find.We will destroy our enemies before they have a chance to rise.",
-    "name": "Ashes of the Enemy",
-    "requires_level": 90,
-    "zone": "Quests"
-}

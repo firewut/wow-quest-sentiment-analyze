@@ -1,8 +1,0 @@
-{
-    "_id": "42055",
-    "added_in_patch": 7,
-    "description": "<Malorne's voice echoes in your mind.>Mortal you may be, but your valor is worthy of the ancient gods.Nature's spirit lives in you - vibrant, wild, and ferocious. I witness in you the essence of nature's spark - the WILL to survive.Our triumph here will be spoken of for ages to come, <name>.Return to the waking world through this portal. We will speak again when we return to the Dreamgrove.",
-    "name": "The Demi-God's Return",
-    "requires_level": 110,
-    "zone": "Druid Campaign"
-}

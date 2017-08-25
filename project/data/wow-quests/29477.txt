@@ -1,7 +1,0 @@
-{
-    "_id": "29477",
-    "description": "A skilled engineer can choose ONE specialization, and I can teach you the ways of gnomish engineering.You look like you know what you're doing, but I'll need some samples of your work.  Bring me six mithril tubes, an accurate scope, and two advanced target dummies.Submit these items to an engineering trainer in any of the capital cities and you'll be an official gnomish engineer with access to all the schematics!",
-    "name": "Gnomish Engineering",
-    "requires_level": 20,
-    "zone": "Engineering"
-}

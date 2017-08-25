@@ -1,8 +1,0 @@
-{
-    "_id": "25882",
-    "description": "Captain Tharran asked me to pass along his thanks for your help and congratulations on a successful mission. He and his men are cleaning up the last of the trolls and tending to the wounded.He also wanted me to ask you to check out reports about troll raids on the Amberstill Ranch to the north. Ask for Sergeant Flinthammer when you arrive.",
-    "name": "A Hand at the Ranch",
-    "requires_level": 5,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

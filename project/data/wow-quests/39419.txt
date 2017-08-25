@@ -1,8 +1,0 @@
-{
-    "_id": "39419",
-    "added_in_patch": 7,
-    "description": "The harpies are relentless in their pursuit to control the basin. They are able to craft bags of foul magic as quickly as we can destroy them.\r\n\r\nThe Skyhorn cannot gain the upper hand as long as their hexweaver lives. She must be stopped.",
-    "name": "Hex-a-Gone",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25103",
-    "description": "We've done a bang up job here. I'm gonna make sure these mooks finish properly and then head back to Gadgetzan for a bit.If you want to keep making a good impression on our Steamwheedle friends, or just make more money, you should head southwest of here. Bootlegger Outpost is set up on the edge of the gaping chasm.Talk to Zeke Bootscuff. I'd bet good money he'll need help.",
-    "name": "Bootlegger Outpost",
-    "requires_level": 44,
-    "side": "horde",
-    "zone": "Tanaris"
-}

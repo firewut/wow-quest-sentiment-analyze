@@ -1,8 +1,0 @@
-{
-    "_id": "38246",
-    "added_in_patch": 7,
-    "description": "I heard the others talking earlier. I may know the cause of their fear.They say the Chieftain has a mysterious totem. It gives him power, and fearful visions.If you destroy the totem, the madness will end.",
-    "name": "Totemic Call",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

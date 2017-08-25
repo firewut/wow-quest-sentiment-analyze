@@ -1,9 +1,0 @@
-{
-    "_id": "31734",
-    "added_in_patch": 5,
-    "description": "Did you see the size of those war wagons? They're packing so many explosives, I cannae tell if the Horde is here to take over this continent or just blow it out of the sea!We need to neutralize those wagons before they leave Garrosh'ar Point.Here, take me pocket flares. Fire 'em into a wagon and watch the fireworks!",
-    "name": "Welcome Wagons",
-    "requires_level": 85,
-    "side": "alliance",
-    "zone": "The Jade Forest"
-}

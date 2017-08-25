@@ -1,9 +1,0 @@
-{
-    "_id": "33062",
-    "added_in_patch": 6,
-    "description": "For what must be done, I need someone I can trust. You're one of those few.The woods and the orc village, Gul'var, are protected from my scrying magic. We need to pierce that veil. I think I know a way.There's a fel presence within the woods. A demonic watcher is there, hidden in a cave from which it casts its all-seeing gaze.I would like for you and the warden to capture it.",
-    "name": "Catching His Eye",
-    "requires_level": 94,
-    "side": "alliance",
-    "zone": "Shadowmoon Valley"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12422",
-    "description": "Listen, <name>.  I need you to act with discretion and speed.One of Krenna's top sergeants has captured a trapper outcast outside of Silverbrook.  Now, if things turn out the way they usually do, the prisoner is going to be executed before the day is over.We can't let that happen.  You see, the prisoner matches the description of Mikhail's older daughter in his diary.If we set her loose and follow her closely, she'll lead us to whoever's controlling the trappers.  Take this letter to her.",
-    "name": "Tactical Clemency",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

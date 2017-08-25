@@ -1,7 +1,0 @@
-{
-    "_id": "29645",
-    "description": "When the Cabal found our spies, they fed them to Ambassador Hellmaw one by one.Our men deserve justice. Slay the ritualists binding him, then dispose of Hellmaw.It is a most deserving fate.",
-    "name": "Ambassador Hellmaw",
-    "requires_level": 67,
-    "zone": "Shadow Labyrinth"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "25988",
-    "description": "I've got an idea for a sweet disguise, but I'm going to need your help, <name>! Take one of these merciless corpses and put it on your head.I know, I know, but it's dead, so what could possibly go wrong other than you smelling bad for a day or two?Ready to put it on?",
-    "name": "Put It On",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

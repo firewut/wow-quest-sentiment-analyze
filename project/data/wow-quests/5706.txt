@@ -1,7 +1,0 @@
-{
-    "_id": "5706",
-    "description": "Good to see you again, <name>. But I'm gonna have to cut our reunion short--Aelthalyste sent word that you were to return to her in the Undercity. She's still in the War Quarter.Don't worry though--I think it's a good thing. It was mentioned that she was pleased with your progress, so don't fret too much.",
-    "name": "<NYI> No Longer a Shadow",
-    "requires_level": 25,
-    "zone": "Priest"
-}

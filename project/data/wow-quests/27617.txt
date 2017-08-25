@@ -1,7 +1,0 @@
-{
-    "_id": "27617",
-    "description": "Can you sense it?  The taint is already lifting from this building.A holy building wants to be holy, and villains like Rohan and the rest of his Scarlet scum only hold it back.With the abbey secure, we are a step closer to taking Tyr's Hand.  Report the results of our strike to Angela.  She should be leading the charge on the cathedral from somewhere in the center of town.",
-    "name": "Befouled No More",
-    "requires_level": 39,
-    "zone": "Eastern Plaguelands"
-}

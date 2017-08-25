@@ -1,7 +1,0 @@
-{
-    "_id": "25880",
-    "description": "There are dozens of students at Thal'darah Grove. Most of them have no means of defending themselves, ripe for the slaughter.You must get word to Master Thal'darah of the Horde's plans. He will direct you in what you must do next.Fiora Moonsoar has granted you the use of her fastest hippogryph. Take it now to Thal'darah Overlook! Don't look back, <name>! The Horde must be stopped!",
-    "name": "Warn Master Thal'darah",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

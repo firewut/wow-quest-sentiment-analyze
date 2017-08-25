@@ -1,7 +1,0 @@
-{
-    "_id": "26126",
-    "description": "How much do you know about fuel, <name>?  Constructing the perfect fuel is a tricky job, as there's plenty of factors to balance: chrono-pyroxidation parameters, tempero-incendiary variables, conflagrational siltification criteria... and that's only naming a few.Hopefully the samples you brought me can be combined in the right proportions to create... the perfect bio-fuel.  Use that table over there and try combining some samples!  Bring the result to me when you're done.",
-    "name": "The Perfect Fuel",
-    "requires_level": 80,
-    "zone": "Abyssal Depths"
-}

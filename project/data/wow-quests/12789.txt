@@ -1,7 +1,0 @@
-{
-    "_id": "12789",
-    "description": "Ready yourself, <class>. I'm dispatching you to Light's Breach, northeast of here.I've received word that the Scourge are making a push to take over Zul'Drak.<Valus stares you dead in the eyes.>This will not come to pass.See to it that you assist in the destruction of the Scourge there. The light demands it.Dismissed.",
-    "name": "Into the Breach!",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

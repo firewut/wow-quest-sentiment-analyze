@@ -1,8 +1,0 @@
-{
-    "_id": "35605",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Uldaman Reward Quest",
-    "requires_level": 35,
-    "zone": "Quests"
-}

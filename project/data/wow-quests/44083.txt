@@ -1,8 +1,0 @@
-{
-    "_id": "44083",
-    "added_in_patch": 7,
-    "description": "This ancient tome appears to be the spellbook of Sataiel, the first necrolyte.\r\n\r\nWithin its pages of curses and cantrips, you discover instructions for a ritual that Sataiel was concocting to empower Ulthalesh, the Deadwind Harvester. She calls this ritual, \"The Rite of the Executioner.\"\r\n\r\nThe site was chosen and prepared, but Sataiel met her unfortunate end before she could proceed.  Perhaps you can pick up where she left off?\r\n\r\nFirst, you'll need some skulls.",
-    "name": "The Grimoire of the First Necrolyte",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "37657",
-    "added_in_patch": 7,
-    "description": "Might I ask a small favor, my friend? These creatures in the tide pools to the east are starting to frighten me. Our efforts to trade with them have been rebuffed at every turn with aggression. This is not good; neither for running a business, nor for profit.\r\n\r\nSadly, I must admit the time for talk has come to an end.\r\n\r\nMight you be willing to serve as my representative in dealing with the denizens of Mak'rura and their \"queen\"?\r\n\r\nI can assure you that your efforts will be rewarded commensurately.",
-    "name": "Making the World Safe for Profit",
-    "requires_level": 98,
-    "zone": "Azsuna"
-}

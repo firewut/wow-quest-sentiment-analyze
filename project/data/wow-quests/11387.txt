@@ -1,7 +1,0 @@
-{
-    "_id": "11387",
-    "description": "There are mechanical constructs within the Mechanar which Mah'duun has been told must be dismantled.Go to Tempest Keep, find the tempest-forge destroyers and destroy them.Then you may return to collect the bounty.",
-    "name": "Wanted: Tempest-Forge Destroyers",
-    "requires_level": 70,
-    "zone": "Quests"
-}

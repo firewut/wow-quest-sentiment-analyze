@@ -1,8 +1,0 @@
-{
-    "_id": "36059",
-    "added_in_patch": 6,
-    "description": "The time has come, $p.\r\n\r\nAwaken the Talon King from his long slumber. Call him into this world so that he may destroy our enemies!",
-    "name": "A Worthy Vessel",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "35062",
-    "added_in_patch": 6,
-    "description": "With their leader dead, the remaining Warsong will be easier to finish.As soon as that's done, I'll pull our soldiers out of Lok-rath and head for Grommashar.If you're heading back to Telaari Station, would you please inform D'kaan?",
-    "name": "Lok-rath is Secured",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

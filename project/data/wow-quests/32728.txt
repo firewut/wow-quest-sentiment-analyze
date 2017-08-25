@@ -1,8 +1,0 @@
-{
-    "_id": "32728",
-    "added_in_patch": 5.2,
-    "description": "The mogu within the nearby Court of Bones pose a constant threat to our foothold on this island. Grand Magister Rommath has been entrusted with halting their efforts, but I am certain he could use a capable <class> to see this task through.Go to him. Aid in whatever ways that you are able.",
-    "name": "The Court of Bones",
-    "requires_level": 90,
-    "zone": "Quests"
-}

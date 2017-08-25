@@ -1,7 +1,0 @@
-{
-    "_id": "25811",
-    "description": "To bring this mine down you're gonna need to blow up her support beams. I can provide you with the explosives you'll need, but you're gonna have to trudge through Krom'gar assassins to get to all of the beams.The good news, if any exists, is that we always mark our support beams with a big 'X.' Look for the markers and plant this dynamite near 'em. Once you've planted all the dynamite come on back up here and I'll activate the explosives.Kaboom!",
-    "name": "Shuttin Her Down",
-    "requires_level": 26,
-    "zone": "Stonetalon Mountains"
-}

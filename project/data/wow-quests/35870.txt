@@ -1,8 +1,0 @@
-{
-    "_id": "35870",
-    "added_in_patch": 6,
-    "description": "Basilisk is one of Nisha's favorite meals. This is where she hunts, and that's likely how those Iron Horde bastards were able to capture her.Why would they go to the trouble to subdue her this way? Perhaps together, you and I might learn the answer as we punish them for their transgressions.For now, Nisha's going to need some food. While I tend to her, will you do her hunting for her?",
-    "name": "Basilisk Butcher",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

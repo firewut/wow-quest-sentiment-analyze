@@ -1,8 +1,0 @@
-{
-    "_id": "26063",
-    "description": "<Darn grunts.>Hrmph.Things falling apart. Darn not happy. Now Darn's mate killed by spiders at Webwinder Hollow. Darn demands vengeance!Help Darn? Kill Queen Silith and her little spiderlings? For Darn? For Darn's mate!Webwinder Hollow is northwest of here, up the path. Go!",
-    "name": "The Queen and Her Court",
-    "requires_level": 25,
-    "side": "horde",
-    "zone": "Stonetalon Mountains"
-}

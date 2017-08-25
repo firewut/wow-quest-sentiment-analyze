@@ -1,8 +1,0 @@
-{
-    "_id": "41282",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Work Order: Runescale Koi",
-    "requires_level": 110,
-    "zone": "Fishing"
-}

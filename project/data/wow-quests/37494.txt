@@ -1,8 +1,0 @@
-{
-    "_id": "37494",
-    "added_in_patch": 7,
-    "description": "We are off to Stormwind. Tethys will sneak us by water beneath the old barracks under cover of darkness tonight.\r\n\r\nThe rest will be up to you, Mathias, and myself. We will have to stealth through Stormwind and confront Detheroc at SI:7.\r\n\r\nAre you ready to do this, <name>?",
-    "name": "Under Cover of Darkness",
-    "requires_level": 110,
-    "zone": "Rogue Campaign"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "12699",
-    "description": "There's one little problem we have to solve before we head out.  You see, I can't seem to find the keys to my flying machine.I've looked pretty much everywhere for them... maybe you can give me a hand.  Only place I haven't looked yet is inside the lake.I'll even give you my very own air tank.  It's almost empty, but it's got a couple of hits left.",
-    "name": "An Embarrassing Incident",
-    "requires_level": 77,
-    "zone": "Sholazar Basin"
-}

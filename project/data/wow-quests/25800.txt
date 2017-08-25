@@ -1,8 +1,0 @@
-{
-    "_id": "25800",
-    "description": "There's a lot to do here, <class>, but we need to keep an eye out for the gifts of fate.When the flood rolled in, right over our houses, it swept a good number of ocean dwellers with it. Menethil Bay's full of crabs now, large and ripe for the picking.When life gives you crabs, go crab fishing, I say. Bring me back the largest, meatiest claws you can find and I'll pay you.",
-    "name": "When Life Gives You Crabs",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

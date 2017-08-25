@@ -1,8 +1,0 @@
-{
-    "_id": "12237",
-    "description": "With this whistle you can call down a Wintergarde gryphon. Mount the creature and head towards the ruins of Wintergarde Village, now known as the Carrion Fields, southeast of here. Once at the fields, keep your eyes peeled for helpless Wintergarde villagers. When you spot one, fly low and use the gryphon to pick them up. Return the rescued villager here, to the gryphon station.There are Scourge all over the place so you'll need to keep your wits about you, hero. Good luck!",
-    "name": "Flight of the Wintergarde Defender",
-    "requires_level": 71,
-    "side": "alliance",
-    "zone": "Dragonblight"
-}

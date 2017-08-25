@@ -1,7 +1,0 @@
-{
-    "_id": "26581",
-    "description": "I'm no druid, but some of these mushrooms do not look to be naturally occurring. I know that our Stone Lord friend over there is eager to blame this on exposure to Azeroth, but I suspect more domestic causes.I saw some clouds of red mist to the northeast, near the water's edge. They seemed to be spurring new growth in their wake. Take one of my wind-devils with you and get me a sample from those clouds. You may have to stay close to the ground to spot them.",
-    "name": "A Head Full of Wind",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "38144",
-    "added_in_patch": 7,
-    "description": "Something, someone, intended us to never awaken. I sense their presence is still here in the barrow.<Koda takes a moment to stand.>My body is weak from deep slumber.If you would aid us, clear our barrow of any enemies.",
-    "name": "The Demons Below",
-    "requires_level": 98,
-    "zone": "Val'sharah"
-}

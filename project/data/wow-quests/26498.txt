@@ -1,8 +1,0 @@
-{
-    "_id": "26498",
-    "description": "We're makin' good progress. Keep pressing on, and don't falter!The Vilebranch berserkers fight like savage animals, whipped into a blood frenzy. Their shadowcasters summon foul spirits from beyond this world! This is why we're getting rid of these depraved creatures, <name>, never forget that.Head to the middle tier and kill the berserkers and shadowcasters!",
-    "name": "Death to the Vilebranch",
-    "requires_level": 30,
-    "side": "alliance",
-    "zone": "The Hinterlands"
-}

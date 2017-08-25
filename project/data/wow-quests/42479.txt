@@ -1,8 +1,0 @@
-{
-    "_id": "42479",
-    "added_in_patch": 7,
-    "description": "And with that, we have what we need to recreate the ritual... however flawed it may be. It must be conducted somewhere highly visible so that word reaches our target swiftly.I've heard reports that the Legion is heavily invested in the Faronaar region of Azsuna. An excellent place to begin a ritual they won't want us to complete.The chances of us dying horribly are exceptionally high.",
-    "name": "The Mage Hunter",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

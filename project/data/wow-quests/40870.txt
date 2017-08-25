@@ -1,8 +1,0 @@
-{
-    "_id": "40870",
-    "added_in_patch": 7,
-    "description": "<name>, they stole all my fireworks, the little scamps.You didn't see them? I was just on the verge of creating a new module for Reaves when these kids came in here and ran off with my fireworks.I need them back if I'm going to finish what I'm working on. Can you go get them back for me?",
-    "name": "Here Comes the BOOM!",
-    "requires_level": 104,
-    "zone": "Engineering"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "25780",
-    "description": "We'd barely pulled ourselves together after the flood when the Dark Iron hit the town. My men and I all rushed to defend the townsfolk, but the crazed fools retreated right into the keep itself.They're holed up good, and we can't destroy the keep. Not with half the town in ruins already.Take my place, <name>. I'd take the leader on myself if he hadn't dealt me this blow. Enter the keep, slay Horghast, and bring this to an end!",
-    "name": "Assault on Menethil Keep",
-    "requires_level": 19,
-    "side": "alliance",
-    "zone": "Wetlands"
-}

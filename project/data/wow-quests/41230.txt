@@ -1,8 +1,0 @@
-{
-    "_id": "41230",
-    "added_in_patch": 7,
-    "description": "The Nightborne are using magic for everything, even trapping.Nighteyes saw them at work, laying down magical snares to capture prey rather than the kind our people use. Bring me their traps so that I may study their make.",
-    "name": "Trapping Evolved",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

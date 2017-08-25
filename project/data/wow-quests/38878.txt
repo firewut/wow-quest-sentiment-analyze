@@ -1,9 +1,0 @@
-{
-    "_id": "38878",
-    "added_in_patch": 7,
-    "description": "Our goal lies within that vault, <class>. I don't have time to explain in detail - just know that it is vital to the Forsaken that we succeed.\r\n\r\nThe shieldmaidens have proven tenacious in their defense, but I believe there may be another way in. A chosen few of their order are allowed entrance, and I need you to find out how.\r\n\r\nIn the town I have seen intricately engraved shields which I believe are passed down from these champions. The scenes they depict may be the key to passing into the vault.",
-    "name": "Shielded Secrets",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "44489",
-    "added_in_patch": 7,
-    "description": "<Your fellow Illidari, Lyana Darksorrow, floats captive in stasis in front of you; her soul slowly draining into the harvester crystal.>\r\n\r\n<In order to release her from stasis, you will need to destroy the soul harvester.>",
-    "name": "Lyana Darksorrow",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

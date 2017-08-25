@@ -1,7 +1,0 @@
-{
-    "_id": "27536",
-    "description": "Here's another favor you can do for me, pal.We had a whole shipment of Landmines come in from Booty Bay just the other day. But someone stole the whole lot of 'em in the night!Whoever it was must be sloppy, because they dropped them all over the swamp to the east. No goblin I know would be that careless.I need you to go gather those landmines up for me. I'm sure they're perfectly safe and disarmed. Every single one. Yup.",
-    "name": "Mostly Harmless",
-    "requires_level": 51,
-    "zone": "Swamp of Sorrows"
-}

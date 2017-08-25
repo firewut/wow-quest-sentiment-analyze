@@ -1,8 +1,0 @@
-{
-    "_id": "43334",
-    "added_in_patch": 7,
-    "description": "You saved us all, my friend! Truly you embody all the elements stand for.If the Earthen Ring is to prevail, we will need weapons of great power. I know where to find some. After the Pandaren Campaign, the weapons of the storm god Ra-den were discovered beneath the Throne of Thunder. None have been able to wield them, so great is their power.They were placed in the care of the White Tiger, who will give them only to one who is worthy. Come <name>! Travel with me to Pandaria and we will prove your worth!",
-    "name": "The Coming Storm",
-    "requires_level": 98,
-    "zone": "Artifact"
-}

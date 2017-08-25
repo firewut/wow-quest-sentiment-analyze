@@ -1,8 +1,0 @@
-{
-    "_id": "44261",
-    "added_in_patch": 7,
-    "description": "It's worse than we thought within the Vault of the Wardens. The prisoners have become the jailers, and have completely taken over the vault. However, our intelligence reports that Cordana Felsong herself may be there.\r\n\r\nEnter the Vault of the Wardens and cleanse the place of evil.",
-    "name": "Vault of the Wardens",
-    "requires_level": 110,
-    "zone": "Quests"
-}

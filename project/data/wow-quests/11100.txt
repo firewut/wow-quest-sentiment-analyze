@@ -1,7 +1,0 @@
-{
-    "_id": "11100",
-    "description": "The Dragonmaw only dare attack us when our guard is down. They would face certain defeat if they were to attack us while we were prepared.I want you to let them come, <name>.<Ceyla nods.>Yes... a trap. Take this flare that their overlord gave you and deliver it to Commander Arcus. He is standing guard right outside this building.\r\n",
-    "name": "Commander Arcus",
-    "requires_level": 70,
-    "zone": "Shadowmoon Valley (Outland)"
-}

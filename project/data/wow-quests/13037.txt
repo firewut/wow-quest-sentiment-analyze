@@ -1,7 +1,0 @@
-{
-    "_id": "13037",
-    "description": "When the bronze dragonflight gifted me with immortality and set me on the path of the witness, Nozdormu entrusted me with the Lorehammer.The hammer's reaction to your findings means that time has gone awry here and it is our duty to restore the true timeline.We must find it. To the northwest is Frostfloe Deep, ancient burial cave of the warriors of Tunka'lo. Seek out the spirit of Chieftain Swiftspear, Stormhoof's brother. Ask him what he remembers of his brother's battle against the North Wind.",
-    "name": "Memories of Stormhoof",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

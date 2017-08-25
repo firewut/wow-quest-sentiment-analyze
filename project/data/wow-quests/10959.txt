@@ -1,7 +1,0 @@
-{
-    "_id": "10959",
-    "description": "With Illidan's lieutenants defeated, Akama will be able to force open the doors to Illidan's sanctum.  Be ready to bring your force inside as soon as Akama does.We still do not know what has become of Maiev, but we must make our move without her.I hope your force is up to the task.  Illidan will not be pleased to see Akama.",
-    "name": "The Fall of the Betrayer",
-    "requires_level": 70,
-    "zone": "Black Temple"
-}

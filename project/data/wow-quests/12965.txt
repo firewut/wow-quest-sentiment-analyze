@@ -1,7 +1,0 @@
-{
-    "_id": "12965",
-    "description": "The one who commands the stormforged iron dwarves is called Runeseer Valduran. Although I have never seen them, it is said that his master, Keeper Loken, who took over Ulduar, has given Valduran powerful titan artifacts.It could explain the strength and ferocity my men see in the stormforged warriors.Valduran's base, Nidavelir, lies to the southwest, across the Snowdrift Plains. Go there, <name>, and neutralize his power. Destroy these gifts of Loken's and help us to sap the strength of his followers.",
-    "name": "The Gifts of Loken",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14191",
-    "description": "You can decipher bits and pieces of the text, but it will require extensive study before Furien's work becomes coherent.For now, as you look off to the northeast, you think you can make out some of the ruins depicted in the journal.From what you can tell, these ruins seem to have been of some significance to Furien's research.",
-    "name": "Furien's Footsteps",
-    "requires_level": 27,
-    "side": "horde",
-    "zone": "Desolace"
-}

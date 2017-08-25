@@ -1,8 +1,0 @@
-{
-    "_id": "30492",
-    "added_in_patch": 5,
-    "description": "I wasn't lying about your reward. Here, take these washed yaks to the grummle caravan master Eightcoins.You can find him at the Grummle Bazaar west of here. He'll credit us and give you a delivery fee.He may be short, but he is our biggest customer.Return to me if you lose the yaks. More often than not they just come right back here anyway. Once they've been cleaned that is.",
-    "name": "Back in Yak",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

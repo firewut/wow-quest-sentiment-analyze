@@ -1,9 +1,0 @@
-{
-    "_id": "34818",
-    "added_in_patch": 6,
-    "description": "The garrison blueprints were taken to the Burning Blade village when the Warsong sacked your caravan. I can't construct this building without those plans.There's been talk of a young blademaster who's been exiled from the clan for many years. They call him Lantresor of the Blade.Our scouts recently saw him return to Hallvalor to challenge the blademaster leadership. Instead, they clapped him in chains.Maybe he's still alive. Maybe he'll help you recover the blueprints?",
-    "name": "They Call Him Lantresor of the Blade",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

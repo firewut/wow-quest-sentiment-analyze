@@ -1,8 +1,0 @@
-{
-    "_id": "42953",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "DANGER: Soulbinder Halldora",
-    "requires_level": 110,
-    "zone": "Stormheim"
-}

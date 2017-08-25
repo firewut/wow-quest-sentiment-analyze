@@ -1,7 +1,0 @@
-{
-    "_id": "29511",
-    "description": "The steam tonks are one of the Darkmoon Faire's most popular amusements. Our visitors love to test their skills for hours and hours, but the tonks take a real beating from all that fun.You look like you know your way around a wrench. Mind helping me fix some of the damaged tonks and return them to working order? I'll compensate you for your time.",
-    "name": "Talkin' Tonks",
-    "requires_level": 1,
-    "zone": "Darkmoon Faire"
-}

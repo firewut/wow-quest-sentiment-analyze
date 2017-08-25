@@ -1,9 +1,0 @@
-{
-    "_id": "36435",
-    "added_in_patch": 6,
-    "description": "The notes are unreadable, but based on previous experience, the text appears to be very similar to standard Orcish.It is possible that the notes could contain strategic information. Perhaps it would be of great value to the Frostwolf Orcs.Someone in Wor'gol might be able to help interpret the text.",
-    "name": "Unintelligible Intelligence",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Garrison Support"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10065",
-    "description": "During our mission to reconnoiter the Sunhawks and their portal, I sustained a serious wound. Scout Loryi has managed to staunch the bleeding and she's trying to figure out a way to evacuate me to Blood Watch.The problem is that we'd have to abandon our position here in order to guarantee a safe return.As soon as we leave this consecrated ground, we'll be set upon by ravagers. If you can clear some of the enraged ravagers, it might allow us to make the trip back safely.",
-    "name": "Cutting a Path",
-    "requires_level": 16,
-    "zone": "Bloodmyst Isle"
-}

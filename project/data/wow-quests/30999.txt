@@ -1,8 +1,0 @@
-{
-    "_id": "30999",
-    "added_in_patch": 5,
-    "description": "The toughest roads often have the most to teach us, <class>. I will no doubt learn a great deal from following the path of Shaohao.Many years ago Shaohao traveled to the highest peak in Kun-Lai to seek the guidance of the Jade Serpent. I too will travel to Seeker's Point in search of wisdom.Perhaps you would be interested in a journey such as this? If so speak with Uncle Cloverleaf. He will help you prepare.",
-    "name": "Path Less Traveled",
-    "requires_level": 87,
-    "zone": "Kun-Lai Summit"
-}

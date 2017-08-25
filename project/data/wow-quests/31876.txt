@@ -1,8 +1,0 @@
-{
-    "_id": "31876",
-    "added_in_patch": 5,
-    "description": "I have heard that the Inkmasters at the Arboretum are in need of aid from a scribe of great skill.  You should speak with Inkmaster Wei, if you wish to help.",
-    "name": "The Inkmasters of the Arboretum",
-    "requires_level": 85,
-    "zone": "The Halfhill Market"
-}

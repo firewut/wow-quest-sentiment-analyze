@@ -1,7 +1,0 @@
-{
-    "_id": "10731",
-    "description": "",
-    "name": "Path of the Violet Assassin",
-    "requires_level": 70,
-    "zone": "Karazhan"
-}

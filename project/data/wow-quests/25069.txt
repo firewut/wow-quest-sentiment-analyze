@@ -1,7 +1,0 @@
-{
-    "_id": "25069",
-    "description": "We are ready to enter the antechamber itself, <name>. This is a momentous occasion.From the writings you've brought us, I believe these ruins were in fact once the grand entrance to Uldum itself. The quakes that ripped its doors open have probably collapsed the tunnels, but we may yet find amazing things hidden within.Search the ruins for anything intact that may be studied.  The thrill of discovery awaits!",
-    "name": "The Secrets of Uldum",
-    "requires_level": 46,
-    "zone": "Tanaris"
-}

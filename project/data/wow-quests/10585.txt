@@ -1,7 +1,0 @@
-{
-    "_id": "10585",
-    "description": "In order for the Shadow Council to construct infernals as quickly as they're being used, they must have an area dedicated to summoning the corrupted elementals that serve as the souls of the creatures.The summoning chamber is likely to be found below ground, near a pool of fouled water or lava. Locate the summoning chamber within the Deathforge and find a way to end their summoning ritual. The mo'arg involved in making the infernals may carry a tool that will help disrupt the summoner's magics.",
-    "name": "The Summoning Chamber",
-    "requires_level": 67,
-    "zone": "Shadowmoon Valley (Outland)"
-}

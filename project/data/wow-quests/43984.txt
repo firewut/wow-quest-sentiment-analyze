@@ -1,8 +1,0 @@
-{
-    "_id": "43984",
-    "added_in_patch": 7,
-    "description": "You've been doing well, friend, but you would be unstoppable if you had another weapon at your side.Here, let me show you what options remain in the book. If either of these interest you then simply let me know.",
-    "name": "The Tome Opens Again",
-    "requires_level": 102,
-    "zone": "Artifact"
-}

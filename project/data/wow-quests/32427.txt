@@ -1,8 +1,0 @@
-{
-    "_id": "32427",
-    "added_in_patch": 5.1,
-    "description": "We've progressed to a new part of the Pandaren campaign. Your Warchief aims to impress the Pandaren with the full might of the Horde's military. He will lay claim to the resources of this land, with or without Pandaren aid.I understand your leader's aims, but I really want to understand the Warchief himself. What drives him? And where is the Horde ultimately going? I'd like to talk to you about this leader of yours.",
-    "name": "The Measure of a Leader",
-    "requires_level": 90,
-    "zone": "Legendary"
-}

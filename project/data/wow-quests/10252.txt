@@ -1,7 +1,0 @@
-{
-    "_id": "10252",
-    "description": "It has already begun. Levixus stands atop the ruins of Auchindoun and reads from the book of the dead. He calls the dead out by name and, through demonic ritual, binds the tortured souls to his will. He will raise all of Auchindoun if given the chance!But... you must first prepare. You cannot do battle with that which you cannot see.<Nitrin hands you a parchment.>Bring me the items I require to brew the tincture. It will open your mind and allow you to see into the spirit world.",
-    "name": "Vision of the Dead",
-    "requires_level": 64,
-    "zone": "Nagrand (Outland)"
-}

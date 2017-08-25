@@ -1,9 +1,0 @@
-{
-    "_id": "34917",
-    "added_in_patch": 6,
-    "description": "The Warsong packleader is trying to raise Telaar's shield. If Kargora does that, the Warsong will have an impervious base.So far, they've only managed to initiate the shield. This has the undesirable side effect of protecting the packleader and her shaman at the main crystal.Activate the crystals on the perimeter of Telaar. That will force the shield to fully deploy.Once you do that, Kargora will be exposed.",
-    "name": "Shields Up!",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Nagrand"
-}

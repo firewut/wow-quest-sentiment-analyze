@@ -1,8 +1,0 @@
-{
-    "_id": "32318",
-    "added_in_patch": 5.1,
-    "description": "Vol'jin would be dead if he were any race other than a troll. His regeneration is impressive, but it is being blocked by a poison.We need to cleanse this poison so that he can regenerate the damage.Take to the skies and travel southeast. Across the mountain tops of the Secret Aerie you will find needle sprites. Bring me some of the hardest needles from them you can find.With them I can attempt an acupuncture technique that should purge the poison from his body and accelerate his regeneration.",
-    "name": "Regeneration Takes Time",
-    "requires_level": 90,
-    "zone": "Pandaren Campaign"
-}

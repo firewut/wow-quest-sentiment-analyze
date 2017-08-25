@@ -1,8 +1,0 @@
-{
-    "_id": "43595",
-    "added_in_patch": 7,
-    "description": "Souls are not the only plunder Helya craves, and the kvaldir are ever eager to please.\r\n\r\nAmong their spoils are the venerable blades of fallen heroes who dared stand against Helya's minions. These blades belong in a place of honor, not among their wretched kind.\r\n\r\nReclaim the blades, for the honor of the Tideskorn!",
-    "name": "To Honor the Fallen",
-    "requires_level": 98,
-    "zone": "Stormheim"
-}

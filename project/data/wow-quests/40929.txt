@@ -1,8 +1,0 @@
-{
-    "_id": "40929",
-    "added_in_patch": 7,
-    "description": "This demon has information that could lead us to those in charge.Unfortunately, he is more fearful of his master than he is of us. We need to change his mind about that.The most powerful Burning Legion soldiers often carry an emblem of their rank and status within the demon army.Seek out the stronger demons in Felsoul Hold, slay them, and return to me with their emblems.We will show this wyrmtongue servant who it is he should fear...",
-    "name": "Symbols of Power",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

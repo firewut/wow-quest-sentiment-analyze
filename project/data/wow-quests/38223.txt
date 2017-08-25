@@ -1,7 +1,0 @@
-{
-    "_id": "38223",
-    "description": "You skim through the pages of the tome, most of them filled with notes on the nature of shadow and illusion. On the last pages you discover a journal:I continue to search for a cure to the curse of Sethe. If Terokk was restored I would not be in this situation. Damn Reshad!I was contacted by an orc that identified himself as Gul'dan. He has a cure for the curse! I must travel to Tanaan to search for the location of this \"cipher\" of his.Take this information to Reshad.",
-    "name": "Dark Ascension",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

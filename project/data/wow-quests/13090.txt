@@ -1,7 +1,0 @@
-{
-    "_id": "13090",
-    "description": "The warriors of the Warsong Offensive need food in their bellies to keep their strength up.   If you could bring some chilled meats from the Rhinos or other beasts, I could make them some stew.   I would be willing to teach you the recipe if you were willing.",
-    "name": "Northern Cooking",
-    "requires_level": 65,
-    "zone": "Cooking"
-}

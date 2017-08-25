@@ -1,8 +1,0 @@
-{
-    "_id": "27860",
-    "description": "When the Dark Portal closed many years ago, regret and fear seized many of us who had come to these lands. In their despair, they cursed the name of the Light, and sank into violence and hatred.These fallen souls are now the Lost Ones, little more than mindless monsters, attacking all who approach. They grow more corrupt by the day, and as they die off, they have begun to kidnap from the Harborage..They are beyond help, <name>. Their suffering must end. Will you put them from their misery?",
-    "name": "The Lost Ones",
-    "requires_level": 52,
-    "side": "alliance",
-    "zone": "Swamp of Sorrows"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9076",
-    "description": "The Wretched are so oblivious, gorging on foul magic, that they haven't realized we've recovered most of our weapons.  We can't expect them to remain in their stupor, though.  Now is the time for a decisive attack.  Let us make an example of their leader, Aldaron.  He was spotted on the top floor of the building by the anchorage.  Bring me his head; I'll reward you suitably.",
-    "name": "Wretched Ringleader",
-    "requires_level": 5,
-    "zone": "Eversong Woods"
-}

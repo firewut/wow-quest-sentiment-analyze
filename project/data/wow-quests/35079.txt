@@ -1,8 +1,0 @@
-{
-    "_id": "35079",
-    "added_in_patch": 6,
-    "description": "We got an emergency!A bunch of spore drifters have infested the shore and tore up our Spore-B-Gone turrets.We're caught with our armor off here! If we don't get those turrets back online then those spores are going to float right in to town and then we'll have another Pinchwhistle Point on our hands!We need to get out there and manually activate them.Well? Are you in?",
-    "name": "Spore-be-Gone",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

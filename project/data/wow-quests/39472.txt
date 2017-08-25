@@ -1,9 +1,0 @@
-{
-    "_id": "39472",
-    "added_in_patch": 7,
-    "description": "This map points out the strategic locations of the Forsaken forces around Greywatch. A marker to the east indicates an apothecary camp where Dread-Riders are being supplied from.\r\n\r\nIf you were to take out the apothecary in charge of creating this plague, it could stem the invasion and prevent the Dread-Riders from spreading the plague any further.",
-    "name": "Cut Out the Heart",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

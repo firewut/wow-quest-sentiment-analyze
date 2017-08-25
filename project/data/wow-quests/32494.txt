@@ -1,8 +1,0 @@
-{
-    "_id": "32494",
-    "added_in_patch": 5.2,
-    "description": "The Zandalari have found a way to infuse items of great power with the essence of their loa. These items are often passed from one generation to another, each recipient adding to the item's power.Two such items exist here. To be specific, two masks, worn by two brothers.Spiritbinder Tu'chek and Arcanital Ra'kul must be stopped and their masks destroyed.Kill them and return their masks to me. I will make sure the masks are disposed of.",
-    "name": "Power Play",
-    "requires_level": 90,
-    "zone": "Quests"
-}

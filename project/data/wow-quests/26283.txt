@@ -1,7 +1,0 @@
-{
-    "_id": "26283",
-    "description": "I've become very interested in the slimes inhabiting Skulk Rock. No matter how many times they're cleared out, they seem to return, yet it doesn't seem they're capable of reproducing from a single slime.I think something's growing in there. There's a source where all the slimes come from, and I want to study it. Find this source, and bring me back a sample.",
-    "name": "Prime Slime",
-    "requires_level": 30,
-    "zone": "The Hinterlands"
-}

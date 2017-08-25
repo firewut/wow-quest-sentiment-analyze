@@ -1,8 +1,0 @@
-{
-    "_id": "39720",
-    "added_in_patch": 6.2,
-    "description": "The Bonefleet wants nothing more than to spread their undead curse onto dry land. Like a sickness, it will slowly overtake the landscape if left unchecked.The stench of undeath permeates the barrels of fertilizer they use to sow their dread crops. They are the source of the spreading plague, and must be destroyed.",
-    "name": "Foul Fertilizer",
-    "requires_level": 100,
-    "zone": "Shadowmoon Valley (Outland)"
-}

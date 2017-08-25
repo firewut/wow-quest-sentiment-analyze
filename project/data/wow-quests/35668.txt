@@ -1,8 +1,0 @@
-{
-    "_id": "35668",
-    "added_in_patch": 6,
-    "description": "Our deceased friend here was hiding more than a love of old scrolls and erotic sorcery-fiction. He had something truly valuable.If I'm reading his notes correctly, he claims to have found the Eye of Anzu - Terokk's scrying orb from the days after his fall.We need that orb! The notes say he stashed it in a ravager den just up the road.",
-    "name": "Syth's Secret",
-    "requires_level": 96,
-    "zone": "Spires of Arak"
-}

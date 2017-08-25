@@ -1,7 +1,0 @@
-{
-    "_id": "12229",
-    "description": "Not long ago we sent an expedition to the east, where it was attacked by crazed furbolgs.  One of the survivors described slaying one of them and its body expelling a dark slimy substance.For thousands of years, the furbolgs in this region have been peaceful.  It is possible that there is a link to the furbolgs' behavior and the dark energy we were able to detect earlier.Bring me samples of the furbolgs' blood.  You will find them to the east in the Rage Fang Shrine and the Heart's Blood Shrine.",
-    "name": "A Possible Link",
-    "requires_level": 72,
-    "zone": "Grizzly Hills"
-}

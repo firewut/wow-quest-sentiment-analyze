@@ -1,9 +1,0 @@
-{
-    "_id": "39063",
-    "added_in_patch": 7,
-    "description": "It's obvious at this point that the Horde wants something in Skold-Ashil. Unfortunately we still don't know what they're after.\r\n\r\nWe think the secret lies with the shieldmaidens here, so we need to find out more about them. Some early scouting revealed that they have a method of carving their shields to tell their stories. \r\n\r\nGo into the city and find as many of these shields as you can. With luck, we will find what Sylvanas seeks.",
-    "name": "Shielded Secrets",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Stormheim"
-}

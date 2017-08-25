@@ -1,8 +1,0 @@
-{
-    "_id": "35599",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Vignette: Blade-Dancer Aeryx",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

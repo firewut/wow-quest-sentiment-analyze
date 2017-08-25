@@ -1,8 +1,0 @@
-{
-    "_id": "32138",
-    "added_in_patch": 5.1,
-    "description": "Everyday it's the same thing! \"We're out of this!\", \"We need more of that!\", \"Why don't you ever do anything?!\"I work! I do things! They can be so hurtful! I'm doin' my best down here!Oh yeah, we need more lumber! Go down and tell that good for nothin' Zino to get his shredders in gear!",
-    "name": "Work Order: Lumber",
-    "requires_level": 90,
-    "zone": "Landfall"
-}

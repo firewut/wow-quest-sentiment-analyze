@@ -1,7 +1,0 @@
-{
-    "_id": "9962",
-    "description": "So are you ready for your first battle? If you are, let me know and I'll get things started. All you have to do is go wait in the Ring of Blood for your opponent to arrive.This fight is against Brokentoe, a ferocious clefthoof.Good luck! I hope you brought friends.And remember, the fight's over when either you or your opponent are lying face down on the arena floor.\r\n",
-    "name": "The Ring of Blood: Brokentoe",
-    "requires_level": 65,
-    "zone": "Nagrand (Outland)"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "9695",
-    "description": "This document looks to be important. Unfortunately, it is written in Thalassian, a language that you cannot understand.Perhaps Vindicator Boros will know what to do with the letter.",
-    "name": "The Sun King's Command",
-    "requires_level": 14,
-    "zone": "Bloodmyst Isle"
-}

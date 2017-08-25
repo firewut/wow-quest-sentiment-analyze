@@ -1,8 +1,0 @@
-{
-    "_id": "42489",
-    "added_in_patch": 7,
-    "description": "Thalyssra's ransacked estate still contains a number of items important to Thalyssra. Collect them and return them to her.",
-    "name": "Thalyssra's Drawers",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

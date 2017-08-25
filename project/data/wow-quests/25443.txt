@@ -1,7 +1,0 @@
-{
-    "_id": "25443",
-    "description": "Did my drought work? You spoke with one of them?Then you know what to do. The name of their elemental master is written on three firestones scattered throughout the Inferno. Examine each of these stones and we will have the name we need.Hurry! Your precious forest burns!",
-    "name": "The Name Never Spoken",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

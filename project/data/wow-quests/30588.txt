@@ -1,8 +1,0 @@
-{
-    "_id": "30588",
-    "added_in_patch": 5,
-    "description": "The riverblade saurok clan is attacking one of our local fishing expeditions!  They need help right away!Thin those saurok out and help that expedition return safely!",
-    "name": "Fishing for a Bruising",
-    "requires_level": 90,
-    "zone": "Fishing"
-}

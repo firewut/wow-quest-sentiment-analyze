@@ -1,8 +1,0 @@
-{
-    "_id": "42830",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Pest Management",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

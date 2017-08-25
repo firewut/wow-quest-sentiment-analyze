@@ -1,8 +1,0 @@
-{
-    "_id": "30781",
-    "added_in_patch": 5,
-    "description": "Ban has asked me to explore the village to determine what happened here.I noticed smoke rising up from the east, the west, northwest, and the south.I need someone I trust to watch my back.What do you say? Want to help me on my first scouting mission?",
-    "name": "Last Toll of the Yaungol",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

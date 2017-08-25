@@ -1,7 +1,0 @@
-{
-    "_id": "27278",
-    "description": "A courier from Orgrimmar just delivered a message for you. I'm to tell you that Ormak Grimshot, master of the hunters in Orgrimmar, has asked to meet with you.Travel quickly to Orgrimmar and present yourself to Ormak in the Valley of Honor.",
-    "name": "Grimshot's Call",
-    "requires_level": 20,
-    "zone": "Hunter"
-}

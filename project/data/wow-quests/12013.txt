@@ -1,7 +1,0 @@
-{
-    "_id": "12013",
-    "description": "There is one last thing that I would have you do, <name> the <race>. I would have you destroy Arcanimus!The sorcerers to the west used that giant device in the sky to bore a massive pit into our resting place. When they did that, they unleashed a monstrosity!I would not care if it were only a concern for mortals, but Arcanimus feeds upon the spirits of the dead.You will put an end to it now!",
-    "name": "End Arcanimus",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

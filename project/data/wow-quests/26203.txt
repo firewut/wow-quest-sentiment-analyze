@@ -1,8 +1,0 @@
-{
-    "_id": "26203",
-    "description": "It's a victory for us every time we're able to help another survivor escape from the contaminated halls of Gnomeregan. <Class>s like you will play an important part in the future of Gnomeregan. To that end, our leader, High Tinker Mekkatorque, has assembled a team of trainers to help you learn your arts.Drill Sergeant Steamcrank will help oversee your training and adjustment to life on the surface. He's waiting for you on the small practice field across the road.",
-    "name": "The Future of Gnomeregan",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

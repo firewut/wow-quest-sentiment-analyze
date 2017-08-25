@@ -1,8 +1,0 @@
-{
-    "_id": "26364",
-    "description": "Our cousins, the dwarves of Ironforge, have agreed to help us in the battle against Razlo Crushcog. Mountaineer Stonegrind is a veteran who knows Dun Morogh well. He and High Tinker Mekkatorque stand ready on a small snow-covered island in Iceflow Lake to the north. Meet up with them there and let the high tinker know when you are ready to face the traitor Crushcog.Take this orbital targeting device and use it during the battle. It will help guide the high tinker's special weapons.",
-    "name": "Down with Crushcog!",
-    "requires_level": 2,
-    "side": "alliance",
-    "zone": "Dun Morogh"
-}

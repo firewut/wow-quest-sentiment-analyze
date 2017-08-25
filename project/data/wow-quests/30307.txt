@@ -1,8 +1,0 @@
-{
-    "_id": "30307",
-    "added_in_patch": 5,
-    "description": "Good to have you with us, <class>. If you're joining the fight, I need more men out up at the Golden Stair to clear out the mogu setting up base there.Can I count on you?",
-    "name": "The Eternal Vigil",
-    "requires_level": 90,
-    "zone": "Vale of Eternal Blossoms"
-}

@@ -1,9 +1,0 @@
-{
-    "_id": "33454",
-    "added_in_patch": 6,
-    "description": "Cowards! A curse on these wretched meatbags!The Bladespire have always taunted the orc clans by taking our wounded as slaves to fight like dogs in their pits.In retaliation for our assault they have poisoned their orc prisoners, leaving them to suffer and die an excruciating death.Only their geomancers carry the antidote, traveler. Use it to cure the Frostwolf prisoners.",
-    "name": "The Cure",
-    "requires_level": 90,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

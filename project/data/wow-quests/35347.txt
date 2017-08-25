@@ -1,8 +1,0 @@
-{
-    "_id": "35347",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Treasure: Ogre Booty 000",
-    "requires_level": 90,
-    "zone": "Frostfire Ridge"
-}

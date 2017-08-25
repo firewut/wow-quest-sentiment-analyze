@@ -1,8 +1,0 @@
-{
-    "_id": "39394",
-    "description": "Your ally and I will remove this barrier now, though it will take a greater part of our strength. What lies beyond will not be easy.\r\n\r\nGul'dan will have empowered an elemental lord with the Cipher, driving it insane. He will use it to destroy the link between the elements and Draenor. If you destroy that elemental, we could recover the Cipher.",
-    "name": "The Cipher of Damnation",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

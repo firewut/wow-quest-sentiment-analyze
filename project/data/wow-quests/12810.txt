@@ -1,7 +1,0 @@
-{
-    "_id": "12810",
-    "description": "The forces at Onslaught Harbor are heavily reinforced by gryphon riders. You need a mount that will enable you to put them down. But first, we need the components for the ritual that is going to make it all happen.A great deal of blood is necessary for the ritual to be undertaken.<The lord-commander points down and to the northwest.>There is a readily available supply down there in the harbor... sharks. Do not return to me until you've filled this bladder with their blood.",
-    "name": "Blood in the Water",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

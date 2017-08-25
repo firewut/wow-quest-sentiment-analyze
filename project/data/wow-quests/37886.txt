@@ -1,8 +1,0 @@
-{
-    "_id": "37886",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Max-level Choice Tracker: Tanaan 6.2 - Ironhold",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

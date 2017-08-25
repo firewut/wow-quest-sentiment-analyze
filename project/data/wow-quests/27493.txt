@@ -1,7 +1,0 @@
-{
-    "_id": "27493",
-    "description": "I want you to get in there past those boulders to the northwest at the Twilight Gate. Kill every Bloodeye Clan ogre and ettin in sight. Think you can handle that for me, <name>?",
-    "name": "Ogres & Ettins",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "14135",
-    "description": "Hold still a second, I'm going to bring your main buzzsaw controls online.Night elven snipers from Talrendis have been hiding in the trees, taking potshots at my workers. I want you to take care of those snipers... by first taking care of those trees. Look for Azshara saplings east of the main gates. Your shredder will know what to do. Chop to it!",
-    "name": "Up a Tree",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Azshara"
-}

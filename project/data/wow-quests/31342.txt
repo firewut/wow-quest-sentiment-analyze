@@ -1,8 +1,0 @@
-{
-    "_id": "31342",
-    "added_in_patch": 5,
-    "description": "You have proven yourself in battle.Still, if you would aid us further, I must ask something else of you.The Sha of Violence awaits beyond within the Sealed Chambers. Destroy it if you would earn my respect.",
-    "name": "The Path to Respect Lies in Violence",
-    "requires_level": 87,
-    "zone": "Quests"
-}

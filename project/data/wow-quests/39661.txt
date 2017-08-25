@@ -1,8 +1,0 @@
-{
-    "_id": "39661",
-    "added_in_patch": 7,
-    "description": "The drogbar have taken over my cavern. It is where we Rivermane practice our water magic and get much of the purest healing water in Highmountain.\r\n\r\nMeet me there and we will cleanse that sacred place of these dark-dwellers.",
-    "name": "Lifespring Cavern",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

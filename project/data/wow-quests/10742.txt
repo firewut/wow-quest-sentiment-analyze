@@ -1,7 +1,0 @@
-{
-    "_id": "10742",
-    "description": "Now it comes to this. We will bring Goc forth from his lair, and we will destroy him. With Goc dead, the Bladespire ogres will threaten the Mok'Nathal no longer. Go to Goc's altar outside Gruul's Lair, then blow my horn. I will come, and we will face the son of Gruul together.",
-    "name": "Showdown",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

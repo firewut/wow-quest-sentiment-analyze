@@ -1,9 +1,0 @@
-{
-    "_id": "38611",
-    "added_in_patch": 7,
-    "description": "In the summit of storms the dragons await. Born of the gods, they will test your will. \r\n\r\nThey roost above Hrydshal, where their children serve the Drekirjar. But they are no allies to man or vrykul, and so you must earn their blessing as they see fit.\r\n\r\nA friend of yours awaits in Hrydshal, no doubt searching for the answers you now possess. Go to her, and together, you will test your might against the storm!",
-    "name": "Will of the Thorignir",
-    "requires_level": 98,
-    "side": "horde",
-    "zone": "Stormheim"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "39498",
-    "added_in_patch": 7,
-    "description": "Riverbend! Is that what the Underking said?That is my home and the place where we store our winter supplies. We must make it there at all speed and warn them.Meet me there.",
-    "name": "High Water",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

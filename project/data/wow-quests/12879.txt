@@ -1,7 +1,0 @@
-{
-    "_id": "12879",
-    "description": "<As you retrieve the core from the chest, you hear the thumping of heavy footsteps rushing towards you from the corridor. There is the faint sound of battle in the distance.>",
-    "name": "Fury of the Frostborn King",
-    "requires_level": 77,
-    "zone": "The Storm Peaks"
-}

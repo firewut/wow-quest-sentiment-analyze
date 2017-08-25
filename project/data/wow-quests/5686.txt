@@ -1,7 +1,0 @@
-{
-    "_id": "5686",
-    "description": "The time has come again for you to journey to Stormwind, young priest. The High Priestess Laurena would reward you for your time spent in the service of the Light. She is still in the Cathedral of Light--look for her there.Until then, you're welcome to stay here and train as much as you'd like. If there is anything I can do for you, please, just ask.",
-    "name": "<NYI> The Light Protects You",
-    "requires_level": 25,
-    "zone": "Priest"
-}

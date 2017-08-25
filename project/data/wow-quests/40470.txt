@@ -1,8 +1,0 @@
-{
-    "_id": "40470",
-    "added_in_patch": 7,
-    "description": "I am afraid, <name>. We're so close to home, so close to salvation...Astoril says he knows the rest of the way through and can get us there safely. I believe him, but you've come this far to see us safe. Will you see this through to the end?",
-    "name": "Quality of Life",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

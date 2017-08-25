@@ -1,7 +1,0 @@
-{
-    "_id": "9623",
-    "description": "You have survived the wilds of our new home and shown yourself a cut above the others. I believe that you have come of age to assist those battling on the front lines of Bloodmyst. The Hand of Argus could use a <race> like you. Report to Torallius the Pack Handler. You will find him outside the Exodar, tending to the elekk. Give him these orders so that he may direct you towards your new duties on Bloodmyst.",
-    "name": "Coming of Age",
-    "requires_level": 10,
-    "zone": "Azuremyst Isle"
-}

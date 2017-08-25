@@ -1,8 +1,0 @@
-{
-    "_id": "26449",
-    "description": "<name>, you will see to it that this attack by the Burning Legion never comes to pass!  Go and slay these dreadlords!  Without them the rest of the demons are essentially mindless.You will find Gorgannon in Demon Fall Canyon south beyond Felfire Hill, near Mannoroth's floating, broken spear.Diathorus the Seeker resides somewhere in the barrow den atop Demon Fall Ridge.Return to me with their weapons as proof of your deeds.",
-    "name": "Never Again!",
-    "requires_level": 19,
-    "side": "horde",
-    "zone": "Ashenvale"
-}

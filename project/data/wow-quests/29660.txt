@@ -1,7 +1,0 @@
-{
-    "_id": "29660",
-    "description": "Kael'thas' forces in the Botanica were unsuccessful in handling the numerous creatures contained within. We must take action to right their wrongs.The first step is to eliminate their forces so that they cannot cause further problems.",
-    "name": "Saving the Botanica",
-    "requires_level": 67,
-    "zone": "Quests"
-}

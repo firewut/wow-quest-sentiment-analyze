@@ -1,7 +1,0 @@
-{
-    "_id": "26537",
-    "description": "I want you to go out there and I want you to finish them.Berserkers, Earthrenders, Deathriders... I don't care! I want those stone troggs shattered!",
-    "name": "Shatter Them!",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

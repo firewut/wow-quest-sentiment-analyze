@@ -1,7 +1,0 @@
-{
-    "_id": "28025",
-    "description": "The Warchief has requested that any able-bodied adventurer head to Razorfen Downs, in Thousand Needles, immediately!The mysterious Koristrasza needs help to stop the Scourge-Quilboar alliance! If you so choose, head to Razorfen Downs and speak with Koristrasza to lend her your skills.",
-    "name": "Adventurers Wanted: Razorfen Downs",
-    "requires_level": 42,
-    "zone": "Razorfen Downs"
-}

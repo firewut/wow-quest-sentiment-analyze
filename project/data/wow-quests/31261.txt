@@ -1,9 +1,0 @@
-{
-    "_id": "31261",
-    "added_in_patch": 5,
-    "description": "Gore from Captain Jack's head drips and mysteriously seeps into the ground as you examine your hard-won trophy.Strange, but no time to investigate that now. There's too much work to be done.The chieftain of your newfound friends will doubtlessly be impressed with this proof of your grookin' skills.",
-    "name": "Captain Jack's Dead",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

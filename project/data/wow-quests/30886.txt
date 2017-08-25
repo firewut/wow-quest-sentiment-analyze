@@ -1,7 +1,0 @@
-{
-    "_id": "30886",
-    "added_in_patch": 5,
-    "description": "",
-    "name": "Example Pandaren Race Quest",
-    "zone": "Quests"
-}

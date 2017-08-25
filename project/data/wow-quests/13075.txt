@@ -1,7 +1,0 @@
-{
-    "_id": "13075",
-    "description": "I shall open a portal to take you back to the druid that brought you here. You and your crusader have my well wishes. I hope that this acorn is able to purify your crusader and save him from the wretched fate of the plague.Farewell, <race>.",
-    "name": "The Boon of Remulos",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26771",
-    "description": "You must set the trap for the matriarch now.Go to the western end of the Alabaster Shelf and place the trapped basilisk meat in the center of the feeding grounds.",
-    "name": "Testing the Trap",
-    "requires_level": 81,
-    "zone": "Deepholm"
-}

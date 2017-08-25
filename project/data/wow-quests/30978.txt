@@ -1,8 +1,0 @@
-{
-    "_id": "30978",
-    "added_in_patch": 5,
-    "description": "We're about to get hit hard... Pick up that cannon there and lend a hand, if you would.  There will be no shortage of targets.",
-    "name": "Hostile Skies",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

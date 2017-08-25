@@ -1,7 +1,0 @@
-{
-    "_id": "26730",
-    "description": "I need something to cut into the raw, elemental power of these bracers... something strong and abrasive, but still of the sea.The Murkgill murlocs have moved inland from the sea, but they still carry vials of sea salt on them.  What they use it for, I can't be sure, but it will serve for our studies.  You can find the Murkgill in the glade south of the Rebel Camp and east of Bal'lal ruins.",
-    "name": "You Can Take the Murloc Out of the Ocean...",
-    "requires_level": 24,
-    "zone": "Northern Stranglethorn"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "43370",
-    "added_in_patch": 7,
-    "description": "I have been experimenting with technology that allows you to alter the structure of beasts, specifically with how they look.",
-    "name": "A New Invention",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

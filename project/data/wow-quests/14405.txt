@@ -1,8 +1,0 @@
-{
-    "_id": "14405",
-    "description": "Thanks for your help, <name>.  This ship is ready to sail.Now you go and tell Miss Armstead that we're not going to be part of the land evacuation.We Haywards have been men of the sea for generations.  If we're to leave our home, then we'll do so by sea.",
-    "name": "Escape By Sea",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Gilneas"
-}

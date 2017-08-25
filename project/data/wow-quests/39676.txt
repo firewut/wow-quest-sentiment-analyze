@@ -1,9 +1,0 @@
-{
-    "_id": "39676",
-    "added_in_patch": 6.2,
-    "description": "Yes!  Those are the blueprints I misplaced when I was fishing last week.  These instructions match my prototype equipment one for one. Take this Blast Furnace and install it on one of our ships.  This should let us break the naval blockade and expand our control of the Draenor seas.",
-    "name": "A True Naval Commander",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Frostfire Ridge"
-}

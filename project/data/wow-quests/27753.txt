@@ -1,7 +1,0 @@
-{
-    "_id": "27753",
-    "description": "Supplies are short, <name>. We've got refugees coming into Thundermar from up and down the ridge - that's a lot of mouths to feed.Plenty of food stores were left behind as people pulled their families to safety. We need that food!Scour the Thundermar ruins south, east, and southwest of here for food stores.Careful, <class>! The fighting around the ruins is pretty intense.",
-    "name": "Never Leave a Dinner Behind",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

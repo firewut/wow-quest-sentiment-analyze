@@ -1,8 +1,0 @@
-{
-    "_id": "34365",
-    "added_in_patch": 6,
-    "description": "These goblins have been conducting horrible experiments on the rylaks. This fool gave me the location for three of their prized experiments.Set these mutated rylaks free. Maybe freedom will help these tortured souls find some peace in life.",
-    "name": "Releasing Rylak",
-    "requires_level": 100,
-    "zone": "Garrison Campaign"
-}

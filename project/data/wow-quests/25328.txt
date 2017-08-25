@@ -1,7 +1,0 @@
-{
-    "_id": "25328",
-    "description": "<Kristoff cranes his neck, trying to look you in the eye.>Listen, you gotta get me outta here. They're either going to eat me or turn me over to the Twilight's Hammer. Maybe both.They've padlocked me in, and Gar'gol keeps the key in his personal treasure chest. Kill Gar'gol if you have to - but get that key!<Kristoff flails his limbs, helplessly.>",
-    "name": "Gar'gol's Gotta Go",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

@@ -2,7 +2,7 @@
 
 ## General Info
 
-The project analyzed sentimential value of quests from [World of Warcraft](https://worldofwarcraft.com/en-us/)
+The project analyzed sentimental value of quests from [World of Warcraft](https://worldofwarcraft.com/en-us/)
 
 Quests were Fetched from [http://www.wowdb.com](http://www.wowdb.com)
 
@@ -10,12 +10,22 @@ Quests were Fetched from [http://www.wowdb.com](http://www.wowdb.com)
 
 ## Installation instructions
 
-### Python Environment
-
 If you need to execute Sentiment analysis you will need to install some packages contained in `requirements.txt`
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Run quest parser
+
+```bash
+scrapy runspider ./project/spiders/wowdb/wowdb.py
+```
+
+### Make analysis
+
+```bash
+python ./project/wow-quests.py
 ```
 
 ### HTML Result
@@ -23,7 +33,7 @@ pip install -r requirements.txt
 To view the results you need to start local HTTP server
 
 ```bash
-cd /project/data && python2.7 -m SimpleHTTPServer
+cd ./project/data && python2.7 -m SimpleHTTPServer
 ```
 
 Open the [http://127.0.0.1:8000/wow.html](http://127.0.0.1:8000/wow.html)

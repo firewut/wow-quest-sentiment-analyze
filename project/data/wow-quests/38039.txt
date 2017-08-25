@@ -1,8 +1,0 @@
-{
-    "_id": "38039",
-    "added_in_patch": 6.2,
-    "description": "",
-    "name": "Max-level CHoice Tracker: Tanaan 6.2 - The Iron Front",
-    "requires_level": 100,
-    "zone": "Tanaan Jungle"
-}

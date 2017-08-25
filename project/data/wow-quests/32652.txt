@@ -1,8 +1,0 @@
-{
-    "_id": "32652",
-    "added_in_patch": 5.2,
-    "description": "We have a plan to halt the mogu's weaponmaking capabilities, and it involves the creature you recovered from the Zandalari.\r\n\r\nSpeak to me when you're ready to learn more.",
-    "name": "To the Skies!",
-    "requires_level": 90,
-    "zone": "Quests"
-}

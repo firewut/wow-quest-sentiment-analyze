@@ -1,7 +1,0 @@
-{
-    "_id": "28230",
-    "description": "Before the warden receives his comeuppance we must deal with the outbreak. We cannot risk this contagion being released into the world.Within the laborers' quarters, directly north of here, is a monstrosity Stillwater pieced together out of three farmers. This beast must be destroyed if we are to secure the Sludge Fields! Protocol demands it!",
-    "name": "Protocol",
-    "requires_level": 19,
-    "zone": "Hillsbrad Foothills"
-}

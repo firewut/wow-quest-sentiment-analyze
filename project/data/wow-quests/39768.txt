@@ -1,8 +1,0 @@
-{
-    "_id": "39768",
-    "added_in_patch": 7,
-    "description": "These kobolds are taking advantage of the attacks against the Skyhorn tribe. They disturb our graves and steal anything they can get their paws on.\r\n\r\nI can do nothing to stop them! Please rid this sacred burial ground of the kobold.",
-    "name": "Candle to the Grave",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

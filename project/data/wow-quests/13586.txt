@@ -1,7 +1,0 @@
-{
-    "_id": "13586",
-    "description": "Our efforts in containing the destruction don't appear to be quite enough.  I fear we're going to need aid from beyond the waking world.Twilight cultists inside the Earthshatter Cavern to the east have opened a gateway to a nightmare-infested section of the Emerald Dream.  They hold a green dragon prisoner named Thessera there.Go through the nightmare portal and free her.  She will be a powerful ally.",
-    "name": "The Emerald Dream",
-    "requires_level": 13,
-    "zone": "Darkshore"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "14231",
-    "description": "",
-    "name": "Useless quest record",
-    "requires_level": 10,
-    "zone": "Azshara"
-}

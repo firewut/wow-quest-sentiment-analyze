@@ -1,7 +1,0 @@
-{
-    "_id": "25584",
-    "description": "It'll be crucial to reclaim each of the ancients' shrines, <name>.Follow the road west of the Verdant Thicket, into Wolf's Run.We have operatives stationed there.  Aid them in any way that you can and work your way to the first shrine.The wolf god was known to the elves as Goldrinn and to the orcs as Lo'Gosh.  He will be a fierce ally in our fight against the enemy.",
-    "name": "The Return of the Ancients",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

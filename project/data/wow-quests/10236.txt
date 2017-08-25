@@ -1,7 +1,0 @@
-{
-    "_id": "10236",
-    "description": "I can't believe I left Booty Bay to come to Outland.  My cousin Screed Luckheed promised me I would make a fortune, but instead he flew off in his zeppelin and left me here to try to scrape a living out of this mine.  How am I suppose to make a living here with helboars and demons and fel orcs attacking all the time?  My shredder here was broken yesterday and the parts I need to fix it were stolen by fel orcs.  They took the parts into the fissure to the southwest and may have dropped them there.",
-    "name": "Outland Sucks!",
-    "requires_level": 58,
-    "zone": "Hellfire Peninsula"
-}

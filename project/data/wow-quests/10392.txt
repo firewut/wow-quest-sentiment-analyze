@@ -1,8 +1,0 @@
-{
-    "_id": "10392",
-    "description": "You are an honor to us, <name>. But now we must strike before the Legion recovers! To the north of Thrallmar lies Invasion Point: Annihilator. It houses a warp-portal through which the Legion draws its reinforcements. You must overload that portal - and blast it back to the abyss it came from. The portal's activation key will be held by the Point's commander - Warbringer Arix'Amal. Slay him. Take the key. Use it on the portal and do what must be done. May the warchief's blessings be with you.   ",
-    "name": "Doorway to the Abyss",
-    "requires_level": 58,
-    "side": "horde",
-    "zone": "Hellfire Peninsula"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "26368",
-    "description": "There's more of this curious venom to be had if Shadra's being summoned.Don't look so surprised... the Forsaken have studied these lands before, and we've encountered the venom queen at least once. Her toxins have proven quite useful in the past.They'll prove useful to the Horde once more, too. Be a dear and fetch me as much poison as you can from the spawn of Shadra that lurk in the cave on the summit... I'm sure you'll be covered in it anyway.",
-    "name": "Venomous Secrets",
-    "requires_level": 31,
-    "zone": "The Hinterlands"
-}

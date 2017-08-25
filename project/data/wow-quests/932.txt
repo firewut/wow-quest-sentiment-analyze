@@ -1,8 +1,0 @@
-{
-    "_id": "932",
-    "description": "I must warn you, <name>, this matter must stay between us. The satyr are enough of an embarrassment to us already, and this one is much too close to home.He is called Lord Melenas. He resides in the nearby cave of Fel Rock, to the north, where he has gathered a large group of grell warriors. His heart is black as night, and he plots something most foul.You must find him within his nearby cave just to the north of here, and bring me his head.",
-    "name": "Twisted Hatred",
-    "requires_level": 4,
-    "side": "alliance",
-    "zone": "Teldrassil"
-}

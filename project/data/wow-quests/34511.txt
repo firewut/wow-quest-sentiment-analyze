@@ -1,7 +1,0 @@
-{
-    "_id": "34511",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Tracking Event: Ogre Drag",
-    "zone": "Quests"
-}

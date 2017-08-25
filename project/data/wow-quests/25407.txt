@@ -1,7 +1,0 @@
-{
-    "_id": "25407",
-    "description": "The Sentinels make up the bulk of our forces here, but a well-rounded night elf army requires more than just night elves. The creatures of this forest, our ancestral home, have protected us for centuries. We simply need to rally them.Take this whistle. Our allies know this sound, and you'll be using it to recall them.Before you start gathering creatures, I'd like you to recall a few of our wisps, just for practice. You can find them just outside the fortress, among the trees.",
-    "name": "Forces of Nature: Wisps",
-    "requires_level": 35,
-    "zone": "Feralas"
-}

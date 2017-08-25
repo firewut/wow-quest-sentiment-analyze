@@ -1,7 +1,0 @@
-{
-    "_id": "28791",
-    "description": "Have you ever seen a goblin, <name>? They're wretched little green-skinned monsters that love only two things: gold and themselves.The Blackrock orcs have enlisted the aid of goblin assassins to kill our soldiers. If you look to the field in the north you can barely make out their silhouettes, sneaking about in the grass.I need you to head out there and kill every goblin that you see. They need to learn that nobody messes with the Alliance!",
-    "name": "They Sent Assassins",
-    "requires_level": 1,
-    "zone": "Elwynn Forest"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "30789",
-    "added_in_patch": 5,
-    "description": "If I am to fight Jahesh, leader of the yaungol mist-shaman, I must have Arconiss by my side. Arconiss' ferocity is second to none.He rests beneath the mists of the Upper Sumprushes. Find his resting place, and then use these torches to awaken him.",
-    "name": "Arconiss",
-    "requires_level": 88,
-    "zone": "Townlong Steppes"
-}

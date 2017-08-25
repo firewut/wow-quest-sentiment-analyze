@@ -1,8 +1,0 @@
-{
-    "_id": "25947",
-    "description": "I recognize this helm, <race>. You were wise to bring it to me.The Alliance have a special unit, trained and equipped to explore and fight beneath the sea.It would seem that they are in this region to do more than just defend against our attack.There must be more of these down here, and if you can find them it could turn things around for the Vanguard.",
-    "name": "Finders, Keepers",
-    "requires_level": 80,
-    "side": "horde",
-    "zone": "Kelp'thar Forest"
-}

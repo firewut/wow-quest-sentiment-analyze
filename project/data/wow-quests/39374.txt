@@ -1,8 +1,0 @@
-{
-    "_id": "39374",
-    "added_in_patch": 7,
-    "description": "I should warn you that Torok is easily displeased and is hateful of outsiders. Be on your guard.\r\n\r\nWe will seek an audience with him at his tent at the Cliff's Edge. As the Rivermane Emissary here, I am afforded some protection against aggression, but they have made no such promises about you.",
-    "name": "An Audience with Torok",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

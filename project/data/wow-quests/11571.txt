@@ -1,7 +1,0 @@
-{
-    "_id": "11571",
-    "description": "To help, you must learn how to speak the Winterfin dialect. We'll work with the forces of nature and magic to do that.Take this empty conch shell. At the bottom of the watery trench below exists Scalder, an elemental of air and watery fury.Once she is defeated, use the conch upon her remains to capture her magical steam. Return the full conch to me, and I'll imbue my knowledge of the Winterfin tongue into you.Luckily, a friend taught me a water breathing spell, which I will cast upon you.",
-    "name": "Learning to Communicate",
-    "requires_level": 69,
-    "zone": "Borean Tundra"
-}

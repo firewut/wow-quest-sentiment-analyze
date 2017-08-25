@@ -1,7 +1,0 @@
-{
-    "_id": "10715",
-    "description": "So, your Rexxar would have me fashion a poison for him? I'll give him what he desires, but there will be a price. Even for friends, there must be a price. Free things destroy friendships.First, you must venture a short distance to the southwest to the Churning Gulch.Therein mill some of the most poisonous creatures in all of Outland, or anywhere. I speak of the crust bursters, and this poison will require gathering their glands for me.",
-    "name": "Into the Churning Gulch",
-    "requires_level": 65,
-    "zone": "Blade's Edge Mountains"
-}

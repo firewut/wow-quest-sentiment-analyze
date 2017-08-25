@@ -1,8 +1,0 @@
-{
-    "_id": "25271",
-    "description": "The beasts you see here, they're no longer my brothers from Gilneas. They've been corrupted by some kind of madness, and they've taken over the shrine.They came when the Twilight's Hammer arrived in Hyjal, and they howl the name of some blasphemous mockery of our beloved Goldrinn. Forget about me - destroy these vandals before they continue to defile the shrine.As you destroy them, look for the incense they carry and bring me some samples.",
-    "name": "Goldrinn's Ferocity",
-    "requires_level": 80,
-    "side": "alliance",
-    "zone": "Mount Hyjal"
-}

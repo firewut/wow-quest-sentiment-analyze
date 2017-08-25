@@ -1,7 +1,0 @@
-{
-    "_id": "26881",
-    "description": "There's something sinister going on within this place, <name>. We fear that the rumors of the Twilight's Hammer in Blackfathom Deeps are true.I sent Sentinel Aluwyn, one of our best scouts, further in to investigate the matter, but she hasn't returned.Seek her out. If she's still alive, find out all that she's learned.",
-    "name": "In Search of Aluwyn",
-    "requires_level": 20,
-    "zone": "Blackfathom Deeps"
-}

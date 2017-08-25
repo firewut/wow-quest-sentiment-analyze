@@ -1,7 +1,0 @@
-{
-    "_id": "2752",
-    "description": "Orokk sees the eagerness in your eyes, <name>. Like a sponge you soak in the wisdom of the Omosh.Three lessons I shall teach!Return to the anvil, soak in the heat of the forge, create for Orokk four bronze battleaxes and four bronze warhammers. Only then will you learn of the iron pauldron.",
-    "name": "On Iron Pauldrons",
-    "requires_level": 32,
-    "zone": "Blacksmithing"
-}

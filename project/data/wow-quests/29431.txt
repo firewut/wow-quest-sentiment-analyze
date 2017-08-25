@@ -1,7 +1,0 @@
-{
-    "_id": "29431",
-    "description": "There's something wrong with my friend, Edgar. Normally, he loves the Hallow's End festivities, but he's been sullen and reclusive lately.He spends all his time in the Broken Tusk in Orgrimmar drinking with the orcs. Would you mind stopping by and seeing if there's anything you can do to cheer him up?",
-    "name": "A Friend in Need",
-    "requires_level": 10,
-    "zone": "Hallow's End"
-}

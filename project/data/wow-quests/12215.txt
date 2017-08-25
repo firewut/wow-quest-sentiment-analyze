@@ -1,8 +1,0 @@
-{
-    "_id": "12215",
-    "description": "As if we didn't have enough to concern ourselves with....With the present food crisis, we find ourselves competing for food with the local worgs. The situation is becoming more dire, and I fear that if we don't address the issue immediately we'll soon find ourselves with nothing to hunt.Scour the forest, <race>. Kill any graymist you find. Recent reports have sighted a concentration of them on the other side of the river west of here.",
-    "name": "Them or Us!",
-    "requires_level": 73,
-    "side": "alliance",
-    "zone": "Grizzly Hills"
-}

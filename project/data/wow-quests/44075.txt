@@ -1,8 +1,0 @@
-{
-    "_id": "44075",
-    "added_in_patch": 7,
-    "description": "To find the essence of ferocity, you must seek a creature who has slain thousands, and is revered by even the gods.I speak of none other than the wolf, Fenryr, whom you can find hunting in the eternal forests of the Halls of Vallor.",
-    "name": "Essence of Ferocity",
-    "requires_level": 103,
-    "zone": "Druid Campaign"
-}

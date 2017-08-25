@@ -1,8 +1,0 @@
-{
-    "_id": "31377",
-    "added_in_patch": 5,
-    "description": "Darkness enshrouds the Temple of the Jade Serpent, and Yu'Lon's priests beseech us for aid.They hold the sha in check, but just barely.You may be able to turn the tide, <class>.",
-    "name": "Attack At The Temple of the Jade Serpent",
-    "requires_level": 90,
-    "zone": "Quests"
-}

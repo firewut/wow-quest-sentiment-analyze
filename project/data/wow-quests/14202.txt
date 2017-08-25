@@ -1,8 +1,0 @@
-{
-    "_id": "14202",
-    "description": "All these cruddy ancient ruins have to be bulldozed if we're ever to see Azshara's full potential. Look on my map here - you see Lake Mennar, to the East? I'll tell you what I see: a future rocket fuel depot!But we need an accurate lay of the land before we can clearcut, bulldoze, landfill, and pave over that lake. All of my surveyors have been spooked off by the oogly-boogleys haunting that area. Escort one of my Jr. grade surveyors to the area and take readings from the equipment that's been set up.",
-    "name": "Survey the Lakeshore",
-    "requires_level": 10,
-    "side": "horde",
-    "zone": "Azshara"
-}

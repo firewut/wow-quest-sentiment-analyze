@@ -1,8 +1,0 @@
-{
-    "_id": "26288",
-    "description": "South of here is an area of Westfall known as the Dust Plains. From what we know the gnolls of the region have made the Dust Plains their unofficial capital. As with any capital, there exists a leader at the heart. If we are to put an end to these attacks, we must track down the gnoll in charge and end him.Venture forth into the Dust Plains, find the gnoll leader, Jango Spothide, and kill him. Take out any other gnolls that get in your way.",
-    "name": "Jango Spothide",
-    "requires_level": 11,
-    "side": "alliance",
-    "zone": "Westfall"
-}

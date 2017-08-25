@@ -1,8 +1,0 @@
-{
-    "_id": "13878",
-    "description": "Help me, <class>! Piggy men come burn stables - fire! Fire!<Dorak wails incoherently before you can settle him down.>Wolves still chained inside. Someone's got to save the wee wolves!  ",
-    "name": "Through Fire and Flames",
-    "requires_level": 9,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

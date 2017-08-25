@@ -1,8 +1,0 @@
-{
-    "_id": "43277",
-    "added_in_patch": 7,
-    "description": "We are very fortunate to have come across Archon Torias.\r\n\r\nHis knowledge will be invaluable as we improve our defenders and fortify Netherlight Temple.",
-    "name": "Tech It Up A Notch",
-    "requires_level": 101,
-    "zone": "Priest Campaign"
-}

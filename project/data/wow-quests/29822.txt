@@ -1,9 +1,0 @@
-{
-    "_id": "29822",
-    "added_in_patch": 5,
-    "description": "Curse these furry pests! Kill one, and two more rise in its place...Nothing has changed, <name>. Orders are orders, no matter how few of us stand and regardless of the odds.I have plans to make and problems to solve.I want you to get out there and learn the lay of the land. Don't return until you have something useful to report.And silence that yammering fool while you're out there!Dismissed!",
-    "name": "Lay of the Land",
-    "requires_level": 85,
-    "side": "horde",
-    "zone": "The Jade Forest"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10365",
-    "description": "You've done much better than any of us anticipated.  Manaforge Ara is the last of Kael's working manaforges.  You'll find it northwest of here, though you're likely to have to do some circumnavigating to get to it.  We want you to shut it down.The last access crystal is in the possession of Overseer Azarad.  This is Kael's very last source of energy as far as we know, so expect heavy opposition.  I'd bring a couple of friends along if I were you.Hmm... Azarad.  What an odd name for a sin'dorei.",
-    "name": "Shutting Down Manaforge Ara",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

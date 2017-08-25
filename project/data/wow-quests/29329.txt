@@ -1,7 +1,0 @@
-{
-    "_id": "29329",
-    "description": "With the Stonemother's blessing, I can take us to where Go'el is being held.We must be careful. The Twilight's Hammer has agents all around. You help me hold them off while I attempt to get through to Go'el!Speak with me when you are ready, and I will take you to him.",
-    "name": "Elemental Bonds: Patience",
-    "requires_level": 85,
-    "zone": "Quests"
-}

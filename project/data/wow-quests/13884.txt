@@ -1,7 +1,0 @@
-{
-    "_id": "13884",
-    "description": "Lord Magmathar's minions must first be dealt with if we're to retake this area and put a stop to the fiery destruction of the forest.The lava ragers on the flow to the north are strengthened by being on their own element. I fear that on your own, you won't have much chance against them.When you are ready, speak to me again, and I will summon one of my own to assist you.",
-    "name": "Put Out The Fire",
-    "requires_level": 21,
-    "zone": "Ashenvale"
-}

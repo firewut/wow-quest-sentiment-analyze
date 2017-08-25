@@ -1,7 +1,0 @@
-{
-    "_id": "27644",
-    "description": "Eoin's one of the twins. He's got a penchant for the drink. You'll likely be findin' him over by the old well - the ale stores were in a building there.Mind making him to pay his worrying sister a visit? Shouldn't take much convincin' if you can get to the ale first.",
-    "name": "Eoin Dunwald",
-    "requires_level": 84,
-    "zone": "Twilight Highlands"
-}

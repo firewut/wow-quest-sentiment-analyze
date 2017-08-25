@@ -1,7 +1,0 @@
-{
-    "_id": "26753",
-    "description": "<In front of you, the bare earth slopes down towards the dark entrance to the crypts.><You can feel the tug of the lightforged artifact urging you towards it. Perhaps the other piece is down there?>",
-    "name": "The Halls of the Dead",
-    "requires_level": 22,
-    "zone": "Duskwood"
-}

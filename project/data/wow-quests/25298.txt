@@ -1,7 +1,0 @@
-{
-    "_id": "25298",
-    "description": "<Rio said that the draught would not remain effective for long.><You'd better hurry into the hovel and administer it to as many Twilight Servitors as you can find.>",
-    "name": "Free Your Mind, the Rest Follows",
-    "requires_level": 80,
-    "zone": "Mount Hyjal"
-}

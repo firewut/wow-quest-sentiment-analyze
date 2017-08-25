@@ -1,8 +1,0 @@
-{
-    "_id": "40864",
-    "added_in_patch": 7,
-    "description": "Now that we got this baby running, let's give it some cool abilities.When I was fixing Reaves up, I installed a module port onto his motherboard. This will allow us to upload anything we want.I'll teach you one of my module designs and you install it on Reaves.",
-    "name": "Modular Modifications",
-    "requires_level": 102,
-    "zone": "Engineering"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "10913",
-    "description": "Is there nothing that can be done to stem the tide of corruption? My soldiers have been battling the Auchenai for days now with no end in sight. Each casualty, whether Auchenai or Sha'tar, is snatched from the battlefield - their souls lifted and taken to parts unknown.I will not have it! A proper burial is out of the question but those fiends will not have their souls! Take this torch and travel to the field of battle, directly east of here. Burn every corpse you see! We will not fuel their rituals.",
-    "name": "An Improper Burial",
-    "requires_level": 63,
-    "zone": "Terokkar Forest"
-}

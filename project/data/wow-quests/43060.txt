@@ -1,8 +1,0 @@
-{
-    "_id": "43060",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Highmountain Salmon",
-    "requires_level": 103,
-    "zone": "Monk Campaign"
-}

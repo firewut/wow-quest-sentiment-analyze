@@ -1,8 +1,0 @@
-{
-    "_id": "40320",
-    "added_in_patch": 7,
-    "description": "You are the one that Toryl was bellowing about? Perhaps you can help me.When I set out to search for Throndyr, I was not alone. Three vrykul loyal to Throndyr also accompanied me. As you can plainly see, I now stand alone.Find my kin, <name>.I cannot bear to think that they also share Throndyr's fate.",
-    "name": "Band of Blood Brothers",
-    "requires_level": 110,
-    "zone": "Suramar"
-}

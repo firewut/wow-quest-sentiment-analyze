@@ -1,7 +1,0 @@
-{
-    "_id": "13278",
-    "description": "Reports of a powerful zombie at the death gate have reached my ears, <class>.We cannot allow a potential threat such as this to go unchallenged. Any information you are able to glean from engaging it will be better than what we know now.Go to the western chamber of the gate and find this creature. Fight him, and find a weakness we might exploit.",
-    "name": "Coprous the Defiled",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

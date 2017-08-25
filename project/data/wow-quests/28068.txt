@@ -1,7 +1,0 @@
-{
-    "_id": "28068",
-    "description": "King Anduin Wrynn has requested that any able-bodied adventurer head to Blackrock Depths, northwest of Morgan's Vigil, immediately!The Dark Iron dwarves pose a serious threat to the citizens of Redridge! If you so choose, head to Blackrock Depths and speak with Morgan, who has returned from her extended absence and wishes to enact her vengeance on the Dark Iron nation.",
-    "name": "Adventurers Wanted: Blackrock Depths",
-    "requires_level": 49,
-    "zone": "Blackrock Depths"
-}

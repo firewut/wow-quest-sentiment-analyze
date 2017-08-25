@@ -1,7 +1,0 @@
-{
-    "_id": "11996",
-    "description": "<Class>, I know these tuskarr will ask you to do many favors for them, but you must get to Agmar's Hammer with all due haste!The upheaval in the land this morning is sure to have broader repercussions than just inconveniencing the natives.The Hammer is westward past the intersection of the road leading north out of the harbor. Archmage Aethas Sunreaver himself will be expecting you!",
-    "name": "Your Presence is Required at Agmar's Hammer",
-    "requires_level": 71,
-    "zone": "Dragonblight"
-}

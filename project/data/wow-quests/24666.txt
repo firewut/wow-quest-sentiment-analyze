@@ -1,7 +1,0 @@
-{
-    "_id": "24666",
-    "description": "This ledger is full of locations, and I need you to investigate and take action, pal. This has gone on long enough.Here's an entry I want you to check out: it looks like it's in the Forlorn Woods of Crystalsong, northwest of the Mirror of Twilight. Get out there and rough 'em up.Oh, and if you see something big and dangerous enough that it needs destroying, toss this bomb at it.",
-    "name": "Crushing the Crown",
-    "requires_level": 71,
-    "zone": "Love is in the Air"
-}

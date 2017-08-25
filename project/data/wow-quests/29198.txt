@@ -1,7 +1,0 @@
-{
-    "_id": "29198",
-    "description": "Malfurion is working on a miracle for us. He believes that, in this time of peril, he can resurrect Malorne to protect the Sanctuary. I have faith in him.In the meantime, we need to hold this perimeter. Stand by, and make sure no harm befalls my fellow arch druid.",
-    "name": "The Sanctuary Must Not Fall",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

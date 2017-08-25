@@ -1,7 +1,0 @@
-{
-    "_id": "12584",
-    "description": "We know that Kolramas, the crashed necropolis to the southeast, was carrying a large amount of an ore known as saronite when the trolls shot it down.My scouts tell me that much of the saronite is strewn about within the innards of that thing.Eitrigg and his friends back at The Argent Stand want a bunch of the stuff so that they can study it.I want you to head in there and see if you can collect enough for them.",
-    "name": "Pure Evil",
-    "requires_level": 74,
-    "zone": "Zul'Drak"
-}

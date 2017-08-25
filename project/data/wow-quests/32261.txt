@@ -1,8 +1,0 @@
-{
-    "_id": "32261",
-    "added_in_patch": 5.2,
-    "description": "",
-    "name": "Alliance Quest Choice: PvP",
-    "requires_level": 90,
-    "zone": "Quests"
-}

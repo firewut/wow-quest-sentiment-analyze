@@ -1,7 +1,0 @@
-{
-    "_id": "11988",
-    "description": "Brann's journal mentions that he used a runic keystone to illuminate the important runes on the plate he discovered. Without the keystone, the plate's contents would be little better than gibberish.At the end of Brann's last entry, he describes the iron dwarf defenders seizing the keystone from him, shattering it, and dividing it among themselves. Before we can decipher the runed plate, we must hunt down the fragments. Any of the dwarves within Thor Modan or the buildings around it may carry fragments.",
-    "name": "The Runic Keystone",
-    "requires_level": 73,
-    "zone": "Grizzly Hills"
-}

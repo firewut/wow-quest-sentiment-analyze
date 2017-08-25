@@ -1,7 +1,0 @@
-{
-    "_id": "29137",
-    "description": "Lava worms are bursting through the ground behind our lines, breaking our formations and allowing elementals to slip through. You'll find them scattered throughout our entire front to the north, and upon the Ashen Fields further out.Stomp them back into their holes.",
-    "name": "Breach in the Defenses",
-    "requires_level": 85,
-    "zone": "Firelands Invasion"
-}

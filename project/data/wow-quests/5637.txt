@@ -1,7 +1,0 @@
-{
-    "_id": "5637",
-    "description": "Time's come for you to head to Stormwind, <name>. High Priestess Laurena in the Cathedral of Light wants to speak to you. Gotta be somethin' really good or really bad for the High Priestess to want you there personally, but I'm guessin' you've only done well for yourself and it's a good thing that she wants to speak to ya.But don't waste too much time 'round here. I'd head there as soon as you can.",
-    "name": "Desperate Prayer",
-    "requires_level": 10,
-    "zone": "Priest"
-}

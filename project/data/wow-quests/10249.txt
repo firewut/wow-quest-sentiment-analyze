@@ -1,7 +1,0 @@
-{
-    "_id": "10249",
-    "description": "I'm certain that the rocket-chief is going to want to have a word or two with you!If I were you, I wouldn't hesitate to get back to Area 52 and speak with him!",
-    "name": "Back to the Chief!",
-    "requires_level": 67,
-    "zone": "Netherstorm"
-}

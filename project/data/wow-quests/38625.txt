@@ -1,8 +1,0 @@
-{
-    "_id": "38625",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Hook & Sinker",
-    "requires_level": 100,
-    "zone": "Stormheim"
-}

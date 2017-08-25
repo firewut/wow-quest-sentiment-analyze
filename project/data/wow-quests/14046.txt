@@ -1,8 +1,0 @@
-{
-    "_id": "14046",
-    "description": "I'm bound fer that gallows fer sure, mate. That treasure's no good to me now...Unless I can use it ta buy me life. I'll make a deal with ye, <race>. Smash these manacles and I'll tell ye where me treasure's buried.Oh, me word is good, friend. I used ta be a real Baron, ye know.",
-    "name": "The Baron's Demands",
-    "requires_level": 14,
-    "side": "horde",
-    "zone": "Northern Barrens"
-}

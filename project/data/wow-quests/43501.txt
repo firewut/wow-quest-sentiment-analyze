@@ -1,8 +1,0 @@
-{
-    "_id": "43501",
-    "added_in_patch": 7,
-    "description": "My apologies for the unannounced intrusion, <name>. Do you have a moment?The power within your weapon has grown exponentially as you have fought the Legion, but I cannot help but wonder if there is something... more... hidden away within. Perhaps even a new form entirely!The very thought demands we find out for sure.The ancient blue dragon in Azsuna known as Senegos lays dying and is key to our journey. You must aid him - I will meet you in his domain as soon as I am able.",
-    "name": "The Power Within",
-    "requires_level": 110,
-    "zone": "Artifact"
-}

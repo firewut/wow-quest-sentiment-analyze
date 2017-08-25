@@ -1,7 +1,0 @@
-{
-    "_id": "9217",
-    "description": "",
-    "name": "More Rotting Hearts",
-    "requires_level": 15,
-    "zone": "Ghostlands"
-}

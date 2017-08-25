@@ -1,8 +1,0 @@
-{
-    "_id": "36145",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Cataclysm 80-83",
-    "requires_level": 80,
-    "zone": "Quests"
-}

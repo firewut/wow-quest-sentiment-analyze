@@ -1,9 +1,0 @@
-{
-    "_id": "36163",
-    "added_in_patch": 6,
-    "description": "Ahhh, just the <race> I were hopin' ta see, my dear.Yrel stopped by the garrison earlier lookin' fer ya. Such a lovely lass, that one! Asked me all about ma family back home when I be feelin' homesick. Bless her. Anyway, what were I goin' on about ag'in?Oh! She asked if ye'd meet her at Elodor to the east.She's been invited by the draenei council ta face the Exarch trials, whatever those may be.Anyway, ye'd better scooch!",
-    "name": "Garrison Campaign: The Exarch's Call",
-    "requires_level": 100,
-    "side": "alliance",
-    "zone": "Garrison Campaign"
-}

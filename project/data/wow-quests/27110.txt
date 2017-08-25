@@ -1,7 +1,0 @@
-{
-    "_id": "27110",
-    "description": "This madness must come to an end. The age of the immortals has long since passed. Destroy the guardians surrounding the five pylons to lower the force field. When this is done, destroy Immol'thar. With the Prince's power greatly reduced from the demon's demise, attack and end him as well. Lay the spirits of this city to rest, adventurer, and make the Prince pay for his wrongdoings.",
-    "name": "The Madness Within",
-    "requires_level": 39,
-    "zone": "Dire Maul"
-}

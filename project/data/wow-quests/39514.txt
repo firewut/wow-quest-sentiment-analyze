@@ -1,9 +1,0 @@
-{
-    "_id": "39514",
-    "added_in_patch": 6.2,
-    "description": "Ol' Grommash Hellscream found a way to weaponize the gronn. Vol'jin wants to know how.Travel to the Iron Front and kill one of them big beasties, then bring back its war harness. You might be needin' help.",
-    "name": "Harnessing Their Power",
-    "requires_level": 100,
-    "side": "horde",
-    "zone": "Tanaan Jungle"
-}

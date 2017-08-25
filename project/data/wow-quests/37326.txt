@@ -1,9 +1,0 @@
-{
-    "_id": "37326",
-    "added_in_patch": 6,
-    "description": "We need allies desperately if we want a chance at surviving until tomorrow. We've made contact with one of the outcast arakkoa, but he refused to discuss alliances without speaking to you first.He called himself Dusk-Seer Irrizar. You should speak with him, commander.You can find him just southwest of Veil Terokk.",
-    "name": "Befriending the Locals",
-    "requires_level": 96,
-    "side": "horde",
-    "zone": "Spires of Arak"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "35262",
-    "added_in_patch": 6,
-    "description": "",
-    "name": "Service of Rangari Kaalya",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

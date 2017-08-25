@@ -1,8 +1,0 @@
-{
-    "_id": "31605",
-    "added_in_patch": 5,
-    "description": "We have just intercepted a message from an adjunct on Zan'vess. Yaungol laborers there have unearthed a paragon in the amber quarry on the back side of the island.Get there immediately and free him before the Zan'thik destroy him!",
-    "name": "The Zan'thik Dig",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

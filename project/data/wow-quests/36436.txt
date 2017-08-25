@@ -1,9 +1,0 @@
-{
-    "_id": "36436",
-    "added_in_patch": 6,
-    "description": "There may be more to this aberrant growth than it seems, but we will need to clear the way a bit before we can get to the bottom of this, yes?I suggest clearing out some of the angrier defenders to be on the safe side.",
-    "name": "Plant Pruning",
-    "requires_level": 93,
-    "side": "alliance",
-    "zone": "Gorgrond"
-}

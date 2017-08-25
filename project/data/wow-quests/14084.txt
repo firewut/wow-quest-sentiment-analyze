@@ -1,7 +1,0 @@
-{
-    "_id": "14084",
-    "description": "This pamphlet advertising riding training and mount purchases was sent from Binjy Featherwhistle.Binjy can be found at Steelgrill's Depot, just northeast of Kharanos in Dun Morogh.",
-    "name": "Learn to Ride in Dun Morogh",
-    "requires_level": 20,
-    "zone": "Dun Morogh"
-}

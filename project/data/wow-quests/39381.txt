@@ -1,8 +1,0 @@
-{
-    "_id": "39381",
-    "added_in_patch": 7,
-    "description": "We should leave this place while we have a chance. The Bloodtotem are amassing at their village to the north, and I believe they intend to kill my people.\r\n\r\nLet me know when you are ready to go, and I can take us to a safe place quickly.",
-    "name": "Rock Troll in a Hard Place",
-    "requires_level": 98,
-    "zone": "Highmountain"
-}

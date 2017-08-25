@@ -1,9 +1,0 @@
-{
-    "_id": "35068",
-    "added_in_patch": 6,
-    "description": "This is the backbone of the army we intend to send against Garrosh Hellscream and Grommashar.If they won't surrender, we have no choice but to eliminate the Warsong.",
-    "name": "If They Won't Surrender...",
-    "requires_level": 98,
-    "side": "alliance",
-    "zone": "Nagrand"
-}

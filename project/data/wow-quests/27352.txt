@@ -1,7 +1,0 @@
-{
-    "_id": "27352",
-    "description": "As the Scourge swept through Stratholme like a plague, the Knights of the Silver Hand manufactured holy water to use against the invaders. They stored it inside small crates along with other vital supplies, and distributed them throughout the city. Unfortunately, the citizens turned into Scourge reinforcements before the supplies could ever be used!These supply crates will prove extremely useful to our efforts. Bring me a vial of Stratholme Holy Water, we need to have it replicated in mass quantities.",
-    "name": "Liquid Gold",
-    "requires_level": 46,
-    "zone": "Stratholme"
-}

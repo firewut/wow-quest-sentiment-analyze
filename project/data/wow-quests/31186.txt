@@ -1,8 +1,0 @@
-{
-    "_id": "31186",
-    "added_in_patch": 5,
-    "description": "<Dog whines as best as a lion seal can, feebly lifting one flipper toward his massive jaws.He's hungry.The Shelf of Mazu is covered in rockshell makrura that should make a fine meal for him.>",
-    "name": "Dog Food",
-    "requires_level": 89,
-    "zone": "Dread Wastes"
-}

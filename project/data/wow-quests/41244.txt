@@ -1,8 +1,0 @@
-{
-    "_id": "41244",
-    "added_in_patch": 7,
-    "description": "",
-    "name": "Lively Highmountain Salmon",
-    "requires_level": 110,
-    "zone": "Fishing"
-}

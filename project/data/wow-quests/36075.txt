@@ -1,8 +1,0 @@
-{
-    "_id": "36075",
-    "added_in_patch": 6,
-    "description": "This horn is proof of your strength at slaying ogron and your gladiator friend has born witness!Take the horn back to Jonaa and claim your accolades!",
-    "name": "Proof of Strength: Ogron Horn",
-    "requires_level": 92,
-    "zone": "Gorgrond"
-}

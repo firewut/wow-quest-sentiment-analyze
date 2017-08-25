@@ -1,8 +1,0 @@
-{
-    "_id": "32852",
-    "added_in_patch": 5.3,
-    "description": "An entirely ordinary-looking shovel. The handle is carved with an ornate script: \"The Digmaster's Earthblade\".On the flipside of the handle, however, is a smaller label, written in simpler text:RETURN TO BRAWLER'S GUILD",
-    "name": "The Digmaster's Earthblade",
-    "requires_level": 100,
-    "zone": "Brawler's Guild"
-}

@@ -1,7 +1,0 @@
-{
-    "_id": "28124",
-    "description": "<name>, while you and the pridelings were taking care of the skymaster, Lakota Windsong came by. She told me to tell you to meet her east at the Twilight Bulwark.That must be where they're holding Magatha Grimtotem.",
-    "name": "On to the Bulwark",
-    "requires_level": 38,
-    "zone": "Thousand Needles"
-}

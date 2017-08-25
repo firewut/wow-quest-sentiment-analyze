@@ -1,7 +1,0 @@
-{
-    "_id": "13364",
-    "description": "Just this morning, my scouts informed me of a Cult of the Damned procession leaving from Icecrown Citadel to the Cathedral of Darkness, bearing an artifact.And now I learn that it might be Arthas's own heart... a thing containing the last bit of his remaining humanity.This is a sign of the Light.  As long as such an artifact exists, there is a chance that Arthas Menethil can become a man again!Meet me at the cathedral's entrance.  Be sure to bring a cultist's hood -- we're going incognito.",
-    "name": "Tirion's Gambit",
-    "requires_level": 77,
-    "zone": "Icecrown"
-}

@@ -1,8 +1,0 @@
-{
-    "_id": "33001",
-    "added_in_patch": 5.4,
-    "description": "[TEMP TEXT] This scroll outlines the Technique of the Armsmaster - a technique which I haven't seen used in years. I can fill in the blanks in the scroll for you, but without experience, this scroll is nothing but words on paper.I have met many enemies in my day, but a few stood out as true masters of their weapons. These armsmasters died long ago, but with the assistance of the xxx, you can fight them too.",
-    "name": "The Armsmasters",
-    "requires_level": 90,
-    "zone": "Warrior"
-}

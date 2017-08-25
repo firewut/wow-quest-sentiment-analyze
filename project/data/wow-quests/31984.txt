@@ -1,8 +1,0 @@
-{
-    "_id": "31984",
-    "added_in_patch": 5,
-    "description": "Well done, well done indeed! If you would, please report to Miss Audrey Burnhep in Stormwind.Oh, and send her my regards. She's a beautiful young woman that could benefit from the company of an accomplished fighter such as myself.",
-    "name": "A Brief Reprieve",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}

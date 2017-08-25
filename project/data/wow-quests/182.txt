@@ -1,8 +1,0 @@
-{
-    "_id": "182",
-    "description": "The trolls're acting up.  More than usual, I'd say.  We've seen them put together war parties before, but this time it's... different.What matters most, however, is the continued protection of Anvilmar.  I've no intention to let these trolls flank Anvilmar while its attention is turned towards troggs.  Go thin their ranks a bit.  They need to know that we're still not without defenses.",
-    "name": "The Troll Menace",
-    "requires_level": 1,
-    "side": "alliance",
-    "zone": "Coldridge Valley"
-}

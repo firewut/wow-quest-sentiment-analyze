@@ -1,8 +1,0 @@
-{
-    "_id": "31970",
-    "added_in_patch": 5,
-    "description": "You think yourself ready to challenge Pandaria? You truly believe that you can defeat the most powerful tamers in all of Azeroth?I shall be the judge of that notion, <race>. Face me atop the Vir'naal Dam in Uldum, and we shall see if you are truly ready.",
-    "name": "Grand Master Obalis",
-    "requires_level": 1,
-    "zone": "Battle Pets"
-}
