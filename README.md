@@ -2,7 +2,11 @@
 
 ## General Info
 
+The project analyzed sentimential value of quests from [World of Warcraft](https://worldofwarcraft.com/en-us/)
+
 Quests were Fetched from [http://www.wowdb.com](http://www.wowdb.com)
+
+![Screenshot](screenshots/screenshot_1.png)
 
 ## Installation instructions
 
